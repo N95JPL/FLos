@@ -66,124 +66,136 @@ function Climate() {
             );
           })}
         </div>
+
         <div className="flex justify-between w-full pr-[100px] pt-10 gap-5">
           <div className="grid grid-cols-3 justify-evenly h-full w-full text-center">
-            <div className="grid grid-row-3 justify-evenly h-full content-center items-center text-center">
-              <div>
-                <div
-                  className="justify-center gap-5 h-[100px] w-[100px] flex-auto items-center  bg-black bg-opacity-40 text-4xl text-white active:text-gray-100  rounded-lg active:bg-opacity-75 transition active:scale-95"
-                  onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
-                      type: "passUp",
-                      press: true,
-                    })
-                  }
-                  onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
-                      type: "passUp",
-                      press: false,
-                    })
-                  }
-                >
-                  <KeyboardArrowUpIcon
-                    style={{ color: "red" }}
-                    className="temp_icons items-center flex pt-2"
-                  />
+            {/* Left Column -- Passenger */}
+            <div className="bg-gradient-to-br from-gray-600 to-gray-800 rounded-full h-full w-full text-center">
+              <div className="grid grid-row-3 justify-center h-full w-full content-center items-center text-center">
+                <div>
+                  <div
+                    className="justify-center h-[115px] w-[220px] flex-row items-center mb-4 bg-red-900 bg-opacity-30 text-4xl text-white active:text-gray-100 rounded-tr-full rounded-t-full active:bg-opacity-75 transition active:scale-98"
+                    onTouchStart={() =>
+                      window.ipcRenderer.send("action", {
+                        type: "passUp",
+                        press: true,
+                      })
+                    }
+                    onTouchEnd={() =>
+                      window.ipcRenderer.send("action", {
+                        type: "passUp",
+                        press: false,
+                      })
+                    }
+                  >
+                    <KeyboardArrowUpIcon
+                      style={{ color: "red" }}
+                      className=" temp_icons items-center flex pt-2"
+                    />
+                  </div>
                 </div>
-              </div>
-              <div className="justify-center content-center font-bold text-4xl flex h-[30px] w-[100px] mt-5 mb-7 text-center">
-                {passTempVar === undefined ? (
-                  "--°C"
-                ) : passTempVar === "HIGH" ? (
-                  <FaFire color="red" />
-                ) : passTempVar === "LOW" ? (
-                  <FaSnowman color="skyblue" />
-                ) : (
-                  passTempVar + "°C"
-                )}
-              </div>
-              <div>
-                <div
-                  className="justify-center gap-5 h-[100px] w-[100px] flex-auto items-center  bg-black bg-opacity-40 text-4xl text-white active:text-gray-100  rounded-lg active:bg-opacity-75 transition active:scale-95"
-                  onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
-                      type: "passUp",
-                      press: true,
-                    })
-                  }
-                  onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
-                      type: "passUp",
-                      press: false,
-                    })
-                  }
-                >
-                  <KeyboardArrowDownIcon
-                    style={{ color: "blue" }}
-                    className="temp_icons items-center flex pt-2"
-                  />
+                <div>
+                  <div className="justify-center content-center font-bold text-4xl flex h-[30px] w-full mt-1 mb-3 text-center">
+                    {passTempVar === undefined ? (
+                      "--°C"
+                    ) : passTempVar === "HIGH" ? (
+                      <FaFire color="red" />
+                    ) : passTempVar === "LOW" ? (
+                      <FaSnowman color="skyblue" />
+                    ) : (
+                      passTempVar + "°C"
+                    )}
+                  </div>
+                </div>
+                <div>
+                  <div
+                    className="justify-center h-[115px] w-[220px] flex-row items-center mt-4 bg-blue-900 bg-opacity-30 text-4xl text-white active:text-gray-100 rounded-br-full rounded-b-full active:bg-opacity-75 transition active:scale-98"
+                    onTouchStart={() =>
+                      window.ipcRenderer.send("action", {
+                        type: "passUp",
+                        press: true,
+                      })
+                    }
+                    onTouchEnd={() =>
+                      window.ipcRenderer.send("action", {
+                        type: "passUp",
+                        press: false,
+                      })
+                    }
+                  >
+                    <KeyboardArrowDownIcon
+                      style={{ color: "blue" }}
+                      className="temp_icons items-center flex pt-2"
+                    />
+                  </div>
                 </div>
               </div>
             </div>
-            <div className="grid justify-evenly h-full text-center">
-              <div>TEST</div>
+            {/* Center Column */}
+            <div className="grid justify-center w-full h-full text-center align-middle ">
+              <div className="content-center place-self-center h-[60px] font-bold text-4xl justify-center gap-5 w-[140px] flex items-center bg-gradient-to-br from-gray-600 to-gray-800 bg-opacity-40 text-white rounded-lg">
+                {interiorTempVar}°C
+              </div>
             </div>
-            <div className="grid grid-row-3 justify-evenly h-full content-center items-center text-center">
-              <div>
-                <div
-                  className="justify-center gap-5 h-[100px] w-[100px] flex-auto items-center  bg-black bg-opacity-40 text-4xl text-white active:text-gray-100  rounded-lg active:bg-opacity-75 transition active:scale-95"
-                  onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
-                      type: "driverUp",
-                      press: true,
-                    })
-                  }
-                  onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
-                      type: "driverUp",
-                      press: false,
-                    })
-                  }
-                >
-                  <KeyboardArrowUpIcon
-                    style={{ color: "red" }}
-                    className="temp_icons items-center flex pt-2"
-                  />
+            {/* Right Column -- Driver */}
+            <div className="bg-gradient-to-br from-gray-600 to-gray-800 rounded-full h-full w-full text-center">
+              <div className="grid grid-row-3 justify-center h-full content-center items-center text-center">
+                <div>
+                  <div
+                    className="justify-center h-[115px] w-[220px] flex-row items-center mb-4 bg-red-900 bg-opacity-30 text-4xl text-white active:text-gray-100 rounded-tr-full rounded-t-full active:bg-opacity-75 transition active:scale-98"
+                    onTouchStart={() =>
+                      window.ipcRenderer.send("action", {
+                        type: "driverUp",
+                        press: true,
+                      })
+                    }
+                    onTouchEnd={() =>
+                      window.ipcRenderer.send("action", {
+                        type: "driverUp",
+                        press: false,
+                      })
+                    }
+                  >
+                    <KeyboardArrowUpIcon
+                      style={{ color: "red" }}
+                      className=" temp_icons items-center flex pt-2"
+                    />
+                  </div>
                 </div>
-              </div>
-              <div>
-                <div className="justify-center content-center font-bold text-4xl flex h-[30px] w-[100px] mt-5 mb-7 text-center">
-                  {driverTempVar === undefined ? (
-                    "--°C"
-                  ) : driverTempVar === "HIGH" ? (
-                    <FaFire color="red" />
-                  ) : driverTempVar === "LOW" ? (
-                    <FaSnowman color="skyblue" />
-                  ) : (
-                    driverTempVar + "°C"
-                  )}
+                <div>
+                  <div className="justify-center align-middle content-center font-bold text-4xl flex h-[30px] w-full mt-1 mb-3 text-center">
+                    {driverTempVar === undefined ? (
+                      "--°C"
+                    ) : driverTempVar === "HIGH" ? (
+                      <FaFire color="red" />
+                    ) : driverTempVar === "LOW" ? (
+                      <FaSnowman color="skyblue" />
+                    ) : (
+                      driverTempVar + "°C"
+                    )}
+                  </div>
                 </div>
-              </div>
-              <div>
-                <div
-                  className="justify-center gap-5 h-[100px] w-[100px] flex-auto items-center  bg-black bg-opacity-40 text-4xl text-white active:text-gray-100  rounded-lg active:bg-opacity-75 transition active:scale-95"
-                  onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
-                      type: "driverUp",
-                      press: true,
-                    })
-                  }
-                  onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
-                      type: name + "Up",
-                      press: false,
-                    })
-                  }
-                >
-                  <KeyboardArrowDownIcon
-                    style={{ color: "blue" }}
-                    className="temp_icons items-center flex pt-2"
-                  />
+                <div>
+                  <div
+                    className="justify-center h-[115px] w-[220px] flex-row items-center mt-4 bg-blue-900 bg-opacity-30 text-4xl text-white active:text-gray-100 rounded-br-full rounded-b-full active:bg-opacity-75 transition active:scale-98"
+                    onTouchStart={() =>
+                      window.ipcRenderer.send("action", {
+                        type: "driverUp",
+                        press: true,
+                      })
+                    }
+                    onTouchEnd={() =>
+                      window.ipcRenderer.send("action", {
+                        type: "driverUp",
+                        press: false,
+                      })
+                    }
+                  >
+                    <KeyboardArrowDownIcon
+                      style={{ color: "blue" }}
+                      className="temp_icons items-center flex pt-2"
+                    />
+                  </div>
                 </div>
               </div>
             </div>
