@@ -1,44 +1,43 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Jaguar XF - Infotainment System
+## Work in progress
+A Electron-React App to replace the Climate Control Module of my Jaguar XFS
 
-## Available Scripts
+Based off rhysmorgan134/jaguar-xf-canbus-app - Big shoutout to him for all his hard work and assistance!
+### Install
+1) Make sure RPi is running latest version
+2) Install NodeJs: curl -sL https://deb.nodesource.com/setup_18.x | sudo bash -
+3) Install NodeJS: sudo apt install nodejs
+4) Install CanUtils: sudo apt-get -y install can-utils libsocketcan2 libsocketcan-dev
+5) Modify /boot/config.txt to include
+#CAN bus controllers
+dtparam=spi=on
+dtoverlay=mcp2515-can1,oscillator=16000000,interrupt=25
+dtoverlay=mcp2515-can0,oscillator=16000000,interrupt=23
 
-In the project directory, you can run:
 
-### `npm start`
+6) Modify /etc/rc.local to include the next lines **BEFORE** "exit 0"
+sudo /sbin/ip link set can1 up type can bitrate 500000
+sudo /sbin/ip link set can0 up type can bitrate 125000
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+7) Reboot Pi
+8) Download JagOS Repo
+9) run `npm i`
+    issue: This might fail, if it does, follow this:
+    a) Cut SocketCan out of the dependancies in package.json
+    b) run `npm i` again
+    c) Paste SocketCan back in to package.json
+    d) run `npm i` again
+    e) SUCCESS
+10) Run `npm run` + either
+    i) pi64-build - For RPi 4 - 4GB+ (npm run pi64-build)
+    ii) pi32-build - For Rpi 3 or Rpi 4 < 4GB (npm run pi32-build)
+    iii) electron-build - For Ubuntu (Testing ONLY) (npm run electron-build)
+        i) This requires an additional step, see below
+11) Locate the `/dist` folder and run the .AppImage
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+// Local Host vCAN for Testing
+sudo /sbin/ip link set can1 down
+sudo /sbin/ip link set can1 up type can bitrate 125000
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Can also be tested on Ubuntu by running the same commands above but this needs to be ran before loading AppImage:
+`sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e`
