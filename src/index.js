@@ -18,7 +18,7 @@ export let theme = create((set) => ({
   setDarkMode: (darkMode) => set({ darkMode }),
   primaryColor: "sky",
   setPrimaryColor: (primaryColor) => set({ primaryColor }),
-  secondaryColor: "blue",
+  secondaryColor: "pink",
   setSecondaryColor: (secondaryColor) => set({ secondaryColor }),
 }));
 

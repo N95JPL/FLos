@@ -22,7 +22,7 @@ function Climate() {
   const primaryColor = theme((state) => state.primaryColor);
   const primaryColorSet = " from-" + primaryColor + "-600";
   const secondaryColor = theme((state) => state.secondaryColor);
-  const secondaryColorSet = "to-" + secondaryColor + "-800";
+  const secondaryColorSet = "to-" + secondaryColor + "-600";
 
   const topButtons = [
     {

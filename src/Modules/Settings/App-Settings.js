@@ -5,6 +5,10 @@ import SettingsNav from "./Settings-Nav";
 import "../Style.css";
 import { FaCircle } from "react-icons/fa";
 import { theme } from "../../index";
+import Box from "@mui/material/Box";
+import Button from "@mui/material/Button";
+import Typography from "@mui/material/Typography";
+import Modal from "@mui/material/Modal";
 
 let setTheme;
 // eslint-disable-next-line no-unused-vars
@@ -12,9 +16,12 @@ function AppSettings() {
   setTheme = theme();
   const [showModal, setShowModal] = React.useState(false);
   const [colorPicker, setColorPicker] = React.useState("to");
+  const [open, setOpen] = React.useState(false);
+  const handleOpen = () => setOpen(true);
+  const handleClose = () => setOpen(false);
   return (
     <div className="flex h-screen w-max absolute">
-      <div className="transition flex top-10h-10 w-screen fixed">
+      <div className="flex top-10h-10 w-full absolute">
         <SettingsNav />
       </div>
       <div className="h-screen flex w-max items-center justify-evenly p-10">
@@ -49,7 +56,9 @@ function AppSettings() {
             <div className="flex gap-2.5">
               <button
                 className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
-                onClick={() => setTheme.setSecondaryColor("green")}
+                onClick={() =>
+                  window.ipcRenderer.send("canRecorder", "startMS")
+                }
                 // window.ipcRenderer.send("canRecorder", "startMS")
               >
                 <FaCircle className="text-yellow-400" /> Start Medium Speed
@@ -57,7 +66,7 @@ function AppSettings() {
               </button>
               <button
                 className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
-                onClick={() => setTheme.setSecondaryColor("pink")}
+                onClick={() => window.ipcRenderer.send("canRecorder", "endMS")}
                 // window.ipcRenderer.send("canRecorder", "endMS")
               >
                 <FaCircle className="text-yellow-400" /> Stop Medium Speed
@@ -73,27 +82,34 @@ function AppSettings() {
             <div className="flex gap-2.5">
               <button
                 className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
-                onClick={() => [setShowModal(!showModal), setColorPicker("to")]}
+                onClick={() => [handleOpen(), setColorPicker("to")]}
               >
                 <FaCircle className="text-emerald-400" /> "To" Color
               </button>
               <button
                 className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
-                onClick={() => [
-                  setShowModal(!showModal),
-                  setColorPicker("from"),
-                ]}
+                onClick={() => [handleOpen(), setColorPicker("from")]}
               >
                 <FaCircle className="text-emerald-400" /> "From" Colour
               </button>
             </div>
           </div>
         </div>
-        {showModal ? (
-          <div className=" h-[120px] w-[600px] flex bg-white z-20 fixed left-36 top-40 self-center transition"></div>
-        ) : (
-          <div />
-        )}
+        <Modal
+          open={open}
+          onClose={handleClose}
+          aria-labelledby="modal-modal-title"
+          aria-describedby="modal-modal-description"
+        >
+          <Box className=" transition-all absolute text-center top-1/4 translate-x-2/4 h-[240px] w-[400px] bg-slate-500 border-2 border-sky-600 shadow-md p-4">
+            <Typography id="modal-modal-title" variant="h6" component="h2">
+              Please select a colour!
+            </Typography>
+            <Typography id="modal-modal-description" sx={{ mt: 2 }}>
+              Duis mollis, est non commodo luctus, nisi erat porttitor ligula.
+            </Typography>
+          </Box>
+        </Modal>
       </div>
     </div>
   );
