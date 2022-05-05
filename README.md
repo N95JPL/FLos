@@ -32,7 +32,7 @@ Based off rhysmorgan134/jaguar-xf-canbus-app - Big shoutout to him for all his h
 10) Run `npm run` + either
     * pi64-build - For RPi 4 - 4GB+ (npm run pi64-build)
     * pi32-build - For Rpi 3 or Rpi 4 < 4GB (npm run pi32-build)
-    * electron-build - For Ubuntu (Testing ONLY) (npm run electron-build)  
+    * electron-build - For Ubuntu (Testing ONLY) (`npm run electron-build`)  
         * This requires an additional step, see below        
 11) Locate the `/dist` folder and run the .AppImage
 
