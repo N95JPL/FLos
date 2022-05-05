@@ -43,14 +43,16 @@ function createWindow() {
   });
   mainWindow.once("ready-to-show", () => {
     require("./server")(mainWindow, isDev);
-    mainWindow.webContents.send("fadeOut", "now");
     setTimeout(() => {
-      mainWindow.loadURL(
-        isDev
-          ? "http://localhost:3000"
-          : `file://${path.join(__dirname, "../build/index.html")}`
-      );
-    }, 1000);
+      mainWindow.webContents.send("fadeOut", "now");
+      setTimeout(() => {
+        mainWindow.loadURL(
+          isDev
+            ? "http://localhost:3000"
+            : `file://${path.join(__dirname, "../build/index.html")}`
+        );
+      }, 2000);
+    }, 6000);
   });
 }
 

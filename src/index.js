@@ -8,15 +8,17 @@ import NoPage from "./Modules/NoPage";
 import create from "zustand";
 import Carplay from "./Modules/Carplay";
 import Vehicle from "./Modules/Vehicle";
-import Settings from "./Modules/Settings";
+import Settings from "./Modules/Settings/Settings-Nav";
 import Climate from "./Modules/Climate";
+import VehicleSettings from "./Modules/Settings/Vehicle-Settings";
+import AppSettings from "./Modules/Settings/App-Settings";
 
 export let theme = create((set) => ({
   darkMode: false,
   setDarkMode: (darkMode) => set({ darkMode }),
-  primaryColor: "blue",
+  primaryColor: "sky",
   setPrimaryColor: (primaryColor) => set({ primaryColor }),
-  secondaryColor: "red",
+  secondaryColor: "blue",
   setSecondaryColor: (secondaryColor) => set({ secondaryColor }),
 }));
 
@@ -86,7 +88,8 @@ export default function App() {
           <Route index element={<Climate />} />
           <Route path="/vehicle" element={<Vehicle />} />
           <Route path="/carplay" element={<Carplay />} />
-          <Route path="/settings" element={<Settings />} />
+          <Route path="/settings" element={<AppSettings />} />
+          <Route path="/settings/vehicle" element={<VehicleSettings />} />
           <Route path="/*" element={<NoPage />} />
         </Route>
       </Routes>

@@ -20,9 +20,9 @@ function Climate() {
   const recircVar = mediumSpeed((state) => state.recirc);
 
   const primaryColor = theme((state) => state.primaryColor);
-  const primaryColorSet = " from-" + primaryColor + "-400";
+  const primaryColorSet = " from-" + primaryColor + "-600";
   const secondaryColor = theme((state) => state.secondaryColor);
-  const secondaryColorSet = "to-" + secondaryColor + "-400";
+  const secondaryColorSet = "to-" + secondaryColor + "-800";
 
   const topButtons = [
     {

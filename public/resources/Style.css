@@ -1,12 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-.nav_icons {
-  transform: scale(2.5);
-}
-.temp_icons {
-  transform: scale(9);
-}
 .App {
   text-align: center;
 }
@@ -30,7 +24,7 @@ body {
 #img {
   width: 400px;
   height: auto;
-  animation-duration: 1s;
+  animation-duration: 2s;
   animation-timing-function: ease-in-out;
   animation-fill-mode: forwards;
   animation-direction: alternate;
