@@ -55,6 +55,7 @@ module.exports = function (window, dev) {
   }
 
   const parseMediumSpeed = require("./resources/MediumSpeed");
+  let ParseMediumSpeed = new parseMediumSpeed(msg, canIds, window)
   // sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e
   can0.addListener("onMessage", function (msg) {
     if (canRecordingMS) {
@@ -71,7 +72,7 @@ module.exports = function (window, dev) {
       canDataMSval = "";
     }
     if (msID.includes(msg.id)) {
-      parseMediumSpeed(msg, canIds, window);
+      ParseMediumSpeed;
     }
   });
   can1.addListener("onMessage", function (msg) {
@@ -97,6 +98,12 @@ module.exports = function (window, dev) {
     if (msg.press) {
       if (msg.type.includes("vol") || msg.type.includes("fan")) {
         def[byte] = value;
+      } else if (msg.type === "brightness") {
+        mediumSpeed.brightness.offset = msg.value
+        mediumSpeed.brightness.auto = msg.auto
+        if (!mediumSpeed.brightness.auto){
+          mediumSpeed.brightness.adjustedLight = (msg.value * 12.75)
+        }
       } else {
         // turn on the defined bit of the byte
         def[byte] |= value;
@@ -157,6 +164,9 @@ module.exports = function (window, dev) {
   });
   setInterval(() => {
     let send = false;
+    if (mediumSpeed.brightness.adjustedLight !== prevMediumSpeed.brightness.adjustedLight) {
+      this.exec("sudo sh -c 'echo " + '"' + mediumSpeed.brightness.adjustedLight + '"' + " > /sys/class/backlight/rpi_backlight/brightness'");
+    }
     for (const key in mediumSpeed) {
       for (const [info, value] of Object.entries(mediumSpeed[key])) {
         if (value !== mediumSpeedPrev[key][info]) {
@@ -168,9 +178,9 @@ module.exports = function (window, dev) {
     }
     if (send) {
       window.webContents.send("mediumSpeed", changedMedium);
-      changedMedium = { time: {}, temperature: {}, indicators: {} };
+      changedMedium = { time: {}, temperature: {}, indicators: {}, brightness: {} };
       console.log(changedMedium);
     }
   }, 100);
 };
-let changedMedium = { time: {}, temperature: {}, indicators: {} };
+let changedMedium = { time: {}, temperature: {}, indicators: {}, brightness: {}};

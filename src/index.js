@@ -1,6 +1,6 @@
 import { createRoot } from "react-dom/client";
 import React from "react";
-
+import 'tw-elements';
 import "./Modules/Style.css";
 import { HashRouter, Routes, Route } from "react-router-dom";
 import Layout from "./Modules/Layout";
@@ -51,6 +51,14 @@ export let mediumSpeed = create((set) => ({
     recirc: 0,
     setRecirc: (recirc) => set({ recirc }),
   },
+  brightness: {
+    offset: 20,
+    setOffset: (offset) => set({offset}),
+    auto: true,
+    setAuto: (auto) => set({auto}),
+    adjustedLight: 255,
+    setAdjustedLight: (adjustedLight) => set({adjustedLight})
+  }
 }));
 
 function capitalize(string) {
