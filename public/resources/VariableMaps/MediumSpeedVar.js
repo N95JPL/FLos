@@ -16,6 +16,11 @@ let mediumSpeed = {
     defrost: 0,
     frontHeater: 0,
     recirc: 0
+  },
+  brightness: {
+    adjustedLight: 0,
+    offset: 20,
+    auto: true
   }
 }
 exports.mediumSpeed = mediumSpeed
@@ -37,6 +42,11 @@ let mediumSpeedPrev = {
     defrost: 0,
     frontHeater: 0,
     recirc: 0
+  },
+  brightness: {
+    adjustedLight: 0,
+    offset: 20,
+    auto: true
   }
 }
 exports.mediumSpeedPrev = mediumSpeedPrev

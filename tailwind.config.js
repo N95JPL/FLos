@@ -6,6 +6,7 @@ module.exports = {
   ],
   darkMode: "class",
   safelist: ["", "px-4", "any-class-you-want-to-keep"],
+  content: ['./src/**/*.{html,js}', './node_modules/tw-elements/dist/js/**/*.js'],
   theme: {
     container: {
       center: true,
@@ -23,6 +24,7 @@ module.exports = {
     extend: {},
   },
   plugins: [
+    require('tw-elements/dist/plugin'),
     require("tailwind-safelist-generator")({
       patterns: ["from-{colors}", "to-{colors}"],
     }),
