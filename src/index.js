@@ -8,10 +8,10 @@ import NoPage from "./Modules/NoPage";
 import create from "zustand";
 import Carplay from "./Modules/Carplay";
 import Vehicle from "./Modules/Vehicle";
-import Settings from "./Modules/Settings/Settings-Nav";
 import Climate from "./Modules/Climate";
 import VehicleSettings from "./Modules/Settings/Vehicle-Settings";
 import AppSettings from "./Modules/Settings/App-Settings";
+import Dev from "./Modules/Settings/Dev";
 
 export let theme = create((set) => ({
   darkMode: false,
@@ -90,6 +90,7 @@ export default function App() {
           <Route path="/carplay" element={<Carplay />} />
           <Route path="/settings" element={<AppSettings />} />
           <Route path="/settings/vehicle" element={<VehicleSettings />} />
+          <Route path="/settings/dev" element={<Dev />} />
           <Route path="/*" element={<NoPage />} />
         </Route>
       </Routes>

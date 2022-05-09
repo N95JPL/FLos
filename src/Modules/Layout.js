@@ -42,7 +42,7 @@ function Layout() {
   return (
     <>
       <div
-        className={`NAVBAR-CONTAINER shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex h-screen absolute z-10 left-0 transition`}
+        className={`NAVBAR-CONTAINER w-[105px] shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex h-screen absolute z-10 left-0 transition`}
       >
         <div className="flex absolute justify-center items-center w-full">
           <p className="py-0.75 m-2 text-xl font-bold">
@@ -68,7 +68,7 @@ function Layout() {
           })}
         </div>
       </div>
-      <div className="absolute left-[105px]">
+      <div className="absolute w-[695px] left-[105px]">
         <Outlet />
       </div>
     </>

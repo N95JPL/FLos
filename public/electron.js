@@ -1,4 +1,3 @@
-require("v8-compile-cache");
 const { ipcMain, app, BrowserWindow } = require("electron");
 const path = require("path");
 const isDev = require("electron-is-dev");
@@ -12,7 +11,6 @@ function createWindow() {
     show: true,
     backgroundColor: "#252525",
     frame: false,
-    kiosk: true,
     movable: false,
     width: 800,
     maxWidth: 800,
@@ -20,7 +18,7 @@ function createWindow() {
     height: 480,
     center: true,
     transparent: true,
-    fullscreen: true,
+    fullscreen: false,
     maxHeight: 480,
     minHeight: 480,
     webPreferences: {
