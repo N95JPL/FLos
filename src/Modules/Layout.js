@@ -31,7 +31,7 @@ function Layout() {
     {
       name: "Settings",
       icon: <FaCog />,
-      path: "/settings",
+      path: "/settings/vehicle",
     },
   ];
 

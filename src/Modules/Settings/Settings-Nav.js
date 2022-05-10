@@ -12,14 +12,14 @@ function SettingsNav() {
   const location = useLocation();
   const menuItems = [
     {
-      name: "App",
-      icon: <FaCog />,
-      path: "/settings",
-    },
-    {
       name: "Vehicle",
       icon: <FaCar />,
       path: "/settings/vehicle",
+    },
+    {
+      name: "App",
+      icon: <FaCog />,
+      path: "/settings/app",
     },
   ];
   const primaryColor = theme((state) => state.primaryColor);

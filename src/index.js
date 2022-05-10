@@ -47,8 +47,8 @@ export default function App() {
           <Route index element={<Climate />} />
           <Route path="/vehicle" element={<Vehicle />} />
           <Route path="/carplay" element={<Carplay />} />
-          <Route path="/settings" element={<AppSettings />} />
           <Route path="/settings/vehicle" element={<VehicleSettings />} />
+          <Route path="/settings/app" element={<AppSettings />} />
           <Route path="/settings/dev" element={<Dev />} />
           <Route path="/*" element={<NoPage />} />
         </Route>
