@@ -49,13 +49,12 @@ module.exports = function (window, dev) {
   } catch {
     exec(
       "sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e"
-    )
+    );
     can0 = can.createRawChannel("can0", true);
     can1 = can.createRawChannel("can1", true);
   }
 
-  const parseMediumSpeed = require("./resources/MediumSpeed");
-  let ParseMediumSpeed = new parseMediumSpeed(msg, canIds, window)
+  let parseMediumSpeed = require("./resources/MediumSpeed");
   // sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e
   can0.addListener("onMessage", function (msg) {
     if (canRecordingMS) {
@@ -72,7 +71,7 @@ module.exports = function (window, dev) {
       canDataMSval = "";
     }
     if (msID.includes(msg.id)) {
-      ParseMediumSpeed;
+      parseMediumSpeed(msg, canIds, window, mediumSpeed.brightness);
     }
   });
   can1.addListener("onMessage", function (msg) {
@@ -92,18 +91,30 @@ module.exports = function (window, dev) {
   can0.start();
   can1.start();
   ipcMain.on("action", (event, msg) => {
-    const value = outIds[msg.type].val;
-    const byte = outIds[msg.type].byte;
-
-    if (msg.press) {
+    let value;
+    let byte;
+    if (msg.type !== "brightness") {
+      value = outIds[msg.type].val;
+      byte = outIds[msg.type].byte;
+    }
+    if (msg.type === "brightness") {
+      mediumSpeed.brightness.offset = msg.value;
+      mediumSpeed.brightness.auto = msg.auto;
+      if (!mediumSpeed.brightness.auto) {
+        mediumSpeed.brightness.adjustedLight = Math.round(
+          msg.value * (255 / 32.5)
+        );
+        exec(
+          "echo " +
+            mediumSpeed.brightness.adjustedLight +
+            " > /sys/class/backlight/10-0045/brightness"
+        );
+        mediumSpeedPrev.brightness.adjustedLight =
+          mediumSpeed.brightness.adjustedLight;
+      }
+    } else if (msg.press) {
       if (msg.type.includes("vol") || msg.type.includes("fan")) {
         def[byte] = value;
-      } else if (msg.type === "brightness") {
-        mediumSpeed.brightness.offset = msg.value
-        mediumSpeed.brightness.auto = msg.auto
-        if (!mediumSpeed.brightness.auto){
-          mediumSpeed.brightness.adjustedLight = (msg.value * 12.75)
-        }
       } else {
         // turn on the defined bit of the byte
         def[byte] |= value;
@@ -164,8 +175,15 @@ module.exports = function (window, dev) {
   });
   setInterval(() => {
     let send = false;
-    if (mediumSpeed.brightness.adjustedLight !== prevMediumSpeed.brightness.adjustedLight) {
-      this.exec("sudo sh -c 'echo " + '"' + mediumSpeed.brightness.adjustedLight + '"' + " > /sys/class/backlight/rpi_backlight/brightness'");
+    if (
+      mediumSpeed.brightness.adjustedLight !==
+      mediumSpeedPrev.brightness.adjustedLight
+    ) {
+      exec(
+        "echo " +
+          mediumSpeed.brightness.adjustedLight +
+          " > /sys/class/backlight/10-0045/brightness"
+      );
     }
     for (const key in mediumSpeed) {
       for (const [info, value] of Object.entries(mediumSpeed[key])) {
@@ -178,9 +196,18 @@ module.exports = function (window, dev) {
     }
     if (send) {
       window.webContents.send("mediumSpeed", changedMedium);
-      changedMedium = { time: {}, temperature: {}, indicators: {}, brightness: {} };
-      console.log(changedMedium);
+      changedMedium = {
+        time: {},
+        temperature: {},
+        indicators: {},
+        brightness: {},
+      };
     }
   }, 100);
 };
-let changedMedium = { time: {}, temperature: {}, indicators: {}, brightness: {}};
+let changedMedium = {
+  time: {},
+  temperature: {},
+  indicators: {},
+  brightness: {},
+};

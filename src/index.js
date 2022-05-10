@@ -1,65 +1,16 @@
 import { createRoot } from "react-dom/client";
 import React from "react";
-import 'tw-elements';
 import "./Modules/Style.css";
 import { HashRouter, Routes, Route } from "react-router-dom";
 import Layout from "./Modules/Layout";
 import NoPage from "./Modules/NoPage";
-import create from "zustand";
 import Carplay from "./Modules/Carplay";
 import Vehicle from "./Modules/Vehicle";
 import Climate from "./Modules/Climate";
 import VehicleSettings from "./Modules/Settings/Vehicle-Settings";
 import AppSettings from "./Modules/Settings/App-Settings";
 import Dev from "./Modules/Settings/Dev";
-
-export let theme = create((set) => ({
-  darkMode: false,
-  setDarkMode: (darkMode) => set({ darkMode }),
-  primaryColor: "sky",
-  setPrimaryColor: (primaryColor) => set({ primaryColor }),
-  secondaryColor: "pink",
-  setSecondaryColor: (secondaryColor) => set({ secondaryColor }),
-}));
-
-export let mediumSpeed = create((set) => ({
-  time: {
-    hour: 0,
-    setHour: (hour) => set({ hour }),
-    minute: 0,
-    setMinute: (minute) => set({ minute }),
-    second: 0,
-    setSecond: (second) => set({ second }),
-  },
-  temperature: {
-    driver: 0,
-    setDriver: (driver) => set({ driver }),
-    passenger: 0,
-    setPassenger: (passenger) => set({ passenger }),
-    interior: 0,
-    setInterior: (interior) => set({ interior }),
-  },
-  indicators: {
-    rearHeater: 0,
-    setRearHeater: (rearHeater) => set({ rearHeater }),
-    auto: 0,
-    setAuto: (auto) => set({ auto }),
-    defrost: 0,
-    setDefrost: (defrost) => set({ defrost }),
-    frontHeater: 0,
-    setFrontHeater: (frontHeater) => set({ frontHeater }),
-    recirc: 0,
-    setRecirc: (recirc) => set({ recirc }),
-  },
-  brightness: {
-    offset: 20,
-    setOffset: (offset) => set({offset}),
-    auto: true,
-    setAuto: (auto) => set({auto}),
-    adjustedLight: 255,
-    setAdjustedLight: (adjustedLight) => set({adjustedLight})
-  }
-}));
+import { mediumSpeed } from "./Stores/mediumSpeed";
 
 function capitalize(string) {
   return string.charAt(0).toUpperCase() + string.slice(1);

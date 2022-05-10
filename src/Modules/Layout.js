@@ -2,7 +2,8 @@ import { FaCar, FaPhoneAlt, FaCog } from "react-icons/fa";
 import { BsSnow } from "react-icons/bs";
 import React from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
-import { mediumSpeed, theme } from "../index";
+import { theme } from "../Stores/theme";
+import { mediumSpeed } from "../Stores/mediumSpeed";
 import "./Style.css";
 
 function Layout() {

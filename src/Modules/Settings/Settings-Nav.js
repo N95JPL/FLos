@@ -2,7 +2,7 @@ import { React } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { FaCar, FaCog } from "react-icons/fa";
 import "../Style.css";
-import { theme } from "../../index";
+import { theme } from "../../Stores/theme";
 import { BsCode } from "react-icons/bs";
 
 // want to start here? it will be ez for me to create whole page fast wait no

@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 const { mediumSpeed } = require("./VariableMaps/MediumSpeedVar");
-const IDs = [968, 904 , 888, 680, 520, 360, 72, 40];
+const IDs = [968, 904, 888, 680, 520, 360, 72, 40];
 
 function parseMediumSpeed(msg, canIds, window) {
   const strId = msg.id;
@@ -9,10 +9,10 @@ function parseMediumSpeed(msg, canIds, window) {
 
   if (IDs.includes(msg.id)) {
     if (msg.id === 40) {
-      if (mediumSpeed.brightness.auto){
-        console.log("Light: " + arr[3])
-        let lightResistance = arr[3] / 255
-        mediumSpeed.brightness.adjustedLight = Math.floor((lightResistance * 100) + mediumSpeed.brightness.offset);
+      if (mediumSpeed.brightness.auto) {
+        mediumSpeed.brightness.adjustedLight = Math.round(
+          (arr[2] / 255) * mediumSpeed.brightness.offset * 100
+        );
       }
     } else if (msg.id === 72) {
       mediumSpeed.temperature.interior = arr[4] - 40;
@@ -43,11 +43,7 @@ function parseMediumSpeed(msg, canIds, window) {
           ? "HIGH"
           : (arr[7] - 128) / 2;
       mediumSpeed.temperature.driver =
-        (arr[6] / 2) < 16 
-          ? "LOW" 
-          : (arr[6] / 2) > 28 
-          ? "HIGH" 
-          : (arr[6] / 2);
+        arr[6] / 2 < 16 ? "LOW" : arr[6] / 2 > 28 ? "HIGH" : arr[6] / 2;
     } else if (msg.id === 888) {
       mediumSpeed.time.hour =
         arr[5] - 128 < 10 ? "0" + (arr[5] - 128) : arr[5] - 128;

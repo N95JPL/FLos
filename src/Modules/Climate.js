@@ -1,7 +1,8 @@
 import React from "react";
 import { FaChevronDown, FaChevronUp } from "react-icons/fa";
 import "./Style.css";
-import { mediumSpeed, theme } from "../index";
+import { theme } from "../Stores/theme";
+import { mediumSpeed } from "../Stores/mediumSpeed";
 import { FaFire, FaSnowman } from "react-icons/fa";
 import frontHeater from "../Images/frontHeater.svg";
 import defrost from "../Images/defrost.svg";

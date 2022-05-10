@@ -23,6 +23,7 @@
     "react-scripts": "^5.0.1",
     "react-transition-group": "^4.4.2",
     "socketcan": "^3.0.0",
+    "tw-elements": "^1.0.0-alpha12",
     "zustand": "^4.0.0-rc.0"
   },
   "devDependencies": {

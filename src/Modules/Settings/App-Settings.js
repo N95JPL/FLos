@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import SettingsNav from "./Settings-Nav";
 import "../Style.css";
 import { FaCircle, FaFreeCodeCamp } from "react-icons/fa";
-import { theme } from "../../index";
+import { theme } from "../../Stores/theme";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import Modal from "@mui/material/Modal";

@@ -1,6 +1,6 @@
 import React from "react";
 import { FaCircle } from "react-icons/fa";
-import { theme } from "../index";
+import { theme } from "../Stores/theme";
 // I dont know if this helps, but app-outlet is defiend in CSS
 let setTheme;
 
