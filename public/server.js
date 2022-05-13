@@ -170,8 +170,10 @@ module.exports = function (window, dev) {
       canDataHSFile = "";
     }
   });
-  ipcMain.on("mediumDataFULL", (event, msg) => {
-    window.webContents.send("mediumSpeed", mediumSpeed);
+  ipcMain.on("DataFULL", (event, msg) => {
+    if (msg.includes("mediumSpeed")) {
+      window.webContents.send("mediumSpeed", mediumSpeed);
+    }
   });
   setInterval(() => {
     let send = false;
@@ -201,6 +203,7 @@ module.exports = function (window, dev) {
         temperature: {},
         indicators: {},
         brightness: {},
+        vehicleSettings: {},
       };
     }
   }, 100);
@@ -210,4 +213,5 @@ let changedMedium = {
   temperature: {},
   indicators: {},
   brightness: {},
+  vehicleSettings: {},
 };

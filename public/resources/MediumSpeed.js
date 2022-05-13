@@ -49,6 +49,15 @@ function parseMediumSpeed(msg, canIds, window) {
         arr[5] - 128 < 10 ? "0" + (arr[5] - 128) : arr[5] - 128;
       mediumSpeed.time.minute = arr[6] < 10 ? "0" + arr[6] : arr[6];
       mediumSpeed.time.second = arr[7] < 10 ? "0" + arr[7] : arr[7];
+    } else if (msg.id === 680) {
+      for (let k in id[strId]) {
+        //for each byte, set the relevant object key bit to the value set in the canbus message through bitwise operation
+        for (let i = 0; i < id[strId][k].length; i++) {
+          mediumSpeed.vehicleSettings[
+            id[strId][parseInt(k)][i.toString()].handle
+          ] = !!(arr[parseInt(k)] & id[strId][parseInt(k)][i.toString()].val);
+        }
+      }
     }
   }
 }

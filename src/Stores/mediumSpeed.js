@@ -37,4 +37,32 @@ export let mediumSpeed = create((set) => ({
     adjustedLight: 255,
     setAdjustedLight: (adjustedLight) => set({ adjustedLight }),
   },
+  vehicleSettings: {
+    Drive_Away_Locking_5: false,
+    setDrive_Away_Locking_5: (Drive_Away_Locking_5) =>
+      set({ Drive_Away_Locking_5 }),
+    Drive_Away_Locking_10: true,
+    setDrive_Away_Locking_10: (Drive_Away_Locking_10) =>
+      set({ Drive_Away_Locking_10 }),
+    Drive_Away_Locking_15: true,
+    setDrive_Away_Locking_15: (Drive_Away_Locking_15) =>
+      set({ Drive_Away_Locking_15 }),
+    Passive_Arming: false,
+    setPassive_Arming_5: (Passive_Arming) => set({ Passive_Arming }),
+    AutoLock: false,
+    setAutoLock: (AutoLock) => set({ AutoLock }),
+
+    Alarm_Sensors: false,
+    setAlarm_Sensors: (Alarm_Sensors) => set({ Alarm_Sensors }),
+    Two_Stage_Locking: false,
+    setTwo_Stage_Locking: (Two_Stage_Locking) => set({ Two_Stage_Locking }),
+    Global_Windows_Open: false,
+    setGlobal_Windows_Open: (Global_Windows_Open) =>
+      set({ Global_Windows_Open }),
+    Global_Windows_Close: false,
+    setGlobal_Windows_Close: (Global_Windows_Close) =>
+      set({ Global_Windows_Close }),
+    Mirror_Fold: false,
+    setMirror_Fold: (Mirror_Fold) => set({ Mirror_Fold }),
+  },
 }));
