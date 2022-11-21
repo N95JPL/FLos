@@ -56,7 +56,7 @@ function Layout() {
             {hour}:{minute}
           </p>
         </div>
-        <div className="NAVBAR-ITEMS flex flex-col justify-between py-5 items-center h-full">
+        <div className="NAVBAR-ITEMS flex flex-col justify-between items-center py-10 w-full h-full">
           {menuItems.map((m) => {
             let x = location.pathname.split("/");
             let y = m.path.split("/");
@@ -65,8 +65,8 @@ function Layout() {
                 to={m.path}
                 className={
                   x[1] === y[1]
-                    ? "SINGLE-NAVBAR-ITEM bg-black bg-opacity-50 text-4xl text-white active:text-gray-100  p-4 m-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
-                    : "SINGLE-NAVBAR-ITEM text-4xl text-white active:text-gray-100 bg-black bg-opacity-20 p-4 m-5 rounded-lg active:bg-opacity-40 transition active:scale-95"
+                    ? "SINGLE-NAVBAR-ITEM bg-black bg-opacity-50 text-4xl text-white active:text-gray-100 p-4 mx-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
+                    : "SINGLE-NAVBAR-ITEM text-4xl text-white active:text-gray-100 bg-black bg-opacity-20 p-4 mx-5 rounded-lg active:bg-opacity-40 transition active:scale-95"
                 }
               >
                 {m.icon}

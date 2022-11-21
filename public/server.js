@@ -8,6 +8,13 @@ const { Map } = require("./resources/CanMap/canMap");
 const { Out } = require("./resources/CanMap/canOut");
 const can = require("socketcan");
 const fs = require("fs");
+let changedMedium = {
+  time: {},
+  temperature: {},
+  indicators: {},
+  brightness: {},
+  vehicleSettings: {},
+};
 module.exports = function (window, dev) {
   let canDataMS;
   let canRecordingMS = false;
@@ -195,6 +202,10 @@ module.exports = function (window, dev) {
           mediumSpeedPrev[`${key}`][`${info}`] = value;
         }
       }
+      // if ("second" in changedMedium.time) {
+      //   changedMedium.time[`${hour}`] = mediumSpeed.time.hour
+      //   changedMedium.time[`${minute}`] = mediumSpeed.time.minute
+      // }
     }
     if (send) {
       window.webContents.send("mediumSpeed", changedMedium);
@@ -208,10 +219,4 @@ module.exports = function (window, dev) {
     }
   }, 100);
 };
-let changedMedium = {
-  time: {},
-  temperature: {},
-  indicators: {},
-  brightness: {},
-  vehicleSettings: {},
-};
+
