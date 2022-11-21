@@ -1,4 +1,5 @@
-import { FaCar, FaPhoneAlt, FaCog } from "react-icons/fa";
+import { FaCar, FaPhoneAlt, FaCog, FaRadio } from "react-icons/fa";
+import { GiRadioTower } from "react-icons/gi";
 import { BsSnow } from "react-icons/bs";
 import React from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
@@ -14,9 +15,14 @@ function Layout() {
   const location = useLocation();
   const menuItems = [
     {
-      name: "Home",
+      name: "Climate",
       icon: <BsSnow />,
       path: "/",
+    },
+    {
+      name: "Radio",
+      icon: <GiRadioTower />,
+      path: "/radio",
     },
     {
       name: "Vehicle",

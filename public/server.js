@@ -71,7 +71,7 @@ module.exports = function (window, dev) {
       canDataMSval = "";
     }
     if (msID.includes(msg.id)) {
-      parseMediumSpeed(msg, canIds, window, mediumSpeed.brightness);
+      parseMediumSpeed(msg, canIds, window);
     }
   });
   can1.addListener("onMessage", function (msg) {
@@ -106,8 +106,8 @@ module.exports = function (window, dev) {
         );
         exec(
           "echo " +
-            mediumSpeed.brightness.adjustedLight +
-            " > /sys/class/backlight/10-0045/brightness"
+          mediumSpeed.brightness.adjustedLight +
+          " > /sys/class/backlight/10-0045/brightness"
         );
         mediumSpeedPrev.brightness.adjustedLight =
           mediumSpeed.brightness.adjustedLight;
@@ -183,8 +183,8 @@ module.exports = function (window, dev) {
     ) {
       exec(
         "echo " +
-          mediumSpeed.brightness.adjustedLight +
-          " > /sys/class/backlight/10-0045/brightness"
+        mediumSpeed.brightness.adjustedLight +
+        " > /sys/class/backlight/10-0045/brightness"
       );
     }
     for (const key in mediumSpeed) {
