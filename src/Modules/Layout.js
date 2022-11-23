@@ -25,14 +25,14 @@ function Layout() {
       path: "/radio",
     },
     {
-      name: "Vehicle",
-      icon: <FaCar />,
-      path: "/vehicle",
-    },
-    {
       name: "Carplay",
       icon: <FaPhoneAlt />,
       path: "/carplay",
+    },
+    {
+      name: "Vehicle",
+      icon: <FaCar />,
+      path: "/vehicle",
     },
     {
       name: "Settings",

@@ -48,10 +48,9 @@ export let mediumSpeed = create((set) => ({
     setDrive_Away_Locking_15: (Drive_Away_Locking_15) =>
       set({ Drive_Away_Locking_15 }),
     Passive_Arming: false,
-    setPassive_Arming_5: (Passive_Arming) => set({ Passive_Arming }),
+    setPassive_Arming: (Passive_Arming) => set({ Passive_Arming }),
     AutoLock: false,
     setAutoLock: (AutoLock) => set({ AutoLock }),
-
     Alarm_Sensors: false,
     setAlarm_Sensors: (Alarm_Sensors) => set({ Alarm_Sensors }),
     Two_Stage_Locking: false,

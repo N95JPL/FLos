@@ -38,7 +38,7 @@ export default function App() {
   // eslint-disable-next-line no-unused-vars
   if (!setup) {
     setUp();
-    window.ipcRenderer.send("mediumDataFULL", "");
+    window.ipcRenderer.send("dataFull", "mediumSpeed");
   }
   return (
     <HashRouter>
@@ -46,12 +46,12 @@ export default function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<Climate />} />
           <Route path="/vehicle" element={<Vehicle />} />
-          <Route path="/carplay" element={<Carplay />} />
           <Route path="/settings/vehicle" element={<VehicleSettings />} />
           <Route path="/settings/app" element={<AppSettings />} />
           <Route path="/settings/dev" element={<Dev />} />
           <Route path="/*" element={<NoPage />} />
         </Route>
+        <Route path="/carplay" element={<Carplay />} />
       </Routes>
     </HashRouter>
   );

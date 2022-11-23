@@ -177,7 +177,7 @@ module.exports = function (window, dev) {
       canDataHSFile = "";
     }
   });
-  ipcMain.on("DataFULL", (event, msg) => {
+  ipcMain.on("dataFull", (event, msg) => {
     if (msg.includes("mediumSpeed")) {
       window.webContents.send("mediumSpeed", mediumSpeed);
     }

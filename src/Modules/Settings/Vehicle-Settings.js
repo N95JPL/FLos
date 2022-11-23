@@ -7,7 +7,7 @@ import { mediumSpeed } from "../../Stores/mediumSpeed";
 // eslint-disable-next-line no-unused-vars
 let vehicleStore = {};
 function onChange(name) {
-  window.ipcRenderer.send("action", {
+  window.ipcRenderer.send("settingsAction", {
     type: name,
     press: false,
   });

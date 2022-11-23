@@ -104,7 +104,7 @@ function Climate() {
                     })
                   }
                 >
-                  <FaChevronUp className="text-red-400" />
+                  <FaChevronUp className={passTempVar !== "HIGH" ? `text-red-400` : `text-gray-400`} />
                 </div>
               </div>
               <div className="justify-center content-center font-bold text-4xl flex h-[30px] w-[100px] mt-5 mb-7 text-center">
@@ -134,7 +134,7 @@ function Climate() {
                     })
                   }
                 >
-                  <FaChevronDown className="text-blue-400" />
+                  <FaChevronDown className={passTempVar !== "LOW" ? `text-blue-400` : `text-gray-400`} />
                 </div>
               </div>
             </div>
@@ -156,7 +156,7 @@ function Climate() {
                     })
                   }
                 >
-                  <FaChevronUp className="text-red-400" />
+                  <FaChevronUp className={passTempVar !== "HIGH" ? `text-red-400` : `text-gray-400`} />
                 </div>
               </div>
               <div className="justify-center content-center font-bold text-4xl flex h-[30px] w-[100px] mt-5 mb-7 text-center">
@@ -186,7 +186,7 @@ function Climate() {
                     })
                   }
                 >
-                  <FaChevronDown className="text-blue-400" />
+                  <FaChevronDown className={passTempVar !== "LOW" ? `text-blue-400` : `text-gray-400`} />
                 </div>
               </div>
             </div>
