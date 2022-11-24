@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <link rel="stylesheet" href="./resources/Style.css">
+    <title>JagOS</title>
+  </head>
+  <body>
+    <div id="root">
+        <img id="img" class="img transition fadeIn" src="./resources/JaguarLogo.png"/>
+    </div>
+  </body>
+    <script type="text/javascript">
+      console.log("Message")
+      window.ipcRenderer.on('fadeOut', (event, msg) => {
+    console.log("Message!")
+      var element = document.getElementById("img")
+      element.classList.add("fadeOut")
+      element.classList.remove("fadeIn")
+  })
+</script>
+</html>
