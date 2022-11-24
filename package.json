@@ -29,24 +29,29 @@
     "zustand": "^4.0.0-rc.0"
   },
   "devDependencies": {
-    "@eove/eslint-config-electron": "^1.7.0",
-    "@testing-library/react": "^9.5.0",
-    "@testing-library/user-event": "^7.2.1",
-    "autoprefixer": "^10.4.4",
-    "concurrently": "^7.1.0",
-    "electron": "^18.2.0",
-    "electron-builder": "^22.14.13",
-    "eslint": "^8.14.0",
+    "@electron/rebuild": "^3.2.10",
+    "@eove/eslint-config-electron": "^1.8.0",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/forms": "^0.5.3",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "@tailwindcss/typography": "^0.5.8",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
+    "autoprefixer": "^10.4.13",
+    "concurrently": "^7.6.0",
+    "electron": "^21.3.1",
+    "electron-builder": "^23.6.0",
+    "eslint": "^8.28.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.1.0",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-react": "^7.29.4",
-    "postcss": "^8.4.12",
+    "postcss": "^8.4.19",
     "postcss-loader": "^7.0.1",
     "tailwind-safelist-generator": "^1.0.0",
-    "tailwindcss": "^3.0.24",
+    "tailwindcss": "^3.2.4",
     "wait-on": "^6.0.1"
   },
   "scripts": {
@@ -57,13 +62,16 @@
     "electron": "npm run build && npm run electron-dev",
     "electron-dev": "BROWSER=none concurrently \"npm start\" \"wait-on http://localhost:3000 && electron .\"",
     "electron-pack": "electron-builder build",
-    "electron-build": "electron-builder --linux AppImage",
+    "electron-build": "electron-rebuild -f -a x64 && electron-builder --linux AppImage",
     "preelectron-build": "npm run build",
     "preelectron-pack": "npm run build",
-    "postinstall": "electron-builder install-app-deps",
+    "postinstall": "electron-rebuild -f",
     "reset": "electron-builder install-app-deps",
-    "pi32-build": "electron-builder --linux AppImage --armv7l",
-    "pi64-build": "electron-builder build --linux AppImage --arm64"
+    "rebuild": "electron-rebuild -f",
+    "buildAll": "npm run linux64-build && npm run pi32-build && npm run pi64-build",
+    "linux64-build": "electron-rebuild -f -a x64 && electron-builder build --linux AppImage --x64",
+    "pi32-build": "electron-rebuild -f -a armv7l && electron-builder --linux AppImage --armv7l",
+    "pi64-build": "electron-rebuild -f -a arm64 && electron-builder build --linux AppImage --arm64"
   },
   "eslintConfig": {
     "extends": [
@@ -84,6 +92,7 @@
   },
   "build": {
     "productName": "JagOS",
+    "npmRebuild": false,
     "artifactName": "JagOS-${version}-${arch}.${ext}",
     "appId": "io.jplogics.jagos",
     "files": [
