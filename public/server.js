@@ -101,8 +101,30 @@ module.exports = function (window, dev) {
     if (msg.type !== "brightness") {
       value = outIds[msg.type].val;
       byte = outIds[msg.type].byte;
-    }
-    if (msg.type === "brightness") {
+      if (msg.press) {
+        if (msg.type.includes("vol") || msg.type.includes("fan")) {
+          def[byte] = value;
+        } else {
+          // turn on the defined bit of the byte
+          def[byte] |= value;
+        }
+        msgOut.data = Buffer.from(def);
+        console.log("We sent - " + msg.type + " to " + msgOut.id)
+        can0.send(msgOut);
+        clearInterval(sendClimateMsg);
+        sendClimateMsg = setInterval(() => {
+          msgOut.data = Buffer.from(def);
+          can0.send(msgOut);
+        }, 250);
+      } else {
+        console.log("Received an action from: " + msg.type + ":" + msg.press)
+        clearInterval(sendClimateMsg);
+        def[byte] &= ~value;
+        msgOut.data = Buffer.from(def);
+        console.log("We sent - " + msg.type + " to " + msgOut.id)
+        can0.send(msgOut);
+      }
+    } else if (msg.type === "brightness") {
       mediumSpeed.brightness.offset = msg.value;
       mediumSpeed.brightness.auto = msg.auto;
       if (!mediumSpeed.brightness.auto) {
@@ -117,27 +139,7 @@ module.exports = function (window, dev) {
         mediumSpeedPrev.brightness.adjustedLight =
           mediumSpeed.brightness.adjustedLight;
       }
-    } else if (msg.press) {
-      if (msg.type.includes("vol") || msg.type.includes("fan")) {
-        def[byte] = value;
-      } else {
-        // turn on the defined bit of the byte
-        def[byte] |= value;
-      }
-      msgOut.data = Buffer.from(def);
-      console.log("We sent - " + msgOut.data + " to " + msgOut.id)
-      can0.send(msgOut);
-      sendClimateMsg = setInterval(() => {
-        msgOut.data = Buffer.from(def);
-        can0.send(msgOut);
-      }, 250);
-    } else {
-      clearInterval(sendClimateMsg);
-      def[byte] &= ~value;
-      msgOut.data = Buffer.from(def);
-      console.log("We sent - " + msgOut.data + " to " + msgOut.id)
-      can0.send(msgOut);
-    }
+    } else { }
   });
   ipcMain.on("canRecorder", (event, msg) => {
     if (msg === "startMS") {

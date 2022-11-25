@@ -63,11 +63,11 @@ function Climate() {
           {topButtons.map((t) => {
             return (
               <div
-                onTouchStart={window.ipcRenderer.send("action", {
+                onTouchStart={() => window.ipcRenderer.send("action", {
                   type: t.name,
                   press: true,
                 })}
-                onTouchEnd={window.ipcRenderer.send("action", {
+                onTouchEnd={() => window.ipcRenderer.send("action", {
                   type: t.name,
                   press: false,
                 })}
