@@ -18,7 +18,7 @@ function createWindow() {
     height: 480,
     center: true,
     transparent: true,
-    fullscreen: true,
+    fullscreen: false,
     maxHeight: 480,
     minHeight: 480,
     webPreferences: {
