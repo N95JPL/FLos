@@ -4,7 +4,6 @@ const {
   mediumSpeed,
   mediumSpeedPrev,
 } = require("./resources/VariableMaps/MediumSpeedVar");
-const { Map } = require("./resources/CanMap/canMap");
 const { Out } = require("./resources/CanMap/canOut");
 const can = require("socketcan");
 const fs = require("fs");
@@ -29,9 +28,9 @@ module.exports = function (window, dev) {
 
   const msID = [968, 904, 680, 520, 40, 360, 72, 888];
 
-  let canIds = Map;
-  const outIds = Out;
-  canIds = JSON.stringify(canIds);
+  // let canIds = Map;
+  let outIds = Out;
+  // canIds = JSON.stringify(canIds);
   // outIds = JSON.stringify(outIds)
   // default array to use as the buffer to send can messages when no new changes
   const def = [203, 0, 0, 0, 0, 0, 127, 127];
@@ -43,7 +42,6 @@ module.exports = function (window, dev) {
     id: 712,
     data: def,
   };
-  // create indicator object, this sends the status of all leds over the socket
   // eslint-disable-next-line no-unused-vars
   // create can can0
   let can0;
@@ -78,7 +76,7 @@ module.exports = function (window, dev) {
       canDataMSval = "";
     }
     if (msID.includes(msg.id)) {
-      parseMediumSpeed(msg, canIds, window);
+      parseMediumSpeed(msg, window);
     }
   });
   can1.addListener("onMessage", function (msg) {
@@ -127,6 +125,7 @@ module.exports = function (window, dev) {
         def[byte] |= value;
       }
       msgOut.data = Buffer.from(def);
+      console.log("We sent - " + msgOut.data + " to " + msgOut.id)
       can0.send(msgOut);
       sendClimateMsg = setInterval(() => {
         msgOut.data = Buffer.from(def);
@@ -136,6 +135,7 @@ module.exports = function (window, dev) {
       clearInterval(sendClimateMsg);
       def[byte] &= ~value;
       msgOut.data = Buffer.from(def);
+      console.log("We sent - " + msgOut.data + " to " + msgOut.id)
       can0.send(msgOut);
     }
   });

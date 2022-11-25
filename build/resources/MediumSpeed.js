@@ -1,11 +1,12 @@
 /* eslint-disable no-unused-vars */
 const { mediumSpeed } = require("./VariableMaps/MediumSpeedVar");
+const { Map } = require("./CanMap/canMap");
 const IDs = [968, 904, 888, 680, 520, 360, 72, 40];
 
-function parseMediumSpeed(msg, canIds, window) {
+function parseMediumSpeed(msg, window) {
   const strId = msg.id;
   const arr = [...msg.data];
-  const id = JSON.parse(canIds);
+  const id = Map;
 
   if (IDs.includes(msg.id)) {
     if (msg.id === 40) {
