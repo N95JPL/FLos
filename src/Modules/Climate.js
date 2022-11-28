@@ -63,11 +63,11 @@ function Climate() {
           {topButtons.map((t) => {
             return (
               <div
-                onTouchStart={() => window.ipcRenderer.send("action", {
+                onTouchStart={() => window.ipcRenderer.send("actionClimate", {
                   type: t.name,
                   press: true,
                 })}
-                onTouchEnd={() => window.ipcRenderer.send("action", {
+                onTouchEnd={() => window.ipcRenderer.send("actionClimate", {
                   type: t.name,
                   press: false,
                 })}
@@ -95,13 +95,13 @@ function Climate() {
                 <div
                   className="items-center text-center justify-center flex bg-opacity-20 gap-5 h-[100px] w-[100px] bg-black text-white active:text-gray-100 rounded-lg active:bg-opacity-75 transition active:scale-95"
                   onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "passUp",
                       press: true,
                     })
                   }
                   onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "passUp",
                       press: false,
                     })
@@ -152,13 +152,13 @@ function Climate() {
                 <div
                   className="text-6xl items-center justify-center flex bg-opacity-20 gap-5 h-[100px] w-[100px] bg-black text-white active:text-gray-100 rounded-lg active:bg-opacity-75 transition active:scale-95"
                   onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "passDown",
                       press: true,
                     })
                   }
                   onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "passDown",
                       press: false,
                     })
@@ -201,13 +201,13 @@ function Climate() {
                 <div
                   className="text-6xl items-center justify-center flex bg-opacity-20 gap-5 h-[100px] w-[100px] bg-black text-white active:text-gray-100 rounded-lg active:bg-opacity-75 transition active:scale-95"
                   onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "passUp",
                       press: true,
                     })
                   }
                   onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "passUp",
                       press: false,
                     })
@@ -231,13 +231,13 @@ function Climate() {
                 <div
                   className="text-6xl items-center justify-center flex bg-opacity-20 gap-5 h-[100px] w-[100px] bg-black text-white active:text-gray-100 rounded-lg active:bg-opacity-75 transition active:scale-95"
                   onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "passDown",
                       press: true,
                     })
                   }
                   onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "passDown",
                       press: false,
                     })
@@ -259,13 +259,13 @@ function Climate() {
                 <div
                   className="text-6xl items-center justify-center flex bg-opacity-20 gap-5 h-[100px] w-[100px] bg-black text-white active:text-gray-100 rounded-lg active:bg-opacity-75 transition active:scale-95"
                   onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "driverUp",
                       press: true,
                     })
                   }
                   onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "driverUp",
                       press: false,
                     })
@@ -291,13 +291,13 @@ function Climate() {
                 <div
                   className="text-6xl items-center justify-center flex bg-opacity-20 gap-5 h-[100px] w-[100px] bg-black text-white active:text-gray-100 rounded-lg active:bg-opacity-75 transition active:scale-95"
                   onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "driverDown",
                       press: true,
                     })
                   }
                   onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "driverDown",
                       press: false,
                     })
@@ -313,13 +313,13 @@ function Climate() {
                 <div
                   className="text-6xl items-center justify-center flex bg-opacity-20 gap-5 h-[100px] w-[100px] bg-black text-white active:text-gray-100 rounded-lg active:bg-opacity-75 transition active:scale-95"
                   onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "driverUp",
                       press: true,
                     })
                   }
                   onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "driverUp",
                       press: false,
                     })
@@ -371,13 +371,13 @@ function Climate() {
                 <div
                   className="items-center justify-center flex bg-opacity-20 gap-5 h-[100px] w-[100px] bg-black text-white active:text-gray-100 rounded-lg active:bg-opacity-75 transition active:scale-95"
                   onTouchStart={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "driverDown",
                       press: true,
                     })
                   }
                   onTouchEnd={() =>
-                    window.ipcRenderer.send("action", {
+                    window.ipcRenderer.send("actionClimate", {
                       type: "driverDown",
                       press: false,
                     })

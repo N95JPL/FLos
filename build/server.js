@@ -5,6 +5,7 @@ const {
   mediumSpeedPrev,
 } = require("./resources/VariableMaps/MediumSpeedVar");
 const { Out } = require("./resources/CanMap/canOut");
+const { SettingsOut } = require("./resources/CanMap/canSettingOut");
 const can = require("socketcan");
 const fs = require("fs");
 let changedMedium = {
@@ -30,6 +31,7 @@ module.exports = function (window, dev) {
 
   // let canIds = Map;
   let outIds = Out;
+  let seetingsIds = SettingsOut;
   // canIds = JSON.stringify(canIds);
   // outIds = JSON.stringify(outIds)
   // default array to use as the buffer to send can messages when no new changes
@@ -95,52 +97,57 @@ module.exports = function (window, dev) {
   });
   can0.start();
   can1.start();
-  ipcMain.on("action", (event, msg) => {
+  ipcMain.on("actionClimate", (event, msg) => {
     let value;
     let byte;
-    if (msg.type !== "brightness") {
-      value = outIds[msg.type].val;
-      byte = outIds[msg.type].byte;
-      if (msg.press) {
-        if (msg.type.includes("vol") || msg.type.includes("fan")) {
-          def[byte] = value;
-        } else {
-          // turn on the defined bit of the byte
-          def[byte] |= value;
-        }
-        msgOut.data = Buffer.from(def);
-        console.log("We sent - " + msg.type + " to " + msgOut.id)
-        can0.send(msgOut);
-        clearInterval(sendClimateMsg);
-        sendClimateMsg = setInterval(() => {
-          msgOut.data = Buffer.from(def);
-          can0.send(msgOut);
-        }, 250);
+    value = outIds[msg.type].val;
+    byte = outIds[msg.type].byte;
+    if (msg.press) {
+      if (msg.type.includes("vol") || msg.type.includes("fan")) {
+        def[byte] = value;
       } else {
-        console.log("Received an action from: " + msg.type + ":" + msg.press)
-        clearInterval(sendClimateMsg);
-        def[byte] &= ~value;
+        // turn on the defined bit of the byte
+        def[byte] |= value;
+      }
+      msgOut.data = Buffer.from(def);
+      console.log("We sent - " + msg.type + " to " + msgOut.id)
+      can0.send(msgOut);
+      clearInterval(sendClimateMsg);
+      sendClimateMsg = setInterval(() => {
         msgOut.data = Buffer.from(def);
-        console.log("We sent - " + msg.type + " to " + msgOut.id)
         can0.send(msgOut);
-      }
-    } else if (msg.type === "brightness") {
-      mediumSpeed.brightness.offset = msg.value;
-      mediumSpeed.brightness.auto = msg.auto;
-      if (!mediumSpeed.brightness.auto) {
-        mediumSpeed.brightness.adjustedLight = Math.round(
-          msg.value * (255 / 32.5)
-        );
-        exec(
-          "echo " +
-          mediumSpeed.brightness.adjustedLight +
-          " > /sys/class/backlight/10-0045/brightness"
-        );
-        mediumSpeedPrev.brightness.adjustedLight =
-          mediumSpeed.brightness.adjustedLight;
-      }
-    } else { }
+      }, 250);
+    } else {
+      console.log("Received an action from: " + msg.type + ":" + msg.press)
+      clearInterval(sendClimateMsg);
+      def[byte] &= ~value;
+      msgOut.data = Buffer.from(def);
+      console.log("We sent - " + msg.type + " to " + msgOut.id)
+      can0.send(msgOut);
+    }
   });
+  ipcMain.on("actionBrightness", (event, msg) => {
+    mediumSpeed.brightness.offset = msg.value;
+    mediumSpeed.brightness.auto = msg.auto;
+    if (!mediumSpeed.brightness.auto) {
+      mediumSpeed.brightness.adjustedLight = Math.round(
+        msg.value * (255 / 32.5)
+      );
+      exec(
+        "echo " +
+        mediumSpeed.brightness.adjustedLight +
+        " > /sys/class/backlight/10-0045/brightness"
+      );
+      mediumSpeedPrev.brightness.adjustedLight =
+        mediumSpeed.brightness.adjustedLight;
+    }
+  })
+  ipcMain.on("actionSettings", (event, msg) => {
+    let value;
+    let byte;
+    value = seetingsIds[msg.type].val;
+    byte = seetingsIds[msg.type].byte;
+  })
   ipcMain.on("canRecorder", (event, msg) => {
     if (msg === "startMS") {
       exec("candump -l can0");

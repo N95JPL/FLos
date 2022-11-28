@@ -85,7 +85,7 @@ function AppSettings() {
     }
   }
   useEffect(() => {
-    window.ipcRenderer.send("action", {
+    window.ipcRenderer.send("actionBrightness", {
       type: "brightness",
       auto: brightnessAuto,
       press: false,
