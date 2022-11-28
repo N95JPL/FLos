@@ -31,7 +31,7 @@ function Dev() {
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
                     window.ipcRenderer.send("canRecorder", "startHS"),
-                    setHS = true
+                    setHS(true)
                   ]}
                 >
                   <FaCircle className="text-emerald-400" /> Start High Speed
