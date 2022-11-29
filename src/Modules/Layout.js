@@ -43,7 +43,6 @@ function Layout() {
 
   const hour = mediumSpeed((state) => state.hour);
   const minute = mediumSpeed((state) => state.minute);
-
   // const gradient = (primaryColorSet + " " + secondaryColorSet).toString();
 
   return (

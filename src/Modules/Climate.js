@@ -258,11 +258,12 @@ function Climate() {
               <div>
                 <div
                   className="text-6xl items-center justify-center flex bg-opacity-20 gap-5 h-[100px] w-[100px] bg-black text-white active:text-gray-100 rounded-lg active:bg-opacity-75 transition active:scale-95"
-                  onTouchStart={() =>
+                  onTouchStart={() => [
                     window.api.actionClimate({
                       type: "driverUp",
                       press: true,
-                    })
+                    }),
+                    console.log("Up!")]
                   }
                   onTouchEnd={() =>
                     window.api.actionClimate({

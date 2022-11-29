@@ -23,7 +23,7 @@ function createWindow() {
     minHeight: 480,
     webPreferences: {
       nativeWindowOpen: true,
-      nodeIntegration: true,
+      nodeIntegration: false,
       enableRemoteModule: true,
       contextIsolation: true,
       devTools: true,

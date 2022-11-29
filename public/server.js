@@ -150,7 +150,7 @@ module.exports = function (window, dev) {
   })
   ipcMain.on("canRecorder", (event, msg) => {
     if (msg === "startMS") {
-      exec("candump -l can0");
+      exec("candump can0");
       canDataMS = "Timestamp,Differance,Node ID,Message\n";
       canRecordingMS = true;
       canDataMSFile = new Date().getTime();
@@ -168,7 +168,7 @@ module.exports = function (window, dev) {
       canDataMSFile = "";
     }
     if (msg === "startHS") {
-      exec("candump -l can1");
+      exec("candump can1");
       canDataHS = "Timestamp,Differance,Node ID,Message\n";
       canRecordingHS = true;
       canDataHSFile = new Date().getTime();

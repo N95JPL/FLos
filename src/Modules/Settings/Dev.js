@@ -31,7 +31,8 @@ function Dev() {
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
                     window.api.canRecorder("startHS"),
-                    setHS(true)
+                    setHS(true),
+                    console.log("yay")
                   ]}
                 >
                   <FaCircle className="text-emerald-400" /> Start High Speed

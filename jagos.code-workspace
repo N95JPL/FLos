@@ -22,6 +22,8 @@
 			"**/.DS_Store": true,
 			"**/Thumbs.db": true,
 			"**/node_modules": false
-		}
+		},
+		"tailwindCSS.emmetCompletions": true,
+		"files.trimTrailingWhitespace": true
 	}
 }

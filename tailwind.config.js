@@ -1,3 +1,4 @@
+const defaultTheme = require('tailwindcss/defaultTheme')
 module.exports = {
   darkMode: "class",
   safelist: ["", "px-4", "any-class-you-want-to-keep"],
