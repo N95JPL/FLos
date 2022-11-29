@@ -8,13 +8,11 @@
 
 <body>
   <div id="root">
-    <img id="img" class="img transition fadeIn" src="./resources/JaguarLogo.png" />
+    <img id="img" className="img transition fadeIn" src="./resources/JaguarLogo.png" />
   </div>
 </body>
 <script type="text/javascript">
-  console.log("Message")
   window.api.onFadeOut((event, msg) => {
-    console.log("Message!")
     var element = document.getElementById("img")
     element.classList.add("fadeOut")
     element.classList.remove("fadeIn")

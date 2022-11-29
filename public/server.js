@@ -50,9 +50,9 @@ module.exports = function (window, dev) {
   let can1;
   try {
     can0 = can.createRawChannel("can0", true);
-    console.log("CAN0 Started");
+    log("CAN0 Started");
     can1 = can.createRawChannel("can1", true);
-    console.log("CAN1 Started");
+    log("CAN1 Started");
   } catch {
     exec(
       "sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e"
@@ -110,7 +110,7 @@ module.exports = function (window, dev) {
         def[byte] |= value;
       }
       msgOut.data = Buffer.from(def);
-      console.log("We sent - " + msg.type + " to " + msgOut.id)
+      log("We sent - " + msg.type + " to " + msgOut.id)
       can0.send(msgOut);
       clearInterval(sendClimateMsg);
       sendClimateMsg = setInterval(() => {
@@ -118,11 +118,11 @@ module.exports = function (window, dev) {
         can0.send(msgOut);
       }, 250);
     } else {
-      console.log("Received an action from: " + msg.type + ":" + msg.press)
+      log("Received an action from: " + msg.type + ":" + msg.press)
       clearInterval(sendClimateMsg);
       def[byte] &= ~value;
       msgOut.data = Buffer.from(def);
-      console.log("We sent - " + msg.type + " to " + msgOut.id)
+      log("We sent - " + msg.type + " to " + msgOut.id)
       can0.send(msgOut);
     }
   });

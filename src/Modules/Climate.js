@@ -108,7 +108,7 @@ function Climate() {
                   }
                 >
                   <svg
-                    class={`${passTempVar !== "HIGH" ? `fill-red-400` : `fill-gray-400`} flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
+                    className={`${passTempVar !== "HIGH" ? `fill-red-400` : `fill-gray-400`} flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
                     viewBox="0 0 128 128"
                     version="1.1"
                     id="svg24"
@@ -125,7 +125,7 @@ function Climate() {
                       id="path18"
                     />
                     <g
-                      class=""
+                      className=""
                       id="g22"
                       transform="matrix(0.21267546,0,0,0.21339251,18.423394,14.457845)">
                       <path
@@ -165,7 +165,7 @@ function Climate() {
                   }
                 >
                   <svg
-                    class={`${passTempVar !== "LOW" ? `fill-blue-400` : `fill-gray-400`} flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
+                    className={`${passTempVar !== "LOW" ? `fill-blue-400` : `fill-gray-400`} flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
                     viewBox="0 0 128 128"
                     version="1.1"
                     id="svg24"
@@ -182,7 +182,7 @@ function Climate() {
                       id="path18"
                     />
                     <g
-                      class=""
+                      className=""
                       id="g22"
                       transform="matrix(0.21267546,0,0,0.21339251,18.423394,14.457845)">
                       <path
@@ -258,12 +258,11 @@ function Climate() {
               <div>
                 <div
                   className="text-6xl items-center justify-center flex bg-opacity-20 gap-5 h-[100px] w-[100px] bg-black text-white active:text-gray-100 rounded-lg active:bg-opacity-75 transition active:scale-95"
-                  onTouchStart={() => [
+                  onTouchStart={() =>
                     window.api.actionClimate({
                       type: "driverUp",
                       press: true,
-                    }),
-                    console.log("Up!")]
+                    })
                   }
                   onTouchEnd={() =>
                     window.api.actionClimate({
@@ -327,7 +326,7 @@ function Climate() {
                   }
                 >
                   <svg
-                    class={`${driverTempVar !== "HIGH" ? `fill-red-400` : `fill-gray-400`} flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
+                    className={`${driverTempVar !== "HIGH" ? `fill-red-400` : `fill-gray-400`} flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
                     viewBox="0 0 128 128"
                     version="1.1"
                     id="svg24"
@@ -385,7 +384,7 @@ function Climate() {
                   }
                 >
                   <svg
-                    class={`${driverTempVar !== "LOW" ? `fill-blue-400` : `fill-gray-400`} flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
+                    className={`${driverTempVar !== "LOW" ? `fill-blue-400` : `fill-gray-400`} flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
                     viewBox="0 0 128 128"
                     version="1.1"
                     id="svg24"

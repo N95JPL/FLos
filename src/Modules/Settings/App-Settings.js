@@ -38,10 +38,8 @@ function AppSettings() {
     var temp = []
     colorName.forEach(element => {
       temp.push("#" + convert.keyword.hex(element))
-      console.log(element)
     });
     setColor(temp)
-    console.log(colors)
   }, [])
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);

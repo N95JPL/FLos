@@ -1,5 +1,6 @@
 /* eslint-disable no-unused-vars */
 const { mediumSpeed } = require("./VariableMaps/MediumSpeedVar");
+const log = require("../electron")
 const { Map } = require("./CanMap/canMap");
 const IDs = [968, 904, 888, 680, 520, 360, 72, 40];
 
@@ -50,7 +51,6 @@ function parseMediumSpeed(msg, window) {
         arr[5] - 128 < 10 ? "0" + (arr[5] - 128) : arr[5] - 128;
       mediumSpeed.time.minute = arr[6] < 10 ? "0" + arr[6] : arr[6];
       mediumSpeed.time.second = arr[7] < 10 ? "0" + arr[7] : arr[7];
-      console.log(mediumSpeed.time.hour + ":" + mediumSpeed.time.minute)
     } else if (msg.id === 680) {
       for (let k in id[strId]) {
         //for each byte, set the relevant object key bit to the value set in the canbus message through bitwise operation
