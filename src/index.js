@@ -21,7 +21,7 @@ let setMediumSpeed = "";
 let setup = false;
 function setUp() {
   setMediumSpeed = mediumSpeed();
-  window.ipcRenderer.on("mediumSpeed", (event, msg) => {
+  window.api.onMediumSpeed((event, msg) => {
     console.log(msg);
     for (const x in msg) {
       for (const y in msg[x]) {
@@ -38,7 +38,7 @@ export default function App() {
   // eslint-disable-next-line no-unused-vars
   if (!setup) {
     setUp();
-    window.ipcRenderer.send("dataFull", "mediumSpeed");
+    window.api.dataFull("mediumSpeed");
   }
   return (
     <HashRouter>
