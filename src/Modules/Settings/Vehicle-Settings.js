@@ -7,10 +7,10 @@ import { mediumSpeed } from "../../Stores/mediumSpeed";
 // eslint-disable-next-line no-unused-vars
 let vehicleStore = {};
 function onChange(name) {
-  window.ipcRenderer.send("settingsAction", {
-    type: name,
-    press: false,
-  });
+  // window.ipcRenderer.send("settingsAction", {
+  //   type: name,
+  //   press: false,
+  // });
 }
 function VehicleSettings() {
   //const driverTempVar = mediumSpeed((state) => state.driver);
@@ -61,13 +61,14 @@ function VehicleSettings() {
     },
   ];
   return (
-    <div className="flex h-screen w-max absolute">
-      <div className="flex h-10 w-full absolute">
+    <div className="fixed h-screen w-[87%]">
+      <div className="flex h-[20%] w-full">
         <SettingsNav />
       </div>
-      <div className="h-screen w-full items-center justify-center p-10 flex-col flex">
+      <div className="h-[10%] w-full text-center justify-center flex">
         <p>There will be vehicle shizz here</p>
-
+      </div>
+      <div className="h-[70%] w-full justify-center pl-10 pr-10 pb-5 text-center items-center fixed grid grid-rows-5 gap-4 grid-cols-2">
         {VehicleSettings.map((a) => {
           return (
             <FormGroup>
