@@ -30,7 +30,7 @@ function Dev() {
                 <button
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
-                    window.ipcRenderer.send("canRecorder", "startHS"),
+                    window.api.canRecorder("startHS"),
                     setHS(true)
                   ]}
                 >
@@ -40,7 +40,7 @@ function Dev() {
                 <button
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
-                    window.ipcRenderer.send("canRecorder", "endHS"),
+                    window.api.canRecorder("endHS"),
                     setHS(false)
                   ]}
                 >
@@ -54,7 +54,7 @@ function Dev() {
                 <button
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
-                    window.ipcRenderer.send("canRecorder", "startMS"),
+                    window.api.canRecorder("startMS"),
                     setMS(true)
                   ]}
                 >
@@ -64,7 +64,7 @@ function Dev() {
                 <button
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
-                    window.ipcRenderer.send("canRecorder", "endMS"),
+                    window.api.canRecorder("endMS"),
                     setMS(false)
                   ]}
                 >
@@ -75,7 +75,7 @@ function Dev() {
             </div>
             <button
               className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
-              onClick={() => window.ipcRenderer.send("close", "")}
+              onClick={() => window.api.close("")}
             >
               <FaCircle className="text-red-400" /> Close APP
             </button>
