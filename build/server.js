@@ -5,7 +5,7 @@ const {
   mediumSpeedPrev,
 } = require("./resources/VariableMaps/MediumSpeedVar");
 const { Out } = require("./resources/CanMap/canOut");
-const { SettingsOut } = require("./resources/CanMap/canSettingOut");
+const { SettingsOut } = require("./resources/CanMap/canSetting");
 const can = require("socketcan");
 const fs = require("fs");
 let changedMedium = {
