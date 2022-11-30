@@ -8,6 +8,7 @@ const { Out } = require("./resources/CanMap/canOut");
 const { SettingsOut } = require("./resources/CanMap/canSetting");
 const can = require("socketcan");
 const fs = require("fs");
+const { log } = require("./electron")
 let changedMedium = {
   time: {},
   temperature: {},
