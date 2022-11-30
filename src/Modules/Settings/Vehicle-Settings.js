@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable no-eval */
 import React from "react";
 import SettingsNav from "./Settings-Nav";
@@ -66,7 +67,8 @@ function VehicleSettings() {
         <SettingsNav />
       </div>
       <div className="h-[10%] w-full text-center justify-center flex">
-        <p>There will be vehicle shizz here</p>
+        <p>Note: These are read-only - Please change on the original headunit</p>
+        <p>This may change.. if I figure it out!</p>
       </div>
       <div className="h-[70%] w-full justify-center pl-10 pr-10 pb-5 text-center items-center fixed grid grid-rows-5 gap-4 grid-cols-2">
         {VehicleSettings.map((a) => {
@@ -77,7 +79,7 @@ function VehicleSettings() {
                   <Switch
                     defaultChecked={eval(a.handle)}
                     checked={eval(a.handle)}
-                    onChange={onChange(a.handle)}
+                  // onChange={onChange(a.handle)}
                   />
                 }
                 label={a.handle

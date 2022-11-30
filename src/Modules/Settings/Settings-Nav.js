@@ -1,6 +1,7 @@
+/* eslint-disable no-unused-vars */
 import { React } from "react";
 import { Link, useLocation } from "react-router-dom";
-import { FaCar, FaCog } from "react-icons/fa";
+import { FaCar, FaCog, FaBackward } from "react-icons/fa";
 import "../Style.css";
 import { theme } from "../../Stores/theme";
 import { BsCode } from "react-icons/bs";
@@ -36,6 +37,9 @@ function SettingsNav() {
             menuItems.map((m) => {
               return (
                 <Link
+                  onClick={() => {
+                    window.api.sendLog("Clicked on " + m.name);
+                  }}
                   to={m.path}
                   className={
                     location.pathname === m.path
@@ -49,17 +53,30 @@ function SettingsNav() {
               );
             })
           ) : (
-            <Link
-              to="/settings/dev"
-              className={
-                location.pathname === "/settings/dev"
-                  ? "SINGLE-NAVBAR-ITEM text-center bg-black bg-opacity-50 w-50 text-4xl inline-flex text-white active:text-gray-100  p-2 m-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
-                  : "SINGLE-NAVBAR-ITEM text-center text-4xl text-white w-50 inline-flex active:text-gray-100 bg-black bg-opacity-20 p-2 m-5 rounded-lg active:bg-opacity-40 transition active:scale-95"
-              }
-            >
-              <BsCode className="text-emerald-400" />
-              <p className="inline-flex px-5">Dev Mode</p>
-            </Link>
+            <div>
+              <Link
+                to="/settings/dev"
+                className={
+                  location.pathname === "/settings/app"
+                    ? "SINGLE-NAVBAR-ITEM text-center bg-black bg-opacity-50 w-50 text-4xl inline-flex text-white active:text-gray-100  p-2 m-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
+                    : "SINGLE-NAVBAR-ITEM text-center text-4xl text-white w-50 inline-flex active:text-gray-100 bg-black bg-opacity-20 p-2 m-5 rounded-lg active:bg-opacity-40 transition active:scale-95"
+                }
+              >
+                <FaBackward className="text-emerald-400" />
+                <p className="inline-flex px-5">Go Back</p>
+              </Link>
+              <Link
+                to="/settings/dev"
+                className={
+                  location.pathname === "/settings/dev"
+                    ? "SINGLE-NAVBAR-ITEM text-center bg-black bg-opacity-50 w-50 text-4xl inline-flex text-white active:text-gray-100  p-2 m-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
+                    : "SINGLE-NAVBAR-ITEM text-center text-4xl text-white w-50 inline-flex active:text-gray-100 bg-black bg-opacity-20 p-2 m-5 rounded-lg active:bg-opacity-40 transition active:scale-95"
+                }
+              >
+                <BsCode className="text-emerald-400" />
+                <p className="inline-flex px-5">Dev Mode</p>
+              </Link>
+            </div>
           )}
         </div>
       </div>

@@ -1,4 +1,4 @@
-import { FaCar, FaPhoneAlt, FaCog, FaRadio } from "react-icons/fa";
+import { FaCar, FaPhoneAlt, FaCog } from "react-icons/fa";
 import { GiRadioTower } from "react-icons/gi";
 import { BsSnow } from "react-icons/bs";
 import React from "react";
@@ -37,7 +37,7 @@ function Layout() {
     {
       name: "Settings",
       icon: <FaCog />,
-      path: "/settings/vehicle",
+      path: "/settings/app",
     },
   ];
 
