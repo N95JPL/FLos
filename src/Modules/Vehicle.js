@@ -1,7 +1,8 @@
 import React from "react";
-import { theme } from "../Stores/theme";
+
 
 function Vehicle() {
+
   return (
     <div className="h-screen flex items-center justify-center p-10">
       <div className="max-w-4xl w-full flex flex-col">

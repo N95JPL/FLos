@@ -1,6 +1,5 @@
 /* eslint-disable no-unused-vars */
 const { mediumSpeed } = require("./VariableMaps/MediumSpeedVar");
-const log = require("../electron")
 const { Map } = require("./CanMap/canMap");
 const IDs = [968, 904, 888, 680, 520, 360, 72, 40];
 

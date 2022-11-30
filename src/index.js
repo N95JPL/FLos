@@ -22,7 +22,6 @@ let setup = false;
 function setUp() {
   setMediumSpeed = mediumSpeed();
   window.api.onMediumSpeed((event, msg) => {
-    window.api.sendLog(msg);
     for (const x in msg) {
       for (const y in msg[x]) {
         const a = "set" + capitalize(y.toString());

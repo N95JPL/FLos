@@ -21,7 +21,7 @@ function Dev() {
               Debug Information
             </h1>
             <p className="text-sm mb-2.5">
-              Only touch this if you know what you're doing! -Josh
+              Basic stuff... be warned, leave this for too long... and the files are HUGE!
             </p>
           </div>
           <div className="flex flex-col items-center gap-2.5 mt-2.5">

@@ -5,7 +5,6 @@ contextBridge.exposeInMainWorld('api', {
     actionBrightness: (msg) => ipcRenderer.send('actionBrightness', msg),
     actionSettings: (msg) => ipcRenderer.send('actionSettings', msg),
     dataFull: (msg) => ipcRenderer.send('dataFull', msg),
-    sendLog: (msg) => ipcRenderer.send('sendLog', msg),
     canRecorder: (msg) => ipcRenderer.send('canRecorder', msg),
     close: (msg) => ipcRenderer.send('close', msg),
     onMediumSpeed: (callback) => ipcRenderer.on('mediumSpeed', callback),

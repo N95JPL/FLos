@@ -61,6 +61,9 @@ function VehicleSettings() {
       handle: "Mirror_Fold",
     },
   ];
+  var parseFunc = function (x, y) {
+    return x.y;
+  };
   return (
     <div className="fixed h-screen w-[87%]">
       <div className="flex h-[20%] w-full">
