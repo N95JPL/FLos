@@ -3,8 +3,8 @@ const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
 const { VINDecode } = require("../XML/VINDecode");
 const id = Map;
 
-// var arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
-var arrBuilder = []
+var arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
+//var arrBuilder = []
 var CCF = ""
 var CCFString = ""
 var VIN = ""
@@ -32,7 +32,6 @@ function ms1025(msg) {
             CCF = CCF.replaceAll(",", "");
             CCFString = hex2a(CCF);
             VIN = CCFString.substring(3, 20);
-            VIN = "SAJAC0622BNR87650"
             console.log("This vehicles VIN: " + VIN);
             decodeModel(VIN);
             setup = true;
