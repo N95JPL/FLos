@@ -1,7 +1,5 @@
-const { Map } = require("../CanMap/canMap");
 const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
 const { VINDecode } = require("../XML/VINDecode");
-const id = Map;
 
 var arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
 //var arrBuilder = []
