@@ -8,6 +8,7 @@ const { Out } = require("./resources/CanMap/canOut");
 const { SettingsOut } = require("./resources/CanMap/canSetting");
 const can = require("socketcan");
 const fs = require("fs");
+let parseMediumSpeed = require("./resources/MediumSpeed");
 let changedMedium = {
   time: {},
   temperature: {},
@@ -26,8 +27,6 @@ module.exports = function (window, dev) {
   let canDataHSFile;
 
   let sendClimateMsg;
-
-  const msID = [968, 904, 680, 520, 40, 360, 72, 888];
 
   // let canIds = Map;
   let outIds = Out;
@@ -50,9 +49,9 @@ module.exports = function (window, dev) {
   let can1;
   try {
     can0 = can.createRawChannel("can0", true);
-    // log("CAN0 Started");
+    console.log("CAN0 Started");
     can1 = can.createRawChannel("can1", true);
-    // log("CAN1 Started");
+    console.log("CAN1 Started");
   } catch {
     exec(
       "sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e"
@@ -61,7 +60,6 @@ module.exports = function (window, dev) {
     can1 = can.createRawChannel("can1", true);
   }
 
-  let parseMediumSpeed = require("./resources/MediumSpeed");
   // sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e
   can0.addListener("onMessage", function (msg) {
     if (canRecordingMS) {
@@ -77,9 +75,7 @@ module.exports = function (window, dev) {
       canDataMS = "";
       canDataMSval = "";
     }
-    if (msID.includes(msg.id)) {
-      parseMediumSpeed(msg, window);
-    }
+    parseMediumSpeed(msg);
   });
   can1.addListener("onMessage", function (msg) {
     if (canRecordingHS) {

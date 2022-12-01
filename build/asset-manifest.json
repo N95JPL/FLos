@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5f0181c3.css",
-    "main.js": "./static/js/main.8bd95817.js",
+    "main.js": "./static/js/main.bacf24a0.js",
     "static/media/defrost.svg": "./static/media/defrost.392fffbd25583cbbaf99883d3b33459e.svg",
     "static/media/driverSeat.svg": "./static/media/driverSeat.81dad9c439d8ec89104a1d9abb0a792e.svg",
     "static/media/rearHeater.svg": "./static/media/rearHeater.4d7ec875226f16909ce22e8b0c4e80e8.svg",
@@ -10,10 +10,10 @@
     "static/media/auto.svg": "./static/media/auto.83e02ffb2e09441220e16dba0338f1fd.svg",
     "index.html": "./index.html",
     "main.5f0181c3.css.map": "./static/css/main.5f0181c3.css.map",
-    "main.8bd95817.js.map": "./static/js/main.8bd95817.js.map"
+    "main.bacf24a0.js.map": "./static/js/main.bacf24a0.js.map"
   },
   "entrypoints": [
     "static/css/main.5f0181c3.css",
-    "static/js/main.8bd95817.js"
+    "static/js/main.bacf24a0.js"
   ]
 }
