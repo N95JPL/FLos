@@ -52,6 +52,9 @@ function ms1025(msg) {
                 decodeModelID(vehicleInfo.data.VIN);
                 if (is_model) {
                     decodeModel(vehicleInfo.data.VIN)
+                    if (!vehicleInfo.data.includes("-")) {
+                        setup = true
+                    }
                 }
             }
             if (!setup) {
