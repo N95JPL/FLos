@@ -58,7 +58,7 @@ function ms1025(msg) {
                 console.log("Parsing vehicle data has failed - See parsed data below")
                 console.log("VIN: " + vehicleInfo.data.VIN)
                 console.log("Model ID: " + vehicleInfo.data.model_id)
-                console.log("Brand: " + vehicleInfo.data.brand)
+                console.log("Brand: " + vehicleInfo.data.Brand)
                 arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
                 CCF = ""
                 CCFString = ""
