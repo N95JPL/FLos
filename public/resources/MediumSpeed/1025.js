@@ -51,7 +51,7 @@ function ms1025(msg) {
             if (vehicleInfo.data.VIN.length == 17) {
                 decodeModelID(vehicleInfo.data.VIN);
                 if (is_model) {
-                    decodeModel(vehicleInfo.data.VIN, vehicleInfo.data.model_id)
+                    decodeModel(vehicleInfo.data.VIN)
                 }
             }
             if (!setup) {
@@ -129,7 +129,7 @@ function decodeModelID(VIN) {
     }
 }
 
-function decodeModel(VIN, model_id) {
+function decodeModel(VIN) {
     var charpos = "1,3"
     var opt = ""
     var charval = ""
