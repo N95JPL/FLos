@@ -142,13 +142,15 @@ function decodeModel(VIN) {
         if (!VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Char) {
             name = VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Name
             vehicleInfo.data[name] = VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Decode
+            console.log(name + ": " + VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Decode + " | " + vehicleInfo.data[name])
         } else {
             charpos = VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Char
             val_test = VIN.substring(parseInt(charpos.charAt(0) - 1), parseInt(charpos.charAt(2)))
             name = VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Name
             for (var x = 0; x < VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Value.length; x++) {
                 if (val_test == VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Value[x].Value) {
-                    vehicleInfo.data[name] = VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Value[x].Value
+                    vehicleInfo.data[name] = VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Value[x].Decode
+                    console.log(name + ": " + VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Decode + " | " + vehicleInfo.data[name])
                     break
                 }
             }
