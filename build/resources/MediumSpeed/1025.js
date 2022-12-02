@@ -1,14 +1,29 @@
-const { Map } = require("../CanMap/canMap");
 const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
 const { VINDecode } = require("../XML/VINDecode");
-const id = Map;
-
-// var arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
-var arrBuilder = []
+const { vehicleInfo } = require("../VariableMaps/VehicleInfoVar");
+var arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
+//var Builder = []
 var CCF = ""
 var CCFString = ""
-var VIN = ""
-var model_id = ""
+var is_model = false
+var manifest_id = ""
+
+//Important stuff that will need broadcasting
+// vehicleInfo.data.VIN = "-"
+// vehicleInfo.data.model_id = "-"
+// vehicleInfo.data.brand = "-"
+// vehicleInfo.data.model = "-"
+// vehicleInfo.data.modelName = "-"
+// vehicleInfo.data.market = "-"
+// vehicleInfo.data.bodyStyle = "-"
+// vehicleInfo.data.trim = "-"
+// vehicleInfo.data.emission = "-"
+// vehicleInfo.data.modelYear = "-"
+// vehicleInfo.data.plant = "-"
+// vehicleInfo.data.driver = "-"
+// vehicleInfo.data.transmission = "-"
+// vehicleInfo.data.engine = "-"
+
 var setup = false
 
 function ms1025(msg) {
@@ -31,37 +46,82 @@ function ms1025(msg) {
             CCF = arrBuilder.join("")
             CCF = CCF.replaceAll(",", "");
             CCFString = hex2a(CCF);
-            VIN = CCFString.substring(3, 20);
-            VIN = "SAJAC0622BNR87650"
-            console.log("This vehicles VIN: " + VIN);
-            decodeModel(VIN);
-            setup = true;
+            vehicleInfo.data.VIN = CCFString.substring(3, 20);
+            console.log("This vehicles VIN: " + vehicleInfo.data.VIN);
+            if (vehicleInfo.data.VIN.length == 17) {
+                decodeModelID(vehicleInfo.data.VIN);
+                if (is_model) {
+                    decodeModel(vehicleInfo.data.VIN)
+                    console.log("It would appear that all the vehicle info has been decoded!")
+                    console.log("VIN: " + vehicleInfo.data.VIN)
+                    console.log("Model ID: " + vehicleInfo.data.model_id)
+                    console.log("Brand: " + vehicleInfo.data.Brand)
+                    console.log("Model: " + vehicleInfo.data.Model)
+                    console.log("Model Name: " + vehicleInfo.data.ModelName)
+                    console.log("Market: " + vehicleInfo.data.Market)
+                    console.log("Body Style: " + vehicleInfo.data.BodyStyle)
+                    console.log("Trim: " + vehicleInfo.data.Trim)
+                    console.log("Emission: " + vehicleInfo.data.Emission)
+                    console.log("Model Year: " + vehicleInfo.data.ModelYear)
+                    console.log("Plant: " + vehicleInfo.data.Plant)
+                    console.log("Driver: " + vehicleInfo.data.Driver)
+                    console.log("Transmission: " + vehicleInfo.data.Transmission)
+                    console.log("Engine: " + vehicleInfo.data.Engine)
+
+                    setup = true
+                }
+            }
+            if (!setup) {
+                console.log("Parsing vehicle data has failed - See parsed data below")
+                console.log("VIN: " + vehicleInfo.data.VIN)
+                console.log("Model ID: " + vehicleInfo.data.model_id)
+                console.log("Brand: " + vehicleInfo.data.Brand)
+                console.log("Model: " + vehicleInfo.data.Model)
+                console.log("Model Name: " + vehicleInfo.data.ModelName)
+                console.log("Market: " + vehicleInfo.data.Market)
+                console.log("Body Style: " + vehicleInfo.data.BodyStyle)
+                console.log("Trim: " + vehicleInfo.data.Trim)
+                console.log("Emission: " + vehicleInfo.data.Emission)
+                console.log("Model Year: " + vehicleInfo.data.ModelYear)
+                console.log("Plant: " + vehicleInfo.data.Plant)
+                console.log("Driver: " + vehicleInfo.data.Driver)
+                console.log("Transmission: " + vehicleInfo.data.Transmission)
+                console.log("Engine: " + vehicleInfo.data.Engine)
+                arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
+                CCF = ""
+                CCFString = ""
+                vehicleInfo.data.VIN = "-"
+                vehicleInfo.data.model_id = "-"
+                vehicleInfo.data.Brand = "-"
+                vehicleInfo.data.Model = "-"
+                vehicleInfo.data.ModelName = "-"
+                vehicleInfo.data.Market = "-"
+                vehicleInfo.data.BodyStyle = "-"
+                vehicleInfo.data.Trim = "-"
+                vehicleInfo.data.Emission = "-"
+                vehicleInfo.data.ModelYear = "-"
+                vehicleInfo.data.Plant = "-"
+                vehicleInfo.data.Driver = "-"
+                vehicleInfo.data.Transmission = "-"
+                vehicleInfo.data.Engine = "-"
+            }
         }
     }
 }
 
-function decodeModel(VIN) {
-    var test = []
+function decodeModelID(VIN) {
     var charpos = "1,3"
     var opt = ""
     var charval = ""
     var val_test = ""
-    var is_model = false
+    is_model = false
     for (var i = 0; i < VINDecode["Models"].length; i++) {
-        if (is_model) {
-            model_id = VINDecode.Models[i].DecodeModel
-            console.log("This vehicle's model ID is: " + model_id)
-            i = VINDecode["Models"].length + 1
-            break
-        }
         console.log("Running Model: " + i)
         console.log("Number of Tests to run: " + VINDecode["Models"][i]["Test"].length)
         for (var x = 0; x < VINDecode["Models"][i]["Test"].length; x++) {
-            console.log("Running test: " + x)
             charpos = VINDecode.Models[i].Test[x].CharPos
             opt = VINDecode.Models[i].Test[x].Operator
             charval = VINDecode.Models[i].Test[x].CharValue
-
             if (charpos.includes(",")) {
                 val_test = VIN.substring(parseInt(charpos.charAt(0) - 1), parseInt(charpos.charAt(2)))
             } else {
@@ -81,17 +141,51 @@ function decodeModel(VIN) {
                 }
             }
             if (is_model == false) {
-                console.log("Test Failed - Answer made: " + val_test + "... Answer Expected: " + charval)
                 break
             } else {
-                console.log("Test Passed - Answer made: " + val_test + "... Answer Expected: " + charval)
             }
         }
-        model_id = VINDecode.Models[i].DecodeModel
+        if (is_model) {
+            vehicleInfo.data.model_id = VINDecode.Models[i].DecodeModel
+            i = VINDecode["Models"].length + 1
+            break
+        }
     }
-    console.log("Model ID: " + model_id)
+    if (!is_model) {
+        console.error("All tests have failed!\nIs this a JLR Vehicle?\nVIN: " + vehicleInfo.data.VIN)
+
+    }
 }
 
+function decodeModel(VIN) {
+    var charpos = "1,3"
+    var opt = ""
+    var charval = ""
+    var val_test = ""
+    var name = ""
+    for (var i = 0; i < VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute.length; i++) {
+        if (!VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Char) {
+            name = VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Name
+            vehicleInfo.data[name] = VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Decode
+            console.log(name + ": " + VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Decode + " | " + vehicleInfo.data[name])
+        } else {
+            charpos = VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Char
+            if (charpos.includes(",")) {
+                val_test = VIN.substring(parseInt(charpos.charAt(0) - 1), parseInt(charpos.charAt(2)))
+            } else {
+                val_test = VIN.charAt(parseInt(charpos - 1))
+            }
+            name = VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Name
+            for (var x = 0; x < VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Value.length; x++) {
+                if (val_test == VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Value[x].Value) {
+                    vehicleInfo.data[name] = VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Value[x].Decode
+                    console.log(name + ": " + VINDecode.Decodes[(vehicleInfo.data.model_id - 1)].Attribute[i].Decode + " | " + vehicleInfo.data[name])
+                    break
+                }
+            }
+        }
+    }
+}
 
 function hex2a(str1) {
     var hex = str1.toString();
