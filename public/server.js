@@ -6,10 +6,11 @@ const {
 } = require("./resources/VariableMaps/MediumSpeedVar");
 const { Out } = require("./resources/CanMap/canOut");
 const { SettingsOut } = require("./resources/CanMap/canSetting");
+const { vehicleInfo, vehicleInfoPrev } = require("./resources/VariableMaps/VehicleInfoVar");
 const can = require("socketcan");
 const fs = require("fs");
 let parseMediumSpeed = require("./resources/MediumSpeed");
-const { vehicleInfo, vehicleInfoPrev } = require("./resources/VariableMaps/VehicleInfoVar");
+
 let changedMedium = {
   time: {},
   temperature: {},
@@ -62,7 +63,15 @@ module.exports = function (window, dev) {
     can0 = can.createRawChannel("can0", true);
     can1 = can.createRawChannel("can1", true);
   }
-
+  ipcMain.on("vehicleInfo", (event, msg) => {
+    console.log("Message about vehicle from UI")
+    for (let key in msg) {
+      if (msg[key] != "-") {
+        vehicleInfo[key] = msg[key];
+      }
+    }
+    console.log(vehicleInfo)
+  });
   // sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e
   can0.addListener("onMessage", function (msg) {
     if (canRecordingMS) {

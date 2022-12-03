@@ -1,4 +1,3 @@
-/* eslint-disable prefer-const */
 let vehicleInfo = {
   firstTimeSetup: true,
   setupStep: 0,

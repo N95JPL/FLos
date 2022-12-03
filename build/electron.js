@@ -1,7 +1,7 @@
 const { ipcMain, app, BrowserWindow } = require("electron");
 const path = require("path");
 const isDev = require("electron-is-dev");
-
+const appPath = app.getPath('userData')
 let mainWindow;
 process.on("uncaughtException", (error) => {
   console.log("[ERROR]", error);
@@ -49,6 +49,7 @@ function createWindow() {
             ? "http://localhost:3000"
             : `file://${path.join(__dirname, "../build/index.html")}`
         );
+        console.log(appPath)
       }, 2000);
     }, 6000);
   });

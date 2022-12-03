@@ -43,6 +43,22 @@ export default function App() {
   );
 }
 function setUp() {
+  const firstTimeSetup = vehicleInfo((state) => state.firstTimeSetup);
+  const setupStep = vehicleInfo((state) => state.setupStep);
+  const VIN = vehicleInfo((state) => state.VIN);
+  const Model_id = vehicleInfo((state) => state.Model_id);
+  const Brand = vehicleInfo((state) => state.Brand);
+  const Model = vehicleInfo((state) => state.Model);
+  const ModelName = vehicleInfo((state) => state.ModelName);
+  const Market = vehicleInfo((state) => state.Market);
+  const BodyStyle = vehicleInfo((state) => state.BodyStyle);
+  const Trim = vehicleInfo((state) => state.Trim);
+  const Emission = vehicleInfo((state) => state.Emission);
+  const ModelYear = vehicleInfo((state) => state.ModelYear);
+  const Plant = vehicleInfo((state) => state.Plant);
+  const Driver = vehicleInfo((state) => state.Driver);
+  const Transmission = vehicleInfo((state) => state.Transmission);
+  const Engine = vehicleInfo((state) => state.Engine);
   const setFirstTimeSetup = vehicleInfo((state) => state.setFirstTimeSetup);
   const setSetupStep = vehicleInfo((state) => state.setSetupStep);
   const setVIN = vehicleInfo((state) => state.setVIN);
@@ -59,7 +75,23 @@ function setUp() {
   const setDriver = vehicleInfo((state) => state.setDriver);
   const setTransmission = vehicleInfo((state) => state.setTransmission);
   const setEngine = vehicleInfo((state) => state.setEngine);
-
+  window.api.vehicleInfo({
+    firstTimeSetup: firstTimeSetup,
+    VIN: VIN,
+    Model_id: Model_id,
+    Brand: Brand,
+    Model: Model,
+    ModelName: ModelName,
+    Market: Market,
+    BodyStyle: BodyStyle,
+    Trim: Trim,
+    Emission: Emission,
+    ModelYear: ModelYear,
+    Plant: Plant,
+    Driver: Driver,
+    Transmission: Transmission,
+    Engine: Engine,
+  });
   window.api.onVehicleInfo((event, msg) => {
     console.log(msg);
     for (const x in msg) {

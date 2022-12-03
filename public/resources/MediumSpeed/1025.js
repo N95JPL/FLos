@@ -1,6 +1,7 @@
 const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
 const { VINDecode } = require("../XML/VINDecode");
 const { vehicleInfo } = require("../VariableMaps/VehicleInfoVar");
+
 var arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
 //var Builder = []
 var CCF = ""
@@ -8,6 +9,7 @@ var CCFString = ""
 var is_model = false
 var manifest_id = ""
 
+var setup = false
 //Important stuff that will need broadcasting
 // vehicleInfo.VIN = "-"
 // vehicleInfo.Model_id = "-"
@@ -24,36 +26,59 @@ var manifest_id = ""
 // vehicleInfo.transmission = "-"
 // vehicleInfo.engine = "-"
 
-var setup = false
 
 function ms1025(msg, window) {
-    if (arrBuilder.includes("-")) {
-        vehicleInfo.setupStep = vehicleInfo.setupStep + 1
-        const strId = msg.id;
-        const arr = [...msg.data];
-        // console.log(msg.data);
-        var arrData = [arr[1], arr[2], arr[3], arr[4], arr[5], arr[6], arr[7]];
-        for (var i = 0; i < arrData.length; i++) {
-            arrData[i] = arrData[i].toString(16);
-            if (arrData[i].length < 2) {
-                arrData[i] = "0" + arrData[i];
+    if (!setup) {
+        if (arrBuilder.includes("-")) {
+            vehicleInfo.setupStep = vehicleInfo.setupStep + 1
+            const strId = msg.id;
+            const arr = [...msg.data];
+            // console.log(msg.data);
+            var arrData = [arr[1], arr[2], arr[3], arr[4], arr[5], arr[6], arr[7]];
+            for (var i = 0; i < arrData.length; i++) {
+                arrData[i] = arrData[i].toString(16);
+                if (arrData[i].length < 2) {
+                    arrData[i] = "0" + arrData[i];
+                }
             }
-        }
-        arrBuilder[parseInt(arr[0]) - 1] = arrData;
-        console.log((arr[0] - 1) + ": " + (arrBuilder[(arr[0] - 1)]));
-    } else {
-        if (!setup) {
-            console.log("All CCF data received");
-            CCF = arrBuilder.join("")
-            CCF = CCF.replaceAll(",", "");
-            CCFString = hex2a(CCF);
-            vehicleInfo.VIN = CCFString.substring(3, 20);
-            console.log("This vehicles VIN: " + vehicleInfo.VIN);
-            if (vehicleInfo.VIN.length == 17) {
-                decodeModelID(vehicleInfo.VIN);
-                if (is_model) {
-                    decodeModel(vehicleInfo.VIN)
-                    console.log("It would appear that all the vehicle info has been decoded!")
+            arrBuilder[parseInt(arr[0]) - 1] = arrData;
+            console.log((arr[0] - 1) + ": " + (arrBuilder[(arr[0] - 1)]));
+        } else {
+            if (vehicleInfo.firstTimeSetup) {
+                console.log("All CCF data received");
+                CCF = arrBuilder.join("")
+                CCF = CCF.replaceAll(",", "");
+                CCFString = hex2a(CCF);
+                vehicleInfo.VIN = CCFString.substring(3, 20);
+                console.log("This vehicles VIN: " + vehicleInfo.VIN);
+                if (vehicleInfo.VIN.length == 17) {
+                    decodeModelID(vehicleInfo.VIN);
+                    if (is_model) {
+                        decodeModel(vehicleInfo.VIN);
+                        console.log("It would appear that all the vehicle info has been decoded!")
+                        console.log("VIN: " + vehicleInfo.VIN)
+                        console.log("Model ID: " + vehicleInfo.Model_id)
+                        console.log("Brand: " + vehicleInfo.Brand)
+                        console.log("Model: " + vehicleInfo.Model)
+                        console.log("Model Name: " + vehicleInfo.ModelName)
+                        console.log("Market: " + vehicleInfo.Market)
+                        console.log("Body Style: " + vehicleInfo.BodyStyle)
+                        console.log("Trim: " + vehicleInfo.Trim)
+                        console.log("Emission: " + vehicleInfo.Emission)
+                        console.log("Model Year: " + vehicleInfo.ModelYear)
+                        console.log("Plant: " + vehicleInfo.Plant)
+                        console.log("Driver: " + vehicleInfo.Driver)
+                        console.log("Transmission: " + vehicleInfo.Transmission)
+                        console.log("Engine: " + vehicleInfo.Engine)
+                        window.webContents.send("fadeOut", "now");
+                        setup = true
+                        setTimeout(() => {
+                            vehicleInfo.firstTimeSetup = false
+                        }, 3000);
+                    }
+                }
+                if (!setup) {
+                    console.log("Parsing vehicle data has failed - See parsed data below")
                     console.log("VIN: " + vehicleInfo.VIN)
                     console.log("Model ID: " + vehicleInfo.Model_id)
                     console.log("Brand: " + vehicleInfo.Brand)
@@ -68,46 +93,52 @@ function ms1025(msg, window) {
                     console.log("Driver: " + vehicleInfo.Driver)
                     console.log("Transmission: " + vehicleInfo.Transmission)
                     console.log("Engine: " + vehicleInfo.Engine)
-                    window.webContents.send("fadeOut", "now");
-                    setTimeout(() => {
-                        vehicleInfo.firstTimeSetup = false
-                    }, 3000);
-                    setup = true
+                    arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
+                    CCF = ""
+                    CCFString = ""
+                    vehicleInfo.firstTimeSetup = true
+                    vehicleInfo.VIN = "-"
+                    vehicleInfo.Model_id = "-"
+                    vehicleInfo.Brand = "-"
+                    vehicleInfo.Model = "-"
+                    vehicleInfo.ModelName = "-"
+                    vehicleInfo.Market = "-"
+                    vehicleInfo.BodyStyle = "-"
+                    vehicleInfo.Trim = "-"
+                    vehicleInfo.Emission = "-"
+                    vehicleInfo.ModelYear = "-"
+                    vehicleInfo.Plant = "-"
+                    vehicleInfo.Driver = "-"
+                    vehicleInfo.Transmission = "-"
+                    vehicleInfo.Engine = "-"
                 }
-            }
-            if (!setup) {
-                console.log("Parsing vehicle data has failed - See parsed data below")
-                console.log("VIN: " + vehicleInfo.VIN)
-                console.log("Model ID: " + vehicleInfo.Model_id)
-                console.log("Brand: " + vehicleInfo.Brand)
-                console.log("Model: " + vehicleInfo.Model)
-                console.log("Model Name: " + vehicleInfo.ModelName)
-                console.log("Market: " + vehicleInfo.Market)
-                console.log("Body Style: " + vehicleInfo.BodyStyle)
-                console.log("Trim: " + vehicleInfo.Trim)
-                console.log("Emission: " + vehicleInfo.Emission)
-                console.log("Model Year: " + vehicleInfo.ModelYear)
-                console.log("Plant: " + vehicleInfo.Plant)
-                console.log("Driver: " + vehicleInfo.Driver)
-                console.log("Transmission: " + vehicleInfo.Transmission)
-                console.log("Engine: " + vehicleInfo.Engine)
-                arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
-                CCF = ""
-                CCFString = ""
-                vehicleInfo.VIN = "-"
-                vehicleInfo.Model_id = "-"
-                vehicleInfo.Brand = "-"
-                vehicleInfo.Model = "-"
-                vehicleInfo.ModelName = "-"
-                vehicleInfo.Market = "-"
-                vehicleInfo.BodyStyle = "-"
-                vehicleInfo.Trim = "-"
-                vehicleInfo.Emission = "-"
-                vehicleInfo.ModelYear = "-"
-                vehicleInfo.Plant = "-"
-                vehicleInfo.Driver = "-"
-                vehicleInfo.Transmission = "-"
-                vehicleInfo.Engine = "-"
+            } else {
+                console.log("All CCF data received");
+                CCF = arrBuilder.join("")
+                CCF = CCF.replaceAll(",", "");
+                CCFString = hex2a(CCF);
+                let VIN = CCFString.substring(3, 20);
+                if (VIN == vehicleInfo.VIN) {
+                    setup = true
+                    console.log("This is the same vehicle as before")
+                    console.log("This vehicles VIN: " + vehicleInfo.VIN);
+                } else {
+                    vehicleInfo.firstTimeSetup = true
+                    vehicleInfo.VIN = VIN
+                    vehicleInfo.Model_id = "-"
+                    vehicleInfo.Brand = "-"
+                    vehicleInfo.Model = "-"
+                    vehicleInfo.ModelName = "-"
+                    vehicleInfo.Market = "-"
+                    vehicleInfo.BodyStyle = "-"
+                    vehicleInfo.Trim = "-"
+                    vehicleInfo.Emission = "-"
+                    vehicleInfo.ModelYear = "-"
+                    vehicleInfo.Plant = "-"
+                    vehicleInfo.Driver = "-"
+                    vehicleInfo.Transmission = "-"
+                    vehicleInfo.Engine = "-"
+                }
             }
         }
     }
@@ -151,7 +182,6 @@ function decodeModelID(VIN) {
         }
         if (is_model) {
             vehicleInfo.Model_id = VINDecode.Models[i].DecodeModel
-            i = VINDecode["Models"].length + 1
             break
         }
     }
