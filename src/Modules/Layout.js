@@ -5,9 +5,22 @@ import React from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
 import { theme } from "../Stores/theme";
 import { mediumSpeed } from "../Stores/mediumSpeed";
+import { vehicleInfo } from "../Stores/vehicleInfo";
 import "./Style.css";
 
 function Layout() {
+  const firstTimeSetup = vehicleInfo((state) => state.firstTimeSetup);
+  // const gradient = (primaryColorSet + " " + secondaryColorSet).toString();
+
+  if (firstTimeSetup) {
+    return <FirstTimeSetup />;
+  } else {
+    return <Nav />;
+  }
+}
+export default Layout;
+
+function Nav() {
   const primaryColor = theme((state) => state.primaryColor);
   const primaryColorSet = "from-" + primaryColor + "-600";
   const secondaryColor = theme((state) => state.secondaryColor);
@@ -43,17 +56,15 @@ function Layout() {
 
   const hour = mediumSpeed((state) => state.hour);
   const minute = mediumSpeed((state) => state.minute);
-  // const gradient = (primaryColorSet + " " + secondaryColorSet).toString();
-
   return (
     <>
       <div
-        className={`NAVBAR-CONTAINER w-[13%] shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex h-screen absolute z-10 left-0 transition`}
+        className={`NAVBAR-CONTAINER w-[13%] fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex h-screen absolute z-10 left-0 transition`}
       >
         <div className="flex absolute justify-center items-center w-full">
-          <p className="py-0.75 m-2 text-xl font-bold">
+          <div className="py-0.75 m-2 text-xl font-bold">
             {hour}:{minute}
-          </p>
+          </div>
         </div>
         <div className="NAVBAR-ITEMS flex flex-col justify-between items-center py-10 w-full h-full">
           {menuItems.map((m) => {
@@ -80,5 +91,43 @@ function Layout() {
     </>
   );
 }
+window.api.onFadeOut((event, msg) => {
+  var element = document.getElementById("firstTime")
+  element.classList.add("fadeOut")
+  element.classList.remove("fadeIn")
+})
+function FirstTimeSetup() {
+  const setupStep = vehicleInfo((state) => state.setupStep);
+  const VIN = vehicleInfo((state) => state.VIN);
+  const model_id = vehicleInfo((state) => state.model_id);
+  const Brand = vehicleInfo((state) => state.Brand);
+  const Model = vehicleInfo((state) => state.Model);
+  const ModelName = vehicleInfo((state) => state.ModelName);
+  const Market = vehicleInfo((state) => state.Market);
+  const BodyStyle = vehicleInfo((state) => state.BodyStyle);
+  const Trim = vehicleInfo((state) => state.Trim);
+  const Emission = vehicleInfo((state) => state.Emission);
+  const ModelYear = vehicleInfo((state) => state.ModelYear);
+  const Plant = vehicleInfo((state) => state.Plant);
+  const Driver = vehicleInfo((state) => state.Driver);
+  const Transmission = vehicleInfo((state) => state.Transmission);
+  const Engine = vehicleInfo((state) => state.Engine);
 
-export default Layout;
+  return (
+    <>
+      <div id="firstTime" className="firstTime h-screen fade-in setup w-screen fixed items-center justify-center p-10">
+        <div className="setup fade-in w-full h-[25%] text-5xl flex items-center justify-center p-10">
+          <div>First Time Setup</div>
+        </div>
+        <div className="w-full h-[50%] flex items-center justify-center p-10">
+          <img id="img" className="img transition fadeIn" src={require("../Images/JaguarLogo.png")} />
+        </div>
+        <div id="InfoBar" className="setup fade-in w-full h-[25%] flex items-center flex-col justify-center p-10">
+          {setupStep != 28 ? <div className="flex">Receiving data: Part {setupStep} of 28 </div> : <div className="flex">CCF Processing Complete!</div>}
+          {ModelYear != "-" && Brand != "-" && ModelName != "-" && Trim != "-" && Model != "-" ? <div className="flex">{ModelYear} {Brand} {ModelName} {Trim} ({Model})</div> : null}
+          {VIN != "-" ? <div className="flex">VIN: {VIN} </div> : null}
+        </div>
+      </div>
+    </>
+  );
+}

@@ -8,5 +8,6 @@ contextBridge.exposeInMainWorld('api', {
     canRecorder: (msg) => ipcRenderer.send('canRecorder', msg),
     close: (msg) => ipcRenderer.send('close', msg),
     onMediumSpeed: (callback) => ipcRenderer.on('mediumSpeed', callback),
+    onVehicleInfo: (callback) => ipcRenderer.on('vehicleInfo', callback),
     onFadeOut: (callback) => ipcRenderer.on('fadeOut', callback)
 })

@@ -21,12 +21,48 @@ body {
   background-color: #252525;
   color: white;
 }
+
+#img {
+  width: 400px;
+  height: auto;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  animation-direction: alternate;
+}
+
+#setup {
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  animation-direction: alternate;
+}
+
+.fadeIn {
+  animation-name: fadeIn;
+}
+
+.fadeOut {
+  animation-name: fadeOut;
+}
+
 @keyframes fadeIn {
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
   }
 }
 
@@ -39,6 +75,7 @@ code {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

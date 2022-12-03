@@ -9,6 +9,7 @@ const { SettingsOut } = require("./resources/CanMap/canSetting");
 const can = require("socketcan");
 const fs = require("fs");
 let parseMediumSpeed = require("./resources/MediumSpeed");
+const { vehicleInfo, vehicleInfoPrev } = require("./resources/VariableMaps/VehicleInfoVar");
 let changedMedium = {
   time: {},
   temperature: {},
@@ -16,6 +17,8 @@ let changedMedium = {
   brightness: {},
   vehicleSettings: {},
 };
+let changedVehicleInfo = {
+}
 module.exports = function (window, dev) {
   let canDataMS;
   let canRecordingMS = false;
@@ -75,7 +78,7 @@ module.exports = function (window, dev) {
       canDataMS = "";
       canDataMSval = "";
     }
-    parseMediumSpeed(msg);
+    parseMediumSpeed(msg, window);
   });
   can1.addListener("onMessage", function (msg) {
     if (canRecordingHS) {
@@ -185,8 +188,11 @@ module.exports = function (window, dev) {
   ipcMain.on("dataFull", (event, msg) => {
     if (msg.includes("mediumSpeed")) {
       window.webContents.send("mediumSpeed", mediumSpeed);
+    } else if (msg.includes("vehicleInfo")) {
+      window.webContents.send("vehicleInfo", vehicleInfo);
     }
   });
+  // Set up the Medium Speed Interval
   setInterval(() => {
     let send = false;
     if (
@@ -221,6 +227,23 @@ module.exports = function (window, dev) {
         brightness: {},
         vehicleSettings: {},
       };
+    }
+  }, 100);
+  // Set up the Vehicle Info Interval
+  setInterval(() => {
+    let send = false;
+    for (const key in vehicleInfo) {
+      if (vehicleInfo[key] !== vehicleInfoPrev[key]) {
+        send = true;
+        changedVehicleInfo[`${key}`] = vehicleInfo[key];
+        vehicleInfoPrev[`${key}`] = vehicleInfo[key];
+      }
+    }
+    if (send) {
+      console.log(changedVehicleInfo);
+      window.webContents.send("vehicleInfo", changedVehicleInfo);
+      changedVehicleInfo = {
+      }
     }
   }, 100);
 };

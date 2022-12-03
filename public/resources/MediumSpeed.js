@@ -23,7 +23,7 @@ function parseMediumSpeed(msg, window) {
     } else if (msg.id === 888) {
       ms888(msg);
     } else if (msg.id === 1025) {
-      ms1025(msg);
+      ms1025(msg, window);
     }
   }
 }
