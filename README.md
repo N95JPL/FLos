@@ -1,12 +1,32 @@
 # Jaguar XF - Infotainment System
 ## Work in progress
-A Electron-React App to replace the Climate Control Module of my Jaguar XFS
+A Electron-React App to one day replace the Infotainment Module of my Jaguar XFS!
+### Features
+    - Decode multiple IDs from the Medium Speed Can-Bus network
+        - Climate (Driver/Pass Temperature, Interior Temp, Heated Screens etc)
+            - It can also manipulate them like the lower button panel
+            - The heated seat buttons dont work yet, additional hardware needed!
+        - VIN Decoding
+            - Parse the VIN and decode the age/make/model of the vehicle
+            - The first time the app launches, this will take a moment to configure
+        - Vehicle Settings
+            - These are currently read-only
+    - Personalise the theme settings
+    - Create a CanDump from the vehicles MS/HS CanBus (used for debugging and development)
+
+### Upcoming Features
+    - Apple CarPlay integration
+    - Car Configuration File parsing
+        - The app will then only show options relevent to the current vehicle
+    - Radio/Multimedia
+    - Bluetooth connection
+        - Notifications
+        - Music
 
 Based off rhysmorgan134/jaguar-xf-canbus-app - Big shoutout to him for all his hard work and assistance!
 ### Install
 1) Make sure RPi is running latest version
-2) Install NodeJs: curl -sL https://deb.nodesource.com/setup_18.x | sudo bash -
-3) Install NodeJS: sudo apt install nodejs
+2) Install NodeJs: This has only been tested on the latest 19.2.0
 4) Install CanUtils: sudo apt-get -y install can-utils libsocketcan2 libsocketcan-dev
 5) Modify /boot/config.txt to include
     * CAN bus controllers
@@ -22,13 +42,7 @@ Based off rhysmorgan134/jaguar-xf-canbus-app - Big shoutout to him for all his h
     ```
 7) Reboot Pi
 8) Download JagOS Repo
-9) run `npm i -f` (Note the `-f` this is required due to a TailWind Extender Package issue.
-    * Issue: This might fail, if it does, follow this: 
-    * Cut SocketCan out of the dependancies in package.json
-    * Run `npm i -f` again
-    * Paste SocketCan back in to package.json
-    * run `npm i-f` again
-    * SUCCESS    
+9) run `npm i`    
 10) Run `npm run` + either
     * pi64-build - For RPi 4 - 4GB+ (npm run pi64-build)
     * pi32-build - For Rpi 3 or Rpi 4 < 4GB (npm run pi32-build)
