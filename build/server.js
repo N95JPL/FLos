@@ -6,8 +6,11 @@ const {
 } = require("./resources/VariableMaps/MediumSpeedVar");
 const { Out } = require("./resources/CanMap/canOut");
 const { SettingsOut } = require("./resources/CanMap/canSetting");
+const { vehicleInfo, vehicleInfoPrev } = require("./resources/VariableMaps/VehicleInfoVar");
 const can = require("socketcan");
 const fs = require("fs");
+let parseMediumSpeed = require("./resources/MediumSpeed");
+
 let changedMedium = {
   time: {},
   temperature: {},
@@ -15,6 +18,8 @@ let changedMedium = {
   brightness: {},
   vehicleSettings: {},
 };
+let changedVehicleInfo = {
+}
 module.exports = function (window, dev) {
   let canDataMS;
   let canRecordingMS = false;
@@ -26,8 +31,6 @@ module.exports = function (window, dev) {
   let canDataHSFile;
 
   let sendClimateMsg;
-
-  const msID = [968, 904, 680, 520, 40, 360, 72, 888];
 
   // let canIds = Map;
   let outIds = Out;
@@ -50,9 +53,9 @@ module.exports = function (window, dev) {
   let can1;
   try {
     can0 = can.createRawChannel("can0", true);
-    // log("CAN0 Started");
+    console.log("CAN0 Started");
     can1 = can.createRawChannel("can1", true);
-    // log("CAN1 Started");
+    console.log("CAN1 Started");
   } catch {
     exec(
       "sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e"
@@ -60,8 +63,15 @@ module.exports = function (window, dev) {
     can0 = can.createRawChannel("can0", true);
     can1 = can.createRawChannel("can1", true);
   }
-
-  let parseMediumSpeed = require("./resources/MediumSpeed");
+  ipcMain.on("vehicleInfo", (event, msg) => {
+    console.log("Message about vehicle from UI")
+    for (let key in msg) {
+      if (msg[key] != "-") {
+        vehicleInfo[key] = msg[key];
+      }
+    }
+    console.log(vehicleInfo)
+  });
   // sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e
   can0.addListener("onMessage", function (msg) {
     if (canRecordingMS) {
@@ -77,9 +87,7 @@ module.exports = function (window, dev) {
       canDataMS = "";
       canDataMSval = "";
     }
-    if (msID.includes(msg.id)) {
-      parseMediumSpeed(msg, window);
-    }
+    parseMediumSpeed(msg, window);
   });
   can1.addListener("onMessage", function (msg) {
     if (canRecordingHS) {
@@ -189,8 +197,11 @@ module.exports = function (window, dev) {
   ipcMain.on("dataFull", (event, msg) => {
     if (msg.includes("mediumSpeed")) {
       window.webContents.send("mediumSpeed", mediumSpeed);
+    } else if (msg.includes("vehicleInfo")) {
+      window.webContents.send("vehicleInfo", vehicleInfo);
     }
   });
+  // Set up the Medium Speed Interval
   setInterval(() => {
     let send = false;
     if (
@@ -225,6 +236,23 @@ module.exports = function (window, dev) {
         brightness: {},
         vehicleSettings: {},
       };
+    }
+  }, 100);
+  // Set up the Vehicle Info Interval
+  setInterval(() => {
+    let send = false;
+    for (const key in vehicleInfo) {
+      if (vehicleInfo[key] !== vehicleInfoPrev[key]) {
+        send = true;
+        changedVehicleInfo[`${key}`] = vehicleInfo[key];
+        vehicleInfoPrev[`${key}`] = vehicleInfo[key];
+      }
+    }
+    if (send) {
+      console.log(changedVehicleInfo);
+      window.webContents.send("vehicleInfo", changedVehicleInfo);
+      changedVehicleInfo = {
+      }
     }
   }, 100);
 };

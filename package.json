@@ -25,6 +25,7 @@
     "react-scripts": "^5.1.0-next.14",
     "react-transition-group": "^4.4.2",
     "socketcan": "^4.0.1",
+    "store2": "^2.14.2",
     "tw-elements": "^1.0.0-alpha12",
     "zustand": "^4.0.0-rc.0"
   },
