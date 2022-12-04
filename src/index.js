@@ -44,7 +44,10 @@ export default function App() {
 }
 function setUp() {
   const firstTimeSetup = vehicleInfo((state) => state.firstTimeSetup);
+  const vinDecode = vehicleInfo((state) => state.vinDecode);
+  const eucdDecode = vehicleInfo((state) => state.eucdDecode);
   const setupStep = vehicleInfo((state) => state.setupStep);
+  const setupEUCDStep = vehicleInfo((state) => state.setupEUCDStep);
   const VIN = vehicleInfo((state) => state.VIN);
   const Model_id = vehicleInfo((state) => state.Model_id);
   const Brand = vehicleInfo((state) => state.Brand);
@@ -60,7 +63,10 @@ function setUp() {
   const Transmission = vehicleInfo((state) => state.Transmission);
   const Engine = vehicleInfo((state) => state.Engine);
   const setFirstTimeSetup = vehicleInfo((state) => state.setFirstTimeSetup);
+  const setVinDecode = vehicleInfo((state) => state.setVinDecode);
+  const setEucdDecode = vehicleInfo((state) => state.setEucdDecode);
   const setSetupStep = vehicleInfo((state) => state.setSetupStep);
+  const setSetupEucdStep = vehicleInfo((state) => state.setSetupEucdStep);
   const setVIN = vehicleInfo((state) => state.setVIN);
   const setModel_id = vehicleInfo((state) => state.setModel_id);
   const setModelYear = vehicleInfo((state) => state.setModelYear);

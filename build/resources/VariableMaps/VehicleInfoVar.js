@@ -1,6 +1,9 @@
 let vehicleInfo = {
   firstTimeSetup: true,
+  vinDecode: false,
+  eucdDecode: false,
   setupStep: 0,
+  setupEUCDStep: 0,
   VIN: "-",
   Model_id: "-",
   Brand: "-",
@@ -20,7 +23,10 @@ exports.vehicleInfo = vehicleInfo;
 
 let vehicleInfoPrev = {
   firstTimeSetup: true,
+  vinDecode: false,
+  eucdDecode: false,
   setupStep: 0,
+  setupEUCDStep: 0,
   VIN: "",
   model_id: "",
   Brand: "",

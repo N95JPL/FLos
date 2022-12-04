@@ -42,9 +42,9 @@ function ms1025(msg, window) {
                 }
             }
             arrBuilder[parseInt(arr[0]) - 1] = arrData;
-            console.log((arr[0] - 1) + ": " + (arrBuilder[(arr[0] - 1)]));
+            // console.log((arr[0] - 1) + ": " + (arrBuilder[(arr[0] - 1)]));
         } else {
-            if (vehicleInfo.firstTimeSetup) {
+            if (vehicleInfo.firstTimeSetup && !vehicleInfo.vinDecode) {
                 console.log("All CCF data received");
                 CCF = arrBuilder.join("")
                 CCF = CCF.replaceAll(",", "");
@@ -70,11 +70,8 @@ function ms1025(msg, window) {
                         console.log("Driver: " + vehicleInfo.Driver)
                         console.log("Transmission: " + vehicleInfo.Transmission)
                         console.log("Engine: " + vehicleInfo.Engine)
-                        window.webContents.send("fadeOut", "now");
                         setup = true
-                        setTimeout(() => {
-                            vehicleInfo.firstTimeSetup = false
-                        }, 3000);
+                        vehicleInfo.vinDecode = true
                     }
                 }
                 if (!setup) {
@@ -112,18 +109,21 @@ function ms1025(msg, window) {
                     vehicleInfo.Transmission = "-"
                     vehicleInfo.Engine = "-"
                 }
-            } else {
+            } else if (!vehicleInfo.firstTimeSetup && !vehicleInfo.vinDecode) {
                 console.log("All CCF data received");
                 CCF = arrBuilder.join("")
                 CCF = CCF.replaceAll(",", "");
                 CCFString = hex2a(CCF);
                 let VIN = CCFString.substring(3, 20);
                 if (VIN == vehicleInfo.VIN) {
+                    vehicleInfo.vinDecode = true
                     setup = true
                     console.log("This is the same vehicle as before")
                     console.log("This vehicles VIN: " + vehicleInfo.VIN);
                 } else {
                     vehicleInfo.firstTimeSetup = true
+                    vehicleInfo.vinDecode = false
+                    vehicleInfo.eucdDecode = false
                     vehicleInfo.VIN = VIN
                     vehicleInfo.Model_id = "-"
                     vehicleInfo.Brand = "-"
@@ -139,6 +139,8 @@ function ms1025(msg, window) {
                     vehicleInfo.Transmission = "-"
                     vehicleInfo.Engine = "-"
                 }
+            } else if (vehicleInfo.firstTimeSetup && vehicleInfo.vinDecode && vehicleInfo.eucdDecode) {
+                // window.webContents.send("fadeOut", "now");
             }
         }
     }
@@ -151,8 +153,8 @@ function decodeModelID(VIN) {
     var val_test = ""
     is_model = false
     for (var i = 0; i < VINDecode["Models"].length; i++) {
-        console.log("Running Model: " + i)
-        console.log("Number of Tests to run: " + VINDecode["Models"][i]["Test"].length)
+        // console.log("Running Model: " + i)
+        // console.log("Number of Tests to run: " + VINDecode["Models"][i]["Test"].length)
         for (var x = 0; x < VINDecode["Models"][i]["Test"].length; x++) {
             charpos = VINDecode.Models[i].Test[x].CharPos
             opt = VINDecode.Models[i].Test[x].Operator
