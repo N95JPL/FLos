@@ -2,7 +2,6 @@ const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
 const { VINDecode } = require("../XML/VINDecode");
 const { Vehicle_Manifest } = require("../XML/Vehicle_Manifest");
 const { vehicleInfo } = require("../VariableMaps/VehicleInfoVar");
-const { default: Vehicle } = require("../../../src/Modules/Vehicle");
 
 var arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
 //var Builder = []
@@ -30,16 +29,8 @@ function ms1026(msg, window) {
             arrBuilder[parseInt(arr[0]) - 1] = arrData;
             console.log("EUCD" + (arr[0] - 1) + ": " + (arrBuilder[(arr[0] - 1)]));
         } else {
-            if (!vehicleInfo.eucdDecode) {
-                for (var x = 0; x < Vehicle_Manifest.vehicle_range.length; x++) {
-                    if (Vehicle_Manifest.vehicle_range[x].brand == vehicleInfo.brand) {
-                        for (var y = 0; y < Vehicle_Manifest.vehicle_range[x].vehicle.length; y++) {
-                            if (Vehicle_Manifest.vehicle_range[x].vehicle[y].model.id == vehicleInfo.Model) {
+            if (!vehicleInfo.eucdDecode && vehicleInfo.vinDecode) {
 
-                            }
-                        }
-                    }
-                }
             }
         }
     }
