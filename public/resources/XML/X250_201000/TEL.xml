@@ -1,0 +1,36 @@
+<ECUs>
+	<ECU type="WDS" id="TEL_SYSTEM_A_2" moduletype="TEL">
+		<qualifier model="X250" year="MY10">
+			<qual type="CM_QUAL_TEL" value="VAL_TEL"/>
+		</qualifier>
+		<VSI/>
+		<VERONA deviceNo="0" bitLen="11" acceptMask="0xFFFF" specVersion="2" baudRate="125K">
+			<addressing type="physical" format="Normal">
+				<CAN srcId="0x98" targetId="0x90"/>
+				<address source="0x0" target="0x0"/>
+			</addressing>
+			<properties>
+				<property id="215" value="1"/>
+				<property id="6001" value="32"/>
+				<property id="6004" value="95"/>
+				<property id="6005" value="96"/>
+			</properties>
+			<securitymethods>
+				<operation type="CMD" value="31"/>
+			</securitymethods>
+			<swdl>
+				<property id="ISO14229_CAN_BAUD_RATE" value="2"/>
+				<property id="ISO14229_CAN_ID_SIZE" value="0"/>
+				<property id="ISO14229_PROTOCOL_VERSION" value="2"/>
+				<property id="SWDL_PARAM_KEY_CONST_REF" value="87" />
+				<property id="SWDL_PARAM_READ_ECU_SERIAL_NO" value="1"/>
+				<property id="SWDL_PARAM_SOFTWARE_DOWNLOAD_PHASE" value="2"/> <!-- SWDL-003 -->
+				<property id="ISO14229_ENG_MAX_PENDING_PERIOD" value="60000"/>
+				<property id="ISO14229_ENG_RX_TIMEOUT" value="1000"/>
+				<property id="ISO14229_ENG_TX_TIMEOUT" value="2000"/>
+				<property id="ISO14229_ENG_MAX_RETRY_PERIOD" value="6000"/>
+				<property id="SWDL_PARAM_GBL_SUBSTITUTION" value="1"/>
+			</swdl>
+		</VERONA>
+	</ECU>
+</ECUs>
