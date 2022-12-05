@@ -1,9 +1,12 @@
 let vehicleInfo = {
+  setupInfoLine: "Welcome to the JagOS First Time Setup Wizard",
   firstTimeSetup: true,
   vinDecode: false,
   eucdDecode: false,
   setupStep: 0,
   setupEUCDStep: 0,
+  CCFID: "-",
+  As_Built: "",
   VIN: "-",
   Model_id: "-",
   Brand: "-",
@@ -22,11 +25,14 @@ let vehicleInfo = {
 exports.vehicleInfo = vehicleInfo;
 
 let vehicleInfoPrev = {
+  setupInfoLine: "Welcome to the JagOS First Time Setup Wizard",
   firstTimeSetup: true,
   vinDecode: false,
   eucdDecode: false,
   setupStep: 0,
   setupEUCDStep: 0,
+  CCFID: "-",
+  As_Built: "",
   VIN: "",
   model_id: "",
   Brand: "",

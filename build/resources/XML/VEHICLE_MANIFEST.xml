@@ -1811,7 +1811,7 @@
 		<vehicle>
 			<model id="L538JV">
 				<model_name>
-					<tm id="@J_QV_L538_JV"/> 
+					<tm id="@J_QV_L538_JV"/>
 				</model_name>
 			</model>
 			<as_built>AS_BUILT_L538</as_built>
@@ -3982,7 +3982,7 @@
 				<setup id="LANDROVER_EUCD"/>
 				<legacy_setup>TOOL_SETUP_X250_201200</legacy_setup>
 			</variant>
-		<!-- X250 13MY -->
+			<!-- X250 13MY -->
 			<variant id="S_X250_MY13_V8SC">
 				<qualifier model="X250" year="MY13">
 					<qual type="Type" value="V8SC"/>
@@ -4632,7 +4632,7 @@
 					<decode>
 						<attribute decode="true" name="Model" type="1" value="X152"/>
 						<attribute decode="false" name="ModelYear" type="2" value="2014"/>
-						<attribute decode="false" name="Engine" type="1" value="5.0L sc AJ133"/>				
+						<attribute decode="false" name="Engine" type="1" value="5.0L sc AJ133"/>
 					</decode>
 				</vin>
 				<file_manifest id="X152_201400"/>
@@ -4705,7 +4705,7 @@
 					<decode>
 						<attribute decode="true" name="Model" type="1" value="X152"/>
 						<attribute decode="false" name="ModelYear" type="2" value="2016"/>
-						<attribute decode="false" name="Engine" type="1" value="5.0L sc AJ133"/>				
+						<attribute decode="false" name="Engine" type="1" value="5.0L sc AJ133"/>
 					</decode>
 				</vin>
 				<file_manifest id="X152_201600"/>
@@ -4745,7 +4745,7 @@
 				<legacy_setup>TOOL_SETUP_X152_2014</legacy_setup>
 			</variant>
 		</vehicle>
-	<!--X760 16MY-->
+		<!--X760 16MY-->
 		<vehicle>
 			<model id="X760">
 				<model_name>
@@ -9343,7 +9343,7 @@
 				<setup id="JAGUAR_CCF"/>
 				<legacy_setup>TOOL_SETUP_X351</legacy_setup>
 			</variant>
-			
+
 			<variant id="W_X351_MY19_V8SC_5L">
 				<qualifier model="X351" year="MY16">
 					<qual type="Type" value="V8SC"/>
@@ -9404,7 +9404,7 @@
 				       <sdv>W15655</sdv>
 				       <sdv>W15656</sdv>
 				       <sdv>W15658</sdv>
-				       <sdv>W16116</sdv>  
+				       <sdv>W16116</sdv>
 				       <sdv>W16117</sdv>
 					<decode>
 						<attribute decode="true" name="Model" type="1" value="X351;X300 or X351"/>
@@ -9483,7 +9483,7 @@
 				<setup id="JAGUAR_CCF"/>
 				<legacy_setup>TOOL_SETUP_X351</legacy_setup>
 			</variant>
-						
+
 			<!-- X351 16MY INDIAN BUILT VEHCILES-->
 			<variant id="J_X351_MY16_V8SC_5L">
 				<qualifier model="X351" year="MY16">
@@ -9607,7 +9607,7 @@
 				<setup id="JAGUAR_CCF"/>
 				<legacy_setup>TOOL_SETUP_X351</legacy_setup>
 			</variant>
-		
+
 		<variant id="J_X351_MY19_V8SC_5L">
 				<qualifier model="X351" year="MY16">
 					<qual type="Type" value="V8SC"/>

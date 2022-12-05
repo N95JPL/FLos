@@ -51,7 +51,7 @@ function createWindow() {
         );
         console.log(appPath)
       }, 2000);
-    }, 6000);
+    }, 3000);
   });
 }
 

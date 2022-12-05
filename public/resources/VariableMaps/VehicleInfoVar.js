@@ -1,4 +1,5 @@
 let vehicleInfo = {
+  setupInfoLine: "Welcome to the JagOS First Time Setup Wizard",
   firstTimeSetup: true,
   vinDecode: false,
   eucdDecode: false,
@@ -24,6 +25,7 @@ let vehicleInfo = {
 exports.vehicleInfo = vehicleInfo;
 
 let vehicleInfoPrev = {
+  setupInfoLine: "Welcome to the JagOS First Time Setup Wizard",
   firstTimeSetup: true,
   vinDecode: false,
   eucdDecode: false,

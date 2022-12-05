@@ -43,6 +43,7 @@ export default function App() {
   );
 }
 function setUp() {
+  const setupInfoLine = vehicleInfo((state) => state.setupInfoLine);
   const firstTimeSetup = vehicleInfo((state) => state.firstTimeSetup);
   const vinDecode = vehicleInfo((state) => state.vinDecode);
   const eucdDecode = vehicleInfo((state) => state.eucdDecode);
@@ -64,11 +65,12 @@ function setUp() {
   const Driver = vehicleInfo((state) => state.Driver);
   const Transmission = vehicleInfo((state) => state.Transmission);
   const Engine = vehicleInfo((state) => state.Engine);
+  const setSetupInfoLine = vehicleInfo((state) => state.setSetupInfoLine);
   const setFirstTimeSetup = vehicleInfo((state) => state.setFirstTimeSetup);
   const setVinDecode = vehicleInfo((state) => state.setVinDecode);
   const setEucdDecode = vehicleInfo((state) => state.setEucdDecode);
   const setSetupStep = vehicleInfo((state) => state.setSetupStep);
-  const setSetupEucdStep = vehicleInfo((state) => state.setSetupEucdStep);
+  const setSetupEUCDStep = vehicleInfo((state) => state.setSetupEUCDStep);
   const setCCFID = vehicleInfo((state) => state.setCCFID)
   const setAs_Built = vehicleInfo((state) => state.setAs_Built)
   const setVIN = vehicleInfo((state) => state.setVIN);
@@ -87,7 +89,7 @@ function setUp() {
   const setEngine = vehicleInfo((state) => state.setEngine);
   window.api.vehicleInfo({
     firstTimeSetup: firstTimeSetup,
-    CCFIF: CCFID,
+    CCFID: CCFID,
     VIN: VIN,
     Model_id: Model_id,
     Brand: Brand,

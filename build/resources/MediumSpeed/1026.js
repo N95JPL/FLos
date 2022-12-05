@@ -1,5 +1,6 @@
 const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
 const { VINDecode } = require("../XML/VINDecode");
+const { Vehicle_Manifest } = require("../XML/Vehicle_Manifest");
 const { vehicleInfo } = require("../VariableMaps/VehicleInfoVar");
 
 var arrBuilder = ["-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-",]
@@ -28,10 +29,12 @@ function ms1026(msg, window) {
             arrBuilder[parseInt(arr[0]) - 1] = arrData;
             console.log("EUCD" + (arr[0] - 1) + ": " + (arrBuilder[(arr[0] - 1)]));
         } else {
-            console.log("EUCD: " + arrBuilder);
             setup = true
+            console.log("EUCD: " + arrBuilder);
+            if (!vehicleInfo.eucdDecode && vehicleInfo.vinDecode) {
+
+            }
         }
     }
 }
-
 module.exports = ms1026;

@@ -29,6 +29,8 @@ function ms1026(msg, window) {
             arrBuilder[parseInt(arr[0]) - 1] = arrData;
             console.log("EUCD" + (arr[0] - 1) + ": " + (arrBuilder[(arr[0] - 1)]));
         } else {
+            setup = true
+            console.log("EUCD: " + arrBuilder);
             if (!vehicleInfo.eucdDecode && vehicleInfo.vinDecode) {
 
             }

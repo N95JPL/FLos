@@ -4,6 +4,8 @@ import { persist } from 'zustand/middleware'
 export let vehicleInfo = create(
   persist(
     (set) => ({
+      setupInfoLine: "Welcome to the JagOS First Time Setup Wizard",
+      setSetupInfoLine: (setupInfoLine) => set({ setupInfoLine }),
       firstTimeSetup: true,
       setFirstTimeSetup: (firstTimeSetup) => set({ firstTimeSetup }),
       vinDecode: false,
@@ -11,7 +13,7 @@ export let vehicleInfo = create(
       eucdDecode: false,
       setEucdDecode: (eucdDecode) => set({ eucdDecode }),
       setupStep: 0,
-      setSetupStep: (setupEUCDStep) => set({ setupEUCDStep }),
+      setSetupStep: (setupStep) => set({ setupStep }),
       setupEUCDStep: 0,
       setSetupEUCDStep: (setupEUCDStep) => set({ setupEUCDStep }),
       CCFID: "-",

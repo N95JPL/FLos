@@ -100,10 +100,7 @@
 <!--	2018.27.001	02-Jul-2018 Reset decodeModel 1 model year char 10 S - V to represent 1995 - 1997 -->
 <!--*****************************************************************************************************************************-->
 
-<!--  Engine types should  be compatible with RDS values.-->
 
-<!--  Model names to be compatible with RDS.-->
-<!--Note if you add a VIN Model that only uses 4 chars to determine decode model - you need to update the FirstRead.XSL to add that new letter - to prevent invalid decodes occurring.-->
 <VINDecode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="VINDecode.xsd">
     <!--********************************************-->
     <!--****************** Models ******************-->

@@ -97,9 +97,10 @@ window.api.onFadeOut((event, msg) => {
   element.classList.remove("fadeIn")
 })
 function FirstTimeSetup() {
+  const setupInfoLine = vehicleInfo((state) => state.setupInfoLine);
   const setupStep = vehicleInfo((state) => state.setupStep);
   const VIN = vehicleInfo((state) => state.VIN);
-  const model_id = vehicleInfo((state) => state.model_id);
+  const Model_id = vehicleInfo((state) => state.Model_id);
   const Brand = vehicleInfo((state) => state.Brand);
   const Model = vehicleInfo((state) => state.Model);
   const ModelName = vehicleInfo((state) => state.ModelName);
@@ -123,7 +124,7 @@ function FirstTimeSetup() {
           <img id="img" className="img transition fadeIn" src={require("../Images/JaguarLogo.png")} />
         </div>
         <div id="InfoBar" className="setup fade-in w-full h-[25%] flex items-center flex-col justify-center p-10">
-          {setupStep != 28 ? <div className="flex">Receiving data: Part {setupStep} of 28 </div> : <div className="flex">CCF Processing Complete!</div>}
+          <div className="flex">{setupInfoLine}</div>
           {ModelYear != "-" && Brand != "-" && ModelName != "-" && Trim != "-" && Model != "-" ? <div className="flex">{ModelYear} {Brand} {ModelName} {Trim} ({Model})</div> : null}
           {VIN != "-" ? <div className="flex">VIN: {VIN} </div> : null}
         </div>
