@@ -244,7 +244,7 @@ function decodeCCFID() {
                     for (var z = 0; z < Vehicle_Manifest.vehicle_range[x].vehicle[y].variant.length; y++) {
                         yeartest = Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].model_year.my_gui
                         yeartest = yeartest.split(" - ")
-                        if (vehicleInfo.ModelYear == yeartest[0] || vehicleInfo.ModelYear >= yeartest[0] && vehicleInfo <= yeartest[1]) {
+                        if (vehicleInfo.ModelYear == yeartest[0] || vehicleInfo.ModelYear >= yeartest[0] && vehicleInfo.ModelYear <= yeartest[1]) {
                             vinMin = Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].vin.min
                             vinMax = Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].vin.max
                             if (vinTest >= vinMin && vinTest <= vinMax) {
