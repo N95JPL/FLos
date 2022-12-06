@@ -1,5 +1,5 @@
 import create from "zustand";
-import { persist } from 'zustand/middleware'
+import { persist } from "zustand/middleware";
 
 export let settings = create(
   persist(
@@ -10,7 +10,7 @@ export let settings = create(
       setBrightnessAuto: (brightnessAuto) => set({ brightnessAuto }),
     }),
     {
-      name: 'settings'
+      name: "settings",
     }
   )
 );

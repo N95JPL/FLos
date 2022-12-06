@@ -1,5 +1,5 @@
 import create from "zustand";
-import { persist } from 'zustand/middleware';
+import { persist } from "zustand/middleware";
 export let theme = create(
   persist(
     (set) => ({
@@ -11,7 +11,7 @@ export let theme = create(
       setSecondaryColor: (secondaryColor) => set({ secondaryColor }),
     }),
     {
-      name: 'theme'
+      name: "theme",
     }
   )
 );

@@ -92,10 +92,10 @@ function Nav() {
   );
 }
 window.api.onFadeOut((event, msg) => {
-  var element = document.getElementById("firstTime")
-  element.classList.add("fadeOut")
-  element.classList.remove("fadeIn")
-})
+  var element = document.getElementById("firstTime");
+  element.classList.add("fadeOut");
+  element.classList.remove("fadeIn");
+});
 function FirstTimeSetup() {
   const setupInfoLine = vehicleInfo((state) => state.setupInfoLine);
   const setupStep = vehicleInfo((state) => state.setupStep);
@@ -116,16 +116,34 @@ function FirstTimeSetup() {
 
   return (
     <>
-      <div id="firstTime" className="firstTime h-screen fade-in setup w-screen fixed items-center justify-center p-10">
+      <div
+        id="firstTime"
+        className="firstTime h-screen fade-in setup w-screen fixed items-center justify-center p-10"
+      >
         <div className="setup fade-in w-full h-[25%] text-5xl flex items-center justify-center p-10">
           <div>First Time Setup</div>
         </div>
         <div className="w-full h-[50%] flex items-center justify-center p-10">
-          <img id="img" className="img transition fadeIn" src={require("../Images/JaguarLogo.png")} />
+          <img
+            id="img"
+            className="img transition fadeIn"
+            src={require("../Images/JaguarLogo.png")}
+          />
         </div>
-        <div id="InfoBar" className="setup fade-in w-full h-[25%] flex items-center flex-col justify-center p-10">
+        <div
+          id="InfoBar"
+          className="setup fade-in w-full h-[25%] flex items-center flex-col justify-center p-10"
+        >
           <div className="flex">{setupInfoLine}</div>
-          {ModelYear != "-" && Brand != "-" && ModelName != "-" && Trim != "-" && Model != "-" ? <div className="flex">{ModelYear} {Brand} {ModelName} {Trim} ({Model})</div> : null}
+          {ModelYear != "-" &&
+          Brand != "-" &&
+          ModelName != "-" &&
+          Trim != "-" &&
+          Model != "-" ? (
+            <div className="flex">
+              {ModelYear} {Brand} {ModelName} {Trim} ({Model})
+            </div>
+          ) : null}
           {VIN != "-" ? <div className="flex">VIN: {VIN} </div> : null}
         </div>
       </div>

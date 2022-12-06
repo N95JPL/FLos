@@ -11,8 +11,7 @@ import VehicleSettings from "./Modules/Settings/Vehicle-Settings";
 import AppSettings from "./Modules/Settings/App-Settings";
 import Dev from "./Modules/Settings/Dev";
 import { mediumSpeed } from "./Stores/mediumSpeed";
-import { vehicleInfo } from "./Stores/vehicleInfo"
-
+import { vehicleInfo } from "./Stores/vehicleInfo";
 
 // eslint-disable-next-line no-unused-vars
 let setMediumSpeed = "";
@@ -23,7 +22,7 @@ export default function App() {
   // eslint-disable-next-line no-unused-vars
   if (!setup) {
     setUp();
-    window.api.dataFull("vehicleInfo")
+    window.api.dataFull("vehicleInfo");
     window.api.dataFull("mediumSpeed");
   }
   return (
@@ -49,8 +48,8 @@ function setUp() {
   const eucdDecode = vehicleInfo((state) => state.eucdDecode);
   const setupStep = vehicleInfo((state) => state.setupStep);
   const setupEUCDStep = vehicleInfo((state) => state.setupEUCDStep);
-  const CCFID = vehicleInfo((state) => state.CCFID)
-  const As_Built = vehicleInfo((state) => state.As_Built)
+  const CCFID = vehicleInfo((state) => state.CCFID);
+  const As_Built = vehicleInfo((state) => state.As_Built);
   const VIN = vehicleInfo((state) => state.VIN);
   const Model_id = vehicleInfo((state) => state.Model_id);
   const Brand = vehicleInfo((state) => state.Brand);
@@ -71,8 +70,8 @@ function setUp() {
   const setEucdDecode = vehicleInfo((state) => state.setEucdDecode);
   const setSetupStep = vehicleInfo((state) => state.setSetupStep);
   const setSetupEUCDStep = vehicleInfo((state) => state.setSetupEUCDStep);
-  const setCCFID = vehicleInfo((state) => state.setCCFID)
-  const setAs_Built = vehicleInfo((state) => state.setAs_Built)
+  const setCCFID = vehicleInfo((state) => state.setCCFID);
+  const setAs_Built = vehicleInfo((state) => state.setAs_Built);
   const setVIN = vehicleInfo((state) => state.setVIN);
   const setModel_id = vehicleInfo((state) => state.setModel_id);
   const setModelYear = vehicleInfo((state) => state.setModelYear);

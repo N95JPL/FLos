@@ -1,5 +1,5 @@
 import create from "zustand";
-import { persist } from 'zustand/middleware'
+import { persist } from "zustand/middleware";
 
 export let vehicleInfo = create(
   persist(
@@ -50,7 +50,7 @@ export let vehicleInfo = create(
       setEngine: (Engine) => set({ Engine }),
     }),
     {
-      name: 'vehicleInfo'
+      name: "vehicleInfo",
     }
   )
 );

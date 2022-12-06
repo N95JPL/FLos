@@ -6,7 +6,10 @@ const {
 } = require("./resources/VariableMaps/MediumSpeedVar");
 const { Out } = require("./resources/CanMap/canOut");
 const { SettingsOut } = require("./resources/CanMap/canSetting");
-const { vehicleInfo, vehicleInfoPrev } = require("./resources/VariableMaps/VehicleInfoVar");
+const {
+  vehicleInfo,
+  vehicleInfoPrev,
+} = require("./resources/VariableMaps/VehicleInfoVar");
 const can = require("socketcan");
 const fs = require("fs");
 let parseMediumSpeed = require("./resources/MediumSpeed");
@@ -18,8 +21,7 @@ let changedMedium = {
   brightness: {},
   vehicleSettings: {},
 };
-let changedVehicleInfo = {
-}
+let changedVehicleInfo = {};
 module.exports = function (window, dev) {
   let canDataMS;
   let canRecordingMS = false;
@@ -64,13 +66,13 @@ module.exports = function (window, dev) {
     can1 = can.createRawChannel("can1", true);
   }
   ipcMain.on("vehicleInfo", (event, msg) => {
-    console.log("Message about vehicle from UI")
+    console.log("Message about vehicle from UI");
     for (let key in msg) {
       if (msg[key] != "-") {
         vehicleInfo[key] = msg[key];
       }
     }
-    console.log(vehicleInfo)
+    console.log(vehicleInfo);
   });
   // sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e
   can0.addListener("onMessage", function (msg) {
@@ -143,19 +145,19 @@ module.exports = function (window, dev) {
       );
       exec(
         "echo " +
-        mediumSpeed.brightness.adjustedLight +
-        " > /sys/class/backlight/10-0045/brightness"
+          mediumSpeed.brightness.adjustedLight +
+          " > /sys/class/backlight/10-0045/brightness"
       );
       mediumSpeedPrev.brightness.adjustedLight =
         mediumSpeed.brightness.adjustedLight;
     }
-  })
+  });
   ipcMain.on("actionSettings", (event, msg) => {
     let value;
     let byte;
     value = seetingsIds[msg.type].val;
     byte = seetingsIds[msg.type].byte;
-  })
+  });
   ipcMain.on("canRecorder", (event, msg) => {
     if (msg === "startMS") {
       exec("candump can0");
@@ -210,8 +212,8 @@ module.exports = function (window, dev) {
     ) {
       exec(
         "echo " +
-        mediumSpeed.brightness.adjustedLight +
-        " > /sys/class/backlight/10-0045/brightness"
+          mediumSpeed.brightness.adjustedLight +
+          " > /sys/class/backlight/10-0045/brightness"
       );
     }
     for (const key in mediumSpeed) {
@@ -251,9 +253,7 @@ module.exports = function (window, dev) {
     if (send) {
       console.log(changedVehicleInfo);
       window.webContents.send("vehicleInfo", changedVehicleInfo);
-      changedVehicleInfo = {
-      }
+      changedVehicleInfo = {};
     }
   }, 100);
 };
-

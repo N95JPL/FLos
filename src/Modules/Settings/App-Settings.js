@@ -10,8 +10,8 @@ import Typography from "@mui/material/Typography";
 import Modal from "@mui/material/Modal";
 import { FormControlLabel, FormGroup, Slider, Switch } from "@mui/material";
 import { settings } from "../../Stores/settings";
-import { CirclePicker } from 'react-color';
-var convert = require('color-convert');
+import { CirclePicker } from "react-color";
+var convert = require("color-convert");
 let setTheme;
 // eslint-disable-next-line no-unused-vars
 function AppSettings() {
@@ -32,15 +32,15 @@ function AppSettings() {
     "red",
     "teal",
     "violet",
-    "yellow"
-  ]
+    "yellow",
+  ];
   useEffect(() => {
-    var temp = []
-    colorName.forEach(element => {
-      temp.push("#" + convert.keyword.hex(element))
+    var temp = [];
+    colorName.forEach((element) => {
+      temp.push("#" + convert.keyword.hex(element));
     });
-    setColor(temp)
-  }, [])
+    setColor(temp);
+  }, []);
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
@@ -49,17 +49,17 @@ function AppSettings() {
   const brightnessAuto = settings((state) => state.brightnessAuto);
   const setBrightnessAuto = settings((state) => state.setBrightnessAuto);
   const modalStyle = {
-    position: 'absolute',
-    top: '50%',
-    'text-align': 'center',
-    align: 'center',
-    margin: 'auto',
-    left: '50%',
-    transform: 'translate(-50%, -50%)',
+    position: "absolute",
+    top: "50%",
+    "text-align": "center",
+    align: "center",
+    margin: "auto",
+    left: "50%",
+    transform: "translate(-50%, -50%)",
     width: 600,
     height: 300,
-    bgcolor: 'gray',
-    border: '2px solid #000',
+    bgcolor: "gray",
+    border: "2px solid #000",
     boxShadow: 24,
     pt: 2,
     px: 4,
@@ -72,16 +72,16 @@ function AppSettings() {
     setBrightnessAuto(data);
   };
   const updateColor = (color, event) => {
-    var selectedColor = convert.hex.keyword(color.hex)
+    var selectedColor = convert.hex.keyword(color.hex);
     if (selectedColor === "skyblue") {
-      selectedColor = "sky"
+      selectedColor = "sky";
     }
     if (colorPicker === "to") {
-      primaryColor(selectedColor)
+      primaryColor(selectedColor);
     } else {
-      secondaryColor(selectedColor)
+      secondaryColor(selectedColor);
     }
-  }
+  };
   useEffect(() => {
     window.api.actionBrightness({
       type: "brightness",
@@ -155,13 +155,24 @@ function AppSettings() {
           <Typography id="modal-modal-title" variant="h6" component="h2">
             Select a colour!
           </Typography>
-          <Typography id="modal-modal-description" sx={{ mt: 2, align: 'center', width: '600px', position: 'absolute', left: '40px', Content: 'center' }}>
+          <Typography
+            id="modal-modal-description"
+            sx={{
+              mt: 2,
+              align: "center",
+              width: "600px",
+              position: "absolute",
+              left: "40px",
+              Content: "center",
+            }}
+          >
             <CirclePicker
               width={"540px"}
               circleSize={65}
               circleSpacing={25}
               colors={colors}
-              onChange={updateColor} />
+              onChange={updateColor}
+            />
           </Typography>
         </Box>
       </Modal>
@@ -174,7 +185,7 @@ function AppSettings() {
           <p className="inline-flex px-5">Dev</p>
         </Link>
       </div>
-    </div >
+    </div>
   );
 }
 export default AppSettings;

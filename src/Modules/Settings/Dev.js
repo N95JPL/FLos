@@ -21,57 +21,60 @@ function Dev() {
               Debug Information
             </h1>
             <p className="text-sm mb-2.5">
-              Basic stuff... be warned, leave this for too long... and the files are HUGE!
+              Basic stuff... be warned, leave this for too long... and the files
+              are HUGE!
             </p>
           </div>
           <div className="flex flex-col items-center gap-2.5 mt-2.5">
             <div className="flex gap-2.5">
-              {!HS ?
+              {!HS ? (
                 <button
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
                     window.api.canRecorder("startHS"),
-                    setHS(true)
+                    setHS(true),
                   ]}
                 >
                   <FaCircle className="text-emerald-400" /> Start High Speed
                   Logging
-                </button> :
+                </button>
+              ) : (
                 <button
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
                     window.api.canRecorder("endHS"),
-                    setHS(false)
+                    setHS(false),
                   ]}
                 >
                   <FaCircle className="text-emerald-400" /> Stop High Speed
                   Logging
                 </button>
-              }
+              )}
             </div>
             <div className="flex gap-2.5">
-              {!MS ?
+              {!MS ? (
                 <button
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
                     window.api.canRecorder("startMS"),
-                    setMS(true)
+                    setMS(true),
                   ]}
                 >
                   <FaCircle className="text-yellow-400" /> Start Medium Speed
                   Logging
-                </button> :
+                </button>
+              ) : (
                 <button
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
                     window.api.canRecorder("endMS"),
-                    setMS(false)
+                    setMS(false),
                   ]}
                 >
                   <FaCircle className="text-yellow-400" /> Stop Medium Speed
                   Logging
                 </button>
-              }
+              )}
             </div>
             <button
               className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
@@ -82,7 +85,7 @@ function Dev() {
           </div>
         </div>
       </div>
-    </div >
+    </div>
   );
 }
 export default Dev;

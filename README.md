@@ -1,4 +1,8 @@
 # Jaguar XF - Infotainment System
+
+"socketcan": "^4.0.1",
+
+
 ## Work in progress
 A Electron-React App to one day replace the Infotainment Module of my Jaguar XFS!
 ### Features
@@ -42,12 +46,12 @@ Based off rhysmorgan134/jaguar-xf-canbus-app - Big shoutout to him for all his h
     ```
 7) Reboot Pi
 8) Download JagOS Repo
-9) run `npm i`    
+9) run `npm i`
 10) Run `npm run` + either
     * pi64-build - For RPi 4 - 4GB+ (npm run pi64-build)
     * pi32-build - For Rpi 3 or Rpi 4 < 4GB (npm run pi32-build)
-    * electron-build - For Ubuntu (Testing ONLY) (`npm run electron-build`)  
-        * This requires an additional step, see below        
+    * electron-build - For Ubuntu (Testing ONLY) (`npm run electron-build`)
+        * This requires an additional step, see below
 11) Locate the `/dist` folder and run the .AppImage
 
 ## Local Host vCAN for Testing

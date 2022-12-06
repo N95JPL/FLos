@@ -25,13 +25,14 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "^5.1.0-next.14",
     "react-transition-group": "^4.4.2",
-    "socketcan": "^4.0.1",
     "tw-elements": "^1.0.0-alpha12",
+    "xml2json": "^0.12.0",
     "zustand": "^4.0.0-rc.0"
   },
   "devDependencies": {
     "@electron/rebuild": "^3.2.10",
     "@eove/eslint-config-electron": "^1.8.0",
+    "@prettier/plugin-xml": "^2.2.0",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/container-queries": "^0.1.0",
     "@tailwindcss/forms": "^0.5.3",
@@ -75,7 +76,8 @@
     "buildAll": "npm run linux64-build && npm run pi32-build && npm run pi64-build",
     "linux64-build": "electron-rebuild -f -a x64 && electron-builder build --linux deb --x64",
     "pi32-build": "electron-rebuild -f -a armv7l && electron-builder --linux AppImage --armv7l",
-    "pi64-build": "electron-rebuild -f -a arm64 && electron-builder build --linux AppImage --arm64"
+    "pi64-build": "electron-rebuild -f -a arm64 && electron-builder build --linux AppImage --arm64",
+    "pretty": "prettier --write \"./**/*/*/*.{js,jsx,json,xml}\""
   },
   "eslintConfig": {
     "extends": [

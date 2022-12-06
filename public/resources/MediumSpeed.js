@@ -18,7 +18,7 @@ function parseMediumSpeed(msg, window) {
     } else if (msg.id === 72) {
       ms72(msg);
     } else if (msg.id === 520) {
-      ms520(msg)
+      ms520(msg);
     } else if (msg.id === 680) {
       ms680(msg);
     } else if (msg.id === 888) {

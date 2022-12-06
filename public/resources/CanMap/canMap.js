@@ -3,99 +3,99 @@ const Map = {
     2: [
       {
         val: 1,
-        handle: 'rearHeater'
-      }
+        handle: "rearHeater",
+      },
     ],
     3: [
       {
         val: 32,
-        handle: 'auto'
+        handle: "auto",
       },
       {
         val: 64,
-        handle: 'defrost'
+        handle: "defrost",
       },
       {
         val: 128,
-        handle: 'frontHeater'
-      }
+        handle: "frontHeater",
+      },
     ],
     4: [
       {
         val: 32,
-        handle: 'recirc'
-      }
-    ]
+        handle: "recirc",
+      },
+    ],
   },
   40: {
     4: [
       {
         val: 0,
-        handle: 'Park'
+        handle: "Park",
       },
       {
         val: 1,
-        handle: 'Reverse'
+        handle: "Reverse",
       },
       {
         val: 2,
-        handle: 'Neutral'
+        handle: "Neutral",
       },
       {
         val: 4,
-        handle: 'Drive'
+        handle: "Drive",
       },
       {
         val: 8,
-        handle: 'Sport'
-      }
-    ]
+        handle: "Sport",
+      },
+    ],
   },
   680: {
     4: [
       {
         val: 1,
-        handle: 'Drive_Away_Locking_5'
+        handle: "Drive_Away_Locking_5",
       },
       {
         val: 2,
-        handle: 'Drive_Away_Locking_10'
+        handle: "Drive_Away_Locking_10",
       },
       {
         val: 3,
-        handle: 'Drive_Away_Locking_15'
+        handle: "Drive_Away_Locking_15",
       },
       {
         val: 64,
-        handle: 'Passive_Arming'
+        handle: "Passive_Arming",
       },
       {
         val: 32,
-        handle: 'AutoLock'
+        handle: "AutoLock",
       },
       {
         val: 8,
-        handle: 'Alarm_Sensors'
-      }
+        handle: "Alarm_Sensors",
+      },
     ],
     5: [
       {
         val: 1,
-        handle: 'Two_Stage_Locking'
+        handle: "Two_Stage_Locking",
       },
       {
         val: 64,
-        handle: 'Global_Windows_Open'
+        handle: "Global_Windows_Open",
       },
       {
         val: 32,
-        handle: 'Global_Windows_Close'
+        handle: "Global_Windows_Close",
       },
       {
         val: 8,
-        handle: 'Mirror_Fold'
-      }
-    ]
-  }
-}
-exports.Map = Map
+        handle: "Mirror_Fold",
+      },
+    ],
+  },
+};
+exports.Map = Map;
