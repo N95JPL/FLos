@@ -31377,7 +31377,7 @@
                                         "name": "REAR_LEFT_RIGHT_MIDDLE_BELT",
                                         "code": "CP9AF",
                                         "tm": {
-                                            "id": "@J_I_REAR_BELT_DET_ALL"
+                                            "id": @J_I_REAR_BELT_DET_ALL
                                         }
                                     },
                                     {
