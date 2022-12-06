@@ -8885,7 +8885,7 @@
 		<!-- #002 VCATS (NO) -->
 		<group start="1" stop="1" name="GROUP_CCF_EUCD_DOORS">
 			<title>
-				<tm id="@JDS-QA1319"/>
+				<tm id="@JDS-QA1319"/> 
 			</title>
 			<parameter id="001_001_000_007" name="PARAM_CCF_EUCD_DOORS" mask="0xFF" type="ENUM">
 				<category display="false" edit="false" scope="base"/>
