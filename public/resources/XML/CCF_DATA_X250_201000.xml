@@ -8,7 +8,7 @@
 		<car_config>SA5AC/01/96 Rev 4.01, EUCD 31830271 Rev 6</car_config>
 		<vbf_version>2.0</vbf_version>
 	</version>
-	<ccf>
+	<ccf> 
 		<sync status="0">RSJB_SYSTEM_A</sync>
 		<source status="0">RSJB_SYSTEM_A</source>
 		<source status="0">PCM_SYSTEM_A</source>
