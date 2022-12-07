@@ -101,13 +101,12 @@ function ms1025(msg, window) {
                 console.log(
                   "It would appear that all the vehicle info has been decoded!"
                 );
-                setup = true;
                 vehicleInfo.vinDecode = true;
               }
             }
           }
         }
-        if (!setup) {
+        if (!vehicleInfo.vinDecode) {
           vehicleInfo.setupInfoLine =
             "Oops! Something went wrong! We will try again!";
           console.log(
@@ -197,10 +196,14 @@ function ms1025(msg, window) {
           vehicleInfo.Transmission = "-";
           vehicleInfo.Engine = "-";
         }
-      } else if (vehicleInfo.vinDecode && vehicleInfo.eucdDecode) {
-        window.webContents.send("fadeOut", "now");
+      } else if (vehicleInfo.vinDecode) {
+        setup = true;
+        // && vehicleInfo.eucdDecode
         setTimeout(() => {
-          vehicleInfo.firstTimeSetup = false;
+          window.webContents.send("fadeOut", "now");
+          setTimeout(() => {
+            vehicleInfo.firstTimeSetup = false;
+          }, 2000);
         }, 2000);
       }
     }
@@ -278,10 +281,10 @@ function decodeModel(VIN) {
         VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Decode;
       console.log(
         name +
-          ": " +
-          VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Decode +
-          " | " +
-          vehicleInfo[name]
+        ": " +
+        VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Decode +
+        " | " +
+        vehicleInfo[name]
       );
     } else {
       charpos = VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Char;
@@ -311,11 +314,11 @@ function decodeModel(VIN) {
             ].Decode;
           console.log(
             name +
-              ": " +
-              VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Value[x]
-                .Decode +
-              " | " +
-              vehicleInfo[name]
+            ": " +
+            VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Value[x]
+              .Decode +
+            " | " +
+            vehicleInfo[name]
           );
           break;
         }
@@ -396,9 +399,9 @@ function decodeCCFID() {
                   Vehicle_Manifest.vehicle_range[x].vehicle[y].as_built;
                 console.log(
                   "CCFID: " +
-                    vehicleInfo.CCFID +
-                    " | As_Built: " +
-                    vehicleInfo.As_Built
+                  vehicleInfo.CCFID +
+                  " | As_Built: " +
+                  vehicleInfo.As_Built
                 );
                 is_ccfid = true;
                 break;
