@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOD_CON_ID_VALUE">
+	<tu
+    xmlns:lang="eng"
+  >The module now contains the following identification value(s):</tu>
+	<tu
+    xmlns:lang="nld"
+  >De module bevat nu de onderstaande identificatiewaarde(n):</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module contient maintenant la (les) valeur(s) d'identification suivante(s) :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Im Steuergerät ist jetzt der/die folgende(n) Kennungswert(e) abgespeichert:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo contiene ora i seguenti valori di identificazione:</tu>
+	<tu xmlns:lang="jpn">ここでモジュールは次の ID 数値を含みます：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O módulo possui agora o(s) seguinte(s) valor(es) de identificação:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo agora contém os seguintes valores de identificação:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок теперь содержит следующее значение (значения) идентификатора (идентификаторов):</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo contiene ahora los siguientes valores de identificación:</tu>
+	<tu xmlns:lang="chs">模块现在包含下列标识值：</tu>
+	<tu xmlns:lang="kor">이제 모듈에 다음 식별값이 포함됩니다.</tu>
+</tm>

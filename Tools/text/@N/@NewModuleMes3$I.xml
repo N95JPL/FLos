@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NewModuleMes3$I">
+	<tu
+    xmlns:lang="eng"
+  >The electronic diesel control module can never be re-programmed for any other vehicle once this operation is completed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Na het uitvoeren van deze bewerking kan de elektronische dieselregelmodule nooit meer voor een andere auto opnieuw worden geprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module de commande diesel électronique ne pourra plus jamais être reprogrammé pour un autre véhicule une fois cette opération terminée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nachdem dieser Vorgang abgeschlossen wurde, kann das Dieselmotor-Steuergerät niemals mehr für ein anderes Fahrzeug programmiert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dopo aver completato questa operazione, il modulo di comando diesel elettronico non può essere programmato nuovamente per nessun altro veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このオペレーションが完了すると、エレクトロニック ディーゼル コントロール モジュールを他の車両で使用するために再プログラムすることはできません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O módulo electrónico de controlo do sistema diesel nunca pode ser reprogramado para outro veículo depois de concluída esta operação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo de controle eletrônico de diesel nunca pode ser reprogramado para nenhum outro veículo após esta operação ser concluída.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После завершения данной операции электронный блок управления дизельным двигателем невозможно будет перепрограммировать для использования с другим двигателем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez realizada esta operación, el módulo de control electrónico Diesel no podrá nunca volver a programarse para ningún otro vehículo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >此操作一旦完成，柴油电子控制模块再无法为任何其它车辆重新编程。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 작업이 완료된 후 전자식 디젤 컨트롤 모듈은 다른 어떤 차량에도 다시 프로그래밍될 수 없습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LEATHER_TYPE_01">
+	<tu xmlns:lang="eng">Leather type 1 material</tu>
+	<tu xmlns:lang="nld">Materiaal, leder type 1</tu>
+	<tu xmlns:lang="fra">Matière cuir type 1.</tu>
+	<tu xmlns:lang="deu">Ledermaterial Typ 1</tu>
+	<tu xmlns:lang="ita">Materiale pelle tipo 1</tu>
+	<tu xmlns:lang="jpn">レザー タイプ 1 マテリアル</tu>
+	<tu xmlns:lang="ptg">Material tipo 1, cabedal</tu>
+	<tu xmlns:lang="ptb">Material de couro tipo 1</tu>
+	<tu xmlns:lang="rus">Материал - кожа, тип 1</tu>
+	<tu xmlns:lang="esp">Material de cuero tipo 1</tu>
+	<tu xmlns:lang="chs">1 类皮革材料</tu>
+	<tu xmlns:lang="kor">가죽 유형 1 소재</tu>
+</tm>

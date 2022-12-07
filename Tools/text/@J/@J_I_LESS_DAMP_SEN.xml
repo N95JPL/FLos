@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_DAMP_SEN">
+	<tu xmlns:lang="eng">Without damp sensor</tu>
+	<tu xmlns:lang="nld">Zonder dampsensor</tu>
+	<tu xmlns:lang="fra">Sans capteur d'humidité</tu>
+	<tu xmlns:lang="deu">Ohne Feuchtigkeitssensor</tu>
+	<tu xmlns:lang="ita">Senza sensore umidità</tu>
+	<tu xmlns:lang="jpn">ダンプ センサーなし</tu>
+	<tu xmlns:lang="ptg">Sem sensor de humidade</tu>
+	<tu xmlns:lang="ptb">Sem sensor de umidade</tu>
+	<tu xmlns:lang="rus">Без датчика влажности</tu>
+	<tu xmlns:lang="esp">Sin sensor de humedad</tu>
+	<tu xmlns:lang="chs">无减振传感器</tu>
+	<tu xmlns:lang="kor">수분 센서 불포함</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENTRY_DLY">
+	<tu xmlns:lang="eng">Entry delay</tu>
+	<tu xmlns:lang="nld">Instapvertraging</tu>
+	<tu xmlns:lang="fra">Temporisation d'entrée</tu>
+	<tu xmlns:lang="deu">Einstiegsverzögerung</tu>
+	<tu xmlns:lang="ita">Ritardo ingresso</tu>
+	<tu xmlns:lang="jpn">エントリー ディレイ</tu>
+	<tu xmlns:lang="ptg">Temporizador de entrada</tu>
+	<tu xmlns:lang="ptb">Atraso de entrada</tu>
+	<tu xmlns:lang="rus">Задержка ввода</tu>
+	<tu xmlns:lang="esp">Retardo al entrar</tu>
+	<tu xmlns:lang="chs">输入延迟</tu>
+	<tu xmlns:lang="kor">진입 지연</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRAILER_TOWING">
+	<tu xmlns:lang="eng">Trailer/towing.</tu>
+	<tu xmlns:lang="nld">Aanhanger/trekken.</tu>
+	<tu xmlns:lang="fra">Remorque/remorquage.</tu>
+	<tu xmlns:lang="deu">Anhänger.</tu>
+	<tu xmlns:lang="ita">Rimorchio/traino.</tu>
+	<tu xmlns:lang="jpn">トレーラー／牽引</tu>
+	<tu xmlns:lang="ptg">Reboque/rebocar.</tu>
+	<tu xmlns:lang="ptb">Reboque.</tu>
+	<tu xmlns:lang="rus">Прицеп/буксировка.</tu>
+	<tu xmlns:lang="esp">Remolque.</tu>
+	<tu xmlns:lang="chs">拖车/牵引。</tu>
+	<tu xmlns:lang="kor">트레일러/견인</tu>
+</tm>

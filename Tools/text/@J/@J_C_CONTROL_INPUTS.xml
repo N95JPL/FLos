@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_CONTROL_INPUTS">
+	<tu xmlns:lang="eng">Control inputs</tu>
+	<tu xmlns:lang="nld">Regelinvoeren</tu>
+	<tu xmlns:lang="fra">Entrees de commandes</tu>
+	<tu xmlns:lang="deu">Steuerungseingänge</tu>
+	<tu xmlns:lang="ita">Input di comando</tu>
+	<tu xmlns:lang="jpn">コ・トロール イ・プット</tu>
+	<tu xmlns:lang="ptg">Entradas do sistema de controlo</tu>
+	<tu xmlns:lang="ptb">Entradas de controle</tu>
+	<tu xmlns:lang="rus">Входы управления</tu>
+	<tu xmlns:lang="esp">Señales de entrada de control</tu>
+	<tu xmlns:lang="chs">控制输入</tu>
+	<tu xmlns:lang="kor">컨트롤 입력</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IVDC_ENHANCED_ESP">
+	<tu xmlns:lang="eng">Enhanced electronic stability programme</tu>
+	<tu xmlns:lang="nld">Verbeterd elektronische-stabiliteitsprogramma</tu>
+	<tu xmlns:lang="fra">Programme électronique de stabilité amélioré</tu>
+	<tu xmlns:lang="deu">Verbessertes elektronisches Stabilitätsprogramm</tu>
+	<tu xmlns:lang="ita">Programma elettronico stabilità potenziato</tu>
+	<tu xmlns:lang="jpn">改善型エレクトロニック スタビリティ プログラム</tu>
+	<tu xmlns:lang="ptg">Programa electrónico de estabilidade melhorado</tu>
+	<tu xmlns:lang="ptb">Programa avançado de estabilidade eletrônica</tu>
+	<tu xmlns:lang="rus">Модернизированная электронная программа стабилизации</tu>
+	<tu xmlns:lang="esp">Programa de estabilidad electrónico mejorado</tu>
+	<tu xmlns:lang="chs">强化电子稳定性程序</tu>
+	<tu xmlns:lang="kor">향상된 전자 안정성 프로그램</tu>
+</tm>

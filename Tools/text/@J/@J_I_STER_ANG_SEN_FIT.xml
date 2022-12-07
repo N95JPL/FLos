@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STER_ANG_SEN_FIT">
+	<tu xmlns:lang="eng">Steering angle sensor is fitted.</tu>
+	<tu xmlns:lang="nld">Er is een stuuruitslagsensor geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Capteur d'angle de braquage installé.</tu>
+	<tu xmlns:lang="deu">Lenkwinkelsensor ist eingebaut.</tu>
+	<tu xmlns:lang="ita">Sensore angolazione sterzo in dotazione.</tu>
+	<tu xmlns:lang="jpn">ステアリング アングル センサー装備</tu>
+	<tu xmlns:lang="ptg">Está instalado sensor do ângulo da direcção.</tu>
+	<tu xmlns:lang="ptb">Sensor de ângulo de direção instalado.</tu>
+	<tu xmlns:lang="rus">Установлен датчик угла поворота рулевого колеса.</tu>
+	<tu xmlns:lang="esp">Tiene sensor del ángulo de la dirección.</tu>
+	<tu xmlns:lang="chs">转向角传感器已安装。</tu>
+	<tu xmlns:lang="kor">스티어링 각도 센서가 장착되었습니다.</tu>
+</tm>

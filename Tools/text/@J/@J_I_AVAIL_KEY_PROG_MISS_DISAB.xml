@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AVAIL_KEY_PROG_MISS_DISAB">
+	<tu
+    xmlns:lang="eng"
+  >Only available keys will be programmed during this process, missing keys will be disabled for this vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alleen beschikbare sleutels worden tijdens deze procedure geprogrammeerd. Ontbrekende sleutels worden gedeactiveerd voor dit voertuig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Seules les clés disponibles seront programmées au cours de ce processus, les clés manquantes seront désactivées pour ce véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei diesem Vorgang werden nur verfügbare Schlüssel programmiert, fehlende Schlüssel werden für dieses Fahrzeug deaktiviert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Durante questa procedura saranno programmate soltanto le chiavi disponibili, le chiavi mancanti saranno disattivate per questo veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このプロセスでは用意できているキーだけがプログラムされ、今ないキーは、この車両に使用できなくなります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Durante este processo, só serão programadas as chaves disponíveis. As chaves em falta serão desactivadas para este veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Disponível somente as chaves que serão programadas durante este processo, estão faltando as chaves que serão desativadas para este veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе этой процедуры будут запрограммированы только имеющиеся в наличии ключи, отсутствующие ключи будут заблокированы для данного автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Durante este proceso sólo se programarán las llaves disponibles; las llaves que falten se desactivarán para este vehículo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在这一过程中，将只对可用车匙进行编程，对于该车，缺失的车匙将被禁用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 프로세스 중에는 사용 가능한 키만 프로그래밍되고, 여기서 빠진 키는 이 차량에 사용할 수 없습니다.</tu>
+</tm>

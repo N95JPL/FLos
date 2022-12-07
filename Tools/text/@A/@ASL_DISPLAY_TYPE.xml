@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ASL_DISPLAY_TYPE">
+	<tu xmlns:lang="eng">Automatic speed limiter display type</tu>
+	<tu xmlns:lang="nld">Weergave automatische snelheidsbegrenzer</tu>
+	<tu xmlns:lang="fra">Type d'affichage du limiteur de vitesse automatique.</tu>
+	<tu xmlns:lang="deu">Automatische Geschwindigkeitsbegrenzung - Anzeigeart</tu>
+	<tu xmlns:lang="ita">Tipo display limitatore velocità automatico</tu>
+	<tu xmlns:lang="jpn">自動速度リミッター ディスプレイ タイプ</tu>
+	<tu xmlns:lang="ptg">Limitador automático de velocidade, tipo de visor</tu>
+	<tu xmlns:lang="ptb">Tipo de tela do limitador automático de velocidade</tu>
+	<tu xmlns:lang="rus">Тип дисплея автоматического ограничителя скорости</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tipo de visualización del limitador automático de velocidad</tu>
+	<tu xmlns:lang="chs">自动速度限制器显示类型</tu>
+	<tu xmlns:lang="kor">자동 속도 제한 장치 디스플레이 유형</tu>
+</tm>

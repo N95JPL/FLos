@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CAL_MPH">
+	<tu xmlns:lang="eng">Mph</tu>
+	<tu xmlns:lang="nld">mijl/uur</tu>
+	<tu xmlns:lang="fra">mph</tu>
+	<tu xmlns:lang="deu">m/h</tu>
+	<tu xmlns:lang="ita">miglia/h</tu>
+	<tu xmlns:lang="jpn">mph</tu>
+	<tu xmlns:lang="ptg">Mph</tu>
+	<tu xmlns:lang="ptb">MPH</tu>
+	<tu xmlns:lang="rus">Миль/ч</tu>
+	<tu xmlns:lang="esp">millas/h</tu>
+	<tu xmlns:lang="chs">Mph</tu>
+	<tu xmlns:lang="kor">Mph</tu>
+</tm>

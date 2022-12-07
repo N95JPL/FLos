@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMP_PARK_CALIB">
+	<tu
+    xmlns:lang="eng"
+  >On completion of the work, the parking brake will need to be re-calibrated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Na voltooiing van de werkzaamheden dient de handrem opnieuw te worden gekalibreerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >A la fin des travaux, le frein de stationnement devra être ré-étalonné.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss der Arbeiten muss die Parkbremse neu kalibriert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al completamento del lavoro, sarà necessario tarare nuovamente il freno di stazionamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この作業の完了後、パーキング ブレーキを再キャリブレーションする必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Após a conclusão do trabalho é necessário voltar a calibrar o travão de mão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ao concluir o trabalho, o freio de estacionamento precisará ser calibrado novamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По окончании работы нужно будет выполнить повторную калибровку стояночного тормоза.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez finalizado el trabajo habrá que volver a calibrar el freno de estacionamiento.</tu>
+	<tu xmlns:lang="chs">'在完成工作后，驻车制动器将需要重新标定。'</tu>
+	<tu xmlns:lang="kor">작업이 완료되면 주차 브레이크를 재보정해야 합니다.</tu>
+</tm>

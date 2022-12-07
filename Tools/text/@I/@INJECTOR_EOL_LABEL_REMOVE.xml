@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INJECTOR_EOL_LABEL_REMOVE">
+	<tu
+    xmlns:lang="eng"
+  >If the manufacturing end of line injector label is still present (on top of the engine), then remove it.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het injectorlabel dat in de fabriek is aangebracht nog steeds aanwezig is (bovenkant van de motor), moet u dit verwijderen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si l'étiquette de fin de ligne de fabrication est encore présente (en haut du moteur), retirez-la.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls das herstellerseitig zum Ende der Montage angebrachte Einspritzventil-Typenschild (oben auf dem Motor) noch vorhanden ist, dieses entfernen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se è ancora presente l'etichetta di fine linea produzione dell'iniettore (sopra il motore), essa dovrà essere rimossa.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >生産ラインの最終段階で貼\り付けられたインジェクタ ラベルが (エンジン上部に)ある場合は、それを取り除きなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a etiqueta de fim de linha de fabrico do injector ainda estiver presente (na parte superior do motor), retire-a.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a extremidade de fabricação da etiqueta do injetor de linha ainda está presente (na parte de cima do motor), e remova-a.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если на верхней части двигателя сохранилась бирка форсунки, прикрепленная при выпуске двигателя, снимите ее.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la etiqueta del inyector de fábrica está presente aún (en la parte superior del motor), retirarla.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果制造厂下线时的喷油器标签仍然保留（发动机顶部），请将其清除。</tu>
+	<tu
+    xmlns:lang="kor"
+  >라인 인젝터 레이블의 제조 엔드 씰링이 (엔진 상단에) 그대로 있는 경우에는 제거하십시오.</tu>
+</tm>

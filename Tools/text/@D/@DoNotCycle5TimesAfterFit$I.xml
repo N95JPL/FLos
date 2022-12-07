@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DoNotCycle5TimesAfterFit$I">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the ignition is not cycled more than 5 times between the fitment of the new module and the commencement of this application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat u niet meer dan 5 keer de contactcyclus uitvoert tussen het installeren van de nieuwe module en de aanvang van deze toepassing.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que l'allumage n'effectue pas plus de 5 cycles entre le montage du nouveau module et l'exécution de cette application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Zündung zwischen Einbau des neuen Moduls und Anlaufen dieses Anwendungsprogramms nicht mehr als 5-mal aus-/eingeschaltet wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare di non inserire/disinserire l'accensione più di cinque volte tra il montaggio del nuovo modulo e l'avvio di questa applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >新品モジュールの取り付けとこのアプリケーション開始の間にイグニションを 5 回より多くサイクルしてはなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que a ignição não é ligada e desligada mais de 5 vezes entre a altura da montagem do módulo novo e o início desta aplicação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a ignição não seja ligada e desligada mais de 5 vezes entre a instalação do novo módulo e o início desse aplicativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь в том, что между установкой на автомобиль нового блока управления и началом выполнения этого приложения зажигание включалось и выключалось не более 5 раз.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que no se producen más de cinco ciclos de encendido entre la colocación del nuevo módulo y el comienzo de esta aplicación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保在安装新模块和此应用程序开始之间的点火循环不超过5次。</tu>
+	<tu
+    xmlns:lang="kor"
+  >새 모듈을 장착한 후 이 응용 프로그램을 시작할 때까지 점화 스위치를 5회 이상 순환시키지 않도록 하십시오.</tu>
+</tm>

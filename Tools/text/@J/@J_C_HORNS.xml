@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_HORNS">
+	<tu xmlns:lang="eng">Horns</tu>
+	<tu xmlns:lang="nld">Claxons</tu>
+	<tu xmlns:lang="fra">Avertisseurs sonores</tu>
+	<tu xmlns:lang="deu">Signalhörner</tu>
+	<tu xmlns:lang="ita">Trombe</tu>
+	<tu xmlns:lang="jpn">ホー・</tu>
+	<tu xmlns:lang="ptg">Buzinas</tu>
+	<tu xmlns:lang="ptb">Buzina</tu>
+	<tu xmlns:lang="rus">Звуковые сигналы</tu>
+	<tu xmlns:lang="esp">Bocinas</tu>
+	<tu xmlns:lang="chs">喇叭</tu>
+	<tu xmlns:lang="kor">경음기</tu>
+</tm>

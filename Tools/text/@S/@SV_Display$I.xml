@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SV_Display$I">
+	<tu xmlns:lang="eng">Display</tu>
+	<tu xmlns:lang="nld">Scherm</tu>
+	<tu xmlns:lang="fra">Affichage</tu>
+	<tu xmlns:lang="deu">Anzeige</tu>
+	<tu xmlns:lang="ita">Display</tu>
+	<tu xmlns:lang="jpn">ディスプレイ</tu>
+	<tu xmlns:lang="ptg">Visor</tu>
+	<tu xmlns:lang="ptb">Exibição</tu>
+	<tu xmlns:lang="rus">Дисплей</tu>
+	<tu xmlns:lang="esp">Pantalla</tu>
+	<tu xmlns:lang="chs">显示</tu>
+	<tu xmlns:lang="kor">디스플레이</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_STARTER">
+	<tu xmlns:lang="eng">Starter motor</tu>
+	<tu xmlns:lang="nld">Startmotor</tu>
+	<tu xmlns:lang="fra">Demarreur</tu>
+	<tu xmlns:lang="deu">Anlasser</tu>
+	<tu xmlns:lang="ita">Motorino di avviamento</tu>
+	<tu xmlns:lang="jpn">スターター モーター</tu>
+	<tu xmlns:lang="ptg">Motor de arranque</tu>
+	<tu xmlns:lang="ptb">Motor de arranque</tu>
+	<tu xmlns:lang="rus">Стартер</tu>
+	<tu xmlns:lang="esp">Motor de arranque</tu>
+	<tu xmlns:lang="chs">起动器电机</tu>
+	<tu xmlns:lang="kor">스타터 모터</tu>
+</tm>

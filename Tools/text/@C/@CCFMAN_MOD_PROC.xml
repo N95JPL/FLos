@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_MOD_PROC">
+	<tu xmlns:lang="eng">Modification procedure</tu>
+	<tu xmlns:lang="nld">Wijzigingsprocedure</tu>
+	<tu xmlns:lang="fra">Procédure de modification</tu>
+	<tu xmlns:lang="deu">Modifikationsverfahren</tu>
+	<tu xmlns:lang="ita">Procedura di modifica</tu>
+	<tu xmlns:lang="jpn">改善変更手順</tu>
+	<tu xmlns:lang="ptg">Procedimento de alteração</tu>
+	<tu xmlns:lang="ptb">Procedimento de modificação</tu>
+	<tu xmlns:lang="rus">Процедура изменения</tu>
+	<tu xmlns:lang="esp">Procedimiento de modificación</tu>
+	<tu xmlns:lang="chs">修正程序</tu>
+	<tu xmlns:lang="kor">수정 절차</tu>
+</tm>

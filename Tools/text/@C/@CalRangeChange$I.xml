@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CalRangeChange$I">
+	<tu xmlns:lang="eng">Calibrate range change.</tu>
+	<tu xmlns:lang="nld">Bereikwijziging kalibreren.</tu>
+	<tu xmlns:lang="fra">Etalonnez le changement de gamme.</tu>
+	<tu xmlns:lang="deu">Umschaltung des Übersetzungsbereichs kalibrieren.</tu>
+	<tu xmlns:lang="ita">Eseguire taratura cambiamento gamma operativa.</tu>
+	<tu xmlns:lang="jpn">レンジ変更をキャリブレーションします。</tu>
+	<tu xmlns:lang="ptg">Calibrar alteração de gama.</tu>
+	<tu xmlns:lang="ptb">Alteração do intervalo de calibragem.</tu>
+	<tu xmlns:lang="rus">Выполните калибровку изменений диапазона.</tu>
+	<tu xmlns:lang="esp">Calibrar el cambio de machas.</tu>
+	<tu xmlns:lang="chs">标定范围更改。</tu>
+	<tu xmlns:lang="kor">레인지 전환 보정</tu>
+</tm>

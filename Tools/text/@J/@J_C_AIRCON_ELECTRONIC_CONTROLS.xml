@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_AIRCON_ELECTRONIC_CONTROLS">
+	<tu xmlns:lang="eng">Electronic controls</tu>
+	<tu xmlns:lang="nld">Elektronische regeling</tu>
+	<tu xmlns:lang="fra">Commandes electroniques</tu>
+	<tu xmlns:lang="deu">Elektronische bedienelemente</tu>
+	<tu xmlns:lang="ita">Comandi elettronici</tu>
+	<tu xmlns:lang="jpn">エレクトロニック コ・トロール</tu>
+	<tu xmlns:lang="ptg">Comandos electrónicos</tu>
+	<tu xmlns:lang="ptb">Controles eletrônicos.</tu>
+	<tu xmlns:lang="rus">Электронные устройства управления</tu>
+	<tu xmlns:lang="esp">Controles electrónicos</tu>
+	<tu xmlns:lang="chs">电子控制</tu>
+	<tu xmlns:lang="kor">전자식 컨트롤</tu>
+</tm>

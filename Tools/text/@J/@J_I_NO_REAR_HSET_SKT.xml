@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_REAR_HSET_SKT">
+	<tu xmlns:lang="eng">No rear headset socket fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is achterin geen koptelefoonaansluiting geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Pas de prise de casque arrière installée.</tu>
+	<tu xmlns:lang="deu">Keine Kopfhörer-Steckbuchse hinten eingebaut.</tu>
+	<tu xmlns:lang="ita">Nessuna presa per cuffia posteriore in dotazione.</tu>
+	<tu xmlns:lang="jpn">リア ヘッドセット ソ\ケット非装備</tu>
+	<tu xmlns:lang="ptg">Não há tomada de auscultadores traseira instalada.</tu>
+	<tu xmlns:lang="ptb">Nenhum soquete de fone de ouvido traseiro instalado.</tu>
+	<tu xmlns:lang="rus">Сзади не установлено гнезд для подключения наушников.</tu>
+	<tu xmlns:lang="esp">No tiene toma trasera para auriculares.</tu>
+	<tu xmlns:lang="chs">未安装后部耳机插座。</tu>
+	<tu xmlns:lang="kor">리어 헤드셋 소켓이 장착되지 않음</tu>
+</tm>

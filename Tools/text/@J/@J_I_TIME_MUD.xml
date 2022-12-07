@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIME_MUD">
+	<tu xmlns:lang="eng">Time spent in mud mode.</tu>
+	<tu xmlns:lang="nld">Verstreken tijd in de functie voor modder.</tu>
+	<tu xmlns:lang="fra">Temps passé en mode boue.</tu>
+	<tu xmlns:lang="deu">Nutzungszeit des Spezialprogramms Schlamm/Spurrillen.</tu>
+	<tu xmlns:lang="ita">Tempo trascorso in modalità terreno fango.</tu>
+	<tu xmlns:lang="jpn">泥地モードでの消費時間</tu>
+	<tu xmlns:lang="ptg">Tempo gasto em modo de lama.</tu>
+	<tu xmlns:lang="ptb">Tempo gasto em modo de lama.</tu>
+	<tu xmlns:lang="rus">Время, проведенное в режиме езды по грязи.</tu>
+	<tu xmlns:lang="esp">Tiempo transcurrido en modo barro.</tu>
+	<tu xmlns:lang="chs">在泥泞模式中花费的时间。</tu>
+	<tu xmlns:lang="kor">진흙 모드에서 작동한 시간</tu>
+</tm>

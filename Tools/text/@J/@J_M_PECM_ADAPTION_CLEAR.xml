@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_PECM_ADAPTION_CLEAR">
+	<tu xmlns:lang="eng">Petrol engine control module adaption clear</tu>
+	<tu
+    xmlns:lang="nld"
+  >Aanpassing van de regelmodule van de benzinemotor wissen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Effacement de l'adaptation du module de commande du moteur essence</tu>
+	<tu xmlns:lang="deu">Löschung - Anpassungswerte Benzinmotor-Steuergerät</tu>
+	<tu
+    xmlns:lang="ita"
+  >Azzeramento adattamento modulo di comando motore a benzina</tu>
+	<tu xmlns:lang="jpn">ガソ\リン エンジン コントロール モジュール補正のクリア</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Apague adaptação do módulo de comando do motor, veículo a gasolina</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Adaptação apagada do módulo de controle de motor a gasolina</tu>
+	<tu
+    xmlns:lang="rus"
+  >Очистка значений адаптации блока управления бензиновым двигателем</tu>
+	<tu
+    xmlns:lang="esp"
+  >Borrado de adaptaciones del módulo de control del motor de gasolina</tu>
+	<tu xmlns:lang="chs">汽油发动机控制模块调适值清零</tu>
+	<tu xmlns:lang="kor">가솔린 엔진 컨트롤 모듈 어댑테이션 삭제</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VOICE_CNTR">
+	<tu xmlns:lang="eng">Voice control</tu>
+	<tu xmlns:lang="nld">Spraakactivering</tu>
+	<tu xmlns:lang="fra">Commande vocale</tu>
+	<tu xmlns:lang="deu">Sprachsteuerung</tu>
+	<tu xmlns:lang="ita">Comando a viva voce</tu>
+	<tu xmlns:lang="jpn">音声コントロール</tu>
+	<tu xmlns:lang="ptg">Comando por voz</tu>
+	<tu xmlns:lang="ptb">Controle de voz</tu>
+	<tu xmlns:lang="rus">Голосовое управление</tu>
+	<tu xmlns:lang="esp">Activación por voz</tu>
+	<tu xmlns:lang="chs">语音控制</tu>
+	<tu xmlns:lang="kor">음성 컨트롤</tu>
+</tm>

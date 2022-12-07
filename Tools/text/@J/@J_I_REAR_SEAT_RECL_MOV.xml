@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_SEAT_RECL_MOV">
+	<tu xmlns:lang="eng">Rear seat recline movement</tu>
+	<tu xmlns:lang="nld">Beweging van achterbank achterover</tu>
+	<tu xmlns:lang="fra">Redressement du siège arrière</tu>
+	<tu xmlns:lang="deu">Sitzlehnenneigungsbewegung - Rücksitz</tu>
+	<tu xmlns:lang="ita">Movimento inclinazione del sedile posteriore</tu>
+	<tu xmlns:lang="jpn">リア シート リクライニング (倒す) 動作</tu>
+	<tu xmlns:lang="ptg">Movimento de inclinação do banco traseiro</tu>
+	<tu xmlns:lang="ptb">Movimento de reclinação do assento traseiro</tu>
+	<tu xmlns:lang="rus">Регулировка наклона заднего сиденья</tu>
+	<tu xmlns:lang="esp">Movimiento de inclinación del asiento trasero</tu>
+	<tu xmlns:lang="chs">后座椅倾斜运动</tu>
+	<tu xmlns:lang="kor">뒷좌석 리클라인 동작</tu>
+</tm>

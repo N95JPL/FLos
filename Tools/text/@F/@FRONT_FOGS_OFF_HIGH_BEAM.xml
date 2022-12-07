@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FRONT_FOGS_OFF_HIGH_BEAM">
+	<tu xmlns:lang="eng">Front fog lamps off with high beam</tu>
+	<tu xmlns:lang="nld">Voormistlampen uit met grootlicht</tu>
+	<tu xmlns:lang="fra">Projecteurs antibrouillard éteints avec feux de route.</tu>
+	<tu xmlns:lang="deu">Nebelscheinwerfer bei Fernlicht ausgeschaltet</tu>
+	<tu xmlns:lang="ita">Fendinebbia anteriori spenti con faro abbagliante</tu>
+	<tu xmlns:lang="jpn">ハイビーム点灯時にフロント フォグランプ オフ</tu>
+	<tu xmlns:lang="ptg">Faróis de nevoeiro desligados com faróis de máximos</tu>
+	<tu xmlns:lang="ptb">Luzes de neblina dianteiras desligadas com farol alto</tu>
+	<tu
+    xmlns:lang="rus"
+  >Передние противотуманные фары выключаются одновременно с дальним светом</tu>
+	<tu xmlns:lang="esp">Faros antiniebla apagados con luz larga</tu>
+	<tu xmlns:lang="chs">前雾灯与远光灯一起关闭</tu>
+	<tu xmlns:lang="kor">하이 빔과 함께 프론트 포그 램프 끄기</tu>
+</tm>

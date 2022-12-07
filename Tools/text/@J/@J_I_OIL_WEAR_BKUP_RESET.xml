@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OIL_WEAR_BKUP_RESET">
+	<tu xmlns:lang="eng">Oil wear back-up  -  Reset</tu>
+	<tu xmlns:lang="nld">Back-up van olieverslechtering  -  Opnieuw instellen</tu>
+	<tu xmlns:lang="fra">Dispositif de secours d'huile usagée  -  Remise à zéro</tu>
+	<tu xmlns:lang="deu">Sicherungskopie - Ölalterung  -  Rücksetzen</tu>
+	<tu xmlns:lang="ita">Back-up usura olio  -  Azzerare</tu>
+	<tu xmlns:lang="jpn">オイル消耗バックアップ  －  リセット</tu>
+	<tu xmlns:lang="ptg">Reserva, desgaste do óleo  -  Reposição</tu>
+	<tu xmlns:lang="ptb">Backup de desgaste do óleo  -  Reiniciar</tu>
+	<tu xmlns:lang="rus">Резервное копирование данных об износе масла  -  Сброс</tu>
+	<tu
+    xmlns:lang="esp"
+  >Copia de seguridad del desgaste del aceite  -  Reajustar</tu>
+	<tu xmlns:lang="chs">润滑油磨损备份  -  重置</tu>
+	<tu xmlns:lang="kor">오일 마모 백업  -  재설정</tu>
+</tm>

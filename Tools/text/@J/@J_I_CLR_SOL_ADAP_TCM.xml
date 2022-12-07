@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CLR_SOL_ADAP_TCM">
+	<tu
+    xmlns:lang="eng"
+  >This routine is used to clear the solenoid adaptation in the transmission control module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze routine kunt u de solenoïde-aanpassing in de transmissieregelmodule wissen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme permet d'effacer l'adaptation de l'électrovanne dans le module de commande de transmission.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine dient dazu, die Magnetventil-Anpassung im Getriebesteuergerät zu löschen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura serve a cancellare l'adattamento solenoide nel modulo di comando cambio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンを使用して、トランスミッション コントロール モジュール内のソ\レノイド補正をクリアします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é usada para apagar a adaptação do solenóide no módulo de comando da transmissão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é utilizado para limpar a adaptação do solenóide no módulo de controle da transmissão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция используется для  сброса параметров адаптации соленоида  в блоке управления коробкой передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina se utiliza para borrar la adaptación de solenoides en el módulo de control de la transmisión.</tu>
+	<tu xmlns:lang="chs">本常规程序用于清除变速箱控制模块中的电磁阀自适应数据。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 변속기 컨트롤 모듈에서 솔레노이드 어댑테이션을 지우는 데 사용됩니다.</tu>
+</tm>

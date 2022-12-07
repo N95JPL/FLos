@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUTO_RELOCK_PASS_3_DRV_30">
+	<tu
+    xmlns:lang="eng"
+  >Automatic door re-locking  -  Cargo and passenger 3 seconds/driver 30 seconds</tu>
+	<tu
+    xmlns:lang="nld"
+  >Automatisch opnieuw vergrendelen  -  Lading en passagier 3 seconden/bestuurder 30 seconden</tu>
+	<tu
+    xmlns:lang="fra"
+  >Reverrouillage automatique des portes  -  Espace de chargement et passager 3 secondes/conducteur 30 secondes</tu>
+	<tu
+    xmlns:lang="deu"
+  >Automatische Wiederverriegelung der Türen  -  Gepäckraum und Beifahrer 3 Sekunden/Fahrer 30 Sekunden</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ribloccaggio portiere automatico  -  Carico e passeggero 3 secondi/guidatore 30 secondi</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オートマチック ドア リロック  －  カーゴおよび乗員 - 3 秒／ドライバー - 30 秒</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retrancagem automática das portas  -  Compartimento de carga e passageiro - 3 segundos/condutor - 30 segundos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Retravamento automático da porta  -  Carga e passageiro 3 segundos/motorista 30 segundos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автоматическое повторное запирание дверей  -  Груз и пассажир 3 секунды/водитель 30 секунд</tu>
+	<tu
+    xmlns:lang="esp"
+  >Bloqueo automático de seguridad  -  Compartimento de carga y acompañante, 3 segundos/conductor, 30 segundos</tu>
+	<tu xmlns:lang="chs">车门自动再锁定  -  货物和乘客 3 秒／驾驶员 30 秒</tu>
+	<tu xmlns:lang="kor">자동 도어 재잠금  -  카고 및 조수석 3초/운전석 30초</tu>
+</tm>

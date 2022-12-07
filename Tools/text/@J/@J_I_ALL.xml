@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALL">
+	<tu xmlns:lang="eng">All</tu>
+	<tu xmlns:lang="nld">ALLE</tu>
+	<tu xmlns:lang="fra">TOUTES</tu>
+	<tu xmlns:lang="deu">ALLE</tu>
+	<tu xmlns:lang="ita">TUTTE</tu>
+	<tu xmlns:lang="jpn">全ﾄﾞア</tu>
+	<tu xmlns:lang="ptg">Todos</tu>
+	<tu xmlns:lang="ptb">Todos</tu>
+	<tu xmlns:lang="rus">Все</tu>
+	<tu xmlns:lang="esp">TODAS</tu>
+	<tu xmlns:lang="chs">所有</tu>
+	<tu xmlns:lang="kor">전부</tu>
+</tm>

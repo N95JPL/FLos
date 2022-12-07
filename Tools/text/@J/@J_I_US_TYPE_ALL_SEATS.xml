@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_US_TYPE_ALL_SEATS">
+	<tu xmlns:lang="eng">USA  type  -  All seats generation 4 logic</tu>
+	<tu xmlns:lang="nld">VS-type  -  Alle stoelen van generatie 4 logic</tu>
+	<tu xmlns:lang="fra">Type USA  -  Logique tous sièges génération 4</tu>
+	<tu xmlns:lang="deu">USA  Typ  -  Alle Sitze Logik 4. Generation</tu>
+	<tu xmlns:lang="ita">Tipo USA  -  Tutti i sedili logica generazione 4</tu>
+	<tu xmlns:lang="jpn">米国タイプ  －  全シート第 4 世代ロジック</tu>
+	<tu xmlns:lang="ptg">Tipo EUA  -  Todos os bancos com lógica de 4ª geração</tu>
+	<tu xmlns:lang="ptb">Tipo EUA  -  Todos os assentos, geração 4 Logic</tu>
+	<tu xmlns:lang="rus">Тип для США  -  Все сиденья с логикой 4 поколения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tipo Estados Unidos  -  Generación de lógica 4 de todos los asientos</tu>
+	<tu xmlns:lang="chs">美国类型  -  所有座椅生成 4 逻辑</tu>
+	<tu xmlns:lang="kor">미국 유형  -  모든 시트 세대 4 논리</tu>
+</tm>

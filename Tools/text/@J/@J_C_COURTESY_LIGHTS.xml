@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_COURTESY_LIGHTS">
+	<tu xmlns:lang="eng">Courtesy lamps</tu>
+	<tu xmlns:lang="nld">Instaplampen</tu>
+	<tu xmlns:lang="fra">Lampes d'eclairage interieur automatique</tu>
+	<tu xmlns:lang="deu">Fussraumleuchten</tu>
+	<tu xmlns:lang="ita">Luci cortesia</tu>
+	<tu xmlns:lang="jpn">ｺーﾃｨｼｨ・ﾗﾝﾌﾟ</tu>
+	<tu xmlns:lang="ptg">Luzes de cortesia</tu>
+	<tu xmlns:lang="ptb">Luzes de cortesia</tu>
+	<tu xmlns:lang="rus">Плафоны общего освещения</tu>
+	<tu xmlns:lang="esp">Lamparas de cortesía</tu>
+	<tu xmlns:lang="chs">门控灯</tu>
+	<tu xmlns:lang="kor">커티시 램프</tu>
+</tm>

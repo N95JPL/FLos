@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIME_GRASS_GRAV">
+	<tu xmlns:lang="eng">Time spent in grass, gravel and snow mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verstreken tijd in de functie voor gras, grind en sneeuw.</tu>
+	<tu xmlns:lang="fra">Temps passé en mode herbe/gravier/neige.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nutzungszeit des Spezialprogramms Gras/Schnee/Schotter.</tu>
+	<tu xmlns:lang="ita">Tempo trascorso in modalità erba, ghiaia e neve.</tu>
+	<tu xmlns:lang="jpn">草原／砂利道／雪道モードでの消費時間</tu>
+	<tu xmlns:lang="ptg">Tempo gasto em modo de relva, gravilha ou neve.</tu>
+	<tu xmlns:lang="ptb">Tempo gasto em modo de grama, cascalho e neve.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Время, проведенное в режиме езды по траве, гравию и снегу.</tu>
+	<tu xmlns:lang="esp">Tiempo transcurrido en modo hierba, gravilla y nieve.</tu>
+	<tu xmlns:lang="chs">'在草地、砂砾路和雪地模式中花费的时间。'</tu>
+	<tu xmlns:lang="kor">풀밭/자갈/눈길 모드에서 작동한 시간</tu>
+</tm>

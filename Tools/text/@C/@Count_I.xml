@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Count_I">
+	<tu xmlns:lang="eng">Count</tu>
+	<tu xmlns:lang="nld">telpuls</tu>
+	<tu xmlns:lang="fra">comptage</tu>
+	<tu xmlns:lang="deu">Zählung</tu>
+	<tu xmlns:lang="ita">conteggio</tu>
+	<tu xmlns:lang="jpn">カウント</tu>
+	<tu xmlns:lang="ptg">Contar</tu>
+	<tu xmlns:lang="ptb">Contagem</tu>
+	<tu xmlns:lang="rus">Счетчик</tu>
+	<tu xmlns:lang="esp">recuento</tu>
+	<tu xmlns:lang="chs">计数</tu>
+	<tu xmlns:lang="kor">개수</tu>
+</tm>

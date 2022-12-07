@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TEST_NOT_COMPLETE">
+	<tu xmlns:lang="eng">Test not complete</tu>
+	<tu xmlns:lang="nld">Test niet voltooid</tu>
+	<tu xmlns:lang="fra">Contrôle non terminé</tu>
+	<tu xmlns:lang="deu">Prüfung unvollständig</tu>
+	<tu xmlns:lang="ita">Prova non completata</tu>
+	<tu xmlns:lang="jpn">テスト未完了</tu>
+	<tu xmlns:lang="ptg">Teste não concluído</tu>
+	<tu xmlns:lang="ptb">Teste não concluído</tu>
+	<tu xmlns:lang="rus">Проверка не завершена</tu>
+	<tu xmlns:lang="esp">Prueba no realizada</tu>
+	<tu xmlns:lang="chs">测试未完成</tu>
+	<tu xmlns:lang="kor">테스트 완료 안 됨</tu>
+</tm>

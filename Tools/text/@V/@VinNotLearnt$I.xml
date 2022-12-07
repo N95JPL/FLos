@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VinNotLearnt$I">
+	<tu xmlns:lang="eng">Vehicle identification number not learnt.</tu>
+	<tu xmlns:lang="nld">Het voertuigidentificatienummer is niet ingeleerd.</tu>
+	<tu xmlns:lang="fra">Numéro d'identification du véhicule non appris.</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Identifizierungsnummer wurde nicht erlernt.</tu>
+	<tu xmlns:lang="ita">Mancato apprendimento numero identificazione veicolo.</tu>
+	<tu xmlns:lang="jpn">車両 ID ナンバーが認識されていません。</tu>
+	<tu xmlns:lang="ptg">Número de identificação do veículo não programado.</tu>
+	<tu xmlns:lang="ptb">Número de identificação do veículo não armazenado.</tu>
+	<tu xmlns:lang="rus">Идентификационный номер автомобиля не сохранен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se aprendió el número de identificación del vehículo.</tu>
+	<tu xmlns:lang="chs">未学习到车辆标识号。</tu>
+	<tu xmlns:lang="kor">차량 식별 번호가 학습되지 않음</tu>
+</tm>

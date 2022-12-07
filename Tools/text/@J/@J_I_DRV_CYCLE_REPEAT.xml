@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRV_CYCLE_REPEAT">
+	<tu
+    xmlns:lang="eng"
+  >If the transponders are not in the correct state for the test, the drive cycle will need to be repeated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Indien de antwoordzenders zich niet in de correcte status voor de test bevinden, moet de rijcyclus worden herhaald.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si les transpondeurs ne sont pas dans l'état correct pour le contrôle, le cycle de conduite devra être répété.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Befinden sich die Transponder nicht im korrekten Zustand für den Test, muss der Fahrzyklus wiederholt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se i risponditori non sono nello stato corretto per la prova, sarà necessario ripetere il ciclo di guida.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスポンダがテストのための適切な状態にない場合、ドライブ サイクルを繰り返す必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se os emissores-receptores não estiverem no estado correcto para o teste, o ciclo de condução terá de ser repetido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Caso os transmissores não estejam no estado correto para o teste, o ciclo de acionamento deverá ser repetido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если при проведении дорожного испытания передатчики не находились в требуемом состоянии, то испытание необходимо будетповторить.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si los transpondedores no están en el estado correcto para la prueba, deberá repetirse el ciclo de conducción.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果测试中发射机应答器未处于正确状态，则需要重复行驶循环。</tu>
+	<tu
+    xmlns:lang="kor"
+  >트랜스폰더가 테스트에 알맞은 상태가 아니라면 주행 사이클을 반복해야 합니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@UpdateVCI$I">
+	<tu
+    xmlns:lang="eng"
+  >Update the VCI. Instructions for completing the VCI update can be found in 'SDD_VCI / SDD_VCI_LR - VCI Update Instructions', available on TOPIx.</tu>
+	<tu
+    xmlns:lang="nld"
+  >JLR VCI bijwerken. Instructies voor het voltooien van de VCI-update vindt u in 'SDD_VCI / SDD_VCI_LR - VCI Update Instructions', beschikbaar op TOPIx.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mettez à jour la VCI. Les instructions pour la mise à jour de la VCI sont disponibles dans SDD_VCI/SDD_VCI_LR - Instructions de mise à jour de la VCI, dans TOPIx.</tu>
+	<tu
+    xmlns:lang="deu"
+  >VCI aktualisieren. Anweisungen zur Durchführung der VCI-Aktualisierung sind unter „SDD_VCI / SDD_VCI_LR – VCI-Aktualisierungsanweisungen“ zu finden, verfügbar in TOPIx.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Aggiornamento del VCI. Le istruzioni per completare l'aggiornamento del VIC sono disponibili in 'SDD_VCI / SDD_VCI_LR - Istruzioni di aggiornamento del VCI', su TOPIx.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >VCI をアップデートします。 VCI のアップデートを完了する方法については、TOPIx の「SDD_VCI/SDD_VCI_LR - VCI アップデート手順」で見ることができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Atualize o VCI. As instruções para realizar a atualização do VCI podem ser consultadas em 'SDD_VCI/SDD_VCI_LR - Instruções de atualização do VCI', disponíveis no TOPIx.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Atualizar o VCI. Instruções para a conclusão da atualização do VCI podem ser encontradas em SDD_VCI / SDD_VCI_LR - Instruções de Atualização do VCI, disponíveis no TOPIx.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обновить VCI. Инструкции по выполнению обновления VCI можно найти в файле 'SDD_VCI / SDD_VCI_LR - инструкции по обновлению VCI', доступном в TOPIx.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Actualice la interfaz del conector del vehículo (VCI). Las instrucciones de actualización de la VCI se encuentran en la sección SDD_VCI / SDD_VCI_LR - Instrucciones de actualización de la VCI de TOPIx.</tu>
+	<tu
+    xmlns:lang="chs"
+  >更新 VCI。 可在 TOPIx 上的“SDD_VCI/SDD_VCI_LR - VCI 更新说明”中找到完成 VCI 更新的说明。</tu>
+	<tu
+    xmlns:lang="kor"
+  >VCI를 업데이트하십시오. VCI 업데이트 완료를 위한 지침은 TOPIx에서 제공되는 'SDD_VCI / SDD_VCI_LR - VCI 업데이트 지침'에서 찾을 수 있습니다.</tu>
+</tm>

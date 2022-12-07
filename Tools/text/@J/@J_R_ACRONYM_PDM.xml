@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_R_ACRONYM_PDM">
+	<tu xmlns:lang="eng">Passenger's door module</tu>
+	<tu xmlns:lang="nld">Regelmodule van het passagiersportier</tu>
+	<tu xmlns:lang="fra">Module de porte passager</tu>
+	<tu xmlns:lang="deu">Beifahrertür-Steuermodul</tu>
+	<tu xmlns:lang="ita">Modulo portiera passeggero</tu>
+	<tu xmlns:lang="jpn">助手席側ドア モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo da porta do passageiro.</tu>
+	<tu xmlns:lang="ptb">Módulo da porta do passageiro</tu>
+	<tu xmlns:lang="rus">Блок управления в двери пассажира</tu>
+	<tu xmlns:lang="esp">Módulo de la puerta del acompañante</tu>
+	<tu xmlns:lang="chs">乘客一侧车门模块</tu>
+	<tu xmlns:lang="kor">조수석 도어 모듈</tu>
+</tm>

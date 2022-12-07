@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_STEER_LOCK">
+	<tu xmlns:lang="eng">Steering lock.</tu>
+	<tu xmlns:lang="nld">Stuurslot</tu>
+	<tu xmlns:lang="fra">Verrouillage de direction</tu>
+	<tu xmlns:lang="deu">Lenkradschloss</tu>
+	<tu xmlns:lang="ita">Bloccasterzo</tu>
+	<tu xmlns:lang="jpn">ステアリング ロック</tu>
+	<tu xmlns:lang="ptg">Tranca da coluna da direcção.</tu>
+	<tu xmlns:lang="ptb">Trava de direção.</tu>
+	<tu xmlns:lang="rus">Замок рулевой колонки.</tu>
+	<tu xmlns:lang="esp">Bloqueo de la dirección</tu>
+	<tu xmlns:lang="chs">转向锁。</tu>
+	<tu xmlns:lang="kor">스티어링 잠금 장치</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SDARS_HD">
+	<tu
+    xmlns:lang="eng"
+  >Satellite digital audio receiver system and high definition radio</tu>
+	<tu
+    xmlns:lang="nld"
+  >Digitale geluidsinstallatie met satellietontvanger en high-definition radio</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système de récepteur audio numérique par satellite et autoradio haute définition</tu>
+	<tu
+    xmlns:lang="deu"
+  >Digitales Satellitenradio-Audioempfängersystem und hoch auflösendes Radio</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema ricevitore audio digitale satellitare e radio alta definizione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >衛星デジタル オーディオ レシーバー システムとハイ デフィニション (HD) ラジオ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema receptor áudio digital via satélite (SDARS) e rádio de alta definição</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema do receptor de áudio digital via satélite e rádio de alta definição</tu>
+	<tu
+    xmlns:lang="rus"
+  >Цифровая аудиосистема спутникового приема и радио высокой четкости</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de receptor de audio digital vía satélite y radio de alta definición</tu>
+	<tu xmlns:lang="chs">卫星数字音频接收器系统和高音质广播</tu>
+	<tu xmlns:lang="kor">위성 디지털 오디오 수신기 시스템 및 HD 라디오</tu>
+</tm>

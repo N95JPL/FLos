@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_STATUS_LEVEL_1">
+	<tu xmlns:lang="eng">Level 1</tu>
+	<tu xmlns:lang="nld">Niveau 1</tu>
+	<tu xmlns:lang="fra">Niveau 1</tu>
+	<tu xmlns:lang="deu">Niveau 1</tu>
+	<tu xmlns:lang="ita">Livello 1</tu>
+	<tu xmlns:lang="jpn">レベル 1</tu>
+	<tu xmlns:lang="ptg">Nível 1</tu>
+	<tu xmlns:lang="ptb">Nível 1</tu>
+	<tu xmlns:lang="rus">Уровень 1</tu>
+	<tu xmlns:lang="esp">Nivel 1</tu>
+	<tu xmlns:lang="chs">级别 1</tu>
+	<tu xmlns:lang="kor">레벨 1</tu>
+</tm>

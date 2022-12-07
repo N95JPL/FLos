@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PRE_DEL">
+	<tu xmlns:lang="eng">Pre-delivery.</tu>
+	<tu xmlns:lang="nld">Voor-levering.</tu>
+	<tu xmlns:lang="fra">Pré-livraison.</tu>
+	<tu xmlns:lang="deu">Vor Auslieferung.</tu>
+	<tu xmlns:lang="ita">Preconsegna.</tu>
+	<tu xmlns:lang="jpn">予\送</tu>
+	<tu xmlns:lang="ptg">Pré-alimentação.</tu>
+	<tu xmlns:lang="ptb">Pré-fornecimento.</tu>
+	<tu xmlns:lang="rus">Предпродажная.</tu>
+	<tu xmlns:lang="esp">Preentrega.</tu>
+	<tu xmlns:lang="chs">发车前。</tu>
+	<tu xmlns:lang="kor">납품 전</tu>
+</tm>

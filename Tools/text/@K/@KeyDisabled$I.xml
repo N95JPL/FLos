@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KeyDisabled$I">
+	<tu xmlns:lang="eng">Key invalid - disabled.</tu>
+	<tu xmlns:lang="nld">Sleutel ongeldig - gedeactiveerd.</tu>
+	<tu xmlns:lang="fra">Clé non valide - désactivée.</tu>
+	<tu xmlns:lang="deu">Schlüssel ungültig - deaktiviert.</tu>
+	<tu xmlns:lang="ita">Chiave non valida - disattivata.</tu>
+	<tu xmlns:lang="jpn">無効キー - 非作動</tu>
+	<tu xmlns:lang="ptg">Chave inválida - desactivada.</tu>
+	<tu xmlns:lang="ptb">Chave inválida - desativada.</tu>
+	<tu xmlns:lang="rus">Недопустимый ключ - заблокирован.</tu>
+	<tu xmlns:lang="esp">Llave no válida: inhabilitada.</tu>
+	<tu xmlns:lang="chs">钥匙无效 - 已禁用。</tu>
+	<tu xmlns:lang="kor">키가 유효하지 않음 - 비활성화</tu>
+</tm>

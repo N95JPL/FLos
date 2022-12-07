@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SEATB_REMIND">
+	<tu xmlns:lang="eng">Safety belt reminder</tu>
+	<tu xmlns:lang="nld">Waarschuwing voor autogordel</tu>
+	<tu xmlns:lang="fra">Rappel de ceinture de sécurité</tu>
+	<tu xmlns:lang="deu">Sicherheitsgurtwarnung</tu>
+	<tu xmlns:lang="ita">Segnalazione cintura sicurezza</tu>
+	<tu xmlns:lang="jpn">シートベルト警告</tu>
+	<tu xmlns:lang="ptg">Aviso do cinto de segurança</tu>
+	<tu xmlns:lang="ptb">Lembrete sobre os cintos de segurança</tu>
+	<tu
+    xmlns:lang="rus"
+  >Звуковой сигнализатор непристёгнутого ремня безопасности</tu>
+	<tu xmlns:lang="esp">Aviso del cinturón de seguridad sin abrochar</tu>
+	<tu xmlns:lang="chs">安全带提醒器</tu>
+	<tu xmlns:lang="kor">안전벨트 알림</tu>
+</tm>

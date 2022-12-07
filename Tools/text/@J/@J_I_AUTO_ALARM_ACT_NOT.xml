@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUTO_ALARM_ACT_NOT">
+	<tu xmlns:lang="eng">Without automatic alarm activate</tu>
+	<tu xmlns:lang="nld">Zonder automatische activering van alarm</tu>
+	<tu xmlns:lang="fra">Sans activation automatique de l'alarme</tu>
+	<tu xmlns:lang="deu">Ohne automatische Alarmaktivierung</tu>
+	<tu xmlns:lang="ita">Senza attivazione automatica dell'allarme</tu>
+	<tu xmlns:lang="jpn">自動アラーム作動なし</tu>
+	<tu xmlns:lang="ptg">Sem activação automática do alarme</tu>
+	<tu xmlns:lang="ptb">Sem alarme automático ativado</tu>
+	<tu xmlns:lang="rus">Без автоматического включения сигнализации</tu>
+	<tu xmlns:lang="esp">Sin activación de alarma automática</tu>
+	<tu xmlns:lang="chs">无自动报警激活</tu>
+	<tu xmlns:lang="kor">자동 알람 활성화 없음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ReconBat$I">
+	<tu xmlns:lang="eng">Reconnect the vehicle battery.</tu>
+	<tu xmlns:lang="nld">Sluit de voertuigaccu weer aan.</tu>
+	<tu xmlns:lang="fra">Rebranchez la batterie du véhicule.</tu>
+	<tu xmlns:lang="deu">Fahrzeugbatterie wieder anschließen.</tu>
+	<tu xmlns:lang="ita">Ricollegare la batteria della vettura.</tu>
+	<tu xmlns:lang="jpn">車両バッテリを再接続しなさい。</tu>
+	<tu xmlns:lang="ptg">Ligue a bateria do veículo.</tu>
+	<tu xmlns:lang="ptb">Reconecte a bateria do veículo.</tu>
+	<tu xmlns:lang="rus">Снова подключите аккумуляторную батарею автомобиля.</tu>
+	<tu xmlns:lang="esp">Volver a conectar la batería del vehículo.</tu>
+	<tu xmlns:lang="chs">重新连接车辆蓄电池。</tu>
+	<tu xmlns:lang="kor">차량 배터리를 다시 연결하십시오.</tu>
+</tm>

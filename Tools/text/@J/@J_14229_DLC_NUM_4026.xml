@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DLC_NUM_4026">
+	<tu
+    xmlns:lang="eng"
+  >Normalised cumulative battery discharge when ignition is off but loads still active</tu>
+	<tu
+    xmlns:lang="nld"
+  >Genormaliseerde, cumulatieve accuontlading wanneer contact is uitgeschakeld, maar laden nog steeds actief</tu>
+	<tu
+    xmlns:lang="fra"
+  >Décharge normale cumulée de la batterie quand le contact est coupé alors que la batterie est toujours sollicitée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Normalisierte kumulative Batterieentladung bei ausgeschalteter Zündung und noch aktiven Verbrauchern</tu>
+	<tu
+    xmlns:lang="ita"
+  >Scarica normalizzata cumulativa della batteria quando l'accensione è disinserita ma i carichi sono ancora attivi</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イグニションがオフかつ負荷がまだアクティブのときの標準化された累積バッテリ放電</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Descarga da bateria cumulativa normalizada com a ignição desligada, mas com cargas ainda activas</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Descarga cumulativa da bateria normalizada quando a ignição está desligada, mas as cargas ainda ativas</tu>
+	<tu
+    xmlns:lang="rus"
+  >Стандартный суммарный разряд батареи при выключенном зажигании, но активной нагрузке</tu>
+	<tu
+    xmlns:lang="esp"
+  >Descarga acumulada y normalizada de la batería con el contacto cortado pero las cargas aún activas</tu>
+	<tu xmlns:lang="chs">点火关闭但仍有负荷时，将蓄电池累积放电标准化</tu>
+	<tu
+    xmlns:lang="kor"
+  >점화 스위치가 꺼지지만 부하가 여전히 활성 상태일 때 정규화된 누적 배터리 방전량</tu>
+</tm>

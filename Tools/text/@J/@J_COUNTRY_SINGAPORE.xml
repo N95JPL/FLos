@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_SINGAPORE">
+	<tu xmlns:lang="eng">Singapore</tu>
+	<tu xmlns:lang="nld">Singapore</tu>
+	<tu xmlns:lang="fra">Singapour</tu>
+	<tu xmlns:lang="deu">Singapur</tu>
+	<tu xmlns:lang="ita">Singapore</tu>
+	<tu xmlns:lang="jpn">シンガポール</tu>
+	<tu xmlns:lang="ptg">Singapura</tu>
+	<tu xmlns:lang="ptb">Cingapura</tu>
+	<tu xmlns:lang="rus">Сингапур</tu>
+	<tu xmlns:lang="esp">Singapur</tu>
+	<tu xmlns:lang="chs">新加坡</tu>
+	<tu xmlns:lang="kor">싱가포르</tu>
+</tm>

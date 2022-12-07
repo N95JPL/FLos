@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_ELEC_HEAT">
+	<tu xmlns:lang="eng">Without electric vehicle heater</tu>
+	<tu xmlns:lang="nld">Zonder elektrische verwarming van voertuig</tu>
+	<tu xmlns:lang="fra">Sans chauffage électrique du véhicule</tu>
+	<tu xmlns:lang="deu">Ohne elektrische Fahrzeugheizung</tu>
+	<tu xmlns:lang="ita">Senza riscaldatore elettrico veicolo</tu>
+	<tu xmlns:lang="jpn">エレクトリック車両ヒーターなし</tu>
+	<tu xmlns:lang="ptg">Sem aquecedor eléctrico do veículo</tu>
+	<tu xmlns:lang="ptb">Sem aquecedor elétrico do veículo</tu>
+	<tu xmlns:lang="rus">Без электрического обогревателя автомобиля</tu>
+	<tu xmlns:lang="esp">Sin calefactor eléctrico de vehículo</tu>
+	<tu xmlns:lang="chs">无车辆电动加热器</tu>
+	<tu xmlns:lang="kor">전기 자동차 히터 없음</tu>
+</tm>

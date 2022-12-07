@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NOT_ACTIVE_AUX_OFF">
+	<tu xmlns:lang="eng">Not active with the ignition in auxiliary/off</tu>
+	<tu xmlns:lang="nld">Niet actief met het contact op accessoires/uit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Non actif avec le commutateur d'allumage en position accessoires/arrêt.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nicht aktiv mit Zündung in Stellung Nebenstromkreise/Aus</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non attivo con l'accensione in posizione ausiliaria/disattivata</tu>
+	<tu xmlns:lang="jpn">イグニションがアクセサリ／オフ ポジションのとき不作動</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não activo com a ignição na posição de acessórios/desligado</tu>
+	<tu xmlns:lang="ptb">Inativa com ignição em modo auxiliar/desligado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Деактивировано, когда зажигание находится в положении AUX или выключено</tu>
+	<tu
+    xmlns:lang="esp"
+  >No está activo con la llave de contacto en la posición de accesorios/contacto cortado</tu>
+	<tu xmlns:lang="chs">点火处于辅助/关闭位置时不启用</tu>
+	<tu xmlns:lang="kor">점화 키가 보조/꺼짐 위치에 있을 때는 활성 상태 아님</tu>
+</tm>

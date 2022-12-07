@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_INSTRUMENT_CLUSTER">
+	<tu xmlns:lang="eng">413-01 Instrument pack</tu>
+	<tu xmlns:lang="nld">413-01 Instrumentengroep</tu>
+	<tu xmlns:lang="fra">413-01 Tableau de bord</tu>
+	<tu xmlns:lang="deu">413-01 Instrumentengruppe</tu>
+	<tu xmlns:lang="ita">413-01 Strumentazione</tu>
+	<tu xmlns:lang="jpn">413-01 インストルメント パック</tu>
+	<tu xmlns:lang="ptg">413-01 Grupo de instrumentos</tu>
+	<tu xmlns:lang="ptb">413-01 Painel de instrumentos</tu>
+	<tu xmlns:lang="rus">413-01 Панель приборов</tu>
+	<tu xmlns:lang="esp">413-01 Cuadro de instrumentos</tu>
+	<tu xmlns:lang="chs">413-01仪表组件</tu>
+	<tu xmlns:lang="kor">413-01 계기판</tu>
+</tm>

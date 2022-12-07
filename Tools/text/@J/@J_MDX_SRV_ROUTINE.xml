@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_MDX_SRV_ROUTINE">
+	<tu xmlns:lang="eng">Run the routine for the module.</tu>
+	<tu xmlns:lang="nld">Voer de uitvoerroutine voor de module uit.</tu>
+	<tu xmlns:lang="fra">Exécuter la procédure pour le module.</tu>
+	<tu xmlns:lang="deu">Routine für das Steuergerät laufen lassen.</tu>
+	<tu xmlns:lang="ita">Eseguire la procedura per il modulo.</tu>
+	<tu xmlns:lang="jpn">モジュールのルーチンを実行しなさい。</tu>
+	<tu xmlns:lang="ptg">Correr a rotina do módulo.</tu>
+	<tu xmlns:lang="ptb">Opere a rotina para o módulo.</tu>
+	<tu xmlns:lang="rus">Выполните запуск процедуры для данного блока.</tu>
+	<tu xmlns:lang="esp">Ejecutar la rutina para el módulo.</tu>
+	<tu xmlns:lang="chs">运行模块例程。</tu>
+	<tu xmlns:lang="kor">모듈에 대한 루틴을 실행하십시오.</tu>
+</tm>

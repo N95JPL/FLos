@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDNumber$I">
+	<tu xmlns:lang="eng">ID - 0x%x.</tu>
+	<tu xmlns:lang="nld">ID - 0x%x.</tu>
+	<tu xmlns:lang="fra">ID - 0x%x.</tu>
+	<tu xmlns:lang="deu">ID - 0x%x.</tu>
+	<tu xmlns:lang="ita">ID: 0x%x.</tu>
+	<tu xmlns:lang="jpn">ID - 0x%x </tu>
+	<tu xmlns:lang="ptg">ID - 0x%x.</tu>
+	<tu xmlns:lang="ptb">ID - 0x%x.</tu>
+	<tu xmlns:lang="rus">Идентификатор - 0x%x.</tu>
+	<tu xmlns:lang="esp">ID: 0x%x.</tu>
+	<tu xmlns:lang="chs">ID - 0x%x。</tu>
+	<tu xmlns:lang="kor">ID - 0x%x</tu>
+</tm>

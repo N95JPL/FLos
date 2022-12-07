@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ENTERTAINMENT_ANTENNA">
+	<tu xmlns:lang="eng">Entertainment antenna</tu>
+	<tu xmlns:lang="nld">Antenne van de geluidsinstallatie</tu>
+	<tu xmlns:lang="fra">Antenne du système audio</tu>
+	<tu xmlns:lang="deu">Antenne - Audiosystem</tu>
+	<tu xmlns:lang="ita">Antenna impianto audio</tu>
+	<tu xmlns:lang="jpn">エンタテイメント アンテナ</tu>
+	<tu xmlns:lang="ptg">Antena do sistema de entretenimento</tu>
+	<tu xmlns:lang="ptb">Antena de entretenimento</tu>
+	<tu xmlns:lang="rus">Антенна мультимедийной системы</tu>
+	<tu xmlns:lang="esp">Antena del equipo de audio</tu>
+	<tu xmlns:lang="chs">娱乐系统天线</tu>
+	<tu xmlns:lang="kor">엔터테인먼트 안테나</tu>
+</tm>

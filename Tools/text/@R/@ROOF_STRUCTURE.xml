@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ROOF_STRUCTURE">
+	<tu xmlns:lang="eng">Roof structure</tu>
+	<tu xmlns:lang="nld">Dakconstructie</tu>
+	<tu xmlns:lang="fra">Structure de toit.</tu>
+	<tu xmlns:lang="deu">Dachstruktur</tu>
+	<tu xmlns:lang="ita">Struttura tettuccio</tu>
+	<tu xmlns:lang="jpn">ルーフ構\造</tu>
+	<tu xmlns:lang="ptg">Estrutura do tejadilho</tu>
+	<tu xmlns:lang="ptb">Estrutura do teto</tu>
+	<tu xmlns:lang="rus">Конструкция крыши</tu>
+	<tu xmlns:lang="esp">Estructura del techo</tu>
+	<tu xmlns:lang="chs">顶篷结构</tu>
+	<tu xmlns:lang="kor">루프 구조</tu>
+</tm>

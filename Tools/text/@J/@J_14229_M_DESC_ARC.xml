@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_ARC">
+	<tu xmlns:lang="eng">Active ride control module.</tu>
+	<tu xmlns:lang="nld">Regelmodule voor actief rijden.</tu>
+	<tu xmlns:lang="fra">Module de commande du régulateur de conduite actif.</tu>
+	<tu xmlns:lang="deu">Niveauausgleichs-Steuergerät.</tu>
+	<tu xmlns:lang="ita">Modulo di comando attivo altezza.</tu>
+	<tu xmlns:lang="jpn">アクティブ ライド コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando da suspensão activa.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle de condução ativa.</tu>
+	<tu xmlns:lang="rus">Блок управления активным уровнем клиренса.</tu>
+	<tu xmlns:lang="esp">Módulo de control de la altura activo.</tu>
+	<tu xmlns:lang="chs">激活行驶控制模块。</tu>
+	<tu xmlns:lang="kor">액티브 라이드 컨트롤 모듈</tu>
+</tm>

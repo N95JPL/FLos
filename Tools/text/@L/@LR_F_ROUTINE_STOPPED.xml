@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_F_ROUTINE_STOPPED">
+	<tu xmlns:lang="eng">Routine stopped.</tu>
+	<tu xmlns:lang="nld">De routine is gestopt.</tu>
+	<tu xmlns:lang="fra">Programme arrêté.</tu>
+	<tu xmlns:lang="deu">Routine gestoppt.</tu>
+	<tu xmlns:lang="ita">Procedura interrotta.</tu>
+	<tu xmlns:lang="jpn">ルーチンを停止しました。</tu>
+	<tu xmlns:lang="ptg">Rotina parada.</tu>
+	<tu xmlns:lang="ptb">Rotina interrompida.</tu>
+	<tu xmlns:lang="rus">Программа остановлена.</tu>
+	<tu xmlns:lang="esp">Rutina detenida.</tu>
+	<tu xmlns:lang="chs">常规程序已停止。</tu>
+	<tu xmlns:lang="kor">절차가 중지됨</tu>
+</tm>

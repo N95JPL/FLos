@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_ENG_STATUS">
+	<tu xmlns:lang="eng">Engine status</tu>
+	<tu xmlns:lang="nld">Motorstatus</tu>
+	<tu xmlns:lang="fra">Etat du moteur</tu>
+	<tu xmlns:lang="deu">Motorstatus</tu>
+	<tu xmlns:lang="ita">Stato del motore</tu>
+	<tu xmlns:lang="jpn">エンジン ステータス</tu>
+	<tu xmlns:lang="ptg">Estado do motor</tu>
+	<tu xmlns:lang="ptb">Status do motor</tu>
+	<tu xmlns:lang="rus">Состояние двигателя</tu>
+	<tu xmlns:lang="esp">Estado del motor</tu>
+	<tu xmlns:lang="chs">发动机状态</tu>
+	<tu xmlns:lang="kor">엔진 상태</tu>
+</tm>

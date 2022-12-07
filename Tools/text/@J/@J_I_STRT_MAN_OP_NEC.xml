@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STRT_MAN_OP_NEC">
+	<tu
+    xmlns:lang="eng"
+  >It must be started again manually if further operation is necessary.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U moet het handmatig opnieuw starten als het opnieuw in werking moet treden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Il doit être redémarré manuellement si une autre opération est requise.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist ein weiterer Betrieb erforderlich, muss Neustart von Hand erfolgen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Riavviare manualmente se sono necessarie ulteriori operazioni.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >さらにオペレーションが必要な場合、手動で再始動を行わなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tem de ser posto a trabalhar manualmente se se precisar que funcione novamente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ele deve ser novamente iniciado manualmente, se mais operações forem necessárias.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если необходима его дальнейшая работа, его придется снова запустить вручную.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se debe volver a poner en marcha manualmente si se necesita que siga funcionando.</tu>
+	<tu xmlns:lang="chs">如果有必要进一步运行，则必须手动重新起动。</tu>
+	<tu
+    xmlns:lang="kor"
+  >추가 작업이 필요할 경우 수동으로 다시 가동시켜야 합니다.</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AIRCON_ADAPT_RESET">
+	<tu xmlns:lang="eng">Air conditioning system adaption reset</tu>
+	<tu xmlns:lang="nld">Resetten van adaptatie van airconditioning</tu>
+	<tu
+    xmlns:lang="fra"
+  >Réinitialisation de l'adaptation du système de climatisation</tu>
+	<tu xmlns:lang="deu">Klimaanlagenanpassung - Rücksetzung</tu>
+	<tu xmlns:lang="ita">Reimpostazione adattamento sistema aria condizionata</tu>
+	<tu xmlns:lang="jpn">エア コンディショニング システム補正のリセット</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Reposição a zero da adaptação do sistema de ar condicionado</tu>
+	<tu xmlns:lang="ptb">Redefinição de adaptação do sistema de ar-condicionado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сброс состояния адаптации системы кондиционирования воздуха</tu>
+	<tu
+    xmlns:lang="esp"
+  >Restauración de adaptación del sistema de aire acondicionado</tu>
+	<tu xmlns:lang="chs">空调系统自适应复位</tu>
+	<tu xmlns:lang="kor">에어컨 시스템 어댑테이션 재설정</tu>
+</tm>

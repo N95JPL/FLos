@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_BAT_BACK_SND_ALARM">
+	<tu xmlns:lang="eng">Battery backed sounder alarm.</tu>
+	<tu xmlns:lang="nld">Noodstroomsirene.</tu>
+	<tu xmlns:lang="fra">Sirène d'alarme avec secours batterie.</tu>
+	<tu xmlns:lang="deu">Alarm mit batterieunterstütztem Signalhorn.</tu>
+	<tu xmlns:lang="ita">Allarme con suoneria a batteria.</tu>
+	<tu xmlns:lang="jpn">バッテリ バックアップ サウンダー アラーム</tu>
+	<tu xmlns:lang="ptg">Alarme da buzina de alarme com bateria.</tu>
+	<tu xmlns:lang="ptb">Alarme de sirene com suporte de bateria.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сигнал тревоги оповещателя с питанием от аккумуляторной батареи.</tu>
+	<tu xmlns:lang="esp">Alarma de sirena autoalimentada.</tu>
+	<tu xmlns:lang="chs">有源发声器报警。</tu>
+	<tu xmlns:lang="kor">배터리 백업 경보 발생기 알람</tu>
+</tm>

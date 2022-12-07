@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SUPPLY_STATUS_VERIFY">
+	<tu xmlns:lang="eng">Power supply status verify</tu>
+	<tu xmlns:lang="nld">Verificatie van status elektrische voeding</tu>
+	<tu xmlns:lang="fra">Vérification de l'état de l'alimentation électrique</tu>
+	<tu xmlns:lang="deu">Verifikation Versorgungsstatus</tu>
+	<tu xmlns:lang="ita">Verifica dello stato dell'alimentazione elettrica</tu>
+	<tu xmlns:lang="jpn">電源供給ステータスの正当性確認</tu>
+	<tu xmlns:lang="ptg">Verificar o estado da alimentação</tu>
+	<tu xmlns:lang="ptb">Verificação do status da fonte de alimentação</tu>
+	<tu xmlns:lang="rus">Проверка состояния системы питания</tu>
+	<tu xmlns:lang="esp">Comprobación del estado de la alimentación</tu>
+	<tu xmlns:lang="chs">电源状态验证</tu>
+	<tu xmlns:lang="kor">전원 공급 장치 상태 확인</tu>
+</tm>

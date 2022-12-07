@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FLASH_IN_PROG">
+	<tu xmlns:lang="eng">Programming in progress</tu>
+	<tu xmlns:lang="nld">Flitsprogrammering aan de gang</tu>
+	<tu xmlns:lang="fra">Programmation flash en cours</tu>
+	<tu xmlns:lang="deu">Flash-Programmierung l„uft </tu>
+	<tu xmlns:lang="ita">Programmazione flash in corso</tu>
+	<tu xmlns:lang="jpn">フラッシュ プログラミング進行中</tu>
+	<tu xmlns:lang="ptg">Programação em curso</tu>
+	<tu xmlns:lang="ptb">Programação em andamento</tu>
+	<tu xmlns:lang="rus">Выполняется программирование</tu>
+	<tu xmlns:lang="esp">Programación flash en curso</tu>
+	<tu xmlns:lang="chs">编程正在进行</tu>
+	<tu xmlns:lang="kor">프로그래밍 진행 중</tu>
+</tm>

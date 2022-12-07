@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PASS_SBELTS">
+	<tu xmlns:lang="eng">Passive safety belts</tu>
+	<tu xmlns:lang="nld">Passieve veiligheidsgordels</tu>
+	<tu xmlns:lang="fra">Ceintures de sécurité passives</tu>
+	<tu xmlns:lang="deu">Passive Sicherheitsgurte</tu>
+	<tu xmlns:lang="ita">Cinture di sicurezza passive</tu>
+	<tu xmlns:lang="jpn">パッシブ シートベルト</tu>
+	<tu xmlns:lang="ptg">Cintos de segurança do sistema passivo</tu>
+	<tu xmlns:lang="ptb">Cintos de segurança passivos</tu>
+	<tu xmlns:lang="rus">Пассивные ремни безопасности</tu>
+	<tu xmlns:lang="esp">Cinturones de seguridad pasivos</tu>
+	<tu xmlns:lang="chs">被动安全带</tu>
+	<tu xmlns:lang="kor">수동 안전 벨트</tu>
+</tm>

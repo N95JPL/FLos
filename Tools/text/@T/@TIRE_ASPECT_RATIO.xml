@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TIRE_ASPECT_RATIO">
+	<tu xmlns:lang="eng">Tire aspect ratio</tu>
+	<tu xmlns:lang="nld">Breedte-hoogteverhouding van band</tu>
+	<tu xmlns:lang="fra">Rapport nominal d'aspect des pneus.</tu>
+	<tu xmlns:lang="deu">Reifen-Querschnittsverhältnis</tu>
+	<tu xmlns:lang="ita">Rapporto base/altezza pneumatico</tu>
+	<tu xmlns:lang="jpn">タイヤ アスペクト レシオ</tu>
+	<tu xmlns:lang="ptg">Taxa de aspecto dos pneus</tu>
+	<tu xmlns:lang="ptb">Proporção do pneu</tu>
+	<tu xmlns:lang="rus">Отношение высоты профиля шины к ширине</tu>
+	<tu xmlns:lang="esp">Perfil de los neumáticos</tu>
+	<tu xmlns:lang="chs">轮胎高宽比</tu>
+	<tu xmlns:lang="kor">타이어 편평비</tu>
+</tm>

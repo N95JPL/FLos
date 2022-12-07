@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_COMP_PASS">
+	<tu
+    xmlns:lang="eng"
+  >Routine completed and passed - vehicle identification number learnt correctly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Routine uitgevoerd en geslaagd - voertuigidentificatienummer juist ingeleerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Programme terminé et réussi - Numéro d'identification du véhicule correctement appris.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Routine erfolgreich abgeschlossen - Fahrgestellnummer korrekt erlernt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Procedura completata e superata - numero identificazione veicolo appreso correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ルーチン完了および合格 － 車両 ID ナンバーが正常に学習されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Rotina concluída e aprovada - número de identificação do veículo aprendido correctamente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Rotina concluída e aprovada - número de identificação do veículo memorizado corretamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Программа завершена и пройдена успешно - идентификационный номер автомобиля записан правильно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Rutina concluida y aprobada - número de identificación del vehículo correctamente memorizado.</tu>
+	<tu xmlns:lang="chs">常规程序已完成并通过 - 车辆标识代码已被正确记忆。</tu>
+	<tu
+    xmlns:lang="kor"
+  >절차가 완료되었고 통과됨 - 차량 식별 번호가 올바르게 학습됨</tu>
+</tm>

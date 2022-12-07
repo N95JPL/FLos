@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_UNLOCK">
+	<tu xmlns:lang="eng">Unlock</tu>
+	<tu xmlns:lang="nld">Ontgrendelen</tu>
+	<tu xmlns:lang="fra">Déverrouiller</tu>
+	<tu xmlns:lang="deu">Entriegeln</tu>
+	<tu xmlns:lang="ita">Sbloccare</tu>
+	<tu xmlns:lang="jpn">アンロック</tu>
+	<tu xmlns:lang="ptg">Destrancar</tu>
+	<tu xmlns:lang="ptb">Destravar</tu>
+	<tu xmlns:lang="rus">Отключение блокировки</tu>
+	<tu xmlns:lang="esp">Desbloquear</tu>
+	<tu xmlns:lang="chs">解锁</tu>
+	<tu xmlns:lang="kor">잠금 해제</tu>
+</tm>

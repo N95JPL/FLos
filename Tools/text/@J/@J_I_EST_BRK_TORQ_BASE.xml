@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EST_BRK_TORQ_BASE">
+	<tu xmlns:lang="eng">Estimated brake torque base</tu>
+	<tu xmlns:lang="nld">Geschatte opgewekte remkracht</tu>
+	<tu xmlns:lang="fra">Estimation de la force de freinage moyenne générée.</tu>
+	<tu xmlns:lang="deu">Berechnete Bremsmomentbasis</tu>
+	<tu xmlns:lang="ita">Forza di frenata media generata stimata</tu>
+	<tu xmlns:lang="jpn">予\想ブレーキ トルク ベース</tu>
+	<tu xmlns:lang="ptg">Binário base dos travões previsto</tu>
+	<tu xmlns:lang="ptb">Base estimada de torque do freio</tu>
+	<tu xmlns:lang="rus">Расчетная база тормозного усилия</tu>
+	<tu xmlns:lang="esp">Par de frenado básico estimado</tu>
+	<tu xmlns:lang="chs">估计的制动扭距基数</tu>
+	<tu xmlns:lang="kor">추정 브레이크 토크 베이스</tu>
+</tm>

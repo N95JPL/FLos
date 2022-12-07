@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LAST_KEYFOB_FN_NOT_VAL">
+	<tu xmlns:lang="eng">The last keyfob function has not been fully validated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De laatste sleutelzenderfunctie is niet volledig goedgekeurd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La dernière fonction de la clé n'a pas été totalement validée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die letzte Fernbedienungsfunktion wurde nicht vollständig validiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'ultima funzione del telecomando non è stata completamente convalidata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >最後のキーフォブ機能\は完全な正当性確認がなされていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A última função do comando à distância não foi totalmente validada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A última função de controle remoto não foi totalmente validada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Последняя функция брелока дистанционного управления проверена не полностью.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha validado completamente el funcionamiento del último transmisor.</tu>
+	<tu xmlns:lang="chs">最后的遥控钥匙功能未被完全验证。</tu>
+	<tu
+    xmlns:lang="kor"
+  >마지막 키 리모컨 기능의 유효성을 완전히 검사하지 않았습니다.</tu>
+</tm>

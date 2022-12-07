@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_INS_NEXT_KEY_SCU">
+	<tu
+    xmlns:lang="eng"
+  >Insert the next key to be programmed into the starter control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Steek de volgende sleutel die u wilt programmeren in de regeleenheid voor sleutelloos starten (docking station).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Introduisez la clé suivante à programmer dans le module de commande de démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den nächsten zu programmierenden Schlüssel in die Startsteuereinheit einstecken.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Inserire la chiave successiva da programmare nell'unità di comando del motorino di avviamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次にプログラムするキーをスターター コントロール ユニットに挿入しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Introduzir a chave seguinte a ser programada na unidade de controlo do motor de arranque.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Insira a próxima chave para ser programada na unidade de controle de partida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вставьте следующий подлежащий программированию ключ в блок управления стартером.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Insertar la siguiente llave que se va a programar en el módulo de control de arranque.</tu>
+	<tu xmlns:lang="chs">将下一把待编程的车钥插入起动机控制单元内。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음으로 프로그래밍할 키를 스타터 컨트롤 유닛에 삽입하십시오.</tu>
+</tm>

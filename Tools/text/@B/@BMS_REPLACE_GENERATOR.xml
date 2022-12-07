@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_REPLACE_GENERATOR">
+	<tu xmlns:lang="eng">Replace generator if fault code persists</tu>
+	<tu xmlns:lang="nld">Vervang de dynamo als de foutcode aanhoudt</tu>
+	<tu xmlns:lang="fra">Remplacez l'alternateur si le code d'anomalie persiste</tu>
+	<tu
+    xmlns:lang="deu"
+  >Generator austauschen, falls der Fehlercode weiterhin vorliegt.</tu>
+	<tu xmlns:lang="ita">Se il codice guasto persiste, sostituire il generatore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フォルトコードが残存する場合、ジェネレータを交換しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Substituir o alternador se o código de avaria persistir</tu>
+	<tu xmlns:lang="ptb">Substitua o alternador se o código de falha persistir</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если код неисправности не устраняется, замените генератор</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sustituir el alternador si el código de avería persiste</tu>
+	<tu xmlns:lang="chs">如果故障码依然存在，请更换发电机</tu>
+	<tu xmlns:lang="kor">고장 코드가 지속될 경우 제너레이터를 교체하십시오.</tu>
+</tm>

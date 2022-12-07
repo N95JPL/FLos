@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ACC_IND_IPK">
+	<tu
+    xmlns:lang="eng"
+  >Adaptive cruise control indication in instrument cluster</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controlelampje adaptieve cruise control in instrumentengroep </tu>
+	<tu
+    xmlns:lang="fra"
+  >Affichage du régulateur de vitesse sur le tableau de bord</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anzeige adaptive Geschwindigkeitsregelung im Kombiinstrument</tu>
+	<tu
+    xmlns:lang="ita"
+  >Indicazione comando velocità di crociera adattativo nel gruppo strumenti</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インストルメント クラスタ上のアダプティブ クルーズ コントロール ステータス表\示</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Indicação do comando da velocidade de cruzeiro adaptável no grupo de instrumentos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Indicação do controle adaptável do percurso no conjunto do painel de instrumentos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Индикация адаптивного круиз-контроля на панели приборов</tu>
+	<tu
+    xmlns:lang="esp"
+  >Indicación del control de velocidad de crucero adaptativo en el cuadro de instrumentos</tu>
+	<tu xmlns:lang="chs">组合仪表中的自适应巡航控制指示</tu>
+	<tu xmlns:lang="kor">계기판에 어댑티브 크루즈 컨트롤 표시</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JTime$S">
+	<tu xmlns:lang="eng">Time</tu>
+	<tu xmlns:lang="nld">Tijd</tu>
+	<tu xmlns:lang="fra">Heure</tu>
+	<tu xmlns:lang="deu">Uhrzeit</tu>
+	<tu xmlns:lang="ita">Ora</tu>
+	<tu xmlns:lang="jpn">時間</tu>
+	<tu xmlns:lang="ptg">Tempo</tu>
+	<tu xmlns:lang="ptb">Tempo</tu>
+	<tu xmlns:lang="rus">Время</tu>
+	<tu xmlns:lang="esp">Hora</tu>
+	<tu xmlns:lang="chs">时间</tu>
+	<tu xmlns:lang="kor">시간</tu>
+</tm>

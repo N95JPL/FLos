@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_IPC_01">
+	<tu
+    xmlns:lang="eng"
+  >Scan all inputs (no de-bounce required) for the conditions listed below.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Scan alle invoeren (openen en sluiten niet nodig) op de onderstaande toestanden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Explorez toutes les entrées (dispositif antirebond inutile) en recherchant les conditions ci-dessous.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle Eingänge auf die unten genannten Zustände überprüfen (kein Entprellen erforderlich).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Esegue una scansione di tutti gli input (de-bounce non necessario) per le condizioni elencate sotto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >以下にリストされた条件での全インプットのスキャン (反射不要)。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Analise todos os sinais de entrada (estabilização não necessária) para ver se apresentam as situações abaixo indicadas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Varra todas as entradas (não é necessário debounce) para as condições listadas abaixo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Просканируйте все входы (обратный отклик не требуется) на условия, указанные ниже.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Explorar todas las señales de entrada (no se requiere eliminación del rebote) en busca de los estados enumerados a continuación.</tu>
+	<tu xmlns:lang="chs">扫描以下所列条件下的所有输入（不需要任何防回跳）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >아래에 나열된 조건에 대해 모든 입력을 스캔합니다(디바운스가 불필요함).</tu>
+</tm>

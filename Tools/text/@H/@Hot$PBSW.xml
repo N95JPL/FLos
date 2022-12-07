@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Hot$PBSW">
+	<tu xmlns:lang="eng">Parking brake switch</tu>
+	<tu xmlns:lang="nld">Parkeerrem schakelaar</tu>
+	<tu xmlns:lang="fra">Contacteur de frein de stationnement</tu>
+	<tu xmlns:lang="deu">Handbremsschalter</tu>
+	<tu xmlns:lang="ita">Interruttore freno stazionamento</tu>
+	<tu xmlns:lang="jpn">パーク ブレーキ スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptor do travão de mão</tu>
+	<tu xmlns:lang="ptb">Interruptor do freio de estacionamento</tu>
+	<tu xmlns:lang="rus">Выключатель стояночного тормоза</tu>
+	<tu xmlns:lang="esp">Interruptor del freno de mano</tu>
+	<tu xmlns:lang="chs">驻车制动开关</tu>
+	<tu xmlns:lang="kor">주차 브레이크 스위치</tu>
+</tm>

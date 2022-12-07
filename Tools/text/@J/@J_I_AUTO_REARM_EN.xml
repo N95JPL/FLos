@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUTO_REARM_EN">
+	<tu xmlns:lang="eng">Automatic re-arm is enabled</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het automatisch opnieuw inschakelen van het alarm is ingeschakeld</tu>
+	<tu xmlns:lang="fra">Le réarmement automatique est activé</tu>
+	<tu xmlns:lang="deu">Automatische erneute Schärfung ist aktiviert.</tu>
+	<tu xmlns:lang="ita">Reinserimento automatico attivato</tu>
+	<tu xmlns:lang="jpn">自動再アーミングが作動可に設定</tu>
+	<tu xmlns:lang="ptg">Rearmar automático está activado</tu>
+	<tu xmlns:lang="ptb">Reativação automática está ativada</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция автоматического возврата режима охраны включена</tu>
+	<tu xmlns:lang="esp">La reactivación automática está habilitada</tu>
+	<tu xmlns:lang="chs">自动戒备功能已启用</tu>
+	<tu xmlns:lang="kor">자동 재무장이 활성화됨</tu>
+</tm>

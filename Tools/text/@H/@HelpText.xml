@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HelpText">
+	<tu xmlns:lang="eng">Help text</tu>
+	<tu xmlns:lang="nld">Helptekst</tu>
+	<tu xmlns:lang="fra">Texte d'aide</tu>
+	<tu xmlns:lang="deu">Hilfetext</tu>
+	<tu xmlns:lang="ita">Testo della guida</tu>
+	<tu xmlns:lang="jpn">ヘルプ テキスト</tu>
+	<tu xmlns:lang="ptg">Texto de ajuda</tu>
+	<tu xmlns:lang="ptb">Texto de ajuda</tu>
+	<tu xmlns:lang="rus">Текст справки</tu>
+	<tu xmlns:lang="esp">Texto de ayuda</tu>
+	<tu xmlns:lang="chs">帮助文本</tu>
+	<tu xmlns:lang="kor">도움말 텍스트</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DVD_AUD_COMP">
+	<tu xmlns:lang="eng">DVD audio compatible.</tu>
+	<tu xmlns:lang="nld">Compatibel met dvd-audio.</tu>
+	<tu xmlns:lang="fra">Compatible DVD audio.</tu>
+	<tu xmlns:lang="deu">DVD-Audio-kompatibel.</tu>
+	<tu xmlns:lang="ita">DVD audio compatibile.</tu>
+	<tu xmlns:lang="jpn">DVD オーディオ対応</tu>
+	<tu xmlns:lang="ptg">Compatível com DVD áudio.</tu>
+	<tu xmlns:lang="ptb">Áudio de DVD compatível.</tu>
+	<tu xmlns:lang="rus">Совместимый проигрыватель аудио DVD-дисков.</tu>
+	<tu xmlns:lang="esp">Compatible con DVD audio.</tu>
+	<tu xmlns:lang="chs">DVD音频兼容。</tu>
+	<tu xmlns:lang="kor">DVD 오디오 호환됨</tu>
+</tm>

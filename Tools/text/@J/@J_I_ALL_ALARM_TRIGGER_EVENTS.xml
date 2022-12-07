@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALL_ALARM_TRIGGER_EVENTS">
+	<tu xmlns:lang="eng">All alarm trigger events</tu>
+	<tu xmlns:lang="nld">Alle gebeurtenissen waardoor het alarm afgaat</tu>
+	<tu xmlns:lang="fra">Tous les événements de déclenchement de l'alarme</tu>
+	<tu xmlns:lang="deu">Alle Alarmauslöse-Ereignisse</tu>
+	<tu xmlns:lang="ita">Tutti i casi di scatto dell'allarme</tu>
+	<tu xmlns:lang="jpn">すべてのアラーム トリガー イベント</tu>
+	<tu xmlns:lang="ptg">Todos os eventos desencadeadores de alarme</tu>
+	<tu xmlns:lang="ptb">Todos exceto os eventos acionadores de alarme</tu>
+	<tu xmlns:lang="rus">Все события, вызывающие срабатывание сигнализации</tu>
+	<tu xmlns:lang="esp">Todos los eventos de disparo de la alarma</tu>
+	<tu xmlns:lang="chs">所有报警触发器事件</tu>
+	<tu xmlns:lang="kor">모든 알람 트리거 이벤트</tu>
+</tm>

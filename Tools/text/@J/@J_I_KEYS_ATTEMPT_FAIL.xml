@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEYS_ATTEMPT_FAIL">
+	<tu
+    xmlns:lang="eng"
+  >If you have already attempted to erase keys with the old instrument cluster fitted and it was not possible, select the 'tick' to continue with the application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Indien u reeds hebt geprobeerd sleutels te wissen toen de oude instrumentengroep gemonteerd was en dit niet mogelijk was, klikt u op het vinkje om met de toepassing verder te gaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si vous avez déjà tenté d'effacer les clés sans succès alors que l'ancien tableau de bord était monté, cliquez sur la coche pour poursuivre l'application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls Sie schon versucht haben, bei eingebautem altem Kombiinstrument Schlüssel zu löschen und dies nicht erfolgreich war, tippen Sie das Häkchen an, um mit der Anwendung fortzufahren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se si è già tentato di cancellare le chiavi con il vecchio gruppo strumenti installato e non è risultato possibile, selezionare il 'segno di spunta' per continuare con l'applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >古いインストルメント クラスタが取り付けられた状態ですでにキーの消去を試行し、それが不可能\な場合、「ティック」を選択し、このアプリケーションを続行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se já tentou apagar as teclas com o antigo grupo de instrumentos instalado e não conseguiu, seleccione o sinal de 'visto' para continuar com a aplicação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se você já tentou apagar as chaves com o antigo conjunto do painel de instrumentos instalado e não foi possível e selecione a marca de verificação para continuar com a aplicação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если уже предпринималась неудачная попытка удаления ключей при установленной старой панели приборов, нажмите галочку для продолжения работы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si ya ha intentado borrar las llaves con el cuadro de instrumentos antiguo instalado y no lo consiguió, seleccione la marca de verificación para continuar con la aplicación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果您已经尝试给配备的旧组合仪表擦除钥匙而无法做到，请选择‘√’按钮继续执行应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >기존 계기판이 장착된 상태에서 이미 키 삭제를 시도했지만 가능하지 않았다면, '체크 표시'를 선택하여 애플리케이션을 계속 진행하십시오.</tu>
+</tm>

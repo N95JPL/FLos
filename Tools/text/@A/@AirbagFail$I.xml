@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AirbagFail$I">
+	<tu xmlns:lang="eng">The air bag control module renewal has failed.</tu>
+	<tu xmlns:lang="nld">Het vernieuwen van de airbagregelmodule is mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le renouvellement du module de commande d'airbag a échoué.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Neukonfiguration des Airbag-Steuergeräts war nicht erfolgreich.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sostituzione del modulo di comando airbag non riuscita.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エアバッグ コントロール モジュールの交換に失敗しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A substituição do módulo de controlo dos airbags falhou.</tu>
+	<tu xmlns:lang="ptb">A troca do módulo de controle do airbag falhou.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок управления подушками безопасности не удалось обновить.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ha fallado la sustitución del módulo de control de los airbags.</tu>
+	<tu xmlns:lang="chs">安全气囊控制模块更新失败。</tu>
+	<tu xmlns:lang="kor">에어백 컨트롤 모듈 교체에 실패했습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SOUNDER_ROW_NOT">
+	<tu xmlns:lang="eng">Not a rest of the world sounder</tu>
+	<tu xmlns:lang="nld">Sirene, geen rest van de wereld.</tu>
+	<tu xmlns:lang="fra">Pas de signal sonore reste du monde.</tu>
+	<tu xmlns:lang="deu">Signaltongeber - nicht übrige Länder</tu>
+	<tu xmlns:lang="ita">Segnale acustico non resto del mondo</tu>
+	<tu xmlns:lang="jpn">レストオブワールド向け以外のサウンダー</tu>
+	<tu xmlns:lang="ptg">Não é uma unidade para resto do mundo</tu>
+	<tu xmlns:lang="ptb">Sonda não destinada para o restante do mundo</tu>
+	<tu xmlns:lang="rus">Динамик не предназначен для остальных стран мира</tu>
+	<tu xmlns:lang="esp">No es una sirena para el resto del mundo</tu>
+	<tu xmlns:lang="chs">非世界其他国家和地区版本的发声器</tu>
+	<tu xmlns:lang="kor">나머지 국가에 적합한 경보 발생기 아님</tu>
+</tm>

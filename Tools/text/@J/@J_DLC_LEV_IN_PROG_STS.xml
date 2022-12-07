@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_LEV_IN_PROG_STS">
+	<tu xmlns:lang="eng">Levelling in progress status.</tu>
+	<tu xmlns:lang="nld">Status van hoogte-instelling in uitvoering</tu>
+	<tu xmlns:lang="fra">Etat de la mise à niveau en cours</tu>
+	<tu xmlns:lang="deu">Status Niveauausgleich läuft</tu>
+	<tu xmlns:lang="ita">Stato di regolazione assetto in corso</tu>
+	<tu xmlns:lang="jpn">レベリング進行ステータス</tu>
+	<tu xmlns:lang="ptg">Estado de nivelamento em progresso.</tu>
+	<tu xmlns:lang="ptb">Nivelamento em estado de progresso.</tu>
+	<tu xmlns:lang="rus">Состояние выполнения коррекции</tu>
+	<tu xmlns:lang="esp">Estado de nivelación en curso</tu>
+	<tu xmlns:lang="chs">变光正在进行中状态。</tu>
+	<tu xmlns:lang="kor">레벨링 진행 중 상태.</tu>
+</tm>

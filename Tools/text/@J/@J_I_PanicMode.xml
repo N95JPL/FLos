@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PanicMode">
+	<tu xmlns:lang="eng">Panic mode</tu>
+	<tu xmlns:lang="nld">Paniekfunctie</tu>
+	<tu xmlns:lang="fra">Mode panique.</tu>
+	<tu xmlns:lang="deu">Panikmodus</tu>
+	<tu xmlns:lang="ita">Modalità antipanico</tu>
+	<tu xmlns:lang="jpn">パニック モード</tu>
+	<tu xmlns:lang="ptg">Modo de emergência</tu>
+	<tu xmlns:lang="ptb">Modo de pânico</tu>
+	<tu xmlns:lang="rus">Режим тревожной сигнализации</tu>
+	<tu xmlns:lang="esp">Modo de pánico</tu>
+	<tu xmlns:lang="chs">应急模式</tu>
+	<tu xmlns:lang="kor">패닉 모드</tu>
+</tm>

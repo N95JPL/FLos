@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_ABS_PRE_CHRG_PMP_FAIL">
+	<tu xmlns:lang="eng">ABS pre-charge pump test failed.</tu>
+	<tu xmlns:lang="nld">De test van de ABS-voorladingspomp werd niet gehaald.</tu>
+	<tu xmlns:lang="fra">Echec du test de la pompe de précharge ABS.</tu>
+	<tu xmlns:lang="deu">ABS-Vorbefüllpumpe - Test nicht bestanden.</tu>
+	<tu xmlns:lang="ita">Prova pompa di precarica ABS non superata.</tu>
+	<tu xmlns:lang="jpn">ABS プリチャージ ポンプ テストに失敗</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O teste da bomba de pré-carga do ABS não foi bem sucedido.</tu>
+	<tu xmlns:lang="ptb">Teste na bomba de pré-carga ABS com defeito.</tu>
+	<tu xmlns:lang="rus">Не удалось выполнить проверку подпиточного насоса ABS.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No fue superada la prueba de la bomba de precarga del ABS.</tu>
+	<tu xmlns:lang="chs">ABS 预充压泵测试失败。</tu>
+	<tu xmlns:lang="kor">ABS 사전 충전 펌프 테스트에 실패했습니다.</tu>
+</tm>

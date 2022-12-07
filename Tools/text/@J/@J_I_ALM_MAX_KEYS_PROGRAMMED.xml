@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_MAX_KEYS_PROGRAMMED">
+	<tu xmlns:lang="eng">The maximum number of smart keys have been programmed.</tu>
+	<tu xmlns:lang="nld">Het maximale aantal smart-keys is geprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le nombre maximal de clés intelligentes a été programmé.</tu>
+	<tu xmlns:lang="deu">Die maximale Anzahl Smart Keys wurde programmiert.</tu>
+	<tu xmlns:lang="ita">È stato programmato il numero massimo di chiavi Smart.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プログラミング可能\な最大数のスマート キーをプログラミングした。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número máximo de chaves inteligentes programadas foi atingido.</tu>
+	<tu xmlns:lang="ptb">O número máximo de chaves inteligentes foi programado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запрограммировано максимальное число электронных ключей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha programado el número máximo de llaves inteligentes.</tu>
+	<tu xmlns:lang="chs">已对智能钥匙的最大数量进行编程设置。</tu>
+	<tu xmlns:lang="kor">최대 개수의 스마트 키가 프로그래밍되었습니다.</tu>
+</tm>

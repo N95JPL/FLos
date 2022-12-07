@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_APP_DAB">
+	<tu
+    xmlns:lang="eng"
+  >Car configuration application digital audio broadcasting radio service</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voertuigconfiguratietoepassing van digitale radioservice</tu>
+	<tu
+    xmlns:lang="fra"
+  >Application de configuration de véhicule - service de diffusion radio audio numérique</tu>
+	<tu xmlns:lang="deu">Anwendung Fahrzeugkonfiguration - DAB-Radiodienst</tu>
+	<tu
+    xmlns:lang="ita"
+  >Applicazione configurazione veicolo - servizio radio diffusione audio digitale</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション アプリケーション デジタル オーディオ放送ラジオ サービス</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aplicação de configuração do veículo - serviço de rádio com emissão áudio digital</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aplicativo de configuração do carro - serviço de rádio de transmissão de áudio digital</tu>
+	<tu xmlns:lang="rus">Приложение конфигурации автомобиля - цифровое радио</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aplicación de configuración del vehículo: servicio de radiodifusión de audio digital</tu>
+	<tu xmlns:lang="chs">车辆配置应用程序 - 数字音频广播无线电服务</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 구성 애플리케이션 디지털 오디오 방송 라디오 서비스</tu>
+</tm>

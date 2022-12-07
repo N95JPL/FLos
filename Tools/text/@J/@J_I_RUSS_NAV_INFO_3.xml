@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RUSS_NAV_INFO_3">
+	<tu
+    xmlns:lang="eng"
+  >You must perform a front entertainment control module software update, before you can continue</tu>
+	<tu
+    xmlns:lang="nld"
+  >U moet de software van de multimediamodule voorin bijwerken, voordat u verder kunt gaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous devez effectuer une mise à jour du logiciel du module de commande multimédia avant pour pouvoir continuer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ehe Sie fortfahren können, müssen Sie eine Aktualisierung der Software des Multimedia-Steuergeräts vorne durchführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per potere proseguire, è necessario eseguire prima un aggiornamento del software del modulo di comando sistema di intrattenimento anteriore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >?????????????? ???????? ?????? ????? ????????????????????</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Terá de actualizar o software do módulo de controlo do sistema de informação e entretenimento dianteiro, antes de poder continuar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Você deve realizar uma atualização do software do módulo de controle de entretenimento dianteiro para que possa continuar</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прежде чем продолжить, обновите программное обеспечение в переднем блоке управления мультимедийной системой.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para poder continuar debe actualizar el software del módulo de control del sistema de info-entretenimiento delantero.</tu>
+	<tu xmlns:lang="chs">???????????????????,???????????</tu>
+	<tu
+    xmlns:lang="kor"
+  >프론트 엔터테인먼트 컨트롤 모듈 소프트웨어 업데이트를 수행해야 계속 진행할 수 있습니다.</tu>
+</tm>

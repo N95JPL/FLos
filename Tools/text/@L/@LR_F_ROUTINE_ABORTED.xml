@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_F_ROUTINE_ABORTED">
+	<tu xmlns:lang="eng">Routine aborted.</tu>
+	<tu xmlns:lang="nld">De routine is afgebroken.</tu>
+	<tu xmlns:lang="fra">Programme abandonné.</tu>
+	<tu xmlns:lang="deu">Routine abgebrochen.</tu>
+	<tu xmlns:lang="ita">Procedura abbandonata.</tu>
+	<tu xmlns:lang="jpn">ルーチンが中断されました。</tu>
+	<tu xmlns:lang="ptg">Rotina cancelada.</tu>
+	<tu xmlns:lang="ptb">Rotina abortada.</tu>
+	<tu xmlns:lang="rus">Выполнение программы прервано.</tu>
+	<tu xmlns:lang="esp">Rutina cancelada.</tu>
+	<tu xmlns:lang="chs">常规程序已中止。</tu>
+	<tu xmlns:lang="kor">절차가 중단됨</tu>
+</tm>

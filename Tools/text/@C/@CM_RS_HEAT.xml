@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_RS_HEAT">
+	<tu xmlns:lang="eng">Rear seat heater.</tu>
+	<tu xmlns:lang="nld">Verwarming van de achterstoel</tu>
+	<tu xmlns:lang="fra">Chauffage de banquette arrière</tu>
+	<tu xmlns:lang="deu">Rücksitzheizung</tu>
+	<tu xmlns:lang="ita">Riscaldatore sedile posteriore</tu>
+	<tu xmlns:lang="jpn">リア シート ヒーター</tu>
+	<tu xmlns:lang="ptg">Aquecedor do banco traseiro.</tu>
+	<tu xmlns:lang="ptb">Aquecedor do assento traseiro.</tu>
+	<tu xmlns:lang="rus">Обогреватель задних сидений.</tu>
+	<tu xmlns:lang="esp">Calefactor del asiento trasero</tu>
+	<tu xmlns:lang="chs">后座椅加热器。</tu>
+	<tu xmlns:lang="kor">리어 시트 히터</tu>
+</tm>

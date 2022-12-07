@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CCF_UPLOAD">
+	<tu
+    xmlns:lang="eng"
+  >Uploading the vehicle configuration file from the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bezig met 'uploaden' van het voertuigconfiguratiebestand vanuit het voertuig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Téléchargement du fichier de configuration du véhicule depuis le véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Fahrzeug-Konfigurationsdatei wird vom Fahrzeug hochgeladen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Caricamento in corso del file di configurazione veicolo dal veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両から車両コンフィギュレーション ファイルをアップロード中</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A enviar o ficheiro de configuração do veículo por transferência ('upload').</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Upload do arquivo de configuração do veículo a partir do veículo.</tu>
+	<tu xmlns:lang="rus">Передача файла конфигурации автомобиля из автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cargando el archivo de configuración del vehículo desde el vehículo.</tu>
+	<tu xmlns:lang="chs">从车辆中上传车辆配置文件。</tu>
+	<tu xmlns:lang="kor">차량에서 차량 구성 파일 업로드</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnsureFuelFreeFaults$M">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the fuel system is free of faults as the next operation will prime the fuel pump.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat er in het brandstofsysteem geen fouten aanwezig zijn, aangezien de brandstofpomp bij de volgende stap wordt geactiveerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que le système d'alimentation est exempt de défauts car l'opération suivante amorcera la pompe à carburant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass das Kraftstoffsystem störungsfrei ist, da im nächsten Schritt die Kraftstoffpumpe vorbefüllt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accertarsi che il sistema di alimentazione non presenti guasti in quanto la prossima operazione innescherà la pompa del carburante.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の操作でフューエル ポンプをプライミングするため、フューエル システムに不具合がないことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o sistema de combustível não possui falhas, uma vez que a operação seguinte afinará a bomba de combustível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o sistema de combustível esteja livre de falhas, pois a próxima operação escorvará a bomba de combustível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что топливная система находится в исправном состоянии, поскольку в ходе следующей операции будет выполнена заливка топливного насоса.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que el sistema de alimentación de combustible no presente ninguna anomalía, ya que la siguiente operación cebará la bomba de combustible.</tu>
+	<tu xmlns:lang="chs">确保燃油系统无故障，因为下一个操作将启动燃油泵。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 작업에서는 연료 펌프를 프라이밍하므로 연료 시스템에 고장이 없는지 확인하십시오.</tu>
+</tm>

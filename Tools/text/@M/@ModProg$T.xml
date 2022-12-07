@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ModProg$T">
+	<tu xmlns:lang="eng">Module programming</tu>
+	<tu xmlns:lang="nld">Programmeren van de module.</tu>
+	<tu xmlns:lang="fra">Programmation du module.</tu>
+	<tu xmlns:lang="deu">Modulprogrammierung.</tu>
+	<tu xmlns:lang="ita">Programmazione modulo.</tu>
+	<tu xmlns:lang="jpn">モジュール プログラミング</tu>
+	<tu xmlns:lang="ptg">Programação do módulo</tu>
+	<tu xmlns:lang="ptb">Programação de módulo</tu>
+	<tu xmlns:lang="rus">Программирование блока</tu>
+	<tu xmlns:lang="esp">Programación del módulo.</tu>
+	<tu xmlns:lang="chs">模块编程</tu>
+	<tu xmlns:lang="kor">모듈 프로그래밍</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart42">
+	<tu
+    xmlns:lang="eng"
+  >Make sure that the JaguarDrive control is not active where applicable.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Indien van toepassing moet u ervoor zorgen dat JaguarDrive Control niet actief is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que la commande JaguarDrive Control n'est pas active, le cas échéant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass JaguarDrive Control möglichst nicht aktiv ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che il JaguarDrive Control non sia attivo se applicabile.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >JaguarDrive コントロールが作動していないことを確認します (該当する場合)。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o sistema de controlo JaguarDrive Control não se encontra ativo quando aplicável.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o controle JaguarDrive não está ativo onde aplicável.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь в том, что система JaguarDrive control не включена (где применимо).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si procede, asegúrese de que JaguarDrive Control no esté activo.</tu>
+	<tu xmlns:lang="chs">在适用时，确保 JaguarDrive 控制未激活。</tu>
+	<tu xmlns:lang="kor">해당되는 경우 JaguarDrive 컨트롤이 작동하지 않습니다.</tu>
+</tm>

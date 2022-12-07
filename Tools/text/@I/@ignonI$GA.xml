@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ignonI$GA">
+	<tu xmlns:lang="eng">Set the ignition switch to accessory (position 1).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zet de contactschakelaar in de accessoirestand (stand 1).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Amenez le commutateur d'allumage en position ACCESSOIRES (position I).</tu>
+	<tu xmlns:lang="deu">Zündschalter auf ZUBEHÖR stellen (Stellung 1).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Inserire il commutatore d'avviamento nella Posizione \\'I\\' (ACCESSORI).</tu>
+	<tu xmlns:lang="jpn">ｲｸﾞﾆｯｼｮﾝ・ｽｲｯﾁをｱｸｾｻﾘ(I位置)にｾｯﾄします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Definir o interruptor de ignição para acessórios (posição 1).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Coloque o interruptor da ignição na posição de acessório (posição 1).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перевести выключатель зажигания в положение 'вспомогательное оборудование' (положение '1').</tu>
+	<tu xmlns:lang="esp">Poner la llave de contacto en la posición 1.</tu>
+	<tu xmlns:lang="chs">将点火开关切换至附件（位置 1）。</tu>
+	<tu xmlns:lang="kor">점화 스위치를 ACC(위치 1)로 설정하십시오.</tu>
+</tm>

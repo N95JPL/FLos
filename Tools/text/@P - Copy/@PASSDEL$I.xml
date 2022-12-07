@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PASSDEL$I">
+	<tu xmlns:lang="eng">Passive arming delay</tu>
+	<tu xmlns:lang="nld">Passieve in werking stellen vertraging</tu>
+	<tu xmlns:lang="fra">Delai d'armement passif</tu>
+	<tu xmlns:lang="deu">Verzögerung passive scharfmachung</tu>
+	<tu xmlns:lang="ita">Ritardo messa in allarme passiva</tu>
+	<tu xmlns:lang="jpn">パッシブ アーミ・グ ディレイ</tu>
+	<tu xmlns:lang="ptg">Temporização da activação passiva do alarme</tu>
+	<tu xmlns:lang="ptb">Atraso de armação passiva</tu>
+	<tu xmlns:lang="rus">Задержка пассивного включения охранной системы</tu>
+	<tu xmlns:lang="esp">Retardo activación sistema pasivo</tu>
+	<tu xmlns:lang="chs">无源安全布设延迟</tu>
+	<tu xmlns:lang="kor">수동형 도난 방지 설정 지연</tu>
+</tm>

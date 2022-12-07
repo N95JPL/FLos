@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PET_EMS_EM_MKT">
+	<tu xmlns:lang="eng">Petrol engine management system emissions market</tu>
+	<tu xmlns:lang="nld">Markt voor emissies van benzinemotormanagementsysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Marché d'émissions pour le système de gestion du moteur essence</tu>
+	<tu xmlns:lang="deu">Markt mit Abgasnorm für Benzinmotor-Managementsystem</tu>
+	<tu
+    xmlns:lang="ita"
+  >Emissioni sistema di gestione motore a benzina specifiche del mercato</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ガソ\リン エンジン マネジメント システム エミッション市場</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Mercado com normas de emissões específicas a cumprir pelo sistema de gestão do motor a gasolina </tu>
+	<tu
+    xmlns:lang="ptb"
+  >Mercado de emissões do sistema de gerenciamento do motor a gasolina</tu>
+	<tu
+    xmlns:lang="rus"
+  >Рынок систем управления бензиновыми двигателями по выбросам</tu>
+	<tu
+    xmlns:lang="esp"
+  >Mercado de emisiones del sistema de gestión del motor de gasolina</tu>
+	<tu xmlns:lang="chs">汽油发动机管理系统排放市场</tu>
+	<tu xmlns:lang="kor">가솔린 엔진 관리 시스템 배기 가스 배출 관련 시장</tu>
+</tm>

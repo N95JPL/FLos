@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_STATUS_EMPTY">
+	<tu xmlns:lang="eng">Empty</tu>
+	<tu xmlns:lang="nld">Leeg</tu>
+	<tu xmlns:lang="fra">Vide</tu>
+	<tu xmlns:lang="deu">Unbesetzt</tu>
+	<tu xmlns:lang="ita">Vuoto</tu>
+	<tu xmlns:lang="jpn">空</tu>
+	<tu xmlns:lang="ptg">Vazio</tu>
+	<tu xmlns:lang="ptb">Vazio</tu>
+	<tu xmlns:lang="rus">Пустой</tu>
+	<tu xmlns:lang="esp">Vacío</tu>
+	<tu xmlns:lang="chs">空</tu>
+	<tu xmlns:lang="kor">비어 있음</tu>
+</tm>

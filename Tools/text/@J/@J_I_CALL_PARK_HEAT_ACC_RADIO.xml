@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CALL_PARK_HEAT_ACC_RADIO">
+	<tu
+    xmlns:lang="eng"
+  >Callstart of parking heater  -  Accessory only (via radio)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Oproepstart van parkeerverwarming  -  Alleen accessoire (via radio)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Callstart du chauffage de stationnement  -  Accessoire uniquement (par radio)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Telefonstart der Standheizung  -  Nur Zubehör (über Radio)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Avvio chiamata riscaldatore parcheggio  -  Solo accessori (via radio)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パーキング ヒーターのコールスタート  －  アクセサリのみ (無線経由)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Activação do pré-aquecimento do veículo  -  Apenas acessório (através do rádio)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Solicitação de início do aquecedor ao estacionar  -  Apenas acessórios (via rádio)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запуск стояночного обогревателя по команде  -  Только для вспомогательного оборудования (с помощью радио)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Llamada de arranque de calefactor de estacionamiento  -  Sólo accesorio (a través de radio)</tu>
+	<tu xmlns:lang="chs">驻车加热器的遥控启动  -  仅限附件（通过无线电）</tu>
+	<tu
+    xmlns:lang="kor"
+  >주차 히터의 콜드 스타트  -  액세서리만 해당(라디오를 통해)</tu>
+</tm>

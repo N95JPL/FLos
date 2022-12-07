@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NOT_CHARGING">
+	<tu xmlns:lang="eng">Not charging</tu>
+	<tu xmlns:lang="nld">Laadt niet</tu>
+	<tu xmlns:lang="fra">Ne charge pas</tu>
+	<tu xmlns:lang="deu">Lädt nicht</tu>
+	<tu xmlns:lang="ita">Non carica</tu>
+	<tu xmlns:lang="jpn">チャージなし</tu>
+	<tu xmlns:lang="ptg">Não está em carga</tu>
+	<tu xmlns:lang="ptb">Não carrega</tu>
+	<tu xmlns:lang="rus">Не заряжается</tu>
+	<tu xmlns:lang="esp">No se está realizando la carga</tu>
+	<tu xmlns:lang="chs">不充电</tu>
+	<tu xmlns:lang="kor">충전 안 함</tu>
+</tm>

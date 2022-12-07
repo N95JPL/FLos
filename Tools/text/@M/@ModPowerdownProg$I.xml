@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ModPowerdownProg$I">
+	<tu xmlns:lang="eng">Module power down in progress.</tu>
+	<tu xmlns:lang="nld">Module is bezig met uitschakelen.</tu>
+	<tu xmlns:lang="fra">Mise hors tension du module en cours.</tu>
+	<tu xmlns:lang="deu">Steuergeräteabschaltung läuft.</tu>
+	<tu xmlns:lang="ita">Spegnimento modulo in corso.</tu>
+	<tu xmlns:lang="jpn">モジュール パワーダウン進行中</tu>
+	<tu xmlns:lang="ptg">Módulo está a desligar.</tu>
+	<tu xmlns:lang="ptb">Desligamento do módulo em andamento.</tu>
+	<tu xmlns:lang="rus">Выполняется выключение питания блока.</tu>
+	<tu xmlns:lang="esp">Desactivación del módulo en curso.</tu>
+	<tu xmlns:lang="chs">模块处于节电状态。</tu>
+	<tu xmlns:lang="kor">모듈 전원 다운이 진행 중입니다.</tu>
+</tm>

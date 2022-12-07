@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CRANK_DETERMINATION_FACTORS">
+	<tu xmlns:lang="eng">Crank determination factors</tu>
+	<tu xmlns:lang="nld">Startbepalingsfactoren</tu>
+	<tu xmlns:lang="fra">Facteurs de détermination de lancement</tu>
+	<tu xmlns:lang="deu">Das Durchdrehen beeinflussende Faktoren</tu>
+	<tu xmlns:lang="ita">Fattori di determinazione avviamento</tu>
+	<tu xmlns:lang="jpn">クランク決定要因</tu>
+	<tu xmlns:lang="ptg">Factores de determinação do arranque</tu>
+	<tu xmlns:lang="ptb">Fatores de determinação do giro</tu>
+	<tu xmlns:lang="rus">Факторы определения запуска двигателя</tu>
+	<tu xmlns:lang="esp">Factores que determinan el arranque</tu>
+	<tu xmlns:lang="chs">曲柄决定因素</tu>
+	<tu xmlns:lang="kor">크랭크 결정 요인</tu>
+</tm>

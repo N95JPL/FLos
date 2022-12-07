@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_BRAKE_CYCLE_PERFORMED">
+	<tu xmlns:lang="eng">Was the braking cycle performed on the wheel?</tu>
+	<tu xmlns:lang="nld">Is de remcyclus op het wiel uitgevoerd?</tu>
+	<tu xmlns:lang="fra">Le cycle de freinage a-t-il été effectué sur la roue ?</tu>
+	<tu xmlns:lang="deu">Wurde der Bremszyklus für das Rad durchgeführt?</tu>
+	<tu xmlns:lang="ita">Il ciclo di frenatura è stato eseguito sulla ruota?</tu>
+	<tu xmlns:lang="jpn">ホイールに制動サイクルが実施されましたか？</tu>
+	<tu xmlns:lang="ptg">O ciclo de travagem foi efectuado na roda?</tu>
+	<tu xmlns:lang="ptb">O ciclo de frenagem foi executado na roda?</tu>
+	<tu xmlns:lang="rus">Был ли выполнен цикл торможения на данном колесе?</tu>
+	<tu xmlns:lang="esp">¿Se realizó el ciclo de frenado de la rueda?</tu>
+	<tu xmlns:lang="chs">是否已对车轮执行了制动循环？</tu>
+	<tu xmlns:lang="kor">휠에서 제동 사이클이 수행되었습니까?</tu>
+</tm>

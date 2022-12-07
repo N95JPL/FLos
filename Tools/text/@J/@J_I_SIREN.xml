@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SIREN">
+	<tu xmlns:lang="eng">Siren</tu>
+	<tu xmlns:lang="nld">Sirene</tu>
+	<tu xmlns:lang="fra">Sirène.</tu>
+	<tu xmlns:lang="deu">Alarmhorn</tu>
+	<tu xmlns:lang="ita">Sirena</tu>
+	<tu xmlns:lang="jpn">サイレン</tu>
+	<tu xmlns:lang="ptg">Sirene</tu>
+	<tu xmlns:lang="ptb">Sirena</tu>
+	<tu xmlns:lang="rus">Сирена</tu>
+	<tu xmlns:lang="esp">Sirena</tu>
+	<tu xmlns:lang="chs">警报器</tu>
+	<tu xmlns:lang="kor">사이렌</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LAZY_CLOSE">
+	<tu xmlns:lang="eng">Lazy close</tu>
+	<tu xmlns:lang="nld">Lui sluiten</tu>
+	<tu xmlns:lang="fra">Sortie confort.</tu>
+	<tu xmlns:lang="deu">Schließen mit Komforteinstieg</tu>
+	<tu xmlns:lang="ita">Chiusura agevolata</tu>
+	<tu xmlns:lang="jpn">レイジー クローズ</tu>
+	<tu xmlns:lang="ptg">Adaptação automática para fechar (lazy close)</tu>
+	<tu xmlns:lang="ptb">Fechamento lento</tu>
+	<tu xmlns:lang="rus">Функция общего закрывания Lazy Close</tu>
+	<tu xmlns:lang="esp">Cierre automático</tu>
+	<tu xmlns:lang="chs">便捷关闭</tu>
+	<tu xmlns:lang="kor">레이지 클로즈</tu>
+</tm>

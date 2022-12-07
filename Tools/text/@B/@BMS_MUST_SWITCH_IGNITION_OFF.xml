@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_MUST_SWITCH_IGNITION_OFF">
+	<tu xmlns:lang="eng">The ignition must then be switched off</tu>
+	<tu xmlns:lang="nld">Het contact moet dan worden uitgeschakeld</tu>
+	<tu xmlns:lang="fra">Le contact doit alors être coupé</tu>
+	<tu xmlns:lang="deu">Die Zündung muss dann ausgeschaltet werden.</tu>
+	<tu xmlns:lang="ita">L'accensione deve quindi essere disinserita</tu>
+	<tu xmlns:lang="jpn">その後イグニションをスイッチ オフしなければなりません</tu>
+	<tu xmlns:lang="ptg">É necessário desligar então a ignição</tu>
+	<tu xmlns:lang="ptb">A ignição deve estar desligada</tu>
+	<tu xmlns:lang="rus">Затем должно быть выключено зажигание</tu>
+	<tu xmlns:lang="esp">A continuación hay que cortar el contacto</tu>
+	<tu xmlns:lang="chs">然后必须关闭点火</tu>
+	<tu xmlns:lang="kor">그런 다음 점화 스위치를 꺼야 합니다.</tu>
+</tm>

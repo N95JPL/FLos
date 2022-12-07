@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RAIN_SENS_PROG_WINDSHIELD">
+	<tu
+    xmlns:lang="eng"
+  >The rain sensor must be programmed with the correct windshield type.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De regensensor moet worden geprogrammeerd met het juiste type voorruit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le détecteur de pluie doit être programmé selon le type de pare-brise correct.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Regensensor muss mit dem korrekten Windschutzscheibentyp programmiert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sensore pioggia deve essere programmato con il corretto tipo di parabrezza.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >レイン センサーは正しいウィンドシールド タイプに対してプログラムする必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sensor de chuva deve ser programado com o tipo correcto de pára-brisas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sensor de chuva deve ser programado com o tipo correto para-brisa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Датчик дождя должен быть запрограммирован на соответствующий тип ветрового стекла.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sensor de lluvia debe programarse para el tipo de parabrisas correcto.</tu>
+	<tu xmlns:lang="chs">必须以正确的挡风玻璃类型对雨量传感器进行编程设置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >올바른 윈드실드 유형으로 레인 센서를 프로그래밍해야 합니다.</tu>
+</tm>

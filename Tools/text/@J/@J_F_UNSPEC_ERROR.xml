@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_UNSPEC_ERROR">
+	<tu
+    xmlns:lang="eng"
+  >An unspecified error occurred during the software download process.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens de procedure voor het downloaden van de software is een ongespecificeerde fout opgetreden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une erreur indéterminée s'est produite pendant le processus de téléchargement du logiciel.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Im Prozess des Herunterladens von Software trat ein nicht spezifizierter Fehler auf.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Si è verificato un errore non specificato durante il processo di scaricamento del software.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ソ\フトウェア ダウンロード プロセス中に不特定のエラーが発生しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ocorreu um erro não especificado durante o processo de descarregamento ('download') de software.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ocorreu um erro não especificado durante o processo de download do software.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Во время процесса загрузки программного обеспечения возникла неустановленная ошибка.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Error no especificado durante el proceso de descarga de software.</tu>
+	<tu xmlns:lang="chs">在软件下载过程中发生意外错误。</tu>
+	<tu
+    xmlns:lang="kor"
+  >소프트웨어 다운로드 과정에서 지정되지 않은 오류가 발생했습니다.</tu>
+</tm>

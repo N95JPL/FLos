@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_GEAR_SELECTOR_POS">
+	<tu xmlns:lang="eng">Gear selector position</tu>
+	<tu xmlns:lang="nld">Schakelstand</tu>
+	<tu xmlns:lang="fra">Position du sélecteur de vitesses</tu>
+	<tu xmlns:lang="deu">Wählhebelstellung</tu>
+	<tu xmlns:lang="ita">Posizione selettore marce</tu>
+	<tu xmlns:lang="jpn">ギア セレクタ ポジション</tu>
+	<tu xmlns:lang="ptg">Posição da alavanca selectora de mudanças</tu>
+	<tu xmlns:lang="ptb">Posição do seletor de marcha</tu>
+	<tu xmlns:lang="rus">Положение селектора</tu>
+	<tu xmlns:lang="esp">Posición de la palanca del cambio</tu>
+	<tu xmlns:lang="chs">变速杆位置</tu>
+	<tu xmlns:lang="kor">기어 셀렉터 위치</tu>
+</tm>

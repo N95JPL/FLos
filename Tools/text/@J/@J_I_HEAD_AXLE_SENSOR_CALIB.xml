@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEAD_AXLE_SENSOR_CALIB">
+	<tu xmlns:lang="eng">Headlamp and axle sensor calibration.</tu>
+	<tu xmlns:lang="nld">Kalibrering van koplamp- en assensor.</tu>
+	<tu xmlns:lang="fra">Etalonnage du capteur d'essieu et de phare.</tu>
+	<tu xmlns:lang="deu">Kalibrierung Scheinwerfer und Achssensor.</tu>
+	<tu xmlns:lang="ita">Taratura sensore asse e fari.</tu>
+	<tu xmlns:lang="jpn">ヘッドランプおよびアクスル センサー キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem do sensor - eixo e farol.</tu>
+	<tu xmlns:lang="ptb">Calibração do sensor de farol e eixo.</tu>
+	<tu xmlns:lang="rus">Калибровка фар и датчика моста.</tu>
+	<tu xmlns:lang="esp">Calibración de faros y sensor del eje.</tu>
+	<tu xmlns:lang="chs">前照灯与车轴传感器校准。</tu>
+	<tu xmlns:lang="kor">헤드램프 및 액슬 센서 보정</tu>
+</tm>

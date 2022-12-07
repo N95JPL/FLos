@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_SA_CAL_ABS_SAS_ECU">
+	<tu
+    xmlns:lang="eng"
+  >Steering angle calibration synchronises the ABS to the steering angle sensor electronic control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De kalibrering van de stuuruitslag synchroniseert de ABS met de elektronische regelmodule van de stuuruitslagsensor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'étalonnage de l'angle de direction synchronise l'ABS avec le module de commande électronique du capteur d'angle de direction.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Lenkwinkelkalibrierung synchronisiert das ABS mit dem elektronischen Lenkwinkelsensor-Steuergerät.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La taratura dell'angolo di sterzata sincronizza l'ABS con l'unità di comando elettronica sensore angolo di sterzata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング アングルのキャリブレーションは ABS をステアリング アングル センサー エレクトロニック コントロール ユニットに同期させます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A calibragem do ângulo da direcção sincroniza o ABS com a unidade electrónica de controlo do sensor do ângulo da direcção.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A calibração do ângulo de direção sincroniza o ABS com a unidade de controle eletrônico do sensor do ângulo de direção.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Калибровка угла поворота синхронизирует систему ABS и электронный блок управления датчиком угла поворота.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La calibración del ángulo de la dirección sincroniza el ABS con el módulo de control electrónico del sensor del ángulo de la dirección.</tu>
+	<tu xmlns:lang="chs">转向角校准使 ABS 与转向角传感器电子控制单元同步。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스티어링 각도 보정으로 ABS가 스티어링 각도 센서 전자 컨트롤 유닛에 동기화됩니다.</tu>
+</tm>

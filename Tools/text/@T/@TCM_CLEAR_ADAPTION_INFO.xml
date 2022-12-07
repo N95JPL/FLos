@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TCM_CLEAR_ADAPTION_INFO">
+	<tu
+    xmlns:lang="eng"
+  >This routine is used to clear the adaption within the transmission control unit.   This may be required when replacing the transmission, downloading software or for any other transmission related activities.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze routine kunt u de aanpassing binnenin de transmissieregeleenheid wissen.   Dit kan vereist zijn bij het vervangen van de transmissie, het downloaden van software, of bij iedere andere activiteit met betrekking tot de transmissie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure sert à effacer l'adaptation au sein du module de commande de transmission.   Ceci peut s'avérer nécessaire lors du remplacement de la transmission, du téléchargement du logiciel ou de toute autre action liée à la transmission.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine dient dazu, die Anpassung im Getriebesteuergerät zu löschen.   Dies kann beim Austausch des Getriebes, beim Herunterladen von Software oder bei anderen, mit dem Getriebe im Zusammenhang stehenden Tätigkeiten erforderlich sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura serve per cancellare l'adattamento nell'unità di comando del cambio   Ciò potrebbe essere necessario quando si sostituisce il cambio, si scarica il software o per qualsiasi altra attività connessa al cambio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンはトランスミッション コントロール ユニット内の補正データをクリアするために使用します。  トランスミッション交換時、ソ\フトウェアのダウンロード時、あるいはトランスミッション関連の他の作業を行うとき、これが必要になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é usada para apagar a adaptação na unidade de controlo da transmissão.   Tal pode ser necessário ao substituir a transmissão, descarregar software ou para quaisquer outras actividades relacionadas com a transmissão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é usada para excluir a adaptação dentro da unidade de controle da transmissão.   Talvez seja necessário ao substituir a transmissão, fazer o download do software, ou para quaisquer outras atividades relacionadas à transmissão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция используется для удаления значений адаптации блока управления коробки передач.   Это может потребоваться при замене коробки передач, загрузке программного обеспечения или при любых других работах, связанных с коробкой передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina se utiliza para borrar la adaptación en el módulo de control de la transmisión.   Puede ser necesario al sustituir la caja de cambios, descargar software o para cualquier otra actividad relacionada con la transmisión.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本例行程序用于清除变速箱控制单元中的自适应值。   在更换变速箱、下载软件或进行任何其它变速箱相关的活动时，可能有此要求。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 변속기 컨트롤 유닛 내에서 어댑테이션을 삭제하는 데 사용됩니다.   이것은 변속기를 교체하거나 소프트웨어를 다운로드하거나 다른 변속기 관련 활동이 있을 때 필요할 수도 있습니다.</tu>
+</tm>

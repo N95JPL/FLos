@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SecCodePass$I">
+	<tu xmlns:lang="eng">Security code understood and accepted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem heeft de beveiligingscode begrepen en geaccepteerd.</tu>
+	<tu xmlns:lang="fra">Code de sécurité compris et accepté.</tu>
+	<tu xmlns:lang="deu">Sicherheitscode verstanden und akzeptiert.</tu>
+	<tu xmlns:lang="ita">Codice di sicurezza riconosciuto e accettato.</tu>
+	<tu xmlns:lang="jpn">セキュリティ コードは理解され受諾されました。</tu>
+	<tu xmlns:lang="ptg">Código de segurança compreendido e aceite.</tu>
+	<tu xmlns:lang="ptb">Código de segurança entendido e aceito.</tu>
+	<tu xmlns:lang="rus">Защитный код распознан и принят.</tu>
+	<tu xmlns:lang="esp">Código de seguridad comprendido y aceptado.</tu>
+	<tu xmlns:lang="chs">安全码已认识并接受。</tu>
+	<tu xmlns:lang="kor">보안 코드가 인식되고 수락됨</tu>
+</tm>

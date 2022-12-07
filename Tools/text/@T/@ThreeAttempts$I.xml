@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ThreeAttempts$I">
+	<tu
+    xmlns:lang="eng"
+  >If the initial suspension height is within allowed tolerances, but very low / high, then the application may require the 3 attempts before a successful calibration is completed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de initiële luchtveringshoogte binnen de toegestane toleranties ligt, maar zeer laag/hoog is, kan het zijn dat het programma de 3 pogingen nodig heeft, voordat een succesvolle kalibrering is uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la hauteur de suspension initiale est dans les tolérances, mais très basse/très haute, l'application peut exiger les 3 tentatives avant de considérer qu'un étalonnage est correctement terminé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Liegen die Ausgangswerte für die Luftfederungshöhe innerhalb der Toleranzen, sind sie jedoch sehr niedrig/sehr hoch, dann können vom Anwendungsprogramm die 3 Versuche angefordert werden, ehe eine erfolgreiche Kalibrierung abgeschlossen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se l'altezza iniziale delle sospensioni è in tolleranza, ma molto bassa / alta, l'applicazione potrebbe richiedere i tre tentativi prima di completare correttamente la taratura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >サスペンション初期ハイトが許容範囲内でありながら非常に低いまたは高い場合、キャリブレーションを正常完了するにはアプリケーションを 3 度実行する必要があるかもしれません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a altura inicial da suspensão estiver dentro das tolerâncias permitidas, mas muito baixa/alta, a aplicação pode precisar de 3 tentativas antes de concluir uma calibragem com êxito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a altura da suspensão inicial estiver dentro das tolerâncias permitidas, mas muito alto/baixa, o aplicativo pode requerer 3 tentativas para que uma calibração com êxito seja concluída.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если первоначальная высота подвески находится в пределах разрешенных допусков, но очень низкая/высокая, то приложение может потребовать выполнения трех попыток до успешного завершения калибровки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la altura de suspensión inicial está dentro de las tolerancias permitidas, pero es muy baja/alta, entonces la aplicación requerirá tres intentos antes de poder concluir la calibración satisfactoriamente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'如果初始悬架高度在允许的公差范围内，但很低或很高，则在成功完成标定之前，该应用程序可能会要求尝试3次。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >최초 서스펜션 높이가 허용 공차 이내이지만 매우 낮을/높을 경우 응용 프로그램은 보정이 성공적으로 완료될 때까지 3번의 시도를 요구할 수 있습니다.</tu>
+</tm>

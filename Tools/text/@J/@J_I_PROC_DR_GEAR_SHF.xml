@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROC_DR_GEAR_SHF">
+	<tu
+    xmlns:lang="eng"
+  >Please carry out the following procedures for the driving gear shift learn routine:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer de volgende procedures uit voor de inleerroutine van het schakelen tijdens het rijden:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez suivre les procédures suivantes pour le programme d'apprentissage du sélecteur de vitesse en conduite :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte die folgenden Maßnahmen für die Schalt-Lernroutine ?Fahren? durchführen:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attuare le procedure sotto riportate per la procedura di apprendimento del selettore cambio durante la guida:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >走行中のギア シフト学習ルーチンとして、次の手順を実行しなさい：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Efectue os procedimentos seguintes para a rotina de programação das mudanças durante a condução:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Execute os seguintes procedimentos para a rotina de aprendizado de mudança de marcha na direção:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполните следующие процедуры для операции самонастройки переключения передач во время движения:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Realizar los siguientes procedimientos para la rutina de aprendizaje del cambio en conducción:</tu>
+	<tu xmlns:lang="chs">请执行下列用于车辆行驶期间换档记忆的常规程序：</tu>
+	<tu
+    xmlns:lang="kor"
+  >구동 기어 변속 학습 루틴에 대해 다음 절차를 수행하십시오.</tu>
+</tm>

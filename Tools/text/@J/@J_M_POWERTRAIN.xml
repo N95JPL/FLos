@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_POWERTRAIN">
+	<tu xmlns:lang="eng">Powertrain</tu>
+	<tu xmlns:lang="nld">Aandrijflijn</tu>
+	<tu xmlns:lang="fra">Groupe motopropulseur</tu>
+	<tu xmlns:lang="deu">Antriebsstrang</tu>
+	<tu xmlns:lang="ita">Catena cinematica</tu>
+	<tu xmlns:lang="jpn">パワートレーン</tu>
+	<tu xmlns:lang="ptg">Grupo motopropulsor</tu>
+	<tu xmlns:lang="ptb">Powertrain</tu>
+	<tu xmlns:lang="rus">Силовой агрегат</tu>
+	<tu xmlns:lang="esp">Grupo motor y transmisión</tu>
+	<tu xmlns:lang="chs">传动系</tu>
+	<tu xmlns:lang="kor">파워트레인</tu>
+</tm>

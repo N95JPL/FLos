@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DISP_AFTER_TICK">
+	<tu
+    xmlns:lang="eng"
+  >This will be displayed once the central electronics module key programming mode has been activated by pressing the confirmation tick.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem zal dit weergeven zodra u de sleutelprogrammeerfunctie van de centrale elektronische module geactiveerd hebt, door ter bevestiging op de afvinktoets te drukken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ceci sera affiché lorsque le mode de programmation de clé du module électronique centralisé aura été activé en appuyant sur la coche de confirmation. </tu>
+	<tu
+    xmlns:lang="deu"
+  >Dies wird angezeigt, nachdem der Schlüsselprogrammiermodus des zentralen Elektronik-Steuergeräts durch Antippen des Häkchens aktiviert wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ciò verrà visualizzato quando viene attivata la modalità di programmazione chiave del modulo elettronico centrale premendo il tasto di spunta di conferma.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >確認のティックを押すことによって、セントラル エレクトロニクス モジュール キー プログラミング モードが起動されると、これが表\示されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tal será indicado quando se tiver activado o modo de programação de chaves, no módulo electrónico central, premindo o sinal de confirmação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso será exibido após o modo de programação da chave do módulo eletrônico central ser ativado pressionando-se a marca de confirmação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это будет отображено после включения режима программирования ключей центрального электронного блока нажатием на подтверждающую галочку.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esto se mostrará cuando se active modo de programación de llaves del módulo electrónico central pulsando el botón de confirmación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >一旦打勾确认激活了中央电子模块车钥编程模式，即可显示出来。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이것은 확인 체크 표시를 눌러 중앙 전자 장치 모듈 키 프로그래밍 모드가 활성화되면 표시될 것입니다.</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_TPM">
+	<tu xmlns:lang="eng">Tire pressure monitor system is not fitted.</tu>
+	<tu xmlns:lang="nld">Bandenspanningbewakingssysteem is niet geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Système de contrôle de pression des pneus non monté.</tu>
+	<tu xmlns:lang="deu">Reifendruck-Überwachungssystem ist nicht eingebaut.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non è in dotazione il sistema monitoraggio pressione pneumatici.</tu>
+	<tu xmlns:lang="jpn">タイヤ プレッシャ モニター システム非装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema de monitorização da pressão dos pneus não está instalado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de monitoramento de pressão dos pneus não instalado.</tu>
+	<tu xmlns:lang="rus">Система контроля давления в шинах не установлена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No hay montado un sistema de detección de la presión de los neumáticos.</tu>
+	<tu xmlns:lang="chs">轮胎压力监测系统未装配。</tu>
+	<tu xmlns:lang="kor">타이어 공기압 모니터 시스템이 장착되지 않았습니다.</tu>
+</tm>

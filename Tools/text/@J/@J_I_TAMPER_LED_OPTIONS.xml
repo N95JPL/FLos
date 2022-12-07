@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TAMPER_LED_OPTIONS">
+	<tu xmlns:lang="eng">Tamper LED</tu>
+	<tu xmlns:lang="nld">Waarschuwings-LED voor onbevoegde toegang</tu>
+	<tu xmlns:lang="fra">Diode d'inviolabilité</tu>
+	<tu xmlns:lang="deu">Eingriffsanzeige-LED</tu>
+	<tu xmlns:lang="ita">LED manomissione</tu>
+	<tu xmlns:lang="jpn">変更 LED</tu>
+	<tu xmlns:lang="ptg">LED de violação</tu>
+	<tu xmlns:lang="ptb">Violação do LED</tu>
+	<tu
+    xmlns:lang="rus"
+  >Световой предупредительный индикатор несанкционированного доступа</tu>
+	<tu xmlns:lang="esp">LED de inviolabilidad</tu>
+	<tu xmlns:lang="chs">干扰物LED</tu>
+	<tu xmlns:lang="kor">무단 개조 LED</tu>
+</tm>

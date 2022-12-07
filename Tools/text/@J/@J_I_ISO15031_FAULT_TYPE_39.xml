@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_39">
+	<tu
+    xmlns:lang="eng"
+  >Frequency modulation/pulse width modulation failure - incorrect, has too few pulses.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fout in frequentiemodulatie / pulsbreedtemodulatie - onjuist, heeft te weinig pulsen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaut de modulation de fréquence / modulation de largeur d'impulsions - incorrect, trop peu d'impulsions.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Störung Frequenzmodulation/Impulsbreitenmodulation - falsch, hat zu wenige Impulse.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto di modulazione frequenza/modulazione durata impulsi - errata, numero insufficiente di impulsi.</tu>
+	<tu xmlns:lang="jpn">周波数変調／パルス幅変調不良 － 不正、パルス過少</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha na modulação da frequência/modulação por largura de impulso - incorrecta, número insuficiente de impulsos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha na modulação de frequência/modulação da largura do pulso - incorreto, há poucos pulsos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка частотной модуляции/ШИМ - неверное значение, слишком мало импульсов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo de modulación de frecuencia/modulación de anchura de impulsos: incorrecta, impulsos insuficientes.</tu>
+	<tu xmlns:lang="chs">'频率调制/脉宽调制故障 - 不正确，脉冲数过少。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >주파수 변조/펄스 폭 변조 실패 - 부정확함, 펄스가 너무 적음</tu>
+</tm>

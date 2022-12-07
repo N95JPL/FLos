@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PROPOSED_SW_PART_OUTDATED">
+	<tu
+    xmlns:lang="eng"
+  >The intended software for update is at an earlier level than the current existing vehicle level, make sure the latest Diagnostic Tool release has been loaded before continuing</tu>
+	<tu
+    xmlns:lang="nld"
+  >De voor de update opgegeven software is van een oudere versie dan de huidige versie in de auto. Controleer of de meest recente versie van het diagnosesysteem is geladen voordat u verder gaat</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le logiciel envisagé pour la mise à jour est d'une version antérieure à celui présent dans le véhicule, vérifiez que la version de l'outil de diagnostic la plus récente a bien été chargée avant de poursuivre</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Software, die zur Aktualisierung dienen soll, stellt eine frühere Version dar als jene, die gegenwärtig im Fahrzeug vorhanden ist; vor dem Fortfahren sicherstellen, dass die aktuelle Diagnosesystem-Softwareversion geladen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il livello del software previsto per l'aggiornamento è antecedente rispetto al livello effettivo presente nel veicolo; prima di continuare, verificare che sia stata caricata la versione dello strumento diagnostico più recente</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アップデート用のソフトウェアは、現在の車両のレベルより古いレベルのものです。続行する前に最新の診断ツール リリースがロードされていることを確認します</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O software pretendido para atualização é uma versão anterior à atualmente existente no veículo. Antes de continuar, certifique-se de que a edição mais recente da ferramenta de diagnóstico foi carregada</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O software para atualização está em um nível anterior ao nível do veículo existente atual. Certifique-se de que a versão mais recente da Ferramenta de Diagnóstico tenha sido carregada antes de prosseguir.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Планируемое для обновления программное обеспечение имеет более раннюю версию, чем используемое в автомобиле. Перед продолжением убедитесь, что загружена последняя версия программного обеспечения диагностического устройства</tu>
+	<tu
+    xmlns:lang="esp"
+  >El software que se va a actualizar es de una versión anterior a la del vehículo actual. Compruebe que se ha cargado la versión más reciente de la herramienta de diagnóstico antes de continuar.</tu>
+	<tu
+    xmlns:lang="chs"
+  >待更新软件的版本早于当前车辆的现有版本，请确保加载了最新发布的诊断工具，然后继续</tu>
+	<tu
+    xmlns:lang="kor"
+  >업데이트할 소프트웨어가 현재의 기존 차량 버전보다 이전 버전입니다. 최신 진단 도구 릴리스가 로드되었는지 확인한 후 계속하십시오.</tu>
+</tm>

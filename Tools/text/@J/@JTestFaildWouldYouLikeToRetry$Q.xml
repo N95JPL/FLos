@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JTestFaildWouldYouLikeToRetry$Q">
+	<tu xmlns:lang="eng">The test failed, would you like to retry ?</tu>
+	<tu xmlns:lang="nld">De test is mislukt, wilt u opnieuw proberen?</tu>
+	<tu xmlns:lang="fra">L'essai a échoué, voulez-vous recommencer ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Überprüfung war nicht erfolgreich; wollen Sie noch einen Versuch unternehmen ?</tu>
+	<tu xmlns:lang="ita">La prova è fallita. Volete riprovare?</tu>
+	<tu xmlns:lang="jpn">ﾃｽﾄ不合格。再試行したいですか？</tu>
+	<tu xmlns:lang="ptg">O teste falhou, pretende repetir?</tu>
+	<tu xmlns:lang="ptb">O teste falhou. Gostaria de tentar novamente?</tu>
+	<tu xmlns:lang="rus">Проверка не завершена успешно, повторить еще раз?</tu>
+	<tu xmlns:lang="esp">La prueba ha fallado, Vd. quiere procesarla de nuevo?</tu>
+	<tu xmlns:lang="chs">'测试失败，想再试一次吗？’</tu>
+	<tu xmlns:lang="kor">테스트에 실패했습니다. 다시 시도하시겠습니까?</tu>
+</tm>

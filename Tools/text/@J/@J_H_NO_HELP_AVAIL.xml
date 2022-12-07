@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_NO_HELP_AVAIL">
+	<tu xmlns:lang="eng">No help currently available</tu>
+	<tu xmlns:lang="nld">Momenteel geen hulp beschikbaar</tu>
+	<tu xmlns:lang="fra">Aucune aide n'est actuellement disponible</tu>
+	<tu xmlns:lang="deu">Gegenwärtig keine Hilfe verfügbar.</tu>
+	<tu xmlns:lang="ita">Attualmente non è disponibile nessun aiuto</tu>
+	<tu xmlns:lang="jpn">ヘルプはまだ用意されていません。</tu>
+	<tu xmlns:lang="ptg">Não existe ajuda disponível neste momento</tu>
+	<tu xmlns:lang="ptb">Nenhuma ajuda disponível no momento</tu>
+	<tu xmlns:lang="rus">В настоящее время справочная информация отсутствует</tu>
+	<tu xmlns:lang="esp">La ayuda no está disponible en este momento</tu>
+	<tu xmlns:lang="chs">目前无可用的帮助</tu>
+	<tu xmlns:lang="kor">현재 사용 가능한 도움말이 없습니다.</tu>
+</tm>

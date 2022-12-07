@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FRONT_SEAT_VENT">
+	<tu xmlns:lang="eng">Front seat ventilation</tu>
+	<tu xmlns:lang="nld">Ventilatie van voorstoelen</tu>
+	<tu xmlns:lang="fra">Ventilation de siège avant</tu>
+	<tu xmlns:lang="deu">Vordersitzbelüftung</tu>
+	<tu xmlns:lang="ita">Ventilazione sedili anteriori</tu>
+	<tu xmlns:lang="jpn">フロント シート ベンチレーション</tu>
+	<tu xmlns:lang="ptg">Ventilação do banco dianteiro</tu>
+	<tu xmlns:lang="ptb">Ventilação do assento dianteiro</tu>
+	<tu xmlns:lang="rus">Вентиляция передних сидений</tu>
+	<tu xmlns:lang="esp">Ventilación de asiento delantero</tu>
+	<tu xmlns:lang="chs">前座椅通风</tu>
+	<tu xmlns:lang="kor">프론트 시트 환기</tu>
+</tm>

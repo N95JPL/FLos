@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CHECK_GENERATOR_PULLEY">
+	<tu xmlns:lang="eng">Check generator pulley</tu>
+	<tu xmlns:lang="nld">Controleer de dynamopoelie</tu>
+	<tu xmlns:lang="fra">Contrôlez la poulie d'alternateur</tu>
+	<tu xmlns:lang="deu">Generatorriemenscheibe prüfen.</tu>
+	<tu xmlns:lang="ita">Controllare la puleggia del generatore</tu>
+	<tu xmlns:lang="jpn">ジェネレータ プーリーをチェックしなさい</tu>
+	<tu xmlns:lang="ptg">Verificar a polia do alternador</tu>
+	<tu xmlns:lang="ptb">Verifique a polia do alternador</tu>
+	<tu xmlns:lang="rus">Проверьте шкив генератора</tu>
+	<tu xmlns:lang="esp">Comprobar la polea del alternador</tu>
+	<tu xmlns:lang="chs">检查发电机皮带轮</tu>
+	<tu xmlns:lang="kor">제너레이터 풀리를 점검하십시오.</tu>
+</tm>

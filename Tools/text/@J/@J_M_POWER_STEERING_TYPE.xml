@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_POWER_STEERING_TYPE">
+	<tu xmlns:lang="eng">Power steering type</tu>
+	<tu xmlns:lang="nld">Stuurbekrachtingstype</tu>
+	<tu xmlns:lang="fra">Type de direction assistée</tu>
+	<tu xmlns:lang="deu">Servolenkungstyp</tu>
+	<tu xmlns:lang="ita">Tipo di servosterzo</tu>
+	<tu xmlns:lang="jpn">パワー ステアリング タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de direcção assistida</tu>
+	<tu xmlns:lang="ptb">Tipo da direção assistida</tu>
+	<tu xmlns:lang="rus">Тип усилителя рулевого управления</tu>
+	<tu xmlns:lang="esp">Tipo de dirección asistida</tu>
+	<tu xmlns:lang="chs">动力转向类型</tu>
+	<tu xmlns:lang="kor">파워 스티어링 유형</tu>
+</tm>

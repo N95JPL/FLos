@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_DEL_MODE_DTC_RETRY">
+	<tu
+    xmlns:lang="eng"
+  >Transport mode active diagnostic trouble code present, do you want to retry the application?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is een diagnosefoutcode aanwezig die aangeeft dat de transportfunctie actief is. Wilt u de toepassing nogmaals proberen?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Code d'anomalie mode de transport actif présent ; voulez-vous relancer l'application ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fehlercode Transportmodus aktiv liegt vor, möchten Sie die Anwendung erneut laufen lassen?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Presente codice di guasto diagnostico attivo della modalità di trasporto, riprovare l'applicazione?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >輸送モード アクティブ診断トラブル コードがあります。アプリケーションを再試行しますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Código de avaria activo de modo de transporte presente; deseja tentar novamente a aplicação?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Modo de transporte código de problemas de diagnóstico ativo presente, você quer tentar novamente o aplicativo?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обнаружен диагностический код неисправности включения режима транспортировки. Вы хотите повторно запустить приложение?</tu>
+	<tu
+    xmlns:lang="esp"
+  >Está presente el código de avería de modo de transporte activo. ¿Desea volver a intentar ejecutar la aplicación?</tu>
+	<tu xmlns:lang="chs">运输模式激活了当前故障诊断码，是否重试应用？</tu>
+	<tu
+    xmlns:lang="kor"
+  >운송 모드 활성 고장 진단 코드가 있습니다. 애플리케이션을 다시 시도하시겠습니까?</tu>
+</tm>

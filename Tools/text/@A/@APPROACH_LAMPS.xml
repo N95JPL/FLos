@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@APPROACH_LAMPS">
+	<tu xmlns:lang="eng">Approach lamps</tu>
+	<tu xmlns:lang="nld">Naderingslichten</tu>
+	<tu xmlns:lang="fra">Feux d'approche.</tu>
+	<tu xmlns:lang="deu">Außenspiegelleuchten</tu>
+	<tu xmlns:lang="ita">Luci avvicinamento</tu>
+	<tu xmlns:lang="jpn">アプローチランプ</tu>
+	<tu xmlns:lang="ptg">Luzes de aproximação</tu>
+	<tu xmlns:lang="ptb">Luzes de acesso</tu>
+	<tu xmlns:lang="rus">Лампы подсветки в боковых зеркалах</tu>
+	<tu xmlns:lang="esp">Luces de acercamiento</tu>
+	<tu xmlns:lang="chs">接近灯</tu>
+	<tu xmlns:lang="kor">어프로치 램프</tu>
+</tm>

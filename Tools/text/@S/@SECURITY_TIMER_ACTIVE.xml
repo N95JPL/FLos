@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SECURITY_TIMER_ACTIVE">
+	<tu
+    xmlns:lang="eng"
+  >The security timer on the module is currently active and may take several minutes to complete.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De beveiligingstimer op de module is momenteel in werking. Het kan enkele minuten duren voordat de module gereed is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La minuterie de sécurité sur le module est actuellement active et mettra probablement plusieurs minutes pour arriver à expiration.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Sicherheits-Zeitgeber des Steuergeräts ist gerade aktiv und kann mehrere Minuten bis zum Ablaufen benötigen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il timer di protezione del modulo è attivo e potrebbe richiedere alcuni minuti per completare il ciclo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュールのセキュリティ タイマーが現在稼動中であり、完了まで数分かかります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O temporizador de segurança no módulo encontra-se actualmente activo e pode demorar alguns minutos a concluir.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O temporizador de segurança no módulo está atualmente ativo e pode demorar vários minutos para ser concluído.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Таймер защиты на модуле сейчас активен, для завершения может потребоваться несколько минут.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El temporizador de seguridad del módulo está actualmente activo y puede tardar varios minutos en detenerse.</tu>
+	<tu
+    xmlns:lang="chs"
+  >模块上的安全计时器当前处于激活状态，可能需要几分钟时间才能完成。</tu>
+	<tu
+    xmlns:lang="kor"
+  >모듈의 보안 타이머가 현재 활성이고 완료하는 데 몇 분 정도 걸릴 수 있습니다.</tu>
+</tm>

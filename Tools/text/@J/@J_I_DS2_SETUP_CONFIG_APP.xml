@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DS2_SETUP_CONFIG_APP">
+	<tu xmlns:lang="eng">Module setup and configuration applications</tu>
+	<tu xmlns:lang="nld">Instel- en configuratietoepassingen voor module</tu>
+	<tu xmlns:lang="fra">Applications de configuration des modules</tu>
+	<tu xmlns:lang="deu">Steuergeräte-Einrichtung und -Konfigurationsprogramme</tu>
+	<tu xmlns:lang="ita">Applicazioni di configurazione e impostazione modulo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュール セットアップ／コンフィギュレーション アプリケーション</tu>
+	<tu xmlns:lang="ptg">Aplicações de configuração e definição do módulo</tu>
+	<tu xmlns:lang="ptb">Configuração do módulo e aplicações de configuração</tu>
+	<tu xmlns:lang="rus">Приложения установки и настройки модуля</tu>
+	<tu xmlns:lang="esp">Aplicaciones de configuración de módulos</tu>
+	<tu xmlns:lang="chs">模块设置与配置应用程序</tu>
+	<tu xmlns:lang="kor">모듈 설정 및 구성 애플리케이션</tu>
+</tm>

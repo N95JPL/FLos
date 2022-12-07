@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CHECK_CONNECTOR">
+	<tu xmlns:lang="eng">Check battery monitoring system connector</tu>
+	<tu xmlns:lang="nld">Controleer de stekker van het accucontrolesysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôlez le connecteur du système de surveillance de la batterie</tu>
+	<tu xmlns:lang="deu">Steckverbinder des Batterieüberwachungssystems prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare il connettore del sistema di monitoraggio della batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリ モニタリング システム コネクターをチェックしなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar o conector do sistema de monitorização da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique o conector do sistema de monitoramento de bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте разъем системы контроля аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar el conector del sistema de control de la batería</tu>
+	<tu xmlns:lang="chs">检查蓄电池监测系统连接器</tu>
+	<tu xmlns:lang="kor">배터리 모니터링 시스템 커넥터를 점검하십시오.</tu>
+</tm>

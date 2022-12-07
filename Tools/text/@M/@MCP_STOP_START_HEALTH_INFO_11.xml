@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_STOP_START_HEALTH_INFO_11">
+	<tu
+    xmlns:lang="eng"
+  >When all the conditions are correct (green ticks) a next button will appear, click this to continue</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer alle omstandigheden correct zijn (groene vinkjes) verschijnt een knop Volgende, klik hierop om door te gaan</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lorsque toutes les conditions sont correctes (coches vertes), un bouton suivant s'affiche ; cliquez dessus pour continuer</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn alle Bedingungen korrekt sind (grünen Häkchen versehen), erscheint die Schaltfläche „Weiter“. Klicken, um fortzufahren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quando tutte le condizioni sono corrette (segni di spunta verdi) viene visualizzato un pulsante di avanzamento; fare clic sul pulsante per continuare</tu>
+	<tu
+    xmlns:lang="jpn"
+  >すべての状態が正常になると (緑色のチェックマーク)、次に進むボタンが表示されます。このボタンをクリックして、続行します</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando todas as condições forem corretas (vistos verdes), é apresentado um botão de seguinte; clique neste botão para continuar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Quando todas as condições estiverem corretas (marcas verdes), um botão Avançar aparecerá; clique nesse botão para continuar</tu>
+	<tu
+    xmlns:lang="rus"
+  >При соблюдении всех условий (зеленые галочки) появится кнопка Далее. Нажмите, чтобы продолжить</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cuando todas las condiciones sean correctas (marcas de verificación verdes), aparecerá un botón Siguiente. Haga clic en él para continuar.</tu>
+	<tu
+    xmlns:lang="chs"
+  >当所有条件都正确（绿色勾号）时，将显示下一步按钮。单击此按钮继续</tu>
+	<tu
+    xmlns:lang="kor"
+  >모든 조건이 올바르면(녹색 체크 표시) 다음 버튼이 표시되며, 계속하려면 이 버튼을 클릭하십시오.</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_AB_CCF_LEN_DISCREP">
+	<tu xmlns:lang="eng">As-built file length discrepancy.</tu>
+	<tu xmlns:lang="nld">Afwijking van de bestandslengte af fabriek.</tu>
+	<tu xmlns:lang="fra">Divergence de longueur du fichier par défaut</tu>
+	<tu xmlns:lang="deu">Längenabweichung - werkseitige Datei.</tu>
+	<tu xmlns:lang="ita">Discrepanza di lunghezza del file di fabbricazione.</tu>
+	<tu xmlns:lang="jpn">作成ファイルの長さの相違</tu>
+	<tu xmlns:lang="ptg">Gana</tu>
+	<tu xmlns:lang="ptb">Discrepância no tamanho do arquivo de fábrica.</tu>
+	<tu xmlns:lang="rus">Расхождение длины файла в заводском исполнении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Discrepancia de longitud del archivo según fabricación.</tu>
+	<tu xmlns:lang="chs">实际构建文件长度不符</tu>
+	<tu xmlns:lang="kor">애즈-빌트(As-Built) 파일 길이 불일치</tu>
+</tm>

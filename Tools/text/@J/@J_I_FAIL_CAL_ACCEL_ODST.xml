@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FAIL_CAL_ACCEL_ODST">
+	<tu
+    xmlns:lang="eng"
+  >Dynamic response accelerometer calibration routine aborted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De kalibreringsroutine van de 'Dynamic Reponse'-acceleratiemeter is afgebroken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Programme d'étalonnage d'accéléromètre de réponse dynamique abandonné.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kalibrierungsroutine für dynamisches Ansprechen des Beschleunigungsaufnehmers abgebrochen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Procedura di taratura accelerometro 'Dynamic Response' interrotta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ダイナミック レスポンス加速度センサー キャリブレーション作業が中断されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Rotina de calibragem do acelerómetro da resposta dinâmica abortada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Rotina de calibração do acelerômetro do Dynamic response interrompida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура калибровки акселерометра динамического реагирования отменена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha cancelado la rutina de calibración del acelerómetro de respuesta dinámica.</tu>
+	<tu xmlns:lang="chs">动态响应加速计校准常规程序中止。</tu>
+	<tu xmlns:lang="kor">다이내믹 리스폰스 가속도계 보정 루틴이 중단됨</tu>
+</tm>

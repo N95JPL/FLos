@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MSCAN_SYS_FIT">
+	<tu xmlns:lang="eng">Medium speed CAN based system fitted.</tu>
+	<tu xmlns:lang="nld">Er is een mediumsnelheid-CAN-systeem geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Système basé sur CAN à vitesse moyenne installé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf CAN-Datenbus mittlerer Geschwindigkeit basierendes System ist eingebaut.</tu>
+	<tu xmlns:lang="ita">Sistema basato su CAN a media velocità in dotazione.</tu>
+	<tu xmlns:lang="jpn">ミディアム スピード CAN ベース システム装備</tu>
+	<tu xmlns:lang="ptg">Montado sistema baseado em CAN de velocidade média.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema com basem em CAN de velocidade média instalado.</tu>
+	<tu xmlns:lang="rus">Установлена система на основе среднескоростной CAN.</tu>
+	<tu xmlns:lang="esp">Tiene sistema basado en CAN de velocidad intermedia</tu>
+	<tu xmlns:lang="chs">基于中速CAN的系统已安装。</tu>
+	<tu xmlns:lang="kor">중속 CAN 기반 시스템이 장착됨</tu>
+</tm>

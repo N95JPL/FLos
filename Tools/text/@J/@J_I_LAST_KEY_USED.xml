@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LAST_KEY_USED">
+	<tu xmlns:lang="eng">Last key used</tu>
+	<tu xmlns:lang="nld">Laatst gebruikte sleutel</tu>
+	<tu xmlns:lang="fra">Dernière clé utilisée</tu>
+	<tu xmlns:lang="deu">Zuletzt benutzter Schlüssel</tu>
+	<tu xmlns:lang="ita">Ultima chiave usata</tu>
+	<tu xmlns:lang="jpn">最後に使用されたキー</tu>
+	<tu xmlns:lang="ptg">Última chave utilizada</tu>
+	<tu xmlns:lang="ptb">Último chave usada</tu>
+	<tu xmlns:lang="rus">Последний использовавшийся ключ</tu>
+	<tu xmlns:lang="esp">Última llave usada</tu>
+	<tu xmlns:lang="chs">上次使用的键</tu>
+	<tu xmlns:lang="kor">마지막으로 사용한 키</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NAV_ON_MOVE_UPDATE_MOST_NO_FEM">
+	<tu
+    xmlns:lang="eng"
+  >Make sure all of the modules on the MOST network ring except the front entertainment control module have been updated to latest level.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer dat alle modules in de MOST-netwerkkring tot het meest recente niveau zijn bijgewerkt, behalve de regelmodule van het multimediasysteem voorin.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que tous les modules sur l'anneau de réseau MOST sauf le module de commande multimédia avant ont bien été mis à jour à la version la plus récente.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass alle an den MOST-Ring angeschlossenen Steuergeräte außer dem Multimediasystem-Steuergerät vorne auf den neuesten Stand der jeweiligen Softwareversion aktualisiert wurden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che tutti i moduli sull'anello della rete MOST, eccetto il modulo di comando intrattenimento anteriore, siano stati aggiornati al livello più recente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フロント エンタテイメント コントロール モジュールを除く MOST ネットワーク リング上のすべてのモジュールが最新レベルに更新されていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que todos os módulos no anel da rede MOST, excepto o módulo de controlo do sistema de entretenimento dianteiro, foram actualizados para a versão mais recente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que todos os módulos no anel de rede MOST, exceto o módulo de controle de entretenimento dianteiro, foram atualizados para o nível mais recente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что все блоки в кольцевой сети MOST, кроме блока управления передней мультимедийной системой, обновлены до последней версии.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que todos los módulos del anillo de la red MOST salvo el módulo de control del sistema de entretenimiento audiovisual delantero se hayan actualizado con la última versión del software.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保除了前娱乐控制模块外，MOST网络环上的所有模块均已更新到最新级别。</tu>
+	<tu
+    xmlns:lang="kor"
+  >프론트 엔터테인먼트 컨트롤 모듈을 제외하고 MOST 네트워크 링에 있는 모든 모듈이 최신 레벨로 업데이트되었는지 확인하십시오 </tu>
+</tm>

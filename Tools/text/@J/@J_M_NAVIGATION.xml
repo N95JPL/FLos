@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_NAVIGATION">
+	<tu xmlns:lang="eng">Navigation</tu>
+	<tu xmlns:lang="nld">Navigatie</tu>
+	<tu xmlns:lang="fra">Navigation</tu>
+	<tu xmlns:lang="deu">Navigationshilfe</tu>
+	<tu xmlns:lang="ita">Navigazione</tu>
+	<tu xmlns:lang="jpn">ナビゲーショ・</tu>
+	<tu xmlns:lang="ptg">Navegação</tu>
+	<tu xmlns:lang="ptb">Navegação</tu>
+	<tu xmlns:lang="rus">Навигационная система</tu>
+	<tu xmlns:lang="esp">Navegación</tu>
+	<tu xmlns:lang="chs">导航</tu>
+	<tu xmlns:lang="kor">내비게이션</tu>
+</tm>

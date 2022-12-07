@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SC_CLEAR_HISTORY">
+	<tu xmlns:lang="eng">Clear history</tu>
+	<tu xmlns:lang="nld">Geschiedenis wissen</tu>
+	<tu xmlns:lang="fra">Effacer l'historique</tu>
+	<tu xmlns:lang="deu">Aufzeichnungen löschen</tu>
+	<tu xmlns:lang="ita">Azzerare i dati precedenti</tu>
+	<tu xmlns:lang="jpn">履歴のクリア</tu>
+	<tu xmlns:lang="ptg">Apagar histórico</tu>
+	<tu xmlns:lang="ptb">Limpar histórico</tu>
+	<tu xmlns:lang="rus">Удалить данные журнала</tu>
+	<tu xmlns:lang="esp">Borrar historial</tu>
+	<tu xmlns:lang="chs">清除历史数据</tu>
+	<tu xmlns:lang="kor">기록 삭제</tu>
+</tm>

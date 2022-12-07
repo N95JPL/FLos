@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SIR_RAD_DAB_PREP">
+	<tu
+    xmlns:lang="eng"
+  >Sirius radio system preparation plus DAB radio with PTY NAS</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voorbereiding Sirius-radiosysteem plus DAB-radio met PTY (NAS)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Préparation du système d'autoradio Sirius plus radio DAB avec PTY NAS</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sirius-Radiosystem-Vorbereitung mit DAB-Radio mit PTY NAS</tu>
+	<tu
+    xmlns:lang="ita"
+  >Predisposizione sistema radio Sirius più radio DAB con PTY NAS</tu>
+	<tu
+    xmlns:lang="jpn"
+  >シリウス ラジオ システム取り付け対応済み + PTY 装備の DAB ラジオ (NAS)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Preparação para sistema de rádio Sirius e rádio DAB com PTY, especificação NAS</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Preparação de sistema de rádio Sirius mais rádio DAB com PTY NAS</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подготовлен для системы радиовещания Sirius и DAB с PTY NAS</tu>
+	<tu
+    xmlns:lang="esp"
+  >Preparación de sistema de radio Sirius más radio DAB con PTY NAS</tu>
+	<tu
+    xmlns:lang="chs"
+  >Sirius 广播系统准备、具备北美优先节目类型（PTY）的数字音频广播（DAB）</tu>
+	<tu xmlns:lang="kor">Sirius 라디오 시스템 준비  PTY NAS 장착 DAB 라디오</tu>
+</tm>

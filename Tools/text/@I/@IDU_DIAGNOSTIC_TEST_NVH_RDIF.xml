@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDU_DIAGNOSTIC_TEST_NVH_RDIF">
+	<tu
+    xmlns:lang="eng"
+  >Noise, vibration and harshness sensor diagnostic test - Rear differential</tu>
+	<tu
+    xmlns:lang="nld"
+  >Diagnosetest voor sensor geluid, trillingen en stugheid - Achterdifferentieel</tu>
+	<tu
+    xmlns:lang="fra"
+  >Test de diagnostic du capteur de bruit, vibrations et rudesse - Différentiel arrière</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diagnoseprüfung des Sensors für Geräusche, Vibrationen, Rauheit – hinteres Differenzial</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prova diagnostica del sensore rumorosità, vibrazioni e ruvidità - Differenziale posteriore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ノイズ、振動およびハーシュネス センサ診断テスト - リヤ ディファレンシャル</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Teste de diagnóstico de ruído, vibração e aspereza - Diferencial traseiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Teste de diagnóstico do sensor de ruído, vibração e aspereza - Diferencial traseiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Диагностическая проверка датчика шума, вибрации и жесткости — задний дифференциал</tu>
+	<tu
+    xmlns:lang="esp"
+  >Prueba de diagnóstico del sensor de ruido, vibraciones y asperezas - Diferencial trasero</tu>
+	<tu xmlns:lang="chs">噪音、振动和不平顺性传感器诊断测试 - 后差速器</tu>
+	<tu
+    xmlns:lang="kor"
+  >NVH(Noise, Vibration and Harshness) 센서 진단 테스트 - 리어 디퍼렌셜</tu>
+</tm>

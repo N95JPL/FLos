@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NOIS_CURR_MEAS">
+	<tu xmlns:lang="eng">Noisy current measurement (humidity).</tu>
+	<tu xmlns:lang="nld">Stroomsterktemeting met ruis (vochtigheid).</tu>
+	<tu xmlns:lang="fra">Mesure du courant brouillé (humidité).</tu>
+	<tu xmlns:lang="deu">Verrauschte Strommessung (Feuchtigkeit).</tu>
+	<tu xmlns:lang="ita">Misurazione corrente rumorosa (umidità).</tu>
+	<tu xmlns:lang="jpn">ノイズを含む電流の測定 (湿度)</tu>
+	<tu xmlns:lang="ptg">Medição de corrente ruidosa (humidade).</tu>
+	<tu xmlns:lang="ptb">Medição de corrente com ruído (umidade).</tu>
+	<tu xmlns:lang="rus">Измерение паразитного тока (влажность).</tu>
+	<tu xmlns:lang="esp">Medida ruidosa de la corriente (humedad).</tu>
+	<tu xmlns:lang="chs">噪声电流测量（湿度）。</tu>
+	<tu xmlns:lang="kor">소음 전류 측정(습기)</tu>
+</tm>

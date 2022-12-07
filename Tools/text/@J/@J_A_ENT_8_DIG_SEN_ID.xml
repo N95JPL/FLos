@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENT_8_DIG_SEN_ID">
+	<tu xmlns:lang="eng">Enter the 8 digit sensor identification.</tu>
+	<tu xmlns:lang="nld">Voer het 8-cijferige sensoridentificatienummer in.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Entrez le numéro d'identification du capteur à 8 chiffres.</tu>
+	<tu xmlns:lang="deu">Die 8-stellige Sensorkennung eingeben.</tu>
+	<tu xmlns:lang="ita">Inserire l'identificativo sensore a otto cifre.</tu>
+	<tu xmlns:lang="jpn">8 桁のセンサー ID を入力しなさい。</tu>
+	<tu xmlns:lang="ptg">Introduza os 8 dígitos de identificação do sensor.</tu>
+	<tu xmlns:lang="ptb">Insira a identificação do sensor de 8 dígitos.</tu>
+	<tu xmlns:lang="rus">Введите 8-значный идентификатор датчика.</tu>
+	<tu xmlns:lang="esp">Introducir la identificación del sensor de 8 dígitos.</tu>
+	<tu xmlns:lang="chs">请输入8位数的传感器标识码。</tu>
+	<tu xmlns:lang="kor">8자리 센서 식별 정보를 입력하십시오.</tu>
+</tm>

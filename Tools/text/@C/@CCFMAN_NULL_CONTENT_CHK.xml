@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_NULL_CONTENT_CHK">
+	<tu xmlns:lang="eng">Null content check</tu>
+	<tu xmlns:lang="nld">Nulinhoudscontrole</tu>
+	<tu xmlns:lang="fra">Contrôle de contenu nul</tu>
+	<tu xmlns:lang="deu">Prüfung auf Null-Inhalt</tu>
+	<tu xmlns:lang="ita">Controllo del contenuto nullo</tu>
+	<tu xmlns:lang="jpn">無効コンテンツのチェック</tu>
+	<tu xmlns:lang="ptg">Sem verificação de conteúdo</tu>
+	<tu xmlns:lang="ptb">Verificação de conteúdo nulo</tu>
+	<tu xmlns:lang="rus">Проверка нулевого содержимого</tu>
+	<tu xmlns:lang="esp">Comprobación de contenido nulo</tu>
+	<tu xmlns:lang="chs">无效内容检查</tu>
+	<tu xmlns:lang="kor">Null 내용 점검</tu>
+</tm>

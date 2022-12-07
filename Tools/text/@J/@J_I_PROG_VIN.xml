@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROG_VIN">
+	<tu xmlns:lang="eng">%s programmed vehicle identification number</tu>
+	<tu xmlns:lang="nld">Geprogrammeerd voertuigidentificatienummer %s</tu>
+	<tu xmlns:lang="fra">%s numéro d'identification du véhicule programmé</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Identifizierungsnummer - %s programmiert</tu>
+	<tu xmlns:lang="ita">Numero di identificazione veicolo programmato %s</tu>
+	<tu xmlns:lang="jpn">%s プログラムされた車両 ID ナンバー</tu>
+	<tu xmlns:lang="ptg">Número de identificação do veículo programado %s</tu>
+	<tu xmlns:lang="ptb">Número de identificação do veículo programado %s</tu>
+	<tu xmlns:lang="rus">Запрограммирован идентификационный номер автомобиля %s</tu>
+	<tu xmlns:lang="esp">Número de identificación del vehículo programado %s</tu>
+	<tu xmlns:lang="chs">%s已编程车辆标识号码</tu>
+	<tu xmlns:lang="kor">%s 프로그래밍 차량 식별 번호</tu>
+</tm>

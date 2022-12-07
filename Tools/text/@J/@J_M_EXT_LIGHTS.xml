@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_EXT_LIGHTS">
+	<tu xmlns:lang="eng">Exterior lamps</tu>
+	<tu xmlns:lang="nld">Buitenverlichting</tu>
+	<tu xmlns:lang="fra">Eclairage exterieur</tu>
+	<tu xmlns:lang="deu">Aussenleuchten</tu>
+	<tu xmlns:lang="ita">Luci esterne</tu>
+	<tu xmlns:lang="jpn">車外</tu>
+	<tu xmlns:lang="ptg">Luzes exteriores</tu>
+	<tu xmlns:lang="ptb">Luzes externas</tu>
+	<tu xmlns:lang="rus">Внешние осветительные приборы</tu>
+	<tu xmlns:lang="esp">Luces exteriores</tu>
+	<tu xmlns:lang="chs">外部照明灯</tu>
+	<tu xmlns:lang="kor">실외등</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_BELGIUM">
+	<tu xmlns:lang="eng">Belgium</tu>
+	<tu xmlns:lang="nld">België</tu>
+	<tu xmlns:lang="fra">Belgique</tu>
+	<tu xmlns:lang="deu">Belgien</tu>
+	<tu xmlns:lang="ita">Belgio</tu>
+	<tu xmlns:lang="jpn">ベルギー</tu>
+	<tu xmlns:lang="ptg">Bélgica</tu>
+	<tu xmlns:lang="ptb">Bélgica</tu>
+	<tu xmlns:lang="rus">Бельгия</tu>
+	<tu xmlns:lang="esp">Bélgica</tu>
+	<tu xmlns:lang="chs">比利时</tu>
+	<tu xmlns:lang="kor">벨기에</tu>
+</tm>

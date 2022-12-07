@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_ERROR_1">
+	<tu
+    xmlns:lang="eng"
+  >The tester could not read the variant coding data from the ABS electronic control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het testapparaat kon de variantcodeergegevens niet uit de elektronische ABS-regelmodule uitlezen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le testeur n'a pas pu lire les données de codage de variante dans le module de commande électronique ABS.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Testgerät konnte die Daten für die Variantencodierung nicht aus dem elektronischen ABS-Steuergerät auslesen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impossibile leggere i dati di codifica versione dall'unità di comando elettronica ABS.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テスターは ABS エレクトロニック コントロール ユニットからモデル コード データを読み取ることができませんでした。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O dispositivo de teste não conseguiu ler os dados do código de versão da unidade electrónica de controlo do ABS.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O testador não pôde ler os dados do código da variante da unidade de controle eletrônico do ABS.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Диагностическое устройство не может прочитать данные кодирования варианта, переданные электронным блоком управления ABS.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El comprobador no pudo leer los datos de código de variante en el módulo de control electrónico del ABS.</tu>
+	<tu xmlns:lang="chs">测试仪不能从 ABS 电子控制单元读取变型车编码数据。</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스터가 ABS 전자 컨트롤 유닛에서 변종 모델 코딩 데이터를 읽지 못했습니다.</tu>
+</tm>

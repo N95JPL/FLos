@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRIG_FUNC_NOT">
+	<tu xmlns:lang="eng">Without retrigger functionality</tu>
+	<tu xmlns:lang="nld">Zonder functie voor opnieuw laten afgaan</tu>
+	<tu xmlns:lang="fra">Sans fonction de redéclenchement</tu>
+	<tu xmlns:lang="deu">Ohne Funktionalität erneute Auslösung</tu>
+	<tu xmlns:lang="ita">Senza funzionalità nuovo scatto</tu>
+	<tu xmlns:lang="jpn">再トリガー機能\なし</tu>
+	<tu xmlns:lang="ptg">Sem funcionalidade de reactivação</tu>
+	<tu xmlns:lang="ptb">Sem funcionalidade de reacionamento</tu>
+	<tu xmlns:lang="rus">Без функции повторного запуска триггера</tu>
+	<tu xmlns:lang="esp">Sin funcionalidad del reactivador</tu>
+	<tu xmlns:lang="chs">无再触发器功能</tu>
+	<tu xmlns:lang="kor">재트리거 기능 없음</tu>
+</tm>

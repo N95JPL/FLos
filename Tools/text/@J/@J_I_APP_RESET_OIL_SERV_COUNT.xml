@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_RESET_OIL_SERV_COUNT">
+	<tu xmlns:lang="eng">This application will reset the oil service counter.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing zal de onderhoudsintervalindicatie voor olieverversen terugstellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application va remettre à zéro le compteur de vidanges d'huile.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Programm setzt den Zähler der Ölwechselanzeige zurück.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione azzera il contatore del cambio olio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションはオイル サービス カウンターをリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação irá reiniciar o contador de mudança de óleo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo redefinirá o contador de troca de óleo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение производит сброс показаний счетчика интервала замены масла.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación pone a cero el contador de cambio de aceite.</tu>
+	<tu xmlns:lang="chs">此应用程序将让机油维修计数器复位。</tu>
+	<tu xmlns:lang="kor">이 애플리케이션은 오일 서비스 카운터를 재설정합니다.</tu>
+</tm>

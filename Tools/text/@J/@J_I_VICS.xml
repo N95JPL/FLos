@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VICS">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle information and communications system dynamic route guidance - Japan only</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voertuiginformatie- en communicatiesysteem, dynamische routebegeleiding - alleen Japan</tu>
+	<tu
+    xmlns:lang="fra"
+  >Guidage dynamique de système d'informations et de communications du véhicule - Japon seulement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dynamische Routenführung über das Fahrzeuginformations- und -kommunikationssystem - nur Japan.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guida stradale dinamica del sistema di informazione e comunicazione del veicolo - solo Giappone</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両インフォメーションおよびコミュニケーション システム ダイナミック ルート案内 － 日本のみ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Orientação dinâmica em itinerário do sistema de informação e comunicação do veículo - apenas Japão</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Informações do veículo e orientação dinâmica do sistema de comunicação - apenas Japão</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция динамической прокладки маршрута в составе системы связи и передачи информации автомобиля - только для Японии</tu>
+	<tu
+    xmlns:lang="esp"
+  >Guía dinámica de ruta del sistema de información y comunicaciones del vehículo (sólo Japón)</tu>
+	<tu xmlns:lang="chs">车辆信息和通讯系统动态路由导向 - 仅限日本。</tu>
+	<tu xmlns:lang="kor">차량 정보 및 통신 시스템 동적 경로 안내 - 일본만 해당</tu>
+</tm>

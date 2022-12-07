@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DLC_NUM_4047">
+	<tu xmlns:lang="eng">Vehicle battery  -  Lowest calculated amp hour value</tu>
+	<tu xmlns:lang="nld">Accu  -  Laagste berekende waarde van Ampère-uur</tu>
+	<tu
+    xmlns:lang="fra"
+  >Batterie du véhicule  -  Valeur en ampères-heure calculée la plus basse</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeugbatterie  -  Niedrigster berechneter Amperestundenwert</tu>
+	<tu xmlns:lang="ita">Batteria veicolo  -  Valore amperora minimo calcolato</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両ﾊﾞｯﾃﾘ  －  計算された最小の Ah (アンペア アワー) 値</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Bateria do veículo  -  Valor ampere hora mais baixo que foi calculado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Bateria do veículo  -  Valor mais baixo calculado de ampere hora</tu>
+	<tu
+    xmlns:lang="rus"
+  >Аккумуляторная батарея  -  Наименьшее расчетное значение в ампер-часах</tu>
+	<tu
+    xmlns:lang="esp"
+  >Batería del vehículo  -  Valor más bajo de amperio hora calculado</tu>
+	<tu xmlns:lang="chs">车辆蓄电池  -  理论上的最小安培小时值</tu>
+	<tu xmlns:lang="kor">차량 배터리  -  계산된 최저 암페어 시간 값</tu>
+</tm>

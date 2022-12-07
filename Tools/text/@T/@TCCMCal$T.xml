@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TCCMCal$T">
+	<tu xmlns:lang="eng">Transfer case control module calibration.</tu>
+	<tu xmlns:lang="nld">Kalibrering van de regelmodule van tussenbak.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Etalonnage du module de commande de boîte de transfert.</tu>
+	<tu xmlns:lang="deu">Kalibrierung Verteilergetriebe-Steuergerät.</tu>
+	<tu xmlns:lang="ita">Taratura modulo di comando scatola di rinvio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスファー ケース コントロール モジュール キャリブレーション</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Calibragem do módulo de controlo da caixa de transferência.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Calibração do módulo de controle da caixa de transferência.</tu>
+	<tu xmlns:lang="rus">Калибровка блока управления раздаточной коробкой.</tu>
+	<tu xmlns:lang="esp">Calibración del módulo de control del transfer.</tu>
+	<tu xmlns:lang="chs">分动箱控制模块标定。</tu>
+	<tu xmlns:lang="kor">트랜스퍼 케이스 컨트롤 모듈 보정</tu>
+</tm>

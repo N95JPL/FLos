@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_DACMC">
+	<tu xmlns:lang="eng">Digital audio control module C</tu>
+	<tu xmlns:lang="nld">Regelmodule C van digitale geluidsinstallatie</tu>
+	<tu xmlns:lang="fra">Module de commande audio numérique C</tu>
+	<tu xmlns:lang="deu">Digital-Audio-Steuergerät C</tu>
+	<tu xmlns:lang="ita">Modulo di comando audio digitale C</tu>
+	<tu xmlns:lang="jpn">デジタル オーディオ コントロール モジュール C</tu>
+	<tu xmlns:lang="ptg">Módulo de comando do sistema áudio digital C</tu>
+	<tu xmlns:lang="ptb">Módulo C de controle de áudio digital</tu>
+	<tu xmlns:lang="rus">Блок С управления цифровой аудиосистемой</tu>
+	<tu xmlns:lang="esp">Módulo de control de audio digital C</tu>
+	<tu xmlns:lang="chs">数字音频控制模块C</tu>
+	<tu xmlns:lang="kor">디지털 오디오 컨트롤 모듈 C</tu>
+</tm>

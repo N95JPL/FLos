@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@COOL_FAN_SINGLE">
+	<tu xmlns:lang="eng">Single speed cooling fan</tu>
+	<tu xmlns:lang="nld">Koelventilator met één snelheid</tu>
+	<tu xmlns:lang="fra">Ventilateur de refroidissement à une vitesse</tu>
+	<tu xmlns:lang="deu">Kühlerlüfter mit fixierter Drehzahl</tu>
+	<tu xmlns:lang="ita">Ventola di raffreddamento una velocità</tu>
+	<tu xmlns:lang="jpn">シングル スピード クーリング ファン</tu>
+	<tu xmlns:lang="ptg">Ventoinha de arrefecimento de velocidade única</tu>
+	<tu xmlns:lang="ptb">Ventoinha de arrefecimento de velocidade única</tu>
+	<tu xmlns:lang="rus">Односкоростной вентилятор системы охлаждения</tu>
+	<tu xmlns:lang="esp">Ventilador de refrigeración de una sola velocidad</tu>
+	<tu xmlns:lang="chs">单速冷却风扇</tu>
+	<tu xmlns:lang="kor">1단 냉각 팬</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CTR_FL_WHEEL">
+	<tu xmlns:lang="eng">Front left wheel.</tu>
+	<tu xmlns:lang="nld">Linker voorwiel.</tu>
+	<tu xmlns:lang="fra">Roue avant gauche.</tu>
+	<tu xmlns:lang="deu">Linkes Vorderrad.</tu>
+	<tu xmlns:lang="ita">Ruota anteriore sinistra.</tu>
+	<tu xmlns:lang="jpn">左フロント ホイール</tu>
+	<tu xmlns:lang="ptg">Roda dianteira esquerda.</tu>
+	<tu xmlns:lang="ptb">Roda dianteira esquerda.</tu>
+	<tu xmlns:lang="rus">Переднее левое колесо.</tu>
+	<tu xmlns:lang="esp">Rueda delantera izquierda.</tu>
+	<tu xmlns:lang="chs">左前车轮。</tu>
+	<tu xmlns:lang="kor">프론트 좌측 휠.</tu>
+</tm>

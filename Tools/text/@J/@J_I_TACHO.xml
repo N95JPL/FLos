@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TACHO">
+	<tu xmlns:lang="eng">Tachograph</tu>
+	<tu xmlns:lang="nld">Tachograaf</tu>
+	<tu xmlns:lang="fra">Tachygraphe</tu>
+	<tu xmlns:lang="deu">Fahrtenschreiber</tu>
+	<tu xmlns:lang="ita">Tachigrafo</tu>
+	<tu xmlns:lang="jpn">タコグラフ</tu>
+	<tu xmlns:lang="ptg">Tacógrafo</tu>
+	<tu xmlns:lang="ptb">Tacógrafo</tu>
+	<tu xmlns:lang="rus">Тахограф</tu>
+	<tu xmlns:lang="esp">Tacógrafo</tu>
+	<tu xmlns:lang="chs">转速图</tu>
+	<tu xmlns:lang="kor">타코그래프</tu>
+</tm>

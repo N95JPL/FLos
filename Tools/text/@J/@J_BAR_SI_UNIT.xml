@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_BAR_SI_UNIT">
+	<tu xmlns:lang="eng">Bar</tu>
+	<tu xmlns:lang="nld">Bar</tu>
+	<tu xmlns:lang="fra">Bar</tu>
+	<tu xmlns:lang="deu">bar</tu>
+	<tu xmlns:lang="ita">Bar</tu>
+	<tu xmlns:lang="jpn">バール</tu>
+	<tu xmlns:lang="ptg">Bar</tu>
+	<tu xmlns:lang="ptb">Bar</tu>
+	<tu xmlns:lang="rus">бар</tu>
+	<tu xmlns:lang="esp">Bar</tu>
+	<tu xmlns:lang="chs">巴</tu>
+	<tu xmlns:lang="kor">바</tu>
+</tm>

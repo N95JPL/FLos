@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CMPROG_Medium$M">
+	<tu xmlns:lang="eng">Medium</tu>
+	<tu xmlns:lang="nld">Middel</tu>
+	<tu xmlns:lang="fra">Moyen</tu>
+	<tu xmlns:lang="deu">Mittel</tu>
+	<tu xmlns:lang="ita">Media</tu>
+	<tu xmlns:lang="jpn">　中</tu>
+	<tu xmlns:lang="ptg">Médio</tu>
+	<tu xmlns:lang="ptb">Médio</tu>
+	<tu xmlns:lang="rus">Средний</tu>
+	<tu xmlns:lang="esp">Media</tu>
+	<tu xmlns:lang="chs">中等</tu>
+	<tu xmlns:lang="kor">중간</tu>
+</tm>

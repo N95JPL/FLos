@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_REVCOUNTER">
+	<tu xmlns:lang="eng">Tachometer</tu>
+	<tu xmlns:lang="nld">Toerenteller</tu>
+	<tu xmlns:lang="fra">Tachymetre</tu>
+	<tu xmlns:lang="deu">Drehzahlmesser</tu>
+	<tu xmlns:lang="ita">Contagiri</tu>
+	<tu xmlns:lang="jpn">ﾀｺﾒーﾀ</tu>
+	<tu xmlns:lang="ptg">Tacómetro</tu>
+	<tu xmlns:lang="ptb">Tacômetro</tu>
+	<tu xmlns:lang="rus">Тахометр</tu>
+	<tu xmlns:lang="esp">Cuenta revoluciones</tu>
+	<tu xmlns:lang="chs">转速表</tu>
+	<tu xmlns:lang="kor">타코미터</tu>
+</tm>

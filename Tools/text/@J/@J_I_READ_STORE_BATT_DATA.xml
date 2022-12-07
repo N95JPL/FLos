@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_READ_STORE_BATT_DATA">
+	<tu xmlns:lang="eng">Read and store battery status data</tu>
+	<tu xmlns:lang="nld">De accustatusgegevens uitlezen en opslaan</tu>
+	<tu
+    xmlns:lang="fra"
+  >Relever et enregistrer les données sur l'état de la batterie</tu>
+	<tu xmlns:lang="deu">Batteriestatusdaten auslesen und speichern</tu>
+	<tu xmlns:lang="ita">Lettura e memorizzazione dati di stato della batteria</tu>
+	<tu xmlns:lang="jpn">バッテリ ステータス データの読み取りおよび保存</tu>
+	<tu xmlns:lang="ptg">Leia e guarde os dados do estado da bateria</tu>
+	<tu xmlns:lang="ptb">Leia e guarde os dados de status da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Считать и сохранить данные о состоянии аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Leer y almacenar los datos de estado de la batería</tu>
+	<tu xmlns:lang="chs">读取并保存蓄电池状态数据</tu>
+	<tu xmlns:lang="kor">배터리 상태 데이터를 읽고 저장하십시오.</tu>
+</tm>

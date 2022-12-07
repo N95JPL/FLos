@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HW$T">
+	<tu xmlns:lang="eng">Hardware</tu>
+	<tu xmlns:lang="nld">Hardware</tu>
+	<tu xmlns:lang="fra">Matériel</tu>
+	<tu xmlns:lang="deu">Hardware</tu>
+	<tu xmlns:lang="ita">Strumento</tu>
+	<tu xmlns:lang="jpn">ﾊーﾄﾞｳｴｱ</tu>
+	<tu xmlns:lang="ptg">Hardware</tu>
+	<tu xmlns:lang="ptb">Hardware</tu>
+	<tu xmlns:lang="rus">Аппаратное обеспечение</tu>
+	<tu xmlns:lang="esp">Componentes</tu>
+	<tu xmlns:lang="chs">硬件</tu>
+	<tu xmlns:lang="kor">하드웨어</tu>
+</tm>

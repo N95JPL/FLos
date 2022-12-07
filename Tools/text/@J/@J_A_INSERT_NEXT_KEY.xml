@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_INSERT_NEXT_KEY">
+	<tu
+    xmlns:lang="eng"
+  >Insert the next key to be programmed into the ignition barrel.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Steek de volgende sleutel die geprogrammeerd moet worden in het contactslot</tu>
+	<tu
+    xmlns:lang="fra"
+  >Introduisez la clé à programmer suivante dans le commutateur d'allumage</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den nächsten zu programmierenden Schlüssel in das Zündschloß einstecken</tu>
+	<tu
+    xmlns:lang="ita"
+  >Infilare nell'accensione la successiva chiave da programmare</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プログラムする次のキーをイグニション バレルに挿入しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Introduzir a chave seguinte a ser programada no canhão da ignição.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Insira a próxima chave para ser programada no tambor de ignição.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вставьте следующий программируемый ключ в цилиндр замка зажигания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Meter en la cerradura del contacto la siguiente llave que haya que programar</tu>
+	<tu xmlns:lang="chs">将下一把要设置的钥匙插入点火筒。</tu>
+	<tu xmlns:lang="kor">프로그래밍할 다음 키를 점화 배럴에 넣으십시오.</tu>
+</tm>

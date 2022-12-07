@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ENABLED_JOB">
+	<tu xmlns:lang="eng">Enabled job number %s.</tu>
+	<tu xmlns:lang="nld">Bewerkingsnummer %s geactiveerd.</tu>
+	<tu xmlns:lang="fra">Numéro de tâche activée %s.</tu>
+	<tu xmlns:lang="deu">Aktivierte Aufgabe Nummer %s.</tu>
+	<tu xmlns:lang="ita">Numero operazione attivata %s.</tu>
+	<tu xmlns:lang="jpn">作動可に設定された作業ナンバー %s</tu>
+	<tu xmlns:lang="ptg">Número de trabalho activado %s.</tu>
+	<tu xmlns:lang="ptb">Número de processo habilitado %s.</tu>
+	<tu xmlns:lang="rus">Номер разрешенного задания - %s.</tu>
+	<tu xmlns:lang="esp">Número de trabajo activado %s.</tu>
+	<tu xmlns:lang="chs">启用的工作编号%s。</tu>
+	<tu xmlns:lang="kor">활성화된 작업 번호 %s</tu>
+</tm>

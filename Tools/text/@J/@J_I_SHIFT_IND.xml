@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SHIFT_IND">
+	<tu xmlns:lang="eng">Shift indication</tu>
+	<tu xmlns:lang="nld">Schakelindicatie</tu>
+	<tu xmlns:lang="fra">Indication de rapport</tu>
+	<tu xmlns:lang="deu">Schaltanzeige </tu>
+	<tu xmlns:lang="ita">Indicatore cambio</tu>
+	<tu xmlns:lang="jpn">シフト インジケータ</tu>
+	<tu xmlns:lang="ptg">Indicação das mudanças</tu>
+	<tu xmlns:lang="ptb">Indicação de mudança de marcha</tu>
+	<tu xmlns:lang="rus">Индикация переключения передач</tu>
+	<tu xmlns:lang="esp">Indicación del cambio</tu>
+	<tu xmlns:lang="chs">换档指示</tu>
+	<tu xmlns:lang="kor">변속 표시</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_AJAR_SWITCHES">
+	<tu xmlns:lang="eng">Door ajar switches</tu>
+	<tu xmlns:lang="nld">Portier open schakelaars</tu>
+	<tu xmlns:lang="fra">Contacteurs de portes ouvertes</tu>
+	<tu xmlns:lang="deu">Tür-kontaktschalter</tu>
+	<tu xmlns:lang="ita">Interruttori portiere socchiuse</tu>
+	<tu xmlns:lang="jpn">ドア オープン スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptores de portas mal fechadas</tu>
+	<tu xmlns:lang="ptb">Interruptores de porta entreaberta</tu>
+	<tu xmlns:lang="rus">Выключатели предупреждения об открытой двери</tu>
+	<tu xmlns:lang="esp">Interruptores de puerta mal cerrada</tu>
+	<tu xmlns:lang="chs">车门开度开关</tu>
+	<tu xmlns:lang="kor">도어 열림 스위치</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_BPM_VALSW">
+	<tu xmlns:lang="eng">Valet switch</tu>
+	<tu xmlns:lang="nld">Serviceschakelaar (Valet)</tu>
+	<tu xmlns:lang="fra">Commutateur de condamnation du coffre</tu>
+	<tu xmlns:lang="deu">Schalter Fahrzeugpflege</tu>
+	<tu xmlns:lang="ita">Interruttore valet</tu>
+	<tu xmlns:lang="jpn">バレー スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptor de segurança/compartimento de carga</tu>
+	<tu xmlns:lang="ptb">Interruptor de estacionamento</tu>
+	<tu xmlns:lang="rus">Выключатель 'valet'</tu>
+	<tu xmlns:lang="esp">Interruptor de protección del maletero</tu>
+	<tu xmlns:lang="chs">服务开关</tu>
+	<tu xmlns:lang="kor">발렛 스위치</tu>
+</tm>

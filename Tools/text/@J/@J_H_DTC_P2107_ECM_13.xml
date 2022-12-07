@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_DTC_P2107_ECM_13">
+	<tu
+    xmlns:lang="eng"
+  >Run a drive cycle to complete the adaptive learning in the new engine controller.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer een rijcyclus uit om het adaptief inleren in de nieuwe motorregelaar te voltooien.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Effectuer un cycle de conduite complet pour achever un apprentissage adaptatif complet sur le nouveau régulateur du moteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einen Fahrzyklus durchführen, um das adaptive Lernen im neuen Motor-Controller abzuschließen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Eseguire un ciclo di guida per completare l’apprendimento adattativo nel nuovo dispositivo di controllo del motore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ドライブ サイクルを実行して、新しいエンジン コントローラでアダプティブ学習を完了する。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Efectuar um ciclo de condução para concluir a programação adaptável no novo controlador do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Execute um ciclo de condução para completar a aprendizagem adaptativa no novo controlador do motor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запустите ездовой цикл, чтобы провести самонастройку нового блока управления двигателем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Lleve a cabo un ciclo de conducción para completar la recepción adaptable en el nuevo controlador del motor.</tu>
+	<tu xmlns:lang="chs">执行行驶周期，以完成新发动机控制器中的自适应学习。</tu>
+	<tu
+    xmlns:lang="kor"
+  >주행 사이클을 실행하여 신품 엔진 컨트롤러에서 어댑티브 학습을 완료하십시오.</tu>
+</tm>

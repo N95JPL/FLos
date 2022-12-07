@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COLLECT_STORE_BATTERY_DATA">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will collect and store the battery status data</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal de accustatusgegevens verzamelen en opslaan</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de rassembler et d'enregistrer les données sur l'état de la batterie</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Maßnahme werden die Batteriestatusdaten erfasst und gespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura raccoglierà e memorizzerà i dati sullo stato della batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順はバッテリ ステータス データを収集し保存します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento recolhe e guarda os dados do estado da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esse procedimento irá coletar e armazenar os dados de status da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе этой процедуры собираются и сохраняются данные о состоянии аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento recopila y almacena los datos de estado de la batería</tu>
+	<tu xmlns:lang="chs">该程序将收集并保存蓄电池状态数据</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 배터리 상태 데이터를 수집하고 저장합니다.</tu>
+</tm>

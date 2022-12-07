@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_FUEL_PUMPS">
+	<tu xmlns:lang="eng">Fuel pump(s)</tu>
+	<tu xmlns:lang="nld">Brandstofpomp(en)</tu>
+	<tu xmlns:lang="fra">Pompe(s) a carburant</tu>
+	<tu xmlns:lang="deu">Kraftstoffpumpe(n)</tu>
+	<tu xmlns:lang="ita">Pompa(e) carburante</tu>
+	<tu xmlns:lang="jpn">フュエル ポ・プ</tu>
+	<tu xmlns:lang="ptg">Bomba(s) de combustível</tu>
+	<tu xmlns:lang="ptb">Bombas de combustível</tu>
+	<tu xmlns:lang="rus">Топливный насос (насосы)</tu>
+	<tu xmlns:lang="esp">Bomba(s) de combustible</tu>
+	<tu xmlns:lang="chs">燃油泵</tu>
+	<tu xmlns:lang="kor">연료 펌프</tu>
+</tm>

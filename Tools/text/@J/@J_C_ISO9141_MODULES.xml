@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ISO9141_MODULES">
+	<tu xmlns:lang="eng">ISO modules</tu>
+	<tu xmlns:lang="nld">ISO-modules</tu>
+	<tu xmlns:lang="fra">Modules ISO</tu>
+	<tu xmlns:lang="deu">ISO-Module</tu>
+	<tu xmlns:lang="ita">Moduli ISO</tu>
+	<tu xmlns:lang="jpn">ISO モジュール</tu>
+	<tu xmlns:lang="ptg">Módulos - ISO</tu>
+	<tu xmlns:lang="ptb">Módulos ISO</tu>
+	<tu xmlns:lang="rus">Блоки стандарта ISO</tu>
+	<tu xmlns:lang="esp">Módulos ISO</tu>
+	<tu xmlns:lang="chs">ISO模块</tu>
+	<tu xmlns:lang="kor">ISO 모듈</tu>
+</tm>

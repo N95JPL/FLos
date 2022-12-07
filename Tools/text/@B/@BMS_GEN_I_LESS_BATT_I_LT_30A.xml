@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_GEN_I_LESS_BATT_I_LT_30A">
+	<tu
+    xmlns:lang="eng"
+  >Generator current minus battery current should be less than 30A</tu>
+	<tu
+    xmlns:lang="nld"
+  >De dynamostroom min de accustroom moet lager zijn dan 30 A</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le courant de l'alternateur sur la borne négative de la batterie doit être inférieur à 30 A</tu>
+	<tu
+    xmlns:lang="deu"
+  >Generatorstrom minus Batteriestrom sollte kleiner als 30 A sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La corrente del generatore meno la corrente della batteria deve essere inferiore a 30 A</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ジェネレータ電流からバッテリ電流を引いた数値は 30A 以下でなければなりません</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A corrente do alternador menos a corrente da bateria deve ser inferior a 30 A</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A corrente do alternador menos a corrente da bateria corrente deve ser menor que 30 A</tu>
+	<tu
+    xmlns:lang="rus"
+  >Разность между значениями тока генератора и аккумуляторной батареи должна быть менее 30 А</tu>
+	<tu
+    xmlns:lang="esp"
+  >La corriente del alternador menos la corriente de la batería debe ser inferior a 30 A</tu>
+	<tu xmlns:lang="chs">发电机电流减去蓄电池电流后的差值应小于 30 安培</tu>
+	<tu
+    xmlns:lang="kor"
+  >제너레이터 전류에서 배터리 전류를 뺀 값이 30A 미만이어야 합니다.</tu>
+</tm>

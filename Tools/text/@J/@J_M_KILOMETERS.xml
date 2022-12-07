@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_KILOMETERS">
+	<tu xmlns:lang="eng">Kilometers</tu>
+	<tu xmlns:lang="nld">Kilometers</tu>
+	<tu xmlns:lang="fra">Kilometres</tu>
+	<tu xmlns:lang="deu">Kilometer</tu>
+	<tu xmlns:lang="ita">Chilometri</tu>
+	<tu xmlns:lang="jpn">KM</tu>
+	<tu xmlns:lang="ptg">Quilómetros</tu>
+	<tu xmlns:lang="ptb">Quilômetros</tu>
+	<tu xmlns:lang="rus">Километры</tu>
+	<tu xmlns:lang="esp">Kilómetros</tu>
+	<tu xmlns:lang="chs">Km</tu>
+	<tu xmlns:lang="kor">킬로미터</tu>
+</tm>

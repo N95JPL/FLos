@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DVD_PLAYER">
+	<tu xmlns:lang="eng">DVD player.</tu>
+	<tu xmlns:lang="nld">Dvd-speler</tu>
+	<tu xmlns:lang="fra">Lecteur de DVD</tu>
+	<tu xmlns:lang="deu">DVD-Spieler</tu>
+	<tu xmlns:lang="ita">Lettore DVD</tu>
+	<tu xmlns:lang="jpn">DVD プレーヤー</tu>
+	<tu xmlns:lang="ptg">Leitor de DVD.</tu>
+	<tu xmlns:lang="ptb">Reprodutor de DVD.</tu>
+	<tu xmlns:lang="rus">Проигрыватель DVD.</tu>
+	<tu xmlns:lang="esp">Reproductor de DVD</tu>
+	<tu xmlns:lang="chs">DVD 播放器。</tu>
+	<tu xmlns:lang="kor">DVD 플레이어</tu>
+</tm>

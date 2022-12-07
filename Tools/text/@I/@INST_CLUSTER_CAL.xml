@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INST_CLUSTER_CAL">
+	<tu xmlns:lang="eng">Instrument cluster calibration</tu>
+	<tu xmlns:lang="nld">Kalibratie van instrumentengroep</tu>
+	<tu xmlns:lang="fra">Etalonnage du tableau de bord</tu>
+	<tu xmlns:lang="deu">Instrumentengruppe - Kalibrierung</tu>
+	<tu xmlns:lang="ita">Taratura gruppo strumenti</tu>
+	<tu xmlns:lang="jpn">インストルメント クラスタのキャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem do grupo de instrumentos</tu>
+	<tu xmlns:lang="ptb">Calibração do conjunto do painel de instrumentos</tu>
+	<tu xmlns:lang="rus">Калибровка панели приборов</tu>
+	<tu xmlns:lang="esp">Calibración del cuadro de instrumentos</tu>
+	<tu xmlns:lang="chs">组合仪表校准</tu>
+	<tu xmlns:lang="kor">계기판 보정</tu>
+</tm>

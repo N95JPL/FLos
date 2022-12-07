@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TICK_SET_IDLE_SPEED">
+	<tu xmlns:lang="eng">Press tick to adjust idle speed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op de afvinktoets om het stationaire toerental te veranderen.</tu>
+	<tu xmlns:lang="fra">Appuyez sur la coche pour régler le régime de ralenti.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zum Einstellen der Leerlaufdrehzahl das Häkchen antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il tasto di spunta per regolare il regime di minimo.</tu>
+	<tu xmlns:lang="jpn">ティックを押してアイドル スピードを調整しなさい。</tu>
+	<tu xmlns:lang="ptg">Sensor de Hall (posição do assento)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione OK para ajustar a velocidade de marcha lenta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите на галочку для регулировки частоты вращения двигателя в режиме холостого хода.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de continuar para ajustar el régimen de ralentí.</tu>
+	<tu xmlns:lang="chs">按勾号调节怠速。</tu>
+	<tu xmlns:lang="kor">체크 표시를 눌러 공회전 속도를 조정하십시오.</tu>
+</tm>

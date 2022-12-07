@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_04">
+	<tu xmlns:lang="eng">0x04 : Pilot Correction learning was completed at a previous key cycle, but has not been requested this key cycle.</tu>
+	<tu xmlns:lang="nld">0x04 : het inleren van de pilot-correctie werd bij een eerdere sleutelcyclus volledig uitgevoerd, maar het systeem heeft er voor de huidige sleutelcyclus niet om gevraagd.</tu>
+	<tu xmlns:lang="fra">0x04 : L'apprentissage de la correction pilote a été terminé au cours d'un cycle de clé précédent, mais n'a pas été demandé pour le cycle de clé en cours.</tu>
+	<tu xmlns:lang="deu">0x04 : Lernverfahren Voreinspritzungskorrektur wurde bei einem früheren Einschaltzyklus der Zündung abgeschlossen, beim aktuellen Einschaltzyklus jedoch nicht angefordert.</tu>
+	<tu xmlns:lang="ita">0x04 : l'apprendimento correzione pilota è stato completato durante un precedente ciclo chiave, ma non è stato richiesto in questo ciclo chiave.</tu>
+	<tu xmlns:lang="jpn">0x04 : パイロット補正学習が前回のキー サイクルで完了したが、今回のキー サイクルでは要求されていない。</tu>
+	<tu xmlns:lang="ptg">0x04 : A programação da correcção piloto foi concluída num ciclo de ignição anterior, mas não foi pedida neste ciclo de ignição.</tu>
+	<tu xmlns:lang="ptb">0X04 : aprendizagem de correção do piloto foi concluída em um ciclo de chave anterior, mas não foi solicitado este ciclo de ativação da chave.</tu>
+	<tu xmlns:lang="rus">0x04 : Процедура сохранения значений контрольной корректировки выполнялась во время предыдущего цикла включения зажигания, но не вызывалась в этом цикле.</tu>
+	<tu xmlns:lang="esp">0x04: El aprendizaje de corrección piloto se realizó en un ciclo de encendido anterior pero no ha sido solicitado durante este ciclo de encendido.</tu>
+	<tu xmlns:lang="chs">0x04： 试验性校正记忆程序在前一开匙循环中已完成，但在本开匙循环中没有请求运行。</tu>
+	<tu xmlns:lang="kor">0x04 : 파일럿 보정 학습이 이전 키 사이클에서 완료되었지만, 이 키 사이클은 요청된 적이 없습니다.</tu>
+</tm>

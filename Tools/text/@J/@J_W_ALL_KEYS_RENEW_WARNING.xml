@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_W_ALL_KEYS_RENEW_WARNING">
+	<tu
+    xmlns:lang="eng"
+  >All keys will have to be renewed if communications with the original instrument cluster is not possible.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U zult alle sleutels moeten vervangen wanneer er geen communicatie met de oorspronkelijke instrumentengroep mogelijk is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Toutes les clés devront être remplacées si la communication avec le tableau de bord d'origine n'est pas possible.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle Schlüssel müssen erneuert werden, wenn eine Kommunikation mit dem Original-Kombiinstrument nicht möglich ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se è impossibile comunicare con il gruppo strumenti originale, si dovranno sostituire tutte le chiavi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >元のインストルメント クラスタとの通信が不可能\な場合、全キーを交換する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todas as chaves terão de ser substituídas se não for possível estabelecer comunicação com o grupo de instrumentos original.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todas as chaves precisarão ser renovadas se as comunicações com o painel de instrumentos original não for possível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Необходимо заменить все ключи, если связь с оригинальной панелью приборов невозможна.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la comunicación con el cuadro de instrumentos original no es posible, habrá que sustituir todas las llaves.</tu>
+	<tu xmlns:lang="chs">如果不能与原组合仪表进行通讯，则必须更新所有钥匙。</tu>
+	<tu
+    xmlns:lang="kor"
+  >원래 계기판과 통신할 수 없는 경우 모든 키를 교체해야 합니다.</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@REFER_TO_SERVICE_BULLETIN">
+	<tu xmlns:lang="eng">Please reference the associated Service Bulletin.</tu>
+	<tu xmlns:lang="nld">Raadpleeg a.u.b. het bijbehorende technische bulletin.</tu>
+	<tu xmlns:lang="fra">Veuillez vous reporter au bulletin de service associé.</tu>
+	<tu xmlns:lang="deu">Bitte auf entsprechendes Servicebulletin Bezug nehmen.</tu>
+	<tu xmlns:lang="ita">Consultare il relativo bollettino di servizio.</tu>
+	<tu xmlns:lang="jpn">関連サービス ブリティンを参照しなさい。</tu>
+	<tu xmlns:lang="ptg">Consulte o Boletim de Serviço correspondente.</tu>
+	<tu xmlns:lang="ptb">Consulte o Boletim de Serviço associado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >См. соответствующий бюллетень по техническому обслуживанию.</tu>
+	<tu xmlns:lang="esp">Consultar el boletín de servicio asociado.</tu>
+	<tu xmlns:lang="chs">请参阅相关维修公告。</tu>
+	<tu xmlns:lang="kor">관련 서비스 게시판을 참조하십시오.</tu>
+</tm>

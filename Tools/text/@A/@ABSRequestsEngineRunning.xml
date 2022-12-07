@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ABSRequestsEngineRunning">
+	<tu xmlns:lang="eng">The ABS requests engine running.</tu>
+	<tu xmlns:lang="nld">Het ABS vraagt om draaiende motor.</tu>
+	<tu xmlns:lang="fra">La commande ABS requiert que le moteur soit en marche.</tu>
+	<tu xmlns:lang="deu">ABS fordert Motorlauf an.</tu>
+	<tu xmlns:lang="ita">L'ABS richiede il motore in funzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ABS が作動するためには、エンジンがかかっている必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema de travagem antibloqueio (ABS) requer o funcionamento do motor.</tu>
+	<tu xmlns:lang="ptb">O ABS necessita que o motor esteja em funcionamento.</tu>
+	<tu xmlns:lang="rus">Для работы ABS двигатель должен работать.</tu>
+	<tu xmlns:lang="esp">El ABS solicita que el motor esté en marcha.</tu>
+	<tu xmlns:lang="chs">ABS 请求发动机运转。</tu>
+	<tu xmlns:lang="kor">ABS에서 엔진 작동을 요청합니다.</tu>
+</tm>

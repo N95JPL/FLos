@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CHK_BRAKE_CABLES_ATTACHED">
+	<tu
+    xmlns:lang="eng"
+  >Please check that the brake cables are correctly attached.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer dat de remkabels op de juiste manier bevestigd zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez contrôler que les câbles de frein sont correctement rattachés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte prüfen, ob die Bremsseilzüge korrekt befestigt sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che i cavi dei freni siano collegati correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ブレーキ ケーブルが正しく取り付けられているかチェックしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que os cabos dos travões estão bem montados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se os cabos dos freios estão corretamente conectados.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что кабели тормоза подсоединены правильно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que los cables de freno estén correctamente fijados.</tu>
+	<tu xmlns:lang="chs">请检查确保制动器电缆连接正确。</tu>
+	<tu xmlns:lang="kor">브레이크 케이블이 올바로 연결되어 있는지 점검하십시오.</tu>
+</tm>

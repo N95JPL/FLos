@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_STATUS_TEST_COMP">
+	<tu xmlns:lang="eng">Test complete</tu>
+	<tu xmlns:lang="nld">Test voltooid</tu>
+	<tu xmlns:lang="fra">Contrôle terminé</tu>
+	<tu xmlns:lang="deu">Prüfung vollständig</tu>
+	<tu xmlns:lang="ita">Prova completata</tu>
+	<tu xmlns:lang="jpn">テスト完了</tu>
+	<tu xmlns:lang="ptg">Teste concluído</tu>
+	<tu xmlns:lang="ptb">Teste concluído</tu>
+	<tu xmlns:lang="rus">Проверка завершена</tu>
+	<tu xmlns:lang="esp">Prueba realizada</tu>
+	<tu xmlns:lang="chs">测试完成</tu>
+	<tu xmlns:lang="kor">테스트 완료</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DTC_B1B85">
+	<tu xmlns:lang="eng">Memory control module.</tu>
+	<tu xmlns:lang="nld">Geheugenregelmodule.</tu>
+	<tu xmlns:lang="fra">Module de commande de mémoire.</tu>
+	<tu xmlns:lang="deu">Speichersteuermodul.</tu>
+	<tu xmlns:lang="ita">Modulo comando memoria.</tu>
+	<tu xmlns:lang="jpn">メモリ コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando da memória.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle com memória.</tu>
+	<tu xmlns:lang="rus">Блок управления памятью.</tu>
+	<tu xmlns:lang="esp">Módulo de control de memoria.</tu>
+	<tu xmlns:lang="chs">记忆控制模块。</tu>
+	<tu xmlns:lang="kor">메모리 컨트롤 모듈</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_FOLL_INST_VEH_CONF">
+	<tu
+    xmlns:lang="eng"
+  >Follow the on screen instructions and navigate to 'vehicle configuration' and select 'code vehicle', to complete the control module coding.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Volg de aanwijzingen op het scherm op, ga naar 'vehicle configuration' (voertuigconfiguratie) en kies 'code vehicle' (voertuig coderen) om het coderen van de regelmodule af te ronden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Suivez les instructions à l'écran et naviguez vers 'vehicle configuration' (configuration du véhicule), puis sélectionnez 'code vehicle' (coder le véhicule) pour effectuer le codage du module de commande.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den Bildschirmanleitungen folgen, zur 'Vehicle configuration' (Fahrzeugkonfiguration) navigieren und 'Code vehicle' (Fahrzeugcodierung) auswählen, um die Steuergeräte-Codierung zu beenden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Seguire le istruzioni visualizzate sullo schermo e passare a 'vehicle configuration' (configurazione veicolo), quindi selezionare 'code vehicle' (codifica veicolo) per completare la codifica del modulo di comando.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >画面の指示に従い「vehicle configuration (車両のコンフィギュレーション)」を開いて「code vehicle (車両のコーディング)」を選択し、コントロール モジュールのコーディングを完了しなさい。</tu>
+	<tu xmlns:lang="ptg">Os dados estão correctos?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Siga as instruções na tela e navegue até configuração do veículo e selecione código do veículo', para completar a codificação do módulo de controle.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следуйте инструкциям на экране и перейдите к 'конфигурации автомобиля', затем выберите 'установление кодов автомобиля' для завершения кодирования блока управления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seguir las instrucciones en pantalla, ir a 'Vehicle configuration' (configuración del vehículo) y seleccionar la función 'Code vehicle' (codificación del vehículo) para codificar el módulo de control.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'遵循屏显指示，浏览至'车辆配置'并选择'对车辆进行编码'，以完成控制模块的编码设置。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >화면의 지침에 따라 '차량 구성'을 탐색하고 '차량 코딩'을 선택하여 컨트롤 모듈 코딩을 완료하십시오.</tu>
+</tm>

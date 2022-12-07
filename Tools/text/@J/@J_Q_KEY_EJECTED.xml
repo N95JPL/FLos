@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_KEY_EJECTED">
+	<tu
+    xmlns:lang="eng"
+  >If the key inserted into the starter control unit has been ejected from the starter control unit slot, this indicates that the current key is either not programmed or disabled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de in de startmotorregeleenheid gestoken sleutel uit de sleuf wordt geworpen, geeft dit aan dat de huidige sleutel niet is geprogrammeerd of is gedeactiveerd</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la clé insérée dans le module de commande de démarrage a été éjectée de la fente du module, cela indique que la clé actuelle est soit non programmée, soit désactivée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wurde der in die Startsteuereinheit eingesteckte Schlüssel aus dem Schlitz der Startsteuereinheit ausgeworfen, verweist dies darauf, dass der aktuelle Schlüssel entweder nicht programmiert oder deaktiviert ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la chiave inserita nell'unità di comando avviamento è stata espulsa dalla fessura della rispettiva unità, ciò indica che la chiave corrente non è programmata oppure è disabilitata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スターター コントロール ユニットへキーを入れてもスロットからイジェクトされる場合、これはそのキーがプログラムされていないか、あるいは作動不可設定されていることを示します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A chave introduzida na unidade de controlo do motor de arranque foi ejectada da ranhura, indicando que a chave actual não está programada ou está desactivada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a chave inserida na unidade de controle de partida foi ejetada do slot unidade de controle de partida, isso indica que a chave inserida no momento não foi programada ou está desativada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если вставленный в блок управления стартером ключ был вытолкнут из гнезда блока, значит данный ключ не запрограммирован или заблокирован.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la llave insertada en el módulo de control de arranque ha sido expulsada de la ranura, significa que la llave actual no se ha programado o está desactivada.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果插入起动机控制单元的钥匙从起动机控制单元插槽中弹出，则表明当前钥匙未编程或被禁用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스타터 컨트롤 유닛에 삽입된 키가 스타터 컨트롤 유닛 슬롯에서 배출된 경우, 이는 현재 키가 프로그래밍되지 않았거나 비활성화된 상태임을 나타냅니다.</tu>
+</tm>

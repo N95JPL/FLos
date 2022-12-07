@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WITH_MEM">
+	<tu xmlns:lang="eng">With memory</tu>
+	<tu xmlns:lang="nld">Met geheugen</tu>
+	<tu xmlns:lang="fra">Avec mémoire</tu>
+	<tu xmlns:lang="deu">Mit Speicher</tu>
+	<tu xmlns:lang="ita">Con memoria</tu>
+	<tu xmlns:lang="jpn">メモリ付き</tu>
+	<tu xmlns:lang="ptg">Com memória</tu>
+	<tu xmlns:lang="ptb">Com memória</tu>
+	<tu xmlns:lang="rus">С памятью</tu>
+	<tu xmlns:lang="esp">Con memoria</tu>
+	<tu xmlns:lang="chs">带存储器</tu>
+	<tu xmlns:lang="kor">메모리 있음</tu>
+</tm>

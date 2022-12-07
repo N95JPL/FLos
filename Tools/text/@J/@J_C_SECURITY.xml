@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_SECURITY">
+	<tu xmlns:lang="eng">Security</tu>
+	<tu xmlns:lang="nld">Beveiliging</tu>
+	<tu xmlns:lang="fra">Sécurité</tu>
+	<tu xmlns:lang="deu">Sicherheit</tu>
+	<tu xmlns:lang="ita">Allarme antifurto</tu>
+	<tu xmlns:lang="jpn">ｾｷｭﾘﾃｨ</tu>
+	<tu xmlns:lang="ptg">Segurança</tu>
+	<tu xmlns:lang="ptb">Segurança</tu>
+	<tu xmlns:lang="rus">Охранная система</tu>
+	<tu xmlns:lang="esp">Seguridad</tu>
+	<tu xmlns:lang="chs">安全</tu>
+	<tu xmlns:lang="kor">보안</tu>
+</tm>

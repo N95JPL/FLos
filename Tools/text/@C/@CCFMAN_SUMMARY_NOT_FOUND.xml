@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_SUMMARY_NOT_FOUND">
+	<tu
+    xmlns:lang="eng"
+  >Car configuration summary file not found, no file generated yet.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voertuigconfiguratieoverzichtbestand niet gevonden, nog geen bestand aangemaakt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fichier du résumé de la configuration du véhicule introuvable, aucun fichier créé pour le moment.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zusammenfassungsdatei der Fahrzeugkonfiguration nicht gefunden, bislang noch keine Datei erstellt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >File del sommario configurazione veicolo non trovato, non è stato ancora generato alcun file.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション概要ファイルが見つかりません - ファイルがまだ生成されていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ficheiro de resumo da configuração do veículo não encontrado; nenhum ficheiro gerado ainda.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Arquivo de resumo da configuração do carro não encontrado, nenhum arquivo foi gerado ainda.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сводные данные о конфигурации автомобиля не найдены, файл пока не создан.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se encontró el archivo del resumen de la configuración del vehículo; no se ha generado aún el archivo.</tu>
+	<tu xmlns:lang="chs">未找到车辆配置概要文件，还没有生成任何文件。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 구성 요약 파일을 찾을 수 없고, 아직 생성된 파일이 없습니다.</tu>
+</tm>

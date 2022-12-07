@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart214">
+	<tu
+    xmlns:lang="eng"
+  >If the status does not change investigate the appropriate clutch pedal position sensor and check for engine control module associated DTCs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de status niet verandert de betreffende koppelingsstandsensor onderzoeken en controleren op DTC's met betrekking tot de motorregelmodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'il n'y a pas de changement d'état, recherchez le capteur de position de la pédale d'embrayage et recherchez les DTC associés au module de commande du moteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn der Status sich nicht ändert, den entsprechenden Kupplungspedalstellungssensor untersuchen und auf DTCs im Zusammenhang mit dem Motorsteuergerät prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se lo stato non cambia, esaminare il sensore di posizione pedale frizione adeguato e controllare la presenza di DTC associati al modulo di comando motore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステータスが変化しない場合、該当するクラッチ ペダル ポジション センサを調査し、エンジン コントロール モジュールに関連する DTC がないか確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o estado não se alterar, inspecione o sensor de posição do pedal da embraiagem adequado e verifique se existem DTC associados ao módulo de controlo do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o estado não se alterar, investigue o sensor de posição do pedal da embreagem apropriado e verifique se há DTCs associados ao módulo de controle do motor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если состояние не изменяется, проверьте соответствующий датчик положения педали сцепления и наличие кодов DTC, относящихся к блоку управления двигателем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el estado no cambia, revise si el sensor de posición del pedal de embrague se encuentra en la posición adecuada y compruebe si hay DTC asociados con el módulo de control del motor.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果状态不变化，则调查相应的离合器踏板位置传感器，并检查是否存在与发动机控制模块相关的 DTC。</tu>
+	<tu
+    xmlns:lang="kor"
+  >상태가 바뀌지 않으면 해당 클러치 페달 위치 센서를 조사하고 엔진 컨트롤 모듈과 관련된 DTC가 있는지 확인하십시오.</tu>
+</tm>

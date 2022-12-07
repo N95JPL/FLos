@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SPARE_SLOTS">
+	<tu xmlns:lang="eng">Number of spare slots</tu>
+	<tu xmlns:lang="nld">Aantal reserveplaatsen</tu>
+	<tu xmlns:lang="fra">Nombre d'emplacements disponibles</tu>
+	<tu xmlns:lang="deu">Anzahl freier Plätze</tu>
+	<tu xmlns:lang="ita">Numero di slot disponibili</tu>
+	<tu xmlns:lang="jpn">スペア スロットの数</tu>
+	<tu xmlns:lang="ptg">Número de ranhuras sobresselentes</tu>
+	<tu xmlns:lang="ptb">Número de slots de reserva</tu>
+	<tu xmlns:lang="rus">Количество свободных разъемов</tu>
+	<tu xmlns:lang="esp">Número de ranuras libres</tu>
+	<tu xmlns:lang="chs">备用插槽数量</tu>
+	<tu xmlns:lang="kor">스페어 슬롯의 수</tu>
+</tm>

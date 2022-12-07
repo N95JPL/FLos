@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@POLICE_MAIN_BEAM_FLASH">
+	<tu xmlns:lang="eng">Police vehicle - high beam flash pattern</tu>
+	<tu xmlns:lang="nld">Politievoertuig - flitspatroon van grootlicht</tu>
+	<tu
+    xmlns:lang="fra"
+  >Véhicule de police - schéma de clignotement des feux de route.</tu>
+	<tu xmlns:lang="deu">Polizeifahrzeug - Blinkmuster Fernlicht</tu>
+	<tu xmlns:lang="ita">Veicolo polizia - lampeggio fari abbaglianti</tu>
+	<tu xmlns:lang="jpn">警察車両 - ハイビーム フラッシュ パターン</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Veículo de polícia - padrão de programação 'flash' dos faróis de máximos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Veículo policial - padrão de lampejamento do farol alto</tu>
+	<tu
+    xmlns:lang="rus"
+  >Полицейский автомобиль - режим мигания дальнего света фар</tu>
+	<tu xmlns:lang="esp">Vehículo policial: secuencia de destellos de luz larga</tu>
+	<tu xmlns:lang="chs">警车 - 远光灯闪烁模式</tu>
+	<tu xmlns:lang="kor">경찰차 - 하이 빔 깜박임 패턴</tu>
+</tm>

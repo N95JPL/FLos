@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@3rdPressRelHaz$M">
+	<tu
+    xmlns:lang="eng"
+  >With the 3rd button still depressed, press and release the hazard switch.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk terwijl u de derde toets nog steeds ingedrukt houdt, de alarmknipperlichtschakelaar even in.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sans relâcher le 3ème bouton, appuyez brièvement sur l'interrupteur de feux de détresse.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei immer noch gedrückter 3. Taste den Warnblinkanlagenschalter drücken und loslassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Con il terzo pulsante sempre premuto, premere e rilasciare l'interruttore degli indicatori di emergenza. </tu>
+	<tu
+    xmlns:lang="jpn"
+  >第 3 ボタンを押したまま、ハザード スイッチを押して離しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Com o terceiro botão ainda premido, prima e solte o botão de emergência.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Com o terceiro botão ainda pressionado, pressione e solte o interruptor do pisca-alerta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Продолжая удерживать кнопку, нажать и отпустить выключатель аварийной сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Estando aún pulsado el tercer botón, pulsar y soltar el interruptor de luces de emergencia.</tu>
+	<tu xmlns:lang="chs">'在第 3按钮按下的同时，按下并释放危险开关。’</tu>
+	<tu
+    xmlns:lang="kor"
+  >세 번째 버튼을 누른 상태에서 비상등 스위치를 눌렀다 놓으십시오.</tu>
+</tm>

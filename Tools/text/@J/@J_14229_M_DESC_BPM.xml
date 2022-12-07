@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_BPM">
+	<tu
+    xmlns:lang="eng"
+  >Cellular telephone control module (bluetooth telephone module)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Regelmodule van mobiele telefoon (bluetooth telefoon-module)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de commande de téléphone cellulaire (module de téléphone Bluetooth)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mobiltelefon-Steuergerät (Bluetooth-Telefonsteuergerät)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo comando telefono cellulare (modulo telefono Bluetooth)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >携帯電話コントロール モジュール (Bluetooth テレホン モジュール)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo de comando do telemóvel (módulo do telemóvel com Bluetooth)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo de controle de telefone celular (módulo de telefone bluetooth)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок управления сотовым телефоном (блок телефона bluetooth)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control del teléfono móvil (módulo de teléfono Bluetooth)</tu>
+	<tu xmlns:lang="chs">蜂窝电话控制模块（蓝牙电话模块）</tu>
+	<tu xmlns:lang="kor">휴대폰 컨트롤 모듈(블루투스 전화 모듈)</tu>
+</tm>

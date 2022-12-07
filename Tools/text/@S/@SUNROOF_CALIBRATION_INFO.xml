@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SUNROOF_CALIBRATION_INFO">
+	<tu
+    xmlns:lang="eng"
+  >The following procedure will drive the roof opening panel through a calibration run. Be aware that the roof opening panel will move during the routine.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met de volgende procedure kunt u het zonnedak een kalibreringscyclus laten doorlopen. Wij maken u erop attent dat het zonnedak tijdens de routine zal bewegen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure suivante va piloter le toit ouvrant pour une opération de calibrage. Attention, le toit ouvrant va bouger pendant le programme.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dem folgenden Verfahren wird das Schiebedach durch einen Kalibrierungslauf verfahren. Beachten, dass sich bei diesem Verfahren das Schiebedach bewegt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La seguente procedura condurrà il pannello apertura tetto attraverso un ciclo di taratura. Il pannello apertura tetto si sposterà durante la procedura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の手順で、キャリブレーションの実行に伴ってルーフ オープニング パネルが駆動されます。ルーチン中にルーフ オープニング パネルが動くことに注意しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O procedimento seguinte realiza a calibragem do tecto de abrir. Atenção que o tecto de abrir se irá mover durante a rotina.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O procedimento a seguir realizará uma calibração da abertura do painel. O painel de abertura do teto solar irá se movimentar durante a rotina.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующая процедура предназначена для калибровки открывающейся панели крыши. Имейте в виду, что при выполнении этой процедуры открывающаяся панель крыши будет перемещаться.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El siguiente procedimiento acciona el techo solar para calibrarlo. Hay que tener en cuenta que el techo solar se desplazará durante esta rutina.</tu>
+	<tu
+    xmlns:lang="chs"
+  >下列程序将驱使顶篷开启面板运行一个标定程序。 请注意：本常规程序执行过程中，顶篷开启面板将升起。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 절차에서는 보정 실행을 통해 루프 개방 패널을 구동합니다. 이 루틴 중에 루프 개방 패널이 움직인다는 점에 유의하십시오.</tu>
+</tm>

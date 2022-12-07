@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ACRO_NAV">
+	<tu xmlns:lang="eng">NCM</tu>
+	<tu xmlns:lang="nld">NCM</tu>
+	<tu xmlns:lang="fra">NCM</tu>
+	<tu xmlns:lang="deu">NCM</tu>
+	<tu xmlns:lang="ita">NCM</tu>
+	<tu xmlns:lang="jpn">NCM</tu>
+	<tu xmlns:lang="ptg">NCM</tu>
+	<tu xmlns:lang="ptb">NCM</tu>
+	<tu xmlns:lang="rus">NCM</tu>
+	<tu xmlns:lang="esp">NCM</tu>
+	<tu xmlns:lang="chs">NCM</tu>
+	<tu xmlns:lang="kor">NCM</tu>
+</tm>

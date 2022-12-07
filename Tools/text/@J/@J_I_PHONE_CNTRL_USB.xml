@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PHONE_CNTRL_USB">
+	<tu
+    xmlns:lang="eng"
+  >Bluetooth/voice control phone interface plus USB connection</tu>
+	<tu
+    xmlns:lang="nld"
+  >Telefooninterface voor Bluetooth/spraakactivering plus USB-aansluiting</tu>
+	<tu
+    xmlns:lang="fra"
+  >Interface téléphone à commande vocale/Bluetooth plus connexion USB</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bluetooth/sprachgesteuerte Telefonschnittstelle plus USB-Anschluss</tu>
+	<tu
+    xmlns:lang="ita"
+  >Interfaccia Bluetooth/telefono viva voce più connessione USB</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ブルートゥース／音声コントロール テレホン インターフェース + USB 接続</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Interface do telefone de Bluetooth/comando de voz e ligação USB</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Interface de telefone de controle via Bluetooth / por voz mais conexão USB</tu>
+	<tu
+    xmlns:lang="rus"
+  >Bluetooth/интерфейс голосового управления телефоном плюс разъем USB</tu>
+	<tu
+    xmlns:lang="esp"
+  >Interfaz de teléfono con activación por voz/Bluetooth más conexión USB</tu>
+	<tu xmlns:lang="chs">蓝牙／语音控制电话接口与 USB 连接</tu>
+	<tu xmlns:lang="kor">블루투스/음성 컨트롤 전화 인터페이스  USB 연결</tu>
+</tm>

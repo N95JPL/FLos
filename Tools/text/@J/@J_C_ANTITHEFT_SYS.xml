@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ANTITHEFT_SYS">
+	<tu xmlns:lang="eng">Electronic feature group</tu>
+	<tu xmlns:lang="nld">Elektronische voorzieningen groep</tu>
+	<tu xmlns:lang="fra">Groupe de fonctions electroniques</tu>
+	<tu xmlns:lang="deu">Elektronische funktionsgruppe</tu>
+	<tu xmlns:lang="ita">Gruppo funzioni elettroniche</tu>
+	<tu xmlns:lang="jpn">エレクトロニック機能\グループ</tu>
+	<tu xmlns:lang="ptg">Grupo de funções electrónicas</tu>
+	<tu xmlns:lang="ptb">Grupo de recursos eletrônicos</tu>
+	<tu xmlns:lang="rus">Группа электронных функций</tu>
+	<tu xmlns:lang="esp">Grupo de características electrónicas</tu>
+	<tu xmlns:lang="chs">电子功能组</tu>
+	<tu xmlns:lang="kor">전자식 특성 그룹</tu>
+</tm>

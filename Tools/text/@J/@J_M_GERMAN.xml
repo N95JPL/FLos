@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_GERMAN">
+	<tu xmlns:lang="eng">German</tu>
+	<tu xmlns:lang="nld">Duits</tu>
+	<tu xmlns:lang="fra">Allemand</tu>
+	<tu xmlns:lang="deu">Deutsch</tu>
+	<tu xmlns:lang="ita">Tedesco</tu>
+	<tu xmlns:lang="jpn">ドイツ語</tu>
+	<tu xmlns:lang="ptg">Alemão</tu>
+	<tu xmlns:lang="ptb">Alemão</tu>
+	<tu xmlns:lang="rus">Немецкий</tu>
+	<tu xmlns:lang="esp">Alemán</tu>
+	<tu xmlns:lang="chs">德语</tu>
+	<tu xmlns:lang="kor">독일어</tu>
+</tm>

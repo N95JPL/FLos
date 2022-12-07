@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_03">
+	<tu xmlns:lang="eng">0x03 : Pilot correction learning has never been completed.</tu>
+	<tu xmlns:lang="nld">0x03 : het systeem heeft het inleren van de pilot-correctie nooit volledig uitgevoerd.</tu>
+	<tu xmlns:lang="fra">0x03 : L'apprentissage de la correction pilote n'a jamais été terminé.</tu>
+	<tu xmlns:lang="deu">0x03 : Lernverfahren Voreinspritzungskorrektur wurde nie abgeschlossen.</tu>
+	<tu xmlns:lang="ita">0x03 : l'apprendimento correzione pilota non è mai stato completato.</tu>
+	<tu xmlns:lang="jpn">0x03 : パイロット補正学習が完了したことはない。</tu>
+	<tu xmlns:lang="ptg">0x03 : A programação da correcção piloto nunca foi concluída.</tu>
+	<tu xmlns:lang="ptb">0X03 : aprendizagem de correção do piloto nunca foi concluída.</tu>
+	<tu xmlns:lang="rus">0x03 : Сохранение значений контрольной корректировки прежде не выполнялось до конца.</tu>
+	<tu xmlns:lang="esp">0x03: No se ha completado nunca el aprendizaje de corrección piloto.</tu>
+	<tu xmlns:lang="chs">0x03： 试验性校正记忆程序从未完成。</tu>
+	<tu xmlns:lang="kor">0x03 : 파일럿 보정 학습이 완료된 적이 없습니다.</tu>
+</tm>

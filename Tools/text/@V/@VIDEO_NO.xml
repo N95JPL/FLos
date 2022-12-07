@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VIDEO_NO">
+	<tu xmlns:lang="eng">No video</tu>
+	<tu xmlns:lang="nld">Geen video.</tu>
+	<tu xmlns:lang="fra">Pas de vidéo.</tu>
+	<tu xmlns:lang="deu">Kein Video</tu>
+	<tu xmlns:lang="ita">Nessun video</tu>
+	<tu xmlns:lang="jpn">ビデオなし</tu>
+	<tu xmlns:lang="ptg">Sem vídeo</tu>
+	<tu xmlns:lang="ptb">Sem vídeo</tu>
+	<tu xmlns:lang="rus">Видеосистема отсутствует</tu>
+	<tu xmlns:lang="esp">Sin vídeo</tu>
+	<tu xmlns:lang="chs">无视频</tu>
+	<tu xmlns:lang="kor">비디오 없음</tu>
+</tm>

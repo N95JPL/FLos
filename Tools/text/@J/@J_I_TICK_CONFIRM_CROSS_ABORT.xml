@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TICK_CONFIRM_CROSS_ABORT">
+	<tu xmlns:lang="eng">Press the tick to confirm selection or cross to abort.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op het vinkje om de keuze te bevestigen of op het kruisje om te annuleren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la coche pour confirmer la sélection, ou sur la croix pour abandonner.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zur Bestätigung der Auswahl das Häkchen antippen, zum Abbrechen das Kreuz.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il segno di spunta per confermare la selezione o la crocetta per interrompere.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ティックを押して選択を確認するか、あるいは×を押して終了しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Premir o sinal de visto para confirmar a selecção ou a cruz para cancelar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione a marca para confirmar a seleção ou cruze para abortar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите на 'галочку' для подтверждения выбора или на 'крест' для прекращения процедуры.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar la marca de verificación para confirmar la selección o la cruz para cancelarla.</tu>
+	<tu xmlns:lang="chs">按勾选键确认选择或按叉键取消。</tu>
+	<tu
+    xmlns:lang="kor"
+  >선택을 확인하려면 체크 표시를 누르고 중단하려면 십자 기호를 누르십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TestCancelled$">
+	<tu xmlns:lang="eng">Test cancelled by user</tu>
+	<tu xmlns:lang="nld">Test geannuleerd door gebruiker</tu>
+	<tu xmlns:lang="fra">Test annulé par l'utilisateur</tu>
+	<tu xmlns:lang="deu">Test vom Benutzer abgebrochen.</tu>
+	<tu xmlns:lang="ita">Prova cancellata dall'utente</tu>
+	<tu xmlns:lang="jpn">テストはユーザーによってキャンセルされました。</tu>
+	<tu xmlns:lang="ptg">Teste cancelado pelo utilizador</tu>
+	<tu xmlns:lang="ptb">Teste cancelado pelo usuário</tu>
+	<tu xmlns:lang="rus">Проверка прервана пользователем</tu>
+	<tu xmlns:lang="esp">Prueba cancelada por el usuario</tu>
+	<tu xmlns:lang="chs">测试被用户取消</tu>
+	<tu xmlns:lang="kor">사용자가 테스트를 취소함</tu>
+</tm>

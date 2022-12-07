@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WaitLo$I">
+	<tu xmlns:lang="eng">Wait until low range is displayed.</tu>
+	<tu xmlns:lang="nld">Wacht totdat het lage bereik op het scherm staat.</tu>
+	<tu xmlns:lang="fra">Attendez que la gamme basse soit affichée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Abwarten, bis der niedrige Übersetzungsbereich angezeigt wird.</tu>
+	<tu xmlns:lang="ita">Attendere che venga visualizzata la gamma bassa.</tu>
+	<tu xmlns:lang="jpn">ロー レンジが表\示されるまで待ちなさい。</tu>
+	<tu xmlns:lang="ptg">Espere até a gama baixa ser visualizada.</tu>
+	<tu xmlns:lang="ptb">Aguarde até que o intervalo baixo seja exibido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подождите, пока отобразится диапазон низших передаточных чисел.</tu>
+	<tu xmlns:lang="esp">Esperar hasta que aparezca una marcha corta.</tu>
+	<tu xmlns:lang="chs">等待直至显示了低档范围。</tu>
+	<tu xmlns:lang="kor">로우 레인지가 표시될 때까지 기다리십시오.</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PRESS_TICK_COMP_OR_CROSS_AB">
+	<tu xmlns:lang="eng">Press tick when complete or cross to abort.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tip het vinkje aan als het is voltooid. Tip het kruisje aan om het voortijdig af te breken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la coche une fois terminé, ou sur le 'x' pour abandonner.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss das Häkchen antippen, zum Abbrechen das Kreuz.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta completata l'operazione, premere il tasto di spunta oppure il tasto con la crocetta per abbandonare l'operazione.</tu>
+	<tu xmlns:lang="jpn">完了時にはティックを、中断するには×を押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima o botão com o sinal de visto quando concluído ou o botão com uma cruz para cancelar.</tu>
+	<tu xmlns:lang="ptb">Pressione OK quando terminar ou a cruz para cancelar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите на галочку, чтобы выполнить операцию, или на крест, чтобы прервать ее выполнение.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de continuar cuando se haya terminado, o la cruz para abandonar.</tu>
+	<tu xmlns:lang="chs">完成后按勾选键，或按叉键中止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >완료 시 체크 표시를 누르거나 중단하려면 십자 기호를 누르십시오.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VehicleEmtyDrsClose$M">
+	<tu
+    xmlns:lang="eng"
+  >Make sure nobody is in the vehicle and close all doors.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer of er niemand in het voertuig zit en sluit alle portieren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez qu'il n'y a personne dans le véhicule et fermez toutes les portes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass sich niemand im Fahrzeug befindet, und alle Türen schließen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che non vi siano persone nel veicolo e chiudere tutte le portiere.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車内に人が残っていないことを確認し、すべてのドアを閉じなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que não se encontra ninguém no veículo e feche todas as portas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que ninguém esteja no veículo e feche todas as portas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что в автомобиле никого нет, и закройте все двери.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que no haya nadie dentro del vehículo y cerrar todas las puertas.</tu>
+	<tu xmlns:lang="chs">确保车内无人，并关闭所有车门。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 안에 아무도 없는지 확인하고 모든 도어를 닫으십시오.</tu>
+</tm>

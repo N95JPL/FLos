@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_IS_DRI_DGLASS_CLOSED">
+	<tu xmlns:lang="eng">Is the driver's door window glass closed?</tu>
+	<tu xmlns:lang="nld">Is de ruit van het bestuurdersportier dicht?</tu>
+	<tu xmlns:lang="fra">La vitre de porte conducteur est-elle fermée ?</tu>
+	<tu xmlns:lang="deu">Ist die Türfensterscheibe - Fahrertür geschlossen?</tu>
+	<tu xmlns:lang="ita">Il finestrino del guidatore è chiuso?</tu>
+	<tu xmlns:lang="jpn">運転席側ドア ガラスは閉じていますか？</tu>
+	<tu xmlns:lang="ptg">O vidro da porta do condutor está fechado?</tu>
+	<tu xmlns:lang="ptb">O vidro da janela da porta do motorista está fechado?</tu>
+	<tu xmlns:lang="rus">Стекло двери водителя закрыто?</tu>
+	<tu xmlns:lang="esp">¿Está cerrada la ventanilla del conductor?</tu>
+	<tu xmlns:lang="chs">驾驶员一侧车门窗玻璃关闭了吗？</tu>
+	<tu xmlns:lang="kor">운전석 도어 윈도우 글라스가 닫힙니까?</tu>
+</tm>

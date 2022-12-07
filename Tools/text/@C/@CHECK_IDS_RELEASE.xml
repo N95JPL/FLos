@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CHECK_IDS_RELEASE">
+	<tu xmlns:lang="eng">Check SDD release</tu>
+	<tu xmlns:lang="nld">Controleer het versienummer van de toepassing.</tu>
+	<tu xmlns:lang="fra">Contrôlez la version SDD</tu>
+	<tu xmlns:lang="deu">SDD-Version prüfen</tu>
+	<tu xmlns:lang="ita">Controllare la versione SDD</tu>
+	<tu xmlns:lang="jpn">SDD リリースをチェックする</tu>
+	<tu xmlns:lang="ptg">Verificar a edição do SDD</tu>
+	<tu xmlns:lang="ptb">Verifique a liberação do SDD</tu>
+	<tu xmlns:lang="rus">Проверьте версию SDD</tu>
+	<tu xmlns:lang="esp">Compruebe la versión del SDD</tu>
+	<tu xmlns:lang="chs">检查 SDD 版本</tu>
+	<tu xmlns:lang="kor">SDD 릴리스 점검</tu>
+</tm>

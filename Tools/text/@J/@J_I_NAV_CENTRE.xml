@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NAV_CENTRE">
+	<tu xmlns:lang="eng">Navigation center.</tu>
+	<tu xmlns:lang="nld">Navigatiecentrum.</tu>
+	<tu xmlns:lang="fra">Centre de navigation.</tu>
+	<tu xmlns:lang="deu">Navigationszentrum.</tu>
+	<tu xmlns:lang="ita">Unità di navigazione.</tu>
+	<tu xmlns:lang="jpn">ナビゲーション センター</tu>
+	<tu xmlns:lang="ptg">Centro de navegação.</tu>
+	<tu xmlns:lang="ptb">Centro de navegação.</tu>
+	<tu xmlns:lang="rus">Навигационный центр.</tu>
+	<tu xmlns:lang="esp">Centro de navegación.</tu>
+	<tu xmlns:lang="chs">导航中心</tu>
+	<tu xmlns:lang="kor">내비게이션 센터</tu>
+</tm>

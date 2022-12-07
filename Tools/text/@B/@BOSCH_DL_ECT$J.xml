@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BOSCH_DL_ECT$J">
+	<tu xmlns:lang="eng">Item help not yet available.</tu>
+	<tu xmlns:lang="nld">Item help nog niet beschikbaar</tu>
+	<tu xmlns:lang="fra">Aide non disponible pour cette rubrique</tu>
+	<tu xmlns:lang="deu">Bauteil-Hilfe noch nicht verfügbar</tu>
+	<tu xmlns:lang="ita">Aiuto per questo articolo non ancora disponibile</tu>
+	<tu xmlns:lang="jpn">項目ﾍﾙﾌﾟはまだ使用できません。</tu>
+	<tu xmlns:lang="ptg">Ajuda para o item ainda não disponível.</tu>
+	<tu xmlns:lang="ptb">Ajuda do item ainda não disponível.</tu>
+	<tu xmlns:lang="rus">Справка по этой теме пока недоступна.</tu>
+	<tu xmlns:lang="esp">Punto de ayuda no disponible todavía</tu>
+	<tu xmlns:lang="chs">项目帮助尚不可用。</tu>
+	<tu xmlns:lang="kor">항목 도움말은 아직 사용할 수 없음</tu>
+</tm>

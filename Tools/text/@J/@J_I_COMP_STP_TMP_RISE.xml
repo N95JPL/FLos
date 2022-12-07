@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMP_STP_TMP_RISE">
+	<tu
+    xmlns:lang="eng"
+  >Note: The compressor will stop if the temperature rises above 150°C, and will need to be manually started again after the temperature falls below 120°C.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Opmerking: de compressor zal stoppen zodra de temperatuur boven de 150 graden Celsius stijgt en u zult hem daarna handmatig opnieuw moeten starten, nadat de temperatuur onder de 120 graden Celsius is gedaald.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Note : Le compresseur s'arrêtera si la température monte à plus de 150 degrés Celsius et devra être redémarré manuellement une fois la température retombée sous 120 degrés Celsius.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hinweis: Der Kompressor schaltet ab, wenn die Temperatur über 150 Grad Celsius ansteigt, und muss wieder von Hand gestartet werden, nachdem die Temperatur unter 120 Grad Celsius abgesunken ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nota: il compressore si arresta se la temperatura supera i 150° C ed è necessario riavviarlo manualmente dopo che la temperatura è scesa al di sotto di 120°C.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >注記：温度が摂氏 150 度以上に上昇するとコンプレッサは停止し、温度が摂氏 120 度以下に低下したのち手動で再作動を開始する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nota: O compressor pára sempre que a temperatura sobe acima dos 150 ºC e tem de ser novamente ligado manualmente depois de a temperatura descer abaixo dos 120 ºC.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Observação: o compressor parará se a temperatura atingir níveis superiores a 150°C, e precisará ser iniciada manualmente novamente após a temperatura atingir níveis inferiores a 120°C.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Примечание: если температура поднимется выше 150 градусов Цельсия, компрессор остановится, и после того, как температура упадет ниже 120 градусов Цельсия, его необходимо будет снова запустить вручную.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Nota: si la temperatura supera los 150 grados centígrados, el compresor se detiene y habrá que volver a ponerlo en marcha manualmente una vez que la temperatura se sitúe por debajo de los 120 grados centígrados.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'注：如果温度升高至150℃以上，压缩机将关闭，而且在温度下降至120℃以下后需手动重新起动。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >참고: 온도가 150°C를 넘으면 컴프레서가 멈춥니다. 온도가 120°C 아래로 떨어진 이후에 수동으로 다시 가동시켜야 합니다.</tu>
+</tm>

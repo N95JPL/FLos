@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ActRangeChangeLo$I">
+	<tu xmlns:lang="eng">Activate range change - low.</tu>
+	<tu xmlns:lang="nld">Wijzig het bereik in laag.</tu>
+	<tu xmlns:lang="fra">Activez le changement de gamme - basse.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Umschaltung des Übersetzungsbereichs aktivieren - niedrig.</tu>
+	<tu xmlns:lang="ita">Attivare il cambiamento di gamma - bassa.</tu>
+	<tu xmlns:lang="jpn">レンジ変更操作 － ロー</tu>
+	<tu xmlns:lang="ptg">Active a mudança de gama - baixa.</tu>
+	<tu xmlns:lang="ptb">Alteração do intervalo de ativação - baixo.</tu>
+	<tu xmlns:lang="rus">Включите изменение диапазона - низкий.</tu>
+	<tu xmlns:lang="esp">Activar el cambio de marchas cortas.</tu>
+	<tu xmlns:lang="chs">启动范围更改 - 过低。</tu>
+	<tu xmlns:lang="kor">레인지 전환 작동 - 로우</tu>
+</tm>

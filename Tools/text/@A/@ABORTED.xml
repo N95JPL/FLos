@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ABORTED">
+	<tu xmlns:lang="eng">Aborted</tu>
+	<tu xmlns:lang="nld">Afgebroken</tu>
+	<tu xmlns:lang="fra">Action interrompue</tu>
+	<tu xmlns:lang="deu">Abgebrochen</tu>
+	<tu xmlns:lang="ita">Interrotto</tu>
+	<tu xmlns:lang="jpn">中止されました</tu>
+	<tu xmlns:lang="ptg">Cancelado</tu>
+	<tu xmlns:lang="ptb">Anulado</tu>
+	<tu xmlns:lang="rus">Прервано</tu>
+	<tu xmlns:lang="esp">Cancelado</tu>
+	<tu xmlns:lang="chs">中止</tu>
+	<tu xmlns:lang="kor">중단됨</tu>
+</tm>

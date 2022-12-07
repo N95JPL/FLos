@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECC_MED_PERF">
+	<tu xmlns:lang="eng">Electronic climate control  -  Medium performance</tu>
+	<tu xmlns:lang="nld">Elektronische climate control  -  Gemiddeld vermogen</tu>
+	<tu xmlns:lang="fra">Climatisation électronique  -  Performances moyennes</tu>
+	<tu xmlns:lang="deu">Elektronische Klimaregelung  -  Mittlere Leistung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllo elettronico del sistema di climatizzazione  -  Medie prestazioni</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック エア コンディショニング  －  ミディアム パフォーマンス</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Comando electrónico da climatização  -  Desempenho médio</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Controle de temperatura eletrônico  -  Desempenho médio</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электронное управление микроклиматом  -  Средняя производительность</tu>
+	<tu
+    xmlns:lang="esp"
+  >Control de climatización electrónico  -  Prestaciones medias</tu>
+	<tu xmlns:lang="chs">电子气候控制  -  中等性能</tu>
+	<tu xmlns:lang="kor">전자식 실내 온도 조절 시스템  -  중간 성능</tu>
+</tm>

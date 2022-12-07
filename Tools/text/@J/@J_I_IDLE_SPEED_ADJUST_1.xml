@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IDLE_SPEED_ADJUST_1">
+	<tu
+    xmlns:lang="eng"
+  >Idle speeds can be adjusted in steps of 10 RPM between 750 and 850 RPM.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt het stationaire toerental afstellen in stappen van 10 omwentelingen, tussen 750 en 850 omw/min.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les régimes de ralenti peuvent être ajustés par paliers de 10 tr/min entre 750 et 850 tr/min.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Leerlaufdrehzahl kann in Schritten von 10 U/min zwischen 750 und 850 U/min eingestellt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il regime di minimo può essere regolato con incrementi di 10 giri/min tra 750 e 850 giri/min.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アイドル スピードは、750 ～ 850 RPM の間で 10 RPM 刻みに調整することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O módulo de processamento de sinais áudio digitais envia um sinal a cada uma das colunas de som e a cada um dos canais.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As velocidades de marcha lenta podem ser ajustadas em etapas de 10 RPM entre 750 e 850 RPM.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Регулировка частоты вращения двигателя в режиме холостого хода может выполняться пошагово, один шаг - 10 об/мин, с 750 до 850 об/мин.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El régimen de ralentí puede ajustarse en intervalos de 10 rpm entre 750 y 850 rpm.</tu>
+	<tu xmlns:lang="chs">怠速可以 10 RPM 的步长在 750 与 850 RPM 之间分步调节。</tu>
+	<tu
+    xmlns:lang="kor"
+  >공회전 속도는 750~850rpm에서 10rpm 단위로 조정할 수 있습니다.</tu>
+</tm>

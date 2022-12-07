@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABS_NOT_FIT">
+	<tu xmlns:lang="eng">ABS not fitted</tu>
+	<tu xmlns:lang="nld">Zonder ABS</tu>
+	<tu xmlns:lang="fra">ABS non monté</tu>
+	<tu xmlns:lang="deu">ABS nicht eingebaut</tu>
+	<tu xmlns:lang="ita">ABS non in dotazione</tu>
+	<tu xmlns:lang="jpn">ABS 非装備</tu>
+	<tu xmlns:lang="ptg">ABS não instalado</tu>
+	<tu xmlns:lang="ptb">ABS não instalado</tu>
+	<tu xmlns:lang="rus">ABS не установлена</tu>
+	<tu xmlns:lang="esp">Sin ABS</tu>
+	<tu xmlns:lang="chs">ABS 未安装</tu>
+	<tu xmlns:lang="kor">ABS가 장착되지 않음</tu>
+</tm>

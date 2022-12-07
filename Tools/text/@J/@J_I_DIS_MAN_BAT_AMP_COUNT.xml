@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIS_MAN_BAT_AMP_COUNT">
+	<tu xmlns:lang="eng">Disable manufacturing battery ampere hour counter</tu>
+	<tu
+    xmlns:lang="nld"
+  >In de fabriek geactiveerde ampère-uurteller van accu uitschakelen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Désactiver le compteur ampère-heure de la batterie d'origine</tu>
+	<tu
+    xmlns:lang="deu"
+  >Werkseitig aktivierten Batterie-Amperestundenzähler deaktivieren</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilita il contaore ampere batteria per la fabbricazione</tu>
+	<tu xmlns:lang="jpn">メーカー バッテリ アンペア／時カウンター作動不可</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Desactivar o contador de amperes hora da bateria de fábrica</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Desativar contador de Ampére-hora do fabricante da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отключить заводской счетчик ампер-часов аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Inhabilitar el contador horario de amperios de fábrica de la batería</tu>
+	<tu xmlns:lang="chs">禁用蓄电池安培小时计数器</tu>
+	<tu xmlns:lang="kor">제조 중인 배터리 암페어 시간 카운터 비활성화</tu>
+</tm>

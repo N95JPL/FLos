@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOD_SUCCES_TRANS_MODE">
+	<tu
+    xmlns:lang="eng"
+  >The module has successfully been placed into transport mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het in de transportfunctie zetten van de module is met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Le module a bien été placé en mode de transport.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Steuergerät wurde erfolgreich in den Transportmodus gebracht.</tu>
+	<tu xmlns:lang="ita">Il modulo è stato messo in modalità di trasporto.</tu>
+	<tu xmlns:lang="jpn">モジュールは正常に輸送モードに設定されました。</tu>
+	<tu xmlns:lang="ptg">O módulo foi colocado com êxito em modo de transporte.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo foi colocado em modo de transporte com sucesso.</tu>
+	<tu xmlns:lang="rus">Блок успешно переведен в режим транспортировки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo ha pasado satisfactoriamente al modo de transporte.</tu>
+	<tu xmlns:lang="chs">模块被成功置入运输模式。</tu>
+	<tu xmlns:lang="kor">모듈이 올바로 운송 모드로 전환되었습니다.</tu>
+</tm>

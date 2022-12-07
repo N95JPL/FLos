@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@W_DISP_N_TOUCH_COL_TFT_DM4">
+	<tu xmlns:lang="eng">With display  -  No touchscreen  -  Colour TFT  4</tu>
+	<tu xmlns:lang="nld">Met scherm  -  Geen touch screen  -  Kleuren-TFT 4</tu>
+	<tu
+    xmlns:lang="fra"
+  >Avec affichage  -  Pas d'écran tactile  -  Couleur TFT 4</tu>
+	<tu xmlns:lang="deu">Mit Display  -  Kein Touchscreen  -  Farb-TFT 4</tu>
+	<tu
+    xmlns:lang="ita"
+  >Con display  -  Nessuno schermo a sfioramento  -  TFT a colori 4</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ディスプレイ装備  －  タッチスクリーンなし  －  カラー TFT 4</tu>
+	<tu xmlns:lang="ptg">Com ecrã  -  Sem ecrã de toque  -  TFT a cores  4</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Com display  -  Sem tela touchscreen  -  TFT em cores 4</tu>
+	<tu
+    xmlns:lang="rus"
+  >С дисплеем  -  Сенсорный экран отсутствует  -  Цветной TFT 4</tu>
+	<tu
+    xmlns:lang="esp"
+  >Con pantalla  -  No hay pantalla táctil  -  TFT 4 en color</tu>
+	<tu xmlns:lang="chs">带显示器  -  无触摸屏  -  彩色 TFT 4</tu>
+	<tu xmlns:lang="kor">디스플레이 장착  -  터치 스크린 없음  -  컬러 TFT 4</tu>
+</tm>

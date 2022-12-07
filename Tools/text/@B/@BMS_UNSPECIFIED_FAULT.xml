@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_UNSPECIFIED_FAULT">
+	<tu xmlns:lang="eng">Battery monitoring system unspecified fault</tu>
+	<tu
+    xmlns:lang="nld"
+  >Niet nader gespecificeerde storing in het accucontrolesysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Anomalie non définie du système de surveillance de la batterie</tu>
+	<tu
+    xmlns:lang="deu"
+  >Batterieüberwachungssystem - nicht spezifizierte Störung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto non specificato del sistema di monitoraggio batteria</tu>
+	<tu xmlns:lang="jpn">特定できないバッテリ モニタリング システムの故障</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Avaria não especificada no sistema de monitorização da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha não especificada do sistema de monitoramento da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Неустановленная неисправность системы контроля аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo no especificado del sistema de control de la batería</tu>
+	<tu xmlns:lang="chs">蓄电池监控系统不明故障</tu>
+	<tu xmlns:lang="kor">배터리 모니터링 시스템의 지정되지 않은 고장</tu>
+</tm>

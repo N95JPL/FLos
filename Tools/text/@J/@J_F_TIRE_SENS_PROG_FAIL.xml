@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_TIRE_SENS_PROG_FAIL">
+	<tu xmlns:lang="eng">One or more of the sensors failed to program.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Een of meerdere sensors kon niet worden geprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec de programmation d'un ou de plusieurs des capteurs.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ein oder mehrere Sensoren konnten nicht programmiert werden.</tu>
+	<tu xmlns:lang="ita">Uno o più sensori non sono stati programmati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >1 つまたはそれ以上のセンサーのプログラムに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Um ou mais sensores falharam na programação.</tu>
+	<tu xmlns:lang="ptb">Um ou mais dos sensores falhou ao programar.</tu>
+	<tu xmlns:lang="rus">Сбой программирования одного или нескольких датчиков.</tu>
+	<tu xmlns:lang="esp">No se pudieron programar uno o más sensores.</tu>
+	<tu xmlns:lang="chs">一个或多个传感器未能编程。</tu>
+	<tu xmlns:lang="kor">하나 이상의 센서가 프로그래밍에 실패했습니다.</tu>
+</tm>

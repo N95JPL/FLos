@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SHFT_NEUT_DR_3_SEC">
+	<tu
+    xmlns:lang="eng"
+  >Then shift from neutral to drive and maintain this condition for 3 seconds.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Schakel daarna van de neutraalstand naar de rijstand en houd de transmissiehendel gedurende 3 seconden in deze stand.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Puis passez du point mort à marche avant et maintenez cet état pendant 3 secondes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anschließend von der Leerlaufstellung in die Fahrstellung schalten und diesen Zustand 3 Sekunden lang aufrechterhalten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Spostare quindi il selettore da Neutral (folle) a Drive (marcia) e mantenere questa condizione per 3 secondi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >その後ニュートラルからドライブへシフトし、この状態を 3 秒間維持します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Em seguida, mude as mudanças de ponto morto (N) para condução (D) e mantenha esta situação durante 3 segundos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Em seguida, mude de N para D e mantenha essa condição por 3 segundos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Затем из положения N включите на 3 секунды положение D.</tu>
+	<tu
+    xmlns:lang="esp"
+  >A continuación, cambiar de punto muerto a conducción y mantener esta posición durante 3 segundos.</tu>
+	<tu xmlns:lang="chs">然后从空档换到驱动档并维持这一状态3秒钟。</tu>
+	<tu
+    xmlns:lang="kor"
+  >그런 다음, 중립에서 주행으로 변속하고 이 상태를 3초간 유지하십시오.</tu>
+</tm>

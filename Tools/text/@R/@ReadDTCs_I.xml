@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ReadDTCs_I">
+	<tu xmlns:lang="eng">Reading fault codes</tu>
+	<tu xmlns:lang="nld">Bezig met lezen van foutcodes</tu>
+	<tu xmlns:lang="fra">Lecture des codes d'anomalies</tu>
+	<tu xmlns:lang="deu">Fehlercodes werden gelesen</tu>
+	<tu xmlns:lang="ita">Lettura in corso di codici di guasto</tu>
+	<tu xmlns:lang="jpn">フォルトコードを読み取り中</tu>
+	<tu xmlns:lang="ptg">A ler códigos de avaria</tu>
+	<tu xmlns:lang="ptb">Lendo códigos de falha</tu>
+	<tu xmlns:lang="rus">Считывание кодов неисправностей</tu>
+	<tu xmlns:lang="esp">Extrayendo códigos de avería</tu>
+	<tu xmlns:lang="chs">正在读取故障代码</tu>
+	<tu xmlns:lang="kor">고장 코드 읽기</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_ALARM_EVENTS">
+	<tu
+    xmlns:lang="eng"
+  >There are NO alarm trigger events stored in the alarm electronic control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er zijn GEEN alarmtriggergebeurtenissen opgeslagen in de elektronische regeleenheid voor het alarmsysteem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Il n'y a AUCUN événement déclencheur d'alarme mémorisé dans le module de commande électronique d'alarme.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Im elektronischen Steuergerät der Diebstahlwarnanlage sind KEINE Alarm-Auslöseereignisse gespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non c'è NESSUN evento di attivazione allarme memorizzato nell'unità di comando elettronica del sistema di allarme.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アラーム エレクトロニック コントロール ユニットに保存されたアラーム トリガー イベントはありません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >NÃO existe qualquer evento desencadeador de alarme guardado na unidade electrónica de comando do alarme.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não há nenhum evento que dispara alarmes armazenado na unidade de controle eletrônico do alarme.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В электронном блоке управления сигнализацией НЕТ записанных данных о срабатывании сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >NO hay eventos de activación de alarma almacenados en el circuito de control electrónico de alarmas.</tu>
+	<tu xmlns:lang="chs">报警电子控制单元中没有保存报警触发事件。</tu>
+	<tu
+    xmlns:lang="kor"
+  >알람 전자 컨트롤 유닛에 저장된 알람 트리거 이벤트가 없습니다.</tu>
+</tm>

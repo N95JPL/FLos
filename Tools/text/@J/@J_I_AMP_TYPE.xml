@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AMP_TYPE">
+	<tu xmlns:lang="eng">Amplifier type</tu>
+	<tu xmlns:lang="nld">Versterkertype</tu>
+	<tu xmlns:lang="fra">Type d'amplificateur</tu>
+	<tu xmlns:lang="deu">Verstärkertyp</tu>
+	<tu xmlns:lang="ita">Tipo di amplificatore</tu>
+	<tu xmlns:lang="jpn">アンプリファイア タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de amplificador</tu>
+	<tu xmlns:lang="ptb">Tipo de amplificador</tu>
+	<tu xmlns:lang="rus">Тип усилителя</tu>
+	<tu xmlns:lang="esp">Tipo de amplificador</tu>
+	<tu xmlns:lang="chs">放大器类型</tu>
+	<tu xmlns:lang="kor">앰프 유형</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DISTANCE_UNITS_01">
+	<tu xmlns:lang="eng">Distance units 1</tu>
+	<tu xmlns:lang="nld">Afstandseenheden 1</tu>
+	<tu xmlns:lang="fra">Unités de distance 1.</tu>
+	<tu xmlns:lang="deu">Abstandseinheiten 1</tu>
+	<tu xmlns:lang="ita">Unità distanza 1</tu>
+	<tu xmlns:lang="jpn">距離単位 1</tu>
+	<tu xmlns:lang="ptg">Unidades de distância 1</tu>
+	<tu xmlns:lang="ptb">Unidades de distância 1</tu>
+	<tu xmlns:lang="rus">Единицы измерения расстояния 1</tu>
+	<tu xmlns:lang="esp">Unidades de distancia 1</tu>
+	<tu xmlns:lang="chs">距离单位1</tu>
+	<tu xmlns:lang="kor">거리 단위 1</tu>
+</tm>

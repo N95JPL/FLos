@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GLOB_OP_CLOSE_SUN">
+	<tu xmlns:lang="eng">Global open/close doors and sunroof</tu>
+	<tu
+    xmlns:lang="nld"
+  >Comfortontgrendeling/-vergrendeling portieren en zonnedak</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ouverture/Fermeture générale des portes et du toit ouvrant</tu>
+	<tu xmlns:lang="deu">Türen und Schiebedach mit Komfortöffnung/-schließung</tu>
+	<tu xmlns:lang="ita">Apertura/chiusura globale portiere e tettuccio</tu>
+	<tu xmlns:lang="jpn">グローバル オープン／クローズ、ドアおよびサンルーフ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Abertura/fecho global das portas e do tejadilho de abrir</tu>
+	<tu xmlns:lang="ptb">Portas e teto solar de abertura/fechamento global</tu>
+	<tu
+    xmlns:lang="rus"
+  >Полное открывание и закрывание дверей и потолочного люка</tu>
+	<tu xmlns:lang="esp">Apertura/cierre total de puertas y techo solar</tu>
+	<tu xmlns:lang="chs">车门和天窗全开/全关</tu>
+	<tu xmlns:lang="kor">글로벌 열기/닫기 도어 및 선루프</tu>
+</tm>

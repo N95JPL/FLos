@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_TEST_NOT_SUPPORTED">
+	<tu xmlns:lang="eng">Test not supported</tu>
+	<tu xmlns:lang="nld">Test niet ondersteund</tu>
+	<tu xmlns:lang="fra">Contrôle non pris en charge</tu>
+	<tu xmlns:lang="deu">Prüfung nicht unterstützt</tu>
+	<tu xmlns:lang="ita">Prova non supportata</tu>
+	<tu xmlns:lang="jpn">サポートされないテスト</tu>
+	<tu xmlns:lang="ptg">Teste não suportado</tu>
+	<tu xmlns:lang="ptb">Teste não suportado</tu>
+	<tu xmlns:lang="rus">Проверка не поддерживается</tu>
+	<tu xmlns:lang="esp">Prueba no soportada</tu>
+	<tu xmlns:lang="chs">测试未得到支持</tu>
+	<tu xmlns:lang="kor">테스트 지원 안 됨</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GLO_PIN_RMP_UP">
+	<tu xmlns:lang="eng">Glow pin ramp-up.</tu>
+	<tu xmlns:lang="nld">Gelijkmatige belastingtoename van gloeipen.</tu>
+	<tu xmlns:lang="fra">Montée en température de l'allumeur.</tu>
+	<tu xmlns:lang="deu">Glühstift-Hochlauf.</tu>
+	<tu xmlns:lang="ita">Aumento graduale temperatura candeletta.</tu>
+	<tu xmlns:lang="jpn">グロー ピン ランプアップ</tu>
+	<tu xmlns:lang="ptg">Vela de incandescência, incandescente.</tu>
+	<tu xmlns:lang="ptb">Reforço do pino da vela.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Линейное нарастание на контакте системы предпускового подогрева.</tu>
+	<tu xmlns:lang="esp">Aumento de temperatura de bujía de precalentamiento.</tu>
+	<tu xmlns:lang="chs">电热针脚提升。</tu>
+	<tu xmlns:lang="kor">예열 핀 증가</tu>
+</tm>

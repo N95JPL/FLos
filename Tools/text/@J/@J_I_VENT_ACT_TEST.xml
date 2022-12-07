@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VENT_ACT_TEST">
+	<tu xmlns:lang="eng">Vent actuators test</tu>
+	<tu xmlns:lang="nld">Test ventilatieroosteractuators</tu>
+	<tu xmlns:lang="fra">Test des actionneurs d'aérateur</tu>
+	<tu xmlns:lang="deu">Test - Belüftungsklappen-Stellmotoren</tu>
+	<tu xmlns:lang="ita">Prova attuatori di sfiato</tu>
+	<tu xmlns:lang="jpn">ベント アクチュエータ テスト</tu>
+	<tu xmlns:lang="ptg">Teste dos actuadores dos ventiladores</tu>
+	<tu xmlns:lang="ptb">Teste dos atuadores de respiro</tu>
+	<tu xmlns:lang="rus">Проверка приводов вентиляционных дефлекторов</tu>
+	<tu xmlns:lang="esp">Prueba de actuadores de salida de aire</tu>
+	<tu xmlns:lang="chs">通气孔执行机构测试</tu>
+	<tu xmlns:lang="kor">환기구 액추에이터 테스트</tu>
+</tm>

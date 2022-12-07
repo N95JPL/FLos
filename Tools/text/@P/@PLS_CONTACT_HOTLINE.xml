@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PLS_CONTACT_HOTLINE">
+	<tu
+    xmlns:lang="eng"
+  >Please contact your local technical hotline with details of the part numbers for further assistance</tu>
+	<tu
+    xmlns:lang="nld"
+  >Neem a.u.b. contact op met uw plaatselijke technische helpdesk en vermeld de onderdeelnummers voor verdere assistentie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Prière de contacter l'assistance technique locale et de fournir les références concernées pour obtenir de l'aide</tu>
+	<tu
+    xmlns:lang="deu"
+  >Für weitere Unterstützung mit Einzelheiten zu den Teilenummern bitte mit Ihrer lokalen technischen Hotline Kontakt aufnehmen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Rivolgersi all'assistenza tecnica locale indicando i numeri di parte per ulteriori informazioni. </tu>
+	<tu
+    xmlns:lang="jpn"
+  >パーツ ナンバーの詳細を用意して地域のテクニカル ホットラインにコンタクトし、アシストを得なさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Queira contactar a sua Linha de Apoio Técnico com os dados dos números das peças, para obter mais assistência</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Entre em contato com a linha direta da assistência técnica local, com as informações dos números da peça para obter assistência</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обратитесь за помощью в местную службу технической поддержки, сообщив номера частей</tu>
+	<tu
+    xmlns:lang="esp"
+  >Llamar al teléfono local de asistencia técnica con los datos de número de pieza</tu>
+	<tu
+    xmlns:lang="chs"
+  >请致电当地的技术热线，提供零部件号详细信息，以取得进一步的帮助</tu>
+	<tu
+    xmlns:lang="kor"
+  >추가 지원을 받으려면 부품 번호 세부 정보를 확인한 후 현지 기술 지원 핫라인을 통해 문의하십시오.</tu>
+</tm>

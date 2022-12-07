@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_INT_STARTER_CHARGER">
+	<tu xmlns:lang="eng">Integrated starter charger</tu>
+	<tu xmlns:lang="nld">Geïntegreerde oplader van startmotor</tu>
+	<tu xmlns:lang="fra">Démarreur/chargeur intégré</tu>
+	<tu xmlns:lang="deu">Integrierter Starter/Generator</tu>
+	<tu xmlns:lang="ita">Dispositivo di avviamento/ricarica integrale</tu>
+	<tu xmlns:lang="jpn">統合スターター チャージャー</tu>
+	<tu xmlns:lang="ptg">Carregador do motor de arranque integrado</tu>
+	<tu xmlns:lang="ptb">Carregador do motor de partida integrado</tu>
+	<tu xmlns:lang="rus">Встроенное пуско-зарядное устройство</tu>
+	<tu xmlns:lang="esp">Cargador/motor de arranque integral</tu>
+	<tu xmlns:lang="chs">集成起动机充电器</tu>
+	<tu xmlns:lang="kor">통합 스타터 충전기</tu>
+</tm>

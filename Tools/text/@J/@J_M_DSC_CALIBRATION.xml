@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DSC_CALIBRATION">
+	<tu xmlns:lang="eng">Dynamic stability control calibration.</tu>
+	<tu xmlns:lang="nld">Kalibratie van dynamic stability control.</tu>
+	<tu xmlns:lang="fra">Etalonnage de régulation de stabilité dynamique.</tu>
+	<tu xmlns:lang="deu">Dynamische Stabilitätskontrolle - Kalibrierung.</tu>
+	<tu xmlns:lang="ita">Taratura controllo stabilità dinamico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ダイナミック スタビリティ コントロール キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibração do controlo de estabilidade dinâmica.</tu>
+	<tu xmlns:lang="ptb">Calibração de controle de estabilidade dinâmica.</tu>
+	<tu xmlns:lang="rus">Калибровка системы динамической стабилизации.</tu>
+	<tu xmlns:lang="esp">Calibración del control dinámico de estabilidad.</tu>
+	<tu xmlns:lang="chs">动态稳定性控制标定。</tu>
+	<tu xmlns:lang="kor">다이내믹 스태빌리티 컨트롤 보정</tu>
+</tm>

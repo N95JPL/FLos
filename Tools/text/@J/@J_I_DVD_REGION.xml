@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DVD_REGION">
+	<tu xmlns:lang="eng">DVD region</tu>
+	<tu xmlns:lang="nld">DVD-regio</tu>
+	<tu xmlns:lang="fra">Région du DVD</tu>
+	<tu xmlns:lang="deu">DVD-Region</tu>
+	<tu xmlns:lang="ita">Regione di DVD</tu>
+	<tu xmlns:lang="jpn">DVD リージョン</tu>
+	<tu xmlns:lang="ptg">Região DVD</tu>
+	<tu xmlns:lang="ptb">Região do DVD</tu>
+	<tu xmlns:lang="rus">Регион, в котором устанавливается DVD</tu>
+	<tu xmlns:lang="esp">Región de DVD</tu>
+	<tu xmlns:lang="chs">DVD区域</tu>
+	<tu xmlns:lang="kor">DVD 지역</tu>
+</tm>

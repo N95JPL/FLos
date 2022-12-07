@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineStopConditionsMet">
+	<tu
+    xmlns:lang="eng"
+  >Engine stop conditions have now been met and the vehicle is ready to perform a stop/start system stop.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Aan stopvoorwaarden motor wordt nu voldaan en de auto gereed is om een stop van het Stop/Start-systeem uit te voeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les conditions d'arrêt du moteur ont été réunies et le véhicule est prêt à effectuer un arrêt du système Arrêt/Démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Motor-Stopp-Bedingungen sind nun erfüllt, und das Fahrzeug ist bereit zur Durchführung eines Stopps des Stopp/Start-Systems.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le condizioni di arresto del motore sono state ora soddisfatte e il veicolo è predisposto per eseguire un arresto del sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンの停止条件が満たされ、車両はスタート/ストップ システム停止を実行する準備ができています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As condições de paragem do motor foram agora cumpridas e o veículo está pronto para realizar uma paragem do sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As condições de parada do motor agora foram atendidas e o veículo está pronto para realizar uma parada do sistema stop/start.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Условия останова двигателя выполнены, и автомобиль готов к запуску системы стоп/старт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ahora se cumplen las condiciones de parada del motor y el vehículo está preparado para realizar una parada con el sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="chs"
+  >发动机停止条件现已满足，车辆已准备好执行停止/启动系统停止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이제 엔진 정지 상태가 충족되었으며 차량이 Stop/Start 시스템 Stop을 수행할 준비가 되었습니다.</tu>
+</tm>

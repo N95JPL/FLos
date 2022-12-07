@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENTER_TIRE_SENS_IDS">
+	<tu
+    xmlns:lang="eng"
+  >Please enter tire pressure sensor identification number for the selected sensors on the following screen:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer het identificatienummer voor de bandenspanningssensor van iedere geselecteerde sensor op het volgende scherm in:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez saisir le numéro d'identification de capteur de pression des pneumatiques pour les capteurs sélectionnés sur l'écran suivant :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Reifendrucksenor-Identifizierungsnummern der ausgewählten Reifendrucksensoren auf dem nächsten Bildschirm eingeben:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Immettere il numero di identificazione del sensore di pressione pneumatico per i sensori selezionati sulla schermata seguente:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の画面で選択されたセンサーのタイヤ プレッシャ センサー ID ナンバーを入力しなさい：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Introduzir os números de identificação dos sensores de pressão dos pneus seleccionados no ecrã seguinte:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Digite o número de identificação do sensor de pressão para os sensores selecionados na seguinte tela:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Введите идентификационный номер датчика давления в шине для выбранных датчиков на следующем экране.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Introducir los números de identificación de sensor de presión del neumático para los sensores seleccionados en la siguiente pantalla:</tu>
+	<tu
+    xmlns:lang="chs"
+  >请在下列显示屏中输入所选择的轮轮胎压力力传感器的标识号码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 화면에서 선택한 센서에 대한 타이어 공기압 센서 식별 번호를 입력하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FULL_LOAD_COMBUS">
+	<tu xmlns:lang="eng">Full load combustion.</tu>
+	<tu xmlns:lang="nld">Verbranding onder vollast.</tu>
+	<tu xmlns:lang="fra">Combustion à pleine charge.</tu>
+	<tu xmlns:lang="deu">Volllast-Verbrennung.</tu>
+	<tu xmlns:lang="ita">Combustione a pieno carico.</tu>
+	<tu xmlns:lang="jpn">全負荷燃焼</tu>
+	<tu xmlns:lang="ptg">Combustão com carga total.</tu>
+	<tu xmlns:lang="ptb">Combustão com carga total.</tu>
+	<tu xmlns:lang="rus">Сгорание при полной нагрузке.</tu>
+	<tu xmlns:lang="esp">Combustión a plena carga.</tu>
+	<tu xmlns:lang="chs">全负载燃烧。</tu>
+	<tu xmlns:lang="kor">최대 부하 연소</tu>
+</tm>

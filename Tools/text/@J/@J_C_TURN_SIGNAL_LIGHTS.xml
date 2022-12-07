@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_TURN_SIGNAL_LIGHTS">
+	<tu xmlns:lang="eng">Turn signal lamps</tu>
+	<tu xmlns:lang="nld">Richtingaanwijzerlampjes</tu>
+	<tu xmlns:lang="fra">Lampes de clignotants</tu>
+	<tu xmlns:lang="deu">Blinkleuchten</tu>
+	<tu xmlns:lang="ita">Indicatori di direzione</tu>
+	<tu xmlns:lang="jpn">方向指示</tu>
+	<tu xmlns:lang="ptg">Luzes dos indicadores de mudança de direcção</tu>
+	<tu xmlns:lang="ptb">Luzes da seta</tu>
+	<tu xmlns:lang="rus">Лампы указателей поворота</tu>
+	<tu xmlns:lang="esp">Intermitentes</tu>
+	<tu xmlns:lang="chs">转向信号灯</tu>
+	<tu xmlns:lang="kor">방향 지시등</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Hot$TVA">
+	<tu xmlns:lang="eng">Throttle valve actuator</tu>
+	<tu xmlns:lang="nld">Actuator van gasklep</tu>
+	<tu xmlns:lang="fra">Actionneur du papillon des gaz</tu>
+	<tu xmlns:lang="deu">Drosselklappen-Stellmotor</tu>
+	<tu xmlns:lang="ita">Attuatore valvola a farfalla</tu>
+	<tu xmlns:lang="jpn">スロットル バルブ アクチュエータ</tu>
+	<tu xmlns:lang="ptg">Actuador da borboleta do acelerador</tu>
+	<tu xmlns:lang="ptb">Atuador da válvula de aceleração</tu>
+	<tu xmlns:lang="rus">Привод клапана дроссельной заслонки</tu>
+	<tu xmlns:lang="esp">Actuador de la válvula de mariposa</tu>
+	<tu xmlns:lang="chs">节气门执行机构</tu>
+	<tu xmlns:lang="kor">스로틀 밸브 액추에이터</tu>
+</tm>

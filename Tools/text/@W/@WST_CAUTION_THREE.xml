@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_CAUTION_THREE">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the vehicle cannot roll backwards or forwards.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer of het voertuig niet naar achteren of naar voren kan rollen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que le véhicule ne peut pas rouler en avant ou en arrière.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass das Fahrzeug nicht nach vorne oder hinten rollen kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che il veicolo non possa muoversi avanti o indietro.</tu>
+	<tu xmlns:lang="jpn">車両が前後に動かないよう安全措置を施しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o veículo não se pode deslocar nem para a frente nem para trás.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o veículo não pode rolar para trás ou para frente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что автомобиль не может скатиться назад или вперед.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que el vehículo no pueda rodar hacia atrás ni hacia delante.</tu>
+	<tu xmlns:lang="chs">确保车辆不能向后或向前滚动。</tu>
+	<tu xmlns:lang="kor">차량이 앞뒤로 구를 수 없는지 확인하십시오.</tu>
+</tm>

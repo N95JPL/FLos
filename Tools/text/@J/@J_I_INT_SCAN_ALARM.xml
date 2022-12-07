@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_SCAN_ALARM">
+	<tu xmlns:lang="eng">Interior scanning alarm</tu>
+	<tu xmlns:lang="nld">Interieursensoralarm</tu>
+	<tu xmlns:lang="fra">Alarme ... balayage intérieur</tu>
+	<tu xmlns:lang="deu">Innenraumüberwachung</tu>
+	<tu xmlns:lang="ita">Allarme di scansione dell'abitacolo</tu>
+	<tu xmlns:lang="jpn">インテリア スキャニング アラーム</tu>
+	<tu xmlns:lang="ptg">Alarme interno da monitorização</tu>
+	<tu xmlns:lang="ptb">Alarme de varredura interna</tu>
+	<tu xmlns:lang="rus">Сигнализация при сканировании салона</tu>
+	<tu xmlns:lang="esp">Alarma de detección interior</tu>
+	<tu xmlns:lang="chs">内部扫描报警</tu>
+	<tu xmlns:lang="kor">내부 스캔 알람</tu>
+</tm>

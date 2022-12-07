@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_APPLICATION_HELP_SEL_TOP">
+	<tu xmlns:lang="eng">Select top level tool set</tu>
+	<tu xmlns:lang="nld">Selecteer hulpprogrammaset van hoogste niveau</tu>
+	<tu xmlns:lang="fra">Sélectionnez la trousse à outils de niveau supérieur</tu>
+	<tu xmlns:lang="deu">Werkzeugsatz auf oberstem Niveau auswählen.</tu>
+	<tu xmlns:lang="ita">Selezionare il set di strumenti del livello superiore</tu>
+	<tu xmlns:lang="jpn">トップ レベル ツール セットの選択</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccione o conjunto de instrumentos de nível superior</tu>
+	<tu xmlns:lang="ptb">Selecione o conjunto de ferramentas de nível superior</tu>
+	<tu xmlns:lang="rus">Выберите набор инструментов верхнего уровня</tu>
+	<tu xmlns:lang="esp">Seleccionar conjunto de herramientas de nivel superior</tu>
+	<tu xmlns:lang="chs">选择顶层工具集</tu>
+	<tu xmlns:lang="kor">최고급 도구 세트 선택</tu>
+</tm>

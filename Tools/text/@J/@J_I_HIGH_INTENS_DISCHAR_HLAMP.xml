@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HIGH_INTENS_DISCHAR_HLAMP">
+	<tu xmlns:lang="eng">High intensity discharge headlamp</tu>
+	<tu xmlns:lang="nld">Xenon-koplamp met hogedrukontlading</tu>
+	<tu xmlns:lang="fra">Phare haute intensité au xénon</tu>
+	<tu xmlns:lang="deu">HID-Scheinwerfer</tu>
+	<tu xmlns:lang="ita">Faro a elettroluminescenza ad alta intensità</tu>
+	<tu xmlns:lang="jpn">高強度ディスチャージ ヘッドランプ</tu>
+	<tu xmlns:lang="ptg">Farol de xénon</tu>
+	<tu xmlns:lang="ptb">Faróis de descarga de alta intensidade</tu>
+	<tu xmlns:lang="rus">Газоразрядная фара</tu>
+	<tu xmlns:lang="esp">Faro de descarga de alta intensidad</tu>
+	<tu xmlns:lang="chs">高强度放电前照灯</tu>
+	<tu xmlns:lang="kor">고강도 방전 헤드램프</tu>
+</tm>

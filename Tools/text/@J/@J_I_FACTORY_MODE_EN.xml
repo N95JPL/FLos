@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FACTORY_MODE_EN">
+	<tu
+    xmlns:lang="eng"
+  >Factory mode is set, indicating a new electronic control unit</tu>
+	<tu
+    xmlns:lang="nld"
+  >De fabrieksfunctie is ingesteld, hetgeen een nieuwe elektronische regeleenheid aangeeft</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le mode usine est activé, indiquant un module de commande électronique</tu>
+	<tu
+    xmlns:lang="deu"
+  >Werksmodus ist eingestellt und verweist auf ein neues elektronisches Steuergerät.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La modalità di fabbrica è impostata; ciò indica una nuova unità di comando elettronica</tu>
+	<tu
+    xmlns:lang="jpn"
+  >メーカー モードがセットされました。新しいエレクトロニック コントロール ユニットが示されています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O modo de fábrica foi definido, indicando uma unidade electrónica de controlo nova</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Modo de fábrica está definido, indicando uma nova unidade de controle eletrônico</tu>
+	<tu
+    xmlns:lang="rus"
+  >Настроен заводской режим, отображается новый электронный блок управления</tu>
+	<tu
+    xmlns:lang="esp"
+  >Está activado el modo de fábrica, indicación de una nueva unidad de control electrónico</tu>
+	<tu xmlns:lang="chs">工厂模式已设定，显示一个新的电子控制单元</tu>
+	<tu xmlns:lang="kor">공장 모드가 설정되어 신품 전자 컨트롤 유닛을 표시함</tu>
+</tm>

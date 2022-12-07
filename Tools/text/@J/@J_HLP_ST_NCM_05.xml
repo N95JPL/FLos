@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_NCM_05">
+	<tu xmlns:lang="eng">Traffic message channel</tu>
+	<tu xmlns:lang="nld">Verkeersinformatiekanaal</tu>
+	<tu xmlns:lang="fra">Canal d'informations routières (TMC)</tu>
+	<tu xmlns:lang="deu">Verkehrsmeldungskanal</tu>
+	<tu xmlns:lang="ita">Canale trasmissione messaggi sul traffico</tu>
+	<tu xmlns:lang="jpn">トラフィック メッセージ チャンネル</tu>
+	<tu xmlns:lang="ptg">Canal de mensagens de tráfego</tu>
+	<tu xmlns:lang="ptb">Canal de mensagens de trânsito</tu>
+	<tu xmlns:lang="rus">Канал дорожных сообщений</tu>
+	<tu xmlns:lang="esp">Canal de mensajes de tráfico</tu>
+	<tu xmlns:lang="chs">交通消息频道</tu>
+	<tu xmlns:lang="kor">교통 정보 채널</tu>
+</tm>

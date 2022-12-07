@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEAT_PASS_SEAT">
+	<tu xmlns:lang="eng">Heated passenger's seat</tu>
+	<tu xmlns:lang="nld">Verwarmde passagiersstoel</tu>
+	<tu xmlns:lang="fra">Siège passager chauffant</tu>
+	<tu xmlns:lang="deu">Beheizbarer Beifahrersitz</tu>
+	<tu xmlns:lang="ita">Sedile termico passeggero</tu>
+	<tu xmlns:lang="jpn">助手席側シート ヒーター</tu>
+	<tu xmlns:lang="ptg">Banco aquecido do passageiro</tu>
+	<tu xmlns:lang="ptb">Assento aquecido do passageiro</tu>
+	<tu xmlns:lang="rus">Подогреваемое сиденье пассажира.</tu>
+	<tu xmlns:lang="esp">Asiento térmico para el acompañante</tu>
+	<tu xmlns:lang="chs">乘客一侧座椅加热</tu>
+	<tu xmlns:lang="kor">열선내장 조수석 시트</tu>
+</tm>

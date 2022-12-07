@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CHECKING_SDARS_FIT">
+	<tu
+    xmlns:lang="eng"
+  >Checking if vehicle is fitted with a satellite digital audio radio service</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleren of het voertuig is uitgerust met SDARS (Satellite Digital Audio Radio Service)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez si le véhicule est équipé d'un système de service radio audio numérique par satellite</tu>
+	<tu
+    xmlns:lang="deu"
+  >Überprüft, ob das Fahrzeug mit einem digitalen Satellitenradio ausgestattet ist</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che sul veicolo sia montato un Satellite Digital Audio Radio Service (servizio radio satellitare con audio digitale)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両に衛星デジタル オーディオ ラジオ サービスが装備されているか確認中</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar se o veículo dispõe de um serviço de rádio áudio digital por satélite</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verificação se o veículo está equipado com um serviço de rádio de áudio digital via satélite</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка наличия системы цифрового спутникового радиовещания в автомобиле</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobando si el vehículo lleva instalado el servicio de radio y radio digital vía satélite</tu>
+	<tu xmlns:lang="chs">检查车辆是否配备了卫星数字音频广播服务</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에 위성 디지털 오디오 라디오 서비스가 제공되는지 점검</tu>
+</tm>

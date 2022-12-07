@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_41">
+	<tu xmlns:lang="eng">0x41 : Exited due to air temperature.</tu>
+	<tu xmlns:lang="nld">0x41 : inleren afgesloten vanwege de luchttemperatuur.</tu>
+	<tu xmlns:lang="fra">0x41 : Quitté à cause de la température de l'air.</tu>
+	<tu xmlns:lang="deu">0x41 : Beendet aufgrund von Lufttemperatur.</tu>
+	<tu xmlns:lang="ita">0x41 : Interrotto a causa della temperatura dell'aria.</tu>
+	<tu xmlns:lang="jpn">0x41 : エア テンパラチャーのため終了。</tu>
+	<tu xmlns:lang="ptg">0x41 : Saiu devido à temperatura do ar.</tu>
+	<tu xmlns:lang="ptb">0X41 : Encerrada devido à temperatura do ar.</tu>
+	<tu xmlns:lang="rus">0x41 : Произведен выход из-за температуры воздуха.</tu>
+	<tu xmlns:lang="esp">0x41: Se cerró debido a la temperatura del aire.</tu>
+	<tu xmlns:lang="chs">0x41： 由于空气温度原因而退出运行。</tu>
+	<tu xmlns:lang="kor">0x41 : 공기 온도 때문에 종료됩니다.</tu>
+</tm>

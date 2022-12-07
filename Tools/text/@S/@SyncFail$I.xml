@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SyncFail$I">
+	<tu xmlns:lang="eng">Synchronization failure.</tu>
+	<tu xmlns:lang="nld">Synchronisatie mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de synchronisation.</tu>
+	<tu xmlns:lang="deu">Synchronisation nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Errore di sincronizzazione.</tu>
+	<tu xmlns:lang="jpn">同期の失敗</tu>
+	<tu xmlns:lang="ptg">Avaria na sincronização.</tu>
+	<tu xmlns:lang="ptb">Falha na sincronização.</tu>
+	<tu xmlns:lang="rus">Отсутствует синхронизация.</tu>
+	<tu xmlns:lang="esp">Fallo de la sincronización.</tu>
+	<tu xmlns:lang="chs">同步化失败。</tu>
+	<tu xmlns:lang="kor">동기화 오류</tu>
+</tm>

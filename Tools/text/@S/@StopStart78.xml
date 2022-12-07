@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart78">
+	<tu xmlns:lang="eng">Stop inhibited - Engine temperature is too high</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stop geblokkeerd - de temperatuur van de motor is te hoog</tu>
+	<tu
+    xmlns:lang="fra"
+  >Arrêt neutralisé - La température du moteur est trop élevée</tu>
+	<tu xmlns:lang="deu">Stopp gesperrt – Motortemperatur ist zu hoch</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitazione dell'arresto - La temperatura del motore è troppo alta</tu>
+	<tu xmlns:lang="jpn">ストップ機能禁止 - エンジンの温度が高すぎます</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Paragem inibida - A temperatura do motor é demasiado elevada</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Parada inibida - A temperatura do motor está muito alta</tu>
+	<tu
+    xmlns:lang="rus"
+  >Остановка заблокирована — слишком высокая температура двигателя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Parada bloqueada: la temperatura del motor es demasiado alta</tu>
+	<tu xmlns:lang="chs">停止被禁止 - 发动机温度过高</tu>
+	<tu xmlns:lang="kor">Stop 억제 - 엔진 온도가 너무 높음</tu>
+</tm>

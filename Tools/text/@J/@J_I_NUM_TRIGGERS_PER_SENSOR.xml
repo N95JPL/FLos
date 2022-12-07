@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NUM_TRIGGERS_PER_SENSOR">
+	<tu xmlns:lang="eng">Number of triggers per sensor</tu>
+	<tu xmlns:lang="nld">Aantal triggers per sensor</tu>
+	<tu xmlns:lang="fra">Nombre de déclenchements par capteur.</tu>
+	<tu xmlns:lang="deu">Anzahl von Triggern pro Sensor</tu>
+	<tu xmlns:lang="ita">Numero di attivazioni per sensore</tu>
+	<tu xmlns:lang="jpn">センサーごとのトリガーの数</tu>
+	<tu xmlns:lang="ptg">Número de disparos por sensor</tu>
+	<tu xmlns:lang="ptb">Número de acionamentos por sensor</tu>
+	<tu xmlns:lang="rus">Число триггеров на датчик</tu>
+	<tu xmlns:lang="esp">Número de disparos por sensor</tu>
+	<tu xmlns:lang="chs">每个传感器的触发器数量</tu>
+	<tu xmlns:lang="kor">센서당 트리거 수</tu>
+</tm>

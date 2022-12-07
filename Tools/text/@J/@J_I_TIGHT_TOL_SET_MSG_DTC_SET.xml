@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIGHT_TOL_SET_MSG_DTC_SET">
+	<tu
+    xmlns:lang="eng"
+  >While tight tolerance mode is set, the message ‘air suspension not in customer mode’ will be displayed in the instrument panel and one of the following diagnostic trouble codes U300005, U300052, U300054, U300055 will be set.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer de stand voor lage tolerantie is ingesteld, wordt een mededeling dat de luchtvering niet in de klantstand staat weergegeven op het instrumentenpaneel en wordt een van de diagnosefoutcodes U300005, U300052, U300054 of U300055 opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pendant que le mode tolérances serrées est sélectionné, le message 'suspension pneumatique pas en mode client' s'affiche au tableau de bord et l'un des codes d'anomalie suivants U300005, U300052, U300054, U300055 est enregistré.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei aktiver Betriebsart „Enge Toleranz“ wird die Meldung „Luftfederung nicht in Kundenmodus“ auf der Instrumentengruppe angezeigt, und es wird einer der Fehlercodes U300005, U300052, U300054, U300055 abgespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Mentre è impostata la modalità di tolleranza ridotta, viene visualizzato il messaggio Sospensione pneumatica non in modalità cliente nel quadro strumenti e viene memorizzato uno dei seguenti codici guasto diagnostico: U300005, U300052, U300054, U300055.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >僅少許容誤差モードに設定されている間は、インストルメント パネルに「エア サスペンションが顧客モードはありません」というメッセージが表示され、次の診断トラブル コード U300005、U300052、U300054、U300055 のいずれかが記録されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Enquanto o modo de tolerância limitada é definido, é apresentada a mensagem ‘suspensão pneumática não em modo de cliente’ no painel de instrumentos e é registado um dos seguintes códigos de avaria: U300005, U300052, U300054, U300055.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Enquanto o modo de menor tolerância estiver definido, a mensagem suspensão de ar fora do modo do cliente será exibida no painel de instrumentos, e um dos seguintes DTCs U300005, U300052, U300054 e U300055 será definido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При включении режима жестких допусков на панели приборов будет отображаться сообщение 'пневматическая подвеска находится не в пользовательском режиме', а также будет зарегистрирован один из следующих кодов неисправностей: U300005, U300052, U300054, U300055.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Mientras el modo de tolerancia estricta esté establecido, se mostrará el mensaje ‘la suspensión neumática no está en modo cliente’ en el cuadro de instrumentos y se registrará uno de los siguientes códigos de avería U300005, U300052, U300054 o U300055.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在设置为精密公差模式期间内，信息‘air suspension not in customer mode’（空气悬架未处于客户模式）将会显示在仪表板上，与时同时，下列故障诊断码之一会被设置：U300005、U300052、U300054、U300055。</tu>
+	<tu
+    xmlns:lang="kor"
+  >엄격한 공차 모드가 설정되어 있을 때 '에어 서스펜션이 고객 모드가 아님' 메시지가 계기판에 표시되고 U300005, U300052, U300054, U300055 고장 진단 코드 중의 하나가 설정됩니다.</tu>
+</tm>

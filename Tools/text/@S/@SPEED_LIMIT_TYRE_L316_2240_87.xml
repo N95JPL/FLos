@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SPEED_LIMIT_TYRE_L316_2240_87">
+	<tu xmlns:lang="eng">Tyre 205/80R16 - Speed limit 87 MPH (140 KPH)</tu>
+	<tu xmlns:lang="nld">Band 205/80R16 - snelheidsgrens 87 mijl/h (140 km/h)</tu>
+	<tu xmlns:lang="fra">Pneu 205/80R16 - Limite de vitesse 87 MI/H (140 KM/H).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Reifen 205/80R16 - Geschwindigkeitsbegrenzung 87 mph (140 km/h)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pneumatico 205/80R16 - Limite di velocità 87 mph (140 km/h)</tu>
+	<tu xmlns:lang="jpn">タイヤ 205/80R16 - スピード リミット 140 km/h (87 mph)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pneu 205/80R16 - Limite de velocidade de 87 mph (140 km/h)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pneu 205/80R16 - limite de velocidade 87 mph (140 km/h)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Шина 205/80R16 - ограничение скорости движения 87 миль/ч (140 км/ч)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Neumáticos 205/80R16: límite de velocidad 87 millas/h (140 km/h)</tu>
+	<tu xmlns:lang="chs">轮胎205/80R16--车速限值87英里/小时（140千米/小时）</tu>
+	<tu xmlns:lang="kor">타이어 205/80R16 - 속도 제한 140KPH(87MPH)</tu>
+</tm>

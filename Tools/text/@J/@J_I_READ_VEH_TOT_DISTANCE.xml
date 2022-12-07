@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_READ_VEH_TOT_DISTANCE">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will read the vehicle total distance data</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal de gegevens voor de totale afstanden van het voertuig uitlezen en opslaan</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de relever le kilométrage total du véhicule</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Maßnahme werden die Daten zur Gesamtfahrleistung des Fahrzeugs ausgelesen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura legge i dati della distanza totale percorsa dal veicolo</tu>
+	<tu xmlns:lang="jpn">この手順は車両のトータル走行距離データを読み取ります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento vai ler os dados da distância total percorrida pelo veículo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento vai ler os dados de distância total do veículo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная процедура служит для считывания общего расстояния, пройденного автомобилем</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento lee los datos de distancia total del vehículo</tu>
+	<tu xmlns:lang="chs">本程序将读取车辆总行驶里程数据</tu>
+	<tu xmlns:lang="kor">이 절차에서는 차량 총 거리 데이터를 읽습니다.</tu>
+</tm>

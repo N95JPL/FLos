@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_LOADS_OFF_ENG_RUN_2_MINS">
+	<tu
+    xmlns:lang="eng"
+  >Before beginning the test, ensure that all electrical loads are switched off, the engine is started from cold and run for at least 2 minutes</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alvorens de test te beginnen schakelt u alle elektrische belastingen uit, voert u een koude motorstart uit en laat u de motor 2 minuten draaien</tu>
+	<tu
+    xmlns:lang="fra"
+  >Avant de lancer le test, veillez à ce que toutes les charges électriques soient coupées ; le moteur doit être froid au démarrage et tourner pendant 2 minutes minimum</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ehe mit dem Test begonnen wird, sicherstellen, dass alle elektrischen Verbraucher ausgeschaltet sind, der kalte Motor angelassen wird und mindestens 2 Minuten lang läuft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prima di iniziare la prova, verificare che tutti i carichi elettrici siano disattivati, che il motore venga avviato a freddo e sia lasciato girare per almeno 2 minuti</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テストを開始する前に、すべての電気負荷がスイッチ オフされ、エンジンがコールド スタート後少なくとも 2 分間はかかっていたことを確認しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Antes de iniciar o teste, certificar-se de que todas as cargas eléctricas estão desligadas, que o motor arranca a frio e trabalha durante, pelo menos, 2 minutos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Antes de iniciar o teste, certifique-se de que todas as cargas elétricas estejam desligadas, o motor é acionado a frio e deve funcionar por pelo menos 2 minutos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перед началом проверки должны быть отключены все потребители электроэнергии, а двигатель должен проработать не менее 2 минут после холодного пуска</tu>
+	<tu
+    xmlns:lang="esp"
+  >Antes de iniciar la prueba, asegurarse de que todas las cargas eléctricas están desconectadas, arrancar el motor en frío y mantenerlo en marcha durante al menos 2 minutos</tu>
+	<tu
+    xmlns:lang="chs"
+  >在开始测试之前，请确保关闭所有电气负载、从冷态起动发动机并让其运行不短于 2 分钟</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트를 시작하기 전에 모든 전기 부하 장치를 끄고, 냉간 상태에서 엔진을 시동하고, 2분 이상 작동해야 합니다.</tu>
+</tm>

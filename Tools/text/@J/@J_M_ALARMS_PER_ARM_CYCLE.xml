@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ALARMS_PER_ARM_CYCLE">
+	<tu xmlns:lang="eng">Number of alarms per alarm cycle.</tu>
+	<tu xmlns:lang="nld">Aantal keren dat het alarm afgaat per alarmcyclus.</tu>
+	<tu xmlns:lang="fra">Nombre d'alarmes par cycle d'alarme.</tu>
+	<tu xmlns:lang="deu">Anzahl der Alarme pro Alarmzyklus.</tu>
+	<tu xmlns:lang="ita">Numero di allarmi per ciclo di allarme.</tu>
+	<tu xmlns:lang="jpn">アラーム サイクルごとのアラーム回数</tu>
+	<tu xmlns:lang="ptg">Número de alarmes por ciclo de alarme.</tu>
+	<tu xmlns:lang="ptb">Número de alarmes por ciclo de alarme.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Количество сигналов тревоги на цикл тревожной сигнализации.</tu>
+	<tu xmlns:lang="esp">Número de alarmas por ciclo de la alarma.</tu>
+	<tu xmlns:lang="chs">每个报警循环中的报警次数。</tu>
+	<tu xmlns:lang="kor">알람 사이클당 알람 횟수</tu>
+</tm>

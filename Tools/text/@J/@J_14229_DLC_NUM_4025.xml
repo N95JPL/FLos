@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DLC_NUM_4025">
+	<tu xmlns:lang="eng">Battery quiescent current  -  Low range</tu>
+	<tu xmlns:lang="nld">Ruststroom door accu  -  Laag bereik</tu>
+	<tu
+    xmlns:lang="fra"
+  >Courant de repos absorbé par la batterie  -  Gamme basse.</tu>
+	<tu xmlns:lang="deu">Batterie-Ruhestrom  -  Niedriger Bereich</tu>
+	<tu xmlns:lang="ita">Corrente a riposo della batteria  -  Gamma bassa</tu>
+	<tu xmlns:lang="jpn">バッテリ暗電流  －  ロー レンジ</tu>
+	<tu xmlns:lang="ptg">Corrente de repouso da bateria  -  Gama baixa</tu>
+	<tu xmlns:lang="ptb">Corrente inativa da bateria  -  Intervalo baixo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ток покоя аккумуляторной батареи  -  Диапазон низших передаточных чисел</tu>
+	<tu xmlns:lang="esp">Corriente de reposo de la batería  -  Marchas cortas</tu>
+	<tu xmlns:lang="chs">蓄电池静态电流  -  低范围</tu>
+	<tu xmlns:lang="kor">배터리 대기 전류  -  로우 레인지</tu>
+</tm>

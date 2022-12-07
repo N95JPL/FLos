@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INTERCOM">
+	<tu xmlns:lang="eng">Intercom</tu>
+	<tu xmlns:lang="nld">Intercom</tu>
+	<tu xmlns:lang="fra">Intercom</tu>
+	<tu xmlns:lang="deu">Gegensprechanlage</tu>
+	<tu xmlns:lang="ita">Intercom</tu>
+	<tu xmlns:lang="jpn">インターコム</tu>
+	<tu xmlns:lang="ptg">Intercom</tu>
+	<tu xmlns:lang="ptb">Intercomunicação</tu>
+	<tu xmlns:lang="rus">Система внутренней связи</tu>
+	<tu xmlns:lang="esp">Intercomunicador</tu>
+	<tu xmlns:lang="chs">内部通讯</tu>
+	<tu xmlns:lang="kor">인터컴</tu>
+</tm>

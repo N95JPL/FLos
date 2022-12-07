@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RERUN_APPLICATION">
+	<tu xmlns:lang="eng">Re-run the procedure from the menu.</tu>
+	<tu xmlns:lang="nld">Voer de procedure nogmaals via het menu uit.</tu>
+	<tu xmlns:lang="fra">Exécutez de nouveau la procédure à partir du menu.</tu>
+	<tu xmlns:lang="deu">Vorgang vom Menü aus erneut laufen lassen.</tu>
+	<tu xmlns:lang="ita">Riesegui la procedura dal menu.</tu>
+	<tu xmlns:lang="jpn">メニューから手順を再実行しなさい。</tu>
+	<tu xmlns:lang="ptg">Executar novamente o procedimento a partir do menu.</tu>
+	<tu xmlns:lang="ptb">Refaça o procedimento a partir do menu.</tu>
+	<tu xmlns:lang="rus">Повторите выполнение процедуры из меню.</tu>
+	<tu xmlns:lang="esp">Repetir el procedimiento desde el menú.</tu>
+	<tu xmlns:lang="chs">从菜单中重新运行程序。</tu>
+	<tu xmlns:lang="kor">메뉴에서 이 절차를 다시 실행하십시오.</tu>
+</tm>

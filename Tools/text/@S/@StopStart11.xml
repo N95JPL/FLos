@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart11">
+	<tu
+    xmlns:lang="eng"
+  >If the secondary battery state of charge - Estimated (secondary battery) is not displayed in the left column a midtronics battery test will identify any issues.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de Laadtoestand secundaire accu - Schatting (secundaire accu) niet in de linker kolom wordt weergegeven, worden eventuele problemen vastgesteld met een Midtronics-accutest.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si l'état de charge de la batterie secondaire - Estimation (batterie secondaire) ne s'affiche pas dans la colonne de gauche, un test de batterie Midtronics permettra d'identifier un éventuel problème.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn der Ladezustand der Sekundärbatterie – Geschätzt (Sekundärbatterie) – nicht in der linken Spalte angezeigt wird, können mit einer Midtronics-Batterieprüfung alle Probleme identifiziert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se lo stato di carica della batteria secondaria - Stimato (batteria secondaria) non viene visualizzato nella colonna di sinistra, il tester per batterie Midtronics segnalerà eventuali problemi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >「セカンダリ バッテリー充電状態 - 予測値 (セカンダリ バッテリー)」が左側の列に表示されない場合、Midtronics バッテリー テストによって問題が特定されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o estado de carga da bateria secundária - Estimado (bateria secundária) não for apresentado na coluna do lado esquerdo, o teste de bateria Midtronics identifica quaisquer eventuais problemas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o estado de carga da bateria secundária - Estimado (bateria secundária) não for exibido na coluna esquerda, um teste da bateria midtronics irá identificar quaisquer problemas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если состояние заряда вспомогательной аккумуляторной батареи (расчетное, вспомогательная аккумуляторная батарея) не отображается в левой колонке, при проверке АКБ с помощью тестера Midtronics будут выявлены проблемы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el estado de carga de la batería auxiliar Estimado (batería auxiliar) no se muestra en la columna izquierda, una prueba de la batería Midtronics identificará los problemas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果辅助蓄电池电荷状态估计值未显示在左栏中，则 midtronics 蓄电池测试可以确定任何问题。</tu>
+	<tu
+    xmlns:lang="kor"
+  >보조 배터리 충전 상태 - 왼쪽 열에 추정치(보조 배터리)가 표시되지 않으며, Midtronics 배터리 테스트에서 문제를 식별하게 됩니다.</tu>
+</tm>

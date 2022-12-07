@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_UPDAT_NAV">
+	<tu
+    xmlns:lang="eng"
+  >Please update the navigation system using the navigation DVD supplied.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Werk het navigatiesysteem bij met de geleverde navigatie-dvd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez mettre à jour le système de navigation à l'aide du DVD de navigation fourni.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Navigationssystem mit der gelieferten Navigations-DVD aktualisieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Aggiornare il sistema di navigazione usando il DVD di navigazione in dotazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >供給されたナビゲーション DVD を使用し、ナビゲーション システムを更新しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Actualizar o sistema de navegação com o DVD de navegação fornecido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Atualize o sistema de navegação usando o DVD de navegação fornecido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обновите навигационную систему с помощью прилагаемого навигационного диска DVD.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Actualizar el sistema de navegación con el DVD de navegación suministrado.</tu>
+	<tu xmlns:lang="chs">请用提供的导航DVD更新导航系统。</tu>
+	<tu
+    xmlns:lang="kor"
+  >제공된 내비게이션 DVD를 사용하여 내비게이션 시스템을 업데이트하십시오.</tu>
+</tm>

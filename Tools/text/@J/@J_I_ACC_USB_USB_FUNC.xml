@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ACC_USB_USB_FUNC">
+	<tu xmlns:lang="eng">Accessory USB unit with USB function</tu>
+	<tu xmlns:lang="nld">USB-aansluitpunt voor accessoires met USB-functie</tu>
+	<tu xmlns:lang="fra">Module USB accessoire avec fonction USB</tu>
+	<tu xmlns:lang="deu">USB-Einheit mit USB-Funktion für Zusatzgeräte</tu>
+	<tu xmlns:lang="ita">Unità USB accessoria con funzione USB</tu>
+	<tu xmlns:lang="jpn">USB 機能\を装備したアクセサリ USB ユニット</tu>
+	<tu xmlns:lang="ptg">Unidade USB acessória com função USB</tu>
+	<tu xmlns:lang="ptb">Unidade USB acessória com função USB</tu>
+	<tu xmlns:lang="rus">Дополнительный блок USB с поддержкой USB</tu>
+	<tu xmlns:lang="esp">Unidad USB de accesorio con función USB</tu>
+	<tu xmlns:lang="chs">具备 USB 功能的 USB 附件单元</tu>
+	<tu xmlns:lang="kor">USB 기능이 있는 액세서리 USB 유닛</tu>
+</tm>

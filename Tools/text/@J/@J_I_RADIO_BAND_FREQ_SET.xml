@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RADIO_BAND_FREQ_SET">
+	<tu xmlns:lang="eng">Audio unit (radio) band/frequency setting</tu>
+	<tu
+    xmlns:lang="nld"
+  >Instelling van band/frequentie (radio) van audioinstallatie</tu>
+	<tu xmlns:lang="fra">Réglage des canaux/fréquences (radio) de l'autoradio</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einstellung Frequenzbereich/Senderfrequenz Audiogerät (Radio)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impostazione banda/frequenza impianto audio (autoradio)</tu>
+	<tu xmlns:lang="jpn">オーディオ ユニット (ラジオ) バンド／周波数設定</tu>
+	<tu xmlns:lang="ptg">Regulação da banda/frequência da unidade áudio (rádio)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ajuste de faixa*/frequência (rádio) da unidade de áudio</tu>
+	<tu
+    xmlns:lang="rus"
+  >Настройка диапазона/частоты аудиосистемы (радиоприемника)</tu>
+	<tu xmlns:lang="esp">Ajuste de banda/frecuencia del equipo de audio (radio)</tu>
+	<tu xmlns:lang="chs">音频单元（收音机）波段/频率设置</tu>
+	<tu xmlns:lang="kor">오디오 장치(라디오) 대역/주파수 설정</tu>
+</tm>

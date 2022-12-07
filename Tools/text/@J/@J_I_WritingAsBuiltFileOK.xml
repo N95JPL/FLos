@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WritingAsBuiltFileOK">
+	<tu xmlns:lang="eng">As built file written OK</tu>
+	<tu xmlns:lang="nld">Bestand af fabriek goed geschreven</tu>
+	<tu xmlns:lang="fra">Fichier de configuration usine écrit correctement</tu>
+	<tu xmlns:lang="deu">Datei mit werkseitigen Baudaten mit Erfolg geschrieben</tu>
+	<tu xmlns:lang="ita">Scrittura file di fabbricazione OK</tu>
+	<tu xmlns:lang="jpn">アズ ビルト ファイル書き込み良好</tu>
+	<tu xmlns:lang="ptg">Escrita no ficheiro dos dados de fábrica OK</tu>
+	<tu xmlns:lang="ptb">Como arquivo incorporado escrito OK</tu>
+	<tu xmlns:lang="rus">Запись файла заводских параметров завершена успешно</tu>
+	<tu
+    xmlns:lang="esp"
+  >Archivo de configuración de fábrica escrito correctamente</tu>
+	<tu xmlns:lang="chs">编译文件正常写入</tu>
+	<tu xmlns:lang="kor">애즈-빌트(As-Built) 파일 쓰기 정상</tu>
+</tm>

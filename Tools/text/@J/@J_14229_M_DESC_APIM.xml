@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_APIM">
+	<tu xmlns:lang="eng">Accessory protocol interface module</tu>
+	<tu xmlns:lang="nld">Protocol-interfacemodule van accessoires</tu>
+	<tu xmlns:lang="fra">Module d'interface de protocole d'accessoire</tu>
+	<tu xmlns:lang="deu">Zusatzgeräteprotokoll-Schnittstellenmodul</tu>
+	<tu xmlns:lang="ita">Modulo interfaccia protocollo accessori</tu>
+	<tu xmlns:lang="jpn">アクセサリ プロトコル インターフェース モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo da interface de protocolo dos acessórios</tu>
+	<tu xmlns:lang="ptb">Módulo de interface de protocolo de acessório</tu>
+	<tu
+    xmlns:lang="rus"
+  >Модуль интерфейса протокола дополнительного оборудования</tu>
+	<tu xmlns:lang="esp">Módulo de interfaz de protocolo de accesorios</tu>
+	<tu xmlns:lang="chs">辅助协议接口模块</tu>
+	<tu xmlns:lang="kor">액세서리 프로토콜 인터페이스 모듈</tu>
+</tm>

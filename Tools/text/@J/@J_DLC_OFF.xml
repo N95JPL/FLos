@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_OFF">
+	<tu xmlns:lang="eng">Off</tu>
+	<tu xmlns:lang="nld">Uit</tu>
+	<tu xmlns:lang="fra">Désactivé</tu>
+	<tu xmlns:lang="deu">Aus</tu>
+	<tu xmlns:lang="ita">Spento</tu>
+	<tu xmlns:lang="jpn">オフ</tu>
+	<tu xmlns:lang="ptg">Desligado</tu>
+	<tu xmlns:lang="ptb">Desl.</tu>
+	<tu xmlns:lang="rus">Выкл.</tu>
+	<tu xmlns:lang="esp">Desactivado</tu>
+	<tu xmlns:lang="chs">关闭</tu>
+	<tu xmlns:lang="kor">OFF</tu>
+</tm>

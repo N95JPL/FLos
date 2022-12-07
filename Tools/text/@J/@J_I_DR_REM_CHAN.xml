@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DR_REM_CHAN">
+	<tu xmlns:lang="eng">Door remote control channel type</tu>
+	<tu xmlns:lang="nld">Kanaaltype van afstandsbediening van portier</tu>
+	<tu xmlns:lang="fra">Type de canal de télécommande de porte</tu>
+	<tu xmlns:lang="deu">Kanaltyp Tür-Fernbedienung</tu>
+	<tu xmlns:lang="ita">Tipo canale telecomando portiere</tu>
+	<tu xmlns:lang="jpn">ドア リモート コントロール チャンネル タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de canal do comando à distância das portas</tu>
+	<tu xmlns:lang="ptb">Tipo de canal de controle remoto das portas</tu>
+	<tu xmlns:lang="rus">Тип дистанционного управления дверями</tu>
+	<tu xmlns:lang="esp">Tipo de mando a distancia de puerta por canales</tu>
+	<tu xmlns:lang="chs">车门遥控通道类型</tu>
+	<tu xmlns:lang="kor">도어 리모컨 채널 유형</tu>
+</tm>

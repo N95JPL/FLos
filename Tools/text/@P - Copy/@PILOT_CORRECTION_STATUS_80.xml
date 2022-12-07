@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_80">
+	<tu xmlns:lang="eng">0x80 : Learn was successful.</tu>
+	<tu xmlns:lang="nld">0x80 : het inleren is met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">0x80 : Apprentissage réussi.</tu>
+	<tu xmlns:lang="deu">0x80 : Erlernung war erfolgreich.</tu>
+	<tu xmlns:lang="ita">0x80 : L'apprendimento è riuscito.</tu>
+	<tu xmlns:lang="jpn">0x80 : 学習は正常に完了。</tu>
+	<tu xmlns:lang="ptg">0x80 : Programação bem sucedida.</tu>
+	<tu xmlns:lang="ptb">0X80 : Aprendizagem foi bem-sucedida.</tu>
+	<tu xmlns:lang="rus">0x80 : Сохранение выполнено успешно.</tu>
+	<tu xmlns:lang="esp">0x80: El aprendizaje fue satisfactorio.</tu>
+	<tu xmlns:lang="chs">0x80： 记忆成功完成。</tu>
+	<tu xmlns:lang="kor">0x80 : 학습에 성공했습니다.</tu>
+</tm>

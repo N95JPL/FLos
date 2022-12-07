@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_PSS_SERVICE_MODE_03">
+	<tu
+    xmlns:lang="eng"
+  >Battery monitoring system - Switching charge system to minimum charge mode</tu>
+	<tu
+    xmlns:lang="nld"
+  >Accucontrolesysteem - Laadsysteem naar minimale laadmodus schakelen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système de surveillance de la batterie - Basculement du système de charge en mode charge minimale</tu>
+	<tu
+    xmlns:lang="deu"
+  >Batterieüberwachungssystem – Ladesystem auf minimalen Lademodus schalten</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema di monitoraggio della batteria - Portare il sistema di carica alla modalità di ricarica minima</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリー モニタリング システム - 充電システムを最小充電モードに切り替え中</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de monitorização da bateria - Alterar o sistema de carga para o modo de carga mínima</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de monitoramento de bateria - Alternar o sistema de carregamento para o modo de carregamento mínimo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система контроля аккумуляторной батареи – Переключение системы зарядки в режим минимальной зарядки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de control de la batería - Cambiando sistema de carga al modo de carga mínima</tu>
+	<tu xmlns:lang="chs">蓄电池监测系统 - 将充电系统切换到最小充电模式</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리 모니터링 시스템 - 충전 시스템을 최소 충전 모드로 전환 중</tu>
+</tm>

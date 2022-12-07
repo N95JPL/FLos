@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_SCP">
+	<tu xmlns:lang="eng">SCP network</tu>
+	<tu xmlns:lang="nld">SCP netwerk</tu>
+	<tu xmlns:lang="fra">Reseau SCP</tu>
+	<tu xmlns:lang="deu">SCP-datenbus</tu>
+	<tu xmlns:lang="ita">Rete SCP</tu>
+	<tu xmlns:lang="jpn">SCP ネットワーク</tu>
+	<tu xmlns:lang="ptg">Rede - SCP</tu>
+	<tu xmlns:lang="ptb">Rede SCP</tu>
+	<tu xmlns:lang="rus">Сеть SCP</tu>
+	<tu xmlns:lang="esp">Red SCP</tu>
+	<tu xmlns:lang="chs">SCP 网络</tu>
+	<tu xmlns:lang="kor">SCP 네트워크</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EMISS_EVAP_SYST">
+	<tu xmlns:lang="eng">Emissions  -  Evaporation system</tu>
+	<tu xmlns:lang="nld">Emissies  -  Verdampingssysteem</tu>
+	<tu xmlns:lang="fra">Emissions  -  Système d'évaporation</tu>
+	<tu xmlns:lang="deu">Abgasbezogen  -  Verdampfungssystem</tu>
+	<tu xmlns:lang="ita">Relativo alle emissioni  -  Sistema evaporazione</tu>
+	<tu xmlns:lang="jpn">ｴﾐｯｼｮﾝ関連  －  エバポレーション システム</tu>
+	<tu xmlns:lang="ptg">Emissões  -  Sistema de evaporação</tu>
+	<tu xmlns:lang="ptb">Emissões  -  Sistema de evaporação</tu>
+	<tu xmlns:lang="rus">Выбросы.  -  Система отвода топливных паров</tu>
+	<tu xmlns:lang="esp">Emisiones  -  Sistema de evaporación</tu>
+	<tu xmlns:lang="chs">排放  -  蒸发系统</tu>
+	<tu xmlns:lang="kor">배출 가스  -  증발 시스템</tu>
+</tm>

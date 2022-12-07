@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RenAirEcu$I">
+	<tu xmlns:lang="eng">Replace the air bag control module.</tu>
+	<tu xmlns:lang="nld">Vervang de airbagregelmodule.</tu>
+	<tu xmlns:lang="fra">Remplacez le module de commande d'airbag.</tu>
+	<tu xmlns:lang="deu">Airbag-Steuergerät ersetzen.</tu>
+	<tu xmlns:lang="ita">Sostituire il modulo di comando dell'airbag.</tu>
+	<tu xmlns:lang="jpn">エアバッグ コントロール モジュールを交換しなさい。</tu>
+	<tu xmlns:lang="ptg">Substitua o módulo de controlo dos airbags.</tu>
+	<tu xmlns:lang="ptb">Substitua o módulo de controle do airbag.</tu>
+	<tu xmlns:lang="rus">Замените блок управления подушками безопасности.</tu>
+	<tu xmlns:lang="esp">Sustituir el módulo de control de los airbags.</tu>
+	<tu xmlns:lang="chs">更换安全气囊控制模块。</tu>
+	<tu xmlns:lang="kor">에어백 컨트롤 모듈을 교체하십시오.</tu>
+</tm>

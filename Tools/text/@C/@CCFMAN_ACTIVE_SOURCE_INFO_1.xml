@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_ACTIVE_SOURCE_INFO_1">
+	<tu
+    xmlns:lang="eng"
+  >The next screen consists of two parts; the first part shows the data parameters and corresponding values from the current active car configuration file; the second part shows the various car configuration file sources and the value for each source of the active parameter selected. Any mismatching parameters (critical or personalisation) are shown with the corresponding icon.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het volgende scherm bestaat uit twee delen. Het eerste deel toont de gegevensparameters met bijbehorende waarden van het huidige, actieve voertuigconfiguratiebestand; het tweede deel toont de diverse bronnen van het voertuigconfiguratiebestand met de waarde van iedere bron van de geselecteerde, actieve parameter. Eventueel niet overeenkomende parameters (kritiek of persoonlijke voorkeur) worden getoond met het bijbehorende pictogram.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'écran suivant comporte deux parties ; la première montre les paramètres de données et les valeurs correspondantes tirées du fichier de configuration du véhicule actuellement actif ; la deuxième partie montre les diverses sources de fichier de configuration de voiture et la valeur pour chaque source du paramètre actif sélectionné. Tous les paramètres qui ne concordent pas (critiques ou de personnalisation) sont indiqués avec l'icône correspondante.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der nächste Bildschirm besteht aus zwei Teilen. Der erste Teil zeigt die Datenparameter und die zugehörigen Werte aus der gegenwärtig aktiven Fahrzeug-Konfigurationsdatei, der zweite Teil zeigt die verschiedenen Quellen für die Fahrzeug-Konfigurationsdatei und den Wert für jede Quelle des gewählten aktiven Parameters. Alle Parameter ohne Übereinstimmung (kritische Parameter oder solche der Personalisierung) werden mit dem entsprechenden Symbol angezeigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La schermata seguente è divisa in due parti; la prima parte mostra i parametri dei dati e i valori corrispondenti presi dall'attuale file di configurazione veicolo attiva; la seconda parte mostra le varie sorgenti di file di configurazione veicolo e il valore di ciascuna sorgente del parametro attivo selezionato. Eventuali parametri discordanti (critici o personalizzati) sono indicati con l'icona corrispondente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の画面は 2 つの部分で構\成されています。最初の部分にはデータ パラメータとそれに呼応する現在のアクティブ車両コンフィギュレーション ファイルからの数値が表\示されます。第 2 の部分には種々の車両コンフィギュレーション ファイル ソ\ースと選択されたアクティブなパラメータの各ソ\ース数値が表\示されます。ミスマッチする (重大な、あるいは個人設定用) パラメータは呼応するアイコンとともに表\示されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O ecrã seguinte é constituído por duas partes; a primeira parte mostra os parâmetros de dados e valores correspondentes do ficheiro de configuração do veículo activo no momento; a segunda parte mostra as várias fontes de ficheiros de configuração do veículo e o valor para cada fonte do parâmetro activo seleccionado. Todos os parâmetros não correspondentes (críticos ou personalização) são mostrados com o ícone correspondente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A próxima tela consiste em duas partes; a primeira parte mostra os parâmetros de dados e os valores correspondentes do arquivo de configuração do carro atual; a segunda parte mostra as várias fontes de arquivo de configuração do carro e o valor de cada fonte do parâmetro ativo selecionado. Qualquer parâmetro incompatível (crítico ou de personalização) é mostrado com o ícone correspondente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующий экран состоит из двух частей; в первой части отображаются параметры и соответствующие значения из текущего активного файла конфигурации автомобиля; во второй части отображаются различные источники файла конфигурации автомобиля и значение выбранного активного параметра для каждого источника. Несоответствующие параметры (критические или персонализации) отмечаются соответствующим значком.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La siguiente pantalla consta de dos partes; en la primera se muestran los parámetros de datos y sus valores correspondientes en el archivo de configuración del vehículo activo actualmente; en la segunda, se muestran las distintas fuentes de configuración del vehículo y el valor en cada fuente del parámetro activo seleccionado. Los parámetros discordantes (críticos o de personalización) se muestran con el icono correspondiente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >下一屏幕由两部分组成；第一部分显示数据参数和来自当前启用的车辆配置文件的对应数值；第二部分显示各种车辆配置文件来源和选择的在用参数的每一来源的数值。 所有失配参数（关键或个性化参数）均显示相应的图标。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 화면은 두 부분으로 구성됩니다. 첫 번째 부분에는 현재 활성 차량 구성 파일의 데이터 매개 변수와 그에 해당하는 값이 표시되고, 두 번째 부분에는 다양한 차량 구성 파일 소스와 선택한 활성 매개 변수의 각 소스에 대한 값이 표시됩니다. 불일치하는 모든 매개 변수(중대한 매개 변수 또는 개인화 매개 변수)는 해당 아이콘과 함께 표시됩니다.</tu>
+</tm>

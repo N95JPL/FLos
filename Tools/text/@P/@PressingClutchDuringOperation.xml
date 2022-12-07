@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PressingClutchDuringOperation">
+	<tu
+    xmlns:lang="eng"
+  >Pressing the clutch pedal during a stop/start system stop function will cause the engine to restart.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer u het koppelingspedaal intrapt wanneer de Stop/Start-functie is geactiveerd, wordt de motor opnieuw gestart.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une pression sur la pédale d'embrayage pendant l'arrêt du système Arrêt/Démarrage entraîne le redémarrage du moteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Durch Herunterdrücken des Kupplungspedals bei Betätigung der Stopp-Funktion des Stopp/Start-Systems wird der Motor neugestartet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La pressione sul pedale della frizione durante l'arresto del sistema Stop/Start provoca il riavvio del motore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スタート/ストップ システムのストップ機能中にクラッチ ペダルを踏み込むと、エンジンが再起動する。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se premir o pedal da embraiagem durante uma função de paragem do sistema Stop/Start, o motor irá reiniciar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressionar o pedal da embreagem durante a função de parada do sistema stop/start causará nova partida do motor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажатие педали сцепления во время действия функции остановки системы Стоп/Старт приведет к повторному запуску двигателя.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se pisa el pedal de embrague durante la función de parada del sistema Stop/Start, el motor volverá a arrancar.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在停止/启动系统停止功能期间踩下离合器踏板将使发动机重新起动。</tu>
+	<tu
+    xmlns:lang="kor"
+  >Stop/Start 시스템의 Stop 기능 작동 중에 클러치 페달을 밟으면 엔진이 재시동하게 됩니다.</tu>
+</tm>

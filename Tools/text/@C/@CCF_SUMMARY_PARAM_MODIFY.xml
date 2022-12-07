@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_SUMMARY_PARAM_MODIFY">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle configuration summary from download after parameter modification</tu>
+	<tu
+    xmlns:lang="nld"
+  >Overzicht van voertuigconfiguratie vanuit download na parameterwijziging</tu>
+	<tu
+    xmlns:lang="fra"
+  >Résumé de configuration du véhicule par téléchargement après modification de paramètre</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeugkonfiguration - Zusammenfassung aus Herunterladen nach Parametermodifikation</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sommario configurazione veicolo dal download dopo modifica parametri</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パラメータ変更後のダウンロードによる車両コンフィギュレーション概要</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sumário da configuração do veículo da transferência depois da modificação de parâmetros</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Resumo da configuração do veículo a partir do download após a modificação do parâmetro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сводка конфигурации автомобиля посредством загрузки после изменения параметров</tu>
+	<tu
+    xmlns:lang="esp"
+  >Resumen de configuración del vehículo correspondiente a descarga tras una modificación de parámetros</tu>
+	<tu xmlns:lang="chs">参数修改后下载得来的车辆配置概要</tu>
+	<tu xmlns:lang="kor">매개 변수 수정 후 다운로드에서 얻은 차량 구성 요약</tu>
+</tm>

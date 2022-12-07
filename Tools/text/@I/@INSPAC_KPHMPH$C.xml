@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INSPAC_KPHMPH$C">
+	<tu xmlns:lang="eng">Trip computer km/h / mph select</tu>
+	<tu xmlns:lang="nld">Boordcomputer, km/uur / mijl/uur selecteren.</tu>
+	<tu xmlns:lang="fra">Sélection KM/H / MPH de l'ordinateur de bord</tu>
+	<tu xmlns:lang="deu">Bordcomputertaste 'Umschalten km/h / Meilen/h'</tu>
+	<tu xmlns:lang="ita">Selezione km/h - mph computer di viaggio</tu>
+	<tu xmlns:lang="jpn">ﾄﾘｯﾌﾟ・ｺﾝﾋﾟｭーﾀkm時／ﾏｲﾙ時の選択</tu>
+	<tu xmlns:lang="ptg">Selecção de km/h / mph no computador de bordo</tu>
+	<tu xmlns:lang="ptb">Seleção de km/h/mph do computador de bordo</tu>
+	<tu xmlns:lang="rus">Выбор режима км/ч / миль/ч маршрутного компьютера</tu>
+	<tu xmlns:lang="esp">Selección de Km/h / mph en el ordenador de viaje</tu>
+	<tu xmlns:lang="chs">行车计算机 km/h/mph 选择</tu>
+	<tu xmlns:lang="kor">트립 컴퓨터 km/h / mph 선택</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_DRL_SET">
+	<tu xmlns:lang="eng">Failed daylight running mode update.</tu>
+	<tu xmlns:lang="nld">Bijwerken van dagverlichtingsfunctie is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de la mise à jour du mode feux de jour.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Aktualisierung Modus Tageslichtleuchten nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Aggiornamento modalità luci diurne non riuscito.</tu>
+	<tu xmlns:lang="jpn">昼間走行モード更新に失敗</tu>
+	<tu xmlns:lang="ptg">Actualização do modo de condução diurna falhou.</tu>
+	<tu xmlns:lang="ptb">Falha na atualização do modo de execução diurno.</tu>
+	<tu xmlns:lang="rus">Ошибка обновления режима дневных габаритных фонарей.</tu>
+	<tu xmlns:lang="esp">No se pudo actualizar el modo de conducción diurna.</tu>
+	<tu xmlns:lang="chs">日光运行模式更新失败。</tu>
+	<tu xmlns:lang="kor">주간 주행 모드 업데이트 실패</tu>
+</tm>

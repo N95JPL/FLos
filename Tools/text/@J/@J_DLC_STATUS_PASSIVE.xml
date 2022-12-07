@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_STATUS_PASSIVE">
+	<tu xmlns:lang="eng">Passive</tu>
+	<tu xmlns:lang="nld">Passief.</tu>
+	<tu xmlns:lang="fra">Passif</tu>
+	<tu xmlns:lang="deu">Passiv</tu>
+	<tu xmlns:lang="ita">Passivo</tu>
+	<tu xmlns:lang="jpn">パッシブ</tu>
+	<tu xmlns:lang="ptg">Passivo</tu>
+	<tu xmlns:lang="ptb">Passiva</tu>
+	<tu xmlns:lang="rus">Пассивная</tu>
+	<tu xmlns:lang="esp">Pasivo</tu>
+	<tu xmlns:lang="chs">无源</tu>
+	<tu xmlns:lang="kor">수동형</tu>
+</tm>

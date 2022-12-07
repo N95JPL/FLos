@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PRK_CAM">
+	<tu xmlns:lang="eng">Parking camera</tu>
+	<tu xmlns:lang="nld">Parkeervideocamera</tu>
+	<tu xmlns:lang="fra">Caméra de stationnement</tu>
+	<tu xmlns:lang="deu">Einparkkamera</tu>
+	<tu xmlns:lang="ita">Telecamera parcheggio</tu>
+	<tu xmlns:lang="jpn">パーキング カメラ</tu>
+	<tu xmlns:lang="ptg">Câmara auxiliar de estacionamento</tu>
+	<tu xmlns:lang="ptb">Câmera de estacionamento</tu>
+	<tu xmlns:lang="rus">Парковочная камера</tu>
+	<tu xmlns:lang="esp">Cámara de aparcamiento</tu>
+	<tu xmlns:lang="chs">驻车照相机</tu>
+	<tu xmlns:lang="kor">주차 카메라</tu>
+</tm>

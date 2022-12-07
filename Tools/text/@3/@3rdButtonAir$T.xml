@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@3rdButtonAir$T">
+	<tu xmlns:lang="eng">Third button configuration - air suspension.</tu>
+	<tu xmlns:lang="nld">Configuratie van derde toets - luchtvering.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Configuration du troisième bouton - suspension pneumatique.</tu>
+	<tu xmlns:lang="deu">Konfiguration der 3. Taste - Luftfederung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Configurazione terzo pulsante - sospensione pneumatica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >第 3 ボタンのコンフィギュレーション － エア サスペンション</tu>
+	<tu xmlns:lang="ptg">Configuração do terceiro botão - suspensão pneumática.</tu>
+	<tu xmlns:lang="ptb">Configuração do terceiro botão - suspensão a ar.</tu>
+	<tu xmlns:lang="rus">Конфигурация третьей кнопки - пневматическая подвеска.</tu>
+	<tu xmlns:lang="esp">Configuración del tercer botón: suspensión neumática.</tu>
+	<tu xmlns:lang="chs">第三按钮配置 - 空气悬架。</tu>
+	<tu xmlns:lang="kor">세 번째 버튼 구성 - 에어 서스펜션</tu>
+</tm>

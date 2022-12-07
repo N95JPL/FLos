@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WITH_REMOTE_UNLOCK">
+	<tu xmlns:lang="eng">With remote unlock</tu>
+	<tu xmlns:lang="nld">Met ontgrendeling op afstand</tu>
+	<tu xmlns:lang="fra">Avec déverrouillage à distance</tu>
+	<tu xmlns:lang="deu">Mit Fernentriegelung</tu>
+	<tu xmlns:lang="ita">Con sbloccaggio da telecomando</tu>
+	<tu xmlns:lang="jpn">リモートによるアンロックで</tu>
+	<tu xmlns:lang="ptg">Com destrancagem à distância</tu>
+	<tu xmlns:lang="ptb">Com desbloqueio remoto</tu>
+	<tu xmlns:lang="rus">С дистанционным отпиранием</tu>
+	<tu xmlns:lang="esp">Con desbloqueo mediante mando a distancia</tu>
+	<tu xmlns:lang="chs">在遥控开锁条件下</tu>
+	<tu xmlns:lang="kor">원격 잠금 해제 기능 포함</tu>
+</tm>

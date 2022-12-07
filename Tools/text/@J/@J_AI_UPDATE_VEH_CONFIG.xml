@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_AI_UPDATE_VEH_CONFIG">
+	<tu xmlns:lang="eng">Updating the vehicle configuration file.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bezig met het bijwerken van het voertuigconfiguratiebestand.</tu>
+	<tu xmlns:lang="fra">Mise à jour du fichier de configuration du véhicule.</tu>
+	<tu xmlns:lang="deu">Die Fahrzeug-Konfigurationsdatei wird aktualisiert.</tu>
+	<tu xmlns:lang="ita">Aggiornamento file di configurazione veicolo.</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション ファイルを更新中</tu>
+	<tu xmlns:lang="ptg">A actualizar o ficheiro de configuração do veículo.</tu>
+	<tu xmlns:lang="ptb">Atualização do arquivo de configuração de veículo.</tu>
+	<tu xmlns:lang="rus">Обновление файла конфигурации автомобиля.</tu>
+	<tu xmlns:lang="esp">Actualizando el archivo de configuración del vehículo.</tu>
+	<tu xmlns:lang="chs">更新车辆配置文件。</tu>
+	<tu xmlns:lang="kor">차량 구성 파일 업데이트 중</tu>
+</tm>

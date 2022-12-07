@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_A_UNSCREW_SOLENOID">
+	<tu
+    xmlns:lang="eng"
+  >Unscrew the solenoid, but do not remove the solenoid from the transfer case.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Schroef de solenoïde los, maar u mag de solenoïde niet van de tussenbak verwijderen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Dévissez le solénoïde mais ne le déposez pas de la boîte de transfert.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Schaltmagneten losschrauben, jedoch nicht aus dem Verteilergetriebe ausbauen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Svitare il solenoide senza smontarlo dalla scatola di rinvio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ソ\レノイドをトランスファー ケースから取り外さずに、ソ\レノイドのスクリューを緩めなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Desaperte o solenóide, mas não remova o solenóide da caixa de transferência.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Desparafuse o solenoide, mas não remova o solenoide da caixa de transferência.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отвинтить соленоид, но не извлекать соленоид из раздаточной коробки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Desenroscar el solenoide pero sin extraerlo de la caja de transferencia.</tu>
+	<tu xmlns:lang="chs">'松开电磁阀，但不要从分动箱上取下电磁阀。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >솔레노이드를 풀되, 트랜스퍼 케이스에서 솔레노이드를 탈거하지 마십시오.</tu>
+</tm>

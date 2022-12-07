@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABOVE_APP_FAIL">
+	<tu xmlns:lang="eng">The above application has failed.</tu>
+	<tu xmlns:lang="nld">De bovenstaande toepassing is vastgelopen.</tu>
+	<tu xmlns:lang="fra">L'application ci-dessus a échoué.</tu>
+	<tu xmlns:lang="deu">Die Anwendung oben verlief nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">L'applicazione suddetta non è riuscita.</tu>
+	<tu xmlns:lang="jpn">上記のアプリケーションは失敗しました。</tu>
+	<tu xmlns:lang="ptg">A aplicação anterior falhou.</tu>
+	<tu xmlns:lang="ptb">O aplicativo acima está com defeito.</tu>
+	<tu xmlns:lang="rus">Сбой при выполнении вышеуказанного приложения.</tu>
+	<tu xmlns:lang="esp">La aplicación citada ha fallado.</tu>
+	<tu xmlns:lang="chs">上述应用已失败。</tu>
+	<tu xmlns:lang="kor">위 애플리케이션이 실패했습니다.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROGRAM_ECU_SEC_CODE">
+	<tu
+    xmlns:lang="eng"
+  >The tester will now program the engine ECU with the security code.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het testapparaat zal nu de beveiligingscode in de motor-ECU programmeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le testeur va maintenant programmer l'ECU moteur avec le code de sécurité.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Tester programmiert jetzt dem Motorsteuergerät den Sicherheitscode ein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il tester programmerà ora l'ECU motore con il codice di sicurezza.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テスターはこれからセキュリティ コードでエンジン ECU をプログラムします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O equipamento de teste programará a ECU do motor com o código de segurança.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O testador agora vai programar o motor ECU com o código de segurança.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Тестер сейчас запрограммирует код системы защиты в блок управления двигателем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El comprobador programará la ECU del motor con el código de seguridad.</tu>
+	<tu
+    xmlns:lang="chs"
+  >测试仪现在将利用防盗密码对发动机电子控制单元（ECU）进行编程。</tu>
+	<tu xmlns:lang="kor">테스터가 보안 코드로 엔진 ECU를 프로그래밍합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MICROPHON_NOT_FIT">
+	<tu xmlns:lang="eng">Not fitted with a microphone.</tu>
+	<tu xmlns:lang="nld">Niet uitgerust met een microfoon.</tu>
+	<tu xmlns:lang="fra">Non équipé d'un micro.</tu>
+	<tu xmlns:lang="deu">Nicht mit einem Mikrofon ausgestattet.</tu>
+	<tu xmlns:lang="ita">Microfono non in dotazione.</tu>
+	<tu xmlns:lang="jpn">マイクロホン非装備</tu>
+	<tu xmlns:lang="ptg">Não equipado com microfone.</tu>
+	<tu xmlns:lang="ptb">Não equipado com um microfone.</tu>
+	<tu xmlns:lang="rus">Не снабжен микрофоном.</tu>
+	<tu xmlns:lang="esp">No tiene micrófono.</tu>
+	<tu xmlns:lang="chs">未安装麦克风。</tu>
+	<tu xmlns:lang="kor">마이크가 장착되지 않음</tu>
+</tm>

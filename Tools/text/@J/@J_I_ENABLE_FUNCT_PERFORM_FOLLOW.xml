@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENABLE_FUNCT_PERFORM_FOLLOW">
+	<tu
+    xmlns:lang="eng"
+  >To enable this functionality you must perform the following:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om deze functie in te schakelen, moet u het volgende doen:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour activer cette fonctionnalité, vous devez procéder comme suit :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um diese Funktion zu aktivieren, muss Folgendes durchgeführt werden:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per attivare questa funzionalità, è necessario eseguire quanto segue:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この機能\を作動可に設定するには、次を実行する必要があります：</tu>
+	<tu xmlns:lang="ptg">Para activar esta função tem de fazer o seguinte:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para ativar esta funcionalidade, você deve executar o seguinte:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для включения данной функции требуется выполнить следующее:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para activar esta función debe realizarse lo siguiente:</tu>
+	<tu xmlns:lang="chs">为启用此功能，您必须执行下列操作：</tu>
+	<tu xmlns:lang="kor">이 기능을 활성화하려면 다음을 수행해야 합니다.</tu>
+</tm>

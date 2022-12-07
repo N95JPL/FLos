@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WIPER_SPEED_STEPDOWN">
+	<tu xmlns:lang="eng">Wiper speed step-down</tu>
+	<tu xmlns:lang="nld">Vertragen van ruitenwissersnelheid.</tu>
+	<tu xmlns:lang="fra">Abaissement de la vitesse de marche des essuie-glaces.</tu>
+	<tu xmlns:lang="deu">Herunterschaltung Wischergeschwindigkeit</tu>
+	<tu xmlns:lang="ita">Riduzione velocità tergicristallo</tu>
+	<tu xmlns:lang="jpn">ワイパー スピード ステップダウン</tu>
+	<tu xmlns:lang="ptg">Redução da velocidade do limpa-vidros</tu>
+	<tu xmlns:lang="ptb">Redutor da velocidade do limpador</tu>
+	<tu xmlns:lang="rus">Уменьшение скорости работы стеклоочистителя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Intervalo de reducción de velocidad del limpiaparabrisas</tu>
+	<tu xmlns:lang="chs">刮水器速度逐级降低</tu>
+	<tu xmlns:lang="kor">와이퍼 속도 감소</tu>
+</tm>

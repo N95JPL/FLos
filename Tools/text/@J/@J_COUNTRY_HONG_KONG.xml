@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_HONG_KONG">
+	<tu xmlns:lang="eng">Hong Kong</tu>
+	<tu xmlns:lang="nld">Hongkong</tu>
+	<tu xmlns:lang="fra">Hongkong</tu>
+	<tu xmlns:lang="deu">Hongkong</tu>
+	<tu xmlns:lang="ita">Hong Kong</tu>
+	<tu xmlns:lang="jpn">香港</tu>
+	<tu xmlns:lang="ptg">Hong Kong</tu>
+	<tu xmlns:lang="ptb">Hong Kong</tu>
+	<tu xmlns:lang="rus">Гонконг</tu>
+	<tu xmlns:lang="esp">Hong Kong</tu>
+	<tu xmlns:lang="chs">香港</tu>
+	<tu xmlns:lang="kor">홍콩</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MIL_DIS">
+	<tu xmlns:lang="eng">Malfunction indicator lamp disable</tu>
+	<tu xmlns:lang="nld">Defectsignaleringslampje uitgeschakeld</tu>
+	<tu xmlns:lang="fra">Témoin MIL désactivé</tu>
+	<tu xmlns:lang="deu">Fehlerkontrollleuchten-Deaktivierung</tu>
+	<tu xmlns:lang="ita">Disabilitazione spia segnalazione guasti</tu>
+	<tu xmlns:lang="jpn">故障表\示灯 (MIL) 作動不可設定</tu>
+	<tu xmlns:lang="ptg">Desactivar luz do indicador de avaria</tu>
+	<tu xmlns:lang="ptb">Luz indicadora de defeito desativada</tu>
+	<tu xmlns:lang="rus">Отключение сигнализатора неисправности</tu>
+	<tu xmlns:lang="esp">Testigo de averías desactivado</tu>
+	<tu xmlns:lang="chs">故障指示灯禁用</tu>
+	<tu xmlns:lang="kor">오작동 표시등 비활성화</tu>
+</tm>

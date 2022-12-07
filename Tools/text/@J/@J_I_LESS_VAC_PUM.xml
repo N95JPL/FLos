@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_VAC_PUM">
+	<tu xmlns:lang="eng">Without vacuum pump</tu>
+	<tu xmlns:lang="nld">Zonder vacuümpomp </tu>
+	<tu xmlns:lang="fra">Sans pompe à vide </tu>
+	<tu xmlns:lang="deu">Ohne Unterdruckpumpe </tu>
+	<tu xmlns:lang="ita">Senza pompa a depressione elettrica</tu>
+	<tu xmlns:lang="jpn">バキューム ポンプなし</tu>
+	<tu xmlns:lang="ptg">Sem bomba de vácuo</tu>
+	<tu xmlns:lang="ptb">Sem bomba a vácuo</tu>
+	<tu xmlns:lang="rus">Без вакуумного насоса </tu>
+	<tu xmlns:lang="esp">Sin bomba de vacío</tu>
+	<tu xmlns:lang="chs">无真空泵</tu>
+	<tu xmlns:lang="kor">진공 펌프 없음</tu>
+</tm>

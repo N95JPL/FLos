@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_GEN_I_GT_0A">
+	<tu xmlns:lang="eng">Generator current too high</tu>
+	<tu xmlns:lang="nld">Dynamostroom te hoog</tu>
+	<tu xmlns:lang="fra">Courant de l'alternateur trop élevé</tu>
+	<tu xmlns:lang="deu">Generatorstrom zu hoch</tu>
+	<tu xmlns:lang="ita">Corrente generatore troppo alta</tu>
+	<tu xmlns:lang="jpn">ジェネレータ電流が高過ぎ</tu>
+	<tu xmlns:lang="ptg">Corrente do alternador demasiado elevada</tu>
+	<tu xmlns:lang="ptb">Corrente muito alta do alternador</tu>
+	<tu xmlns:lang="rus">Слишком высокий ток генератора</tu>
+	<tu xmlns:lang="esp">Corriente del alternador demasiado alta</tu>
+	<tu xmlns:lang="chs">发电机电流过高</tu>
+	<tu xmlns:lang="kor">제너레이터 전류가 너무 높음</tu>
+</tm>

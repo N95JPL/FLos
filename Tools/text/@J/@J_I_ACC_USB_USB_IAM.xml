@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ACC_USB_USB_IAM">
+	<tu
+    xmlns:lang="eng"
+  >Accessory USB unit with USB function in integrated audio module</tu>
+	<tu
+    xmlns:lang="nld"
+  >USB-aansluitpunt voor accessoires met USB-functie in regelmodule van geïntegreerde geluidsinstallatie</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module USB accessoire avec fonction USB dans le module audio intégré</tu>
+	<tu
+    xmlns:lang="deu"
+  >USB-Einheit mit USB-Funktion für Zusatzgeräte im integrierten Audiosystem</tu>
+	<tu
+    xmlns:lang="ita"
+  >Unità USB accessoria con funzione USB nel modulo audio integrato</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インテグレート オーディオ モジュールに USB 機能\を装備したアクセサリ USB ユニット</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Unidade USB acessória com função USB em módulo áudio integrado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Unidade USB acessória com função USB no módulo do sistema de áudio integrado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дополнительный блок USB с поддержкой USB в блоке встроенной аудиосистемы</tu>
+	<tu
+    xmlns:lang="esp"
+  >Unidad USB de accesorio con función USB en módulo de audio integral</tu>
+	<tu xmlns:lang="chs">位于集成音频模块内、具备 USB 功能的 USB 附件单元</tu>
+	<tu xmlns:lang="kor">통합 오디오 모듈에 USB 기능이 있는 액세서리 USB 유닛</tu>
+</tm>

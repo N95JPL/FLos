@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMP_RERUN_APP">
+	<tu xmlns:lang="eng">On completion, re-run this application.</tu>
+	<tu xmlns:lang="nld">Voert u na afronding deze toepassing nogmaals uit.</tu>
+	<tu xmlns:lang="fra">Une fois terminée, relancez cette application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach dem Abschluss dieses Anwendungsprogramm erneut laufen lassen.</tu>
+	<tu xmlns:lang="ita">Al termine, rieseguire questa applicazione.</tu>
+	<tu xmlns:lang="jpn">完了後、このアプリケーションを再度実行しなさい。</tu>
+	<tu xmlns:lang="ptg">Após a conclusão, voltar a executar esta aplicação.</tu>
+	<tu xmlns:lang="ptb">Após a conclusão, execute novamente este aplicativo.</tu>
+	<tu xmlns:lang="rus">По завершении еще раз выполните данное приложение.</tu>
+	<tu xmlns:lang="esp">Al finalizar, vuelva a ejecutar esta aplicación.</tu>
+	<tu xmlns:lang="chs">'完成后，重新运行此应用程序。'</tu>
+	<tu xmlns:lang="kor">완료 후 이 응용 프로그램을 다시 실행하십시오.</tu>
+</tm>

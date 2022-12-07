@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_OVER_STEER">
+	<tu xmlns:lang="eng">Vehicle over-steers</tu>
+	<tu xmlns:lang="nld">Er treedt overstuur op</tu>
+	<tu xmlns:lang="fra">Le véhicule survire</tu>
+	<tu xmlns:lang="deu">Fahrzeug übersteuert</tu>
+	<tu xmlns:lang="ita">Sovrasterzata del veicolo</tu>
+	<tu xmlns:lang="jpn">車両のオーバーステア</tu>
+	<tu xmlns:lang="ptg">Veículo com direcção brusca</tu>
+	<tu xmlns:lang="ptb">Veículo sobresterçante</tu>
+	<tu xmlns:lang="rus">Избыточная поворачиваемость автомобиля</tu>
+	<tu xmlns:lang="esp">El vehículo sobrevira</tu>
+	<tu xmlns:lang="chs">车辆对方向盘反应过敏</tu>
+	<tu xmlns:lang="kor">차량 오버스티어링</tu>
+</tm>

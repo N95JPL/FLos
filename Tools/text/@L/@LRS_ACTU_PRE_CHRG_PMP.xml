@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_ACTU_PRE_CHRG_PMP">
+	<tu xmlns:lang="eng">Actuating the pre-charge pump.</tu>
+	<tu xmlns:lang="nld">Bedienen van de voorladingspomp.</tu>
+	<tu xmlns:lang="fra">Actionne la pompe de précharge.</tu>
+	<tu xmlns:lang="deu">Betätigung der Vorbefüllpumpe.</tu>
+	<tu xmlns:lang="ita">Azionamento della pompa di precarica.</tu>
+	<tu xmlns:lang="jpn">プリチャージ ポンプを作動させています。</tu>
+	<tu xmlns:lang="ptg">Accionamento da bomba de pré-carga.</tu>
+	<tu xmlns:lang="ptb">Acionar a bomba de pré-carga.</tu>
+	<tu xmlns:lang="rus">Включение подпиточного насоса.</tu>
+	<tu xmlns:lang="esp">Accionamiento de la bomba de precarga.</tu>
+	<tu xmlns:lang="chs">启动预充压泵。</tu>
+	<tu xmlns:lang="kor">사전 충전 펌프를 작동 중입니다.</tu>
+</tm>

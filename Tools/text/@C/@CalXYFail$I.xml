@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CalXYFail$I">
+	<tu xmlns:lang="eng">Failed to calibrate the XY sensor.</tu>
+	<tu xmlns:lang="nld">Kalibrering van XY-sensor is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec d'étalonnage du capteur XY.</tu>
+	<tu xmlns:lang="deu">Sensor XY konnte nicht kalibriert werden.</tu>
+	<tu xmlns:lang="ita">Mancata taratura del sensore XY.</tu>
+	<tu xmlns:lang="jpn">XY センサーのキャリブレーションに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Calibragem do sensor XY falhou.</tu>
+	<tu xmlns:lang="ptb">Falha ao calibrar o sensor XY.</tu>
+	<tu xmlns:lang="rus">Калибровка двухкоординатного датчика не выполнена.</tu>
+	<tu xmlns:lang="esp">No se pudo calibrar el sensor XY.</tu>
+	<tu xmlns:lang="chs">标定XY传感器失败。</tu>
+	<tu xmlns:lang="kor">XY 센서를 보정하는 데 실패했습니다.</tu>
+</tm>

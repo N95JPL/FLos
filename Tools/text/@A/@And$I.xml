@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@And$I">
+	<tu xmlns:lang="eng">and</tu>
+	<tu xmlns:lang="nld">en</tu>
+	<tu xmlns:lang="fra">et</tu>
+	<tu xmlns:lang="deu">und</tu>
+	<tu xmlns:lang="ita">e</tu>
+	<tu xmlns:lang="jpn">および</tu>
+	<tu xmlns:lang="ptg">e</tu>
+	<tu xmlns:lang="ptb">e</tu>
+	<tu xmlns:lang="rus">и</tu>
+	<tu xmlns:lang="esp">y</tu>
+	<tu xmlns:lang="chs">以及</tu>
+	<tu xmlns:lang="kor">및</tu>
+</tm>

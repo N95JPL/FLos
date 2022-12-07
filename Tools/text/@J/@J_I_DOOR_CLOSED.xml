@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DOOR_CLOSED">
+	<tu xmlns:lang="eng">Door closed</tu>
+	<tu xmlns:lang="nld">Het portier is dicht</tu>
+	<tu xmlns:lang="fra">Porte fermée</tu>
+	<tu xmlns:lang="deu">Tür geschlossen</tu>
+	<tu xmlns:lang="ita">Portiera chiusa</tu>
+	<tu xmlns:lang="jpn">ドアは閉じています。</tu>
+	<tu xmlns:lang="ptg">Porta fechada</tu>
+	<tu xmlns:lang="ptb">Porta fechada</tu>
+	<tu xmlns:lang="rus">Дверь закрыта</tu>
+	<tu xmlns:lang="esp">Puerta cerrada</tu>
+	<tu xmlns:lang="chs">车门已关闭</tu>
+	<tu xmlns:lang="kor">도어 닫힘</tu>
+</tm>

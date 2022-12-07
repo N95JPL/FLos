@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VIEW_MKT_CAT_DOC_BEFORE_SEL">
+	<tu
+    xmlns:lang="eng"
+  >Please view the market category document under the information tab before market selection.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Lees eerst het marktcategorie-document onder het informatie-tabblad, voordat u de markt kiest.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez consulter le document sur la catégorie de marché sous l'onglet d'information avant de sélectionner le marché.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte unter dem Info-Register Einblick in das Dokument zu den Marktkategorien nehmen, ehe die Marktauswahl getroffen wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Visualizzare il documento categoria di mercato nella scheda informazioni prima di selezionare il mercato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >市場を選択する前に、情報タブにある市場カテゴリ文書を読みなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Visualize o documento de categorias de mercado no separador de informações antes de seleccionar o mercado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Veja o documento da categoria de mercado na guia informações antes da seleção do mercado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перед выбором рынка посмотрите документ по категории рынка на вкладке сведений.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ver el documento de categorías de mercado en la ficha de información antes de seleccionar el mercado.</tu>
+	<tu xmlns:lang="chs">请在选择市场之前查看信息栏下的市场类别文件。</tu>
+	<tu
+    xmlns:lang="kor"
+  >시장 선택 이전에 정보 탭에서 시장 범주 문서를 보십시오.</tu>
+</tm>

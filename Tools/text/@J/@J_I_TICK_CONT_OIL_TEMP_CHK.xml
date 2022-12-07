@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TICK_CONT_OIL_TEMP_CHK">
+	<tu
+    xmlns:lang="eng"
+  >Press tick to continue when ready to start the application.  A gearbox oil temperature check will be carried out first.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op het vinkje om verder te gaan zodra u klaar bent om de toepassing te starten.  Eerst wordt een controle van de versnellingsbakolietemperatuur uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la coche pour continuer quand vous être prêt à lancer l'application.  Un contrôle de la température de l'huile de la boîte de vitesses sera d'abord effectué.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Häkchen antippen, sobald die Anwendung gestartet werden kann.  Es wird zunächst eine Getriebeöl-Temperaturprüfung durchgeführt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il segno di spunta per continuare quando si è pronti ad avviare l'applicazione.  Innanzitutto verrà effettuato un controllo della temperatura dell'olio della scatola del cambio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アプリケーション開始の準備ができしだいティックを押して続行しなさい。  まずギアボックス オイル温度チェックが行われます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima o sinal de visto para continuar, quando estiver preparado para iniciar a aplicação.  Será efectuada primeiro uma verificação da temperatura do óleo da caixa de velocidades.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione OK para continuar quando estiver pronto para iniciar a aplicação.  Uma verificação da temperatura do óleo da caixa de câmbio será realizada primeiro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите галочку для продолжения при готовности к запуску приложения.  Сначала будет выполнена проверка температуры масла в коробке передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar la marca de verificación para continuar cuando se esté preparado para iniciar la aplicación.  Se realizará primero una comprobación de la temperatura del aceite de la caja de cambios.</tu>
+	<tu
+    xmlns:lang="chs"
+  >准备好开始运行应用程序时，按勾选键继续。  首先将执行变速箱机油温度检查。</tu>
+	<tu
+    xmlns:lang="kor"
+  >애플리케이션을 시작할 준비가 되면 체크 표시를 눌러 계속 진행하십시오.  기어박스 오일 온도 점검부터 먼저 수행됩니다.</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INTER_VARI_WSHIELD_WIPE">
+	<tu xmlns:lang="eng">Intermittent variable windshield wipe</tu>
+	<tu xmlns:lang="nld">Ruitenwissers met variabel interval</tu>
+	<tu xmlns:lang="fra">Essuie-glace ... balayage intermittent variable</tu>
+	<tu xmlns:lang="deu">Einstellbares Windschutzscheiben-Wischintervall</tu>
+	<tu xmlns:lang="ita">Funzione intermittente variabile dei tergicristalli </tu>
+	<tu xmlns:lang="jpn">間欠可変速度ウィンドシールド ワイパー</tu>
+	<tu xmlns:lang="ptg">Limpa pára-brisas variável intermitente</tu>
+	<tu xmlns:lang="ptb">Limpador intermitente variável do para-brisa</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прерывистый режим работы регулируемого стеклоочистителя ветрового стекла</tu>
+	<tu xmlns:lang="esp">Barrido intermitente variable del limpiaparabrisas</tu>
+	<tu xmlns:lang="chs">间歇性可变挡风玻璃刮水</tu>
+	<tu xmlns:lang="kor">간헐적 가변 윈드실드 와이퍼 작동</tu>
+</tm>

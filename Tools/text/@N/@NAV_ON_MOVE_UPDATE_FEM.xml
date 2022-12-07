@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NAV_ON_MOVE_UPDATE_FEM">
+	<tu
+    xmlns:lang="eng"
+  >This application will check the current level of software in the front entertainment control module and update it if required.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing zal het huidige softwareniveau van de regelmodule van het multimediasysteem voorin controleren en zo nodig bijwerken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application va contrôler la version actuelle du logiciel dans le module de commande multimédia avant et la mettre à jour si nécessaire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung überprüft die im Multimediasystem-Steuergerät vorne einprogrammierte Softwareversion und führt bei Bedarf eine Aktualisierung durch.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione controllerà il livello corrente di software nel modulo di comando intrattenimento anteriore e lo aggiornerà, se necessario.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションはフロント エンタテイメント コントロール モジュール ソ\フトウェアの現在のレベルをチェックし、必要に応じて更新します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação verifica a versão actual do software do módulo de controlo do sistema de entretenimento dianteiro e actualiza-a, se necessário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo verificará o nível atual do software no módulo de controle de entretenimento dianteiro e o atualizará, se necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение проверит текущую версию программного обеспечения в блоке управления передней мультимедийной системой и обновит ее при необходимости.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación comprueba la versión actual del software del módulo de control del sistema de entretenimiento audiovisual delantero y lo actualiza si es preciso.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本应用程序将检查前娱乐控制模块中软件的当前级别，需要时将进行更新。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 프론트 엔터테인먼트 컨트롤 모듈에서 최신 레벨의 소프트웨어를 점검하여 필요할 경우 업데이트합니다.</tu>
+</tm>

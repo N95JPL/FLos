@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FRP_SET">
+	<tu xmlns:lang="eng">Fuel rail pressure  -  Set</tu>
+	<tu xmlns:lang="nld">Druk van de common rail  -  Instellen</tu>
+	<tu xmlns:lang="fra">Pression de rampe d'injection  -  Activé</tu>
+	<tu xmlns:lang="deu">Druck Kraftstoffverteilerrohr  -  Setzen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pressione collettore alimentazione carburante  -  Funzione selezionata</tu>
+	<tu xmlns:lang="jpn">フューエル レール プレッシャ  －  セット</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pressão da régua distribuidora de combustível  -  Definido</tu>
+	<tu xmlns:lang="ptb">Pressão da flauta de combustível  -  Definido</tu>
+	<tu xmlns:lang="rus">Давление в топливной магистрали.  -  Установить</tu>
+	<tu xmlns:lang="esp">Presión en la rampa de combustible  -  Seleccionado</tu>
+	<tu xmlns:lang="chs">燃油油轨压力。  -  设置</tu>
+	<tu xmlns:lang="kor">연료 레일 압력  -  설정</tu>
+</tm>

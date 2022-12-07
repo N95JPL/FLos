@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_IDLE_SPEED_INFO_1">
+	<tu
+    xmlns:lang="eng"
+  >The procedure to adjust the idle speed should only be used as a vehicle refinement option where the customer has reported a noise or vibration problem at idle, stalling on over-run or pull away on vehicles with automatic transmission.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U mag de procedure voor het afstellen van het stationaire toerental alleen gebruiken na klachten over geluid of trillen tijdens stationair lopen, afslaan bij terugvallen van toerental of wegrijden met voertuigen voorzien van een automatische transmissie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure de réglage du régime de ralenti ne doit être utilisée que comme option d'affinement du véhicule lorsque le client a signalé un problème de bruit ou de vibration au ralenti, un calage en roue libre ou un effet de retenue sur les véhicules à transmission automatique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Verfahren zur Einstellung der Leerlaufdrehzahl sollte lediglich als Verfeinerungsoption genutzt werden, wenn der Kunde über Probleme mit Geräuschen oder Vibrationen im Leerlauf, Absterben oder Nachlaufen oder Kriechen bei Fahrzeugen mit Automatikgetriebe berichtete.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La procedura per regolare il regime di minimo deve essere utilizzata solo come opzione di messa a punto del veicolo ove il cliente segnalasse un problema di rumore o vibrazione al minimo, di stallo in fuorigiri oppure di strappo sui veicoli con cambio automatico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アイドル スピード調整手順は、顧客からアイドリング中のノイズまたは振動の問題、減速時のストール、オートマチック トランスミッション車両におけるクリーピングなどの指摘がある場合にのみ車両性能\改善オプションとして使用しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Estado do sistema do travão de estacionamento eléctrico</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O procedimento para ajustar a velocidade de marcha lenta deve ser usado somente como uma opção de refinamento ao veículo, em que o cliente informou um problema de ruído ou vibração em marcha lenta, abrandando em ultrapassagens ou saídas em veículos com transmissão automática.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедуру регулировки холостого хода необходимо выполнять только в качестве опции отладки работы автомобиля, если пользователь сообщил о шуме или вибрации на холостом ходу, останове двигателя при превышении скорости или трогании автомобиля с автоматической коробкой передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El procedimiento para ajustar el régimen de ralentí solo debe emplearse como opción de perfeccionamiento del vehículo cuando el cliente haya notificado la existencia de un problema de ruido o vibración en ralentí o de calado al circular con motor arrastrado o al emprender la marcha si se trata de un vehículo con cambio automático.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'调节怠速的程序只应在客户报告了怠速时的噪声或振动问题、过载停转或车辆脱离自动变速器的场合用作车辆微调选项。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >공회전 속도 조정 절차는 고객이 공회전 시 소음 또는 진동 문제가 발생한다는 불만을 제기한 경우 자동 변속기 장착 차량에서 오버런을 멈추거나 차량을 출발시키는 차량 조정 옵션으로만 사용해야 합니다.</tu>
+</tm>

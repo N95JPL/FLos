@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_INIT_SROOF">
+	<tu xmlns:lang="eng">Initialize the sliding roof module.</tu>
+	<tu xmlns:lang="nld">Start de schuifdakregelmodule op.</tu>
+	<tu xmlns:lang="fra">Initialisez le module de commande du toit ouvrant.</tu>
+	<tu xmlns:lang="deu">Das Schiebedach-Steuergerät initialisieren.</tu>
+	<tu xmlns:lang="ita">Inizializzare il modulo del tettuccio scorrevole.</tu>
+	<tu xmlns:lang="jpn">スライディング ルーフ モジュールを初期化しなさい。</tu>
+	<tu xmlns:lang="ptg">Inicializar o módulo do tecto de abrir.</tu>
+	<tu xmlns:lang="ptb">Inicialize o módulo teto deslizante.</tu>
+	<tu xmlns:lang="rus">Инициализировать блок управления сдвижным верхом.</tu>
+	<tu xmlns:lang="esp">Inicializar el módulo del techo solar.</tu>
+	<tu xmlns:lang="chs">初始化活动顶蓬模块。</tu>
+	<tu xmlns:lang="kor">슬라이딩 루프 모듈을 초기화하십시오.</tu>
+</tm>

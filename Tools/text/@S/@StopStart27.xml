@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart27">
+	<tu
+    xmlns:lang="eng"
+  >Low battery capacity could be due a quiescent drain leading to heavy cycling of the battery.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Een lage accucapaciteit kan het gevolg zijn van een ruststroom die ervoor zorgt dat de accu ver wordt ontladen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La faible capacité de la batterie peut être due à une fuite de courant au repos qui entraîne des cycles de décharge/charge intense de la batterie.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Eine niedrige Batteriekapazität kann auf eine Ruhestromentnahme zurückzuführen sein, die zu einem starken Zyklenverhalten der Batterie führt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La scarsa capacità della batteria può essere dovuta a un assorbimento di corrente con conseguente ciclo elevato della batteria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリーのヘビー サイクリングにつながる自己消費電流によってバッテリー容量が低下している可能性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A capacidade baixa da bateria pode ser provocada pelo consumo da corrente inativa que resulta em ciclos pesados de funcionamento da bateria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma capacidade baixa da bateria poderia ocorrer devido a uma drenagem em inatividade, levando a uma circulação pesada da bateria.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Причиной малой емкости аккумуляторной батареи могла стать утечка тока покоя, приводящая к интенсивному циклу работы аккумуляторной батареи.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El bajo rendimiento de la batería puede deberse a un consumo de corriente en reposo, que provoca que la batería realice un ciclo pesado.</tu>
+	<tu xmlns:lang="chs">蓄电池容量过低的原因可能是静态放电导致蓄电池重度循环。</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리 용량 부족은 대기 상태 중 소모로 인한 것일 수 있으며, 이는 배터리의 과중한 사이클 동작으로 이어집니다.</tu>
+</tm>

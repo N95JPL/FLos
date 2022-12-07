@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_IPC_DLC_BMP_F00F_BIT0_3_B">
+	<tu xmlns:lang="eng">Steering column position sensor  -  Telescopic motion</tu>
+	<tu xmlns:lang="nld">Stuurkolom-positiesensor  -  Telescopische beweging</tu>
+	<tu
+    xmlns:lang="fra"
+  >Capteur de position de colonne de direction  -  Mouvement télescopique</tu>
+	<tu xmlns:lang="deu">Lenksäulenstellungs-Sensor  -  Teleskopbewegung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sensore posizione piantone di sterzo  -  Movimento telescopico</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング コラム ポジション センサー  －  テレスコピック モーション</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sensor de posição da coluna da direcção  -  Movimento telescópico</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sensor de posição da coluna de direção  -  Movimento telescópico</tu>
+	<tu
+    xmlns:lang="rus"
+  >Датчик положения рулевой колонки  -  Телескопический механизм</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sensor de posición de la columna de la dirección  -  Ajuste telescópico</tu>
+	<tu xmlns:lang="chs">转向柱位置传感器  -  伸缩运动</tu>
+	<tu xmlns:lang="kor">스티어링 칼럼 위치 센서  -  텔레스코픽 동작</tu>
+</tm>

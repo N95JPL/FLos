@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_ABS_TC_SYS_INCORR">
+	<tu
+    xmlns:lang="eng"
+  >Any significant error may cause the ABS or traction control system to function incorrectly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Elke significante fout kan het onjuist functioneren van het ABS- of traction controlsysteem veroorzaken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Toute erreur d'importance peut causer le dysfonctionnement de l'ABS ou du système d'antipatinage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Jeder bedeutende Fehler kann dazu führen, dass das ABS oder das Traktionskontrollsystem nicht korrekt arbeitet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Qualunque errore significativo può causare un funzionamento errato dell'ABS o del sistema di controllo trazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >重大なエラーは ABS またはトラクション コントロール システムの不良作動の原因になる可能\性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Qualquer erro significativo pode levar ao funcionamento incorrecto do ABS ou do sistema de controlo da tracção.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Qualquer erro significativo pode fazer com que o ABS ou o sistema de controle de tração funcionem incorretamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Любые значительные ошибки могут вызвать неверную работу системы ABS или противобуксовочной системы</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cualquier error significativo puede provocar el funcionamiento incorrecto del ABS o del sistema de control de tracción.</tu>
+	<tu
+    xmlns:lang="chs"
+  >任何显著错误都有可能导致 ABS 或牵引控制系统功能不正常。</tu>
+	<tu
+    xmlns:lang="kor"
+  >중대한 오류가 발생하면 ABS 또는 트랙션 컨트롤 시스템이 잘못 작동할 수 있습니다.</tu>
+</tm>

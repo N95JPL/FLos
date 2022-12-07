@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PCM_CCF_ASS_PART_NUM">
+	<tu
+    xmlns:lang="eng"
+  >Powertrain control module car configuration assembly part number 01</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onderdeelnummer 01 van voertuigconfiguratie voor regelmodule van aandrijflijn</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de commande du groupe motopropulseur - configuration du véhicule - réf. 01</tu>
+	<tu
+    xmlns:lang="deu"
+  >Antriebsstrang-Steuergerät - Fahrzeugkonfiguration - Montageteil Nummer 01</tu>
+	<tu
+    xmlns:lang="ita"
+  >Configurazione veicolo per modulo gestione catena cinematica, numero parte complessivo 01</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パワートレーン コントロール モジュール車両コンフィギュレーション アッセンブリ パーツ ナンバー 01</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Número de peça 01 de configuração do veículo do módulo de comando do grupo motopropulsor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conjunto da configuração do carro do módulo de controle do powertrain - número de peça 01</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок управления силовым агрегатом, конфигурация автомобиля, монтажный номер детали 01</tu>
+	<tu
+    xmlns:lang="esp"
+  >Número de pieza de conjunto 01 de configuración del vehículo del módulo de control del grupo motor y transmisión</tu>
+	<tu xmlns:lang="chs">传动系控制模块车辆配置组件零件号 01</tu>
+	<tu xmlns:lang="kor">파워트레인 컨트롤 모듈 차량 구성 어셈블리 부품 번호 01</tu>
+</tm>

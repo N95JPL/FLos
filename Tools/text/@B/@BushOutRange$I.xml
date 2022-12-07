@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BushOutRange$I">
+	<tu xmlns:lang="eng">Lower arm inner bush center value out of range.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Middelpuntwaarde van binnenbus voor onderste draagarm is buiten het bereik.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Valeur centrale de bague intérieure de bras inférieur hors limites.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Innere Buchse, unterer Querlenker - Mittenwert außerhalb des Bereichs.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Braccio inferiore, centro boccola interna - valore fuori campo.</tu>
+	<tu xmlns:lang="jpn">ロア アーム インナー ブッシュ センター数値、規定範囲外</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Valor do centro do casquilho interior do braço inferior fora da gama.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Valor central da bucha interna do braço inferior fora do intervalo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Значение расстояния от центра внутренней втулки нижнего рычага до земли выходит за пределы допустимого диапазона.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Valor del centro del casquillo interior del brazo inferior fuera de límites.</tu>
+	<tu xmlns:lang="chs">下臂内衬套中心值超出范围。</tu>
+	<tu xmlns:lang="kor">하부 암 내측 부시 중앙값이 범위를 벗어남</tu>
+</tm>

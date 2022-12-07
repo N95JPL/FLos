@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_60_MINS">
+	<tu xmlns:lang="eng">60 minutes</tu>
+	<tu xmlns:lang="nld">60 minuten</tu>
+	<tu xmlns:lang="fra">60 minute</tu>
+	<tu xmlns:lang="deu">60 Minuten</tu>
+	<tu xmlns:lang="ita">60 minuti</tu>
+	<tu xmlns:lang="jpn">60 分</tu>
+	<tu xmlns:lang="ptg">60 minutos</tu>
+	<tu xmlns:lang="ptb">60 minutos</tu>
+	<tu xmlns:lang="rus">60 минут</tu>
+	<tu xmlns:lang="esp">60 minutos</tu>
+	<tu xmlns:lang="chs">60分钟</tu>
+	<tu xmlns:lang="kor">60분</tu>
+</tm>

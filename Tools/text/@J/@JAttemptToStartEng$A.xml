@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JAttemptToStartEng$A">
+	<tu xmlns:lang="eng">Attempt to start the engine.</tu>
+	<tu xmlns:lang="nld">Probeer de motor te starten</tu>
+	<tu xmlns:lang="fra">Essayez de mettre le moteur en marche</tu>
+	<tu xmlns:lang="deu">Versuchen Sie, den Motor anzulassen.</tu>
+	<tu xmlns:lang="ita">Cercare di avviare il motore</tu>
+	<tu xmlns:lang="jpn">エンジンを始動しなさい</tu>
+	<tu xmlns:lang="ptg">Tentar colocar o motor em funcionamento.</tu>
+	<tu xmlns:lang="ptb">Tentar ligar o motor.</tu>
+	<tu xmlns:lang="rus">Попробуйте запустить двигатель.</tu>
+	<tu xmlns:lang="esp">Intentar poner en marcha el motor</tu>
+	<tu xmlns:lang="chs">试图起动发动机。</tu>
+	<tu xmlns:lang="kor">엔진을 시동해보십시오.</tu>
+</tm>

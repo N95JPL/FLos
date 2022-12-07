@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PED_IMPACT_CRASH_RESET">
+	<tu xmlns:lang="eng">Pedestrian impact crash status reset</tu>
+	<tu
+    xmlns:lang="nld"
+  >Resetten van botsingsstatus van voetgangerbeschermingssysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Réinitialiser le statut du module de protection des piétons en cas de collision</tu>
+	<tu xmlns:lang="deu">Status des Fußgänger-Schutzsystems zurückgesetzt</tu>
+	<tu xmlns:lang="ita">Reimpostazione stato urto pedone</tu>
+	<tu xmlns:lang="jpn">歩行者インパクト クラッシュ ステータスのリセット</tu>
+	<tu xmlns:lang="ptg">Reiniciar estado de colisão por impacto de peão</tu>
+	<tu xmlns:lang="ptb">Redefinir status do impacto/colisão com pedestre</tu>
+	<tu xmlns:lang="rus">Сброс состояния столкновения с пешеходом</tu>
+	<tu
+    xmlns:lang="esp"
+  >Restauración de estado de impacto del módulo de protección de peatones</tu>
+	<tu xmlns:lang="chs">行人碰撞状态复位</tu>
+	<tu xmlns:lang="kor">보행자 충격의 충돌 상태 재설정</tu>
+</tm>

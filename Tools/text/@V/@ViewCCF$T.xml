@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ViewCCF$T">
+	<tu xmlns:lang="eng">View the vehicle configuration file.</tu>
+	<tu xmlns:lang="nld">Bekijk het voertuigconfiguratiebestand.</tu>
+	<tu xmlns:lang="fra">Visualisez le fichier de configuration du véhicule.</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Konfigurationsdatei einsehen.</tu>
+	<tu xmlns:lang="ita">Visualizzare il file di configurazione del veicolo.</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション ファイルを表\示させなさい。</tu>
+	<tu xmlns:lang="ptg">Ver o ficheiro de configuração do veículo.</tu>
+	<tu xmlns:lang="ptb">Visualize o arquivo de configuração do veículo.</tu>
+	<tu xmlns:lang="rus">Просмотреть файл конфигурации автомобиля.</tu>
+	<tu xmlns:lang="esp">Ver el archivo de configuración del vehículo.</tu>
+	<tu xmlns:lang="chs">浏览车辆配置文件。</tu>
+	<tu xmlns:lang="kor">차량 구성 파일 보기</tu>
+</tm>

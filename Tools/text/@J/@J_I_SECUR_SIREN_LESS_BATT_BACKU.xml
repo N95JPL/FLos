@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SECUR_SIREN_LESS_BATT_BACKU">
+	<tu xmlns:lang="eng">Security siren-less battery backup</tu>
+	<tu xmlns:lang="nld">Beveiligingssirene zonder noodstroom</tu>
+	<tu xmlns:lang="fra">Sirène de sécurité-sans protection batterie </tu>
+	<tu xmlns:lang="deu">Alarmanlagen-Signalhorn - ohne Batterieunterstützung</tu>
+	<tu xmlns:lang="ita">Batteria di riserva di sicurezza senza sirena</tu>
+	<tu xmlns:lang="jpn">セキュリティ サイレンなしバッテリ バックアップ</tu>
+	<tu xmlns:lang="ptg">Sirene de segurança - menos apoio da bateria</tu>
+	<tu xmlns:lang="ptb">Sirene de segurança - backup sem bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сирена охранной системы без резервного питания от аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Sirena del sistema de seguridad no autoalimentada </tu>
+	<tu xmlns:lang="chs">无源安全报警器</tu>
+	<tu xmlns:lang="kor">보안 사이렌 없는 배터리 백업</tu>
+</tm>

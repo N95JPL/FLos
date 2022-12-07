@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IntStoreProb$I">
+	<tu xmlns:lang="eng">Internal storage problem.</tu>
+	<tu xmlns:lang="nld">Probleem bij opslag intern geheugen.</tu>
+	<tu xmlns:lang="fra">Problème de stockage interne.</tu>
+	<tu xmlns:lang="deu">Internes Speicherproblem.</tu>
+	<tu xmlns:lang="ita">Problema di memorizzazione interno.</tu>
+	<tu xmlns:lang="jpn">内部保存の問題</tu>
+	<tu xmlns:lang="ptg">Problema de gravação interno.</tu>
+	<tu xmlns:lang="ptb">Problema interno de armazenamento.</tu>
+	<tu xmlns:lang="rus">Внутренняя ошибка памяти.</tu>
+	<tu xmlns:lang="esp">Problema de almacenamiento interno.</tu>
+	<tu xmlns:lang="chs">内部存储问题。</tu>
+	<tu xmlns:lang="kor">내부 저장소 문제</tu>
+</tm>

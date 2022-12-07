@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DispTick$I">
+	<tu xmlns:lang="eng">Once displayed press tick.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zodra het eenmaal op het scherm staat, drukt u op de afvinktoets.</tu>
+	<tu xmlns:lang="fra">Lorsque l'affichage apparaît, appuyez sur la coche.</tu>
+	<tu xmlns:lang="deu">Nach Anzeige das Häkchen antippen.</tu>
+	<tu xmlns:lang="ita">Una volta visualizzato, premere il segno di spunta.</tu>
+	<tu xmlns:lang="jpn">表\示されたらティックを押しなさい。</tu>
+	<tu xmlns:lang="ptg">Uma vez visualizado, premir o sinal de confirmação.</tu>
+	<tu xmlns:lang="ptb">Uma vez exibido, pressione ok.</tu>
+	<tu xmlns:lang="rus">После того как диапазон отобразится, нажмите галочку.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez que haya aparecido, pulsar el botón de continuar.</tu>
+	<tu xmlns:lang="chs">一旦显示，即按下勾号。</tu>
+	<tu xmlns:lang="kor">표시되면 체크 표시를 누릅니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_30_MINS">
+	<tu xmlns:lang="eng">30 minutes</tu>
+	<tu xmlns:lang="nld">30 minuten</tu>
+	<tu xmlns:lang="fra">30 minute</tu>
+	<tu xmlns:lang="deu">30 Minuten</tu>
+	<tu xmlns:lang="ita">30 minuti</tu>
+	<tu xmlns:lang="jpn">30 分</tu>
+	<tu xmlns:lang="ptg">30 minutos</tu>
+	<tu xmlns:lang="ptb">30 minutos</tu>
+	<tu xmlns:lang="rus">30 минут</tu>
+	<tu xmlns:lang="esp">30 minutos</tu>
+	<tu xmlns:lang="chs">30分钟</tu>
+	<tu xmlns:lang="kor">30분</tu>
+</tm>

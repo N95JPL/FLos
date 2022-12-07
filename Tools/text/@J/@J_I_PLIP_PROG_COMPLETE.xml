@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PLIP_PROG_COMPLETE">
+	<tu xmlns:lang="eng">Plip programming is now complete</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het programmeren van de afstandsbediening is nu uitgevoerd</tu>
+	<tu
+    xmlns:lang="fra"
+  >La programmation de la télécommande est maintenant terminée</tu>
+	<tu xmlns:lang="deu">Fernbedienungsprogrammierung ist jetzt abgeschlossen.</tu>
+	<tu xmlns:lang="ita">La programmazione del telecomando è stata completata.</tu>
+	<tu xmlns:lang="jpn">プリップ プログラミングは完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A programação 'plip' (comando à distância da altura do engate de reboque) está concluída</tu>
+	<tu xmlns:lang="ptb">A programação do flip está concluída agora</tu>
+	<tu xmlns:lang="rus">Программирование пультов завершено</tu>
+	<tu xmlns:lang="esp">Se ha concluido la programación del mando a distancia</tu>
+	<tu xmlns:lang="chs">手持遥控器编程现已完成</tu>
+	<tu xmlns:lang="kor">플립(Plip) 프로그래밍이 완료됨</tu>
+</tm>

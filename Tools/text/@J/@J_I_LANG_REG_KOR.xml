@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LANG_REG_KOR">
+	<tu xmlns:lang="eng">Language region for Korea</tu>
+	<tu xmlns:lang="nld">Taalregio voor Korea </tu>
+	<tu xmlns:lang="fra">Région langue pour la Corée </tu>
+	<tu xmlns:lang="deu">Sprachregion für Korea </tu>
+	<tu xmlns:lang="ita">Regione linguistica per la Corea</tu>
+	<tu xmlns:lang="jpn">韓国の言語地域</tu>
+	<tu xmlns:lang="ptg">Região idiomática para a Coreia</tu>
+	<tu xmlns:lang="ptb">Região de idioma para a Coreia</tu>
+	<tu xmlns:lang="rus">Языковой регион для Кореи </tu>
+	<tu xmlns:lang="esp">Región de idioma para Corea</tu>
+	<tu xmlns:lang="chs">韩国的语言区</tu>
+	<tu xmlns:lang="kor">한국의 언어 지역</tu>
+</tm>

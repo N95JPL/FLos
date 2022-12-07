@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SIDE_AIR_PASS_THOR">
+	<tu xmlns:lang="eng">Side airbag (thorax) passenger</tu>
+	<tu xmlns:lang="nld">Zijairbag (borstkas) van passagier</tu>
+	<tu xmlns:lang="fra">Airbag latéral (protection du torse) passager</tu>
+	<tu xmlns:lang="deu">Seitenairbag (Brustkorb) Beifahrerseite</tu>
+	<tu xmlns:lang="ita">Airbag laterale (toracico) passeggero</tu>
+	<tu xmlns:lang="jpn">サイド エアバッグ (胸部) 助手席側</tu>
+	<tu xmlns:lang="ptg">Airbag lateral (torácico) do passageiro</tu>
+	<tu xmlns:lang="ptb">Airbag lateral (tórax) do passageiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Боковая подушка безопасности пассажира (для защиты грудной клетки)</tu>
+	<tu xmlns:lang="esp">Airbag lateral torácico (acompañante)</tu>
+	<tu xmlns:lang="chs">侧安全气囊（胸部）— 乘客</tu>
+	<tu xmlns:lang="kor">조수석 측면 에어백(흉곽)</tu>
+</tm>

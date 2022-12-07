@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INVALID_FUNCTION">
+	<tu xmlns:lang="eng">Invalid function type</tu>
+	<tu xmlns:lang="nld">Ongeldig functietype</tu>
+	<tu xmlns:lang="fra">Type de fonction non valide</tu>
+	<tu xmlns:lang="deu">Ungültiger Funktionstyp</tu>
+	<tu xmlns:lang="ita">Tipo di funzione non valido</tu>
+	<tu xmlns:lang="jpn">無効な機能\タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de função inválido</tu>
+	<tu xmlns:lang="ptb">Tipo de função inválido</tu>
+	<tu xmlns:lang="rus">Недопустимый тип функции</tu>
+	<tu xmlns:lang="esp">Tipo de función no válido</tu>
+	<tu xmlns:lang="chs">无效功能类型</tu>
+	<tu xmlns:lang="kor">잘못된 기능 유형</tu>
+</tm>

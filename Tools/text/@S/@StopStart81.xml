@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart81">
+	<tu xmlns:lang="eng">Allow engine to cool before re-testing.</tu>
+	<tu xmlns:lang="nld">Laat de motor afkoelen voordat u opnieuw test.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Laissez le moteur refroidir avant de faire un nouveau test.</tu>
+	<tu xmlns:lang="deu">Motor vor einer erneuten Prüfung abkühlen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lasciare raffreddare il motore prima di ripetere la prova.</tu>
+	<tu xmlns:lang="jpn">再テストの前にエンジンを冷ましてください。</tu>
+	<tu xmlns:lang="ptg">Deixe o motor arrefecer antes de testar novamente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Permita o resfriamento do motor antes de testar novamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >До проведения повторной проверки дайте двигателю остыть.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Deje que el motor se enfríe antes de volver comprobarlo.</tu>
+	<tu xmlns:lang="chs">重新测试前，让发动机进行冷却。</tu>
+	<tu xmlns:lang="kor">엔진을 식힌 후 다시 테스트하십시오.</tu>
+</tm>

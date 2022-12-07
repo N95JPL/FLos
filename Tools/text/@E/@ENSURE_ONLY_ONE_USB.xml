@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENSURE_ONLY_ONE_USB">
+	<tu
+    xmlns:lang="eng"
+  >Remove all USB Flash drives which are not required. Make sure only one USB Flash drive is connected.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verwijder alle USB-sticks die niet vereist zijn. Zorg dat er slechts één USB-stick is aangesloten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Retirez toutes les clés USB non utiles. Veillez à ne brancher qu'une seule clé USB.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle USB-Sticks, die nicht benötigt werden, entfernen. Sicherstellen, dass nur ein USB-Stick angeschlossen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Rimuovere tutte le unità flash USB non necessarie. Assicurarsi che sia collegata una sola unità flash USB.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >必要のない USB フラッシュ ドライブをすべて取り外します。 USB フラッシュ ドライブが 1 台だけ接続されていることを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retire todas as unidades flash USB que não sejam necessárias. Certifique-se de que só existe uma unidade flash USB ligada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Remova todos os Pen drives USB que não são necessários. Certifique-se de que somente um Pen drive USB esteja conectado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Извлеките все накопители USB, использование которых не требуется. Убедитесь, что подключен только один накопитель USB.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Retire todas las unidades de memoria USB que no son necesarias. Asegúrese de que solo haya una unidad de memoria USB conectada.</tu>
+	<tu
+    xmlns:lang="chs"
+  >移除所有不需要的 USB 闪存驱动器。 确保仅连接一个 USB 闪存驱动器。</tu>
+	<tu
+    xmlns:lang="kor"
+  >필요하지 않은 모든 USB 플래시 드라이브를 탈거하십시오. 한 USB 플래시 드라이브만 연결되었는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NewModuleMes1$I">
+	<tu
+    xmlns:lang="eng"
+  >Learning the security seed can only be carried out once.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt het inleren van de 'beveiligingsgegevens' slechts eenmaal uitvoeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'apprentissage des données de sécurité ne peut être fait qu'une seule fois.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Erlernen der Sicherheitsdaten kann nur einmal durchgeführt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'apprendimento dei dati di sicurezza può essere eseguito solo una volta.</tu>
+	<tu xmlns:lang="jpn">セキュリティ シードの認識は一度に限り実行できます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A programação do código de segurança só pode ser efectuada uma vez.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A memorização da segurança só pode ser realizada uma vez.</tu>
+	<tu xmlns:lang="rus">Защитный код может быть считан только один раз.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El aprendizaje de los datos de seguridad solo se puede realizar una vez.</tu>
+	<tu xmlns:lang="chs">安全种子记忆只能执行一次。</tu>
+	<tu xmlns:lang="kor">보안 시드 학습은 한 번만 수행할 수 있습니다.</tu>
+</tm>

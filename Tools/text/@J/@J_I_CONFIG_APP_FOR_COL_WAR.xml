@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_APP_FOR_COL_WAR">
+	<tu
+    xmlns:lang="eng"
+  >Car configuration application forward collision warning</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voertuigconfiguratietoepassing van frontale aanrijdingswaarschuwing</tu>
+	<tu
+    xmlns:lang="fra"
+  >Application de configuration du véhicule - avertissement de collision frontale</tu>
+	<tu xmlns:lang="deu">Anwendung Fahrzeugkonfiguration - Auffahrunfallwarnung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Applicazione configurazione veicolo - avvertenza collisioni anteriori</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション アプリケーション前方衝突警告</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aplicação de configuração do veículo - aviso de colisão dianteira</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aplicativo de configuração do carro - aviso de colisão à frente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Приложение конфигурации автомобиля - система предупреждения о лобовом столкновении</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aplicación de configuración del vehículo: aviso de colisión frontal</tu>
+	<tu xmlns:lang="chs">车辆配置应用程序 - 前碰撞警告</tu>
+	<tu xmlns:lang="kor">차량 구성 애플리케이션 전방 충돌 경고</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_SWDL_ERROR_USER_ACTIONS">
+	<tu xmlns:lang="eng">User actions:</tu>
+	<tu xmlns:lang="nld">Gebruikersacties:</tu>
+	<tu xmlns:lang="fra">Actions de l'utilisateur :</tu>
+	<tu xmlns:lang="deu">Benutzermaßnahmen</tu>
+	<tu xmlns:lang="ita">Azioni utente:</tu>
+	<tu xmlns:lang="jpn">ユーザの対応:</tu>
+	<tu xmlns:lang="ptg">Ações do utilizador:</tu>
+	<tu xmlns:lang="ptb">Ações do usuário:</tu>
+	<tu xmlns:lang="rus">Действия пользователя:</tu>
+	<tu xmlns:lang="esp">Acciones del usuario:</tu>
+	<tu xmlns:lang="chs">用户操作：</tu>
+	<tu xmlns:lang="kor">사용자 조치:</tu>
+</tm>

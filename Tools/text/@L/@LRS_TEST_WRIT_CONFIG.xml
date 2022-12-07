@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_TEST_WRIT_CONFIG">
+	<tu
+    xmlns:lang="eng"
+  >The tester writes configuration data to the new electronic control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het testapparaat schrijft de configuratiegegevens naar de nieuwe elektronische regelmodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le testeur écrit les données de configuration dans le nouveau module de commande électronique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Testgerät schreibt Konfigurationsdaten in das neue elektronische Steuergerät.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il tester scrive i dati di configurazione nella nuova unità di comando elettronica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テスターは新品のエレクトロニック コントロール ユニットにコンフィギュレーション データを書き込みます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O dispositivo de teste regista os dados de configuração na nova unidade electrónica de controlo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O testador grava os dados de configuração para a nova unidade de controle eletrônico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Диагностирующее устройство запишет данные конфигурации в новый электронный блок управления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El comprobador graba los datos de configuración en el nuevo módulo de control electrónico.</tu>
+	<tu xmlns:lang="chs">测试仪将配置数据写入新的电子控制单元。</tu>
+	<tu xmlns:lang="kor">테스터는 신품 전자 컨트롤 유닛에 구성 데이터를 씁니다.</tu>
+</tm>

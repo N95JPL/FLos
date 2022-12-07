@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEAT_REAR_SEATS">
+	<tu xmlns:lang="eng">Heated rear seat</tu>
+	<tu xmlns:lang="nld">Verwarmde achterbank</tu>
+	<tu xmlns:lang="fra">Siège arrière chauffant</tu>
+	<tu xmlns:lang="deu">Beheizter Rücksitz</tu>
+	<tu xmlns:lang="ita">Sedile posteriore riscaldato</tu>
+	<tu xmlns:lang="jpn">リア シート ヒーター</tu>
+	<tu xmlns:lang="ptg">Banco traseiro aquecido</tu>
+	<tu xmlns:lang="ptb">Assento traseiro aquecido</tu>
+	<tu xmlns:lang="rus">Заднее сиденье с подогревом</tu>
+	<tu xmlns:lang="esp">Asiento trasero calefactado</tu>
+	<tu xmlns:lang="chs">加热型后座椅</tu>
+	<tu xmlns:lang="kor">열선내장 리어 시트</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_BRK_CONT_MOD_INFO">
+	<tu xmlns:lang="eng">Body control module information.</tu>
+	<tu xmlns:lang="nld">Informatie carrosserieregelmodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Informations concernant le module de commande de carrosserie.</tu>
+	<tu xmlns:lang="deu">Karosseriesteuergerät - Information.</tu>
+	<tu xmlns:lang="ita">Informazioni modulo comando carrozzeria.</tu>
+	<tu xmlns:lang="jpn">ボディ コントロール モジュール情報</tu>
+	<tu xmlns:lang="ptg">Informações do módulo de comando da carroçaria.</tu>
+	<tu xmlns:lang="ptb">Informações do módulo de controle da carroceria.</tu>
+	<tu xmlns:lang="rus">Данные блока управления системами кузова.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Información sobre el módulo procesador de la carrocería.</tu>
+	<tu xmlns:lang="chs">车身控制模块信息。</tu>
+	<tu xmlns:lang="kor">차체 컨트롤 모듈 정보</tu>
+</tm>

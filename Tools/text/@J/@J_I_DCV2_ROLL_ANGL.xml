@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DCV2_ROLL_ANGL">
+	<tu xmlns:lang="eng">Direction control valve 2 - ramp-up roll angle</tu>
+	<tu
+    xmlns:lang="nld"
+  >Richtingsregelklep 2 - kantelhoek heeft gelijkmatige belastingtoename.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Electrovanne de commande directionnelle 2 - montée en température de l'angle de roulis.</tu>
+	<tu xmlns:lang="deu">Richtungssteuerventil 2 - steigende Flanke Wankwinkel</tu>
+	<tu
+    xmlns:lang="ita"
+  >Valvola controllo direzione 2 - aumento graduale temperatura angolo di rollio</tu>
+	<tu
+    xmlns:lang="jpn"
+  >方向コントロール バルブ 2 - ランプアップ ロール アングル</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Válvula de controlo da direcção 2 - ângulo de oscilação lateral, aumento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Válvula do controle de direção 2 - ângulo de rolagem de reforço</tu>
+	<tu
+    xmlns:lang="rus"
+  >Распределитель 2 - увеличение угла крена подрессоренных частей</tu>
+	<tu
+    xmlns:lang="esp"
+  >Válvula de control de dirección 2: aumento de ángulo de balanceo</tu>
+	<tu xmlns:lang="chs">方向控制阀2 - 上坡侧倾角</tu>
+	<tu xmlns:lang="kor">방향 컨트롤 밸브 2 - 롤 각도 증가</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LearnComp$I">
+	<tu xmlns:lang="eng">Key learn sequence completed.</tu>
+	<tu xmlns:lang="nld">De sleutelinleerprocedure is uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Séquence d'apprentissage de clé terminée.</tu>
+	<tu xmlns:lang="deu">Sequenz - Schlüsselerkennung beendet.</tu>
+	<tu xmlns:lang="ita">Sequenza memorizzazione codici chiave terminata.</tu>
+	<tu xmlns:lang="jpn">ｷー学習ｼーｹﾝｽ完了</tu>
+	<tu xmlns:lang="ptg">Sequência de programação de chaves concluída.</tu>
+	<tu xmlns:lang="ptb">Sequência principal de aprendizado concluída.</tu>
+	<tu xmlns:lang="rus">Последовательность программирования ключа завершена.</tu>
+	<tu xmlns:lang="esp">Secuencia de aprendizaje de llaves concluida.</tu>
+	<tu xmlns:lang="chs">钥匙学习顺序已完成。</tu>
+	<tu xmlns:lang="kor">키 학습 시퀀스가 완료되었습니다.</tu>
+</tm>

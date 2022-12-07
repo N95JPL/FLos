@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_TAIL_LIGHTS">
+	<tu xmlns:lang="eng">Tail lamps</tu>
+	<tu xmlns:lang="nld">Achterlichten</tu>
+	<tu xmlns:lang="fra">Feux arriere</tu>
+	<tu xmlns:lang="deu">Schlussleuchten</tu>
+	<tu xmlns:lang="ita">Luci di posizione posteriori</tu>
+	<tu xmlns:lang="jpn">テール ランプ</tu>
+	<tu xmlns:lang="ptg">Luzes traseiras</tu>
+	<tu xmlns:lang="ptb">Luzes traseiras</tu>
+	<tu xmlns:lang="rus">Задние габаритные фонари</tu>
+	<tu xmlns:lang="esp">Pilotos traseros</tu>
+	<tu xmlns:lang="chs">尾灯</tu>
+	<tu xmlns:lang="kor">테일 램프</tu>
+</tm>

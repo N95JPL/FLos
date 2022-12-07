@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRANS_PRT_FUL_LOAD">
+	<tu xmlns:lang="eng">Transition from the part load to the full load.</tu>
+	<tu xmlns:lang="nld">Overgang van gedeeltelijke belasting naar vollast. </tu>
+	<tu xmlns:lang="fra">Transition de la charge partielle à la pleine charge.</tu>
+	<tu xmlns:lang="deu">Übergang von Teillast auf Volllast.</tu>
+	<tu xmlns:lang="ita">Passaggio da carico parziale a pieno carico.</tu>
+	<tu xmlns:lang="jpn">部分負荷から全負荷への移行</tu>
+	<tu xmlns:lang="ptg">Transição de carga parcial para carga total.</tu>
+	<tu xmlns:lang="ptb">Transição da carga parcial à carga total.</tu>
+	<tu xmlns:lang="rus">Переход от частичной нагрузки к полной нагрузке.</tu>
+	<tu xmlns:lang="esp">Transición de carga parcial a plena carga.</tu>
+	<tu xmlns:lang="chs">从部分负载过渡到全负载。</tu>
+	<tu xmlns:lang="kor">부분 부하에서 최대 부하로 전환</tu>
+</tm>

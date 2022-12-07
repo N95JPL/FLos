@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@APPROVED_USB">
+	<tu xmlns:lang="eng">JLR Approved USB Flash Drive detected</tu>
+	<tu xmlns:lang="nld">Door JLR goedgekeurde USB-stick gedetecteerd</tu>
+	<tu xmlns:lang="fra">Clé USB approuvée JLR détectée</tu>
+	<tu xmlns:lang="deu">Von Jaguar Land Rover zugelassener USB-Stick erkannt</tu>
+	<tu xmlns:lang="ita">Rilevata unità flash USB approvata da JLR</tu>
+	<tu xmlns:lang="jpn">JLR 承認済みの USB フラッシュ ドライブが検知されました</tu>
+	<tu xmlns:lang="ptg">Unidade flash USB aprovada pela JLR detetada</tu>
+	<tu xmlns:lang="ptb">Pen Drive USB Aprovado pela JLR detectado</tu>
+	<tu xmlns:lang="rus">Обнаружен одобренный компанией JLR накопитель USB</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha detectado una unidad de memoria USB homologada por JLR</tu>
+	<tu xmlns:lang="chs">检测到 JLR 认可的 USB 闪存驱动器</tu>
+	<tu xmlns:lang="kor">JLR 승인 USB 플래시 드라이브가 감지됨</tu>
+</tm>

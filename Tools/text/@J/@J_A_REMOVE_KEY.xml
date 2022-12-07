@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_REMOVE_KEY">
+	<tu xmlns:lang="eng">Remove the key from ignition barrel.</tu>
+	<tu xmlns:lang="nld">Haal de sleutel uit het contact</tu>
+	<tu xmlns:lang="fra">Retirez la clé du commutateur d'allumage</tu>
+	<tu xmlns:lang="deu">Zündschlüssel aus dem Zündschloß ziehen.</tu>
+	<tu xmlns:lang="ita">Togliere la chiave dall'interruttore dell'accensione</tu>
+	<tu xmlns:lang="jpn">キーをイグニション バレルから抜き取りなさい</tu>
+	<tu xmlns:lang="ptg">Retirar a chave do canhão da ignição.</tu>
+	<tu xmlns:lang="ptb">Retire a chave do cilindro de ignição.</tu>
+	<tu xmlns:lang="rus">Выньте ключ из цилиндра замка зажигания.</tu>
+	<tu xmlns:lang="esp">Sacar la llave del interruptor de encendido</tu>
+	<tu xmlns:lang="chs">从点火筒中取出钥匙。</tu>
+	<tu xmlns:lang="kor">점화 배럴에서 키를 분리하십시오.</tu>
+</tm>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_72">
+	<tu xmlns:lang="eng">Mechanical failure - actuator is stuck open.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Mechanisch defect - actuator zit vast in geopende stand.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaillance mécanique - actionneur coincé en position ouverte.</tu>
+	<tu xmlns:lang="deu">Mechanische Störung - Stellglied hängt offen fest.</tu>
+	<tu xmlns:lang="ita">Guasto meccanico - attuatore inceppato aperto.</tu>
+	<tu xmlns:lang="jpn">機械的故障 － アクチュエータ、開いたまま固着</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha mecânica - activador está encravado na posição aberta.</tu>
+	<tu xmlns:lang="ptb">Falha mecânica - atuador emperrado na posição aberta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Механическая неисправность - заклинивание привода в открытом состоянии.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo mecánico: actuador agarrotado en posición abierta.</tu>
+	<tu xmlns:lang="chs">机械故障 - 致动器卡在打开位置。</tu>
+	<tu xmlns:lang="kor">기계적 고장 - 액추에이터가 개방 상태로 고착됨</tu>
+</tm>

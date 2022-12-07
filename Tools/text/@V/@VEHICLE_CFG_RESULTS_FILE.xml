@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VEHICLE_CFG_RESULTS_FILE">
+	<tu xmlns:lang="eng">Vehicle configuration results file</tu>
+	<tu xmlns:lang="nld">Resultatenbestand van voertuigconfiguratie</tu>
+	<tu xmlns:lang="fra">Fichier de résultats de configuration du véhicule</tu>
+	<tu xmlns:lang="deu">Ergebnisdatei Fahrzeugkonfiguration</tu>
+	<tu xmlns:lang="ita">File dei risultati di configurazione del veicolo</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション結果ファイル</tu>
+	<tu xmlns:lang="ptg">Ficheiro de resultados da configuração do veículo</tu>
+	<tu xmlns:lang="ptb">Arquivo de resultados da configuração do veículo</tu>
+	<tu xmlns:lang="rus">Файл результатов конфигурации автомобиля</tu>
+	<tu xmlns:lang="esp">Archivo de resultados de configuración del vehículo</tu>
+	<tu xmlns:lang="chs">车辆配置结果文件</tu>
+	<tu xmlns:lang="kor">차량 구성 결과 파일</tu>
+</tm>

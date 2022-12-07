@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RF_ACTIVITY_KEYFOB">
+	<tu xmlns:lang="eng">Radio frequency activity  -  Key fob %2i</tu>
+	<tu xmlns:lang="nld">Activiteiten radiofrequentie  -  Afstandsbediening %2i</tu>
+	<tu xmlns:lang="fra">Activité radiofréquence  -  Porte-clés %2i</tu>
+	<tu xmlns:lang="deu">Hochfrequenzaktivität  -  Fernbedienung %2i</tu>
+	<tu xmlns:lang="ita">Attività radiofrequenza  -  Portachiavi %2i</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ラジオ フレキュンシー アクティビィティー無線周波数活動  －  キー フォブ %2i</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Actividade de radiofrequência  -  Comando da chave - %2i</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Atividade de frequência de rádio  -  Controle remoto %2i</tu>
+	<tu xmlns:lang="rus">Передача радиосигнала  -  Брелок ключа %2i</tu>
+	<tu xmlns:lang="esp">Actividad de radiofrecuencia  -  Transmisor %2i</tu>
+	<tu xmlns:lang="chs">射频活动  -  遥控钥匙牌%2i</tu>
+	<tu xmlns:lang="kor">RF 활동  -  키 리모컨 %2i</tu>
+</tm>

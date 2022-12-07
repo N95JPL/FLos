@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CFG_SAS_CALLIB$M">
+	<tu xmlns:lang="eng">Steering angle sensor calibration</tu>
+	<tu xmlns:lang="nld">Kalibratie stuurhoeksensor</tu>
+	<tu xmlns:lang="fra">Etalonnage du capteur d'angle de braquage</tu>
+	<tu xmlns:lang="deu">Kalibrierung - Lenkwinkelsensor</tu>
+	<tu xmlns:lang="ita">Taratura sensore angolo sterzo</tu>
+	<tu xmlns:lang="jpn">ステアリング アングル センサ キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem do sensor do ângulo da direcção</tu>
+	<tu xmlns:lang="ptb">Calibração do sensor do ângulo de direção</tu>
+	<tu xmlns:lang="rus">Калибровка датчика угла поворота рулевого колеса</tu>
+	<tu xmlns:lang="esp">Calibración del sensor del ángulo de la dirección</tu>
+	<tu xmlns:lang="chs">转向角传感器校准</tu>
+	<tu xmlns:lang="kor">스티어링 각도 센서 보정</tu>
+</tm>

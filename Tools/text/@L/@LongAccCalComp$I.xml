@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LongAccCalComp$I">
+	<tu xmlns:lang="eng">Longitudinal accelerometer successfully calibrated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De kalibrering van de acceleratiemeter in langsrichting is met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Etalonnage de l'accéléromètre longitudinal réussi.</tu>
+	<tu xmlns:lang="deu">Längsbeschleunigungsaufnehmer erfolgreich kalibriert.</tu>
+	<tu xmlns:lang="ita">Taratura accelerometro longitudinale riuscita.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >軸方向加速度センサーのキャリブレーションは正常に完了しました。</tu>
+	<tu xmlns:lang="ptg">Acelerómetro longitudinal calibrado com êxito.</tu>
+	<tu xmlns:lang="ptb">Acelerômetro longitudinal calibrado com êxito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Калибровка датчика продольного ускорения (акселерометра) успешно завершена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Acelerómetro longitudinal calibrado satisfactoriamente.</tu>
+	<tu xmlns:lang="chs">纵向加速计已成功标定。</tu>
+	<tu xmlns:lang="kor">종방향 가속도계가 성공적으로 보정되었습니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_ReferDTCMonReRun">
+	<tu
+    xmlns:lang="eng"
+  >A fault has been detected - refer to diagnostic trouble code monitor and re-run the application when the fault is fixed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is een fout geconstateerd - raadpleeg het diagnosefoutcode-overzicht en voer het programma nogmaals uit, nadat de storing is verholpen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un défaut a été détecté - reportez-vous au contrôleur de codes d'anomalie et relancez l'application dès que le défaut est éliminé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wurde eine Störung ermittelt - auf den Fehlercode-Monitor Bezug nehmen und das Anwendungsprogramm erneut laufen lassen, wenn die Störung behoben wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È stato rilevato un guasto - vedere monitoraggio dei codici di guasto diagnostici ed eseguire nuovamente l'applicazione quando il guasto è stato riparato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >故障が検出されました - DTC モニターを参照し、故障の修復後、このアプリケーションを再実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Foi detectada uma avaria - consulte o monitor dos códigos de avaria e corra novamente a aplicação depois de reparar a avaria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma falha foi detectada - consulte o monitor do código de problema de diagnóstico e execute novamente o aplicativo quando a falha for corrigida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обнаружена неисправность - обратитесь к монитору диагностических кодов неисправностей и перезапустите программу после устранения неисправности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha detectado una anomalía; consulte el lector de códigos de avería y volver a ejecutar la aplicación una vez rectificada la anomalía.</tu>
+	<tu
+    xmlns:lang="chs"
+  >已检测到故障 - 参见故障诊断码监测器，并在修复故障后重新运行应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >고장이 감지되었습니다. 고장 진단 코드 모니터를 참조하고 고장이 수리되면 응용 프로그램을 다시 실행하십시오.</tu>
+</tm>

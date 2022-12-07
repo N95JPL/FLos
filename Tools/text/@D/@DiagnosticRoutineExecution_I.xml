@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DiagnosticRoutineExecution_I">
+	<tu xmlns:lang="eng">Diagnostic routine execution.</tu>
+	<tu xmlns:lang="nld">Uitvoeren van de diagnoseroutine</tu>
+	<tu xmlns:lang="fra">Exécution du programme de diagnosticô</tu>
+	<tu xmlns:lang="deu">Ausführung der Diagnoseroutine</tu>
+	<tu xmlns:lang="ita">Esecuzione di routine diagnostica</tu>
+	<tu xmlns:lang="jpn">診断ルーチン実行</tu>
+	<tu xmlns:lang="ptg">Execução de rotina de diagnóstico.</tu>
+	<tu xmlns:lang="ptb">Execução da rotina de diagnóstico.</tu>
+	<tu xmlns:lang="rus">Выполнение программы диагностики.</tu>
+	<tu xmlns:lang="esp">Ejecución de rutina de diagnosis</tu>
+	<tu xmlns:lang="chs">诊断程序执行。</tu>
+	<tu xmlns:lang="kor">진단 루틴 실행</tu>
+</tm>

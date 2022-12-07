@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_REINSERT_KEY_SCU">
+	<tu xmlns:lang="eng">Re-insert the key into the starter control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Steek de sleutel nogmaals in de regeleenheid voor sleutelloos starten (docking station).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Réinsérez la clé dans le module de commande de démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den Schlüssel wieder in die Startsteuereinheit einstecken.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Reinserire la chiave nell'unità di comando del motorino di avviamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >キーをもう一度スターター コントロール ユニットに挿入しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Voltar a introduzir a chave na unidade de controlo do motor de arranque.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Insira novamente a chave na unidade de controle de partida.</tu>
+	<tu xmlns:lang="rus">Еще раз вставьте ключ в блок управления стартером.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Volver a insertar la llave en el módulo de control de arranque.</tu>
+	<tu xmlns:lang="chs">将车钥再次插入起动机控制单元内。</tu>
+	<tu xmlns:lang="kor">키를 스타터 컨트롤 유닛에 다시 삽입하십시오.</tu>
+</tm>

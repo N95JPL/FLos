@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_CCF_TYPE">
+	<tu xmlns:lang="eng">Car configuration type</tu>
+	<tu xmlns:lang="nld">Voertuigconfiguratietype</tu>
+	<tu xmlns:lang="fra">Type de configuration du véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeugkonfiguration - Typ</tu>
+	<tu xmlns:lang="ita">Tipo configurazione veicolo</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de configuração do veículo</tu>
+	<tu xmlns:lang="ptb">Tipo de configuração do carro</tu>
+	<tu xmlns:lang="rus">Тип конфигурации автомобиля</tu>
+	<tu xmlns:lang="esp">Tipo de configuración del vehículo</tu>
+	<tu xmlns:lang="chs">车辆配置类型</tu>
+	<tu xmlns:lang="kor">차량 구성 유형</tu>
+</tm>

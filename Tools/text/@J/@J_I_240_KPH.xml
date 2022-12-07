@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_240_KPH">
+	<tu xmlns:lang="eng">240 kph</tu>
+	<tu xmlns:lang="nld">240 km/uur</tu>
+	<tu xmlns:lang="fra">240 km/h</tu>
+	<tu xmlns:lang="deu">240 km/h</tu>
+	<tu xmlns:lang="ita">240 kph </tu>
+	<tu xmlns:lang="jpn">240km/h</tu>
+	<tu xmlns:lang="ptg">240 km/h</tu>
+	<tu xmlns:lang="ptb">240 kph</tu>
+	<tu xmlns:lang="rus">240 км/ч</tu>
+	<tu xmlns:lang="esp">240 km/h</tu>
+	<tu xmlns:lang="chs">240kph</tu>
+	<tu xmlns:lang="kor">240kph</tu>
+</tm>

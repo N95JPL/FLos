@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_CD">
+	<tu xmlns:lang="eng">Is the vehicle fitted with a CD autochanger?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuig voorzien van een automatische CD-wisselaar?</tu>
+	<tu xmlns:lang="fra">Le véhicule est-il équipé d'un changeur de CD?</tu>
+	<tu xmlns:lang="deu">Ist das Fahrzeug mit einem CD-Wechsler ausgerüstet?</tu>
+	<tu xmlns:lang="ita">Il veicolo è dotato di cambiadischi CD?</tu>
+	<tu xmlns:lang="jpn">車両には、CDオートチェンジャーは装備されているか？</tu>
+	<tu xmlns:lang="ptg">O veículo está equipado com troca-CDs automático?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo está equipado com um trocador automático de CD?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Оборудован ли автомобиль автоматическим чейнджером компакт-дисков?</tu>
+	<tu xmlns:lang="esp">¿Tiene este coche cambiador automático de CD?</tu>
+	<tu xmlns:lang="chs">车辆是否安装了 CD 自动换碟播放机？</tu>
+	<tu xmlns:lang="kor">차량에 CD 오토체인저가 장착되어 있습니까?</tu>
+</tm>

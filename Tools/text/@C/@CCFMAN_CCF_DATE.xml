@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_CCF_DATE">
+	<tu xmlns:lang="eng">Creation date</tu>
+	<tu xmlns:lang="nld">Aanmaakdatum</tu>
+	<tu xmlns:lang="fra">Date de création</tu>
+	<tu xmlns:lang="deu">Erstellungsdatum</tu>
+	<tu xmlns:lang="ita">Data creazione</tu>
+	<tu xmlns:lang="jpn">作成日付</tu>
+	<tu xmlns:lang="ptg">Data de criação</tu>
+	<tu xmlns:lang="ptb">Data de criação</tu>
+	<tu xmlns:lang="rus">Дата создания</tu>
+	<tu xmlns:lang="esp">Fecha de creación</tu>
+	<tu xmlns:lang="chs">创建日期</tu>
+	<tu xmlns:lang="kor">작성 날짜</tu>
+</tm>

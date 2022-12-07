@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_KPH_UNITS">
+	<tu xmlns:lang="eng">Display road speed in kilometer per hour</tu>
+	<tu xmlns:lang="nld">Rijsnelheid weergeven in kilometer per uur</tu>
+	<tu xmlns:lang="fra">Afficher la vitesse en kilomètres à l'heure</tu>
+	<tu xmlns:lang="deu">Fahrgeschwindigkeit in Kilometer pro Stunde anzeigen.</tu>
+	<tu xmlns:lang="ita">Visualizza la velocità su strada in chilometri orari</tu>
+	<tu xmlns:lang="jpn">車速をキロメートル/時で表\示。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Visualizar a velocidade em estrada em quilómetros por hora</tu>
+	<tu xmlns:lang="ptb">Exibir velocidade da estrada em quilômetro por hora</tu>
+	<tu xmlns:lang="rus">Отображение скорости движения в километрах в час</tu>
+	<tu xmlns:lang="esp">Visualizar velocidad en kilómetros por hora</tu>
+	<tu xmlns:lang="chs">以 KPH 为单位显示行驶速度</tu>
+	<tu xmlns:lang="kor">주행 속도를 시간당 킬로미터 단위로 표시</tu>
+</tm>

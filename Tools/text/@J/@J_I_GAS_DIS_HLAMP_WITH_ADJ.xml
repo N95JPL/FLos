@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GAS_DIS_HLAMP_WITH_ADJ">
+	<tu xmlns:lang="eng">Gas discharge lights with auto adjuster</tu>
+	<tu xmlns:lang="nld">Xenon-lampen met automatische koplamphoogte-instelling</tu>
+	<tu xmlns:lang="fra">Lampes à décharge avec correcteur automatique</tu>
+	<tu
+    xmlns:lang="deu"
+  >Gasentladungslampen ohne automatische Leuchtweitenregulierung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Luci a scarica di gas con dispositivo di regolazione automatica</tu>
+	<tu xmlns:lang="jpn">自動調整機能\付きガス ディスチャージ ライト</tu>
+	<tu xmlns:lang="ptg">Luzes de xénon com regulador automático</tu>
+	<tu xmlns:lang="ptb">Luzes de descarga de gás com o ajustador automático</tu>
+	<tu xmlns:lang="rus">Газоразрядные фары с автоматической регулировкой</tu>
+	<tu xmlns:lang="esp">Faros de descarga con ajuste automático</tu>
+	<tu xmlns:lang="chs">带自动调节器的气体放电灯</tu>
+	<tu xmlns:lang="kor">자동 조정기가 있는 가스 방전등</tu>
+</tm>

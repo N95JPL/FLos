@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PDOOR_AJAR">
+	<tu xmlns:lang="eng">Passenger's door ajar</tu>
+	<tu xmlns:lang="nld">Passagiersportier open</tu>
+	<tu xmlns:lang="fra">Porte de passager entrebâillée</tu>
+	<tu xmlns:lang="deu">Beifahrertür angelehnt</tu>
+	<tu xmlns:lang="ita">Apertura porta passeggero</tu>
+	<tu xmlns:lang="jpn">ﾊﾟｯｾﾝｼﾞｬー・ﾄﾞｱ・ｵーﾌﾟﾝ</tu>
+	<tu xmlns:lang="ptg">Porta do passageiro mal fechada</tu>
+	<tu xmlns:lang="ptb">Porta do passageiro entreaberta</tu>
+	<tu xmlns:lang="rus">Не закрыта дверь пассажира</tu>
+	<tu xmlns:lang="esp">Puerta del pasajero entrabierta</tu>
+	<tu xmlns:lang="chs">乘员一侧车门微开</tu>
+	<tu xmlns:lang="kor">조수석 도어 열림</tu>
+</tm>

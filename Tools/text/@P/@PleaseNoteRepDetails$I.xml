@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PleaseNoteRepDetails$I">
+	<tu xmlns:lang="eng">Please note the following error report details.</tu>
+	<tu xmlns:lang="nld">Let a.u.b. op de nu volgende foutrapportgegevens.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez noter les détails du rapport d'erreur suivant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte die Details des folgenden Fehlerberichts zur Kenntnis nehmen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Annotare i dettagli di segnalazione errori riportati di seguito.</tu>
+	<tu xmlns:lang="jpn">次のエラー レポート詳細に注意しなさい。</tu>
+	<tu xmlns:lang="ptg">Tome nota dos dados do relatório de erro seguintes.</tu>
+	<tu xmlns:lang="ptb">Observe os seguintes detalhes de relatório de erro.</tu>
+	<tu xmlns:lang="rus">Запишите следующие сведения отчета об ошибках.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tomar nota de los siguientes datos del informe de error.</tu>
+	<tu xmlns:lang="chs">请留意下列错误报告细节。</tu>
+	<tu xmlns:lang="kor">다음 오류 보고서 세부 정보를 참조하십시오.</tu>
+</tm>

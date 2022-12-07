@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TYRE_CIRCUMFERENCE">
+	<tu xmlns:lang="eng">Tire circumference</tu>
+	<tu xmlns:lang="nld">Bandomtrek</tu>
+	<tu xmlns:lang="fra">Circonférence du pneu</tu>
+	<tu xmlns:lang="deu">Reifenumfang</tu>
+	<tu xmlns:lang="ita">Circonferenza pneumatici</tu>
+	<tu xmlns:lang="jpn">タイヤの円周</tu>
+	<tu xmlns:lang="ptg">Circunferência do pneu</tu>
+	<tu xmlns:lang="ptb">Circunferência do pneu</tu>
+	<tu xmlns:lang="rus">Окружность шины</tu>
+	<tu xmlns:lang="esp">Circunferencia de los neumáticos</tu>
+	<tu xmlns:lang="chs">轮胎周长</tu>
+	<tu xmlns:lang="kor">타이어 원주</tu>
+</tm>

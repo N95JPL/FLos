@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NOTE_APP_ROAD_TEST">
+	<tu
+    xmlns:lang="eng"
+  >Please note - Part of this application will involve road testing the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Let op: een deel van deze toepassing bestaat uit het maken van een proefrit met het voertuig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attention - Une partie de cette application implique un test sur route du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hinweis: Teil dieser Anwendung erfordert die Durchführung einer Probefahrt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nota - Una parte di questa applicazione implicherà una prova su strada con il veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >注記：このアプリケーション実行中に車両をロードテストする必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Atenção - Parte desta aplicação vai implicar uma prova de estrada ao veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Observe, que parte deste aplicativo envolverá o teste de estrada do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обратите внимание, что при выполнении данного приложения должно проводится дорожное испытание автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Nota: parte de esta aplicación requiere conducir el vehículo en carretera.</tu>
+	<tu xmlns:lang="chs">请注意--本应用程序一部分将涉及车辆路试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >참고 - 이 애플리케이션의 일부는 차량 도로 주행 테스트와 관련됩니다.</tu>
+</tm>

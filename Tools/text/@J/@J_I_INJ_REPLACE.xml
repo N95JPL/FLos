@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INJ_REPLACE">
+	<tu xmlns:lang="eng">Injector replacement</tu>
+	<tu xmlns:lang="nld">Vervanging van injector</tu>
+	<tu xmlns:lang="fra">Remplacement de l'injecteur</tu>
+	<tu xmlns:lang="deu">Einspritzventilaustausch</tu>
+	<tu xmlns:lang="ita">Sostituzione iniettore</tu>
+	<tu xmlns:lang="jpn">インジェクタの交換</tu>
+	<tu xmlns:lang="ptg">Substituição de injectores</tu>
+	<tu xmlns:lang="ptb">Substituição do injetor</tu>
+	<tu xmlns:lang="rus">Замена форсунки</tu>
+	<tu xmlns:lang="esp">Sustitución de inyectores</tu>
+	<tu xmlns:lang="chs">喷油器更换</tu>
+	<tu xmlns:lang="kor">인젝터 교체</tu>
+</tm>

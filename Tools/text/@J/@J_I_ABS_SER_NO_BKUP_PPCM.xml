@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABS_SER_NO_BKUP_PPCM">
+	<tu
+    xmlns:lang="eng"
+  >ABS serial number back-up  -  Petrol powertrain control module</tu>
+	<tu
+    xmlns:lang="nld"
+  >Back-up van ABS-serienummer  -  Regelmodule van aandrijflijn voor benzinemotor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Numéro de série de secours de l'ABS  -  Module de commande du groupe motopropulseur, version essence.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherungskopie - ABS-Seriennummer  -  Antriebsstrang-Steuergerät Benzinmotor.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Back-up numero di serie ABS  -  Modulo di comando catena cinematica motore a benzina.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ABS シリアル ナンバー バックアップ  －  ガソ\リン パワートレーン コントロール モジュール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Cópia do número de série do ABS  -  Módulo de comando do grupo motopropulsor, veículo a gasolina.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Backup do número de série do ABS  -  Módulo de controle do powertrain a gasolina</tu>
+	<tu
+    xmlns:lang="rus"
+  >Резервное копирование серийного номера ABS  -  Блок управления бензиновым силовым агрегатом.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Copia de seguridad del número de serie del ABS  -  Módulo de control del grupo motor y transmisión (Gasolina).</tu>
+	<tu
+    xmlns:lang="chs"
+  >ABS 防抱死刹车系统序号备份  -  汽油机动力传动系统控制模块。</tu>
+	<tu xmlns:lang="kor">ABS 일련 번호 백업  -  가솔린 파워트레인 컨트롤 모듈</tu>
+</tm>

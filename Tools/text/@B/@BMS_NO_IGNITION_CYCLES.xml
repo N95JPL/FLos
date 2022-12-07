@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_NO_IGNITION_CYCLES">
+	<tu
+    xmlns:lang="eng"
+  >Ensure there are no ignition cycles after the controlled shutdown period until instructed to do so.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat geen contactcycli worden uitgevoerd na de geregelde uitschakeling totdat hiertoe opdracht wordt gegeven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Aucun cycle d'allumage ne doit se produire une fois la période de coupure électrique confirmée et ce, jusqu'à nouvel ordre.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass es nach der Phase der kontrollierten Abschaltung zu keiner Betätigung der Zündung kommt, bis hierzu aufgefordert wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che non ci siano cicli di accensione dopo il periodo di spegnimento controllato, finché non verranno fornite istruzioni in tal senso.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >制御されたシャットダウン時間の後、その指示があるまではイグニション サイクルを行ってはなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certificar-se de que não ocorre nenhum ciclo de ignição após o período de paragem controlada, até que haja instruções para tal.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que não haja ciclos de ignição após o período de desligamento controlado até que seja instruído a fazê-los.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обеспечьте, что бы не было циклов зажигания, пока не появится соответствующее указание.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que no hay ciclos de encendido después del período de desconexión controlada hasta que se indique.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保在受控关闭时间之后、得到指令进行点火循环之前不存在任何点火循环。</tu>
+	<tu
+    xmlns:lang="kor"
+  >따로 지시가 있을 때까지는 제어되는 셧다운 기간 후 아무런 점화 사이클도 없는지 확인하십시오.</tu>
+</tm>

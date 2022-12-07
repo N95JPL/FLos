@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_IS_PDOOR_LOCKED">
+	<tu xmlns:lang="eng">Is the passenger's door locked?</tu>
+	<tu xmlns:lang="nld">Is het passagiersportier vergrendeld?</tu>
+	<tu xmlns:lang="fra">La porte passager est-elle verrouillée ?</tu>
+	<tu xmlns:lang="deu">Ist die Beifahrertür verriegelt?</tu>
+	<tu xmlns:lang="ita">La portiera del passeggero è bloccata?</tu>
+	<tu xmlns:lang="jpn">パッセンジャー ドアはロックされていますか？</tu>
+	<tu xmlns:lang="ptg">A porta do passageiro está trancada?</tu>
+	<tu xmlns:lang="ptb">A porta do passageiro está travada?</tu>
+	<tu xmlns:lang="rus">Заперта ли дверь пассажира?</tu>
+	<tu xmlns:lang="esp">¿Está bloqueada la puerta del acompañante?</tu>
+	<tu xmlns:lang="chs">乘客一侧车门是否锁定？</tu>
+	<tu xmlns:lang="kor">조수석 도어가 잠깁니까?</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_ARE_REAR_DOORS_FITTED">
+	<tu xmlns:lang="eng">Is the vehicle fitted with rear doors?</tu>
+	<tu xmlns:lang="nld">Is het voertuig voorzien van achterportieren?</tu>
+	<tu xmlns:lang="fra">Le véhicule est-il équipé de portes arrière ?</tu>
+	<tu xmlns:lang="deu">Ist das Fahrzeug mit Hintertüren ausgestattet?</tu>
+	<tu xmlns:lang="ita">Il veicolo è dotato di portiere posteriori?</tu>
+	<tu xmlns:lang="jpn">車両にリア ドアが装備されていますか？</tu>
+	<tu xmlns:lang="ptg">O veículo está equipado com portas traseiras?</tu>
+	<tu xmlns:lang="ptb">O veículo está equipado com portas traseiras?</tu>
+	<tu xmlns:lang="rus">Имеются ли в автомобиле задние двери?</tu>
+	<tu xmlns:lang="esp">¿Cuenta el vehículo con puertas traseras?</tu>
+	<tu xmlns:lang="chs">车辆装好后车门了吗？</tu>
+	<tu xmlns:lang="kor">차량에 리어 도어가 장착되어 있습니까?</tu>
+</tm>

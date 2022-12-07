@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VIN_RESULTS_COMP">
+	<tu xmlns:lang="eng">Vehicle identification number results comparison</tu>
+	<tu
+    xmlns:lang="nld"
+  >Vergelijking van resultaten voertuigidentificatienummers</tu>
+	<tu
+    xmlns:lang="fra"
+  >Comparaison des résultats de numéro d'identification du véhicule</tu>
+	<tu xmlns:lang="deu">Ergebnisvergleich - Fahrzeug-Identifizierungsnummer</tu>
+	<tu
+    xmlns:lang="ita"
+  >Confronto dei risultati dei numeri di identificazione veicolo</tu>
+	<tu xmlns:lang="jpn">車両 ID ナンバーの結果の比較</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Comparação de resultados relativos ao número de identificação do veículo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Comparação dos resultados do número de identificação do veículo</tu>
+	<tu xmlns:lang="rus">Результаты сравнения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comparación de resultados de número de identificación del vehículo</tu>
+	<tu xmlns:lang="chs">车辆识别号码结果比较</tu>
+	<tu xmlns:lang="kor">차량 식별 번호 결과 비교</tu>
+</tm>

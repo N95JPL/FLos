@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KEYS_PLACE_NEAR_GEAR_SURROUND">
+	<tu
+    xmlns:lang="eng"
+  >Make sure all keys are present for the vehicle and that they are placed on the vehicle gear selector surround.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat alle sleutels voor het voertuig aanwezig zijn en dat zij allemaal op de sierrand rondom de transmissiehendel liggen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que toutes les clés sont présentes pour ce véhicule et qu'elles sont placées près du sélecteur de vitesse.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass alle Schlüssel für das Fahrzeug zur Hand sind und auf der Blende der Wählhebelkulisse abgelegt wurden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che tutte le chiavi del veicolo siano presenti e disposte sulla cornice del selettore del cambio del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この車両用のすべてのキーが用意できていて、それらが車両ギア セレクター サラウンドに置かれていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que todas as chaves do veículo estão presentes e que estão colocadas na guarnição da alavanca das mudanças.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que todas as chaves estão presentes para o veículo e que estão colocadas no veículo ao redor do seletor de marchas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что все ключи для данного автомобиля размещены около селектора передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que estén presentes todas las llaves del vehículo y que estén colocadas en el cerco de la palanca selectora.</tu>
+	<tu xmlns:lang="chs">确保为车辆备齐所有钥匙，且全部置于车辆换档杆附近。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에 대한 모든 키가 있고 차량 기어 셀렉터 주변에 놓여져 있는지 확인하십시오.</tu>
+</tm>

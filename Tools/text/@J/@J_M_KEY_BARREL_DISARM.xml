@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_KEY_BARREL_DISARM">
+	<tu xmlns:lang="eng">Key barrel disarm</tu>
+	<tu xmlns:lang="nld">Slotcilinder deactiveren</tu>
+	<tu xmlns:lang="fra">Désactivation du barillet de clé</tu>
+	<tu xmlns:lang="deu">Schlosszylinder - Deaktivierung</tu>
+	<tu xmlns:lang="ita">Disinserimento cilindretto serratura</tu>
+	<tu xmlns:lang="jpn">キー バレル ディスアーミング</tu>
+	<tu xmlns:lang="ptg">Desactivar canhão da fechadura</tu>
+	<tu xmlns:lang="ptb">Desarme do cilindro da chave</tu>
+	<tu xmlns:lang="rus">Снятие цилиндра замка зажигания с охраны</tu>
+	<tu xmlns:lang="esp">Desactivación del bombillo</tu>
+	<tu xmlns:lang="chs">钥匙筒警报解除</tu>
+	<tu xmlns:lang="kor">키 배럴 해제</tu>
+</tm>

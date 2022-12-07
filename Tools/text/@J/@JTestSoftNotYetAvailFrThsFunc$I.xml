@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JTestSoftNotYetAvailFrThsFunc$I">
+	<tu xmlns:lang="eng">Test software not yet available for this function</tu>
+	<tu xmlns:lang="nld">Test Software nog niet beschikbaar voor deze functie</tu>
+	<tu
+    xmlns:lang="fra"
+  >Logiciel d'essai de cette fonction pas encore disponible</tu>
+	<tu
+    xmlns:lang="deu"
+  >Für diese Funktion steht noch keine Testsoftware zur Verfügung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Software di prova di questa funzione non ancora disponibile</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この機能\をテストするソ\フトウェアは用意されていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Software de teste ainda não disponível para esta função</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Software de teste ainda não disponível para esta função</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для этой функции диагностическое программное обеспечение еще отсутствует</tu>
+	<tu
+    xmlns:lang="esp"
+  >Todavía no hay software de verificación para esta función</tu>
+	<tu xmlns:lang="chs">测试软件对这一功能还不能用</tu>
+	<tu xmlns:lang="kor">이 기능에는 아직 테스트 소프트웨어를 사용할 수 없음</tu>
+</tm>

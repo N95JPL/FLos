@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SEAT_TRACK_SENSOR">
+	<tu xmlns:lang="eng">Seat track position sensor fitment</tu>
+	<tu xmlns:lang="nld">Montage van stoelrailstandsensor</tu>
+	<tu xmlns:lang="fra">Montage du capteur de position de glissière de siège</tu>
+	<tu xmlns:lang="deu">Sitzschienensensor ? Einbau</tu>
+	<tu xmlns:lang="ita">Montaggio sensore posizione guide sedile</tu>
+	<tu xmlns:lang="jpn">シート トラック ポジション センサーの取り付け</tu>
+	<tu xmlns:lang="ptg">Montagem do sensor de posição da calha do banco</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Instalação do sensor de posição de acompanhamento do assento</tu>
+	<tu xmlns:lang="rus">Установка датчика положения сиденья</tu>
+	<tu
+    xmlns:lang="esp"
+  >Montaje del sensor de posición longitudinal del asiento</tu>
+	<tu xmlns:lang="chs">座椅导轨位置传感器安装</tu>
+	<tu xmlns:lang="kor">시트 트랙 위치 센서 장착</tu>
+</tm>

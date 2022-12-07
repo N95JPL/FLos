@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_REP_DIE_ECM">
+	<tu xmlns:lang="eng">Replace the diesel engine control module.</tu>
+	<tu xmlns:lang="nld">Vervang de dieselmotorregelmodule.</tu>
+	<tu xmlns:lang="fra">Remplacez le module de commande du moteur diesel.</tu>
+	<tu xmlns:lang="deu">Das Dieselmotor-Steuergerät ersetzen.</tu>
+	<tu xmlns:lang="ita">Sostituire il modulo di comando motore diesel.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ディーゼル エンジン コントロール モジュールを交換しなさい。</tu>
+	<tu xmlns:lang="ptg">Substituir o módulo de comando do motor Diesel.</tu>
+	<tu xmlns:lang="ptb">Troque o módulo de controle do motor a diesel</tu>
+	<tu xmlns:lang="rus">Заменить блок управления дизельным двигателем.</tu>
+	<tu xmlns:lang="esp">Sustituir el módulo de control del motor Diesel.</tu>
+	<tu xmlns:lang="chs">更换柴油发动机控制模块。</tu>
+	<tu xmlns:lang="kor">디젤 엔진 컨트롤 모듈을 교체하십시오.</tu>
+</tm>

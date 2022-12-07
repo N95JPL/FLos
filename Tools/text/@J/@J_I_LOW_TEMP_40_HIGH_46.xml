@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOW_TEMP_40_HIGH_46">
+	<tu xmlns:lang="eng">Low temperature 40°C  -  High temperature 46°C</tu>
+	<tu xmlns:lang="nld">Lage temperatuur 40°C  -  Hoge temperatuur 46°C</tu>
+	<tu xmlns:lang="fra">Basse température 40°C  -  Température élevée 46°C</tu>
+	<tu xmlns:lang="deu">Niedrige Temperatur 40°C  -  Hohe Temperatur 46°C</tu>
+	<tu xmlns:lang="ita">Bassa temperatura 40°C  -  Alta temperatura 46°C</tu>
+	<tu xmlns:lang="jpn">低鴛 40°C  －  高鴛 46°C</tu>
+	<tu xmlns:lang="ptg">Temperatura baixa 40°C  -  Temperatura elevada 46°C</tu>
+	<tu xmlns:lang="ptb">Baixa temperatura 40 °C  -  Alta temperatura 46 °C</tu>
+	<tu xmlns:lang="rus">Низкая температура 40°C  -  Высокая температура 46°C</tu>
+	<tu xmlns:lang="esp">Temperatura baja 40°C  -  Temperatura alta 46°C</tu>
+	<tu xmlns:lang="chs">低温 40℃  -  高温 46°C</tu>
+	<tu xmlns:lang="kor">저온 40°C  -  고온 46°C</tu>
+</tm>

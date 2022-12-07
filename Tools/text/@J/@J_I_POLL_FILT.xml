@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_POLL_FILT">
+	<tu xmlns:lang="eng">Pollen filter</tu>
+	<tu xmlns:lang="nld">Pollenfilter</tu>
+	<tu xmlns:lang="fra">Filtre à pollen</tu>
+	<tu xmlns:lang="deu">Pollenfilter</tu>
+	<tu xmlns:lang="ita">Filtro antipolline</tu>
+	<tu xmlns:lang="jpn">ポレン フィルター</tu>
+	<tu xmlns:lang="ptg">Filtro de pólen</tu>
+	<tu xmlns:lang="ptb">Filtro de pólen</tu>
+	<tu xmlns:lang="rus">Пылезащитный фильтр</tu>
+	<tu xmlns:lang="esp">Filtro de partículas</tu>
+	<tu xmlns:lang="chs">花粉滤清器</tu>
+	<tu xmlns:lang="kor">에어컨 필터</tu>
+</tm>

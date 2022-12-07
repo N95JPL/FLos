@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECS_CODE_E">
+	<tu xmlns:lang="eng">ECS  -  E  -  5.0 SC Federal LEV 2</tu>
+	<tu xmlns:lang="nld">ECS  -  E  -  5.0 SC Federaal LEV 2</tu>
+	<tu xmlns:lang="fra">ECS  -  E  -  5.0 suralim. Federal LEV 2</tu>
+	<tu xmlns:lang="deu">ECS  -  E  -  5.0 Kompressormotor USA LEV 2</tu>
+	<tu xmlns:lang="ita">ECS  -  E  -  5.0 SC Federale LEV 2</tu>
+	<tu xmlns:lang="jpn">ECS  －  E  －  5.0 SC 連邦 LEV 2</tu>
+	<tu xmlns:lang="ptg">ECS  -  E  -  5.0 SC Federal LEV 2</tu>
+	<tu xmlns:lang="ptb">ECS  -  E  -  5.0 SC Federal LEV 2</tu>
+	<tu
+    xmlns:lang="rus"
+  >ECS  -  E  -  5.0 с компрессором, Федеральный стандарт LEV 2</tu>
+	<tu xmlns:lang="esp">ECS  -  E  -  5.0 SC Federal LEV 2</tu>
+	<tu xmlns:lang="chs">ECS  -  E  -  5.0 升机械增压型联邦 2 级（LEV 2）</tu>
+	<tu xmlns:lang="kor">ECS  -  E  -  5.0 SC Federal LEV 2</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAP_UPDT_FOLLOW_NAVG_SCR">
+	<tu
+    xmlns:lang="eng"
+  >Follow the guidance from the navigation screen to install/update the map software. Some navigation applications may need to restart in order to use the new map data. If this is required, they will do so with no interaction and the navigation screen will exit to the home screen. If this happens, reselect navigation.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Volg de instructies op het navigatiescherm om de kaartsoftware te installeren/bij te werken. Sommige navigatietoepassingen moeten opnieuw worden opgestart voordat u de nieuwe kaartgegevens kunt gebruiken. De toepassingen worden, indien nodig, zonder enige melding opnieuw opgestart. Het navigatiescherm wordt afgesloten en het systeem keert terug naar het beginscherm. Wanneer dit gebeurt, selecteert u nogmaals navigatie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Suivez les instructions qui s'affichent sur l'écran de navigation pour installer/mettre à jour le logiciel de la carte. Il peut être nécessaire de redémarrer certaines applications de navigation pour pouvoir utiliser les nouvelles données de la carte. Si le redémarrage est nécessaire, celui-ci s'exécute sans interaction avec l'utilisateur et l'écran de navigation repasse à l'écran d'accueil. Si cela se produit, sélectionnez à nouveau la navigation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zum Installieren/Aktualisieren der Karten-Software, den Anweisungen auf dem Navigationsbildschirm folgen. Einige Navigationsanwendungen müssen eventuell neu gestartet werden, um auf die neuen Kartendaten zugreifen zu können. Ist ein Neustart erforderlich, wird dieser ohne Benutzerinteraktion ausgeführt, und das Programm wechselt vom Navigationsbildschirm zur Startseite. In diesem Fall erneut das Navigationsmenü auswählen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Seguire le istruzioni visualizzate sulla schermata di navigazione per installare/aggiornare il software della mappa. Alcune applicazioni di navigazione richiedono il riavvio per utilizzare i nuovi dati della mappa. In questo caso, le applicazioni si riavvieranno senza che venga visualizzato alcun messaggio e si passerà dalla schermata di navigazione alla schermata Home. In questo caso, selezionare nuovamente la navigazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >マップ ソフトウェアをインストール/更新するには、ナビゲーション画面の案内に従うこと。 ナビゲーション アプリケーションのなかには、新しいマップ データを利用するために再起動の必要があるものもある。 再起動が必要な場合に何もしなければ、ナビゲーション画面はホーム画面に戻る。 このような場合は、ナビゲーションを再選択すること。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Siga as instruções do ecrã de navegação para instalar/atualizar o software de mapas. Pode ser necessário reiniciar algumas aplicações de navegação para poder utilizar os novos dados do mapa. Se tal for necessário, irão fazê-lo sem qualquer interação e o ecrã de navegação irá sair para o ecrã da página inicial. Se tal acontecer, volte a selecionar o menu de navegação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Siga as orientações na tela de navegação para instalar/atualizar o software de mapa. Alguns aplicativos de navegação poderão precisar reinicializar para utilizar os novos dados de mapa. Caso seja necessário, isso será executado sem interação, tela de navegação fechará e a tela inicial abrirá. Se isso ocorrer, selecione novamente a navegação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следуйте указаниям на экране навигационной системы для установки/обновления картографического программного обеспечения. Может потребоваться перезапустить некоторые приложения навигационной системы для использования новых картографических данных. Если такой перезапуск необходим, он будет выполнен без взаимодействия, и экран системы навигации переключится на главный экран. В этом случае повторно выберите навигационную систему.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Siga las indicaciones de la pantalla de navegación para instalar/actualizar el software de mapas. Es posible que haya que reiniciar algunas aplicaciones de navegación para utilizar los nuevos datos de mapas. Si es necesario, lo harán sin que sea necesario interactuar con el sistema, la pantalla de navegación se cerrará y se abrirá la pantalla de inicio. Si esto ocurre, vuelva a seleccionar el navegador.</tu>
+	<tu
+    xmlns:lang="chs"
+  >安装/更新地图软件时，遵循导航屏幕上的指示。 某些导航应用程序可能需要重新启动，以便使用新地图数据。 如果需要重新启动，则将在无交互的情况下进行并且导航屏幕将退回至主页屏幕。 如果出现此情况，则重新选择导航。</tu>
+	<tu
+    xmlns:lang="kor"
+  >내비게이션 화면의 안내에 따라 지도 소프트웨어를 설치/업데이트하십시오. 새 지도 데이터를 사용하기 위해 일부 내비게이션 응용 프로그램을 다시 시작해야 할 수도 있습니다. 다시 시작해야 할 경우, 아무런 상호 작용 없이 다시 시작되며 내비게이션 화면이 종료되어 홈 화면으로 돌아갑니다. 이 경우 내비게이션을 다시 선택하십시오.</tu>
+</tm>

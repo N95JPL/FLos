@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SecLearnIgnOff$I">
+	<tu
+    xmlns:lang="eng"
+  >The security learn operation can only be performed with the engine not running.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt het inleren van de beveiligingscode alleen uitvoeren als de motor niet loopt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'opération d'apprentissage de sécurité ne peut être effectuée que si le moteur est coupé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Erlernen des Sicherheitscodes kann nur durchgeführt werden, wenn der Motor steht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'operazione di apprendimento sicurezza può essere eseguita solo con il motore spento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セキュリティ認識オペレーションは、エンジンがかかっていないときにのみ実行可能\です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A operação de programação de segurança só pode ser levada a cabo com o motor parado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A operação de memorização de segurança só pode ser executada com o motor desligado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Операция обучения охранной системы может быть выполнена только при неработающем двигателе.
+</tu>
+	<tu
+    xmlns:lang="esp"
+  >La operación de aprendizaje del sistema de seguridad solo se puede realizar con el motor parado.</tu>
+	<tu xmlns:lang="chs">只可在发动机不运行时执行安全记忆操作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >보안 학습 작업은 엔진이 작동하지 않을 때에만 수행할 수 있습니다.</tu>
+</tm>

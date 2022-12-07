@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WIPERS_FRONT_SPEED_DEPENDENT">
+	<tu xmlns:lang="eng">Speed dependent front windshield wipers</tu>
+	<tu xmlns:lang="nld">Snelheidsafhankelijke ruitenwissers van de voorruit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Balayage d'essuie-glaces avant dépendant de la vitesse.</tu>
+	<tu xmlns:lang="deu">Geschwindigkeitsabhängige Windschutzscheibenwischer</tu>
+	<tu xmlns:lang="ita">Tergicristalli parabrezza dipendenti dalla velocità</tu>
+	<tu xmlns:lang="jpn">速度感応フロント ウィンドシールド ワイパー</tu>
+	<tu xmlns:lang="ptg">Limpa-pára-brisas dependente da velocidade</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Limpadores de para-brisa dianteiros dependentes da velocidade</tu>
+	<tu
+    xmlns:lang="rus"
+  >Режим регулирования работы стеклоочистителей ветрового стекла в зависимости от скорости движения</tu>
+	<tu xmlns:lang="esp">Limpiaparabrisas sensibles a la velocidad del vehículo</tu>
+	<tu xmlns:lang="chs">由速度控制的前挡风玻璃刮水器</tu>
+	<tu xmlns:lang="kor">속도 연동 프론트 윈드실드 와이퍼</tu>
+</tm>

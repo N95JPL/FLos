@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_START_CLUT_PED_INTLOK">
+	<tu xmlns:lang="eng">Starter/clutch pedal interlock</tu>
+	<tu xmlns:lang="nld">Startmotor/koppelingspedaalvergrendeling</tu>
+	<tu
+    xmlns:lang="fra"
+  >Avec verrouillage entre démarreur et pédale d'embrayage</tu>
+	<tu xmlns:lang="deu">Startsperre Starter/Kupplungspedal</tu>
+	<tu xmlns:lang="ita">Interblocco pedale avviamento/frizione</tu>
+	<tu xmlns:lang="jpn">スターター／クラッチ ペダル インターロック</tu>
+	<tu xmlns:lang="ptg">Bloqueio do arranque/pedal da embraiagem</tu>
+	<tu xmlns:lang="ptb">Trava do pedal do motor de arranque/embreagem</tu>
+	<tu xmlns:lang="rus">Блокировка стартера/педали сцепления</tu>
+	<tu xmlns:lang="esp">Enclavamiento del motor de arranque/pedal de embrague</tu>
+	<tu xmlns:lang="chs">起动器/离合器踏板互锁</tu>
+	<tu xmlns:lang="kor">스타터/클러치 페달 인터록</tu>
+</tm>

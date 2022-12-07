@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECS_CODE_5">
+	<tu
+    xmlns:lang="eng"
+  >ECS  -  5  -  3.0 litre diesel Euro 4 non diesel particulate filter 200kW</tu>
+	<tu
+    xmlns:lang="nld"
+  >ECS  -  5  -  3.0 liter dieselmotor Euro 4 niet-dieseldeeltjesfilter 200 kW</tu>
+	<tu
+    xmlns:lang="fra"
+  >ECS  -  5  -  3.0 L diesel Euro 4 sans filtre à particules diesel 200 kW</tu>
+	<tu
+    xmlns:lang="deu"
+  >ECS  -  5  -  3.0 Liter Diesel Euro 4 ohne Dieselrußfilter 200 kW</tu>
+	<tu
+    xmlns:lang="ita"
+  >ECS  -  5  -  3.0 litri diesel Euro 4 filtro antiparticolato non diesel 200 kW</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ECS  －  5  －  3.0 L ディーゼル ユーロ 4 ディーゼル微粒子フィルター (DPF) 非装備 200 kW</tu>
+	<tu
+    xmlns:lang="ptg"
+  >ECS  -  5  -  Motor de 3.0 litros Diesel Euro 4 sem filtro de partículas do diesel 200 kW</tu>
+	<tu
+    xmlns:lang="ptb"
+  >ECS  -  5  -  3.0 diesel Euro 4 sem filtro de partículas de diesel 200 kW</tu>
+	<tu
+    xmlns:lang="rus"
+  >ECS  -  5  -  Дизельный двигатель 3.0 литра Euro 4, без противосажевого фильтра, мощностью 200 кВт</tu>
+	<tu
+    xmlns:lang="esp"
+  >ECS  -  5  -  Filtro de partículas no diesel (200kW) para 3.0L diesel Euro 4</tu>
+	<tu
+    xmlns:lang="chs"
+  >ECS  -  5  -  3.0 升柴油机欧 4（非柴油颗粒过滤器） 200 千瓦</tu>
+	<tu xmlns:lang="kor">ECS  -  5  -  3.0L 디젤 Euro 4 비 DPF 200kW</tu>
+</tm>

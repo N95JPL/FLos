@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RUN_SW_UPDATE">
+	<tu
+    xmlns:lang="eng"
+  >Go to 'Settings' tab, select 'System Utilities' tab, and select 'Software Update'</tu>
+	<tu
+    xmlns:lang="nld"
+  >Ga naar het tabblad 'Instellingen', selecteer het tabblad 'Systeemhulpprogramma’s' en selecteer 'Software-update'</tu>
+	<tu
+    xmlns:lang="fra"
+  >Allez dans l'onglet Paramètres, sélectionnez l'onglet Utilitaires systèmes puis Mise à jour du logiciel</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zur Registerkarte „Einstellungen“ gehen, Registerkarte „System-Dienstprogramme“ auswählen und „Softwareaktualisierung“ auswählen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accedere alla scheda Impostazioni, selezionare la scheda Utilità di sistema, quindi scegliere Aggiornamento software</tu>
+	<tu
+    xmlns:lang="jpn"
+  >「設定」タブへ進み、「システム ユーティリティ」タブを選択して「ソフトウェアの更新」を選択します</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aceda ao separador 'Definições', selecione o separador 'Utilitários do sistema' e escolha 'Atualização de software'</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Vá para a guia “Configurações”, selecione a guia “Utilitários do Sistema” e selecione “Atualização de Software”</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перейдите на вкладку 'Настройки', выберите вкладку 'Системные утилиты' и затем выберите 'Обновление программного обеспечения'</tu>
+	<tu
+    xmlns:lang="esp"
+  >VayaVaya a la pestaña Ajustes, seleccione la pestaña Utilidades del sistema y, a continuación, Actualización de software.</tu>
+	<tu
+    xmlns:lang="chs"
+  >转至“设置”选项卡，选择“系统实用程序”选项卡，然后选择“软件更新”</tu>
+	<tu
+    xmlns:lang="kor"
+  >'설정' 탭으로 이동하고, '시스템 유틸리티' 탭을 선택한 후 '소프트웨어 업데이트'를 선택하십시오.</tu>
+</tm>

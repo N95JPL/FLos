@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IMMO_NEW_PROGRAMMING_INFO">
+	<tu
+    xmlns:lang="eng"
+  >If the vehicle immobilizer control module has been replaced then the immobilization code must be programmed into the powertrain control module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Indien u de regelmodule van het startblokkeringssysteem hebt vervangen, moet u de startblokkeringscode in de regelmodule van de aandrijflijn programmeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si le module de commande d'antidémarrage du véhicule a été remplacé, le code d'antidémarrage doit être programmé dans le module de commande du groupe motopropulseur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wurde das Wegfahrsperren-Steuergerät ausgetauscht, so muss der Wegfahrsperrencode dem Antriebsstrang-Steuergerät einprogrammiert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se è stato sostituito il modulo di comando immobilizzatore veicolo, programmare il codice di immobilizzazione nel modulo comando catena cinematica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両イモビライザ コントロール モジュールを交換した場合、イモビライゼーション コードをパワートレーン コントロール モジュールにプログラムする必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o módulo de comando do imobilizador do veículo tiver sido substituído é necessário programar o código de imobilização no módulo de comando do grupo motopropulsor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o módulo de controle do imobilizador do veículo foi substituído, então o código de imobilização deve ser programado no módulo de controle de powertrain.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если производилась замена блока управления иммобилайзером автомобиля, необходимо запрограммировать код блокировки запуска в блок управления силовым агрегатом.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se ha sustituido el módulo de control del inmovilizador del vehículo, habrá que programar el código de inmovilización en el módulo de control del grupo motor y transmisión.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果车辆防盗锁止系统控制模块被更换，那么，防盗锁止密码必须编程设置到动力传动系统控制模块中。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 이모빌라이저 컨트롤 모듈을 교체한 경우에는 이모빌라이제이션 코드를 파워트레인 컨트롤 모듈로 프로그래밍해야 합니다.</tu>
+</tm>

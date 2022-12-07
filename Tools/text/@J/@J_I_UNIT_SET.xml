@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNIT_SET">
+	<tu xmlns:lang="eng">Unit settings</tu>
+	<tu xmlns:lang="nld">Eenheidsinstellingen </tu>
+	<tu xmlns:lang="fra">Réglages de l'unité </tu>
+	<tu xmlns:lang="deu">Einheiten-Einstellungen </tu>
+	<tu xmlns:lang="ita">Impostazioni unità</tu>
+	<tu xmlns:lang="jpn">単位設定</tu>
+	<tu xmlns:lang="ptg">Definições da unidade</tu>
+	<tu xmlns:lang="ptb">Configurações de unidade</tu>
+	<tu xmlns:lang="rus">Единицы измерения </tu>
+	<tu xmlns:lang="esp">Configuración de la unidad</tu>
+	<tu xmlns:lang="chs">单位设置</tu>
+	<tu xmlns:lang="kor">단위 설정</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DEPLOY_BATT_SYS">
+	<tu xmlns:lang="eng">Deployable battery system</tu>
+	<tu xmlns:lang="nld">Inzetbaar accusysteem</tu>
+	<tu xmlns:lang="fra">Système de batterie déployable</tu>
+	<tu xmlns:lang="deu">Ausbaubares Batteriesystem</tu>
+	<tu xmlns:lang="ita">Sistema batteria attivabile</tu>
+	<tu xmlns:lang="jpn">展開可能\なバッテリ システム</tu>
+	<tu xmlns:lang="ptg">Sistema de bateria detonável</tu>
+	<tu xmlns:lang="ptb">Sistema de bateria móvel</tu>
+	<tu xmlns:lang="rus">Готовая к эксплуатации батарейная установка</tu>
+	<tu xmlns:lang="esp">Sistema desplegable de la batería</tu>
+	<tu xmlns:lang="chs">可调配电池系统</tu>
+	<tu xmlns:lang="kor">전개식 배터리 시스템</tu>
+</tm>

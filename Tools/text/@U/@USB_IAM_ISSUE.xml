@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@USB_IAM_ISSUE">
+	<tu xmlns:lang="eng">Problem with the integrated audio module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Probleem met regelmodule van geïntegreerde geluidsinstallatie</tu>
+	<tu xmlns:lang="fra">Problème avec le module audio intégré.</tu>
+	<tu xmlns:lang="deu">Problem mit dem integrierten Audiosystem.</tu>
+	<tu xmlns:lang="ita">Problema nel modulo audio integrato.</tu>
+	<tu xmlns:lang="jpn">インテグレート オーディオ モジュールの問題。</tu>
+	<tu xmlns:lang="ptg">Problema com módulo áudio integrado.</tu>
+	<tu xmlns:lang="ptb">Problema com o módulo de áudio integrado.</tu>
+	<tu xmlns:lang="rus">Проблема со встроенным аудиоблоком.</tu>
+	<tu xmlns:lang="esp">Problema en el módulo de audio integrado.</tu>
+	<tu xmlns:lang="chs">集成音频模块存在故障。</tu>
+	<tu xmlns:lang="kor">통합 오디오 모듈의 문제.</tu>
+</tm>

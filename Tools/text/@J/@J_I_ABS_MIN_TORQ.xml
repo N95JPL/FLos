@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABS_MIN_TORQ">
+	<tu xmlns:lang="eng">ABS minimum torque</tu>
+	<tu xmlns:lang="nld">Minimumkoppel ABS</tu>
+	<tu xmlns:lang="fra">Couple minimum ABS.</tu>
+	<tu xmlns:lang="deu">ABS-Mindestdrehmoment</tu>
+	<tu xmlns:lang="ita">Coppia minima ABS</tu>
+	<tu xmlns:lang="jpn">ABS 最少トルク</tu>
+	<tu xmlns:lang="ptg">Binário mínimo, ABS</tu>
+	<tu xmlns:lang="ptb">Torque mínimo do ABS</tu>
+	<tu xmlns:lang="rus">Минимальный крутящий момент ABS</tu>
+	<tu xmlns:lang="esp">Par mínimo del ABS</tu>
+	<tu xmlns:lang="chs">ABS最低扭距</tu>
+	<tu xmlns:lang="kor">ABS 최소 토크</tu>
+</tm>

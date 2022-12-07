@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_1B">
+	<tu
+    xmlns:lang="eng"
+  >General electrical failure - circuit resistance above threshold.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Algemeen elektrisch defect - circuitweerstand boven de drempel.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Panne électrique générale - résistance de circuit supérieure au seuil.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Allgemeine Elektrikstörung - Widerstand im Stromkreis über Grenzwert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto elettrico generale - resistenza circuito superiore a valore soglia.</tu>
+	<tu xmlns:lang="jpn">一般エレクトリカル故障 － サーキット抵抗値、規定値以上</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha eléctrica geral - resistência do circuito acima do limiar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha elétrica geral - resistência de corrente acima do limite.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электрическая неисправность общего характера - сопротивление в цепи выше порогового значения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo eléctrico general: resistencia del circuito por encima del valor umbral.</tu>
+	<tu xmlns:lang="chs">一般电气故障 - 电路电阻高于门限值。</tu>
+	<tu xmlns:lang="kor">일반적인 전기적 고장 - 회로 저항이 임계값 이상임</tu>
+</tm>

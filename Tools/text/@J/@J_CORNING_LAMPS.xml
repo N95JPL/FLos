@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CORNING_LAMPS">
+	<tu xmlns:lang="eng">Corning lamps</tu>
+	<tu xmlns:lang="nld">Bochtlichten</tu>
+	<tu xmlns:lang="fra">Phares directionnels</tu>
+	<tu xmlns:lang="deu">Abbiegeleuchten</tu>
+	<tu xmlns:lang="ita">Luci di manovra in curva</tu>
+	<tu xmlns:lang="jpn">コーナリング ランプ</tu>
+	<tu xmlns:lang="ptg">Luzes de curva</tu>
+	<tu xmlns:lang="ptb">Luzes de direção</tu>
+	<tu xmlns:lang="rus">Фонари освещения при поворотах</tu>
+	<tu xmlns:lang="esp">Faros de iluminación en curva</tu>
+	<tu xmlns:lang="chs">转弯灯</tu>
+	<tu xmlns:lang="kor">코너링 램프</tu>
+</tm>

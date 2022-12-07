@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SeatAreaNoObj$I">
+	<tu
+    xmlns:lang="eng"
+  >This calibration involves powering the seat to the end stops of every supported axis.
+
+For the calibration to be successful ensure the area surrounding the seat is free from any objects that will inhibit full movement.
+
+Do not sit in the seat during the operation.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij deze kalibrering moet u de stoel naar de eindaanslagen van elke ondersteunde richting verstellen.
+
+Om de kalibrering met succes te kunnen uitvoeren, moet u eerst in de ruimte rondom de stoel controleren of er geen voorwerpen in de weg zitten, die de beweging kunnen blokkeren.
+
+Tijdens deze bewerking mag u niet in de stoel zitten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cet étalonnage nécessite le déplacement électrique du siège jusqu'aux butées d'extrémités sur tous les axes pris en charge.
+
+Pour la réussite de l'étalonnage, vérifiez que la zone entourant le siège est exempte de tous objets pouvant faire obstacle au mouvement.
+
+Ne vous asseyez pas sur le siège pendant l'opération.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Kalibrierung wird der Sitz an die Endanschläge aller vorgesehenen Verstellachsen verfahren.
+
+Damit die Kalibrierung erfolgreich verläuft, sicherstellen, dass der Bereich um den Sitz herum frei von Objekten ist, die eine vollständige Verstellung behindern könnten.
+
+Während dieses Schrittes nicht auf dem Sitz sitzen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa taratura comporta l'azionamento del sedile fino ai fine corsa di ogni asse supportato.
+
+Perché la taratura riesca, accertarsi che nell'area circostante al sedile non sia presente nessun oggetto che potrebbe impedire il completo movimento del sedile.
+
+Non sedersi sul sedile durante l'operazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このキャリブレーションには、シートの全方向 (車両オプションにより異なる) エンドへの電動駆動が含まれます。
+
+キャリブレーションを正しく完了するため、シートの動きを妨げる物がないよう、シート周辺エリアをクリアしなさい。
+
+このオペレーション中、シートに腰掛けてはなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta calibragem envolve accionar o banco até aos batentes de todos os eixos suportados.
+
+For the calibration to be successful ensure the area surrounding the seat is free from any objects that will inhibit full movement.
+247     Para que a calibragem seja bem sucedida, certifique-se de que não existem quaisquer objectos que possam impedir o movimento total na zona à volta do banco.
+
+Não se sente no banco durante a operação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa calibração envolve o acionamento do assento até a parada final de cada eixo suportado.
+
+Para que a calibragem seja bem-sucedida, verifique se a área ao redor do assento está livre de objetos que inibam o movimento total.
+
+Não sente-se no assento durante a operação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура калибровки заключается в перемещении сиденья до предельных положений по всем поддерживаемым осям.
+
+Для успешного выполнения калибровки убедитесь, что вокруг сиденья отсутствуют какие-либо предметы, которые могут помешать перемещению.
+
+Во время этой операции нельзя садиться на сиденье.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta calibración implica la activación del asiento hasta los topes de cada eje que admite ajuste.
+
+Para que la calibración sea satisfactoria, asegurarse de que la zona alrededor del asiento esté despejada de objetos que le limiten el movimiento.
+
+No sentarse en el asiento durante la operación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >此标定包括：使用动力装置将座椅移动至每个受支持的坐标轴的端部止动位置。
+
+为成功标定，要确保座椅周围的区域没有任何会阻止完全运动的物体。
+
+在操作过程中不要坐在座椅上。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 보정에는 지원되는 모든 축의 엔드 스톱까지 시트에 전원을 공급하는 것이 포함되어 있습니다.
+
+보정에 성공하려면 시트를 둘러싸고 있는 영역에 움직임을 방해하는 물체가 전혀 없는지 확인하십시오.
+
+작동 중에는 시트에 앉지 마십시오.</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_SW_LIGHT_SW_DIP">
+	<tu xmlns:lang="eng">Switch the lighting switch to the low beam position.</tu>
+	<tu xmlns:lang="nld">Zet de verlichtingsschakelaar in de dimlichtstand</tu>
+	<tu
+    xmlns:lang="fra"
+  >Amener le contacteur d'éclairage sur la position feux de croisement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den Beleuchtungsschalter in die Abblendlicht-Stellung drehen </tu>
+	<tu
+    xmlns:lang="ita"
+  >Spostare l'interruttore delle luci in posizione anabbaglianti</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ライティング スイッチをロービーム ポジションにセットしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligar o interruptor das luzes para a posição dos faróis de médios.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Coloque o interruptor de iluminação na posição de farol baixo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Переведите выключатель освещения в положение включения ближнего света.</tu>
+	<tu xmlns:lang="esp">Poner el interruptor de alumbrado en luz de cruce</tu>
+	<tu xmlns:lang="chs">将照明开关拨到近光灯位置。</tu>
+	<tu xmlns:lang="kor">조명 스위치를 로우 빔 위치로 설정하십시오.</tu>
+</tm>

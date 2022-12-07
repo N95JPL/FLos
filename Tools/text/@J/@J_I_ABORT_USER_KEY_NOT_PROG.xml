@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABORT_USER_KEY_NOT_PROG">
+	<tu xmlns:lang="eng">Aborted by user, keys not programmed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Afgebroken door gebruiker, sleutels niet geprogrammeerd.</tu>
+	<tu xmlns:lang="fra">Abandonné par l'utilisateur, clés non programmées.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vom Benutzer abgebrochen, Schlüssel nicht programmiert.</tu>
+	<tu xmlns:lang="ita">Interrotto dall'utente, chiavi non programmate.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ユーザーにより中止。キーはプログラミングされていません。</tu>
+	<tu xmlns:lang="ptg">Cancelado pelo utilizador, chaves não programadas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Foi interrompido pelo usuário, as chaves não foram programadas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнение прекращено пользователем, ключи не запрограммированы.</tu>
+	<tu xmlns:lang="esp">Suspendido por usuario, llaves no programadas.</tu>
+	<tu xmlns:lang="chs">用户终止，车匙没有编程。</tu>
+	<tu xmlns:lang="kor">사용자가 중단했으며, 키가 프로그래밍되지 않았습니다.</tu>
+</tm>

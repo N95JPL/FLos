@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ALARM">
+	<tu xmlns:lang="eng">Alarm</tu>
+	<tu xmlns:lang="nld">Alarmsysteem</tu>
+	<tu xmlns:lang="fra">Alarme.</tu>
+	<tu xmlns:lang="deu">Alarm</tu>
+	<tu xmlns:lang="ita">Allarme</tu>
+	<tu xmlns:lang="jpn">アラーム</tu>
+	<tu xmlns:lang="ptg">Alarme</tu>
+	<tu xmlns:lang="ptb">Alarme</tu>
+	<tu xmlns:lang="rus">Сигнализация</tu>
+	<tu xmlns:lang="esp">Alarma</tu>
+	<tu xmlns:lang="chs">报警</tu>
+	<tu xmlns:lang="kor">알람</tu>
+</tm>

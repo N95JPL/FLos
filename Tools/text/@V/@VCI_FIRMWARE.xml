@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VCI_FIRMWARE">
+	<tu xmlns:lang="eng">VCI firmware</tu>
+	<tu xmlns:lang="nld">VCI-firmware</tu>
+	<tu xmlns:lang="fra">Micrologiciel de la VCI</tu>
+	<tu xmlns:lang="deu">VCI-Firmware</tu>
+	<tu xmlns:lang="ita">Firmware VCI</tu>
+	<tu xmlns:lang="jpn">VCI ファームウェア</tu>
+	<tu xmlns:lang="ptg">Firmware do VCI</tu>
+	<tu xmlns:lang="ptb">Firmware VCI</tu>
+	<tu xmlns:lang="rus">Встроенное программное обеспечение VCI</tu>
+	<tu xmlns:lang="esp">Firmware de la VCI</tu>
+	<tu xmlns:lang="chs">VCI 固件</tu>
+	<tu xmlns:lang="kor">VCI 펌웨어</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SOUNDER_UK">
+	<tu xmlns:lang="eng">UK sounder</tu>
+	<tu xmlns:lang="nld">Sirene VK.</tu>
+	<tu xmlns:lang="fra">Signal sonore R.-U..</tu>
+	<tu xmlns:lang="deu">Signaltongeber - GB</tu>
+	<tu xmlns:lang="ita">Segnale acustico Regno Unito</tu>
+	<tu xmlns:lang="jpn">英国向けサウンダー</tu>
+	<tu xmlns:lang="ptg">Unidade sonora para Reino Unido</tu>
+	<tu xmlns:lang="ptb">Sonda, Reino Unido</tu>
+	<tu xmlns:lang="rus">Оповещатель UK</tu>
+	<tu xmlns:lang="esp">Sirena para el Reino Unido</tu>
+	<tu xmlns:lang="chs">英国发声器</tu>
+	<tu xmlns:lang="kor">영국용 경보 발생기</tu>
+</tm>

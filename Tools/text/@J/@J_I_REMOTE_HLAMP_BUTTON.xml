@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REMOTE_HLAMP_BUTTON">
+	<tu xmlns:lang="eng">Headlamp convenience button</tu>
+	<tu xmlns:lang="nld">Toets voor tijdelijke inschakeling van de koplampen</tu>
+	<tu xmlns:lang="fra">Bouton d'allumage des phares à distance</tu>
+	<tu xmlns:lang="deu">Taste Scheinwerfer-Ferneinschaltung</tu>
+	<tu xmlns:lang="ita">Pulsante di spegnimento ritardato dei fari</tu>
+	<tu xmlns:lang="jpn">ヘッドランプ コンビニエンス ボタン</tu>
+	<tu xmlns:lang="ptg">Botão de conveniência dos faróis</tu>
+	<tu xmlns:lang="ptb">Botão de acendimento dos faróis</tu>
+	<tu xmlns:lang="rus">Кнопка подсветки фарами</tu>
+	<tu xmlns:lang="esp">Botón de encendido a distancia de los faros</tu>
+	<tu xmlns:lang="chs">车头灯便易按钮</tu>
+	<tu xmlns:lang="kor">헤드램프 편의 버튼</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CLUST_NOT_RES_VEH_LIGHT_ON">
+	<tu
+    xmlns:lang="eng"
+  >The cluster will not respond at all to ignition on and the vehicle will not crank. This will be identified by the vehicle lights being permanently on.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instrumentengroep reageert in het geheel niet op het inschakelen van het contact en de motor wordt niet getornd. Dit wordt aangegeven door het voortdurend branden van de voertuigverlichting.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le tableau de bord ne répond pas aux demandes d'allumage et le véhicule ne démarre pas. Les phares restent alors allumés en permanence.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Kombiinstrument spricht auf Einschalten der Zündung nicht an und der Motor wird nicht vom Anlasser durchgedreht. Dies wird dadurch identifiziert, dass die Fahrzeugbeleuchtung dauernd eingeschaltet ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il gruppo sensori non risponde all'inserimento dell'accensione e il motore non si avvia. Ciò viene segnalato dall'accensione continua delle luci del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >クラスタがイグニション オン時にまったく応答せず、車両のクランキングもできません。これは車両のライトがオンのままであることによって確認されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O grupo de instrumentos não responde de todo à ligação da ignição e o veículo não arranca. Tal é identificado pelo facto de as luzes do veículo permanecerem sempre acesas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O conjunto não responderá à ignição ligada e o veículo não dá partida. Isso será identificado pelas luzes do veículo que ficam permanentemente ligadas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Панель не реагирует на включение зажигания, автомобиль не заводится. Это состояние идентифицируется постоянным включением осветительных приборов автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El cuadro no responde al darse el contacto y el motor no arrancará. Esto se identificará al estar siempre encendidas las luces del vehículo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >组合仪表将不对点火开启做出任何反应，而车辆发动机亦不会拖转启动。 这将可通过车灯的永久开启加以确认。</tu>
+	<tu
+    xmlns:lang="kor"
+  >점화 스위치를 켤 때 계기판이 전혀 반응하지 않고 차량이 크랭킹하지 않습니다. 이는 차량 조명이 계속 켜진 것을 보고 식별할 수 있습니다.</tu>
+</tm>

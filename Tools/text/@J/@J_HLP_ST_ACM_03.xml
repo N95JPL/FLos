@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_ACM_03">
+	<tu
+    xmlns:lang="eng"
+  >2)  Audio front control module checks that speakers are connected correctly (only for internal amplifier model).</tu>
+	<tu
+    xmlns:lang="nld"
+  >2)  De regelmodule van audioinstallatie voorin controleert dat de luidsprekers goed zijn aangesloten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >2)  Le module de commande audio avant vérifie que les haut-parleurs sont connectés correctement (uniquement pour le modèle à amplificateur interne).</tu>
+	<tu
+    xmlns:lang="deu"
+  >2)  Das Audio-Steuergerät vorne überprüft, ob die Lautsprecher korrekt angeschlossen sind (nur beim Modell mit internem Verstärker).</tu>
+	<tu
+    xmlns:lang="ita"
+  >2)  Il modulo di comando anteriore audio controlla che gli altoparlanti siano collegati correttamente (solo per il modello con amplificatore interno).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >2)  オーディオ フロント コントロール モジュールはスピーカーが正しく接続されているかチェックします (内部アンプリファイア モデルのみ)。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >2)  O módulo de controlo do sistema áudio dianteiro verifica se os altifalantes estão devidamente ligados (apenas no modelo com amplificador interno).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >2)  O módulo de controle de áudio dianteiro verifica se os alto-falantes estão conectados corretamente (somente para modelo de amplificador interno).</tu>
+	<tu
+    xmlns:lang="rus"
+  >2)  Передний блок управления аудиосистемой проверяет правильность подключения динамиков (только модель с внутренним усилителем).</tu>
+	<tu
+    xmlns:lang="esp"
+  >2)  El módulo de control delantero del sistema de audio comprueba que los altavoces estén correctamente conectados (solo para el modelinternal amplifier modelo con amplificador interno).</tu>
+	<tu
+    xmlns:lang="chs"
+  >2)  前音频控制模块检查扬声器是否正确连接（仅限内部放大器模型）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >2)  오디오 프론트 컨트롤 모듈이 스피커가 올바르게 연결되어 있는지 점검합니다(내부 앰프 모델에만 해당).</tu>
+</tm>

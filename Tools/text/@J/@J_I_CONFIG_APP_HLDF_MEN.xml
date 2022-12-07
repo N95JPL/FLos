@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_APP_HLDF_MEN">
+	<tu
+    xmlns:lang="eng"
+  >Car configuration application high level display front main menu</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voertuigconfiguratietoepassing van hoofdmenu hooggeplaatst display, voor</tu>
+	<tu
+    xmlns:lang="fra"
+  >Application de configuration du véhicule - menu principal d'affichage avant haut de gamme</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anwendung Fahrzeugkonfiguration - Hauptmenü, Display in gehobener Ausführung vorn</tu>
+	<tu
+    xmlns:lang="ita"
+  >Applicazione configurazione veicolo - menu display principale anteriore gamma alta</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション アプリケーション ハイレベル ディスプレイ フロント メイン メニュー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aplicação de configuração do veículo - menu principal do ecrã dianteiro de alto nível</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aplicativo de configuração do carro - menu principal dianteiro de exibição de nível alto</tu>
+	<tu
+    xmlns:lang="rus"
+  >Приложение конфигурации автомобиля - главное меню переднего дисплея высокой контрастности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aplicación de configuración del vehículo: menú principal de la pantalla delantera de gama alta</tu>
+	<tu xmlns:lang="chs">车辆配置应用程序前高位显示屏主菜单</tu>
+	<tu xmlns:lang="kor">차량 구성 애플리케이션 고급 디스플레이 전방 주 메뉴</tu>
+</tm>

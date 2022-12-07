@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_WHEEL_TYPE">
+	<tu xmlns:lang="eng">Rear wheel type</tu>
+	<tu xmlns:lang="nld">Velgtype achter</tu>
+	<tu xmlns:lang="fra">Type de roue arrière</tu>
+	<tu xmlns:lang="deu">Hinterradtyp</tu>
+	<tu xmlns:lang="ita">Tipo ruote posteriori</tu>
+	<tu xmlns:lang="jpn">リア ホイール タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de roda traseira</tu>
+	<tu xmlns:lang="ptb">Tipo de roda traseira</tu>
+	<tu xmlns:lang="rus">Тип задних колес</tu>
+	<tu xmlns:lang="esp">Tipo de rueda trasera</tu>
+	<tu xmlns:lang="chs">后车轮类型</tu>
+	<tu xmlns:lang="kor">리어 휠 유형</tu>
+</tm>

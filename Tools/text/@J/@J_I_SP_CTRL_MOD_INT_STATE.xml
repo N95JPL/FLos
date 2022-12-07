@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SP_CTRL_MOD_INT_STATE">
+	<tu xmlns:lang="eng">Speed control module internal state</tu>
+	<tu xmlns:lang="nld">Interne status, module van snelheidsregelsysteem</tu>
+	<tu xmlns:lang="fra">Etat interne du module de commande de vitesse</tu>
+	<tu
+    xmlns:lang="deu"
+  >Geschwindigkeitsregelungs-Steuergerät - interner Status</tu>
+	<tu xmlns:lang="ita">Stato interno modulo di controllo velocità</tu>
+	<tu xmlns:lang="jpn">スピード コントロール モジュール内部ステータス</tu>
+	<tu xmlns:lang="ptg">Estado interno do módulo de controlo da velocidade</tu>
+	<tu xmlns:lang="ptb">Estado interno do módulo de controle de velocidade</tu>
+	<tu xmlns:lang="rus">Внутреннее состояние блока круиз-контроля</tu>
+	<tu xmlns:lang="esp">Estado interno del módulo de control de la velocidad</tu>
+	<tu xmlns:lang="chs">速度控制模块内部状态</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤 모듈 내부 상태</tu>
+</tm>

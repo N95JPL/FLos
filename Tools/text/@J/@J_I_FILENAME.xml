@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FILENAME">
+	<tu xmlns:lang="eng">Filename:</tu>
+	<tu xmlns:lang="nld">Bestandsnaam:</tu>
+	<tu xmlns:lang="fra">Nom du fichier :</tu>
+	<tu xmlns:lang="deu">Dateiname:</tu>
+	<tu xmlns:lang="ita">Nome file:</tu>
+	<tu xmlns:lang="jpn">ﾌｧｲﾙ名</tu>
+	<tu xmlns:lang="ptg">Nome do ficheiro:</tu>
+	<tu xmlns:lang="ptb">Nome do arquivo:</tu>
+	<tu xmlns:lang="rus">Имя файла:</tu>
+	<tu xmlns:lang="esp">Nombre del fichero:</tu>
+	<tu xmlns:lang="chs">文件名称：</tu>
+	<tu xmlns:lang="kor">파일 이름:</tu>
+</tm>

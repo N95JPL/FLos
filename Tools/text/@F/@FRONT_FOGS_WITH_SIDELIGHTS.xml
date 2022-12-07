@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FRONT_FOGS_WITH_SIDELIGHTS">
+	<tu xmlns:lang="eng">Fog lamps operate with side lamps</tu>
+	<tu xmlns:lang="nld">Mistlampen werken samen met stadslichten</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les phares antibrouillard fonctionnent avec les feux latéraux.</tu>
+	<tu xmlns:lang="deu">Nebelleuchten arbeiten mit Begrenzungsleuchten</tu>
+	<tu xmlns:lang="ita">Fendinebbia accesi con luci di posizione</tu>
+	<tu xmlns:lang="jpn">サイド ランプ点灯時にフォグランプ点灯</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Luzes de nevoeiro funcionam com luzes de presença laterais</tu>
+	<tu xmlns:lang="ptb">Operação das luzes de neblina com luzes laterais</tu>
+	<tu
+    xmlns:lang="rus"
+  >Противотуманные фары включаются/выключаются одновременно с габаритными фонарями</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los faros antiniebla funcionan con las luces de posición</tu>
+	<tu xmlns:lang="chs">雾灯与侧灯一起操作</tu>
+	<tu xmlns:lang="kor">포그 램프가 차폭등과 함께 작동함</tu>
+</tm>

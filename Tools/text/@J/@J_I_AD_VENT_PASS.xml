@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AD_VENT_PASS">
+	<tu xmlns:lang="eng">Adaptive front ventilation  -  Passenger side</tu>
+	<tu xmlns:lang="nld">Adaptieve ventilatie voorin  -  Passagierszijde</tu>
+	<tu xmlns:lang="fra">Ventilation avant adaptative  -  Côté passager</tu>
+	<tu xmlns:lang="deu">Adaptive Belüftung vorn  -  Beifahrerseite</tu>
+	<tu xmlns:lang="ita">Ventilazione anteriore adattativa  -  Lato passeggero</tu>
+	<tu xmlns:lang="jpn">アダプティブ フロント ベンチレーション  －  助手席側</tu>
+	<tu xmlns:lang="ptg">Ventilação dianteira adaptável  -  Lado do passageiro</tu>
+	<tu xmlns:lang="ptb">Ventilação dianteira adaptável  -  Lado do passageiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Адаптивная вентиляция в передней части  -  Со стороны пассажира</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ventilación delantera adaptativa  -  Lado de acompañante</tu>
+	<tu xmlns:lang="chs">自适应前部通风  -  乘客侧</tu>
+	<tu xmlns:lang="kor">어댑티브 앞좌석 환기  -  조수석 측</tu>
+</tm>

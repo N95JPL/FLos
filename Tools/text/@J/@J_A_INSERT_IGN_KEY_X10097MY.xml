@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_INSERT_IGN_KEY_X10097MY">
+	<tu xmlns:lang="eng">Insert key into ignition barrel.</tu>
+	<tu xmlns:lang="nld">Steek de sleutel in het contact</tu>
+	<tu xmlns:lang="fra">Introduisez la clé dans le commutateur d'allumage</tu>
+	<tu xmlns:lang="deu">Zündschlüssel in das Zündschloß einstecken.</tu>
+	<tu xmlns:lang="ita">Infilare la chiave nell'interruttore dell'accensione</tu>
+	<tu xmlns:lang="jpn">キーをイグニション バレルに挿入しなさい</tu>
+	<tu xmlns:lang="ptg">Introduzir a chave no canhão da ignição.</tu>
+	<tu xmlns:lang="ptb">Insira a chave no tambor de ignição.</tu>
+	<tu xmlns:lang="rus">Вставьте ключ в цилиндр замка зажигания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Meter la llave de contacto en el interruptor de encendido</tu>
+	<tu xmlns:lang="chs">将钥匙插入点火筒。</tu>
+	<tu xmlns:lang="kor">키를 점화 배럴에 넣으십시오.</tu>
+</tm>

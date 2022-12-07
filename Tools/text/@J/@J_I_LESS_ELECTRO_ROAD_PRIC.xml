@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_ELECTRO_ROAD_PRIC">
+	<tu xmlns:lang="eng">Electronic road pricing not fitted</tu>
+	<tu
+    xmlns:lang="nld"
+  >Elektronische afrekening voor weggebruik niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Télépéage non monté</tu>
+	<tu xmlns:lang="deu">Elektronische Mautstellenerkennung nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Sistema pedaggio elettronico non in dotazione</tu>
+	<tu xmlns:lang="jpn">エレクトロニック ロードプライシング非装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Função de 'Road pricing' (taxas de utilização associadas à circulação automóvel) electrónico não está instalada</tu>
+	<tu xmlns:lang="ptb">Tarifação eletrônica de circulação não instalada</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электронная система оплаты дорожных сборов не установлена</tu>
+	<tu xmlns:lang="esp">No hay cálculo electrónico de peaje</tu>
+	<tu xmlns:lang="chs">公路电子计价系统未安装</tu>
+	<tu xmlns:lang="kor">전자식 도로 통행료 징수 시스템이 장착되지 않음</tu>
+</tm>

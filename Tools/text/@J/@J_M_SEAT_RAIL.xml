@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SEAT_RAIL">
+	<tu xmlns:lang="eng">Seat rail</tu>
+	<tu xmlns:lang="nld">Stoelrails</tu>
+	<tu xmlns:lang="fra">Glissiere de siege</tu>
+	<tu xmlns:lang="deu">Sitzschiene</tu>
+	<tu xmlns:lang="ita">Guida del sedile</tu>
+	<tu xmlns:lang="jpn">シート レール</tu>
+	<tu xmlns:lang="ptg">Calha do banco</tu>
+	<tu xmlns:lang="ptb">Trilho do assento</tu>
+	<tu xmlns:lang="rus">Направляющая сиденья</tu>
+	<tu xmlns:lang="esp">Guia de asiento</tu>
+	<tu xmlns:lang="chs">座椅导轨</tu>
+	<tu xmlns:lang="kor">시트 레일</tu>
+</tm>

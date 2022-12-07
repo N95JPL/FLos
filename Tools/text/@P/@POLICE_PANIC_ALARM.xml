@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@POLICE_PANIC_ALARM">
+	<tu xmlns:lang="eng">Police vehicle - panic alarm</tu>
+	<tu xmlns:lang="nld">Politievoertuig - paniekalarm</tu>
+	<tu xmlns:lang="fra">Véhicule de police - alarme anti-agression.</tu>
+	<tu xmlns:lang="deu">Polizeifahrzeug - Panikalarm</tu>
+	<tu xmlns:lang="ita">Veicolo polizia - allarme antiaggressone</tu>
+	<tu xmlns:lang="jpn">警察車両 - パニック アラーム</tu>
+	<tu xmlns:lang="ptg">Veículo de polícia - alarme de emergência</tu>
+	<tu xmlns:lang="ptb">Veículo policial - alarme de pânico</tu>
+	<tu
+    xmlns:lang="rus"
+  >Полицейский автомобиль - предупредительная сигнализация</tu>
+	<tu xmlns:lang="esp">Vehículo policial: alarma de pánico</tu>
+	<tu xmlns:lang="chs">警车 - 应急报警</tu>
+	<tu xmlns:lang="kor">경찰차 - 패닉 알람</tu>
+</tm>

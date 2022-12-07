@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CFG_PROP_BALANCING$M">
+	<tu xmlns:lang="eng">Driveshaft balancing</tu>
+	<tu xmlns:lang="nld">Cardanas balanceren</tu>
+	<tu xmlns:lang="fra">Equilibrage d'arbre de transmission</tu>
+	<tu xmlns:lang="deu">Auswuchtung - Gelenkwelle</tu>
+	<tu xmlns:lang="ita">Equilibratura albero trasmissione</tu>
+	<tu xmlns:lang="jpn">ドライブシャフト バランス</tu>
+	<tu xmlns:lang="ptg">Equilíbrio do semieixo</tu>
+	<tu xmlns:lang="ptb">Balanceamento do eixo de transmissão</tu>
+	<tu xmlns:lang="rus">Балансировка карданного вала</tu>
+	<tu xmlns:lang="esp">Equilibrado del árbol de transmisión</tu>
+	<tu xmlns:lang="chs">驱动轴平衡</tu>
+	<tu xmlns:lang="kor">구동축 밸런싱</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MECH_PUM">
+	<tu xmlns:lang="eng">Mechanical vacuum pump</tu>
+	<tu xmlns:lang="nld">Mechanische vacuümpomp </tu>
+	<tu xmlns:lang="fra">Pompe à vide mécanique </tu>
+	<tu xmlns:lang="deu">Mechanische Unterdruckpumpe </tu>
+	<tu xmlns:lang="ita">Pompa a depressione meccanica</tu>
+	<tu xmlns:lang="jpn">メカニカル バキューム ポンプ</tu>
+	<tu xmlns:lang="ptg">Bomba de vácuo mecânica</tu>
+	<tu xmlns:lang="ptb">Bomba a vácuo mecânica</tu>
+	<tu xmlns:lang="rus">Механический вакуумный насос </tu>
+	<tu xmlns:lang="esp">Bomba de vacío mecánica</tu>
+	<tu xmlns:lang="chs">机械真空泵</tu>
+	<tu xmlns:lang="kor">기계식 진공 펌프</tu>
+</tm>

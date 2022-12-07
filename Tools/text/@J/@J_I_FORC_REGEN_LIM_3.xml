@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FORC_REGEN_LIM_3">
+	<tu
+    xmlns:lang="eng"
+  >If it is below the upper limit the forced regeneration will be performed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is dit onder de bovengrens, dan wordt de geforceerde regeneratie uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si elle est inférieure à la limite supérieure, la régénération forcée sera effectuée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Liegt sie unter dem oberen Grenzwert, wird eine erzwungene Regenerierung durchgeführt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se questo valore è inferiore al limite massimo, viene eseguita la rigenerazione forzata.</tu>
+	<tu xmlns:lang="jpn">煤質量が許容上限以下であれば、強制再生は実行されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se for inferior ao limite máximo, a regeneração forçada será realizada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se estiver abaixo do limite superior, será realizada um procedimento de regeneração forçada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если масса ниже верхнего предела, выполняется принудительная регенерация.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si está por debajo del límite superior, se realizará la regeneración forzada.</tu>
+	<tu xmlns:lang="chs">如果质量低于上限，将会执行强制再生程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >그을음 질량이 하한 미만인 경우에는 강제 재생이 수행됩니다.</tu>
+</tm>

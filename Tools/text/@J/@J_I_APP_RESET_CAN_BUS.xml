@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_RESET_CAN_BUS">
+	<tu
+    xmlns:lang="eng"
+  >This application will reset the vehicles modules on both CAN buses.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing stelt de voertuigmodules op beide CAN-bussen terug.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application réinitialisera les modules du véhicule sur les deux bus CAN.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung setzt die Steuergeräte des Fahrzeugs auf beiden CAN-Datenbussen zurück.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quest'applicazione ripristina i moduli del veicolo su entrambi i bus CAN.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、両方の CAN バス上の車両モジュールをリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação irá reiniciar os módulos do veículo nos dois condutores de dados CAN.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo redefinirá os módulos dos veículos em ambos os barramentos CAN.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение служит для сброса параметров блоков автомобиля на обеих шинах CAN.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación reinicializará los módulos del vehículos en cada bus CAN.</tu>
+	<tu xmlns:lang="chs">本应用程序将让两个 CAN 总线上的车辆模块重置复位。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 양쪽 CAN 버스에서 차량 모듈을 재설정합니다.</tu>
+</tm>

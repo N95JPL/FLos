@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_INHIBIT_LOWER">
+	<tu xmlns:lang="eng">Inhibit lower.</tu>
+	<tu xmlns:lang="nld">Blokkeer neerlaten.</tu>
+	<tu xmlns:lang="fra">Neutralisation d'abaissement.</tu>
+	<tu xmlns:lang="deu">Senken sperren.</tu>
+	<tu xmlns:lang="ita">Attivare abbassamento.</tu>
+	<tu xmlns:lang="jpn">下降インヒビット</tu>
+	<tu xmlns:lang="ptg">Inibir a descida.</tu>
+	<tu xmlns:lang="ptb">Inibir rebaixamento.</tu>
+	<tu xmlns:lang="rus">Понижение уровня запрета.</tu>
+	<tu xmlns:lang="esp">Inhibir descenso.</tu>
+	<tu xmlns:lang="chs">抑制降低。</tu>
+	<tu xmlns:lang="kor">내림 금지</tu>
+</tm>

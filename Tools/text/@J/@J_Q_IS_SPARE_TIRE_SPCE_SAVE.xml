@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_IS_SPARE_TIRE_SPCE_SAVE">
+	<tu xmlns:lang="eng">Is the spare tire a space saver?</tu>
+	<tu xmlns:lang="nld">Is het reservewiel een ruimtebesparend wiel?</tu>
+	<tu xmlns:lang="fra">La roue de secours est-elle de dimensions réduites ?</tu>
+	<tu xmlns:lang="deu">Handelt es sich beim Ersatzrad um ein Notrad?</tu>
+	<tu xmlns:lang="ita">La ruota di scorta è di dimensioni ridotte?</tu>
+	<tu xmlns:lang="jpn">スペア タイヤはスペース セーバー タイプですか？</tu>
+	<tu xmlns:lang="ptg">O pneu sobressalente é um pneu de dimensões reduzidas?</tu>
+	<tu xmlns:lang="ptb">O pneu sobressalente ocupa muito espaço?</tu>
+	<tu xmlns:lang="rus">Является ли запасная шина малогабаритной облегченной?</tu>
+	<tu xmlns:lang="esp">¿Es la rueda de repuesto una rueda de tamaño reducido?</tu>
+	<tu xmlns:lang="chs">备胎可节省空间吗？</tu>
+	<tu xmlns:lang="kor">스페어 타이어가 스페이스 세이버입니까?</tu>
+</tm>

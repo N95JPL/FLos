@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENAB_NAV_MOV">
+	<tu xmlns:lang="eng">Enable the navigation features on the move.</tu>
+	<tu xmlns:lang="nld">Schakel de navigatiefuncties voor onderweg in.</tu>
+	<tu xmlns:lang="fra">Activez les fonctions de navigation en marche.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nutzung der Funktionen des Navigationssystems während der Fahrt aktivieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Abilitare le funzioni di navigazione durante la marcia.</tu>
+	<tu xmlns:lang="jpn">移動上のナビゲーション機能\を作動可能\にします。</tu>
+	<tu xmlns:lang="ptg">Activar as funções de navegação em andamento.</tu>
+	<tu xmlns:lang="ptb">Ativar os recursos de navegação em movimento.</tu>
+	<tu xmlns:lang="rus">Разрешить функции навигации во время движения.</tu>
+	<tu xmlns:lang="esp">Habilitar las funciones de navegación en movimiento.</tu>
+	<tu xmlns:lang="chs">启用活动的导航功能。</tu>
+	<tu xmlns:lang="kor">이동 중에 내비게이션 기능을 활성화하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_DRIVELINE">
+	<tu xmlns:lang="eng">205-00 Driveline system</tu>
+	<tu xmlns:lang="nld">205-00 Aandrijflijnsysteem</tu>
+	<tu xmlns:lang="fra">205-00 Système de transmission</tu>
+	<tu xmlns:lang="deu">205-00 Antriebsstrang</tu>
+	<tu xmlns:lang="ita">205-00 Sistema trasmissione</tu>
+	<tu xmlns:lang="jpn">205-00 ドライブライン システム</tu>
+	<tu xmlns:lang="ptg">205-00 Sistema de transmissão</tu>
+	<tu xmlns:lang="ptb">205-00 Sistema da linha de transmissão</tu>
+	<tu xmlns:lang="rus">205-00 Карданная передача</tu>
+	<tu xmlns:lang="esp">205-00 Sistema de transmisión</tu>
+	<tu xmlns:lang="chs">205-00驱动线路系统</tu>
+	<tu xmlns:lang="kor">205-00 드라이브라인 시스템</tu>
+</tm>

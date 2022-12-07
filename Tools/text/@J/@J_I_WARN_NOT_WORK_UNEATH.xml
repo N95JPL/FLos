@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WARN_NOT_WORK_UNEATH">
+	<tu
+    xmlns:lang="eng"
+  >Warning! Do not work underneath the vehicle when using this application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Waarschuwing! Bij het gebruik van deze toepassing mag u geen werkzaamheden onder het voertuig uitvoeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attention ! Ne travaillez pas sous le véhicule pendant l'utilisation de cette application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vorsicht! Bei Nutzung dieser Anwendung nicht unter dem Fahrzeug arbeiten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attenzione! Non lavorare sotto la vettura quando si utilizza questa applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >警告！ このアプリケーションを実行中、車両の下で作業をしないでください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aviso! Não trabalhe por baixo do veículo quando usar esta aplicação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aviso Não trabalhe embaixo do veículo quando estiver usando este aplicativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Внимание! При использовании этого приложения не работайте под автомобилем!</tu>
+	<tu
+    xmlns:lang="esp"
+  >Advertencia: no trabajar debajo del vehículo al utilizar esta aplicación.</tu>
+	<tu xmlns:lang="chs">警告!在使用此应用程序时不得在车辆下面工作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >경고! 이 응용 프로그램을 사용할 때는 차량 밑에서 작업하지 마십시오.</tu>
+</tm>

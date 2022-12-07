@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess12$I">
+	<tu xmlns:lang="eng">Stop the vehicle at the next available opportunity.</tu>
+	<tu
+    xmlns:lang="nld"
+  >breng het voertuig bij de eerst volgende gelegenheid tot stilstand.</tu>
+	<tu xmlns:lang="fra">Arrêtez le véhicule dès que vous le pouvez.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug bei der nächsten sich bietenden Gelegenheit anhalten.</tu>
+	<tu xmlns:lang="ita">Fermare il veicolo non appena sia possibile farlo.</tu>
+	<tu xmlns:lang="jpn">適切な機会を得て車両を停止します。</tu>
+	<tu xmlns:lang="ptg">Pare o veículo assim que puder.</tu>
+	<tu xmlns:lang="ptb">Pare o veículo na próxima oportunidade disponível.</tu>
+	<tu xmlns:lang="rus">Остановите автомобиль при первой возможности.</tu>
+	<tu xmlns:lang="esp">Detener el vehículo en la próxima oportunidad.</tu>
+	<tu xmlns:lang="chs">在下一个恰当的时机停车。</tu>
+	<tu xmlns:lang="kor">적절한 시점에 차량을 정지하십시오.</tu>
+</tm>

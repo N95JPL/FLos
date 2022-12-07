@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PLS_SEL_SECURITY_OPTIONS">
+	<tu xmlns:lang="eng">Please select the desired security options</tu>
+	<tu xmlns:lang="nld">Kies de gewenste beveiligingsopties</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez sélectionner les options de sécurité souhaitées</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte die gewünschten Fahrzeugschutzoptionen auswählen.</tu>
+	<tu xmlns:lang="ita">Selezionare le opzioni di sicurezza desiderate</tu>
+	<tu xmlns:lang="jpn">希望のセキュリティ オプションを選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Seleccionar as opções de segurança pretendidas</tu>
+	<tu xmlns:lang="ptb">Selecione as opções de segurança desejadas</tu>
+	<tu xmlns:lang="rus">Выберите необходимые функции охранной системы</tu>
+	<tu xmlns:lang="esp">Seleccionar las opciones de seguridad deseadas</tu>
+	<tu xmlns:lang="chs">请选择所需的安全防盗选项</tu>
+	<tu xmlns:lang="kor">원하는 보안 옵션을 선택하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LANG_REG_MID_EAST">
+	<tu xmlns:lang="eng">Language region for Middle East</tu>
+	<tu xmlns:lang="nld">Taalregio voor het Midden-Oosten </tu>
+	<tu xmlns:lang="fra">Région langue pour le Moyen-Orient </tu>
+	<tu xmlns:lang="deu">Sprachregion für Nahost </tu>
+	<tu xmlns:lang="ita">Regione linguistica per il Medio Oriente</tu>
+	<tu xmlns:lang="jpn">中東の言語地域</tu>
+	<tu xmlns:lang="ptg">Região idiomática para o Médio Oriente</tu>
+	<tu xmlns:lang="ptb">Região de idioma para o Oriente Médio</tu>
+	<tu xmlns:lang="rus">Языковой регион для Ближнего Востока </tu>
+	<tu xmlns:lang="esp">Región de idioma para Oriente Medio</tu>
+	<tu xmlns:lang="chs">中东的语言区</tu>
+	<tu xmlns:lang="kor">중동의 언어 지역</tu>
+</tm>

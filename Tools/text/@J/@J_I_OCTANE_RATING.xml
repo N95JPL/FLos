@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OCTANE_RATING">
+	<tu xmlns:lang="eng">Octane rating</tu>
+	<tu xmlns:lang="nld">Octaangehalte</tu>
+	<tu xmlns:lang="fra">Indice d'octane</tu>
+	<tu xmlns:lang="deu">Oktanzahl</tu>
+	<tu xmlns:lang="ita">Numero di ottano</tu>
+	<tu xmlns:lang="jpn">オクタン レーティング</tu>
+	<tu xmlns:lang="ptg">Índice de octanas</tu>
+	<tu xmlns:lang="ptb">Graduação da octanagem</tu>
+	<tu xmlns:lang="rus">Октановое число</tu>
+	<tu xmlns:lang="esp">Octanaje</tu>
+	<tu xmlns:lang="chs">辛烷值等级</tu>
+	<tu xmlns:lang="kor">옥탄 등급</tu>
+</tm>

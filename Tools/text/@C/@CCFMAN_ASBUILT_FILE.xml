@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_ASBUILT_FILE">
+	<tu xmlns:lang="eng">As built file</tu>
+	<tu xmlns:lang="nld">Bestand af fabriek</tu>
+	<tu xmlns:lang="fra">Fichier conforme à l'exécution</tu>
+	<tu xmlns:lang="deu">Datei mit werkseitigen Baudaten</tu>
+	<tu xmlns:lang="ita">File di fabbricazione</tu>
+	<tu xmlns:lang="jpn">アズ ビルト ファイル</tu>
+	<tu xmlns:lang="ptg">Ficheiro dos dados de fábrica</tu>
+	<tu xmlns:lang="ptb">Arquivo como construído</tu>
+	<tu xmlns:lang="rus">Файл заводских параметров</tu>
+	<tu xmlns:lang="esp">Archivo de configuración de fábrica</tu>
+	<tu xmlns:lang="chs">出厂状态文件</tu>
+	<tu xmlns:lang="kor">애즈-빌트(As-Built) 파일</tu>
+</tm>

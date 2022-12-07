@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DLC_NUM_4021">
+	<tu
+    xmlns:lang="eng"
+  >Normalised cumulative battery discharge when ignition is on</tu>
+	<tu
+    xmlns:lang="nld"
+  >Genormaliseerde, cumulatieve accuontlading wanneer contact is ingeschakeld</tu>
+	<tu
+    xmlns:lang="fra"
+  >Décharge normale cumulée de la batterie quand le contact est établi</tu>
+	<tu
+    xmlns:lang="deu"
+  >Normalisierte kumulative Batterieentladung bei eingeschalteter Zündung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Scarica normalizzata cumulativa della batteria quando l'accensione è inserita</tu>
+	<tu xmlns:lang="jpn">イグニションがオンのときの標準化された累積バッテリ放電</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Descarga da bateria cumulativa normalizada com a ignição ligada</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Descarga cumulativa da bateria normalizada quando a ignição está ligada</tu>
+	<tu
+    xmlns:lang="rus"
+  >Стандартный суммарный разряд батареи при включенном зажигании</tu>
+	<tu
+    xmlns:lang="esp"
+  >Descarga acumulada y normalizada de la batería con el contacto dado</tu>
+	<tu xmlns:lang="chs">点火开启时，将蓄电池累积放电标准化</tu>
+	<tu xmlns:lang="kor">점화 스위치가 켜질 때 정규화된 누적 배터리 방전량</tu>
+</tm>

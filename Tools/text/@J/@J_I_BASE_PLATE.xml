@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BASE_PLATE">
+	<tu xmlns:lang="eng">With baseplate</tu>
+	<tu xmlns:lang="nld">Met grondplaat</tu>
+	<tu xmlns:lang="fra">Avec socle</tu>
+	<tu xmlns:lang="deu">Mit Grundplatte</tu>
+	<tu xmlns:lang="ita">Con piastra di base</tu>
+	<tu xmlns:lang="jpn">ベースプレート装備</tu>
+	<tu xmlns:lang="ptg">Com placa de suporte</tu>
+	<tu xmlns:lang="ptb">Com base</tu>
+	<tu xmlns:lang="rus">С базовой платой</tu>
+	<tu xmlns:lang="esp">Con placa base</tu>
+	<tu xmlns:lang="chs">带基板</tu>
+	<tu xmlns:lang="kor">베이스플레이트 있음</tu>
+</tm>

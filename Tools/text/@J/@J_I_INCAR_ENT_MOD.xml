@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INCAR_ENT_MOD">
+	<tu xmlns:lang="eng">In-car entertainment module</tu>
+	<tu xmlns:lang="nld">Module van de geluidsinstallatie</tu>
+	<tu xmlns:lang="fra">Module multimédia embarqué</tu>
+	<tu xmlns:lang="deu">Steuergerät, Multimediasystem</tu>
+	<tu xmlns:lang="ita">Modulo impianto audio</tu>
+	<tu xmlns:lang="jpn">インカー エンタテイメント モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo do sistema de entretenimento do veículo</tu>
+	<tu xmlns:lang="ptb">Módulo de entretenimento automotivo</tu>
+	<tu xmlns:lang="rus">Блок мультимедийной системы</tu>
+	<tu xmlns:lang="esp">Módulo del sistema de audio</tu>
+	<tu xmlns:lang="chs">车内娱乐模块</tu>
+	<tu xmlns:lang="kor">차량 내 엔터테인먼트 모듈</tu>
+</tm>

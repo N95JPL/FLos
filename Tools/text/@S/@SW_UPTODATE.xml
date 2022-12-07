@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SW_UPTODATE">
+	<tu xmlns:lang="eng">Installed software is up to date</tu>
+	<tu xmlns:lang="nld">Geïnstalleerde software is up to date</tu>
+	<tu xmlns:lang="fra">Le logiciel installé est à jour</tu>
+	<tu xmlns:lang="deu">Installierte Software ist auf neuestem Stand</tu>
+	<tu xmlns:lang="ita">Il software installato è aggiornato</tu>
+	<tu xmlns:lang="jpn">インストールされているソ\フトウェアは最新のものです</tu>
+	<tu xmlns:lang="ptg">Software instalado está actualizado</tu>
+	<tu xmlns:lang="ptb">O software instalado está atualizado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для установленного программного обеспечения обновление не требуется</tu>
+	<tu xmlns:lang="esp">La versión del software instalado es la más reciente</tu>
+	<tu xmlns:lang="chs">安装的软件为最新软件</tu>
+	<tu xmlns:lang="kor">설치된 소프트웨어가 최신 버전입니다.</tu>
+</tm>

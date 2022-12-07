@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PRES_HLD_TRIP_BUTTON">
+	<tu xmlns:lang="eng">Press and hold the 'trip' button.</tu>
+	<tu xmlns:lang="nld">Houd de 'trip'-toets ingedrukt.</tu>
+	<tu xmlns:lang="fra">Appuyez sur le bouton 'trip' sans relâcher.</tu>
+	<tu xmlns:lang="deu">Taste 'Trip' drücken und gedrückt halten.</tu>
+	<tu xmlns:lang="ita">Tenere premuto il pulsante 'trip'.</tu>
+	<tu xmlns:lang="jpn">'trip' ボタンを押したままにしなさい。</tu>
+	<tu xmlns:lang="ptg">Prima o botão 'trip' e mantenha premido.</tu>
+	<tu xmlns:lang="ptb">Mantenha o botão pressionado do 'computador de bordo'.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите и удерживайте кнопку 'Trip' (Маршрутный компьютер).</tu>
+	<tu xmlns:lang="esp">Mantener pulsado el botón 'trip'.</tu>
+	<tu xmlns:lang="chs">按住'行车'按钮。</tu>
+	<tu xmlns:lang="kor">'트립' 버튼을 길게 누르십시오.</tu>
+</tm>

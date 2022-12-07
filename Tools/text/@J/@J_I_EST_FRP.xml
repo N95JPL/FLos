@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EST_FRP">
+	<tu xmlns:lang="eng">Estimated fuel rail pressure</tu>
+	<tu xmlns:lang="nld">Geschatte common rail-druk</tu>
+	<tu xmlns:lang="fra">Pression estimée de rampe d'injection</tu>
+	<tu xmlns:lang="deu">Geschätzter Kraftstoffverteilerrohrdruck</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pressione stimata del collettore di alimentazione carburante</tu>
+	<tu xmlns:lang="jpn">予想されるフューエル レール プレッシャ</tu>
+	<tu xmlns:lang="ptg">Pressão calculada na régua de combustível</tu>
+	<tu xmlns:lang="ptb">Pressão estimada da flauta de combustível</tu>
+	<tu xmlns:lang="rus">Расчетное давление в топливной магистрали</tu>
+	<tu xmlns:lang="esp">Presión estimada en la rampa de combustible</tu>
+	<tu xmlns:lang="chs">估测燃油油轨压力</tu>
+	<tu xmlns:lang="kor">예상 연료 레일 압력</tu>
+</tm>

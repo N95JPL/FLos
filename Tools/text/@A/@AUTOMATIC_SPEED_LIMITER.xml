@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUTOMATIC_SPEED_LIMITER">
+	<tu xmlns:lang="eng">Automatic speed limiter</tu>
+	<tu xmlns:lang="nld">Automatische snelheidsbegrenzer</tu>
+	<tu xmlns:lang="fra">Limiteur de vitesse automatique.</tu>
+	<tu xmlns:lang="deu">Automatische Geschwindigkeitsbegrenzung</tu>
+	<tu xmlns:lang="ita">Limitatore di velocità automatico</tu>
+	<tu xmlns:lang="jpn">自動速度制限</tu>
+	<tu xmlns:lang="ptg">Limitador automático de velocidade</tu>
+	<tu xmlns:lang="ptb">Limitador automático da velocidade</tu>
+	<tu xmlns:lang="rus">Автоматический ограничитель скорости</tu>
+	<tu xmlns:lang="esp">Limitador automático de velocidad</tu>
+	<tu xmlns:lang="chs">自动速度限制器</tu>
+	<tu xmlns:lang="kor">자동 속도 제한 장치</tu>
+</tm>

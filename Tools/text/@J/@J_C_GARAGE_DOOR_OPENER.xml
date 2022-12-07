@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_GARAGE_DOOR_OPENER">
+	<tu xmlns:lang="eng">Garage door opener</tu>
+	<tu xmlns:lang="nld">Garagedeuropener</tu>
+	<tu xmlns:lang="fra">Ouverture a distance de porte de garage</tu>
+	<tu xmlns:lang="deu">Garagentoröffner</tu>
+	<tu xmlns:lang="ita">Comando apertura garage</tu>
+	<tu xmlns:lang="jpn">ガレージ ドア オープナー</tu>
+	<tu xmlns:lang="ptg">Dispositivo de abertura de portas de garagem</tu>
+	<tu xmlns:lang="ptb">Controle remoto da porta da garagem</tu>
+	<tu xmlns:lang="rus">Радиопульт управления гаражными воротами</tu>
+	<tu xmlns:lang="esp">Abrepuertas del garaje</tu>
+	<tu xmlns:lang="chs">车库门启用</tu>
+	<tu xmlns:lang="kor">차고 문 개폐기</tu>
+</tm>

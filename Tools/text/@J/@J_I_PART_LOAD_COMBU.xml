@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PART_LOAD_COMBU">
+	<tu xmlns:lang="eng">Part load combustion.</tu>
+	<tu xmlns:lang="nld">Verbranding onder gedeeltelijke belasting.</tu>
+	<tu xmlns:lang="fra">Combustion à charge partielle.</tu>
+	<tu xmlns:lang="deu">Teillast-Verbrennung.</tu>
+	<tu xmlns:lang="ita">Combustione a carico parziale.</tu>
+	<tu xmlns:lang="jpn">部分負荷燃焼</tu>
+	<tu xmlns:lang="ptg">Combustão com carga parcial.</tu>
+	<tu xmlns:lang="ptb">Combustão com carga parcial.</tu>
+	<tu xmlns:lang="rus">Сгорание при частичной нагрузке.</tu>
+	<tu xmlns:lang="esp">Combustión a carga parcial.</tu>
+	<tu xmlns:lang="chs">部分负载燃烧。</tu>
+	<tu xmlns:lang="kor">부분 부하 연소</tu>
+</tm>

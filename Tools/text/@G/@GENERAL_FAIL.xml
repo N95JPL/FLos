@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@GENERAL_FAIL">
+	<tu xmlns:lang="eng">General failure</tu>
+	<tu xmlns:lang="nld">Algemene storing</tu>
+	<tu xmlns:lang="fra">Défaillance générale</tu>
+	<tu xmlns:lang="deu">Allgemeine Störung</tu>
+	<tu xmlns:lang="ita">Guasto generale</tu>
+	<tu xmlns:lang="jpn">一般的な故障</tu>
+	<tu xmlns:lang="ptg">Falha geral</tu>
+	<tu xmlns:lang="ptb">Falha geral</tu>
+	<tu xmlns:lang="rus">Общая неисправность</tu>
+	<tu xmlns:lang="esp">Anomalía general</tu>
+	<tu xmlns:lang="chs">常见故障</tu>
+	<tu xmlns:lang="kor">일반적인 고장</tu>
+</tm>

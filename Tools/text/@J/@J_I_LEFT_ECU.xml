@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LEFT_ECU">
+	<tu xmlns:lang="eng">Left electronic control unit (ECU)</tu>
+	<tu xmlns:lang="nld">Elektronische regeleenheid (ECU), links</tu>
+	<tu xmlns:lang="fra">Module de commande électronique (ECU) gauche</tu>
+	<tu xmlns:lang="deu">Elektronisches Steuergerät (ECU) links</tu>
+	<tu xmlns:lang="ita">Unità di comando elettronica (ECU) sinistra</tu>
+	<tu xmlns:lang="jpn">左エレクトロニック コントロール ユニット (ECU)</tu>
+	<tu xmlns:lang="ptg">Unidade electrónica de controlo (ECU), lado esquerdo</tu>
+	<tu xmlns:lang="ptb">Unidade de Controle Eletrônico (ECU) esquerda</tu>
+	<tu xmlns:lang="rus">Левый электронный блок управления (ECU)</tu>
+	<tu xmlns:lang="esp">Unidad de control electrónico (ECU) izquierda</tu>
+	<tu xmlns:lang="chs">左电子控制单元（ECU）</tu>
+	<tu xmlns:lang="kor">좌측 전자 컨트롤 유닛(ECU)</tu>
+</tm>

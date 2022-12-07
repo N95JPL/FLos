@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_PBM">
+	<tu xmlns:lang="eng">Parking brake control module</tu>
+	<tu xmlns:lang="nld">Handremregelmodule</tu>
+	<tu xmlns:lang="fra">Module de commande de frein de stationnement</tu>
+	<tu xmlns:lang="deu">Steuermodul elektrisch betätigte Handbremse</tu>
+	<tu xmlns:lang="ita">Modulo di comando freno stazionamento</tu>
+	<tu xmlns:lang="jpn">パーキング ブレーキ コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando do travão de mão</tu>
+	<tu xmlns:lang="ptb">Módulo de controle do freio de estacionamento</tu>
+	<tu xmlns:lang="rus">Блок управления стояночным тормозом</tu>
+	<tu xmlns:lang="esp">Módulo de control del freno de estacionamiento</tu>
+	<tu xmlns:lang="chs">驻车制动控制模块</tu>
+	<tu xmlns:lang="kor">주차 브레이크 컨트롤 모듈</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DieselMod$T">
+	<tu xmlns:lang="eng">Diesel powertrain control module</tu>
+	<tu xmlns:lang="nld">Regelmodule van aandrijflijn voor dieselmotor.</tu>
+	<tu xmlns:lang="fra">Module de commande du groupe motopropulseur diesel.</tu>
+	<tu xmlns:lang="deu">Antriebsstrang-Steuergerät Dieselmotor.</tu>
+	<tu xmlns:lang="ita">Modulo di comando catena cinematica diesel.</tu>
+	<tu xmlns:lang="jpn">ディーゼル パワートレーン コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de controlo do grupo motopropulsor Diesel.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle do powertrain a diesel</tu>
+	<tu xmlns:lang="rus">Блок управления дизельным силовым агрегатом.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control del grupo motor y transmisión (Diesel).</tu>
+	<tu xmlns:lang="chs">柴油动力传动系统控制模块。</tu>
+	<tu xmlns:lang="kor">디젤 파워트레인 컨트롤 모듈</tu>
+</tm>

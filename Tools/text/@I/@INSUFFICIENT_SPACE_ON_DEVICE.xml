@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INSUFFICIENT_SPACE_ON_DEVICE">
+	<tu xmlns:lang="eng">There is not enough space on the USB flash drive.
+</tu>
+	<tu xmlns:lang="nld">Er is niet genoeg ruimte vrij op de USB-stick.
+</tu>
+	<tu xmlns:lang="fra">Il n'y a pas assez d'espace sur le lecteur USB.
+</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf dem USB-Stick ist nicht genügend Speicherplatz vorhanden.
+</tu>
+	<tu xmlns:lang="ita">Non vi è spazio sufficiente sull’unità flash USB.
+</tu>
+	<tu xmlns:lang="jpn">USB フラッシュ ドライブの空き容量が不足しています。
+</tu>
+	<tu xmlns:lang="ptg">Não existe espaço suficiente na unidade flash USB.
+</tu>
+	<tu xmlns:lang="ptb">Não há espaço suficiente no Pen drive USB.
+</tu>
+	<tu xmlns:lang="rus">Недостаточно места на накопителе USB.
+</tu>
+	<tu xmlns:lang="esp">No hay suficiente espacio en la unidad de memoria USB.
+</tu>
+	<tu xmlns:lang="chs">USB 闪存驱动器的空间不足。
+</tu>
+	<tu xmlns:lang="kor">USB 플래시 드라이브에 충분한 공간이 없습니다.
+</tu>
+</tm>

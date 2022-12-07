@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_AUX_CLIMATE_CONTROL">
+	<tu xmlns:lang="eng">412-03B Auxiliary climate control</tu>
+	<tu xmlns:lang="nld">412-03B Hulp climate control</tu>
+	<tu xmlns:lang="fra">412-03B Climatisation automatique</tu>
+	<tu xmlns:lang="deu">412-03B Zusatzklimaregelung</tu>
+	<tu xmlns:lang="ita">412-03B Climatizzazione ausiliaria</tu>
+	<tu xmlns:lang="jpn">412-03B 補助エア コンディショニング</tu>
+	<tu xmlns:lang="ptg">412-03B Comando auxiliar da climatização auxiliar</tu>
+	<tu xmlns:lang="ptb">412-03B Controle de temperatura auxiliar</tu>
+	<tu xmlns:lang="rus">412-03B Вспомогательная система климат-контроля</tu>
+	<tu xmlns:lang="esp">412-03B Sistema de climatización auxiiar</tu>
+	<tu xmlns:lang="chs">412-03B辅助气候控制</tu>
+	<tu xmlns:lang="kor">412-03B 보조 실내 온도 조절 시스템</tu>
+</tm>

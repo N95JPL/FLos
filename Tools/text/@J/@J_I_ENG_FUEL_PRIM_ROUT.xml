@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENG_FUEL_PRIM_ROUT">
+	<tu xmlns:lang="eng">Engine fuel priming routine.</tu>
+	<tu xmlns:lang="nld">Routine voor het aanzuigen van motorbrandstof.</tu>
+	<tu xmlns:lang="fra">Programme d'amorçage du circuit d'alimentation.</tu>
+	<tu xmlns:lang="deu">Motor, Kraftstoff-Vorbefüllroutine.</tu>
+	<tu xmlns:lang="ita">Procedura d'iniezione d'avviamento.</tu>
+	<tu xmlns:lang="jpn">エンジン フューエル プライミング ルーチン</tu>
+	<tu xmlns:lang="ptg">Rotina de ferragem do combustível do motor.</tu>
+	<tu xmlns:lang="ptb">Rotina de preparação de combustível do motor.</tu>
+	<tu xmlns:lang="rus">Операция прокачки топливной системы двигателя.</tu>
+	<tu xmlns:lang="esp">Rutina de cebado del combustible del motor.</tu>
+	<tu xmlns:lang="chs">发动机起动燃油加注常规程序。</tu>
+	<tu xmlns:lang="kor">엔진 연료 프라이밍 절차</tu>
+</tm>

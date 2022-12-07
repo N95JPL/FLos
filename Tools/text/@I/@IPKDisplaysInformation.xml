@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IPKDisplaysInformation">
+	<tu
+    xmlns:lang="eng"
+  >The instrument cluster may also display the following information:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het instrumentenpaneel kan ook de volgende informatie weergeven:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le combiné d'instruments peut également afficher les informations suivantes :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Instrumentengruppe kann auch die folgenden Informationen anzeigen:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il quadro strumenti potrebbe visualizzare anche le seguenti informazioni:</tu>
+	<tu xmlns:lang="jpn">インストルメント クラスタは次の情報も表示できます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O grupo de instrumentos poderá também apresentar as seguintes informações:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O conjunto do painel de instrumentos pode também exibir as seguintes informações:</tu>
+	<tu
+    xmlns:lang="rus"
+  >На щитке приборов может быть отображена следующая информация:</tu>
+	<tu
+    xmlns:lang="esp"
+  >El cuadro de instrumentos también puede mostrar la siguiente información:</tu>
+	<tu xmlns:lang="chs">仪表盘还可能显示以下信息：</tu>
+	<tu xmlns:lang="kor">계기판에 다음 정보가 표시될 수도 있습니다.</tu>
+</tm>

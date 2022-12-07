@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA1237">
+	<tu xmlns:lang="eng">Clock display</tu>
+	<tu xmlns:lang="nld">KLOK-WEERGAVE</tu>
+	<tu xmlns:lang="fra">AFFICHAGE DE MONTRE</tu>
+	<tu xmlns:lang="deu">UHRANZEIGE</tu>
+	<tu xmlns:lang="ita">DISPLAY OROLOGIO</tu>
+	<tu xmlns:lang="jpn">クロック・ﾃﾞィスﾌﾟレイ</tu>
+	<tu xmlns:lang="ptg">Visor do relógio</tu>
+	<tu xmlns:lang="ptb">Visor do relógio</tu>
+	<tu xmlns:lang="rus">Дисплей часов</tu>
+	<tu xmlns:lang="esp">VISUALIZADOR DEL RELOJ</tu>
+	<tu xmlns:lang="chs">时钟显示器</tu>
+	<tu xmlns:lang="kor">시계 표시</tu>
+</tm>

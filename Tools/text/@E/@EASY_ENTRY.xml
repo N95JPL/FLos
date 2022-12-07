@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EASY_ENTRY">
+	<tu xmlns:lang="eng">Easy entry</tu>
+	<tu xmlns:lang="nld">Instapfunctie</tu>
+	<tu xmlns:lang="fra">Easy entry (entrée facilitée).</tu>
+	<tu xmlns:lang="deu">Ein-/Ausstiegsmodus</tu>
+	<tu xmlns:lang="ita">Entrata agevolata</tu>
+	<tu xmlns:lang="jpn">イージー エントリー</tu>
+	<tu xmlns:lang="ptg">Entrada fácil</tu>
+	<tu xmlns:lang="ptb">Entrada fácil</tu>
+	<tu xmlns:lang="rus">Быстрый вход</tu>
+	<tu xmlns:lang="esp">Entrada fácil</tu>
+	<tu xmlns:lang="chs">方便进入</tu>
+	<tu xmlns:lang="kor">스마트 승차</tu>
+</tm>

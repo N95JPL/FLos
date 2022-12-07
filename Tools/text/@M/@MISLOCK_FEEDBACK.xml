@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MISLOCK_FEEDBACK">
+	<tu xmlns:lang="eng">Audible mislock feedback</tu>
+	<tu xmlns:lang="nld">Geluidssignaal bij niet goed vergrendelen</tu>
+	<tu xmlns:lang="fra">Informations de retour de verrouillage mal effectué</tu>
+	<tu xmlns:lang="deu">Signaltonrückmeldung bei Fehlverriegelung</tu>
+	<tu xmlns:lang="ita">Segnale acustico bloccaggio errato</tu>
+	<tu xmlns:lang="jpn">ミスロック警告音フィードバック</tu>
+	<tu xmlns:lang="ptg">Retorno audível de trancagem mal efectuada </tu>
+	<tu xmlns:lang="ptb">Retorno do aviso sonoro de travamento</tu>
+	<tu xmlns:lang="rus">Звуковой сигнал неправильного закрытия замка</tu>
+	<tu xmlns:lang="esp">Aviso audible de bloqueo incorrecto</tu>
+	<tu xmlns:lang="chs">音频未锁闭反馈</tu>
+	<tu xmlns:lang="kor">청각적 잠금 오류 피드백</tu>
+</tm>

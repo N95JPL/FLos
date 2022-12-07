@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INTERMITTENT_FAULT_CODE">
+	<tu xmlns:lang="eng">Intermittent diagnostic trouble code</tu>
+	<tu xmlns:lang="nld">Intermitterende DTC</tu>
+	<tu xmlns:lang="fra">Intermittent code DTC</tu>
+	<tu xmlns:lang="deu">Sporadischer DTC</tu>
+	<tu xmlns:lang="ita">DTC intermittente</tu>
+	<tu xmlns:lang="jpn">・欠的 DTC</tu>
+	<tu xmlns:lang="ptg">Código de avaria intermitente</tu>
+	<tu xmlns:lang="ptb">Código de problema de diagnóstico intermitente.</tu>
+	<tu xmlns:lang="rus">Перемежающийся диагностический код неисправности</tu>
+	<tu xmlns:lang="esp">DTC intermitente</tu>
+	<tu xmlns:lang="chs">间歇性故障诊断代码</tu>
+	<tu xmlns:lang="kor">간헐적 고장 진단 코드</tu>
+</tm>

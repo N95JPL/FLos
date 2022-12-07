@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CONTINUITY_BMS_TO_BCMB">
+	<tu
+    xmlns:lang="eng"
+  >Check continuity of wire between battery monitoring system and body control module B</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer op continuïteit in het circuit tussen het accucontrolesysteem en carrosserieregelmodule B</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôlez la continuité du câble entre le système de surveillance de la batterie et le module de commande de carrosserie B</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kabel zwischen Batterieüberwachungssystem und Karosseriesteuergerät B auf Durchgang prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare la continuità tra sistema di monitoraggio della batteria e modulo comando carrozzeria B</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリ モニタリング システムとボディ コントロール モジュール B 間のワイヤの導通をチェックしなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar a continuidade no cabo entre o sistema de monitorização da bateria e o módulo de controlo da carroçaria B</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique a continuidade do fio entre o sistema de monitoramento da bateria e o módulo de controle da carroceria B</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте на предмет отсутствия обрыва провод между системой контроля аккумуляторной батареи и блоком В управления системами кузова</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar la continuidad del cable entre el sistema de control de la batería y el módulo de control de la carrocería B</tu>
+	<tu
+    xmlns:lang="chs"
+  >检查蓄电池监测系统与车身控制模块 B 之间的线路的电路导通性</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리 모니터링 시스템과 차체 컨트롤 모듈 B 사이에 있는 와이어의 통전성을 점검하십시오.</tu>
+</tm>

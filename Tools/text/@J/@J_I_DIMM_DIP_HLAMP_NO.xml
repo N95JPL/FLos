@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIMM_DIP_HLAMP_NO">
+	<tu xmlns:lang="eng">Without dimmed dipped headlights</tu>
+	<tu xmlns:lang="nld">Zonder gedimde koplampen</tu>
+	<tu xmlns:lang="fra">Sans feux de croisement atténués</tu>
+	<tu xmlns:lang="deu">Ohne verdunkelte Abblendlichtscheinwerfer</tu>
+	<tu xmlns:lang="ita">Senza fari anabbaglianti attenuati</tu>
+	<tu xmlns:lang="jpn">減光／下向きロービーム ヘッドランプなし</tu>
+	<tu xmlns:lang="ptg">Sem médios com regulador de intensidade</tu>
+	<tu xmlns:lang="ptb">Sem faróis baixos dimerizados</tu>
+	<tu xmlns:lang="rus">Без снижения яркости ближнего света фар</tu>
+	<tu xmlns:lang="esp">Sin luces de cruce atenuadas</tu>
+	<tu xmlns:lang="chs">无近光前照灯</tu>
+	<tu xmlns:lang="kor">조광 하향 전조등 없음</tu>
+</tm>

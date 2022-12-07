@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHECK_REMOTES">
+	<tu
+    xmlns:lang="eng"
+  >This test will allow the programming of one or more remote control transmitters.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze test kunt u één of meerdere sleutelzenders programmeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce test va permettre la programmation d'un ou plusieurs émetteurs de télécommande.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Test gestattet die Programmierung einer oder mehrerer Fernbedienungen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa prova consente la programmazione di uno o più trasmettitori telecomando.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストで 1 個またはそれ以上のリモート コントロール トランスミッタをプログラムすることができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este teste permitirá a programação de um ou mais comandos à distância.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este teste permitirá que a programação de um ou mais transmissores de controle remoto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта проверка позволит запрограммировать один или несколько передатчиков пульта дистанционного управления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta prueba permitirá programar uno o varios de los transmisores de mando a distancia.</tu>
+	<tu xmlns:lang="chs">这一测试将允许对一个或多个遥控发射器进行编程。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 테스트에서는 하나 이상의 리모컨 송신기를 프로그래밍할 수 있습니다.</tu>
+</tm>

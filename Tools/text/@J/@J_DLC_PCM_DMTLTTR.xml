@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_PCM_DMTLTTR">
+	<tu xmlns:lang="eng">Diagnostics module tank leakage test time reference.</tu>
+	<tu xmlns:lang="nld">Testtijdreferentie diagnosemodule tanklekkage. </tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de diagnostics - temps de référence d'essai de fuite de réservoir.</tu>
+	<tu xmlns:lang="deu">Bezugsprüfzeit, Diagnosemodul - Tankundichtigkeit.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo di diagnostica - perdita serbatoio - riferimento tempo di prova.</tu>
+	<tu xmlns:lang="jpn">診断モジュール - タンク リーク テスト時間参照</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Referência temporal de teste do módulo de diagnóstico de fugas do depósito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Referência de tempo de teste de diagnóstico de vazamento do tanque de combustível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Диагностический блок - эталонное время проверки утечки бака.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de diagnosis: referencia de la duración de la prueba de fugas del depósito.</tu>
+	<tu xmlns:lang="chs">诊断模块油箱泄漏测试时间参考。</tu>
+	<tu xmlns:lang="kor">진단 모듈 탱크 누출 테스트 시간 참조</tu>
+</tm>

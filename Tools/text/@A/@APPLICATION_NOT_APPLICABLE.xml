@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@APPLICATION_NOT_APPLICABLE">
+	<tu xmlns:lang="eng">This application is not applicable.</tu>
+	<tu xmlns:lang="nld">Deze toepassing geldt niet hiervoor.</tu>
+	<tu xmlns:lang="fra">Cette application n'est pas applicable.</tu>
+	<tu xmlns:lang="deu">Diese Anwendung trifft nicht zu.</tu>
+	<tu xmlns:lang="ita">Questa applicazione non è valida.</tu>
+	<tu xmlns:lang="jpn">このアプリケーションは適用されません。</tu>
+	<tu xmlns:lang="ptg">Esta aplicação não se aplica.</tu>
+	<tu xmlns:lang="ptb">Este aplicativo não é aplicável.</tu>
+	<tu xmlns:lang="rus">Это приложение не применяется.</tu>
+	<tu xmlns:lang="esp">No procede utilizar esta aplicación en este caso.</tu>
+	<tu xmlns:lang="chs">本应用程序不适用。</tu>
+	<tu xmlns:lang="kor">이 애플리케이션을 적용할 수 없습니다.</tu>
+</tm>

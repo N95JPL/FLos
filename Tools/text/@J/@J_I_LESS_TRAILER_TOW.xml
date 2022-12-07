@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_TRAILER_TOW">
+	<tu xmlns:lang="eng">Trailer tow socket not fitted</tu>
+	<tu xmlns:lang="nld">De aanhangertrekhaak is niet bevestigd</tu>
+	<tu xmlns:lang="fra">Prise de remorque non montée</tu>
+	<tu xmlns:lang="deu">Anhängersteckdose nicht eingebaut.</tu>
+	<tu xmlns:lang="ita">Presa per rimorchio non in dotazione</tu>
+	<tu xmlns:lang="jpn">トレーラー牽引ソ\ケット非装備</tu>
+	<tu xmlns:lang="ptg">Tomada do reboque do atrelado não está instalada</tu>
+	<tu xmlns:lang="ptb">Soquete do reboque não instalado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Разъем для подключения электрической системы буксировки прицепа не установлен</tu>
+	<tu xmlns:lang="esp">No hay enchufe para remolque</tu>
+	<tu xmlns:lang="chs">拖车牵引插座未安装</tu>
+	<tu xmlns:lang="kor">트레일러 견인 소켓이 장착되지 않음</tu>
+</tm>

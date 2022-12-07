@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_GENERATOR_CONNECTIONS">
+	<tu xmlns:lang="eng">Check generator connections tight</tu>
+	<tu xmlns:lang="nld">Controleer of de dynamoaansluitklemmen goed vastzitten</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que les connexions de l'alternateur sont bien serrées</tu>
+	<tu xmlns:lang="deu">Generatoranschlüsse auf Festsitz prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che le connessioni del generatore siano ben salde</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ジェネレータ コネクターが緩んでいないかチェックしなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar se as ligações do alternador estão bem apertadas</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se as conexões do alternador estão bem presas</tu>
+	<tu xmlns:lang="rus">Проверьте затяжку соединений генератора</tu>
+	<tu xmlns:lang="esp">Compruebe que las conexiones del alternador son firmes</tu>
+	<tu xmlns:lang="chs">检查发电机连接是否牢靠</tu>
+	<tu xmlns:lang="kor">제너레이터가 확실히 연결되었는지 점검하십시오.</tu>
+</tm>

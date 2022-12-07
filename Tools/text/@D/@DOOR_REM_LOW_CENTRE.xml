@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DOOR_REM_LOW_CENTRE">
+	<tu xmlns:lang="eng">Lower and center channel only</tu>
+	<tu xmlns:lang="nld">Alleen onderste en middelste kanaal</tu>
+	<tu xmlns:lang="fra">Canaux inférieur et central seulement</tu>
+	<tu xmlns:lang="deu">Nur unterer und mittlerer Kanal</tu>
+	<tu xmlns:lang="ita">Solo canale inferiore e centrale</tu>
+	<tu xmlns:lang="jpn">ロアおよびセンター チャンネルのみ</tu>
+	<tu xmlns:lang="ptg">Apenas canal inferior e central</tu>
+	<tu xmlns:lang="ptb">Canal inferior e central apenas</tu>
+	<tu xmlns:lang="rus">Только нижний и центральный каналы</tu>
+	<tu xmlns:lang="esp">Canales inferior y central únicamente</tu>
+	<tu xmlns:lang="chs">仅限下部和中央通道</tu>
+	<tu xmlns:lang="kor">하부 및 중앙 채널만 해당</tu>
+</tm>

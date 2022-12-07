@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_REM_AUX_DRIVING_LAMPS">
+	<tu xmlns:lang="eng">Remove auxiliary driving lamps</tu>
+	<tu xmlns:lang="nld">Hulprijlichten verwijderen</tu>
+	<tu xmlns:lang="fra">Retirer les projecteurs auxiliaires</tu>
+	<tu xmlns:lang="deu">Zusatzscheinwerfer entfernen</tu>
+	<tu xmlns:lang="ita">Rimuovere luci guida ausiliarie</tu>
+	<tu xmlns:lang="jpn">補助ドライビング ランプの取り外し</tu>
+	<tu xmlns:lang="ptg">Desmontar luzes auxiliares de condução</tu>
+	<tu xmlns:lang="ptb">Remover lâmpadas de condução auxiliar</tu>
+	<tu xmlns:lang="rus">Убрать дополнительные фары дальнего света</tu>
+	<tu xmlns:lang="esp">Retirar luces de conducción auxiliares</tu>
+	<tu xmlns:lang="chs">拆除辅助行驶灯</tu>
+	<tu xmlns:lang="kor">보조 드라이빙 램프 제거</tu>
+</tm>

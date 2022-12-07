@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_SELF_OPEN_TAIL">
+	<tu xmlns:lang="eng">Without self opening boot/tailgate</tu>
+	<tu xmlns:lang="nld">Zonder zelf-openende kofferdeksel/achterklep</tu>
+	<tu xmlns:lang="fra">Sans coffre/hayon à ouverture automatique</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ohne selbstöffnenden Kofferraum / selbstöffnende Heckklappe</tu>
+	<tu xmlns:lang="ita">Senza apertura automatica bagagliaio/portellone</tu>
+	<tu xmlns:lang="jpn">自動オープン トランク／テールゲートなし</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sem bagageira/porta da retaguarda de abertura automática</tu>
+	<tu xmlns:lang="ptb">Sem auto-abertura do porta-malas/tampa traseira</tu>
+	<tu
+    xmlns:lang="rus"
+  >Без автоматического открывания двери багажного отделения/задней двери</tu>
+	<tu xmlns:lang="esp">Sin apertura automática del maletero/portón trasero</tu>
+	<tu xmlns:lang="chs">无自动开启式行李箱/尾门</tu>
+	<tu xmlns:lang="kor">부트/테일게이트 자동 열림 불포함</tu>
+</tm>

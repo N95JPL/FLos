@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DLC_BMP_5B18_BY2_BIT2">
+	<tu xmlns:lang="eng">Module status  -  Roll over sensing  -  Type 2</tu>
+	<tu
+    xmlns:lang="nld"
+  >Modulestatus  -  Detectie van over de kop gaan   -  Type 2</tu>
+	<tu
+    xmlns:lang="fra"
+  >Etat du module  -  Détection de retournement   -  Type 2</tu>
+	<tu xmlns:lang="deu">Modul-Status  -  Überschlag-Ermittlung   -  Typ 2</tu>
+	<tu
+    xmlns:lang="ita"
+  >Stato del modulo  -  Rilevamento antiribaltamento  -  Tipo 2</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュール ステータス  －  ロール オーバー検知  －  タイプ 2</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Estado do módulo  -  Detecção de capotamento  -  Tipo 2</tu>
+	<tu xmlns:lang="ptb">Status do módulo  -  Detecção capotamento  -  Tipo 2</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние блока  -  Обнаружение опасности опрокидывания   -  Тип 2</tu>
+	<tu xmlns:lang="esp">Estado del módulo  -  Sensor de vuelco  -  Tipo 2</tu>
+	<tu xmlns:lang="chs">模块状态  -  侧倾传感器  -  类型 2</tu>
+	<tu xmlns:lang="kor">모듈 상태  -  롤 오버 감지  -  유형 2</tu>
+</tm>

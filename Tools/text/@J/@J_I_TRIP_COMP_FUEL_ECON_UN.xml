@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRIP_COMP_FUEL_ECON_UN">
+	<tu xmlns:lang="eng">Trip computer metric fuel economy units</tu>
+	<tu xmlns:lang="nld">Metrieke brandstofverbruikeenheden boordcomputer</tu>
+	<tu
+    xmlns:lang="fra"
+  >Unités d'économie de carburant métriques sur l'ordinateur de bord</tu>
+	<tu xmlns:lang="deu">Bordcomputer - metrische Kraftstoffverbrauchswerte</tu>
+	<tu xmlns:lang="ita">Computer di bordo - unità consumo carburante metriche</tu>
+	<tu xmlns:lang="jpn">トリップ コンピュータ燃費単位 (メートル法)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Unidades métricas de economia de combustível do computador de bordo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Unidades métricas de economia de combustível do computador de bordo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Метрические единицы измерения расхода топлива в маршрутном компьютере</tu>
+	<tu
+    xmlns:lang="esp"
+  >Unidades métricas de consumo de combustible del ordenador de viaje</tu>
+	<tu xmlns:lang="chs">行车计算机燃油经济性公制计量单位</tu>
+	<tu xmlns:lang="kor">트립 컴퓨터 미터법 연비 단위</tu>
+</tm>

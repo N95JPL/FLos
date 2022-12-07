@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PASS_HEAT_SEAT_VAR_TEMP">
+	<tu xmlns:lang="eng">Passenger's heated seat - variable temperature</tu>
+	<tu xmlns:lang="nld">Verwarmde passagiersstoel - variabele temperatuur</tu>
+	<tu xmlns:lang="fra">Siège chauffant passager - température variable</tu>
+	<tu xmlns:lang="deu">Beifahrersitzheizung - veränderliche Temperatur</tu>
+	<tu xmlns:lang="ita">Sedile riscaldato passeggero - temperatura variabile</tu>
+	<tu xmlns:lang="jpn">助手席側シート ヒーター － 可変温度</tu>
+	<tu xmlns:lang="ptg">Banco aquecido do passageiro - temperatura variável</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Assento aquecido do passageiro - variação de temperatura</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подогреваемое сиденье пассажира - регулируемая температура</tu>
+	<tu xmlns:lang="esp">Asiento térmico del acompañante: temperatura variable</tu>
+	<tu xmlns:lang="chs">乘客一侧加热型座椅 ― 可变温度</tu>
+	<tu xmlns:lang="kor">조수석 열선내장 시트 - 가변적 온도</tu>
+</tm>

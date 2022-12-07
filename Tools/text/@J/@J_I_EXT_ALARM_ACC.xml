@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EXT_ALARM_ACC">
+	<tu xmlns:lang="eng">External alarm unit supply  -  Accessory only</tu>
+	<tu xmlns:lang="nld">Voeding van externe alarmeenheid  -  Alleen accessoire</tu>
+	<tu
+    xmlns:lang="fra"
+  >Alimentation d'alarme externe  -  Accessoire uniquement</tu>
+	<tu xmlns:lang="deu">Versorgung, externe Alarmeinheit  -  Nur Zubehör</tu>
+	<tu xmlns:lang="ita">Alimentazione unità allarme esterna  -  Solo accessori</tu>
+	<tu xmlns:lang="jpn">外部アラーム ユニット供給  －  アクセサリのみ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Alimentação da unidade externa de alarme  -  Apenas acessório</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Alimentação da unidade de alarme externo  -  Apenas acessórios</tu>
+	<tu
+    xmlns:lang="rus"
+  >Питание внешнего блока охранной системы  -  Только для вспомогательного оборудования</tu>
+	<tu
+    xmlns:lang="esp"
+  >Alimentación de unidad de alarma externa  -  Sólo accesorio</tu>
+	<tu xmlns:lang="chs">外部报警单元供电  -  仅限附件</tu>
+	<tu xmlns:lang="kor">외부 알람 유닛 공급 회로  -  액세서리만 해당</tu>
+</tm>

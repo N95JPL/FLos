@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_VIN_STOP">
+	<tu xmlns:lang="eng">VIN stop</tu>
+	<tu xmlns:lang="nld">Einde van VIN</tu>
+	<tu xmlns:lang="fra">Arrêt VIN</tu>
+	<tu xmlns:lang="deu">VIN-Ende</tu>
+	<tu xmlns:lang="ita">Arresto VIN</tu>
+	<tu xmlns:lang="jpn">VIN 停止</tu>
+	<tu xmlns:lang="ptg">Fim do NIV</tu>
+	<tu xmlns:lang="ptb">Parada VIN</tu>
+	<tu xmlns:lang="rus">Остановка VIN-кода</tu>
+	<tu xmlns:lang="esp">VIN final</tu>
+	<tu xmlns:lang="chs">VIN停止</tu>
+	<tu xmlns:lang="kor">VIN 중지</tu>
+</tm>

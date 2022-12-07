@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_ACM_05">
+	<tu
+    xmlns:lang="eng"
+  >4)  Audio front control module checks that the microphone/auxiliaries/phone are connected correctly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >4)  De regelmodule van audioinstallatie voorin controleert dat de microfoon / hulpapparatuur / telefoon goed zijn aangesloten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >4)  Le module de commande audio avant vérifie que les microphone/accessoires/téléphone sont connectés correctement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >4)  Das Audio-Steuergerät vorne überprüft, ob Mikrofon/Zusatzgeräte/Telefon korrekt angeschlossen sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >4)  Il modulo di comando anteriore audio controlla che microfono/ausiliari/telefono siano collegati correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >4)  オーディオ フロント コントロール モジュールはマイクロホン／AUX／車内電話が正しく接続されているかチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >4)  O módulo de controlo do sistema áudio dianteiro verifica se microfone/sistemas auxiliares/telefone estão devidamente ligados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >4)  O módulo de controle de áudio dianteiro verifica se o microfone/auxiliares/telefone estão conectados corretamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >4)  Передний блок управления аудиосистемой проверяет правильность подключения микрофонов/вспомогательных устройств/телефона.</tu>
+	<tu
+    xmlns:lang="esp"
+  >4)  El módulo de control delantero del sistema de audio comprueba que el micrófono/los auxiliares/el teléfono estén correctamente conectados.</tu>
+	<tu
+    xmlns:lang="chs"
+  >4)  前音频控制模块检查麦克风/辅助装置/电话是否正确连接。</tu>
+	<tu
+    xmlns:lang="kor"
+  >4)  오디오 프론트 컨트롤 모듈이 마이크/보조 장치/전화가 올바르게 연결되어 있는지 점검합니다.</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WaitHi$I">
+	<tu xmlns:lang="eng">Wait until high range is displayed.</tu>
+	<tu xmlns:lang="nld">Wacht totdat het hoge bereik op het scherm staat.</tu>
+	<tu xmlns:lang="fra">Attendez que la gamme haute soit affichée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Abwarten, bis der hohe Übersetzungsbereich angezeigt wird.</tu>
+	<tu xmlns:lang="ita">Attendere che venga visualizzata la gamma alta.</tu>
+	<tu xmlns:lang="jpn">ハイ レンジが表\示されるまで待ちなさい。</tu>
+	<tu xmlns:lang="ptg">Espere até a gama alta ser visualizada.</tu>
+	<tu xmlns:lang="ptb">Espere até que o intervalo alto seja exibido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подождите, пока отобразится диапазон высших передаточных чисел.</tu>
+	<tu xmlns:lang="esp">Esperar hasta que aparezca una marcha larga.</tu>
+	<tu xmlns:lang="chs">等待直至显示了高档范围。</tu>
+	<tu xmlns:lang="kor">하이 레인지가 표시될 때까지 기다립니다.</tu>
+</tm>

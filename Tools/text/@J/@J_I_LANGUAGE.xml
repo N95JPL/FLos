@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LANGUAGE">
+	<tu xmlns:lang="eng">Language</tu>
+	<tu xmlns:lang="nld">Taal</tu>
+	<tu xmlns:lang="fra">Langue</tu>
+	<tu xmlns:lang="deu">Sprache</tu>
+	<tu xmlns:lang="ita">Lingua</tu>
+	<tu xmlns:lang="jpn">言語</tu>
+	<tu xmlns:lang="ptg">Idioma</tu>
+	<tu xmlns:lang="ptb">Idioma</tu>
+	<tu xmlns:lang="rus">Язык</tu>
+	<tu xmlns:lang="esp">Idioma</tu>
+	<tu xmlns:lang="chs">语言</tu>
+	<tu xmlns:lang="kor">언어</tu>
+</tm>

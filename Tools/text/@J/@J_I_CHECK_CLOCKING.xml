@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHECK_CLOCKING">
+	<tu
+    xmlns:lang="eng"
+  >This test will check the central door locking circuit. Automatic locking and unlocking of the doors will take place.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze test zal het circuit van de centrale portiervergrendeling controleren. Het automatisch vergrendelen en ontgrendelen van de portieren zal plaatsvinden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce test va contrôler le circuit de verrouillage centralisé des portes. Un verrouillage et un déverrouillage automatique des portes vont être effectués.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit diesem Test wird der Zentralverriegelungskreis geprüft. Die Türen werden automatisch verriegelt und entriegelt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa prova controlla il circuito della chiusura centralizzata. Viene eseguito il bloccaggio e lo sbloccaggio automatico delle portiere.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストはセントラル ドア ロッキング サーキットをチェックします。ドアが自動的にロックおよびアンロックされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este teste verificará o circuito do fecho centralizado das portas. As portas serão trancadas e destrancadas automaticamente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este teste verificará o circuito de travamento central das portas. Travamento e destravamento automático das portas ocorrerá.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе данного теста выполняется проверка цепи центрального запирания дверей. Происходит автоматическое запирание и отпирание дверей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta prueba comprobará el circuito del cierre centralizado. Se activará el bloqueo y desbloqueo automático de todas las puertas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一测试将检查中央车门锁闭电路。 将发生车门自动锁闭与解锁。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 테스트에서는 중앙 도어 잠금 회로를 점검합니다. 도어의 자동 잠금 및 잠금 해제가 이루어집니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_ENT_SYS_FIT">
+	<tu xmlns:lang="eng">Entertainment system is not fitted.</tu>
+	<tu xmlns:lang="nld">Er is geen entertainmentsysteem geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Système multimédia non installé.</tu>
+	<tu xmlns:lang="deu">Unterhaltungssystem ist nicht eingebaut.</tu>
+	<tu xmlns:lang="ita">Sistema intrattenimento non in dotazione.</tu>
+	<tu xmlns:lang="jpn">エンタテイメント システム非装備</tu>
+	<tu xmlns:lang="ptg">Sistema de entretenimento não está instalado.</tu>
+	<tu xmlns:lang="ptb">Sistema de entretenimento não instalado.</tu>
+	<tu xmlns:lang="rus">Мультимедийная система не установлена.</tu>
+	<tu xmlns:lang="esp">No tiene sistema de entretenimiento audiovisual.</tu>
+	<tu xmlns:lang="chs">娱乐系统未安装。</tu>
+	<tu xmlns:lang="kor">엔터테인먼트 시스템이 장착되지 않았습니다.</tu>
+</tm>

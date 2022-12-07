@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_MDX_SRV_RETRY_ROUTINE">
+	<tu xmlns:lang="eng">Retry the routine?</tu>
+	<tu xmlns:lang="nld">Routine opnieuw proberen?</tu>
+	<tu xmlns:lang="fra">Recommencer la procédure ?</tu>
+	<tu xmlns:lang="deu">Routine erneut laufen lassen?</tu>
+	<tu xmlns:lang="ita">Riprovare la procedura?</tu>
+	<tu xmlns:lang="jpn">ルーチンを再試行しますか？</tu>
+	<tu xmlns:lang="ptg">Voltar a tentar a rotina?</tu>
+	<tu xmlns:lang="ptb">Tentar novamente a rotina?</tu>
+	<tu xmlns:lang="rus">Повторить запуск процедуры?</tu>
+	<tu xmlns:lang="esp">¿Desea volver a intentar la rutina?</tu>
+	<tu xmlns:lang="chs">重试一次例程？</tu>
+	<tu xmlns:lang="kor">루틴을 다시 시도하시겠습니까?</tu>
+</tm>

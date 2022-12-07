@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOCK_FLASH_CONFIRM">
+	<tu xmlns:lang="eng">Locking flash feedback confirms latch status</tu>
+	<tu xmlns:lang="nld">Flash-terugkoppeling vergrendelen bevestigt slotstatus</tu>
+	<tu
+    xmlns:lang="fra"
+  >Retour de verrouillage clignotant confirmant l'état du verrou</tu>
+	<tu
+    xmlns:lang="deu"
+  >Blinkrückmeldung bei Verriegelung bestätigt Verriegelungsstatus</tu>
+	<tu xmlns:lang="ita">Feedback flash bloccaggio conferma stato di chiusura</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ロッキング フラッシュ フィードバックがラッチ ステータスを確認します</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O retorno rápido de bloqueio confirma o estado do trinco</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O feedback de atualização de travamento confirma o status da trava</tu>
+	<tu
+    xmlns:lang="rus"
+  >Мигание сигнализатора запирания подтверждает состояние замка </tu>
+	<tu
+    xmlns:lang="esp"
+  >La realimentación de bloqueo confirma el estado del enganche</tu>
+	<tu xmlns:lang="chs">锁定闪烁反馈确认撞锁状态</tu>
+	<tu xmlns:lang="kor">잠금 플래시 피드백으로 래치 상태 확인</tu>
+</tm>

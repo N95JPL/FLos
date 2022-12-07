@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_SEAT_HEAT">
+	<tu xmlns:lang="eng">Is the vehicle fitted with front seat heaters?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuig uitgerust met verwarming van de voorstoelen?</tu>
+	<tu xmlns:lang="fra">Le véhicule est-il équipé de chauffe-sièges avant ?</tu>
+	<tu xmlns:lang="deu">Ist das Fahrzeug mit Vordersitzheizung ausgerüstet ?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo è dotato di riscaldatori dei sedili anteriori?</tu>
+	<tu xmlns:lang="jpn">本車両にフロント シート ヒーターは装備されていますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo está equipado com aquecimento dos bancos dianteiros?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo está equipado com aquecedores nos assentos dianteiros?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Оснащен ли автомобиль подогревателями передних сидений?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Tiene el coche calefactores en los asientos delanteros?</tu>
+	<tu xmlns:lang="chs">车辆上安装前座椅加热器了吗？</tu>
+	<tu xmlns:lang="kor">차량에 프론트 시트 히터가 장착되어 있습니까?</tu>
+</tm>

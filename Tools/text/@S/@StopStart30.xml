@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart30">
+	<tu
+    xmlns:lang="eng"
+  >Press the clutch pedal fully and make sure the clutch position switch changes state.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Trap het koppelingspedaal helemaal in en zorg ervoor dat de koppelingspedaalstandschakelaar van status verandert.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez à fond sur la pédale d'embrayage et assurez-vous que le contacteur de position de l'embrayage change d'état.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Kupplungspedal vollständig durchtreten und sicherstellen, dass der Kupplungsstellungsschalter seinen Zustand ändert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere a fondo il pedale della frizione e assicurarsi che l'interruttore di posizione della frizione cambi stato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >クラッチ ベダルを完全に押して、クラッチ ポジション スイッチの状態が変化することを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima totalmente o pedal da embraiagem e certifique-se de que o interruptor de posição da embraiagem muda de estado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione o pedal da embreagem totalmente e certifique-se de que o interruptor de posição da embreagem muda de estado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Полностью выжмите педаль сцепления и убедитесь, что показания датчика положения педали сцепления меняются.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pise el pedal de embrague a fondo y asegúrese de que el interruptor de posición del embrague cambia de estado.</tu>
+	<tu xmlns:lang="chs">完全踩下离合器踏板，并且确保离合器位置开关已改变状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >클러치 페달을 끝까지 밟고 클러치 위치 스위치의 상태가 바뀌는지 확인하십시오.</tu>
+</tm>

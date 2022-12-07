@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CalClutch$I">
+	<tu xmlns:lang="eng">Calibrate clutch.</tu>
+	<tu xmlns:lang="nld">Koppeling kalibreren.</tu>
+	<tu xmlns:lang="fra">Etalonnez l'embrayage.</tu>
+	<tu xmlns:lang="deu">Kupplung kalibrieren.</tu>
+	<tu xmlns:lang="ita">Eseguire taratura frizione.</tu>
+	<tu xmlns:lang="jpn">クラッチをキャリブレーションします。</tu>
+	<tu xmlns:lang="ptg">Calibrar embraiagem.</tu>
+	<tu xmlns:lang="ptb">Calibrar embreagem.</tu>
+	<tu xmlns:lang="rus">Выполните калибровку сцепления.</tu>
+	<tu xmlns:lang="esp">Calibrar el embrague.</tu>
+	<tu xmlns:lang="chs">标定离合器。</tu>
+	<tu xmlns:lang="kor">클러치 보정</tu>
+</tm>

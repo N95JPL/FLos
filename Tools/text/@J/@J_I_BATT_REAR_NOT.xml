@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_REAR_NOT">
+	<tu xmlns:lang="eng">Without rear battery</tu>
+	<tu xmlns:lang="nld">Zonder accu achterin</tu>
+	<tu xmlns:lang="fra">Sans batterie arrière</tu>
+	<tu xmlns:lang="deu">Ohne Batterie hinten</tu>
+	<tu xmlns:lang="ita">Senza batteria posteriore</tu>
+	<tu xmlns:lang="jpn">リア バッテリなし</tu>
+	<tu xmlns:lang="ptg">Sem bateria atrás</tu>
+	<tu xmlns:lang="ptb">Sem bateria traseira</tu>
+	<tu xmlns:lang="rus">Без задней аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Sin batería trasera</tu>
+	<tu xmlns:lang="chs">无后部蓄电池</tu>
+	<tu xmlns:lang="kor">리어 배터리 없음</tu>
+</tm>

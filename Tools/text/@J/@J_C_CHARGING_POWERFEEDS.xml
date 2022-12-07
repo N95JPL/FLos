@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_CHARGING_POWERFEEDS">
+	<tu xmlns:lang="eng">Charging powerfeeds.</tu>
+	<tu xmlns:lang="nld">Stroomkabels voor opladen</tu>
+	<tu xmlns:lang="fra">Alimentations électriques de charge</tu>
+	<tu xmlns:lang="deu">Stromverteilungsleitungen - Ladesystem</tu>
+	<tu xmlns:lang="ita">Alimentazioni di carica</tu>
+	<tu xmlns:lang="jpn">チャージング電源供給</tu>
+	<tu xmlns:lang="ptg">Alimentação de carga.</tu>
+	<tu xmlns:lang="ptb">Alimentação de potência de carga.</tu>
+	<tu xmlns:lang="rus">Линии питания зарядки.</tu>
+	<tu xmlns:lang="esp">Cargando alimentaciones de corriente</tu>
+	<tu xmlns:lang="chs">充电供电。</tu>
+	<tu xmlns:lang="kor">충전 전력 공급.</tu>
+</tm>

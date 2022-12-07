@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FEDERAL_VEHICLE_QUESTION">
+	<tu xmlns:lang="eng">Is the vehicle Federal market specification?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Betreft het een voertuig met een specificatie voor de federale markt?</tu>
+	<tu xmlns:lang="fra">Le véhicule est-il aux normes du marché fédéral ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Handelt es sich um ein Fahrzeug für den US-amerikanischen Markt?</tu>
+	<tu xmlns:lang="ita">Il veicolo è specificato per il mercato federale?</tu>
+	<tu xmlns:lang="jpn">車両は連邦市場仕様ですか？</tu>
+	<tu xmlns:lang="ptg">O veículo tem especificações para mercado federal?</tu>
+	<tu xmlns:lang="ptb">O veículo Federal é de especificação do mercado?</tu>
+	<tu xmlns:lang="rus">Автомобиль предназначен для федерального рынка США?</tu>
+	<tu xmlns:lang="esp">¿Es el vehículo de especificación estadounidense?</tu>
+	<tu xmlns:lang="chs">车辆是否为联邦（Federal）市场规格？</tu>
+	<tu xmlns:lang="kor">차량이 연방 시장 사양을 준수합니까?</tu>
+</tm>

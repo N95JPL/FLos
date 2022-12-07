@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart59">
+	<tu
+    xmlns:lang="eng"
+  >A battery monitoring system control module fault has been reported by the gateway module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is een storing in de regelmodule van het accucontrolesysteem gemeld door de gatewaymodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module passerelle a signalé un défaut du module de commande du système de surveillance de la batterie.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ein Fehler des Batterieüberwachungssystem-Steuergeräts wurde durch das Gateway-Modul gemeldet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo gateway ha segnalato un guasto al modulo di comando del sistema di monitoraggio batteria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ゲートウェイ モジュールによりバッテリー モニタリング システム コントロール モジュールの故障が報告されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Foi comunicada uma avaria no módulo de controlo do sistema de monitorização da bateria pelo módulo de Gateway.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma falha no módulo de controle do sistema de monitoramento da bateria foi reportada pelo módulo de gateway.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Межсетевой блок сообщает о неисправности блока системы контроля аккумуляторной батареи.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo de gateway ha notificado un fallo del módulo del sistema de control de la batería.</tu>
+	<tu xmlns:lang="chs">网关模式已报告蓄电池监测系统控制模块故障。</tu>
+	<tu
+    xmlns:lang="kor"
+  >게이트웨이 모듈에서 배터리 모니터링 시스템 컨트롤 모듈 고장을 알려주었습니다.</tu>
+</tm>

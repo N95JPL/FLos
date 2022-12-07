@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ELECTRO_ROAD_PRIC">
+	<tu xmlns:lang="eng">Electronic road pricing</tu>
+	<tu xmlns:lang="nld">Elektronisch rekening rijden</tu>
+	<tu xmlns:lang="fra">Péage électronique</tu>
+	<tu xmlns:lang="deu">Elektronische Mautstellenerkennung</tu>
+	<tu xmlns:lang="ita">Sistema di pedaggio elettronico</tu>
+	<tu xmlns:lang="jpn">エレクトロニック ロード プライシング</tu>
+	<tu
+    xmlns:lang="ptg"
+  >'Road Pricing' (taxas de utilização associadas à circulação automóvel) electrónico</tu>
+	<tu xmlns:lang="ptb">Tarifação eletrônica de circulação</tu>
+	<tu xmlns:lang="rus">Электронная система оплаты дорожных сборов (ERP)</tu>
+	<tu xmlns:lang="esp">Cálculo electrónico de peaje</tu>
+	<tu xmlns:lang="chs">公路电子计价</tu>
+	<tu xmlns:lang="kor">전자식 도로 통행료 징수 시스템</tu>
+</tm>

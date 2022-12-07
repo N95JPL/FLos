@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GPS_NOT_FIT">
+	<tu xmlns:lang="eng">Global positioning system not fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is geen globaal plaatsbepalingssysteem geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Système de positionnement global non installé.</tu>
+	<tu xmlns:lang="deu">Globales Positionierungssystem nicht eingebaut.</tu>
+	<tu xmlns:lang="ita">GPS non in dotazione.</tu>
+	<tu xmlns:lang="jpn">GPS システム非装備</tu>
+	<tu xmlns:lang="ptg">Sistema de Posicionamento Global não instalado.</tu>
+	<tu xmlns:lang="ptb">Sistema de posicionamento global não instalado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Глобальная система позиционирования (GPS) не установлена.</tu>
+	<tu xmlns:lang="esp">No tiene sistema de posicionamiento global.</tu>
+	<tu xmlns:lang="chs">全球定位系统未安装。</tu>
+	<tu xmlns:lang="kor">글로벌 포지셔닝 시스템이 장착되지 않음</tu>
+</tm>

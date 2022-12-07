@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_ROLE">
+	<tu xmlns:lang="eng">Role</tu>
+	<tu xmlns:lang="nld">Rol</tu>
+	<tu xmlns:lang="fra">Rôle</tu>
+	<tu xmlns:lang="deu">Rolle</tu>
+	<tu xmlns:lang="ita">Ruolo</tu>
+	<tu xmlns:lang="jpn">ロール</tu>
+	<tu xmlns:lang="ptg">Função</tu>
+	<tu xmlns:lang="ptb">Função</tu>
+	<tu xmlns:lang="rus">Роль</tu>
+	<tu xmlns:lang="esp">Función</tu>
+	<tu xmlns:lang="chs">功能</tu>
+	<tu xmlns:lang="kor">역할</tu>
+</tm>

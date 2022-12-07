@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ThisIsAchFolSteps$M">
+	<tu xmlns:lang="eng">This is achieved by performing the following steps.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt dit bereiken door de nu volgende stappen uit te voeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cela est obtenu par l'exécution des opérations suivantes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dies wird durch Durchführen der folgenden Arbeitsschritte erreicht.</tu>
+	<tu xmlns:lang="ita">Per farlo, effettuare le seguenti operazioni.</tu>
+	<tu xmlns:lang="jpn">次のステップにより実行されます。</tu>
+	<tu xmlns:lang="ptg">Isto é obtido efectuando os seguintes passos.</tu>
+	<tu xmlns:lang="ptb">Isso é obtido executando as etapas a seguir.</tu>
+	<tu xmlns:lang="rus">Для этого выполните следующие действия.</tu>
+	<tu xmlns:lang="esp">Esto se logra realizando los pasos siguientes.</tu>
+	<tu xmlns:lang="chs">这是通过执行下列步骤实现的。</tu>
+	<tu xmlns:lang="kor">이 과정은 다음 단계를 통해 확인할 수 있습니다.</tu>
+</tm>

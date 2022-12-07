@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BAT_STATUS_MONITOR">
+	<tu xmlns:lang="eng">Battery status monitoring</tu>
+	<tu xmlns:lang="nld">Controle van accustatus</tu>
+	<tu xmlns:lang="fra">Contrôle de l'état de la batterie</tu>
+	<tu xmlns:lang="deu">Batteriestatusüberwachung</tu>
+	<tu xmlns:lang="ita">Monitoraggio dello stato della batteria</tu>
+	<tu xmlns:lang="jpn">バッテリ ステータスのモニタリング</tu>
+	<tu xmlns:lang="ptg">Monitorização do estado da bateria</tu>
+	<tu xmlns:lang="ptb">Monitoramento de status da bateria</tu>
+	<tu xmlns:lang="rus">Контроль состояния аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Control del estado de la batería</tu>
+	<tu xmlns:lang="chs">蓄电池状态监测</tu>
+	<tu xmlns:lang="kor">배터리 상태 모니터링</tu>
+</tm>

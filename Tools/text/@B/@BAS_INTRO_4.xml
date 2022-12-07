@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_INTRO_4">
+	<tu
+    xmlns:lang="eng"
+  >To cater for this the sensitivity of the system can be reduced by adjusting the threshold at which the hydraulic brake assistance is activated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt dit verhelpen door de gevoeligheid van het systeem te verminderen door de drempelwaarde aan te passen, waarbij de hydraulische rembekrachtiging geactiveerd wordt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour contrer cet effet, la sensibilité du système peut être réduite en réglant le seuil d'activation de l'assistance au freinage hydraulique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um dem Rechnung zu tragen, kann die Ansprechempfindlichkeit des Systems herabgesetzt werden, indem der Schwellenwert verändert wird, ab dem der hydraulische Bremskraftverstärker eingreift.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per rimediare a ciò, la sensibilità del sistema può essere ridotta regolando la soglia di attivazione del servofreno idraulico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これに対処するため、ハイドロリック ブレーキ アシストが作動を始める規定値を調整することにより、システムの感度を低減させることができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para ir ao encontro destas necessidades, pode reduzir-se a sensibilidade do sistema alterando o limiar a partir do qual a assistência à travagem hidráulica é activada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para este, a sensibilidade do sistema pode ser reduzida ajustando-se o limite em que a assistência do freio hidráulico é ativada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для соответствия этому значению чувствительность системы может быть сокращена путем регулировки порогового значения, при котором активируется гидравлическая помощь при торможении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para hacer frente a ello se puede reducir la sensibilidad del sistema mediante el ajuste del valor umbral al que se activa la asistencia hidráulica al freno.</tu>
+	<tu
+    xmlns:lang="chs"
+  >为了迎合这一点，可通过调节液压制动辅助系统启动的门限值来降低系统的敏感度。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이를 위해 유압 브레이크 보조 장치가 작동되는 임계값을 조정하여 시스템의 감도를 줄일 수 있습니다.</tu>
+</tm>

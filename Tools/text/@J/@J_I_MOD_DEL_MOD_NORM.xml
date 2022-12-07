@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOD_DEL_MOD_NORM">
+	<tu xmlns:lang="eng">Module delivery mode  -  Normal</tu>
+	<tu xmlns:lang="nld">Moduletoevoerfunctie  -  Normaal</tu>
+	<tu xmlns:lang="fra">Mode de livraison du module.  -  Normal</tu>
+	<tu xmlns:lang="deu">Steuergerät-Auslieferungsmodus  -  Normal</tu>
+	<tu xmlns:lang="ita">Modalità di consegna modulo  -  Normale</tu>
+	<tu xmlns:lang="jpn">モジュール デリバリ モード  －  ノーマル</tu>
+	<tu xmlns:lang="ptg">Modo de alimentação do módulo  -  Normal</tu>
+	<tu xmlns:lang="ptb">Modo de fornecimento do módulo  -  Normal</tu>
+	<tu xmlns:lang="rus">Транспортный режим модуля  -  Нормальный</tu>
+	<tu xmlns:lang="esp">Modo de entrega del módulo  -  Normal</tu>
+	<tu xmlns:lang="chs">模块发车模式  -  常态</tu>
+	<tu xmlns:lang="kor">모듈 배송 모드  -  일반</tu>
+</tm>

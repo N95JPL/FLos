@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_CCM_02">
+	<tu
+    xmlns:lang="eng"
+  >Therefore, when self test routine executed, the radar is forced to radiate and scan.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer de zelftestroutine wordt uitgevoerd, is de radar derhalve gedwongen te stralen en te scannen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Par conséquent, lorsque le programme d'autodiagnostic est exécuté, le radar est forcé d'émettre un rayonnement et de balayer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Daher wird bei Ausführung des Selbsttests das Radar zum Senden und Abtasten gezwungen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pertanto, l'esecuzione della procedura di autodiagnosi provoca il funzionamento forzato del radar.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このため、セルフテスト ルーチンが実行されるときには、レーダーは強制的に電波を発射させられスキャンを行います。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Por conseguinte, quando a rotina de autoteste é executada, o radar é obrigado a transmitir e a analisar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Portanto, quando a rotina de autoteste é executada, o radar é forçado a irradiar e a fazer a varredura.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Поэтому по окончании процедуры самопроверки, радар принудительно излучает и сканирует.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Por lo tanto, cuando se ejecuta la rutina de autocomprobación, se obliga al radar a irradiar y explorar.</tu>
+	<tu xmlns:lang="chs">'因此，在执行了自检程序后，雷达被强制发射及扫描。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >따라서 자체 테스트 루틴 실행 시 레이더가 강제로 방출 및 스캔을 수행합니다.</tu>
+</tm>

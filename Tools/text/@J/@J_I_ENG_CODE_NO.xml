@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENG_CODE_NO">
+	<tu xmlns:lang="eng">English with number codes.</tu>
+	<tu xmlns:lang="nld">Engels met nummercodes.</tu>
+	<tu xmlns:lang="fra">Anglais avec codes chiffrés.</tu>
+	<tu xmlns:lang="deu">Englisch mit Nummerncodes.</tu>
+	<tu xmlns:lang="ita">Inglese con codici numerici.</tu>
+	<tu xmlns:lang="jpn">ナンバー コード付き英語</tu>
+	<tu xmlns:lang="ptg">Inglês com códigos de números.</tu>
+	<tu xmlns:lang="ptb">Inglês com código de número.</tu>
+	<tu xmlns:lang="rus">Английский с кодовыми номерами.</tu>
+	<tu xmlns:lang="esp">Inglés con códigos numéricos.</tu>
+	<tu xmlns:lang="chs">带数字码的英语。</tu>
+	<tu xmlns:lang="kor">영어(숫자 코드 포함)</tu>
+</tm>

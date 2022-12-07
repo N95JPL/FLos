@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CURRENT_VEHICLE_INFO">
+	<tu xmlns:lang="eng">Current vehicle information</tu>
+	<tu xmlns:lang="nld">Informatie over huidig voertuig</tu>
+	<tu xmlns:lang="fra">Informations actuelles du véhicule</tu>
+	<tu xmlns:lang="deu">Aktuelle Fahrzeuginformationen</tu>
+	<tu xmlns:lang="ita">Informazioni sulla vettura corrente</tu>
+	<tu xmlns:lang="jpn">現在の車両情報</tu>
+	<tu xmlns:lang="ptg">Informação actual do veículo</tu>
+	<tu xmlns:lang="ptb">Informações atuais do veículo</tu>
+	<tu xmlns:lang="rus">Действующие Сведения об автомобиле</tu>
+	<tu xmlns:lang="esp">Información actual del vehículo</tu>
+	<tu xmlns:lang="chs">当前车辆信息</tu>
+	<tu xmlns:lang="kor">현재 차량 정보</tu>
+</tm>

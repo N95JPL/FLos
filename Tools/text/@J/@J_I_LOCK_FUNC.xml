@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOCK_FUNC">
+	<tu xmlns:lang="eng">Lock functionality</tu>
+	<tu xmlns:lang="nld">Werking van slot</tu>
+	<tu xmlns:lang="fra">Fonctionnement du verrouillage</tu>
+	<tu xmlns:lang="deu">Verriegelungs-Funktionalität</tu>
+	<tu xmlns:lang="ita">Funzionalità bloccaggio</tu>
+	<tu xmlns:lang="jpn">ロック機能\</tu>
+	<tu xmlns:lang="ptg">Funcionalidade de trancagem</tu>
+	<tu xmlns:lang="ptb">Bloquear funcionalidade</tu>
+	<tu xmlns:lang="rus">Функционирование замка</tu>
+	<tu xmlns:lang="esp">Funcionamiento del bloqueo</tu>
+	<tu xmlns:lang="chs">锁定功能</tu>
+	<tu xmlns:lang="kor">잠금 기능</tu>
+</tm>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_1D">
+	<tu
+    xmlns:lang="eng"
+  >General electrical failure - circuit current out of range.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Algemeen elektrisch defect - circuitstroomsterkte buiten het bereik.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Panne électrique générale - courant de circuit hors limites.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Allgemeine Elektrikstörung - Strom im Stromkreis außerhalb des Bereichs.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto elettrico generale - corrente circuito fuori campo.</tu>
+	<tu xmlns:lang="jpn">一般エレクトリカル故障 － サーキット電流、範囲外</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha eléctrica geral - corrente do circuito fora da gama.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha elétrica geral - corrente do circuito fora do intervalo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электрическая неисправность общего характера - значение силы тока в цепи находится за пределами допустимого диапазона.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo eléctrico general: corriente del circuito fuera de límites.</tu>
+	<tu xmlns:lang="chs">一般电气故障 - 电路电流超出范围。</tu>
+	<tu xmlns:lang="kor">일반적인 전기적 고장 - 회로 전류가 범위를 벗어남</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VID">
+	<tu xmlns:lang="eng">Vehicle identification number</tu>
+	<tu xmlns:lang="nld">Voertuigidentificatienummer</tu>
+	<tu xmlns:lang="fra">Numéro d'identification du véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Identifizierungsnummer</tu>
+	<tu xmlns:lang="ita">Numero identificazione veicolo</tu>
+	<tu xmlns:lang="jpn">車両 ID ナンバー</tu>
+	<tu xmlns:lang="ptg">Número de identificação do veículo</tu>
+	<tu xmlns:lang="ptb">Número de identificação do veículo</tu>
+	<tu xmlns:lang="rus">Идентификационный номер автомобиля</tu>
+	<tu xmlns:lang="esp">Número de identificación del vehículo</tu>
+	<tu xmlns:lang="chs">车辆标识号码</tu>
+	<tu xmlns:lang="kor">차량 식별 번호</tu>
+</tm>

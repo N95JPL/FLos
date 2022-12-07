@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_COMPLETE_VEHICLE">
+	<tu xmlns:lang="eng">100-00 Complete vehicle</tu>
+	<tu xmlns:lang="nld">100-00 Hele voertuig</tu>
+	<tu xmlns:lang="fra">100-00 Véhicule complet</tu>
+	<tu xmlns:lang="deu">100-00 Komplettes Fahrzeug</tu>
+	<tu xmlns:lang="ita">100-00 Veicolo completo</tu>
+	<tu xmlns:lang="jpn">100-00 車両全体</tu>
+	<tu xmlns:lang="ptg">100-00 Veículo completo</tu>
+	<tu xmlns:lang="ptb">100-00 Veículo completo</tu>
+	<tu xmlns:lang="rus">100-00 Весь автомобиль</tu>
+	<tu xmlns:lang="esp">100-00 Vehículo completo</tu>
+	<tu xmlns:lang="chs">100-00整车</tu>
+	<tu xmlns:lang="kor">100-00 완성 차량</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_CRITICAL_LAMPS">
+	<tu xmlns:lang="eng">Major warning lamps</tu>
+	<tu xmlns:lang="nld">Primaire waarchuwingslampjes</tu>
+	<tu xmlns:lang="fra">Lampes principales d'avertissement</tu>
+	<tu xmlns:lang="deu">Hauptwarnleuchten</tu>
+	<tu xmlns:lang="ita">Spie principali</tu>
+	<tu xmlns:lang="jpn">メジャー警告</tu>
+	<tu xmlns:lang="ptg">Luzes de aviso principais</tu>
+	<tu xmlns:lang="ptb">Luzes de aviso principais</tu>
+	<tu xmlns:lang="rus">Основные сигнальные индикаторы</tu>
+	<tu xmlns:lang="esp">Testigos principales</tu>
+	<tu xmlns:lang="chs">主报警灯</tu>
+	<tu xmlns:lang="kor">주요 경고등</tu>
+</tm>

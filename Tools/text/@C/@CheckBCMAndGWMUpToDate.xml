@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckBCMAndGWMUpToDate">
+	<tu
+    xmlns:lang="eng"
+  >Make sure that the body control module and Gateway module assembly software is up to date.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat de software van de carrosserieregelmodule/gatewaymodule is bijgewerkt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'assurer que le logiciel de l'ensemble module de commande de carrosserie et module passerelle est à jour.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Software des Karosseriesteuergeräts und des Gateway-Moduls auf dem aktuellen Stand ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che il software del complessivo modulo di comando carrozzeria e modulo gateway sia aggiornato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ボディ コントロール モジュールとゲートウェイ モジュール アッセンブリ ソフトウェアが最新であることを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o software do conjunto do módulo de controlo da carroçaria e do módulo de Gateway está atualizado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o software do conjunto do módulo de controle da carroceria e módulo do gateway está atualizado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что программное обеспечение блока управления системами кузова и межсетевого блока в сборе обновлено.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que el software del conjunto de módulo de control de la carrocería y módulo de gateway está actualizado.</tu>
+	<tu xmlns:lang="chs">确保车身控制模块与网关模块总成的软件为最新。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차체 컨트롤 모듈 및 게이트웨이 모듈 어셈블리 소프트웨어가 최신 상태인지 확인하십시오.</tu>
+</tm>

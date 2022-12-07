@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@UploadCCF$T">
+	<tu xmlns:lang="eng">Upload the vehicle configuration file.</tu>
+	<tu xmlns:lang="nld">Verstuur het voertuigconfiguratiebestand.</tu>
+	<tu xmlns:lang="fra">Téléchargez le fichier de configuration du véhicule.</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Konfigurationsdatei hochladen.</tu>
+	<tu xmlns:lang="ita">Caricare il file di configurazione veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション ファイルをアップロードします。</tu>
+	<tu xmlns:lang="ptg">Carregar o ficheiro de configuração do veículo.</tu>
+	<tu xmlns:lang="ptb">Faça o upload do arquivo de configuração de veículo.</tu>
+	<tu xmlns:lang="rus">Выгрузить файл конфигурации автомобиля.</tu>
+	<tu xmlns:lang="esp">Cargar el archivo de configuración del vehículo.</tu>
+	<tu xmlns:lang="chs">上传车辆配置文件。</tu>
+	<tu xmlns:lang="kor">차량 구성 파일을 업로드하십시오.</tu>
+</tm>

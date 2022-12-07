@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AirSuspHeightCal$M">
+	<tu xmlns:lang="eng">Air suspension height calibration.</tu>
+	<tu xmlns:lang="nld">Kalibrering van luchtveringshoogte.</tu>
+	<tu xmlns:lang="fra">Etalonnage de la hauteur de suspension pneumatique.</tu>
+	<tu xmlns:lang="deu">Fahrhöhen-Kalibrierung Luftfederung.</tu>
+	<tu xmlns:lang="ita">Taratura altezza sospensione pneumatica.</tu>
+	<tu xmlns:lang="jpn">エア サスペンション ハイト キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem da altura da suspensão pneumática.</tu>
+	<tu xmlns:lang="ptb">Calibração de altura da suspensão a ar.</tu>
+	<tu xmlns:lang="rus">Калибровка высоты пневматической подвески.</tu>
+	<tu xmlns:lang="esp">Calibración de altura de la suspensión neumática.</tu>
+	<tu xmlns:lang="chs">空气悬架高度标定。</tu>
+	<tu xmlns:lang="kor">에어 서스펜션 높이 보정</tu>
+</tm>

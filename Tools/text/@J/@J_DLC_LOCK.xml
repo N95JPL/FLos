@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_LOCK">
+	<tu xmlns:lang="eng">Lock</tu>
+	<tu xmlns:lang="nld">Vergrendelen</tu>
+	<tu xmlns:lang="fra">Verrouiller</tu>
+	<tu xmlns:lang="deu">Verriegeln</tu>
+	<tu xmlns:lang="ita">Bloccare</tu>
+	<tu xmlns:lang="jpn">ロック</tu>
+	<tu xmlns:lang="ptg">Bloqueio</tu>
+	<tu xmlns:lang="ptb">Travamento</tu>
+	<tu xmlns:lang="rus">Замок</tu>
+	<tu xmlns:lang="esp">Bloquear</tu>
+	<tu xmlns:lang="chs">锁定</tu>
+	<tu xmlns:lang="kor">록</tu>
+</tm>

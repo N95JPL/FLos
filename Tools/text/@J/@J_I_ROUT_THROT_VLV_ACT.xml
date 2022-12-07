@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_THROT_VLV_ACT">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required when a throttle valve actuator is replaced to allow the offset learn to be calculated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig wanneer u een gasklepactuator vervangt, zodat het systeem de afwijking voor het inleren kan berekenen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé lorsqu'un actionneur de clapet du papillon est remplacé pour permettre le calcul du déport.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, wenn ein Drosselklappen-Stellmotor ersetzt wird, damit die Versatzerlernung berechnet werden kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta quando si sostituisce un attuatore della valvola a farfalla per consentire il calcolo di apprendimento offset.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、スロットル バルブ アクチュエータが交換されたとき、オフセット学習値を計算するために必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária quando se substitui um actuador da válvula do acelerador para permitir o cálculo do valor de compensação a ser aplicado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária quando um atuador da válvula do acelerador é substituído para permitir que a compensação aprenda a ser calculada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция необходима при замене привода дроссельной заслонки для расчета значения поправки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse al sustituir el actuador de la mariposa para que pueda calcularse la corrección necesaria.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果更换了节流阀启动器，则需要执行本程序以计算补偿学习值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >오프셋 학습을 계산할 수 있도록 하기 위해 스로틀 밸브 액추에이터를 교체할 때 이 루틴이 필요합니다.</tu>
+</tm>

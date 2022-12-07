@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HeighMeasExcOut$I">
+	<tu
+    xmlns:lang="eng"
+  >The height measurements are excessively outside of the required tolerance.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De hoogtemetingen liggen ver buiten de vereiste tolerantie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les mesures de hauteur dépassent largement les tolérances requises.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Höhenmessungen liegen in erheblichem Umfang außerhalb der Toleranzgrenzen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'altezza è eccessivamente al di fuori della tolleranza richiesta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ハイト (高さ) の測定値は必要とされる許容範囲を過度に外れています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os valores da altura estão excessivamente fora da tolerância exigida.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As medidas de altura estão excessivamente fora da tolerância necessária.</tu>
+	<tu xmlns:lang="rus">Высота значительно выходит за пределы допусков.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las medidas de altura se encuentran muy por fuera de la tolerancia exigida.</tu>
+	<tu xmlns:lang="chs">高度测量值过多超出要求的公差。</tu>
+	<tu xmlns:lang="kor">높이 측정치가 요구되는 공차 범위를 크게 벗어납니다.</tu>
+</tm>

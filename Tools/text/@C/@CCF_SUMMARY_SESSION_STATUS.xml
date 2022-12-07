@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_SUMMARY_SESSION_STATUS">
+	<tu xmlns:lang="eng">Car configuration status</tu>
+	<tu xmlns:lang="nld">Voertuigconfiguratiestatus</tu>
+	<tu xmlns:lang="fra">Etat de la configuration du véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeugkonfiguration - Status</tu>
+	<tu xmlns:lang="ita">Stato configurazione veicolo</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション ステータス</tu>
+	<tu xmlns:lang="ptg">Estado da configuração do veículo</tu>
+	<tu xmlns:lang="ptb">Status da configuração do carro</tu>
+	<tu xmlns:lang="rus">Состояние конфигурации автомобиля</tu>
+	<tu xmlns:lang="esp">Estado de configuración del vehículo</tu>
+	<tu xmlns:lang="chs">车辆配置状态</tu>
+	<tu xmlns:lang="kor">차량 구성 상태</tu>
+</tm>

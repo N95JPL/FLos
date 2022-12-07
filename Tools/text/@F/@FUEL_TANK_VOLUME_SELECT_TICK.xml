@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FUEL_TANK_VOLUME_SELECT_TICK">
+	<tu xmlns:lang="eng">Select fuel tank volume, then press tick to continue</tu>
+	<tu
+    xmlns:lang="nld"
+  >Selecteer eerst de inhoud van de brandstoftank en druk daarna op de afvinktoets om verder te gaan</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélectionnez le volume du réservoir de carburant, et appuyez sur la coche pour continuer</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kraftstofftank-Fassungsvermögen auswählen, zum Fortfahren das Häkchen antippen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezionare il volume del serbatoio carburante, quindi premere il tasto di spunta per continuare</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フューエル タンク容量を選択し、ティックを押して続行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccione o volume do depósito de combustível e premir o visto para continuar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Selecione o volume do tanque de combustível, e, em seguida, pressione OK para continuar</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выберите емкость топливного бака и нажмите 'галочку' для продолжения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccionar el volumen del depósito de combustible y pulsar el botón de continuar</tu>
+	<tu xmlns:lang="chs">选择燃油罐容量，然后按下勾选键继续</tu>
+	<tu
+    xmlns:lang="kor"
+  >연료 탱크 용량을 선택한 다음, 계속하려면 체크 표시를 누르십시오.</tu>
+</tm>

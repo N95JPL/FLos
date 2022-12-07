@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TDWS_FIT">
+	<tu xmlns:lang="eng">Tire deflation warning system is fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Waarschuwingssysteem voor leeglopen van banden is geïnstalleerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système d'avertissement de dégonflage des pneus installé.</tu>
+	<tu xmlns:lang="deu">Reifendruck-Überwachungssystem ist eingebaut.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema di avvertimento sgonfiaggio pneumatici in dotazione.</tu>
+	<tu xmlns:lang="jpn">タイヤ圧低下警告システム装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Está instalado sistema de aviso de esvaziamento dos pneus.</tu>
+	<tu xmlns:lang="ptb">Sistema de alerta de esvaziamento de pneus instalado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлена система сигнализации снижения давления в шинах.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tiene sistema de detección de la presión de los neumáticos.</tu>
+	<tu xmlns:lang="chs">轮胎泄气警告系统已安装。</tu>
+	<tu xmlns:lang="kor">타이어 감압 경고 시스템이 장착되었습니다.</tu>
+</tm>

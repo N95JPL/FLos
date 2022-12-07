@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_TYPE_08">
+	<tu xmlns:lang="eng">T4 43Ah 390 cold cranking ampere</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stroomsterkte bij aanslaan van motor bij koude start 390 A, T4 43Ah </tu>
+	<tu xmlns:lang="fra">T4 43 Ah 390 ampères au lancement à froid </tu>
+	<tu xmlns:lang="deu">T4 43 Ah 390 Kaltstartampere </tu>
+	<tu xmlns:lang="ita">Amperaggio avviamento a freddo T4 43Ah 390</tu>
+	<tu xmlns:lang="jpn">T4 43Ah 390 コールド クランキング アンペア</tu>
+	<tu xmlns:lang="ptg">T4 43Ah 390 amperagem de arranque a frio</tu>
+	<tu xmlns:lang="ptb">Amperagem de partida a frio T4 43Ah 390</tu>
+	<tu xmlns:lang="rus">T4 43 Ач, ток холодного пуска двигателя 390 А </tu>
+	<tu xmlns:lang="esp">T4 43Ah con 390 A de capacidad de arranque en frío</tu>
+	<tu xmlns:lang="chs">T4 43Ah 390 冷起动电流</tu>
+	<tu xmlns:lang="kor">T4 43Ah 390 냉간 크랭킹 암페어</tu>
+</tm>

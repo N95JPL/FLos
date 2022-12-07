@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_TEST_DETAIL_BRK_REL_DETAIL">
+	<tu
+    xmlns:lang="eng"
+  >The last stage of the test checks that the braking effort is released cleanly, with no sticking components.  It is exactly the same as stage 1, except that it will fail (with a different error) if a wheel speed of at least 2.5 kmh is not detected within 3 seconds.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij het laatste stadium van de test wordt gecontroleerd of de remwerking soepel wordt losgelaten, zonder dat er componenten blijven steken.  Het is precies hetzelfde als stap 1, behalve dat de test niet gehaald wordt (door een andere fout) als het systeem binnen 3 seconden geen wielsnelheid van minstens 2,5 km/uur detecteert.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La dernière étape du test contrôle le relâchement approprié de l'effort de freinage, sans aucun composant restant coincé.  Exactement pareil que pour l'étape 1, sauf qu'il y aura défaillance (avec une erreur différente) si une vitesse de route d'au moins 2,5 km/h n'est pas détectée dans les 3 secondes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Im letzten Abschnitt des Tests wird geprüft, ob der Bremsvorgang unbehindert abläuft und keine Bauteile festhängen.  Entspricht genau Stufe 1, abgesehen davon, dass der Test nicht erfolgreich bestanden wird (mit anderem Fehlercode), wenn innerhalb von 3 Sekunden nicht eine Radgeschwindigkeit von mindestens 2,5 km/h ermittelt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'ultima fase della prova controlla che la forza frenante sia rilasciata in modo regolare, senza inceppamento dei componenti.  Esattamente uguale alla fase 1, tranne che la prova non viene superata (con un errore diverso) se entro 3 secondi non viene rilevata una velocità della ruota di almeno 2,5 km/h.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テストの最終段階では制動力が完全にリリースされ固着コンポーネントがないかチェックされます。  3 秒以内に最低でも 2.5 km/h のホイール スピードが検出されない場合、(異なるエラーで) 失敗となる点以外は、ステージ 1 とまったく同じです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A última fase do teste destina-se a verificar se o esforço de travagem não tem impedimentos, ou seja, se não há componentes a prender.  É exactamente igual à fase 1, à excepção de que não será bem sucedido (com erro diferente) se não for detectada uma velocidade da roda de, pelo menos, 2,5 km/h no espaço de 3 segundos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A última etapa do teste verifica se o esforço de frenagem é liberado de forma limpa, sem emperrar os componentes.  Ele é exatamente como o estágio 1, exceto que ele irá falhar (com um erro diferente) se uma velocidade da roda de pelo menos 2,5 km/h não for detectada dentro de 3 segundos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На последнем этапе проверки выполняется проверка легкости снятия тормозного усилия без заклинивания компонентов.  Данный этап аналогичен этапу 1, за исключением того, что проверка будет считаться неуспешной (с другой ошибкой), если скорость вращения колеса равная 2,5 км/ч не будет развита в течение 3 секунд.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La última etapa de la prueba comprueba que el esfuerzo de frenado se reduzca sin que se atasque ningún componente.  Es idéntico a la etapa 1, excepto que fallará (con un error distinto) si no se detecta una velocidad de la rueda de al menos 2,5 km/h en el plazo de 3 segundos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'测试的最后阶段检查制动力是否干净释放，不存在任何粘滞元件。'  '如果在 3 秒内没有检测到一个不小于 2.5 kmh 的车轮速度，测试将失败（出现一个不同错误）；除了这一点外，它完全与第 1 阶段相同。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트의 마지막 단계에서는 고착 구성 요소 없이 제동력이 순조롭게 해제되는지 점검합니다.  3초 내에 2.5kmh 이상의 휠 속도가 감지되지 않으면 (다른 오류가 발생하면서) 실패한다는 점을 제외하면, 1단계와 정확히 동일합니다.</tu>
+</tm>

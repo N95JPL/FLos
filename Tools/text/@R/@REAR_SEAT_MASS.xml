@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@REAR_SEAT_MASS">
+	<tu xmlns:lang="eng">Rear seat massage movement</tu>
+	<tu xmlns:lang="nld">Massagebeweging van stoel achterin</tu>
+	<tu xmlns:lang="fra">Mouvement de massage du siège arrière</tu>
+	<tu xmlns:lang="deu">Rücksitz-Massagebewegung</tu>
+	<tu xmlns:lang="ita">Movimento massaggio sedile posteriore</tu>
+	<tu xmlns:lang="jpn">リア シート マッサージ作動</tu>
+	<tu xmlns:lang="ptg">Movimento de massagem do banco traseiro</tu>
+	<tu xmlns:lang="ptb">Movimentação do massageador do assento traseiro</tu>
+	<tu xmlns:lang="rus">Функция массажа на заднем сиденье</tu>
+	<tu xmlns:lang="esp">Movimiento de masaje del asiento trasero</tu>
+	<tu xmlns:lang="chs">后座椅按摩运动</tu>
+	<tu xmlns:lang="kor">후방 시트 마사지 작동</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_STRT_VEH_IDLE_20SEC">
+	<tu xmlns:lang="eng">Start the vehicle and allow it to idle for 20 seconds.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Start de motor en laat hem 20 seconden stationair lopen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Démarrez le véhicule et laissez le moteur tourner au ralenti pendant 20 secondes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Motor anlassen und 20 Sekunden lang mit Leerlaufdrehzahl laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Avviare il motore e farlo girare al minimo per 20 secondi.</tu>
+	<tu xmlns:lang="jpn">車両エンジンを始動し、20 秒間アイドリングさせなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligar o motor e deixar trabalhar ao ralenti por 20 segundos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Dê partida no veículo e deixe que ele funcione por 20 segundos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Завести автомобиль и дать двигателю поработать на холостом ходу в течение 20 секунд.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Arrancar el motor y dejarlo en ralentí durante 20 segundos.</tu>
+	<tu xmlns:lang="chs">启动车辆并使其怠速20秒。</tu>
+	<tu xmlns:lang="kor">시동을 걸고 20초간 공회전하도록 두십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERV_INT_7_30000_KM">
+	<tu xmlns:lang="eng">Service interval 7  -  30000 km</tu>
+	<tu xmlns:lang="nld">Onderhoudsinterval 7  -  30.000 km</tu>
+	<tu xmlns:lang="fra">Périodicité d'entretien 7  -  30000 km</tu>
+	<tu xmlns:lang="deu">Wartungsintervall 7  -  30000 km</tu>
+	<tu xmlns:lang="ita">Intervallo di servizio (tagliando) 7  -  30000 km</tu>
+	<tu xmlns:lang="jpn">サービス インターバル 7  －  30000 km</tu>
+	<tu xmlns:lang="ptg">Intervalo de revisão 7  -  30000 km</tu>
+	<tu xmlns:lang="ptb">Intervalo de Manutenção 7  -  30000 km</tu>
+	<tu xmlns:lang="rus">Интервал периодичности обслуживания 7  -  30000 км</tu>
+	<tu xmlns:lang="esp">Intervalo de servicio 7  -  30000 km</tu>
+	<tu xmlns:lang="chs">维护间隔时间 7  -  30000 公里</tu>
+	<tu xmlns:lang="kor">서비스 주기 7  -  30000km</tu>
+</tm>

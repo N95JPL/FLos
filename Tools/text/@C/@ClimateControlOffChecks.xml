@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ClimateControlOffChecks">
+	<tu
+    xmlns:lang="eng"
+  >If climate control is off; check for climate control, restraint control module and body control module (voltage quality module) associated DTCs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met de klimaatregeling uit; controleer op DTC's met betrekking tot klimaatregeling, regelmodule beveiligingssysteem voor inzittenden en carrosserieregelmodule (spanningskwaliteitmodule).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la commande de climatisation est coupée, rechercher les DTC associés à la climatisation, au module de commande des dispositifs de retenue et au module de commande de carrosserie (module de qualité de tension).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn die Klimaregelung ausgeschaltet ist, auf DTCs in Zusammenhang mit der Klimaregelung, dem Rückhaltesystem-Steuergerät und dem Karosseriesteuergerät (Spannungsqualitätsmodul) prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se il comando della climatizzazione è disattivato; controllare la presenza di eventuali DTC associati al comando della climatizzazione, al modulo di comando sistema di sicurezza occupanti e al modulo di comando carrozzeria (modulo per la qualità della tensione).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >クライメート コントロールがオフの場合、クライメート コントロール、拘束コントロール モジュール、およびボディ コントロール モジュール (電圧クオリティ モジュール) に関連する DTC がないか確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o controlo da climatização estiver desligado; verifique se existem códigos de avaria (DTC) associados ao controlo da climatização, ao módulo de controlo do sistema de segurança e ao módulo de controlo da carroçaria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se controle de temperatura estiver desligado; verifique se há DTCs associados ao controle de temperatura, ao módulo de controle de segurança e ao módulo de controle da carroceria (módulo de qualidade da tensão).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если климат-контроль выключен, проверьте наличие кодов DTC, относящихся к климат-контролю, блоку управления системой пассивной безопасности и блоку управления системами кузова (блок контроля качества напряжения).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el sistema de climatización está apagado, compruebe si hay DTC asociados con el sistema de climatización, el módulo de control de los sistemas de retención y el módulo de control de la carrocería (módulo de calidad de la tensión).</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果气候控制已关闭；检查是否存在与气候控制模块、约束控制模块和车身控制模块（电压质量模块）相关的 DTC。</tu>
+	<tu
+    xmlns:lang="kor"
+  >실내 온도 조절 시스템이 꺼진 경우 실내 온도 조절 시스템, 에어백 컨트롤 모듈 및 차체 컨트롤 모듈(전압 품질 모듈) 관련 DTC가 있는지 확인하십시오.</tu>
+</tm>

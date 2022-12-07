@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MIR_SIG_IND">
+	<tu xmlns:lang="eng">Mirror mounted turn signal</tu>
+	<tu xmlns:lang="nld">Richtingaanwijzer in buitenspiegel</tu>
+	<tu
+    xmlns:lang="fra"
+  >Indicateur de direction incorporé dans les rétroviseurs</tu>
+	<tu xmlns:lang="deu">Blinkleuchte im Außenspiegel</tu>
+	<tu xmlns:lang="ita">Indicatore di direzione su specchietto</tu>
+	<tu xmlns:lang="jpn">ミラー マウント方向指示灯</tu>
+	<tu xmlns:lang="ptg">Indicador de mudança de direcção no retrovisor</tu>
+	<tu xmlns:lang="ptb">Sinal de seta no retrovisor</tu>
+	<tu xmlns:lang="rus">Устанавливаемый на зеркале указатель поворота</tu>
+	<tu xmlns:lang="esp">Intermitente montado en el retrovisor</tu>
+	<tu xmlns:lang="chs">安装于后视镜的转向信号灯</tu>
+	<tu xmlns:lang="kor">미러에 장착된 방향 지시등</tu>
+</tm>

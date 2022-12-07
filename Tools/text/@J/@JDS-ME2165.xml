@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-ME2165">
+	<tu xmlns:lang="eng">Volts</tu>
+	<tu xmlns:lang="nld">VOLT</tu>
+	<tu xmlns:lang="fra">VOLTS</tu>
+	<tu xmlns:lang="deu">VOLT</tu>
+	<tu xmlns:lang="ita">VOLT</tu>
+	<tu xmlns:lang="jpn">ﾎﾞルト (V)</tu>
+	<tu xmlns:lang="ptg">Volts</tu>
+	<tu xmlns:lang="ptb">Volts</tu>
+	<tu xmlns:lang="rus">Вольт</tu>
+	<tu xmlns:lang="esp">VOLTIOS</tu>
+	<tu xmlns:lang="chs">V</tu>
+	<tu xmlns:lang="kor">볼트</tu>
+</tm>

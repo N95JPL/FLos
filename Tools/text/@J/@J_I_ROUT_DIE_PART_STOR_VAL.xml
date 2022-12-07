@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_DIE_PART_STOR_VAL">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required when a diesel particle filter differential pressure sensor is replaced, this initializes any adjustment of the modules memory store values relating to the diesel particle filter.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig wanneer u een verschildruksensor van het dieseldeeltjesfilter vervangt. Hij zal eventuele aanpassingen in de in het modulegeheugen opgeslagen waarden m.b.t. het dieseldeeltjesfilter initialiseren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé lorsqu'un capteur de pression de différentiel du filtre à particules diesel est remplacé ; il permet l'initialisation de tous les réglages des valeurs enregistrées dans les mémoires des modules relatives au filtre à particules diesel.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, wenn der Differenzdrucksensor des Dieselrußfilters ersetzt wird; hierdurch werden Anpassungen gespeicherter Steuergerätewerte bezüglich des Dieselrußfilters initialisiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta quando si sostituisce un sensore di pressione differenziale filtro antiparticolato per diesel, per inizializzare tutte le regolazioni dei valori memorizzati nei moduli relativi al filtro antiparticolato per diesel.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、ディーゼル微粒子フィルター (DPF) 差圧センサーが交換されたときに必要であり、ディーゼル微粒子フィルターに関連したモジュール メモリ保存数値の調整を初期化します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária quando se substitui um sensor de pressão diferencial do filtro de partículas do sistema Diesel; inicializa todas as regulações dos valores relacionados com o filtro de partículas do sistema Diesel gravados na memória dos módulos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária quando um sensor de pressão diferencial do filtro de partículas de diesel for substituído, isso inicializa qualquer ajuste dos valores armazenados dos módulos de memória relativos ao filtro de partículas de diesel.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данный процесс необходим при замене датчика перепада давления противосажевого фильтра и используется для инициализации изменения любых значений, которые сохранены в памяти блоков и относятся к противосажевому фильтру.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse al sustituir un sensor de presión diferencial del filtro de partículas Diesel; esto inicializa todo ajuste de los valores memorizados en el módulo que estén relacionados con el filtro de partículas Diesel.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果更换了柴油微粒过滤器差动压力传感器，则需要执行本程序，该程序初始化与柴油微粒过滤器有关的模块存储器值的任何调整。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 디젤 미립자 필터 디퍼렌셜 압력 센서를 교체할 때 필요하고, 디젤 미립자 필터와 관련된 모듈 메모리 저장소 값의 모든 조정을 초기화합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KEY_OPTION_PERSONALISE">
+	<tu xmlns:lang="eng">Key driven option personalisation</tu>
+	<tu xmlns:lang="nld">Persoonlijke voorkeur, door sleutel gestuurde optie</tu>
+	<tu xmlns:lang="fra">Personnalisation des options induites par la clé</tu>
+	<tu xmlns:lang="deu">Schlüsselgesteuerte Personalisierungsoptionen</tu>
+	<tu xmlns:lang="ita">Personalizzazione opzione azionata da chiave</tu>
+	<tu xmlns:lang="jpn">キー駆動オプション個人設定</tu>
+	<tu xmlns:lang="ptg">Personalização de opção accionada por chave</tu>
+	<tu xmlns:lang="ptb">Personalização de opção acionada por chave</tu>
+	<tu xmlns:lang="rus">Персонализация опций от ключей</tu>
+	<tu xmlns:lang="esp">Personalización de opciones accionadas por la llave</tu>
+	<tu xmlns:lang="chs">钥匙驱动选项个性化</tu>
+	<tu xmlns:lang="kor">키 구동 옵션 개인화</tu>
+</tm>

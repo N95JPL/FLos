@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOCK_DOORS">
+	<tu xmlns:lang="eng">With locking  with open doors</tu>
+	<tu xmlns:lang="nld">Met vergrendeling met geopende portieren</tu>
+	<tu xmlns:lang="fra">Avec verrouillage portes ouvertes</tu>
+	<tu xmlns:lang="deu">Mit Verriegelung bei geöffneten Türen</tu>
+	<tu xmlns:lang="ita">Con bloccaggio con portiere aperte</tu>
+	<tu xmlns:lang="jpn">ドアが開いた状態でのロッキング可</tu>
+	<tu xmlns:lang="ptg">Com fecho com as portas abertas</tu>
+	<tu xmlns:lang="ptb">Com travamento com portas abertas</tu>
+	<tu xmlns:lang="rus">С запиранием при открытых дверях</tu>
+	<tu xmlns:lang="esp">Con bloqueo con puertas abiertas</tu>
+	<tu xmlns:lang="chs">有车门开启锁定</tu>
+	<tu xmlns:lang="kor">도어가 열린 상태에서 잠금 포함</tu>
+</tm>

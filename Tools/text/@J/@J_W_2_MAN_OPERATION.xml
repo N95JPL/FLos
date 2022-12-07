@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_W_2_MAN_OPERATION">
+	<tu
+    xmlns:lang="eng"
+  >On-road testing must be performed as a two man operation.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Proefritten op de openbare weg moeten door twee monteurs worden uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les essais sur route doivent être réalisés par deux personnes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Prüfungen während Probefahrten sind von zwei Personen durchzuführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il collaudo su strada deve essere eseguito da due persone.</tu>
+	<tu xmlns:lang="jpn">必ず２人の作業者でオンロード テストを実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O teste de estrada tem de ser efectuado por dois técnicos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Testes na estrada devem ser realizados por duas pessoas.</tu>
+	<tu xmlns:lang="rus">Ходовые проверки необходимо выполнять с помощником.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La prueba en carretera la deben llevar a cabo dos personas.</tu>
+	<tu xmlns:lang="chs">必须以两个人操作的方式执行路试。</tu>
+	<tu xmlns:lang="kor">두 사람이 함께 온로드 테스트를 수행해야 합니다.</tu>
+</tm>

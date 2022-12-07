@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_PBM_04">
+	<tu
+    xmlns:lang="eng"
+  >The clutch sensor input is checked and should read 'fully released'.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De invoer van de koppelingssensor wordt gecontroleerd en moet 'niet ingetrapt' aangeven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'entrée du capteur d'embrayage est contrôlée et doit indiquer 'débrayage complet'.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Eingang vom Kupplungspedalsensor wird überprüft und sollte 'Vollständig freigegeben' lauten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Viene controllato il segnale inviato dal sensore della frizione, che deve essere di 'completo disinnesto'.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >クラッチ センサー インプットがチェックされ「完全リリース」を示すはずです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sinal de entrada do sensor da embraiagem é verificado e a sua leitura deverá ser 'completamente solto'.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A entrada do sensor da embreagem é verificada e deve indicar totalmente liberado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После этого считывается входной сигнал датчика сцепления, значение которого должно быть 'полностью разблокирован'.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se comprueba la señal de entrada del sensor del embrague, que debería ser 'totalmente desacoplado'.</tu>
+	<tu
+    xmlns:lang="chs"
+  >检查离合器传感器输入，应显示为‘fully released’（完全释放）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >클러치 센서 입력이 점검되고 '완전 해제됨'으로 표시되어야 합니다.</tu>
+</tm>

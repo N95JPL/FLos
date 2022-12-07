@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart98">
+	<tu
+    xmlns:lang="eng"
+  >Where no secondary battery information is displayed in the left column a midtronics battery test should be used to confirm the battery condition.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer er geen informatie over de secundaire accu in de linker kolom wordt weergegeven, moet een Midtronics-accutest worden gebruikt om de toestand van de accu te controleren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si aucune information sur la batterie secondaire ne s'affiche dans la colonne de gauche, un test de batterie Midtronics doit être réalisé pour confirmer l'état de la batterie.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn in der linken Spalte keine Informationen zur Sekundärbatterie angezeigt werden, sollte eine Midtronics-Batterieprüfung verwendet werden, um den Batteriezustand zu überprüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se non vengono visualizzate informazioni relative alla batteria secondaria nella colonna di sinistra, è necessario utilizzare un tester per batterie Midtronics per confermare la condizione della batteria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >左側の列にセカンダリ バッテリー情報が表示されない場合は、Midtronics バッテリー テストでバッテリーの状態を確認する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando não forem apresentadas informações sobre a bateria secundária na coluna do lado esquerdo, deve ser utilizado um teste da bateria Midtronics para confirmar a condição da bateria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Onde nenhuma informação da bateria secundária for exibida na coluna esquerda, um teste de bateria midtronics deve ser utilizado para confirmar a condição da bateria.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если данные о вспомогательной аккумуляторной батарее не отображаются в левой колонке, для проверки ее состояния необходимо использовать тестер Midtronics.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Debe utilizarse una prueba de la batería Midtronics para confirmar el estado de la batería si no se muestra información de la batería auxiliar en la columna de la izquierda.</tu>
+	<tu
+    xmlns:lang="chs"
+  >左栏中未显示辅助蓄电池信息时，应进行 Midtronics 蓄电池测试以确认蓄电池的状况。</tu>
+	<tu
+    xmlns:lang="kor"
+  >왼쪽 열에 아무런 보조 배터리 정보도 표시되지 않을 경우 Midtronics 배터리 테스트를 사용하여 배터리 상태를 확인해야 합니다.</tu>
+</tm>

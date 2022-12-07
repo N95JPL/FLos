@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERV_INT_10_10000_KM">
+	<tu xmlns:lang="eng">Service interval 10  -  10000 km</tu>
+	<tu xmlns:lang="nld">Onderhoudsinterval 10  -  10.000 km</tu>
+	<tu xmlns:lang="fra">Périodicité d'entretien 10  -  10000 km</tu>
+	<tu xmlns:lang="deu">Wartungsintervall 10  -  10000 km</tu>
+	<tu xmlns:lang="ita">Intervallo di servizio (tagliando) 10  -  10000 km</tu>
+	<tu xmlns:lang="jpn">サービス インターバル 10  －  10000 km</tu>
+	<tu xmlns:lang="ptg">Intervalo de revisão 10  -  10000 km</tu>
+	<tu xmlns:lang="ptb">Intervalo de Manutenção 10  -  10000 km</tu>
+	<tu xmlns:lang="rus">Интервал периодичности обслуживания 10  -  10000 км</tu>
+	<tu xmlns:lang="esp">Intervalo de servicio 10  -  10000 km</tu>
+	<tu xmlns:lang="chs">维护间隔时间 10  -  10000 公里</tu>
+	<tu xmlns:lang="kor">서비스 주기 10  -  10000km</tu>
+</tm>

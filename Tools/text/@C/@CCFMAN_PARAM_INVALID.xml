@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_PARAM_INVALID">
+	<tu xmlns:lang="eng">Parameter %s is invalid</tu>
+	<tu xmlns:lang="nld">Parameter %s is ongeldig</tu>
+	<tu xmlns:lang="fra">Le paramètre %s est invalide</tu>
+	<tu xmlns:lang="deu">Parameter %s ist ungültig</tu>
+	<tu xmlns:lang="ita">Il parametro %s non è valido</tu>
+	<tu xmlns:lang="jpn">パラメータ %s は無効です</tu>
+	<tu xmlns:lang="ptg">O parâmetro %s é inválido</tu>
+	<tu xmlns:lang="ptb">O parâmetro %s é inválido</tu>
+	<tu xmlns:lang="rus">Недопустимый параметр %s</tu>
+	<tu xmlns:lang="esp">El parámetro %s no es válido</tu>
+	<tu xmlns:lang="chs">参数 %s 无效</tu>
+	<tu xmlns:lang="kor">매개 변수 %s이(가) 잘못됨</tu>
+</tm>

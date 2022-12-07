@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_OFF_ROAD_HEIGHT">
+	<tu xmlns:lang="eng">Off-road height.</tu>
+	<tu xmlns:lang="nld">Off-road hoogte.</tu>
+	<tu xmlns:lang="fra">Hauteur tout terrain.</tu>
+	<tu xmlns:lang="deu">Geländehöhe.</tu>
+	<tu xmlns:lang="ita">Altezza di marcia fuoristrada.</tu>
+	<tu xmlns:lang="jpn">オフロード ハイト</tu>
+	<tu xmlns:lang="ptg">Altura fora de estrada.</tu>
+	<tu xmlns:lang="ptb">Altura off-road.</tu>
+	<tu xmlns:lang="rus">Внедорожная высота.</tu>
+	<tu xmlns:lang="esp">Altura off-road.</tu>
+	<tu xmlns:lang="chs">越野高度。</tu>
+	<tu xmlns:lang="kor">오프로드 높이</tu>
+</tm>

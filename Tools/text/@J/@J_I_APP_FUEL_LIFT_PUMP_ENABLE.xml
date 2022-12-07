@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_FUEL_LIFT_PUMP_ENABLE">
+	<tu xmlns:lang="eng">This application will enable the fuel lift pump</tu>
+	<tu xmlns:lang="nld">Deze toepassing schakelt de brandstofopvoerpomp in</tu>
+	<tu xmlns:lang="fra">Cette application activera la pompe d'alimentation</tu>
+	<tu xmlns:lang="deu">Diese Anwendung aktiviert die Kraftstoff-Förderpumpe.</tu>
+	<tu xmlns:lang="ita">Quest'applicazione attiva la pompa aspirante</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションはフューエル リフト ポンプを作動可に設定します</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação irá activar a bomba de elevação de combustível</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo irá habilitar a bomba elevatória de combustível</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение служит для включения топливоподкачивающего насоса</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación activará la bomba de alimentación de combustible</tu>
+	<tu xmlns:lang="chs">本应用程序将启用燃油提升泵</tu>
+	<tu xmlns:lang="kor">이 애플리케이션은 연료 리프트 펌프를 활성화합니다.</tu>
+</tm>

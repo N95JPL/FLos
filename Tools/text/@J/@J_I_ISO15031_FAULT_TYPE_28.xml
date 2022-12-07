@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_28">
+	<tu
+    xmlns:lang="eng"
+  >General signal failure - signal bias level is out of range/zero adjustment failure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Algemene signaalfout - biasniveau buiten het bereik/fout in nulinstelling.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Panne de signalisation générale - niveau de polarisation du signal est hors limite / défaut de réglage du zéro.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Allgemeine Signalstörung - Pegel Signalabgleich außerhalb des Bereichs/Störung Nulleinstellung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto generale di segnale - livello polarizzazione segnale fuori campo/guasto di azzeramento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >一般シグナル不良 － シグナル バイアス レベル、範囲外／ゼロ調整不良</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha geral no sinal - o nível de aumento ou diminuição do sinal está fora da gama/falha de regulação a zero.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha geral de sinal - nível de polarização do sinal fora de taxa/falha de ajuste zero.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Общая ошибка сигнала - уровень смещения сигнала находится вне пределов диапазона/ошибки регулировки нуля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo eléctrico general: nivel de polarización de la señal fuera de límites/fallo de ajuste cero.</tu>
+	<tu xmlns:lang="chs">一般信号故障 - 信号偏移量超出范围/零点调整故障。</tu>
+	<tu
+    xmlns:lang="kor"
+  >일반적인 신호 오류 - 신호 바이어스 레벨이 범위를 벗어남/영점 조정 오류</tu>
+</tm>

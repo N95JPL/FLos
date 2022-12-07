@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_NCM_09">
+	<tu
+    xmlns:lang="eng"
+  >Operating voltage must be in the 9 - 16 volt range, otherwise diagnostic results may be inaccurate.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De bedrijfsspanning moet in het bereik tussen de 9 en 16 V liggen, anders kunnen de diagnoseresultaten onnauwkeurig zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La tension de fonctionnement doit se situer dans la plage de tension de 9 à 16 V, sinon les résultats du diagnostic pourront être erronés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Betriebsspannung muss im Bereich 9-16 Volt liegen, andernfalls können die Diagnoseergebnisse ungenau sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La tensione di funzionamento deve essere nell'intervallo 9 - 16 volt, altrimenti i risultati diagnostici potrebbero essere imprecisi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >作動電圧が 9 ～ 16 V の範囲にないと診断結果が不正確になる可能\性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A tensão de funcionamento tem de estar entre 9 - 16 volts, caso contrário os resultados do diagnóstico poderão não ser exactos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A tensão de Operação deve estar no intervalo 9 - 16 volts, caso contrário, os resultados de diagnóstico podem estar imprecisos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Рабочее напряжение должно находиться в диапазоне 9-16 В, в противном случае результаты диагностики могут быть неточными.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La tensión de funcionamiento debe encontrarse entre 9 y 16 voltios, o de lo contrario la diagnosis podría indicar resultados incorrectos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'工作电压必须在 9～16 V 范围内，否则诊断结果可能会不准确。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >작동 전압이 9~16V 범위에 있어야 하며 그렇지 않을 경우 진단 결과가 부정확할 수 있습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MIDI_DISC">
+	<tu xmlns:lang="eng">MIDI Disc</tu>
+	<tu xmlns:lang="nld">MIDI-schijf</tu>
+	<tu xmlns:lang="fra">Disque MIDI</tu>
+	<tu xmlns:lang="deu">MIDI Disc</tu>
+	<tu xmlns:lang="ita">MIDI Disc</tu>
+	<tu xmlns:lang="jpn">MIDI ディスク</tu>
+	<tu xmlns:lang="ptg">MIDI Disc</tu>
+	<tu xmlns:lang="ptb">Disco MIDI</tu>
+	<tu xmlns:lang="rus">Диск MIDI</tu>
+	<tu xmlns:lang="esp">Disco MIDI</tu>
+	<tu xmlns:lang="chs">MIDI 光盘</tu>
+	<tu xmlns:lang="kor">MIDI 디스크</tu>
+</tm>

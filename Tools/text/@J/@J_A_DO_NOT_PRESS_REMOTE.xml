@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_DO_NOT_PRESS_REMOTE">
+	<tu
+    xmlns:lang="eng"
+  >Do not press the remote control unit lock or unlock buttons again until the test is completed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U mag niet nogmaals op de ontgrendel- of vergrendeltoets van de afstandsbediening drukken totdat de test helemaal is uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >N'appuyez pas sur les boutons de verrouillage ou déverrouillage de la télécommande tant que le test n'est pas terminé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bis zum Abschluss des Tests die Ver- oder Entriegelungstaste auf der Fernbedienung nicht mehr betätigen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non premere di nuovo i pulsanti di bloccaggio o sbloccaggio del telecomando fino al termine della prova.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テストが完了するまで、リモート コントロール ユニットのロックまたはアンロック ボタンを再度押してはなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não premir novamente os botões de trancar ou destrancar no comando à distância até o teste ser concluído.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não pressione os botões de travamento ou destravamento da unidade de controle remoto novamente até que o teste seja concluído.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не нажимайте кнопки отпирания или запирания на пульте дистанционного управления до завершения проверки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No volver a pulsar los botones de bloqueo o desbloqueo del mando a distancia hasta que haya finalizado la prueba.</tu>
+	<tu xmlns:lang="chs">测试完成之前，不要再次按下遥控单元锁闭或解锁按钮。</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트가 완료될 때까지는 리모컨 유닛 잠금 또는 잠금 해제 버튼을 다시 누르지 마십시오.</tu>
+</tm>

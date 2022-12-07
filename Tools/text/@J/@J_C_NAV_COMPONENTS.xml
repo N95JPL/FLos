@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_NAV_COMPONENTS">
+	<tu xmlns:lang="eng">Navigation components</tu>
+	<tu xmlns:lang="nld">Navigatiecomponenten</tu>
+	<tu xmlns:lang="fra">Composants de navigation</tu>
+	<tu xmlns:lang="deu">Navigationshilfekomponenten</tu>
+	<tu xmlns:lang="ita">Componenti sistema di navigazione</tu>
+	<tu xmlns:lang="jpn">ナビゲーショ・ コ・ポーネ・ト</tu>
+	<tu xmlns:lang="ptg">Componentes do sistema de navegação</tu>
+	<tu xmlns:lang="ptb">Componentes de navegação</tu>
+	<tu xmlns:lang="rus">Компоненты навигационной системы</tu>
+	<tu xmlns:lang="esp">Componentes de navegación</tu>
+	<tu xmlns:lang="chs">导航元件</tu>
+	<tu xmlns:lang="kor">내비게이션 구성 요소</tu>
+</tm>

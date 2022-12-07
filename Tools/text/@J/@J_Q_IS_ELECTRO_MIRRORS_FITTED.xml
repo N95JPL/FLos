@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_IS_ELECTRO_MIRRORS_FITTED">
+	<tu
+    xmlns:lang="eng"
+  >Is the vehicle fitted with electrochromic exterior rear view mirrors?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is de wagen uitgerust met elektrochromatische portierspiegels?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule est-il équipé de rétroviseurs électrochromatiques de portes ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist das Fahrzeug mit elektrochromatischen Spiegeln ausgerüstet?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo è dotato di specchietti fotosensibili portiera?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両にエレクトロクローミック ドア ミラーが取り付けられていますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo está equipado com retrovisores exteriores electrocromáticos?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo está equipado com espelhos retrovisores externos eletrocrômicos?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлены ли на автомобиле наружные электрохромные зеркала заднего вида?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Tiene montados el coche retrovisores exteriores electrocromáticos?</tu>
+	<tu xmlns:lang="chs">车辆上是否安装了电致变色后视镜？</tu>
+	<tu xmlns:lang="kor">차량에 전자크롬 외부 리어 뷰 미러가 장착되어 있습니까?</tu>
+</tm>

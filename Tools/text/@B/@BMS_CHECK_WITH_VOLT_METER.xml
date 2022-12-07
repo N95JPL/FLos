@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CHECK_WITH_VOLT_METER">
+	<tu
+    xmlns:lang="eng"
+  >Use a volt-meter to verify correct battery monitoring system measured voltage</tu>
+	<tu
+    xmlns:lang="nld"
+  >Gebruik een voltmeter om de spanning gemeten door het accucontrolesysteem te verifiëren</tu>
+	<tu
+    xmlns:lang="fra"
+  >Utilisez un voltmètre pour vous assurer que la tension du système de surveillance de la batterie est correcte</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit einem Voltmeter bestätigen, dass vom Batterieüberwachungssystem die korrekte Spannung gemessen wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Utilizzare un voltmetro per verificare che la tensione misurata dal sistema di monitoraggio batteria sia corretta</tu>
+	<tu
+    xmlns:lang="jpn"
+  >電圧計を使用し、バッテリ モニタリング システムで計測された電圧が正しいことを確認しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Utilizar um voltímetro para verificar se a tensão medida do sistema de monitorização da bateria é correcta</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Use um voltímetro para verificar a tensão correta de medição do sistema de monitoramento de bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Измерьте напряжение вольтметром, чтобы проверить правильность измерения напряжения системой контроля аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Usar un voltímetro para comprobar que la tensión medida del sistema de control de la batería es correcta</tu>
+	<tu xmlns:lang="chs">采用电压表验证蓄电池监测系统的正确测量电压</tu>
+	<tu
+    xmlns:lang="kor"
+  >전압계를 사용하여 알맞은 배터리 모니터링 시스템 측정 전압을 확인하십시오.</tu>
+</tm>

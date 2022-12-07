@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAP_UPDT_SUCC_Q_NAVG_SCR_VERSN">
+	<tu
+    xmlns:lang="eng"
+  >2. The navigation map will be visible and the new map version will be shown in the navigation map information, in the navigation menu/settings.</tu>
+	<tu
+    xmlns:lang="nld"
+  >2. De navigatiekaart is zichtbaar en de nieuwe kaartversie wordt weergegeven bij de kaartinformatie in het navigatiemenu / onder navigatie-instellingen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >2. La carte de navigation est visible et la nouvelle version de la carte apparaît dans les informations cartographiques de navigation, dans le menu/les réglages de navigation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >2. Die Navigationskarte ist sichtbar, und in den Einstellungen des Navigationsmenüs wird unter den Navigationskarteninformationen die neue Kartenversion angezeigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >2. La mappa di navigazione sarà visibile e nelle informazioni relative alla mappa di navigazione verrà visualizzata la nuova versione della mappa, nelle impostazioni/menu di navigazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >2. ナビゲーション マップが表示され、新しいマップ バージョンがナビゲーション メニュー/設定で、ナビゲーション マップ情報に示される。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >2. O mapa de navegação é visível e a nova versão do mapa é apresentada na informação do mapa de navegação, no menu de navegação/definições.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >2. O mapa de navegação estará visível e a nova versão do mapa será exibida nas informações do mapa de navegação em menu/configurações de navegação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >2. Отображается карта системы навигации, и в окне сведений о карте (в меню/настройках системы навигации) указывается ее новая версия.</tu>
+	<tu
+    xmlns:lang="esp"
+  >2. Se podrá ver el mapa de navegación y aparecerá la nueva versión de los mapas en la información de los mapas de navegación, en el menú o los ajustes de navegación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >2. 此时将看到导航地图，并且新地图版本将在导航菜单/设置中的导航地图信息中显示。</tu>
+	<tu
+    xmlns:lang="kor"
+  >2. 내비게이션 지도를 볼 수 있게 되고 내비게이션 메뉴/설정의 내비게이션 지도 정보에 새 지도 버전이 표시됩니다.</tu>
+</tm>

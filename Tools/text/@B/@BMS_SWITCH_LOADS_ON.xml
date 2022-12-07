@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_SWITCH_LOADS_ON">
+	<tu
+    xmlns:lang="eng"
+  >With the engine running, switch on the following electrical loads:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Terwijl de motor draait, schakelt u de volgende elektrische belastingen in:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Laissez le moteur tourner et allumez les charges électriques suivantes :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei laufendem Motor die folgenden elektrischen Verbraucher einschalten:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Con il motore avviato, attivare i seguenti carichi elettrici:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンがかかった状態で、次の電気負荷をスイッチ オンしなさい：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Com o motor a trabalhar, ligar as seguintes cargas eléctricas:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Com o motor em funcionamento, ligue as cargas elétricas a seguir:</tu>
+	<tu
+    xmlns:lang="rus"
+  >При работающем двигателе включите следующие потребители электроэнергии:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Con el motor en marcha, conectar las siguientes cargas eléctricas:</tu>
+	<tu xmlns:lang="chs">在发动机运转的情况下，开启下列电气负载：</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진이 작동하는 상태에서 다음 전기 부하 장치를 켜십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GLOB_CELL_PHONE">
+	<tu xmlns:lang="eng">Global cellular telephone system</tu>
+	<tu xmlns:lang="nld">GSM-telefoonsysteem</tu>
+	<tu xmlns:lang="fra">Système de téléphone cellulaire mondial</tu>
+	<tu xmlns:lang="deu">GSM-Mobiltelefonsystem</tu>
+	<tu xmlns:lang="ita">Impianto telefonico cellulare globale</tu>
+	<tu xmlns:lang="jpn">グローバル セルラー テレホン システム</tu>
+	<tu xmlns:lang="ptg">Sistema de telemóvel global</tu>
+	<tu xmlns:lang="ptb">Sistema do telefone celular global</tu>
+	<tu xmlns:lang="rus">Система глобальной сотовой телефонной связи</tu>
+	<tu xmlns:lang="esp">Sistema global de telefonía celular</tu>
+	<tu xmlns:lang="chs">全球蜂窝电话系统</tu>
+	<tu xmlns:lang="kor">글로벌 휴대 전화 시스템</tu>
+</tm>

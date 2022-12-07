@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CommsWarning$M">
+	<tu xmlns:lang="eng">Serial communications error.</tu>
+	<tu xmlns:lang="nld">Seriële-communicatiefout</tu>
+	<tu xmlns:lang="fra">Erreur de communications en série</tu>
+	<tu xmlns:lang="deu">Störung - serielle Kommunikation</tu>
+	<tu xmlns:lang="ita">Errore comunicazioni seriali</tu>
+	<tu xmlns:lang="jpn">シリアル コミュニケーション エラー</tu>
+	<tu xmlns:lang="ptg">Erro de comunicações série.</tu>
+	<tu xmlns:lang="ptb">Erro de comunicação em série.</tu>
+	<tu xmlns:lang="rus">Ошибка последовательной связи.</tu>
+	<tu xmlns:lang="esp">Error en comunicaciones en serie</tu>
+	<tu xmlns:lang="chs">串行通讯错误。</tu>
+	<tu xmlns:lang="kor">직렬 통신 오류</tu>
+</tm>

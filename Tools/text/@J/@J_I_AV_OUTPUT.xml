@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AV_OUTPUT">
+	<tu xmlns:lang="eng">Audio visual output</tu>
+	<tu xmlns:lang="nld">Audiovisuele uitvoer</tu>
+	<tu xmlns:lang="fra">Sortie audiovisuelle</tu>
+	<tu xmlns:lang="deu">Audiovisueller Ausgang</tu>
+	<tu xmlns:lang="ita">Output audio video</tu>
+	<tu xmlns:lang="jpn">オーディオ ビジュアル アウトプット</tu>
+	<tu xmlns:lang="ptg">Saída visual áudio</tu>
+	<tu xmlns:lang="ptb">Saída audiovisual</tu>
+	<tu xmlns:lang="rus">Аудиовизуальный выход</tu>
+	<tu xmlns:lang="esp">Salida audiovisual</tu>
+	<tu xmlns:lang="chs">音频可视输出</tu>
+	<tu xmlns:lang="kor">오디오 비주얼 출력</tu>
+</tm>

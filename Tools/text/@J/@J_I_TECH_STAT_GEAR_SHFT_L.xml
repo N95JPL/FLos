@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TECH_STAT_GEAR_SHFT_L">
+	<tu
+    xmlns:lang="eng"
+  >Instruct technician to carry out stationary gear shift learn.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Draag de monteur op de inleerroutine van het schakelen tijdens stilstand uit te voeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Donnez les instructions au technicien pour effectuer l'apprentissage du sélecteur de vitesse à l'arrêt.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den Techniker anweisen, die Schalt-Lernroutine bei stehendem Fahrzeug durchzuführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Istruire il tecnico in modo che esegua l'apprendimento del selettore cambio da fermo.</tu>
+	<tu xmlns:lang="jpn">停止中のギア シフト学習実行をテクニシャンに指示。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Dar indicações ao técnico para efectuar uma programação das mudanças com o veículo parado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Instruir o técnico a realizar o aprendizado de seleção de marchas com o veículo parado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дайте указание технику выполнить операцию самонастройки переключения передач на неподвижном автомобиле.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Indicar al técnico que realice el aprendizaje del cambio con el vehículo parado.</tu>
+	<tu xmlns:lang="chs">让技术员执行静止停车换档记忆。</tu>
+	<tu
+    xmlns:lang="kor"
+  >정비사가 정지 상태에서 기어 변속 학습을 수행하도록 지시합니다.</tu>
+</tm>

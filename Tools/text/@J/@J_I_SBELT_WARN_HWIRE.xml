@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SBELT_WARN_HWIRE">
+	<tu xmlns:lang="eng">Safety belt warning - active (hardwired).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Veiligheidsgordelwaarschuwing - actief (via directe kabel).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Avertissement de ceinture de sécurité - activé (câblé).</tu>
+	<tu xmlns:lang="deu">Sicherheitsgurtwarnung - aktiv (Kabelverbindung).</tu>
+	<tu xmlns:lang="ita">Avvertenza cintura di sicurezza - attiva (cablata).</tu>
+	<tu xmlns:lang="jpn">シートベルト警告 - アクティブ (ハードワイヤ接続)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aviso dos cintos de segurança - activo (ligação física permanente).</tu>
+	<tu xmlns:lang="ptb">Alarme do cinto de segurança - ativo (conexão física).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Напоминание о непристегнутом ремне безопасности - активно (аппаратно-реализованное).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aviso de cinturón de seguridad sin abrochar: activo (conectado por cable eléctrico)</tu>
+	<tu xmlns:lang="chs">安全带警告 - 已激活（硬连接）。</tu>
+	<tu xmlns:lang="kor">안전벨트 경고 - 작동(유선)</tu>
+</tm>

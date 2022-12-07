@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_DVD_REG">
+	<tu xmlns:lang="eng">Without region for DVD</tu>
+	<tu xmlns:lang="nld">Zonder regio voor DVD </tu>
+	<tu xmlns:lang="fra">Sans région pour DVD </tu>
+	<tu xmlns:lang="deu">Ohne Region für DVD </tu>
+	<tu xmlns:lang="ita">Senza regione per DVD</tu>
+	<tu xmlns:lang="jpn">DVD 用地域設定なし</tu>
+	<tu xmlns:lang="ptg">Sem região para DVD</tu>
+	<tu xmlns:lang="ptb">Sem região para DVD</tu>
+	<tu xmlns:lang="rus">Без региона для DVD </tu>
+	<tu xmlns:lang="esp">Sin región para DVD</tu>
+	<tu xmlns:lang="chs">无 DVD 的区域设置</tu>
+	<tu xmlns:lang="kor">DVD에 대한 지역 없음</tu>
+</tm>

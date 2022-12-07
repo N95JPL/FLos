@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_RDCM">
+	<tu xmlns:lang="eng">Rear differential control module</tu>
+	<tu xmlns:lang="nld">Regelmodule van achterdifferentieel.</tu>
+	<tu xmlns:lang="fra">Module de commande de différentiel arrière.</tu>
+	<tu xmlns:lang="deu">Differenzialsteuermodul hinten.</tu>
+	<tu xmlns:lang="ita">Modulo comando differenziale posteriore.</tu>
+	<tu xmlns:lang="jpn">リア ディファレンシャル コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de controlo do diferencial traseiro.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle do diferencial traseiro</tu>
+	<tu xmlns:lang="rus">Блок управления задним дифференциалом.</tu>
+	<tu xmlns:lang="esp">Módulo de control del diferencial trasero.</tu>
+	<tu xmlns:lang="chs">后差速器控制模块。</tu>
+	<tu xmlns:lang="kor">리어 디퍼렌셜 컨트롤 모듈</tu>
+</tm>

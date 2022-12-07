@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NO_UPDATE_REQUIRED">
+	<tu xmlns:lang="eng">No update required</tu>
+	<tu xmlns:lang="nld">Bijwerken niet nodig</tu>
+	<tu xmlns:lang="fra">Pas de mise à jour requise</tu>
+	<tu xmlns:lang="deu">Keine Aktualisierung erforderlich</tu>
+	<tu xmlns:lang="ita">Nessun aggiornamento richiesto</tu>
+	<tu xmlns:lang="jpn">更新不要</tu>
+	<tu xmlns:lang="ptg">Não é necessária qualquer actualização</tu>
+	<tu xmlns:lang="ptb">Nenhuma atualização necessária</tu>
+	<tu xmlns:lang="rus">Обновление не требуется</tu>
+	<tu xmlns:lang="esp">No requiere actualización</tu>
+	<tu xmlns:lang="chs">无需任何更新</tu>
+	<tu xmlns:lang="kor">업데이트 필요 없음</tu>
+</tm>

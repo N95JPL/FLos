@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PSP_DO_NOT_RELEASE">
+	<tu xmlns:lang="eng">Do not release the brake pedal until instructed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U mag het rempedaal niet loslaten, totdat het systeem dit aangeeft.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ne relâchez pas la pédale de frein tant que vous n'y êtes pas invité.</tu>
+	<tu xmlns:lang="deu">Bremspedal erst bei Aufforderung freigeben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non rilasciare il pedale del freno fino a quando non viene richiesto.</tu>
+	<tu xmlns:lang="jpn">指示されるまでブレーキ ペダルを離してはいけません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não largue o pedal do travão enquanto não for instruído para tal.</tu>
+	<tu xmlns:lang="ptb">Não solte o pedal do freio até que seja instruído.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не отпускайте педаль тормоза до тех пор, пока не получите соответствующую инструкцию.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No soltar el pedal del freno hasta que se indique hacerlo.</tu>
+	<tu xmlns:lang="chs">接获指令之前，不要释放制动踏板。</tu>
+	<tu
+    xmlns:lang="kor"
+  >따로 지시가 있을 때까지는 브레이크 페달을 해제하지 마십시오.</tu>
+</tm>

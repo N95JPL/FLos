@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EVAP_SYST">
+	<tu xmlns:lang="eng">Evaporator system ULEV primary diagnostic system</tu>
+	<tu xmlns:lang="nld">ULEV primair diagnosesysteem van verdampingssysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système de diagnostic primaire ULEV du système d'évaporateur</tu>
+	<tu xmlns:lang="deu">Primäres Diagnosesystem des ULEV-Verdampfungssystems</tu>
+	<tu xmlns:lang="ita">Sistema diagnostico primario sistema evaporazione ULEV</tu>
+	<tu xmlns:lang="jpn">エバポレータ システム ULEV プライマリ診断システム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de diagnóstico principal do sistema de evaporador de veículo ULEV</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de diagnóstico primário ULEV do sistema do evaporador</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система первичной диагностики ULEV системы отвода топливных паров</tu>
+	<tu
+    xmlns:lang="esp"
+  >Equipo de diagnóstico principal ULEV del sistema evaporador</tu>
+	<tu xmlns:lang="chs">蒸发器系统 ULEV 主诊断系统</tu>
+	<tu xmlns:lang="kor">증발 시스템 ULEV 기본 진단 시스템</tu>
+</tm>

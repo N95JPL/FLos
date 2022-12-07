@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MODULE_ALREADY_PROGRAMMED">
+	<tu xmlns:lang="eng">The module is already programmed.</tu>
+	<tu xmlns:lang="nld">De module is reeds geprogrammeerd.</tu>
+	<tu xmlns:lang="fra">Le module est déjà programmé.</tu>
+	<tu xmlns:lang="deu">Das Steuergerät ist bereits programmiert.</tu>
+	<tu xmlns:lang="ita">Il modulo è già programmato.</tu>
+	<tu xmlns:lang="jpn">このモジュールはすでにプログラムされています。</tu>
+	<tu xmlns:lang="ptg">O módulo já está programado.</tu>
+	<tu xmlns:lang="ptb">O módulo já está programado.</tu>
+	<tu xmlns:lang="rus">Данный блок уже запрограммирован.</tu>
+	<tu xmlns:lang="esp">El módulo ya está programado.</tu>
+	<tu xmlns:lang="chs">模块已编程设置。</tu>
+	<tu xmlns:lang="kor">모듈이 이미 프로그래밍되어 있습니다.</tu>
+</tm>

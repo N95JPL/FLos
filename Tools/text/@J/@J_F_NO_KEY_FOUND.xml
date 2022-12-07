@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_NO_KEY_FOUND">
+	<tu xmlns:lang="eng">No key found fault</tu>
+	<tu xmlns:lang="nld">Fout: geen sleutel gevonden</tu>
+	<tu xmlns:lang="fra">Défaut clé non trouvée</tu>
+	<tu xmlns:lang="deu">Fehler Schlüssel nicht gefunden</tu>
+	<tu xmlns:lang="ita">Errore chiave non rilevata</tu>
+	<tu xmlns:lang="jpn">「キーが見つからない」不具合</tu>
+	<tu xmlns:lang="ptg">Avaria de chave não encontrada</tu>
+	<tu xmlns:lang="ptb">Nenhuma chave com falha encontrada</tu>
+	<tu xmlns:lang="rus">Ошибка: ключ не обнаружен</tu>
+	<tu xmlns:lang="esp">Fallo debido a que no se encuentra la llave</tu>
+	<tu xmlns:lang="chs">没有车钥出现故障</tu>
+	<tu xmlns:lang="kor">오류인 키를 찾을 수 없음</tu>
+</tm>

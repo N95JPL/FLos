@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDidHornSound$Q">
+	<tu xmlns:lang="eng">Did the horn sound?</tu>
+	<tu xmlns:lang="nld">Toeterde de claxon ?</tu>
+	<tu xmlns:lang="fra">L'avertisseur a-t'il retenti ?</tu>
+	<tu xmlns:lang="deu">Ertönte ein Hupton ?</tu>
+	<tu xmlns:lang="ita">Ha sonato la tromba ?</tu>
+	<tu xmlns:lang="jpn">ﾎーﾝは鳴りましたか？</tu>
+	<tu xmlns:lang="ptg">Foi ouvida a buzina?</tu>
+	<tu xmlns:lang="ptb">A buzina soou?</tu>
+	<tu xmlns:lang="rus">Прозвучал ли звуковой сигнал?</tu>
+	<tu xmlns:lang="esp">¿Suena la bocina?</tu>
+	<tu xmlns:lang="chs">喇叭是否响亮？</tu>
+	<tu xmlns:lang="kor">경음기에서 소리가 났습니까?</tu>
+</tm>

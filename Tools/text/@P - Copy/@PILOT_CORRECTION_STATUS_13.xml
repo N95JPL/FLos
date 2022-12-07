@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_13">
+	<tu xmlns:lang="eng">0x13 : Not started due to pump learning not complete.</tu>
+	<tu xmlns:lang="nld">0x13 : inleren niet gestart omdat het inleren van de pomp niet volledig is uitgevoerd.</tu>
+	<tu xmlns:lang="fra">0x13 : Non commencé à cause de l'apprentissage incomplet de la pompe.</tu>
+	<tu xmlns:lang="deu">0x13 : Nicht angelaufen, da Pumpenerlernung noch nicht komplett ist.</tu>
+	<tu xmlns:lang="ita">0x13 : Non avviato a causa dell'incompleto apprendimento pompa.</tu>
+	<tu xmlns:lang="jpn">0x13 : ポンプ学習未完了のためスタートせず。</tu>
+	<tu xmlns:lang="ptg">0x13 : Não iniciado devido ao facto de a programação da bomba não estar concluída.</tu>
+	<tu xmlns:lang="ptb">0X13 : Não iniciado devido à aprendizagem da bomba não estar concluída.</tu>
+	<tu xmlns:lang="rus">0x13 : Запуск не выполнен, так как не выполнено сохранение настроек насоса.</tu>
+	<tu xmlns:lang="esp">0x13: No se inició por aprendizaje incompleto de la bomba.</tu>
+	<tu xmlns:lang="chs">0x13： 由于泵记忆没有完成而未启动。</tu>
+	<tu xmlns:lang="kor">0x13 : 펌프 학습이 완료되지 않았기 때문에 시작되지 않습니다.</tu>
+</tm>

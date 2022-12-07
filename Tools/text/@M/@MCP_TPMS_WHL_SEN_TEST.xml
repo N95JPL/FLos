@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_TPMS_WHL_SEN_TEST">
+	<tu xmlns:lang="eng">Tire pressure monitoring tire pressure sensor test</tu>
+	<tu xmlns:lang="nld">Test bandenspanningssensor voor bewaken bandenspanning</tu>
+	<tu
+    xmlns:lang="fra"
+  >Test du capteur de pression des pneus du système de contrôle de la pression des pneus</tu>
+	<tu xmlns:lang="deu">Reifendrucküberwachung, Reifendrucksensorprüfung</tu>
+	<tu xmlns:lang="ita">Prova del sensore di pressione pneumatici</tu>
+	<tu xmlns:lang="jpn">タイヤ空気圧モニタリング タイヤ空気圧センサ テスト</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Monitorização da pressão dos pneus, teste do sensor de pressão dos pneus</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Teste do sensor de pressão dos pneus para monitoramento de pressão dos pneus</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка датчика давления системы контроля давления в шинах</tu>
+	<tu
+    xmlns:lang="esp"
+  >Prueba de control de la presión del sensor de presión de los neumáticos</tu>
+	<tu xmlns:lang="chs">轮胎压力监控轮胎压力传感器测试</tu>
+	<tu xmlns:lang="kor">타이어 공기압 모니터링 타이어 공기압 센서 테스트</tu>
+</tm>

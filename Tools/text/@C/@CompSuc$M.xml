@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CompSuc$M">
+	<tu xmlns:lang="eng">Completed successfully</tu>
+	<tu xmlns:lang="nld">Succesvol uitgevoerd</tu>
+	<tu xmlns:lang="fra">Termine avec succes</tu>
+	<tu xmlns:lang="deu">Erfolgreich abgeschlossen</tu>
+	<tu xmlns:lang="ita">Eseguito con successo</tu>
+	<tu xmlns:lang="jpn">完了しました。</tu>
+	<tu xmlns:lang="ptg">Concluído com êxito</tu>
+	<tu xmlns:lang="ptb">Concluído com êxito</tu>
+	<tu xmlns:lang="rus">Завершено успешно</tu>
+	<tu xmlns:lang="esp">Cumplido con exito</tu>
+	<tu xmlns:lang="chs">成功完成</tu>
+	<tu xmlns:lang="kor">성공적으로 완료됨</tu>
+</tm>

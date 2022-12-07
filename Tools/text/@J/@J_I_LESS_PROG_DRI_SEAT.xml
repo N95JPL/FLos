@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_PROG_DRI_SEAT">
+	<tu xmlns:lang="eng">Driver's memory seat movement not fitted</tu>
+	<tu xmlns:lang="nld">Bestuurdersstoelbewegingsgeheugen is niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Siège à mémoire conducteur non monté</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrersitzverstellung mit Positionsspeicher nicht eingebaut</tu>
+	<tu
+    xmlns:lang="ita"
+  >Funzione memoria spostamento sedile guidatore non in dotazione</tu>
+	<tu xmlns:lang="jpn">運転席側メモリ シート調整非装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Movimento memorizado do banco do condutor não está instalado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Movimento do assento com memória do motorista não instalado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система памяти перемещений сиденья водителя не установлена</tu>
+	<tu xmlns:lang="esp">No hay ajuste memorizado del asiento del conductor</tu>
+	<tu xmlns:lang="chs">驾驶员一侧记忆座椅运动系统未安装</tu>
+	<tu xmlns:lang="kor">운전석 메모리 시트 동작 장치가 장착되지 않음</tu>
+</tm>

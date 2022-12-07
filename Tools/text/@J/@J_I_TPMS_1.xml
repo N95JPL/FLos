@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TPMS_1">
+	<tu xmlns:lang="eng">Tire pressure monitor system 1</tu>
+	<tu xmlns:lang="nld">Bewakingssysteem van bandenspanning 1</tu>
+	<tu xmlns:lang="fra">Système de contrôle de pression des pneus 1</tu>
+	<tu xmlns:lang="deu">Reifendruck-Überwachungssystem 1</tu>
+	<tu xmlns:lang="ita">Sistema di monitoraggio pressione pneumatici 1</tu>
+	<tu xmlns:lang="jpn">タイヤ プレッシャ モニタリング システム 1</tu>
+	<tu xmlns:lang="ptg">Sistema de monitorização da pressão dos pneus 1</tu>
+	<tu xmlns:lang="ptb">SSistema de monitoramento de pressão dos pneus 1</tu>
+	<tu xmlns:lang="rus">Система контроля давления в шинах 1</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de monitorización de la presión de los neumáticos 1</tu>
+	<tu xmlns:lang="chs">轮胎压力监测系统 1</tu>
+	<tu xmlns:lang="kor">타이어 공기압 모니터 시스템 1</tu>
+</tm>

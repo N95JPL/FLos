@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_CRITICAL_FAIL">
+	<tu xmlns:lang="eng">Critical failure</tu>
+	<tu xmlns:lang="nld">Kritieke fout</tu>
+	<tu xmlns:lang="fra">Défaillance critique</tu>
+	<tu xmlns:lang="deu">Kritische Störung</tu>
+	<tu xmlns:lang="ita">Guasto critico</tu>
+	<tu xmlns:lang="jpn">重大な不具合</tu>
+	<tu xmlns:lang="ptg">Avaria crítica</tu>
+	<tu xmlns:lang="ptb">Falha crítica</tu>
+	<tu xmlns:lang="rus">Серьезная неисправность</tu>
+	<tu xmlns:lang="esp">Fallo crítico</tu>
+	<tu xmlns:lang="chs">关键故障</tu>
+	<tu xmlns:lang="kor">치명적 고장</tu>
+</tm>

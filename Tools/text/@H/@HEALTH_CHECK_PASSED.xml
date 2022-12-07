@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HEALTH_CHECK_PASSED">
+	<tu xmlns:lang="eng">The application can proceed.</tu>
+	<tu xmlns:lang="nld">De toepassing kan worden voortgezet.</tu>
+	<tu xmlns:lang="fra">L'application peut continuer.</tu>
+	<tu xmlns:lang="deu">Die Anwendung kann fortgesetzt werden.</tu>
+	<tu xmlns:lang="ita">L'applicazione può procedere.</tu>
+	<tu xmlns:lang="jpn">アプリケーションを続行できます。</tu>
+	<tu xmlns:lang="ptg">Pode prosseguir com a execução da aplicação.</tu>
+	<tu xmlns:lang="ptb">O aplicativo pode prosseguir.</tu>
+	<tu xmlns:lang="rus">Приложение может продолжить работу.</tu>
+	<tu xmlns:lang="esp">La aplicación puede continuar.</tu>
+	<tu xmlns:lang="chs">应用程序可以执行。</tu>
+	<tu xmlns:lang="kor">응용 프로그램을 계속할 수 있습니다.</tu>
+</tm>

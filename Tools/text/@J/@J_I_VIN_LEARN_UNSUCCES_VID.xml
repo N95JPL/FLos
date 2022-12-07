@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VIN_LEARN_UNSUCCES_VID">
+	<tu
+    xmlns:lang="eng"
+  >On modules which have not already learned the vehicle identification number, the routine acquires the vehicle identification number transmitted as part of vehicle configuration and writes it to the module.  The routine will return with status indicating an unsuccessful operation when a vehicle identification number has been previously learned.  It is not be possible to over-write previously learned vehicle identification number using this routine.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voor modules waarbij het voertuigidentificatienummer nog niet is ingeleerd, vereist de routine dat het voertuigidentificatienummer verzonden wordt als onderdeel van de voertuigconfiguratie en schrijft het naar de module.  De routine zal weer de status laten verschijnen om aan te geven dat een bewerking is mislukt, wanneer reeds eerder een voertuigidentificatienummer is ingeleerd.  Met deze routine kunt u geen reeds eerder ingeleerd voertuigidentificatienummer overschrijven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour les modules qui n'ont pas encore intégré le numéro d'identification du véhicule, le programme accède au numéro d'identification du véhicule transmis comme faisant partie de la configuration du véhicule et l'enregistre dans le module.  Ce programme reprendra dès l'apparition d'un état indiquant un fonctionnement défaillant lorsqu'un numéro d'identification du véhicule a été préalablement enregistré.  Ce programme ne permet pas d'écraser le numéro d'identification du véhicule préalablement enregistré.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei Steuergeräten, von denen die Fahrzeug-Identifizierungsnummer noch nicht erlernt wurde, wird mit dieser Routine die Fahrzeug-Identifizierungsnummer als Teil der Fahrzeugkonfiguration erfasst und zum Steuergerät geschrieben.  Von dieser Routine wird als Status ein nicht erfolgreicher Ablauf gemeldet, wenn zuvor eine Fahrzeug-Identifizierungsnummer erlernt wurde.  Es ist nicht möglich, mit dieser Routine eine zuvor erlernte Fahrzeug-Identifizierungsnummer zu überschreiben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sui moduli che non hanno ancora appreso il numero di identificazione veicolo, la procedura acquisisce il numero di identificazione veicolo trasmesso come parte della configurazione veicolo e lo scrive nel modulo.  Questa procedura indica uno stato di operazione non riuscita quando un numero di identificazione veicolo è stato appreso precedentemente.  Non è possibile sovrascrivere un numero di identificazione veicolo precedentemente appreso con questa procedura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両 ID ナンバーをすでに学習していないモジュールは、このルーチンが車両コンフィギュレーションの一部として車両 ID ナンバーを伝送取得し、モジュールに書き込みます。  このルーチンは、車両 ID ナンバーがすでに学習されている場合の、作動失敗を示すステータスを返します。  このルーチンを使用してすでに学習された車両 ID ナンバーを上書きすることはできません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nos módulos ainda não programados com o número de identificação do veículo, a rotina adquire o número de identificação do veículo transmitido como parte da configuração do veículo e escreve-o no módulo.  A rotina volta com estado indicando um mau funcionamento quando um número de identificação do veículo foi anteriormente programado.  Com esta rotina não é possível escrever por cima do número de identificação do veículo programado anteriormente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Nos módulos que ainda não aprenderam o número de identificação do veículo, a rotina adquire o número de identificação do veículo transmitido como parte da configuração do veículo e o grava para o módulo.  A rotina irá retornar com status indicando uma operação sem sucesso quando um número de identificação do veículo tiver sido previamente gravado.  Pode não ser possível sobrescrever o número de identificação do veículo anteriormente aprendido usando essa rotina.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В случае с блоками, в которых еще не сохранен идентификационный номер автомобиля, программа получает идентификационный номер автомобиля, переданный как часть данных о конфигурации автомобиля, и записывает его в блок.  Если в память блока ранее был сохранен идентификационный номер автомобиля, результатом выполнения данной операции будет сообщение об ошибке.  Используя этот процесс невозможно изменить сохраненный идентификационный номер автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >En los módulos en que no se ha programado aún el número de identificación del vehículo (VIN), la rutina adquiere el VIN que se transmite como parte de la configuración del vehículo y lo escribe en el módulo.  La rutina responderá con un estado que indica que la operación ha fallado si ya se había programado un número de identificación del vehículo (VIN).  Esta rutina no permite sobrescribir el número de identificación del vehículo (VIN) previamente programado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >对于还未输入车辆标识号的模块，程序要求将车辆标识号作为车辆配置的一部分传输，并写入模块。  如果以前记忆了车辆标识号，本程序将反馈指示未成功操作的状态。  使用该程序无法覆盖以前输入的车辆标识号。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 식별 번호를 아직 학습하지 않은 모듈에서는 이 루틴이 차량 구성의 일부로 전송되는 차량 식별 번호를 획득하고 이를 모듈에 씁니다.  이 루틴은 이전에 차량 식별 번호를 학습했을 때 실패한 작동을 표시하는 상태와 함께 반환됩니다.  이 루틴을 사용하여 이전에 학습된 차량 식별 번호를 덮어쓸 수 없습니다.</tu>
+</tm>

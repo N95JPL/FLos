@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INJ_PULS_STAT">
+	<tu xmlns:lang="eng">Injector pulse status</tu>
+	<tu xmlns:lang="nld">Status injectorpuls</tu>
+	<tu xmlns:lang="fra">Etat d'impulsion de l'injecteur.</tu>
+	<tu xmlns:lang="deu">Status Einspritzventilimpuls</tu>
+	<tu xmlns:lang="ita">Stato impulso iniettore</tu>
+	<tu xmlns:lang="jpn">インジェクタ パルス ステータス</tu>
+	<tu xmlns:lang="ptg">Estado do impulso do injector</tu>
+	<tu xmlns:lang="ptb">Estado do pulso do injetor</tu>
+	<tu xmlns:lang="rus">Состояние импульса форсунок</tu>
+	<tu xmlns:lang="esp">Estado de las pulsaciones de inyector</tu>
+	<tu xmlns:lang="chs">喷油器脉冲状态</tu>
+	<tu xmlns:lang="kor">인젝터 펄스 상태</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WITHOUT_INTERCOM">
+	<tu xmlns:lang="eng">Fitted without intercom.</tu>
+	<tu xmlns:lang="nld">Uitgerust zonder intercom.</tu>
+	<tu xmlns:lang="fra">Non équipé d'un intercom.</tu>
+	<tu xmlns:lang="deu">Nicht mit Gegensprechanlage ausgestattet.</tu>
+	<tu xmlns:lang="ita">Intercom non in dotazione.</tu>
+	<tu xmlns:lang="jpn">インターコム非装備</tu>
+	<tu xmlns:lang="ptg">Equipado sem Intercom.</tu>
+	<tu xmlns:lang="ptb">Instalada sem intercomunicação.</tu>
+	<tu xmlns:lang="rus">Без системы внутренней связи.</tu>
+	<tu xmlns:lang="esp">Instalado sin intercomunicador.</tu>
+	<tu xmlns:lang="chs">未安装内部通讯系统。</tu>
+	<tu xmlns:lang="kor">인터컴이 장착되지 않음</tu>
+</tm>

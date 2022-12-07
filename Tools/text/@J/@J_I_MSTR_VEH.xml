@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MSTR_VEH">
+	<tu xmlns:lang="eng">Mainstream vehicle</tu>
+	<tu xmlns:lang="nld">Doorsneevoertuig</tu>
+	<tu xmlns:lang="fra">Véhicule grand public</tu>
+	<tu xmlns:lang="deu">Standardfahrzeug</tu>
+	<tu xmlns:lang="ita">Veicolo convenzionale</tu>
+	<tu xmlns:lang="jpn">主流車両</tu>
+	<tu xmlns:lang="ptg">Veículo comum</tu>
+	<tu xmlns:lang="ptb">Veículo de grande marca</tu>
+	<tu xmlns:lang="rus">Автомобиль массового производства</tu>
+	<tu xmlns:lang="esp">Vehículo de producción general</tu>
+	<tu xmlns:lang="chs">主流车辆</tu>
+	<tu xmlns:lang="kor">대세 차량</tu>
+</tm>

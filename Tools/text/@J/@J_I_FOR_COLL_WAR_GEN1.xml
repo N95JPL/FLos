@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FOR_COLL_WAR_GEN1">
+	<tu xmlns:lang="eng">Forward collision warning GEN 1</tu>
+	<tu xmlns:lang="nld">Waarschuwing voor botsing aan de voorkant GEN 1</tu>
+	<tu xmlns:lang="fra">Avertissement de collision avant GEN 1</tu>
+	<tu xmlns:lang="deu">Auffahrunfallwarnung GEN 1</tu>
+	<tu xmlns:lang="ita">Avvertenza collisioni frontali GEN 1</tu>
+	<tu xmlns:lang="jpn">前方衝突ワーニング GEN 1</tu>
+	<tu xmlns:lang="ptg">Aviso de colisão frontal GEN 1</tu>
+	<tu xmlns:lang="ptb">Aviso de colisão à frente GEN 1</tu>
+	<tu xmlns:lang="rus">Предупреждение о возможном лобовом столкновении GEN 1</tu>
+	<tu xmlns:lang="esp">Aviso de colisión frontal GEN 1</tu>
+	<tu xmlns:lang="chs">前碰撞警告 GEN 1</tu>
+	<tu xmlns:lang="kor">전방 충돌 경고 GEN 1</tu>
+</tm>

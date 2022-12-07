@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRANSFER_BOX_CONTROLLER">
+	<tu xmlns:lang="eng">Transfer box controller</tu>
+	<tu xmlns:lang="nld">Regelaar van tussendifferentieel.</tu>
+	<tu xmlns:lang="fra">Contrôleur de boîte de transfert.</tu>
+	<tu xmlns:lang="deu">Verteilergetriebe-Steuergerät</tu>
+	<tu xmlns:lang="ita">Controller scatola di rinvio</tu>
+	<tu xmlns:lang="jpn">トランスファー ボックス コントローラ</tu>
+	<tu xmlns:lang="ptg">Controlador da caixa de transferência</tu>
+	<tu xmlns:lang="ptb">Controlador da caixa de transferência</tu>
+	<tu xmlns:lang="rus">Контроллер раздаточной коробки</tu>
+	<tu xmlns:lang="esp">Controlador de la caja de transferencia</tu>
+	<tu xmlns:lang="chs">分线箱控制器</tu>
+	<tu xmlns:lang="kor">트랜스퍼 박스 컨트롤러</tu>
+</tm>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess5$I">
+	<tu xmlns:lang="eng">Choose a road with plenty of obstacles.</tu>
+	<tu xmlns:lang="nld">Kies een route met veel objecten langs de weg.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Choisissez une route bordée de nombreux poteaux, barrières, etc.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Eine Straße mit ausreichend vielen Schildern, Beplankung usw. auswählen.</tu>
+	<tu xmlns:lang="ita">Scegliere una strada con numerosi arredi stradali.</tu>
+	<tu xmlns:lang="jpn">道路標識・表\示板などの多い道路を選択しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Escolha uma rua com bastantes sinais/pontos de referência.</tu>
+	<tu xmlns:lang="ptb">Escolha uma estrada com muitos obstáculos.</tu>
+	<tu xmlns:lang="rus">Выберите дорогу с большим количеством препятствий.</tu>
+	<tu xmlns:lang="esp">Elegir una calle con mucho 'mobiliario callejero'.</tu>
+	<tu xmlns:lang="chs">选择一条障碍物多的道路。</tu>
+	<tu xmlns:lang="kor">장애물이 많은 도로를 선택하십시오.</tu>
+</tm>

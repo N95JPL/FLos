@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ACC_ECU">
+	<tu xmlns:lang="eng">Adaptive speed control ECU</tu>
+	<tu xmlns:lang="nld">ECU van adaptieve cruise control</tu>
+	<tu xmlns:lang="fra">ECU du régulateur de vitesse adaptatif</tu>
+	<tu xmlns:lang="deu">Steuergerät der adaptiven Geschwindigkeitsregelung</tu>
+	<tu xmlns:lang="ita">ECU controllo di velocità adattativo</tu>
+	<tu xmlns:lang="jpn">アダプティブ スピード コントロール ECU</tu>
+	<tu xmlns:lang="ptg">ECU do comando da velocidade adaptável</tu>
+	<tu xmlns:lang="ptb">ECU de controle de velocidade adaptável</tu>
+	<tu xmlns:lang="rus">Электронный блок управления адаптивным круиз-контролем</tu>
+	<tu xmlns:lang="esp">ECU del control de velocidad adaptativo</tu>
+	<tu xmlns:lang="chs">自适应速度控制ECU</tu>
+	<tu xmlns:lang="kor">어댑티브 스피드 컨트롤 ECU</tu>
+</tm>

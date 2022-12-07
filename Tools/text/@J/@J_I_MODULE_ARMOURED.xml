@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MODULE_ARMOURED">
+	<tu xmlns:lang="eng">The module is in the correct armoured mode.</tu>
+	<tu xmlns:lang="nld">De regelmodule staat in de juiste beveiligde functie.</tu>
+	<tu xmlns:lang="fra">Le module est en mode protégé correct.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Steuergerät befindet sich im Modus für korrekte Panzerung.</tu>
+	<tu xmlns:lang="ita">Il modulo è in modalità protetta corretta.</tu>
+	<tu xmlns:lang="jpn">モジュールは正しい改装車モードになっています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Durante a operação de purga, não deixe o nível do fluido dos travões descer abaixo da marca de mínimo.</tu>
+	<tu xmlns:lang="ptb">O módulo está no modo blindado correto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок работает в соответствующем режиме охранной системы.</tu>
+	<tu xmlns:lang="esp">El módulo se encuentra en el modo protegido correcto.</tu>
+	<tu xmlns:lang="chs">模块处于正确的保护模式。</tu>
+	<tu xmlns:lang="kor">모듈이 올바른 장갑 보호 모드에 있습니다.</tu>
+</tm>

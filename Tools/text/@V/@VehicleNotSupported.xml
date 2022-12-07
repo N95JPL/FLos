@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VehicleNotSupported">
+	<tu xmlns:lang="eng">Vehicle not supported. Press 'tick' to exit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voertuig niet ondersteund. Klik op het vinkje om af te sluiten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Véhicule non pris en charge. Appuyez sur tick (cocher) pour quitter.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeug nicht unterstützt. Zum Beenden das Häkchen anklicken.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Veicolo non supportato. Selezionare il segno di spunta per uscire.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両はサポートされていません。 「チェックマーク」を押して終了してください。</tu>
+	<tu xmlns:lang="ptg">Veículo não suportado. Prima o visto para sair.</tu>
+	<tu xmlns:lang="ptb">Veículo não suportado. Pressione o tique para sair</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль не поддерживается. Нажмите на галочку, чтобы выйти.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Vehículo no compatible. Pulse la marca de verificación para salir.</tu>
+	<tu xmlns:lang="chs">车辆不受支持。 按下“勾选键”以退出。</tu>
+	<tu
+    xmlns:lang="kor"
+  >지원되지 않는 차량. 종료하려면 '체크 표시'를 누르십시오.</tu>
+</tm>

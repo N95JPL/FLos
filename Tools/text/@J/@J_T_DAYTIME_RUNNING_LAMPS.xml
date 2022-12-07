@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_DAYTIME_RUNNING_LAMPS">
+	<tu xmlns:lang="eng">417-04 Daytime running lamps</tu>
+	<tu xmlns:lang="nld">417-04 Dagverlichting</tu>
+	<tu xmlns:lang="fra">417-04 Daytime running lamps
+
+327</tu>
+	<tu xmlns:lang="deu">417-04 Tageslichtscheinwerfer</tu>
+	<tu xmlns:lang="ita">417-04 Luci diurne</tu>
+	<tu xmlns:lang="jpn">417-04 デイタイム ランニング ランプ</tu>
+	<tu xmlns:lang="ptg">417-04 Luzes de condução diurna</tu>
+	<tu xmlns:lang="ptb">417-04 Luzes de funcionamento diurno</tu>
+	<tu xmlns:lang="rus">417-04 Дневные габаритные фонари</tu>
+	<tu xmlns:lang="esp">417-04 Luces de conducción diurna</tu>
+	<tu xmlns:lang="chs">417-04白天运行灯</tu>
+	<tu xmlns:lang="kor">417-04 주간 주행등</tu>
+</tm>

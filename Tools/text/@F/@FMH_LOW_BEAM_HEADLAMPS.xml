@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FMH_LOW_BEAM_HEADLAMPS">
+	<tu xmlns:lang="eng">Follow me home with low beam headlamps</tu>
+	<tu xmlns:lang="nld">Instapverlichting met dimlicht</tu>
+	<tu xmlns:lang="fra">Fonction d'accompagnement avec les feux de croisement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beleuchtungs-Ausschaltverzögerung mit Abblendlichtscheinwerfern</tu>
+	<tu xmlns:lang="ita">Funzione spegnimento ritardato con fari anabbaglianti</tu>
+	<tu xmlns:lang="jpn">ロービーム ヘッドランプ点灯を伴うリンプホーム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Iluminação temporária ao afastar-se do veículo com faróis de médios</tu>
+	<tu xmlns:lang="ptb">Follow me home com faróis baixos</tu>
+	<tu xmlns:lang="rus">Задержка выключения фар ближнего света</tu>
+	<tu xmlns:lang="esp">Retardo de luces al salir con faros de luz de cruce</tu>
+	<tu xmlns:lang="chs">近光灯前照灯延时熄灭</tu>
+	<tu xmlns:lang="kor">로우 빔 헤드램프를 이용한 에스코트 램프</tu>
+</tm>

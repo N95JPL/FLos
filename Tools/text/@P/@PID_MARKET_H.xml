@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PID_MARKET_H">
+	<tu xmlns:lang="eng">Market</tu>
+	<tu xmlns:lang="nld">Markt</tu>
+	<tu xmlns:lang="fra">Marché</tu>
+	<tu xmlns:lang="deu">Absatzgebiet</tu>
+	<tu xmlns:lang="ita">Mercato</tu>
+	<tu xmlns:lang="jpn">市場</tu>
+	<tu xmlns:lang="ptg">Mercado</tu>
+	<tu xmlns:lang="ptb">Mercado</tu>
+	<tu xmlns:lang="rus">Рынок</tu>
+	<tu xmlns:lang="esp">Mercado</tu>
+	<tu xmlns:lang="chs">市场</tu>
+	<tu xmlns:lang="kor">시장</tu>
+</tm>

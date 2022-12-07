@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_PROC_RNEW_ABS_ECU">
+	<tu
+    xmlns:lang="eng"
+  >The procedure for renewing the ABS electronic control unit consists of 5 stages:</tu>
+	<tu
+    xmlns:lang="nld"
+  >De procedure voor het vervangen van de elektronische ABS-regelmodule bestaat uit 5 stappen:</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure de remplacement du module de commande électronique ABS passe par 5 étapes :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Erneuerung des elektronischen ABS-Steuergeräts erfolgt in fünf Schritten:</tu>
+	<tu
+    xmlns:lang="ita"
+  >La procedura per la sostituzione dell'unità di comando elettronica ABS comprende 5 fasi:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ABS エレクトロニック コントロール ユニットの交換は 5 段階からなります：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A operação de substituição da unidade electrónica de controlo do ABS é composta por 5 fases:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O procedimento para renovar a unidade de controle eletrônico do ABS é composto por 5 estágios:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура замены электронного блока управления ABS включает в себя 5 этапов:</tu>
+	<tu
+    xmlns:lang="esp"
+  >El procedimiento de sustitución del módulo de control electrónico del ABS comprende 5 etapas:</tu>
+	<tu xmlns:lang="chs">更新 ABS 电子控制单元的程序由 5 个阶段组成：</tu>
+	<tu xmlns:lang="kor">ABS 전자 컨트롤 유닛 교체 절차는 5단계로 구성됩니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CC_SELF_TEST">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will drive the remote climate control unit vents to fully open and then fully closed, carrying out a self-test of the system</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens deze procedure worden de ventilatieopeningen van de klimaatregeling helemaal geopend en gesloten; dit is een zelftest van het systeem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure commande l'ouverture puis la fermeture à distance complètes des aérateurs de climatisation en lançant un auto-diagnostic du système</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit diesem Vorgang werden die Belüftungsdüsen der abgesetzten Klimaregelungseinheit in die vollständig geöffnete, dann in die vollständig geschlossene Stellung verfahren, womit ein Selbsttest des Systems durchgeführt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura aziona l'apertura completa e quindi la chiusura completa delle bocchette di ventilazione dell'unità climatizzatore remota, eseguendo un'autodiagnosi del sistema</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順は、リモート クライメート コントロール ユニット ベントを全開に、続いて全閉に駆動し、システムのセルフテストを実行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento leva as saídas de ventilação da unidade de comando da climatização à distância a abrir totalmente e depois a fechar, efectuando um autoteste do sistema</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esse procedimento acionará os respiros da unidade de controle remoto de temperatura para abrir e, depois, fechar totalmente executando um auto-teste do sistema</tu>
+	<tu
+    xmlns:lang="rus"
+  >В результате выполнения данной процедуры будет проведено самотестирование системы, в ходе которого будут полностью открыты и снова закрыты вентиляционные дефлекторы дистанционного блока климат-контроля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento abrirá completamente y después cerrará completamente las salidas de aire del módulo de climatización remoto realizando una autocomprobación del sistema</tu>
+	<tu
+    xmlns:lang="chs"
+  >本程序将驱动气候遥控控制单元通风孔至全开位置然后至全关位置，从而执行该系统自检</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 원격 실내 온도 조절 시스템 유닛 환기구가 완전히 열린 다음에 완전히 닫히도록 작동하여 시스템의 자체 테스트를 수행합니다.</tu>
+</tm>

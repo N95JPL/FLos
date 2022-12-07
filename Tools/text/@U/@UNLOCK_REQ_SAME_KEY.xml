@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@UNLOCK_REQ_SAME_KEY">
+	<tu xmlns:lang="eng">Unlock switch press required on the same smart key.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Op dezelfde Smart-key moet op de ontgrendelschakelaar worden gedrukt.
+
+    </tu>
+	<tu
+    xmlns:lang="fra"
+  >Pression sur le commutateur de déverrouillage requise sur la même clé intelligente.
+
+    </tu>
+	<tu
+    xmlns:lang="deu"
+  >Entriegelungsschalter muss auf demselben Smart Key gedrückt werden.
+
+    </tu>
+	<tu
+    xmlns:lang="ita"
+  >Pressione dell'interruttore di sblocco richiesta sulla stessa chiave Smart.
+
+    </tu>
+	<tu xmlns:lang="jpn">同じスマート キーでアンロック スイッチの押下が必要です。
+
+    </tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pressão do botão de destrancagem necessária na mesma chave inteligente.
+
+    </tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para desbloquear o interruptor, é necessário pressioná-lo na mesma chave inteligente.
+
+    </tu>
+	<tu
+    xmlns:lang="rus"
+  >Необходимо нажать кнопку отпирания на том же самом электронном ключе.
+
+    </tu>
+	<tu
+    xmlns:lang="esp"
+  >Se debe pulsar el interruptor de desbloqueo de la misma llave inteligente.
+
+    </tu>
+	<tu xmlns:lang="chs">需要按下同一把智能钥匙上的解锁开关。
+
+    </tu>
+	<tu xmlns:lang="kor">같은 스마트 키에서 잠금 해제 스위치를 눌러야 합니다.
+
+    </tu>
+</tm>

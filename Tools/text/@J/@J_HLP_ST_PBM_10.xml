@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_PBM_10">
+	<tu
+    xmlns:lang="eng"
+  >The electronic parking brake should be in the released position.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De elektronische handrem moet in de losgezette stand staan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le frein de stationnement électronique doit être en position desserrée.</tu>
+	<tu xmlns:lang="deu">Die elektronische Handbremse muss gelöst sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il freno di stazionamento elettronico deve essere in posizione disinserita.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック パーキング ブレーキはリリース ポジションになければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O travão de estacionamento electrónico deve estar na posição de desactivado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O freio de estacionamento eletrônico deve estar na posição liberada.</tu>
+	<tu xmlns:lang="rus">Электронный стояночный тормоз должен быть выключен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El freno de estacionamiento electrónico debe estar en la posición desactivada.</tu>
+	<tu xmlns:lang="chs">电子驻车制动器应该处于释放位置。</tu>
+	<tu xmlns:lang="kor">전자식 주차 브레이크가 해제된 위치에 있어야 합니다.</tu>
+</tm>

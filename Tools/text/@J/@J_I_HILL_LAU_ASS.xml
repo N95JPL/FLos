@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HILL_LAU_ASS">
+	<tu xmlns:lang="eng">Hill launch assist</tu>
+	<tu xmlns:lang="nld">Starthulp voor omhoog rijden tegen heuvel </tu>
+	<tu xmlns:lang="fra">Assistance au démarrage en côte </tu>
+	<tu xmlns:lang="deu">Bergstartassistent </tu>
+	<tu xmlns:lang="ita">Assistenza alla partenza in salita</tu>
+	<tu xmlns:lang="jpn">ヒル ラウンチ アシスト</tu>
+	<tu xmlns:lang="ptg">Assistência em declives</tu>
+	<tu xmlns:lang="ptb">Auxílio ao arranque em ladeiras</tu>
+	<tu xmlns:lang="rus">Система помощи при трогании на подъеме </tu>
+	<tu xmlns:lang="esp">Asistencia para arranque en pendiente</tu>
+	<tu xmlns:lang="chs">斜坡起步辅助</tu>
+	<tu xmlns:lang="kor">HLA(Hill Launch Assist)</tu>
+</tm>

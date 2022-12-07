@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckEPADTCs">
+	<tu
+    xmlns:lang="eng"
+  >Check for electric power steering or steering system associated DTCs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer op DTC's met betrekking tot elektrische stuurbekrachtiging of stuurinrichting.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Rechercher les DTC associés à la direction assistée électrique ou au système de direction.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf elektrische Servolenkungs- oder Lenkungssystem-DTCs prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare l'eventuale presenza di DTC associati all'impianto sterzante o al servosterzo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >電動パワー ステアリングまたはステアリング システムに関連する DTC がないか確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique se existem códigos de avaria (DTC) associados à direção assistida elétrica ou ao sistema de direção.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se há DTCs associados à direção assistida ou ao sistema de direção.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте наличие кодов DTC, относящихся к системе рулевого управления или рулевому управлению с электрическим усилителем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Compruebe si hay DTC asociados con el sistema de dirección o la dirección asistida eléctrica.</tu>
+	<tu xmlns:lang="chs">检查是否存在与电子动力转向或转向系统相关的 DTC。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전자식 파워 스티어링 또는 스티어링 시스템 관련 DTC가 있는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_SA_ID_INIT_SAS">
+	<tu
+    xmlns:lang="eng"
+  >The following steering angle identification will be used to initialise the steering angle sensor.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem zal de nu volgende identificatie van de stuuruitslag gebruiken om de stuuruitslagsensor te initialiseren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'identification de l'angle de direction suivante sera utilisée pour initialiser le capteur d'angle de direction.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die folgende Lenkwinkelidentifikation wird zur Initialisierung des Lenkwinkelsensors genutzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il seguente identificativo dell'angolo di sterzata sarà usato per inizializzare il sensore angolo di sterzata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のステアリング アングル ID がステアリング アングル センサーの初期化に使用されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A identificação do ângulo da direcção que se segue é usada para inicializar o sensor do ângulo da direcção.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A identificação do ângulo de direção a seguir será utilizada para inicializar o sensor de ângulo da direção.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующая идентификация угла поворота будет использована для инициализации датчика угла поворота.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se utilizará la siguiente identificación del ángulo de la dirección para inicializar el sensor del ángulo de la dirección.</tu>
+	<tu xmlns:lang="chs">下列转向角标识将被用于对转向角传感器进行初始化。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 스티어링 각도 식별 정보를 사용하여 스티어링 각도 센서를 초기화합니다.</tu>
+</tm>

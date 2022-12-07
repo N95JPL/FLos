@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspEnableFail$M">
+	<tu xmlns:lang="eng">Air suspension re-enable failed.</tu>
+	<tu xmlns:lang="nld">Het opnieuw inschakelen van de luchtvering is mislukt.</tu>
+	<tu xmlns:lang="fra">Réactivation de la suspension pneumatique échouée.</tu>
+	<tu xmlns:lang="deu">Neuaktivierung der Luftfederung nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Riabilitazione sospensione pneumatica non riuscita.</tu>
+	<tu xmlns:lang="jpn">エア サスペンションの再作動可設定に失敗</tu>
+	<tu xmlns:lang="ptg">Reactivação da suspensão pneumática falhou.</tu>
+	<tu xmlns:lang="ptb">Reativação da suspensão a ar com defeito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Невозможно закачать воздух в систему пневматической подвески.</tu>
+	<tu xmlns:lang="esp">Falló la rehabilitación de la suspensión neumática.</tu>
+	<tu xmlns:lang="chs">空气悬架重新启用失败。</tu>
+	<tu xmlns:lang="kor">에어 서스펜션 재활성화에 실패했습니다.</tu>
+</tm>

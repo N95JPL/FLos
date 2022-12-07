@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnsureVehicleLevelSurface2$I">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the parking brake module is correctly secured to the vehicle and that the parking brake is applied.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer of de handremmodule goed aan het voertuig vastzit en de handrem is aangetrokken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que le module de frein de stationnement est correctement fixé au véhicule et que le frein de stationnement est serré.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass das Handbremsenmodul korrekt am Fahrzeug befestigt ist und dass die Handbremse angelegt ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che il modulo del freno di stazionamento sia fissato correttamente al veicolo e che il freno stesso sia innestato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パーキング ブレーキ モジュールが正しく車両に固定され、パーキング ブレーキがオンであることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o módulo do travão de mão está correctamente fixo ao veículo e de que o travão de mão está accionado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se o módulo de freio de estacionamento está fixado corretamente ao veículo e se o freio de estacionamento está aplicado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что блок стояночного тормоза правильно закреплен на автомобиле и что стояночный тормоз включен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que el módulo del freno de estacionamiento esté correctamente asegurado al vehículo y de que el freno de estacionamiento esté puesto.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保驻车制动器模块正确固定在车辆上，而且实施了驻车制动。</tu>
+	<tu
+    xmlns:lang="kor"
+  >주차 브레이크 모듈이 차량에 올바르게 고정되어 있고 주차 브레이크가 작동하는지 확인하십시오.</tu>
+</tm>

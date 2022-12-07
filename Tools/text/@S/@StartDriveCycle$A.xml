@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StartDriveCycle$A">
+	<tu xmlns:lang="eng">Start Drive Cycle</tu>
+	<tu xmlns:lang="nld">Start de rijcyclus</tu>
+	<tu xmlns:lang="fra">Démarrer le cycle de conduite</tu>
+	<tu xmlns:lang="deu">Start-Fahr-Zyklus</tu>
+	<tu xmlns:lang="ita">Inizio ciclo marcia</tu>
+	<tu xmlns:lang="jpn">ドﾗｲブｻｲｸﾙを始めます。</tu>
+	<tu xmlns:lang="ptg">Iniciar ciclo de condução</tu>
+	<tu xmlns:lang="ptb">Iniciar ciclo de acionamento</tu>
+	<tu xmlns:lang="rus">Начать ездовой цикл</tu>
+	<tu xmlns:lang="esp">Iniciar el ciclo de conducción</tu>
+	<tu xmlns:lang="chs">启动驱动循环</tu>
+	<tu xmlns:lang="kor">주행 사이클 시작</tu>
+</tm>

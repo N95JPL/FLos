@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_READ_DIS_ALRM_CLEAR">
+	<tu
+    xmlns:lang="eng"
+  >This application will read and then display the last 8 triggered alarm events.  It will then give the option to clear this data.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing leest de laatste 8 alarmgebeurtenissen en geeft ze weer.  Vervolgens kunnen deze gegevens worden verwijderd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application lira puis affichera les 8 dernières alarmes déclenchées.  L'option sera alors offerte d'effacer ces données.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung liest die letzten 8 ausgelösten Alarmereignisse aus und zeigt sie dann an.  Es wird dann die Option bereitgestellt, diese Daten zu löschen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quest'applicazione legge e visualizza gli ultimi 8 eventi di allarme attivati.  A questo punto, offre l'opportunità di cancellare questi dati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、最新の 8 回のアラーム トリガー イベントを読み取って表\示します。  その後このデータをクリアするオプションが提供されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação irá ler e apresentar os 8 eventos desencadeadores de alarme mais recentes.  Apresentará a seguir a opção de apagar estes dados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo irá ler e exibir os últimos 8 eventos de alarme disparado.  Ele irá, então, oferecer a opção para limpar esses dados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение служит для считывания и отображения 8 последних срабатываний охранной сигнализации.  Затем будет предоставлена возможность сброса этих данных.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación leerá y después mostrará los 8 últimos eventos de alarma activados.  Dará la opción de borrar estos datos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本应用程序将读取然后显示最近 8 个报警触发事件。  随后系统将提供清除这一数据的选项。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 마지막으로 트리거된 8개의 알람 이벤트를 읽은 다음 표시합니다.  그런 다음, 이 데이터를 삭제하는 옵션을 제공합니다.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FILE_TRANSF_STOR_SESS_MAN">
+	<tu
+    xmlns:lang="eng"
+  >The file may be transferred to a storage device using session manager.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt het bestand m.b.v. de 'sessiemanager' naar een opslagmedium overzetten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le fichier peut être transféré vers un périphérique de stockage à l'aide du gestionnaire de session.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Datei kann mit dem Sitzungsmanager auf ein Speichermedium übertragen werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il file potrebbe essere trasferito a un dispositivo di memorizzazione tramite un gestore di sessione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セッション マネージャーを使用して、このファイルを保存デバイスへ転送することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O ficheiro pode ser transferido para um dispositivo de armazenamento através de um gestor de sessão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O arquivo pode ser transferido para um dispositivo de armazenamento usando o gerenciador de sessão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Файл можно передать в запоминающее устройство с помощью менеджера сеансов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se puede transferir el archivo a un dispositivo de almacenamiento utilizando el Administrador de sesiones.</tu>
+	<tu xmlns:lang="chs">该文件可能利用对话管理器被传输至某个存储装置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >세션 관리자를 사용하여 파일을 저장 장치로 전송할 수 있습니다.</tu>
+</tm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_STATUS_CONFIGURE">
+	<tu xmlns:lang="eng">Configuring software download job.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bewerking voor het configureren van software is uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Configuration de la tâche de téléchargement du logiciel.</tu>
+	<tu xmlns:lang="deu">Aufgabe Herunterladen von Software wird konfiguriert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Configurazione in corso dell'operazione di scaricamento software.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ソ\フトウェア ダウンロード作業をコンフィギュレーションしています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A configurar tarefa de descarregamento ('download') de software.</tu>
+	<tu xmlns:lang="ptb">Configuração do processo de download de software.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Конфигурирование задания загрузки программного обеспечения.</tu>
+	<tu xmlns:lang="esp">Configurando trabajo de descarga de software.</tu>
+	<tu xmlns:lang="chs">正在配置软件下载工作。</tu>
+	<tu xmlns:lang="kor">소프트웨어 다운로드 작업 구성 중</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PUMP_LEARNING_PERMANENT">
+	<tu
+    xmlns:lang="eng"
+  >Fuel injection pump calibration permanent learning procedure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Procedure voor permanent inleren kalibrering brandstofinjectiepomp.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédure d'apprentissage permanent du calibrage de la pompe d'injection.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Lernverfahren permanente Kraftstoffeinspritzpumpenkalibrierung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Procedura di apprendimento permanente della taratura pompa di iniezione carburante.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フューエル インジェクション ポンプ キャリブレーション恒久学習手順</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Procedimento de programação permanente da calibragem da bomba injectora de combustível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Procedimento de aprendizagem permanente da calibração da bomba de injeção de combustível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура постоянного сохранения значений калибровки топливного насоса высокого давления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Procedimiento de aprendizaje permanente de la calibración de la bomba de inyección.</tu>
+	<tu xmlns:lang="chs">燃油喷射泵标定永久记忆程序。</tu>
+	<tu xmlns:lang="kor">연료 분사 펌프 보정 영구 학습 절차.</tu>
+</tm>

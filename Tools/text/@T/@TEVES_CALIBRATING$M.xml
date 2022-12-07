@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TEVES_CALIBRATING$M">
+	<tu xmlns:lang="eng">Calibrating</tu>
+	<tu xmlns:lang="nld">Calibrering</tu>
+	<tu xmlns:lang="fra">En cours d'etalonnage</tu>
+	<tu xmlns:lang="deu">Kalibrieren</tu>
+	<tu xmlns:lang="ita">Calibrando</tu>
+	<tu xmlns:lang="jpn">測定中</tu>
+	<tu xmlns:lang="ptg">A calibrar</tu>
+	<tu xmlns:lang="ptb">Calibrando</tu>
+	<tu xmlns:lang="rus">Выполнение калибровки</tu>
+	<tu xmlns:lang="esp">Calibrando</tu>
+	<tu xmlns:lang="chs">标定中</tu>
+	<tu xmlns:lang="kor">보정 중</tu>
+</tm>

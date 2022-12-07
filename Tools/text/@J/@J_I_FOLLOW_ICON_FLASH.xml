@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FOLLOW_ICON_FLASH">
+	<tu
+    xmlns:lang="eng"
+  >The 'follow icon' should now be flashing, this indicates that the vehicle is in 'service alignment' and now requires a driving cycle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het 'volg-pictogram' moet nu knipperen, wat aangeeft dat het voertuig in de 'onderhoudsuitlijning' staat en er nu een rijcyclus moet worden uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'icône 'suivant' doit maintenant clignoter, ce qui indique que le véhicule est en 'alignement de service' et requiert désormais un cycle de conduite.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Nachfolgesymbol sollte jetzt blinken; dies verweist darauf, dass das Fahrzeug sich im Modus Service-Einstellung befindet und jetzt ein Fahrzyklus erforderlich ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'icona della freccia della modalità di accodamento dovrebbe ora lampeggiare, indicando che il veicolo è in modalità di 'allineamento di servizio' e richiede quindi un ciclo di guida.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >「追尾アイコン」が点滅するはずです。これにより車両は「サービス アライメント」状態であることが表\わされ、ここでドライビング サイクルが必要になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O 'ícone de seguimento' deve estar a piscar, o que indica que o veículo está em 'alinhamento de assistência' e necessita agora de um ciclo de condução.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O ícone follow deve estar piscando, isso indica que o veículo está em alinhamento de serviço e, agora, requer um ciclo de condução.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Теперь должна мигать пиктограмма 'follow', а это указывает на то, что автомобиль находится в режиме 'service alignment' (сервисной регулировки) и требуется выполнить ездовой цикл.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El 'icono de seguimiento' debería estar parpadeando; esto indica que el vehículo está alineado y requiere un ciclo de conducción.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'此时 '跟随图标' 应该在闪烁，表示车辆正处于 '维修校准' 状态，并要求进行行驶循环。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >이제 '추종 아이콘'이 깜박일 것입니다. 이것은 차량이 '서비스 정렬' 위치에 있으며 이제 주행 사이클을 필요로 한다는 뜻입니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_OVERSPEED_WARN">
+	<tu xmlns:lang="eng">Overspeed warning</tu>
+	<tu xmlns:lang="nld">Overtoeren waarschuwing</tu>
+	<tu xmlns:lang="fra">Avertissement de survitesse</tu>
+	<tu xmlns:lang="deu">Warnung überdrehzahl</tu>
+	<tu xmlns:lang="ita">Segnalazione eccessiva velocità</tu>
+	<tu xmlns:lang="jpn">オーバースピード警告</tu>
+	<tu xmlns:lang="ptg">Aviso de velocidade excessiva</tu>
+	<tu xmlns:lang="ptb">Aviso de excesso de velocidade</tu>
+	<tu xmlns:lang="rus">Предупреждение о превышении скорости</tu>
+	<tu xmlns:lang="esp">Aviso exceso velocidad</tu>
+	<tu xmlns:lang="chs">超速报警</tu>
+	<tu xmlns:lang="kor">과속 경고</tu>
+</tm>

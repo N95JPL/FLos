@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DLC_NUM_120D">
+	<tu xmlns:lang="eng">Battery voltage</tu>
+	<tu xmlns:lang="nld">Accuspanning</tu>
+	<tu xmlns:lang="fra">Tension de Batterie</tu>
+	<tu xmlns:lang="deu">Batteriespannung</tu>
+	<tu xmlns:lang="ita">Tensione di batteria</tu>
+	<tu xmlns:lang="jpn">ﾊﾞｯﾃﾘ電圧</tu>
+	<tu xmlns:lang="ptg">Tensão da bateria</tu>
+	<tu xmlns:lang="ptb">Tensão da bateria</tu>
+	<tu xmlns:lang="rus">Напряжение аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Tensión de la Batería.</tu>
+	<tu xmlns:lang="chs">蓄电池电压</tu>
+	<tu xmlns:lang="kor">PDI 수행 및 고객 인계 시 배터리 전압을</tu>
+</tm>

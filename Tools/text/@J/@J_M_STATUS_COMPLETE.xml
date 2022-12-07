@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_STATUS_COMPLETE">
+	<tu xmlns:lang="eng">Completed software download job.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bewerking voor het downloaden van software is uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Tâche de téléchargement du logiciel terminée.</tu>
+	<tu xmlns:lang="deu">Aufgabe Herunterladen von Software abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Operazione di scaricamento software completata.</tu>
+	<tu xmlns:lang="jpn">ソ\フトウェア ダウンロード作業完了</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tarefa de descarregamento ('download') de software concluída.</tu>
+	<tu xmlns:lang="ptb">Processo de download de software concluído.</tu>
+	<tu xmlns:lang="rus">Завершено задание загрузки программного обеспечения.</tu>
+	<tu xmlns:lang="esp">Trabajo de descarga de software concluido.</tu>
+	<tu xmlns:lang="chs">已完成软件下载工作。</tu>
+	<tu xmlns:lang="kor">소프트웨어 다운로드 작업 완료</tu>
+</tm>

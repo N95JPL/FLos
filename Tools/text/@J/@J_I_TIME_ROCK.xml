@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIME_ROCK">
+	<tu xmlns:lang="eng">Time spent in rock crawl mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verstreken tijd in de functie voor kruipen over rotsen.</tu>
+	<tu xmlns:lang="fra">Temps passé en mode franchissement rocheux.</tu>
+	<tu xmlns:lang="deu">Nutzungszeit des Spezialprogramms Felsenkriechen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tempo trascorso in modalità avanzamento lento per terreno roccioso.</tu>
+	<tu xmlns:lang="jpn">岩山クロール モードでの消費時間</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tempo gasto em modo de marcha lenta em terreno rochoso.</tu>
+	<tu xmlns:lang="ptb">Tempo gasto em modo de pedras.</tu>
+	<tu xmlns:lang="rus">Время, проведенное в режиме малого хода по камням.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tiempo transcurrido en modo rocoso a marcha superlenta.</tu>
+	<tu xmlns:lang="chs">在颠簸缓行模式中花费的时间。</tu>
+	<tu xmlns:lang="kor">바위 크롤 모드에서 작동한 시간</tu>
+</tm>

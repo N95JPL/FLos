@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_RAIN_SENS_MOD">
+	<tu xmlns:lang="eng">Rain sensor module</tu>
+	<tu xmlns:lang="nld">Regensensormodule</tu>
+	<tu xmlns:lang="fra">Module capteur de pluie</tu>
+	<tu xmlns:lang="deu">Regensensormodul</tu>
+	<tu xmlns:lang="ita">Modulo sensore pioggia</tu>
+	<tu xmlns:lang="jpn">雨Hセ・サ モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo do sensor de chuva</tu>
+	<tu xmlns:lang="ptb">Módulo de sensor de chuva</tu>
+	<tu xmlns:lang="rus">Блок датчика дождя</tu>
+	<tu xmlns:lang="esp">Módulo del sensor de lluvia</tu>
+	<tu xmlns:lang="chs">雨量传感器模块</tu>
+	<tu xmlns:lang="kor">레인 센서 모듈</tu>
+</tm>

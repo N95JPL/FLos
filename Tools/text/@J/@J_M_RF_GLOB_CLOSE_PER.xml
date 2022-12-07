@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_RF_GLOB_CLOSE_PER">
+	<tu xmlns:lang="eng">Remote frequency global close permitted</tu>
+	<tu
+    xmlns:lang="nld"
+  >Frequentie op afstand voor comfortvergrendeling toegestaan</tu>
+	<tu xmlns:lang="fra">Fermeture générale avec fréquence à distance autorisée</tu>
+	<tu xmlns:lang="deu">Komfortschließung über Fernbedienung zulässig</tu>
+	<tu xmlns:lang="ita">Chiusura globale con telecomando permessa</tu>
+	<tu xmlns:lang="jpn">リモート周波数グローバル クローズ作動許可済み</tu>
+	<tu xmlns:lang="ptg">Fecho global de frequência à distância permitido</tu>
+	<tu xmlns:lang="ptb">Fechamento global de frequência remota permitido</tu>
+	<tu xmlns:lang="rus">Дистанционное полное закрывание разрешено</tu>
+	<tu xmlns:lang="esp">Cierre total por frecuencia remota permitido</tu>
+	<tu xmlns:lang="chs">已允许遥控器频率全局关闭</tu>
+	<tu xmlns:lang="kor">원격 주파수 전체 폐쇄 허용</tu>
+</tm>

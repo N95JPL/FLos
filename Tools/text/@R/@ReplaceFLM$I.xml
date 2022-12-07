@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ReplaceFLM$I">
+	<tu xmlns:lang="eng">Replace the front lighting control module.</tu>
+	<tu xmlns:lang="nld">Vervang de regelmodule van de voorverlichting.</tu>
+	<tu xmlns:lang="fra">Remplacez le module de commande d'éclairage avant.</tu>
+	<tu xmlns:lang="deu">Steuergerät Scheinwerfer ersetzen.</tu>
+	<tu xmlns:lang="ita">Sostituire il modulo di comando delle luci anteriori.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フロント ライティング コントロール モジュールを交換しなさい。</tu>
+	<tu xmlns:lang="ptg">Substitua o módulo de comando de iluminação dianteiro.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Substitua o módulo de controle de iluminação dianteira.</tu>
+	<tu xmlns:lang="rus">Заменить блок управления передним освещением.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sustituir el módulo de control del alumbrado delantero.</tu>
+	<tu xmlns:lang="chs">更换前照明控制模块。</tu>
+	<tu xmlns:lang="kor">프론트 조명 컨트롤 모듈을 교체하십시오.</tu>
+</tm>

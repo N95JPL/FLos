@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOD_PROG_DISABLE">
+	<tu
+    xmlns:lang="eng"
+  >Module programming and configuration will be disabled if the vehicle battery voltage is below:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de voertuigaccuspanning onder de volgende waarde daalt, zal het systeem het programmeren en configureren van de module deactiveren:</tu>
+	<tu
+    xmlns:lang="fra"
+  >La programmation et la configuration du module seront désactivées si la tension de batterie du véhicule tombe sous :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Programmierung und Konfiguration des Steuergeräts werden deaktiviert, wenn die Batteriespannung des Fahrzeugs unter folgendem Wert liegt:</tu>
+	<tu
+    xmlns:lang="ita"
+  >La programmazione e la configurazione del modulo vengono disabilitate se la tensione della batteria del veicolo è inferiore a:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両バッテリ電圧が次の数値以下になると、モジュール プログラミングおよびコンフィギュレーションが作動不可になります：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A programação e configuração do módulo serão desactivadas, se a tensão da bateria do veículo for inferior a:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A configuração e programação do módulo serão desativadas caso a tensão da bateria do veículo esteja abaixo de:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Программирование блока и конфигурация будут отключены, если напряжение аккумуляторной батареи автомобиля будет ниже:</tu>
+	<tu
+    xmlns:lang="esp"
+  >La programación y configuración del módulo se inhabilitarán si la tensión de la batería es inferior a:</tu>
+	<tu xmlns:lang="chs">如果车辆蓄电池电压低于下列值，模块设置与配置将被禁用：</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 배터리 전압이 다음 미만인 경우 모듈 프로그래밍 및 구성이 비활성화됩니다.</tu>
+</tm>

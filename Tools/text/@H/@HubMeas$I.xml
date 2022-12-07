@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HubMeas$I">
+	<tu xmlns:lang="eng">Hub measurement.</tu>
+	<tu xmlns:lang="nld">Naafmeting.</tu>
+	<tu xmlns:lang="fra">Mesure au moyeu.</tu>
+	<tu xmlns:lang="deu">Messung Nabe.</tu>
+	<tu xmlns:lang="ita">Misura mozzo.</tu>
+	<tu xmlns:lang="jpn">ハブの測定値</tu>
+	<tu xmlns:lang="ptg">Medição do cubo.</tu>
+	<tu xmlns:lang="ptb">Medida de cubo.</tu>
+	<tu xmlns:lang="rus">Измерение ступицы.</tu>
+	<tu xmlns:lang="esp">Medida del cubo.</tu>
+	<tu xmlns:lang="chs">轮毂测量。</tu>
+	<tu xmlns:lang="kor">허브 측정</tu>
+</tm>

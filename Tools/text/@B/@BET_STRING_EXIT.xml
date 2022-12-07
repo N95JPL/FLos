@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BET_STRING_EXIT">
+	<tu
+    xmlns:lang="eng"
+  >Press the cross to exit without correcting the problem.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op het kruisje om dit programma te verlaten zonder het probleem te corrigeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la croix pour quitter sans corriger le problème.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zum Verlassen ohne Richtigstellung des Problems das Kreuz antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il tasto con la crocetta per uscire senza correggere il problema.</tu>
+	<tu xmlns:lang="jpn">問題を解決せずに終了する場合は × を押しなさい。</tu>
+	<tu xmlns:lang="ptg">Prima a cruz para sair sem corrigir o problema.</tu>
+	<tu xmlns:lang="ptb">Pressione a cruzeta para sair sem corrigir o problema.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите на крестик, чтобы выйти без устранения проблемы.</tu>
+	<tu xmlns:lang="esp">Pulsar la cruz para salir sin corregir el problema.</tu>
+	<tu xmlns:lang="chs">按叉号在问题没有纠正的情况下退出。</tu>
+	<tu
+    xmlns:lang="kor"
+  >문제를 수정하지 않고 종료하려면 십자() 기호를 누르십시오.</tu>
+</tm>

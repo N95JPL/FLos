@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FrontDemister">
+	<tu xmlns:lang="eng">Front demist distribution motor</tu>
+	<tu xmlns:lang="nld">Voorste verdeelmotor voor ontwaseming</tu>
+	<tu xmlns:lang="fra">Moteur de distribution de désembuage avant</tu>
+	<tu xmlns:lang="deu">Entfeuchtungs-Luftverteilermotor vorn</tu>
+	<tu xmlns:lang="ita">Motorino di distribuzione sbrinatore anteriore</tu>
+	<tu xmlns:lang="jpn">フロント デミスト ディストリビューション モータ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Motor de distribuição de desembaciamento do para-brisas dianteiro</tu>
+	<tu xmlns:lang="ptb">Motor de distribuição do desembaçador dianteiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Передний электропривод распределения воздуха для обдува стекол</tu>
+	<tu xmlns:lang="esp">Motor de distribución de desempañado delantero</tu>
+	<tu xmlns:lang="chs">前除雾分配电机</tu>
+	<tu xmlns:lang="kor">프론트 서리 제거 분배 모터</tu>
+</tm>

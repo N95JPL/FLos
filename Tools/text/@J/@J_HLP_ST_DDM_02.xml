@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_DDM_02">
+	<tu
+    xmlns:lang="eng"
+  >If necessary actuators will be energized for a minimum time.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er zullen zonodig voor korte tijd actuators geactiveerd worden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si nécessaire, les actionneurs seront excités pendant une durée minimale.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls erforderlich, werden Stellglieder für einen Mindestzeitraum angesteuert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se necessario, gli attuatori si azionano per un tempo minimo.</tu>
+	<tu xmlns:lang="jpn">必要に応じてアクチュエータも最短時間通電されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se necessário, os actuadores serão activados durante breves instantes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se for necessário, os atuadores serão energizados para um tempo mínimo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При необходимости питание будет подано на приводы на минимальное время.</tu>
+	<tu
+    xmlns:lang="esp"
+  >En caso necesario, se activarán los actuadores durante un tiempo mínimo.</tu>
+	<tu xmlns:lang="chs">如有必要，致动器将通电最短一段时间。</tu>
+	<tu
+    xmlns:lang="kor"
+  >필요한 경우 최소 시간 동안 액추에이터에 전력이 공급됩니다.</tu>
+</tm>

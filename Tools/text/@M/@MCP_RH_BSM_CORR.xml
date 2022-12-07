@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_RH_BSM_CORR">
+	<tu xmlns:lang="eng">Right side  -  Radar signal  -  Reversal correction</tu>
+	<tu
+    xmlns:lang="nld"
+  >RECHTERKANT  -  Radarsignaal  -  Terugdraaien correctie</tu>
+	<tu
+    xmlns:lang="fra"
+  >COTE DROIT  -  Signal du radar  -  Correction de la marche arrière</tu>
+	<tu xmlns:lang="deu">RECHTS  -  Radarsignal  -  Korrektur der Umkehrung</tu>
+	<tu
+    xmlns:lang="ita"
+  >LATO DESTRO  -  Segnale radar  -  Correzione dell'inversione</tu>
+	<tu xmlns:lang="jpn">右側  －  レーダ信号  －  逆の修正</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Lado direito  -  Sinal do radar  -  Correcção da marcha-atrás</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Lado direito  -  Sinal de Radar  -  Correção de inversão</tu>
+	<tu
+    xmlns:lang="rus"
+  >Правая сторона  -  Сигнал радара  -  Обратная коррекция</tu>
+	<tu xmlns:lang="esp">LADO DERECHO  -  Señal de radar  -  Corrección inversa</tu>
+	<tu xmlns:lang="chs">右侧  -  雷达信号  -  反向校正</tu>
+	<tu xmlns:lang="kor">우측  -  레이더 신호  -  변환 보정</tu>
+</tm>

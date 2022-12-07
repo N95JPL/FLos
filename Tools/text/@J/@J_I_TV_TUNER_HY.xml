@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TV_TUNER_HY">
+	<tu xmlns:lang="eng">Television tuner (hybrid DVB-T and analogue)</tu>
+	<tu xmlns:lang="nld">Televisietuner (kruising van DVB-T en analoog)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Syntoniseur de télévision (hybride DVB-T et analogique)</tu>
+	<tu xmlns:lang="deu">TV-Tuner (Hybrid-DVB-T und analog)</tu>
+	<tu xmlns:lang="ita">Sintonizzatore TV (DVB-T ibrida e analogica)</tu>
+	<tu xmlns:lang="jpn">TV チューナー (ハイブリッド DVB-T とアナログ)</tu>
+	<tu xmlns:lang="ptg">Sintonizador da televisão (híbrido, DVB-T e analógico)</tu>
+	<tu xmlns:lang="ptb">Sintonizador de televisão (híbrido DVB-T e analógico)</tu>
+	<tu xmlns:lang="rus">ТВ-тюнер (гибридное DVB-T и аналоговое)</tu>
+	<tu xmlns:lang="esp">Sintonizador de televisión (híbrido DVB-T y analógico)</tu>
+	<tu xmlns:lang="chs">电视调谐器（混合 DVB-T 和模拟）</tu>
+	<tu xmlns:lang="kor">텔레비전 튜너(하이브리드 DVB-T 및 아날로그)</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FCDIM_02">
+	<tu xmlns:lang="eng">The checks carried out are as follows:</tu>
+	<tu xmlns:lang="nld">Hier volgen de uitgevoerde controles:</tu>
+	<tu xmlns:lang="fra">Les contrôles effectués sont les suivants :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei den durchgeführten Prüfungen handelt es sich um die Folgenden:</tu>
+	<tu xmlns:lang="ita">I controlli eseguiti sono i seguenti:</tu>
+	<tu xmlns:lang="jpn">実行されるチェックは次のとおりです：</tu>
+	<tu xmlns:lang="ptg">As verificações executadas são as seguintes:</tu>
+	<tu xmlns:lang="ptb">As verificações realizadas são como segue:</tu>
+	<tu xmlns:lang="rus">Проверки выполняются следующим образом:</tu>
+	<tu xmlns:lang="esp">Las comprobaciones realizadas son las siguientes:</tu>
+	<tu xmlns:lang="chs">执行完成的检查如下：</tu>
+	<tu xmlns:lang="kor">점검 작업은 다음과 같이 수행됩니다.</tu>
+</tm>

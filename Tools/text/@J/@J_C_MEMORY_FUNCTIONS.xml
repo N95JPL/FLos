@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_MEMORY_FUNCTIONS">
+	<tu xmlns:lang="eng">Column memory.</tu>
+	<tu xmlns:lang="nld">Kolomgeheugen</tu>
+	<tu xmlns:lang="fra">Memoire de colonne</tu>
+	<tu xmlns:lang="deu">Lenksäulenpositionsspeicher</tu>
+	<tu xmlns:lang="ita">Memoria piantone sterzo</tu>
+	<tu xmlns:lang="jpn">コラム メモリ</tu>
+	<tu xmlns:lang="ptg">Memória da coluna.</tu>
+	<tu xmlns:lang="ptb">Memória da coluna.</tu>
+	<tu xmlns:lang="rus">Колонная память</tu>
+	<tu xmlns:lang="esp">Memoria de la columna</tu>
+	<tu xmlns:lang="chs">柱存储器。</tu>
+	<tu xmlns:lang="kor">칼럼 메모리.</tu>
+</tm>

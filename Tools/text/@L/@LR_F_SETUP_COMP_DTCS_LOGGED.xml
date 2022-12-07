@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_F_SETUP_COMP_DTCS_LOGGED">
+	<tu
+    xmlns:lang="eng"
+  >Control module set-up procedure completed with diagnostic trouble codes logged.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instelling van de regelmodule is uitgevoerd, waarbij de diagnosefoutcodes zijn gelogd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédure de configuration du module de commande terminée avec enregistrement de codes de diagnostic.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einstellvorgang Steuergerät wurde abgeschlossen; Fehlercodes wurden abgespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Procedura di impostazione modulo di comando completata con registrazione di codici di guasto diagnostici.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >診断トラブル コード記録のままコントロール モジュール セットアップ手順完了。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Procedimento de configuração do módulo de comando concluído com os códigos de avaria registados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Procedimento de configuração do módulo de controle concluído com os códigos de problema de diagnóstico registrados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Настройка блока управления завершена, диагностические коды неисправностей зарегистрированы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Procedimiento de configuración del módulo de control concluido con códigos de avería registrados.</tu>
+	<tu xmlns:lang="chs">控制模块设置程序完成，故障诊断码已记录。</tu>
+	<tu
+    xmlns:lang="kor"
+  >고장 진단 코드를 기록한 상태에서 컨트롤 모듈 설정 절차가 완료되었습니다.</tu>
+</tm>

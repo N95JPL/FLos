@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EPB">
+	<tu xmlns:lang="eng">Electric park brake</tu>
+	<tu xmlns:lang="nld">Elektrische handrem</tu>
+	<tu xmlns:lang="fra">Frein de stationnement électrique</tu>
+	<tu xmlns:lang="deu">Elektrisch betätigte Handbremse</tu>
+	<tu xmlns:lang="ita">Freno di stazionamento elettrico</tu>
+	<tu xmlns:lang="jpn">エレクトリック パーキング ブレーキ</tu>
+	<tu xmlns:lang="ptg">Travão de mão eléctrico</tu>
+	<tu xmlns:lang="ptb">Freio de estacionamento elétrico</tu>
+	<tu xmlns:lang="rus">Электрический стояночный тормоз</tu>
+	<tu xmlns:lang="esp">Freno de estacionamiento eléctrico</tu>
+	<tu xmlns:lang="chs">电动驻车制动器</tu>
+	<tu xmlns:lang="kor">전자식 주차 브레이크</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ERR_FAILED_DAF_DATA_DOWNLOAD">
+	<tu xmlns:lang="eng">Failure in downloading ECU DAF data</tu>
+	<tu xmlns:lang="nld">Het downloaden van de ECU DAF-gegevens is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de téléchargement des données DAF de l'ECU.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Steuergerät-DAF-Daten konnten nicht heruntergeladen werden</tu>
+	<tu xmlns:lang="ita">Errore scaricamento dati DAF ECU</tu>
+	<tu xmlns:lang="jpn">ECU DAF データのダウンロードに失敗</tu>
+	<tu xmlns:lang="ptg">Falha na transferência dos dados DAF da ECU</tu>
+	<tu xmlns:lang="ptb">Falha no download dos dados DAF da ECU</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка при загрузке данных DAF из электронного блока управления</tu>
+	<tu xmlns:lang="esp">Fallo al descargar datos DAF de ECU</tu>
+	<tu xmlns:lang="chs">下载 ECU DAF 数据过程中发生故障</tu>
+	<tu xmlns:lang="kor">ECU DAF 데이터 다운로드 실패</tu>
+</tm>

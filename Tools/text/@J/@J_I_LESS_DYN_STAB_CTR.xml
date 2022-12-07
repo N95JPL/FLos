@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_DYN_STAB_CTR">
+	<tu xmlns:lang="eng">Dynamic stability control not fitted</tu>
+	<tu xmlns:lang="nld">Dynamische stabiliteitsregeling niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Contrôleur de stabilité dynamique non monté</tu>
+	<tu xmlns:lang="deu">Dynamische Stabilitätskontrolle nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Controllo stabilità dinamico non in dotazione</tu>
+	<tu xmlns:lang="jpn">ダイナミック スタビリティ コントロール非装備</tu>
+	<tu xmlns:lang="ptg">Controlo dinâmico da estabilidade não está instalado</tu>
+	<tu xmlns:lang="ptb">Controle de estabilidade dinâmica não instalado</tu>
+	<tu xmlns:lang="rus">Система динамической стабилизации не установлена</tu>
+	<tu xmlns:lang="esp">No hay control de estabilidad dinámica</tu>
+	<tu xmlns:lang="chs">动态稳定性控制模块未安装</tu>
+	<tu xmlns:lang="kor">다이내믹 스태빌리티 컨트롤이 장착되지 않음</tu>
+</tm>

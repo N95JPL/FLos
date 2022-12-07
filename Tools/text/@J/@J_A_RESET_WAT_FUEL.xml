@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_RESET_WAT_FUEL">
+	<tu xmlns:lang="eng">Reset water in fuel detection</tu>
+	<tu xmlns:lang="nld">Detectie van water in brandstof resetten</tu>
+	<tu xmlns:lang="fra">Réinitialisez la détection d'eau dans le carburant</tu>
+	<tu xmlns:lang="deu">Ermittlung Wasser-im-Kraftstoff rücksetzen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Reimpostare la rilevazione della presenza di acqua nel carburante</tu>
+	<tu xmlns:lang="jpn">フューエル内の水の検出のリセット</tu>
+	<tu xmlns:lang="ptg">Reiniciar o sinal de detecção de água no combustível</tu>
+	<tu xmlns:lang="ptb">Redefinir água na detecção de combustível</tu>
+	<tu xmlns:lang="rus">Сброс определения воды в топливе</tu>
+	<tu
+    xmlns:lang="esp"
+  >Restaurar la detección de la presencia de agua en el combustible</tu>
+	<tu xmlns:lang="chs">燃油含水检测复位</tu>
+	<tu xmlns:lang="kor">연료 내 수분 감지 재설정</tu>
+</tm>

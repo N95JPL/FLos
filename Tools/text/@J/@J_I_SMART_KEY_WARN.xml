@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SMART_KEY_WARN">
+	<tu xmlns:lang="eng">Smart key battery low warning</tu>
+	<tu xmlns:lang="nld">Waarschuwing batterij van smart-sleutel bijna leeg</tu>
+	<tu xmlns:lang="fra">Avertissement de pile faible sur clé intelligente</tu>
+	<tu xmlns:lang="deu">Warnung niedrige Batterieladung - Smart Key</tu>
+	<tu xmlns:lang="ita">Segnalazione batteria scarica chiave intelligente</tu>
+	<tu xmlns:lang="jpn">スマート キー バッテリ低電圧警告</tu>
+	<tu xmlns:lang="ptg">Aviso de bateria gasta da chave inteligente</tu>
+	<tu xmlns:lang="ptb">Aviso de bateria fraca da chave inteligente</tu>
+	<tu xmlns:lang="rus">Предупреждение о разряде батарейки электронного ключа</tu>
+	<tu xmlns:lang="esp">Aviso de carga baja de la pila de la llave inteligente</tu>
+	<tu xmlns:lang="chs">智能钥匙电池电量不足警告</tu>
+	<tu xmlns:lang="kor">스마트 키 배터리 부족 경고</tu>
+</tm>

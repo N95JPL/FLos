@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_METRIC_IMPERIAL">
+	<tu xmlns:lang="eng">Metric or imperial measurements</tu>
+	<tu xmlns:lang="nld">Metrische of Britse maten</tu>
+	<tu xmlns:lang="fra">Mesures métriques ou anglo-saxonnes</tu>
+	<tu xmlns:lang="deu">Metrische oder britische Maßeinheiten</tu>
+	<tu xmlns:lang="ita">Misure metriche o inglesi</tu>
+	<tu xmlns:lang="jpn">メートルまたはインペリアル測定値</tu>
+	<tu xmlns:lang="ptg">Medidas métricas ou imperiais</tu>
+	<tu xmlns:lang="ptb">Medições métricas ou imperiais</tu>
+	<tu xmlns:lang="rus">Метрические или британские единицы измерения</tu>
+	<tu xmlns:lang="esp">Medidas métricas o inglesas</tu>
+	<tu xmlns:lang="chs">公制/英制计量单位</tu>
+	<tu xmlns:lang="kor">미터법 또는 영국식 단위 측정</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EXCEPT_USA_CANADA_MEX">
+	<tu xmlns:lang="eng">Except North America, Canada, Mexico</tu>
+	<tu xmlns:lang="nld">Behalve Noord-Amerika, Canada, Mexico</tu>
+	<tu xmlns:lang="fra">Sauf Amérique du nord, Canada, Mexique</tu>
+	<tu xmlns:lang="deu">Außer Nordamerika, Kanada, Mexiko</tu>
+	<tu xmlns:lang="ita">Eccetto Nord America, Canada, Messico</tu>
+	<tu xmlns:lang="jpn">北米、カナダ、メキシコ以外</tu>
+	<tu xmlns:lang="ptg">Excepto América do Norte, Canadá, México</tu>
+	<tu xmlns:lang="ptb">Exceto nos Estados Unidos, Canadá e México</tu>
+	<tu xmlns:lang="rus">За исключением Северной Америки, Канады, Мексики</tu>
+	<tu xmlns:lang="esp">Excepto Estados Unidos, Canadá, México</tu>
+	<tu xmlns:lang="chs">'除北美、加拿大、墨西哥外'</tu>
+	<tu xmlns:lang="kor">북미, 캐나다, 멕시코 제외</tu>
+</tm>

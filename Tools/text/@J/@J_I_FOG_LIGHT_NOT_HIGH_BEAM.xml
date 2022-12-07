@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FOG_LIGHT_NOT_HIGH_BEAM">
+	<tu xmlns:lang="eng">Foglight not together with high beam</tu>
+	<tu xmlns:lang="nld">Mistlichten niet samen met grootlicht</tu>
+	<tu xmlns:lang="fra">Feu anti-brouillard dissocié des pleins phares</tu>
+	<tu xmlns:lang="deu">Nebelscheinwerfer nicht zusammen mit Fernlicht</tu>
+	<tu xmlns:lang="ita">Fendinebbia non abbinato ai fari abbaglianti</tu>
+	<tu xmlns:lang="jpn">ハイビームで消灯するフォグライト</tu>
+	<tu xmlns:lang="ptg">Farol de nevoeiro separado do farol de máximos</tu>
+	<tu xmlns:lang="ptb">Farol de neblina separado do farol alto</tu>
+	<tu xmlns:lang="rus">Противотуманные фары отдельно от фар дальнего света</tu>
+	<tu xmlns:lang="esp">Luz antiniebla independiente del faro de luz larga</tu>
+	<tu xmlns:lang="chs">雾灯不与远光灯同时点亮</tu>
+	<tu xmlns:lang="kor">포그 램프(하이 빔과 함께 포함되지 않음)</tu>
+</tm>

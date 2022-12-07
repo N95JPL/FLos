@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_TMC_V2">
+	<tu xmlns:lang="eng">Traffic message channel module.</tu>
+	<tu xmlns:lang="nld">Module van verkeersinformatiekanaal.</tu>
+	<tu xmlns:lang="fra">Module de canal d'informations routières.</tu>
+	<tu xmlns:lang="deu">Steuergerät Verkehrsmeldungskanal.</tu>
+	<tu xmlns:lang="ita">Modulo canale trasmissione messaggi sul traffico.</tu>
+	<tu xmlns:lang="jpn">交通情報チャンネル モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo do canal de mensagens de tráfego.</tu>
+	<tu xmlns:lang="ptb">Módulo de canal de mensagens de trânsito.</tu>
+	<tu xmlns:lang="rus">Модуль канала дорожных сообщений</tu>
+	<tu xmlns:lang="esp">Módulo del canal de mensajes de tráfico.</tu>
+	<tu xmlns:lang="chs">交通消息频道模块。</tu>
+	<tu xmlns:lang="kor">실시간 교통 정보 채널 모듈</tu>
+</tm>

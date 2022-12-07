@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AMPS_TEL">
+	<tu xmlns:lang="eng">AMPS telephone</tu>
+	<tu xmlns:lang="nld">AMPS-telefoon</tu>
+	<tu xmlns:lang="fra">Téléphone AMPS</tu>
+	<tu xmlns:lang="deu">AMPS-Telefon</tu>
+	<tu xmlns:lang="ita">Telefono AMPS</tu>
+	<tu xmlns:lang="jpn">AMPS テレホン</tu>
+	<tu xmlns:lang="ptg">Telefone AMPS</tu>
+	<tu xmlns:lang="ptb">Telefone AMPS</tu>
+	<tu xmlns:lang="rus">Телефон стандарта AMPS</tu>
+	<tu xmlns:lang="esp">Teléfono AMPS</tu>
+	<tu xmlns:lang="chs">AMPS 电话</tu>
+	<tu xmlns:lang="kor">AMPS 전화</tu>
+</tm>

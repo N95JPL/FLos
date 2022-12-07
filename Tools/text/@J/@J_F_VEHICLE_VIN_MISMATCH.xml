@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_VEHICLE_VIN_MISMATCH">
+	<tu xmlns:lang="eng">Vehicle VIN mismatch</tu>
+	<tu xmlns:lang="nld">Voertuig VIN komt niet overeen</tu>
+	<tu xmlns:lang="fra">Divergence de VIN de véhicule</tu>
+	<tu xmlns:lang="deu">Keine Übereinstimmung Fahrzeug VIN</tu>
+	<tu xmlns:lang="ita">Discordanza VIN del veicolo</tu>
+	<tu xmlns:lang="jpn">VINがマッチしません。</tu>
+	<tu xmlns:lang="ptg">VIN do veículo não coincide</tu>
+	<tu xmlns:lang="ptb">Incompatibilidade de VIN do veículo</tu>
+	<tu xmlns:lang="rus">Несовпадение VIN автомобиля</tu>
+	<tu xmlns:lang="esp">El VIN del vehículo no corresponde</tu>
+	<tu xmlns:lang="chs">车辆识别代号（VIN）不匹配</tu>
+	<tu xmlns:lang="kor">차량 VIN 불일치</tu>
+</tm>

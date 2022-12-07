@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WOUT_NAV">
+	<tu xmlns:lang="eng">Not fitted with navigation.</tu>
+	<tu xmlns:lang="nld">Niet uitgerust met navigatiesysteem.</tu>
+	<tu xmlns:lang="fra">Non équipé de la navigation.</tu>
+	<tu xmlns:lang="deu">Nicht mit Navigation ausgestattet.</tu>
+	<tu xmlns:lang="ita">Sistema di navigazione non in dotazione.</tu>
+	<tu xmlns:lang="jpn">ナビゲーション非装備</tu>
+	<tu xmlns:lang="ptg">Não equipado com sistema de navegação.</tu>
+	<tu xmlns:lang="ptb">Não equipado com sistema de navegação.</tu>
+	<tu xmlns:lang="rus">Не снабжен навигацией.</tu>
+	<tu xmlns:lang="esp">No tiene sistema de navegación.</tu>
+	<tu xmlns:lang="chs">未安装导航。</tu>
+	<tu xmlns:lang="kor">내비게이션이 장착되지 않음</tu>
+</tm>

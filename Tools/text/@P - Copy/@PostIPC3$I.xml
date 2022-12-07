@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PostIPC3$I">
+	<tu xmlns:lang="eng">Once 5 minutes has elapsed, make sure the vehicle starts and that all fault codes have been cleared.</tu>
+	<tu xmlns:lang="nld">Controleer nadat de 5 minuten verstreken zijn dat het voertuig goed start en alle foutcodes gewist zijn.</tu>
+	<tu xmlns:lang="fra">Une fois les 5 minutes écoulées, vérifiez que le véhicule démarre et que tous les codes de défaut ont été effacés.</tu>
+	<tu xmlns:lang="deu">Es sind mehr als 5 Minuten verstrichen. Sicherstellen, dass der Motor anspringt und dass alle Fehlercodes gelöscht wurden.</tu>
+	<tu xmlns:lang="ita">Al termine dei cinque minuti, assicurarsi che il motore si accenda e che tutti i codici di guasto siano stati cancellati.</tu>
+	<tu xmlns:lang="jpn">5 分経過後、車両が始動し、すべてのフォルトコードがクリアされたことを確認しなさい。</tu>
+	<tu xmlns:lang="ptg">Após decorridos 5 minutos, certifique-se de que o veículo arranca e de que os códigos de avaria foram todos apagados.</tu>
+	<tu xmlns:lang="ptb">Passados os 5 minutos, verifique se o veículo dá a partida e se todos os códigos de falha foram apagados.</tu>
+	<tu xmlns:lang="rus">По истечении 5 минут убедитесь, что автомобиль запускается, и что все коды неисправностей удалены.</tu>
+	<tu xmlns:lang="esp">Al cabo de 5 minutos hay que asegurarse de que el motor arranque y que se hayan borrado todos los códigos de avería.</tu>
+	<tu xmlns:lang="chs">'一旦5分钟过去后，确保车辆启动，而且所有故障码均已清除。'</tu>
+	<tu xmlns:lang="kor">5분이 경과하면 차량 시동을 걸고 모든 고장 코드가 삭제되었는지 확인하십시오.</tu>
+</tm>

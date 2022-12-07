@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BatteryTooColdOrHot">
+	<tu
+    xmlns:lang="eng"
+  >If below 5°C, battery is too cold to support stop/start system. If above 45°C, battery is too hot to support stop/start system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onder de 5 °C is de accu te koud om het Stop/Start-systeem te ondersteunen. Boven de 45 °C is de accu te heet om het Stop/Start-systeem te ondersteunen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la température est inférieure à 5 °C, la batterie est trop froide pour prendre en charge le système Arrêt/Démarrage. Si elle est supérieure à 45 °C, la batterie est trop chaude pour prendre en charge le système Arrêt/Démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei weniger als 5 °C ist die Batterie zu kalt zur Unterstützung des Stopp/Start-Systems. Bei mehr 45 °C ist die Batterie zu warm zur Unterstützung des Stopp/Start-Systems.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se al di sotto di 5 °C, la batteria è troppo fredda per alimentare il sistema Stop/Start. Se al di sopra di 45 °C, la batteria è troppo calda per alimentare il sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >5ﾟC を下回ると、バッテリーが冷えすぎてスタート/ストップ システムをサポートできなくなります。 45ﾟC を上回ると、バッテリーが熱くなりすぎてスタート/ストップ システムをサポートできなくなります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se estiverem menos de 5 °C, a bateria está demasiado fria para suportar o sistema Stop/Start. Se estiverem mais de 45 °C, a bateria está demasiado quente para suportar o sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se, abaixo de 5 °C, a bateria está muito fria para dar suporte ao Sistema Stop/Start. Se, acima de a 45 °C, a bateria está muito quente para dar suporte ao Sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если температура ниже 5 °C, АКБ слишком холодная для поддержания работы системы старт/стоп. Если температура выше 45 °C, АКБ слишком горячая для поддержания работы системы старт/стоп.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se encuentra a menos de 5 °C, la batería está demasiado fría para alimentar el sistema Stop/Start. Si se encuentra a más de 45 °C, la batería está demasiado caliente para alimentar el sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果温度低于 5°C，则蓄电池会因过冷而无法支持停止/启动系统。 如果温度高于 45°C，则蓄电池会因过热而无法支持停止/启动系统。</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리 온도가 5°C보다 낮은 경우 Stop/Start 시스템을 지원하기에 너무 차갑습니다. 배터리 온도가 45°C보다 높은 경우 Stop/Start 시스템을 지원하기에 너무 뜨겁습니다.</tu>
+</tm>

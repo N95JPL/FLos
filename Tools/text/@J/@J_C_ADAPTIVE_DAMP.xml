@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ADAPTIVE_DAMP">
+	<tu xmlns:lang="eng">Adaptive damping.</tu>
+	<tu xmlns:lang="nld">Adaptief verstelbare schokdempers</tu>
+	<tu xmlns:lang="fra">Amortissement pilote</tu>
+	<tu xmlns:lang="deu">Adaptive dämpfung</tu>
+	<tu xmlns:lang="ita">Smorzamento adattativo</tu>
+	<tu xmlns:lang="jpn">アダプティブ ダ・ピ・グ</tu>
+	<tu xmlns:lang="ptg">Suspensão activa.</tu>
+	<tu xmlns:lang="ptb">Suspensão adaptável</tu>
+	<tu xmlns:lang="rus">Адаптивная система подвески.</tu>
+	<tu xmlns:lang="esp">Amortiguación adaptativa</tu>
+	<tu xmlns:lang="chs">自适应减振。</tu>
+	<tu xmlns:lang="kor">어댑티브 댐핑.</tu>
+</tm>

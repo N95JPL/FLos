@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GLASS_TYPE">
+	<tu xmlns:lang="eng">Glass type</tu>
+	<tu xmlns:lang="nld">Glazen type</tu>
+	<tu xmlns:lang="fra">Type de verre</tu>
+	<tu xmlns:lang="deu">Glastyp</tu>
+	<tu xmlns:lang="ita">Tipo cristallo</tu>
+	<tu xmlns:lang="jpn">ガラス タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de vidro</tu>
+	<tu xmlns:lang="ptb">Tipo de vidro</tu>
+	<tu xmlns:lang="rus">Тип стекла</tu>
+	<tu xmlns:lang="esp">Tipo de cristal</tu>
+	<tu xmlns:lang="chs">玻璃类型</tu>
+	<tu xmlns:lang="kor">글라스 유형</tu>
+</tm>

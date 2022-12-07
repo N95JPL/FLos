@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DEF_SPD_LIMIT_250">
+	<tu xmlns:lang="eng">Default speed limit (250KPH)</tu>
+	<tu xmlns:lang="nld">Standaardsnelheidslimiet (250 km/h)</tu>
+	<tu xmlns:lang="fra">Limite de vitesse par défaut (250 km/h)</tu>
+	<tu xmlns:lang="deu">Standard-Geschwindigkeitsbegrenzung (250 km/h)</tu>
+	<tu xmlns:lang="ita">Limite di velocità predefinito (250 km/h)</tu>
+	<tu xmlns:lang="jpn">デフォルト スピード リミット (250km/h)</tu>
+	<tu xmlns:lang="ptg">Limite de velocidade predefinido (250 km/h)</tu>
+	<tu xmlns:lang="ptb">Limite de velocidade padrão (250 KM/H)</tu>
+	<tu xmlns:lang="rus">Предельная скорость движения по умолчанию (250 км/ч)</tu>
+	<tu xmlns:lang="esp">Límite de velocidad por defecto (250 km/h)</tu>
+	<tu xmlns:lang="chs">默认速度限制（250KPH）</tu>
+	<tu xmlns:lang="kor">기본 속도 제한(250KPH)</tu>
+</tm>

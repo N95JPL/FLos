@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PASS_IMMOB_DIS_MKT_PROG_MESS">
+	<tu xmlns:lang="eng">Running Market Programming will disable vehicle unless Passive Immobilization Disable is selected from the bottom left dropdown box - for further information press information tab.</tu>
+	<tu xmlns:lang="nld">Door de marktprogrammering uit te voeren wordt het voertuig onklaar gemaakt, tenzij u de passieve startblokkering in de vervolgkeuzelijst linksonder hebt gedeselecteerd. Druk voor meer informatie op de informatietab.</tu>
+	<tu xmlns:lang="fra">La programmation des réglages du marché approprié neutralisera le véhicule à moins que la fonction de neutralisation de l'immobilisation passive soit sélectionnée dans la liste déroulante en bas à gauche - pour plus d'informations, appuyez sur l'onglet d'information.</tu>
+	<tu xmlns:lang="deu">Wenn Absatzmarktprogrammierung durchgeführt wird, führt dies zur Immobilisierung des Fahrzeugs, es sei denn, dass ?Passive Immobilization Disable? (passive Wegfahrsperre deaktivieren) aus der Dropdownliste unten links ausgewählt wird. Zu weiteren Informationen siehe Registerkarte Informationen.</tu>
+	<tu xmlns:lang="ita">Running Market Programming (Programmazione mercato in funzione) disabiliterà il veicolo a meno che non venga selezionata la voce Passive Immobilization Disable(Disabilitazione Immobilizzazione Passiva) dalla finestra a discesa in basso a sinistra - per ulteriori informazioni, selezionare la scheda Information (Informazioni).</tu>
+	<tu xmlns:lang="jpn">左底部のドロップダウン ボックスでパッシブ イモビライゼーション作動不可が選択されていない限り、市場プログラミングを実行すると、車両が動かなくなります - 情報タブを押して詳細情報を参照してください。</tu>
+	<tu xmlns:lang="ptg">Executar a Programação do Mercado desactiva o veículo a não ser que se seleccione Desactivar Sistema de Imobilização Passivo no menu descendente inferior; para mais informações, premir o separador de informações.</tu>
+	<tu xmlns:lang="ptb">Executar a programação de mercado desativará o veículo, exceto se Desativação de imobilização passiva for selecionada na caixa suspensa no canto inferior esquerdo. Para obter mais informações pressione guia Informações.</tu>
+	<tu xmlns:lang="rus">Выполнение программирования для конкретных рынков заблокирует автомобиль до тех пор, пока не будет выбрана опция Отключить пассивный иммобилайзер в нижнем левом раскрывающемся окне. Для получения дополнительной информации перейдите на вкладку 'Информация'.</tu>
+	<tu xmlns:lang="esp">Al ejecutar la programación para el mercado se deshabilitará el vehículo, a menos que se seleccione Passive Immobilization Disable (deshabilitar inmovilización pasiva) en el cuadro desplegable inferior izquierdo. Para obtener más información, seleccione la ficha de información.</tu>
+	<tu xmlns:lang="chs">除非从左边底下下拉对话框中选中了Passive Immobilization Disable（被动防盗锁止禁用），否则，运行Market Programming（市场编程）将会禁用车辆--如需更多信息，请按信息标签。</tu>
+	<tu xmlns:lang="kor">좌측 하단 드롭다운 상자에서 수동적 이모빌라이제이션 비활성화를 선택하지 않은 경우 시장 프로그래밍을 실행하면 차량이 비활성화됩니다. 자세한 내용을 보려면 정보 탭을 누르십시오.</tu>
+</tm>

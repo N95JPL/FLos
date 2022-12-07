@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VehToNorm$M">
+	<tu xmlns:lang="eng">The vehicle will now go to normal ride height.</tu>
+	<tu xmlns:lang="nld">Het voertuig zal nu naar de normale rijhoogte gaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule va maintenant passer à la hauteur d'assiette normale.</tu>
+	<tu xmlns:lang="deu">Das Fahrzeug geht jetzt zur normalen Fahrhöhe über.</tu>
+	<tu xmlns:lang="ita">Il veicolo passerà ora all'altezza di marcia normale.</tu>
+	<tu xmlns:lang="jpn">車両はここでノーマル ライド ハイトに移行します。</tu>
+	<tu xmlns:lang="ptg">O veículo irá para a altura normal de andamento.</tu>
+	<tu xmlns:lang="ptb">O veículo agora seguirá na altura normal do automóvel.</tu>
+	<tu xmlns:lang="rus">Автомобиль переместится на нормальную высоту.</tu>
+	<tu xmlns:lang="esp">Ahora el vehículo adoptará la altura de marcha normal.</tu>
+	<tu xmlns:lang="chs">车辆现在将转入正常行驶高度。</tu>
+	<tu xmlns:lang="kor">이제 차량이 정상 지상고로 설정됩니다.</tu>
+</tm>

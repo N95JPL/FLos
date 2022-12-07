@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_CLOS_DRI_DOOR">
+	<tu xmlns:lang="eng">Close the driver's door</tu>
+	<tu xmlns:lang="nld">Doe het bestuurdersportier dicht</tu>
+	<tu xmlns:lang="fra">Fermer la porte conducteur</tu>
+	<tu xmlns:lang="deu">Schließen Sie die Fahrertür</tu>
+	<tu xmlns:lang="ita">Chiudere la porta guidatore</tu>
+	<tu xmlns:lang="jpn">ﾄﾞﾗｲﾊﾞー側ﾄﾞｱを閉めなさい。</tu>
+	<tu xmlns:lang="ptg">Fechar a porta do condutor</tu>
+	<tu xmlns:lang="ptb">Feche a porta do motorista</tu>
+	<tu xmlns:lang="rus">Закройте дверь водителя</tu>
+	<tu xmlns:lang="esp">Cerrar la puerta del conductor</tu>
+	<tu xmlns:lang="chs">关闭驾驶员一侧车门</tu>
+	<tu xmlns:lang="kor">운전석 도어를 닫으십시오.</tu>
+</tm>

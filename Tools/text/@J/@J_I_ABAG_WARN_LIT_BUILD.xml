@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABAG_WARN_LIT_BUILD">
+	<tu
+    xmlns:lang="eng"
+  >The air bag warning lamp will be illuminated/flashing whilst the module is in build mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het airbagcontrolelampje zal branden/knipperen terwijl de module in de fabricagefunctie staat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le témoin d'avertissement d'airbag restera allumé/clignotera tant que le module sera en mode construction.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Airbag-Warnleuchte leuchtet auf/blinkt, während sich das Steuergerät im Konfigurationsmodus befindet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La spia airbag si accende/lampeggia mentre il modulo è in modalità di produzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュールが生産モードになっているとエア バッグ警告灯が点灯／点滅します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A luz de aviso do airbag mantém-se acesa/a piscar enquanto o módulo está em modo de fabrico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A luz de aviso de airbag ficará acesa/piscando enquanto o módulo estiver em modo de construção.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сигнализатор подушки безопасности будет гореть/мигать, пока блок находится в транспортном режиме.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El testigo de airbags estará iluminado o parpadeando mientras el módulo se encuentre en modo de fabricación.</tu>
+	<tu xmlns:lang="chs">模块处于建立模式时安全气囊警告灯将点亮/闪烁。</tu>
+	<tu
+    xmlns:lang="kor"
+  >모듈이 빌드 모드에 있는 동안 에어백 경고등이 켜지거나 깜박입니다.</tu>
+</tm>

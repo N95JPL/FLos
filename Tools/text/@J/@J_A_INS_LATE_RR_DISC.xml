@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_INS_LATE_RR_DISC">
+	<tu
+    xmlns:lang="eng"
+  >Insert the latest Range Rover diagnostic disc and then launch T4 diagnostic system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Steek de meest recente Range Rover diagnose-cd in en start daarna het T4-diagnosesysteem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Insérez le dernier disque de diagnostic Range Rover et lancez le système de diagnostic du T4.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die neueste Diagnose-DVD für den Range Rover einlegen und das T4-Diagnosesystem starten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Inserire la versione più recente del disco diagnostico Range Rover, quindi avviare il sistema diagnostico T4.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >最新の Range Rover 診断ディスクを入れて T4 診断システムを起動しなさい。</tu>
+	<tu xmlns:lang="ptg">Nome:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Insira o mais recente disco de diagnóstico Range Rover e, em seguida, inicie o sistema de diagnóstico T4.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вставьте последний диагностический диск Range Rover, затем запустите диагностическую систему T4.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Introducir el último disco de diagnosis del Range Rover e iniciar el sistema de diagnosis T4.</tu>
+	<tu xmlns:lang="chs">插入最新 Range Rover 诊断光碟，然后启动 T4 诊断系统。</tu>
+	<tu
+    xmlns:lang="kor"
+  >최신 Range Rover 진단 디스크를 넣은 다음 T4 진단 시스템을 실행하십시오.</tu>
+</tm>

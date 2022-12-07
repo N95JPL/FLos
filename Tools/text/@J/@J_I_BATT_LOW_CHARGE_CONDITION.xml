@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_LOW_CHARGE_CONDITION">
+	<tu
+    xmlns:lang="eng"
+  >If the battery is in low charge condition a few minutes of charge may be required before commencing diagnostics on the vehicle.  Connect the battery monitor and switch to charge mode.  The ignition must be switched off, keys removed and all doors closed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de accu bijna leeg is, kan het noodzakelijk zijn de accu enkele minuten op te laden alvorens te beginnen met de diagnose van het voertuig.  Sluit de accubewaking aan en schakel de laadfunctie in.  Het contact moet zijn uitgeschakeld, de sleutel verwijderd en alle portieren gesloten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la batterie est faiblement chargée, la mettre en charge quelques minutes avant de lancer les diagnostics du véhicule.  Brancher le contrôleur de batterie et le régler en mode de charge.  Couper le contact, retirer les clés et fermer toutes les portes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls die Batterie einen niedrigen Ladezustand aufweist, muss sie einige Minuten lang geladen werden, ehe mit der Diagnose am Fahrzeug begonnen wird.  Batterie-Monitor anschließen und auf Lademodus schalten.  Die Zündung muss ausgeschaltet, die Schlüssel müssen entfernt und alle Türen geschlossen werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la batteria si trova in condizioni di bassa carica, saranno necessari alcuni minuti per ricaricarla prima di iniziare le procedure diagnostiche del veicolo.  Collegare il monitor della batteria e passare alla modalità di carica.  L'accensione deve essere disinserita, le chiavi estratte e tutte le portiere chiuse.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリの充電状態が低い場合、車両の診断を開始する前に数分の充電を必要とする可能\性があります。  バッテリ モニターを接続し、充電モードに切り替えなさい。  イグニションをオフにし、キーを抜き取って全ドアを閉じる必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a bateria estiver com pouca carga, podem ser necessários alguns minutos de carga antes de iniciar o diagnóstico no veículo.  Ligue a monitorização da bateria e accione o modo de carga.  A ignição deve estar desligada, as chaves retiradas e todas as portas fechadas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a bateria estiver em condição de carga baixa, uns poucos minutos de carga poderão ser necessários antes de iniciar o diagnóstico no veículo.  Conecte o monitor de bateria e o interruptor para modo de carga.  A ignição deve ser desligada, as chaves removidas e todas as portas fechadas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если аккумуляторная батарея заряжена недостаточно, то перед началом диагностики автомобиля может потребоваться несколько минут зарядки.  Подключите зарядное устройство к аккумуляторной батареи и переключите его в режим зарядки.  Зажигание должно быть выключено, ключи извлечены, а все двери закрыты.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la batería se encuentra en estado de carga bajo, puede que se necesite cargar durante unos minutos antes de iniciar la diagnosis del vehículo.  Conectar el supervisor de la batería y ponerlo en modo de carga.  Hay que cortar el contacto, retirar las llaves y cerrar todas las puertas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果蓄电池处于低电量状态，对车辆进行诊断前，可能需要充电几分钟。  连接蓄电池监控器并将其切换到充电模式。  点火必须打至关闭，取出钥匙，并保持所有车门关闭。</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리가 충전 부족 상태에 있을 경우 차량 진단을 시작하려면 몇 분 정도 충전해야 할 수도 있습니다.  배터리 모니터를 연결하고 충전 모드로 전환하십시오.  점화 스위치를 끄고 키를 제거하고 모든 도어를 닫아야 합니다.</tu>
+</tm>

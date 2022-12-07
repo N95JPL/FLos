@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEHICLE_RESET">
+	<tu xmlns:lang="eng">Vehicle reset</tu>
+	<tu xmlns:lang="nld">Voertuig terugstellen</tu>
+	<tu xmlns:lang="fra">Remise à zéro véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Rücksetzung</tu>
+	<tu xmlns:lang="ita">Azzeramento veicolo</tu>
+	<tu xmlns:lang="jpn">車両リセット</tu>
+	<tu xmlns:lang="ptg">Reinicialização do veículo</tu>
+	<tu xmlns:lang="ptb">Reajuste de veículo</tu>
+	<tu xmlns:lang="rus">Сброс параметров блоков автомобиля</tu>
+	<tu xmlns:lang="esp">Restaurar vehículo</tu>
+	<tu xmlns:lang="chs">车辆复位</tu>
+	<tu xmlns:lang="kor">차량 재설정</tu>
+</tm>

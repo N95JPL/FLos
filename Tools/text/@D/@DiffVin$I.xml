@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DiffVin$I">
+	<tu
+    xmlns:lang="eng"
+  >Different vehicle identification number already stored.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is reeds een ander voertuigidentificatienummer opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Numéro d'identification du véhicule différent déjà enregistré.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Andere Fahrzeug-Identifizierungsnummer bereits abgespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Già memorizzato numero diverso di identificazione veicolo.</tu>
+	<tu xmlns:lang="jpn">異なる車両 ID ナンバーがすでに保存されています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Já gravado número de identificação do veículo diferente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Número de identificação do veículo diferente não armazenado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В памяти уже сохранен другой идентификационный номер автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ya hay memorizado un número de identificación del vehículo distinto.</tu>
+	<tu xmlns:lang="chs">已存储了不同的车辆标识号。</tu>
+	<tu xmlns:lang="kor">다른 차량 식별 번호가 이미 저장되어 있습니다.</tu>
+</tm>

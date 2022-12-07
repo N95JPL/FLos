@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PURG_SYS_SELFTEST">
+	<tu xmlns:lang="eng">Purge valve self test.</tu>
+	<tu xmlns:lang="nld">Zelftest van spoelklep.</tu>
+	<tu xmlns:lang="fra">Auto-diagnostic de l'électrovanne de purge.</tu>
+	<tu xmlns:lang="deu">Selbsttest Spülventil.</tu>
+	<tu xmlns:lang="ita">Prova automatica valvola di spurgo.</tu>
+	<tu xmlns:lang="jpn">パージ バルブ セルフ テスト</tu>
+	<tu xmlns:lang="ptg">Autoteste da válvula de purga.</tu>
+	<tu xmlns:lang="ptb">Autoteste da válvula de dreno.</tu>
+	<tu xmlns:lang="rus">Самотестирование клапана продувки.</tu>
+	<tu xmlns:lang="esp">Autocomprobación de la válvula de purga.</tu>
+	<tu xmlns:lang="chs">清污阀自检。</tu>
+	<tu xmlns:lang="kor">퍼지 밸브 자체 테스트</tu>
+</tm>

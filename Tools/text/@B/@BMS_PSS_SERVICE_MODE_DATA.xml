@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_PSS_SERVICE_MODE_DATA">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will collect and store the power supply service mode results data</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij deze procedure worden de resultaten van de voedingservicemodus verzameld en opgeslagen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure va collecter et enregistrer les données de résultats du mode service d'alimentation</tu>
+	<tu
+    xmlns:lang="deu"
+  >Durch diese Routine werden die Ergebnisdaten - Versorgung, Servicemodus zusammengetragen und gespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura acquisisce e memorizza i dati dei risultati della modalità di servizio alimentazione elettrica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順は電源供給サービス モードの結果データを収集し、保存します</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento irá receber e armazenar os dados dos resultados do modo de assistência da alimentação</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento coletará e armazenará os dados dos resultados do modo de serviço da fonte de alimentação</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе этой процедуры собираются и сохраняются данные по результатам сервисных режимов системы электропитания</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento recopila y almacena los datos de los resultados del modo de servicio del sistema de alimentación</tu>
+	<tu xmlns:lang="chs">本程序将收集并保存电源供电维修模式结果数据</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 전원 공급 장치 서비스 모드 결과 데이터를 수집하고 저장합니다.</tu>
+</tm>

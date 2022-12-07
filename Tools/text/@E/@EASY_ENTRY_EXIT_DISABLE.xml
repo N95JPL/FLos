@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EASY_ENTRY_EXIT_DISABLE">
+	<tu xmlns:lang="eng">Disable steering column tilt easy entry</tu>
+	<tu
+    xmlns:lang="nld"
+  >Schakel de hoogteverstelling van de stuurkolom voor gemakkelijk in- en uitstappen uit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Désactivez l'inclinaison de colonne de direction pour faciliter l'entrée/la sortie du véhicule</tu>
+	<tu
+    xmlns:lang="deu"
+  >Lenksäulen-Neigungsverstellung für Komforteinstieg deaktivieren</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitare l'entrata agevolata con l'inclinazione del piantone di sterzo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング コラム チルト イージー エントリーの非作動設定</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Desactivar a inclinação da coluna da direcção para entrada fácil</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Desativar entrada fácil da inclinação da coluna de direção</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отключение режима облегчения посадки за счет наклона рулевой колонки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Desactivar el modo de entrada fácil de inclinación de la columna de la dirección</tu>
+	<tu xmlns:lang="chs">禁用转向柱倾斜方便进入功能</tu>
+	<tu xmlns:lang="kor">스티어링 칼럼 틸트 전체 도어 열기 비활성화</tu>
+</tm>

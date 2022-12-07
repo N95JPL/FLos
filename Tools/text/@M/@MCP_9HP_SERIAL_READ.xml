@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_9HP_SERIAL_READ">
+	<tu
+    xmlns:lang="eng"
+  >Please note the transmission serial number on the vehicle and select the correct option from the list below to continue:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Let op het transmissieserienummer op het voertuig en selecteer de juiste optie in de onderstaande lijst om verder te gaan:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez noter le numéro de série de la transmission situé sur le véhicule et sélectionnez l'option appropriée dans la liste ci-dessous pour continuer :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte die Getriebe-Seriennummer beachten und die richtige Option aus der nachfolgenden Liste auswählen, um fortzufahren:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prendere nota del numero di serie del cambio sul veicolo e selezionare la corretta opzione dall'elenco seguente per continuare:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両のトランスミッションのシリアル ナンバーを書き留めて、以下のリストから適切なオプションを選択し、手順を続行すること。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Anote número de série da transmissão no veículo e seleccione a opção correcta na lista abaixo para continuar:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Observe o número de série da transmissão no veículo e selecione a opção correta na lista abaixo para continuar:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запишите серийный номер коробки передач, установленной на автомобиле, и выберите правильный вариант ниже для продолжения:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Anote el número de serie de la transmisión del vehículo y seleccione la opción correcta de la siguiente lista para continuar:</tu>
+	<tu
+    xmlns:lang="chs"
+  >请记录车辆上的变速器序列号，并从下面的列表中选择正确的选项以继续：</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량의 변속기 일련 번호를 기록하고 아래 목록에서 올바른 옵션을 선택하여 계속하십시오.</tu>
+</tm>

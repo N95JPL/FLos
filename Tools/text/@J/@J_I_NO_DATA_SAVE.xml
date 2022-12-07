@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_DATA_SAVE">
+	<tu xmlns:lang="eng">No data to save</tu>
+	<tu xmlns:lang="nld">Geen gegevens om op te slaan</tu>
+	<tu xmlns:lang="fra">Pas de données à enregistrer.</tu>
+	<tu xmlns:lang="deu">Keine Daten zum Abspeichern</tu>
+	<tu xmlns:lang="ita">Nessun dato da salvare</tu>
+	<tu xmlns:lang="jpn">保存するデータがありません。</tu>
+	<tu xmlns:lang="ptg">Não há dados a gravar</tu>
+	<tu xmlns:lang="ptb">Sem dados para salvar</tu>
+	<tu xmlns:lang="rus">Нет данных для сохранения</tu>
+	<tu xmlns:lang="esp">No hay datos que guardar</tu>
+	<tu xmlns:lang="chs">无数据可保存</tu>
+	<tu xmlns:lang="kor">저장할 데이터 없음</tu>
+</tm>

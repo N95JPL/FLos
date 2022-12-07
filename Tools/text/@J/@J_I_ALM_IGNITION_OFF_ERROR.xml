@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_IGNITION_OFF_ERROR">
+	<tu
+    xmlns:lang="eng"
+  >Ignition was not 'off' prior to attempting to program smart keys.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Contact was niet uit voordat er werd geprobeerd smart-keys te programmeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le contact n'était pas coupé avant la tentative de programmation des clés intelligentes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vor dem Versuch, Smart Keys zu programmieren, war die Zündung nicht ausgeschaltet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'accensione non era stata disinserita prima di provare a programmare le chiavi Smart.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スマート キーのプログラミングを開始する前にイグニッションが「オフ」にされなかった。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A ignição não estava desligada antes de tentar programar chaves inteligentes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A ignição não estava desativada antes de tentar as teclas inteligentes do programa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перед программированием электронных ключей не было выключено зажигание.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se apagó el sistema de encendido antes de intentar programar las llaves inteligentes.</tu>
+	<tu xmlns:lang="chs">尝试进行智能钥匙编程前点火开关未关闭。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스마트 키 프로그래밍을 시도하기 전에 점화 스위치가 'OFF' 상태가 아니었습니다.</tu>
+</tm>

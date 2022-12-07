@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_PREV">
+	<tu xmlns:lang="eng">Previous</tu>
+	<tu xmlns:lang="nld">Vorige</tu>
+	<tu xmlns:lang="fra">Précédent</tu>
+	<tu xmlns:lang="deu">Vorherige</tu>
+	<tu xmlns:lang="ita">Precedente</tu>
+	<tu xmlns:lang="jpn">ひとつ前</tu>
+	<tu xmlns:lang="ptg">Anterior</tu>
+	<tu xmlns:lang="ptb">Voltar</tu>
+	<tu xmlns:lang="rus">Предыдущий</tu>
+	<tu xmlns:lang="esp">Anterior</tu>
+	<tu xmlns:lang="chs">前一项</tu>
+	<tu xmlns:lang="kor">이전</tu>
+</tm>

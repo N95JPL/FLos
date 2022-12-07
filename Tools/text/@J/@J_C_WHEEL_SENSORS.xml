@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_WHEEL_SENSORS">
+	<tu xmlns:lang="eng">Wheel speed sensors</tu>
+	<tu xmlns:lang="nld">Wieltoerentalsensoren</tu>
+	<tu xmlns:lang="fra">Detecteurs vitesse roues</tu>
+	<tu xmlns:lang="deu">Raddrehzahlsensoren</tu>
+	<tu xmlns:lang="ita">Sensori velocita' ruote</tu>
+	<tu xmlns:lang="jpn">ﾎｲーﾙ・ｽﾋﾟーﾄﾞ・ｾﾝｻ</tu>
+	<tu xmlns:lang="ptg">Sensores de velocidade das rodas</tu>
+	<tu xmlns:lang="ptb">Sensores de rotação das rodas</tu>
+	<tu xmlns:lang="rus">Датчики частоты вращения колес</tu>
+	<tu xmlns:lang="esp">Sensores de velocidad de las ruedas</tu>
+	<tu xmlns:lang="chs">车轮转速传感器</tu>
+	<tu xmlns:lang="kor">휠 속도 센서</tu>
+</tm>

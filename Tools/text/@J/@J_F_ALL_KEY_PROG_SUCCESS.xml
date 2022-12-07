@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_ALL_KEY_PROG_SUCCESS">
+	<tu xmlns:lang="eng">All keys have been programmed correctly.</tu>
+	<tu xmlns:lang="nld">Alle sleutels werden correct geprogrammeerd.</tu>
+	<tu xmlns:lang="fra">Toutes les clés ont été programmées correctement.</tu>
+	<tu xmlns:lang="deu">Alle Schlüssel wurden korrekt programmiert.</tu>
+	<tu xmlns:lang="ita">Tutte le chiavi sono state programmate correttamente.</tu>
+	<tu xmlns:lang="jpn">すべてのキーが正しくプログラムされました。</tu>
+	<tu xmlns:lang="ptg">As chaves foram todas programadas correctamente.</tu>
+	<tu xmlns:lang="ptb">Todas as chaves foram programadas corretamente.</tu>
+	<tu xmlns:lang="rus">Все ключи запрограммированы успешно.</tu>
+	<tu xmlns:lang="esp">Se han programado correctamente todas las llaves.</tu>
+	<tu xmlns:lang="chs">所有车匙均已正确编程设置。</tu>
+	<tu xmlns:lang="kor">모든 키가 올바로 프로그래밍되었습니다.</tu>
+</tm>

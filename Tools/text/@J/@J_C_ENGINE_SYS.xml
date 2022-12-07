@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ENGINE_SYS">
+	<tu xmlns:lang="eng">Engine system</tu>
+	<tu xmlns:lang="nld">Motorsysteem</tu>
+	<tu xmlns:lang="fra">Groupe moteur</tu>
+	<tu xmlns:lang="deu">Motorsystem</tu>
+	<tu xmlns:lang="ita">Sistema motore</tu>
+	<tu xmlns:lang="jpn">エ・ジ・ システム</tu>
+	<tu xmlns:lang="ptg">Sistema do motor</tu>
+	<tu xmlns:lang="ptb">Sistema do motor</tu>
+	<tu xmlns:lang="rus">Система двигателя</tu>
+	<tu xmlns:lang="esp">Sistema de motor</tu>
+	<tu xmlns:lang="chs">发动机系统</tu>
+	<tu xmlns:lang="kor">엔진 시스템</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENS_IGN_OFF">
+	<tu xmlns:lang="eng">Make sure the ignition is switched off</tu>
+	<tu xmlns:lang="nld">Controleer of het contact is uitgeschakeld</tu>
+	<tu xmlns:lang="fra">Vérifier que le contact est coupé </tu>
+	<tu xmlns:lang="deu">Sicherstellen, daß die Zündung ausgeschaltet ist</tu>
+	<tu xmlns:lang="ita">Controllare che l'accensione sia disinserita</tu>
+	<tu xmlns:lang="jpn">イグニションがオフであることを確認しなさい。</tu>
+	<tu xmlns:lang="ptg">Assegure-se de que a ignição está desligada</tu>
+	<tu xmlns:lang="ptb">Certifique-se de que a ignição esteja desligada</tu>
+	<tu xmlns:lang="rus">Убедитесь, что зажигание выключено.</tu>
+	<tu xmlns:lang="esp">Cerciorarse de que el encendido está desconectado </tu>
+	<tu xmlns:lang="chs">确保关闭了点火开关。</tu>
+	<tu xmlns:lang="kor">점화 스위치가 꺼져 있는지 확인하십시오.</tu>
+</tm>

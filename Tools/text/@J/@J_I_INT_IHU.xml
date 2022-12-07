@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_IHU">
+	<tu xmlns:lang="eng">Internal audio control module.</tu>
+	<tu xmlns:lang="nld">Interne geïntegreerde hoofdunit.</tu>
+	<tu xmlns:lang="fra">Autoradio intégré interne.</tu>
+	<tu xmlns:lang="deu">Internes integriertes Audiosystem.</tu>
+	<tu xmlns:lang="ita">Unità audio interna integrata.</tu>
+	<tu xmlns:lang="jpn">内部統合ヘッド ユニット </tu>
+	<tu xmlns:lang="ptg">Unidade principal integrada interna.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle de áudio interno.</tu>
+	<tu xmlns:lang="rus">Встроенное интегрированное головное устройство.</tu>
+	<tu xmlns:lang="esp">Aparato central integral interno.</tu>
+	<tu xmlns:lang="chs">内部集成主机单元。</tu>
+	<tu xmlns:lang="kor">내부 오디오 컨트롤 모듈</tu>
+</tm>

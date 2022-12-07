@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart33">
+	<tu xmlns:lang="eng">Power supply auto stop/start system engine run request</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verzoek van het voedingssysteem aan het automatische Stop/Start-systeem om de motor te laten draaien</tu>
+	<tu
+    xmlns:lang="fra"
+  >Demande de fonctionnement du moteur du système Arrêt/Démarrage auto de l'alimentation électrique</tu>
+	<tu
+    xmlns:lang="deu"
+  >Motorlaufanforderung an das Auto-Stopp-Start-System durch die Spannungsversorgung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Richiesta di alimentazione per l'avviamento del motore del sistema Stop/Start automatico</tu>
+	<tu
+    xmlns:lang="jpn"
+  >電源によるオート ストップ/スタート システム エンジン作動要求</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pedido de funcionamento do motor do sistema Stop/Start automático da fonte de alimentação</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Solicitação de operação do motor do sistema stop/start automático da fonte de alimentação</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запрос на запуск двигателя автоматической интеллектуальной системой запуска/остановки двигателя стоп/старт от системы питания</tu>
+	<tu
+    xmlns:lang="esp"
+  >Solicitud de funcionamiento del motor del sistema Stop/Start automático de la fuente de alimentación</tu>
+	<tu xmlns:lang="chs">电源自动停止/启动系统发动机运行请求</tu>
+	<tu xmlns:lang="kor">전원 공급 자동 Stop/Start 시스템 엔진 작동 요청</tu>
+</tm>

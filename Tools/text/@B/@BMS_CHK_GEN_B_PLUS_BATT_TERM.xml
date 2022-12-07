@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CHK_GEN_B_PLUS_BATT_TERM">
+	<tu xmlns:lang="eng">Check generator B+ and battery terminal connections</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer de aansluitklemmen op de accu en de B van de dynamo</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôlez les connexions B de l'alternateur et des bornes de la batterie</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anschlüsse an Generatorklemme B und Batteriepol prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare le connessioni B del generatore e dei terminali della batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ジェネレータ B+ およびバッテリ ターミナルの接続をチェックしなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar as ligações do terminal B do alternador e dos terminais da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique o alternador B+ e as conexões do terminal da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте клеммные соединения генератора В+ и аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar el conector B del alternador y las conexiones de los bornes de la batería</tu>
+	<tu xmlns:lang="chs">检查发电机 B+ 和蓄电池接线端子的连接情况</tu>
+	<tu xmlns:lang="kor">제너레이터 B 및 배터리 단자 연결을 점검하십시오.</tu>
+</tm>

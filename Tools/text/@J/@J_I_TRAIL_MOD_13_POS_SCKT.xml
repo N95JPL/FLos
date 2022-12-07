@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRAIL_MOD_13_POS_SCKT">
+	<tu xmlns:lang="eng">Trailer module  13  -  Position socket</tu>
+	<tu xmlns:lang="nld">Aanhangermodule.  13  -  Positiecontactdoos</tu>
+	<tu xmlns:lang="fra">Module de remorque.  13  -  Prise de position</tu>
+	<tu xmlns:lang="deu">Anhänger-Steuergerät  13  -  Anschluss</tu>
+	<tu xmlns:lang="ita">Modulo rimorchio  13  -  Presa posizione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トレーラー モジュール  13  －  ポジショニング ソ\ケット</tu>
+	<tu xmlns:lang="ptg">Módulo do reboque  13  -  Tomada das luzes de presença</tu>
+	<tu xmlns:lang="ptb">Módulo de reboque  13  -  Soquete de posição</tu>
+	<tu xmlns:lang="rus">Блок прицепа  13  -  Позиционная розетка</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo del remolque  13  -  Conector de luces de posición</tu>
+	<tu xmlns:lang="chs">拖车模块  13  -  针脚插座</tu>
+	<tu xmlns:lang="kor">트레일러 모듈  13  -  위치 소켓</tu>
+</tm>

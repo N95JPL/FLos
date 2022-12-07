@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart248">
+	<tu xmlns:lang="eng">Turbocharger bearing oil temperature is too high</tu>
+	<tu
+    xmlns:lang="nld"
+  >Temperatuur van de olie van de lagers van de turbocharger is te hoog</tu>
+	<tu
+    xmlns:lang="fra"
+  >La température de l'huile de palier de turbocompresseur est trop élevée</tu>
+	<tu xmlns:lang="deu">Öltemperatur des Turboladerlagers zu hoch</tu>
+	<tu
+    xmlns:lang="ita"
+  >La temperatura dell'olio del cuscinetto del turbocompressore è troppo alta</tu>
+	<tu xmlns:lang="jpn">ターボチャージャ ベアリング オイルの温度が高すぎる</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temperatura do óleo dos rolamentos do turbocompressor demasiado elevada</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A temperatura do óleo do rolamento do turbocompressor está muito alta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Слишком высокая температура масла в подшипниках турбокомпрессора</tu>
+	<tu
+    xmlns:lang="esp"
+  >La temperatura del aceite del cojinete del turbocompresor es demasiado alta</tu>
+	<tu xmlns:lang="chs">涡轮增压器轴承机油温度过高</tu>
+	<tu xmlns:lang="kor">터보차저 베어링 오일 온도가 너무 높음</tu>
+</tm>

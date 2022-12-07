@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_REAR_PHONE">
+	<tu xmlns:lang="eng">Rear cellular telephone.</tu>
+	<tu xmlns:lang="nld">Telefoon achterin</tu>
+	<tu xmlns:lang="fra">Téléphone arrière</tu>
+	<tu xmlns:lang="deu">Telefon hinten</tu>
+	<tu xmlns:lang="ita">Telefono posteriore</tu>
+	<tu xmlns:lang="jpn">リア テレホン</tu>
+	<tu xmlns:lang="ptg">Telemóvel traseiro.</tu>
+	<tu xmlns:lang="ptb">Telefone celular traseiro.</tu>
+	<tu xmlns:lang="rus">Задний сотовый телефон.</tu>
+	<tu xmlns:lang="esp">Teléfono para las plazas traseras</tu>
+	<tu xmlns:lang="chs">后蜂窝电话。</tu>
+	<tu xmlns:lang="kor">리어 휴대 전화</tu>
+</tm>

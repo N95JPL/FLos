@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FUEL_TANK_VOLUME">
+	<tu xmlns:lang="eng">Fuel tank volume</tu>
+	<tu xmlns:lang="nld">Brandstoftankinhoud</tu>
+	<tu xmlns:lang="fra">Volume du réservoir de carburant</tu>
+	<tu xmlns:lang="deu">Kraftstofftank-Fassungsvermögen</tu>
+	<tu xmlns:lang="ita">Capacità serbatoio carburante</tu>
+	<tu xmlns:lang="jpn">フューエル タンク容量</tu>
+	<tu xmlns:lang="ptg">Volume do depósito de combustível</tu>
+	<tu xmlns:lang="ptb">Volume do tanque de combustível</tu>
+	<tu xmlns:lang="rus">Объем топливного бака</tu>
+	<tu xmlns:lang="esp">Volumen del depósito de combustible</tu>
+	<tu xmlns:lang="chs">燃油油箱容积</tu>
+	<tu xmlns:lang="kor">연료 탱크 용량</tu>
+</tm>

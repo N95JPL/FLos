@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Response$M">
+	<tu xmlns:lang="eng">Response : %s</tu>
+	<tu xmlns:lang="nld">Reactie: %s</tu>
+	<tu xmlns:lang="fra">Réponse : %s</tu>
+	<tu xmlns:lang="deu">Antwort: %s</tu>
+	<tu xmlns:lang="ita">Risposta: %s</tu>
+	<tu xmlns:lang="jpn">応答: %s</tu>
+	<tu xmlns:lang="ptg">Resposta: %s</tu>
+	<tu xmlns:lang="ptb">Resposta: %s</tu>
+	<tu xmlns:lang="rus">Отклик: %s</tu>
+	<tu xmlns:lang="esp">Respuesta: %s</tu>
+	<tu xmlns:lang="chs">响应：%s</tu>
+	<tu xmlns:lang="kor">응답: %s</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_A_DRV_CYC_COMP_RUN_ADAPT_APP">
+	<tu
+    xmlns:lang="eng"
+  >Once the drive cycle has been completed carry out the adaption status application, within the set-up applications section.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zodra u de rijcyclus hebt uitgevoerd, voert u de toepassing voor de aanpassingsstatus uit, die in het gedeelte met de insteltoepassingen staat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois le cycle de conduite terminé, exécutez l'application d'état d'adaptation, dans la section applications de configuration.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss des Fahrzyklus das Anwendungsprogramm Anpassungsstatus aus dem Abschnitt Einstellungs-Anwendungsprogramme laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta completato il ciclo di guida, eseguire l'applicazione dello stato di adattamento nella sezione delle applicazioni di impostazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ドライブ サイクル完了後、セットアップ アプリケーション セクション内の補正ステータス アプリケーションを実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando o ciclo de condução tiver terminado, efectue a aplicação de estado de adaptação, na secção de configuração das aplicações.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma vez que o ciclo de acionamento tiver sido concluído, execute o aplicativo de estado  de adaptação, dentro da seção de aplicativos de configuração.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По завершении ездового цикла выполнить приложение проверки состояния адаптации в разделе приложений 'настройка'.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez concluido el ciclo de conducción, ejecutar la aplicación de estado de adaptación en la sección de aplicaciones de configuración.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'一旦完成行驶循环后，在设置应用程序那一节内执行自适应状态应用程序。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >주행 사이클이 완료되면 설정 애플리케이션 섹션 내에서 어댑테이션 상태 애플리케이션을 수행하십시오.</tu>
+</tm>

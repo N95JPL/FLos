@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DTC_P065C_00">
+	<tu xmlns:lang="eng">P065C-00 - Generator mechanical fault</tu>
+	<tu xmlns:lang="nld">P065C-00 - Mechanisch defect van de dynamo</tu>
+	<tu xmlns:lang="fra">P065C-00 - Défaut mécanique de l'alternateur</tu>
+	<tu xmlns:lang="deu">P065C-00 - Generator - mechanische Störung</tu>
+	<tu xmlns:lang="ita">P065C-00 - Guasto meccanico del generatore</tu>
+	<tu xmlns:lang="jpn">P065C-00 - ジェネレータの機械的故障</tu>
+	<tu xmlns:lang="ptg">P065C-00 - Avaria mecânica no alternador</tu>
+	<tu xmlns:lang="ptb">P065C-00 - Falha mecânica do alternador</tu>
+	<tu xmlns:lang="rus">P065C-00 - механическая неисправность генератора</tu>
+	<tu xmlns:lang="esp">P065C-00 - Fallo mecánico del alternador</tu>
+	<tu xmlns:lang="chs">P065C-00--发电机机械故障</tu>
+	<tu xmlns:lang="kor">P065C-00 - 제너레이터의 기계적 고장</tu>
+</tm>

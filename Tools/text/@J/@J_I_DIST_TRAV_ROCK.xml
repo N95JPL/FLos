@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIST_TRAV_ROCK">
+	<tu xmlns:lang="eng">Distance travelled in rock crawl mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Afgelegde afstand in de functie voor kruipen over rotsen.</tu>
+	<tu xmlns:lang="fra">Distance parcourue en mode franchissement rocheux.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zurückgelegte Distanz im Spezialprogramm Felsenkriechen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Distanza percorsa in modalità avanzamento lento per terreno roccioso.</tu>
+	<tu xmlns:lang="jpn">岩山クロール モードでの走行距離</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Distância percorrida em modo de marcha lenta em terreno rochoso.</tu>
+	<tu xmlns:lang="ptb">Distância percorrida em modo de pedras.</tu>
+	<tu xmlns:lang="rus">Расстояние, пройденное в режиме малого хода камням.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Distancia recorrida en modo rocoso a marcha superlenta.</tu>
+	<tu xmlns:lang="chs">在颠簸缓行模式中行驶的距离。</tu>
+	<tu xmlns:lang="kor">바위 크롤 모드에서 주행한 거리</tu>
+</tm>

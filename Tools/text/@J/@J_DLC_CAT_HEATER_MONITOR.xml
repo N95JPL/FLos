@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_CAT_HEATER_MONITOR">
+	<tu xmlns:lang="eng">Catalyst heater monitor</tu>
+	<tu xmlns:lang="nld">Verwarmingsmonitor van de katalysator</tu>
+	<tu xmlns:lang="fra">Contrôle de chauffage de catalyseur</tu>
+	<tu xmlns:lang="deu">Katalysatorheizungsmonitor</tu>
+	<tu xmlns:lang="ita">Monitor riscaldatori catalizzatori</tu>
+	<tu xmlns:lang="jpn">触媒ヒーター モニター</tu>
+	<tu xmlns:lang="ptg">Monitor do aquecedor do catalisador</tu>
+	<tu xmlns:lang="ptb">Monitor do aquecedor do catalisador</tu>
+	<tu xmlns:lang="rus">Проверка нагревателя каталитического нейтрализатора</tu>
+	<tu xmlns:lang="esp">Monitor de calefactor de catalizadores</tu>
+	<tu xmlns:lang="chs">催化剂加热器监测器</tu>
+	<tu xmlns:lang="kor">촉매 히터 모니터</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PULSED_OPTION">
+	<tu xmlns:lang="eng">Pulsed</tu>
+	<tu xmlns:lang="nld">Gepulseerd</tu>
+	<tu xmlns:lang="fra">A impulsion</tu>
+	<tu xmlns:lang="deu">Gepulst</tu>
+	<tu xmlns:lang="ita">Impulsato</tu>
+	<tu xmlns:lang="jpn">パルスによる</tu>
+	<tu xmlns:lang="ptg">Pulsado</tu>
+	<tu xmlns:lang="ptb">Pulsada</tu>
+	<tu xmlns:lang="rus">Импульсный</tu>
+	<tu xmlns:lang="esp">Pulsado</tu>
+	<tu xmlns:lang="chs">脉冲调制的</tu>
+	<tu xmlns:lang="kor">펄스</tu>
+</tm>

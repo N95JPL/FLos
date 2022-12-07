@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HLMP_FAU_FRE_PRO_SYS_CAL">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the headlamp system is fault free and that the vehicle is stationary.  The next procedure will conduct a system calibration run.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat het koplampsysteem storingsvrij is en dat het voertuig stilstaat.  De volgende procedure zal een systeemkalibrering uitvoeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que le système d'éclairage est intact et que le véhicule est immobile.  La procédure suivante lancera l'étalonnage du système.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Scheinwerferanlage störungsfrei ist und dass das Fahrzeug still steht.  Im nächsten Schritt wird eine Systemkalibrierung durchgeführt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che il sistema dei fari non presenti guasti e che il veicolo sia fermo.  La procedura successiva esegue un ciclo di taratura del sistema.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ヘッドランプ システムに故障がなく車両が静止状態であることを確認しなさい。  次の手順でシステム キャリブレーションが実行されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o sistema de faróis não tem avarias e que o veículo está parado.  O procedimento seguinte corre a calibragem do sistema.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o sistema dos faróis está totalmente livre e que o veículo está parado.  O próximo procedimento conduzirá uma calibração do sistema.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедиться, что фары исправны и автомобиль стоит неподвижно.  Следующая процедура запускает калибровку системы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que el sistema de faros no presente ninguna anomalía y que el vehículo esté parado.  En el procedimiento siguiente se llevará a cabo un ciclo de funcionamiento del sistema para fines de calibración.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保前灯系统无故障，汽车处于静止状态。  下一步骤将执行系统校准运行。</tu>
+	<tu
+    xmlns:lang="kor"
+  >헤드램프 시스템에 고장이 없고 차량이 정지해 있는지 확인하십시오.  다음 절차에서는 시스템 보정 실행을 수행합니다.</tu>
+</tm>

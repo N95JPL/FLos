@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_A_DRIVE_ALL_GEARS_CLUTCH_REL">
+	<tu
+    xmlns:lang="eng"
+  >Drive the vehicle in all gears (including reverse), the clutch must be 100% released in every gear position.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Rijd met het voertuig in alle versnellingen (inclusief achteruitrijstand), waarbij u de koppeling bij elke versnelling 100% laat opkomen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Conduisez le véhicule en utilisant tous les rapports de boîte (y compris la marche arrière), l'embrayage doit être relâché à 100 % à chaque position de la boîte de vitesses.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeug fahren, dabei alle Gänge (einschl. Rückwärtsgang) schalten; für jede Schaltstellung muss das Kupplungspedal 100 % freigegeben werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guidare il veicolo inserendo tutte le marce (compresa la retromarcia): la frizione deve essere disinnestata al 100% in ogni posizione di marcia.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >すべてのギア (リバースを含む) を使用して車両を運転しなさい。すべてのギア ポジションでクラッチを完全に離す必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Conduza o veículo em todas as mudanças, (incluindo marcha-atrás), a embraiagem deve ser 100% libertada em todas as mudanças.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conduza o veículo em todas as marchas (incluindo a marcha à ré), a embreagem deve ser 100% liberado em cada posição de marcha.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполните поездку на автомобиле, используя все передачи (включая передачу заднего хода). Сцепление должно быть полностью отпущено после включения каждой передачи.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Conducir el vehículo en todas las velocidades (incluida la marcha atrás); el embrague se debe soltar completamente en cada una de las posiciones de la palanca de cambios.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'以所有档位（包括倒档）驾驶车辆，离合器在每个档位上必须100%释放。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >모든 기어(후진 포함)에서 차량을 주행하고 클러치는 모든 기어 위치에서 100% 해제되어야 합니다.</tu>
+</tm>

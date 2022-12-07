@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Frequency">
+	<tu xmlns:lang="eng">Frequency</tu>
+	<tu xmlns:lang="nld">Frequentie</tu>
+	<tu xmlns:lang="fra">Frequence</tu>
+	<tu xmlns:lang="deu">Frequenz</tu>
+	<tu xmlns:lang="ita">Frequenza</tu>
+	<tu xmlns:lang="jpn">周g・</tu>
+	<tu xmlns:lang="ptg">Frequência</tu>
+	<tu xmlns:lang="ptb">Frequência</tu>
+	<tu xmlns:lang="rus">Частота</tu>
+	<tu xmlns:lang="esp">Frecuencia</tu>
+	<tu xmlns:lang="chs">频率</tu>
+	<tu xmlns:lang="kor">주파수</tu>
+</tm>

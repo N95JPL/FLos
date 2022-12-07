@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CommsErrorTickToExit">
+	<tu xmlns:lang="eng">Communications error, press 'tick' to exit.</tu>
+	<tu xmlns:lang="nld">Communicatiefout, druk op 'vinkje' om te verlaten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Erreur de communication, appuyer sur la coche pour quitter.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kommunikationsfehler, das Häkchen anklicken, um den Vorgang zu beenden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Errore di comunicazione, selezionare il segno di spunta per uscire.</tu>
+	<tu xmlns:lang="jpn">通信エラー。「チェックマーク」を押して終了します。</tu>
+	<tu xmlns:lang="ptg">Erro de comunicações, prima o visto para sair.</tu>
+	<tu xmlns:lang="ptb">Erros de comunicações, pressione o tique para sair.</tu>
+	<tu xmlns:lang="rus">Ошибка связи. Нажмите на галочку, чтобы выйти.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Error de comunicación; pulse la marca de verificación para salir.</tu>
+	<tu xmlns:lang="chs">通信错误，请按“勾选键”以退出。</tu>
+	<tu xmlns:lang="kor">통신 오류입니다. 종료하려면 '체크 표시'를 누르십시오.</tu>
+</tm>

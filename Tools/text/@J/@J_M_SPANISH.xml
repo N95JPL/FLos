@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SPANISH">
+	<tu xmlns:lang="eng">Spanish</tu>
+	<tu xmlns:lang="nld">Spaans</tu>
+	<tu xmlns:lang="fra">Espagnol</tu>
+	<tu xmlns:lang="deu">Spanisch</tu>
+	<tu xmlns:lang="ita">Spagnolo</tu>
+	<tu xmlns:lang="jpn">スペイン語</tu>
+	<tu xmlns:lang="ptg">Espanhol</tu>
+	<tu xmlns:lang="ptb">Espanhol</tu>
+	<tu xmlns:lang="rus">Испанский</tu>
+	<tu xmlns:lang="esp">Español</tu>
+	<tu xmlns:lang="chs">西班牙</tu>
+	<tu xmlns:lang="kor">스페인어</tu>
+</tm>

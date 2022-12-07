@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_SET_FWHL_STRAIGHT">
+	<tu xmlns:lang="eng">Set the front wheels to the straight ahead position.</tu>
+	<tu xmlns:lang="nld">Zet de voorwielen in de rechtvooruitstand.</tu>
+	<tu xmlns:lang="fra">Placez les roues avant en position ligne droite.</tu>
+	<tu xmlns:lang="deu">Die Vorderräder in die Geradeausstellung bringen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Posizionare le ruote anteriori nella posizione di marcia rettilinea.</tu>
+	<tu xmlns:lang="jpn">フロント ホイールを直進位置にセットしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Posicione as rodas dianteiras na posição de condução em linha recta.</tu>
+	<tu xmlns:lang="ptb">Coloque as rodas dianteiras em posição aprumada.</tu>
+	<tu xmlns:lang="rus">Установите передние колеса в среднее положение.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Situar las ruedas delanteras en la posición de marcha en línea recta.</tu>
+	<tu xmlns:lang="chs">将前轮设置为朝正前方的位置。</tu>
+	<tu xmlns:lang="kor">프론트 휠을 직진 주행 위치로 설정하십시오.</tu>
+</tm>

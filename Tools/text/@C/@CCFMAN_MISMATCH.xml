@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_MISMATCH">
+	<tu xmlns:lang="eng">Mismatch</tu>
+	<tu xmlns:lang="nld">Komt niet overeen</tu>
+	<tu xmlns:lang="fra">Ecart</tu>
+	<tu xmlns:lang="deu">Fehlende Übereinstimmung</tu>
+	<tu xmlns:lang="ita">Incongruenza</tu>
+	<tu xmlns:lang="jpn">ミスマッチ</tu>
+	<tu xmlns:lang="ptg">Não correspondência</tu>
+	<tu xmlns:lang="ptb">Incompatibilidade</tu>
+	<tu xmlns:lang="rus">Несоответствие</tu>
+	<tu xmlns:lang="esp">Discordancia</tu>
+	<tu xmlns:lang="chs">失配</tu>
+	<tu xmlns:lang="kor">불일치</tu>
+</tm>

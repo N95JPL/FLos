@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_MOV_SEN_NOT">
+	<tu xmlns:lang="eng">Without interior movement sensor</tu>
+	<tu xmlns:lang="nld">Zonder bewegingssensor in passagiersruimte</tu>
+	<tu xmlns:lang="fra">Sans capteur de mouvement intérieur</tu>
+	<tu xmlns:lang="deu">Ohne Innenraum-Bewegungssensor</tu>
+	<tu xmlns:lang="ita">Senza sensore di movimento nell'abitacolo</tu>
+	<tu xmlns:lang="jpn">車内モーション センサーなし</tu>
+	<tu xmlns:lang="ptg">Sem sensor de movimento no interior</tu>
+	<tu xmlns:lang="ptb">Sem sensor de movimento interno</tu>
+	<tu xmlns:lang="rus">Без датчика движения в салоне</tu>
+	<tu xmlns:lang="esp">Sin sensor de movimiento interior</tu>
+	<tu xmlns:lang="chs">无内部移动传感器</tu>
+	<tu xmlns:lang="kor">실내 동작 센서 없음</tu>
+</tm>

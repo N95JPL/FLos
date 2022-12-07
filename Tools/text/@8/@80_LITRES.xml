@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@80_LITRES">
+	<tu xmlns:lang="eng">80 litres</tu>
+	<tu xmlns:lang="nld">80 litres</tu>
+	<tu xmlns:lang="fra">80 litres</tu>
+	<tu xmlns:lang="deu">80 Liter</tu>
+	<tu xmlns:lang="ita">80 litri</tu>
+	<tu xmlns:lang="jpn">80 リッター</tu>
+	<tu xmlns:lang="ptg">80 litros</tu>
+	<tu xmlns:lang="ptb">80 litros</tu>
+	<tu xmlns:lang="rus">80 л</tu>
+	<tu xmlns:lang="esp">80 litros</tu>
+	<tu xmlns:lang="chs">80升</tu>
+	<tu xmlns:lang="kor">80리터</tu>
+</tm>

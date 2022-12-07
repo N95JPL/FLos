@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_BATT_TEMP_TOO_LOW">
+	<tu xmlns:lang="eng">Battery temperature too low</tu>
+	<tu xmlns:lang="nld">De accutemperatuur is te laag</tu>
+	<tu xmlns:lang="fra">Température de batterie trop basse</tu>
+	<tu xmlns:lang="deu">Batterietemperatur zu niedrig</tu>
+	<tu xmlns:lang="ita">Temperatura batteria eccessivamente bassa</tu>
+	<tu xmlns:lang="jpn">バッテリ温度が低過ぎ</tu>
+	<tu xmlns:lang="ptg">Temperatura da bateria demasiado baixa</tu>
+	<tu xmlns:lang="ptb">Temperatura muito baixa da bateria</tu>
+	<tu xmlns:lang="rus">Температура аккумуляторной батареи слишком низкая</tu>
+	<tu xmlns:lang="esp">La temperatura de la batería es demasiado baja</tu>
+	<tu xmlns:lang="chs">蓄电池温度过低</tu>
+	<tu xmlns:lang="kor">배터리 온도가 너무 낮음</tu>
+</tm>

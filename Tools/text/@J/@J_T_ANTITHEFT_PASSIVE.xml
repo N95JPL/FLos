@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_ANTITHEFT_PASSIVE">
+	<tu xmlns:lang="eng">419-01B Anti-theft - passive</tu>
+	<tu xmlns:lang="nld">419-01B Antidiefstal - passief</tu>
+	<tu xmlns:lang="fra">419-01B Antivol - passif</tu>
+	<tu xmlns:lang="deu">419-01B Wegfahrsperre</tu>
+	<tu xmlns:lang="ita">419-01B Antifurto - passivo</tu>
+	<tu xmlns:lang="jpn">419-01B 防犯 － パッシブ</tu>
+	<tu xmlns:lang="ptg">419-01B Sistema passivo anti-roubo</tu>
+	<tu xmlns:lang="ptb">419-01B Antifurto - passivo</tu>
+	<tu xmlns:lang="rus">419-01B Противоугонная система - пассивная</tu>
+	<tu xmlns:lang="esp">419-01B Sistema antirrobo pasivo</tu>
+	<tu xmlns:lang="chs">419-01B防盗 - 被动</tu>
+	<tu xmlns:lang="kor">419-01B 도난 방지 - 패시브</tu>
+</tm>

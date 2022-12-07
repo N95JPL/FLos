@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NormHeighPreMeas$I">
+	<tu
+    xmlns:lang="eng"
+  >Normal ride height must be achieved before the vehicle is driven onto the measurement area to ensure the vehicle suspension has settled at the correct track position.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De normale rijhoogte moet eerst zijn bereikt, voordat u de auto op het meetvlak rijdt, om te waarborgen dat de auto-ophanging in de juiste spoorpositie tot rust is gekomen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une hauteur de caisse normale doit être atteinte avant d'amener le véhicule sur la zone de mesure pour garantir que la suspension du véhicule s'est mise dans une position de voie correcte.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die normale Fahrhöhe muss erzielt worden sein, ehe das Fahrzeug in den Messungsbereich gefahren wird, damit sichergestellt ist, dass die Federung sich in korrekter Stellung eingebettet hat.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'altezza normale di marcia deve essere ottenuta prima che il veicolo raggiunga l'area di misurazione, per garantire che le sospensioni si siano assestate sulla posizione corretta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両のサスペンションが正しいトラック ポジションで安定するよう、車両を測定エリアへ乗り入れる前に、ノーマル ライド ハイトを達成しておかなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo tem de estar com a suspensão à altura normal antes de ser conduzido para a zona de medição, de forma a garantir que a suspensão do veículo assentou na posição correcta.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A altura normal do automóvel deve ser atingida antes que o veículo seja guiado para a área de medição, a fim de garantir que a suspensão do veículo tenha assentado na posição de trilho correta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прежде чем выводить автомобиль в зону выполнения замеров, необходимо переключить подвеску в нормальный режим, чтобы она заняла правильное положение.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se debe alcanzar la altura de marcha normal antes de conducir el vehículo a la zona de medición a fin de asegurarse de que la suspensión del vehículo se haya asentado en la posición correcta.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在车辆行驶至测量区域之前必须达到正常行驶高度，以确保车辆悬架稳定在正确的轨迹位置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 서스펜션은 측정 구역으로 이동하여 올바른 트랙 위치에 안정화하기 전에 정상 지상고로 설정되어야 합니다.</tu>
+</tm>

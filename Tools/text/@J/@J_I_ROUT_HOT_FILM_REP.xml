@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_HOT_FILM_REP">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required when the hot film air mass meter or other injection related components are replaced.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig wanneer u de hittefilm-luchthoeveelheidsmeter of alle andere componenten m.b.t. de injectie vervangt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé lorsque le débitmètre d'air massique à film chaud ou tout autre composant relatif au système d'injection est remplacé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, wenn der Heißfilm-Luftmassenmesser oder andere mit der Einspritzung im Zusammenhang stehende Bauteile ersetzt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta quando si sostituisce il misuratore massa aria a film caldo o altri componenti relativi all'iniezione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、ホット フィルム エア マス メータまたは他のインジェクション関連コンポーネントが交換されたときに必要になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária quando se substitui o medidor do fluxo de ar de película quente ou outros componentes relacionados com o sistema de injecção.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária quando o medidor da massa de ar da película quente ou outros componentes relacionados à injeção são substituídos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция необходима при замене пленочного датчика массового расхода воздуха или других компонентов, относящихся к системе подачи топлива.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse al sustituir el caudalímetro de película caliente u otro componente asociado con la inyección.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果更换了热膜空气质量表或其它与喷射有关的部件，则需执行本程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >열막식 공기질량 계량기 또는 기타 분사 관련 구성 요소를 교체할 때 이 루틴이 필요합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BUR_LOCKS">
+	<tu xmlns:lang="eng">Theft resistant locks</tu>
+	<tu xmlns:lang="nld">Diefstalbestendige sloten</tu>
+	<tu xmlns:lang="fra">Serrures antivol</tu>
+	<tu xmlns:lang="deu">Einbruchssichere Schlösser</tu>
+	<tu xmlns:lang="ita">Serrature antifurto</tu>
+	<tu xmlns:lang="jpn">盗難防止ロック</tu>
+	<tu xmlns:lang="ptg">Trancas anti-furto</tu>
+	<tu xmlns:lang="ptb">Travas antifurto</tu>
+	<tu xmlns:lang="rus">Защищенные от взлома замки</tu>
+	<tu xmlns:lang="esp">Bloqueos antirrobo</tu>
+	<tu xmlns:lang="chs">防盗锁</tu>
+	<tu xmlns:lang="kor">도난 방지 잠금 장치</tu>
+</tm>

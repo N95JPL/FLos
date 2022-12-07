@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ADAPTATION_PASSED">
+	<tu xmlns:lang="eng">Adaptation passed.</tu>
+	<tu xmlns:lang="nld">Aanpassing gelukt.</tu>
+	<tu xmlns:lang="fra">Adaptation réussie</tu>
+	<tu xmlns:lang="deu">Anpassung erfolgreich.</tu>
+	<tu xmlns:lang="ita">Adattamento riuscito.</tu>
+	<tu xmlns:lang="jpn">補正は正常に完了しました。</tu>
+	<tu xmlns:lang="ptg">Adaptação passou com êxito.</tu>
+	<tu xmlns:lang="ptb">Adaptação aprovada.</tu>
+	<tu xmlns:lang="rus">Адаптация выполнена.</tu>
+	<tu xmlns:lang="esp">Adaptación aprobada.</tu>
+	<tu xmlns:lang="chs">自适应通过。</tu>
+	<tu xmlns:lang="kor">어댑테이션에 성공했습니다.</tu>
+</tm>

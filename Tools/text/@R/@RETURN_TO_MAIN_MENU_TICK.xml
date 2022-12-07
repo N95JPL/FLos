@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RETURN_TO_MAIN_MENU_TICK">
+	<tu xmlns:lang="eng">Press tick to return to the main menu.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op de afvinktoets om naar het hoofdmenu terug te gaan.</tu>
+	<tu xmlns:lang="fra">Appuyez sur la coche pour revenir au menu principal.</tu>
+	<tu xmlns:lang="deu">Häkchen antippen, um zum Hauptmenü zurückzukehren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il tasto di spunta per ritornare al menu principale.</tu>
+	<tu xmlns:lang="jpn">ティックを押してメイン メニューへ戻りなさい。</tu>
+	<tu xmlns:lang="ptg">Prima o visto para voltar ao menu principal</tu>
+	<tu xmlns:lang="ptb">Pressione a marca para retornar ao menu principal.</tu>
+	<tu xmlns:lang="rus">Нажмите галочку для возврата в главное меню.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de continuar para regresar al menú principal.</tu>
+	<tu xmlns:lang="chs">按勾选键返回主菜单。</tu>
+	<tu xmlns:lang="kor">주 메뉴로 돌아가려면 체크 표시를 누르십시오.</tu>
+</tm>

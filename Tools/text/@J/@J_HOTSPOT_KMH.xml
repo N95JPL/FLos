@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HOTSPOT_KMH">
+	<tu xmlns:lang="eng">Kilometers per hour</tu>
+	<tu xmlns:lang="nld">Kilometer per uur</tu>
+	<tu xmlns:lang="fra">Kilomètres à l'heure</tu>
+	<tu xmlns:lang="deu">Kilometer pro Stunde</tu>
+	<tu xmlns:lang="ita">Chilometri all'ora</tu>
+	<tu xmlns:lang="jpn">毎時ｷﾛﾒーﾀ(KMH)</tu>
+	<tu xmlns:lang="ptg">Quilómetros por hora</tu>
+	<tu xmlns:lang="ptb">Quilômetros por hora</tu>
+	<tu xmlns:lang="rus">Километров в час</tu>
+	<tu xmlns:lang="esp">Kilómetros por hora</tu>
+	<tu xmlns:lang="chs">KPH</tu>
+	<tu xmlns:lang="kor">시간당 킬로미터</tu>
+</tm>

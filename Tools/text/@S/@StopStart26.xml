@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart26">
+	<tu xmlns:lang="eng">If the condition persists</tu>
+	<tu xmlns:lang="nld">Als de toestand aanhoudt</tu>
+	<tu xmlns:lang="fra">Si le problème persiste</tu>
+	<tu xmlns:lang="deu">Wenn dieser Zustand weiterhin besteht</tu>
+	<tu xmlns:lang="ita">Se la condizione persiste</tu>
+	<tu xmlns:lang="jpn">状態が解消しない場合</tu>
+	<tu xmlns:lang="ptg">Se a condição se mantiver</tu>
+	<tu xmlns:lang="ptb">Se a condição persistir</tu>
+	<tu xmlns:lang="rus">Если состояние не устраняется</tu>
+	<tu xmlns:lang="esp">Si el problema persiste,</tu>
+	<tu xmlns:lang="chs">如果这种情况仍然存在</tu>
+	<tu xmlns:lang="kor">상기한 상태가 지속될 경우</tu>
+</tm>

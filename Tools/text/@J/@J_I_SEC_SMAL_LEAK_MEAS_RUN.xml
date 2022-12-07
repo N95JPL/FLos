@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SEC_SMAL_LEAK_MEAS_RUN">
+	<tu xmlns:lang="eng">Second small leak measurement is running.</tu>
+	<tu xmlns:lang="nld">De tweede meting voor kleine lekken wordt uitgevoerd.</tu>
+	<tu xmlns:lang="fra">La mesure de la deuxième petite fuite est en cours.</tu>
+	<tu xmlns:lang="deu">Zweite Messung geringfügiger Undichtigkeit läuft.</tu>
+	<tu xmlns:lang="ita">In corso seconda misurazione piccole perdite.</tu>
+	<tu xmlns:lang="jpn">第 2 の小リーク測定実行中</tu>
+	<tu xmlns:lang="ptg">Está a ser realizada segunda medição de fuga pequena.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A segunda medição de vazamento pequeno está senso executada.</tu>
+	<tu xmlns:lang="rus">Выполняется измерение второй незначительной течи.</tu>
+	<tu xmlns:lang="esp">Está en curso la segunda medición de fugas pequeñas.</tu>
+	<tu xmlns:lang="chs">次小泄漏测量正在运行。</tu>
+	<tu xmlns:lang="kor">2차 소량 누출 측정이 실행됩니다.</tu>
+</tm>

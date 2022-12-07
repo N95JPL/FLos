@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EcmProgCompAdapt$I">
+	<tu
+    xmlns:lang="eng"
+  >Engine control module programming completed, the engine control module adaptations have been reset and the secure identification has been successfully stored.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De programmering van de motorregelmodule is uitgevoerd, aanpassingen in de motorregelmodule zijn teruggesteld en de beveiligingsidentificatie is met succes opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Programmation du module de gestion du moteur terminée, les adaptations du module de gestion du moteur ont été remises à zéro et l'identification sécurisée a été enregistrée avec succès.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Programmierung des Motorsteuergeräts abgeschlossen, die Anpassungen des Motorsteuergeräts wurden zurückgesetzt und die sichere Identifizierung wurde erfolgreich gespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Programmazione modulo di comando motore completata, adattamenti modulo di comando motore azzerati e memorizzazione riuscita di codice identificazione di sicurezza.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジン コントロール モジュール プログラミングが完了しました。エンジン コントロール モジュール補正がリセットされ、セキュリティ ID 保存が完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Programação do módulo de controlo do motor concluída; as adaptações do módulo de controlo do motor foram reinicializadas e a identificação segura foi gravada com êxito. </tu>
+	<tu
+    xmlns:lang="ptb"
+  >Programação do módulo de controle do motor concluída, as adaptações do módulo de controle do motor foram reajustadas e a identificação segura foi armazenada com êxito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Программирование электронного блока управления завершено, значения корректировок блока управления двигателем сброшены, идентификатор системы безопасности успешно сохранен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Programación del módulo de control del motor concluida, se han restaurado las adaptaciones del módulo de control del motor y se ha memorizado la identificación segura.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'发动机控制模块编程完成，发动机控制模块自适应已被重置，同时安全标识已被成功存储。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진 컨트롤 모듈 프로그래밍이 완료되어 엔진 컨트롤 모듈 어댑테이션이 재설정되었고 보안 식별 정보가 성공적으로 저장되었습니다.</tu>
+</tm>

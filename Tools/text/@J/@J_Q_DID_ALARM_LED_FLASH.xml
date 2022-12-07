@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_DID_ALARM_LED_FLASH">
+	<tu xmlns:lang="eng">Did the alarm LED flash?</tu>
+	<tu xmlns:lang="nld">Knipperde de LED van het alarmsysteem?</tu>
+	<tu xmlns:lang="fra">La diode d'alarme a-t-elle clignoté ?</tu>
+	<tu xmlns:lang="deu">Blinkte die Alarm-LED?</tu>
+	<tu xmlns:lang="ita">Il LED del sistema di allarme ha lampeggiato?</tu>
+	<tu xmlns:lang="jpn">アラーム LED は点滅しましたか？</tu>
+	<tu xmlns:lang="ptg">O LED de alarme piscou?</tu>
+	<tu xmlns:lang="ptb">O LED de alarme pisca?</tu>
+	<tu xmlns:lang="rus">Светодиодный индикатор сигнализации замигал?</tu>
+	<tu xmlns:lang="esp">¿Parpadeó el LED de la alarma?</tu>
+	<tu xmlns:lang="chs">报警器LED是否闪烁过？</tu>
+	<tu xmlns:lang="kor">알람 LED가 깜박였습니까?</tu>
+</tm>

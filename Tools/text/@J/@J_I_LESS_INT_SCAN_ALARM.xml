@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_INT_SCAN_ALARM">
+	<tu xmlns:lang="eng">Interior scanning alarm not fitted</tu>
+	<tu xmlns:lang="nld">Interieurscanneralarm niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Alarme volumétrique non montée</tu>
+	<tu xmlns:lang="deu">Innenraumüberwachung nicht eingebaut</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema allarme di scansione abitacolo non in dotazione</tu>
+	<tu xmlns:lang="jpn">インテリア スキャニング アラーム非装備</tu>
+	<tu xmlns:lang="ptg">Alarme interno de monitorização não está instalado</tu>
+	<tu xmlns:lang="ptb">Alarme de varredura interna não instalado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Охранная сигнализация со сканированием салона не установлена</tu>
+	<tu xmlns:lang="esp">No hay alarma de detección interior</tu>
+	<tu xmlns:lang="chs">内部扫描报警器未安装</tu>
+	<tu xmlns:lang="kor">내부 스캔 알람이 장착되지 않음</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_RUN_ENG_OP_TEMP">
+	<tu
+    xmlns:lang="eng"
+  >Run the engine up to normal operating temperature and leave running</tu>
+	<tu
+    xmlns:lang="nld"
+  >Motor op normale temperatuur laten komen en laten lopen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Amenez moteur à température de fonctionnement normale et laissez-le tourner</tu>
+	<tu
+    xmlns:lang="deu"
+  >Motor auf normale Betriebstemperatur hochlaufen lassen und laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Fare funzionare il motore finché si raggiunga la temperatura
+normale di funzionamento e lasciarlo in marcia</tu>
+	<tu
+    xmlns:lang="jpn"
+  >通常の使用温度までｴﾝジﾝを運転し、そのままの状態に保持して下さい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deixar o motor trabalhar até atingir a temperatura normal de funcionamento e mantê-lo em funcionamento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Faça o motor funcionar até sua temperatura normal e deixo-o funcionando</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дайте двигателю прогреться до нормальной рабочей температуры и оставьте его в рабочем состоянии.</tu>
+	<tu xmlns:lang="esp">Haga funcionar el motor hasta llegar la temperatura normal
+de funcionamiento y dejarlo en marcha</tu>
+	<tu xmlns:lang="chs">发动机运转，直到达到正常工作温度，然后停止运转</tu>
+	<tu xmlns:lang="kor">엔진을 정상 작동 온도까지 높인 후 계속 작동시키십시오.</tu>
+</tm>

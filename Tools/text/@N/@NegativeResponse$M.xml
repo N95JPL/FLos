@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NegativeResponse$M">
+	<tu xmlns:lang="eng">A negative response was received.</tu>
+	<tu xmlns:lang="nld">Er is een negatieve reactie ontvangen.</tu>
+	<tu xmlns:lang="fra">Une réponse négative a été reçue.</tu>
+	<tu xmlns:lang="deu">Es gab eine negative Antwort.</tu>
+	<tu xmlns:lang="ita">È stata ricevuta una risposta negativa.</tu>
+	<tu xmlns:lang="jpn">否定応答を受信した。</tu>
+	<tu xmlns:lang="ptg">Foi recebida uma resposta negativa.</tu>
+	<tu xmlns:lang="ptb">Uma resposta negativa foi recebida.</tu>
+	<tu xmlns:lang="rus">Был получен отрицательный отклик.</tu>
+	<tu xmlns:lang="esp">Se ha recibido una respuesta negativa.</tu>
+	<tu xmlns:lang="chs">将收到负面响应。</tu>
+	<tu xmlns:lang="kor">부정적 응답이 수신되었습니다.</tu>
+</tm>

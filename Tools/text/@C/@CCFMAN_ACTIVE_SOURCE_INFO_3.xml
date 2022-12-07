@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_ACTIVE_SOURCE_INFO_3">
+	<tu
+    xmlns:lang="eng"
+  >In order to select an alternate session active car configuration file, the user can select one of the available buttons at the bottom of the screen - one for each source of car configuration file. Where a car configuration file source is invalid or corrupt, the button is greyed out and cannot be selected.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om een andere actieve sessie van het voertuigconfiguratiebestand te selecteren, kan de gebruiker een van de beschikbare toetsen onderaan het scherm selecteren (een voor iedere bron van het voertuigconfiguratiebestand). Als een bron van het voertuigconfiguratiebestand ongeldig of corrupt is, wordt de toets grijs weergegeven en kan hij niet worden geselecteerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour sélectionner un autre fichier de configuration du véhicule pour la section active, l'utilisateur peut sélectionner l'un des boutons disponibles au bas de l'écran - un pour chaque source de fichier de configuration du véhicule. Lorsqu'une source de fichier de configuration du véhicule est invalide ou altérée, le bouton est grisé et ne peut pas être sélectionné.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um eine alternative aktive Fahrzeug-Konfigurationsdatei für die Sitzung auszuwählen, kann der Benutzer eine der verfügbaren Schaltflächen unten am Bildschirm wählen - eine für jede Quelle der Fahrzeug-Konfigurationsdatei. Falls eine Quelle für eine Fahrzeug-Konfigurationsdatei ungültig oder korrumpiert ist, wird die entsprechende Schaltfläche grau dargestellt und kann nicht gewählt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per selezionare un file di configurazione veicolo attiva di una sessione alternativa, l'utente può selezionare uno dei pulsanti disponibili nella parte inferiore della schermata - uno per ogni sorgente di file di configurazione veicolo. Se una sorgente di un file di configurazione veicolo non è valida o è corrotta, il pulsante sarà visualizzato in grigio e non potrà essere selezionato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ユーザーは画面下部にある利用可能\なボタンのひとつを選択し、代替セッション アクティブ車両コンフィギュレーション ファイルを選択できます - それぞれのボタンが車両コンフィギュレーション ファイル ソ\ースを表\します。車両コンフィギュレーション ファイル ソ\ースが無効であるか、あるいは損壊しているとボタンは非アクティブになり選択できません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para seleccionar um ficheiro de configuração do veículo activo numa sessão alternativa, o utilizador pode seleccionar um dos botões disponíveis na parte inferior do ecrã - um para cada fonte de ficheiro de configuração do veículo. Quando um ficheiro de configuração do veículo está inválido ou corrompido, o botão fica cinzento e não é possível seleccioná-lo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para selecionar um arquivo de configuração do carro ativo de sessão alternativa, o usuário pode selecionar um dos botões disponíveis na parte inferior da tela - um para cada fonte de arquivo de configuração do carro. Quando uma fonte de arquivo de configuração do carro for inválida ou estiver corrompida, o botão ficará esmaecido e não poderá ser selecionado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для выбора активного файла конфигурации автомобиля альтернативного сеанса пользователю нужно нажать одну из имеющихся кнопок внизу экрана, соответствующих разным источникам файла конфигурации автомобиля. Если источник файла конфигурации автомобиля неверен или поврежден, кнопка отмечается серым цветом и недоступна для выбора.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para seleccionar otro archivo de configuración del vehículo en sesión activa, el usuario puede seleccionar uno de los botones disponibles en la parte inferior de la pantalla (uno por cada fuente de archivo de configuración del vehículo). Si un archivo de configuración del vehículo no es válido o está dañado, el botón se mostrará atenuado y no se podrá seleccionar.</tu>
+	<tu
+    xmlns:lang="chs"
+  >为了选择一个替代程序在用车辆配置文件，用户可以选择屏幕底部的可用按钮中的一个 - 一个按钮对应一个车辆配置文件来源。 在车辆配置文件来源无效或损坏的情况下，该按钮会变成灰色淡出，使之不能被选取。</tu>
+	<tu
+    xmlns:lang="kor"
+  >대체 세션 활성 차량 구성 파일을 선택하기 위해, 사용자는 화면 하단에서 사용할 수 있는 버튼(차량 구성 파일의 각 소스마다 하나씩) 중 하나를 선택할 수 있습니다. 차량 구성 파일 소스가 잘못되거나 손상된 경우, 버튼이 비활성화되므로 이를 선택할 수 없습니다.</tu>
+</tm>

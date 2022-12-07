@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_UNLOCK">
+	<tu xmlns:lang="eng">Configurable unlocking</tu>
+	<tu xmlns:lang="nld">Configureerbaar ontgrendelen</tu>
+	<tu xmlns:lang="fra">Déverrouillage configurable</tu>
+	<tu xmlns:lang="deu">Konfigurierbare Entriegelung</tu>
+	<tu xmlns:lang="ita">Sbloccaggio configurabile</tu>
+	<tu xmlns:lang="jpn">コンフィギュレーション可能\なアンロッキング</tu>
+	<tu xmlns:lang="ptg">Destrancagem configurável</tu>
+	<tu xmlns:lang="ptb">Destravamento configurável</tu>
+	<tu xmlns:lang="rus">Настраиваемое отпирание</tu>
+	<tu xmlns:lang="esp">Desbloqueo configurable</tu>
+	<tu xmlns:lang="chs">可配置的解锁</tu>
+	<tu xmlns:lang="kor">구성 가능한 잠금 해제</tu>
+</tm>

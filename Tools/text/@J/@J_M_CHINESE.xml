@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CHINESE">
+	<tu xmlns:lang="eng">Chinese</tu>
+	<tu xmlns:lang="nld">Chinees</tu>
+	<tu xmlns:lang="fra">Chinois</tu>
+	<tu xmlns:lang="deu">Chinesisch</tu>
+	<tu xmlns:lang="ita">Cinese</tu>
+	<tu xmlns:lang="jpn">中国語</tu>
+	<tu xmlns:lang="ptg">Chinês</tu>
+	<tu xmlns:lang="ptb">Chinês</tu>
+	<tu xmlns:lang="rus">Китайский</tu>
+	<tu xmlns:lang="esp">Chino</tu>
+	<tu xmlns:lang="chs">中文</tu>
+	<tu xmlns:lang="kor">중국어</tu>
+</tm>

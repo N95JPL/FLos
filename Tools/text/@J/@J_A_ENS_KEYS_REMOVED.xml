@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENS_KEYS_REMOVED">
+	<tu xmlns:lang="eng">Make sure keys are removed from the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer dat de sleutels uit het voertuig verwijderd zijn.</tu>
+	<tu xmlns:lang="fra">Assurez-vous que les clés sont retirées du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Schlüssel aus dem Fahrzeug genommen werden.</tu>
+	<tu xmlns:lang="ita">Verificare che le chiavi siano rimosse dal veicolo.</tu>
+	<tu xmlns:lang="jpn">キーが車両から取り外されていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certificar-se de que as chaves foram retiradas do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se que as chaves estão removidas do veículo.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что ключи извлечены из автомобиля.</tu>
+	<tu xmlns:lang="esp">Asegurarse de retirar las llaves del vehículo.</tu>
+	<tu xmlns:lang="chs">确保钥匙从车辆中取出。</tu>
+	<tu xmlns:lang="kor">차량에서 키가 제거된 상태인지 확인하십시오.</tu>
+</tm>

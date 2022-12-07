@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_DISABLE_OTHER_KEYS">
+	<tu xmlns:lang="eng">Failed to disable all other keys.</tu>
+	<tu xmlns:lang="nld">Het deactiveren van alle overige sleutels is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de désactivation de toutes les autres clés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle anderen Schlüssel konnten nicht deaktiviert werden.</tu>
+	<tu xmlns:lang="ita">Mancata disabilitazione di tutte le altre chiavi.</tu>
+	<tu xmlns:lang="jpn">他の全キーの作動不可設定に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Não foi possível desactivar todas as restantes chaves.</tu>
+	<tu xmlns:lang="ptb">Falha ao desativar todas as outras chaves.</tu>
+	<tu xmlns:lang="rus">Не удалось заблокировать все остальные ключи.</tu>
+	<tu xmlns:lang="esp">No se pudo desactivar las demás llaves.</tu>
+	<tu xmlns:lang="chs">不能禁用其它车钥。</tu>
+	<tu xmlns:lang="kor">다른 모든 키를 비활성화하지 못했습니다.</tu>
+</tm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SteerStaight$M">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the steering is in the straight ahead position.</tu>
+	<tu xmlns:lang="nld">Zorg dat het stuurwiel in de rechtvooruitstand staat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que la direction est en position ligne droite.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Lenkung in der Geradeausstellung steht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che lo sterzo si trovi in posizione di marcia rettilinea.</tu>
+	<tu xmlns:lang="jpn">ステアリングが直進位置にあることを確認しなさい。</tu>
+	<tu xmlns:lang="ptg">Certifique-se de que a direcção está direita.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se a direção está na posição direcionada para frente.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что руль находится в среднем положении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que el volante esté en la posición de marcha en línea recta.</tu>
+	<tu xmlns:lang="chs">确保转向位于正前方的位置。</tu>
+	<tu xmlns:lang="kor">스티어링이 직진 주행 위치에 있는지 확인하십시오.</tu>
+</tm>

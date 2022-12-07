@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_DUAL_LAMPS">
+	<tu xmlns:lang="eng">Dual filament lamps.</tu>
+	<tu xmlns:lang="nld">Lampen met dubbele gloeidraad</tu>
+	<tu xmlns:lang="fra">Feux à double filament</tu>
+	<tu xmlns:lang="deu">Doppelwendellampen</tu>
+	<tu xmlns:lang="ita">Lampade a doppio filamento</tu>
+	<tu xmlns:lang="jpn">デュアル フィラメント ランプ</tu>
+	<tu xmlns:lang="ptg">Luzes de filamento duplo.</tu>
+	<tu xmlns:lang="ptb">Lâmpadas de filamento duplo.</tu>
+	<tu xmlns:lang="rus">Двухспиральные лампы.</tu>
+	<tu xmlns:lang="esp">Lámparas de dos filamentos</tu>
+	<tu xmlns:lang="chs">双钨丝灯。</tu>
+	<tu xmlns:lang="kor">이중 필라멘트 램프</tu>
+</tm>

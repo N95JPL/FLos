@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_GALL_TEMP_HIGH_VENT_SYS">
+	<tu xmlns:lang="eng">Gallery pressure too high, please vent system.</tu>
+	<tu xmlns:lang="nld">Kanaaldruk te hoog; ontlucht het systeem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pression de tuyauterie trop élevée, veuillez ventiler le système.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Druck im Druckluftkanal zu hoch, bitte System entlüften.</tu>
+	<tu xmlns:lang="ita">Pressione condotto troppo alta; scaricare il sistema.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ギャラリー プレッシャが高過ぎます。システムを換気しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pressão na galeria demasiado elevada; é favor ventilar o sistema.</tu>
+	<tu xmlns:lang="ptb">Pressão da galeria muito alta, esvazie o sistema.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Слишком высокое давление в магистрали, провентилируйте систему.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Presión del conducto demasiado alta; ventilar el sistema.</tu>
+	<tu xmlns:lang="chs">'流道压力过高，请对系统通风。'</tu>
+	<tu xmlns:lang="kor">갤러리 압력이 너무 높습니다. 시스템을 환기시키십시오.</tu>
+</tm>

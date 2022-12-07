@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_HCM_02">
+	<tu
+    xmlns:lang="eng"
+  >If one of the failures is present, the routine logs an appropriate diagnostic trouble code.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als een van de defecten aanwezig is, zal de routine de betreffende diagnosefoutcode loggen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si l'une des défaillances est présente, le programme enregistre un code de défaut de diagnostic.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Liegt eine der Störungen vor, wird von der Routine ein entsprechender Fehlercode abgespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se uno dei guasti è presente, la procedura registra un codice di guasto diagnostico appropriato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >故障のひとつが現存する場合、ルーチンは該当する診断トラブル コードを記録します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se estiver presente uma das avarias, a rotina regista um código de avaria correspondente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se uma das falhas estiver presente, a rotina registra um código de problema de diagnóstico apropriado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если присутствует одна из неисправностей, программа записывает в журнал диагностический код ошибки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si aparece alguno de los fallos, la rutina registra el código de avería correspondiente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'如果存在其中一个故障，该程序将记录一个适当的故障诊断代码。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >이들 고장 중 하나가 있는 경우 이 루틴에는 적절한 고장 진단 코드가 기록됩니다.</tu>
+</tm>

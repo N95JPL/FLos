@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ADD_DIGIT_AUD_BCAST_MOD">
+	<tu xmlns:lang="eng">Add the digital audio broadcast module</tu>
+	<tu xmlns:lang="nld">Module voor digitale radio toevoegen</tu>
+	<tu xmlns:lang="fra">Ajoutez le module de diffusion audio numérique</tu>
+	<tu xmlns:lang="deu">Digitales Audiosendemodul hinzufügen.</tu>
+	<tu xmlns:lang="ita">Aggiungere il modulo diffusione audio digitale </tu>
+	<tu xmlns:lang="jpn">デジタル オーディオ放送モジュールの追加</tu>
+	<tu xmlns:lang="ptg">Adicionar o módulo de emissão áudio digital</tu>
+	<tu xmlns:lang="ptb">Adicionar o módulo de transmissão de áudio digital</tu>
+	<tu xmlns:lang="rus">Добавить блок цифрового аудиовещания</tu>
+	<tu xmlns:lang="esp">Añadir el módulo de difusión audio digital</tu>
+	<tu xmlns:lang="chs">加入数码音频广播模块</tu>
+	<tu xmlns:lang="kor">디지털 오디오 방송 모듈 추가</tu>
+</tm>

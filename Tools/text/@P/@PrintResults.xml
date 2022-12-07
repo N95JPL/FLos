@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PrintResults">
+	<tu xmlns:lang="eng">Print results</tu>
+	<tu xmlns:lang="nld">Resultaten afdrukken</tu>
+	<tu xmlns:lang="fra">Imprimer les résultats</tu>
+	<tu xmlns:lang="deu">Ausdrucken der Ergebnisse</tu>
+	<tu xmlns:lang="ita">Stampa dei risultati</tu>
+	<tu xmlns:lang="jpn">結果の印刷</tu>
+	<tu xmlns:lang="ptg">Imprimir resultados</tu>
+	<tu xmlns:lang="ptb">Imprima os resultados</tu>
+	<tu xmlns:lang="rus">Печать результатов</tu>
+	<tu xmlns:lang="esp">Imprimir resultados</tu>
+	<tu xmlns:lang="chs">打印结果</tu>
+	<tu xmlns:lang="kor">결과 인쇄</tu>
+</tm>

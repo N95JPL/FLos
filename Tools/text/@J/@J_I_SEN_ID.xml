@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SEN_ID">
+	<tu xmlns:lang="eng">Sensor identification</tu>
+	<tu xmlns:lang="nld">Sensoridentificatie</tu>
+	<tu xmlns:lang="fra">Identification du capteur</tu>
+	<tu xmlns:lang="deu">Sensorkennung</tu>
+	<tu xmlns:lang="ita">Identificazione sensore</tu>
+	<tu xmlns:lang="jpn">センサー ID</tu>
+	<tu xmlns:lang="ptg">Identificação do sensor</tu>
+	<tu xmlns:lang="ptb">Identificação do sensor</tu>
+	<tu xmlns:lang="rus">Идентификация датчика</tu>
+	<tu xmlns:lang="esp">Identificación del sensor</tu>
+	<tu xmlns:lang="chs">传感器标识码</tu>
+	<tu xmlns:lang="kor">센서 식별</tu>
+</tm>

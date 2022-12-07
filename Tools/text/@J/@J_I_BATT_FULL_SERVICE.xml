@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_FULL_SERVICE">
+	<tu
+    xmlns:lang="eng"
+  >Make sure battery is in a fully charged and serviceable condition.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De accu moet volledig zijn opgeladen en in bruikbare staat zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que la batterie est bien chargée et en parfait état de marche.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Batterie vollständig geladen und einsatzbereit ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che la batteria sia completamente carica e in buone condizioni.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリが満充電であり使用可能\状態にあることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certificar-se de que a bateria está totalmente carregada e pode ser reparada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a bateria esteja totalmente carregada e em condição de ser utilizada</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь в том, что аккумуляторная батарея аходится в полностью заряженном и работоспособном состоянии.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar que la batería está totalmente cargada y es utilizable.</tu>
+	<tu xmlns:lang="chs">确保蓄电池处于满电状态并可立即投入使用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리가 완전히 충전되어 사용 가능한 상태인지 확인하십시오.</tu>
+</tm>

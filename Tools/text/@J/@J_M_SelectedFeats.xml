@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SelectedFeats">
+	<tu
+    xmlns:lang="eng"
+  >You have selected the following features to be programmed</tu>
+	<tu
+    xmlns:lang="nld"
+  >U heeft de volgende voorzieningen geselecteerd om te programmeren</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous avez sélectionné les fonctions suivantes pour les programmer</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sie haben folgende Merkmale für eine Programmierung ausgewählt</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sono state selezionate le seguenti funzioni da programmare</tu>
+	<tu xmlns:lang="jpn">あなたは次の機能\をプログラムするよう選択しました：</tu>
+	<tu xmlns:lang="ptg">Seleccionou programar as seguintes funções</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Foram selecionados os seguintes recursos para serem programados</tu>
+	<tu xmlns:lang="rus">Вы выбрали программирование следующих функций</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se han seleccionado las siguientes funciones que se han de programar</tu>
+	<tu xmlns:lang="chs">您已选择了以下要设置的功能</tu>
+	<tu xmlns:lang="kor">다음 기능을 프로그래밍하는 것으로 선택했습니다.</tu>
+</tm>

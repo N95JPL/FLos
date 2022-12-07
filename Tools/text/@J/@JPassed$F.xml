@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JPassed$F">
+	<tu xmlns:lang="eng">Passed</tu>
+	<tu xmlns:lang="nld">GOED</tu>
+	<tu xmlns:lang="fra">OUI</tu>
+	<tu xmlns:lang="deu">ERFOLGREICH</tu>
+	<tu xmlns:lang="ita">PASSATO</tu>
+	<tu xmlns:lang="jpn">合格</tu>
+	<tu xmlns:lang="ptg">Aprovado</tu>
+	<tu xmlns:lang="ptb">Aprovado</tu>
+	<tu xmlns:lang="rus">Проверка выполнена</tu>
+	<tu xmlns:lang="esp">APROBADO</tu>
+	<tu xmlns:lang="chs">通过</tu>
+	<tu xmlns:lang="kor">합격</tu>
+</tm>

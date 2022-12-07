@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_USA_CANADA_MEX">
+	<tu xmlns:lang="eng">North America, Canada, Mexico</tu>
+	<tu xmlns:lang="nld">Noord-Amerika, Canada, Mexico</tu>
+	<tu xmlns:lang="fra">Amérique du nord, Canada, Mexique</tu>
+	<tu xmlns:lang="deu">Nordamerika, Kanada, Mexiko</tu>
+	<tu xmlns:lang="ita">Nord America, Canada, Messico</tu>
+	<tu xmlns:lang="jpn">北米、カナダ、メキシコ</tu>
+	<tu xmlns:lang="ptg">América do Norte, Canadá, México</tu>
+	<tu xmlns:lang="ptb">EUA, Canadá, México</tu>
+	<tu xmlns:lang="rus">Северная Америка, Канада, Мексика</tu>
+	<tu xmlns:lang="esp">Estados Unidos, Canadá, México</tu>
+	<tu xmlns:lang="chs">'北美、加拿大、墨西哥'</tu>
+	<tu xmlns:lang="kor">북미, 캐나다, 멕시코</tu>
+</tm>

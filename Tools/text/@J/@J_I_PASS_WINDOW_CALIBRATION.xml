@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PASS_WINDOW_CALIBRATION">
+	<tu xmlns:lang="eng">Passenger's side  -  Door glass window calibration</tu>
+	<tu xmlns:lang="nld">Passagierszijde  -  Kalibratie van portierruit</tu>
+	<tu xmlns:lang="fra">Côté passager  -  Etalonnage des vitres de porte</tu>
+	<tu xmlns:lang="deu">Beifahrerseite  -  Kalibrierung der Türfensterscheiben</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lato passeggero  -  Taratura dei cristalli delle portiere.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >助手席サイド  －  ドア ガラス ウィンドウ キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Lado do passageiro  -  Calibragem do vidro da porta</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Lado do passageiro  -  Calibração da janela de vidro da porta</tu>
+	<tu xmlns:lang="rus">Со стороны пассажира  -  Калибровка стеклоподъемника</tu>
+	<tu
+    xmlns:lang="esp"
+  >Lado del acompañante  -  Calibración de las ventanillas</tu>
+	<tu xmlns:lang="chs">乘客一侧  -  车门玻璃窗标定</tu>
+	<tu xmlns:lang="kor">조수석 측  -  도어 글라스 윈도우 보정</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AIR_QUAL_SYS">
+	<tu xmlns:lang="eng">Air quality system</tu>
+	<tu xmlns:lang="nld">Luchtkwaliteitssysteem</tu>
+	<tu xmlns:lang="fra">Système de la qualité de l'air</tu>
+	<tu xmlns:lang="deu">Luftqualitätssystem</tu>
+	<tu xmlns:lang="ita">Sistema qualità aria</tu>
+	<tu xmlns:lang="jpn">エア クォリティ システム</tu>
+	<tu xmlns:lang="ptg">Sistema de qualidade do ar</tu>
+	<tu xmlns:lang="ptb">Sistema de qualidade do ar</tu>
+	<tu xmlns:lang="rus">Система контроля качества воздуха</tu>
+	<tu xmlns:lang="esp">Sistema de calidad del aire</tu>
+	<tu xmlns:lang="chs">空气品质系统</tu>
+	<tu xmlns:lang="kor">공기 품질 시스템</tu>
+</tm>

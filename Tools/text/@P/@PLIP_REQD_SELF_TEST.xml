@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PLIP_REQD_SELF_TEST">
+	<tu
+    xmlns:lang="eng"
+  >You will require a plip during the test to enter self test mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens de test hebt u een afstandsbediening nodig om de zelftestfunctie in te schakelen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Il vous faudra une télécommande pendant le test pour passer en mode d'autodiagnostic.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um bei der Prüfung in den Selbsttestmodus einzutreten, wird eine Fernbedienung benötigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per accedere alla modalità autodiagnostica durante il test è necessario un telecomando.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セルフ テスト モードに入るには、テスト中にプリップする必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Precisará de um 'plip' durante o teste para entrar em modo de autoteste.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Você vai precisar de um plip durante o teste para entrar no modo de autoteste.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Во время проверки потребуется пульт для входа в режим самотестирования.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Necesitará un mando a distancia durante la prueba para pasar al modo de autocomprobación.</tu>
+	<tu xmlns:lang="chs">在测试过程中，您将需要一个手持遥控器以便输入自检模式。</tu>
+	<tu
+    xmlns:lang="kor"
+  >자체 테스트 모드로 들어가려면 테스트 중에 플립이 필요합니다.</tu>
+</tm>

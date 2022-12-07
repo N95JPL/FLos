@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PRESS_PLIP_UNLOCK_RESYNCH">
+	<tu
+    xmlns:lang="eng"
+  >Press unlock button on each plip at least 4 times to resynchronise.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk de ontgrendeltoets op elke afstandsbediening minstens 4 keer in om opnieuw te synchroniseren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur le bouton de déverrouillage de chaque télécommande au moins 4 fois pour resynchroniser.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zur erneuten Synchronisation die Entriegelungstaste auf jeder Fernbedienung mindestens viermal drücken.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il pulsante di sbloccaggio su ciascun telecomando per almeno 4 volte per risincronizzarli.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >各プリップのアンロック ボタンを少なくとも 4 回押して再同期化します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Premir o botão de destrancagem em cada plip (comando à distância da altura do engate de reboque) pelo menos 4 vezes para voltar a sincronizar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione botão de destravamento em cada flip, pelo menos, 4 vezes para a ressincronização.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите кнопку открывания на каждом пульте не менее 4 раз, чтобы выполнить повторную синхронизацию.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de desbloqueo de cada mando a distancia al menos cuatro veces para volver a sincronizarlos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >按下各个手持遥控器上的解锁按钮至少4次，以使之重新同步化。</tu>
+	<tu
+    xmlns:lang="kor"
+  >각 플립의 잠금 해제 버튼을 4회 이상 눌러 다시 동기화하십시오.</tu>
+</tm>

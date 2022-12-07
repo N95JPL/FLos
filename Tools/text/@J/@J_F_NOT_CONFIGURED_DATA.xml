@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_NOT_CONFIGURED_DATA">
+	<tu xmlns:lang="eng">Not used or configured on this vehicle.</tu>
+	<tu xmlns:lang="nld">Niet voor dit voertuig gebruikt of geconfigureerd.</tu>
+	<tu xmlns:lang="fra">Non utilisé ou non configuré sur ce véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei diesem Fahrzeug nicht verwendet oder nicht konfiguriert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non utilizzato oppure non configurato su questo veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >未使用またはこの車両用にコンフィギュレーションされていません。</tu>
+	<tu xmlns:lang="ptg">Não usado ou configurado neste veículo.</tu>
+	<tu xmlns:lang="ptb">Não usado nem configurado neste veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не используется или не настроено для данного автомобиля.</tu>
+	<tu xmlns:lang="esp">Sin usar o configurar en este vehículo.</tu>
+	<tu xmlns:lang="chs">本车没有采用或配置。</tu>
+	<tu xmlns:lang="kor">이 차량에서는 사용되지 않거나 구성되지 않았습니다.</tu>
+</tm>

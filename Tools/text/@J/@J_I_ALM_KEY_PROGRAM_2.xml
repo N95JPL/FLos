@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_KEY_PROGRAM_2">
+	<tu
+    xmlns:lang="eng"
+  >Press the 'lock' or 'unlock' on the smart key remote within 5 seconds of switching the ignition 'on'.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op 'vergrendelen' of 'ontgrendelen' op de smart-key binnen 5 seconden nadat het contact is ingeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur le bouton de verrouillage ou de déverrouillage sur l'émetteur de la clé intelligente dans un délai de 5 secondes une fois le contact mis.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Innerhalb von 5 Sekunden nach Einschalten der Zündung die Tasten ?Verriegeln? und ?Entriegeln? auf der Smart Key-Fernbedienung drücken.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il pulsante di bloccaggio o sbloccaggio sul telecomando della chiave Smart entro 5 secondi dall'inserimento dell'accensione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イグニッションを「オン」にしてから 5 秒以内にスマート キーの「ロック」または「アンロック」を押す。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima o botão de trancagem ou destrancagem no comando da chave inteligente num espaço de 5 segundos após a ignição ser ligada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione travar ou destravar na chave inteligente remota dentro de 5 segundos após ligar a ignição.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите lock или unlock на электронном ключе в течение 5 секунд после включения зажигания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulse la opción de bloqueo o desbloqueo en el mando a distancia de la llave inteligente en un plazo de 5 segundos desde el momento en el que se activó el sistema de encendido.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在打开点火开关 5 秒内按下遥控智能钥匙上的“lock”（锁定）或“unlock”（解锁）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >점화 스위치를 'ON'으로 전환하고 5초 이내에 스마트 키 리모컨에서 '잠금' 또는 '잠금 해제'를 누르십시오.</tu>
+</tm>

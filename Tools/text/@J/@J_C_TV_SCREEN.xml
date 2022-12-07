@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_TV_SCREEN">
+	<tu xmlns:lang="eng">Television</tu>
+	<tu xmlns:lang="nld">Televisie</tu>
+	<tu xmlns:lang="fra">Télévision</tu>
+	<tu xmlns:lang="deu">Fernsehen</tu>
+	<tu xmlns:lang="ita">Televisione</tu>
+	<tu xmlns:lang="jpn">テレビジョン </tu>
+	<tu xmlns:lang="ptg">Televisão</tu>
+	<tu xmlns:lang="ptb">Televisão</tu>
+	<tu xmlns:lang="rus">Телевизор</tu>
+	<tu xmlns:lang="esp">Televisión</tu>
+	<tu xmlns:lang="chs">电视</tu>
+	<tu xmlns:lang="kor">TV</tu>
+</tm>

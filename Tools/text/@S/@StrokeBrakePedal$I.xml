@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StrokeBrakePedal$I">
+	<tu
+    xmlns:lang="eng"
+  >Pump the brake pedal during the entire bleed procedure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Houd het rempedaal gedurende de hele ontluchtingsprocedure ingetrapt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez de façon répétée sur la pédale de frein pendant toute la procédure de purge.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Während des gesamten Entlüftungsprozesses das Bremspedal pumpend betätigen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Toccare leggermente il pedale del freno durante l'intera procedura di spurgo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ブリードの全手順中、ブレーキ ペダルをストロークに沿って動かしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Bombeie o pedal do travão durante todo o processo de purga.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Bombeie o pedal do freio durante todo o procedimento de drenagem.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Педаль тормоза необходимо прокачивать в течение всего процесса стравливания давления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Accionar suavemente el pedal del freno durante todo el proceso de purga.</tu>
+	<tu xmlns:lang="chs">在整个放气过程中抽动制动踏板。</tu>
+	<tu
+    xmlns:lang="kor"
+  >블리딩 절차가 진행되는 동안 브레이크 페달을 밟으십시오.</tu>
+</tm>

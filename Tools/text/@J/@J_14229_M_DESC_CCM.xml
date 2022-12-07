@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_CCM">
+	<tu xmlns:lang="eng">Speed control module</tu>
+	<tu xmlns:lang="nld">Besturingsmodule voor snelheid</tu>
+	<tu xmlns:lang="fra">Module de contrôle de vitesse</tu>
+	<tu xmlns:lang="deu">Geschwindigkeitsregelmodul</tu>
+	<tu xmlns:lang="ita">Modulo comando velocità</tu>
+	<tu xmlns:lang="jpn">ｽピ－ド・ｺﾝﾄロ－ル・モジュ－ル</tu>
+	<tu xmlns:lang="ptg">Módulo de comando da velocidade</tu>
+	<tu xmlns:lang="ptb">Módulo de controle de velocidade</tu>
+	<tu xmlns:lang="rus">Блок управления скоростью</tu>
+	<tu xmlns:lang="esp">Módulo control velocidad</tu>
+	<tu xmlns:lang="chs">速度控制模块</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤 모듈</tu>
+</tm>

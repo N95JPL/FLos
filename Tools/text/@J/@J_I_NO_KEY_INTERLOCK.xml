@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_KEY_INTERLOCK">
+	<tu xmlns:lang="eng">No key interlock</tu>
+	<tu xmlns:lang="nld">Geen sleutelvergrendeling</tu>
+	<tu xmlns:lang="fra">Pas de verrouillage de clé</tu>
+	<tu xmlns:lang="deu">Keine Schlüsselsperre</tu>
+	<tu xmlns:lang="ita">Nessun interblocco chiave</tu>
+	<tu xmlns:lang="jpn">キー インターロックなし</tu>
+	<tu xmlns:lang="ptg">Sem bloqueio da chave</tu>
+	<tu xmlns:lang="ptb">Sem intertravamento da chave</tu>
+	<tu xmlns:lang="rus">Без блокировки ключа</tu>
+	<tu xmlns:lang="esp">No tiene función de enclavamiento con llave</tu>
+	<tu xmlns:lang="chs">无钥匙联锁</tu>
+	<tu xmlns:lang="kor">키 인터록 없음</tu>
+</tm>

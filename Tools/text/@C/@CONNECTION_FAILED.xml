@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CONNECTION_FAILED">
+	<tu
+    xmlns:lang="eng"
+  >Failed to obtain internet connection, check connection and retry</tu>
+	<tu
+    xmlns:lang="nld"
+  >Kan geen internetverbinding tot stand brengen, controleer verbinding en probeer opnieuw</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec de connexion à l'internet ; vérifiez la connexion et réessayez</tu>
+	<tu
+    xmlns:lang="deu"
+  >Internetverbindung konnte nicht hergestellt werden, Verbindung prüfen und erneut versuchen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Connessione a Internet non riuscita, controllare la connessione e riprovare</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インターネットの接続に失敗しました。接続をチェックし、再試行しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha na obtenção de ligação à internet; verificar a ligação e voltar a tentar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha ao obter a conexão com a Internet, verifique a conexão e tente novamente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не удалось подключиться к Интернету, проверьте соединение и попробуйте еще раз</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudo obtener conexión a Internet. Comprobar la conexión e intentarlo de nuevo.</tu>
+	<tu xmlns:lang="chs">没有连接到互联网，请检查连接然后重试</tu>
+	<tu
+    xmlns:lang="kor"
+  >인터넷 연결에 실패했습니다. 연결을 점검하고 다시 시도하십시오.</tu>
+</tm>

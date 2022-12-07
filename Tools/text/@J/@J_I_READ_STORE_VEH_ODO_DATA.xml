@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_READ_STORE_VEH_ODO_DATA">
+	<tu xmlns:lang="eng">Read and store vehicle odometer data</tu>
+	<tu
+    xmlns:lang="nld"
+  >De kilometertellergegevens van het voertuig uitlezen en opslaan</tu>
+	<tu
+    xmlns:lang="fra"
+  >Relever et enregistrer les données du totalisateur kilométrique</tu>
+	<tu xmlns:lang="deu">Kilometerzählerdaten auslesen und speichern</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lettura e memorizzazione dati contachilometri del veicolo</tu>
+	<tu xmlns:lang="jpn">車両オドメータ データの読み取りおよび保存</tu>
+	<tu xmlns:lang="ptg">Leia e guarde os dados do odómetro do veículo</tu>
+	<tu xmlns:lang="ptb">Leia e guarde os dados do odômetro do veículo</tu>
+	<tu xmlns:lang="rus">Считать и сохранить данные одометра автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Leer y memorizar los datos del cuentakilómetros del vehículo</tu>
+	<tu xmlns:lang="chs">读取并保存车辆里程表数据</tu>
+	<tu xmlns:lang="kor">차량 주행 기록계 데이터를 읽고 저장하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRANS_MODE_ENAB">
+	<tu xmlns:lang="eng">Transport mode  -  Enable</tu>
+	<tu xmlns:lang="nld">Transportfunctie  -  Bekrachtigen</tu>
+	<tu xmlns:lang="fra">Mode de transport  -  Activer</tu>
+	<tu xmlns:lang="deu">Transportmodus  -  Aktivieren</tu>
+	<tu xmlns:lang="ita">Modalità di trasporto  -  Abilita</tu>
+	<tu xmlns:lang="jpn">輸送モード  －  作動可</tu>
+	<tu xmlns:lang="ptg">Modo de transporte  -  Activar</tu>
+	<tu xmlns:lang="ptb">Modo de transporte  -  Ativar</tu>
+	<tu xmlns:lang="rus">Режим транспортировки  -  Включено</tu>
+	<tu xmlns:lang="esp">Modo de transporte  -  Activar</tu>
+	<tu xmlns:lang="chs">运输模式  -  启用</tu>
+	<tu xmlns:lang="kor">운송 모드  -  활성화</tu>
+</tm>

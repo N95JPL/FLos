@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_TRAINING">
+	<tu xmlns:lang="eng">Training</tu>
+	<tu xmlns:lang="nld">Training</tu>
+	<tu xmlns:lang="fra">Formation</tu>
+	<tu xmlns:lang="deu">Übung</tu>
+	<tu xmlns:lang="ita">Addestramento</tu>
+	<tu xmlns:lang="jpn">トレーニ・グ</tu>
+	<tu xmlns:lang="ptg">Formação</tu>
+	<tu xmlns:lang="ptb">Treinamento</tu>
+	<tu xmlns:lang="rus">Обучение</tu>
+	<tu xmlns:lang="esp">Capacitación</tu>
+	<tu xmlns:lang="chs">培训</tu>
+	<tu xmlns:lang="kor">교육</tu>
+</tm>

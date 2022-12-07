@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_TPM">
+	<tu xmlns:lang="eng">Tire pressure monitor module</tu>
+	<tu xmlns:lang="nld">Regelmodule van bandenspanningsbewaking</tu>
+	<tu xmlns:lang="fra">Module de contrôle de pression des pneus</tu>
+	<tu xmlns:lang="deu">Steuermodul Reifendrucküberwachung</tu>
+	<tu xmlns:lang="ita">Modulo monitoraggio pressione pneumatici</tu>
+	<tu xmlns:lang="jpn">タイヤ プレッシャ モニター モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de monitorização da pressão dos pneus</tu>
+	<tu xmlns:lang="ptb">Módulo do monitor de pressão dos pneus</tu>
+	<tu xmlns:lang="rus">Блок монитора давления в шинах</tu>
+	<tu xmlns:lang="esp">Módulo del detector de la presión de los neumáticos</tu>
+	<tu xmlns:lang="chs">轮胎压力监测器模块</tu>
+	<tu xmlns:lang="kor">타이어 공기압 모니터 모듈</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_CODE_ACT">
+	<tu xmlns:lang="eng">Key code activated</tu>
+	<tu xmlns:lang="nld">Sleutelcode geactiveerd</tu>
+	<tu xmlns:lang="fra">Code de clé activé</tu>
+	<tu xmlns:lang="deu">Schlüsselcode aktiviert</tu>
+	<tu xmlns:lang="ita">Codice chiave attivato</tu>
+	<tu xmlns:lang="jpn">キー コード作動可処理済み</tu>
+	<tu xmlns:lang="ptg">Código da chave activado</tu>
+	<tu xmlns:lang="ptb">Código da chave ativado</tu>
+	<tu xmlns:lang="rus">Код ключа активирован</tu>
+	<tu xmlns:lang="esp">Código de llave activado</tu>
+	<tu xmlns:lang="chs">钥匙代码已激活</tu>
+	<tu xmlns:lang="kor">키 코드 활성화됨</tu>
+</tm>

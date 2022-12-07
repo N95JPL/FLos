@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart94">
+	<tu
+    xmlns:lang="eng"
+  >Allow engine temperature to increase before continuing with the test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Laat de motortemperatuur oplopen voordat u verder gaat met de test.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Laissez la température du moteur augmenter avant de poursuivre le test.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Motortemperatur ansteigen lassen, bevor mit der Prüfung fortgefahren wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lasciare che la temperatura del motore aumenti prima di riprendere la prova.</tu>
+	<tu xmlns:lang="jpn">テストを続行する前にエンジンの温度を上げてください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deixe que a temperatura do motor aumente antes de continuar o teste.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Permita o aumento da temperatura do motor antes de prosseguir com o teste.</tu>
+	<tu xmlns:lang="rus">До продолжения проверки дайте двигателю прогреться.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Deje que la temperatura del motor aumente antes de continuar con la prueba.</tu>
+	<tu xmlns:lang="chs">继续测试前，让发动机温度升高。</tu>
+	<tu xmlns:lang="kor">엔진 온도가 증가한 후에 테스트를 계속 진행하십시오.</tu>
+</tm>

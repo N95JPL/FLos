@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNIT_SET_26">
+	<tu
+    xmlns:lang="eng"
+  >Temperature:  °F  -  Clock:  12 hour  -  Distance:  km  -  Fuel:  mpg (USA)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Temperatuur:  °F   -  Klok:  12 uur   -  Afstand:  km   -  Brandstof:  mijl/gallon (VS)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Température :  °F   -  Horloge :  12 heures   -  Distance :  km   -  Carburant :  mi/g (USA)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Temperatur:  °F   -  Uhr:  12 Stunden   -  Distanz:  km   -  Kraftstoff:  mpg (USA)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Temperatura:  °F  -  Orologio:  12 ore  -  Distanza:  km  -  Carburante:  miglia/gallone (USA)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >温度：  °F  －  時計：  12 時間  －  距離：  km  －  燃費：  mpg (米国)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temperatura:  °F  -  Relógio:  12 horas  -  Distância:  km  -  Combustível:  mpg (EUA)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Temperatura: °F  -  Relógio: 12 horas  -  Distância: km  -  Combustível: mpg (EUA)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Температура:  °F   -  Часы: 12-час. формат   -  Пробег:  км   -  Расход топлива:  миль/галлон (США)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Temperatura:  °F  -  Reloj:  12 horas  -  Distancia:  km  -  Combustible:  millas/galón (Estados Unidos)</tu>
+	<tu
+    xmlns:lang="chs"
+  >温度：  °F   -  时钟：  12 小时  -  距离：  公里  -  燃油：  英里/加仑（美国）</tu>
+	<tu
+    xmlns:lang="kor"
+  >온도: °F  -  시계: 12시간  -  거리: km  -  연료: mpg(미국)</tu>
+</tm>

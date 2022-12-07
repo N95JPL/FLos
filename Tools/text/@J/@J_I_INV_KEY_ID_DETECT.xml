@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INV_KEY_ID_DETECT">
+	<tu xmlns:lang="eng">Invalid key identity detected.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem heeft een ongeldige sleutelidentiteit gedetecteerd.</tu>
+	<tu xmlns:lang="fra">Identité de clé non valide détectée.</tu>
+	<tu xmlns:lang="deu">Ungültige Schlüsselidentität nachgewiesen.</tu>
+	<tu xmlns:lang="ita">Rilevata identità chiave non valida.</tu>
+	<tu xmlns:lang="jpn">無効なキー ID を検出</tu>
+	<tu xmlns:lang="ptg">Detectada identidade de chave inválida.</tu>
+	<tu xmlns:lang="ptb">Identificação de chave inválida detectada.</tu>
+	<tu xmlns:lang="rus">Обнаружен недопустимый идентификатор ключа.</tu>
+	<tu xmlns:lang="esp">Se detectó una identidad de llave no válida.</tu>
+	<tu xmlns:lang="chs">检测到无效钥匙身份。</tu>
+	<tu xmlns:lang="kor">유효하지 않은 키 ID가 감지됨</tu>
+</tm>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RERUN_NGI">
+	<tu
+    xmlns:lang="eng"
+  >Please re-run application which generated the 01-General Error, Configure (existing or new) InControl Touch Pro.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer de toepassing die de '01-Algemene fout, InControl Touch Pro (bestaand of nieuw) configureren' genereerde opnieuw uit.
+</tu>
+	<tu
+    xmlns:lang="fra"
+  >Exécutez de nouveau l'application qui a généré l'erreur générale 01, configurez InControl Touch Pro (existant ou nouveau).
+</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Anwendung erneut ausführen, die den allgemeinen Fehler 01, Konfigurieren InControl Touch Pro (vorhanden oder neu), generiert hat.
+</tu>
+	<tu
+    xmlns:lang="ita"
+  >Eseguire nuovamente l'applicazione che ha generato l’errore generale 01 e configurare InControl Touch Pro (nuovo o già esistente).
+</tu>
+	<tu
+    xmlns:lang="jpn"
+  >「01 一般エラー」が生じたアプリケーションを再実行し、(既存または新規の) InControl Touch Pro を設定します。
+</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Volte a executar a aplicação que gerou o 01-Erro geral, Configurar InControl Touch Pro (existente ou novo).
+</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Execute novamente o aplicativo que gerou o Erro 01-Geral e configure o InControl Touch Pro (novo ou existente).
+</tu>
+	<tu
+    xmlns:lang="rus"
+  >Повторно запустите приложение, которое сгенерировало код 01-Общая ошибка, программирование InControl Touch Pro (в качестве имеющейся или новой).
+</tu>
+	<tu
+    xmlns:lang="esp"
+  >Vuelva a ejecutar la aplicación que ha provocado el error general 01: Configurar InControl Touch Pro (nuevo o existente).
+</tu>
+	<tu
+    xmlns:lang="chs"
+  >请重新运行生成了“01 - 一般错误，请配置（现有或新的）InControl 智能驭领 尊享触控”的应用程序。
+</tu>
+	<tu
+    xmlns:lang="kor"
+  >01-일반 오류, (기존 또는 새로운) InControl Touch Pro 구성을 생성한 응용 프로그램을 다시 실행하십시오.
+</tu>
+</tm>

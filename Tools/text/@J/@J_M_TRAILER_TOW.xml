@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_TRAILER_TOW">
+	<tu xmlns:lang="eng">Caravan/trailer</tu>
+	<tu xmlns:lang="nld">Caravan/aanhanger</tu>
+	<tu xmlns:lang="fra">Remorque/caravane</tu>
+	<tu xmlns:lang="deu">Wohnwagen/Anhänger</tu>
+	<tu xmlns:lang="ita">Caravan/rimorchio</tu>
+	<tu xmlns:lang="jpn">キャラバン／トレーラー</tu>
+	<tu xmlns:lang="ptg">Atrelado/reboque</tu>
+	<tu xmlns:lang="ptb">Caravan/reboque</tu>
+	<tu xmlns:lang="rus">Фургон/прицеп</tu>
+	<tu xmlns:lang="esp">Remolque</tu>
+	<tu xmlns:lang="chs">大篷车/拖车</tu>
+	<tu xmlns:lang="kor">캐러밴/트레일러</tu>
+</tm>

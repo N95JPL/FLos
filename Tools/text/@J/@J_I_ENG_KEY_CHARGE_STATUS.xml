@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENG_KEY_CHARGE_STATUS">
+	<tu xmlns:lang="eng">Engine and key charge status</tu>
+	<tu xmlns:lang="nld">Laadstatus motor en sleutel</tu>
+	<tu xmlns:lang="fra">Etat moteur et chargement de clé</tu>
+	<tu xmlns:lang="deu">Ladestatus Motor und Schlüssel</tu>
+	<tu xmlns:lang="ita">Stato di carica chiave e motore</tu>
+	<tu xmlns:lang="jpn">エンジンおよびキーのチャージ ステータス</tu>
+	<tu xmlns:lang="ptg">Estado de carga do motor e da chave</tu>
+	<tu xmlns:lang="ptb">Status da carga do motor e chave</tu>
+	<tu xmlns:lang="rus">Состояние двигателя и зарядки ключа</tu>
+	<tu xmlns:lang="esp">Estado de carga del motor y la llave</tu>
+	<tu xmlns:lang="chs">发动机和钥匙充电状态</tu>
+	<tu xmlns:lang="kor">엔진 및 키 충전 상태</tu>
+</tm>

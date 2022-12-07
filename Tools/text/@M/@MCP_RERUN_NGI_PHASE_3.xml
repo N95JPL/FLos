@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_RERUN_NGI_PHASE_3">
+	<tu
+    xmlns:lang="eng"
+  >After successfully completing the learn variant configuration application, re-run Configure existing module - Update to Phase 4: InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="nld"
+  >Na het met succes uitvoeren van de toepassing voor het inleren van de variantconfiguratie, voert u opnieuw Bestaande module configureren - Bijwerken naar fase 4: InControl Touch Pro uit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Après avoir terminé l'application de configuration de variante d'apprentissage, exécutez à nouveau Configurer le module existant - Mise à jour vers la phase 4: InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach erfolgreicher Durchführung der Lernsequenz für die Variantenkonfiguration, „Vorhandenes Steuergerät konfigurieren“ – „Auf Phase 4 aktualisieren: InControl Touch Pro“ erneut durchführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta completata l'applicazione di configurazione della versione di apprendimento, eseguire nuovamente Configura modulo esistente - Aggiornamento a Fase 4 - InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モデル コンフィギュレーションの認識アプリケーションが正常終了した後、「既存モジュールの設定 - Phase 4 へのアップデート: InControl Touch Pro」を再度実行します</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Após concluir com êxito a aplicação de configuração da variante de programação, volte a executar a aplicação Configurar módulo existente - Atualizar para a fase 4: InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após concluir com êxito o aplicativo para redefinir a configuração da versão, execute novamente Configurar módulo existente - Atualizar para Fase 4: InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="rus"
+  >После успешного завершения работы приложения определения конфигурации вариантов повторно запустите 'Программирование имеющегося блока — Обновление до Phase 4: InControl Touch Pro'</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tras completar correctamente la aplicación de memorización de la configuración de la versión, vuelva a ejecutar Configurar módulo existente - Actualización a la fase 4: InControl Touch Pro.</tu>
+	<tu
+    xmlns:lang="chs"
+  >成功完成读入车型配置应用程序后，重新运行“配置现有模块 - 更新到 Phase 4：InControl 智能驭领 尊享触控”</tu>
+	<tu
+    xmlns:lang="kor"
+  >변형 모델 구성 학습 응용 프로그램을 완료한 후 '기존 모듈 구성 - Phase 4: InControl Touch Pro로 업데이트'를 다시 실행하십시오.</tu>
+</tm>

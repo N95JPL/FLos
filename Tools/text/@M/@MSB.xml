@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MSB">
+	<tu xmlns:lang="eng">Most significant byte</tu>
+	<tu xmlns:lang="nld">Meest significante byte</tu>
+	<tu xmlns:lang="fra">Octet de plus fort poids.</tu>
+	<tu xmlns:lang="deu">Höchstwertiges Byte</tu>
+	<tu xmlns:lang="ita">Byte più significativo</tu>
+	<tu xmlns:lang="jpn">最上位バイト</tu>
+	<tu xmlns:lang="ptg">Byte mais importante</tu>
+	<tu xmlns:lang="ptb">Byte mais significativo</tu>
+	<tu xmlns:lang="rus">Старший значащий байт</tu>
+	<tu xmlns:lang="esp">Byte más significativo</tu>
+	<tu xmlns:lang="chs">最高位字节</tu>
+	<tu xmlns:lang="kor">최상위 바이트</tu>
+</tm>

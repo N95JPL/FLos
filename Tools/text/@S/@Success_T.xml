@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Success_T">
+	<tu xmlns:lang="eng">Success</tu>
+	<tu xmlns:lang="nld">Succes</tu>
+	<tu xmlns:lang="fra">Succès</tu>
+	<tu xmlns:lang="deu">Erfolgreich</tu>
+	<tu xmlns:lang="ita">Successo</tu>
+	<tu xmlns:lang="jpn">成功</tu>
+	<tu xmlns:lang="ptg">Êxito</tu>
+	<tu xmlns:lang="ptb">Sucesso</tu>
+	<tu xmlns:lang="rus">Успех</tu>
+	<tu xmlns:lang="esp">Éxito</tu>
+	<tu xmlns:lang="chs">成功</tu>
+	<tu xmlns:lang="kor">성공</tu>
+</tm>

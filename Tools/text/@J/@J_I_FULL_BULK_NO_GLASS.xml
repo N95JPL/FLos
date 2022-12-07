@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FULL_BULK_NO_GLASS">
+	<tu xmlns:lang="eng">Full bulkhead with seat indent  -  No glass</tu>
+	<tu
+    xmlns:lang="nld"
+  >Volledig schutbord met uitsparing voor stoel  -  Geen ruit</tu>
+	<tu xmlns:lang="fra">Cloison pleine avec creux de siège  -  Pas de vitre</tu>
+	<tu xmlns:lang="deu">Volle Spritzwand mit Sitzvertiefung  -  Kein Glas</tu>
+	<tu
+    xmlns:lang="ita"
+  >Paratia completa con intaccatura sedile  -  Nessun cristallo</tu>
+	<tu xmlns:lang="jpn">シート インデント付きフル バルクヘッド  －  ガラスなし</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Antepara completa com reentrância do banco  -  Sem vidro</tu>
+	<tu xmlns:lang="ptb">Anteparo completo com entalhe do assento  -  Sem vidro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перегородка полноразмерная с вырезом под сиденье  -  Без стекла</tu>
+	<tu
+    xmlns:lang="esp"
+  >Panel de separación completo con rebaje para asiento  -  Sin cristal</tu>
+	<tu xmlns:lang="chs">带座椅凹槽的完整隔板  -  无玻璃</tu>
+	<tu xmlns:lang="kor">시트 인덴트 풀 벌크헤드  -  유리 없음</tu>
+</tm>

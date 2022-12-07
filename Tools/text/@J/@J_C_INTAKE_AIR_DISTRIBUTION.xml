@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_INTAKE_AIR_DISTRIBUTION">
+	<tu xmlns:lang="eng">Intake air distribution and filtering</tu>
+	<tu xmlns:lang="nld">Inlaatluchtverdeling en -filtering</tu>
+	<tu xmlns:lang="fra">Distribution et filtrage de l'air d'admission</tu>
+	<tu xmlns:lang="deu">Ansaugluftverteilung und ansaugluftfilter</tu>
+	<tu xmlns:lang="ita">Distribuzione e filtraggio aria aspirazione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イ・テーク エア ディストリビューショ・およびフィルタリ・グ</tu>
+	<tu xmlns:lang="ptg">Distribuição e filtragem do ar de admissão</tu>
+	<tu xmlns:lang="ptb">Distribuição e filtragem do ar de admissão</tu>
+	<tu xmlns:lang="rus">Распределение и фильтрация потока входного воздуха</tu>
+	<tu xmlns:lang="esp">Distribución y filtrado del aire de admisión</tu>
+	<tu xmlns:lang="chs">进气分配和过滤</tu>
+	<tu xmlns:lang="kor">흡기 분배 및 필터링</tu>
+</tm>

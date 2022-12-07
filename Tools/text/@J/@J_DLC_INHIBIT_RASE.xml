@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_INHIBIT_RASE">
+	<tu xmlns:lang="eng">Inhibit raise.</tu>
+	<tu xmlns:lang="nld">Blokkeer opheffen.</tu>
+	<tu xmlns:lang="fra">Neutralisation de relevage.</tu>
+	<tu xmlns:lang="deu">Heben sperren.</tu>
+	<tu xmlns:lang="ita">Attivare sollevamento.</tu>
+	<tu xmlns:lang="jpn">上昇インヒビット</tu>
+	<tu xmlns:lang="ptg">Inibir a elevação.</tu>
+	<tu xmlns:lang="ptb">Inibir elevação.</tu>
+	<tu xmlns:lang="rus">Повышение уровня запрета.</tu>
+	<tu xmlns:lang="esp">Inhibir elevación.</tu>
+	<tu xmlns:lang="chs">抑制升起。</tu>
+	<tu xmlns:lang="kor">들어 올림 금지</tu>
+</tm>

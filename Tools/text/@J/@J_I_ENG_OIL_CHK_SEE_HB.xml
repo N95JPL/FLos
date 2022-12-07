@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENG_OIL_CHK_SEE_HB">
+	<tu
+    xmlns:lang="eng"
+  >Ensure the engine oil level is checked, see handbook or information under special applications heading for correct procedure</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het motoroliepeil moet zijn gecontroleerd. Raadpleeg de handleiding of de informatie over speciale toepassingen voor de correcte procedure.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le niveau d'huile moteur doit être contrôlé. Consultez le manuel ou les informations sous la rubrique Applications spéciales pour la procédure correcte</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass der Motorölstand geprüft wird, für das korrekte Vorgehen siehe Handbuch oder Informationen unter der Überschrift Spezialanwendungen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che venga controllato il livello dell'olio; consultare il manuale o le informazioni alla voce applicazioni speciali per la corretta procedura</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジン オイル レベルがチェックされたことを確認しなさい。ハンドブックかスペシャル アプリケーションにある正しい手順についての情報を参照しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar, sem falta, o nível do óleo do motor; consultar o manual ou as informações das aplicações especiais para obter o procedimento correcto</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o nível de óleo do motor foi verificado, consulte o manual ou as informações sob aplicações especiais para obter o procedimento correto</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте уровень масла в двигателе, описание процедуры см. разделе специальных приложений руководства по эксплуатации</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que se ha comprobado el nivel de aceite del motor. Consultar el manual o información sobre aplicaciones especiales para ver el procedimiento correcto</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保检查了发动机机油油位，有关正确程序，请参阅手册或特定应用程序标题下面的信息</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진 오일 레벨이 점검되는지 확인하십시오. 올바른 절차에 대해서는 특수 애플리케이션 머리글 아래의 정보나 핸드북을 참조하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_NAV_SYSTEM_EUROPE">
+	<tu xmlns:lang="eng">No Euro navigation</tu>
+	<tu xmlns:lang="nld">Geen Euro-navigatie</tu>
+	<tu xmlns:lang="fra">Pas de navigation Europe</tu>
+	<tu xmlns:lang="deu">Keine europäische Navigation</tu>
+	<tu xmlns:lang="ita">Nessuna navigazione Europa</tu>
+	<tu xmlns:lang="jpn">ユーロ ナビゲーションなし</tu>
+	<tu xmlns:lang="ptg">Sem navegação Europa</tu>
+	<tu xmlns:lang="ptb">Sem navegação Euro</tu>
+	<tu xmlns:lang="rus">Без навигации для Европы</tu>
+	<tu xmlns:lang="esp">No tiene navegación para Europa</tu>
+	<tu xmlns:lang="chs">无欧洲导航</tu>
+	<tu xmlns:lang="kor">유로 내비게이션 없음</tu>
+</tm>

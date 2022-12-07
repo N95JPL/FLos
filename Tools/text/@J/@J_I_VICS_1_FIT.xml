@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VICS_1_FIT">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle information and communication system 1 is fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Systeem 1 voor voertuiginformatie en -communicatie is geïnstalleerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le système d'information et de communication 1 du véhicule est installé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeug-Informations- und -Kommunikationssystem 1 ist eingebaut.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema di informazione e comunicazione della vettura 1 in dotazione.</tu>
+	<tu xmlns:lang="jpn">車両情報および通信システム 1 装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Está montado o sistema de informação e comunicação com veículo 1.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Informações de veículo e sistema de comunicação 1 instalado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлена система 1 связи и передачи информации автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tiene instalado el sistema 1 de información y comunicación del vehículo.</tu>
+	<tu xmlns:lang="chs">车辆信息与通讯系统 1 已安装。</tu>
+	<tu xmlns:lang="kor">차량 정보 및 통신 시스템 1이 장착되었습니다.</tu>
+</tm>

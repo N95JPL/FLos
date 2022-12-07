@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ENGINE">
+	<tu xmlns:lang="eng">Engine</tu>
+	<tu xmlns:lang="nld">Motor</tu>
+	<tu xmlns:lang="fra">Moteur</tu>
+	<tu xmlns:lang="deu">Motor</tu>
+	<tu xmlns:lang="ita">Motore</tu>
+	<tu xmlns:lang="jpn">エ・ジ・</tu>
+	<tu xmlns:lang="ptg">Motor</tu>
+	<tu xmlns:lang="ptb">Motor</tu>
+	<tu xmlns:lang="rus">Двигатель</tu>
+	<tu xmlns:lang="esp">Motor</tu>
+	<tu xmlns:lang="chs">发动机</tu>
+	<tu xmlns:lang="kor">엔진</tu>
+</tm>

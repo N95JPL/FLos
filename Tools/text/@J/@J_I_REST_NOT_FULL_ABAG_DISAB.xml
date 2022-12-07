@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REST_NOT_FULL_ABAG_DISAB">
+	<tu
+    xmlns:lang="eng"
+  >The restraints system will not be fully functional and all air bags are disabled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het beveiligingssysteem voor inzittenden zal niet volledig werken en alle airbags zijn uitgeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les dispositif de retenue ne seront pas complètement fonctionnels et tous les airbags seront désactivés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Rückhaltesystem ist nicht voll funktional und alle Airbags sind deaktiviert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sistema di sicurezza occupanti non è completamente funzionante e tutti gli airbag sono disattivati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >拘束システムはフル機能\作動状態でなく、全エアバッグは作動不可に設定されています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema de segurança não funcionará em pleno e todos os airbags serão desactivados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema de retenção não será totalmente funcional e todos os airbags serão desativados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система пассивной безопасности не будет работать в полном объеме, цепи всех подушек безопасности отключены.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los sistemas de retención no están totalmente en servicio y todos los airbags están inhabilitados.</tu>
+	<tu xmlns:lang="chs">约束系统将无法完全发挥作用，所有气囊被禁用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >에어백 시스템이 완벽히 작동하지 않으며 모든 에어백이 비활성화됩니다.</tu>
+</tm>

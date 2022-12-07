@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FILE_NET_XML">
+	<tu xmlns:lang="eng">Network integrity test results file</tu>
+	<tu xmlns:lang="nld">Bestand voor resultaten van netwerkintegriteitstest.</tu>
+	<tu xmlns:lang="fra">Fichiers des résultats du test d'intégrité du réseau.</tu>
+	<tu xmlns:lang="deu">Ergebnisdatei Netzwerk-Integritätstest</tu>
+	<tu xmlns:lang="ita">File risultati prove integrità rete</tu>
+	<tu xmlns:lang="jpn">ネットワーク整合性テスト結果ファイル</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ficheiro de resultados dos testes de integridade da rede</tu>
+	<tu xmlns:lang="ptb">Arquivo de resultados de teste de integridade de rede</tu>
+	<tu xmlns:lang="rus">Файл результатов проверки целостности сети.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Archivo de resultados de pruebas de integridad de las redes</tu>
+	<tu xmlns:lang="chs">网络完整性测试结果文件</tu>
+	<tu xmlns:lang="kor">네트워크 무결성 테스트 결과 파일</tu>
+</tm>

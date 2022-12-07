@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SwitchDemisterOff">
+	<tu
+    xmlns:lang="eng"
+  >The stop/start system requires the demist distribution motor to be switched off.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het Stop/Start-systeem verzoekt om uitgeschakelde verdeelmotor voor ontwaseming.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le système Arrêt/Démarrage requiert que le moteur de distribution de désembuage soit mis hors tension.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Start-Stopp-System fordert, dass der Entfeuchtungsluftverteilermotor ausgeschaltet wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sistema Stop/Start richiede che il motorino di distribuzione sbrinatore sia disattivato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スタート/ストップ システムが作動するためには、デミスト ディストリビューション モータのスイッチがオフになっている必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema Stop/Start requer que o motor de distribuição de desembaciamento do para-brisas seja desligado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema Stop/Start requer que o motor de distribuição do desembaçador seja desligado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для работы системы стоп/старт электропривод распределения воздуха для обдува стекол должен быть выключен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema Stop/Start requiere la desactivación del motor de distribución de desempañado.</tu>
+	<tu xmlns:lang="chs">停止/启动系统要求关闭除雾分配电机。</tu>
+	<tu
+    xmlns:lang="kor"
+  >Stop/Start 시스템에서 서리 제거 분배 모터를 끄도록 요구합니다.</tu>
+</tm>

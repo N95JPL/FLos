@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_SEL_GEOM_SETUP_MODE">
+	<tu xmlns:lang="eng">Select the geometry set-up mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Selecteer de functie voor het instellen van de geometrie.</tu>
+	<tu xmlns:lang="fra">Sélectionnez le mode de réglage à géométrie variable.</tu>
+	<tu xmlns:lang="deu">Einrichtmodus Aufhängungsgeometrie auswählen.</tu>
+	<tu xmlns:lang="ita">Selezionare la modalità di configurazione geometria.</tu>
+	<tu xmlns:lang="jpn">ジオメトリ セットアップ モードを選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Seleccionar o modo de definição da geometria.</tu>
+	<tu xmlns:lang="ptb">Selecione o modo de configuração da geometria.</tu>
+	<tu xmlns:lang="rus">Выбрать режим регулировки геометрии.</tu>
+	<tu xmlns:lang="esp">Seleccionar el modo de configuración de la geometría.</tu>
+	<tu xmlns:lang="chs">选择几何图形设置模式。</tu>
+	<tu xmlns:lang="kor">형상 설정 모드를 선택하십시오.</tu>
+</tm>

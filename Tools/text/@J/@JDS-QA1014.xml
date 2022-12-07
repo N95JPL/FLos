@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA1014">
+	<tu xmlns:lang="eng">Canadian</tu>
+	<tu xmlns:lang="nld">CANADA</tu>
+	<tu xmlns:lang="fra">CANADIEN</tu>
+	<tu xmlns:lang="deu">KANADISCH</tu>
+	<tu xmlns:lang="ita">CANADA</tu>
+	<tu xmlns:lang="jpn">カナﾀﾞ</tu>
+	<tu xmlns:lang="ptg">Canadá</tu>
+	<tu xmlns:lang="ptb">Canadense</tu>
+	<tu xmlns:lang="rus">Канадский</tu>
+	<tu xmlns:lang="esp">CANADA</tu>
+	<tu xmlns:lang="chs">加拿大</tu>
+	<tu xmlns:lang="kor">캐나다</tu>
+</tm>

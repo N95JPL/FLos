@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@REMOTE_START">
+	<tu xmlns:lang="eng">Remote start</tu>
+	<tu xmlns:lang="nld">Starten met afstandsbediening</tu>
+	<tu xmlns:lang="fra">Démarrage à distance.</tu>
+	<tu xmlns:lang="deu">Fernbedienter Start</tu>
+	<tu xmlns:lang="ita">Avvio tramite telecomando</tu>
+	<tu xmlns:lang="jpn">リモート スタート</tu>
+	<tu xmlns:lang="ptg">Arranque remoto</tu>
+	<tu xmlns:lang="ptb">Partida remota</tu>
+	<tu xmlns:lang="rus">Дистанционный пуск двигателя</tu>
+	<tu xmlns:lang="esp">Activación a distancia</tu>
+	<tu xmlns:lang="chs">遥控启动</tu>
+	<tu xmlns:lang="kor">원격 시동</tu>
+</tm>

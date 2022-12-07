@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNLOCK_DISARM_NOT_MOBILISE">
+	<tu
+    xmlns:lang="eng"
+  >Unlocking the vehicle disarms the alarm but does not remobilise the engine.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het ontgrendelen van het voertuig schakelt wel het alarm uit, maar heft niet de startblokkering op.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le déverrouillage du véhicule désactive l'alarme mais ne rend pas le moteur à nouveau fonctionnel.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Entriegeln des Fahrzeugs entschärft den Alarm, mobilisiert jedoch nicht den Motor wieder.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lo sbloccaggio del veicolo disinserisce l'allarme ma non rimobilizza il motore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両をアンロックするとアラームはディスアーミングされますが、エンジンは始動可になりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Destrancar o veículo desactiva o alarme, mas não desbloqueia o motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O destravamento do veículo desarma o alarme, mas não volta a mobilizar a o motor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При отпирании замка автомобиля отключается сигнализация, но блокировка двигателя сохраняется.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El desbloqueo del vehículo desactiva la alarma pero no vuelve a movilizar el motor.</tu>
+	<tu xmlns:lang="chs">给车辆解锁时除了解除报警器，未使发动机可起动。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량을 잠금 해제하면 알람이 해제되지만, 엔진을 다시 기동시키지 않습니다.</tu>
+</tm>

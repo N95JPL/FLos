@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspEnabl4$M">
+	<tu
+    xmlns:lang="eng"
+  >The instrument cluster message center will display the status of the routine.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De message centre van de instrumentengroep zal de status van de routine weergeven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'afficheur multimessage du tableau de bord indiquera l'état du programme.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Informationsdisplay im Kombiinstrument gibt über den Status der Routine Auskunft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il display messaggi del gruppo strumenti visualizzerà lo stato della procedura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インストルメント パック メッセージセンターにルーチン ステータスが表\示されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O centro de mensagens do conjunto de instrumentos apresentará o estado da rotina.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A central de mensagem do conjunto de instrumentos mostrará o status da rotina.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На информационном экране панели приборов отображается состояние выполнения процедуры.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El estado de la rutina se indica en el centro de mensajes del cuadro de instrumentos.</tu>
+	<tu xmlns:lang="chs">组合仪表消息中心将显示常规程序的状态。</tu>
+	<tu xmlns:lang="kor">계기판 메시지 센터에 절차의 상태가 표시됩니다.</tu>
+</tm>

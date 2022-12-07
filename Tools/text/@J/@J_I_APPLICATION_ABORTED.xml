@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APPLICATION_ABORTED">
+	<tu xmlns:lang="eng">Application aborted by the user.</tu>
+	<tu xmlns:lang="nld">Toepassing door gebruiker afgebroken.</tu>
+	<tu xmlns:lang="fra">Application abandonnée par l'utilisateur.</tu>
+	<tu xmlns:lang="deu">Anwendungsprogramm vom Benutzer abgebrochen.</tu>
+	<tu xmlns:lang="ita">Applicazione interrotta dall'utente.</tu>
+	<tu xmlns:lang="jpn">ユーザーによってアプリケーションが中止されました。</tu>
+	<tu xmlns:lang="ptg">Aplicação cancelada pelo utilizador.</tu>
+	<tu xmlns:lang="ptb">Aplicação abortada pelo usuário.</tu>
+	<tu xmlns:lang="rus">Работа приложения прервана пользователем.</tu>
+	<tu xmlns:lang="esp">Aplicación cancelada por el usuario.</tu>
+	<tu xmlns:lang="chs">应用程序被用户中止。</tu>
+	<tu xmlns:lang="kor">사용자가 애플리케이션을 중단했습니다.</tu>
+</tm>

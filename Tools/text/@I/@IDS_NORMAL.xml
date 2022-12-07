@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDS_NORMAL">
+	<tu xmlns:lang="eng">Normal mode</tu>
+	<tu xmlns:lang="nld">Normale modus</tu>
+	<tu xmlns:lang="fra">Mode normal</tu>
+	<tu xmlns:lang="deu">Normal-Modus</tu>
+	<tu xmlns:lang="ita">Modalità normale</tu>
+	<tu xmlns:lang="jpn">ノーマル モード</tu>
+	<tu xmlns:lang="ptg">Modo normal</tu>
+	<tu xmlns:lang="ptb">Modo normal</tu>
+	<tu xmlns:lang="rus">Нормальный режим</tu>
+	<tu xmlns:lang="esp">Modo normal</tu>
+	<tu xmlns:lang="chs">正常模式</tu>
+	<tu xmlns:lang="kor">정상 모드</tu>
+</tm>

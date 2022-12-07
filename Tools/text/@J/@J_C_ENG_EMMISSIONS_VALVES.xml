@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ENG_EMMISSIONS_VALVES">
+	<tu xmlns:lang="eng">Engine emission valves</tu>
+	<tu xmlns:lang="nld">Kleppen van de motoremissie</tu>
+	<tu xmlns:lang="fra">Vannes d'émissions du moteur</tu>
+	<tu xmlns:lang="deu">Ventile - Abgasregelung</tu>
+	<tu xmlns:lang="ita">Valvole emissioni motore</tu>
+	<tu xmlns:lang="jpn">エンジン エミッション バルブ</tu>
+	<tu xmlns:lang="ptg">Válvulas de emissões do motor</tu>
+	<tu xmlns:lang="ptb">Válvulas de emissão de motor</tu>
+	<tu xmlns:lang="rus">Клапаны отработавших газов в двигателе</tu>
+	<tu xmlns:lang="esp">Válvulas de emisiones del motor</tu>
+	<tu xmlns:lang="chs">发动机排放阀</tu>
+	<tu xmlns:lang="kor">엔진 배기 밸브</tu>
+</tm>

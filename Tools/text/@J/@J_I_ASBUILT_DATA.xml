@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ASBUILT_DATA">
+	<tu xmlns:lang="eng">As-built data</tu>
+	<tu xmlns:lang="nld">Gegevens af fabriek</tu>
+	<tu xmlns:lang="fra">Données par défaut</tu>
+	<tu xmlns:lang="deu">Werkseitige Baudaten</tu>
+	<tu xmlns:lang="ita">Dati di fabbricazione</tu>
+	<tu xmlns:lang="jpn">アズビルト データ</tu>
+	<tu xmlns:lang="ptg">Dados de fábrica</tu>
+	<tu xmlns:lang="ptb">Dados de fábrica</tu>
+	<tu xmlns:lang="rus">Заводские данные</tu>
+	<tu xmlns:lang="esp">Datos de configuración de fábrica</tu>
+	<tu xmlns:lang="chs">实际制造的数据</tu>
+	<tu xmlns:lang="kor">애즈-빌트(As-Built) 데이터</tu>
+</tm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_SW_LIGT_SW_OFF">
+	<tu xmlns:lang="eng">Switch the lighting switch to the off position.</tu>
+	<tu xmlns:lang="nld">Zet de verlichtingsschakelaar in de uit stand</tu>
+	<tu xmlns:lang="fra">Mettre le contacteur éclairage sur la position Arrêt</tu>
+	<tu xmlns:lang="deu">Den Beleuchtungsschalter in die Aus-Stellung drehen   </tu>
+	<tu
+    xmlns:lang="ita"
+  >Spostare l'interruttore delle luci in posizione di spento</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ライティング スイッチをオフポジションにセットしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligar o interruptor das luzes para a posição de desligadas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Coloque o interruptor de iluminação na posição desligada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Переведите выключатель освещения в положение 'Off' (Выкл.).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Poner el interruptor de alumbrado en la posición de luces apagadas</tu>
+	<tu xmlns:lang="chs">将照明开关拨到关闭位置。</tu>
+	<tu xmlns:lang="kor">조명 스위치를 OFF 위치로 설정하십시오.</tu>
+</tm>

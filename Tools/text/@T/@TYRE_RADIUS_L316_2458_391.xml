@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TYRE_RADIUS_L316_2458_391">
+	<tu
+    xmlns:lang="eng"
+  >Tyre rolling circumference - 2458mm (rolling radius 391mm)</tu>
+	<tu xmlns:lang="nld">Rolomtrek van band: 2458 mm (rolradius 391mm)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Circonférence de roulement - 2 458 mm (rayon de roulement 391 mm)</tu>
+	<tu xmlns:lang="deu">Reifen-Abrollumfang - 2.458 mm (Abrollradius 391 mm)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Circonferenza di rotolamento pneumatico - 2458mm (raggio di rotolamento 391 mm)</tu>
+	<tu xmlns:lang="jpn">タイヤの回転円周 - 2458mm (回転半径 391mm)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Circunferência de rodagem do pneu - 2458 mm (raio de rodagem de 391 mm)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Circunferência de rolamento do pneu - 2458mm (raio de rolagem 391mm)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Длина окружности качения шины - 2458 мм (радиус качения 391 мм)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Circunferencia de rodadura del neumático: 2458 mm (radio de rodadura 391 mm)</tu>
+	<tu xmlns:lang="chs">轮胎滚动周长--2458毫米（滚动半径391毫米）</tu>
+	<tu xmlns:lang="kor">타이어 회전 원주 - 2458mm(구름 반경 391mm)</tu>
+</tm>

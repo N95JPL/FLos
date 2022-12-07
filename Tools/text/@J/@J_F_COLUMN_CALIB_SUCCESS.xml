@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_COLUMN_CALIB_SUCCESS">
+	<tu
+    xmlns:lang="eng"
+  >The steering column assembly has been calibrated successfully</tu>
+	<tu xmlns:lang="nld">De stuurkolom is met succes gekalibreerd</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'ensemble de colonne de direction a été étalonné correctement</tu>
+	<tu xmlns:lang="deu">Die Lenksäule wurde erfolgreich kalibriert.</tu>
+	<tu xmlns:lang="ita">Taratura gruppo piantone sterzo riuscita</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング コラム アセンブリのキャリブレーションは正常に終了しました。</tu>
+	<tu xmlns:lang="ptg">A coluna da direcção foi calibrada com êxito</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O conjunto da coluna de direção foi calibrado com sucesso</tu>
+	<tu xmlns:lang="rus">Калибровка узла рулевой колонки успешно завершена</tu>
+	<tu xmlns:lang="esp">La columna de la dirección se ha calibrado con éxito</tu>
+	<tu xmlns:lang="chs">转向柱组件已成功标定。</tu>
+	<tu xmlns:lang="kor">스티어링 칼럼 어셈블리가 성공적으로 보정되었습니다.</tu>
+</tm>

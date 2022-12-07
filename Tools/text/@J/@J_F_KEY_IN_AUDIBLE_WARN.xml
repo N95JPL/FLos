@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_KEY_IN_AUDIBLE_WARN">
+	<tu xmlns:lang="eng">Key-in audible warning</tu>
+	<tu xmlns:lang="nld">Sleutel in contact waarschuwingssignaal</tu>
+	<tu xmlns:lang="fra">Avertissement sonore de clé dans commutateur</tu>
+	<tu xmlns:lang="deu">Warnton Zündschlüssel eingesteckt</tu>
+	<tu xmlns:lang="ita">Segnale acustico di chiave inserita</tu>
+	<tu xmlns:lang="jpn">キーイン警告音</tu>
+	<tu xmlns:lang="ptg">Aviso acústico de chave na ignição</tu>
+	<tu xmlns:lang="ptb">Aviso sonoro de chave na ignição</tu>
+	<tu
+    xmlns:lang="rus"
+  >Звуковой сигнал напоминания об оставленном в замке зажигания ключе</tu>
+	<tu xmlns:lang="esp">Aviso acústico llave puesta</tu>
+	<tu xmlns:lang="chs">车匙插入音频警告</tu>
+	<tu xmlns:lang="kor">키 삽입 상태 경고음</tu>
+</tm>

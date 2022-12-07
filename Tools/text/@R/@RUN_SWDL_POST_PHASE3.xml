@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RUN_SWDL_POST_PHASE3">
+	<tu
+    xmlns:lang="eng"
+  >Run Configure existing module - Update to Phase 4: InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer uit: Bestaande module configureren - Bijwerken naar Fase 4: InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="fra"
+  >Exécutez Configrer le module existant - Mise à jour vers la phase 4 : InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ausführen: Vorhandenes Steuergerät konfigurieren – Update auf Phase 4: InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="ita"
+  >Eseguire Configura modulo esistente - Aggiornamento a Fase 4: InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="jpn"
+  >「既存モジュールの設定 - Phase 4 へのアップデート: InControl Touch Pro」を実行します</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Execute: Configurar módulo existente - Atualizar para a fase 4: InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Execute Configurar módulo existente - Atualize para Fase 4: InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запустите 'Программирование имеющегося блока - Обновление до версии Phase 4: InControl Touch Pro'</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ejecute Configurar módulo existente - Actualización a la fase 4: InControl Touch Pro.</tu>
+	<tu
+    xmlns:lang="chs"
+  >运行“配置现有模块 - 更新到阶段 4：InControl 智能驭领 尊享触控”</tu>
+	<tu
+    xmlns:lang="kor"
+  >'기존 모듈 구성 - Phase 4로 업데이트: InControl Touch Pro'를 실행하십시오.</tu>
+</tm>

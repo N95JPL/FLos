@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOVING_DRIVE_LINE_2500_TEST">
+	<tu xmlns:lang="eng">2500 RPM drive cycle test</tu>
+	<tu xmlns:lang="nld">Rijcyclustest bij 2500 omw/min</tu>
+	<tu xmlns:lang="fra">Test de cycle de conduite à 2 500 tr/mn</tu>
+	<tu xmlns:lang="deu">Fahrzyklustest 2.500 U/min</tu>
+	<tu xmlns:lang="ita">Prova con ciclo di guida a 2500 giri/min</tu>
+	<tu xmlns:lang="jpn">2500 RPM ドライブ サイクル テスト</tu>
+	<tu xmlns:lang="ptg">Teste com ciclo de condução a 2500 RPM</tu>
+	<tu xmlns:lang="ptb">Ciclo de condução de teste de 2.500 RPM</tu>
+	<tu xmlns:lang="rus">Пробная поездка при 2500 об/мин.</tu>
+	<tu xmlns:lang="esp">Prueba de ciclo de conducción a 2.500 rpm</tu>
+	<tu xmlns:lang="chs">2500 RPM 驱动循环测试</tu>
+	<tu xmlns:lang="kor">2,500rpm 주행 사이클 테스트</tu>
+</tm>

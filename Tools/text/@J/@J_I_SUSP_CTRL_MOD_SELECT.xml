@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SUSP_CTRL_MOD_SELECT">
+	<tu
+    xmlns:lang="eng"
+  >Suspension control module operation mode  -  Please select one of the following options:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Modus van de regelmodule voor de wielophanging.  -  Kies een van de volgende opties:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mode fonctionnement du module de commande de suspension  -  Veuillez sélectionner l'une des options suivantes :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Luftfederungs-Steuergerät ? Betriebsmodus  -  Bitte eine der folgenden Optionen auswählen:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modalità funzionamento modulo comando sospensioni  -  Selezionare una delle seguenti opzioni:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >サスペンション コントロール モジュール オペレーション モード  －  次のオプションのいずれかを選択しなさい：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Modo de funcionamento do módulo de controlo da suspensão  -  Seleccionar uma das opções seguintes:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Modo de operação do módulo de controle de suspensão  -  Selecione uma das seguintes opções:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Рабочий режим блока управления подвеской  -  Выберите одну из следующих опций:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Modo de funcionamiento del módulo de control de la suspensión  -  Seleccione una de las siguientes opciones:</tu>
+	<tu xmlns:lang="chs">悬架控制模块工作模式  -  请选择下列选项之一：</tu>
+	<tu
+    xmlns:lang="kor"
+  >서스펜션 컨트롤 모듈 작동 모드  -  다음 옵션 중 하나를 선택하십시오.</tu>
+</tm>

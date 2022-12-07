@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRI_HEAT_SEAT_VAR_TEMP">
+	<tu xmlns:lang="eng">Driver's heated seat - variable temperature</tu>
+	<tu xmlns:lang="nld">Verwarmde bestuurdersstoel - variabele temperatuur</tu>
+	<tu xmlns:lang="fra">Siège chauffant conducteur - température variable</tu>
+	<tu xmlns:lang="deu">Fahrersitzheizung - veränderliche Temperatur</tu>
+	<tu xmlns:lang="ita">Sedile riscaldato guidatore - temperatura variabile</tu>
+	<tu xmlns:lang="jpn">運転席側シート ヒーター － 可変温度</tu>
+	<tu xmlns:lang="ptg">Banco aquecido do condutor - temperatura variável</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Assento aquecido do motorista - variação de temperatura</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подогреваемое сиденье водителя - переменная температура</tu>
+	<tu xmlns:lang="esp">Asiento térmico del conductor: temperatura variable</tu>
+	<tu xmlns:lang="chs">驾驶员一侧座椅加热 - 可变温度</tu>
+	<tu xmlns:lang="kor">운전석 열선내장 시트 - 가변적 온도</tu>
+</tm>

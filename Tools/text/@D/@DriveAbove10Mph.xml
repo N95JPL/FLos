@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DriveAbove10Mph">
+	<tu xmlns:lang="eng">Proceed to drive the car above 16 km/h or 10 mph.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Houd het voertuig op een snelheid boven de 16 km/h (10 mph).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Faire rouler la voiture à une vitesse supérieure à 16 km/h (10 mi/h).</tu>
+	<tu xmlns:lang="deu">Fahrzeug weiter mit mehr als 10 km/h fahren.</tu>
+	<tu xmlns:lang="ita">Continuare a guidare la vettura a più di 10 mph.</tu>
+	<tu xmlns:lang="jpn">車両を 10 mph 超で走行させます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prossiga conduzindo o automóvel a uma velocidade superior a 16 km/h.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Prossiga para a condução do carro acima de 16 km/h (10 mph).</tu>
+	<tu xmlns:lang="rus">Наберите скорость выше 10 миль/ч.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Continúe conduciendo el coche a más de 16 km/h (10 mph).</tu>
+	<tu xmlns:lang="chs">以高于 10 英里/小时的速度继续驾驶汽车</tu>
+	<tu xmlns:lang="kor">차량을 16km/h(10mph) 이상으로 계속 주행하십시오.</tu>
+</tm>

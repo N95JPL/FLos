@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckFobsManually$M">
+	<tu
+    xmlns:lang="eng"
+  >Check that both keyfobs are functioning correctly, including 3rd button operation, by manually operating with each key.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer of de beide sleutelzenders naar behoren functioneren, inclusief de 3e toets, door elke sleutel handmatig te gebruiken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que les deux porte-clés fonctionnent correctement, y compris le troisième bouton, en actionnant manuellement avec chaque clé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Prüfen ob beide Fernbedienungen korrekt arbeitet, einschließlich Funktion der 3. Taste, indem beide Schlüssel von Hand betätigt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che entrambi i telecomandi dei portachiavi funzionino correttamente, compreso il terzo pulsante, azionandoli manualmente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >手動でそれぞれのキーを操作することにより、第 3 ボタンを含め両方のキーフォブが正しく作動するかチェックしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique se ambos os telecomandos estão a funcionar correctamente, incluindo o funcionamento do 3º botão, accionando-os manualmente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se os dois botões estão funcionando corretamente, inclusive a operação do terceiro botão, manualmente operando cada chave.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что оба пульта дистанционного управления работают правильно, включая функцию 3-й кнопки, проверив работу каждого ключа вручную.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Accionar manualmente cada tecla para comprobar que ambos transmisores funcionen correctamente, incluido el tercer botón.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'通过手动操作每把钥匙，检查两个遥控钥匙是否都正确工作，包括第3按钮操作。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >각 키를 수동으로 작동시켜 3번째 버튼의 작동 상태를 포함하여 키 리모컨 두 개 모두가 제대로 작동하는지 점검하십시오.</tu>
+</tm>

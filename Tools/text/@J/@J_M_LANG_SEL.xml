@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_LANG_SEL">
+	<tu xmlns:lang="eng">Instrument pack display language</tu>
+	<tu xmlns:lang="nld">Taal instrumentengroepdisplay</tu>
+	<tu xmlns:lang="fra">Langue d'affichage du tableau de bord</tu>
+	<tu xmlns:lang="deu">Anzeigesprache Instrumentengruppe</tu>
+	<tu xmlns:lang="ita">Lingua visualizzazione gruppo strumenti</tu>
+	<tu xmlns:lang="jpn">インストルメント パック表\示言語</tu>
+	<tu xmlns:lang="ptg">Idioma de visualização no grupo de instrumentos</tu>
+	<tu xmlns:lang="ptb">Idioma de exibição do painel de instrumentos</tu>
+	<tu xmlns:lang="rus">Язык индикации блока приборов</tu>
+	<tu xmlns:lang="esp">Idioma de visualización del cuadro de instrumentos</tu>
+	<tu xmlns:lang="chs">仪表板显示语言</tu>
+	<tu xmlns:lang="kor">계기판 표시 언어</tu>
+</tm>

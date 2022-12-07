@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MISS_LOCK_SEC_PRESS_FEEDBACK">
+	<tu xmlns:lang="eng">Audible mislock and second press lock feedback</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hoorbare feedback bij mislukken van vergrendeling en bij vergrendeling met tweede druk op de toets</tu>
+	<tu
+    xmlns:lang="fra"
+  >Retour sonore de verrouillage incorrect et de deuxième pression de verrouillage</tu>
+	<tu
+    xmlns:lang="deu"
+  >Signaltonrückmeldung bei Fehlverriegelung und Verriegelung bei zweitem Tastendruck</tu>
+	<tu
+    xmlns:lang="ita"
+  >Segnale acustico bloccaggio errato e bloccaggio seconda pressione</tu>
+	<tu xmlns:lang="jpn">ロック不良およびロック 2 回押し警告音フィードバック</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Resposta sonora de falha de trancagem e trancagem de segundo toque</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aviso sonoro de travamento incorreto e travamento no segundo pressionamento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Звуковой сигнал обратной связи незакрытого замка и запирания после второго нажатия</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aviso acústico de bloqueo incorrecto y de bloqueo con segunda pulsación</tu>
+	<tu xmlns:lang="chs">未锁闭和二次按压锁闭音频反馈</tu>
+	<tu xmlns:lang="kor">청각적 잠금 오류 및 두 번 누름 잠금 피드백</tu>
+</tm>

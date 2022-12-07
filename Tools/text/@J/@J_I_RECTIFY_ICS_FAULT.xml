@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RECTIFY_ICS_FAULT">
+	<tu
+    xmlns:lang="eng"
+  >Ensure all impact classification system related faults have been rectified before continuing with this application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat eerst alle storingen met betrekking tot het botsingsclassificatiesysteem verholpen zijn, voordat u met deze toepassing verdergaat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifier que tous les défauts liés au système de classification d'impact ont été corrigés avant de poursuivre avec cette application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass alle mit dem Aufprallschwere-Erkennungssystem verknüpften Störungen behoben wurden, ehe mit dieser Anwendung fortgefahren wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che tutti i guasti relativi al sistema di classificazione impatto siano stati riparati prima di continuare con questa applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションを続行する前に、インパクト等級システム関連のすべての故障が修復されていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que todas as avarias relacionadas com o sistema de classificação de impactos foram reparadas antes de prosseguir com esta aplicação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que todas as falhas relacionadas ao sistema de classificação de impacto tenham sido corrigidas antes de continuar com este aplicativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прежде чем продолжить выполнение данного приложения, убедитесь в устранении всех неисправностей автомобиля, относящихся к системе классификации удара.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que se hayan rectificado todas las anomalías asociadas con el sistema de clasificación de impactos antes de continuar con esta aplicación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >继续运行本应用程序之前，请确保所有碰撞分类系统相关的故障全部得到校正。</tu>
+	<tu
+    xmlns:lang="kor"
+  >모든 충격 감지 시스템 관련 고장이 수리되었는지 확인한 후 이 애플리케이션으로 계속 진행하십시오.</tu>
+</tm>

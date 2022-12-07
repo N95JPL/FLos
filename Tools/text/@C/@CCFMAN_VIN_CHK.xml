@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_VIN_CHK">
+	<tu xmlns:lang="eng">VIN check</tu>
+	<tu xmlns:lang="nld">VIN-controle</tu>
+	<tu xmlns:lang="fra">Contrôle du VIN</tu>
+	<tu xmlns:lang="deu">VIN-Prüfung</tu>
+	<tu xmlns:lang="ita">Controllo del VIN</tu>
+	<tu xmlns:lang="jpn">VIN チェック</tu>
+	<tu xmlns:lang="ptg">Verificação do NIV</tu>
+	<tu xmlns:lang="ptb">Verificação do nº do chassi</tu>
+	<tu xmlns:lang="rus">Проверка VIN</tu>
+	<tu xmlns:lang="esp">Comprobación de VIN</tu>
+	<tu xmlns:lang="chs">VIN 检查</tu>
+	<tu xmlns:lang="kor">VIN 점검</tu>
+</tm>

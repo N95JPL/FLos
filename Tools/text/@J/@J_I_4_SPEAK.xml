@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_4_SPEAK">
+	<tu xmlns:lang="eng">4 speakers</tu>
+	<tu xmlns:lang="nld">4 luidsprekers</tu>
+	<tu xmlns:lang="fra">4 haut-parleurs</tu>
+	<tu xmlns:lang="deu">4 Lautsprecher</tu>
+	<tu xmlns:lang="ita">4 altoparlanti</tu>
+	<tu xmlns:lang="jpn">4 スピーカー</tu>
+	<tu xmlns:lang="ptg">4 altifalantes</tu>
+	<tu xmlns:lang="ptb">4 alto-falantes</tu>
+	<tu xmlns:lang="rus">4 динамика</tu>
+	<tu xmlns:lang="esp">4 altavoces</tu>
+	<tu xmlns:lang="chs">4 个扬声器</tu>
+	<tu xmlns:lang="kor">스피커 4개</tu>
+</tm>

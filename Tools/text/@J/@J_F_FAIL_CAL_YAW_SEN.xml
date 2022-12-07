@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_FAIL_CAL_YAW_SEN">
+	<tu xmlns:lang="eng">Failed to calibrate the yaw rate sensor.</tu>
+	<tu xmlns:lang="nld">Kalibrering van de gierbewegingssensor is mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec d'étalonnage du capteur de vitesse angulaire de lacet.</tu>
+	<tu xmlns:lang="deu">Gierratensensor konnte nicht kalibriert werden.</tu>
+	<tu xmlns:lang="ita">Mancata taratura del sensore tasso d'imbardata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ヨー レート センサーのキャリブレーションに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Calibragem do sensor de guinada falhou.</tu>
+	<tu xmlns:lang="ptb">Falha ao calibrar o sensor de taxa de guinada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не удалось выполнить калибровку датчика угловой скорости.</tu>
+	<tu xmlns:lang="esp">No se pudo calibrar el sensor del ángulo de guiñada.</tu>
+	<tu xmlns:lang="chs">未能标定偏航速率传感器。</tu>
+	<tu xmlns:lang="kor">요 레이트 센서 보정 실패</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROG_DRI_SEAT">
+	<tu xmlns:lang="eng">Driver's memory seat movement</tu>
+	<tu xmlns:lang="nld">Bestuurdersstoel met geheugen verplaatsen</tu>
+	<tu xmlns:lang="fra">Mouvement du siege conducteur a memoire</tu>
+	<tu xmlns:lang="deu">Sitzverstellung fahrersitz, positionsspeicher</tu>
+	<tu xmlns:lang="ita">Movimento sedile guidatore con memoria</tu>
+	<tu xmlns:lang="jpn">ドライバー メモリ シートの調整</tu>
+	<tu xmlns:lang="ptg">Movimento memorizado do banco do condutor</tu>
+	<tu xmlns:lang="ptb">Movimento do assento com memória do motorista</tu>
+	<tu xmlns:lang="rus">Перемещение сиденья водителя в сохраненное положение</tu>
+	<tu xmlns:lang="esp">Movimiento memorizado del asiento del conductor</tu>
+	<tu xmlns:lang="chs">驾驶员一侧记忆座椅移动</tu>
+	<tu xmlns:lang="kor">운전석 메모리 시트 이동</tu>
+</tm>

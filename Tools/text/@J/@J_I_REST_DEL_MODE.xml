@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REST_DEL_MODE">
+	<tu xmlns:lang="eng">Restraints delivery mode, select the option required:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Afleveringsfunctie van het beveiligingssysteem voor inzittenden, selecteer de gewenste optie:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mode de livraison des dispositifs de retenue, sélectionnez l'option requise :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Rückhaltesystem-Auslieferungsmodus - benötigte Option auswählen:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modalità di consegna sistema di sicurezza occupanti; selezionare l'opzione richiesta:</tu>
+	<tu xmlns:lang="jpn">拘束デリバリ モード、必要なオプションを選択しなさい：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Modo de entrega do sistema de segurança, seleccionar a opção pretendida:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Modo de fornecimento de retenção, selecione a opção necessária:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Режим электропитания системы пассивной безопасности; выберите нужный вариант:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Modo de entrega de los sistemas de retención; seleccionar la opción que se requiera:</tu>
+	<tu xmlns:lang="chs">约束实施模式，选择所需选项：</tu>
+	<tu xmlns:lang="kor">에어백 배송 모드, 필요한 옵션을 선택하십시오.</tu>
+</tm>

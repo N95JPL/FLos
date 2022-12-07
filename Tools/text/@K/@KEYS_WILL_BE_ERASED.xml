@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KEYS_WILL_BE_ERASED">
+	<tu
+    xmlns:lang="eng"
+  >Smart keys that aren't present will be erased from the vehicle.
+</tu>
+	<tu xmlns:lang="nld">Sleutels die niet aanwezig zijn, worden uit de auto gewist.
+
+    </tu>
+	<tu
+    xmlns:lang="fra"
+  >Les clés intelligentes qui ne sont pas présentes seront effacées du véhicule.
+
+    </tu>
+	<tu xmlns:lang="deu">Nicht vorhandene Smart Keys werden im Fahrzeug gelöscht.
+
+    </tu>
+	<tu
+    xmlns:lang="ita"
+  >Le chiavi Smart non presenti verranno cancellate dal veicolo.
+
+    </tu>
+	<tu xmlns:lang="jpn">現在ないスマート キーは車両の登録から削除されます。
+
+    </tu>
+	<tu
+    xmlns:lang="ptg"
+  >As chaves inteligentes que não estiverem presentes serão eliminadas do veículo.
+
+    </tu>
+	<tu
+    xmlns:lang="ptb"
+  >As chaves inteligentes que não estiverem presentes serão apagadas do veículo.
+
+    </tu>
+	<tu
+    xmlns:lang="rus"
+  >Отсутствующие электронные ключи будут удалены из памяти блоков автомобиля.
+
+    </tu>
+	<tu
+    xmlns:lang="esp"
+  >Las llaves inteligentes que no estén presentes se borrarán del vehículo.
+
+    </tu>
+	<tu xmlns:lang="chs">将从车辆中擦除不在现场的钥匙。
+
+    </tu>
+	<tu xmlns:lang="kor">존재하지 않는 스마트 키가 차량에서 삭제됩니다.
+
+    </tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_MISCONFIG_6">
+	<tu
+    xmlns:lang="eng"
+  >Each parameter number (byte) and it's associated value (in hexadecimal).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Elk parameternummer (byte) en de bijbehorende waarde (in hexadecimalen).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Numéro de chaque paramètre (octet) et sa valeur associée (en hexadécimal).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nummer jedes Parameters (Byte) und der zugehörige Wert (hexadezimal).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ciascun numero di parametro (byte) e il relativo valore (in esadecimali).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >各パラメータ ナンバー (バイト) とそれにかかわる値 (16 進法による)。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Cada número de parâmetro (byte) e o seu valor associado (em formato hexadecimal).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Cada número de parâmetro (byte) e seu valor associado (em hexadecimal).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Номер каждого параметра (байт) и связанное с ним значение (в шестнадцатеричном формате).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cada número de parámetro (byte) y su valor (hexadecimal) asociado.</tu>
+	<tu xmlns:lang="chs">各参数数值（字节）及与之相关的值（十六进制）。</tu>
+	<tu xmlns:lang="kor">각 매개 변수 번호(바이트) 및 해당 값(16진수).</tu>
+</tm>

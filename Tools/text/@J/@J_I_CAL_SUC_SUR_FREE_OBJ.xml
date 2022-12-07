@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CAL_SUC_SUR_FREE_OBJ">
+	<tu
+    xmlns:lang="eng"
+  >For the calibration to be successful ensure the area surrounding the seat is free from any objects that will inhibit full movement.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om de kalibrering met succes te kunnen uitvoeren, moet u eerst in de ruimte rondom de stoel controleren of er geen voorwerpen in de weg zitten, die de beweging kunnen blokkeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour la réussite de l'étalonnage, vérifiez que la zone entourant le siège est exempte de tous objets pouvant faire obstacle au mouvement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Damit die Kalibrierung erfolgreich verläuft, sicherstellen, dass der Bereich um den Sitz herum frei von Objekten ist, die eine vollständige Verstellung behindern könnten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Perché la taratura riesca, accertarsi che nell'area circostante al sedile non sia presente nessun oggetto che potrebbe impedire il completo movimento del sedile.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >キャリブレーションを正しく完了するため、シートの動きを妨げる物がないよう、シート周辺エリアをクリアしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >For the calibration to be successful ensure the area surrounding the seat is free from any objects that will inhibit full movement.
+247     Para que a calibragem seja bem sucedida, certifique-se de que não existem quaisquer objectos que possam impedir o movimento total na zona à volta do banco.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para que a calibragem seja bem-sucedida, verifique se a área ao redor do assento está livre de objetos que inibam o movimento total.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для успешного выполнения калибровки убедитесь, что вокруг сиденья отсутствуют какие-либо предметы, которые могут помешать перемещению.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para que la calibración sea satisfactoria, asegurarse de que la zona alrededor del asiento esté despejada de objetos que le limiten el movimiento.</tu>
+	<tu
+    xmlns:lang="chs"
+  >为成功标定，要确保座椅周围的区域没有任何会阻止完全运动的物体。</tu>
+	<tu
+    xmlns:lang="kor"
+  >보정에 성공하려면 시트를 둘러싸고 있는 영역에 움직임을 방해하는 물체가 전혀 없는지 확인하십시오.</tu>
+</tm>

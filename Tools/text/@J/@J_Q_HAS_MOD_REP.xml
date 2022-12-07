@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_HAS_MOD_REP">
+	<tu xmlns:lang="eng">Has the module been replaced?</tu>
+	<tu xmlns:lang="nld">Is de module vervangen?</tu>
+	<tu xmlns:lang="fra">Le module a-t-il été remplacé ?</tu>
+	<tu xmlns:lang="deu">Wurde das Steuergerät ersetzt?</tu>
+	<tu xmlns:lang="ita">Il modulo è stato sostituito?</tu>
+	<tu xmlns:lang="jpn">モジュールは交換されましたか？</tu>
+	<tu xmlns:lang="ptg">O módulo foi substituído?</tu>
+	<tu xmlns:lang="ptb">O módulo foi substituído?</tu>
+	<tu xmlns:lang="rus">Блок был заменен?</tu>
+	<tu xmlns:lang="esp">¿Se ha sustituido el módulo?</tu>
+	<tu xmlns:lang="chs">模块被更换了吗？</tu>
+	<tu xmlns:lang="kor">모듈이 교체되었습니까?</tu>
+</tm>

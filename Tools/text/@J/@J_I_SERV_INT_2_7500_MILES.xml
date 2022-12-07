@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERV_INT_2_7500_MILES">
+	<tu xmlns:lang="eng">Service interval 2  -  7500 miles</tu>
+	<tu xmlns:lang="nld">Onderhoudsinterval 2  -  7500 mijl</tu>
+	<tu xmlns:lang="fra">Périodicité d'entretien 2  -  7 500 miles</tu>
+	<tu xmlns:lang="deu">Wartungsintervall 2  -  7500 Meilen</tu>
+	<tu xmlns:lang="ita">Intervallo di servizio (tagliando) 2  -  7500 miglia</tu>
+	<tu xmlns:lang="jpn">サービス インターバル 2  －  7500 マイル</tu>
+	<tu xmlns:lang="ptg">Intervalo de revisão 2  -  7500 milhas</tu>
+	<tu xmlns:lang="ptb">Intervalo de Manutenção 2  -  7500 milhas</tu>
+	<tu xmlns:lang="rus">Интервал периодичности обслуживания 2  -  7500 миль</tu>
+	<tu xmlns:lang="esp">Intervalo de servicio 2  -  7500 millas</tu>
+	<tu xmlns:lang="chs">维护间隔时间 2  -  7500 英里</tu>
+	<tu xmlns:lang="kor">서비스 주기 2  -  7500마일</tu>
+</tm>

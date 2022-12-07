@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SB_START_TEST">
+	<tu xmlns:lang="eng">Press tick to start test.</tu>
+	<tu xmlns:lang="nld">Druk op de afvinktoets om de test te starten.</tu>
+	<tu xmlns:lang="fra">Appuyez sur la coche pour démarrer le test.</tu>
+	<tu xmlns:lang="deu">Zum Starten des Tests das Häkchen antippen.</tu>
+	<tu xmlns:lang="ita">Premere il tasto di spunta per iniziare la prova.</tu>
+	<tu xmlns:lang="jpn">ティックを押してテストを開始しなさい。</tu>
+	<tu xmlns:lang="ptg">Premir o sinal de visto para começar o teste.</tu>
+	<tu xmlns:lang="ptb">Pressione OK para iniciar o teste.</tu>
+	<tu xmlns:lang="rus">Нажмите галочку для начала проверки.</tu>
+	<tu xmlns:lang="esp">Pulsar el botón de continuar para iniciar la prueba.</tu>
+	<tu xmlns:lang="chs">按下勾号开始测试。</tu>
+	<tu xmlns:lang="kor">테스트를 시작하려면 체크 표시를 누르십시오.</tu>
+</tm>

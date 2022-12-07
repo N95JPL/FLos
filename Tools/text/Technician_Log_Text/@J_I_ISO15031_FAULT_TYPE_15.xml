@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_15">
+<tu xmlns:lang="eng">General electrical failure - circuit short to battery or open.</tu>
+<tu xmlns:lang="nld">Algemeen elektrisch defect - kortsluiting naar accu of open circuit.</tu>
+<tu xmlns:lang="fra">Panne &#233;lectrique g&#233;n&#233;rale - court-circuit &#224; la batterie ou circuit ouvert.</tu>
+<tu xmlns:lang="deu">Allgemeine Elektrikst&#246;rung - Kurzschluss an Batterie oder Unterbrechung.</tu>
+<tu xmlns:lang="ita">Guasto elettrico generale - circuito aperto o in corto con batteria.</tu>
+<tu xmlns:lang="jpn">ˆê”ÊƒGƒŒƒNƒgƒŠƒJƒ‹ŒÌá | ƒT[ƒLƒbƒgAƒoƒbƒeƒŠ‚ÖƒVƒ‡[ƒg‚Ü‚½‚ÍƒI[ƒvƒ“</tu>
+<tu xmlns:lang="ptg">Falha el&#233;ctrica geral - curto-circuito &#224; bateria ou circuito aberto neste circuito.</tu>
+<tu xmlns:lang="rus">Ýëåêòðè÷åñêàÿ íåèñïðàâíîñòü îáùåãî õàðàêòåðà - ðàçðûâ èëè êîðîòêîå çàìûêàíèå öåïè íà àêêóìóëÿòîðíóþ áàòàðåþ.</tu>
+<tu xmlns:lang="esp">Fallo el&#233;ctrico general: interrupci&#243;n o cortocircuito a bater&#237;a.</tu>
+<tu xmlns:lang="chs">Ò»°ãµçÆø¹ÊÕÏ - ¶ÔÐîµç³Ø¶ÌÂ·»ò¶ÏÂ·¡£</tu>
+</tm>

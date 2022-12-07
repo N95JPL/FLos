@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_AIR_QUAL_SEN">
+	<tu xmlns:lang="eng">Without air quality sensor</tu>
+	<tu xmlns:lang="nld">Zonder luchtkwaliteitssensor</tu>
+	<tu xmlns:lang="fra">Sans capteur de qualité de l'air</tu>
+	<tu xmlns:lang="deu">Ohne Luftqualitätsensor</tu>
+	<tu xmlns:lang="ita">Senza sensore qualità aria</tu>
+	<tu xmlns:lang="jpn">エア クォリテー センサーなし</tu>
+	<tu xmlns:lang="ptg">Sem sensor de qualidade do ar</tu>
+	<tu xmlns:lang="ptb">Sem sensor de qualidade do ar</tu>
+	<tu xmlns:lang="rus">Без датчика качества воздуха</tu>
+	<tu xmlns:lang="esp">Sin sensor de calidad del aire</tu>
+	<tu xmlns:lang="chs">无空气质量传感器</tu>
+	<tu xmlns:lang="kor">공기 품질 센서 불포함</tu>
+</tm>

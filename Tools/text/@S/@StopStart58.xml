@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart58">
+	<tu
+    xmlns:lang="eng"
+  >The power supply distribution box is in a mode that is not suitable for auto stop/start system operation.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De stroomverdeeldoos staat in een modus die niet geschikt is voor de werking van het automatische Stop/Start-systeem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le boîtier de distribution de l'alimentation électrique est dans un mode incompatible avec le fonctionnement du système Arrêt/Démarrage auto.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Stromversorgungsverteilerkasten befindet sich in einem Modus, der nicht für einen Betrieb des Auto-Stopp-Start-Systems geeignet ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La scatola di distribuzione dell'alimentazione si trova in una modalità non idonea al funzionamento del sistema Stop/Start automatico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >電源供給ディストリビューション ボックスが、オート ストップ/スタート システムの作動に適していないモードになっています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A caixa de distribuição de alimentação encontra-se num modo que não é adequado ao funcionamento do sistema Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A caixa de distribuição da fonte de alimentação está em um modo inadequado para a operação do sistema stop/start automático.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Распределительная коробка электропитания находится в режиме, который не подходит для работы автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La caja de distribución de la alimentación está en un modo que no es adecuado para el funcionamiento del sistema Stop/Start automático.</tu>
+	<tu xmlns:lang="chs">配电盒处于不适合自动停止/启动系统工作的模式下。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전원 공급 배전함이 자동 Stop/Start 시스템 작동에 적합하지 않은 모드에 있습니다.</tu>
+</tm>

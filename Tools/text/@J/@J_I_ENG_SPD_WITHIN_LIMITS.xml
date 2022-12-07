@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENG_SPD_WITHIN_LIMITS">
+	<tu xmlns:lang="eng">Engine speed within limits</tu>
+	<tu xmlns:lang="nld">Motortoerental binnen grenzen</tu>
+	<tu xmlns:lang="fra">Régime moteur dans les limites</tu>
+	<tu xmlns:lang="deu">Motordrehzahl innerhalb der Grenzwerte</tu>
+	<tu xmlns:lang="ita">Regime motore entro i limiti</tu>
+	<tu xmlns:lang="jpn">エンジン スピードが規定範囲内</tu>
+	<tu xmlns:lang="ptg">Rotação do motor dentro dos limites</tu>
+	<tu xmlns:lang="ptb">Velocidade do motor dentro dos limites</tu>
+	<tu xmlns:lang="rus">Обороты двигателя в допустимых пределах</tu>
+	<tu xmlns:lang="esp">Régimen del motor dentro de límites</tu>
+	<tu xmlns:lang="chs">发动机转速未超出限值</tu>
+	<tu xmlns:lang="kor">엔진 속도가 제한 범위 이내임</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TARGET_REAR_HEAVY_LOAD">
+	<tu xmlns:lang="eng">Target rear heavy load</tu>
+	<tu xmlns:lang="nld">Zware belasting doel, achter</tu>
+	<tu xmlns:lang="fra">Cible arrière charge lourde</tu>
+	<tu xmlns:lang="deu">Sollwert hinten, schwere Last</tu>
+	<tu xmlns:lang="ita">Target posteriore carico pesante</tu>
+	<tu xmlns:lang="jpn">リア重負荷目標</tu>
+	<tu xmlns:lang="ptg">Valor alvo - eixo traseiro, carga pesada</tu>
+	<tu xmlns:lang="ptb">Destino traseiro de carga pesada</tu>
+	<tu xmlns:lang="rus">Заданная величина, сзади - большая нагрузка</tu>
+	<tu
+    xmlns:lang="esp"
+  >Valor previsto para el neumático trasero - carga pesada</tu>
+	<tu xmlns:lang="chs">目标值 - 后部重负荷</tu>
+	<tu xmlns:lang="kor">대상 리어 중부하</tu>
+</tm>

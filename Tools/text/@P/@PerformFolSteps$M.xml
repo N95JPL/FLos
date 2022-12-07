@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PerformFolSteps$M">
+	<tu xmlns:lang="eng">Please perform the following steps:</tu>
+	<tu xmlns:lang="nld">Voer a.u.b. de volgende stappen uit:</tu>
+	<tu xmlns:lang="fra">Veuillez exécuter les opérations suivantes :</tu>
+	<tu xmlns:lang="deu">Bitte die folgenden Schritte durchführen:</tu>
+	<tu xmlns:lang="ita">Effettuare le seguenti operazioni:</tu>
+	<tu xmlns:lang="jpn">次のステップを実行しなさい：</tu>
+	<tu xmlns:lang="ptg">Efectue os seguintes passos:</tu>
+	<tu xmlns:lang="ptb">Execute as seguintes etapas:</tu>
+	<tu xmlns:lang="rus">Выполните следующие действия:</tu>
+	<tu xmlns:lang="esp">Realizar los pasos siguientes:</tu>
+	<tu xmlns:lang="chs">请执行下列步骤：</tu>
+	<tu xmlns:lang="kor">다음 단계를 수행하십시오.</tu>
+</tm>

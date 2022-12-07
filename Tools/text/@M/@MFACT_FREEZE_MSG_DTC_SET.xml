@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MFACT_FREEZE_MSG_DTC_SET">
+	<tu
+    xmlns:lang="eng"
+  >While manufacturing/freeze mode is set, the message ‘air suspension not in customer mode’ will be displayed in the instrument panel and one of the following diagnostic trouble codes U300005, U300052, U300054, U300055 will be set.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer de fabrieks-/momentopnamefunctie is ingeschakeld, verschijnt er een mededeling dat de luchtvering niet in de klantstand staat op het instrumentenpaneel en wordt een van de diagnosefoutcodes U300005, U300052, U300054 of U300055 opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lorsque le mode usine/neutralisation est sélectionné, le message 'suspension pneumatique pas en mode client' s'affiche sur le tableau de bord et l'un des codes d'anomalie suivants U300005, U300052, U300054, U300055 est enregistré.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Im Fertigungsmodus/Modus 'Einfrieren der Luftfederung' wird die Meldung 'Luftfederung nicht in Kundenmodus' in der Instrumentengruppe angezeigt und es wird einer der Fehlercodes U300005, U300052, U300054 oder U300055 abgespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nella modalità di produzione/blocco, sul quadro strumenti viene visualizzato il messaggio 'sospensioni pneumatiche non in modalità cliente' e viene registrato uno dei seguenti codici dei problemi di diagnostica: U300005, U300052, U300054, U300055.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >マニュファクチャリング／フリーズ モードがオンにセットされている間はインストルメント パネルに「エア サスペンションが顧客モードになっていません」というメッセージが表\示され、診断トラブル コード U300005、U300052、U300054、U300055 のいずれかが記録されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >While Enquanto o modo de fábrica/congelamento estiver definido, a mensagem 'suspensão pneumática não está em modo de cliente' é apresentada no painel de instrumentos e é apresentado um dos seguintes códigos de avaria U300005, U300052, U300054 ou U300055.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Embora o modo de fabricação/travamento esteja definido, a mensagem suspensão a ar não está no modo de cliente será exibida no painel de instrumentos, e um dos seguintes códigos de problema de diagnóstico U300005, U300052, U300054, U300055 será definido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При включении заводского режима/режима фиксации настроек на щитке приборов будет отображаться сообщение «Air suspension not in customer mode» (пневматическая подвеска находится не в пользовательском режиме), а также будет зарегистрирован один из следующих кодов неисправностей: U300005, U300052, U300054, U300055.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Mientras el modo de fabricación/inmovilización esté establecido, se mostrará el mensaje ?la suspensión neumática no está en modo cliente? en el panel de instrumentos y se registrará uno de los siguientes códigos de avería U300005, U300052, U300054 o U300055.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在设置为制造／冻结模式期间，信息‘air suspension not in customer mode’（空气悬架未处于客户模式）将会显示在仪表板上，与时同时，下列故障诊断码之一会被设置：U300005、U300052、U300054、U300055。</tu>
+	<tu
+    xmlns:lang="kor"
+  >제조/일시 정지 모드가 설정되어 있는 동안, 계기판에 ‘air suspension not in customer mode(에어 서스펜션이 고객 모드에 있지 않음)’ 메시지가 표시되고 다음 고장 진단 코드 U300005, U300052, U300054, U300055 중 하나가 설정됩니다.</tu>
+</tm>

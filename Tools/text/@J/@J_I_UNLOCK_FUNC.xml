@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNLOCK_FUNC">
+	<tu xmlns:lang="eng">Unlock functionality</tu>
+	<tu xmlns:lang="nld">Werking van ontgrendelen</tu>
+	<tu xmlns:lang="fra">Fonctionnement du déverrouillage</tu>
+	<tu xmlns:lang="deu">Entriegelungs-Funktionalität</tu>
+	<tu xmlns:lang="ita">Funzionalità sbloccaggio</tu>
+	<tu xmlns:lang="jpn">アンロック機能\</tu>
+	<tu xmlns:lang="ptg">Funcionalidade de destrancagem</tu>
+	<tu xmlns:lang="ptb">Destravar funcionalidade</tu>
+	<tu xmlns:lang="rus">Функция отпирания</tu>
+	<tu xmlns:lang="esp">Funcionamiento del desbloqueo</tu>
+	<tu xmlns:lang="chs">解锁功能</tu>
+	<tu xmlns:lang="kor">잠금 해제 기능</tu>
+</tm>

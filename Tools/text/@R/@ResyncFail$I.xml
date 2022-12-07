@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ResyncFail$I">
+	<tu xmlns:lang="eng">Re-synchronization failed.</tu>
+	<tu xmlns:lang="nld">Het opnieuw synchroniseren is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de la resynchronisation.</tu>
+	<tu xmlns:lang="deu">Neusynchronisierung nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Risincronizzazione non riuscita.</tu>
+	<tu xmlns:lang="jpn">再同期化に失敗しました。</tu>
+	<tu xmlns:lang="ptg">A ressincronização falhou.</tu>
+	<tu xmlns:lang="ptb">Falha na nova sincronização.</tu>
+	<tu xmlns:lang="rus">Не удалось выполнить повторную синхронизацию.</tu>
+	<tu xmlns:lang="esp">Falló la resincronización.</tu>
+	<tu xmlns:lang="chs">重新同步失败。</tu>
+	<tu xmlns:lang="kor">재동기화 실패</tu>
+</tm>

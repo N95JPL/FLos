@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CUMULATIVE_DIS_VEH_SHUT_DWN">
+	<tu xmlns:lang="eng">Cumulative discharge when vehicle is shut down</tu>
+	<tu
+    xmlns:lang="nld"
+  >Totale ontlading wanneer het voertuig wordt uitgeschakeld</tu>
+	<tu xmlns:lang="fra">Décharge cumulée lorsque le véhicule est à l'arrêt</tu>
+	<tu xmlns:lang="deu">Kumulative Entladung bei Abschaltung des Fahrzeugs</tu>
+	<tu xmlns:lang="ita">Scarica cumulativa quando il veicolo viene spento</tu>
+	<tu xmlns:lang="jpn">車両シャットダウン時の累積放電量</tu>
+	<tu xmlns:lang="ptg">Descarga acumulada ao desligar o veículo</tu>
+	<tu xmlns:lang="ptb">Descarga cumulativa quando o veículo é desligado</tu>
+	<tu xmlns:lang="rus">Суммарный разряд при спящем режиме</tu>
+	<tu xmlns:lang="esp">Descarga acumulada al detener el vehículo</tu>
+	<tu xmlns:lang="chs">车辆熄火后将累积放电</tu>
+	<tu xmlns:lang="kor">차량 셧다운 시 누적 방전량</tu>
+</tm>

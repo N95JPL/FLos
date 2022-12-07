@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_IHU_SIN_CD_MP3">
+	<tu
+    xmlns:lang="eng"
+  >Integrated audio module with single disc CD player and MP3 enabled</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geïntegreerde audiomodule met cd-speler voor één cd en geschikt voor mp3</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module audio intégré avec lecteur CD simple et MP3 activé</tu>
+	<tu
+    xmlns:lang="deu"
+  >Integriertes Audiosystem mit Einzel-CD-Spieler und MP3 aktiviert</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo comando audio integrato con lettore CD singolo e MP3 abilitato</tu>
+	<tu
+    xmlns:lang="jpn"
+  >シングル ディスク CD プレーヤーと MP3 プレーヤーが作動可設定されたインテグレート オーディオ モジュール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo áudio integrado com leitor de CDs mono-disco e MP3 activados</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo do sistema de áudio integrado com CD player com capacidade para um disco e habilitado para MP3</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок встроенной аудиосистемы с проигрывателем на один компакт-диск и функцией воспроизведения МР3</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de audio integrado con lector de CD de un disco, compatible con MP3</tu>
+	<tu xmlns:lang="chs">带单碟 CD 播放器和 MP3 播放功能的集成音频模块</tu>
+	<tu
+    xmlns:lang="kor"
+  >싱글 디스크 CD 플레이어와 MP3가 활성화된 통합 오디오 모듈</tu>
+</tm>

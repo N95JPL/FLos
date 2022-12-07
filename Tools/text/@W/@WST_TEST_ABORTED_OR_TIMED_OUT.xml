@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_TEST_ABORTED_OR_TIMED_OUT">
+	<tu xmlns:lang="eng">Test aborted or timed out</tu>
+	<tu xmlns:lang="nld">Test afgebroken of verlopen</tu>
+	<tu xmlns:lang="fra">Test abandonné ou expiré</tu>
+	<tu xmlns:lang="deu">Test abgebrochen oder Zeitüberschreitung</tu>
+	<tu xmlns:lang="ita">Prova interrotta o tempo scaduto</tu>
+	<tu xmlns:lang="jpn">テスト中断またはタイムアウト</tu>
+	<tu xmlns:lang="ptg">Teste interrompido ou tempo esgotado</tu>
+	<tu xmlns:lang="ptb">Teste abortado ou esgotado</tu>
+	<tu xmlns:lang="rus">Проверка прервана или истекло время</tu>
+	<tu xmlns:lang="esp">Se abandonó la prueba o se acabó el tiempo de espera.</tu>
+	<tu xmlns:lang="chs">测试中止或超时</tu>
+	<tu xmlns:lang="kor">테스트 중단 또는 시간 초과</tu>
+</tm>

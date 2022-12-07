@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FCDIM_07">
+	<tu xmlns:lang="eng">5)  Control module checks reverse camera video input.</tu>
+	<tu
+    xmlns:lang="nld"
+  >5)  De regelmodule controleert de video-invoer van de camera voor achteruitrijden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >5)  Le module de commande contrôle l'entrée vidéo de la caméra de rétrovision.</tu>
+	<tu xmlns:lang="deu">5)  Steuergerät prüft Rückfahrkamera-Videoeingang.</tu>
+	<tu
+    xmlns:lang="ita"
+  >5)  Il modulo di comando controlla l'input video della telecamera di retromarcia.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >5)  コントロール モジュールはリバース カメラ ビデオ インプットをチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >5)  O módulo de controlo verifica o sinal de entrada de vídeo da câmara auxiliar de marcha atrás.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >5)  O módulo de controle verifica a entrada de vídeo da câmera de marcha à ré.</tu>
+	<tu
+    xmlns:lang="rus"
+  >5)  Блок управления проверяет входной видеосигнал камеры движения задним ходом.</tu>
+	<tu
+    xmlns:lang="esp"
+  >5)  El módulo de control comprueba la señal de entrada de vídeo de la cámara de marcha atrás.</tu>
+	<tu xmlns:lang="chs">5)  控制模块检查倒车雷达视频输入。</tu>
+	<tu
+    xmlns:lang="kor"
+  >5)  컨트롤 모듈이 후진 카메라 비디오 입력을 점검합니다.</tu>
+</tm>

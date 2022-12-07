@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspEnableIntro2$M">
+	<tu
+    xmlns:lang="eng"
+  >Be aware that the suspension height will change during this routine.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Let op dat de luchtveringshoogte tijdens deze routine zal veranderen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Rappelez-vous que la suspension changera de hauteur pendant ce programme.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beachten, dass sich die Fahrhöhe des Fahrzeugs bei Ablaufen dieser Routine verändert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tenere presente che durante questa procedura l'altezza della sospensione cambierà.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチン中、サスペンション ハイトが変化することに注意しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tenha em conta que a altura da suspensão mudará durante esta rotina.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esteja ciente de que a altura da suspensão será alterada durante a rotina.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Имейте в виду, что при выполнении этой процедуры высота подвески изменяется.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Hay que tener en cuenta que la altura de la suspensión cambiará durante esta rutina.</tu>
+	<tu xmlns:lang="chs">要注意在此常规程序期间悬架高度将发生变化。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차 중에 서스펜션 높이가 변경될 수 있으니 유의하십시오.</tu>
+</tm>

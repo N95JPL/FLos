@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_OPEN_DDOOR_LATCH">
+	<tu xmlns:lang="eng">Open the driver's door latch.</tu>
+	<tu xmlns:lang="nld">OPEN de vergrendeling van het bestuurdersportier</tu>
+	<tu xmlns:lang="fra">OUVREZ la serrure de la porte conducteur</tu>
+	<tu xmlns:lang="deu">Fahrertürschloß ENTRIEGELN</tu>
+	<tu xmlns:lang="ita">APRIRE il meccanismo della portiera del guidatore</tu>
+	<tu xmlns:lang="jpn">ドライバー ドアのロック ラッチを解放しなさい。</tu>
+	<tu xmlns:lang="ptg">Abrir o trinco da porta do condutor.</tu>
+	<tu xmlns:lang="ptb">Abra a trava da porta do motorista.</tu>
+	<tu xmlns:lang="rus">Откройте защелку двери водителя</tu>
+	<tu xmlns:lang="esp">ABRIR el pestillo de la puerta del conductor</tu>
+	<tu xmlns:lang="chs">打开驾驶员一侧车门锁</tu>
+	<tu xmlns:lang="kor">운전석 도어 래치를 여십시오.</tu>
+</tm>

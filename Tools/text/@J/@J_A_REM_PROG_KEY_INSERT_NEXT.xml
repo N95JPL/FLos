@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_REM_PROG_KEY_INSERT_NEXT">
+	<tu
+    xmlns:lang="eng"
+  >Remove the currently programmed key and insert the next key to be programmed into the starter control unit, once this has been done press the confirmation tick.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verwijder de sleutel die momenteel geprogrammeerd wordt en steek de volgende sleutel die u wilt programmeren in de regeleenheid voor sleutelloos starten (docking station). Zodra dit is uitgevoerd, drukt u ter bevestiging op de afvinktoets.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Retirez la clé programmée actuelle et insérez la clé suivante à programmer dans le module de commande de démarrage, lorsque c'est fait appuyez sur la coche de confirmation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Aktuell programmierten Schlüssel abziehen und den nächsten zu programmierenden Schlüssel in die Startsteuereinheit einstecken; nachdem dies erfolgte, das Häkchen antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Togliere la chiave correntemente programmata ed inserire la chiave successiva da programmare nell'unità di comando del motorino di avviamento e, dopo aver fatto ciò, premere il tasto di spunta per confermare.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >現在プログラムされたキーを取り外し、次にプログラムするキーをスターター コントロール ユニットに挿入しなさい。そののち確認のティックを押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retirar a chave programada no momento e introduzir a chave seguinte a ser programada na unidade de controlo do motor de arranque; depois premir o sinal de confirmação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Remova a chave programada no momento e insira a próxima chave para ser programada na unidade de controle de partida, após fazer isso, pressione a marca de confirmação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Удалите программируемый в настоящее время ключ и вставьте следующий подлежащий программированию ключ в блок управления стартером. После этого нажмите на галочку для подтверждения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Retirar la llave programada actualmente e insertar la siguiente llave que se va a programar en el módulo de control de arranque. Una vez hecho esto, pulsar el botón de confirmación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >取下当前已编程的车钥，将下一把待编程的车钥插入起动机控制单元内，然后打勾确认。</tu>
+	<tu
+    xmlns:lang="kor"
+  >현재 프로그래밍된 키를 제거하고 다음으로 프로그래밍할 키를 스타터 컨트롤 유닛에 삽입하십시오. 이 작업이 완료되면 확인 체크 표시를 누르십시오.</tu>
+</tm>

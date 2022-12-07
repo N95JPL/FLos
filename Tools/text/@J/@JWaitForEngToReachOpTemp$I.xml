@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JWaitForEngToReachOpTemp$I">
+	<tu xmlns:lang="eng">Waiting for engine to reach operating temperature</tu>
+	<tu xmlns:lang="nld">Wachten tot motor werktemperatuur bereikt heeft</tu>
+	<tu xmlns:lang="fra">Attente de préchauffage du moteur</tu>
+	<tu xmlns:lang="deu">Warten Sie, bis der Motor auf Betriebstemperatur ist</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attendere che il motore raggiunga la temperatura di funzionamento</tu>
+	<tu xmlns:lang="jpn">ｴﾝｼﾞﾝが作動温度に達するのを待っています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A aguardar que o motor atinja a temperatura de funcionamento</tu>
+	<tu xmlns:lang="ptb">Aguardando o motor atingir a temperatura de operação</tu>
+	<tu xmlns:lang="rus">Ожидание прогрева двигателя до рабочей температуры</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esperando a que el motor alcance la temperatura de funcionamiento</tu>
+	<tu xmlns:lang="chs">正在等待发动机达到工作温度</tu>
+	<tu xmlns:lang="kor">엔진이 작동 온도에 이를 때까지 대기 중</tu>
+</tm>

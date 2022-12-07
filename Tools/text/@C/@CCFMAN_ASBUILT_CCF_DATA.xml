@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_ASBUILT_CCF_DATA">
+	<tu xmlns:lang="eng">As built from car configuration data</tu>
+	<tu xmlns:lang="nld">Af fabriek volgens voertuigconfiguratiegegevens</tu>
+	<tu
+    xmlns:lang="fra"
+  >Conforme à l'exécution par rapport aux données de configuration du véhicule</tu>
+	<tu
+    xmlns:lang="deu"
+  >Werkseitige Baudaten aus den Fahrzeug-Konfigurationsdaten</tu>
+	<tu xmlns:lang="ita">Di fabbricazione dai dati di configurazione veicolo</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション データからのアズ ビルト</tu>
+	<tu xmlns:lang="ptg">Dados de fábrica dos dados de configuração do veículo</tu>
+	<tu xmlns:lang="ptb">Dados como construído da configuração do carro</tu>
+	<tu xmlns:lang="rus">Заводские параметры из данных конфигурации автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Configuración de fábrica a partir de datos de configuración del vehículo</tu>
+	<tu xmlns:lang="chs">来自车辆配置数据的出厂状态值</tu>
+	<tu xmlns:lang="kor">차량 구성 데이터의 애즈-빌트(As-Built)</tu>
+</tm>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SDARS_SIRIUS">
+	<tu xmlns:lang="eng">Satellite digital audio receiver system Sirius</tu>
+	<tu
+    xmlns:lang="nld"
+  >Systeem voor satellietontvanger van digitale geluidsinstallatie, Sirius</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système de récepteur audio numérique par satellite Sirius</tu>
+	<tu xmlns:lang="deu">Digitales Satellitenradio-Audioempfängersystem Sirius</tu>
+	<tu xmlns:lang="ita">Sistema ricevitore audio digitale satellitare Sirius</tu>
+	<tu xmlns:lang="jpn">衛星デジタル オーディオ レシーバー システム Sirius</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema receptor áudio digital via satélite (SDARS) - Sirius</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema Sirius do receptor de áudio digital via satélite</tu>
+	<tu xmlns:lang="rus">Цифровая аудиосистема спутникового приема Sirius</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de receptor de audio digital vía satélite Sirius</tu>
+	<tu xmlns:lang="chs">卫星数字音频接收器系统 Sirius</tu>
+	<tu xmlns:lang="kor">위성 디지털 오디오 수신기 시스템 Sirius</tu>
+</tm>

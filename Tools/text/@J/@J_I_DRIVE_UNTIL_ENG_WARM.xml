@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRIVE_UNTIL_ENG_WARM">
+	<tu xmlns:lang="eng">Drive vehicle until engine is fully warm.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Rijd met het voertuig totdat de motor helemaal is opgewarmd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Conduisez le véhicule jusqu'à ce que le moteur soit totalement chaud.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeug fahren, bis der Motor Betriebstemperatur erreicht hat.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guidare il veicolo finché il motore non sarà completamente caldo.</tu>
+	<tu xmlns:lang="jpn">エンジンが完全に暖機するまで車両を走行させなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Conduzir o veículo até o motor estar perfeitamente aquecido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Dirija o veículo até que o motor esteja totalmente aquecido.</tu>
+	<tu xmlns:lang="rus">Совершите поездку до полного прогрева двигателя.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Conducir el vehículo hasta que el motor esté bien caliente.</tu>
+	<tu xmlns:lang="chs">驱动车辆至发动机完全热起来。</tu>
+	<tu xmlns:lang="kor">엔진이 완전히 워밍업될 때까지 차량을 주행하십시오.</tu>
+</tm>

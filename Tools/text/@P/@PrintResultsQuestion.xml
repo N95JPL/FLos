@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PrintResultsQuestion">
+	<tu xmlns:lang="eng">Would you like to print the results?</tu>
+	<tu xmlns:lang="nld">Wilt u de resultaten afdrukken?</tu>
+	<tu xmlns:lang="fra">Souhaitez-vous imprimer les résultats ?</tu>
+	<tu xmlns:lang="deu">Möchten Sie die Ergebnisse ausdrucken?</tu>
+	<tu xmlns:lang="ita">Stampare i risultati?</tu>
+	<tu xmlns:lang="jpn">結果を印刷しますか？</tu>
+	<tu xmlns:lang="ptg">Pretende imprimir os resultados?</tu>
+	<tu xmlns:lang="ptb">Deseja imprimir os resultados?</tu>
+	<tu xmlns:lang="rus">Хотите распечатать результаты?</tu>
+	<tu xmlns:lang="esp">¿Desea imprimir los resultados?</tu>
+	<tu xmlns:lang="chs">您想打印结果吗？</tu>
+	<tu xmlns:lang="kor">결과를 인쇄하시겠습니까?</tu>
+</tm>

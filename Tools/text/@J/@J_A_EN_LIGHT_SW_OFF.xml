@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_EN_LIGHT_SW_OFF">
+	<tu xmlns:lang="eng">Make sure the exterior lamp switch is switched off.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer of de buitenschakelaar in de uit stand staat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifier que le contacteur d'éclairage extérieur est sur la position Arrêt</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, daß der äußere Schalter in Aus-Stellung geschaltet ist</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che l'interruttore delle luci esterne sia in posizione di spento</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車外ライト スイッチがオフ位置であることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Assegure-se de que o interruptor das luzes exteriores está desligado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o interruptor da luz exterior esteja desligado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что выключатель внешнего освещения отключен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cerciorarse de que el interruptor exterior está en la posición de luces apagadas</tu>
+	<tu xmlns:lang="chs">确保车外灯开关关闭。</tu>
+	<tu xmlns:lang="kor">외부 램프 스위치가 꺼져 있는지 확인하십시오.</tu>
+</tm>

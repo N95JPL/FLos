@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SWARE_VERS">
+	<tu xmlns:lang="eng">Software version</tu>
+	<tu xmlns:lang="nld">Softwareversie</tu>
+	<tu xmlns:lang="fra">Version logiciel</tu>
+	<tu xmlns:lang="deu">Softwareversion</tu>
+	<tu xmlns:lang="ita">Versione di software</tu>
+	<tu xmlns:lang="jpn">ソ\フトウェア バージョン</tu>
+	<tu xmlns:lang="ptg">Versão do software</tu>
+	<tu xmlns:lang="ptb">Versão do software</tu>
+	<tu xmlns:lang="rus">Версия программного обеспечения</tu>
+	<tu xmlns:lang="esp">Versión del software</tu>
+	<tu xmlns:lang="chs">软件版本</tu>
+	<tu xmlns:lang="kor">소프트웨어 버전</tu>
+</tm>

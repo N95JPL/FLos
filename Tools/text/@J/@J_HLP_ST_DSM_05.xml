@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_DSM_05">
+	<tu
+    xmlns:lang="eng"
+  >2)  Check that all feedback and status lines inputs have their default value (no operation).</tu>
+	<tu
+    xmlns:lang="nld"
+  >2)  Controleer dat de invoeren van alle terugkoppelings- en statuslijnen op hun standaardwaarde staan (niet in bedrijf).</tu>
+	<tu
+    xmlns:lang="fra"
+  >2)  Vérifiez que toutes les entrées des circuits de retour et d'état ont leur valeur par défaut (pas de fonctionnement).</tu>
+	<tu
+    xmlns:lang="deu"
+  >2)  Prüfen, ob die Eingänge aller Rückmelde- und Statusleitungen den Standardwert angenommen haben (kein Betrieb).</tu>
+	<tu
+    xmlns:lang="ita"
+  >2)  Controllare che gli input delle linee di feedback e stato abbiano il loro valore di default (nessun azionamento).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >2)  全フィードバックおよびステータス ライン インプットがデフォルト数値であるかチェックしなさい (非作動中)。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >2)  Verifique se todos os sinais de entrada de estado e de retorno apresentam o respectivo valor predefinido (sem funcionamento).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >2)  Verifique se todos os comentários e o status das linhas têm os seus valores padrão (nenhuma operação).</tu>
+	<tu
+    xmlns:lang="rus"
+  >2)  Проверьте, чтобы все линии обратной связи и состояния имели значения по умолчанию (не работает).</tu>
+	<tu
+    xmlns:lang="esp"
+  >2)  Comprobar que todas las entradas a los circuitos de estado y realimentación tengan el valor predeterminado (de inactividad).</tu>
+	<tu
+    xmlns:lang="chs"
+  >2)  检查所有反馈与状态线路输入是否具有各自的默认值（没有运行）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >2)  모든 피드백 및 상태 라인 입력에 기본값(작동 없음)이 있는지 점검하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUX_LAMP_MENU">
+	<tu xmlns:lang="eng">Auxiliary lamps  -  Menu controlled</tu>
+	<tu xmlns:lang="nld">Hulpverlichting   -  Regeling via menu</tu>
+	<tu xmlns:lang="fra">Feux auxiliaires   -  Commandé par menu</tu>
+	<tu xmlns:lang="deu">Zusatzscheinwerfer   -  Menügesteuert</tu>
+	<tu xmlns:lang="ita">Luci ausiliarie  -  Controllato da menu</tu>
+	<tu xmlns:lang="jpn">補助ランプ  －  メニュー制御</tu>
+	<tu xmlns:lang="ptg">Luzes auxiliares  -  Controlo por menu</tu>
+	<tu xmlns:lang="ptb">Lâmpadas auxiliares  -  Controlado pelo menu</tu>
+	<tu xmlns:lang="rus">Дополнительные лампы  -  Управление с помощью меню</tu>
+	<tu xmlns:lang="esp">Luces auxiliares  -  Menú controlado</tu>
+	<tu xmlns:lang="chs">辅助灯  -  受控菜单</tu>
+	<tu xmlns:lang="kor">보조 램프  -  메뉴 제어식</tu>
+</tm>

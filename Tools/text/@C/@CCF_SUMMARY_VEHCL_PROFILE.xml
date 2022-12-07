@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_SUMMARY_VEHCL_PROFILE">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle configuration summary from vehicle profiling sequence</tu>
+	<tu
+    xmlns:lang="nld"
+  >Overzicht van voertuigconfiguratie vanuit voertuigprofielsequentie</tu>
+	<tu
+    xmlns:lang="fra"
+  >Résumé de configuration du véhicule par séquence de profilage véhicule</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeugkonfiguration - Zusammenfassung aus Fahrzeug-Profilbildungssequenz</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sommario configurazione veicolo da sequenza profilo veicolo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両プロファイル シーケンスによる車両コンフィギュレーション概要</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sumário da configuração do veículo da sequência de perfis do veículo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Resumo de configuração do veículo a partir da sequência do traçado do perfil do veículo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сводка конфигурации автомобиля посредством процедуры создания профиля автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Resumen de configuración del vehículo correspondiente la secuencia de análisis de perfil del vehículo</tu>
+	<tu xmlns:lang="chs">源自车辆剖析程序的车辆配置概要</tu>
+	<tu xmlns:lang="kor">차량 프로파일링 시퀀스에서 얻은 차량 구성 요약</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUTO_HLAMP_LEV">
+	<tu xmlns:lang="eng">Automatic headlamp levelling</tu>
+	<tu xmlns:lang="nld">Automatische koplampnivellering</tu>
+	<tu xmlns:lang="fra">Réglage automatique de site des phares</tu>
+	<tu xmlns:lang="deu">Automatische Leuchtweitenregulierung</tu>
+	<tu xmlns:lang="ita">Regolazione automatica assetto fari</tu>
+	<tu xmlns:lang="jpn">オートマチック ヘッドランプ レベリング</tu>
+	<tu xmlns:lang="ptg">Nivelamento automático dos faróis</tu>
+	<tu xmlns:lang="ptb">Nivelamento automático dos faróis</tu>
+	<tu xmlns:lang="rus">Автоматическая коррекция положения фар</tu>
+	<tu xmlns:lang="esp">Nivelación automática de los faros</tu>
+	<tu xmlns:lang="chs">前照灯自动变光</tu>
+	<tu xmlns:lang="kor">자동 헤드램프 레벨링</tu>
+</tm>

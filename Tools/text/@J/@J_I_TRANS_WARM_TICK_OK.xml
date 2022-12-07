@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRANS_WARM_TICK_OK">
+	<tu
+    xmlns:lang="eng"
+  >Transmission warm-up.  Tick will appear when required temperature is achieved, press tick to continue</tu>
+	<tu
+    xmlns:lang="nld"
+  >Transmissie opwarmen.  Een vinkje wordt afgebeeld zodra de vereiste temperatuur is bereikt. Druk op het vinkje om verder te gaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Montée en température de la transmission.  La coche apparaît lorsque la température requise est atteinte, appuyez sur la coche pour continuer</tu>
+	<tu
+    xmlns:lang="deu"
+  >Getriebeaufwärmung  Das Häkchen wird angezeigt, wenn die benötigte Temperatur erreicht wurde; das Häkchen zum Fortfahren antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Riscaldamento del cambio.  Il segno di spunta apparirà una volta raggiunta la temperatura richiesta; premere il segno di spunta per continuare</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスミッション暖機。  必要な温度に到達すると「ティック」が現れます。ティックを押して続行しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aquecimento da transmissão.  O sinal de visto é apresentado, quando é atingida a temperatura necessária. Prima o sinal de visto para continuar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aquecimento da transmissão.  Um OK será exibido quando a temperatura necessária for alcançada, pressione OK para continuar</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прогрев коробки передач.  При достижении требуемой температуры появится галочка, нажмите галочку для продолжения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Calentamiento de la caja de cambios.  Aparecerá una marca de verificación cuando se alcance la temperatura requerida. Pulsar la marca de verificación para continuar.</tu>
+	<tu
+    xmlns:lang="chs"
+  >变速箱预热。  达到要求的温度时，将会出现勾选键；按勾选键继续</tu>
+	<tu
+    xmlns:lang="kor"
+  >변속기 워밍업  필요한 온도에 도달하면 체크 표시가 나타나는데, 계속하려면 체크 표시를 누르십시오.</tu>
+</tm>

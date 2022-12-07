@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart39">
+	<tu
+    xmlns:lang="eng"
+  >This inhibit condition will also be flagged if the gearbox temperature is too low or too high.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze geblokkeerde toestand wordt ook aangegeven als de temperatuur van de versnellingsbak te hoog of te laag is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette neutralisation est également enregistrée si la température de la boîte de vitesses est trop basse ou trop élevée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Sperrbedingung wird auch ausgewiesen, wenn die Temperatur des Getriebes zu niedrig oder zu hoch ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa condizione di disabilitazione sarà segnalata anche se la temperatura del cambio è troppo bassa o troppo alta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この禁止状態は、ギヤ ボックスの温度が低すぎるか高すぎる場合にも発生します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta condição de inibição também é assinalada se a temperatura da caixa de velocidades for demasiado baixa ou demasiado elevada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa condição de inibição também será sinalizada se a temperatura da caixa de transmissão estiver muito alta ou muito baixa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная блокировка будет также регистрироваться при чрезмерно высокой или низкой температуре коробки передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta condición de bloqueo también se registrará si la temperatura de la caja de cambios es muy baja o muy alta.</tu>
+	<tu xmlns:lang="chs">如果变速箱温度过低或过高，此禁用状态也会出现。</tu>
+	<tu
+    xmlns:lang="kor"
+  >변속 장치 온도가 너무 낮거나 높은 경우에도 이 억제 상태가 플래그로 표시됩니다.</tu>
+</tm>

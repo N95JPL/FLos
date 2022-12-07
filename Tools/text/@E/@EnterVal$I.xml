@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnterVal$I">
+	<tu xmlns:lang="eng">Enter measured values :-</tu>
+	<tu xmlns:lang="nld">Voer de meetwaarden in:-</tu>
+	<tu xmlns:lang="fra">Entrez les valeurs mesurées :</tu>
+	<tu xmlns:lang="deu">Gemessene Werte eingeben :-</tu>
+	<tu xmlns:lang="ita">Immettere i valori misurati:-</tu>
+	<tu xmlns:lang="jpn">測定値を入力しなさい：-</tu>
+	<tu xmlns:lang="ptg">Introduza os valor medidos :-</tu>
+	<tu xmlns:lang="ptb">Insira os valores medidos :-</tu>
+	<tu xmlns:lang="rus">Введите измеренные значения :-</tu>
+	<tu xmlns:lang="esp">Introducir los valores medidos:</tu>
+	<tu xmlns:lang="chs">输入实测值： - </tu>
+	<tu xmlns:lang="kor">측정값 입력:</tu>
+</tm>

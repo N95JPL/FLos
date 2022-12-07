@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SlideRoofFinished">
+	<tu xmlns:lang="eng">Wait until the sliding roof has finished moving.</tu>
+	<tu xmlns:lang="nld">Wacht totdat het schuifdak niet meer beweegt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attendez jusqu'à ce que le toit ouvrant ait terminé son mouvement.</tu>
+	<tu xmlns:lang="deu">Warten, bis das Schiebedach sich nicht mehr bewegt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attendere che il movimento del tettuccio scorrevole termini.</tu>
+	<tu xmlns:lang="jpn">スライディング ルーフの動きが止まるまで待ちなさい。</tu>
+	<tu xmlns:lang="ptg">Aguarde até o tecto de abrir se imobilizar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aguarde até que o movimento do teto deslizante esteja concluído.</tu>
+	<tu xmlns:lang="rus">Дождитесь окончания перемещения сдвижного верха.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esperar a que el techo deslizante haya acabado de moverse.</tu>
+	<tu xmlns:lang="chs">等待直至活动顶蓬完成移动为止。</tu>
+	<tu xmlns:lang="kor">슬라이딩 루프가 작동을 마칠 때까지 기다리십시오.</tu>
+</tm>

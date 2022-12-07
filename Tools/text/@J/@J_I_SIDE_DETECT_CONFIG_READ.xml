@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SIDE_DETECT_CONFIG_READ">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will read the configuration settings for the side object detection radar system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij deze procedure worden de configuratie-instellingen voor het radardetectiesysteem voor voorwerpen aan de zijkant gelezen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure va lire les paramètres de configuration pour le système radar de détection d'objet latéral.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Durch diese Maßnahme werden die Konfigurationseinstellungen für das Radarsystem der seitlichen Objekterfassung ausgelesen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura permette di leggere le impostazioni di configurazione per il sistema radar di rilevamento oggetto laterale.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順では、側方障害物検出レーダー システムのコンフィギュレーション設定を読み取ります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento vai ler as definições de configuração do sistema de radar da detecção lateral de objectos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento vai ler os ajustes de configuração do sistema do radar de detecção de objetos laterais.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе данной процедуры считываются параметры конфигурации радиолокационной системы обнаружения объектов сбоку.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento leerá los valores de configuración del sistema de radar de detección de objetos laterales.</tu>
+	<tu xmlns:lang="chs">本程序将读取侧面物体探测雷达系统的配置设定值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 측면 장애물 감지 레이더 시스템의 구성 설정을 읽습니다.</tu>
+</tm>

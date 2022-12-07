@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_EXTERIOR_LIGHTING">
+	<tu xmlns:lang="eng">417-01 Exterior lighting</tu>
+	<tu xmlns:lang="nld">417-01 Buitenverlichting</tu>
+	<tu xmlns:lang="fra">417-01 Eclairage extérieur</tu>
+	<tu xmlns:lang="deu">417-01 Außenleuchten</tu>
+	<tu xmlns:lang="ita">417-01 Luci esterne</tu>
+	<tu xmlns:lang="jpn">417-01 車外ライティング</tu>
+	<tu xmlns:lang="ptg">417-01 Luzes exteriores</tu>
+	<tu xmlns:lang="ptb">417-01 Iluminação externa</tu>
+	<tu xmlns:lang="rus">417-01 Наружное освещение</tu>
+	<tu xmlns:lang="esp">417-01 Iluminación exterior</tu>
+	<tu xmlns:lang="chs">417-01外部照明</tu>
+	<tu xmlns:lang="kor">417-01 외부 조명</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@UNLOCK_SETTING_1_STEP_SLAM">
+	<tu xmlns:lang="eng">One step opening with slam lock</tu>
+	<tu xmlns:lang="nld">Openen in één stap met vergrendeling door dichtslaan</tu>
+	<tu xmlns:lang="fra">Ouverture en une étape avec serrure à ressort</tu>
+	<tu xmlns:lang="deu">Einstufiges Öffnen mit Zuschlagverriegelung</tu>
+	<tu xmlns:lang="ita">Apertura in una fase con bloccaggio a scatto </tu>
+	<tu xmlns:lang="jpn">スラム ロック付きワンステップ オープニング</tu>
+	<tu xmlns:lang="ptg">Abertura de um toque com trancagem ao bater a porta</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Abertura em uma etapa com trava da porta do tipo bater para fechar</tu>
+	<tu
+    xmlns:lang="rus"
+  >Одношаговое открывание с использованием английского замка</tu>
+	<tu xmlns:lang="esp">Apertura en un solo paso con bloqueo de portazo</tu>
+	<tu xmlns:lang="chs">带撞击式门锁的一步打开</tu>
+	<tu xmlns:lang="kor">슬램 록(Slam Lock)을 이용한 1단계 개방</tu>
+</tm>

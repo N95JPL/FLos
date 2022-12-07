@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RearBushMeas$I">
+	<tu xmlns:lang="eng">Rear bush measurement.</tu>
+	<tu xmlns:lang="nld">Meting van achterste wielophangingsbus.</tu>
+	<tu xmlns:lang="fra">Mesure sur bague arrière.</tu>
+	<tu xmlns:lang="deu">Messung hintere Buchse.</tu>
+	<tu xmlns:lang="ita">Misura boccola posteriore.</tu>
+	<tu xmlns:lang="jpn">リア ブッシュの測定値</tu>
+	<tu xmlns:lang="ptg">Medição do casquilho traseiro.</tu>
+	<tu xmlns:lang="ptb">Medida de bucha traseira.</tu>
+	<tu xmlns:lang="rus">Измерение задней втулки.</tu>
+	<tu xmlns:lang="esp">Medida del casquillo trasero.</tu>
+	<tu xmlns:lang="chs">后衬套测量。</tu>
+	<tu xmlns:lang="kor">리어 부시 측정</tu>
+</tm>

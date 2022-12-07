@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEAT_WHL">
+	<tu xmlns:lang="eng">Heated steering wheel</tu>
+	<tu xmlns:lang="nld">Met verwarmd stuurwiel</tu>
+	<tu xmlns:lang="fra">Volant chauffant</tu>
+	<tu xmlns:lang="deu">Beheiztes Lenkrad</tu>
+	<tu xmlns:lang="ita">Volante riscaldato</tu>
+	<tu xmlns:lang="jpn">ステアリング ホイール ヒーター</tu>
+	<tu xmlns:lang="ptg">Volante aquecido</tu>
+	<tu xmlns:lang="ptb">Volante aquecido</tu>
+	<tu xmlns:lang="rus">Обогреваемое рулевое колесо</tu>
+	<tu xmlns:lang="esp">Volante calefactado</tu>
+	<tu xmlns:lang="chs">加热方向盘</tu>
+	<tu xmlns:lang="kor">열선내장 스티어링 휠</tu>
+</tm>

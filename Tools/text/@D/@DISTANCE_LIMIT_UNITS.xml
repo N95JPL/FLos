@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DISTANCE_LIMIT_UNITS">
+	<tu xmlns:lang="eng">Distance limit units</tu>
+	<tu xmlns:lang="nld">Eenheden afstandslimiet</tu>
+	<tu xmlns:lang="fra">Unités limites de distance.</tu>
+	<tu xmlns:lang="deu">Abstandsgrenzen - Einheiten</tu>
+	<tu xmlns:lang="ita">Unità limite distanza</tu>
+	<tu xmlns:lang="jpn">距離制限単位</tu>
+	<tu xmlns:lang="ptg">Unidades do limite de distância</tu>
+	<tu xmlns:lang="ptb">Unidades de limitação de distância</tu>
+	<tu xmlns:lang="rus">Единицы измерения ограничения дистанции</tu>
+	<tu xmlns:lang="esp">Unidades del límite de distancia</tu>
+	<tu xmlns:lang="chs">距离限制单元</tu>
+	<tu xmlns:lang="kor">거리 제한 단위</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_UNLOCK_FIVE">
+	<tu xmlns:lang="eng">Configurable unlocking  -  Configuration five</tu>
+	<tu xmlns:lang="nld">Configureerbaar ontgrendelen  -  Configuratie vijf</tu>
+	<tu xmlns:lang="fra">Déverrouillage configurable  -  Configuration cinq</tu>
+	<tu xmlns:lang="deu">Konfigurierbare Entriegelung  -  Konfiguration fünf</tu>
+	<tu xmlns:lang="ita">Sbloccaggio configurabile  -  Configurazione cinque</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コンフィギュレーション可能\なアンロッキング  －  コンフィギュレーション 5</tu>
+	<tu xmlns:lang="ptg">Destrancagem configurável  -  Configuração cinco</tu>
+	<tu xmlns:lang="ptb">Destravamento configurável  -  Configuração 5</tu>
+	<tu xmlns:lang="rus">Настраиваемое отпирание  -  Конфигурация 5</tu>
+	<tu xmlns:lang="esp">Desbloqueo configurable  -  Configuración cinco</tu>
+	<tu xmlns:lang="chs">可配置的解锁  -  配置五</tu>
+	<tu xmlns:lang="kor">구성 가능한 잠금 해제  -  구성 5</tu>
+</tm>

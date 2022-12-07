@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENSURE_NEW_MOD">
+	<tu
+    xmlns:lang="eng"
+  >Ensure a new module has been fitted to the vehicle before continuing with this procedure</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer dat een nieuwe module in het voertuig is gemonteerd voordat u verder gaat met deze procedure</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'assurer qu'un module neuf a été monté sur le véhicule avant de poursuivre cette procédure</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass ein neues Steuergerät in das Fahrzeug eingebaut wurde, ehe dieser Vorgang fortgesetzt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che un nuovo modulo sia stato installato sul veicolo prima di continuare con questa procedura</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順を続行する前に、新品のモジュールが車両に取り付けられたことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que foi montado um novo módulo no veículo antes de avançar com este procedimento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Antes de continuar com este procedimento, certifique-se de que o novo módulo foi instalado no veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прежде чем продолжить выполнение процедуры, убедитесь, что новый модуль установлен на автомобиль</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que se haya montado un nuevo módulo en el vehículo antes de seguir con este procedimiento</tu>
+	<tu xmlns:lang="chs">确保在继续执行该程序前，已给车辆装配了一个新的模块</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에 새 모듈이 장착되었는지 확인한 후 이 절차를 계속 진행하십시오.</tu>
+</tm>

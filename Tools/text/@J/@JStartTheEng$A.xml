@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JStartTheEng$A">
+	<tu xmlns:lang="eng">Start the engine</tu>
+	<tu xmlns:lang="nld">Start de Motor</tu>
+	<tu xmlns:lang="fra">Mettre le moteur en marche</tu>
+	<tu xmlns:lang="deu">Motor anlassen</tu>
+	<tu xmlns:lang="ita">Avviare il motore</tu>
+	<tu xmlns:lang="jpn">エンｼﾞンを始動してください。</tu>
+	<tu xmlns:lang="ptg">Pôr o motor a trabalhar</tu>
+	<tu xmlns:lang="ptb">Dê partida no motor</tu>
+	<tu xmlns:lang="rus">Запустить двигатель</tu>
+	<tu xmlns:lang="esp">Poner en marcha el motor</tu>
+	<tu xmlns:lang="chs">起动发动机</tu>
+	<tu xmlns:lang="kor">엔진을 시동하십시오.</tu>
+</tm>

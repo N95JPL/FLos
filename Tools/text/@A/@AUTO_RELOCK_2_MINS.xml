@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUTO_RELOCK_2_MINS">
+	<tu xmlns:lang="eng">Automatic relock after 2 minutes</tu>
+	<tu xmlns:lang="nld">Automatisch na 2 minuten opnieuw vergrendelen</tu>
+	<tu xmlns:lang="fra">Reverrouillage automatique après 2 minutes.</tu>
+	<tu xmlns:lang="deu">Automatische Wiederverriegelung nach 2 Minuten</tu>
+	<tu xmlns:lang="ita">Ribloccaggio automatico dopo due minuti</tu>
+	<tu xmlns:lang="jpn">2 分後の自動再ロック</tu>
+	<tu xmlns:lang="ptg">Trancagem automática após 2 minutos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As portas serão travadas automaticamente outra vez após 2 minutos</tu>
+	<tu xmlns:lang="rus">Автоматическое запирание через 2 минуты</tu>
+	<tu xmlns:lang="esp">Bloqueo repetido automático al cabo de 2 minutos</tu>
+	<tu xmlns:lang="chs">2分钟后自动重新锁定</tu>
+	<tu xmlns:lang="kor">2분 후 자동 재잠금</tu>
+</tm>

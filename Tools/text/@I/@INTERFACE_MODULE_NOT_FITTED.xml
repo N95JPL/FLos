@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INTERFACE_MODULE_NOT_FITTED">
+	<tu xmlns:lang="eng">Interface module not fitted</tu>
+	<tu xmlns:lang="nld">Interfacemodule 1 niet aangebracht</tu>
+	<tu xmlns:lang="fra">Module interface non installé.</tu>
+	<tu xmlns:lang="deu">Kein Schnittstellenmodul eingebaut</tu>
+	<tu xmlns:lang="ita">Modulo interfaccia non in dotazione</tu>
+	<tu xmlns:lang="jpn">インターフェース モジュール非装着</tu>
+	<tu xmlns:lang="ptg">Módulo de interface não montado</tu>
+	<tu xmlns:lang="ptb">Módulo de interface não instalado</tu>
+	<tu xmlns:lang="rus">Модуль интерфейса не установлен</tu>
+	<tu xmlns:lang="esp">Módulo de interfaz sin instalar</tu>
+	<tu xmlns:lang="chs">接口模块未安装</tu>
+	<tu xmlns:lang="kor">인터페이스 모듈 장착 안 됨</tu>
+</tm>

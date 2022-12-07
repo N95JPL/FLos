@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDoorKeyUnlockSw$M">
+	<tu xmlns:lang="eng">Door key unlock switches</tu>
+	<tu xmlns:lang="nld">Portierslot ontgrendelschakelaars</tu>
+	<tu xmlns:lang="fra">Contacteurs de deverrouillage a cle de porte</tu>
+	<tu xmlns:lang="deu">Entriegelungsschalter türschliesszylinder</tu>
+	<tu xmlns:lang="ita">Interruttori sbloccaggio portiere a chiave</tu>
+	<tu xmlns:lang="jpn">ドア キー アンロック スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptores de destrancagem das chaves das portas</tu>
+	<tu xmlns:lang="ptb">Interruptores de destravamento da chave da porta</tu>
+	<tu xmlns:lang="rus">Выключатели отпирания в дверных блоках</tu>
+	<tu xmlns:lang="esp">Interruptores desbloqueo llave puerta</tu>
+	<tu xmlns:lang="chs">车门钥匙解锁开关</tu>
+	<tu xmlns:lang="kor">도어 키 잠금 해제 스위치</tu>
+</tm>

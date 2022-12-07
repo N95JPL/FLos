@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_AAM_08">
+	<tu
+    xmlns:lang="eng"
+  >When initialization of MOST is complete for automatic running of test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer de initialisatie van MOST is afgerond voor het automatisch uitvoeren van de test.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Quand l'initialisation du MOST est terminée pour l'exécution automatique du test :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn die MOST-Initialisierung für den automatischen Lauf des Tests abgeschlossen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quando l'inizializzazione di MOST è completata per l'esecuzione automatica della prova.</tu>
+	<tu xmlns:lang="jpn">テストの自動実行のための MOST の初期化完了時。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando a inicialização de MOST estiver concluída para a execução automática do teste.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Quando a inicialização de MOST for concluída para execução automática de teste.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По окончании инициализации MOST для автоматического запуска проверки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cuando se ha concluido la inicialización del MOST para la ejecución automática de la prueba.</tu>
+	<tu xmlns:lang="chs">当 MOST 初始化为自动运行测试执行完毕时。</tu>
+	<tu xmlns:lang="kor">테스트 자동 실행을 위한 MOST 초기화 완료 시</tu>
+</tm>

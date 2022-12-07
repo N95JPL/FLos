@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ClimateControlStatus">
+	<tu xmlns:lang="eng">Climate control system status</tu>
+	<tu xmlns:lang="nld">Status van klimaatregeling</tu>
+	<tu xmlns:lang="fra">État du système de climatisation</tu>
+	<tu xmlns:lang="deu">Klimaregelungssystem – Status</tu>
+	<tu xmlns:lang="ita">Stato sistema di comando della climatizzazione</tu>
+	<tu xmlns:lang="jpn">クライメート コントロール システム ステータス</tu>
+	<tu xmlns:lang="ptg">Estado do sistema de controlo da climatização</tu>
+	<tu xmlns:lang="ptb">Status do sistema de controle de temperatura</tu>
+	<tu xmlns:lang="rus">Состояние системы климат-контроля</tu>
+	<tu xmlns:lang="esp">Estado del sistema de climatización</tu>
+	<tu xmlns:lang="chs">气候控制系统状态</tu>
+	<tu xmlns:lang="kor">실내 온도 조절 시스템 상태</tu>
+</tm>

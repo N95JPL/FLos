@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PARAM_FILE_USA">
+	<tu xmlns:lang="eng">Parameter file for USA</tu>
+	<tu xmlns:lang="nld">Parameterbestand voor de VS</tu>
+	<tu xmlns:lang="fra">Fichier de configuration destiné aux Etats-Unis</tu>
+	<tu xmlns:lang="deu">Parameterdatei für USA</tu>
+	<tu xmlns:lang="ita">File parametri per gli Stati Uniti</tu>
+	<tu xmlns:lang="jpn">米国用パラメータ ファイル</tu>
+	<tu xmlns:lang="ptg">Ficheiro de parâmetros para EUA</tu>
+	<tu xmlns:lang="ptb">Arquivo de parâmetros para os EUA</tu>
+	<tu xmlns:lang="rus">Файл параметров для США</tu>
+	<tu xmlns:lang="esp">Archivo de parámetros para EE. UU.</tu>
+	<tu xmlns:lang="chs">用于美国的参数文件</tu>
+	<tu xmlns:lang="kor">매개 변수 파일(미국)</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_SAUDI">
+	<tu xmlns:lang="eng">Is this vehicle built to Saudi Arabian specification?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is deze wagen gebouwd vlgs. de SAOEDI-ARABISCHE specificatie?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce véhicule est-il conforme aux spécifications d'ARABIE SAOUDITE ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Handelt es sich um ein Fahrzeug mit der Spezifikation für Saudi Arabien?</tu>
+	<tu
+    xmlns:lang="ita"
+  >E costruito questo veicolo secondo la Specificazione per l'Arabia Saudita?</tu>
+	<tu xmlns:lang="jpn">この車両は、ｻｳｼﾞ・ｱﾗﾋﾞｱ仕様の車ですか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este veículo foi construído com especificações para a Arábia Saudita?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A montagem do veículo está de acordo com as especificações da Arábia Saudita?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данный автомобиль собран в соответствии со спецификациями для Саудовской Аравии?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Ha sido construido ente vehículo bajo las especificaciones de ARABIA SAUDÍ?</tu>
+	<tu xmlns:lang="chs">本车辆是根据沙特阿拉伯规格制造的吗？</tu>
+	<tu xmlns:lang="kor">이 차량이 사우디아라비아 사양에 따라 제조되었습니까?</tu>
+</tm>

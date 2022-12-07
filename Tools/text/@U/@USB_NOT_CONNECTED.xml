@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@USB_NOT_CONNECTED">
+	<tu
+    xmlns:lang="eng"
+  >USB storage device not connected to vehicle or not functioning correctly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >USB-opslagapparaat niet aangesloten op voertuig of werkt niet juist
+</tu>
+	<tu
+    xmlns:lang="fra"
+  >Périphérique de stockage USB non raccordé au véhicule ou qui ne fonctionne pas correctement.
+</tu>
+	<tu
+    xmlns:lang="deu"
+  >USB-Datenträger nicht an das Fahrzeug angeschlossen oder arbeitet nicht korrekt.
+</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dispositivo di memorizzazione USB non collegato al veicolo o non funzionante correttamente.
+</tu>
+	<tu
+    xmlns:lang="jpn"
+  >USB 保存デバイスが車両に接続されていないか、あるいはデバイスが正しく機能\していません。
+</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Dispositivo de armazenamento USB não ligado ao veículo ou a não funcionar correctamente.
+</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Dispositivo de armazenamento USB não conectado ao veículo ou não funcionando corretamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Накопитель USB не подсоединен к автомобилю или работает неправильно.
+</tu>
+	<tu
+    xmlns:lang="esp"
+  >El dispositivo de almacenamiento USB no está conectado al vehículo o no funciona correctamente.
+</tu>
+	<tu xmlns:lang="chs">USB 存储设备未连接到车辆或其功能不正常。
+</tu>
+	<tu
+    xmlns:lang="kor"
+  >USB 저장 장치가 차량과 연결되지 않았거나 올바로 작동하지 않음.</tu>
+</tm>

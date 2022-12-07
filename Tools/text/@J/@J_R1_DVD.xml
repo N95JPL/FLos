@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_R1_DVD">
+	<tu
+    xmlns:lang="eng"
+  >USA, US territories and Canada specification DVD player fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >DVD-speler met specificatie voor VS, gebieden van de VS en Canada geïnstalleerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Véhicule équipé d'un lecteur de DVD de spécification USA, territoires US et Canada. </tu>
+	<tu
+    xmlns:lang="deu"
+  >DVD-Player für USA, US-Territorien und Kanada eingebaut.</tu>
+	<tu
+    xmlns:lang="ita"
+  >In dotazione lettore DVD per Usa, territori Usa e Canada.</tu>
+	<tu xmlns:lang="jpn">米国、米国準州およびカナダ仕様 DVD プレーヤー装備済み</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Leitor de DVD instalado com especificações para EUA, territórios dos EUA e Canadá.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >DVD player com especificação dos EUA, territórios dos EUA e Canadá instalado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлен проигрыватель DVD, соответствующий спецификациям для США, территории США и Канады.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El lector de DVD instalado es de la especificación para EE.UU., territorios de EE.UU. y Canadá.</tu>
+	<tu xmlns:lang="chs">‘安装了美国、美国海外属地和加拿大标准 DVD 播放器。’</tu>
+	<tu xmlns:lang="kor">미국, 미국령 및 캐나다 사양 DVD 플레이어가 장착됨</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BRAND_NEW_KEYS_REQ">
+	<tu
+    xmlns:lang="eng"
+  >If this is not carried out the existing keys will not be usable with the new instrument cluster and a minimum of two brand new keys will then be required to continue with this procedure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Indien dit niet wordt uitgevoerd, kunnen de bestaande sleutels niet worden gebruikt met de nieuwe instrumentengroep en zijn er minimaal twee nieuwe sleutels nodig om deze procedure te kunnen voortzetten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >A défaut, les clés existantes ne pourront pas être utilisées avec le nouveau tableau de bord et deux clés neuves minimum seront alors nécessaires pour poursuivre cette procédure.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wird dies nicht durchgeführt, dann sind die vorhandenen Schlüssel nicht zusammen mit dem neuen Kombiinstrument nutzbar und es werden mindestens zwei völlig neue Schlüssel benötigt, um mit diesem Arbeitsgang fortzufahren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se non viene eseguita tale procedura, le chiavi esistenti non saranno utilizzabili con il nuovo gruppo strumenti e un minimo di due nuove chiavi sarà necessario per continuare con questa procedura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これを実行しない場合、現存のキーを新品インストルメント クラスタで使用することができなくなり、この手順を実行するには少なくとも 2 個の新品キーが必要になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se esta operação não for efectuada, as teclas actuais não poderão ser utilizadas com o novo grupo de instrumentos, sendo depois necessárias, pelo menos, duas teclas novas para continuar com este procedimento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se isso não for realizado, as chaves existentes não serão utilizáveis com o novo conjunto do painel de instrumentos e um mínimo de duas marcas de novas chaves será necessário para continuar com este procedimento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если это не выполнить, существующие ключи невозможно будет использовать с новой панелью приборов; понадобится не менее двух новых ключей для продолжения данной процедуры.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si no se lleva a cabo este procedimiento, las llaves existentes no se podrán usar con el nuevo cuadro de instrumentos y serán necesarias dos llaves nuevas como mínimo para continuar con el procedimiento.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果没有执行这一步，现有钥匙将不能用于新的组合仪表，这样的话，将至少需要两把全新钥匙才能继续执行本程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 작업을 수행하지 않으면 신품 계기판에서 기존 키를 사용할 수 없게 되고, 이 절차를 계속하려면 2개 이상의 새 키가 필요합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CN_RAIN_SENSOR_NO">
+	<tu xmlns:lang="eng">Without rain sensor</tu>
+	<tu xmlns:lang="nld">Zonder regensensor</tu>
+	<tu xmlns:lang="fra">Sans détecteur de pluie</tu>
+	<tu xmlns:lang="deu">Ohne Regensensor</tu>
+	<tu xmlns:lang="ita">Senza sensore pioggia</tu>
+	<tu xmlns:lang="jpn">レイン センサーなし</tu>
+	<tu xmlns:lang="ptg">Sem sensor de chuva</tu>
+	<tu xmlns:lang="ptb">Sem sensor de chuva</tu>
+	<tu xmlns:lang="rus">Без датчика дождя</tu>
+	<tu xmlns:lang="esp">Sin sensor de lluvia</tu>
+	<tu xmlns:lang="chs">无雨量传感器</tu>
+	<tu xmlns:lang="kor">레인 센서 없음</tu>
+</tm>

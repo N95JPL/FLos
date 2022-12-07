@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENAB_DISAB_KEY">
+	<tu xmlns:lang="eng">Enable the previously disabled keys</tu>
+	<tu xmlns:lang="nld">Activeer de sleutels die u eerder gedeactiveerd heeft.</tu>
+	<tu xmlns:lang="fra">Activez les clés précédemment désactivées.</tu>
+	<tu xmlns:lang="deu">Zuvor deaktivierte Schlüssel aktivieren</tu>
+	<tu xmlns:lang="ita">Attivare le chiavi precedentemente disattivate</tu>
+	<tu xmlns:lang="jpn">先に作動不可にしたキーを作動可に設定しなさい。</tu>
+	<tu xmlns:lang="ptg">Active chaves anteriormente desactivadas</tu>
+	<tu xmlns:lang="ptb">Habilitar as teclas anteriormente com problema</tu>
+	<tu xmlns:lang="rus">Включить ранее выключенные клавиши</tu>
+	<tu xmlns:lang="esp">Habilitar las llaves previamente inhabilitadas</tu>
+	<tu xmlns:lang="chs">启用以前禁用的钥匙</tu>
+	<tu xmlns:lang="kor">이전에 비활성화된 키 활성화</tu>
+</tm>

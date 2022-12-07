@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FORW_SENSOR_INT_ERROR">
+	<tu
+    xmlns:lang="eng"
+  >Forward looking sensor internal error state (0 - indicates no errors):</tu>
+	<tu
+    xmlns:lang="nld"
+  >Status, interne fout, naar voren gerichte sensor (0 geeft aan dat er geen fouten zijn):</tu>
+	<tu
+    xmlns:lang="fra"
+  >Etat d'erreur interne du capteur orienté vers l'avant (0 - absence d'erreur) :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Status interner Fehler Abstandssensor vorn (0 - bedeutet keine Fehler):</tu>
+	<tu
+    xmlns:lang="ita"
+  >Stato di errore interno sensore distanza frontale (0 - indica assenza di errori):</tu>
+	<tu
+    xmlns:lang="jpn"
+  >前方監視センサー内部エラー ステータス (0 - エラーなしを示す)：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Estado do erro interno do sensor dianteiro (0 - indica ausência de erros):</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Estado de erro interno FLS (0 - indica que não há erros):</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние внутренней ошибки переднего датчика расстояния до объекта (0 - отсутствие ошибок):</tu>
+	<tu
+    xmlns:lang="esp"
+  >Estado de error interno del sensor delantero de avance (0 indica que no hay ningún error):</tu>
+	<tu xmlns:lang="chs">前视传感器内部错误状态（0--表示无任何错误）：</tu>
+	<tu xmlns:lang="kor">전방 주시 센서 내부 오류 상태(0 - 오류 없음을 표시함):</tu>
+</tm>

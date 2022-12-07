@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart44">
+	<tu
+    xmlns:lang="eng"
+  >The primary battery state of charge has dropped below the 60% threshold resulting in a auto stop/start system inhibit condition.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De laadtoestand van de primaire accu is tot onder de drempelwaarde van 60% gedaald, wat tot een geblokkeerde toestand van het automatische Stop/Start-systeem leidt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'état de charge de la batterie principale a chuté en dessous du seuil de 60 %, ce qui provoque une neutralisation du système Arrêt/Démarrage auto.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Ladezustand der Hauptbatterie ist unter den Schwellwert von 60 % gefallen, was zu einer Sperrbedingung des Auto-Stopp-Start-Systems führt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lo stato di carica della batteria principale è sceso a un valore inferiore alla soglia del 60%, con conseguente disabilitazione del sistema Stop/Start automatico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プライマリ バッテリーの充電状態が 60% 未満に低下した結果、オート ストップ/スタート システムが禁止状態になっています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O estado de carga da bateria primária desceu abaixo do limiar de 60%, resultando numa condição de inibição do sistema Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O estado de carga da bateria primária ficou abaixo do limite de 60%, resultando em uma condição de inibição do sistema stop/start automático.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Падение уровня заряда основной аккумуляторной батареи ниже пороговых 60 % приводит к блокировке автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El estado de carga de la batería principal está por debajo del 60%, lo que ocasiona una condición de bloqueo del sistema Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="chs"
+  >主蓄电池电荷状态降至低于 60% 临界值，从而导致自动停止/启动系统禁止状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >기본 배터리 충전 상태가 임계값인 60% 아래로 떨어져 자동 Stop/Start 시스템 억제 상태가 되었습니다.</tu>
+</tm>

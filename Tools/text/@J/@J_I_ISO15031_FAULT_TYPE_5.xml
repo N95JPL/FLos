@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_5">
+	<tu
+    xmlns:lang="eng"
+  >General failure information - system programming failure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Informatie over algemeen defect -fout in systeemprogrammering.</tu>
+	<tu xmlns:lang="fra">Panne générale - défaut de programmation du système.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Allgemeine Störungsinformation - Systemprogrammierungsfehler.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Informazioni guasti generali - guasto programmazione sistema.</tu>
+	<tu xmlns:lang="jpn">一般故障情報 － システム プログラミング不良</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Informações gerais sobre a falha - falha de programação no sistema.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Informações sobre a falha geral - falha de programação do sistema.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сведения об общей неисправности - ошибка программирования системы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Información de fallo general: fallo de programación del sistema.</tu>
+	<tu xmlns:lang="chs">一般故障信息 - 系统编程故障。</tu>
+	<tu xmlns:lang="kor">일반 고장 정보 - 시스템 프로그래밍 오류</tu>
+</tm>

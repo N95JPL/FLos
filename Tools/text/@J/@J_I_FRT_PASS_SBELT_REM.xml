@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FRT_PASS_SBELT_REM">
+	<tu xmlns:lang="eng">Front passenger safety belt reminder</tu>
+	<tu
+    xmlns:lang="nld"
+  >Herinneringslampje van veiligheidsgordel voor de voorpassagier</tu>
+	<tu xmlns:lang="fra">Rappel de ceinture de sécurité passager avant</tu>
+	<tu xmlns:lang="deu">Sicherheitsgurt-Erinnerungssystem Beifahrer</tu>
+	<tu xmlns:lang="ita">Promemoria cintura di sicurezza passeggero anteriore</tu>
+	<tu xmlns:lang="jpn">フロント助手席側シートベルト リマインダー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de aviso do cinto de segurança do passageiro dianteiro</tu>
+	<tu xmlns:lang="ptb">Lembrete de cinto de segurança do passageiro dianteiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сигнализатор непристегнутого ремня безопасности переднего пассажира</tu>
+	<tu xmlns:lang="esp">Aviso del cinturón de seguridad del acompañante</tu>
+	<tu xmlns:lang="chs">前乘客侧安全带提醒器</tu>
+	<tu xmlns:lang="kor">조수석 안전벨트 알림</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess4$I">
+	<tu xmlns:lang="eng">The speed must be above 30mph (48kph).</tu>
+	<tu
+    xmlns:lang="nld"
+  >de snelheid moet boven de 48 km/uur (30 mijl/uur) liggen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La vitesse doit être supérieure à 48 km/h (30 miles/h).</tu>
+	<tu xmlns:lang="deu">Die Geschwindigkeit muss über 48 km/h (30 m/h) liegen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La velocità deve essere superiore a 48 km/h (30 miglia/h).</tu>
+	<tu xmlns:lang="jpn">48 km/h 以上で走行する必要があります。</tu>
+	<tu xmlns:lang="ptg">A velocidade tem de ser superior a 48 km/h (30 mph).</tu>
+	<tu xmlns:lang="ptb">A velocidade deve estar acima de 30 mph (48 km/h).</tu>
+	<tu xmlns:lang="rus">Скорость должна быть выше 30 миль/час (48 км/ч).</tu>
+	<tu
+    xmlns:lang="esp"
+  >La velocidad debe ser superior a 48 km/h (30 millas/h).</tu>
+	<tu xmlns:lang="chs">车速必须大于30 mph（48kph）。</tu>
+	<tu xmlns:lang="kor">차량 속도가 48kph(30mph)를 초과해야 합니다.</tu>
+</tm>

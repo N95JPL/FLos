@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_NEUTRAL">
+	<tu xmlns:lang="eng">Neutral</tu>
+	<tu xmlns:lang="nld">Neutraal</tu>
+	<tu xmlns:lang="fra">Point mort</tu>
+	<tu xmlns:lang="deu">Neutral</tu>
+	<tu xmlns:lang="ita">Folle</tu>
+	<tu xmlns:lang="jpn">ニュートラル</tu>
+	<tu xmlns:lang="ptg">Neutro</tu>
+	<tu xmlns:lang="ptb">Neutro</tu>
+	<tu xmlns:lang="rus">Нейтраль</tu>
+	<tu xmlns:lang="esp">P. Muerto</tu>
+	<tu xmlns:lang="chs">空档</tu>
+	<tu xmlns:lang="kor">중립</tu>
+</tm>

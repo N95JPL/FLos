@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENHANC_EVAP_EMIS">
+	<tu xmlns:lang="eng">Enhanced evaporative emissions</tu>
+	<tu xmlns:lang="nld">Verhoogde benzinedampemissies</tu>
+	<tu xmlns:lang="fra">Récupération des vapeurs de carburant améliorée</tu>
+	<tu xmlns:lang="deu">Verbesserte Kraftstoffdampf-Rückhaltung</tu>
+	<tu xmlns:lang="ita">Emissioni evaporative migliorate</tu>
+	<tu xmlns:lang="jpn">改善型エバポレーティブ エミッション</tu>
+	<tu xmlns:lang="ptg">Emissões de vapor realçadas</tu>
+	<tu xmlns:lang="ptb">Melhores emissões por evaporação</tu>
+	<tu xmlns:lang="rus">Повышенные выбросы паров</tu>
+	<tu xmlns:lang="esp">Control mejorado de emisiones de vapores de gasolina</tu>
+	<tu xmlns:lang="chs">增强型蒸发排放</tu>
+	<tu xmlns:lang="kor">향상된 증발 가스</tu>
+</tm>

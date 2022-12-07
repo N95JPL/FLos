@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VIN_CHAR_8_ECS">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle identification number character 08  -  ECS code</tu>
+	<tu xmlns:lang="nld">Teken 08 van voertuigidentificatienummer  -  ECS-code</tu>
+	<tu
+    xmlns:lang="fra"
+  >Caractère 08 du numéro d'identification du véhicule  -  Code ECS</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeug-Identifizierungsnummer, Stelle 08  -  ECS-Code</tu>
+	<tu
+    xmlns:lang="ita"
+  >Carattere 08 del numero di identificazione veicolo  -  Codice ECS</tu>
+	<tu xmlns:lang="jpn">車両 ID ナンバーの記号 08  －  ECS コード</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Caracter 08 do número de identificação do veículo  -  Código ECS</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Caractere do número de identificação do veículo 08  -  Código do ECS</tu>
+	<tu
+    xmlns:lang="rus"
+  >Символ 08 идентификационного номера автомобиля  -  Код ECS</tu>
+	<tu
+    xmlns:lang="esp"
+  >Carácter 08 del número de identificación del vehículo  -  Código ECS</tu>
+	<tu xmlns:lang="chs">车辆标识号字符 08  -  ECS 代码</tu>
+	<tu xmlns:lang="kor">차량 식별 번호 문자 08  -  ECS 코드</tu>
+</tm>

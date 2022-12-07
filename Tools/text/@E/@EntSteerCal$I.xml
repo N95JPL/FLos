@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EntSteerCal$I">
+	<tu
+    xmlns:lang="eng"
+  >Enter the alphanumeric digits that are printed on the barcode label located on the new column assembly (*UXXDXXIXXEXX*).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer het alfanumerieke getal in dat op de barcodelabel staat, die zich op de nieuwe stuurkolom bevindt (*UXXDXXIXXEXX*).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tapez les caractères alphanumériques qui sont imprimés sur le code barre figurant sur le nouvel ensemble de colonne (*UXXDXXIXXEXX*).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den alphanumerischen Code eingeben, der auf dem Strichcodeetikett an der neuen Lenksäulenbaugruppe angegeben ist (*UXXDXXIXXEXX*).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Immettere le cifre alfanumeriche stampate sull'etichetta del codice a barre situata sul nuovo assemblaggio piantone (*UXXDXXIXXEXX*).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >新品コラム アッセンブリのバーコード ラベルに印刷されている英数字を入力しなさい (*UXXDXXIXXEXX*) 。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Introduza os dígitos alfanuméricos impressos na etiqueta do código de barras existente na coluna nova (*UXXDXXIXXEXX*).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Digite o caracteres alfanuméricos que estão impressos na etiqueta do código de barras localizada no novo conjunto da coluna (*UXXDXXIXXEXX*).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Введите алфавитно-цифровые символы, напечатанные на наклейке со штрих-кодом, находящейся на узле новой колонки (*UXXDXXIXXEXX*).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Escribir los caracteres alfanuméricos que están impresos en la etiqueta de código de barras situada en el nuevo conjunto de columna (*UXXDXXIXXEXX*).</tu>
+	<tu
+    xmlns:lang="chs"
+  >输入条码标签上印刷的字母数字位数（*UXXDXXIXXEXX*），条码标签位于新的转向柱总成上。</tu>
+	<tu
+    xmlns:lang="kor"
+  >새 칼럼 어셈블리에 위치한 바코드 라벨에 인쇄된 영숫자 번호를 입력하십시오(*UXXDXXIXXEXX*).</tu>
+</tm>

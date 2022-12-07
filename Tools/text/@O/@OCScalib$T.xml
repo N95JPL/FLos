@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OCScalib$T">
+	<tu xmlns:lang="eng">Occupancy sensor calibration.</tu>
+	<tu xmlns:lang="nld">Kalibrering van inzittendensensor.</tu>
+	<tu xmlns:lang="fra">Etalonnage du capteur d'occupation.</tu>
+	<tu xmlns:lang="deu">Kalibrierung Sitzbelegungssensor.</tu>
+	<tu xmlns:lang="ita">Taratura sensore occupanti.</tu>
+	<tu xmlns:lang="jpn">乗員センサー キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem do sensor de ocupantes.</tu>
+	<tu xmlns:lang="ptb">Calibração do sensor de ocupação.</tu>
+	<tu xmlns:lang="rus">Калибровка датчика присутствия в салоне.</tu>
+	<tu xmlns:lang="esp">Calibración del sensor de ocupación.</tu>
+	<tu xmlns:lang="chs">乘载传感器标定。</tu>
+	<tu xmlns:lang="kor">승객 감지 센서 보정</tu>
+</tm>

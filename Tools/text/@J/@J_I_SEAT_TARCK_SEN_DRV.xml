@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SEAT_TARCK_SEN_DRV">
+	<tu xmlns:lang="eng">Seat track sensors  -  Driver seat</tu>
+	<tu xmlns:lang="nld">Stoelrailsensors  -  Bestuurdersstoel</tu>
+	<tu xmlns:lang="fra">Capteurs de glissière de siège  -  Siège conducteur</tu>
+	<tu xmlns:lang="deu">Sitzschienensensoren  -  Fahrersitz</tu>
+	<tu xmlns:lang="ita">Sensori guide sedili  -  Sedile guidatore</tu>
+	<tu xmlns:lang="jpn">シート トラック センサー  －  運転席側シート</tu>
+	<tu xmlns:lang="ptg">Sensores da calha do banco  -  Banco do condutor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sensores de acompanhamento do assento  -  Assento do motorista</tu>
+	<tu xmlns:lang="rus">Датчики положения сидений  -  Сиденье водителя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sensores de posición del asiento  -  Asiento del conductor</tu>
+	<tu xmlns:lang="chs">座椅滑轨传感器  -  驾驶员座椅</tu>
+	<tu xmlns:lang="kor">시트 트랙 센서  -  운전석</tu>
+</tm>

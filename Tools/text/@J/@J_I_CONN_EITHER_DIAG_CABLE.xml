@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONN_EITHER_DIAG_CABLE">
+	<tu
+    xmlns:lang="eng"
+  >Connect the new (B-280) diagnostic cable to the tester in port B and to the vehicle.  If the new (B-280) diagnostic cable is not available then the existing (B-203) diagnostic cable may be used instead.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Sluit nieuwe diagnosekabel (B-280) aan op zowel poort B van testapparaat als op auto.  Als nieuwe diagnosekabel (B-280) niet beschikbaar is, mag u in plaats hiervan bestaande diagnosekabel (B-203) gebruiken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Connectez le nouveau câble de diagnostic (B-280) au port B du contrôleur et au véhicule.  Si le nouveau câble de diagnostic (B-280) n'est pas disponible, il est possible d'utiliser à la place le câble de diagnostic existant (B-203).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Neues Diagnosekabel (B-280) am Prüfgerät an Anschluss B und am Fahrzeug anschließen.  Steht das neue Diagnosekabel (B-280) nicht zur Verfügung, kann stattdessen das vorhandene Diagnosekabel (B-203) genutzt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Collegare il nuovo cavo diagnostico (B-280) alla presa B del tester e al veicolo.  Se il nuovo cavo diagnostico (B-280) non è disponibile, al suo posto si può usare l'attuale cavo diagnostico (B-203).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >新品の (B-280) 診断ケーブルをテスターのポート B および車両に接続しなさい。  新しい (B-280) 診断ケーブルが使用できない場合、現存の (B-203) 診断ケーブルを代わりに使用することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligue o novo (B-280) cabo de diagnóstico ao dispositivo de teste na porta B e ao veículo.  Se o novo (B-280) cabo de diagnóstico não estiver disponível, pode usar-se em vez dele o cabo de diagnóstico existente (B-203).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conecte o novo cabo de diagnóstico (B-280) ao testador na porta B e ao veículo.  Se o novo cabo de diagnóstico (B-280) não estiver disponível, o cabo de diagnóstico (B-203) atual poderá ser usado no lugar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подключите новый диагностический провод (B-280) к каналу В тестера и к автомобилю.  Если нового диагностического провода (B-280) нет в наличии, тогда существующий диагностический провод (B-203) можно использовать вместо него.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Enchufar el nuevo cable de diagnosis (B-280) al puerto B del comprobador y al vehículo.  Si no se dispone del nuevo cable de diagnosis (B-280), se puede utilizar el cable de diagnosis existente (B-203).</tu>
+	<tu
+    xmlns:lang="chs"
+  >将新的 (B-280) 诊断电缆连接到测试仪端口 B 和车辆。  如果不能提供新的 (B-280) 诊断电缆，则可采用现有 (B-203) 诊断电缆作为替代。</tu>
+	<tu
+    xmlns:lang="kor"
+  >포트 B의 테스터와 차량에 새(B-280) 진단 케이블을 연결하십시오.  새(B-280) 진단 케이블을 사용할 수 없는 경우 기존(B-203) 진단 케이블을 대신 사용할 수 있습니다.</tu>
+</tm>

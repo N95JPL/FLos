@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VEHICLE_BRAND">
+	<tu xmlns:lang="eng">Brand</tu>
+	<tu xmlns:lang="nld">Merk</tu>
+	<tu xmlns:lang="fra">Marque</tu>
+	<tu xmlns:lang="deu">Marke</tu>
+	<tu xmlns:lang="ita">Marca</tu>
+	<tu xmlns:lang="jpn">ブランド</tu>
+	<tu xmlns:lang="ptg">Marca</tu>
+	<tu xmlns:lang="ptb">Marca</tu>
+	<tu xmlns:lang="rus">Марка</tu>
+	<tu xmlns:lang="esp">Marca</tu>
+	<tu xmlns:lang="chs">品牌</tu>
+	<tu xmlns:lang="kor">브랜드</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RESET_TIMER_AIRCON">
+	<tu
+    xmlns:lang="eng"
+  >This routine resets the timer, which counts air conditioning engagement duration, when the air conditioning compressor is replaced</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine reset de teller die de inschakelduur van de airconditioning registreert, wanneer de compressor van de airconditioning vervangen is</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de réinitialiser le temporisateur qui comptabilise la durée des cycles de fonctionnement de la climatisation lorsque le compresseur de climatisation a été remplacé</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Routine wird der Timer zurückgesetzt, der die Einschaltdauer der Klimaanlage erfasst, wenn der Klimaanlagenkompressor ausgetauscht wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura reimposta il timer, che conta la durata di inserimento dell'aria condizionata, quando viene sostituito il compressore dell'aria condizionata</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、エア コンディショニング コンプレッサが交換されたとき、エア コンディショニング クラッチ作動時間カウント用のタイマーをリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina repõe a zero o temporizador, que conta a duração dos períodos de funcionamento do ar condicionado, quando o compressor do ar condicionado é substituído</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina redefine o temporizador, que conta a duração da ativação do ar condicionado, quando o compressor é substituído</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная процедура сбрасывает таймер продолжительности включения кондиционера при замене компрессора кондиционера</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina restaura el temporizador, que cuenta la duración de la activación del aire acondicionado, cuando se sustituye el compresor del aire acondicionado</tu>
+	<tu
+    xmlns:lang="chs"
+  >在更换了空调压缩机后，本例行程序将令计时器复位，计时器用于计算空调使用时长。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴에서는 에어컨 컴프레서 교체 시 에어컨 작동 지속 시간을 카운트하는 타이머를 재설정합니다.</tu>
+</tm>

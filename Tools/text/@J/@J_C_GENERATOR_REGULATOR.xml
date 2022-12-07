@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_GENERATOR_REGULATOR">
+	<tu xmlns:lang="eng">Generator and regulator</tu>
+	<tu xmlns:lang="nld">Dynamo en regelaar</tu>
+	<tu xmlns:lang="fra">Alternateur et regulateur</tu>
+	<tu xmlns:lang="deu">Generator und regler</tu>
+	<tu xmlns:lang="ita">Generatore e regolatore</tu>
+	<tu xmlns:lang="jpn">ジェネレータおよびレギュレータ</tu>
+	<tu xmlns:lang="ptg">Alternador e regulador</tu>
+	<tu xmlns:lang="ptb">Gerador e regulador</tu>
+	<tu xmlns:lang="rus">Генератор и регулятор</tu>
+	<tu xmlns:lang="esp">Alternador y regulador</tu>
+	<tu xmlns:lang="chs">发电机和调节器</tu>
+	<tu xmlns:lang="kor">제너레이터 및 레귤레이터</tu>
+</tm>

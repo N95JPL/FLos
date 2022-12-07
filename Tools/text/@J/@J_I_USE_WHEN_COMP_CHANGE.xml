@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_USE_WHEN_COMP_CHANGE">
+	<tu xmlns:lang="eng">This needs to be used when a component is changed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U dient dit te gebruiken wanneer u een component vervangt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ceci doit être utilisé lorsqu'un composant est remplacé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Muss verwendet werden, wenn ein Bauteil ausgetauscht wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questo deve essere usato quando si cambia un componente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コンポーネント交換時には、これを使用する必要があります。</tu>
+	<tu xmlns:lang="ptg">Deve utilizar-se ao substituir um componente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isto precisa ser usado quando um componente for alterado.</tu>
+	<tu xmlns:lang="rus">Это необходимо использовать при замене компонента.</tu>
+	<tu xmlns:lang="esp">Debe utilizarse cuando se sustituye un componente.</tu>
+	<tu xmlns:lang="chs">更换了一个元件后需要采用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >구성 요소가 변경될 때 이 애플리케이션을 사용해야 합니다.</tu>
+</tm>

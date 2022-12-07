@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DTC_DIAGNOSE_FAULT">
+	<tu
+    xmlns:lang="eng"
+  >Use diagnostic trouble code monitor to help diagnose any faults.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Gebruik de controle van de diagnosefoutcodes om het stellen van een diagnose over storingen te vergemakkelijken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Utilisez le contrôleur des codes d'anomalie pour vous aider à diagnostiquer les défauts.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zur Unterstützung der Diagnose von Störungen den DTC-Monitor verwenden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Usare il monitor dei codici di problemi di diagnostica per agevolare la diagnosi dei guasti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >故障がある場合、その診断のサポートのため、DTC モニターを使用しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Use a monitorização de códigos de avaria para ajudar a diagnosticar quaisquer avarias.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Use o monitor do código de problemas de diagnóstico para ajudar a diagnosticar quaisquer falhas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При диагностике неисправностей используйте монитор диагностических кодов неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Utilizar el lector de códigos de avería para diagnosticar cualquier anomalía.</tu>
+	<tu xmlns:lang="chs">利用故障诊断码监测器帮助诊断所有故障。</tu>
+	<tu xmlns:lang="kor">고장 진단 코드 모니터를 사용하여 고장을 진단하십시오.</tu>
+</tm>

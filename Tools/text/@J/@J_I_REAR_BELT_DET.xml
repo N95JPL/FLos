@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_BELT_DET">
+	<tu xmlns:lang="eng">Rear safety belt detection</tu>
+	<tu xmlns:lang="nld">Detectie van veiligheidsgordels achter</tu>
+	<tu xmlns:lang="fra">Détection de ceinture de sécurité arrière</tu>
+	<tu xmlns:lang="deu">Erkennung hintere Sicherheitsgurte</tu>
+	<tu xmlns:lang="ita">Rilevamento cinture di sicurezza posteriori</tu>
+	<tu xmlns:lang="jpn">リア シートベルト検出</tu>
+	<tu xmlns:lang="ptg">Detecção do cinto de segurança traseiro</tu>
+	<tu xmlns:lang="ptb">Detecção do cinto de segurança traseiro</tu>
+	<tu xmlns:lang="rus">Система обнаружения для заднего ремня безопасности</tu>
+	<tu xmlns:lang="esp">Detección de cinturón de seguridad trasero</tu>
+	<tu xmlns:lang="chs">后安全带检测</tu>
+	<tu xmlns:lang="kor">뒷좌석 안전 벨트 감지</tu>
+</tm>

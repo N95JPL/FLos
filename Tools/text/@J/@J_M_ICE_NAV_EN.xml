@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ICE_NAV_EN">
+	<tu xmlns:lang="eng">Navigation is fitted</tu>
+	<tu xmlns:lang="nld">Navigatie gemonteerd</tu>
+	<tu xmlns:lang="fra">Véhicule avec système de navigation</tu>
+	<tu xmlns:lang="deu">Navigationssystem ist eingebaut</tu>
+	<tu xmlns:lang="ita">E in dotazione un sistema di navigazione</tu>
+	<tu xmlns:lang="jpn">ナビゲーション装備</tu>
+	<tu xmlns:lang="ptg">Está instalada navegação</tu>
+	<tu xmlns:lang="ptb">Navegação instalada</tu>
+	<tu xmlns:lang="rus">Навигационная система установлена</tu>
+	<tu xmlns:lang="esp">El sistema de navegación está instalado</tu>
+	<tu xmlns:lang="chs">导航系统已安装</tu>
+	<tu xmlns:lang="kor">내비게이션이 장착됨</tu>
+</tm>

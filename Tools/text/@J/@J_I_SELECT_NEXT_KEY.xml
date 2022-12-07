@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SELECT_NEXT_KEY">
+	<tu xmlns:lang="eng">Select the next key.</tu>
+	<tu xmlns:lang="nld">Selecteer de volgende sleutel.</tu>
+	<tu xmlns:lang="fra">Sélectionnez la clé suivante.</tu>
+	<tu xmlns:lang="deu">Nächsten Schlüssel auswählen.</tu>
+	<tu xmlns:lang="ita">Selezionare la chiave successiva.</tu>
+	<tu xmlns:lang="jpn">次のキーを選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Seleccione a chave seguinte.</tu>
+	<tu xmlns:lang="ptb">Selecione a próxima chave.</tu>
+	<tu xmlns:lang="rus">Выберите следующий ключ.</tu>
+	<tu xmlns:lang="esp">Seleccionar la llave siguiente.</tu>
+	<tu xmlns:lang="chs">选择下一把钥匙。</tu>
+	<tu xmlns:lang="kor">다음 키를 선택하십시오.</tu>
+</tm>

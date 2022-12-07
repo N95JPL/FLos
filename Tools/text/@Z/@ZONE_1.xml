@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ZONE_1">
+	<tu xmlns:lang="eng">Zone 1</tu>
+	<tu xmlns:lang="nld">Zone 1
+</tu>
+	<tu xmlns:lang="fra">Zone 1
+</tu>
+	<tu xmlns:lang="deu">Zone 1
+</tu>
+	<tu xmlns:lang="ita">Zona 1
+</tu>
+	<tu xmlns:lang="jpn">ゾーン 1
+</tu>
+	<tu xmlns:lang="ptg">Zona 1</tu>
+	<tu xmlns:lang="ptb">Zona 1</tu>
+	<tu xmlns:lang="rus">Зона 1
+</tu>
+	<tu xmlns:lang="esp">Zona 1
+</tu>
+	<tu xmlns:lang="chs">区域 1
+</tu>
+	<tu xmlns:lang="kor">구역 1</tu>
+</tm>

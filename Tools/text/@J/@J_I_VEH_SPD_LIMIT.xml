@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_SPD_LIMIT">
+	<tu xmlns:lang="eng">Vehicle speed limits</tu>
+	<tu xmlns:lang="nld">Grenzen van voertuigsnelheid</tu>
+	<tu xmlns:lang="fra">Limites de vitesse du véhicule</tu>
+	<tu xmlns:lang="deu">Grenzwerte Fahrgeschwindigkeit</tu>
+	<tu xmlns:lang="ita">Limiti di velocità del veicolo</tu>
+	<tu xmlns:lang="jpn">車速限界</tu>
+	<tu xmlns:lang="ptg">Limites de velocidade do veículo</tu>
+	<tu xmlns:lang="ptb">Limites de velocidade do veículo</tu>
+	<tu xmlns:lang="rus">Ограничения скорости движения</tu>
+	<tu xmlns:lang="esp">Límites de velocidad del vehículo</tu>
+	<tu xmlns:lang="chs">车速限值</tu>
+	<tu xmlns:lang="kor">차량 속도 제한</tu>
+</tm>

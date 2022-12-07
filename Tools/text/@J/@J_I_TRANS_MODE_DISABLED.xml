@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRANS_MODE_DISABLED">
+	<tu xmlns:lang="eng">Transport mode  -  Disabled</tu>
+	<tu xmlns:lang="nld">Transportfunctie  -  Uitgeschakeld</tu>
+	<tu xmlns:lang="fra">Mode de transport  -  Désactivé</tu>
+	<tu xmlns:lang="deu">Transportmodus  -  Deaktiviert</tu>
+	<tu xmlns:lang="ita">Modalità di trasporto  -  Disabilitato</tu>
+	<tu xmlns:lang="jpn">輸送モード  －  作動不可</tu>
+	<tu xmlns:lang="ptg">Modo de transporte  -  Desactivado</tu>
+	<tu xmlns:lang="ptb">Modo de transporte  -  Desativado</tu>
+	<tu xmlns:lang="rus">Режим транспортировки  -  Выключено</tu>
+	<tu xmlns:lang="esp">Modo de transporte  -  Desactivado</tu>
+	<tu xmlns:lang="chs">运输模式  -  已禁用</tu>
+	<tu xmlns:lang="kor">운송 모드  -  사용 안 함</tu>
+</tm>

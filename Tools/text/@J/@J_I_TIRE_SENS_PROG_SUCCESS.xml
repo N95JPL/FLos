@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIRE_SENS_PROG_SUCCESS">
+	<tu
+    xmlns:lang="eng"
+  >All selected tire pressue sensor identification numbers programmed successfully.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De identificatienummers van de geselecteerde bandenspanningssensors zijn allemaal geprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tous les numéros d'identification des capteurs de pression des pneumatiques sélectionnés ont été programmés correctement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle gewählten Reifendrucksensor-Identifizierungsnummern wurden erfolgreich programmiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tutti i numeri di identificazione dei sensori di pressione pneumatico selezionati sono stati programmati correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >選択された全タイヤ プレッシャ センサー ID ナンバーが正常にプログラムされました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todos os números de identificação dos sensores de pressão dos pneus seleccionados foram programados com êxito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todos os números de identificação do sensor de pressão dos pneus selecionados programados com sucesso.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Все идентификационные номера выбранных датчиков давления в шинах успешно запрограммированы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Todos los números de identificación de los sensores de presión de los neumáticos seleccionados se han programado correctamente.</tu>
+	<tu xmlns:lang="chs">所有选定的轮胎压力传感器标识号码已成功编程。</tu>
+	<tu
+    xmlns:lang="kor"
+  >선택한 타이어 공기압 센서 식별 번호가 모두 올바로 프로그래밍되었습니다.</tu>
+</tm>

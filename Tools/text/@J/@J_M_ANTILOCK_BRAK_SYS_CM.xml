@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ANTILOCK_BRAK_SYS_CM">
+	<tu xmlns:lang="eng">ABS control module</tu>
+	<tu xmlns:lang="nld">Regelmodule van het antiblokkeerremsysteem</tu>
+	<tu xmlns:lang="fra">Module de commande du systeme de freinage antivol</tu>
+	<tu xmlns:lang="deu">Abs-steuermodul</tu>
+	<tu xmlns:lang="ita">Modulo comando sistema frenante antibloccaggio</tu>
+	<tu xmlns:lang="jpn">ABS コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando do ABS</tu>
+	<tu xmlns:lang="ptb">Módulo de controle do ABS</tu>
+	<tu xmlns:lang="rus">Блок управления ABS</tu>
+	<tu xmlns:lang="esp">Módulo de control del sistema antibloqueo de frenos</tu>
+	<tu xmlns:lang="chs">ABS 控制模块</tu>
+	<tu xmlns:lang="kor">ABS 컨트롤 모듈</tu>
+</tm>

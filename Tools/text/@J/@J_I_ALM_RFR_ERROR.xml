@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_RFR_ERROR">
+	<tu
+    xmlns:lang="eng"
+  >Invalid or no radio frequency receiver fitted. Frequency = %d MHz.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Ongeldige of geen radiofrequentie-ontvanger gemonteerd. Frequentie = %d MHz.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Absence du récepteur de radiofréquences ou récepteur monté non valide. Fréquence = %d MHz.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ungültiger oder kein Hochfrequenzempfänger vorhanden. Frequenz = %d MHz.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ricevitore radiofrequenza non adatto o non montato. Frequenza = %d MHz.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >無線周波数受信機が無効または取り付けられていない。 周波数 = %d MHz。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Receptor de radiofrequência inválido ou inexistente. Frequência = %d MHz.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Receptor de frequência de rádio inválido ou não instalado. Frequência= %d MHz.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не установлен радиочастотный приемник или установлен недействительный радиочастотный приемник. Частота = %d МГц.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha instalado ningún receptor de radiofrecuencia o el receptor no es válido. Frecuencia = %d MHz.</tu>
+	<tu xmlns:lang="chs">射频接收器无效或未安装射频接收器。 频率 = %d MHz。</tu>
+	<tu
+    xmlns:lang="kor"
+  >잘못된 무선 주파수 수신기가 장착되었거나 아예 장착되지 않았습니다. 주파수 = %dMHz.</tu>
+</tm>

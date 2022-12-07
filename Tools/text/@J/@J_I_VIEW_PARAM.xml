@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VIEW_PARAM">
+	<tu xmlns:lang="eng">View the parameter display.</tu>
+	<tu xmlns:lang="nld">Bekijk de parameterdisplay.</tu>
+	<tu xmlns:lang="fra">Voir l'affichage des paramètres.</tu>
+	<tu xmlns:lang="deu">Parameteranzeige einsehen.</tu>
+	<tu xmlns:lang="ita">Visualizzare il display parametri.</tu>
+	<tu xmlns:lang="jpn">パラメータ ディスプレイを表\示させなさい。</tu>
+	<tu xmlns:lang="ptg">Ver a visualização de parâmetros.</tu>
+	<tu xmlns:lang="ptb">Visualize a vista do parâmetro.</tu>
+	<tu xmlns:lang="rus">Просмотреть отображение параметров.</tu>
+	<tu xmlns:lang="esp">Ver la pantalla de parámetros.</tu>
+	<tu xmlns:lang="chs">浏览参数显示。</tu>
+	<tu xmlns:lang="kor">매개 변수 디스플레이 보기</tu>
+</tm>

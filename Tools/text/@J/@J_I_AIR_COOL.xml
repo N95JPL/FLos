@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AIR_COOL">
+	<tu xmlns:lang="eng">Air cooling.</tu>
+	<tu xmlns:lang="nld">Luchtkoeling.</tu>
+	<tu xmlns:lang="fra">Refroidissement d'air.</tu>
+	<tu xmlns:lang="deu">Luftkühlung.</tu>
+	<tu xmlns:lang="ita">Raffreddamento ad aria.</tu>
+	<tu xmlns:lang="jpn">エア クーリング</tu>
+	<tu xmlns:lang="ptg">Arrefecimento do ar.</tu>
+	<tu xmlns:lang="ptb">Resfriamento de ar.</tu>
+	<tu xmlns:lang="rus">Воздушное охлаждение.</tu>
+	<tu xmlns:lang="esp">Refrigeración del aire.</tu>
+	<tu xmlns:lang="chs">空气冷却。</tu>
+	<tu xmlns:lang="kor">공기 냉각</tu>
+</tm>

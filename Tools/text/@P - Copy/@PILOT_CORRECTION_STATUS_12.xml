@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_12">
+	<tu xmlns:lang="eng">0x12 : Not started due to fuel temperature.</tu>
+	<tu xmlns:lang="nld">0x12 : inleren niet gestart vanwege de brandstoftemperatuur.</tu>
+	<tu xmlns:lang="fra">0x12 : Non commencé à cause de la température du carburant.</tu>
+	<tu xmlns:lang="deu">0x12 : Nicht angelaufen aufgrund von Kraftstofftemperatur.</tu>
+	<tu xmlns:lang="ita">0x12 : Non avviato a causa della temperatura del carburante.</tu>
+	<tu xmlns:lang="jpn">0x12 : フューエル温度のためスタートせず。</tu>
+	<tu xmlns:lang="ptg">0x12 : Não iniciado devido à temperatura do combustível.</tu>
+	<tu xmlns:lang="ptb">0X12 : Não iniciado devido à temperatura do combustível.</tu>
+	<tu xmlns:lang="rus">0x12 : Запуск не выполнен из-за температуры топлива.</tu>
+	<tu xmlns:lang="esp">0x12: No se inició debido a la temperatura del combustible.</tu>
+	<tu xmlns:lang="chs">0x12： 由于燃油温度原因而没有启动。</tu>
+	<tu xmlns:lang="kor">0x12 : 연료 온도 때문에 시작되지 않습니다.</tu>
+</tm>

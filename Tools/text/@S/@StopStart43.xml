@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart43">
+	<tu
+    xmlns:lang="eng"
+  >If the condition persists, check for transmission related DTCs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de toestand aanhoudt, controleert u op DTC's met betrekking tot de transmissie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si le problème persiste, vérifiez la présence de DTC liés à la transmission.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn dieser Zustand bestehen bleibt, auf Fehlercodes im Zusammenhang mit dem Getriebe prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la condizione persiste, verificare l'eventuale presenza di DTC relativi alla trasmissione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この状態が続く場合は、トランスミッション関連の DTC を確認してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a condição se mantiver, verifique se existem códigos de avaria (DTC) relacionados com a transmissão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a condição persistir, verifique os DTCs relacionados à transmissão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если состояние не устраняется, проверьте наличие диагностических кодов неисправности, относящихся к коробке передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la condición persiste, compruebe si hay DTC asociados con la transmisión.</tu>
+	<tu xmlns:lang="chs">如果这种情况依然存在，则检查变速器相关的 DTC。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 상태가 지속될 경우 변속기 관련 DTC가 있는지 점검하십시오.</tu>
+</tm>

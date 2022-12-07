@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DTCS_RR_DTCMON">
+	<tu
+    xmlns:lang="eng"
+  >Diagnostic trouble codes logged, please re-check using the diagnostic trouble code monitor.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er zijn diagnosefoutcodes gelogd. Controleer nogmaals met behulp van de diagnosefoutcodebewaking.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Codes de diagnostic enregistrés, recommencer le contrôle à l'aide du moniteur de suivi de code de diagnostic.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es sind Fehlercodes abgespeichert, bitte erneut unter Verwendung der Fehlercode-Überwachung prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Registrati codici di guasto diagnostico, ricontrollare usando il monitor dei codici diagnostici.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >DTC が記録されています。DTC モニターを使用し再チェックしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Registados códigos de avaria; queira verificar novamente com o monitor de códigos de avaria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Os códigos de problema de diagnóstico estão registrados, verifique novamente usando o monitor do código de problema de diagnóstico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Зарегистрированы диагностические коды неисправностей - перепроверьте с помощью контроля диагностических кодов неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Hay códigos de avería registrados; comprobar nuevamente utilizando el lector de códigos de avería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'故障诊断代码已被记录，请使用故障诊断代码监测器重新检查。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >고장 진단 코드이 기록되어 있습니다. 고장 진단 코드 모니터를 사용하여 다시 점검하십시오.</tu>
+</tm>

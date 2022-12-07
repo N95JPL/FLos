@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOW_TEMP_30_HIGH_36">
+	<tu xmlns:lang="eng">Low temperature 30°C  -  High temperature 36°C</tu>
+	<tu xmlns:lang="nld">Lage temperatuur 30°C  -  Hoge temperatuur 36°C</tu>
+	<tu xmlns:lang="fra">Basse température 30°C  -  Température élevée 36°C</tu>
+	<tu xmlns:lang="deu">Niedrige Temperatur 30°C  -  Hohe Temperatur 36°C</tu>
+	<tu xmlns:lang="ita">Bassa temperatura 30°C  -  Alta temperatura 36°C</tu>
+	<tu xmlns:lang="jpn">低温 30°C  －  高温 36°C</tu>
+	<tu xmlns:lang="ptg">Temperatura baixa 30°C  -  Temperatura elevada 36°C</tu>
+	<tu xmlns:lang="ptb">Baixa temperatura 30°C  -  Alta temperatura 36°C</tu>
+	<tu xmlns:lang="rus">Низкая температура 30°C  -  Высокая температура 36°C</tu>
+	<tu xmlns:lang="esp">Temperatura baja 30°C  -  Temperatura alta 36°C</tu>
+	<tu xmlns:lang="chs">低温 30℃  -  高温 36°C</tu>
+	<tu xmlns:lang="kor">저온 30°C  -  고온 36°C</tu>
+</tm>

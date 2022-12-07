@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ROTATE_FORWARD_FREE">
+	<tu
+    xmlns:lang="eng"
+  >Try to rotate the %s wheel in a forward direction (or rock backwards and forwards, if not possible).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Probeer het wiel van %s in voorwaartse richting te verdraaien (of heen en weer te schommelen indien dit niet mogelijk is).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Essayez de tourner la roue %s vers l'avant (ou de la secouer en arrière et en avant si ce n'est pas possible).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Versuchen, das %s Rad vorwärts zu drehen (oder rückwärts und vorwärts zu bewegen, falls nicht möglich).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tentare di ruotare il volante %s in avanti (o di muoverlo avanti e indietro, se non è possibile ).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >%s ホイールを前方向へ回転させてみなさい (不可能\な場合、後ろへ揺すってから前へ揺すりなさい)。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tentar rodar a roda %s numa direcção para a frente (ou balançar para a frente e para trás, se não for possível).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Tentar virar a roda %s para a frente (ou balançar para trás e para a frente, caso não seja possível).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Попробовать вращать %s колесо вперед (или покачать назад и вперед, если это невозможно).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Intentar girar por completo la rueda %s hacia delante (o girarla por completo hacia atrás y hacia delante, si no fuera posible).</tu>
+	<tu xmlns:lang="chs">试着向前进方向旋转%s轮（不行的话，向后向前滚动）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >%s 휠을 전진 방향으로 회전하거나, 회전할 수 없는 경우에는 앞뒤로 흔들어 보십시오.</tu>
+</tm>

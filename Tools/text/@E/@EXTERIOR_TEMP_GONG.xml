@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EXTERIOR_TEMP_GONG">
+	<tu xmlns:lang="eng">Exterior temperature audible warning</tu>
+	<tu xmlns:lang="nld">Hoorbare waarschuwing buitentemperatuur</tu>
+	<tu xmlns:lang="fra">Avertissement sonore température extérieure.</tu>
+	<tu xmlns:lang="deu">Außentemperatur - hörbare Warnung</tu>
+	<tu xmlns:lang="ita">Segnale acustico temperatura esterna</tu>
+	<tu xmlns:lang="jpn">外気温度警告音</tu>
+	<tu xmlns:lang="ptg">Aviso sonoro da temperatura exterior</tu>
+	<tu xmlns:lang="ptb">Aviso sonoro da temperatura externa</tu>
+	<tu xmlns:lang="rus">Звуковой сигнал наружной температуры</tu>
+	<tu xmlns:lang="esp">Aviso acústico de temperatura exterior</tu>
+	<tu xmlns:lang="chs">外部温度音频报警</tu>
+	<tu xmlns:lang="kor">외부 온도 청각 경고</tu>
+</tm>

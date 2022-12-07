@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_WDS_IP">
+	<tu xmlns:lang="eng">Instrument pack</tu>
+	<tu xmlns:lang="nld">Instrumentengroep</tu>
+	<tu xmlns:lang="fra">Tableau de bord</tu>
+	<tu xmlns:lang="deu">Instrumentengruppe</tu>
+	<tu xmlns:lang="ita">Gruppo strumenti</tu>
+	<tu xmlns:lang="jpn">インストルメント パック</tu>
+	<tu xmlns:lang="ptg">Grupo de instrumentos</tu>
+	<tu xmlns:lang="ptb">Painel de instrumentos</tu>
+	<tu xmlns:lang="rus">Блок приборов</tu>
+	<tu xmlns:lang="esp">Cuadro de instrumentos</tu>
+	<tu xmlns:lang="chs">仪表板</tu>
+	<tu xmlns:lang="kor">계기판</tu>
+</tm>

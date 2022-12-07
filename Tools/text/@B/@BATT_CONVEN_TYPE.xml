@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BATT_CONVEN_TYPE">
+	<tu xmlns:lang="eng">Battery (conventional charge)</tu>
+	<tu xmlns:lang="nld">Accu (conventioneel laden)</tu>
+	<tu xmlns:lang="fra">Batterie (charge normale)</tu>
+	<tu xmlns:lang="deu">Batterie (konventionelle Aufladung)</tu>
+	<tu xmlns:lang="ita">Batteria (carica convenzionale)</tu>
+	<tu xmlns:lang="jpn">バッテリ (通常充電)</tu>
+	<tu xmlns:lang="ptg">Bateria (carga convencional)</tu>
+	<tu xmlns:lang="ptb">Bateria (carga convencional)</tu>
+	<tu xmlns:lang="rus">Аккумуляторная батарея (обычный заряд)</tu>
+	<tu xmlns:lang="esp">Batería (carga convencional)</tu>
+	<tu xmlns:lang="chs">电池（传统充电式）</tu>
+	<tu xmlns:lang="kor">배터리(일반 충전량)</tu>
+</tm>

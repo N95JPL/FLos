@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_CCM_VSS">
+	<tu xmlns:lang="eng">Vehicle speed</tu>
+	<tu xmlns:lang="nld">Voertuigsnelheid</tu>
+	<tu xmlns:lang="fra">Vitesse du véhicule</tu>
+	<tu xmlns:lang="deu">Fahrgeschwindigkeit</tu>
+	<tu xmlns:lang="ita">Velocità veicolo</tu>
+	<tu xmlns:lang="jpn">車速</tu>
+	<tu xmlns:lang="ptg">Velocidade do veículo</tu>
+	<tu xmlns:lang="ptb">Velocidade do veículo</tu>
+	<tu xmlns:lang="rus">Скорость движения</tu>
+	<tu xmlns:lang="esp">Velocidad del coche</tu>
+	<tu xmlns:lang="chs">车速</tu>
+	<tu xmlns:lang="kor">차량 속도</tu>
+</tm>

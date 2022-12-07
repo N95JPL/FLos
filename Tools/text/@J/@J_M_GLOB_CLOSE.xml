@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_GLOB_CLOSE">
+	<tu xmlns:lang="eng">Global close</tu>
+	<tu xmlns:lang="nld">Comfortvergrendeling</tu>
+	<tu xmlns:lang="fra">Fermeture globale</tu>
+	<tu xmlns:lang="deu">Komfortschließung</tu>
+	<tu xmlns:lang="ita">Chiusura globale</tu>
+	<tu xmlns:lang="jpn">グローバル クローズ</tu>
+	<tu xmlns:lang="ptg">Fecho global</tu>
+	<tu xmlns:lang="ptb">Fechamento global</tu>
+	<tu xmlns:lang="rus">Полное закрывание</tu>
+	<tu xmlns:lang="esp">Cierre total</tu>
+	<tu xmlns:lang="chs">全局关闭</tu>
+	<tu xmlns:lang="kor">글로벌 닫기</tu>
+</tm>

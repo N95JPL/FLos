@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_ABS_FAIL_RETRY">
+	<tu
+    xmlns:lang="eng"
+  >Press retry to attempt programming the variant coding again.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op 'opnieuw proberen' om het programmeren van de variantcodering nogmaals te proberen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur réessayer pour réitérer la programmation des codages de variante.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Retry (wiederholen) antippen, um die Programmierung der Variantencodierung zu wiederholen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere Riprova per tentare nuovamente di programmare la codifica versione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モデル コードを再度プログラム試行するには再試行を押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima 'Tentar de novo' (Retry) para voltar a tentar programar o código de versão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione repetir para tentar programar a codificação variante novamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите кнопку 'повторить', чтобы попытаться еще раз запрограммировать вариант кодирования.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de reintentar para volver a intentar programar el código de variante.</tu>
+	<tu xmlns:lang="chs">按重试尝试再次对变型车编码进行编程。</tu>
+	<tu
+    xmlns:lang="kor"
+  >재시도를 눌러 변종 모델 코딩 프로그래밍을 다시 시도하십시오.</tu>
+</tm>

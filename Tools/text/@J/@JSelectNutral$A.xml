@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JSelectNutral$A">
+	<tu xmlns:lang="eng">Select neutral</tu>
+	<tu xmlns:lang="nld">Kies de stand NEUTRAAL (N)</tu>
+	<tu xmlns:lang="fra">Choisir le POINT MORT (N)</tu>
+	<tu xmlns:lang="deu">'N' wählen</tu>
+	<tu xmlns:lang="ita">Selezionare la posizione di FOLLE (N)</tu>
+	<tu xmlns:lang="jpn">ニュートラルにシフトしてください。</tu>
+	<tu xmlns:lang="ptg">Seleccionar N (ponto morto)</tu>
+	<tu xmlns:lang="ptb">Selecione a posição neutra</tu>
+	<tu xmlns:lang="rus">Выберите нейтраль</tu>
+	<tu xmlns:lang="esp">Poner palanca cambio en PUNTO MUERTO (N)</tu>
+	<tu xmlns:lang="chs">选择空档</tu>
+	<tu xmlns:lang="kor">N을 선택합니다.</tu>
+</tm>

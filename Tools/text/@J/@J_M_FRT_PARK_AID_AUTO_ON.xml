@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_FRT_PARK_AID_AUTO_ON">
+	<tu xmlns:lang="eng">Front parking aid sensors 'Auto-On' activation</tu>
+	<tu
+    xmlns:lang="nld"
+  >Activering van automatisch inschakelen van sensors, vooruitrijbeveiliging</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélection ?Activation automatique? des capteurs d'aide au stationnement avant</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vordere Einparkhilfesensoren 'Auto-on' (automatische Einschaltung) - Aktivierung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attivazione funzione di 'attivazione automatica' sensori di assistenza parcheggio anteriore</tu>
+	<tu xmlns:lang="jpn">フロント パーキング エイド センサー「自動オン」の作動</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Activação 'auto-on' dos sensores dianteiros do auxiliar de estacionamento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ativação Automática dos sensores de estacionamento dianteiros</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автоматическое включение передних датчиков системы помощи при парковке</tu>
+	<tu
+    xmlns:lang="esp"
+  >Activación de la función de activación automática de los sensores de la ayuda al aparcamiento delantera</tu>
+	<tu xmlns:lang="chs">前驻车辅助传感器‘自动开启’启动</tu>
+	<tu xmlns:lang="kor">프론트 주차 보조 센서 '자동 ON' 활성화</tu>
+</tm>

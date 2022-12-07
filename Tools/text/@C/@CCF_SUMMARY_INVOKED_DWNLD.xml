@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_SUMMARY_INVOKED_DWNLD">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle configuration summary from menu invoked download</tu>
+	<tu
+    xmlns:lang="nld"
+  >Overzicht van voertuigconfiguratie vanuit download geselecteerd in menu</tu>
+	<tu
+    xmlns:lang="fra"
+  >Téléchargement du résumé de configuration du véhicule demandé dans le menu</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeugkonfiguration - Zusammenfassung aus über Menü aufgerufenem Herunterladen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sommario configurazione veicolo dal download richiesto da menu</tu>
+	<tu
+    xmlns:lang="jpn"
+  >メニューから実施されたダウンロードによる車両コンフィギュレーション概要</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sumário da configuração do veículo da transferência invocada do menu</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Resumo da configuração do veículo a partir do download solicitado pelo menu</tu>
+	<tu
+    xmlns:lang="rus"
+  >Загрузка сводки конфигурации автомобиля активировано через меню</tu>
+	<tu
+    xmlns:lang="esp"
+  >Resumen de configuración del vehículo correspondiente a descarga invocada desde menú</tu>
+	<tu xmlns:lang="chs">菜单调用下载信息中的辆配置概要</tu>
+	<tu xmlns:lang="kor">메뉴에서 호출된 다운로드에서 얻은 차량 구성 요약</tu>
+</tm>

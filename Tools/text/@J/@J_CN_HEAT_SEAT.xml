@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CN_HEAT_SEAT">
+	<tu xmlns:lang="eng">Heated seats</tu>
+	<tu xmlns:lang="nld">Verwarmde stoelen</tu>
+	<tu xmlns:lang="fra">Sièges chauffés</tu>
+	<tu xmlns:lang="deu">Beheizbare Sitze</tu>
+	<tu xmlns:lang="ita">Sedili riscaldati</tu>
+	<tu xmlns:lang="jpn">ヒーター装備シート</tu>
+	<tu xmlns:lang="ptg">Bancos aquecidos</tu>
+	<tu xmlns:lang="ptb">Assentos aquecidos</tu>
+	<tu xmlns:lang="rus">Подогреваемые сиденья</tu>
+	<tu xmlns:lang="esp">Asientos con calefacción</tu>
+	<tu xmlns:lang="chs">加热座椅</tu>
+	<tu xmlns:lang="kor">열선내장 시트</tu>
+</tm>

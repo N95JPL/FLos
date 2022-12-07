@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LEAVE_PROCEDURE">
+	<tu xmlns:lang="eng">Leaving procedure</tu>
+	<tu xmlns:lang="nld">Procedure verlaten</tu>
+	<tu xmlns:lang="fra">Procédure de sortie</tu>
+	<tu xmlns:lang="deu">Vorgang wird verlassen</tu>
+	<tu xmlns:lang="ita">Procedura di uscita</tu>
+	<tu xmlns:lang="jpn">手順を終ります。</tu>
+	<tu xmlns:lang="ptg">4 Pinças: 10 ml</tu>
+	<tu xmlns:lang="ptb">Deixando o procedimento</tu>
+	<tu xmlns:lang="rus">Процедура покидания</tu>
+	<tu xmlns:lang="esp">Procedimiento de abandono</tu>
+	<tu xmlns:lang="chs">退出程序</tu>
+	<tu xmlns:lang="kor">절차에서 나가기</tu>
+</tm>

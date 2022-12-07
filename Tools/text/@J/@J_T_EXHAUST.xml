@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_EXHAUST">
+	<tu xmlns:lang="eng">309-00 Exhaust system</tu>
+	<tu xmlns:lang="nld">309-00 Uitlaatsysteem</tu>
+	<tu xmlns:lang="fra">309-00 Système d'échappement</tu>
+	<tu xmlns:lang="deu">309-00 Auspuffanlage</tu>
+	<tu xmlns:lang="ita">309-00 Sistema di scarico</tu>
+	<tu xmlns:lang="jpn">309-00 エキゾースト システム</tu>
+	<tu xmlns:lang="ptg">309-00 Sistema de escape</tu>
+	<tu xmlns:lang="ptb">309-00 Sistema de escapamento</tu>
+	<tu xmlns:lang="rus">309-00 Выпускная система</tu>
+	<tu xmlns:lang="esp">309-00 Sistema de escape</tu>
+	<tu xmlns:lang="chs">309-00排气系统</tu>
+	<tu xmlns:lang="kor">309-00 배기 시스템</tu>
+</tm>

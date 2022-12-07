@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENG_TUNE_MIL_DISABLE">
+	<tu xmlns:lang="eng">Malfunction indicator lamp disable engine tune</tu>
+	<tu xmlns:lang="nld">Uitschakeling motorafstelling MIL-lampje</tu>
+	<tu xmlns:lang="fra">Témoin d'anomalie, désactivation du réglage du moteur.</tu>
+	<tu xmlns:lang="deu">Deaktivierung Motorabstimmung über MIL-Leuchte</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disattivazione spia di malfunzionamento - messa a punto motore</tu>
+	<tu xmlns:lang="jpn">故障表\示灯 (MIL) を作動不可にするエンジン チューン</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Luz indicadora de avarias - desactivação, afinação do motor</tu>
+	<tu xmlns:lang="ptb">Luz indicadora de defeito desabilitar ajuste do motor</tu>
+	<tu
+    xmlns:lang="rus"
+  >Настройки двигателя, отключение сигнализатора неисправности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Testigo de averías: inhabilitar puesta a punto del motor</tu>
+	<tu xmlns:lang="chs">故障指示灯禁用发动机调试</tu>
+	<tu xmlns:lang="kor">오작동 표시등 비활성화 엔진 튜닝</tu>
+</tm>

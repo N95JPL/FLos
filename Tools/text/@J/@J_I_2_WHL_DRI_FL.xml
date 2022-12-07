@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_2_WHL_DRI_FL">
+	<tu xmlns:lang="eng">Two wheel drive (front left)</tu>
+	<tu xmlns:lang="nld">Tweewielaandrijving (linksvoor)</tu>
+	<tu xmlns:lang="fra">Deux roues motrices (avant gauche)</tu>
+	<tu xmlns:lang="deu">Zweiradantrieb (vorn links)</tu>
+	<tu xmlns:lang="ita">Trazione su due ruote (anteriore sinistro)</tu>
+	<tu xmlns:lang="jpn">2 輪駆動（左フロント）</tu>
+	<tu xmlns:lang="ptg">Tracção a duas rodas (dianteira esquerda)</tu>
+	<tu xmlns:lang="ptb">Tração nas duas rodas (lado dianteiro esquerdo)</tu>
+	<tu xmlns:lang="rus">Привод на два колеса (передний левый)</tu>
+	<tu xmlns:lang="esp">Tracción delantera (delantera izquierda)</tu>
+	<tu xmlns:lang="chs">两轮驱动（左前）</tu>
+	<tu xmlns:lang="kor">2륜 구동(프론트 좌측)</tu>
+</tm>

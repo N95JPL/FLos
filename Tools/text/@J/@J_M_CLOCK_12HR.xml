@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CLOCK_12HR">
+	<tu xmlns:lang="eng">12 Hour clock</tu>
+	<tu xmlns:lang="nld">12 uurs klok</tu>
+	<tu xmlns:lang="fra">Horloge de 12 heures</tu>
+	<tu xmlns:lang="deu">12-Stunden-Uhr</tu>
+	<tu xmlns:lang="ita">Orologio a 12 ore</tu>
+	<tu xmlns:lang="jpn">12 時間表\示クロック</tu>
+	<tu xmlns:lang="ptg">Formato horário de 12 horas</tu>
+	<tu xmlns:lang="ptb">Relógio com ciclo de 12 horas</tu>
+	<tu xmlns:lang="rus">Часы, работающие в 12-часовом режиме</tu>
+	<tu xmlns:lang="esp">Reloj de 12 horas</tu>
+	<tu xmlns:lang="chs">12 小时制时钟</tu>
+	<tu xmlns:lang="kor">12시간 표시 시계</tu>
+</tm>

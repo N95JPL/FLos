@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_27">
+<tu xmlns:lang="eng">General signal failure - signal rate of change is above the threshold.</tu>
+<tu xmlns:lang="nld">Algemene signaalfout - veranderingssnelheid van signaal boven de drempel.</tu>
+<tu xmlns:lang="fra">Panne de signalisation g&#233;n&#233;rale - fr&#233;quence de variation du signal est sup&#233;rieure au seuil.</tu>
+<tu xmlns:lang="deu">Allgemeine Signalst&#246;rung - &#196;nderungsrate des Signals liegt &#252;ber Grenzwert.</tu>
+<tu xmlns:lang="ita">Guasto generale di segnale - velocit&#224; cambiamento segnale al di sopra del valore soglia.</tu>
+<tu xmlns:lang="jpn">ˆê”ÊƒVƒOƒiƒ‹•s—Ç | ƒVƒOƒiƒ‹•Ï‰»ƒŒ[ƒg‹K’è’lˆÈã</tu>
+<tu xmlns:lang="ptg">Falha geral no sinal - frequ&#234;ncia de mudan&#231;a do sinal est&#225; acima do limiar.</tu>
+<tu xmlns:lang="rus">Îáùàÿ îøèáêà ñèãíàëà - ÷àñòîòà èçìåíåíèÿ ñèãíàëà âûøå ïîðîãîâîãî çíà÷åíèÿ.</tu>
+<tu xmlns:lang="esp">Fallo general de se&#241;al: rapidez de cambio de la se&#241;al por encima del valor umbral.</tu>
+<tu xmlns:lang="chs">Ò»°ãÐÅºÅ¹ÊÕÏ - ÐÅºÅ±ä»¯ÂÊ¸ßÓÚÃÅÏÞÖµ¡£</tu>
+</tm>

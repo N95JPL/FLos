@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_REAR_BELT_DET">
+	<tu xmlns:lang="eng">Without rear safety belt detection</tu>
+	<tu xmlns:lang="nld">Zonder detectie van veiligheidsgordel achterin</tu>
+	<tu xmlns:lang="fra">Sans détection de ceinture de sécurité arrière</tu>
+	<tu xmlns:lang="deu">Ohne Erkennung der hinteren Sicherheitsgurte</tu>
+	<tu xmlns:lang="ita">Senza rilevamento cinture di sicurezza posteriori</tu>
+	<tu xmlns:lang="jpn">リア シートベルト検出なし</tu>
+	<tu xmlns:lang="ptg">Sem detecção do cinto de segurança traseiro</tu>
+	<tu xmlns:lang="ptb">Sem detecção do cinto de segurança traseiro</tu>
+	<tu xmlns:lang="rus">Без системы обнаружения для заднего ремня безопасности</tu>
+	<tu xmlns:lang="esp">Sin detección de cinturón de seguridad trasero</tu>
+	<tu xmlns:lang="chs">无后安全带检测</tu>
+	<tu xmlns:lang="kor">뒷좌석 안전 벨트 감지 불포함</tu>
+</tm>

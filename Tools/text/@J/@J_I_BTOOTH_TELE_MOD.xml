@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BTOOTH_TELE_MOD">
+	<tu xmlns:lang="eng">Bluetooth telematic module</tu>
+	<tu xmlns:lang="nld">Telematicamodule van bluetooth</tu>
+	<tu xmlns:lang="fra">Module télématique Bluetooth</tu>
+	<tu xmlns:lang="deu">Bluetooth-Telematikmodul</tu>
+	<tu xmlns:lang="ita">Modulo telematico Bluetooth</tu>
+	<tu xmlns:lang="jpn">Bluetooth テレマティクス モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo do sistema telemático com Bluetooth</tu>
+	<tu xmlns:lang="ptb">Módulo telemático bluetooth</tu>
+	<tu xmlns:lang="rus">Телематический блок с интерфейсом Bluetooth</tu>
+	<tu xmlns:lang="esp">Módulo de telemática de Bluetooth</tu>
+	<tu xmlns:lang="chs">蓝牙车载信息服务系统模块</tu>
+	<tu xmlns:lang="kor">블루투스 텔레매틱스 모듈</tu>
+</tm>

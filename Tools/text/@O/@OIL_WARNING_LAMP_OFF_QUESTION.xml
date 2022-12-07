@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OIL_WARNING_LAMP_OFF_QUESTION">
+	<tu xmlns:lang="eng">Is the oil warning lamp off?</tu>
+	<tu xmlns:lang="nld">Is het oliewaarschuwingslampje uit?</tu>
+	<tu xmlns:lang="fra">Le témoin d'avertissement de l'huile est-il éteint ?</tu>
+	<tu xmlns:lang="deu">Ist die Ölwarnleuchte ausgeschaltet?</tu>
+	<tu xmlns:lang="ita">La spia luminosa dell'olio è spenta?</tu>
+	<tu xmlns:lang="jpn">オイル警告灯はオフですか？</tu>
+	<tu xmlns:lang="ptg">A luz avisadora do óleo está apagada?</tu>
+	<tu xmlns:lang="ptb">A lâmpada do aviso de óleo está apagada?</tu>
+	<tu xmlns:lang="rus">Сигнализатор масла не горит?</tu>
+	<tu xmlns:lang="esp">¿Está apagada la luz testigo del aceite?</tu>
+	<tu xmlns:lang="chs">机油警告灯是否熄灭？</tu>
+	<tu xmlns:lang="kor">오일 경고등이 꺼져 있습니까?</tu>
+</tm>

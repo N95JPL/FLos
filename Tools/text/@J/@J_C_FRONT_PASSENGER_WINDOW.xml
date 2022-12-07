@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_FRONT_PASSENGER_WINDOW">
+	<tu xmlns:lang="eng">Passenger's door window glass</tu>
+	<tu xmlns:lang="nld">Passagiersraam</tu>
+	<tu xmlns:lang="fra">Vitre passager</tu>
+	<tu xmlns:lang="deu">Fenster beifahrertür</tu>
+	<tu xmlns:lang="ita">Finestrino passeggero</tu>
+	<tu xmlns:lang="jpn">パッセンジャー ウィンドウ</tu>
+	<tu xmlns:lang="ptg">Vidro da porta do passageiro</tu>
+	<tu xmlns:lang="ptb">Vidro da janela da porta do passageiro</tu>
+	<tu xmlns:lang="rus">Стекло двери пассажира</tu>
+	<tu xmlns:lang="esp">Luna acompañante</tu>
+	<tu xmlns:lang="chs">乘客一侧车门窗玻璃</tu>
+	<tu xmlns:lang="kor">조수석 도어 윈도우 글라스</tu>
+</tm>

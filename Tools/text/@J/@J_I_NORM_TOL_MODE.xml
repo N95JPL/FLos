@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NORM_TOL_MODE">
+	<tu xmlns:lang="eng">Normal tolerances mode</tu>
+	<tu xmlns:lang="nld">Functie met normale toleranties</tu>
+	<tu xmlns:lang="fra">Mode de tolérances normales</tu>
+	<tu xmlns:lang="deu">Betriebsart normale Toleranzen</tu>
+	<tu xmlns:lang="ita">Modalità tolleranze normali</tu>
+	<tu xmlns:lang="jpn">通常許容誤差モード</tu>
+	<tu xmlns:lang="ptg">Modo de tolerâncias normais</tu>
+	<tu xmlns:lang="ptb">Modo de tolerâncias normal</tu>
+	<tu xmlns:lang="rus">Режим нормальных допусков</tu>
+	<tu xmlns:lang="esp">Modo de tolerancias normales</tu>
+	<tu xmlns:lang="chs">正常公差模式</tu>
+	<tu xmlns:lang="kor">정상 공차 모드</tu>
+</tm>

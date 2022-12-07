@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_10">
+	<tu xmlns:lang="eng">0x10 : Not started due to engine temperature being below or significantly above normal running temperature.</tu>
+	<tu xmlns:lang="nld">0x10 : inleren niet gestart omdat de motortemperatuur onder of aanzienlijk boven de normale bedrijfstemperatuur ligt.</tu>
+	<tu xmlns:lang="fra">0x10 : Non commencé à cause de la température moteur inférieure ou sensiblement supérieure à la température normale de fonctionnement.</tu>
+	<tu xmlns:lang="deu">0x10 : Nicht angelaufen aufgrund einer Kühlmitteltemperatur, die unter oder erheblich über der normalen Betriebstemperatur liegt.</tu>
+	<tu xmlns:lang="ita">0x10 : Non avviato perché la temperatura motore è inferiore o significativamente superiore alla normale temperatura di funzionamento.</tu>
+	<tu xmlns:lang="jpn">0x10 : エンジン温度が通常作動温度より低いあるいは極端に高いためスタートせず。</tu>
+	<tu xmlns:lang="ptg">0x10 : Não ocorre arranque devido ao facto de a temperatura do motor ser inferior ou significativamente superior à temperatura normal de funcionamento.</tu>
+	<tu xmlns:lang="ptb">0X10 : Não iniciado devido à temperatura do motor estar abaixo ou significativamente acima da temperatura de funcionamento normal.</tu>
+	<tu xmlns:lang="rus">0x10 : Запуск не выполнен, так как температура двигателя ниже или значительно выше нормальной рабочей температуры.</tu>
+	<tu xmlns:lang="esp">0x10: No se inició por estar la temperatura del motor por debajo o muy por encima de la temperatura de funcionamiento normal.</tu>
+	<tu xmlns:lang="chs">0x10： 由于发动机温度低于或显著高于正常运行温度而没有启动。</tu>
+	<tu xmlns:lang="kor">0x10 : 엔진 온도가 정상 작동 온도보다 낮거나 현저히 높기 때문에 시작되지 않습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_PROCESS_MODULE_DATA">
+	<tu xmlns:lang="eng">Processing module data.</tu>
+	<tu xmlns:lang="nld">Bezig met verwerken van modulegegevens.</tu>
+	<tu xmlns:lang="fra">Traitement des données de modules.</tu>
+	<tu xmlns:lang="deu">Steuergerätdaten werden verarbeitet.</tu>
+	<tu xmlns:lang="ita">Elaborazione in corso dati modulo.</tu>
+	<tu xmlns:lang="jpn">モジュール データをプロセス中</tu>
+	<tu xmlns:lang="ptg">A processar dados dos módulos.</tu>
+	<tu xmlns:lang="ptb">Dados do módulo de processamento.</tu>
+	<tu xmlns:lang="rus">Обработка данных блоков.</tu>
+	<tu xmlns:lang="esp">Procesando datos de módulos.</tu>
+	<tu xmlns:lang="chs">处理模块数据。</tu>
+	<tu xmlns:lang="kor">모듈 데이터 처리 중</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ACTUATORS">
+	<tu xmlns:lang="eng">Actuators</tu>
+	<tu xmlns:lang="nld">Actuators</tu>
+	<tu xmlns:lang="fra">Actionneurs</tu>
+	<tu xmlns:lang="deu">Tasten</tu>
+	<tu xmlns:lang="ita">Attuatori</tu>
+	<tu xmlns:lang="jpn">アクチュエータ</tu>
+	<tu xmlns:lang="ptg">Activadores</tu>
+	<tu xmlns:lang="ptb">Atuadores</tu>
+	<tu xmlns:lang="rus">Приводы</tu>
+	<tu xmlns:lang="esp">Actuadores</tu>
+	<tu xmlns:lang="chs">致动器</tu>
+	<tu xmlns:lang="kor">액추에이터</tu>
+</tm>

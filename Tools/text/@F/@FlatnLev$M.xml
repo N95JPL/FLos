@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FlatnLev$M">
+	<tu
+    xmlns:lang="eng"
+  >All measurements must be carried out with the vehicle on a flat level surface.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij het uitvoeren van alle metingen moet het voertuig op een vlakke horizontale ondergrond staan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pendant toutes les mesures, le véhicule doit reposer sur une surface plane horizontale.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle Messungen müssen mit auf flachem, ebenem Untergrund abgestelltem Fahrzeug durchgeführt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tutte le misurazioni devono essere eseguite con il veicolo su una superficie piana.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両を水平面においた状態ですべての測定を行わなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todas as medições devem ser efectuadas com o veículo numa superfície nivelada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todas as medidas devem ser realizadas com o veículo em uma superfície plana.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При выполнении всех измерений автомобиль должен стоять на ровной поверхности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Todas las mediciones se deben efectuar con el vehículo situado sobre una superficie plana y nivelada.</tu>
+	<tu xmlns:lang="chs">执行所有测量时，车辆都必须停放在平整水平面上。</tu>
+	<tu
+    xmlns:lang="kor"
+  >모든 측정은 차량을 평지에 세운 상태에서 수행되어야 합니다.</tu>
+</tm>

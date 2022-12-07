@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_PERSON_MISMATCH">
+	<tu xmlns:lang="eng">Personalisation mismatches</tu>
+	<tu xmlns:lang="nld">Persoonlijke voorkeuren komen niet overeen</tu>
+	<tu xmlns:lang="fra">Ecarts de personnalisation</tu>
+	<tu xmlns:lang="deu">Keine Übereinstimmungen bei der Personalisierung</tu>
+	<tu xmlns:lang="ita">Incongruenze di personalizzazione</tu>
+	<tu xmlns:lang="jpn">個人設定のミスマッチ</tu>
+	<tu xmlns:lang="ptg">Não correspondências de personalização</tu>
+	<tu xmlns:lang="ptb">Incompatibilidades da personalização</tu>
+	<tu xmlns:lang="rus">Несоответствия при персонализации</tu>
+	<tu xmlns:lang="esp">Discordancias de personalización</tu>
+	<tu xmlns:lang="chs">个性化失配</tu>
+	<tu xmlns:lang="kor">개인화 불일치 사항</tu>
+</tm>

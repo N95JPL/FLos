@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_MISCONFIG_1">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will read the module status to determine which car configuration file parameter(s) may be configured incorrectly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij deze procedure wordt de modulestatus uitgelezen om te bepalen welke parameter(s) van het voertuigconfiguratiebestand mogelijk verkeerd zijn geconfigureerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure va lire l'état du module pour déterminer si le ou les paramètre(s) du fichier de configuration du véhicule sont mal configurés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine wird der Steuergeräte-Status ausgelesen um zu bestimmen, welche(r) Parameter der Fahrzeug-Konfigurationsdatei möglicherweise falsch konfiguriert sind (ist).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura legge lo stato del modulo per determinare quali parametri del file di configurazione veicolo potrebbero essere configurati non correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順は、モジュールのステータスを読み取って、どの車両コンフィギュレーション ファイル パラメータが間違ってコンフィギュレーションされている可能\性があるかを判定します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento lerá o estado do módulo para determinar qual o parâmetro ou os parâmetros do ficheiro de configuração do veículo que poderão estar configurados incorrectamente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento lerá o status do módulo para determinar quais parâmetros de arquivo de configuração do carro podem ser configurados incorretamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная процедура считает данные о состоянии блока, чтобы определить, какой из параметров файла конфигурации автомобиля может быть настроен неверно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento leerá el estado del módulo para determinar qué parámetros del archivo de configuración del vehículo pueden estar configurados incorrectamente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本程序将读取模块状态，藉此确定哪个车辆配置文件参数可能被错误配置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 모듈 상태를 판독하여 어느 차량 구성 파일 매개 변수가 잘못 구성되었는지 확인합니다.</tu>
+</tm>

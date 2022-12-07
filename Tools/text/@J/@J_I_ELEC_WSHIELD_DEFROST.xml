@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ELEC_WSHIELD_DEFROST">
+	<tu xmlns:lang="eng">Electric windshield defrost.</tu>
+	<tu xmlns:lang="nld">Elektrische ontdooiing van de voorruit.</tu>
+	<tu xmlns:lang="fra">Dégivrage du pare-brise électrique.</tu>
+	<tu xmlns:lang="deu">Elektrisch beheizbare Windschutzscheibe.</tu>
+	<tu xmlns:lang="ita">Sbrinamento elettrico del parabrezza.</tu>
+	<tu xmlns:lang="jpn">エレクトリック ウィンドシールド デフロスト</tu>
+	<tu xmlns:lang="ptg">Desembaciamento eléctrico do pára-brisas.</tu>
+	<tu xmlns:lang="ptb">Descongelamento elétrico do para-brisa.</tu>
+	<tu xmlns:lang="rus">Электрический обогрев ветрового стекла.</tu>
+	<tu xmlns:lang="esp">Deshielo eléctrico del parabrisas.</tu>
+	<tu xmlns:lang="chs">电动挡风窗玻璃除霜。</tu>
+	<tu xmlns:lang="kor">전기 윈드실드 성에 제거</tu>
+</tm>

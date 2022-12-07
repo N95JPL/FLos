@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_IHU_MULT_CD">
+	<tu xmlns:lang="eng">Integrated audio module with 6-disc CD player</tu>
+	<tu xmlns:lang="nld">Geïntegreerde audiomodule met cd-speler voor zes cd’s.</tu>
+	<tu xmlns:lang="fra">Module audio intégré avec lecteur CD 6 disques</tu>
+	<tu xmlns:lang="deu">Integriertes Audiosystem mit 6-fach-CD-Wechsler</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo comando audio integrato con lettore CD a 6 dischi</tu>
+	<tu
+    xmlns:lang="jpn"
+  >6-ディスク CD プレーヤー付きインテグレート オーディオ モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo áudio integrado com leitor de 6 CDs</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo do sistema de áudio integrado com CD player com capacidade para 6 discos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок встроенной аудиосистемы с проигрывателем на 6 компакт-дисков</tu>
+	<tu xmlns:lang="esp">Módulo de audio integrado con lector de CD de 6 discos</tu>
+	<tu xmlns:lang="chs">带 6 碟 CD 播放器的集成音频模块</tu>
+	<tu xmlns:lang="kor">6디스크 CD 플레이어가 있는 통합 오디오 모듈</tu>
+</tm>

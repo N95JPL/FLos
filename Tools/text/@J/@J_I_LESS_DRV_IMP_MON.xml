@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_DRV_IMP_MON">
+	<tu xmlns:lang="eng">Without driver impairment monitor</tu>
+	<tu xmlns:lang="nld">Zonder monitor bestuurder onwel</tu>
+	<tu xmlns:lang="fra">Sans contrôleur de défaillance du conducteur</tu>
+	<tu xmlns:lang="deu">Ohne Überwachung Fahrerbeeinträchtigung</tu>
+	<tu xmlns:lang="ita">Senza monitoraggio debilitazione guidatore </tu>
+	<tu xmlns:lang="jpn">ドライバー インペアメント モニターなし</tu>
+	<tu xmlns:lang="ptg">Sem monitorização de limitação do condutor</tu>
+	<tu xmlns:lang="ptb">Sem monitor de falhas do motorista</tu>
+	<tu xmlns:lang="rus">Без системы контроля состояния водителя</tu>
+	<tu xmlns:lang="esp">Sin control de fatiga del conductor</tu>
+	<tu xmlns:lang="chs">无驾驶员损伤监测</tu>
+	<tu xmlns:lang="kor">운전자 장애 모니터 불포함</tu>
+</tm>

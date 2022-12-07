@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_TRAFF_INFO">
+	<tu xmlns:lang="eng">Without road traffic information</tu>
+	<tu xmlns:lang="nld">Zonder verkeersinformatie</tu>
+	<tu xmlns:lang="fra">Sans informations routières</tu>
+	<tu xmlns:lang="deu">Ohne Verkehrsmeldungen</tu>
+	<tu xmlns:lang="ita">Senza informazioni traffico</tu>
+	<tu xmlns:lang="jpn">交通情報なし</tu>
+	<tu xmlns:lang="ptg">Sem sistema de informação de trânsito</tu>
+	<tu xmlns:lang="ptb">Sem informações de trânsito rodoviário</tu>
+	<tu xmlns:lang="rus">Без информации о дорожном движении</tu>
+	<tu xmlns:lang="esp">Sin información de tráfico</tu>
+	<tu xmlns:lang="chs">无道路交通信息</tu>
+	<tu xmlns:lang="kor">도로 교통 정보 불포함</tu>
+</tm>

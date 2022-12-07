@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SIDE_DETECT_CONFIG_FAIL">
+	<tu
+    xmlns:lang="eng"
+  >The configuration of the radar system has not been successful.  Ensure that the radar configuration application is performed when the current procedure is completed.  This can be found in the following location - Special Applications - Side Object Detection System - Side Object Detection Configuration</tu>
+	<tu
+    xmlns:lang="nld"
+  >De configuratie van het radarsysteem is niet gelukt.  Zorg ervoor dat de radarconfiguratietoepassing wordt uitgevoerd als de huidige procedure is voltooid.  Dit kan op de volgende locatie worden gevonden - Speciale Toepassingen - Side Object Detection System - Side Object Detection Configuration</tu>
+	<tu
+    xmlns:lang="fra"
+  >La configuration du système radar a échoué.  Vérifiez que l'application de configuration du radar a été effectuée à la fin de la procédure en cours.  Ceci peut être trouvé à l'emplacement suivant - Applications spéciales - Système de détection d'objet latéral - Configuration de détection d'objet latéral</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Konfiguration des Radarsystems war nicht erfolgreich.  Sicherstellen, dass nach Abschluss des aktuellen Arbeitsvorgangs die Konfiguration des Radarsystems durchgeführt wird.  Dies ist an folgendem Ort zu finden - Spezialanwendungen - System der seitlichen Objekterfassung - Konfiguration der seitlichen Objekterfassung</tu>
+	<tu
+    xmlns:lang="ita"
+  >La configurazione del sistema radar non è andata a buon fine.  Verificare che, una volta completata la procedura corrente, sia eseguita l'applicazione di configurazione del radar.  Questo può essere trovato nelle posizioni seguenti - Applicazioni speciali - Sistema di rilevamento oggetto laterale - Configurazione rilevamento oggetto laterale</tu>
+	<tu
+    xmlns:lang="jpn"
+  >レーダー システムのコンフィギュレーションが正常に完了していません。  現在の手順が完了したのち、必ずレーダー コンフィギュレーション アプリケーションを実行しなさい。  これは次の場所にあります - スペシャル アプリケーション - 側方障害物検出システム - 側方障害物検出コンフィギュレーション</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A configuração do sistema de radar não teve êxito.  Verificar se a aplicação de configuração do radar é executada no fim do actual procedimento.  Podem ser encontrados na seguinte localização - Aplicações especiais - Sistema de detecção lateral de objectos - Configuração da detecção lateral de objectos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A configuração do sistema do radas não foi bem-sucedida.  Certifique-se de que o aplicativo de configuração do radar seja realizada quando o procedimento atual for concluído.  Isso pode ser encontrado no seguinte local - Aplicações Especiais - Sistema de Detecção de Objetos Laterais - Configuração de detecção de objetos laterais</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не удалось выполнить конфигурацию радара.  После окончания текущей процедуры необходимо выполнить приложение конфигурации радара.  Находится здесь: Специальные приложения - Система обнаружения объектов сбоку - Конфигурация системы обнаружения объектов сбоку</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha configurado correctamente el sistema de radar.  Asegurarse de ejecutar la aplicación de configuración del radar al completar el procedimiento actual.  Esto se encuentra en la siguiente ubicación: Special Applications (Aplicaciones especiales) - Side Object Detection System (Sistema de detección de objetos laterales) - Side Object Detection Configuration (Configuración de detección de objetos laterales)</tu>
+	<tu
+    xmlns:lang="chs"
+  >雷达系统配置没有取得成功。  确保在当前程序完成时已执行雷达配置应用程序。  这可于下列位置找到--特殊应用程序--侧面物体探测系统--侧面物体探测配置</tu>
+	<tu
+    xmlns:lang="kor"
+  >레이더 시스템의 구성에 성공하지 못했습니다.  현재 절차가 완료될 때 레이더 구성 애플리케이션이 수행되는지 확인하십시오.  이것은 특수 애플리케이션 - 측면 장애물 감지 시스템 - 측면 장애물 감지 구성에서 찾을 수 있습니다.</tu>
+</tm>

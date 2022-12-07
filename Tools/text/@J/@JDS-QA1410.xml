@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA1410">
+	<tu xmlns:lang="eng">Sill button</tu>
+	<tu xmlns:lang="nld">PORTIERKNOP</tu>
+	<tu xmlns:lang="fra">BOUTON DE SEUIL</tu>
+	<tu xmlns:lang="deu">TUR KNOPT - ZENTRAL VERRIEGELUNG</tu>
+	<tu xmlns:lang="ita">PULSANTE SOGLIA</tu>
+	<tu xmlns:lang="jpn">ﾄﾞア・ロック・ノﾌﾞ</tu>
+	<tu xmlns:lang="ptg">Botão da embaladeira</tu>
+	<tu xmlns:lang="ptb">Botão da soleira</tu>
+	<tu xmlns:lang="rus">Кнопка порога</tu>
+	<tu xmlns:lang="esp">PESTILLO DE LA PUERTA</tu>
+	<tu xmlns:lang="chs">车台按钮</tu>
+	<tu xmlns:lang="kor">실 버튼</tu>
+</tm>

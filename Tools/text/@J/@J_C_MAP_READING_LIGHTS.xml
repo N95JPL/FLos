@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_MAP_READING_LIGHTS">
+	<tu xmlns:lang="eng">Map/reading lamps</tu>
+	<tu xmlns:lang="nld">Kaartlees/leeslampjes</tu>
+	<tu xmlns:lang="fra">Lampes de lecture de cartes </tu>
+	<tu xmlns:lang="deu">Karten-/leseleuchten</tu>
+	<tu xmlns:lang="ita">Luci di lettura</tu>
+	<tu xmlns:lang="jpn">マップ／ﾇ書</tu>
+	<tu xmlns:lang="ptg">Luzes de leitura de mapas</tu>
+	<tu xmlns:lang="ptb">Luzes de leitura/mapa</tu>
+	<tu xmlns:lang="rus">Плафоны местного освещения</tu>
+	<tu xmlns:lang="esp">Luces de lectura de mapas</tu>
+	<tu xmlns:lang="chs">地图/阅读灯</tu>
+	<tu xmlns:lang="kor">맵 램프/독서등</tu>
+</tm>

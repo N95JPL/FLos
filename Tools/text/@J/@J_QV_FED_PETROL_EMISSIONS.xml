@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_QV_FED_PETROL_EMISSIONS">
+	<tu xmlns:lang="eng">Federal emissions (petrol)</tu>
+	<tu xmlns:lang="nld">Federale emissies (benzine)</tu>
+	<tu xmlns:lang="fra">Emissions fédérales (essence)</tu>
+	<tu xmlns:lang="deu">USA-Abgasgrenzwerte (Benzinmotor)</tu>
+	<tu xmlns:lang="ita">Emissioni fascia federale (benzina)</tu>
+	<tu xmlns:lang="jpn">連邦エミッション (ガソ\リン)</tu>
+	<tu xmlns:lang="ptg">Níveis de emissões federais (gasolina)</tu>
+	<tu xmlns:lang="ptb">Lei federal de emissões (gasolina)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выбросы газов в соответствии с федеральными стандартами (бензиновый двигатель)</tu>
+	<tu xmlns:lang="esp">Norma de emisiones de EE. UU. (gasolina)</tu>
+	<tu xmlns:lang="chs">联邦排放标准（汽油）</tu>
+	<tu xmlns:lang="kor">연방 배출 기준(가솔린)</tu>
+</tm>

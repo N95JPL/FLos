@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_REAR_CIGAR">
+	<tu xmlns:lang="eng">Rear cigar-lighter.</tu>
+	<tu xmlns:lang="nld">Achterste sigare-aansteker</tu>
+	<tu xmlns:lang="fra">Allume-cigares arriere</tu>
+	<tu xmlns:lang="deu">Zigarettenanzünder hinten</tu>
+	<tu xmlns:lang="ita">Accendisigari posteriore</tu>
+	<tu xmlns:lang="jpn">ﾘｱ・ｼｶﾞー・ﾗｲﾀー</tu>
+	<tu xmlns:lang="ptg">Isqueiro traseiro.</tu>
+	<tu xmlns:lang="ptb">Acendedor de cigarros traseiro</tu>
+	<tu xmlns:lang="rus">Задний прикуриватель.</tu>
+	<tu xmlns:lang="esp">Encendedor de cigarrillos trasero</tu>
+	<tu xmlns:lang="chs">后点烟器</tu>
+	<tu xmlns:lang="kor">리어 시가라이터.</tu>
+</tm>

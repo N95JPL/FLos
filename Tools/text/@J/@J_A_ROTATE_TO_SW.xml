@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ROTATE_TO_SW">
+	<tu
+    xmlns:lang="eng"
+  >Start the engine and rotate the terrain response rotary control through all supported modes, so that each individual mode LED has been illuminated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Start de motor en verdraai de draaiknop van het 'terrain response'-systeem door alle ondersteunde functies, zodat de LED van elke afzonderlijke functie gaat branden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Démarrez le moteur et tournez la commande rotative du module Terrain Response sur tous les modes supportés, de façon à éclairer chacune des diodes de mode.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Motor anlassen und den Drehregler des Terrain-Response-Systems durch alle unterstützten Betriebsarten drehen, so dass jede einzelne Betriebsarten-LED aufgeleuchtet hat.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Avviare il motore e ruotare la manopola Terrain response in tutte le modalità supportate, in modo che tutti i LED di modalità si accendano.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンを始動し、個別のモード LED すべてが点灯するように、地形レスポンス ロータリー コントロールを全サポート モードに回しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ponha o motor a trabalhar e rode o comando rotativo do Terrain Response passando por todos os modos disponíveis, por forma a acender o LED de cada modo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Dê partida no motor e gire o controle giratório do Terrain Response através de todos os modos compatíveis, de modo que cada LED do modo individual seja iluminado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запустите двигатель и, поворачивая переключатель режимов реагирования подвески на дорожные условия, последовательно включайте все поддерживаемые режимы, чтобы загорелся светодиодный индикатор каждого отдельного режима.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Poner en marcha el motor y girar el mando de terrain response pasando por todos los modos admitidos de forma que se encienda el LED de cada uno de los modos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'起动发动机，并在所有受支持的模式中旋转地形响应旋转控制器，以使每个单独的模式LED都点亮。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진에 시동을 걸고 터레인 리스폰스 로터리 컨트롤을 지원되는 모든 모드로 돌려서 각 개별 모드 LED가 켜지게 하십시오.</tu>
+</tm>

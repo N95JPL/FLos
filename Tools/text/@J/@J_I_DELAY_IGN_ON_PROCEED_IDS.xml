@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DELAY_IGN_ON_PROCEED_IDS">
+	<tu
+    xmlns:lang="eng"
+  >Many vehicles have a large current draw during the first few seconds of turning the ignition to on.  A delay may be beneficial between actually turning the ignition to the on position and proceeding with the Diagnostic Tool application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Veel voertuigen trekken veel stroom gedurende de eerste paar seconden na het inschakelen van het contact. Het kan nuttig zijn om even te wachten tussen het daadwerkelijk inschakelen van het contact en het vervolgen van de diagnosesysteemtoepassing.</tu>
+	<tu
+    xmlns:lang="fra"
+  >De nombreux véhicules consomment énormément d'énergie électrique pendant les premières secondes qui suivent l'établissement du contact. Patientez quelques instants entre le moment où le contact est établi et le moment où l'application Outil de diagnostic est relancée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei vielen Fahrzeugen kommt es während der ersten wenigen Sekunden nach Einschalten der Zündung zu einer hohen Stromaufnahme. Eine Verzögerung zwischen dem faktischen Einschalten der Zündung und dem Fortfahren mit dieser Diagnosesystem-Anwendung wird empfohlen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Molti veicoli presentano un notevole assorbimento di corrente per i primi secondi quando si inserisce l'accensione. Un ritardo tra l'effettivo inserimento dell'accensione e il proseguimento dell'applicazione dello strumento diagnostico può essere utile.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イグニションをオンにしたときの最初の数秒間に、多くの車両で多大な電流ドローが発生します。 実際にイグニションをオンにするタイミングと診断ツール アプリケーションを起動するタイミングに時間差を設けると有益になることもあります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Muitos veículos têm um elevado consumo de corrente durante os primeiros segundos após ligar a ignição. Um atraso entre ligar a ignição e avançar com a aplicação da ferramenta de diagnóstico pode ser benéfico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Muitos veículos têm um grande consumo de corrente durante os primeiros segundos em que a ignição está ligada. Um atraso entre a ligação efetiva da ignição e o avanço no aplicativo da Ferramenta de Diagnóstico pode ser benéfico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На многих автомобилях в первые несколько секунд после включения зажигания наблюдается большое потребление тока. Между включением зажигания и продолжением работы приложения диагностического устройства возможна некоторая пауза.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Muchos vehículos manifiestan un elevado consumo de corriente durante los primeros segundos tras haber puesto el contacto. Puede ser beneficioso que haya una demora entre poner el contacto y proceder con la aplicación de la herramienta de diagnóstico.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在将点火打至开启的头几秒内，许多车辆都会有很大的拖动电流。 在实际将点火打至开启位置与继续执行诊断工具应用程序之间存在一定的延时，这可能是有益的。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다수의 차량이 점화 스위치를 켜고 처음 몇 초 동안 대량의 전류를 필요로 합니다. 실제로 점화 스위치를 ON 위치로 돌리는 시점과 진단 도구 응용 프로그램으로 진행하는 시점 사이에 지연 시간을 두는 것이 유리할 수 있습니다.</tu>
+</tm>

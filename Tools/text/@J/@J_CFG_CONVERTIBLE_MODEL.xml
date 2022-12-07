@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CFG_CONVERTIBLE_MODEL">
+	<tu xmlns:lang="eng">Convertible</tu>
+	<tu xmlns:lang="nld">Convertible</tu>
+	<tu xmlns:lang="fra">Décapotable</tu>
+	<tu xmlns:lang="deu">Cabrio</tu>
+	<tu xmlns:lang="ita">Convertibile</tu>
+	<tu xmlns:lang="jpn">コンバーチブル</tu>
+	<tu xmlns:lang="ptg">Conversível</tu>
+	<tu xmlns:lang="ptb">Conversível</tu>
+	<tu xmlns:lang="rus">Складной верх</tu>
+	<tu xmlns:lang="esp">Descapotable</tu>
+	<tu xmlns:lang="chs">可折叠</tu>
+	<tu xmlns:lang="kor">컨버터블</tu>
+</tm>

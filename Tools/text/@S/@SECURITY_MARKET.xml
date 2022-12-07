@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SECURITY_MARKET">
+	<tu xmlns:lang="eng">Security market</tu>
+	<tu xmlns:lang="nld">Beveiligingsmarkt</tu>
+	<tu xmlns:lang="fra">Marché de sécurité.</tu>
+	<tu xmlns:lang="deu">Sicherheitsausstattungsmarkt</tu>
+	<tu xmlns:lang="ita">Mercato di sicurezza</tu>
+	<tu xmlns:lang="jpn">セキュリティ地域</tu>
+	<tu xmlns:lang="ptg">Mercado de segurança</tu>
+	<tu xmlns:lang="ptb">Mercado de segurança</tu>
+	<tu
+    xmlns:lang="rus"
+  >Страна, в которой будет эксплуатироваться охранная система</tu>
+	<tu xmlns:lang="esp">Mercado para el sistema de seguridad</tu>
+	<tu xmlns:lang="chs">安全防盗市场</tu>
+	<tu xmlns:lang="kor">보안 시장</tu>
+</tm>

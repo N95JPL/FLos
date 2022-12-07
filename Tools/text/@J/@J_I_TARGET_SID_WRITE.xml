@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TARGET_SID_WRITE">
+	<tu xmlns:lang="eng">Target security ID write</tu>
+	<tu xmlns:lang="nld">Schrijven van gevraagde ID voor beveiliging</tu>
+	<tu xmlns:lang="fra">Ecriture d'ID de sécurité cible</tu>
+	<tu xmlns:lang="deu">Schreiben der Ziel-Sicherheits-ID</tu>
+	<tu xmlns:lang="ita">Scrittura ID sicurezza target</tu>
+	<tu xmlns:lang="jpn">ターゲット セキュリティ ID 書き込み</tu>
+	<tu xmlns:lang="ptg">Escrita de identificação (ID) de segurança alvo</tu>
+	<tu xmlns:lang="ptb">Gravação de ID do alvo de segurança</tu>
+	<tu xmlns:lang="rus">Запись заданного идентификатора охранной системы</tu>
+	<tu xmlns:lang="esp">Escritura de identificación de seguridad del objetivo</tu>
+	<tu xmlns:lang="chs">目标安全防盗ID写入</tu>
+	<tu xmlns:lang="kor">보안 대상 ID 쓰기</tu>
+</tm>

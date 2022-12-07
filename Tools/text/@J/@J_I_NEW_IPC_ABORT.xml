@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NEW_IPC_ABORT">
+	<tu
+    xmlns:lang="eng"
+  >Alternatively, if you have not tried this yet, select the 'cross' to abort for instructions.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als u dit nog niet hebt geprobeerd, klikt u op het kruisje om de toepassing af te breken en instructies op te roepen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si vous n'avez pas encore essayé cela, vous pouvez également cliquer sur la croix pour annuler et obtenir des instructions.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alternativ hierzu, falls Sie dies noch nicht versucht haben, zum Abbrechen und für Anleitungen das Kreuz antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Alternativamente, se non si è ancora fatto questo tentativo, selezionare la 'croce' per interrompere e leggere le istruzioni.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >あるいは、まだこれを試行していない場合、「×」を選択し、指示を得なさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Alternativamente, se ainda não experimentou esta acção, seleccione a 'cruz' para interromper e aceder a instruções.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Como alternativa, se você ainda não tiver experimentado isso ainda, selecione a cruz para cancelar e obter instruções.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если такая попытка не предпринималась, можно нажать на крестик для прекращения процедуры указаний.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Como alternativa, si aún no ha intentado esto, seleccione la cruz para cancelar y ver instrucciones.</tu>
+	<tu
+    xmlns:lang="chs"
+  >作为另一选择，如果您还没有试用该硬件，请选择‘X’按钮终止，以查看说明。</tu>
+	<tu
+    xmlns:lang="kor"
+  >또는 아직 이 절차를 수행하지 않았다면 '십자 기호'를 선택하여 중단하고 지침을 확인하십시오.</tu>
+</tm>

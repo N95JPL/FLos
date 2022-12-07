@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PRESS_BONNET_SW">
+	<tu xmlns:lang="eng">Fully depress then release the hood switch.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk de motorkapschakelaar eerst helemaal in en laat hem daarna los.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez à fond et relâchez le contacteur de sécurité de capot.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Motorhaubenschalter vollständig herunterdrücken, dann loslassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere completamente e rilasciare l'interruttore del cofano.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ボンネット スイッチをいっぱいに押して、そののち離しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Premir completamente e depois soltar o interruptor do capô.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione o interruptor do capô totalmente e, em seguida, solte-o.</tu>
+	<tu xmlns:lang="rus">Полностью нажмите и отпустите выключатель капота.</tu>
+	<tu xmlns:lang="esp">Pulsar a fondo y soltar el interruptor del capó.</tu>
+	<tu xmlns:lang="chs">完全按下，然后松开发动机罩开关。</tu>
+	<tu xmlns:lang="kor">후드 스위치를 끝까지 누른 다음 놓으십시오.</tu>
+</tm>

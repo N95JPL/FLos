@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FCDIM_03">
+	<tu
+    xmlns:lang="eng"
+  >1)  Control module clears on-demand self-test diagnostic trouble code area.</tu>
+	<tu
+    xmlns:lang="nld"
+  >1)  De regelmodule wist de ruimte voor de diagnosefoutcodes van de opvraagbare zelftest.</tu>
+	<tu
+    xmlns:lang="fra"
+  >1)  Le module de commande efface la zone des codes de défaut d'autodiagnostic sur demande.</tu>
+	<tu
+    xmlns:lang="deu"
+  >1)  Steuergerät löscht Bereich für bei Selbsttest auf Abruf gespeicherte Fehlercodes.</tu>
+	<tu
+    xmlns:lang="ita"
+  >1)  Il modulo di comando azzera l'area dei codici di guasto diagnostici su richiesta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >1)  コントロール モジュールはオンデマンド セルフテスト診断トラブル コード エリアをクリアします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >1)  O módulo de controlo limpa a área dos códigos de avaria 'a pedido'.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >1)  O módulo de controle apaga a área do código de problemas de diagnóstico sob demanda.</tu>
+	<tu
+    xmlns:lang="rus"
+  >1)  Блок управления сбрасывает коды самодиагностики неисправностей по запросу в области памяти диагностических кодов неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >1)  El módulo de control borra la zona de códigos de avería de la autocomprobación solicitada.</tu>
+	<tu xmlns:lang="chs">1)  控制模块清空按需自检故障诊断代码区。</tu>
+	<tu
+    xmlns:lang="kor"
+  >1)  컨트롤 모듈이 온디맨드 자체 테스트 고장 진단 코드 영역을 삭제합니다.</tu>
+</tm>

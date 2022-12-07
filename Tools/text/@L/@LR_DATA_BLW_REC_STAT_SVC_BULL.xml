@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_DATA_BLW_REC_STAT_SVC_BULL">
+	<tu
+    xmlns:lang="eng"
+  >The data below must be recorded as stated in the service bulletin.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onderstaande gegevens moeten worden genoteerd zoals beschreven in het servicebulletin.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les données ci-après doivent être enregistrées comme spécifié dans le bulletin de service.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Daten unten müssen wie im Servicebulletin angegeben aufgezeichnet werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Registrare i dati seguenti come indicato nel Bollettino Tecnico per il Servizio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >サービス ブリティンに記載のとおり、下記のデータを記録する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os dados seguintes têm de ser registados como indicado no boletim de serviço.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Os dados abaixo devem ser registrados conforme declarado no boletim de serviço.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Приведенные ниже данные необходимо записать и указать в бюллетене технического обслуживания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los datos siguientes se deben registrar según se indica en el boletín de servicio.</tu>
+	<tu xmlns:lang="chs">下列数据必须按维修通报中的说明予以记录。</tu>
+	<tu
+    xmlns:lang="kor"
+  >아래의 데이터는 서비스 게시판에 명시된 대로 기록해야 합니다.</tu>
+</tm>

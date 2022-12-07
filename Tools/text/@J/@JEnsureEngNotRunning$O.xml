@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JEnsureEngNotRunning$O">
+	<tu xmlns:lang="eng">Make sure the engine is not running</tu>
+	<tu xmlns:lang="nld">Zorg ervoor dat de motor niet loopt</tu>
+	<tu xmlns:lang="fra">Vérifier que le moteur est coupé</tu>
+	<tu xmlns:lang="deu">Der Motor darf nicht laufen</tu>
+	<tu xmlns:lang="ita">Assicurarsi che il motore non è in moto</tu>
+	<tu xmlns:lang="jpn">ｴﾝｼﾞﾝがかかっていないことを確認しなさい。</tu>
+	<tu xmlns:lang="ptg">Certifique-se de que o motor não está a trabalhar</tu>
+	<tu xmlns:lang="ptb">Certifique-se de que o motor está desligado.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что двигатель не работает.</tu>
+	<tu xmlns:lang="esp">Asegúrese de que el motor no está girando</tu>
+	<tu xmlns:lang="chs">确保发动机未运转</tu>
+	<tu xmlns:lang="kor">엔진이 작동하지 않고 있어야 합니다.</tu>
+</tm>

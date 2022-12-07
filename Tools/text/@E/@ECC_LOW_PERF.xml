@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECC_LOW_PERF">
+	<tu xmlns:lang="eng">Electronic climate control  -  Low performance</tu>
+	<tu xmlns:lang="nld">Elektronische climate control  -  Lage prestaties</tu>
+	<tu xmlns:lang="fra">Climatisation électronique  -  Basses performances</tu>
+	<tu xmlns:lang="deu">Elektronische Klimaregelung  -  Niedrige Leistung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllo elettronico del sistema di climatizzazione  -  Prestazioni basse</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック エア コンディショニング  －  ロー パフォーマンス</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Comando electrónico da climatização  -  Baixo desempenho</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Controle de temperatura eletrônico  -  Baixo desempenho</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электронное управление микроклиматом  -  Низкий параметр</tu>
+	<tu
+    xmlns:lang="esp"
+  >Control de climatización electrónico  -  Rendimiento bajo</tu>
+	<tu xmlns:lang="chs">电子气候控制  -  低性能</tu>
+	<tu xmlns:lang="kor">전자식 실내 온도 조절 시스템  -  낮은 성능</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_KEY_PROGRAM_CONFIRM">
+	<tu
+    xmlns:lang="eng"
+  >Press the 'tick' if the the horn sounded and the hazard warning lamps flashed. Otherwise, press the 'cross'.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op het 'vinkje' als de claxon geluid heeft gemaakt en de alarmknipperlichten hebben geknipperd. Druk anders op het 'kruis'.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la coche si l'avertisseur sonore a retenti et si les feux de détresse ont clignoté. Sinon, appuyez sur la croix.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf das Häkchen drücken, nachdem die Hupe ertönte und die Warnblinkanlage geblinkt hat. Andernfalls auf das Kreuz drücken.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il segno di spunta se l'avvisatore acustico ha suonato e i lampeggiatori di emergenza hanno lampeggiato. Altrimenti, premere la crocetta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ホーンが鳴り、ハザード ワーニング ランプが点滅したら、チェック マークを押す。 それ以外の場合は × を押す。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima o visto se a buzina soou e se as luzes avisadoras de sinalização de emergência piscaram. Caso contrário, prima a cruz.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione a marca se a buzina soar e as lâmpadas do pisca-alerta piscarem. Caso contrário, pressione a cruz.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После того как прозвучит звуковой сигнал и мигнут фонари аварийной сигнализации нажмите галочку. В противном случае нажмите крестик.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulse la marca de verificación si la bocina sonó y las luces de emergencia parpadearon. Si este no fue el caso, pulse la cruz.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果响起喇叭声且危险报警灯闪烁，请按下“勾号”。 否则，请按下“叉号”。</tu>
+	<tu
+    xmlns:lang="kor"
+  >경음기가 울리고 위험 경고등이 깜박였으면 '틱(tick)'을 누르십시오. 그렇지 않으면, '십자() 기호'를 누르십시오.</tu>
+</tm>

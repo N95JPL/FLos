@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TickOffRoad$I">
+	<tu xmlns:lang="eng">Press tick when off-road ride height is achieved.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op de afvinktoets zodra de terreinrijhoogte bereikt is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la coche lorsque la hauteur de caisse tout-terrain est obtenue.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Erreichen der Geländefahrhöhe das Häkchen antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il segno di spunta quando viene ottenuta l'altezza di marcia fuoristrada.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オフロード ライド ハイトに達したのち、ティックを押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima o sinal de confirmação quando se atingir a altura da suspensão para condução fora-de-estrada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione ok quando a altura off-road do automóvel for atingida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите галочку, когда будет достигнута внедорожная высота.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de continuar cuando se alcance la altura de la carrocería para la conducción todo terreno.</tu>
+	<tu xmlns:lang="chs">当越野行驶高度启动时按下勾号。</tu>
+	<tu xmlns:lang="kor">오프로드 지상고가 설정되면 체크 표시를 누릅니다.</tu>
+</tm>

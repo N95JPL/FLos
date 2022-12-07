@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ENG_DEC">
+	<tu xmlns:lang="eng">DEC</tu>
+	<tu xmlns:lang="nld">DEC</tu>
+	<tu xmlns:lang="fra">DEC</tu>
+	<tu xmlns:lang="deu">DEC</tu>
+	<tu xmlns:lang="ita">DEC</tu>
+	<tu xmlns:lang="jpn">DEC</tu>
+	<tu xmlns:lang="ptg">DEC</tu>
+	<tu xmlns:lang="ptb">DEC</tu>
+	<tu xmlns:lang="rus">DEC</tu>
+	<tu xmlns:lang="esp">DEC</tu>
+	<tu xmlns:lang="chs">DEC</tu>
+	<tu xmlns:lang="kor">DEC</tu>
+</tm>

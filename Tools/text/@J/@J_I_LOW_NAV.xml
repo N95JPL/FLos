@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOW_NAV">
+	<tu xmlns:lang="eng">Low navigation system with turn by turn distance</tu>
+	<tu
+    xmlns:lang="nld"
+  >Standaardnavigatiesysteem met afstanden tussen afslagen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système de navigation bas de gamme avec distance étape par étape</tu>
+	<tu
+    xmlns:lang="deu"
+  >Navigationssystem in Grundausführung mit Abbiegeempfehlungen und Distanzangabe</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema di navigazione di gamma bassa con distanza svolta per svolta</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ターンバイターン方式 (曲がり角までの距離とその方向のみを示すナビの簡易方式) による距離表\示のロー ナビゲーション システム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de navegação baixo com distância entre mudanças de direcção</tu>
+	<tu xmlns:lang="ptb">Sistema de navegação baixo com distância curva a curva</tu>
+	<tu
+    xmlns:lang="rus"
+  >Навигационная система эконом-класса с указанием расстояний до поворотов</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de navegación de gama baja con distancia giro por giro</tu>
+	<tu xmlns:lang="chs">逐段指示距离的低端导航系统</tu>
+	<tu xmlns:lang="kor">턴 바이 턴 거리가 표시되는 로우 내비게이션 시스템</tu>
+</tm>

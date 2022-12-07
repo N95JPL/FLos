@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_STOR_STRT_CTRL_UNIT">
+	<tu xmlns:lang="eng">Store start control unit key</tu>
+	<tu xmlns:lang="nld">Berg de sleutel voor de startregelaar op</tu>
+	<tu xmlns:lang="fra">Conservez la clé de l'unité de commande de démarrage</tu>
+	<tu xmlns:lang="deu">Schlüssel für Startsteuereinheit anmelden</tu>
+	<tu xmlns:lang="ita">Memorizzare la chiave dell'unità di comando avviamento</tu>
+	<tu xmlns:lang="jpn">スタート コントロール ユニット キーの保存</tu>
+	<tu xmlns:lang="ptg">Gravar chave da unidade de controlo do arranque</tu>
+	<tu xmlns:lang="ptb">Armazenar chave da unidade de controle de partida</tu>
+	<tu xmlns:lang="rus">Сохранить ключ включения блока управления</tu>
+	<tu xmlns:lang="esp">Guardar la llave del módulo de control de arranque</tu>
+	<tu xmlns:lang="chs">存储启动控制单元键</tu>
+	<tu xmlns:lang="kor">시동 컨트롤 유닛 키 저장</tu>
+</tm>

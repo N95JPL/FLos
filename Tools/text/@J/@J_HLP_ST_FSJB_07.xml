@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FSJB_07">
+	<tu xmlns:lang="eng">Gearshift is in neutral position.</tu>
+	<tu xmlns:lang="nld">De transmissiehendel staat in de neutraalstand.</tu>
+	<tu xmlns:lang="fra">Le levier sélecteur est en position point mort.</tu>
+	<tu xmlns:lang="deu">Wählhebel befindet sich in Neutralstellung.</tu>
+	<tu xmlns:lang="ita">La leva cambio è in posizione di folle.</tu>
+	<tu xmlns:lang="jpn">ギアシフトがニュートラル ポジションにある。</tu>
+	<tu xmlns:lang="ptg">Alavanca selectora na posição de ponto morto.</tu>
+	<tu xmlns:lang="ptb">A alavanca de marchas está na posição neutra.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Рычаг переключения передач находится в положении 'нейтраль'.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La palanca de cambios está en posición de punto muerto.</tu>
+	<tu xmlns:lang="chs">换档杆处于空档位置。</tu>
+	<tu xmlns:lang="kor">기어 변속이 중립 위치에 있습니다.</tu>
+</tm>

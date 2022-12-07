@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_ICP_03">
+	<tu
+    xmlns:lang="eng"
+  >2)  Reads button states to detect button activity during execution time and checks for stuck or intermittent buttons.</tu>
+	<tu
+    xmlns:lang="nld"
+  >2)  Leest de toetsstatussen om de toetsactiviteit gedurende de uitvoeringstijd te detecteren en controleert of er toetsen vastzitten of met tussenpozen functioneren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >2)  Lit l'état des boutons pour détecter l'activité des boutons pendant le temps de l'exécution et recherche la présence de boutons bloqués ou intermittents.</tu>
+	<tu
+    xmlns:lang="deu"
+  >2)  Liest Tastenzustände zur Ermittlung von Tastenaktivität während der Ausführungszeit und prüft auf hängende oder aussetzend arbeitende Tasten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >2)  Legge lo stato dei pulsanti per rilevare l'attività dei pulsanti durante il tempo di esecuzione e controlla se siano presenti pulsanti inceppati o contatti intermittenti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >2)  ボタンの状態を読み取り実行時間中のボタンの作動を検出し、またボタンの固着や断続的作動をチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >2)  Faz a leitura do estado dos botões para detectar a actividade dos mesmos durante o tempo de execução e verifica se há botões encravados ou com funcionamento intermitente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >2)  Lê os estados do botão para detectar atividade do botão atividade durante tempo de execução e verifica se há botões presos ou intermitentes.</tu>
+	<tu
+    xmlns:lang="rus"
+  >2)  Кнопка считывания определяет активность кнопок во время выполнения и проверок на предмет заклинивания и кнопок с перемежающимися неисправностями.</tu>
+	<tu
+    xmlns:lang="esp"
+  >2)  Lee los estados de los botones para detectar la actividad de estos durante el tiempo de ejecución y comprueba si hay botones atascados o cuyo funcionamiento es intermitente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >2)  读取按钮状态以检测执行期间的按钮活动，检查是否存在卡滞或间歇性故障按钮。</tu>
+	<tu
+    xmlns:lang="kor"
+  >2)  실행 시간 중에 버튼 상태를 읽어 버튼 작동을 감지하고 버튼의 고착 또는 간헐적 작동 여부를 점검합니다.</tu>
+</tm>

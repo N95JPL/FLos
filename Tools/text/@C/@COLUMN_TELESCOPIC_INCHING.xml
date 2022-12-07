@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@COLUMN_TELESCOPIC_INCHING">
+	<tu xmlns:lang="eng">Column telescopic inching</tu>
+	<tu xmlns:lang="nld">Telescopische verstelling stuurkolom</tu>
+	<tu xmlns:lang="fra">Réglage télescopique par paliers de la colonne.</tu>
+	<tu xmlns:lang="deu">Lenksäule - schrittweise Längsverstellung</tu>
+	<tu xmlns:lang="ita">Apertura telescopica graduale piantone di sterzo</tu>
+	<tu xmlns:lang="jpn">コラム テレスコピック微調整</tu>
+	<tu xmlns:lang="ptg">Coluna, alcance telescópico</tu>
+	<tu xmlns:lang="ptb">Ajuste da coluna (pol)</tu>
+	<tu xmlns:lang="rus">Осевое перемещение рулевой колонки</tu>
+	<tu xmlns:lang="esp">Ajuste telescópico gradual de la columna</tu>
+	<tu xmlns:lang="chs">转向柱缩进缓动</tu>
+	<tu xmlns:lang="kor">칼럼 텔레스코픽 인칭</tu>
+</tm>

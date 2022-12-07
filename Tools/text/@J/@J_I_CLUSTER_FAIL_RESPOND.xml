@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CLUSTER_FAIL_RESPOND">
+	<tu
+    xmlns:lang="eng"
+  >The instument cluster has failed to respond to the function test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instrumentengroep heeft niet gereageerd op de functietest.</tu>
+	<tu xmlns:lang="fra">Le test de fonctionnement du tableau de bord a échoué.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Kombiinstrument hat auf die Funktionsprüfung nicht angesprochen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il gruppo strumenti non ha risposto alla prova di funzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インストルメント クラスタは機能\テストの応答に失敗しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O grupo de instrumentos não respondeu ao teste de funcionamento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O conjunto do painel de instrumentos não respondeu ao teste de funções.</tu>
+	<tu xmlns:lang="rus">Панель приборов не реагирует на функциональный тест.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El cuadro de instrumentos no ha respondido a la prueba de funcionamiento.</tu>
+	<tu xmlns:lang="chs">组合仪表未能对功能测试做出反应。</tu>
+	<tu xmlns:lang="kor">계기판이 기능 테스트에 응답하지 못했습니다.</tu>
+</tm>

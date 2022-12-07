@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@GEAR_SENSOR_ADJUST_INFO">
+	<tu
+    xmlns:lang="eng"
+  >This routine is used to calibrate the gear selector position sensor in the transmission control module towards a specific cable adjustment or transmission.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De toepassing gebruikt deze routine om de sensor voor de transmissiehendelstand in de transmissieregelmodule t.o.v. een bepaalde kabelafstelling of transmissie te kalibreren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme est utilisé pour calibrer le capteur de position du sélecteur de vitesses dans le module de commande de transmission pour obtenir un ajustement spécifique du câble ou de la transmission.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine wird der Wählhebel-Stellungssensor im Getriebesteuergerät auf eine spezifische Seilzugeinstellung oder ein spezifisches Getriebe kalibriert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura viene usata per tarare il sensore di posizione del selettore del cambio nel modulo comando cambio verso una specifica regolazione del cavo o trasmissione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、トランスミッション コントロール モジュール内で、特定ケーブル調整あるいはトランスミッションに対してギア セレクター ポジション センサーをキャリブレーションするのに使用されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é usada para calibrar o sensor de posição da alavanca selectora de mudanças no módulo de comando da transmissão para uma afinação específica do cabo ou transmissão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é usada para calibrar o sensor posição do seletor de marchas no módulo de controle da transmissão em direção a um determinado ajuste do cabo ou da transmissão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция используется для калибровки датчика положения селектора передач в блоке управления коробкой передач при регулировке определенного кабеля или для определенной коробки передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina sirve para calibrar el sensor de posición de la palanca selectora en el módulo de control de la transmisión en relación con un ajuste específico del cable o con la caja de cambios.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本常规程序用于针对特定拉索调整或变速箱，进行变速箱控制模块内换档杆位置传感器的标定</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 변속기 컨트롤 모듈에서 기어 셀렉터 위치 센서를 특정 케이블 조정 또는 변속기 쪽으로 보정하는 데 사용됩니다.</tu>
+</tm>

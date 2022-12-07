@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_F_MTR_SETUP_COMP_SUCCESS">
+	<tu xmlns:lang="eng">Motor replacement set-up completed successfully.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instelling van de motorvervanging is met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Procédure de remplacement du moteur réussie.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einstellung Motoraustausch wurde erfolgreich abgeschlossen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impostazione sostituzione motorino completata correttamente.</tu>
+	<tu xmlns:lang="jpn">モーター交換セットアップが正常に完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Configuração da substituição do motor concluída com sucesso.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Configuração de substituição do motor concluída com êxito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Настройка замененного электродвигателя выполнена успешно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Configuración de la sustitución del motor eléctrico concluida satisfactoriamente.</tu>
+	<tu xmlns:lang="chs">电机更换设置成功完成。</tu>
+	<tu xmlns:lang="kor">모터 교체 설정이 성공적으로 완료됨</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ACCEL_TEST_OP_TORQUE">
+	<tu
+    xmlns:lang="eng"
+  >Use various rates of acceleration while maintaining RPM range, ranging from small accelerator pedal to 100% accelerator pedal rotation.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Gebruik verschillende acceleratiesnelheden, terwijl u in het toerentalbereik blijft, vanaf een kleine t/m 100% verdraaiing van het gaspedaal.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Utilisez différents taux d'accélération tout en maintenant la plage de régime, en partant d'un petit coup de pédale d'accélération jusqu'à une rotation de 100 % de la pédale d'accélération.</tu>
+	<tu
+    xmlns:lang="deu"
+  >In unterschiedlich starkem Maße beschleunigen, während im Drehzahlbereich verblieben wird; hierbei das Gaspedal nur wenig betätigen bis hin zu vollständigem Durchtreten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Utilizzare diversi gradi di accelerazione, pur restando entro la gamma di valori del regime motore, passando da una lieve pressione sul pedale dell'acceleratore ad un azionamento completo pari al 100% del pedale dell'acceleratore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >RPM レンジを維持しながら、軽度のアクセル ペダル開度から 100% アクセル ペダル開度の範囲で、異なる各種の加速レートを使用しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Use várias taxas de aceleração ao manter a gama de RPM, desde uma pequena aceleração no pedal até à rotação a 100% do pedal do acelerador.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Use várias taxas de aceleração, ao mesmo tempo que mantém a faixa de RPM, que vão de pequenas pedaladas do acelerador até 100% de rotação do pedal do acelerador.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Используйте различные уровни ускорения при сохранении диапазона оборотов, от незначительного нажатия на педаль акселератора до 100%-ного нажатия на педаль.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Usar varias tasas de aceleración al mantener el valor de rpm, variando desde una rotación pequeña del pedal del acelerador hasta una rotación del 100 %.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'在保持转速范围的同时，采用各种加速速率，范围从轻踩油门踏板到完全踩下油门踏板，如此轮换使用。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >가속 페달을 조금만 밟는 수준에서 100% 밟는 수준까지 변화시키면서, RPM 범위를 유지한 상태에서 다양한 가속도로 주행하십시오.</tu>
+</tm>

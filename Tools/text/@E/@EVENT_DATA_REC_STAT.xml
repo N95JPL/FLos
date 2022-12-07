@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EVENT_DATA_REC_STAT">
+	<tu xmlns:lang="eng">Event data recorder status</tu>
+	<tu xmlns:lang="nld">Status van opslagmedia voor gebeurtenisgegevens</tu>
+	<tu xmlns:lang="fra">Etat de l'enregistreur de données d'événement</tu>
+	<tu xmlns:lang="deu">Ereignisdatenaufzeichnung ? Status</tu>
+	<tu xmlns:lang="ita">Stato registratore dati eventi</tu>
+	<tu xmlns:lang="jpn">イベント データ レコーダー ステータス</tu>
+	<tu xmlns:lang="ptg">Estado do registador de dados de eventos</tu>
+	<tu xmlns:lang="ptb">Status do gravador de dados do evento</tu>
+	<tu xmlns:lang="rus">Состояние регистратора событий</tu>
+	<tu xmlns:lang="esp">Estado del registrador de datos de incidentes</tu>
+	<tu xmlns:lang="chs">事件数据记录器状态</tu>
+	<tu xmlns:lang="kor">이벤트 데이터 레코더 상태</tu>
+</tm>

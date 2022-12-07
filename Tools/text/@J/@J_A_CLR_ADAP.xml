@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_CLR_ADAP">
+	<tu xmlns:lang="eng">Clear adaptation</tu>
+	<tu xmlns:lang="nld">Wis aanpassing</tu>
+	<tu xmlns:lang="fra">Effacez l'adaptation</tu>
+	<tu xmlns:lang="deu">Anpassung löschen</tu>
+	<tu xmlns:lang="ita">Cancellare adattamento</tu>
+	<tu xmlns:lang="jpn">補正のクリア</tu>
+	<tu xmlns:lang="ptg">Apagar a adaptação</tu>
+	<tu xmlns:lang="ptb">Adaptação clara</tu>
+	<tu xmlns:lang="rus">Удалить данные адаптации</tu>
+	<tu xmlns:lang="esp">Borrar valores de adaptación</tu>
+	<tu xmlns:lang="chs">清除适应值</tu>
+	<tu xmlns:lang="kor">어댑테이션 지우기</tu>
+</tm>

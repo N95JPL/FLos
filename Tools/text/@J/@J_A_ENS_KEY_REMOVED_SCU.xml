@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENS_KEY_REMOVED_SCU">
+	<tu
+    xmlns:lang="eng"
+  >Make sure a key is not inserted into the starter control unit before continuing.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer voordat u verdergaat dat er geen sleutel in de startmotorregeleenheid is gestoken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez qu'il n'y a pas de clé insérée dans le module de commande de démarrage avant de continuer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vor dem Fortfahren sicherstellen, dass kein Schlüssel in die Startsteuereinheit eingesteckt ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prima di procedere, verificare che non vi sia una chiave inserita nell'unità di comando del motorino di avviamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >続行する前に、キーがスターター コントロール ユニットに挿入されていないことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que não há qualquer chave introduzida na unidade de controlo do motor de arranque, antes de prosseguir.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que uma chave não esteja inserida na unidade de controle de partida antes de continuar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прежде чем продолжить, убедитесь, что в блок управления стартером не вставлен ключ.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que no hay ninguna llave insertada en el módulo de control de arranque antes de continuar.</tu>
+	<tu xmlns:lang="chs">继续操作之前，确认没有车钥插入起动机控制单元内。</tu>
+	<tu
+    xmlns:lang="kor"
+  >키가 스타터 컨트롤 유닛에 삽입되어 있지 않은지 확인한 후 계속 진행하십시오.</tu>
+</tm>

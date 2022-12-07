@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OIL_CHG_RESET">
+	<tu xmlns:lang="eng">Oil change reset</tu>
+	<tu xmlns:lang="nld">Terugstellen van olie verversen</tu>
+	<tu xmlns:lang="fra">Réinitialisation du changement d'huile</tu>
+	<tu xmlns:lang="deu">Rücksetzung Ölwechsel</tu>
+	<tu xmlns:lang="ita">Reset cambio dell'olio</tu>
+	<tu xmlns:lang="jpn">オイル チェンジ リセット</tu>
+	<tu xmlns:lang="ptg">Reposição da mudança de óleo</tu>
+	<tu xmlns:lang="ptb">Redefinição da troca de óleo</tu>
+	<tu xmlns:lang="rus">Сброс замены масла</tu>
+	<tu xmlns:lang="esp">Puesta a cero del indicador de cambio de aceite</tu>
+	<tu xmlns:lang="chs">机油更换复位</tu>
+	<tu xmlns:lang="kor">오일 교환 재설정</tu>
+</tm>

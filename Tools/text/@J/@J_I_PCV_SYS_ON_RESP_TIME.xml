@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PCV_SYS_ON_RESP_TIME">
+	<tu xmlns:lang="eng">Pressure control valve - system on response time</tu>
+	<tu xmlns:lang="nld">Drukregelklep - reactietijd voor systeem aan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Régulateur de pression - temps de réponse d'activation du système.</tu>
+	<tu xmlns:lang="deu">Druckregelventil - Ansprechzeit Systemeinschaltung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Valvola comando pressione - tempo di risposta attivazione sistema</tu>
+	<tu xmlns:lang="jpn">プレッシャ コントロール バルブ - システム オン応答時間</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Válvula de controlo da pressão - tempo de resposta para ligar o sistema</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Válvula do controle de pressão - tempo de resposta do sistema ligado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Клапан регулировки давления - время срабатывания на включение системы</tu>
+	<tu
+    xmlns:lang="esp"
+  >Válvula reguladora de presión: tiempo de respuesta de activación del sistema</tu>
+	<tu xmlns:lang="chs">压力控制阀 - 系统打开响应时间</tu>
+	<tu xmlns:lang="kor">압력 컨트롤 밸브 - 시스템 ON 응답 시간</tu>
+</tm>

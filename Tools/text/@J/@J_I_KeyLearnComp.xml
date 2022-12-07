@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KeyLearnComp">
+	<tu xmlns:lang="eng">Keys learned complete.</tu>
+	<tu xmlns:lang="nld">Het inlezen van de sleutels is afgerond.</tu>
+	<tu xmlns:lang="fra">Apprentissage des clés terminé.</tu>
+	<tu xmlns:lang="deu">Schlüsselerlernung abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Apprendimento chiave completato.</tu>
+	<tu xmlns:lang="jpn">キー認識完了</tu>
+	<tu xmlns:lang="ptg">Programação das chaves concluída.</tu>
+	<tu xmlns:lang="ptb">Memorização das chaves concluída.</tu>
+	<tu xmlns:lang="rus">Сбор данных о ключах завершен.</tu>
+	<tu xmlns:lang="esp">Aprendizaje de llaves concluido.</tu>
+	<tu xmlns:lang="chs">钥匙记忆完成。</tu>
+	<tu xmlns:lang="kor">키 학습 완료</tu>
+</tm>

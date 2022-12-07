@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_UND">
+	<tu xmlns:lang="eng">H-undefined</tu>
+	<tu xmlns:lang="nld">H-niet gedefinieerd</tu>
+	<tu xmlns:lang="fra">H-Indéfini</tu>
+	<tu xmlns:lang="deu">H - Nicht definiert</tu>
+	<tu xmlns:lang="ita">H-non definito</tu>
+	<tu xmlns:lang="jpn">H-不特定</tu>
+	<tu xmlns:lang="ptg">H - indefinido</tu>
+	<tu xmlns:lang="ptb">H - indefinido</tu>
+	<tu xmlns:lang="rus">Н - не определено</tu>
+	<tu xmlns:lang="esp">H-no especificado</tu>
+	<tu xmlns:lang="chs">H - 未定义</tu>
+	<tu xmlns:lang="kor">H-정의되지 않음</tu>
+</tm>

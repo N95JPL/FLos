@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart224">
+	<tu
+    xmlns:lang="eng"
+  >Inhibit due to dual battery car configuration data fault</tu>
+	<tu
+    xmlns:lang="nld"
+  >Blokkering als gevolg van een fout in de voertuigconfiguratiegegevens voor dubbele accu</tu>
+	<tu
+    xmlns:lang="fra"
+  >Neutralisation due à un problème de données de configuration du véhicule en relation avec la double batterie</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sperre aufgrund von Datenfehler in der Fahrzeugkonfiguration für das Zwei-Batterien-System</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitazione causata da dati di configurazione del veicolo a doppia batteria non validi</tu>
+	<tu xmlns:lang="jpn">デュアル バッテリー車両設定データ エラーによる禁止</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Inibição devido a falha de dados de configuração do veículo de duas baterias</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Inibição devido à falha de dados de configuração de carro com bateria dupla</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блокировка из-за ошибки данных конфигурации системы с двумя аккумуляторными батареями</tu>
+	<tu
+    xmlns:lang="esp"
+  >Bloqueo debido a un error de datos de configuración de vehículos con baterías dobles</tu>
+	<tu xmlns:lang="chs">由于双蓄电池车辆配置数据故障而禁用</tu>
+	<tu xmlns:lang="kor">이중 배터리 차량 구성 데이터 오류로 인한 억제</tu>
+</tm>

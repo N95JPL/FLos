@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_AUTO_LEVEL_HLAMP_CM">
+	<tu xmlns:lang="eng">Automatic headlamp levelling control module.</tu>
+	<tu xmlns:lang="nld">Automatische koplampnivelleringsregelmodule</tu>
+	<tu xmlns:lang="fra">Module de commande automatique de reglage de site des</tu>
+	<tu xmlns:lang="deu">Steuermodul\\automatische leuchtweitenregulierung</tu>
+	<tu xmlns:lang="ita">Modulo di comando livellamento automatico fari</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オートマチック レベリ・グ ヘッドラ・プ コ・トロール モジュール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo de comando do nivelamento automático dos faróis.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo de controle do nivelamento automático dos faróis.</tu>
+	<tu xmlns:lang="rus">Блок управления коррекцией положения фар.</tu>
+	<tu xmlns:lang="esp">Módulo de control de nivelación automática de faros</tu>
+	<tu xmlns:lang="chs">前照灯自动变光控制模块。</tu>
+	<tu xmlns:lang="kor">자동 헤드램프 레벨링 컨트롤 모듈</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_HYDRAULIC_WHEEL">
+	<tu xmlns:lang="eng">Wheel hydraulic test has failed</tu>
+	<tu xmlns:lang="nld">De hydraulische test van de wielen is niet gehaald</tu>
+	<tu xmlns:lang="fra">Echec du test hydraulique de roue</tu>
+	<tu xmlns:lang="deu">Rad-Hydrauliktest nicht erfolgreich</tu>
+	<tu xmlns:lang="ita">Prova idraulica ruota non superata</tu>
+	<tu xmlns:lang="jpn">ホイール ハイドロリック テストに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Teste hidráulico das rodas falhou</tu>
+	<tu xmlns:lang="ptb">Teste hidráulico da roda falhou</tu>
+	<tu xmlns:lang="rus">Гидравлические испытания колес не пройдены</tu>
+	<tu xmlns:lang="esp">Falló la prueba hidráulica de las ruedas</tu>
+	<tu xmlns:lang="chs">车轮液压测试已失败</tu>
+	<tu xmlns:lang="kor">휠 유압 테스트 실패</tu>
+</tm>

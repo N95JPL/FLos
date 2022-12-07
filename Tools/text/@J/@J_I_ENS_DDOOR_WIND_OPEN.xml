@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENS_DDOOR_WIND_OPEN">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the driver's door remains open but the lock mechanism latched, and the door window glass remains open, during this application and the alarm system is in an unarmed state.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het bestuurdersportier en de portierruit aan de bestuurderszijde moeten geopend zijn tijdens deze toepassing, en de vergrendelingsknop moet zijn ingedrukt. Het alarmsysteem moet zijn uitgeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La porte conducteur doit rester ouverte et verrouillée et la vitre ouverte pendant cette application et le système d'alarme doit être en état non armé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass beim Lauf dieses Anwendungsprogramms die Fahrertür und das Fenster geöffnet sind, die Tür jedoch verriegelt bleibt und die Alarmanlage sich im ungeschärften Zustand befindet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che la portiera e il finestrino lato guida rimangano aperti e agganciati durante questa applicazione e che il sistema allarme sia disattivato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーション実行中およびアラーム システムがディスアーミング状態にあるときには、運転席側ドアおよびドア ウィンドウ ガラスが開いた状態で、ただしドアロック機構\はラッチされていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que a porta do condutor permanece aberta com o mecanismo de trancagem engatado e o vidro aberto durante esta aplicação e de que o alarme está desactivado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a porta do motorista permaneça aberta, mas o mecanismo de travamento travado, e o vidro da janela da porta permaneça aberto durante a aplicação, e o sistema de alarme esteja no estado desarmado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Во время выполнения этого приложения дверь водителя и стекло должны быть открыты и зафиксированы, а охранная система отключена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar que la puerta del conductor y la ventanilla permanecen abiertas pero su enganche bloqueado durante esta aplicación, y que el sistema de alarma no está activado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在运行此应用程序的过程中，确保驾驶员车门与门窗玻璃保持打开且插销处于锁闭位置，同时确保报警系统处于未启用状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >운전석 도어가 열린 상태로 남지만 잠금 메커니즘은 래치되고, 이 애플리케이션 중에 도어 윈도우 글라스가 열린 상태로 있고 알람 시스템이 해제된 상태에 있는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RESET_OIL_COUNTER">
+	<tu xmlns:lang="eng">Reset the oil service counter.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Reset de onderhoudsintervalindicatie voor olieverversen.</tu>
+	<tu xmlns:lang="fra">Remettez à zéro le compteur de vidanges d'huile.</tu>
+	<tu xmlns:lang="deu">Zähler für die Ölwechselanzeige rücksetzen.</tu>
+	<tu xmlns:lang="ita">Ripristinare il contatore del cambio olio.</tu>
+	<tu xmlns:lang="jpn">オイル サービス カウンターをリセットしなさい。</tu>
+	<tu xmlns:lang="ptg">Reiniciar o contador de mudança do óleo. </tu>
+	<tu xmlns:lang="ptb">Reiniciar o contador de troca de óleo.</tu>
+	<tu xmlns:lang="rus">Сбросьте показания счетчика интервала замены масла.</tu>
+	<tu xmlns:lang="esp">Poner a cero el contador de revisiones del aceite.</tu>
+	<tu xmlns:lang="chs">让机油维修计数器复位。</tu>
+	<tu xmlns:lang="kor">오일 서비스 카운터를 재설정하십시오.</tu>
+</tm>

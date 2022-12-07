@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DOWNLOAD_ERROR">
+	<tu xmlns:lang="eng">Download error</tu>
+	<tu xmlns:lang="nld">Fout bij downloaden</tu>
+	<tu xmlns:lang="fra">Erreur de téléchargement</tu>
+	<tu xmlns:lang="deu">Download-Fehler</tu>
+	<tu xmlns:lang="ita">Errore di download</tu>
+	<tu xmlns:lang="jpn">ダウンロード エラー</tu>
+	<tu xmlns:lang="ptg">Erro de transferência</tu>
+	<tu xmlns:lang="ptb">Erro de download</tu>
+	<tu xmlns:lang="rus">Ошибка загрузки</tu>
+	<tu xmlns:lang="esp">Error de descarga</tu>
+	<tu xmlns:lang="chs">下载错误</tu>
+	<tu xmlns:lang="kor">다운로드 오류</tu>
+</tm>

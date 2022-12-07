@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SeatOpAllAxis1$I">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the seat actually operates on all supported axis before continuing.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat de stoel inderdaad in alle ondersteunde richtingen naar behoren werkt, voordat u verdergaat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que le siège fonctionne effectivement sur tous les axes pris en charge avant de poursuivre.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vor dem Fortfahren sicherstellen, dass der Sitz faktisch auf allen Verstellachsen arbeitet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prima di continuare, accertarsi che il sedile funzioni effettivamente su tutti gli assi supportati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >続行する前に、シートがすべてのサポート済み軸上で実際に作動することを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o banco funciona em todos os eixos suportados antes de continuar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o assento realmente opera em todo o eixo suportado antes de continuar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прежде чем продолжить, убедитесь, что сиденье действительно перемещается по всем поддерживаемым осям перемещения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que el asiento se accione en todos los ejes que admiten ajuste antes de continuar.</tu>
+	<tu
+    xmlns:lang="chs"
+  >继续操作之前，确保座椅实际能在所有受支持的坐标轴上运行。</tu>
+	<tu
+    xmlns:lang="kor"
+  >계속 하기 전에 시트가 지원되는 모든 축에서 실제로 작동하는지 확인하십시오.</tu>
+</tm>

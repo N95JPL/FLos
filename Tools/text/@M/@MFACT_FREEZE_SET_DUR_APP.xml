@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MFACT_FREEZE_SET_DUR_APP">
+	<tu
+    xmlns:lang="eng"
+  >During this application manufacturing/freeze mode will be set.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens deze toepassing wordt de fabrieks-/momentopnamefunctie ingeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pendant cette application, le mode usine/neutralisation sera sélectionné.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei der Ausführung dieser Anwendung wird in den Fertigungsmodus/Modus 'Einfrieren der Luftfederung' gewechselt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Durante questa applicazione verrà impostata la modalità di produzione/blocco.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションの実行中はマニュファクチャリング／フリーズ モードがセットされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Durante esta aplicação, é definido o modo de fábrica/congelamento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Durante o uso deste aplicativo, o modo de fabricação/travamento será definido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На время выполнения этого приложения устанавливается заводской режим/режим фиксации настроек.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Durante esta aplicación se establecerá el modo de fabricación/inmovilización.</tu>
+	<tu xmlns:lang="chs">在此应用程序中，制造／冻结模式将被设置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램을 실행하는 동안 제조/일시 정지 모드가 설정됩니다.</tu>
+</tm>

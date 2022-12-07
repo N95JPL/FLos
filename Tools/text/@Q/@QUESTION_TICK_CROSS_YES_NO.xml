@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@QUESTION_TICK_CROSS_YES_NO">
+	<tu
+    xmlns:lang="eng"
+  >Select tick if the answer to the question is yes, otherwise select the cross.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Selecteer het vinkje als het antwoord op de vraag 'ja' is, zo niet selecteert u het kruisje.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélectionnez la coche si la réponse à la question est oui, sinon sélectionnez la croix.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Häkchen antippen, wenn die Antwort auf die Frage ?Ja? lautet, anderenfalls das Kreuz antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezionare il segno di spunta se la risposta alla domanda è sì, altrimenti selezionare la crocetta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >質問に対する答えが「はい」の場合、ティックを選択しなさい。それ以外は×を選択しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccione o visto se a resposta à pergunta for 'sim'; caso contrário, seleccione a cruz.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Selecione a marca se a resposta à pergunta é sim, caso contrário, selecione a cruz.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выберите галочку, если ответ на данный вопрос утвердительный, в противном случае выберите крестик.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccionar la marca de verificación si la respuesta a la pregunta es sí; en caso contrario, seleccionar la cruz.</tu>
+	<tu xmlns:lang="chs">如果问题的答案为是，请选择勾选键，否则选择叉键。</tu>
+	<tu
+    xmlns:lang="kor"
+  >질문에 대한 대답이 예라면 체크 표시를, 그렇지 않으면 십자 기호를 선택하십시오.</tu>
+</tm>

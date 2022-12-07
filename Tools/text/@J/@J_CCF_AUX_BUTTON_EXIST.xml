@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CCF_AUX_BUTTON_EXIST">
+	<tu
+    xmlns:lang="eng"
+  >The car configuration file (CCF) has been updated. The AUX button now exists below the options of AM/FM and CD on the audio screen.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voertuigconfiguratiebestand (CCF) is bijgewerkt. Op het scherm van de geluidsinstallatie staat nu een AUX-toets onder de toetsen voor AM/FM en CD.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le fichier de configuration du véhicule (CCF) a été mis à jour. Le bouton AUX se trouve dorénavant sous les options AM/FM et CD sur l'écran audio.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Fahrzeugkonfigurationsdatei (CCF) wurde aktualisiert. Die AUX-Schaltfläche ist jetzt unter den Optionen AM/FM und CD auf dem Audio-Bildschirm verfügbar.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il file di configurazione veicolo (CCF) è stato aggiornato. Ora esiste il pulsante AUX sotto le opzioni AM/FM e CD sullo schermo del sistema audio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション ファイル (CCF) が更新されました。これでオーディオ画面の AM/FM および CD オプションの下に AUX ボタンが表\示されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O ficheiro de configuração do veículo (CCF) foi actualizado. Existe agora o botão AUX abaixo das opções AM/FM e CD no ecrã áudio.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O arquivo de configuração de carro (CCF) foi atualizado. O botão AUX agora existe abaixo as opções de rádio AM/FM e CD na tela de áudio.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обновлен файл конфигурации автомобиля (CCF). На экране аудиосистемы теперь появилась кнопка AUX для источников AM/FM и CD.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha actualizado el archivo de configuración del vehículo (CCF). Ahora el botón AUX se halla bajo las opciones de AM/FM y CD en la pantalla de audio.</tu>
+	<tu
+    xmlns:lang="chs"
+  >车辆配置文件（CCF）已更新。 辅助按钮现在出现于音频显示屏上的AM/FM和CD选项下面。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 구성 파일(CCF)이 업데이트되었습니다. AUX 버튼은 현재 오디오 화면에서 AM/FM 및 CD의 옵션 아래에 있습니다.</tu>
+</tm>

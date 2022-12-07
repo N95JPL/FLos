@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_CHINA">
+	<tu xmlns:lang="eng">China</tu>
+	<tu xmlns:lang="nld">China</tu>
+	<tu xmlns:lang="fra">Chine</tu>
+	<tu xmlns:lang="deu">China</tu>
+	<tu xmlns:lang="ita">Cina</tu>
+	<tu xmlns:lang="jpn">中国</tu>
+	<tu xmlns:lang="ptg">China</tu>
+	<tu xmlns:lang="ptb">China</tu>
+	<tu xmlns:lang="rus">Китай</tu>
+	<tu xmlns:lang="esp">China</tu>
+	<tu xmlns:lang="chs">中国</tu>
+	<tu xmlns:lang="kor">중국</tu>
+</tm>

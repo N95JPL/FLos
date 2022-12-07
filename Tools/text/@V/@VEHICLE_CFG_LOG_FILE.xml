@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VEHICLE_CFG_LOG_FILE">
+	<tu xmlns:lang="eng">Vehicle configuration log file</tu>
+	<tu xmlns:lang="nld">Logbestand van voertuigconfiguratie</tu>
+	<tu xmlns:lang="fra">Fichier journal de configuration du véhicule</tu>
+	<tu xmlns:lang="deu">Protokolldatei Fahrzeugkonfiguration</tu>
+	<tu xmlns:lang="ita">File del registro di configurazione del veicolo</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション ログ ファイル</tu>
+	<tu xmlns:lang="ptg">Ficheiro de registo da configuração do veículo</tu>
+	<tu xmlns:lang="ptb">Arquivo de registro da configuração do veículo </tu>
+	<tu xmlns:lang="rus">Файл журнала конфигурации автомобиля</tu>
+	<tu xmlns:lang="esp">Archivo del registro de configuración del vehículo</tu>
+	<tu xmlns:lang="chs">车辆配置日志文件</tu>
+	<tu xmlns:lang="kor">차량 구성 로그 파일</tu>
+</tm>

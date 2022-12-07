@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FRT_CRASH_SENS_CLOS">
+	<tu xmlns:lang="eng">Front crash sensing system  -  Closing  velocity</tu>
+	<tu xmlns:lang="nld">Sensorsysteem voor botsing van voren  -  Sluitsnelheid</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système de détection de collision avant  -  Vitesse de fermeture</tu>
+	<tu xmlns:lang="deu">Aufprallsensorsystem vorn  -  Schließgeschwindigkeit</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema di rilevamento urto anteriore  -  Velocità di chiusura</tu>
+	<tu xmlns:lang="jpn">フロント クラッシュ検知システム  －  クロージング速度</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de detecção de impacto frontal  -  Velocidade de fecho</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de detecção de colisão frontal  -  Velocidade de fechamento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система обнаружения лобового столкновения  -  Скорость закрывания</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de detección de colisiones frontales  -  Velocidad de cierre</tu>
+	<tu xmlns:lang="chs">前碰撞感测系统  -  关闭速度</tu>
+	<tu xmlns:lang="kor">전방 충돌 감지 시스템  -  닫는 속도</tu>
+</tm>

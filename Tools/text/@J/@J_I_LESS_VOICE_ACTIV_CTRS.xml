@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_VOICE_ACTIV_CTRS">
+	<tu xmlns:lang="eng">Voice activated controls not fitted</tu>
+	<tu xmlns:lang="nld">Spraakactiveringssysteem niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Commande vocale non montée</tu>
+	<tu xmlns:lang="deu">Sprachsteuerung nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Non sono in dotazione comandi attivati a voce</tu>
+	<tu xmlns:lang="jpn">音声作動コントロール非装備</tu>
+	<tu xmlns:lang="ptg">Comandos activados por voz não estão instalados</tu>
+	<tu xmlns:lang="ptb">Controles ativados por voz não instalados</tu>
+	<tu xmlns:lang="rus">Голосовое управление не установлено</tu>
+	<tu xmlns:lang="esp">No hay controles activados por la voz</tu>
+	<tu xmlns:lang="chs">语音致动控制未安装</tu>
+	<tu xmlns:lang="kor">음성 작동식 컨트롤이 장착되지 않음</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ADAPTIVE_CC_STOP_GO">
+	<tu xmlns:lang="eng">Adaptive speed control, stop and go</tu>
+	<tu xmlns:lang="nld">Adaptieve cruise control, stoppen en optrekken</tu>
+	<tu
+    xmlns:lang="fra"
+  >Régulateur de vitesse adaptatif, dispositif arrêt/relance</tu>
+	<tu xmlns:lang="deu">Adaptive Geschwindigkeitsregelung, Stop-and-go-Verkehr</tu>
+	<tu xmlns:lang="ita">Controllo di velocità adattativo, arresto e partenza</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アダプティブ スピード コントロール、ストップ アンド ゴー</tu>
+	<tu xmlns:lang="ptg">Controlo da velocidade adaptável, pára e arranca</tu>
+	<tu xmlns:lang="ptb">Controle de velocidade adaptável, pare e vá</tu>
+	<tu xmlns:lang="rus">Адаптивный круиз-контроль, 'старт-стоп'</tu>
+	<tu xmlns:lang="esp">Control de velocidad adaptativo, parada y arranque</tu>
+	<tu xmlns:lang="chs">自适应速度控制，停止与前进</tu>
+	<tu xmlns:lang="kor">어댑티브 스피드 컨트롤, 정지 및 실행</tu>
+</tm>

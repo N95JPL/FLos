@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_9HP_INST_FAIL">
+	<tu
+    xmlns:lang="eng"
+  >Failure to correctly follow these instructions could lead to serious mechanical failure of the transmission.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het niet correct volgen van deze instructies kan leiden tot ernstige mechanische defecten van de transmissie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un mauvais respect de ces instructions pourrait entraîner de graves défaillances mécaniques de la transmission.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Nichtbeachten dieser Anweisungen kann zu ernsthaften mechanischen Fehlern am Getriebe führen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'errata osservanza di queste istruzioni potrebbe causare gravi guasti meccanici del cambio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これらの指示に正しく従わない場合、トランスミッションに重大な機械的故障が発生する可能\性がある。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se estas instruções não forem cumpridas correctamente, tal poderá provocar uma falha mecânica grave da transmissão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não seguimento correto destas instruções pode acarretar em séria falha mecânica da transmissão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Несоблюдение этих инструкций может стать причиной серьезных механических повреждений коробки передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si no se siguen correctamente estas instrucciones, pueden producirse fallos mecánicos importantes en la transmisión.</tu>
+	<tu xmlns:lang="chs">未能正确遵守这些指示可能导致变速器出现严重机械故障。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이러한 지침을 올바르게 준수하지 않을 경우 변속기에 심각한 기계적 고장이 발생할 수 있습니다.</tu>
+</tm>

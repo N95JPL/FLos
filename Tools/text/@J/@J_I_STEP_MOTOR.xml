@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STEP_MOTOR">
+	<tu xmlns:lang="eng">Stepper motor</tu>
+	<tu xmlns:lang="nld">Stappenmotor</tu>
+	<tu xmlns:lang="fra">Moteur pas à pas</tu>
+	<tu xmlns:lang="deu">Schrittmotor</tu>
+	<tu xmlns:lang="ita">Motorino passo passo</tu>
+	<tu xmlns:lang="jpn">ステッパ モーター</tu>
+	<tu xmlns:lang="ptg">Motor passo-a-passo</tu>
+	<tu xmlns:lang="ptb">Motores de passos</tu>
+	<tu xmlns:lang="rus">Шаговый электродвигатель</tu>
+	<tu xmlns:lang="esp">Motor paso a paso</tu>
+	<tu xmlns:lang="chs">步进电机</tu>
+	<tu xmlns:lang="kor">스테퍼 모터</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_NO_RPM_APPLIED">
+	<tu xmlns:lang="eng">No RPM applied.</tu>
+	<tu xmlns:lang="nld">Geen toerental toegepast.</tu>
+	<tu xmlns:lang="fra">Pas de régime appliqué.</tu>
+	<tu xmlns:lang="deu">Keine Umdrehungszahl angewandt.</tu>
+	<tu xmlns:lang="ita">Numero di giri non applicato.</tu>
+	<tu xmlns:lang="jpn">RPM が適用されません。</tu>
+	<tu xmlns:lang="ptg">Jamaica</tu>
+	<tu xmlns:lang="ptb">Sem RPM aplicado.</tu>
+	<tu xmlns:lang="rus">Не применено ни одного значения оборотов в минуту.</tu>
+	<tu xmlns:lang="esp">No se aplicaron las rpm.</tu>
+	<tu xmlns:lang="chs">没有应用任何转速。</tu>
+	<tu xmlns:lang="kor">아무런 RPM도 적용되지 않았습니다.</tu>
+</tm>

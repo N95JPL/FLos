@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WITHOUT_RPM_SPEED_CONTROLLER">
+	<tu xmlns:lang="eng">Without engine speed controller</tu>
+	<tu xmlns:lang="nld">Zonder motortoerentalregeling</tu>
+	<tu xmlns:lang="fra">Sans contrôleur de vitesse du véhicule</tu>
+	<tu xmlns:lang="deu">Ohne Motordrehzahlregler</tu>
+	<tu xmlns:lang="ita">Senza controllore regime motore</tu>
+	<tu xmlns:lang="jpn">エンジン スピード コントローラなし</tu>
+	<tu xmlns:lang="ptg">Sem controlador da rotação do motor</tu>
+	<tu xmlns:lang="ptb">Sem controlador de velocidade do motor</tu>
+	<tu
+    xmlns:lang="rus"
+  >Без контроллера частоты вращения коленчатого вала двигателя</tu>
+	<tu xmlns:lang="esp">Sin controlador de régimen del motor</tu>
+	<tu xmlns:lang="chs">无发动机转速控制器</tu>
+	<tu xmlns:lang="kor">엔진 속도 컨트롤러 없음</tu>
+</tm>

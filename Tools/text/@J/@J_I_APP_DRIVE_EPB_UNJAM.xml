@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_DRIVE_EPB_UNJAM">
+	<tu
+    xmlns:lang="eng"
+  >This application will drive the electronic park brake so it is unjammed in the release direction and then drive it into the mount position.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing zal de elektronische handrem zodanig aansturen dat het vastlopen in de richting voor loszetten wordt verholpen en zal de handrem vervolgens naar de montagestand sturen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application va commander le frein de stationnement électronique afin de le débloquer dans le sens du desserrage puis de l'amener en position de montage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung verfährt die elektronische Parkbremse in Löserichtung, so dass sie nicht mehr festhängt, und dann in Anlegestellung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione azionerà il freno di stazionamento elettronico in modo da sbloccarlo nella direzione di disinnesto e quindi di portarlo nella posizione di montaggio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、エレクトロニック パーキング ブレーキを駆動してリリース方向へ固着解除し、さらにマウント ポジションへ駆動します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação accionará o travão de mão electrónico, de modo que este fique desencravado na direcção de libertação, accionando-o depois para a posição de fixação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo acionará o freio de estacionamento eletrônico para que fique na direção de liberação e, em seguida, insira-o na posição de montagem.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение позволяет разжать и выключить электронный стояночный тормоз и привести его в установочное положение.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación accionará el freno de estacionamiento electrónico de modo que se libere en el sentido de desactivación para después ponerse en la posición de montaje.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本应用程序将会驱动电子驻车制动器，以便让其在释放方向不被卡死，然后驱动其进入装配位置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 전자식 주차 브레이크를 해제 방향으로 걸림이 제거되도록 구동한 후 장착 위치로 구동합니다.</tu>
+</tm>

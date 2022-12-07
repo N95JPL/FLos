@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MFACT_FREEZE_MODE">
+	<tu xmlns:lang="eng">Manufacturing/freeze mode</tu>
+	<tu xmlns:lang="nld">Fabrieks-/momentopnamefunctie</tu>
+	<tu xmlns:lang="fra">Mode usine/neutralisation</tu>
+	<tu xmlns:lang="deu">Fertigungsmodus/Modus 'Einfrieren der Luftfederung'</tu>
+	<tu xmlns:lang="ita">Modalità di produzione/blocco</tu>
+	<tu xmlns:lang="jpn">マニュファクチャリング／フリーズ モード</tu>
+	<tu xmlns:lang="ptg">Modo de fábrica/congelamento</tu>
+	<tu xmlns:lang="ptb">Modo de fabricação/travamento</tu>
+	<tu xmlns:lang="rus">Заводской режим/режим фиксации настроек</tu>
+	<tu xmlns:lang="esp">Modo de fabricación/inmovilización</tu>
+	<tu xmlns:lang="chs">制造／冻结模式</tu>
+	<tu xmlns:lang="kor">제조/일시 정지 모드</tu>
+</tm>

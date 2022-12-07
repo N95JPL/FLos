@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NOT_FITTED">
+	<tu xmlns:lang="eng">%s : Not installed</tu>
+	<tu xmlns:lang="nld">%s : Niet gemonteerd</tu>
+	<tu xmlns:lang="fra">%s : Pas installé</tu>
+	<tu xmlns:lang="deu">%s : Nicht eingebaut</tu>
+	<tu xmlns:lang="ita">%s : Non in dotazione</tu>
+	<tu xmlns:lang="jpn">%s：装備されていません。</tu>
+	<tu xmlns:lang="ptg">%s: Não instalado(a)</tu>
+	<tu xmlns:lang="ptb">%s: não instalado</tu>
+	<tu xmlns:lang="rus">%s : Не установлено</tu>
+	<tu xmlns:lang="esp">%s : No instalado</tu>
+	<tu xmlns:lang="chs">%s：未安装</tu>
+	<tu xmlns:lang="kor">%s: 설치 안 됨</tu>
+</tm>

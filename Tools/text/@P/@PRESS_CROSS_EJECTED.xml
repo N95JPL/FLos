@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PRESS_CROSS_EJECTED">
+	<tu xmlns:lang="eng">Press cross if the key has been ejected.</tu>
+	<tu xmlns:lang="nld">Druk op het kruisje als de sleutel is uitgeworpen</tu>
+	<tu xmlns:lang="fra">Appuyez sur la croix si la clé a été éjectée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Kreuz antippen, wenn der Schlüssel ausgeworfen wurde.</tu>
+	<tu xmlns:lang="ita">Premere la croce se la chiave è stata espulsa.</tu>
+	<tu xmlns:lang="jpn">キーがイジェクトされた場合、×を押しなさい。</tu>
+	<tu xmlns:lang="ptg">Prima a cruz, se a chave tiver sido ejectada.</tu>
+	<tu xmlns:lang="ptb">Pressione a cruz se a chave tiver sido ejetada.</tu>
+	<tu xmlns:lang="rus">Нажмите на крестик, если ключ был вытолкнут.</tu>
+	<tu xmlns:lang="esp">Pulsar la cruz si se ha expulsado la llave.</tu>
+	<tu xmlns:lang="chs">如果钥匙已被弹出，请按叉号。</tu>
+	<tu xmlns:lang="kor">키를 뽑은 경우 X 기호를 누르십시오.</tu>
+</tm>

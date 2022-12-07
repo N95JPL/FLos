@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_GLOW_PLUGS">
+	<tu xmlns:lang="eng">303-07B Glow plug system</tu>
+	<tu xmlns:lang="nld">303-07B Gloeistiftsysteem</tu>
+	<tu xmlns:lang="fra">303-07B Système de bougies de préchauffage</tu>
+	<tu xmlns:lang="deu">303-07B Glühkerzensystem</tu>
+	<tu xmlns:lang="ita">303-07B Sistema candele ad incandescenza</tu>
+	<tu xmlns:lang="jpn">303-07B グロー プラグ システム</tu>
+	<tu xmlns:lang="ptg">303-07B Sistema das velas de incandescência</tu>
+	<tu xmlns:lang="ptb">303-07B Sistema de velas de ignição</tu>
+	<tu xmlns:lang="rus">303-07B Свечи накаливания</tu>
+	<tu xmlns:lang="esp">303-07B Sistema de calentamiento</tu>
+	<tu xmlns:lang="chs">303-07B电热塞系统</tu>
+	<tu xmlns:lang="kor">303-07B 예열 플러그 시스템</tu>
+</tm>

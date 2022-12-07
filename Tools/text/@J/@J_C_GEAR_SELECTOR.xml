@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_GEAR_SELECTOR">
+	<tu xmlns:lang="eng">Gear selector</tu>
+	<tu xmlns:lang="nld">Transmissiehendel</tu>
+	<tu xmlns:lang="fra">Sélecteur de vitesses</tu>
+	<tu xmlns:lang="deu">Wählhebel</tu>
+	<tu xmlns:lang="ita">Selettore marce</tu>
+	<tu xmlns:lang="jpn">ギア セレクター</tu>
+	<tu xmlns:lang="ptg">Selector das mudanças</tu>
+	<tu xmlns:lang="ptb">Seletor de marchas</tu>
+	<tu xmlns:lang="rus">Селектор передач</tu>
+	<tu xmlns:lang="esp">Palanca selectora</tu>
+	<tu xmlns:lang="chs">换档杆</tu>
+	<tu xmlns:lang="kor">기어 레버</tu>
+</tm>

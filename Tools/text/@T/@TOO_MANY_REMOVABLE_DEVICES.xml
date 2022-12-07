@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TOO_MANY_REMOVABLE_DEVICES">
+	<tu
+    xmlns:lang="eng"
+  >There are too many removable devices. Please remove all but one device.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er zijn te veel verwijderbare apparaten. Verwijder alle apparaten, op één na.
+</tu>
+	<tu
+    xmlns:lang="fra"
+  >Il y a trop de périphériques amovibles. Retirez-les tous sauf un.
+</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es sind zu viele Wechseldatenträger vorhanden. Bitte alle Geräte außer einem entfernen.
+</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ci sono troppi dispositivi amovibili. Rimuovere tutti i dispositivi tranne uno.
+</tu>
+	<tu
+    xmlns:lang="jpn"
+  >リムーバブル デバイスが多過ぎます。 1 台のみ残し、その他のすべてのデバイスを取り外してください。
+</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Existem demasiados dispositivos amovíveis. Remova todos os dispositivos, menos um.
+</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Há muitos dispositivos removíveis. Mantenha apenas um dispositivo.
+</tu>
+	<tu
+    xmlns:lang="rus"
+  >Слишком много съемных устройств. Извлеките все устройства, кроме одного.
+</tu>
+	<tu
+    xmlns:lang="esp"
+  >Hay demasiados dispositivos extraíbles. Desconecte todos los dispositivos excepto uno.
+</tu>
+	<tu xmlns:lang="chs">可移动设备太多。 请保留一台设备，拆下其他所有设备。
+</tu>
+	<tu
+    xmlns:lang="kor"
+  >이동식 장치가 너무 많습니다. 한 개의 장치를 제외한 모든 장치를 제거하십시오.
+</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess10$I">
+	<tu
+    xmlns:lang="eng"
+  >When the flashing 'follow icon' lamp extinguishes, the system is correctly aligned.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer het knipperdende 'volgsymbool'-lampje uit gaat, is het systeem goed uitgelijnd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lorsque le témoin 'suivez' cesse de clignoter, le système est correctement aligné.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Erlischt das blinkende Nachfolgesymbol, ist das System korrekt ausgerichtet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quando l'icona lampeggiante della freccia della modalità di accodamento si spegne, il sistema è allineato correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >点滅する「フォロー アイコン」が消灯すると、システム アライメントは正常完了となります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando a luz do 'ícone de seguimento' a piscar se apagar, o sistema está bem alinhado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Quando a luz piscante do ícone follow apagar, o sistema estará corretamente alinhado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если пиктограмма 'follow' погаснет, корректировка системы выполнена правильно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cuando se apaga la luz del 'icono de seguimiento', significa que el sistema está correctamente alineado.</tu>
+	<tu xmlns:lang="chs">'当闪烁的 '跟踪图标' 灯熄灭时，该系统已得到正确校准。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >깜박이는 '추종 아이콘' 램프가 꺼지면 시스템이 올바르게 정렬된 것입니다.</tu>
+</tm>

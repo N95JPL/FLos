@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TPMS_TRANSP_CORRECT_MODE">
+	<tu
+    xmlns:lang="eng"
+  >To place the transponders into the correct test mode the vehicle must be driven at a speed &gt; 30 kph for 35 seconds.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om de antwoordzenders in de juiste testfunctie te zetten, moet er 35 seconden met een snelheid van meer dan 30 km/h worden gereden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour mettre les transpondeurs dans le mode de contrôle correct, il faut conduire le véhicule à une vitesse &gt; 30 km/h pendant 35 secondes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um die Transponder in den korrekten Prüfmodus zu bringen, muss das Fahrzeug mit einer Geschwindigkeit von mehr als 30 km/h 35 Sekunden lang gefahren werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per impostare i risponditori nella corretta modalità di prova, il veicolo deve essere guidato a una velocità superiore a 30 km/h per 35 secondi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスポンダを適切なテスト モードにするには、車両を 30 km/h 以上で 35 秒間走行させる必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para colocar os emissores-receptores no modo de teste correcto, o veículo deve ser conduzido a uma velocidade &gt; 30 km/h durante 35 segundos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para colocar os transmissores no modo de teste correto, o veículo deve ser conduzido a uma velocidade &gt; 30 km/h durante 35 segundos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для перевода передатчиков в требуемый режим тестирования автомобиль должен двигаться со скоростью выше 30 км/ч в течение 35 секунд.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para colocar los transpondedores en el modo de comprobación correcto se debe conducir el vehículo a una velocidad superior a 30 km/h durante 35 segundos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >要想将发射机应答器置于正确的测试模式，车辆必须以高于30 kph的速度行驶35秒。</tu>
+	<tu
+    xmlns:lang="kor"
+  >트랜스폰더를 올바른 테스트 모드로 전환하려면 차량을 35초간 30kph 이상의 속도로 주행해야 합니다.</tu>
+</tm>

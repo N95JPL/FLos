@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_DOWNLOAD">
+	<tu
+    xmlns:lang="eng"
+  >Do you wish to download the vehicle configuration file?</tu>
+	<tu xmlns:lang="nld">Wilt u het voertuigconfiguratiebestand downloaden?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Voulez-vous télécharger le fichier de configuration du véhicule ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Möchten Sie die Fahrzeug-Konfigurationsdatei herunterladen?</tu>
+	<tu xmlns:lang="ita">Scaricare il file di configurazione veicolo?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション ファイルをダウンロードしますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pretende fazer o descarregamento ('download') do ficheiro de configuração do veículo?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Deseja fazer download do arquivo de configuração de veículo?</tu>
+	<tu xmlns:lang="rus">Загрузить файл конфигурации автомобиля?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Desea descargar el archivo de configuración del vehículo?</tu>
+	<tu xmlns:lang="chs">您想下载车辆配置文件吗？</tu>
+	<tu xmlns:lang="kor">차량 구성 파일을 다운로드하시겠습니까?</tu>
+</tm>

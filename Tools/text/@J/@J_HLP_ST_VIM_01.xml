@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_VIM_01">
+	<tu
+    xmlns:lang="eng"
+  >On receipt of this command the vehicle immobiliser module shall perform a 'lock' to 'unlock' cycle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zodra de regelmodule van startblokkering deze opdracht ontvangt, zal hij de cyclus 'vergrendelen' naar 'ontgrendelen' uitvoeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >A réception de cette commande, le module antidémarrage exécutera un cycle de 'verrouillage' à 'déverrouillage'.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beim Empfang dieses Befehls schaltet das Wegfahrsperren-Steuergerät des Fahrzeugs von 'verriegelt' auf 'entriegelt' um.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al ricevimento di questo comando, il modulo immobilizzatore del veicolo esegue un ciclo di 'bloccaggio' e 'sbloccaggio'.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このコマンドを受信したとき車両イモビライザ モジュールはロックからアンロックへのサイクルを実行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ao receber este comando, o módulo do imobilizador do veículo efectua um ciclo de 'bloqueio' para 'desbloqueio'.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Depois desse comando, o módulo do imobilizador do veículo deverá efetuar um ciclo detravamento e destravamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При получении данной команды блок иммобилайзера автомобиля должен выполнить цикл 'запирание' - 'отпирание'.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Al recibir este comando, el módulo de inmovilización del vehículo realizará un ciclo de bloqueo a desbloqueo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >接到这一命令时，车辆防盗锁止模块将执行一个'锁定'到'解锁'循环。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 명령을 수신할 때 차량 이모빌라이저 모듈이 '잠금' 및 '잠금 해제' 사이클을 수행합니다.</tu>
+</tm>

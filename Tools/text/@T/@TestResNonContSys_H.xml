@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TestResNonContSys_H">
+	<tu xmlns:lang="eng">Test results for non-continuously monitored systems</tu>
+	<tu xmlns:lang="nld">Testresultaten van niet voortdurend bewaakte systemen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Testez les résultats des systèmes non surveillés en continu</tu>
+	<tu
+    xmlns:lang="deu"
+  >Testergebnisse für nicht kontinuierlich überwachte Systeme</tu>
+	<tu
+    xmlns:lang="ita"
+  >Risultati delle prove di sistemi non monitorati continuamente</tu>
+	<tu xmlns:lang="jpn">非連続モニター システムのテスト結果</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Resultados de teste para sistemas não monitorizados de forma contínua</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Resultados do teste para sistemas não monitorados continuamente</tu>
+	<tu xmlns:lang="rus">Результаты проверки систем периодического мониторинга</tu>
+	<tu
+    xmlns:lang="esp"
+  >Resultados de pruebas para sistemas de control no continuo</tu>
+	<tu xmlns:lang="chs">非连续监测系统的测试结果</tu>
+	<tu xmlns:lang="kor">단속적으로 모니터링되는 시스템의 테스트 결과</tu>
+</tm>

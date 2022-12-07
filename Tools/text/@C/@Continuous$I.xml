@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Continuous$I">
+	<tu xmlns:lang="eng">Continuous</tu>
+	<tu xmlns:lang="nld">Continu</tu>
+	<tu xmlns:lang="fra">Continu</tu>
+	<tu xmlns:lang="deu">Kontinuierlich</tu>
+	<tu xmlns:lang="ita">Continuo</tu>
+	<tu xmlns:lang="jpn">継続</tu>
+	<tu xmlns:lang="ptg">Contínuo</tu>
+	<tu xmlns:lang="ptb">Contínuo</tu>
+	<tu xmlns:lang="rus">Непрерывно</tu>
+	<tu xmlns:lang="esp">Continuo</tu>
+	<tu xmlns:lang="chs">连续测试</tu>
+	<tu xmlns:lang="kor">연속</tu>
+</tm>

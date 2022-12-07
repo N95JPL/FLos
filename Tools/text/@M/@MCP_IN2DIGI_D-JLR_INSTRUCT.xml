@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_IN2DIGI_D-JLR_INSTRUCT">
+	<tu
+    xmlns:lang="eng"
+  >This application must be used to add or remove the in2digi D-JLR digital radio accessory kit. Please make sure new module is fitted 'before' this application is carried out.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing moet worden gebruikt om de in2digi D-JLR accessoire set voor digitale radio toe te voegen of te verwijderen. Zorg ervoor dat de nieuwe module is gemonteerd 'voordat' deze toepassing wordt uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application doit être utilisée pour ajouter ou supprimer le kit de radio numérique accessoire in2digi D-JLR. Veuillez vérifier que le nouveau module est installé avant que cette application ne soit exécutée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung muss zum Hinzufügen und Entfernen des Digitalradio-Zubehörkits von in2digi D-JLR verwendet werden. Bitte vor Ausführung dieser Anwendung sicherstellen, dass das neue Modul befestigt ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Utilizzare questa applicazione per aggiungere o rimuovere il kit accessori autoradio digitale D-JLR in2digi. Accertarsi che il nuovo modulo venga installato 'prima' di eseguire questa applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、in2digi D-JLR デジタル ラジオ アクセサリ キットを追加または削除するために使用する必要があります。 このアプリケーションを実行する「前」に、必ず新品のモジュールを取り付けてください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação tem de ser utilizada para adicionar ou remover o kit acessório de rádio digital in2digi D-JLR. Certifique-se de que módulo novo é montado antes de executar esta aplicação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esse aplicativo deve ser usado para adicionar ou remover o kit de acessórios de rádio digital in2digi D-JLR. Certifique-se de que o novo módulo foi instalado antes da execução desse aplicativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение необходимо использовать для добавления или удаления комплекта дополнительного оборудования цифрового радиовещания in2digi серии D-JLR. Перед запуском этого приложения убедитесь, что установлен новый блок.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación se debe utilizar para añadir o eliminar el kit opcional de radio digital in2digi D-JLR. Asegúrese de que el nuevo módulo está instalado antes de ejecutar esta aplicación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >必须使用此应用程序添加或删除 in2digi D-JLR 数字广播附件套件。 请确保在执行此应用程序“之前”已安装新模块。</tu>
+	<tu
+    xmlns:lang="kor"
+  >in2digi D-JLR 디지털 라디오 액세서리 키트를 추가하거나 제거하려면 이 응용 프로그램을 사용해야 합니다. 이 응용 프로그램을 실행하기 전에 새 모듈이 장착되어 있는지 확인하십시오.</tu>
+</tm>

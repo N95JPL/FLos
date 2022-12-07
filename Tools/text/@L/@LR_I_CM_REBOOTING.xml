@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_I_CM_REBOOTING">
+	<tu xmlns:lang="eng">Control module is rebooting.</tu>
+	<tu xmlns:lang="nld">De regelmodule wordt opnieuw gestart.</tu>
+	<tu xmlns:lang="fra">Réinitialisation du module de commande.</tu>
+	<tu xmlns:lang="deu">Steuergerät führt Neustart durch.</tu>
+	<tu xmlns:lang="ita">Modulo comando in corso reinizializzazione.</tu>
+	<tu xmlns:lang="jpn">コントロール モジュール再起動中。</tu>
+	<tu xmlns:lang="ptg">O módulo de comando está a ser reiniciado.</tu>
+	<tu xmlns:lang="ptb">O módulo de controle está sendo reinicializado.</tu>
+	<tu xmlns:lang="rus">Блок управления перезагружается.</tu>
+	<tu xmlns:lang="esp">El módulo de control se está reiniciando.</tu>
+	<tu xmlns:lang="chs">控制模块正在重新启动。</tu>
+	<tu xmlns:lang="kor">컨트롤 모듈이 재부팅 중임</tu>
+</tm>

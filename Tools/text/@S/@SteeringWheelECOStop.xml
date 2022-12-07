@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SteeringWheelECOStop">
+	<tu
+    xmlns:lang="eng"
+  >Do not move the steering wheel while the vehicle is in a stop/start system stop mode. Moving the steering wheel may induce an early re-start.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Draai niet aan het stuurwiel wanneer het voertuig zich in een stop-modus van het Stop/Start-systeem bevindt. Aan het stuur draaien kan een voortijdige herstart veroorzaken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ne pas tourner le volant quand le véhicule est en mode arrêt du système Arrêt/Démarrage. Le fait de tourner le volant peut entraîner un redémarrage rapide.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Lenkrad nicht bewegen, während sich das Fahrzeug im Stopp-Modus des Stopp/Start-Systems befindet. Bewegungen des Lenkrads können zu einem frühen Neustart des Motors führen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non muovere il volante quando il veicolo è in modalità di arresto del sistema Stop/Start. Il movimento del volante potrebbe attivare un riavvio anticipato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両がスタート/ストップ システム停止モードになっている間は、ステアリング ホイールを動かさないでください。 ステアリング ホイールを動かすと、すぐに再始動できます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não mova o volante enquanto o veículo se encontrar no modo de paragem do sistema Stop/Start. Mover o volante pode provocar um arranque prematuro.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não mova o volante enquanto o veículo estiver em um modo de parada do sistema stop/start. A movimentação do volante pode induzir uma nova partida precoce.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не поворачивайте рулевое колесо, пока автомобиль находится в режиме останова системы стоп/старт. Движение рулевого колеса может вызвать ранний повторный запуск.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No mueva el volante mientras el vehículo se encuentra en el modo de parada del sistema Stop/Start. Si mueve el volante, es posible que el vehículo vuelva a arrancar de forma prematura.</tu>
+	<tu
+    xmlns:lang="chs"
+  >当车辆处于停止/启动系统停止模式下时，切勿移动方向盘。 移动方向盘会引起重新起动提前。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량이 Stop/Start 시스템 Stop 모드에 있는 동안에는 스티어링 휠을 움직이지 마십시오. 스티어링 휠을 움직이면 조기에 재시동될 수 있습니다.</tu>
+</tm>

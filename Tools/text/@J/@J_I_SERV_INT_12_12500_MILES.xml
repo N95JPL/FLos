@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERV_INT_12_12500_MILES">
+	<tu xmlns:lang="eng">Service interval 12  -  12500 miles</tu>
+	<tu xmlns:lang="nld">Onderhoudsinterval 12  -  12500 mijl</tu>
+	<tu xmlns:lang="fra">Périodicité d'entretien 12  -  12 500 miles</tu>
+	<tu xmlns:lang="deu">Wartungsintervall 12  -  12500 Meilen</tu>
+	<tu xmlns:lang="ita">Intervallo di servizio (tagliando) 12  -  12500 miglia</tu>
+	<tu xmlns:lang="jpn">サービス インターバル 12  －  12500 マイル</tu>
+	<tu xmlns:lang="ptg">Intervalo de revisão 12  -  12500 milhas</tu>
+	<tu xmlns:lang="ptb">Intervalo de Manutenção 12  -  12500 milhas</tu>
+	<tu xmlns:lang="rus">Интервал периодичности обслуживания 12  -  12500 миль</tu>
+	<tu xmlns:lang="esp">Intervalo de servicio 12  -  12500 millas</tu>
+	<tu xmlns:lang="chs">维护间隔时间 12  -  12500 英里</tu>
+	<tu xmlns:lang="kor">서비스 주기 12  -  12500마일</tu>
+</tm>

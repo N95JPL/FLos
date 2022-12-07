@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart85">
+	<tu
+    xmlns:lang="eng"
+  >The auto stop/start system will resume operation when the pressure increases.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het automatische Stop/Start-systeem wordt weer ingeschakeld wanneer de druk toeneemt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le système Arrêt/Démarrage auto se réactive lorsque la pression augmente.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Auto-Stopp-Start-System nimmt den Betrieb wieder auf, wenn der Druck zunimmt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quando la pressione aumenta, il sistema Stop/Start automatico riprende a funzionare.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >外気圧が上昇すると、オート ストップ/スタート システムは作動を再開します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema Stop/Start automático retoma o funcionamento quando a pressão aumenta.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema stop/start automático retomará a operação quando a pressão aumentar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автоматическая интеллектуальная система запуска/остановки двигателя стоп/старт возобновит работу при увеличении давления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema Stop/Start automático reanudará su funcionamiento cuando la presión aumente.</tu>
+	<tu xmlns:lang="chs">压力升高后，自动停止/启动系统将恢复操作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >압력이 증가하면 자동 Stop/Start 시스템이 작동을 재개합니다.</tu>
+</tm>

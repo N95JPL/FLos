@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckPCMDTCsRectify">
+	<tu
+    xmlns:lang="eng"
+  >Check for engine control module associated DTCs and rectify as required.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer op DTC's met betrekking tot de motorregelmodule en voer de benodigde reparaties uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Rechercher les DTC associés au module de commande du moteur et corriger si nécessaire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf Motorsteuergerät-DTCs prüfen und bei Bedarf reparieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare la presenza di eventuali DTC associati al modulo di comando motore e rettificare secondo necessità.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジン コントロール モジュールに関連する DTC がないか確認し、必要に応じて修理します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique se existem códigos de avaria (DTC) associados ao módulo de controlo do motor e retifique conforme necessário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se há DTCs associados ao módulo de controle do motor e corrija conforme necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте наличие кодов DTC, относящихся к блоку управления двигателем, и устраните неисправность.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Compruebe si hay DTC asociados con el módulo de control del motor y rectifíquelos según sea necesario.</tu>
+	<tu
+    xmlns:lang="chs"
+  >检查是否存在与发动机控制模块相关的 DTC，并在需要时予以校正。</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진 컨트롤 모듈 관련 DTC가 있는지 확인하고 필요에 따라 수리하십시오.</tu>
+</tm>

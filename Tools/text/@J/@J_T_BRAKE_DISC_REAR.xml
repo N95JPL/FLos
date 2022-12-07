@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_BRAKE_DISC_REAR">
+	<tu xmlns:lang="eng">206-04 Rear disc brake</tu>
+	<tu xmlns:lang="nld">206-04 Schijfrem achter</tu>
+	<tu xmlns:lang="fra">206-04 Frein à disque arrière</tu>
+	<tu xmlns:lang="deu">206-04 Scheibenbremsen hinten</tu>
+	<tu xmlns:lang="ita">206-04 Freno a disco posteriore</tu>
+	<tu xmlns:lang="jpn">206-04 リア ディスク ブレーキ</tu>
+	<tu xmlns:lang="ptg">206-04 Travões de disco traseiros</tu>
+	<tu xmlns:lang="ptb">206-04 Freio a disco traseiro</tu>
+	<tu xmlns:lang="rus">206-04 Задний дисковый тормоз</tu>
+	<tu xmlns:lang="esp">206-04 Freno de disco trasero</tu>
+	<tu xmlns:lang="chs">206-04后碟片制动器</tu>
+	<tu xmlns:lang="kor">206-04 리어 디스크 브레이크</tu>
+</tm>

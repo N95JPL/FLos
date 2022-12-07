@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ELEC_PUM_REAR">
+	<tu xmlns:lang="eng">Electrical vacuum pump  -  Rear booster</tu>
+	<tu xmlns:lang="nld">Elektrische vacuümpomp   -  Booster achter</tu>
+	<tu xmlns:lang="fra">Pompe à vide électrique   -  Amplificateur arrière</tu>
+	<tu xmlns:lang="deu">Elektrische Unterdruckpumpe   -  Verstärker hinten</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pompa a depressione elettrica  -  Servosistema posteriore</tu>
+	<tu xmlns:lang="jpn">エレクトリック バキューム ポンプ  －  リア ブースター</tu>
+	<tu xmlns:lang="ptg">Bomba de vácuo eléctrica  -  Servofreio traseiro</tu>
+	<tu xmlns:lang="ptb">Bomba a vácuo elétrica  -  Servofreio traseiro</tu>
+	<tu xmlns:lang="rus">Электрический вакуумный насос   -  Задний усилитель</tu>
+	<tu xmlns:lang="esp">Bomba de vacío eléctrica  -  Servofreno trasero</tu>
+	<tu xmlns:lang="chs">电气真空泵  -  后增压器</tu>
+	<tu xmlns:lang="kor">전기식 진공 펌프  -  리어 부스터</tu>
+</tm>

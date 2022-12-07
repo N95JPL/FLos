@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FBUR_HEAT_SUP_VLT_10_V">
+	<tu
+    xmlns:lang="eng"
+  >Fuel burning heater supply voltage is below 10.25 volts.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voedingsspanning van de op brandstof werkende verwarming is lager dan 10,25 volt. </tu>
+	<tu
+    xmlns:lang="fra"
+  >La tension d'alimentation du chauffage à combustion de carburant est inférieure à 10,25 volts.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Versorgungsspannung des kraftstoffbetriebenen Zusatzheizers liegt unter 10,25 Volt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La tensione di alimentazione del riscaldatore a combustibile è inferiore a 10,25 V.</tu>
+	<tu xmlns:lang="jpn">フューエル燃焼ヒーター供給電圧が 10.25 V 以下。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A tensão de alimentação do aquecedor a combustível é inferior a 10,25 V.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A tensão de alimentação do aquecedor por queima de combustível está abaixo de 10,25 volts.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Напряжение питания жидкостного подогревателя ниже 10,25 вольт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La tensión de alimentación del calefactor a gasóleo es inferior a 10,25 voltios.</tu>
+	<tu xmlns:lang="chs">燃油燃烧型加热器供电电压低于10.25伏。</tu>
+	<tu xmlns:lang="kor">연료 연소식 히터 공급 전압이 10.25V보다 낮습니다.</tu>
+</tm>

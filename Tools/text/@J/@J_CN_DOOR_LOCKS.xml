@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CN_DOOR_LOCKS">
+	<tu xmlns:lang="eng">Door locks</tu>
+	<tu xmlns:lang="nld">Portiersloten</tu>
+	<tu xmlns:lang="fra">Serrures de porte</tu>
+	<tu xmlns:lang="deu">Türschlösser</tu>
+	<tu xmlns:lang="ita">Serrature portiere</tu>
+	<tu xmlns:lang="jpn">Door locks</tu>
+	<tu xmlns:lang="ptg">Fechaduras das portas</tu>
+	<tu xmlns:lang="ptb">Travas da porta</tu>
+	<tu xmlns:lang="rus">Дверные замки</tu>
+	<tu xmlns:lang="esp">Cerraduras de las puertas</tu>
+	<tu xmlns:lang="chs">车门锁</tu>
+	<tu xmlns:lang="kor">도어 록</tu>
+</tm>

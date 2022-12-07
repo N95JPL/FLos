@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SUSP_HEIGHT_CALIBRATION">
+	<tu xmlns:lang="eng">Suspension height calibration</tu>
+	<tu xmlns:lang="nld">Kalibrering van wielophangingshoogte</tu>
+	<tu xmlns:lang="fra">Etalonnage de la hauteur de suspension</tu>
+	<tu xmlns:lang="deu">Fahrhöhen-Kalibrierung</tu>
+	<tu xmlns:lang="ita">Taratura dell'altezza della sospensione</tu>
+	<tu xmlns:lang="jpn">サスペンション ハイト キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem da altura da suspensão</tu>
+	<tu xmlns:lang="ptb">Calibração de altura da suspensão</tu>
+	<tu xmlns:lang="rus">Калибровка высоты подвески</tu>
+	<tu xmlns:lang="esp">Calibración de la altura de la suspensión</tu>
+	<tu xmlns:lang="chs">悬架高度校准</tu>
+	<tu xmlns:lang="kor">서스펜션 높이 보정</tu>
+</tm>

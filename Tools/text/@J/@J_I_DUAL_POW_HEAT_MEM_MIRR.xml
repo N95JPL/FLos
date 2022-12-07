@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DUAL_POW_HEAT_MEM_MIRR">
+	<tu xmlns:lang="eng">Dual power/heated/memory mirrors.</tu>
+	<tu xmlns:lang="nld">Dubbele elektrische/verwarmde/geheugenspiegels</tu>
+	<tu
+    xmlns:lang="fra"
+  >Rétroviseurs électriques/chauffants/... mémoire doubles</tu>
+	<tu
+    xmlns:lang="deu"
+  >Elektrisch verstellbare/beheizbare Außenspiegel mit Positionsspeicher</tu>
+	<tu xmlns:lang="ita">Due specchietti elettrici/riscaldati/con memoria</tu>
+	<tu xmlns:lang="jpn">デュアル電動／ヒーター／メモリ付きミラー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retrovisores exteriores de corrente dupla/com desembaciamento/com memória.</tu>
+	<tu xmlns:lang="ptb">Retrovisores elétricos/aquecidos/memória duplos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обогреваемые зеркала с двусторонним электропитанием и памятью положения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Dos retrovisores térmicos de ajuste eléctrico y con memoria</tu>
+	<tu xmlns:lang="chs">双电源/加热/记忆后视镜。</tu>
+	<tu xmlns:lang="kor">듀얼 파워/열선내장/메모리 미러</tu>
+</tm>

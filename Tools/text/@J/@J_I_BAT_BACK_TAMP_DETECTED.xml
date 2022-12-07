@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BAT_BACK_TAMP_DETECTED">
+	<tu xmlns:lang="eng">%d : Battery backed sounder tampering detected</tu>
+	<tu
+    xmlns:lang="nld"
+  >%d : Geknoei aan de sirene met accu backup gedetecteerd</tu>
+	<tu xmlns:lang="fra">%d : Détection d'effraction de sirène auto-alimentée</tu>
+	<tu
+    xmlns:lang="deu"
+  >%d : Eingriff am batterieunterstützten Signalhorn ermittelt</tu>
+	<tu xmlns:lang="ita">%d : Rilevata manomissione sirena a batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >%d : バッテリ バックアップ サウンダーへのアクセスが検知されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >%d: Detectada adulteração da buzina de alarme com bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >%d : abafamento da sirene apoiada por bateria detectado</tu>
+	<tu
+    xmlns:lang="rus"
+  >%d : Обнаружена попытка несанкционированного доступа к оповещателю с резервным питанием от аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">%d : Detectada manipulación en sirena autoalimentada</tu>
+	<tu xmlns:lang="chs">%d：已检测到有源发声器篡改</tu>
+	<tu xmlns:lang="kor">%d: 배터리 백업 경보 발생기 무단 개조가 감지됨</tu>
+</tm>

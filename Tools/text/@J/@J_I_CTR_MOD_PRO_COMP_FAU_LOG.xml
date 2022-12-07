@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CTR_MOD_PRO_COMP_FAU_LOG">
+	<tu
+    xmlns:lang="eng"
+  >Control module procedure completed with fault codes logged.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De regelmoduleprocedure is uitgevoerd, waarbij er foutcodes gelogd zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédure de module de commande terminée avec enregistrement des codes de défauts.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Steuergerät-Routine abgeschlossen, mit gespeicherten Fehlercodes.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Procedura modulo di comando completata con registrazione codici di guasto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >記録されたフォルト コードについてコントロール モジュール手順完了</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Procedimento do módulo de comando concluído com códigos de avaria registados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Procedimento do módulo de controle concluído com os códigos de falha registrados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка блока управления завершена с регистрацией кодов неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Procedimiento del módulo de control concluido, con códigos de avería registrados.</tu>
+	<tu xmlns:lang="chs">控制模块程序已完成，已记录故障码。</tu>
+	<tu xmlns:lang="kor">컨트롤 모듈 절차가 완료되었고 고장 코드가 기록됨</tu>
+</tm>

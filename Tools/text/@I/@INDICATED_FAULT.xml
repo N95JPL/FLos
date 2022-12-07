@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INDICATED_FAULT">
+	<tu xmlns:lang="eng">Indicated fault:</tu>
+	<tu xmlns:lang="nld">Aangegeven storing:</tu>
+	<tu xmlns:lang="fra">Anomalie indiquée :</tu>
+	<tu xmlns:lang="deu">Angezeigte Störung:</tu>
+	<tu xmlns:lang="ita">Guasto indicato:</tu>
+	<tu xmlns:lang="jpn">示された故障：</tu>
+	<tu xmlns:lang="ptg">Avaria indicada:</tu>
+	<tu xmlns:lang="ptb">Falha indicada:</tu>
+	<tu xmlns:lang="rus">Обнаружена неисправность:</tu>
+	<tu xmlns:lang="esp">Fallo indicado:</tu>
+	<tu xmlns:lang="chs">明示故障：</tu>
+	<tu xmlns:lang="kor">표시된 고장:</tu>
+</tm>

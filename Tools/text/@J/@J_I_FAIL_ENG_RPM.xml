@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FAIL_ENG_RPM">
+	<tu xmlns:lang="eng">Failed to obtain engine RPM.</tu>
+	<tu xmlns:lang="nld">Het motortoerental is niet verkregen.</tu>
+	<tu xmlns:lang="fra">Impossible d'obtenir le régime moteur.</tu>
+	<tu xmlns:lang="deu">Motordrehzahl konnte nicht ermittelt werden.</tu>
+	<tu xmlns:lang="ita">Impossibile ottenere giri/min motore.</tu>
+	<tu xmlns:lang="jpn">エンジン RPM の取得に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Não foi possível obter as r.p.m. do motor.</tu>
+	<tu xmlns:lang="ptb">Falha ao obter RPM do motor.</tu>
+	<tu xmlns:lang="rus">Не удалось определить обороты двигателя.</tu>
+	<tu xmlns:lang="esp">No se pudieron obtener las rpm del motor.</tu>
+	<tu xmlns:lang="chs">无法获得发动机转速。</tu>
+	<tu xmlns:lang="kor">엔진 rpm을 획득하지 못했습니다.</tu>
+</tm>

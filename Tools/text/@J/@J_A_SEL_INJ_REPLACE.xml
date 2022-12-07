@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_SEL_INJ_REPLACE">
+	<tu
+    xmlns:lang="eng"
+  >Select on screen the injector to be replaced and enter the number.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Selecteer op het scherm welke injector moet worden vervangen en voer het nummer in.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélectionnez sur l'écran l'injecteur à remplacer et saisissez le numéro.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf dem Bildschirm das zu ersetzende Einspritzventil auswählen und die Nummer eingeben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezionare sullo schermo l'iniettore da sostituire e immettere il numero.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >画面で交換するインジェクタを選択し、ナンバーを入力しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccionar no ecrã o injector a substituir e introduzir o número.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Selecione, na tela, o injetor a ser substituído e insira o número.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выберите на экране заменяемую форсунку и введите номер.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccionar en pantalla el inyector que se va a sustituir e introducir el número.</tu>
+	<tu xmlns:lang="chs">在显示屏上选择将要更换的喷油器，并输入标识号码。</tu>
+	<tu xmlns:lang="kor">화면에서 교체할 인젝터를 선택하고 번호를 입력하십시오.</tu>
+</tm>

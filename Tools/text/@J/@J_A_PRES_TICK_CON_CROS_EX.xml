@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PRES_TICK_CON_CROS_EX">
+	<tu
+    xmlns:lang="eng"
+  >Press the confirmation tick to continue or cross to exit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op de afvinktoets om verder te gaan of op het kruisje om de functie te verlaten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cochez la case de confirmation pour continuer ou cliquez sur la croix pour quitter le menu.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zum Fortfahren das Häkchen, zum Verlassen das Kreuz antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il tasto di spunta di conferma per continuare o la croce per uscire.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >確認のティックを押して続行するか、あるいは×を押して終了しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Premir o sinal de confirmação para continuar ou o xis para sair.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione a marca de confirmação para continuar ou cruz para sair.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажать на галочку подтверждения, чтобы продолжить работу или нажать крестик, чтобы выйти из программы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de confirmación para continuar o la cruz para salir.</tu>
+	<tu xmlns:lang="chs">打勾继续，或打叉退出。</tu>
+	<tu
+    xmlns:lang="kor"
+  >계속하려면 확인 체크 표시를 누르고, 종료하려면 십자 기호를 누르십시오.</tu>
+</tm>

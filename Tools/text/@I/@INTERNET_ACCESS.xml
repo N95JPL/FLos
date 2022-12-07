@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INTERNET_ACCESS">
+	<tu xmlns:lang="eng">Internet access</tu>
+	<tu xmlns:lang="nld">Internettoegang</tu>
+	<tu xmlns:lang="fra">Accès Internet.</tu>
+	<tu xmlns:lang="deu">Internetzugang</tu>
+	<tu xmlns:lang="ita">Accesso Internet</tu>
+	<tu xmlns:lang="jpn">インターネット アクセス</tu>
+	<tu xmlns:lang="ptg">Acesso a Internet</tu>
+	<tu xmlns:lang="ptb">Acesso à internet</tu>
+	<tu xmlns:lang="rus">Доступ в Интернет</tu>
+	<tu xmlns:lang="esp">Acceso a Internet</tu>
+	<tu xmlns:lang="chs">互联网访问</tu>
+	<tu xmlns:lang="kor">인터넷 액세스</tu>
+</tm>

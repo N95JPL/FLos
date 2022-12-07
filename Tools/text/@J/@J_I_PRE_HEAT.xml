@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PRE_HEAT">
+	<tu xmlns:lang="eng">Pre-heating.</tu>
+	<tu xmlns:lang="nld">Voorverwarming.</tu>
+	<tu xmlns:lang="fra">Préchauffage.</tu>
+	<tu xmlns:lang="deu">Vorheizung.</tu>
+	<tu xmlns:lang="ita">Preriscaldamento.</tu>
+	<tu xmlns:lang="jpn">予\熱</tu>
+	<tu xmlns:lang="ptg">Pré-aquecimento.</tu>
+	<tu xmlns:lang="ptb">Pré-aquecimento.</tu>
+	<tu xmlns:lang="rus">Предварительный нагрев.</tu>
+	<tu xmlns:lang="esp">Precalentamiento.</tu>
+	<tu xmlns:lang="chs">预加热。</tu>
+	<tu xmlns:lang="kor">예열</tu>
+</tm>

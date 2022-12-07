@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PressTkAbort$I">
+	<tu xmlns:lang="eng">Press tick to abort.</tu>
+	<tu xmlns:lang="nld">Druk op de afvinktoets om af te breken.</tu>
+	<tu xmlns:lang="fra">Appuyez sur coche pour abandonner</tu>
+	<tu xmlns:lang="deu">Haken (Tick) drücken, um abzubrechen</tu>
+	<tu xmlns:lang="ita">Premere il segno Visto per interrompere</tu>
+	<tu xmlns:lang="jpn">ティック印を押し中止して下さい。</tu>
+	<tu xmlns:lang="ptg">Premir o visto para cancelar.</tu>
+	<tu xmlns:lang="ptb">Pressione a marca para cancelar.</tu>
+	<tu xmlns:lang="rus">Нажмите галочку, чтобы прервать выполнение.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de continuar para interrumpir la prueba.</tu>
+	<tu xmlns:lang="chs">按下勾选键中止。</tu>
+	<tu xmlns:lang="kor">중단하려면 체크 표시를 누르십시오.</tu>
+</tm>

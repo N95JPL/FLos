@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DISABLE_SERVICE_INTERVAL">
+	<tu xmlns:lang="eng">Disable the service interval.</tu>
+	<tu xmlns:lang="nld">Meldingen voor onderhoudsbeurten uitschakelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Désactivation de l'intervalle jusqu'à la prochaine révision.</tu>
+	<tu xmlns:lang="deu">Das Wartungsintervall deaktivieren.</tu>
+	<tu xmlns:lang="ita">Disattivare l'intervallo di manutenzione.</tu>
+	<tu xmlns:lang="jpn">サービス インターバルを非作動にします。</tu>
+	<tu xmlns:lang="ptg">Desative os intervalos de revisão.</tu>
+	<tu xmlns:lang="ptb">Desative o intervalo de serviço.</tu>
+	<tu xmlns:lang="rus">Отменить интервал технического обслуживания.</tu>
+	<tu xmlns:lang="esp">Inhabilitar el intervalo entre revisiones.</tu>
+	<tu xmlns:lang="chs">禁用保养间隔。</tu>
+	<tu xmlns:lang="kor">서비스 주기를 비활성화하십시오.</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart203">
+	<tu
+    xmlns:lang="eng"
+  >Selective catalyst reduction (SCR) system temperature is too low</tu>
+	<tu
+    xmlns:lang="nld"
+  >De temperatuur van het systeem voor selectieve katalytische reductie (SCR) is te laag</tu>
+	<tu
+    xmlns:lang="fra"
+  >La température du système de réduction catalytique sélective (SCR) est trop basse</tu>
+	<tu
+    xmlns:lang="deu"
+  >Temperatur des SCR-Systems (selektive katalytische Reduktion) zu niedrig</tu>
+	<tu
+    xmlns:lang="ita"
+  >La temperatura del sistema SCR (Selective Catalyst Reduction, riduzione catalitica selettiva) è troppo bassa</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セレクティブ触媒リダクション (SCR) システムの温度が低すぎる</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temperatura do sistema de redução catalítica seletiva (SCR) demasiado baixa</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Temperatura do sistema de redução catalítica seletiva (SCR) muito baixa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Слишком низкая температура системы селективного каталитического восстановления оксидов азота (SCR)</tu>
+	<tu
+    xmlns:lang="esp"
+  >La temperatura del sistema de reducción catalítica selectiva (SCR) es demasiado baja</tu>
+	<tu xmlns:lang="chs">选择性催化还原 (SCR) 系统温度过低</tu>
+	<tu xmlns:lang="kor">선택적 촉매 환원(SCR) 시스템 온도가 너무 낮음</tu>
+</tm>

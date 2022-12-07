@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@USERNAME">
+	<tu xmlns:lang="eng">Username</tu>
+	<tu xmlns:lang="nld">Gebruikersnaam</tu>
+	<tu xmlns:lang="fra">Nom d'utilisateur</tu>
+	<tu xmlns:lang="deu">Benutzername</tu>
+	<tu xmlns:lang="ita">Nome utente</tu>
+	<tu xmlns:lang="jpn">ユーザー名</tu>
+	<tu xmlns:lang="ptg">Nome do utilizador</tu>
+	<tu xmlns:lang="ptb">Nome de usuário</tu>
+	<tu xmlns:lang="rus">Имя пользователя</tu>
+	<tu xmlns:lang="esp">Nombre de usuario</tu>
+	<tu xmlns:lang="chs">用户名</tu>
+	<tu xmlns:lang="kor">사용자 이름</tu>
+</tm>

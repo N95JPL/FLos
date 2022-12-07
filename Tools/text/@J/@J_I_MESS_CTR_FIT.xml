@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MESS_CTR_FIT">
+	<tu xmlns:lang="eng">Message center is fiited.</tu>
+	<tu xmlns:lang="nld">Er is een message centre geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Afficheur multimessage installé.</tu>
+	<tu xmlns:lang="deu">Informationsdisplay ist eingebaut.</tu>
+	<tu xmlns:lang="ita">Display messaggi in dotazione.</tu>
+	<tu xmlns:lang="jpn">メッセージ センター装備</tu>
+	<tu xmlns:lang="ptg">Está instalado um centro de mensagens.</tu>
+	<tu xmlns:lang="ptb">Centro de mensagens instalado.</tu>
+	<tu xmlns:lang="rus">Установлена информационная панель.</tu>
+	<tu xmlns:lang="esp">Tiene centro de mensajes.</tu>
+	<tu xmlns:lang="chs">消息中心已安装。</tu>
+	<tu xmlns:lang="kor">메시지 센터가 장착되었습니다.</tu>
+</tm>

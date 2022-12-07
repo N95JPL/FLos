@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart66">
+	<tu
+    xmlns:lang="eng"
+  >This condition is normally present following an engine start and will clear after a short time period.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toestand is normaal gesproken aanwezig na het starten van de motor en verdwijnt na korte tijd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette condition survient normalement suite à un démarrage du moteur et disparaît après un court délai.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Zustand ist normalerweise nach einem Motorstart vorhanden und verschwindet nach einer kurzen Zeit.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Normalmente questa condizione si verifica avviando il motore e scompare rapidamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この状態は、通常、エンジン始動後に発生しますが、しばらくすると解消されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta condição surge normalmente após um arranque do motor e apaga-se após um curto período de tempo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa condição normalmente surge após uma partida do motor e desaparece após um curto período de tempo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Как правило, данное состояние присутствует после запуска двигателя и исчезает через короткий промежуток времени.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta condición se presenta normalmente tras arrancar el motor y desaparecerá tras un breve periodo de tiempo.</tu>
+	<tu xmlns:lang="chs">这种情况通常在发动机起动后出现，短时间过后消失。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 상태는 일반적으로 엔진 시동 후에 발생하며 짧은 시간이 지난 후 해소됩니다.</tu>
+</tm>

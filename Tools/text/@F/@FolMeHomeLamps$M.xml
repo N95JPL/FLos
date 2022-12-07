@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FolMeHomeLamps$M">
+	<tu xmlns:lang="eng">Follow me home lamps.</tu>
+	<tu xmlns:lang="nld">Instapverlichting.</tu>
+	<tu xmlns:lang="fra">Extinction temporisée des phares.</tu>
+	<tu xmlns:lang="deu">Scheinwerfer-Ausschaltverzögerung.</tu>
+	<tu xmlns:lang="ita">Funzione spegnimento ritardato luci.</tu>
+	<tu xmlns:lang="jpn">帰着支援ランプ</tu>
+	<tu xmlns:lang="ptg">Iluminação temporária ao afastar-se do veículo.</tu>
+	<tu xmlns:lang="ptb">Luzes do Follow me home.</tu>
+	<tu xmlns:lang="rus">Задержка выключения фар после выхода из автомобиля.</tu>
+	<tu xmlns:lang="esp">Retardo de luces al salir.</tu>
+	<tu xmlns:lang="chs">随我回家灯。</tu>
+	<tu xmlns:lang="kor">에스코트 램프</tu>
+</tm>

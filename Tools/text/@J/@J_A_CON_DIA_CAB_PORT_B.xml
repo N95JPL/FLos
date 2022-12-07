@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_CON_DIA_CAB_PORT_B">
+	<tu
+    xmlns:lang="eng"
+  >Connect the diagnostic cable (B203) to the tester in port B and to the vehicle, body diagnostic socket.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Sluit de diagnosekabel (B203) aan op poort B van het testapparaat en de diagnose-aansluiting van de carrosserie op het voertuig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Connectez le câble de diagnostic (B203) au port B du contrôleur et à la prise de diagnostic de carrosserie du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diagnosekabel (B203) am Prüfgerät an Anschluss B und am Fahrzeug am Karosserie-Diagnoseanschluss anschließen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Collegare il cavo diagnostico (B203) all'apertura B dell'apparecchio di prova e alla vettura, presa di diagnostica della carrozzeria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >診断ケーブル (B203) をテスターのポート B および車両のボディ診断ソ\ケットへ接続しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligue o cabo de diagnóstico (B203) ao dispositivo de teste na porta B e à tomada de diagnóstico na carroçaria do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conecte o cabo de diagnóstico (B203) no dispositivo de teste na porta B e no veículo, soquete de diagnóstico da carroceria.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подключите диагностический кабель (B203) к порту В тестера и к диагностическому гнезду кузова автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Enchufar el cable de diagnosis (B203) al puerto B del comprobador y al vehículo, en el enchufe para diagnosis de la carrocería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'将诊断电缆（B203）连接到测试仪端口B，并连接到车辆、车身诊断插座。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >진단 케이블(B203)을 포트 B의 테스터와 차량, 차체 진단 소켓에 연결하십시오.</tu>
+</tm>

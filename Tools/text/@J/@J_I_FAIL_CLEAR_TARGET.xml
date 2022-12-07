@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FAIL_CLEAR_TARGET">
+	<tu xmlns:lang="eng">Failed to clear the target identifier.</tu>
+	<tu xmlns:lang="nld">Het wissen van de gewenste identificatie is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec d'effacement de l'identificateur cible.</tu>
+	<tu xmlns:lang="deu">Zielkennung konnte nicht gelöscht werden.</tu>
+	<tu xmlns:lang="ita">Cancellazione identificativo target non riuscita.</tu>
+	<tu xmlns:lang="jpn">ターゲット ID 機能\のクリアに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Não foi possível eliminar o identificador de alvo.</tu>
+	<tu xmlns:lang="ptb">Falha ao apagar o identificador alvo.</tu>
+	<tu xmlns:lang="rus">Ошибка удаления целевого идентификатора.</tu>
+	<tu xmlns:lang="esp">No se pudo borrar el identificador del objetivo.</tu>
+	<tu xmlns:lang="chs">未能清除目标标识符。</tu>
+	<tu xmlns:lang="kor">대상 식별자를 삭제하지 못했습니다.</tu>
+</tm>

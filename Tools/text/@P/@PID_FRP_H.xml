@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PID_FRP_H">
+	<tu xmlns:lang="eng">Fuel rail pressure</tu>
+	<tu xmlns:lang="nld">Druk van de common rail</tu>
+	<tu xmlns:lang="fra">Pression de rampe d'injection</tu>
+	<tu xmlns:lang="deu">Druck Kraftstoffverteilerrohr</tu>
+	<tu xmlns:lang="ita">Pressione collettore alimentazione carburante</tu>
+	<tu xmlns:lang="jpn">フューエル レール プレッシャ</tu>
+	<tu xmlns:lang="ptg">Pressão da régua distribuidora de combustível</tu>
+	<tu xmlns:lang="ptb">Pressão da flauta de combustível</tu>
+	<tu xmlns:lang="rus">Давление в топливной магистрали.</tu>
+	<tu xmlns:lang="esp">Presión en la rampa de combustible</tu>
+	<tu xmlns:lang="chs">燃油油轨压力。</tu>
+	<tu xmlns:lang="kor">연료 레일 압력</tu>
+</tm>

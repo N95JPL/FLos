@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_25">
+	<tu xmlns:lang="eng">0x25 : Not started due to accelerator pedal position out of range.</tu>
+	<tu xmlns:lang="nld">0x25 : inleren niet gestart vanwege het feit dat de gaspedaalstand buiten bereik is.</tu>
+	<tu xmlns:lang="fra">0x25 : Non commencé à cause de la position de pédale d'accélération hors limites.</tu>
+	<tu xmlns:lang="deu">0x25 : Nicht angelaufen, da Gaspedalstellung außerhalb des Bereichs.</tu>
+	<tu xmlns:lang="ita">0x25 : Non avviato a causa della posizione del pedale dell'acceleratore fuori gamma.</tu>
+	<tu xmlns:lang="jpn">0x25 : アクセル ペダル ポジションが規定範囲外のためスタートせず。</tu>
+	<tu xmlns:lang="ptg">0x25 : Não iniciado devido a posição do pedal do acelerador fora da gama.</tu>
+	<tu xmlns:lang="ptb">0X25 : Não iniciado devido a posição do pedal do acelerador fora da faixa.</tu>
+	<tu xmlns:lang="rus">0x25 : Запуск не выполнен, так как положение педали акселератора за пределами допустимого диапазона.</tu>
+	<tu xmlns:lang="esp">0x25: No se inició por encontrarse fuera de límites la posición del pedal del acelerador.</tu>
+	<tu xmlns:lang="chs">0x25： 由于加速踏板位置超出范围而没有启动。</tu>
+	<tu xmlns:lang="kor">0x25 : 가속 페달 위치가 범위를 벗어났기 때문에 시작되지 않습니다.</tu>
+</tm>

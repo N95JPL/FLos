@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DISAB_KEY_NOT_PROG">
+	<tu
+    xmlns:lang="eng"
+  >The key being used may be disabled, this has not been programmed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De gebruikte sleutel wordt misschien gedeactiveerd. De sleutel is niet geprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La clé utilisée est peut-être désactivée, ceci n'a pas été programmé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der genutzte Schlüssel kann deaktiviert sein, dies wurde nicht programmiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La chiave in uso potrebbe essere disabilitata, questa non è stata programmata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >使用中のキーは作動不可の可能\性があります。このキーはプログラムされていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A chave que está a ser usada pode estar desactivada; não foi programada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A chave que está sendo usada pode ser desativada, ela não foi programada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Используемый ключ может быть заблокирован, он не запрограммирован.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Es posible que la llave que se está usando esté desactiva. No ha sido programada.</tu>
+	<tu xmlns:lang="chs">使用中的车钥可能会被禁用，未对此进行过编程。</tu>
+	<tu
+    xmlns:lang="kor"
+  >사용 중인 키가 비활성화될 수 있으며, 이것은 프로그래밍되지 않았습니다.</tu>
+</tm>

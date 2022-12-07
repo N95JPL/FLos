@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LOGGER_PRE_TRIGGER$T">
+	<tu xmlns:lang="eng">Pre-trigger</tu>
+	<tu xmlns:lang="nld">Vóórtrekker</tu>
+	<tu xmlns:lang="fra">Pré-déclenchement</tu>
+	<tu xmlns:lang="deu">Zeitspanne vor der auslösung</tu>
+	<tu xmlns:lang="ita">Antescatto</tu>
+	<tu xmlns:lang="jpn">ﾌﾟﾘ・ﾄﾘｶﾞー</tu>
+	<tu xmlns:lang="ptg">Pré-disparo</tu>
+	<tu xmlns:lang="ptb">Pré-acionador</tu>
+	<tu xmlns:lang="rus">До срабатывания триггера</tu>
+	<tu xmlns:lang="esp">Antedisparo</tu>
+	<tu xmlns:lang="chs">前触发器</tu>
+	<tu xmlns:lang="kor">사전 트리거</tu>
+</tm>

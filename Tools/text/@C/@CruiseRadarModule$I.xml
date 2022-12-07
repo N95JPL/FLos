@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CruiseRadarModule$I">
+	<tu xmlns:lang="eng">Speed control module or radar.</tu>
+	<tu xmlns:lang="nld">Regelmodule van cruise control of radar.</tu>
+	<tu xmlns:lang="fra">Module ou radar de régulateur de vitesse.</tu>
+	<tu xmlns:lang="deu">Geschwindigkeitsregelungs-Steuergerät oder Radar.</tu>
+	<tu xmlns:lang="ita">Modulo di comando velocità o radar.</tu>
+	<tu xmlns:lang="jpn">スピード コントロール モジュールまたはレーダー</tu>
+	<tu xmlns:lang="ptg">Módulo de controlo da velocidade ou radar.</tu>
+	<tu xmlns:lang="ptb">Módulo ou radar de controle de velocidade.</tu>
+	<tu xmlns:lang="rus">Блок круиз-контроля или радар.</tu>
+	<tu xmlns:lang="esp">Radar o módulo de control de velocidad.</tu>
+	<tu xmlns:lang="chs">速度控制模块或雷达。</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤 모듈 또는 레이더</tu>
+</tm>

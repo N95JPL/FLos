@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_REMOTE_CONV_COMPONENTS">
+	<tu xmlns:lang="eng">Remote convenience components</tu>
+	<tu xmlns:lang="nld">Componenten comfort op afstand</tu>
+	<tu xmlns:lang="fra">Composants de la commande a distance de commodite</tu>
+	<tu xmlns:lang="deu">Fernbedienungskomponenten</tu>
+	<tu xmlns:lang="ita">Componenti funzioni telecomandate</tu>
+	<tu xmlns:lang="jpn">リモート コ・ビニエ・ス コ・ポーネ・ド</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Componentes dos dispositivos de conveniência à distância</tu>
+	<tu xmlns:lang="ptb">Componentes de conveniência remota</tu>
+	<tu xmlns:lang="rus">Компоненты дистанционного управления</tu>
+	<tu
+    xmlns:lang="esp"
+  >Componentes de las funciones de dispositivo a distancia</tu>
+	<tu xmlns:lang="chs">遥控方便元件</tu>
+	<tu xmlns:lang="kor">원격 편의 구성 요소</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STEER_GEAR_SPD">
+	<tu xmlns:lang="eng">Steering gear  -  Speed sensitive</tu>
+	<tu xmlns:lang="nld">Stuurinrichting  -  Snelheidsgevoelig</tu>
+	<tu xmlns:lang="fra">Boîtier de direction  -  Réactif à la vitesse</tu>
+	<tu xmlns:lang="deu">Lenkgetriebe  -  Geschwindigkeitsabhängig</tu>
+	<tu xmlns:lang="ita">Organi dello sterzo  -  Sensibile alla velocità</tu>
+	<tu xmlns:lang="jpn">ステアリング ギア  －  速度に影響されます</tu>
+	<tu xmlns:lang="ptg">Caixa da direcção  -  Sensível à velocidade</tu>
+	<tu xmlns:lang="ptb">Sistema de direção  -  Sensível à velocidade</tu>
+	<tu xmlns:lang="rus">Рулевой механизм  -  Зависит от скорости</tu>
+	<tu xmlns:lang="esp">Engranaje de dirección  -  Sensible a la velocidad</tu>
+	<tu xmlns:lang="chs">转向齿轮  -  速度感应式</tu>
+	<tu xmlns:lang="kor">스티어링 기어  -  속도에 민감함</tu>
+</tm>

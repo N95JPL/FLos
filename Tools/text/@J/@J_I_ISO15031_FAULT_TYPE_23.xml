@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_23">
+	<tu xmlns:lang="eng">General signal failure - signal stays low.</tu>
+	<tu xmlns:lang="nld">Algemene signaalfout - signaal blijft te laag.</tu>
+	<tu xmlns:lang="fra">Panne de signalisation générale - signal reste bas.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Allgemeine Signalstörung - Signal bleibt auf Tiefpegel.</tu>
+	<tu xmlns:lang="ita">Guasto generale di segnale - il segnale rimane basso.</tu>
+	<tu xmlns:lang="jpn">一般シグナル不良 － シグナル、低いまま</tu>
+	<tu xmlns:lang="ptg">Falha geral no sinal - o sinal mantém-se fraco.</tu>
+	<tu xmlns:lang="ptb">Falha geral do sinal - o sinal permanece baixo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Общая ошибка сигнала - сохраняется низкий уровень сигнала.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo general de señal: señal permanece baja (lógica 0).</tu>
+	<tu xmlns:lang="chs">一般信号故障 - 信号持续低位。</tu>
+	<tu xmlns:lang="kor">일반적인 신호 오류 - 신호가 로우 상태에 머무름</tu>
+</tm>

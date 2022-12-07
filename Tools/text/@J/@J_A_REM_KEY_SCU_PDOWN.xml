@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_REM_KEY_SCU_PDOWN">
+	<tu
+    xmlns:lang="eng"
+  >Remove the key from the starter control unit, and allow the vehicle to powerdown.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verwijder de sleutel uit de regeleenheid voor sleutelloos starten (docking station)en laat het voertuig zichzelf uitschakelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Retirez la clé du module de commande de démarrage et laissez le véhicule s'arrêter.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Schlüssel aus der Startsteuereinheit abziehen und Fahrzeugversorgung abschalten lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Togliere la chiave dall'unità di comando del motorino di avviamento e lasciare che il veicolo si spenga.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スターター コントロール ユニットからキーを取り外し、車両をパワーダウンさせなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retirar a chave da unidade de controlo do motor de arranque e deixar o veículo desligar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Retire a chave da unidade de controle de partida, permitindo que o veículo desenergização do.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Удалите ключ из блока управления стартером и дайте двигателю автомобиля заглохнуть.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Retirar la llave del módulo de control de arranque y permitir que el vehículo se desactive.</tu>
+	<tu xmlns:lang="chs">从起动机控制单元上取下车钥，使车辆停止运行。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스타터 컨트롤 유닛에서 키를 제거하고 차량 시동을 끌 수 있도록 하십시오.</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@3thButtonLamls$T">
+	<tu xmlns:lang="eng">Third button configuration - follow me home lamps.</tu>
+	<tu xmlns:lang="nld">Configuratie van de derde toets - instapverlichting.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Configuration du troisième bouton - extinction temporisée des phares. </tu>
+	<tu
+    xmlns:lang="deu"
+  >Konfiguration der 3. Taste - Scheinwerfer-Ausschaltverzögerung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Configurazione terzo pulsante - funzione spegnimento ritardato luci.</tu>
+	<tu xmlns:lang="jpn">第 3 ボタンのコンフィギュレーション － 帰着支援ランプ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Configuração do terceiro botão - iluminação temporária ao afastar-se do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Configuração do terceiro botão - luzes do follow me home.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Конфигурация третьей кнопки - задержка выключения фар после выхода из автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Configuración del tercer botón: retardo de luces al salir.</tu>
+	<tu xmlns:lang="chs">第3按钮配置 - 随我回家灯。</tu>
+	<tu xmlns:lang="kor">세 번째 버튼 구성 - 에스코트 램프</tu>
+</tm>

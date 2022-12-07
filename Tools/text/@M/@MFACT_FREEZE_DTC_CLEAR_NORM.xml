@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MFACT_FREEZE_DTC_CLEAR_NORM">
+	<tu
+    xmlns:lang="eng"
+  >During manufacturing/freeze mode diagnostic trouble codes will be set.  These codes can only be cleared by re-setting to normal mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens fabricage-/momentopnamefunctie zullen de diagnosefoutcodes worden teruggesteld.  Deze codes kunnen alleen worden gewist door de normale functie weer in te stellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pendant le mode usine/neutralisation, des codes d'anomalie seront enregistrés.  Ces codes ne peuvent être effacés qu'en repassant en mode normal.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Im Fertigungsmodus/Modus 'Einfrieren der Luftfederung' werden Fehlercodes abgespeichert.  Diese Codes können nur gelöscht werden, indem in den Normalmodus zurückgewechselt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Durante la modalità di produzione/blocco verranno registrati codici dei problemi di diagnostica.  Questi codici possono essere cancellati soltanto reimpostando il sistema nella modalità normale.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >マニュファクチャリング／フリーズ モードのセット中に診断トラブル コードが記録されます。  これらのコードはノーマル モードへリセットすることによってのみクリアできます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Durante o modo de fábrica/congelamento são definidos códigos de avaria.  Estes códigos só podem ser apagados voltando a definir o modo normal.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Durante o modo de fabricação/travamento, os códigos de problema de diagnóstico serão definidos.  Esses códigos poderão ser apagados somente com a redefinição do modo normal.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В заводском режиме/режиме фиксации настроек регистрируются диагностические коды неисправности.  Эти коды можно удалить только восстановив настройки нормального режима.</tu>
+	<tu
+    xmlns:lang="esp"
+  >En modo de fabricación/inmovilización se registrarán códigos de avería.  Estos códigos sólo se pueden borrar restableciendo el modo normal.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在制造／冻结模式下故障诊断码会被设置。  此类代码仅可以通过重置到正常模式来清除。</tu>
+	<tu
+    xmlns:lang="kor"
+  >제조/일시 정지 모드 동안 고장 진단 코드가 설정됩니다.  이들 코드는 정상 모드를 다시 설정해야만 삭제할 수 있습니다.</tu>
+</tm>

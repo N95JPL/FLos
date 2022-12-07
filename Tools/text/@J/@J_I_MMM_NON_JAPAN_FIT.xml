@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MMM_NON_JAPAN_FIT">
+	<tu xmlns:lang="eng">Multi-media module for non-Japanese market is fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is een multimediamodule voor markten buiten Japan geïnstalleerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module multimédia pour les marchés non japonais installé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Multimedia-Steuergerät für andere Märkte als den japanischen ist eingebaut.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo multimediale per i mercati non giapponesi in dotazione.</tu>
+	<tu xmlns:lang="jpn">非日本市場向けマルチメディア モジュール装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Está montado módulo do sistema multimédia não destinado a mercado japonês.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo multimídia para o mercado não japonês instalado.</tu>
+	<tu xmlns:lang="rus">Установлен мультимедийный блок для неяпонского рынка.</tu>
+	<tu xmlns:lang="esp">Tiene módulo multimedia para el mercado no japonés.</tu>
+	<tu xmlns:lang="chs">用于非日本市场的多媒体模块已安装。</tu>
+	<tu xmlns:lang="kor">일본 외 시장용 멀티미디어 모듈이 장착되었습니다.</tu>
+</tm>

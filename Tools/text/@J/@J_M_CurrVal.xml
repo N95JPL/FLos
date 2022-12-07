@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CurrVal">
+	<tu xmlns:lang="eng">Current value</tu>
+	<tu xmlns:lang="nld">Huidige waarde</tu>
+	<tu xmlns:lang="fra">Valeur actuelle</tu>
+	<tu xmlns:lang="deu">Aktueller Wert</tu>
+	<tu xmlns:lang="ita">Valore corrente</tu>
+	<tu xmlns:lang="jpn">現在の数値</tu>
+	<tu xmlns:lang="ptg">Valor da corrente</tu>
+	<tu xmlns:lang="ptb">Valor atual</tu>
+	<tu xmlns:lang="rus">Текущее значение</tu>
+	<tu xmlns:lang="esp">Valor actual</tu>
+	<tu xmlns:lang="chs">电流值</tu>
+	<tu xmlns:lang="kor">전류 값</tu>
+</tm>

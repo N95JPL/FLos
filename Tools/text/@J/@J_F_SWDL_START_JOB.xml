@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SWDL_START_JOB">
+	<tu xmlns:lang="eng">Unable to start job(s):</tu>
+	<tu xmlns:lang="nld">Het systeem kan de bewerking(en) niet starten:</tu>
+	<tu xmlns:lang="fra">Impossible d'exécuter la (les) tâche(s) :</tu>
+	<tu xmlns:lang="deu">Aufgaben(n) konnte(n) nicht gestartet werden:</tu>
+	<tu xmlns:lang="ita">Impossibile iniziare le operazioni:</tu>
+	<tu xmlns:lang="jpn">作業を開始できません：</tu>
+	<tu xmlns:lang="ptg">Não é possível iniciar tarefa(s):</tu>
+	<tu xmlns:lang="ptb">Não é possível iniciar o(s) processo(s):</tu>
+	<tu xmlns:lang="rus">Невозможно начать выполнение задания (заданий):</tu>
+	<tu xmlns:lang="esp">No se pudieron comenzar los trabajos:</tu>
+	<tu xmlns:lang="chs">无法启动工作。</tu>
+	<tu xmlns:lang="kor">작업을 시작할 수 없음:</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ELEC_PUM">
+	<tu xmlns:lang="eng">Electrical vacuum pump</tu>
+	<tu xmlns:lang="nld">Elektrische vacuümpomp</tu>
+	<tu xmlns:lang="fra">Pompe à vide électrique</tu>
+	<tu xmlns:lang="deu">Elektrische Unterdruckpumpe</tu>
+	<tu xmlns:lang="ita">Pompa a depressione elettrica</tu>
+	<tu xmlns:lang="jpn">エレクトリック バキューム ポンプ</tu>
+	<tu xmlns:lang="ptg">Bomba de vácuo eléctrica</tu>
+	<tu xmlns:lang="ptb">Bomba a vácuo elétrica</tu>
+	<tu xmlns:lang="rus">Электрический вакуумный насос</tu>
+	<tu xmlns:lang="esp">Bomba de vacío eléctrica</tu>
+	<tu xmlns:lang="chs">电气真空泵</tu>
+	<tu xmlns:lang="kor">전기식 진공 펌프</tu>
+</tm>

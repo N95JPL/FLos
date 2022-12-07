@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INJECTOR_CODE_LEGIBLE">
+	<tu
+    xmlns:lang="eng"
+  >Are all the codes written on the tops of the injectors legible?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zijn alle codes op de bovenkanten van de injectors leesbaar geschreven?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tous les codes inscrits sur le haut des injecteurs sont-ils lisibles ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sind alle oben auf den Einspritzventilen angegebenen Codes lesbar?</tu>
+	<tu
+    xmlns:lang="ita"
+  >I codici impressi sulle sommità degli iniettori sono tutti leggibili?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インジェクタ上部に書かれたコードはすべて読み取れますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os códigos inscritos na parte superior dos injectores estão todos legíveis?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todos os códigos estão gravados na parte superior dos injetores legíveis?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Все ли коды, указанные на верхней части форсунок, разборчивы?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Son legibles todos los códigos escritos en la parte superior de los inyectores?</tu>
+	<tu xmlns:lang="chs">写于喷油器顶部的所有代码是否均可辨认？</tu>
+	<tu xmlns:lang="kor">인젝터 상단에 적힌 모든 코드를 쉽게 읽을 수 있습니까?</tu>
+</tm>

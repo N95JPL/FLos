@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_REM_SERV_INT">
+	<tu xmlns:lang="eng">Service interval</tu>
+	<tu xmlns:lang="nld">Onderhoudsinterval</tu>
+	<tu xmlns:lang="fra">Périodicité d'entretien.</tu>
+	<tu xmlns:lang="deu">Serviceintervall</tu>
+	<tu xmlns:lang="ita">Tagliando</tu>
+	<tu xmlns:lang="jpn">サービス間隔</tu>
+	<tu xmlns:lang="ptg">Revisão</tu>
+	<tu xmlns:lang="ptb">intervalo dos serviços</tu>
+	<tu xmlns:lang="rus">Интервал обслуживания</tu>
+	<tu xmlns:lang="esp">Intervalo entre revisiones</tu>
+	<tu xmlns:lang="chs">维修间隔</tu>
+	<tu xmlns:lang="kor">서비스 주기</tu>
+</tm>

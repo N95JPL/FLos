@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDST_PALESTINE">
+	<tu xmlns:lang="eng">Palestine</tu>
+	<tu xmlns:lang="nld">Palestina</tu>
+	<tu xmlns:lang="fra">Palestine</tu>
+	<tu xmlns:lang="deu">Palästina</tu>
+	<tu xmlns:lang="ita">Palestina</tu>
+	<tu xmlns:lang="jpn">パレスチナ</tu>
+	<tu xmlns:lang="ptg">Palestina</tu>
+	<tu xmlns:lang="ptb">Palestina</tu>
+	<tu xmlns:lang="rus">Палестина</tu>
+	<tu xmlns:lang="esp">Palestina</tu>
+	<tu xmlns:lang="chs">巴勒斯坦</tu>
+	<tu xmlns:lang="kor">팔레스타인</tu>
+</tm>

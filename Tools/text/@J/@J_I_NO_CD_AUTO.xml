@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_CD_AUTO">
+	<tu xmlns:lang="eng">No CD auto changer</tu>
+	<tu xmlns:lang="nld">Geen CD-autowisselaar</tu>
+	<tu xmlns:lang="fra">Pas de changeur automatique de CD</tu>
+	<tu xmlns:lang="deu">Kein CD-Wechsler</tu>
+	<tu xmlns:lang="ita">Nessun cambia dischi automatico</tu>
+	<tu xmlns:lang="jpn">CD オートチェンジャーなし</tu>
+	<tu xmlns:lang="ptg">Sem troca-CDs automático</tu>
+	<tu xmlns:lang="ptb">Sem disqueteira automática</tu>
+	<tu xmlns:lang="rus">Без автоматического CD-чейнджера</tu>
+	<tu xmlns:lang="esp">No tiene cargador de CD</tu>
+	<tu xmlns:lang="chs">无 CD 自动换碟机</tu>
+	<tu xmlns:lang="kor">CD 자동 체인저 없음</tu>
+</tm>

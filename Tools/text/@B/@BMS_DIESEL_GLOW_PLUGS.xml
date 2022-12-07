@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_DIESEL_GLOW_PLUGS">
+	<tu
+    xmlns:lang="eng"
+  >If diesel, ensure engine has run for long enough to ensure the glow plugs are switched off (up to 5 minutes) before starting the diagnostic</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer bij een dieselmotor of de motor lang genoeg heeft gedraaid om de gloeibougies uit te schakelen (maximaal 5 minuten) alvorens de diagnoseprocedure te starten</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'il s'agit d'un moteur diesel, assurez-vous qu'il a tourné suffisamment longtemps de sorte que les bougies soient éteintes (jusqu'à 5 minutes) avant de lancer le diagnostic</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei Fahrzeugen mit Dieselmotor sicherstellen, dass der Motor lange genug gelaufen ist, so dass die Glühkerzen abgeschaltet sind (bis zu 5 Minuten), ehe mit der Diagnose begonnen wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se il motore è a gasolio, prima di iniziare la diagnostica, verificare che sia stato in funzione per un tempo sufficiente ad assicurare che le candele siano disattivate (fino a 5 minuti)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ディーゼル車両においては、診断を開始する前に、グロープラグがスイッチオフされるまでエンジンが充分に長く (最長 5 分) かかっていたことを確認しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o motor for a diesel, certificar-se de que o motor esteve a trabalhar o tempo suficiente para garantir que as velas de incandescência estão desligadas (até 5 minutos) antes de iniciar o diagnóstico</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se for a diesel, certifique-se de que o motor funcione por tempo suficiente para garantir que as velas de ignição sejam desligadas (até 5 minutos) antes de iniciar o diagnóstico</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дизельный двигатель перед диагностикой должен поработать некоторое время (до 5 минут), чтобы отключились свечи предпускового подогрева</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se trata de un motor Diesel, asegurarse de que ha estado en marcha el tiempo suficiente (hasta 5 minutos) para que se desactiven las bujías de incandescencia antes de iniciar el procedimiento de diagnóstico</tu>
+	<tu
+    xmlns:lang="chs"
+  >如为柴油发动机车辆，请确保在开始诊断之前，发动机运行时间足以保证电热塞关闭（最长 5 分钟）</tu>
+	<tu
+    xmlns:lang="kor"
+  >디젤 차량의 경우 진단 시작 전에 예열 플러그가 확실히 꺼질 정도로 충분히 오랫동안(최대 5분) 엔진이 작동되었는지 확인하십시오.</tu>
+</tm>

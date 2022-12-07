@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_26">
+	<tu xmlns:lang="eng">0x26 : Not started due to vehicle speed above limit.</tu>
+	<tu xmlns:lang="nld">0x26 : inleren niet gestart omdat de voertuigsnelheid boven de grens ligt.</tu>
+	<tu xmlns:lang="fra">0x26 : Non commencé à cause de la vitesse véhicule au-dessus de la limite.</tu>
+	<tu xmlns:lang="deu">0x26 : Nicht angelaufen, da Fahrgeschwindigkeit über dem Grenzwert.</tu>
+	<tu xmlns:lang="ita">0x26 : Non avviato perché la velocità del veicolo è superiore al limite.</tu>
+	<tu xmlns:lang="jpn">0x26 : 車速が限界以上のためスタートせず。</tu>
+	<tu xmlns:lang="ptg">0x26 : Não iniciado devido a velocidade do veículo acima do limite.</tu>
+	<tu xmlns:lang="ptb">0X26 : Não iniciado devido à velocidade do veículo acima do limite.</tu>
+	<tu xmlns:lang="rus">0x26 : Запуск не выполнен, так как скорость автомобиля выше предела.</tu>
+	<tu xmlns:lang="esp">0x26: No se inició por encontrarse por encima del límite la velocidad del vehículo.</tu>
+	<tu xmlns:lang="chs">0x26： 由于车速高于限值而没有启动。</tu>
+	<tu xmlns:lang="kor">0x26 : 차량 속도가 한계를 초과했기 때문에 시작되지 않습니다.</tu>
+</tm>

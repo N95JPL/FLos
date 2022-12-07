@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RADIO_BAND_FREQ_EUROPE">
+	<tu xmlns:lang="eng">Frequency band and step for Europe</tu>
+	<tu xmlns:lang="nld">Frequentiebereik en -stap voor Europa</tu>
+	<tu xmlns:lang="fra">Bande et palier de fréquences pour l'Europe</tu>
+	<tu xmlns:lang="deu">Frequenzband und Frequenzschritt für Europa</tu>
+	<tu xmlns:lang="ita">Banda di frequenza e incremento per l'Europa</tu>
+	<tu xmlns:lang="jpn">欧州向け周波数帯とステップ</tu>
+	<tu xmlns:lang="ptg">Banda de frequência e incremento para a Europa</tu>
+	<tu xmlns:lang="ptb">Faixa de frequência e etapa para a Europa</tu>
+	<tu xmlns:lang="rus">Частотный диапазон и шаг для Европы</tu>
+	<tu xmlns:lang="esp">Banda e incremento de frecuencia para Europa</tu>
+	<tu xmlns:lang="chs">欧洲地区频率带宽与频率步幅</tu>
+	<tu xmlns:lang="kor">유럽의 주파수 밴드 및 단계</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ReplyErrorCode$I">
+	<tu xmlns:lang="eng">Reply error code - 0x%x.</tu>
+	<tu xmlns:lang="nld">Antwoordfoutcode - 0x%x.</tu>
+	<tu xmlns:lang="fra">Code d'erreur de réponse - 0x%x.</tu>
+	<tu xmlns:lang="deu">Rückmelde-Fehlercode - 0x%x.</tu>
+	<tu xmlns:lang="ita">Codice errore di risposta - 0x%x.</tu>
+	<tu xmlns:lang="jpn">応答エラー コード - 0x%x </tu>
+	<tu xmlns:lang="ptg">Código de erro de resposta - 0x%x.</tu>
+	<tu xmlns:lang="ptb">Código de erro de resposta - 0x%x.</tu>
+	<tu xmlns:lang="rus">Код ошибки отклика - 0x%x.</tu>
+	<tu xmlns:lang="esp">Código de error de respuesta: 0x%x.</tu>
+	<tu xmlns:lang="chs">回复错误代码 - 0x%x。</tu>
+	<tu xmlns:lang="kor">회신 오류 코드 - 0x%x</tu>
+</tm>

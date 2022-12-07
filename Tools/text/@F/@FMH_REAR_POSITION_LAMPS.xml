@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FMH_REAR_POSITION_LAMPS">
+	<tu xmlns:lang="eng">Follow me home with rear position lamps</tu>
+	<tu xmlns:lang="nld">Instapverlichting met parkeerlampen achter</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fonction d'accompagnement avec les feux de position arrière.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beleuchtungs-Ausschaltverzögerung mit Begrenzungsleuchten hinten</tu>
+	<tu
+    xmlns:lang="ita"
+  >Funzione spegnimento ritardato con luci di parcheggio posteriori</tu>
+	<tu xmlns:lang="jpn">リア ポジショニング ランプ点灯を伴うリンプホーム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Iluminação temporária ao afastar-se do veículo com luzes de estacionamento traseiras</tu>
+	<tu xmlns:lang="ptb">Follow me home com luzes de posição traseiras</tu>
+	<tu xmlns:lang="rus">Задержка выключения задних габаритных фонарей</tu>
+	<tu
+    xmlns:lang="esp"
+  >Retardo de luces al salir con luces de posición traseras</tu>
+	<tu xmlns:lang="chs">后定位灯延时熄灭</tu>
+	<tu xmlns:lang="kor">리어 포지션 램프를 이용한 에스코트 램프</tu>
+</tm>

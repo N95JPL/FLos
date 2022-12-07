@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SWABLE_PRES_ENAB">
+	<tu xmlns:lang="eng">Switchable pressures enabled.</tu>
+	<tu xmlns:lang="nld">De schakelbare drukken zijn geactiveerd.</tu>
+	<tu xmlns:lang="fra">Pressions commutables activées.</tu>
+	<tu xmlns:lang="deu">Schaltbare Drücke aktiviert.</tu>
+	<tu xmlns:lang="ita">Pressioni attivabili attivate.</tu>
+	<tu xmlns:lang="jpn">プレッシャ切り替え作動可</tu>
+	<tu xmlns:lang="ptg">Pressões comutáveis activadas.</tu>
+	<tu xmlns:lang="ptb">Pressões comutáveis ativadas.</tu>
+	<tu xmlns:lang="rus">Переключаемые значения давления разрешены.</tu>
+	<tu xmlns:lang="esp">Presiones conmutables habilitadas</tu>
+	<tu xmlns:lang="chs">已启用可转换的压力。</tu>
+	<tu xmlns:lang="kor">압력 전환 활성화</tu>
+</tm>

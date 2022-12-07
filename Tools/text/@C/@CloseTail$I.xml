@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CloseTail$I">
+	<tu xmlns:lang="eng">Close the tailgate that has just been opened.</tu>
+	<tu xmlns:lang="nld">Doe de achterklep dicht, die zojuist werd geopend.</tu>
+	<tu xmlns:lang="fra">Fermez le hayon qui vient d'être ouvert.</tu>
+	<tu xmlns:lang="deu">Die gerade geöffnete Heckklappe schließen.</tu>
+	<tu xmlns:lang="ita">Chiudere il portellone che è stato appena aperto.</tu>
+	<tu xmlns:lang="jpn">開いたばかりのテールゲートを閉じなさい。</tu>
+	<tu xmlns:lang="ptg">Feche a porta da retaguarda que acabou de ser aberta.</tu>
+	<tu xmlns:lang="ptb">Feche a tampa traseira que acaba de ser aberta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Закройте только что открытую дверь багажного отделения.</tu>
+	<tu xmlns:lang="esp">Cerrar el portón trasero que se acaba de abrir.</tu>
+	<tu xmlns:lang="chs">关闭刚刚打开的尾门。</tu>
+	<tu xmlns:lang="kor">방금 열린 테일게이트를 닫으십시오.</tu>
+</tm>

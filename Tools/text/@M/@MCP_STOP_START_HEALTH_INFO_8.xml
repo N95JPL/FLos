@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_STOP_START_HEALTH_INFO_8">
+	<tu xmlns:lang="eng">Green tick - Correct system behaviour</tu>
+	<tu xmlns:lang="nld">Groen vinkje - juist gedrag van het systeem</tu>
+	<tu xmlns:lang="fra">Coche verte : comportement du système correct</tu>
+	<tu xmlns:lang="deu">Grünes Häkchen – Richtiges Systemverhalten</tu>
+	<tu
+    xmlns:lang="ita"
+  >Segno di spunta verde - Funzionamento corretto del sistema</tu>
+	<tu xmlns:lang="jpn">緑色のチェックマーク - システム動作は正常です</tu>
+	<tu xmlns:lang="ptg">Visto verde - Comportamento adequado do sistema</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Marca de verificação verde - Comportamento correto do sistema</tu>
+	<tu xmlns:lang="rus">Зеленая галочка — надлежащая работа системы</tu>
+	<tu
+    xmlns:lang="esp"
+  >Marca de verificación verde: funcionamiento correcto del sistema</tu>
+	<tu xmlns:lang="chs">绿色勾号 - 系统行为正确</tu>
+	<tu xmlns:lang="kor">녹색 체크 표시 - 올바른 시스템 동작</tu>
+</tm>

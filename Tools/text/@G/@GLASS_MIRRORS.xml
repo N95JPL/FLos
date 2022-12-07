@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@GLASS_MIRRORS">
+	<tu xmlns:lang="eng">Glazing and mirrors</tu>
+	<tu xmlns:lang="nld">Ruiten en spiegels</tu>
+	<tu xmlns:lang="fra">Vitres et rétroviseurs.</tu>
+	<tu xmlns:lang="deu">Verglasung und Spiegel</tu>
+	<tu xmlns:lang="ita">Cristalli e specchietti</tu>
+	<tu xmlns:lang="jpn">ガラスの装着およびミラー</tu>
+	<tu xmlns:lang="ptg">Vidros e espelhos</tu>
+	<tu xmlns:lang="ptb">Ofuscamento e retrovisores</tu>
+	<tu xmlns:lang="rus">Окна и зеркала</tu>
+	<tu xmlns:lang="esp">Cristales y retrovisores</tu>
+	<tu xmlns:lang="chs">眩光和后视镜</tu>
+	<tu xmlns:lang="kor">글레이징 및 미러</tu>
+</tm>

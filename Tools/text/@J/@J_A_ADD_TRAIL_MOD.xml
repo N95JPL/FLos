@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ADD_TRAIL_MOD">
+	<tu xmlns:lang="eng">Add trailer module</tu>
+	<tu xmlns:lang="nld">Aanhangermodule toevoegen</tu>
+	<tu xmlns:lang="fra">Ajouter module de remorque</tu>
+	<tu xmlns:lang="deu">Anhängersteuergerät hinzufügen</tu>
+	<tu xmlns:lang="ita">Aggiungere modulo rimorchio</tu>
+	<tu xmlns:lang="jpn">トレーラー モジュールの追加</tu>
+	<tu xmlns:lang="ptg">Adicionar módulo de reboque</tu>
+	<tu xmlns:lang="ptb">Adicionar módulo de reboque</tu>
+	<tu xmlns:lang="rus">Добавить модуль прицепа</tu>
+	<tu xmlns:lang="esp">Añadir módulo del remolque</tu>
+	<tu xmlns:lang="chs">添加拖车模块</tu>
+	<tu xmlns:lang="kor">트레일러 모듈 추가</tu>
+</tm>

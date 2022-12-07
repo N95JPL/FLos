@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckHLDFBatteryWarnings">
+	<tu
+    xmlns:lang="eng"
+  >Make sure that no battery warnings are displayed on the touch screen or instrument cluster.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verzeker u ervan dat er geen accuwaarschuwingen op het touchscreen of de instrumentengroep worden weergegeven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'assurer qu'aucun avertissement de batterie ne s'affiche sur l'écran tactile ou le combiné d'instruments d'instruments.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass keine Batteriewarnungen auf dem Touchscreen oder der Instrumentengruppe angezeigt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che non siano visualizzate spie della batteria sullo schermo a sfioramento o sul quadro strumenti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >タッチ スクリーンまたはインストルメント クラスタ上にバッテリー警告が表示されていないことを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que não há avisos relativos à bateria apresentados no ecrã de toque ou no grupo de instrumentos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que não haja avisos da bateria exibidos na Touchscreen ou no conjunto do painel de instrumentos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что на сенсорном экране или щитке приборов не отображается предупреждение, касающееся безопасного обращения с АКБ.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que no se muestran avisos relacionados con la batería en la pantalla táctil o el cuadro de instrumentos.</tu>
+	<tu xmlns:lang="chs">确保触摸屏和仪表盘未显示任何蓄电池警报。</tu>
+	<tu
+    xmlns:lang="kor"
+  >터치 스크린 또는 계기판에 배터리 경고가 표시되지 않는지 확인하십시오.</tu>
+</tm>

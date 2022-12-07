@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_PARKING_AID">
+	<tu xmlns:lang="eng">Parking aid system</tu>
+	<tu xmlns:lang="nld">Hulpsysteem bij achteruit parkeren</tu>
+	<tu xmlns:lang="fra">Systeme d'aide au stationnement en marche arriere</tu>
+	<tu xmlns:lang="deu">Einparkhilfesystem</tu>
+	<tu xmlns:lang="ita">Sistema assistenza parcheggio in retromarcia</tu>
+	<tu xmlns:lang="jpn">パーキ・グエイド システム</tu>
+	<tu xmlns:lang="ptg">Sistema auxiliar de estacionamento</tu>
+	<tu xmlns:lang="ptb">Sistema de sensores de estacionamento</tu>
+	<tu xmlns:lang="rus">Система помощи при парковке</tu>
+	<tu xmlns:lang="esp">Sistema de ayuda para aparcar en marcha atrás</tu>
+	<tu xmlns:lang="chs">驻车辅助系统</tu>
+	<tu xmlns:lang="kor">주차 보조 시스템</tu>
+</tm>

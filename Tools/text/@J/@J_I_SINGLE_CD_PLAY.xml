@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SINGLE_CD_PLAY">
+	<tu xmlns:lang="eng">Single CD player.</tu>
+	<tu xmlns:lang="nld">Enkele cd-speler.</tu>
+	<tu xmlns:lang="fra">Lecteur de CD simple.</tu>
+	<tu xmlns:lang="deu">Einfach-CD-Spieler.</tu>
+	<tu xmlns:lang="ita">Lettore CD singolo.</tu>
+	<tu xmlns:lang="jpn">シングル CD プレーヤー</tu>
+	<tu xmlns:lang="ptg">Leitor de CDs simples.</tu>
+	<tu xmlns:lang="ptb">CD player único.</tu>
+	<tu xmlns:lang="rus">Один проигрыватель компакт-дисков.</tu>
+	<tu xmlns:lang="esp">Lector de CD sencillo.</tu>
+	<tu xmlns:lang="chs">单碟 CD 播放机</tu>
+	<tu xmlns:lang="kor">단일 CD 플레이어</tu>
+</tm>

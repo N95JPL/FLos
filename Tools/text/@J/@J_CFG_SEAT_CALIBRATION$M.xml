@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CFG_SEAT_CALIBRATION$M">
+	<tu xmlns:lang="eng">Seat calibration</tu>
+	<tu xmlns:lang="nld">Stoelkalibratie</tu>
+	<tu xmlns:lang="fra">Etalonnage de siège</tu>
+	<tu xmlns:lang="deu">Kalibrierung - Sitz</tu>
+	<tu xmlns:lang="ita">Taratura sedile</tu>
+	<tu xmlns:lang="jpn">シート キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem dos bancos</tu>
+	<tu xmlns:lang="ptb">Calibragem do assento</tu>
+	<tu xmlns:lang="rus">Калибровка сиденья</tu>
+	<tu xmlns:lang="esp">Calibración del asiento</tu>
+	<tu xmlns:lang="chs">座椅校准</tu>
+	<tu xmlns:lang="kor">시트 보정</tu>
+</tm>

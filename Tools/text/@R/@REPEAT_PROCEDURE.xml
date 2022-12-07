@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@REPEAT_PROCEDURE">
+	<tu xmlns:lang="eng">Repeat diagnostic test procedure</tu>
+	<tu xmlns:lang="nld">Herhaal de diagnosetestprocedure</tu>
+	<tu xmlns:lang="fra">Répétez la procédure de diagnostic</tu>
+	<tu xmlns:lang="deu">Diagnoseprüfverfahren wiederholen.</tu>
+	<tu xmlns:lang="ita">Ripetizione procedura di prova diagnostica</tu>
+	<tu xmlns:lang="jpn">診断テスト手順を繰り返しなさい</tu>
+	<tu xmlns:lang="ptg">Repetir o procedimento de teste de diagnóstico</tu>
+	<tu xmlns:lang="ptb">Repita o procedimento de teste diagnóstico</tu>
+	<tu xmlns:lang="rus">Повторите процедуру диагностической проверки</tu>
+	<tu xmlns:lang="esp">Repetir procedimiento de prueba de diagnóstico</tu>
+	<tu xmlns:lang="chs">重复诊断测试程序</tu>
+	<tu xmlns:lang="kor">진단 테스트 절차를 반복하십시오.</tu>
+</tm>

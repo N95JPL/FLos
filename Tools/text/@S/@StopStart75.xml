@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart75">
+	<tu
+    xmlns:lang="eng"
+  >Re-test the vehicle once the temperature drops below 40°C.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Test de auto opnieuw zodra de temperatuur tot onder 40°C daalt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Testez à nouveau le véhicule lorsque la température sera retombée en dessous de 40 °C.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug erneut testen, sobald die Temperatur unter 40 °C gefallen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ripetere la prova del veicolo quando la temperatura è inferiore a 40 °C.</tu>
+	<tu xmlns:lang="jpn">温度が 40ﾟC を下回ったら車両を再テストしてください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Teste novamente o veículo quando a temperatura descer abaixo de 40 °C.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Teste novamente o veículo assim que a temperatura cair abaixo de 40°C.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проведите повторную проверку автомобиля, как только температура опустится ниже 40 °C.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Vuelva a comprobar el vehículo una vez que la temperatura sea inferior a 40 °C.</tu>
+	<tu xmlns:lang="chs">温度降至低于 40°C 后，重新测试车辆。</tu>
+	<tu
+    xmlns:lang="kor"
+  >온도가 40°C 미만으로 떨어지면 차량을 다시 테스트하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STEP">
+	<tu xmlns:lang="eng">Step</tu>
+	<tu xmlns:lang="nld">Stap</tu>
+	<tu xmlns:lang="fra">Etape</tu>
+	<tu xmlns:lang="deu">Schritt</tu>
+	<tu xmlns:lang="ita">Passo</tu>
+	<tu xmlns:lang="jpn">ステップ</tu>
+	<tu xmlns:lang="ptg">Fase</tu>
+	<tu xmlns:lang="ptb">Etapa</tu>
+	<tu xmlns:lang="rus">Шаг</tu>
+	<tu xmlns:lang="esp">Paso</tu>
+	<tu xmlns:lang="chs">步幅</tu>
+	<tu xmlns:lang="kor">단계</tu>
+</tm>

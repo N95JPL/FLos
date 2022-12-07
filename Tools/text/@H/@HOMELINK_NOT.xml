@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HOMELINK_NOT">
+	<tu xmlns:lang="eng">No homelink</tu>
+	<tu xmlns:lang="nld">Geen HomeLink</tu>
+	<tu xmlns:lang="fra">Pas d'émetteur universel Homelink.</tu>
+	<tu xmlns:lang="deu">Kein HomeLink</tu>
+	<tu xmlns:lang="ita">HomeLink non in dotazione</tu>
+	<tu xmlns:lang="jpn">Homelink (ホームリンク) なし</tu>
+	<tu xmlns:lang="ptg">Sem Homelink</tu>
+	<tu xmlns:lang="ptb">Sem homelink</tu>
+	<tu xmlns:lang="rus">Система HomeLink отсутствует</tu>
+	<tu xmlns:lang="esp">Sin Homelink</tu>
+	<tu xmlns:lang="chs">无HomeLink</tu>
+	<tu xmlns:lang="kor">홈링크 없음</tu>
+</tm>

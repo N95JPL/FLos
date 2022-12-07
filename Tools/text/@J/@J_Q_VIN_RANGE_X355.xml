@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_VIN_RANGE_X355">
+	<tu
+    xmlns:lang="eng"
+  >Is the vehicle identification number greater than or equal to G34527?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuig identificatienummer gelijk aan of hoger dan G34527?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le numéro d'identification du véhicule est-il supérieur ou égal à G34527 ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist die Fahrzeug-Identifizierungsnummer höher oder gleich G34527?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il numero di identificazione del veicolo è superiore o pari a G34527?</tu>
+	<tu xmlns:lang="jpn">車両 ID ナンバーは G34527 またはそれ以上ですか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Is the vehicle identification number greater than or equal to G34527?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O número de identificação do veículo é maior ou igual a G34527?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Идентификационный номер автомобиля больше или равен G34527?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Es el número de identificación del vehículo superior o igual a G34527?</tu>
+	<tu xmlns:lang="chs">车辆标识代码大于或等于 G34527 吗？</tu>
+	<tu xmlns:lang="kor">차량 식별 번호가 G34527 이상입니까?</tu>
+</tm>

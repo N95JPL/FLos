@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DDOOR_AJAR">
+	<tu xmlns:lang="eng">Driver's door ajar</tu>
+	<tu xmlns:lang="nld">Bestuurdersportier open</tu>
+	<tu xmlns:lang="fra">Porte du conducteur entrebâillée</tu>
+	<tu xmlns:lang="deu">Fahrertür angelehnt</tu>
+	<tu xmlns:lang="ita">Apertura porta conducente</tu>
+	<tu xmlns:lang="jpn">ﾄﾞﾗｲﾊﾞー側ﾄﾞｱｵーﾌﾟﾝ</tu>
+	<tu xmlns:lang="ptg">Porta do condutor mal fechada</tu>
+	<tu xmlns:lang="ptb">Interruptor da porta do motorista entreaberta</tu>
+	<tu xmlns:lang="rus">Дверь водителя не закрыта</tu>
+	<tu xmlns:lang="esp">Puerta del conductor entreabierta</tu>
+	<tu xmlns:lang="chs">驾驶员一侧车门微开</tu>
+	<tu xmlns:lang="kor">운전석 도어 열림</tu>
+</tm>

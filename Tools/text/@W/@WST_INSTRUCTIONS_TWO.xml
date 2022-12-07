@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_INSTRUCTIONS_TWO">
+	<tu xmlns:lang="eng">The test requires the user to test that each wheel :</tu>
+	<tu xmlns:lang="nld">De test vereist dat de gebruiker elk wiel uittest:</tu>
+	<tu xmlns:lang="fra">Ce test requiert que l'utilisateur teste chaque roue :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Test erfordert vom Bediener, dass bei jedem Rad Folgendes geprüft wird:</tu>
+	<tu
+    xmlns:lang="ita"
+  >La prova richiede all'utente di provare che ciascuna ruota:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストでは、ユーザーが各ホイールの次の項目をテストする必要があります：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O teste requer que o utilizador verifique se cada roda:</tu>
+	<tu xmlns:lang="ptb">O teste precisa do usuário para testar se cada roda:</tu>
+	<tu xmlns:lang="rus">Необходимо, чтобы пользователь проверил каждое колесо:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para la prueba, el usuario debe comprobar que cada una de las ruedas:</tu>
+	<tu xmlns:lang="chs">测试要求用户测试每一车轮：</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 테스트에서는 사용자가 각 휠이 다음과 같이 작동하는지 테스트해야 합니다.</tu>
+</tm>

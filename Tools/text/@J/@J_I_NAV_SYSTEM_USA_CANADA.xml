@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NAV_SYSTEM_USA_CANADA">
+	<tu xmlns:lang="eng">North American navigation</tu>
+	<tu xmlns:lang="nld">Noord-Amerikaanse navigatie</tu>
+	<tu xmlns:lang="fra">Navigation Amérique du Nord</tu>
+	<tu xmlns:lang="deu">Nordamerikanische Navigation</tu>
+	<tu xmlns:lang="ita">Navigazione America del Nord</tu>
+	<tu xmlns:lang="jpn">北米ナビゲーション</tu>
+	<tu xmlns:lang="ptg">Navegação América do Norte</tu>
+	<tu xmlns:lang="ptb">Navegação norte-americana</tu>
+	<tu xmlns:lang="rus">Навигация для Северной Америки</tu>
+	<tu xmlns:lang="esp">Navegación para Norteamérica</tu>
+	<tu xmlns:lang="chs">北美导航</tu>
+	<tu xmlns:lang="kor">북미 내비게이션</tu>
+</tm>

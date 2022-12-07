@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FSJB_03">
+	<tu
+    xmlns:lang="eng"
+  >Module inputs are placed in known state and verified to be in that state.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De module-invoeren worden in de bekende status gezet en het systeem zal verifiëren dat zij die status hebben.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les entrées du module sont mises dans un état connu et il est vérifié qu'elles sont dans cet état.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Steuergeräteingänge werden in einen bekannten Zustand versetzt und es wird überprüft, ob sie sich in diesem Zustand befinden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Gli input del modulo sono collocati in uno stato noto, quindi si verifica che siano in tale stato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュール インプットは判明したステータスにおかれ、そのステータスで正当性確認されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os sinais de entrada do módulo são colocados em estado conhecido e verificados para confirmação de que estão nesse estado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As entradas do módulo são colocadas em estado conhecido e confirmadas quanto a esse estado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Входные данные блока хранятся в известном состоянии, и выполняется проверка этого состояния.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las señales de entrada del módulo se ponen en un estado conocido y se verifica que se encuentren en ese estado.</tu>
+	<tu xmlns:lang="chs">模块输入被设置为已知状态并已确认处于那一状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >모듈 입력이 알려진 상태에 놓이고 그 상태에 있는 것이 확인됩니다.</tu>
+</tm>

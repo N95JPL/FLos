@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SIDE_DETECT_MOD_HIST">
+	<tu xmlns:lang="eng">Side object detection module history</tu>
+	<tu
+    xmlns:lang="nld"
+  >Historische gegevens van module voorwerpdetectie aan zijkant</tu>
+	<tu xmlns:lang="fra">Historique du module de détection latérale d'objets</tu>
+	<tu xmlns:lang="deu">Steuergerät seitliche Objekterfassung - Verlauf</tu>
+	<tu xmlns:lang="ita">Cronologia del modulo di rilevamento oggetto laterale</tu>
+	<tu xmlns:lang="jpn">側方障害物検出モジュール履歴</tu>
+	<tu xmlns:lang="ptg">Histórico do módulo de detecção lateral de objectos</tu>
+	<tu xmlns:lang="ptb">Histórico do módulo de detecção lateral de objetos</tu>
+	<tu xmlns:lang="rus">Журнал данных блока обнаружения объектов сбоку</tu>
+	<tu xmlns:lang="esp">Historial del módulo de detección de objetos lateral</tu>
+	<tu xmlns:lang="chs">侧面物体探测模块历史</tu>
+	<tu xmlns:lang="kor">측면 장애물 감지 모듈 기록</tu>
+</tm>

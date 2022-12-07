@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IDS_CTRL_SUSPENSION">
+	<tu
+    xmlns:lang="eng"
+  >The Diagnostic Tool will continually control the air suspension during the adjustment of the headlamps.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het diagnosesysteem zal de luchtvering tijdens het afstellen van de koplampen continu regelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'outil de diagnostic régulera continuellement la suspension pneumatique pendant le réglage des phares.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Luftfederung steht während der Scheinwerfereinstellung kontinuierlich unter Steuerung durch das Diagnosesystem.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lo strumento diagnostico controlla continuamente le sospensioni pneumatiche durante la regolazione dei fari.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ヘッドランプの調整中、診断ツールはエア サスペンションを常に制御します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A ferramenta de diagnóstico irá controlar continuamente a suspensão pneumática durante o ajuste dos faróis.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A Ferramenta de Diagnóstico controlará continuamente a suspensão a ar durante o ajuste dos faróis.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В процессе регулировки фар диагностическое устройство непрерывно регулирует положение пневматической подвески.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La herramienta de diagnóstico seguirá controlando la suspensión neumática durante el ajuste de los faros.</tu>
+	<tu xmlns:lang="chs">在调节前照灯期间，诊断工具将继续控制空气悬架。</tu>
+	<tu
+    xmlns:lang="kor"
+  >진단 도구는 헤드램프 조정 중에 에어 서스펜션을 연속적으로 제어합니다.</tu>
+</tm>

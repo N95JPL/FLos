@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_85">
+	<tu
+    xmlns:lang="eng"
+  >Bus signal/message failure - signal is above allowable range.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fout in bussignaal/-boodschap - signaal is boven het toegestane bereik.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaut de signal / message bus - signal est au-dessus de la plage admissible.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Datenbus-Signal-/Meldungsfehler - Signal liegt über zulässigem Bereich.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto di segnale bus/messaggio - segnale al di sopra dei limiti ammissibili.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バス シグナル／メッセージ不良 － シグナル、許容範囲以上</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha na mensagem/sinal do bus - sinal é superior à gama permissível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha de sinal do barramento/mensagem - sinal abaixo do intervalo permitido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка передачи сигнала/сообщения по шине - значение сигнала выше максимального значения допустимого диапазона.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo de señales/mensajes del bus: señal por encima de límites admisibles.</tu>
+	<tu xmlns:lang="chs">总线信号/消息故障 - 信号高于允许范围。</tu>
+	<tu xmlns:lang="kor">버스 신호/메시지 오류 - 신호가 허용 가능한 범위 이상임</tu>
+</tm>

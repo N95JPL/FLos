@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RESET_EMS_ADAPT_VAL">
+	<tu
+    xmlns:lang="eng"
+  >This routine will reset the stored engine management system adaption values</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine zal de opgeslagen aanpassingswaarden van het motormanagementsysteem resetten</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de réinitialiser les valeurs d'adaptation enregistrées dans le système de gestion du moteur</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine werden die gespeicherten Anpassungswerte für das Motormanagementsystem zurückgesetzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura reimposta i valori di adattamento memorizzati del sistema di gestione del motore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは保存されたエンジン マネジメント システム補正数値をリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina vai repor a zero os valores de adaptação do sistema de gestão do motor guardados</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina irá reiniciar os valores de adaptação armazenados do sistema de gerenciamento do motor</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта процедура служит для сброса сохраненных значений адаптации системы управления двигателем</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina restaura los valores de adaptación de gestión del motor memorizados</tu>
+	<tu xmlns:lang="chs">本例行程序将确保发动机管理系统的所有调适值都复位</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴에서는 저장된 엔진 관리 시스템 어댑테이션 값을 재설정합니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IDS_CHK_CJB_SW_UPDATE">
+	<tu
+    xmlns:lang="eng"
+  >The Diagnostic Tool will check compatabilty of current central junction box software and update if necessary before proceeding with the high level display download</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het diagnosesysteem zal de compatibiliteit van de huidige software voor de centrale stroomverdeeldoos controleren en deze indien nodig bijwerken voordat de download voor het hoogwaardige display wordt uitgevoerd</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'outil de diagnostic va contrôler la compatibilité du logiciel du boîtier de raccordement central actuel et le mettre à jour si nécessaire avant de procéder au téléchargement de l'affichage haut de gamme</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Diagnosesystem prüft und aktualisiert ggf. die Kompatibilität der aktuellen Software des Zentralanschlusskastens, ehe mit dem Herunterladen für das Display in gehobener Ausführung begonnen wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lo strumento diagnostico controllerà la compatibilità del software della scatola di derivazione centrale in uso e provvederà ad aggiornarlo, se necessario, prima di procedere con il download del display di gamma alta</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ハイ レベル ディスプレイのダウンロードを進める前に、必要に応じて診断ツールは現行のセントラル ジャンクション ボックス ソフトウェアとアップデートの適合性を確認します</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A ferramenta de diagnóstico verifica a compatibilidade do software atual da caixa de derivação central e atualiza-o, se necessário, antes de continuar com a transferência do visor de alto nível</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A Ferramenta de Diagnóstico verificará e atualizará, se necessário, a compatibilidade do atual software da caixa de junção antes de prosseguir com o download do visor de alto nível</tu>
+	<tu
+    xmlns:lang="rus"
+  >Диагностическое устройство проверит совместимость существующего программного обеспечения центральной распределительной коробки и при необходимости выполнит обновление, после чего продолжит загрузку для дисплея высокого уровня</tu>
+	<tu
+    xmlns:lang="esp"
+  >La herramienta de diagnóstico comprobará la compatibilidad del software de la caja de conexiones central actual y lo actualizará antes de descargar la pantalla de gama alta.</tu>
+	<tu
+    xmlns:lang="chs"
+  >诊断工具将检查当前中央接线盒软件的兼容性，必要时会进行更新，然后继续进行高端显示下载</tu>
+	<tu
+    xmlns:lang="kor"
+  >진단 도구가 현재 센터 정션 박스 소프트웨어의 호환성을 점검하고 필요한 경우 고급 디스플레이 다운로드를 진행하기 전에 업데이트합니다.</tu>
+</tm>

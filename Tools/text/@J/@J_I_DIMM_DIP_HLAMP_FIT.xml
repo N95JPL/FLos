@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIMM_DIP_HLAMP_FIT">
+	<tu xmlns:lang="eng">With dimmed dipped headlights</tu>
+	<tu xmlns:lang="nld">Met gedimde koplampen</tu>
+	<tu xmlns:lang="fra">Avec feux de croisement atténués</tu>
+	<tu xmlns:lang="deu">Mit verdunkelten Abblendlichtscheinwerfern</tu>
+	<tu xmlns:lang="ita">Con fari anabbaglianti attenuati</tu>
+	<tu xmlns:lang="jpn">減光／下向きロービーム ヘッドランプ付き</tu>
+	<tu xmlns:lang="ptg">Com médios com regulador de intensidade</tu>
+	<tu xmlns:lang="ptb">Com faróis baixos dimerizados</tu>
+	<tu xmlns:lang="rus">Со снижением яркости ближнего света фар</tu>
+	<tu xmlns:lang="esp">Con luces de cruce atenuadas</tu>
+	<tu xmlns:lang="chs">配有近光前照灯</tu>
+	<tu xmlns:lang="kor">조광 하향 전조등 있음</tu>
+</tm>

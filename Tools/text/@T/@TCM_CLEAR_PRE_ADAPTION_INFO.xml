@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TCM_CLEAR_PRE_ADAPTION_INFO">
+	<tu
+    xmlns:lang="eng"
+  >This routine is used to clear the solenoid adaption in the transmision control module.  This routine must be performed if the transmission is replaced or the transmission control module is reused.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze routine kunt u de solenoïde-aanpassing in de transmissieregelmodule wissen.  U dient deze routine uit te voeren wanneer u de transmissie vervangt of de transmissieregelmodule opnieuw gebruikt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme permet d'effacer l'adaptation de l'électrovanne dans le module de commande de transmission.  Ce programme doit être lancé en cas de remplacement de la transmission ou de réutilisation du module de commande de transmission.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine dient dazu, die Magnetventil-Anpassung im Getriebesteuergerät zu löschen.  Diese Routine muss durchlaufen werden, wenn das Getriebe ersetzt wird oder das Getriebesteuergerät neu verwendet wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura serve per cancellare l'adattamento solenoide nel modulo di comando cambio.  Questa procedura deve essere eseguita quando si sostituisce il cambio o si riusa il modulo di comando cambio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンはトランスミッション コントロール モジュール内のソ\レノイド補正をクリアするために使用されます。  このルーチンは、トランスミッションが交換されたとき、あるいはトランスミッション コントロール モジュールが再使用されるときに実行する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é usada para apagar a adaptação do solenóide no módulo de comando da transmissão.  Esta rotina tem de ser realizada se a transmissão for substituída ou se o módulo de comando da transmissão for reutilizado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é utilizada para excluir a adaptação do solenoide no módulo de controle da transmissão.  Essa rotina deve ser realizada se a transmissão for substituída ou o módulo de controle de transmissão é reutilizado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция используется для удаления значений адаптации соленоида блока управления коробкой передач.  Данную операцию необходимо выполнить в случае замены коробки передач или повторной установки блока управления коробкой передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina se utiliza para borrar la adaptación de solenoides en el módulo de control de la transmisión.  Esta rutina se debe ejecutar si se sustituye la caja de cambios o se reutiliza el módulo de control de la transmisión.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本常规程序用于清除变速器控制模块中的电磁阀调适值。  如果更换了变速箱，或重新使用了变速箱控制模块，则必须执行本程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 변속기 컨트롤 모듈에서 솔레노이드 어댑테이션을 지우는 데 사용됩니다.  변속기를 교체하거나 변속기 컨트롤 모듈을 다시 사용할 때 이 루틴을 수행해야 합니다.</tu>
+</tm>

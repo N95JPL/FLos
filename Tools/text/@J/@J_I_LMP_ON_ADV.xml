@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LMP_ON_ADV">
+	<tu xmlns:lang="eng">Lights on advice</tu>
+	<tu xmlns:lang="nld">Advies voor verlichting aan.</tu>
+	<tu xmlns:lang="fra">Eclairage suggéré</tu>
+	<tu xmlns:lang="deu">Hinweis Beleuchtung eingeschaltet</tu>
+	<tu xmlns:lang="ita">Avviso luci accese</tu>
+	<tu xmlns:lang="jpn">ライト オン アドバイス</tu>
+	<tu xmlns:lang="ptg">Aviso de luzes ligadas</tu>
+	<tu xmlns:lang="ptb">Luzes de alerta ligadas</tu>
+	<tu xmlns:lang="rus">Рекомендация включить фонари</tu>
+	<tu xmlns:lang="esp">Aviso de luces encendidas</tu>
+	<tu xmlns:lang="chs">灯光点亮提示</tu>
+	<tu xmlns:lang="kor">조명 켜짐 도움말</tu>
+</tm>

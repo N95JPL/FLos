@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@UNLOCK_SETTING_2_STEP">
+	<tu xmlns:lang="eng">Two step opening</tu>
+	<tu xmlns:lang="nld">Openen in twee stappen</tu>
+	<tu xmlns:lang="fra">Ouverture en deux étapes</tu>
+	<tu xmlns:lang="deu">Zweistufiges Öffnen</tu>
+	<tu xmlns:lang="ita">Apertura in due fasi</tu>
+	<tu xmlns:lang="jpn">ツーステップ オープニング</tu>
+	<tu xmlns:lang="ptg">Abertura de dois toques</tu>
+	<tu xmlns:lang="ptb">Abertura em duas etapas</tu>
+	<tu xmlns:lang="rus">Двушаговое открывание</tu>
+	<tu xmlns:lang="esp">Apertura en dos pasos</tu>
+	<tu xmlns:lang="chs">两步打开</tu>
+	<tu xmlns:lang="kor">2단계 개방</tu>
+</tm>

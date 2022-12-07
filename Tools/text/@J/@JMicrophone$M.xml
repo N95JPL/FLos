@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JMicrophone$M">
+	<tu xmlns:lang="eng">Microphone</tu>
+	<tu xmlns:lang="nld">Microfoon</tu>
+	<tu xmlns:lang="fra">Microphone</tu>
+	<tu xmlns:lang="deu">Mikrofon</tu>
+	<tu xmlns:lang="ita">Microfono</tu>
+	<tu xmlns:lang="jpn">マイクロフォン</tu>
+	<tu xmlns:lang="ptg">Microfone</tu>
+	<tu xmlns:lang="ptb">Microfone</tu>
+	<tu xmlns:lang="rus">Микрофон</tu>
+	<tu xmlns:lang="esp">Micrófono</tu>
+	<tu xmlns:lang="chs">麦克风</tu>
+	<tu xmlns:lang="kor">마이크</tu>
+</tm>

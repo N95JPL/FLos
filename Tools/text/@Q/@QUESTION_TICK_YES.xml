@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@QUESTION_TICK_YES">
+	<tu xmlns:lang="eng">Select tick if the answer to the question is yes.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Selecteer het vinkje wanneer het antwoord op de vraag 'ja' is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélectionnez la coche si la réponse à la question est oui.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Häkchen antippen, wenn die Antwort auf die Frage ?Ja? lautet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezionare il segno di spunta se la risposta alla domanda è sì.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >質問に対する答えが「はい」の場合、ティックを選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Seleccione o visto se a resposta à pergunta for 'sim'.</tu>
+	<tu xmlns:lang="ptb">Selecione a marca se a resposta à pergunta é sim.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выберите галочку, если ответ на данный вопрос утвердительный.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccionar la marca de verificación si la respuesta a la pregunta es sí.</tu>
+	<tu xmlns:lang="chs">如果问题的答案为是，请选择勾选键。</tu>
+	<tu xmlns:lang="kor">질문에 대한 대답이 예라면 체크 표시를 선택하십시오.</tu>
+</tm>

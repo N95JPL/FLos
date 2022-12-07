@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspEnabl3$M">
+	<tu
+    xmlns:lang="eng"
+  >The suspension up arrow will remain illuminated during operation.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens deze procedure blijft het pijltje voor het omhoog gaan van de luchtvering branden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La flèche de relevage de la suspension restera allumée pendant cette opération.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei diesem Vorgang bleibt der Pfeil Luftfederung aufwärts erleuchtet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Durante l'operazione il simbolo della freccia in su della sospensione rimarrà acceso.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このオペレーション中、サスペンション上昇矢印が表\示されたままになります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A seta de elevação da suspensão permanecerá acesa durante a operação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A seta de elevação da suspensão permanecerá iluminada durante a operação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Во время этой операции будет подсвечиваться индикатор подвески со стрелкой вверх.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La flecha hacia arriba de la suspensión permanecerá encendida durante la operación.</tu>
+	<tu xmlns:lang="chs">在操作过程中，悬架升起箭头将保持点亮。</tu>
+	<tu
+    xmlns:lang="kor"
+  >작동 중에는 서스펜션 위 방향 화살표가 켜진 상태로 유지됩니다.</tu>
+</tm>

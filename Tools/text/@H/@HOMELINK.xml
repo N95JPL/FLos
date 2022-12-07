@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HOMELINK">
+	<tu xmlns:lang="eng">Homelink</tu>
+	<tu xmlns:lang="nld">HomeLink</tu>
+	<tu xmlns:lang="fra">Emetteur universel Homelink.</tu>
+	<tu xmlns:lang="deu">HomeLink</tu>
+	<tu xmlns:lang="ita">HomeLink</tu>
+	<tu xmlns:lang="jpn">HomeLink (ホームリンク)</tu>
+	<tu xmlns:lang="ptg">Homelink</tu>
+	<tu xmlns:lang="ptb">Homelink</tu>
+	<tu xmlns:lang="rus">Homelink</tu>
+	<tu xmlns:lang="esp">Homelink</tu>
+	<tu xmlns:lang="chs">归属链路</tu>
+	<tu xmlns:lang="kor">홈링크</tu>
+</tm>

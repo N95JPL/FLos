@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DUAL_POW_HEAT_ECR_MIR">
+	<tu xmlns:lang="eng">Dual power/heated/electrochromic mirrors.</tu>
+	<tu xmlns:lang="nld">Dubbel vermogen/verwarmde/elektrochromatische spiegels</tu>
+	<tu
+    xmlns:lang="fra"
+  >Doubles rétroviseurs électriques/chauffés/électrochromiques</tu>
+	<tu
+    xmlns:lang="deu"
+  >Elektrisch verstellbare/beheizbare/elektrochrome Außenspiegel</tu>
+	<tu
+    xmlns:lang="ita"
+  >Doppi specchietti elettrici/riscaldati/elettrocromatici</tu>
+	<tu
+    xmlns:lang="jpn"
+  >デュアル電動／ヒーター付き／エレクトロクローミック ミラー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retrovisores exteriores de corrente dupla/com desembaciamento/electrocromáticos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Retrovisores elétricos/aquecidos/eletrocrômicos duplos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обогреваемые электрохромные зеркала с двусторонним электропитанием.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Dos retrovisores térmicos de ajuste eléctrico, electrocromáticos </tu>
+	<tu xmlns:lang="chs">双电源/加热/电致变色后视镜。</tu>
+	<tu xmlns:lang="kor">듀얼 파워/열선내장/전자크롬 미러</tu>
+</tm>

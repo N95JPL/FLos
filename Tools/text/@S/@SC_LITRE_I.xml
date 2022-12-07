@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SC_LITRE_I">
+	<tu xmlns:lang="eng">Supercharged</tu>
+	<tu xmlns:lang="nld">Met supercharger</tu>
+	<tu xmlns:lang="fra">Suralimenté</tu>
+	<tu xmlns:lang="deu">Kompressormotor</tu>
+	<tu xmlns:lang="ita">Sovralimentato</tu>
+	<tu xmlns:lang="jpn">スーパーチャージド</tu>
+	<tu xmlns:lang="ptg">Com supercompressor</tu>
+	<tu xmlns:lang="ptb">Supercharged</tu>
+	<tu xmlns:lang="rus">С турбонаддувом</tu>
+	<tu xmlns:lang="esp">Sobrealimentado</tu>
+	<tu xmlns:lang="chs">增压式</tu>
+	<tu xmlns:lang="kor">슈퍼차지</tu>
+</tm>

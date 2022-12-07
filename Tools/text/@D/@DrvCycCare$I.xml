@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DrvCycCare$I">
+	<tu
+    xmlns:lang="eng"
+  >Make sure road conditions and speed limits are suitable for the drive cycle.  Drive with due care and consideration for other drivers at all times during the test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat de wegomstandigheden en maximumsnelheden voor de rijcyclus geschikt zijn.  Rijd te allen tijde gedurende de test voorzichtig en houd rekening met andere bestuurders.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que l'état du trafic et les limites de vitesse sont adaptés pour le cycle de conduite.  Conduisez prudemment et tenez compte des autres automobilistes pendant toute la durée du test.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Fahrbahngegebenheiten und die Geschwindigkeitsbegrenzungen sich für den Fahrzyklus eignen.  Während des Tests jederzeit mit gebührender Vorsicht und Rücksichtnahme auf andere Verkehrsteilnehmer fahren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che le condizioni della strada e i limiti di velocità siano idonei al ciclo di guida previsto.  Durante la prova, guidare sempre con prudenza e cautela nei confronti di altri guidatori.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >道路状況および制限速度がドライブ サイクルに適していることを確認しなさい。  このテスト中は、常に充分注意し、他のドライバーにも配慮して運転しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar se as condições da estrada e os limites de velocidade são adequados ao ciclo de condução.  Conduzir sempre com prudência e consideração pelos outros condutores durante o teste.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que as condições da estrada e limites de velocidade sejam adequados para o ciclo de acionamento.  Dirija com cuidado e consideração com outros motoristas em todos os momentos durante o teste.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что дорожные условия и ограничения скорости соответствуют циклу вождения.  Ведите автомобиль, соблюдая меры предосторожности и обращая во внимание на остальных водителей всякий раз во время проверки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que las condiciones viales y los límites de velocidad son adecuados para el ciclo de conducción.  Durante la prueba, conduzca en todo momento con la debida atención y consideración hacia otros conductores.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保路面情况与速度限值适合于驱动循环。  整个测试期间，请小心驾驶，并充分体谅其他驾驶员。</tu>
+	<tu
+    xmlns:lang="kor"
+  >도로 상태와 속도 제한이 주행 사이클에 적합한지 확인하십시오.  테스트 중에는 항상 다른 운전자를 고려하여 조심스럽게 주행하십시오.</tu>
+</tm>

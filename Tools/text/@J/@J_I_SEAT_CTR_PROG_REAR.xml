@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SEAT_CTR_PROG_REAR">
+	<tu xmlns:lang="eng">Seat control program - rear</tu>
+	<tu xmlns:lang="nld">Met programma voor stoelregeling - achter</tu>
+	<tu xmlns:lang="fra">Programme de commande de siège - arrière</tu>
+	<tu xmlns:lang="deu">Sitzsteuerprogramm - hinten</tu>
+	<tu xmlns:lang="ita">Programma controllo sedili - posteriore</tu>
+	<tu xmlns:lang="jpn">シート コントロール プログラム － リア</tu>
+	<tu xmlns:lang="ptg">Programa de controlo dos bancos - traseiros</tu>
+	<tu xmlns:lang="ptb">Programa de controle do assento - traseiro</tu>
+	<tu xmlns:lang="rus">Программа управления сиденьем - сзади</tu>
+	<tu xmlns:lang="esp">Programa de control de los asientos traseros</tu>
+	<tu xmlns:lang="chs">座椅控制程序 - 后部</tu>
+	<tu xmlns:lang="kor">시트 컨트롤 프로그램 - 리어</tu>
+</tm>

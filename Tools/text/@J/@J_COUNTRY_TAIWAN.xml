@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_TAIWAN">
+	<tu xmlns:lang="eng">Taiwan</tu>
+	<tu xmlns:lang="nld">Taiwan</tu>
+	<tu xmlns:lang="fra">Taiwan</tu>
+	<tu xmlns:lang="deu">Taiwan</tu>
+	<tu xmlns:lang="ita">Taiwan</tu>
+	<tu xmlns:lang="jpn">台湾</tu>
+	<tu xmlns:lang="ptg">Taiwan</tu>
+	<tu xmlns:lang="ptb">Taiwan</tu>
+	<tu xmlns:lang="rus">Тайвань</tu>
+	<tu xmlns:lang="esp">Taiwán</tu>
+	<tu xmlns:lang="chs">中国台湾</tu>
+	<tu xmlns:lang="kor">대만</tu>
+</tm>

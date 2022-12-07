@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AllUsed$I">
+	<tu xmlns:lang="eng">Unable to program, all slots are in use.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Programmeren is nu niet mogelijk, omdat alle geheugenplaatsen in gebruik zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Impossible de programmer, tous les emplacements sont occupés.</tu>
+	<tu xmlns:lang="deu">Programmierung nicht möglich, alle Plätze sind belegt.</tu>
+	<tu xmlns:lang="ita">Impossibile programmare. Tutti gli slot sono in uso.</tu>
+	<tu xmlns:lang="jpn">プログラムできません。すべてのスロットが使用済みです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não é possível programar; todas as slots estão a ser usadas.</tu>
+	<tu xmlns:lang="ptb">Não é possível programar, todos os slots estão em uso.</tu>
+	<tu xmlns:lang="rus">Невозможно запрограммировать - используются все слоты.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Imposible de programar, todas las ranuras están en uso.</tu>
+	<tu xmlns:lang="chs">'无法编程，所有槽都在使用中。'</tu>
+	<tu xmlns:lang="kor">프로그래밍 불가능, 모든 슬롯이 사용 중입니다.</tu>
+</tm>

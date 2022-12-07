@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ENGINE_EMISSION_CONTROL">
+	<tu xmlns:lang="eng">Engine emission control</tu>
+	<tu xmlns:lang="nld">Motoremissieregeling</tu>
+	<tu xmlns:lang="fra">Commande de controle des emissions du moteur</tu>
+	<tu xmlns:lang="deu">Motoremissionsregelung</tu>
+	<tu xmlns:lang="ita">Controllo emissioni motore </tu>
+	<tu xmlns:lang="jpn">エ・ジ・ エミッショ・ コ・トロール</tu>
+	<tu xmlns:lang="ptg">Controlo das emissões do motor</tu>
+	<tu xmlns:lang="ptb">Controle de emissões do motor</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система снижения токсичности отработавших газов двигателя</tu>
+	<tu xmlns:lang="esp">Control de emisiones del motor</tu>
+	<tu xmlns:lang="chs">发动机排放控制</tu>
+	<tu xmlns:lang="kor">엔진 배기 가스 배출 컨트롤</tu>
+</tm>

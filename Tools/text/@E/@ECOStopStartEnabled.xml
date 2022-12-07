@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECOStopStartEnabled">
+	<tu
+    xmlns:lang="eng"
+  >Stop/start system on.  System is working as expected. The stop/start system has been enabled via the ECO/auto stop/start switch.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stop/Start-systeem aan. Systeem werkt zoals verwacht. Het Stop/Start-systeem is ingeschakeld via de schakelaar ECO/automatische Stop/Start.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système Arrêt/Démarrage activé. Le système fonctionne normalement. Le système Arrêt/Démarrage a été activé via le commutateur ECO/Arrêt/Démarrage auto.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Start-Stopp-System eingeschaltet. System funktioniert wie erwartet. Das Stopp/Start-System wurde über den ECO-/Auto-Stopp-Start-Schalter aktiviert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attivazione del sistema Stop/Start. Il sistema funziona come previsto. Il sistema Stop/Start è stato attivato tramite l'interruttore Stop/Start automatico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スタート/ストップ システムがオンになっています。 システムは期待通りに動作しています。 ECO/自動ストップ/スタート スイッチによってスタート/ストップ システムが有効になりました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema Stop/Start ligado. O sistema está a funcionar conforme esperado. O sistema Stop/Start foi ativado através do interruptor ECO / Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema Stop/Start ativado. O sistema está funcionando conforme o esperado. O sistema Stop/Start foi ativado por meio do interruptor de stop/start automático/ECO.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система стоп/старт включена. Система работает должным образом. Система стоп/старт была включена с помощью переключателя ECO/автоматической системы стоп/старт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema Stop/Start activado. El sistema funciona según lo previsto. El sistema Stop/Start se ha activado a través del interruptor Stop/Start automático/ECO.</tu>
+	<tu
+    xmlns:lang="chs"
+  >停止/启动系统已打开。 系统正在按预期工作。 已通过 ECO/自动停止/启动开关启用停止/启动系统。</tu>
+	<tu
+    xmlns:lang="kor"
+  >Stop/Start 시스템이 켜져 있습니다. 시스템이 예상대로 작동 중입니다. Stop/Start 시스템이 ECO/자동 Stop/Start 스위치를 통해 활성화되었습니다.</tu>
+</tm>

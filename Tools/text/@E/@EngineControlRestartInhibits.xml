@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineControlRestartInhibits">
+	<tu xmlns:lang="eng">Engine restart inhibits</tu>
+	<tu xmlns:lang="nld">Herstart van de motor blokkeert</tu>
+	<tu xmlns:lang="fra">Neutralisations du redémarrage moteur</tu>
+	<tu xmlns:lang="deu">Motor-Neustart verhindert</tu>
+	<tu xmlns:lang="ita">Disattivazioni riavvio motore</tu>
+	<tu xmlns:lang="jpn">エンジン再始動禁止</tu>
+	<tu xmlns:lang="ptg">Inibições de arranque do motor</tu>
+	<tu xmlns:lang="ptb">Inibições de nova partida do motor</tu>
+	<tu xmlns:lang="rus">Блокировка повторного запуска двигателя</tu>
+	<tu xmlns:lang="esp">El arranque del motor se bloquea</tu>
+	<tu xmlns:lang="chs">发动机重新起动禁止</tu>
+	<tu xmlns:lang="kor">엔진 재시동 억제</tu>
+</tm>

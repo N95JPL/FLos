@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REQ_THROT_ANG">
+	<tu xmlns:lang="eng">Requested throttle angle</tu>
+	<tu xmlns:lang="nld">Aangevraagde gasklephoek </tu>
+	<tu xmlns:lang="fra">Angle de papillon demandé.</tu>
+	<tu xmlns:lang="deu">Angeforderter Drosselklappenwinkel</tu>
+	<tu xmlns:lang="ita">Angolo farfalla richiesto</tu>
+	<tu xmlns:lang="jpn">要求されたスロットル アングル</tu>
+	<tu xmlns:lang="ptg">Ângulo da borboleta do acelerador pedido</tu>
+	<tu xmlns:lang="ptb">Ângulo de acelerador solicitado</tu>
+	<tu xmlns:lang="rus">Заданный угол открытия дроссельной заслонки</tu>
+	<tu xmlns:lang="esp">Ángulo solicitado de la mariposa</tu>
+	<tu xmlns:lang="chs">已请求的节气门角度</tu>
+	<tu xmlns:lang="kor">요청된 스로틀 각도</tu>
+</tm>

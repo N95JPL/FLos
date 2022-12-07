@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_J_GATE_MOD">
+	<tu xmlns:lang="eng">Gear selector module</tu>
+	<tu xmlns:lang="nld">Transmissieregelmodule</tu>
+	<tu xmlns:lang="fra">Module de sélecteur de vitesses</tu>
+	<tu xmlns:lang="deu">Wählhebelmodul</tu>
+	<tu xmlns:lang="ita">Modulo selettore marce</tu>
+	<tu xmlns:lang="jpn">ギア セレクター モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo da alavanca selectora</tu>
+	<tu xmlns:lang="ptb">Módulo de seletor de marchas</tu>
+	<tu xmlns:lang="rus">Блок селектора коробки передач</tu>
+	<tu xmlns:lang="esp">Módulo selector de marchas</tu>
+	<tu xmlns:lang="chs">换档杆模块</tu>
+	<tu xmlns:lang="kor">기어 레버 모듈</tu>
+</tm>

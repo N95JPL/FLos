@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERV_MODE_ENAB">
+	<tu xmlns:lang="eng">Service mode enabled</tu>
+	<tu xmlns:lang="nld">Onderhoudsfunctie geactiveerd</tu>
+	<tu xmlns:lang="fra">Mode maintenance activé</tu>
+	<tu xmlns:lang="deu">Servicemodus aktiviert</tu>
+	<tu xmlns:lang="ita">Modalità di servizio abilitata</tu>
+	<tu xmlns:lang="jpn">サービス モード作動可</tu>
+	<tu xmlns:lang="ptg">Modo de serviço activado</tu>
+	<tu xmlns:lang="ptb">Modo de serviço ativado</tu>
+	<tu xmlns:lang="rus">Режим обслуживания включен</tu>
+	<tu xmlns:lang="esp">Modo de servicio habilitado</tu>
+	<tu xmlns:lang="chs">维修模式已启用</tu>
+	<tu xmlns:lang="kor">서비스 모드 활성화됨</tu>
+</tm>

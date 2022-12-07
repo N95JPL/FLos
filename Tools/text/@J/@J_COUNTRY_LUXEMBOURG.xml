@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_LUXEMBOURG">
+	<tu xmlns:lang="eng">Luxembourg</tu>
+	<tu xmlns:lang="nld">Luxemburg</tu>
+	<tu xmlns:lang="fra">Luxembourg</tu>
+	<tu xmlns:lang="deu">Luxemburg</tu>
+	<tu xmlns:lang="ita">Lussemburgo</tu>
+	<tu xmlns:lang="jpn">ルクセンブルグ</tu>
+	<tu xmlns:lang="ptg">Luxemburgo</tu>
+	<tu xmlns:lang="ptb">Luxemburgo</tu>
+	<tu xmlns:lang="rus">Люксембург</tu>
+	<tu xmlns:lang="esp">Luxemburgo</tu>
+	<tu xmlns:lang="chs">卢森堡</tu>
+	<tu xmlns:lang="kor">룩셈부르크</tu>
+</tm>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENTER_BARCODE">
+	<tu
+    xmlns:lang="eng"
+  >The next screen will require you to enter digits 3-10 of the 11 digit alphanumeric value, which is printed on the barcode label located in two places.  1. Located in the boot/trunk on the right hand side, you need to remove the base board that exposes the spare wheel and then pull the right hand trim away from the body to view the label.  2. Located on the steering column this is only accessible by dropping the column.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Op het volgende scherm moet u de cijfers/letters 3-10 van de alfanumerieke waarde van 11 cijfers/letters invoeren, dat op de streepjescodesticker is gedrukt, die op twee locaties is aangebracht.  1. Bevindt zich aan de rechterkant in de kofferruimte. Om de sticker te bekijken moet u de grondplaat verwijderen waaronder het reservewiel zit en daarna de bekleding aan de rechterkant van de carrosserie wegtrekken.
+  2. Bevindt zich op de stuurkolom. U kunt hier alleen bijkomen door de kolom te laten zakken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'écran suivant vous demandera de saisir les caractères 3-10 de la valeur alphanumérique à 11 caractères qui est imprimée sur l'étiquette du code barres située à deux endroits.  1. Située dans le coffre du côté droit, vous devrez retirer la planche de base qui recouvre la roue de secours et tirer le revêtement droit de la carrosserie pour voir l'étiquette.  2. Située sur la colonne de direction, elle n'est accessible qu'en abaissant la colonne.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf dem nächsten Bildschirm müssen Sie die Stellen 3-10 des 11-stelligen alphanumerischen Wertes eingeben, der auf dem an zwei Stellen angebrachten Strichcodeschild aufgedruckt ist.  1. Angebracht im Kofferraum auf der rechten Seite; Sie müssen die Bodenplatte entfernen, wodurch das Ersatzrad sichtbar wird, und dann die Verkleidung auf der rechten Seite von der Karosserie wegziehen, um das Schild sehen zu können.  2. An der Lenksäule angebracht; nur zugänglich, wenn die Lenksäule abgesenkt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La schermata successiva richiede l'immissione delle cifre 3-10 del valore alfanumerico a 11 cifre stampato sull'etichetta del codice a barre che si trova in due posizioni.  1. Sul lato destro del bagagliaio, è necessario togliere il pannello base per scoprire la ruota di scorta e tirare su il rivestimento sul lato destro per scoprire l'etichetta.
+  2. Sul piantone dello sterzo, quest'etichetta è visibile solo abbassando il piantone.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の画面で、11 桁からなる英数字の 3～10 桁を入力する必要が・ります。これらは 2 か所に貼\付されているバーコード ラベルに印刷されています。  1. トランク右側に貼\付されています。ラベルを見るにはベースボードを取り外してスペアホイールを露出させ、ボディから右側トリムを取り外す必要が・ります。  2. ステアリング コラム上に貼\付されています。コラムを下げないとアクセスできません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >No ecrã seguinte terá de introduzir os dígitos 3-10 do valor alfanumérico de 11 dígitos, que está impresso na etiqueta com o código de barras, localizada em dois sítios.  1. Na bagageira, do lado direito; é necessário retirar o painel de base que expõe a roda sobressalente e afastar o acabamento direito da carroçaria para ver a etiqueta.  2. Na coluna da direcção - apenas acessível baixando a coluna.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A próxima tela exigirá que você insira um valor alfanumérico de 3 e 10 dígitos entre 11 dígitos, o que é indicado na etiqueta do código de barras localizada em dois locais.  1. Localizada no porta-malas no lado direito, é necessário remover a placa de base que expõe a roda sobressalente e, em seguida, puxar a moldura do lado direito para longe da carroceria para ver a etiqueta.  2. Localizada na coluna de direção, esta é acessível somente por queda da coluna.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На следующем экране потребуется ввести цифры (3-10) 11-значного буквенно-цифрового значения, напечатанного на ярлыке со штрих-кодом на рулевой колонке.  1. Located in the boot/trunk on the right hand side, you need to remove the base board that exposes the spare wheel and then pull the right hand trim away from the body to view the label  2. Located on the steering column this is only accessible by dropping the column.</tu>
+	<tu
+    xmlns:lang="esp"
+  >En la pantalla siguiente se deberán introducir los dígitos 3 a 10 del valor alfanumérico de 11 caracteres que está impreso en las etiquetas de código de barras que se encuentran en dos lugares.  1. En el lado derecho del maletero: se debe desmontar la plancha que oculta la rueda de repuesto y retirar el guarnecido del lado derecho de la carrocería para poder ver la etiqueta.  2. En la columna de la dirección: solo se puede acceder a ella si se baja la columna.</tu>
+	<tu
+    xmlns:lang="chs"
+  >下一屏幕将需要您输入 11 位字母数字值的 3-10 位，此 11 位字母数字值印制在转向柱总成上的条形码标签上。
+  1. Located in the boot/trunk on the right hand side, you need to remove the base board that exposes the spare wheel and then pull the right hand trim away from the body to view the label  2. Located on the steering column this is only accessible by dropping the column.</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 화면에서는 두 곳에 있는 바코드 레이블에 인쇄된 11자리 영숫자 값 중 3-10번째 값을 입력해야 합니다.  1. 우측의 부트/트렁크에서 스페어 휠을 노출시키는 베이스 보드를 탈거한 다음, 우측 트림을 차체에서 잡아당겨 레이블을 확인해야 합니다.  2. 이것은 스티어링 칼럼에 있는데, 칼럼을 내려야만 접근할 수 있습니다.</tu>
+</tm>

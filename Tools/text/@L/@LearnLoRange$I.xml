@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LearnLoRange$I">
+	<tu
+    xmlns:lang="eng"
+  >Gear learning can be carried out in low range allowing lower maximum speed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt het inleren van de versnelling in het lage bereik uitvoeren, zodat de maximumsnelheid lager is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'apprentissage des vitesses peut s'effectuer en gamme basse permettant une vitesse maximale inférieure.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Gangerlernung kann im niedrigen Übersetzungsbereich durchgeführt werden, was eine geringere Höchstgeschwindigkeit ermöglicht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'apprendimento delle marce può essere eseguito nella gamma bassa del cambio consentendo una velocità massima inferiore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ギア認識は、より低い最大速度を得られるロー レンジで実行可能\です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A programação das mudanças pode ser levada a cabo em gama baixa, permitindo a velocidade máxima mais baixa.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A memorização da engrenagem pode ser realizada em marcha lenta, permitindo a velocidade máxima inferior.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сохранение параметров передач может быть выполнено в диапазоне низших передаточных чисел, допускающем наименьшую максимальную скорость.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El aprendizaje de marchas se puede realizar en marchas cortas para admitir una velocidad máxima reducida.</tu>
+	<tu xmlns:lang="chs">可在低档范围执行档位学习，以降低最大车速。</tu>
+	<tu
+    xmlns:lang="kor"
+  >로우 레인지에서 더 낮은 최소 속도를 허용하여 기어 학습을 실시할 수 있습니다.</tu>
+</tm>

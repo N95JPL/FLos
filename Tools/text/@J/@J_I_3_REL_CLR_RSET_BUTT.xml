@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_3_REL_CLR_RSET_BUTT">
+	<tu xmlns:lang="eng">3)  Release the 'clear/reset' button.</tu>
+	<tu xmlns:lang="nld">3)  Laat de 'clear/reset'-toets los.</tu>
+	<tu
+    xmlns:lang="fra"
+  >3)  Relâchez le bouton 'clear/reset' (remise à zéro/réinitialisation).</tu>
+	<tu
+    xmlns:lang="deu"
+  >3)  Die Taste 'Clear/Reset' (Löschen/Rückstellen) loslassen.</tu>
+	<tu xmlns:lang="ita">3)  Rilasciare il tasto 'CLEAR/RESET'.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >3)  「clear/reset (クリア／リセット)」ボタンを離しなさい。</tu>
+	<tu xmlns:lang="ptg">3)  Não é possível introduzir este código manualmente.</tu>
+	<tu xmlns:lang="ptb">3)  Solte o botão excluir/redefinir.</tu>
+	<tu xmlns:lang="rus">3)  Отпустите кнопку 'сброс/удаление'.</tu>
+	<tu xmlns:lang="esp">3)  Soltar el botón 'clear/reset'.</tu>
+	<tu xmlns:lang="chs">3)  释放'清除/复位'按钮。</tu>
+	<tu xmlns:lang="kor">3)  '지우기/재설정' 버튼을 놓으십시오.</tu>
+</tm>

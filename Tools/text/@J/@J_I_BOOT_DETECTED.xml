@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BOOT_DETECTED">
+	<tu xmlns:lang="eng">%d : luggage compartment lid open detected</tu>
+	<tu xmlns:lang="nld">%d : Bagageruimte open gedetecteerd</tu>
+	<tu xmlns:lang="fra">%d : Coffre ouvert détecté</tu>
+	<tu xmlns:lang="deu">%d : Geöffneten Kofferraumdeckel ermittelt</tu>
+	<tu xmlns:lang="ita">%d : Rilevato bagagliaio aperto</tu>
+	<tu xmlns:lang="jpn">％ｄ：トランク開検知</tu>
+	<tu xmlns:lang="ptg">%d: detectada porta da bagageira aberta</tu>
+	<tu xmlns:lang="ptb">%d : tampa do porta-malas aberta detectada</tu>
+	<tu xmlns:lang="rus">%d : обнаружено, что открыта крышка багажника.</tu>
+	<tu xmlns:lang="esp">%d : Detectado maletero abierto</tu>
+	<tu xmlns:lang="chs">%d：检测到行李箱盖开启</tu>
+	<tu xmlns:lang="kor">%d: 러기지 컴파트먼트 리드 열림이 감지됨</tu>
+</tm>

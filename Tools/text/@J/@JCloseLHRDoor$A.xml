@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JCloseLHRDoor$A">
+	<tu xmlns:lang="eng">Close the rear left door</tu>
+	<tu xmlns:lang="nld">Doe het LINKER achterportier dicht</tu>
+	<tu xmlns:lang="fra">Fermer la porte arrière GAUCHE</tu>
+	<tu xmlns:lang="deu">Schließen Sie die LINKE Hintertür</tu>
+	<tu xmlns:lang="ita">Chiudere la porta posteriore SINISTRA</tu>
+	<tu xmlns:lang="jpn">左側ﾘｱ・ﾄﾞｱを閉めなさい。</tu>
+	<tu xmlns:lang="ptg">Fechar a porta esquerda traseira</tu>
+	<tu xmlns:lang="ptb">Feche a porta traseira esquerda</tu>
+	<tu xmlns:lang="rus">Закройте заднюю левую дверь</tu>
+	<tu xmlns:lang="esp">Cerrar la puerta trasera de la IZQUIERDA</tu>
+	<tu xmlns:lang="chs">关闭左后车门</tu>
+	<tu xmlns:lang="kor">리어 좌측 도어를 닫습니다.</tu>
+</tm>

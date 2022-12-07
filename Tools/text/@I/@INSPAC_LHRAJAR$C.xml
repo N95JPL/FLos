@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INSPAC_LHRAJAR$C">
+	<tu xmlns:lang="eng">Rear left door ajar</tu>
+	<tu xmlns:lang="nld">Portier links achter open</tu>
+	<tu xmlns:lang="fra">Porte arrière gauche entrebâillée</tu>
+	<tu xmlns:lang="deu">Tür hinten links angelehnt</tu>
+	<tu xmlns:lang="ita">Porta posteriore sinistra aperta</tu>
+	<tu xmlns:lang="jpn">左後ﾄﾞｱ・ｵーﾌﾟﾝ</tu>
+	<tu xmlns:lang="ptg">Porta traseira esquerda mal fechada</tu>
+	<tu xmlns:lang="ptb">Porta traseira esquerda entreaberta</tu>
+	<tu xmlns:lang="rus">Не закрыта задняя левая дверь</tu>
+	<tu xmlns:lang="esp">Puerta trasera izquierda entreabierta</tu>
+	<tu xmlns:lang="chs">左后车门开启</tu>
+	<tu xmlns:lang="kor">리어 좌측 도어 열림</tu>
+</tm>

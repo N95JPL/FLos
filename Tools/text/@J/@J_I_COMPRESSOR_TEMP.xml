@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMPRESSOR_TEMP">
+	<tu xmlns:lang="eng">Compressor temperature.</tu>
+	<tu xmlns:lang="nld">Compressortemperatuur.</tu>
+	<tu xmlns:lang="fra">Température de compresseur.</tu>
+	<tu xmlns:lang="deu">Kompressortemperatur.</tu>
+	<tu xmlns:lang="ita">Temperatura compressore.</tu>
+	<tu xmlns:lang="jpn">コンプレッサ温度</tu>
+	<tu xmlns:lang="ptg">Temperatura do compressor.</tu>
+	<tu xmlns:lang="ptb">Temperatura do compressor.</tu>
+	<tu xmlns:lang="rus">Температура компрессора:</tu>
+	<tu xmlns:lang="esp">Temperatura del compresor.</tu>
+	<tu xmlns:lang="chs">压缩机温度。</tu>
+	<tu xmlns:lang="kor">컴프레서 온도</tu>
+</tm>

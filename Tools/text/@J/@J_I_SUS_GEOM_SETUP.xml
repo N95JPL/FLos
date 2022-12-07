@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SUS_GEOM_SETUP">
+	<tu xmlns:lang="eng">Suspension geometry set-up</tu>
+	<tu xmlns:lang="nld">Instelling van geometrie voor wielophanging</tu>
+	<tu xmlns:lang="fra">Réglage de géométrie de suspension</tu>
+	<tu xmlns:lang="deu">Einstellung Aufhängungsgeometrie</tu>
+	<tu xmlns:lang="ita">Configurazione geometria sospensioni</tu>
+	<tu xmlns:lang="jpn">サスペンション ジオメトリ セットアップ</tu>
+	<tu xmlns:lang="ptg">Configuração da geometria da suspensão</tu>
+	<tu xmlns:lang="ptb">Configuração da geometria da suspensão</tu>
+	<tu xmlns:lang="rus">Регулировка геометрии подвески</tu>
+	<tu xmlns:lang="esp">Configuración de la geometría de la suspensión</tu>
+	<tu xmlns:lang="chs">悬挂几何装置</tu>
+	<tu xmlns:lang="kor">서스펜션 형상 설정</tu>
+</tm>

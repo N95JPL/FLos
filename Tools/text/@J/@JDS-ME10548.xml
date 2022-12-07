@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-ME10548">
+	<tu xmlns:lang="eng">Do not remove the ignition key from the barrel</tu>
+	<tu xmlns:lang="nld">Verwijder de contactsleutel niet uit de slotcilinder</tu>
+	<tu xmlns:lang="fra">Ne pas retirer la clé de contact du barillet</tu>
+	<tu xmlns:lang="deu">Nicht den Zündschlüssel aus dem Schloßzylinder ziehen</tu>
+	<tu xmlns:lang="ita">Non togliere la chiave dal commutatore dell'accensione</tu>
+	<tu xmlns:lang="jpn">イグニションキーをバレルから抜いてはいけません。</tu>
+	<tu xmlns:lang="ptg">Não retire a chave da ignição do canhão da fechadura</tu>
+	<tu xmlns:lang="ptb">Não remova a chave da ignição da fechadura</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не вынимайте ключ зажигания из цилиндра замка зажигания</tu>
+	<tu
+    xmlns:lang="esp"
+  >No sacar del interruptor de encendido la llave de contacto</tu>
+	<tu xmlns:lang="chs">不得从点火钥匙筒中取下点火钥匙</tu>
+	<tu xmlns:lang="kor">배럴에서 점화 키를 뽑지 마십시오.</tu>
+</tm>

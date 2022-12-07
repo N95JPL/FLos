@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DriverInfluence">
+	<tu xmlns:lang="eng">Driver influence</tu>
+	<tu xmlns:lang="nld">Invloed van bestuurder</tu>
+	<tu xmlns:lang="fra">Influence du conducteur</tu>
+	<tu xmlns:lang="deu">Fahrer-Einfluss</tu>
+	<tu xmlns:lang="ita">Influenza del conducente</tu>
+	<tu xmlns:lang="jpn">ドライバーへの影響</tu>
+	<tu xmlns:lang="ptg">Influência do condutor</tu>
+	<tu xmlns:lang="ptb">Influência do motorista</tu>
+	<tu xmlns:lang="rus">Действия водителя</tu>
+	<tu xmlns:lang="esp">Influencia del conductor</tu>
+	<tu xmlns:lang="chs">驾驶员影响</tu>
+	<tu xmlns:lang="kor">운전자의 영향</tu>
+</tm>

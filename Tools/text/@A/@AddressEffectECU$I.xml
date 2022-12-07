@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AddressEffectECU$I">
+	<tu xmlns:lang="eng">Address of effected ECU - 0x%x.</tu>
+	<tu xmlns:lang="nld">Adres van betreffende ECU - 0x%x.</tu>
+	<tu xmlns:lang="fra">Adresse de l'ECU affectée - 0x%x.</tu>
+	<tu xmlns:lang="deu">Adresse des betroffenen Steuergeräts - 0x%x.</tu>
+	<tu xmlns:lang="ita">Indirizzo dell'ECU interessata: 0x%x.</tu>
+	<tu xmlns:lang="jpn">有効 ECU のアドレス - 0x%x</tu>
+	<tu xmlns:lang="ptg">Endereço da ECU afectada - 0x%x.</tu>
+	<tu xmlns:lang="ptb">Endereço do ECU efetuado - 0x%x.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Адрес соответствующего электронного блока управления - 0x%x.</tu>
+	<tu xmlns:lang="esp">Dirección de la ECU afectada: 0x%x.</tu>
+	<tu xmlns:lang="chs">有效的ECU地址 - 0x%x。</tu>
+	<tu xmlns:lang="kor">영향을 받는 ECU의 주소 - 0x%x</tu>
+</tm>

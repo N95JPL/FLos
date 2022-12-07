@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_IPK_LANG">
+	<tu xmlns:lang="eng">Instrument pack language</tu>
+	<tu xmlns:lang="nld">Instrumentencluster taal</tu>
+	<tu xmlns:lang="fra">Langue tableau de bord</tu>
+	<tu xmlns:lang="deu">Anzeigesprache Kombiinstrument</tu>
+	<tu xmlns:lang="ita">Lingua strumentazione</tu>
+	<tu xmlns:lang="jpn">インストルメント クラスタ言語</tu>
+	<tu xmlns:lang="ptg">Idioma do grupo de instrumentos</tu>
+	<tu xmlns:lang="ptb">Idioma do painel de instrumentos</tu>
+	<tu xmlns:lang="rus">Язык блока приборов</tu>
+	<tu xmlns:lang="esp">Idioma del cuadro de instrumentos</tu>
+	<tu xmlns:lang="chs">仪表组语言</tu>
+	<tu xmlns:lang="kor">계기판 언어</tu>
+</tm>

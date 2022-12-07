@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SecCodeLearnFail$I">
+	<tu xmlns:lang="eng">Learn security code fail.</tu>
+	<tu xmlns:lang="nld">Het inleren van de beveiligingscode is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec d'apprentissage du code de sécurité.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Erlernen des Sicherheitscodes war nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Apprendimento codice di sicurezza non riuscito.</tu>
+	<tu xmlns:lang="jpn">セキュリティ コード認識に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Programação do código de segurança falhou.</tu>
+	<tu xmlns:lang="ptb">Falha na memorização do código de segurança.</tu>
+	<tu xmlns:lang="rus">Не удалось считать защитный код.</tu>
+	<tu xmlns:lang="esp">Falló el aprendizaje del código de seguridad.</tu>
+	<tu xmlns:lang="chs">记忆安全码失败。</tu>
+	<tu xmlns:lang="kor">보안 코드 학습 실패</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_TEST_DETAIL_SENSORS_TITLE">
+	<tu xmlns:lang="eng">Sensors and assignment</tu>
+	<tu xmlns:lang="nld">Sensors en toekenning</tu>
+	<tu xmlns:lang="fra">Capteurs et affectation</tu>
+	<tu xmlns:lang="deu">Sensoren und Zuordnung</tu>
+	<tu xmlns:lang="ita">Sensori e assegnazione</tu>
+	<tu xmlns:lang="jpn">センサーおよび割り当て作業</tu>
+	<tu xmlns:lang="ptg">Sensores e respectiva atribuição</tu>
+	<tu xmlns:lang="ptb">SENSORES E CÂMERAS</tu>
+	<tu xmlns:lang="rus">Датчики и назначение</tu>
+	<tu xmlns:lang="esp">Sensores y asignación</tu>
+	<tu xmlns:lang="chs">传感器与分配</tu>
+	<tu xmlns:lang="kor">센서 및 할당</tu>
+</tm>

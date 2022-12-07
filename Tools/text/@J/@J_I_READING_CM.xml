@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_READING_CM">
+	<tu xmlns:lang="eng">Reading the control module information.</tu>
+	<tu xmlns:lang="nld">Bezig met het lezen van de CM informatie.</tu>
+	<tu xmlns:lang="fra">Lecture des informations CM.</tu>
+	<tu xmlns:lang="deu">CM informationen werden gelesen.</tu>
+	<tu xmlns:lang="ita">Lettura in corso di dati del CM.</tu>
+	<tu xmlns:lang="jpn">CM インフォメーションを読み取り中</tu>
+	<tu xmlns:lang="ptg">A ler informações do módulo de comando.</tu>
+	<tu xmlns:lang="ptb">Leitura das informações do módulo de controle.</tu>
+	<tu xmlns:lang="rus">Считывание данных блока управления.</tu>
+	<tu xmlns:lang="esp">Leyendo la información del CM.</tu>
+	<tu xmlns:lang="chs">正在读取控制模块信息。</tu>
+	<tu xmlns:lang="kor">컨트롤 모듈 정보를 읽는 중입니다.</tu>
+</tm>

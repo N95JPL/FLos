@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CENT_JUNC_MOD_UPDATE">
+	<tu xmlns:lang="eng">Central junction box configuration update</tu>
+	<tu xmlns:lang="nld">Configuratie-update voor centrale stroomverdeeldoos</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mise à jour de la configuration du boîtier de raccordement central</tu>
+	<tu xmlns:lang="deu">Zentralverteilerbox, Konfigurationsaktualisierung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Aggiornamento configurazione scatola fusibili di giunzione centrale</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セントラル ジャンクション ボックス コンフィギュレーションの更新</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Actualização de configuração da caixa de derivação central</tu>
+	<tu xmlns:lang="ptb">Atualização da configuração da caixa de junção central</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обновление конфигурации центральной распределительной коробки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Actualización de configuración de la caja de conexiones central</tu>
+	<tu xmlns:lang="chs">中心接线盒配置更新</tu>
+	<tu xmlns:lang="kor">센터 정션 박스 구성 업데이트</tu>
+</tm>

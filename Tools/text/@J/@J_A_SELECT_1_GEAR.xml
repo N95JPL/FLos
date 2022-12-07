@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_SELECT_1_GEAR">
+	<tu xmlns:lang="eng">Select first gear.</tu>
+	<tu xmlns:lang="nld">Kies 1e versnelling</tu>
+	<tu xmlns:lang="fra">Sélectionner 1ère</tu>
+	<tu xmlns:lang="deu">1. Gang wählen</tu>
+	<tu xmlns:lang="ita">Selezionare la 1a marcia</tu>
+	<tu xmlns:lang="jpn">１速ギアを選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Seleccionar a primeira velocidade.</tu>
+	<tu xmlns:lang="ptb">Selecione a primeira marcha.</tu>
+	<tu xmlns:lang="rus">Включите первую передачу.</tu>
+	<tu xmlns:lang="esp">Seleccionar la primera marcha</tu>
+	<tu xmlns:lang="chs">选择第 1 档。</tu>
+	<tu xmlns:lang="kor">1단 기어를 선택하십시오.</tu>
+</tm>

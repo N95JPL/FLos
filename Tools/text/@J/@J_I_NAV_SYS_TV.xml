@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NAV_SYS_TV">
+	<tu xmlns:lang="eng">Navigation system/television</tu>
+	<tu xmlns:lang="nld">Navigatiesysteem / televisie</tu>
+	<tu xmlns:lang="fra">Système de navigation/télévision</tu>
+	<tu xmlns:lang="deu">Navigationssystem/Fernsehen</tu>
+	<tu xmlns:lang="ita">Sistema di navigazione/televisione</tu>
+	<tu xmlns:lang="jpn">ナビゲーション システム／TV</tu>
+	<tu xmlns:lang="ptg">Sistema de navegação/televisão</tu>
+	<tu xmlns:lang="ptb">Sistema/televisão de navegação</tu>
+	<tu xmlns:lang="rus">Навигационная система/телевидение</tu>
+	<tu xmlns:lang="esp">Sistema de navegación/televisión</tu>
+	<tu xmlns:lang="chs">导航系统/电视</tu>
+	<tu xmlns:lang="kor">내비게이션 시스템/텔레비전</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NewModuleMes4$I">
+	<tu
+    xmlns:lang="eng"
+  >The operation should only be carried out if the electronic diesel control module has been renewed and is intended for permanent use with this vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U mag de bewerking alleen uitvoeren als de elektronische dieselregelmodule is vervangen en voor permanent gebruik in deze auto bestemd is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette opération ne doit être effectuée que si le module de commande diesel électronique a été remplacé et qu'il est prévu pour une utilisation définitive avec ce véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Vorgang sollte nur durchgeführt werden, wenn das Dieselmotor-Steuergerät erneuert wurde und permanent in diesem Fahrzeug genutzt werden soll.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'operazione deve essere eseguita solo se il modulo di comando diesel elettronico è stato sostituito e sarà usato in via definitiva con questo veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この車両に恒久的に使用する意図をもって、エレクトロニック ディーゼル コントロール モジュールを交換した場合にのみ、このオペレーションを行ってください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A operação só deve ser levada a cabo se o módulo electrónico de controlo do sistema diesel tiver sido substituído e se destinar a uso permanente neste veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A operação só deve ser realizada se o módulo de controle eletrônico de diesel tiver sido substituído e deve ser de uso permanente em conjunto com o veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эту операцию следует выполнять только в том случае, если был установлен новый электронный блок управления дизельным двигателем, который будет постоянно использоваться на данном автомобиле.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La operación solo debe llevarse a cabo si se ha sustituido el módulo de control electrónico Diesel y está previsto que éste se utilice permanentemente con este vehículo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >只有在柴油电子控制模块已更新，并准备永久用于此车辆时，才应执行该操作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전자식 디젤 컨트롤 모듈을 교체했고 이 차량에 영구적으로 사용할 목적인 경우에만 이 작업을 수행해야 합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUGH_LEAK_MEAS_RUN">
+	<tu xmlns:lang="eng">Rough leak measurement is running.</tu>
+	<tu xmlns:lang="nld">De meting voor grote lekken wordt uitgevoerd.</tu>
+	<tu xmlns:lang="fra">La mesure de la fuite sévère est en cours.</tu>
+	<tu xmlns:lang="deu">Messung erheblicher Undichtigkeit läuft.</tu>
+	<tu xmlns:lang="ita">In corso misurazione grosse perdite.</tu>
+	<tu xmlns:lang="jpn">ラフ リーク測定実行中</tu>
+	<tu xmlns:lang="ptg">Está a ser realizada uma medição de fuga grande.</tu>
+	<tu xmlns:lang="ptb">A medição de vazamento irregular está sendo executada.</tu>
+	<tu xmlns:lang="rus">Выполняется приблизительное измерение течи.</tu>
+	<tu xmlns:lang="esp">Está en curso la medición de fugas grandes.</tu>
+	<tu xmlns:lang="chs">较大泄漏测量正在运行。</tu>
+	<tu xmlns:lang="kor">대량 누출 측정이 실행됩니다.</tu>
+</tm>

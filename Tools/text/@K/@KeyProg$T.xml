@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KeyProg$T">
+	<tu xmlns:lang="eng">Key reprogramming.</tu>
+	<tu xmlns:lang="nld">Herprogrammering van sleutel.</tu>
+	<tu xmlns:lang="fra">Programmation de clé.</tu>
+	<tu xmlns:lang="deu">Schlüsselprogrammierung.</tu>
+	<tu xmlns:lang="ita">Riprogrammazione chiave in corso.</tu>
+	<tu xmlns:lang="jpn">キーの再プログラミング</tu>
+	<tu xmlns:lang="ptg">Reprogramação da chave.</tu>
+	<tu xmlns:lang="ptb">Reprogramação da chave.</tu>
+	<tu xmlns:lang="rus">Перепрограммирование ключа.</tu>
+	<tu xmlns:lang="esp">Programación de llaves.</tu>
+	<tu xmlns:lang="chs">钥匙正在重新编程。</tu>
+	<tu xmlns:lang="kor">키 재프로그래밍</tu>
+</tm>

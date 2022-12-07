@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ConfirmedInGearFault">
+	<tu xmlns:lang="eng">Confirmed gear neutral - In-gear fault</tu>
+	<tu xmlns:lang="nld">Bevestigde storing neutraal - in-versnelling</tu>
+	<tu xmlns:lang="fra">Point mort confirmé - Défaut Rapport engagé </tu>
+	<tu xmlns:lang="deu">Leerlaufstellung bestätigt – Störung eingelegter Gang</tu>
+	<tu xmlns:lang="ita">Cambio in folle confermato - guasto marcia inserita</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ギヤ ニュートラルが確認されました - ギヤに入っている状態での不具合</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Confirmada em ponto-morto - Avaria de engate de mudanças</tu>
+	<tu xmlns:lang="ptb">Ponto morto confirmado - Falha na engrenagem</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подтвержденный сбой нейтральной передачи - сбой при включенной передаче</tu>
+	<tu
+    xmlns:lang="esp"
+  >Punto muerto confirmado - Fallo en la posición de marcha</tu>
+	<tu xmlns:lang="chs">已确认的档位空档 - 挂档故障</tu>
+	<tu xmlns:lang="kor">기어 중립 확인 - 기어 체결 상태에서의 고장</tu>
+</tm>

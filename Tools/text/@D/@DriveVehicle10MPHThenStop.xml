@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DriveVehicle10MPHThenStop">
+	<tu
+    xmlns:lang="eng"
+  >The application will now require the vehicle to be driven at 16 km/h or 10 mph and then stopped.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De toepassing zal nu vragen 16 km/h (10 mph) met het voertuig te rijden en vervolgens te stoppen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'application nécessite alors de faire rouler le véhicule à une vitesse supérieure à 16 km/h (10 mi/h), puis de l'arrêter.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Anwendung erfordert jetzt, dass das Fahrzeug mit 10 mph gefahren und dann gestoppt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ora l'applicazione richiede che il veicolo sia guidato a 10 mph e successivamente arrestato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >現時点でアプリケーションは、車両を 10 mph で走行させてから停止させることを要求しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A aplicação irá agora requerer que o veículo seja conduzido a 16 km/h e, em seguida, parado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O aplicativo irá agora exigir que o veículo seja conduzido a 16 km/h (10 mph) e, em seguida, parado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для правильной работы приложения необходимо увеличить скорость автомобиля до 10 миль/ч, а затем остановиться.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La aplicación ahora necesita que el vehículo circule a 16 km/h (10 mph) y que, a continuación, se detenga.</tu>
+	<tu xmlns:lang="chs">应用程序现在需要车辆以 10 英里/小时速度行驶然后停止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >응용 프로그램에서 차량을 16km/h(10mph)로 주행한 후 멈추도록 요구합니다.</tu>
+</tm>

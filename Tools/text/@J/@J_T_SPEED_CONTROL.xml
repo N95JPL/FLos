@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_SPEED_CONTROL">
+	<tu xmlns:lang="eng">310-03 Speed control</tu>
+	<tu xmlns:lang="nld">310-03 Cruise control</tu>
+	<tu xmlns:lang="fra">310-03 Régulateur de vitesse</tu>
+	<tu xmlns:lang="deu">310-03 Geschwindigkeitsregelung</tu>
+	<tu xmlns:lang="ita">310-03 Comando velocità</tu>
+	<tu xmlns:lang="jpn">310-03 スピード コントロール</tu>
+	<tu xmlns:lang="ptg">310-03 Controlo da velocidade</tu>
+	<tu xmlns:lang="ptb">310-03 Controle de velocidade</tu>
+	<tu xmlns:lang="rus">310-03 Круиз-контроль</tu>
+	<tu xmlns:lang="esp">310-03 Sistema de control de velocidad</tu>
+	<tu xmlns:lang="chs">310-03速度控制</tu>
+	<tu xmlns:lang="kor">310-03 스피드 컨트롤</tu>
+</tm>

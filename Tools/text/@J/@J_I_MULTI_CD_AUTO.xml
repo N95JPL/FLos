@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MULTI_CD_AUTO">
+	<tu xmlns:lang="eng">Multi CD autochanger.</tu>
+	<tu xmlns:lang="nld">CD-wisselaar voor meerdere cd's.</tu>
+	<tu xmlns:lang="fra">Changeur multi-CD.</tu>
+	<tu xmlns:lang="deu">Mehrfach-CD-Wechsler.</tu>
+	<tu xmlns:lang="ita">Cambiadischi multi CD.</tu>
+	<tu xmlns:lang="jpn">マルチ CD オートチェンジャー</tu>
+	<tu xmlns:lang="ptg">Troca-CDs automático.</tu>
+	<tu xmlns:lang="ptb">Autocomutador de múltiplos CDs.</tu>
+	<tu xmlns:lang="rus">Автоматический чейнджер компакт-дисков.</tu>
+	<tu xmlns:lang="esp">Cambiador automático de CD múltiples.</tu>
+	<tu xmlns:lang="chs">多碟CD自动换碟机。</tu>
+	<tu xmlns:lang="kor">멀티 CD 오토체인저</tu>
+</tm>

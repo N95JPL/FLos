@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDrivDoorPuddleLamp$M">
+	<tu xmlns:lang="eng">Driver's door puddle lamp</tu>
+	<tu xmlns:lang="nld">Bestuurdersportier uitstapverlichting</tu>
+	<tu xmlns:lang="fra">Feux de bas de porte conducteur</tu>
+	<tu xmlns:lang="deu">Türeinstiegsleuchten fahrertür</tu>
+	<tu xmlns:lang="ita">Luci portiera guidatore</tu>
+	<tu xmlns:lang="jpn">ドライバー ドア パドル ランプ</tu>
+	<tu xmlns:lang="ptg">Luz de estribo da porta do condutor</tu>
+	<tu xmlns:lang="ptb">Luz de cortesia da porta do motorista</tu>
+	<tu
+    xmlns:lang="rus"
+  >Лампа фонаря подсветки при входе/выходе в двери водителя</tu>
+	<tu xmlns:lang="esp">Lámparas puerta conductor</tu>
+	<tu xmlns:lang="chs">驾驶员一侧车门脚底灯</tu>
+	<tu xmlns:lang="kor">운전석 도어 퍼들 램프</tu>
+</tm>

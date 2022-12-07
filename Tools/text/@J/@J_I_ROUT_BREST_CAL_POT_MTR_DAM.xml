@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_BREST_CAL_POT_MTR_DAM">
+	<tu
+    xmlns:lang="eng"
+  >When the calibration routine is complete, the seat backrest will remain at the incline hard end stop (the calibration reference point).  The seat backrest should be driven away from the hard end stop due to potential motor gear damage.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Na het beëindigen van de kalibreringsroutine, zal de rugleuning tegen de vaste eindaanslag voorover blijven staan (het referentiepunt voor kalibrering).  De rugleuning zou van de vaste eindaanslag moeten worden weggeduwd, als gevolg van potentiële schade aan het motortandwiel.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lorsque la procédure d'étalonnage sera terminée, le dossier du siège restera en position d'inclinaison contre la butée d'extrémité rigide (point de référence de l'étalonnage).  Le dossier du siège ne doit pas s'appuyer sur la butée d'extrémité rigide car cette position pourrait entraîner une détérioration du moteur de siège.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss der Kalibrierungsroutine verbleibt die Sitzlehne am Neigungsanschlagpunkt (dem Bezugspunkt für die Kalibrierung).  Die Sitzlehne muss vom Anschlagpunkt weggefahren werden, da es sonst möglicherweise zu Schäden am Motorzahnrad kommt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al termine della procedura di taratura, lo schienale del sedile rimane in corrispondenza del finecorsa di inclinazione meccanico (il punto di riferimento di taratura).  Lo schienale del sedile deve essere allontanato dal finecorsa meccanico per evitare possibili danni agli ingranaggi del motorino.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >キャリブレーション ルーチンが完了したとき、シート バックレストは「リクライニング上昇」ハード エンド ストップ (キャリブレーション参照ポイント) に残ります。  モーター ギア損傷の可能\性があるため、シート バックレストはハード エンド ストップから遠ざけておく必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando a rotina de calibragem estiver concluída, as costas do banco mantém-se no batente de inclinação (ponto de referência para calibragem).  As costas do banco devem ser afastadas do batente rígido para evitar potenciais danos na engrenagem do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Quando a rotina de calibração for concluída, o encosto do assento permanecerá na inclinação dura até ao batente (o ponto de referência da calibração).  O encosto do assento deve ser direcionado para longe da extremidade dura devido a possíveis danos ao motor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По окончании калибровки спинка сиденья будет отклонена до упора (исходная точка калибровки).  Во избежание возможного повреждения редуктора двигателя спинку сиденья необходимо отодвинуть от положения конечного жесткого упора.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez concluida la rutina de calibración, el respaldo del asiento permanecerá en el tope duro de inclinación (el punto de referencia para la calibración).  El respaldo del asiento se debe alejar del tope duro debido a la posibilidad de dañar los engranajes del motor.</tu>
+	<tu
+    xmlns:lang="chs"
+  >完成校准程序后，座椅靠背要保持在倾斜硬端点止动器处（校准基准点）。  应移动座椅靠背，使其远离硬端点止动器，否则可能损坏电机齿轮。</tu>
+	<tu
+    xmlns:lang="kor"
+  >보정 루틴이 완료되면 시트 등받이가 끝까지 기울어져 멈추는 지점(보정 기준점)에 그대로 머무릅니다.  모터 기어가 손상될 가능성이 있으므로 시트 등받이가 끝까지 작동하여 멈추는 지점에서 벗어나도록 구동되어야 합니다.</tu>
+</tm>

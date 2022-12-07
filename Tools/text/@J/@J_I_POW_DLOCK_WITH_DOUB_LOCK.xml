@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_POW_DLOCK_WITH_DOUB_LOCK">
+	<tu xmlns:lang="eng">Power door locks, with double dead lock.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Elektrisch bediende portiersloten, met dubbele deadlock.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Serrures de portes électriques ... double verrouillage.</tu>
+	<tu xmlns:lang="deu">Elektrische Türverriegelung mit Doppelverriegelung.</tu>
+	<tu xmlns:lang="ita">Serrature elettriche portiere, con doppia chiusura. </tu>
+	<tu xmlns:lang="jpn">ダブル デッドロック付き、電動ドア ロック</tu>
+	<tu xmlns:lang="ptg">Trancagem eléctrica das portas, com trancagem dupla.</tu>
+	<tu xmlns:lang="ptb">Travas elétricas da porta, com trava dupla morta.</tu>
+	<tu xmlns:lang="rus">Запирание электрозамка двери, с двойным запиранием.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cerraduras eléctricas de las puertas con cierre con enclavamiento.</tu>
+	<tu xmlns:lang="chs">'电动门锁，带双锁止。'</tu>
+	<tu xmlns:lang="kor">파워 도어 록, 이중 잠금 기능 있음</tu>
+</tm>

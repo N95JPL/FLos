@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NoMatch_I_L">
+	<tu xmlns:lang="eng">No matches found</tu>
+	<tu xmlns:lang="nld">Geen passende overeenkomst gevonden</tu>
+	<tu xmlns:lang="fra">Aucune correspondance trouvée</tu>
+	<tu xmlns:lang="deu">Keine Entsprechungen gefunden</tu>
+	<tu xmlns:lang="ita">Non è stata reperita alcuna concordanza</tu>
+	<tu xmlns:lang="jpn">該当する項目が見つかりません。</tu>
+	<tu xmlns:lang="ptg">Não foram encontradas correspondências</tu>
+	<tu xmlns:lang="ptb">Nenhuma correspondência encontrada</tu>
+	<tu xmlns:lang="rus">Соответствий не найдено</tu>
+	<tu xmlns:lang="esp">No se encontró ninguna concordancia</tu>
+	<tu xmlns:lang="chs">未找到匹配项</tu>
+	<tu xmlns:lang="kor">일치 항목을 찾을 수 없음</tu>
+</tm>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENSURE_KEY_PRESENT_UNLOCK">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the smart key is held inside the vehicle when pressing the unlock switch.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat de Smart-key in de auto aanwezig blijft terwijl op de ontgrendelschakelaar wordt gedrukt.
+
+    </tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que la clé intelligente reste à l'intérieur du véhicule lorsque le commutateur de déverrouillage est enfoncé.
+
+    </tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass sich der Smart Key im Inneren des Fahrzeugs befindet, wenn die Entriegelungstaste gedrückt wird.
+
+    </tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che la chiave Smart venga mantenuta all'interno del veicolo quando si preme l'interruttore di sblocco.
+
+    </tu>
+	<tu
+    xmlns:lang="jpn"
+  >アンロック スイッチを押すときに、スマート キーが車内にあることを確認してください。
+
+    </tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que a chave inteligente se mantém no interior do veículo ao premir o botão de destrancagem.
+
+    </tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a chave inteligente seja mantida no interior do veículo ao pressionar o botão de destravamento.
+
+    </tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что при нажатии кнопки отпирания электронный ключ находится в салоне автомобиля.
+
+    </tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que la llave inteligente se encuentra dentro del vehículo al pulsar el interruptor de desbloqueo.
+
+    </tu>
+	<tu xmlns:lang="chs">在按下解锁开关时，确保智能钥匙在车辆内。
+
+    </tu>
+	<tu
+    xmlns:lang="kor"
+  >잠금 해제 스위치를 누를 때 스마트 키가 차량 내에 그대로 있는지 확인하십시오.
+
+    </tu>
+</tm>

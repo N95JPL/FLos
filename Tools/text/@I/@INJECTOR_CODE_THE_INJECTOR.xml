@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INJECTOR_CODE_THE_INJECTOR">
+	<tu xmlns:lang="eng">The individual injector.</tu>
+	<tu xmlns:lang="nld">De injector zelf.</tu>
+	<tu xmlns:lang="fra">Injecteur lui-même.</tu>
+	<tu xmlns:lang="deu">Auf dem jeweiligen Einspritzventil</tu>
+	<tu xmlns:lang="ita">Il singolo iniettore.</tu>
+	<tu xmlns:lang="jpn">個々のインジェクタ</tu>
+	<tu xmlns:lang="ptg">Injector propriamente dito.</tu>
+	<tu xmlns:lang="ptb">O injetor individual.</tu>
+	<tu xmlns:lang="rus">На отдельной форсунке.</tu>
+	<tu xmlns:lang="esp">El inyector individual.</tu>
+	<tu xmlns:lang="chs">各自喷油器。</tu>
+	<tu xmlns:lang="kor">개별 인젝터.</tu>
+</tm>

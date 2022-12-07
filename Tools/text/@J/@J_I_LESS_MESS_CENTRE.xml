@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_MESS_CENTRE">
+	<tu xmlns:lang="eng">Message center not fitted</tu>
+	<tu xmlns:lang="nld">Mededelingencentrum niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Afficheur de message non monté</tu>
+	<tu xmlns:lang="deu">Fahrerinformationsdisplay nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Centro display messaggi non in dotazione</tu>
+	<tu xmlns:lang="jpn">メッセージセンター非装備</tu>
+	<tu xmlns:lang="ptg">Centro de mensagens não está instalado</tu>
+	<tu xmlns:lang="ptb">Centro de mensagens não instalado</tu>
+	<tu xmlns:lang="rus">Информационная панель не установлена</tu>
+	<tu xmlns:lang="esp">No hay centro de mensajes</tu>
+	<tu xmlns:lang="chs">消息中心未安装</tu>
+	<tu xmlns:lang="kor">메시지 센터가 장착되지 않음</tu>
+</tm>

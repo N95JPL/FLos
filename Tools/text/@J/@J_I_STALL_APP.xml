@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STALL_APP">
+	<tu xmlns:lang="eng">Stall apply</tu>
+	<tu xmlns:lang="nld">Handrem aan bij motor uit</tu>
+	<tu xmlns:lang="fra">Serrage du frein de stationnement lors d'un calage.</tu>
+	<tu xmlns:lang="deu">Anlegen bei Motorstillstand</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attivazione del freno di stazionamento con arresto veicolo</tu>
+	<tu xmlns:lang="jpn">ストールによる作動</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aplicar o travão de estacionamento quando o veículo 'vai abaixo'</tu>
+	<tu xmlns:lang="ptb">Aplicação de parada</tu>
+	<tu xmlns:lang="rus">Заглушение мотора</tu>
+	<tu xmlns:lang="esp">Activa freno de estacionamiento al calarse el motor</tu>
+	<tu xmlns:lang="chs">实施停转</tu>
+	<tu xmlns:lang="kor">멈춤 작동</tu>
+</tm>

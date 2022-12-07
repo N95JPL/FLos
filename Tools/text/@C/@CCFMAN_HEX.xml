@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_HEX">
+	<tu xmlns:lang="eng">HEX</tu>
+	<tu xmlns:lang="nld">HEX</tu>
+	<tu xmlns:lang="fra">HEX</tu>
+	<tu xmlns:lang="deu">HEX</tu>
+	<tu xmlns:lang="ita">HEX</tu>
+	<tu xmlns:lang="jpn">HEX</tu>
+	<tu xmlns:lang="ptg">HEX</tu>
+	<tu xmlns:lang="ptb">HEX</tu>
+	<tu xmlns:lang="rus">HEX</tu>
+	<tu xmlns:lang="esp">HEX</tu>
+	<tu xmlns:lang="chs">HEX</tu>
+	<tu xmlns:lang="kor">HEX</tu>
+</tm>

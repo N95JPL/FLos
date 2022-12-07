@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@OK_TO_DISCONNECT">
+	<tu xmlns:lang="eng">An internet connection is currently not needed and if required this computer may now be disconnected from the internet</tu>
+	<tu xmlns:lang="nld">Een internetverbinding is momenteel niet nodig; zo nodig kan de internetverbinding van deze computer worden verbroken</tu>
+	<tu xmlns:lang="fra">Aucune connexion Internet n'est requise actuellement et l'ordinateur peut maintenant être déconnecté de l'Internet si nécessaire</tu>
+	<tu xmlns:lang="deu">Es wird gegenwärtig keine Internetverbindung benötigt und bei Bedarf kann dieser Computer vom Internet getrennt werden.</tu>
+	<tu xmlns:lang="ita">Al momento non è necessaria una connessione Internet e, se richiesto, questo computer ora può essere scollegato da Internet</tu>
+	<tu xmlns:lang="jpn">インターネット接続は現在不要です。必要であれば、このコンピュータのインターネット接続をここで切断することができます</tu>
+	<tu xmlns:lang="ptg">Não é de momento necessária qualquer ligação à internet; se necessário, este computador pode agora ser desligado da internet</tu>
+	<tu xmlns:lang="ptb">Não é necessária uma conexão com a Internet atualmente e, se necessário, este computador pode ser desconectado da Internet</tu>
+	<tu xmlns:lang="rus">Подключение к Интернету в настоящее время не требуется, поэтому компьютер можно отключить от Интернета</tu>
+	<tu xmlns:lang="esp">Actualmente no es necesaria una conexión a Internet; si es necesaria, se puede desconectar este equipo de Internet ahora</tu>
+	<tu xmlns:lang="chs">目前不需要互联网连接，如有必要，现在可断开本电脑的互联网连接</tu>
+	<tu xmlns:lang="kor">현재 인터넷 연결이 필요하지 않고, 필요한 경우 이 컴퓨터가 인터넷에서 연결이 끊어질 수 있습니다.</tu>
+</tm>

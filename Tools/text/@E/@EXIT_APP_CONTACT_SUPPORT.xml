@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EXIT_APP_CONTACT_SUPPORT">
+	<tu xmlns:lang="eng">Exit application and contact Technical Support.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Sluit de toepassing af en neem contact op met Technical Support.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Quittez l'application et contactez l'assistance technique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anwendung beenden und Kontakt mit dem Technical Support aufnehmen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Uscire dall'applicazione e contattare il supporto tecnico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アプリケーションを終了して、テクニカル サポートに連絡してください。</tu>
+	<tu xmlns:lang="ptg">Saia da aplicação e contacte a assistência técnica.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Saia do aplicativo e entre em contato com o Suporte Técnico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выйдите из приложения и обратитесь в службу технической поддержки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Salga de la aplicación y póngase en contacto con el servicio de asistencia técnica.</tu>
+	<tu xmlns:lang="chs">退出应用程序，然后联系技术支持。</tu>
+	<tu xmlns:lang="kor">응용 프로그램을 종료하고 기술 지원에 문의하십시오.</tu>
+</tm>

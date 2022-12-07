@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LAP_BELT_DRV">
+	<tu xmlns:lang="eng">Lap belt pretensioner  -  Driver seat</tu>
+	<tu xmlns:lang="nld">Voorspanner van heupgordel  -  Bestuurdersstoel</tu>
+	<tu
+    xmlns:lang="fra"
+  >Prétensionneur de ceinture ventrale  -  Siège conducteur</tu>
+	<tu xmlns:lang="deu">Gurtstraffer Beckengurt  -  Fahrersitz</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pretensionatore cintura addominale  -  Sedile guidatore</tu>
+	<tu xmlns:lang="jpn">ラップベルト プリテンショナ  －  運転席側シート</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pré-tensor da faixa subabdominal do cinto de segurança  -  Banco do condutor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pré-tensionador do cinto de segurança abdominal  -  Assento do motorista</tu>
+	<tu
+    xmlns:lang="rus"
+  >Преднатяжитель поясного ремня безопасности  -  Сиденье водителя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pretensor inferior del cinturón de seguridad  -  Asiento del conductor</tu>
+	<tu xmlns:lang="chs">膝部安全带预紧器  -  驾驶员座椅</tu>
+	<tu xmlns:lang="kor">허리에 매는 안전벨트 프리텐셔너  -  운전석</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_BRAKE_NOT_PRESS">
+	<tu xmlns:lang="eng">The brake pedal should not be depressed.</tu>
+	<tu xmlns:lang="nld">Het rempedaal mag niet zijn ingetrapt.</tu>
+	<tu xmlns:lang="fra">La pédale de frein ne doit pas être enfoncée.</tu>
+	<tu xmlns:lang="deu">Das Bremspedal darf nicht durchgetreten werden.</tu>
+	<tu xmlns:lang="ita">Il pedale del freno non deve essere premuto.</tu>
+	<tu xmlns:lang="jpn">ブレーキ ペダルを踏んではいけません。</tu>
+	<tu xmlns:lang="ptg">O pedal dos travões não deve estar pressionado.</tu>
+	<tu xmlns:lang="ptb">O pedal de freio não deve ser pressionado.</tu>
+	<tu xmlns:lang="rus">Не нажимайте педаль тормоза.</tu>
+	<tu xmlns:lang="esp">No se debe pisar el pedal de freno.</tu>
+	<tu xmlns:lang="chs">制动踏板应该没有被踩下。</tu>
+	<tu xmlns:lang="kor">브레이크 페달을 밟지 않아야 합니다.</tu>
+</tm>

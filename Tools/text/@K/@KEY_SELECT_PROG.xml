@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KEY_SELECT_PROG">
+	<tu xmlns:lang="eng">The number of new smart keys selected for programming = %d
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het aantal nieuwe Smart-keys dat is geselecteerd voor programmeren = %d
+
+    </tu>
+	<tu
+    xmlns:lang="fra"
+  >Nombre de nouvelles clés intelligentes sélectionnées pour la programmation = %d
+
+    </tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Anzahl der ausgewählten zu programmierenden neuen Smart Keys = %d
+
+    </tu>
+	<tu
+    xmlns:lang="ita"
+  >Il numero delle nuove chiavi Smart selezionate per la programmazione = %d
+
+    </tu>
+	<tu xmlns:lang="jpn">プログラムするよう選択された新品スマート キーの数 = %d
+
+    </tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número de chaves inteligentes novas selecionadas para programação = %d
+
+    </tu>
+	<tu
+    xmlns:lang="ptb"
+  >O número de chaves inteligentes novas selecionadas para programação = %d
+
+    </tu>
+	<tu
+    xmlns:lang="rus"
+  >Количество новых электронных ключей, выбранных для программирования = %d
+
+    </tu>
+	<tu
+    xmlns:lang="esp"
+  >Número de llaves inteligentes nuevas seleccionadas para programar = %d
+
+    </tu>
+	<tu xmlns:lang="chs">选定进行编程的新钥匙的数量 = %d
+
+    </tu>
+	<tu xmlns:lang="kor">프로그래밍하도록 선택한 새 스마트 키의 수 = %d
+
+    </tu>
+</tm>

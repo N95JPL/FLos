@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BATTERY_CURRENT">
+	<tu xmlns:lang="eng">Battery Current</tu>
+	<tu xmlns:lang="nld">Accustroom</tu>
+	<tu xmlns:lang="fra">Courant de la batterie</tu>
+	<tu xmlns:lang="deu">Batteriestrom</tu>
+	<tu xmlns:lang="ita">Corrente batteria</tu>
+	<tu xmlns:lang="jpn">バッテリー電流</tu>
+	<tu xmlns:lang="ptg">Corrente da bateria</tu>
+	<tu xmlns:lang="ptb">Corrente da Bateria</tu>
+	<tu xmlns:lang="rus">Ток аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Corriente de la batería</tu>
+	<tu xmlns:lang="chs">蓄电池电流</tu>
+	<tu xmlns:lang="kor">배터리 전류</tu>
+</tm>

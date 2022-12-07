@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_FIT_ENG_MAN_CTR_MOD">
+	<tu
+    xmlns:lang="eng"
+  >You can now proceed to fit the new engine management control module to the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt nu verder gaan met het installeren van de nieuwe regelmodule van het motormanagementsysteem op het voertuig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous pouvez maintenant procéder à la pose du nouveau module de gestion du moteur sur le véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sie können jetzt mit dem Einbau des neuen Antriebsstrangsteuergeräts in das Fahrzeug fortfahren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Adesso è possibile procedere al montaggio di una nuova centralina di gestione motore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ここで新品のエンジン マネジメント コントロール モジュールを車両に取り付けることができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pode agora montar o módulo de comando da gestão do motor novo no veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Agora você pode continuar para instalar o novo módulo de controle de gerenciamento do motor no veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Теперь можно приступать к установке нового блока управления двигателем на автомобиль.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ahora puede proceder a montar en el vehículo el nuevo módulo de control del sistema de gestión del motor.</tu>
+	<tu xmlns:lang="chs">您现在可以将新的发动机管理控制模块装配到车辆上。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이제 신품 엔진 관리 컨트롤 모듈을 차량에 장착하는 단계로 진행할 수 있습니다.</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IGN_OFF_TIMER">
+	<tu
+    xmlns:lang="eng"
+  >The ignition must stay off for the duration of the timer.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens het lopen van de timer moet het contact uitgeschakeld blijven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'allumage doit rester coupé pendant la durée du temporisateur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Zündung muss für die Laufzeit des Zeitgebers ausgeschaltet bleiben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'accensione deve essere disattivata per la durata del timer.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >タイマー作動中はイグニションをオフにしておく必要があります。</tu>
+	<tu xmlns:lang="ptg">1 Pinça: 5 ml (6 ml se mudar o fluido dos travões)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A ignição deve permanecer desligada pelo tempo de duração do temporizador.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Зажигание должно быть выключено во время работы таймера.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El contacto debe permanecer cortado durante el período activo del temporizador.</tu>
+	<tu xmlns:lang="chs">在计时器启动期间，点火必须保持关闭。</tu>
+	<tu
+    xmlns:lang="kor"
+  >타이머 지속 시간 동안 점화가 꺼진 상태로 유지되어야 합니다.</tu>
+</tm>

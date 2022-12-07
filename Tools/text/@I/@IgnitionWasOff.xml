@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IgnitionWasOff">
+	<tu xmlns:lang="eng">Ignition was turned off.</tu>
+	<tu xmlns:lang="nld">Contact werd uitgeschakeld.</tu>
+	<tu xmlns:lang="fra">Le contact a été coupé.</tu>
+	<tu xmlns:lang="deu">Zündung wurde ausgeschaltet.</tu>
+	<tu xmlns:lang="ita">L'accensione è stata disinserita.</tu>
+	<tu xmlns:lang="jpn">イグニッションがオフになりました。</tu>
+	<tu xmlns:lang="ptg">A ignição foi desligada.</tu>
+	<tu xmlns:lang="ptb">Ignição foi desligada.</tu>
+	<tu xmlns:lang="rus">Зажигание выключено.</tu>
+	<tu xmlns:lang="esp">Se apagó el sistema de encendido.</tu>
+	<tu xmlns:lang="chs">点火开关已关闭。</tu>
+	<tu xmlns:lang="kor">점화 스위치가 꺼졌습니다.</tu>
+</tm>

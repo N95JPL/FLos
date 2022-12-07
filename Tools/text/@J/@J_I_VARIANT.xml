@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VARIANT">
+	<tu xmlns:lang="eng">Variant</tu>
+	<tu xmlns:lang="nld">Variant</tu>
+	<tu xmlns:lang="fra">Variante</tu>
+	<tu xmlns:lang="deu">Variante</tu>
+	<tu xmlns:lang="ita">Variante</tu>
+	<tu xmlns:lang="jpn">バリアント</tu>
+	<tu xmlns:lang="ptg">Variante</tu>
+	<tu xmlns:lang="ptb">Versão</tu>
+	<tu xmlns:lang="rus">Вариант</tu>
+	<tu xmlns:lang="esp">Variante</tu>
+	<tu xmlns:lang="chs">变量</tu>
+	<tu xmlns:lang="kor">변형 모델</tu>
+</tm>

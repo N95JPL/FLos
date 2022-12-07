@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SC_DESCRIPTION">
+	<tu xmlns:lang="eng">Description</tu>
+	<tu xmlns:lang="nld">Omschrijving</tu>
+	<tu xmlns:lang="fra">Description</tu>
+	<tu xmlns:lang="deu">Beschreibung</tu>
+	<tu xmlns:lang="ita">Descrizione</tu>
+	<tu xmlns:lang="jpn">定義</tu>
+	<tu xmlns:lang="ptg">Descrição</tu>
+	<tu xmlns:lang="ptb">Descrição</tu>
+	<tu xmlns:lang="rus">Описание</tu>
+	<tu xmlns:lang="esp">Descripción</tu>
+	<tu xmlns:lang="chs">描述</tu>
+	<tu xmlns:lang="kor">설명</tu>
+</tm>

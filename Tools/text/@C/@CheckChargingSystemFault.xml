@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckChargingSystemFault">
+	<tu
+    xmlns:lang="eng"
+  >Make sure that 'smart charging system fault' is not displayed on the instrument cluster.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat 'storing slim laadsysteem' niet op de instrumentengroep wordt weergegeven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'assurer que le message défaut du système de charge intelligente n'est pas affiché sur le combiné d'instruments.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass in der Instrumentengruppe nicht “Fehler intelligentes Ladesystem“ angezeigt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che sul quadro strumenti non sia visualizzato Guasto del sistema di carica intelligente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インストルメント クラスタに「スマート チャージング システムの不具合」が表示されていないことを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que avaria no sistema de carregamento inteligente não é apresentado no grupo de instrumentos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Tenha certeza de que a mensagem smart charging system fault (Avaria no sistema de carga inteligente) não é exibida no conjunto do painel de instrumentos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что на щитке приборов не отображается сообщение Неисправность интеллектуальной системы зарядки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que no se muestra en el cuadro de instrumentos el mensaje fallo del sistema de carga inteligente.</tu>
+	<tu xmlns:lang="chs">确保仪表盘上未显示“智能充电系统故障”。</tu>
+	<tu
+    xmlns:lang="kor"
+  >계기판에 '스마트 충전 시스템 고장'이 표시되지 않는지 확인하십시오.</tu>
+</tm>

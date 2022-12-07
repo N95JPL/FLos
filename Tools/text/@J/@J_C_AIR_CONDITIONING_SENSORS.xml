@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_AIR_CONDITIONING_SENSORS">
+	<tu xmlns:lang="eng">Air conditioning sensors</tu>
+	<tu xmlns:lang="nld">Airco-sensors</tu>
+	<tu xmlns:lang="fra">Capteurs de climatisation</tu>
+	<tu xmlns:lang="deu">Klimaanlagensensoren</tu>
+	<tu xmlns:lang="ita">Sensori aria condizionata</tu>
+	<tu xmlns:lang="jpn">エアコ・ディショニ・グ セ・サ</tu>
+	<tu xmlns:lang="ptg">Sensores do ar condicionado</tu>
+	<tu xmlns:lang="ptb">Sensor de ar-condicionado</tu>
+	<tu xmlns:lang="rus">Датчики кондиционера</tu>
+	<tu xmlns:lang="esp">Sensores del aire acondicionado</tu>
+	<tu xmlns:lang="chs">空调传感器</tu>
+	<tu xmlns:lang="kor">에어컨 센서</tu>
+</tm>

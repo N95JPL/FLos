@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INJ_ID_INPUT_MAN">
+	<tu
+    xmlns:lang="eng"
+  >All diesel injector identifications will need to be input manually.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De identificaties van de dieselinjectors moeten met de hand worden ingevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Toutes les identifications des injecteurs diesel devront être saisies manuellement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle Identifizierungsnummern der Diesel-Einspritzventile müssen von Hand eingegeben werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tutti i numeri di identificazione degli iniettori diesel dovranno essere immessi manualmente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >全ディーゼル インジェクタ ID を手動で入力する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todas as identificações dos injectores Diesel têm de ser introduzidas manualmente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todas as identificações do injetor de diesel precisarão ser inseridas manualmente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Все идентификационные номера топливных форсунок необходимо ввести вручную.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Habrá que introducir manualmente todas las identificaciones de inyectores Diesel.</tu>
+	<tu xmlns:lang="chs">所有柴油喷油器标识号码均需手工输入。</tu>
+	<tu xmlns:lang="kor">모든 디젤 인젝터 식별 정보는 수동으로 입력해야 합니다.</tu>
+</tm>

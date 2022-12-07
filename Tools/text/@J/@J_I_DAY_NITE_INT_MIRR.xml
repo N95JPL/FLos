@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DAY_NITE_INT_MIRR">
+	<tu xmlns:lang="eng">Day/night interior mirror</tu>
+	<tu xmlns:lang="nld">Dag-/nacht-binnenspiegel</tu>
+	<tu xmlns:lang="fra">Rétroviseur intérieur jour/nuit</tu>
+	<tu xmlns:lang="deu">Von Hand abblendbarer Innenrückspiegel</tu>
+	<tu
+    xmlns:lang="ita"
+  >Specchietto retrovisore interno per guida diurna/notturna</tu>
+	<tu xmlns:lang="jpn">デイ／ナイト インテリア ミラー</tu>
+	<tu xmlns:lang="ptg">Retrovisor interior para dia/noite</tu>
+	<tu xmlns:lang="ptb">Retrovisor interior de dia/noite</tu>
+	<tu xmlns:lang="rus">Внутреннее зеркало с переключением положений день/ночь</tu>
+	<tu xmlns:lang="esp">Retrovisor interior para día/noche</tu>
+	<tu xmlns:lang="chs">日间/夜间车内后视镜</tu>
+	<tu xmlns:lang="kor">주간/야간 내부 미러</tu>
+</tm>

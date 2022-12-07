@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_ADAPTION_MODE">
+	<tu xmlns:lang="eng">Set adaptation mode</tu>
+	<tu xmlns:lang="nld">Adaptatiefunctie instellen</tu>
+	<tu xmlns:lang="fra">Réglez le mode d'adaptation</tu>
+	<tu xmlns:lang="deu">Anpassungsmodus einstellen.</tu>
+	<tu xmlns:lang="ita">Impostare la modalità di adattamento</tu>
+	<tu xmlns:lang="jpn">補正モードのセット</tu>
+	<tu xmlns:lang="ptg">Definir modo de adaptação</tu>
+	<tu xmlns:lang="ptb">Definir modo de adaptação</tu>
+	<tu xmlns:lang="rus">Включить режим  адаптации</tu>
+	<tu xmlns:lang="esp">Establecer modo de adaptación</tu>
+	<tu xmlns:lang="chs">设置自适应模式</tu>
+	<tu xmlns:lang="kor">어댑테이션 모드 설정</tu>
+</tm>

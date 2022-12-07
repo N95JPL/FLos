@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TestsInProgress$I">
+	<tu xmlns:lang="eng">Performing tests - please wait</tu>
+	<tu xmlns:lang="nld">Bezig met tests - even wachten a.u.b.</tu>
+	<tu xmlns:lang="fra">Tests en cours - attendez</tu>
+	<tu xmlns:lang="deu">Tests laufen - bitte warten</tu>
+	<tu xmlns:lang="ita">Esecuzione in corso delle prove - attendere</tu>
+	<tu xmlns:lang="jpn">テスト実行中 － お待ちください。</tu>
+	<tu xmlns:lang="ptg">A realizar testes - aguardar por favor</tu>
+	<tu xmlns:lang="ptb">Realizando testes - aguarde</tu>
+	<tu xmlns:lang="rus">Подождите, выполняются проверки</tu>
+	<tu xmlns:lang="esp">Efectuando pruebas. Por favor espere</tu>
+	<tu xmlns:lang="chs">正在测试中……请稍后</tu>
+	<tu xmlns:lang="kor">테스트 수행 중 - 기다려 주십시오.</tu>
+</tm>

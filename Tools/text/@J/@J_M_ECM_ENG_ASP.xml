@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ECM_ENG_ASP">
+	<tu xmlns:lang="eng">Engine aspiration</tu>
+	<tu xmlns:lang="nld">Motoraanzuiging</tu>
+	<tu xmlns:lang="fra">Aspiration du moteur</tu>
+	<tu xmlns:lang="deu">Ansaugsystem</tu>
+	<tu xmlns:lang="ita">Aspirazione motore</tu>
+	<tu xmlns:lang="jpn">エンジン吸気</tu>
+	<tu xmlns:lang="ptg">Aspiração do motor</tu>
+	<tu xmlns:lang="ptb">Aspiração do motor</tu>
+	<tu xmlns:lang="rus">Наддув двигателя</tu>
+	<tu xmlns:lang="esp">Sistema de admisión del motor</tu>
+	<tu xmlns:lang="chs">发动机进气量</tu>
+	<tu xmlns:lang="kor">엔진 흡입</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DR_REM_CHAN_MULT">
+	<tu xmlns:lang="eng">Door remote multi channel</tu>
+	<tu xmlns:lang="nld">Multikanaals afstandsbediening van portier</tu>
+	<tu xmlns:lang="fra">Télécommande de porte multicanal</tu>
+	<tu xmlns:lang="deu">Mehrfachkanal Tür-Fernbedienung</tu>
+	<tu xmlns:lang="ita">Telecomando portiere multicanale</tu>
+	<tu xmlns:lang="jpn">ドア リモート マルチ チャンネル</tu>
+	<tu xmlns:lang="ptg">Multi-canais do comando à distância das portas</tu>
+	<tu xmlns:lang="ptb">Multicanal remoto das portas</tu>
+	<tu xmlns:lang="rus">Многоканальное дистанционное управление дверями</tu>
+	<tu xmlns:lang="esp">Mando a distancia multicanal</tu>
+	<tu xmlns:lang="chs">多通道车门遥控</tu>
+	<tu xmlns:lang="kor">도어 원격 멀티 채널</tu>
+</tm>

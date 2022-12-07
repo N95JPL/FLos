@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SunroofInit1$M">
+	<tu
+    xmlns:lang="eng"
+  >During initialisation the sliding roof will travel along each axis, make sure that the area is free from objects that could disrupt the travel.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens de initialisatie zal het schuifdak in elke richting bewegen. Zorg dat er in de omgeving geen voorwerpen zitten, die de beweging kunnen belemmeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Au cours de l'initialisation, le toit ouvrant se déplacera suivant chaque axe, assurez-vous que la zone est exempte d'objets pouvant faire obstacle au déplacement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Während der Initialisierung bewegt sich das Schiebedach auf jeder Achse; sicherstellen, dass der Bereich frei von Objekten ist, die die Bewegung behindern könnten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Durante l'inizializzazione il tettuccio scorrevole si soposterà lungo ciascun asse; controllare che non sia presente alcun oggetto che potrebbe ostacolarne la corsa.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >初期化中、スライディング ルーフはそれぞれの軸上を移動します。移動の障害物がそのエリアにないことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Durante a inicialização, o tecto de abrir percorrerá todos os eixos, certifique-se de que a zona não possui quaisquer objectos que possam impedir o percurso.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Durante a inicialização, o teto deslizante percorrerá cada eixo, verifique se a área está livre de objetos que possam interferir no percurso.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В процессе инициализации сдвижной верх перемещается вдоль каждой оси, убедитесь, что предметы, которые могут помешать перемещению, отсутствуют.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Durante la inicialización el techo solar se desplazará por cada eje; asegurarse de que la zona esté despejada de objetos que pudieran obstaculizar el desplazamiento.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'在初始化期间，活动顶蓬将沿每个坐标轴运动，确保该区域没有可能阻碍运动的物体。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >초기화 중에 슬라이딩 루프는 각 축을 따라 이동하며 영역에 이동에 방해가 될 수 있는 물체가 없는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_IDLE_FOR_5_MINS">
+	<tu
+    xmlns:lang="eng"
+  >The engine must be run at idle for at least five minutes</tu>
+	<tu xmlns:lang="nld">De motor moet minstens vijf minuten stationair draaien</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le moteur doit tourner au ralenti pendant au moins cinq minutes</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Motor muss mindestens fünf Minuten lang mit Leerlaufdrehzahl laufen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il motore deve essere lasciato girare al minimo per almeno cinque minuti</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンを少なくとも 5 分以上アイドルでかけておく必要があります</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O motor tem de trabalhar ao ralenti durante, pelo menos, cinco minutos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O motor deve estar funcionando em marcha lenta por pelo menos cinco minutos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Двигатель должен поработать на холостых оборотах не менее пяти минут</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se debe mantener el motor a ralentí durante cinco minutos como mínimo</tu>
+	<tu xmlns:lang="chs">发动机必须怠速运转至少五分钟</tu>
+	<tu xmlns:lang="kor">엔진이 5분 이상 공회전해야 합니다.</tu>
+</tm>

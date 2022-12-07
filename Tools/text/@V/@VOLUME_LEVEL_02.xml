@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VOLUME_LEVEL_02">
+	<tu xmlns:lang="eng">Volume level 2</tu>
+	<tu xmlns:lang="nld">Geluidsvolumeniveau 2.</tu>
+	<tu xmlns:lang="fra">Niveau de volume 2.</tu>
+	<tu xmlns:lang="deu">Lautstärkeniveau 2</tu>
+	<tu xmlns:lang="ita">Livello volume 2</tu>
+	<tu xmlns:lang="jpn">ボリューム レベル 2</tu>
+	<tu xmlns:lang="ptg">Nível de volume 2</tu>
+	<tu xmlns:lang="ptb">Nível de volume 2</tu>
+	<tu xmlns:lang="rus">Уровень объема 2</tu>
+	<tu xmlns:lang="esp">Nivel de volumen 2</tu>
+	<tu xmlns:lang="chs">音量水平 2</tu>
+	<tu xmlns:lang="kor">볼륨 레벨 2</tu>
+</tm>

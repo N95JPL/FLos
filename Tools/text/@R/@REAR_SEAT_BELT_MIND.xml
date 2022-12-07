@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@REAR_SEAT_BELT_MIND">
+	<tu xmlns:lang="eng">Rear safety belt minder feature</tu>
+	<tu
+    xmlns:lang="nld"
+  >Waarschuwing dat een veiligheidsgordel achterin niet is omgedaan</tu>
+	<tu xmlns:lang="fra">Fonction de rappel de ceintures de sécurité arrière</tu>
+	<tu xmlns:lang="deu">Sicherheitsgurtwarnung hinten</tu>
+	<tu xmlns:lang="ita">Funzione avvertenza cinture di sicurezza posteriori</tu>
+	<tu xmlns:lang="jpn">リア シートベルト マインダー機能\</tu>
+	<tu xmlns:lang="ptg">Funcionalidade de aviso do cinto de segurança traseiro</tu>
+	<tu xmlns:lang="ptb">Recurso de lembrete do cinto de segurança traseiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция напоминания о непристегнутом ремне безопасности для заднего сиденья</tu>
+	<tu xmlns:lang="esp">Función de aviso del cinturón de seguridad trasero</tu>
+	<tu xmlns:lang="chs">后安全带提醒器功能</tu>
+	<tu xmlns:lang="kor">뒷좌석 안전 벨트 마인더 기능</tu>
+</tm>

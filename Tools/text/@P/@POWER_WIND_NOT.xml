@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@POWER_WIND_NOT">
+	<tu xmlns:lang="eng">Powered windows not fitted (front/rear)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geen elektrisch bediende ruiten gemonteerd (voor/achter)</tu>
+	<tu xmlns:lang="fra">Sans vitres électriques (avant/arrière)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Keine elektrischen Fensterheber eingebaut (vorn/hinten)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Cristalli elettrici non installati (anteriori/posteriori)</tu>
+	<tu xmlns:lang="jpn">電動ウィンドウ非装備 (フロント／リア)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Vidros eléctricos não instalados (dianteiros/traseiros)</tu>
+	<tu xmlns:lang="ptb">Vidros elétricos não instalados (dianteiros/traseiros)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электростеклоподъемники не установлены (передние/задние)</tu>
+	<tu xmlns:lang="esp">Elevalunas eléctricos (delantero/trasero) no montados</tu>
+	<tu xmlns:lang="chs">电动车窗未装配（前／后）</tu>
+	<tu xmlns:lang="kor">파워 윈도우 미장착(전방/후방)</tu>
+</tm>

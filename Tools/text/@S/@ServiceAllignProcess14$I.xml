@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess14$I">
+	<tu xmlns:lang="eng">Start the engine, once 15 seconds have elapsed.</tu>
+	<tu xmlns:lang="nld">start de motor, zodra de 15 seconden verstreken zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mettez le moteur en marche après un délai de 15 secondes.</tu>
+	<tu xmlns:lang="deu">Nach Ablauf von 15 Sekunden den Motor anlassen.</tu>
+	<tu xmlns:lang="ita">Trascorsi i 15 secondi, avviare il motore.</tu>
+	<tu xmlns:lang="jpn">15 秒経過後エンジンを始動します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ponha o motor a trabalhar após terem decorrido os 15 segundos. </tu>
+	<tu xmlns:lang="ptb">Dê a partida no moto após 15 segundos.</tu>
+	<tu xmlns:lang="rus">Запустите двигатель по истечении 15 секунд.</tu>
+	<tu xmlns:lang="esp">Poner el motor en marcha al cabo de 15 segundos.</tu>
+	<tu xmlns:lang="chs">'一旦达到15秒钟，则起动发动机。'</tu>
+	<tu xmlns:lang="kor">15초가 지나면 엔진을 시동하십시오.</tu>
+</tm>

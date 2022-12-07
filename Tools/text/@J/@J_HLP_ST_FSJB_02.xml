@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FSJB_02">
+	<tu
+    xmlns:lang="eng"
+  >Upon routine completion, faults will be kept as 'on-demand' diagnostic trouble codes and reported when requested.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zodra de routine is uitgevoerd, zullen de fouten als 'opvraagbare' diagnosefoutcodes bewaard worden en kunnen op verzoek gerapporteerd worden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois le programme exécuté, les défauts seront conservés en tant que codes de défaut de diagnostic 'sur demande' et feront l'objet d'un rapport à la demande.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss der Routine werden Fehlercodes als 'beim Selbsttest auf Abruf generierte' Fehlercodes gespeichert und können bei Bedarf ausgelesen werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al termine della procedura, i guasti sono mantenuti come codici di guasto diagnostici 'su richiesta' e segnalati quando richiesto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ルーチン完了時に、故障は「オンデマンド」診断トラブル コードとして保存され、要求に応じて報告されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando a rotina estiver concluída, as avarias serão armazenadas sob a forma de códigos de avaria 'a pedido' e comunicadas quando solicitado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ao concluir a rotina, as falhas serão mantidas como códigos de problema de diagnóstico sob demanda e relatadas quando solicitadas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По окончании процедуры неисправности буду храниться как диагностические коды неисправностей 'по запросу', и о них будет сообщаться при получении запроса.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Al concluir la rutina, las anomalías se guardarán como códigos de avería a solicitud y se presentarán cuando se soliciten.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'常规程序完成时，故障将被保存为‘按需’故障诊断代码，并在请求时报告。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >루틴 완료 시 고장이 '온디맨드' 고장 진단 코드로 유지되고 요청 시 보고됩니다.</tu>
+</tm>

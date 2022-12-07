@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_OPT_RNEW_ABS_ECU">
+	<tu
+    xmlns:lang="eng"
+  >This option will allow you to renew and then reprogram the ABS electronic control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze keuzemogelijkheid kunt u de elektronische ABS-regelmodule vervangen en daarna opnieuw programmeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette option va vous permettre de remplacer et reprogrammer le module de commande électronique ABS.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Option können Sie das elektronische ABS-Steuergerät erneuern und anschließend neu programmieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa opzione consente di sostituire e quindi riprogrammare l'unità di comando elettronica ABS.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このオプションにより ABS エレクトロニック コントロール ユニットの交換およびその後の再プログラムが可能\になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta opção vai permitir substituir e depois voltar a programar a unidade electrónica de controlo do ABS.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esta opção permite-lhe renovar e, em seguida, reprogramar a unidade de controle eletrônico do ABS.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная функция позволит обновить, а затем перепрограммировать электронный блок управления ABS.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta opción permite sustituir y programar nuevamente el módulo de control electrónico del ABS.</tu>
+	<tu xmlns:lang="chs">这一选项将让您能够更新进而重新设置 ABS 电子控制单元。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 옵션을 사용하여 ABS 전자 컨트롤 유닛을 교체한 다음 다시 프로그래밍할 수 있습니다.</tu>
+</tm>

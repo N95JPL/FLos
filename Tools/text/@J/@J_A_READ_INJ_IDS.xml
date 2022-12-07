@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_READ_INJ_IDS">
+	<tu
+    xmlns:lang="eng"
+  >Read the 10 digit sensor identification number from the injector to be replaced.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Lees het 10-cijferige sensoridentificatienummer van de te vervangen sensor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lisez le numéro d'identification du capteur de 10 chiffres pour l'injecteur à remplacer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die 10-stellige Einspritzventil-Identifizierungsnummer vom zu ersetzenden Einspritzventil ablesen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Leggere il numero a 10 cifre di identificazione del sensore dall'iniettore da sostituire.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >交換するインジェクタから 10 桁のセンサー ID ナンバーを読み取りなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ler o número de identificação do sensor com 10 dígitos no injector a substituir.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ler o número de identificação de 10 dígitos do sensor no injetor a ser substituído.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Считайте 10-значный идентификационный номер с устанавливаемой форсунки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Leer el número de identificación de 10 dígitos del sensor del inyector que se va a sustituir.</tu>
+	<tu xmlns:lang="chs">读取将要更换的喷油器传感器的10位标识号码。</tu>
+	<tu xmlns:lang="kor">교체할 인젝터에서 10자리 센서 식별 번호를 읽으십시오.</tu>
+</tm>

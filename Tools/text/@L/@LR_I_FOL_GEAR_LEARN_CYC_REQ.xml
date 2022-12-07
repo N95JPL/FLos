@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_I_FOL_GEAR_LEARN_CYC_REQ">
+	<tu xmlns:lang="eng">The following learn gear drive cycle is now required.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De nu volgende inleerversnellingsrijcyclus moet worden uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le cycle de conduite d'apprentissage des vitesses suivant est maintenant requis.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es muss jetzt der folgende Fahrzyklus zur Gangerlernung durchgeführt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È ora necessario il seguente ciclo di guida per l'apprendimento delle marce.</tu>
+	<tu xmlns:lang="jpn">ここで次の学習ギア ドライブ サイクルが必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É necessário o seguinte ciclo de aprendizagem das mudanças.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O seguinte ciclo de acionamento de marcha memorizada é agora necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Теперь требуется следующий ездовой цикл сохранения параметров передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ahora se requiere el siguiente ciclo de conducción para el aprendizaje de marchas.</tu>
+	<tu xmlns:lang="chs">现在需要学习下述档位行驶循环。</tu>
+	<tu xmlns:lang="kor">이제 다음 학습 기어 주행 사이클이 필요합니다.</tu>
+</tm>

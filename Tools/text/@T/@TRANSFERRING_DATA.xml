@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRANSFERRING_DATA">
+	<tu xmlns:lang="eng">Transferring data.</tu>
+	<tu xmlns:lang="nld">Gegevens overdragen.</tu>
+	<tu xmlns:lang="fra">Transfert des données.</tu>
+	<tu xmlns:lang="deu">Daten werden übertragen.</tu>
+	<tu xmlns:lang="ita">Trasferimento dei dati.</tu>
+	<tu xmlns:lang="jpn">データを転送しています。</tu>
+	<tu xmlns:lang="ptg">A transferir dados.</tu>
+	<tu xmlns:lang="ptb">Transferência de dados.</tu>
+	<tu xmlns:lang="rus">Выполняется передача данных.</tu>
+	<tu xmlns:lang="esp">Transfiriendo datos.</tu>
+	<tu xmlns:lang="chs">正在传输数据。</tu>
+	<tu xmlns:lang="kor">데이터 전송 중입니다.</tu>
+</tm>

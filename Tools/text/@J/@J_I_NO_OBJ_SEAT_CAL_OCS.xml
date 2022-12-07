@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_OBJ_SEAT_CAL_OCS">
+	<tu
+    xmlns:lang="eng"
+  >Make sure there are no objects placed on either of the front seats.  The next operation will calibrate the occupancy classification sensor seat offset.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer of er geen voorwerpen op één van de voorstoelen liggen.  De nu volgende bewerking zal de stoelafwijking van de inzittendenclassificatiesensor kalibreren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous qu'aucun objet n'est placé sur les sièges avant.  L'opération suivante permettra d'étalonner le capteur de poids du passager en fonction du déport du siège.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass keine Gegenstände auf den Vordersitzen liegen.  Im nächsten Schritt wird der Sitzversatz - Belegungserkennungssensor kalibriert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che non ci siano oggetti sui sedili anteriori.  L'operazione successiva esegue la taratura dell'offset del sedile del sensore classificazione occupanti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フロント シートのいずれにも物が置かれていないことを確認しなさい。  次の動作で乗員識別センサー シート オフセットのキャリブレーションが行われます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que não há quaisquer objectos nos bancos dianteiros.  A operação seguinte calibrará o valor de compensação do banco para o sensor de classificação de ocupantes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Assegure-se de que não haja objetos colocados em qualquer um dos bancos dianteiros.  A próxima operação irá calibrar a classificação de ocupação do deslocamento do sensor de assento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедиться, что на передних сиденьях ничего не лежит.  Следующая операция позволяет выполнить калибровку датчика присутствия пассажира на сиденье.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que no haya ningún objeto en los asientos delanteros.  La operación siguiente calibrará el valor de compensación del asiento para el sensor de clasificación del ocupante.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保前排座椅上未摆放任何物品。  下一操作将校准占用分类传感器座椅补偿。</tu>
+	<tu
+    xmlns:lang="kor"
+  >프론트 시트 중 하나에 아무런 물체도 놓여 있지 않은지 확인하십시오.  다음 작업에서는 승객 분류 센서 시트 오프셋을 보정합니다.</tu>
+</tm>

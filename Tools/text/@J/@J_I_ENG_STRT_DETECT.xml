@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENG_STRT_DETECT">
+	<tu xmlns:lang="eng">Engine start detected.</tu>
+	<tu xmlns:lang="nld">Motorstart gedetecteerd.</tu>
+	<tu xmlns:lang="fra">Démarrage moteur détecté.</tu>
+	<tu xmlns:lang="deu">Motorstart ermittelt.</tu>
+	<tu xmlns:lang="ita">Rilevato avviamento motore.</tu>
+	<tu xmlns:lang="jpn">エンジン始動検出</tu>
+	<tu xmlns:lang="ptg">Detectado arranque do motor.</tu>
+	<tu xmlns:lang="ptb">Partida do motor detectada.</tu>
+	<tu xmlns:lang="rus">Обнаружен запуск двигателя.</tu>
+	<tu xmlns:lang="esp">Se detectó un arranque del motor.</tu>
+	<tu xmlns:lang="chs">检测到发动机起动。</tu>
+	<tu xmlns:lang="kor">엔진 시동이 감지됨</tu>
+</tm>

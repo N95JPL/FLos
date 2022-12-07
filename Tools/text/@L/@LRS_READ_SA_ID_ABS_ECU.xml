@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_READ_SA_ID_ABS_ECU">
+	<tu
+    xmlns:lang="eng"
+  >Reading the steering angle identification from the ABS electronic control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De identificatie van de stuuruitslag uit de elektronische ABS-regelmodule uitlezen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lecture de l'identification d'angle de direction dans le module de commande électronique ABS.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Lenkwinkelidentifikation wird aus dem elektronischen ABS-Steuergerät ausgelesen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lettura dell'identificativo dell'angolo di sterzata dall'unità di comando elettronica ABS.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ABS エレクトロニック コントロール ユニットからステアリング アングル ID を読み取ります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A ler a identificação do ângulo da direcção da unidade electrónica de controlo do ABS.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Lendo a identificação do ângulo de direção na unidade de controle eletrônico do ABS.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Считывание идентификации угла поворота из электронного блока управления ABS.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Leyendo la identificación del ángulo de la dirección en el módulo de control electrónico del ABS.</tu>
+	<tu xmlns:lang="chs">正在从 ABS 电子控制单元读取转向角标识。</tu>
+	<tu
+    xmlns:lang="kor"
+  >ABS 전자 컨트롤 유닛에서 스티어링 각도 식별 정보를 읽는 중입니다.</tu>
+</tm>

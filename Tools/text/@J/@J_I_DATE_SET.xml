@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DATE_SET">
+	<tu xmlns:lang="eng">Date set</tu>
+	<tu xmlns:lang="nld">Ingestelde datum</tu>
+	<tu xmlns:lang="fra">Réglage de la date.</tu>
+	<tu xmlns:lang="deu">Datumseinstellung</tu>
+	<tu xmlns:lang="ita">Data impostata</tu>
+	<tu xmlns:lang="jpn">日付セット</tu>
+	<tu xmlns:lang="ptg">Definição da data</tu>
+	<tu xmlns:lang="ptb">Definição de data</tu>
+	<tu xmlns:lang="rus">Дата установлена</tu>
+	<tu xmlns:lang="esp">Fecha de programación</tu>
+	<tu xmlns:lang="chs">日期设置</tu>
+	<tu xmlns:lang="kor">날짜 설정</tu>
+</tm>

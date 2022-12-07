@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_APPLICATION_HELP_VIEW_CRNT">
+	<tu xmlns:lang="eng">View current menu hierarchy</tu>
+	<tu xmlns:lang="nld">Bekijk huidige menu-opbouw</tu>
+	<tu xmlns:lang="fra">Visualisez la hiérarchie du menu actuel</tu>
+	<tu xmlns:lang="deu">Aktuelle Menühierarchie einsehen.</tu>
+	<tu xmlns:lang="ita">Visualizzare la gerarchia del menu corrente</tu>
+	<tu xmlns:lang="jpn">現在のメニュー階層の表\示</tu>
+	<tu xmlns:lang="ptg">Visualize a actual hierarquia de menus</tu>
+	<tu xmlns:lang="ptb">Hierarquia do menu Exibir corrente</tu>
+	<tu xmlns:lang="rus">Просмотр дерева текущего меню</tu>
+	<tu xmlns:lang="esp">Ver jerarquía de menús actual</tu>
+	<tu xmlns:lang="chs">浏览当前菜单层级</tu>
+	<tu xmlns:lang="kor">현재 메뉴 계층 구조 보기</tu>
+</tm>

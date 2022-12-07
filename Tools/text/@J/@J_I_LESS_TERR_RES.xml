@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_TERR_RES">
+	<tu xmlns:lang="eng">Without terrain response</tu>
+	<tu xmlns:lang="nld">Zonder Terrain Response</tu>
+	<tu xmlns:lang="fra">Sans système Terrain Response</tu>
+	<tu xmlns:lang="deu">Ohne Terrain-Response</tu>
+	<tu xmlns:lang="ita">Senza Terrain Response</tu>
+	<tu xmlns:lang="jpn">テレイン レスポンスなし</tu>
+	<tu xmlns:lang="ptg">Sem Terrain Response</tu>
+	<tu xmlns:lang="ptb">Sem Terrain response</tu>
+	<tu xmlns:lang="rus">Без системы адаптации к дорожным условиям</tu>
+	<tu xmlns:lang="esp">Sin sistema Terrain Response</tu>
+	<tu xmlns:lang="chs">无地形反馈系统</tu>
+	<tu xmlns:lang="kor">터레인 리스폰스 불포함</tu>
+</tm>

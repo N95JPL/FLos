@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SecondaryPowerSupplyFault">
+	<tu xmlns:lang="eng">Secondary power supply fault</tu>
+	<tu xmlns:lang="nld">Storing in de secundaire stroomvoorziening</tu>
+	<tu xmlns:lang="fra">Défaut d'alimentation secondaire</tu>
+	<tu xmlns:lang="deu">Sekundäre Stromversorgung –Störung</tu>
+	<tu xmlns:lang="ita">Guasto dell'alimentazione secondaria</tu>
+	<tu xmlns:lang="jpn">セカンダリ電源供給不良</tu>
+	<tu xmlns:lang="ptg">Avaria na alimentação secundária</tu>
+	<tu xmlns:lang="ptb">Falha da fonte de alimentação secundária</tu>
+	<tu xmlns:lang="rus">Отказ дополнительного источника питания</tu>
+	<tu xmlns:lang="esp">Fallo en la alimentación secundaria</tu>
+	<tu xmlns:lang="chs">辅助电源故障</tu>
+	<tu xmlns:lang="kor">보조 전원 공급 장치 고장</tu>
+</tm>

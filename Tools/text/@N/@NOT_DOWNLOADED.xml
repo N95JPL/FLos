@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NOT_DOWNLOADED">
+	<tu xmlns:lang="eng">Not downloaded.</tu>
+	<tu xmlns:lang="nld">Niet gedownload.</tu>
+	<tu xmlns:lang="fra">Pas téléchargé.</tu>
+	<tu xmlns:lang="deu">Nicht heruntergeladen.</tu>
+	<tu xmlns:lang="ita">Non scaricato.</tu>
+	<tu xmlns:lang="jpn">ダウンロードされていません。</tu>
+	<tu xmlns:lang="ptg">Não transferida.</tu>
+	<tu xmlns:lang="ptb">Não baixado.</tu>
+	<tu xmlns:lang="rus">Не загружено.</tu>
+	<tu xmlns:lang="esp">No descargado.</tu>
+	<tu xmlns:lang="chs">未下载。</tu>
+	<tu xmlns:lang="kor">다운로드되지 않았습니다.</tu>
+</tm>

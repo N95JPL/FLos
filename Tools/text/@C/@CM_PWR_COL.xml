@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_PWR_COL">
+	<tu xmlns:lang="eng">Powered steering column.</tu>
+	<tu xmlns:lang="nld">Bekrachtigde stuurkolom</tu>
+	<tu xmlns:lang="fra">Colonne de direction électrique</tu>
+	<tu xmlns:lang="deu">Elektrische Lenksäulenverstellung</tu>
+	<tu xmlns:lang="ita">Piantone di sterzo motorizzato</tu>
+	<tu xmlns:lang="jpn">電動ステアリング コラム</tu>
+	<tu xmlns:lang="ptg">Coluna da direcção eléctrica.</tu>
+	<tu xmlns:lang="ptb">Coluna da direção acionada eletricamente.</tu>
+	<tu xmlns:lang="rus">Рулевая колонка с электроприводом.</tu>
+	<tu xmlns:lang="esp">Columna de dirección asistida con ajuste eléctrico</tu>
+	<tu xmlns:lang="chs">电动转向柱。</tu>
+	<tu xmlns:lang="kor">파워 스티어링 칼럼</tu>
+</tm>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_RAXL_SENS_OUT_OF_RANGE">
+	<tu xmlns:lang="eng">The rear axle height sensor is out of range</tu>
+	<tu xmlns:lang="nld">De hoogtesensor van de achteras is buiten bereik</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le capteur de hauteur d'essieu arrière est hors limites</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Höhensensor - Hinterachse ist außerhalb des Bereichs.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sensore di altezza dell'assale posteriore è fuori campo</tu>
+	<tu xmlns:lang="jpn">リア アクスル ハイト センサ 範囲外</tu>
+	<tu xmlns:lang="ptg">O sensor de altura do eixo traseiro está fora da gama</tu>
+	<tu xmlns:lang="ptb">O sensor de altura do eixo traseiro está fora da faixa</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сигнал датчика высоты заднего моста вне допустимого диапазона</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sensor de altura del eje trasero está fuera de límites</tu>
+	<tu xmlns:lang="chs">后轴高度传感器超出范围</tu>
+	<tu xmlns:lang="kor">리어 액슬 차고 센서가 범위를 벗어남</tu>
+</tm>

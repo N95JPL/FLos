@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_VCM_PING2">
+	<tu
+    xmlns:lang="eng"
+  >Please ensure the vehicle communications module is connected before continuing.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer voordat u verdergaat eerst of de voertuigregelmodule is aangesloten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez vérifier que le module de commande du véhicule est connecté avant de poursuivre.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vor dem Fortfahren bitte sicherstellen, dass das Steuergerät des Fahrzeugs angeschlossen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che il modulo di comando veicolo sia collegato prima di continuare.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >続行する前に、車両コントロール モジュールが接続されていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Antes de prosseguir, certifique-se de que o módulo de controlo do veículo está ligado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o módulo de comunicação do veículo está conectado antes de continuar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прежде чем продолжить, убедитесь в том, что блок связи автомобиля подключен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que el módulo de control del vehículo está conectado antes de continuar.</tu>
+	<tu xmlns:lang="chs">在继续之前，请确保已连接了车辆通讯模块。</tu>
+	<tu
+    xmlns:lang="kor"
+  >계속 진행하기 전에 차량 통신 모듈이 연결되어 있는지 확인하십시오.</tu>
+</tm>

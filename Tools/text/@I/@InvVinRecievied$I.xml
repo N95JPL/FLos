@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@InvVinRecievied$I">
+	<tu
+    xmlns:lang="eng"
+  >Invalid vehicle identification number received from vehicle configuration.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Van de voertuigconfiguratie is een ongeldig voertuigidentificatienummer ontvangen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Numéro d'identification du véhicule incorrect reçu de la configuration du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ungültige Fahrzeug-Identifizierungsnummer von der Fahrzeugkonfiguration empfangen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ricevuto numero di identificazione veicolo non valido da configurazione veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーションから無効車両 ID ナンバーを受信しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número de identificação do veículo recebido da configuração do veículo é inválido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Número de identificação do veículo inválido recebido da configuração do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Получен неверный идентификационный номер автомобиля от конфигурации автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se recibió de la configuración del vehículo un número de identificación del vehículo no válido.</tu>
+	<tu xmlns:lang="chs">从车辆配置处收到无效的车辆标识号。</tu>
+	<tu xmlns:lang="kor">차량 구성에서 잘못된 차량 식별 번호가 수신되었습니다.</tu>
+</tm>

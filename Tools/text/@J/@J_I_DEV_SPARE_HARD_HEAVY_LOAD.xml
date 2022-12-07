@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DEV_SPARE_HARD_HEAVY_LOAD">
+	<tu xmlns:lang="eng">Deviation spare hard heavy load</tu>
+	<tu xmlns:lang="nld">Afwijking bij zware belasting reserve - hard</tu>
+	<tu xmlns:lang="fra">Déviation garde dure charge lourde</tu>
+	<tu xmlns:lang="deu">Abweichung Ersatzrad, harte Kennlinie, schwere Last</tu>
+	<tu xmlns:lang="ita">Deviazione scorta dura carico pesante</tu>
+	<tu xmlns:lang="jpn">スペア ハード重負荷偏差</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deflexão sobresselente - amortecimento duro, carga pesada</tu>
+	<tu xmlns:lang="ptb">Desvio sobressalente duro de carga pesada</tu>
+	<tu xmlns:lang="rus">Отклонение, запасное - большая нагрузка</tu>
+	<tu
+    xmlns:lang="esp"
+  >Desviación con neumático de repuesto duro - carga pesada</tu>
+	<tu xmlns:lang="chs">偏差 - 备用、硬减震、重负荷</tu>
+	<tu xmlns:lang="kor">편차 스페어 하드 중부하</tu>
+</tm>

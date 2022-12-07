@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_CANADA">
+	<tu xmlns:lang="eng">Canada</tu>
+	<tu xmlns:lang="nld">Canada</tu>
+	<tu xmlns:lang="fra">Canada</tu>
+	<tu xmlns:lang="deu">Kanada</tu>
+	<tu xmlns:lang="ita">Canada</tu>
+	<tu xmlns:lang="jpn">カナダ</tu>
+	<tu xmlns:lang="ptg">Canadá</tu>
+	<tu xmlns:lang="ptb">Canadá</tu>
+	<tu xmlns:lang="rus">Канада</tu>
+	<tu xmlns:lang="esp">Canadá</tu>
+	<tu xmlns:lang="chs">加拿大</tu>
+	<tu xmlns:lang="kor">캐나다</tu>
+</tm>

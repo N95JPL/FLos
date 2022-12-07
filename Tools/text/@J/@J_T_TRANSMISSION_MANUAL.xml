@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_TRANSMISSION_MANUAL">
+	<tu xmlns:lang="eng">308-03 Manual transmission/transaxle</tu>
+	<tu xmlns:lang="nld">308-03 Handgeschakelde versnellingsbak/transaxle</tu>
+	<tu xmlns:lang="fra">308-03 Transmission manuelle/boîte-pont</tu>
+	<tu xmlns:lang="deu">308-03 Schaltgetriebe</tu>
+	<tu xmlns:lang="ita">308-03 Cambio manuale/gruppo trasmissione</tu>
+	<tu xmlns:lang="jpn">308-03 マニュアル トランスミッション／トランスアクスル</tu>
+	<tu xmlns:lang="ptg">308-03 Caixa de velocidades/transmissão manual</tu>
+	<tu xmlns:lang="ptb">308-03 Transmissão manual/transeixo</tu>
+	<tu xmlns:lang="rus">308-03 Механическая коробка передач/трансмиссия</tu>
+	<tu xmlns:lang="esp">308-03 Caja de cambios manual</tu>
+	<tu xmlns:lang="chs">308-03手动变速器/驱动桥</tu>
+	<tu xmlns:lang="kor">308-03 수동 변속기/트랜스액슬</tu>
+</tm>

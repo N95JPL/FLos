@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NOTE_HW_NUMBER">
+	<tu
+    xmlns:lang="eng"
+  >Please take a note of the hardware number (F191 on the network test) as it will be needed to select the correct level of software, either 6G9T-XXXXXX-XX or 7G9T-XXXXXX-XX.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Noteer het hardwarenummer (F191 bij de netwerktest), want dit is nodig voor het selecteren van de juiste softwareversie (6G9T-XXXXXX-XX of 7G9T-XXXXXX-XX).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez noter la référence du matériel (F191 sur le test réseau) car elle sera utile pour sélectionner le niveau correct du logiciel, 6G9T-XXXXXX-XX ou 7G9T-XXXXXX-XX.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte die Hardwarenummer aufschreiben (F191 beim Netzwerktest), da diese für die Auswahl der korrekten Softwareversion benötigt wird: entweder 6G9T-XXXXXX-XX oder 7G9T-XXXXXX-XX.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Si prega di annotare il numero di hardware (F191 nella prova di rete), dato che questo sarà necessario per selezionare software di livello corretto, 6G9T-XXXXXX-XX oppure 7G9T-XXXXXX-XX.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ハードウェア ナンバー (ネットワーク テストの F191) を記録しなさい。あとで正しいソ\フトウェア レベル (6G9T-XXXXXX-XX または 7G9T-XXXXXX-XX のいずれか) を選択するとき必要になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tome nota do número de hardware (F191 no teste de rede), porque vai ser necessário para seleccionar o nível correcto de software, 6G9T-XXXXXX-XX ou 7G9T-XXXXXX-XX.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Anote o número do hardware (F191 no teste de rede), pois ele será necessário para selecionar o nível correto de software, 6G9T-XXXXXX-XX ou 7G9T-XXXXXX-XX.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запишите номер оборудования (F191 при тестировании сети), поскольку он понадобится при выборе правильной версии программного обеспечения: 6G9T-XXXXXX-XX или 7G9T-XXXXXX-XX.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Anote el número de hardware (F191 en la prueba de red); lo necesitará para seleccionar el nivel de software correcto, 6G9T-XXXXXX-XX o 7G9T-XXXXXX-XX.</tu>
+	<tu
+    xmlns:lang="chs"
+  >请记下硬件编号（网络测试F191）6G9T-XXXXXX-XX或7G9T-XXXXXX-XX，因为在选择正确的软件版本时将需要它。</tu>
+	<tu
+    xmlns:lang="kor"
+  >알맞은 레벨의 소프트웨어(6G9T-XXXXXX-XX 또는 7G9T-XXXXXX-XX)를 선택하는 데 필요하므로 하드웨어 번호(네트워크 테스트에 대해 F191)를 기록해 두십시오.</tu>
+</tm>

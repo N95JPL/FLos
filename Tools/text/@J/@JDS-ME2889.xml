@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-ME2889">
+	<tu xmlns:lang="eng">Lock the driver's door with the key</tu>
+	<tu xmlns:lang="nld">Doe het Bestuurdersportier op slot met de sleutel</tu>
+	<tu xmlns:lang="fra">Verrouiller la porte du conducteur à l'aide de la clef</tu>
+	<tu xmlns:lang="deu">Fahrertür mit Schlüssel verriegeln</tu>
+	<tu xmlns:lang="ita">Chiudere a chiave la porta del guidatore</tu>
+	<tu xmlns:lang="jpn">ﾄﾞライﾊﾞー・ﾄﾞアをキーでロックしてください。</tu>
+	<tu xmlns:lang="ptg">Trancar a porta do condutor com a chave</tu>
+	<tu xmlns:lang="ptb">Trave a porta do motorista com a chave</tu>
+	<tu xmlns:lang="rus">Заприте дверь водителя ключом</tu>
+	<tu xmlns:lang="esp">Cerrar puerta del conductor con llave</tu>
+	<tu xmlns:lang="chs">用钥匙锁上驾驶员一侧车门</tu>
+	<tu xmlns:lang="kor">키로 운전석 도어를 잠급니다.</tu>
+</tm>

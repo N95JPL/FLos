@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DriverDoorStatus">
+	<tu xmlns:lang="eng">Driver door status</tu>
+	<tu xmlns:lang="nld">Status bestuurdersportier</tu>
+	<tu xmlns:lang="fra">État de la porte conducteur</tu>
+	<tu xmlns:lang="deu">Status Fahrertür</tu>
+	<tu xmlns:lang="ita">Stato portiera lato guidatore</tu>
+	<tu xmlns:lang="jpn">運転席ドア ステータス</tu>
+	<tu xmlns:lang="ptg">Estado da porta do condutor</tu>
+	<tu xmlns:lang="ptb">Status da porta do motorista</tu>
+	<tu xmlns:lang="rus">Состояние двери водителя</tu>
+	<tu xmlns:lang="esp">Estado de la puerta del conductor</tu>
+	<tu xmlns:lang="chs">驾驶员车门状态</tu>
+	<tu xmlns:lang="kor">운전석 도어 상태</tu>
+</tm>

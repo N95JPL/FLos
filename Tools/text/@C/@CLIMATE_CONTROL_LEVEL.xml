@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CLIMATE_CONTROL_LEVEL">
+	<tu xmlns:lang="eng">Climate control level</tu>
+	<tu xmlns:lang="nld">Niveau klimaatbeheersing</tu>
+	<tu xmlns:lang="fra">Niveau de commande de climatisation.</tu>
+	<tu xmlns:lang="deu">Klimaregelungsniveau</tu>
+	<tu xmlns:lang="ita">Livello climatizzazione</tu>
+	<tu xmlns:lang="jpn">エア コンディショニング レベル</tu>
+	<tu xmlns:lang="ptg">Nível de controlo da climatização</tu>
+	<tu xmlns:lang="ptb">Nível de controle de temperatura</tu>
+	<tu xmlns:lang="rus">Уровень системы управления микроклиматом</tu>
+	<tu xmlns:lang="esp">Nivel de climatización</tu>
+	<tu xmlns:lang="chs">气候控制水平</tu>
+	<tu xmlns:lang="kor">실내 온도 조절 시스템 레벨</tu>
+</tm>

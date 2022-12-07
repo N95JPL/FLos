@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TERRAIN_MODE_RESET_AFTER_TIME">
+	<tu xmlns:lang="eng">Grass/gravel/snow mode resets after time</tu>
+	<tu
+    xmlns:lang="nld"
+  >De gras/grind/sneeuw-functie wordt na verloop van tijd teruggesteld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Réinitialisations des modes herbe/gravier/neige au bout d'une période définie.</tu>
+	<tu xmlns:lang="deu">Programm Gras/Schnee/Schotter setzt nach Zeit zurück</tu>
+	<tu
+    xmlns:lang="ita"
+  >La modalità erba/ghiaia/neve viene reimpostata dopo un determinato periodo di tempo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >草地／砂利道／スノー モードは時間経過後リセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Modo de relva/gravilha/neve reinicializa-se decorrido tempo</tu>
+	<tu xmlns:lang="ptb">Modo grama/cascalho/neve é reiniciado com o tempo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сброс режима 'трава/щебенка/снег' по истечении заданного времени</tu>
+	<tu
+    xmlns:lang="esp"
+  >El modo hierba/gravilla/nieve se restaura al original al cabo de un tiempo</tu>
+	<tu xmlns:lang="chs">草地/砂砾/雪地模式在定时后重置</tu>
+	<tu xmlns:lang="kor">풀밭/자갈/눈길 모드 재설정 전환 시간</tu>
+</tm>

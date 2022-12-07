@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_CCM_01">
+	<tu
+    xmlns:lang="eng"
+  >Because the radar does not normally radiate and scan when the engine is off or if the vehicle is not moving, certain periodic radar diagnostic trouble codes may not be running.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De radar straalt en scant gewoonlijk niet wanneer de motor uit is of de auto niet rijdt, bepaalde periodieke radardiagnosestoringscodes worden niet opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Comme le radar n'effectue ni rayonnement ni balayage lorsque le moteur est coupé ou que le véhicule ne se déplace pas, certains codes de défaut de diagnostics périodiques de radar peuvent ne pas fonctionner.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Da das Radar normalerweise nicht bei abgestelltem Motor oder bei nicht fahrendem Fahrzeug sendet oder abtastet, laufen bestimmte periodische Radar-Fehlercodes möglicherweise nicht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Poiché Il radar di solito non funziona a motore spento o veicolo fermo, determinati codici di guasto diagnostici periodici del radar potrebbero non essere operativi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンまたは車両が停止中には、通常、レーダーは電波を発射せずスキャンも行わないため、ある種の定期的レーダー診断トラブル コードは実行されない可能\性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Visto que o radar normalmente não transmite nem analisa quando o motor está desligado ou se o veículo está parado, certos códigos de avaria do radar periódicos podem não estar a ser executados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Como o radar normalmente não irradia e não faz a varredura quando o motor é desligado ou se o veículo não estiver em movimento, alguns códigos de problemas de diagnóstico periódicos do radar podem não aparecer.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Поскольку радар нормально не излучает и не сканирует, когда двигатель выключен или когда автомобиль не движется, определенные периодически возникающие диагностические коды неисправностей радара могут не регистрироваться.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Debido a que el radar normalmente no irradia y explora cuando el motor está parado o si el vehículo no está circulando, es posible que algunas funciones de diagnosis periódicas del radar no estén en servicio.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'因为在发动机关闭时或车辆不动时雷达通常不发射和扫描，所以某些周期性雷达故障诊断代码可能并未运行。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진이 꺼져 있을 때 또는 차량이 이동 중이지 않을 경우 일반적으로 레이더가 방사하고 스캔하지 않기 때문에, 특정한 주기적 레이더 고장 진단 코드가 실행되지 않을 수 있습니다.</tu>
+</tm>

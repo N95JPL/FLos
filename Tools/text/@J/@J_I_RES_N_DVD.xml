@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RES_N_DVD">
+	<tu xmlns:lang="eng">RSE  -  Without extra DVD</tu>
+	<tu xmlns:lang="nld">RSE  -  Zonder extra dvd</tu>
+	<tu xmlns:lang="fra">RSE  -  Sans DVD supplémentaire</tu>
+	<tu xmlns:lang="deu">RSE  -  Ohne extra DVD</tu>
+	<tu xmlns:lang="ita">RSE  -  Senza extra DVD</tu>
+	<tu xmlns:lang="jpn">RSE  －  追加 DVD なし</tu>
+	<tu xmlns:lang="ptg">RSE  -  Sem DVD extra</tu>
+	<tu xmlns:lang="ptb">RSE  -  Sem DVD extra</tu>
+	<tu
+    xmlns:lang="rus"
+  >Мультимедийная система для задней части салона  -  Без дополнительного DVD</tu>
+	<tu xmlns:lang="esp">RSE  -  Sin DVD adicional</tu>
+	<tu xmlns:lang="chs">RSE  -  不带额外的 DVD</tu>
+	<tu xmlns:lang="kor">RSE  -  추가 DVD 미장착</tu>
+</tm>

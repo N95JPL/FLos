@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_8F">
+	<tu xmlns:lang="eng">Bus signal/message failure - erratic.</tu>
+	<tu xmlns:lang="nld">Fout in bussignaal/-boodschap - onregelmatig.</tu>
+	<tu xmlns:lang="fra">Défaut de signal / message bus - aléatoire.</tu>
+	<tu xmlns:lang="deu">Datenbus-Signal-/Meldungsfehler - erratisch.</tu>
+	<tu xmlns:lang="ita">Guasto di segnale bus/messaggio - irregolare.</tu>
+	<tu xmlns:lang="jpn">バス シグナル／メッセージ不良 － 不整</tu>
+	<tu xmlns:lang="ptg">Falha na mensagem/sinal do bus - errático.</tu>
+	<tu xmlns:lang="ptb">Falha do sinal do barramento/mensagem - instável.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка передачи сигнала/сообщения по шине - неустойчивая работа.</tu>
+	<tu xmlns:lang="esp">Fallo de señales/mensajes del bus: mensajes erráticos.</tu>
+	<tu xmlns:lang="chs">总线信号/消息故障 - 异常。</tu>
+	<tu xmlns:lang="kor">버스 신호/메시지 오류 - 불규칙함</tu>
+</tm>

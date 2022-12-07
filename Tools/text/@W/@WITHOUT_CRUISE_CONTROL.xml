@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WITHOUT_CRUISE_CONTROL">
+	<tu xmlns:lang="eng">Without speed control</tu>
+	<tu xmlns:lang="nld">Zonder cruise control</tu>
+	<tu xmlns:lang="fra">Sans régulateur de vitesse</tu>
+	<tu xmlns:lang="deu">Ohne Geschwindigkeitsregelung</tu>
+	<tu xmlns:lang="ita">Senza controllo velocità</tu>
+	<tu xmlns:lang="jpn">スピード コントロールなし</tu>
+	<tu xmlns:lang="ptg">Sem controlo da velocidade</tu>
+	<tu xmlns:lang="ptb">Sem controle de velocidade</tu>
+	<tu xmlns:lang="rus">Без управления круиз-контролем</tu>
+	<tu xmlns:lang="esp">Sin control de régimen</tu>
+	<tu xmlns:lang="chs">无速度控制</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤 없음</tu>
+</tm>

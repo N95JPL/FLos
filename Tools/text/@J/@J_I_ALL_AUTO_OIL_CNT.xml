@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALL_AUTO_OIL_CNT">
+	<tu
+    xmlns:lang="eng"
+  >This will allow the automatic oil counter to synchronize.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hierdoor kan de olieteller van de automatische transmissie synchroniseren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ceci permettra la synchronisation du compteur automatique de vidange d'huile.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hierdurch kann der automatische Zähler der Ölwechselanzeige synchronisiert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questo consente al contatore olio automatico di sincronizzarsi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これにより自動オイル チェンジ カウンターの同期が行われます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Isto permitirá a sincronização do contador automático de mudança do óleo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso permitirá que o contador do óleo automático sincronize.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция позволяет синхронизировать автоматический счетчик расхода масла.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esto permitirá que se sincronice el contador automático de cambio de aceite.</tu>
+	<tu xmlns:lang="chs">这将使自动润滑油计数器同步。</tu>
+	<tu xmlns:lang="kor">이를 통해 자동 오일 카운터가 동기화할 수 있습니다.</tu>
+</tm>

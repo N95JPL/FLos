@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AML_A_RETURN_TO_MENU">
+	<tu xmlns:lang="eng">The test will now return to the menu.</tu>
+	<tu xmlns:lang="nld">De test zal nu naar het menu terugkeren.</tu>
+	<tu xmlns:lang="fra">Le test va revenir au menu</tu>
+	<tu xmlns:lang="deu">Der Test kehrt nun auf das Menü zurück</tu>
+	<tu xmlns:lang="ita">Il test ritorna adesso al menu</tu>
+	<tu xmlns:lang="jpn">このテストは今すぐメニューに戻ります。</tu>
+	<tu xmlns:lang="ptg">O teste irá agora voltar ao menu.</tu>
+	<tu xmlns:lang="ptb">Agora o teste retornará ao menu.</tu>
+	<tu xmlns:lang="rus">На экран снова будет выведено меню.</tu>
+	<tu xmlns:lang="esp">Ahora la prueba regresará al menú.</tu>
+	<tu xmlns:lang="chs">测试现在将返回菜单。</tu>
+	<tu xmlns:lang="kor">테스트 중 메뉴로 돌아갑니다.</tu>
+</tm>

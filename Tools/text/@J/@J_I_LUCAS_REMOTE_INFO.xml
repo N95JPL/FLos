@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LUCAS_REMOTE_INFO">
+	<tu
+    xmlns:lang="eng"
+  >This test is only suitable for LUCAS 3TXB remote control units.  The older type, LUCAS 3TXA, are not suitable for this test.  The transmitter type is printed on the back of each remote control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze test is alleen geschikt voor LUCAS 3TXB-afstandsbedieningen.  Het oudere type, de LUCAS 3TXA, is niet geschikt voor deze test.  Het zendertype staat op de achterkant van elke afstandsbediening gedrukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce test n'est adapté que pour des modules de télécommande LUCAS 3TXB.  Les anciens types LUCAS 3TXA ne sont pas adaptés pour ce test.  Le type d'émetteur est imprimé à l'arrière de chaque télécommande.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Test eignet sich nur für Fernbedienungseinheiten des Typs LUCAS 3TXB.  Die ältere Ausführung, LUCAS 3TXA, kann mit diesem Test nicht geprüft werden.  Der Fernbedienungstyp ist auf der Rückseite jeder Fernbedienung aufgedruckt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa prova è idonea solo per i telecomandi LUCAS 3TXB.  Il tipo più vecchio, LUCAS 3TXA, non è idoneo per questa prova.  Il tipo di trasmettitore è stampato sul lato posteriore di ciascun telecomando.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストは LUCAS 3TXB リモート コントロール ユニットにのみ適しています。  このテストは、旧式の LUCAS 3TXA には適していません。  トランスミッタ タイプは各リモート コントロール ユニットの裏に印刷されています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este teste só é adequado para comandos à distância LUCAS 3TXB.  O tipo mais antigo, LUCAS 3TXA, não é adequado para este teste.  O tipo do emissor-receptor está impresso na parte de trás de cada comando à distância.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este teste só é adequado para as unidades de controle remoto LUCAS 3TXB.  O antigo tipo, LUCAS 3TXA, não é adequado para este teste.  O tipo de transmissor está impresso na parte de trás de cada unidade de controle remoto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная проверка выполняется только для пультов дистанционного управления LUCAS 3TXB.  Эта проверка не подходит для блоков более ранних моделей LUCAS 3TXA.  Тип передатчика указан с обратной стороны каждого пульта дистанционного управления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta prueba es adecuada solamente para mandos a distancia LUCAS 3TXB.  El modelo anterior, LUCAS 3TXA, no es apropiado para realizar esta prueba.  El tipo de transmisor está impreso al dorso de cada mando a distancia.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一测试只适合于LUCAS 3TXB遥控单元。  旧型号 LUCAS 3TXA 不适合用于这一测试。  发射器类型打印在各个遥控单元的背部。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 테스트는 LUCAS 3TXB 리모컨 유닛에만 적합합니다.  이전의 유형인 LUCAS 3TXA는 이 테스트에 적합하지 않습니다.  송신기 유형은 각 리모컨 유닛 뒷면에 인쇄되어 있습니다.</tu>
+</tm>

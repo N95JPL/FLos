@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Temperature$M">
+	<tu xmlns:lang="eng">Temperature</tu>
+	<tu xmlns:lang="nld">Temperatuur</tu>
+	<tu xmlns:lang="fra">Température</tu>
+	<tu xmlns:lang="deu">Temperatur</tu>
+	<tu xmlns:lang="ita">Temperatura</tu>
+	<tu xmlns:lang="jpn">温度</tu>
+	<tu xmlns:lang="ptg">Temperatura</tu>
+	<tu xmlns:lang="ptb">Temperatura</tu>
+	<tu xmlns:lang="rus">Температура</tu>
+	<tu xmlns:lang="esp">Temperatura</tu>
+	<tu xmlns:lang="chs">温度</tu>
+	<tu xmlns:lang="kor">온도</tu>
+</tm>

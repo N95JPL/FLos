@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUTINE_DR_SE_BCKREST_AWAY">
+	<tu
+    xmlns:lang="eng"
+  >This next routine will drive the seat backrest away from this calibration reference point.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens de volgende procedure wordt de rugleuning van dit kalibratiereferentiepunt af bewogen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce prochain programme éloignera le dossier de siège de son point de référence d'étalonnage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser nächsten Routine wird die Sitzlehne vom Bezugspunkt für die Kalibrierung weg verfahren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La prossima procedura azionerà lo schienale del sedile allontanandolo da questo punto di riferimento della taratura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のルーチンで、シート バックレストはこのキャリブレーション参照ポイントから外れるよう動かされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A rotina seguinte afastará as costas do banco deste ponto de referência para calibragem.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A próxima rotina afastará o encosto do assento desse ponto de referência de calibragem.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При выполнении следующей операции спинка сиденья перемещается из данной контрольной точки калибровки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La rutina siguiente activará el respaldo del asiento para alejarlo de este punto de referencia para la calibración.</tu>
+	<tu xmlns:lang="chs">下一例行程序将驱动座椅靠背离开这一校准参考点。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 다음 루틴에서는 이 보정 기준점에서 멀어지는 방향으로 시트 등받이를 구동합니다.</tu>
+</tm>

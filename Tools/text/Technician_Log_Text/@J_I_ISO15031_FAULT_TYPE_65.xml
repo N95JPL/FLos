@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_65">
+<tu xmlns:lang="eng">Algorithm based failure - signal has too few transitions/events.</tu>
+<tu xmlns:lang="nld">Fout gebaseerd op algoritme - het signaal heeft te weinig overgangen/gebeurtenissen.</tu>
+<tu xmlns:lang="fra">Erreur d&#39;algorithme - signal a trop peu de transitions / d&#39;&#233;v&#233;nements.</tu>
+<tu xmlns:lang="deu">Auf Algorithmus basierender Fehler - Signal zeigt zu wenig &#220;berg&#228;nge/Ereignisse.</tu>
+<tu xmlns:lang="ita">Guasto algoritmico - il segnale ha un numero insufficiente di transizioni/eventi.</tu>
+<tu xmlns:lang="jpn">ƒAƒ‹ƒSƒŠƒYƒ€ ƒx[ƒX‚Ì•s‹ï‡ | ƒVƒOƒiƒ‹•Ï‰»^ƒCƒxƒ“ƒg•s‘«</tu>
+<tu xmlns:lang="ptg">Falha com base no algoritmo - o sinal possui um n&#250;mero insuficiente de transi&#231;&#245;es/eventos.</tu>
+<tu xmlns:lang="rus">Îøèáêà àëãîðèòìà - ñëèøêîì ìàëî ñèãíàëüíûõ ïåðåõîäîâ/ñîáûòèé.</tu>
+<tu xmlns:lang="esp">Fallo basado en algoritmos: la se&#241;al tiene variaciones insuficientes.</tu>
+<tu xmlns:lang="chs">Ëã·¨Ïà¹Ø¹ÊÕÏ - ÐÅºÅ°üº¬µÄ×ª»»/ÊÂ¼þ¹ýÉÙ¡£</tu>
+</tm>

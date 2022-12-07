@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineNotRunning$I">
+	<tu xmlns:lang="eng">Engine is not running.</tu>
+	<tu xmlns:lang="nld">De motor loopt niet.</tu>
+	<tu xmlns:lang="fra">Le moteur est arrêté</tu>
+	<tu xmlns:lang="deu">Motor läuft nicht</tu>
+	<tu xmlns:lang="ita">Motore non in moto</tu>
+	<tu xmlns:lang="jpn">ｴﾝジﾝは運転していません。</tu>
+	<tu xmlns:lang="ptg">O motor não está em funcionamento.</tu>
+	<tu xmlns:lang="ptb">O motor não está funcionando.</tu>
+	<tu xmlns:lang="rus">Двигатель не работает.</tu>
+	<tu xmlns:lang="esp">El motor no está en marcha.</tu>
+	<tu xmlns:lang="chs">发动机不运转。</tu>
+	<tu xmlns:lang="kor">엔진이 작동하고 있지 않습니다.</tu>
+</tm>

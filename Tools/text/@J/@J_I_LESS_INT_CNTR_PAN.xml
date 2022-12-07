@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_INT_CNTR_PAN">
+	<tu xmlns:lang="eng">Without integrated control panel</tu>
+	<tu xmlns:lang="nld">Zonder geïntegreerd bedieningspaneel </tu>
+	<tu xmlns:lang="fra">Sans panneau de commande intégré </tu>
+	<tu xmlns:lang="deu">Ohne erweitertes integriertes Bedienfeld </tu>
+	<tu xmlns:lang="ita">Senza quadro comandi integrato esteso</tu>
+	<tu xmlns:lang="jpn">インテグレート コントロール パネルなし</tu>
+	<tu xmlns:lang="ptg">Sem painel de controlo integrado</tu>
+	<tu xmlns:lang="ptb">Sem painel de controle integrado</tu>
+	<tu xmlns:lang="rus">Без интегрированной панели управления </tu>
+	<tu xmlns:lang="esp">Sin panel de mandos integrado</tu>
+	<tu xmlns:lang="chs">无集成控制面板</tu>
+	<tu xmlns:lang="kor">통합 컨트롤 패널 없음</tu>
+</tm>

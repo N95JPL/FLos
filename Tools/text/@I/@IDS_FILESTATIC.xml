@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDS_FILESTATIC">
+	<tu xmlns:lang="eng">Select file</tu>
+	<tu xmlns:lang="nld">Kies bestand</tu>
+	<tu xmlns:lang="fra">Sélectionnez le fichier</tu>
+	<tu xmlns:lang="deu">Datei auswählen</tu>
+	<tu xmlns:lang="ita">Seleziona un file</tu>
+	<tu xmlns:lang="jpn">ファイル選択</tu>
+	<tu xmlns:lang="ptg">Ficheiro seleccionado</tu>
+	<tu xmlns:lang="ptb">Selecionar arquivo</tu>
+	<tu xmlns:lang="rus">Выбрать файл</tu>
+	<tu xmlns:lang="esp">Seleccionar fichero</tu>
+	<tu xmlns:lang="chs">选择文件</tu>
+	<tu xmlns:lang="kor">파일 선택</tu>
+</tm>

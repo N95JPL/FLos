@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_IHU_AUD_PLA">
+	<tu xmlns:lang="eng">Internal audio control module audio player</tu>
+	<tu xmlns:lang="nld">Audiospeler interne audioregelmodule</tu>
+	<tu xmlns:lang="fra">Module de commande audio numérique - lecteur audio</tu>
+	<tu xmlns:lang="deu">Internes Audiosteuergerät - Audio-Spieler</tu>
+	<tu xmlns:lang="ita">Modulo comando audio interno - lettore audio</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オーディオ コントロール モジュール内部オーディオ プレーヤー</tu>
+	<tu xmlns:lang="ptg">Leitor áudio do módulo interno de comando áudio</tu>
+	<tu xmlns:lang="ptb">Player de áudio do módulo de controle de áudio interno</tu>
+	<tu
+    xmlns:lang="rus"
+  >Внутренний аудиопроигрыватель блока управления аудиосистемой</tu>
+	<tu
+    xmlns:lang="esp"
+  >Reproductor de audio del módulo de control de audio interno</tu>
+	<tu xmlns:lang="chs">内部音频控制模块音频播放器</tu>
+	<tu xmlns:lang="kor">내부 오디오 컨트롤 모듈 오디오 플레이어</tu>
+</tm>

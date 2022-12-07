@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_QUIESCENT_I_INVESTIGATION">
+	<tu xmlns:lang="eng">Perform quiescent current investigation</tu>
+	<tu xmlns:lang="nld">Voer een onderzoek uit naar de ruststroom</tu>
+	<tu
+    xmlns:lang="fra"
+  >Effectuez des recherches relatives au courant de repos absorbé</tu>
+	<tu xmlns:lang="deu">Überprüfung des Ruhestroms durchführen.</tu>
+	<tu xmlns:lang="ita">Eseguire un'indagine sulla corrente a riposo</tu>
+	<tu xmlns:lang="jpn">暗電流の点検を実施しなさい</tu>
+	<tu xmlns:lang="ptg">Investigar a corrente de repouso</tu>
+	<tu xmlns:lang="ptb">Faça a investigação da corrente em inatividade</tu>
+	<tu xmlns:lang="rus">Проверьте ток покоя</tu>
+	<tu xmlns:lang="esp">Investigar la corriente remanente</tu>
+	<tu xmlns:lang="chs">执行静态电流调查</tu>
+	<tu xmlns:lang="kor">대기 전류 조사를 수행하십시오.</tu>
+</tm>

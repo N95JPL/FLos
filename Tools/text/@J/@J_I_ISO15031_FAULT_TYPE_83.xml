@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_83">
+	<tu
+    xmlns:lang="eng"
+  >Bus signal/message failure - value of signal protection calculation is incorrect.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fout in bussignaal/-boodschap - berekende waarde van signaalbeveiliging is onjuist.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaut de signal / message bus - valeur de calcul de la protection du signal est incorrecte.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Datenbus-Signal-/Meldungsfehler - Wert der Signalschutzberechnung ist falsch.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto di segnale bus/messaggio - valore errato di calcolo protezione segnale.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バス シグナル／メッセージ不良 － シグナル保護計算数値、不正</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha na mensagem/sinal do bus - valor do cálculo da protecção do sinal está incorrecto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha do sinal de barramento/mensagem - valor de cálculo de proteção de sinal incorreto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка передачи сигнала/сообщения по шине - неправильное значение расчета защиты сигнала.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo de señales/mensajes del bus: valor incorrecto de cálculo de protección de señal.</tu>
+	<tu xmlns:lang="chs">总线信号/消息故障 - 信号保护计算值不正确。</tu>
+	<tu xmlns:lang="kor">버스 신호/메시지 오류 - 신호 보호 계산 값이 부정확함</tu>
+</tm>

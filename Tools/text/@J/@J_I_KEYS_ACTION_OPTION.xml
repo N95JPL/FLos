@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEYS_ACTION_OPTION">
+	<tu xmlns:lang="eng">Keys action</tu>
+	<tu xmlns:lang="nld">Sleutelactie</tu>
+	<tu xmlns:lang="fra">Action des clés</tu>
+	<tu xmlns:lang="deu">Maßnahme für Schlüssel</tu>
+	<tu xmlns:lang="ita">Azione chiavi</tu>
+	<tu xmlns:lang="jpn">キー アクション</tu>
+	<tu xmlns:lang="ptg">Acção das chaves</tu>
+	<tu xmlns:lang="ptb">Ação de chaves</tu>
+	<tu xmlns:lang="rus">Функции ключей</tu>
+	<tu xmlns:lang="esp">Acción de llaves</tu>
+	<tu xmlns:lang="chs">钥匙动作</tu>
+	<tu xmlns:lang="kor">키 동작</tu>
+</tm>

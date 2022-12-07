@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FUEL_PRIME_TIME_COUNTER_95_SEC">
+	<tu xmlns:lang="eng">Set prime time counter to 95 seconds</tu>
+	<tu xmlns:lang="nld">Zet de klok voor de aanzuigtijd op 95 seconden</tu>
+	<tu xmlns:lang="fra">Réglez le compteur de temps d'amorce à 95 secondes</tu>
+	<tu xmlns:lang="deu">Zeitzähler Vorbefüllung auf 95 Sekunden setzen</tu>
+	<tu xmlns:lang="ita">Impostare il contatore adescamento a 95 secondi</tu>
+	<tu xmlns:lang="jpn">プライミング タイム カウンターを 95 秒にセット</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Defina o contador do tempo de ferragem para 95 segundos</tu>
+	<tu xmlns:lang="ptb">Definir contador de tempo principal para 95 segundos</tu>
+	<tu xmlns:lang="rus">Установите счетчик времени заливки на 95 секунд</tu>
+	<tu xmlns:lang="esp">Poner el contador de tiempo de cebado en 95 segundos</tu>
+	<tu xmlns:lang="chs">将加注时间计时器设置为95秒</tu>
+	<tu xmlns:lang="kor">프라이밍 시간 카운터를 95초로 설정</tu>
+</tm>

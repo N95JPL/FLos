@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart97">
+	<tu
+    xmlns:lang="eng"
+  >5) Check for DTCs associated with the power supply distribution box and rectify before further auto stop/start system investigation.</tu>
+	<tu
+    xmlns:lang="nld"
+  >5) Controleer op DTC's met betrekking tot de stroomverdeeldoos en repareer ze voordat het automatische Stop/Start-systeem verder wordt onderzocht.</tu>
+	<tu
+    xmlns:lang="fra"
+  >5) Vérifiez la présence de DTC liés au boîtier de distribution de l'alimentation électrique et corrigez le problème avant de poursuivre l'examen du système Arrêt/Démarrage auto.</tu>
+	<tu
+    xmlns:lang="deu"
+  >5) Auf Fehlercodes im Zusammenhang mit dem Stromversorgungsverteilerkasten prüfen und diese vor weiteren Untersuchungen des Auto-Stopp-Start-Systems beheben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >5) Verificare l'eventuale presenza di DTC relativi alla scatola di distribuzione dell'alimentazione e rettificare prima di eseguire ulteriori indagini sul sistema Stop/Start automatico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >5) 電源供給ディストリビューション ボックス関連の DTC を確認し、オート ストップ/スタート システムをさらに調査する前に修理してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >5) Verifique se existem códigos de avaria (DTC) associados à caixa de distribuição de alimentação e retifique-os antes de efetuar qualquer outra investigação no sistema Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >5) Verifique os DTCs associados com a caixa de distribuição da fonte de alimentação e corrija antes do prosseguimento da investigação do sistema stop/start automático.</tu>
+	<tu
+    xmlns:lang="rus"
+  >5) До проведения дальнейшей диагностики автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт проверьте и в случае наличия устраните диагностические коды неисправности распределительной коробки электропитания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >5) Compruebe si hay otros DTC asociados con la caja de distribución de la alimentación y lleve a cabo las rectificaciones necesarias antes de realizar cualquier otra investigación del sistema Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="chs"
+  >5) 自动停止/启动系统进一步调查前，检查是否存在配电盒相关的 DTC 并且加以纠正。</tu>
+	<tu
+    xmlns:lang="kor"
+  >5) 전원 공급 배전함과 관련된 DTC가 있는지 점검하고 수리한 후 자동 Stop/Start 시스템 조사를 계속 진행하십시오.</tu>
+</tm>

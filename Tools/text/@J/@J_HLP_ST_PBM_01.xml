@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_PBM_01">
+	<tu
+    xmlns:lang="eng"
+  >The purpose of the on demand self-test is to log diagnostic trouble codes only.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De opvraagbare zelftest is alleen bedoeld voor het loggen van diagnosefoutcodes.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le but de l'autodiagnostic à la demande est uniquement d'enregistrer les codes de défaut de diagnostic.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zweck des Selbsttests auf Abruf ist lediglich, Fehlercodes abzuspeichern.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'autodiagnosi su richiesta ha solo lo scopo di registrare codici di guasto diagnostici.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オンデマンド セルフテストの目的は診断トラブル コードの記録だけです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O autoteste tem apenas o objectivo de registar códigos de avaria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A finalidade do autoteste sob demanda é registrar somente os códigos de problemas de diagnóstico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Целью самопроверки по запросу является только регистрация диагностических кодов неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La finalidad de la autocomprobación solicitada es solamente la de registrar códigos de avería.</tu>
+	<tu xmlns:lang="chs">按需自检的作用只是记录故障诊断代码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >온디맨드 자체 테스트의 목적은 고장 진단 코드만 기록하는 것입니다.</tu>
+</tm>

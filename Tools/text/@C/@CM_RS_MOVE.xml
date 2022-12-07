@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_RS_MOVE">
+	<tu xmlns:lang="eng">Electric rear seat movement.</tu>
+	<tu xmlns:lang="nld">Elektrische instelling van de achterstoel</tu>
+	<tu xmlns:lang="fra">Réglage électrique de la banquette arrière</tu>
+	<tu xmlns:lang="deu">Elektrische Rücksitzverstellung</tu>
+	<tu xmlns:lang="ita">Movimento sedile posteriore regolato elettricamente</tu>
+	<tu xmlns:lang="jpn">リア シート電動調整</tu>
+	<tu xmlns:lang="ptg">Bancos traseiros eléctricos.</tu>
+	<tu xmlns:lang="ptb">Movimento do assento traseiro elétrico.</tu>
+	<tu xmlns:lang="rus">Электропривод регулировки задних сидений.</tu>
+	<tu xmlns:lang="esp">Movimiento eléctrico del asiento trasero</tu>
+	<tu xmlns:lang="chs">电动后座椅运动。</tu>
+	<tu xmlns:lang="kor">전동식 리어 시트 동작</tu>
+</tm>

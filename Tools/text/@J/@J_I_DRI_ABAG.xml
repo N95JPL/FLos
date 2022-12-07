@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRI_ABAG">
+	<tu xmlns:lang="eng">Driver's front air bag</tu>
+	<tu xmlns:lang="nld">Voorairbag voor bestuurder</tu>
+	<tu xmlns:lang="fra">Airbag avant conducteur</tu>
+	<tu xmlns:lang="deu">Frontairbag Fahrerseite</tu>
+	<tu xmlns:lang="ita">Airbag anteriore lato guidatore</tu>
+	<tu xmlns:lang="jpn">運転席側フロント エアバッグ</tu>
+	<tu xmlns:lang="ptg">Airbag dianteiro do condutor</tu>
+	<tu xmlns:lang="ptb">Airbag dianteiro do motorista</tu>
+	<tu xmlns:lang="rus">Передняя подушка безопасности водителя</tu>
+	<tu xmlns:lang="esp">Airbag delantero del conductor</tu>
+	<tu xmlns:lang="chs">驾驶员前气囊</tu>
+	<tu xmlns:lang="kor">운전석 프론트 에어백</tu>
+</tm>

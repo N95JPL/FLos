@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BET_STRING_INFO">
+	<tu
+    xmlns:lang="eng"
+  >The tester will now update the belt end test value in the ABS electronic control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het testapparaat zal nu de waarde van de test aan het einde van de productielijn in de elektronische ABS-regelmodule bijwerken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le testeur va mettre à jour la valeur de test final dans le module de commande électronique ABS.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Testgerät aktualisiert jetzt den Wert für den Montageabschlusstest im elektronischen ABS-Steuergerät.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il tester aggiornerà ora il valore di prova lato cinghia nell'unità di comando elettronica ABS.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テスターは ABS エレクトロニック コントロール ユニットのベルト エンド テスト数値をこれから更新します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O dispositivo de teste actualiza então o valor do teste final da passadeira na unidade electrónica de controlo do ABS.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O testador irá agora atualizar o valor do teste da extremidade da correia na unidade de controle eletrônico do ABS.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Диагностическое устройство обновит значение проверки ремня на обрыв в электронном блоке управления ABS.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El comprobador pasará ahora a actualizar el valor de la prueba del extremo donde va la correa auxiliar en el módulo de control electrónico del ABS.</tu>
+	<tu
+    xmlns:lang="chs"
+  >测试仪现在将要更新 ABS 电子控制单元中的安全带端测试值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이제는 테스터가 ABS 전자 컨트롤 유닛에서 벨트 엔드 테스트 값을 업데이트할 것입니다.</tu>
+</tm>

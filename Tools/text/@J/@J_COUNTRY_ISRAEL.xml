@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_ISRAEL">
+	<tu xmlns:lang="eng">Israel</tu>
+	<tu xmlns:lang="nld">Israël</tu>
+	<tu xmlns:lang="fra">Israël</tu>
+	<tu xmlns:lang="deu">Israel</tu>
+	<tu xmlns:lang="ita">Israele</tu>
+	<tu xmlns:lang="jpn">イスラエル</tu>
+	<tu xmlns:lang="ptg">Israel</tu>
+	<tu xmlns:lang="ptb">Israel</tu>
+	<tu xmlns:lang="rus">Израиль</tu>
+	<tu xmlns:lang="esp">Israel</tu>
+	<tu xmlns:lang="chs">以色列</tu>
+	<tu xmlns:lang="kor">이스라엘</tu>
+</tm>

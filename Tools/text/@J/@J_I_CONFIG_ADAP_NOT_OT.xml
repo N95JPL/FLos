@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_ADAP_NOT_OT">
+	<tu
+    xmlns:lang="eng"
+  >As configuration and adaption data could not be retrieved from the old module the following steps will be required during this application:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Aangezien de gegevens over de configuratie en aanpassingen niet bij de oude module konden worden uitgelezen, zult u tijdens deze toepassing de volgende stappen moeten uitvoeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >En raison de l'impossibilité d'extraire les données de configuration et d'adaptation de l'ancien module, vous devrez suivre les étapes suivantes pendant l'application :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Da Konfigurations- und Anpassungsdaten nicht aus dem alten Steuergerät ausgelesen werden konnten, müssen im Rahmen dieses Anwendungsprogramms die folgenden Schritte durchgeführt werden:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Poiché non è stato possibile recuperare i dati di configurazione e adattamento dal vecchio modulo, durante questa applicazione è necessario eseguire le seguenti operazioni:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >古いモジュールからコンフィギュレーションおよび補正データを読み取ることができなかったため、このアプリケーション実行中に次のステップが必要となります：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Como não foi possível ler os dados de configuração e de adaptação no módulo antigo, será necessário realizar as etapas seguintes durante esta aplicação:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Como os dados de configuração e adaptação não puderam ser recuperados do módulo antigo, as etapas a seguir serão necessárias durante este aplicativo:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Поскольку данные конфигурации и корректировки невозможно получить со старого блока, во время выполнения данной программы необходимо выполнить следующие действия:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Como no se pudieron recuperar los datos de configuración y adaptación del módulo antiguo, habrá que realizar los pasos siguientes al ejecutar esta aplicación:</tu>
+	<tu
+    xmlns:lang="chs"
+  >由于可能无法从旧模块中提取配置和适用值数据，在此应用中要执行下述步骤：</tu>
+	<tu
+    xmlns:lang="kor"
+  >기존 모듈에서 구성 및 어댑테이션 데이터를 검색하지 못했으므로, 이 애플리케이션이 실행되는 중에 다음 단계를 수행해야 합니다.</tu>
+</tm>

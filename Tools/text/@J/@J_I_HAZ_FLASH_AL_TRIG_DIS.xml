@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HAZ_FLASH_AL_TRIG_DIS">
+	<tu xmlns:lang="eng">Hazard lamps do not flash when alarm is triggered</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer het alarm afgaat, gaan de alarmknipperlichten niet knipperen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les feux de détresse ne clignotent pas quand l'alarme est déclenchée</tu>
+	<tu xmlns:lang="deu">Warnblinkleuchten blinken bei Alarmauslösung nicht</tu>
+	<tu
+    xmlns:lang="ita"
+  >Gli indicatori di emergenza non lampeggiano quando scatta l'allarme</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アラームがトリガーされたときにハザード ランプが点滅しません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os intermitentes de perigo não piscam quando o alarme dispara</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As luzes do pisca-alerta não piscam quando o alarme é acionado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Лампы аварийной сигнализации не загораются при срабатывании сигнализации</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las luces de emergencia no destellan cuando se dispara la alarma</tu>
+	<tu xmlns:lang="chs">报警器触发时，危险指示灯不闪烁</tu>
+	<tu xmlns:lang="kor">알람이 트리거될 때 비상등이 깜박이지 않음</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_SENSITIVITY">
+	<tu
+    xmlns:lang="eng"
+  >The hydraulic brake assistance sensitivity shown on the buttons may be altered by selecting the required button.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt de gevoeligheid van de hydraulische rembekrachtiging die op de toetsen staat aangegeven, aanpassen door de gewenste toets te selecteren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La sensibilité de l'assistance au freinage hydraulique indiquée sur les boutons peut être modifiée en sélectionnant le bouton correspondant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die auf den Schaltflächen gezeigte Sensitivität des hydraulischen Bremskraftverstärkers kann durch Wahl der gewünschten Schaltfläche abgeändert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La sensibilità del servofreno idraulico mostrata sui pulsanti può essere modificata selezionando il pulsante richiesto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ボタンに表\示されたハイドロリック ブレーキ アシスト感度は、必要なボタンを選択することにより変更可能\です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A sensibilidade do sistema de assistência à travagem hidráulica indicada nos botões pode ser alterada seleccionando o botão apropriado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A sensibilidade da assistência ao freio hidráulico mostrada nos botões pode ser alterada por meio da seleção do botão necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Чувствительность гидравлической помощи при торможении, указанная на кнопках, может быть изменена путем выбора необходимой кнопки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La sensibilidad de la asistencia hidráulica al freno que se muestra en los botones puede modificarse seleccionando el botón que se requiera.</tu>
+	<tu
+    xmlns:lang="chs"
+  >按钮上显示的液压制动辅助敏感度可通过选择要求的按钮进行更改。</tu>
+	<tu
+    xmlns:lang="kor"
+  >필요한 버튼을 선택하면 버튼에 표시된 유압 브레이크 보조 감도가 변경될 수도 있습니다.</tu>
+</tm>

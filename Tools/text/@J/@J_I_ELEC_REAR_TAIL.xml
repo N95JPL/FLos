@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ELEC_REAR_TAIL">
+	<tu xmlns:lang="eng">Electrical lockout  -  Rear doors and tailgate</tu>
+	<tu
+    xmlns:lang="nld"
+  >Elektrische uitsluiting  -  Achterportieren en achterklep</tu>
+	<tu xmlns:lang="fra">Verrouillage électrique  -  Portes arrière et hayon</tu>
+	<tu xmlns:lang="deu">Elektrische Sperre  -  Hintertüren und Hecktür</tu>
+	<tu
+    xmlns:lang="ita"
+  >Esclusione elettrica  -  Portiere posteriori e portellone</tu>
+	<tu xmlns:lang="jpn">電気的ロックアウト  －  リア ドアおよびテールゲート</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Bloqueio eléctrico  -  Portas traseiras e porta da retaguarda</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Bloqueio elétrico  -  Portas traseiras e tampa traseira</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электрическая блокировка  -  Задние двери и дверь багажного отделения</tu>
+	<tu xmlns:lang="esp">Cierre eléctrico  -  Puertas traseras y portón trasero</tu>
+	<tu xmlns:lang="chs">电动锁闭  -  后门和尾门</tu>
+	<tu xmlns:lang="kor">전동식 잠금 기능  -  리어 도어 및 테일게이트</tu>
+</tm>

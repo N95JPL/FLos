@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ERR_NULL_PTR_PAF_FILE_PARAM">
+	<tu xmlns:lang="eng">Null pointer passed to pafFile parameter</tu>
+	<tu
+    xmlns:lang="nld"
+  >De nulwijzer is naar de pafBestand-parameter verzonden.</tu>
+	<tu xmlns:lang="fra">Pointeur nul envoyé au paramètre pafFile.</tu>
+	<tu xmlns:lang="deu">Nullzeiger an Parameter pafFile übergeben</tu>
+	<tu xmlns:lang="ita">Puntatore nullo passato a parametro pafFile</tu>
+	<tu
+    xmlns:lang="jpn"
+  >Null (ゼロ) ポインターが PAF ファイル パラメータに送信されました。</tu>
+	<tu xmlns:lang="ptg">Ponteiro nulo passou para parâmetro de ficheiro PAF</tu>
+	<tu xmlns:lang="ptb">Ponteiro nulo passado ao parâmetro pafFile</tu>
+	<tu xmlns:lang="rus">В параметр файла PAF передан нулевой указатель</tu>
+	<tu xmlns:lang="esp">Puntero nulo pasado a parámetro de archivo PAF</tu>
+	<tu xmlns:lang="chs">空指针转至 PAF 文件参数</tu>
+	<tu xmlns:lang="kor">Null 포인터가 pafFile 매개 변수로 전달됨</tu>
+</tm>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ATCM_USAGE_CLEAR_CONFIRM">
+	<tu
+    xmlns:lang="eng"
+  >Do you wish to clear the terrain optimization usage data?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wilt u de optimalisatiegebruiksgegevens van het 'terrain response'-systeem wissen?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Voulez-vous effacer les données utilisées pour l'optimisation du terrain ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Möchten Sie die Nutzungsdaten - Terrainoptimierung löschen?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Cancellare i dati di utilizzazione dell'ottimizzazione Terrain?</tu>
+	<tu xmlns:lang="jpn">テレイン最適化使用データをクリアしますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deseja apagar os dados de utilização da optimização do Terrain?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Deseja apagar os dados de uso da otimização do terrain?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вы хотите очистить данные использования системы адаптации к дорожным условиям?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Desea borrar los datos de optimización para el terreno?</tu>
+	<tu xmlns:lang="chs">是否清除地形优化使用数据？</tu>
+	<tu xmlns:lang="kor">터레인 최적화 사용 데이터를 지우시겠습니까?</tu>
+</tm>

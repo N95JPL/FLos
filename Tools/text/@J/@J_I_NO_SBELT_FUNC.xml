@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_SBELT_FUNC">
+	<tu xmlns:lang="eng">No safety belt function.</tu>
+	<tu xmlns:lang="nld">Geen veiligheidsgordelfunctie.</tu>
+	<tu xmlns:lang="fra">Pas de fonction ceinture de sécurité.</tu>
+	<tu xmlns:lang="deu">Keine Sicherheitsgurtfunktion.</tu>
+	<tu xmlns:lang="ita">Nessuna funzione cintura di sicurezza.</tu>
+	<tu xmlns:lang="jpn">シートベルト機能\なし</tu>
+	<tu xmlns:lang="ptg">Não há função de cintos de segurança.</tu>
+	<tu xmlns:lang="ptb">Sem função do cinto de segurança.</tu>
+	<tu xmlns:lang="rus">Нет функции ремня безопасности.</tu>
+	<tu xmlns:lang="esp">No tiene función de cinturón de seguridad.</tu>
+	<tu xmlns:lang="chs">无安全带功能。</tu>
+	<tu xmlns:lang="kor">안전벨트 기능 없음</tu>
+</tm>

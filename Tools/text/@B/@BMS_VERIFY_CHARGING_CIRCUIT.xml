@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_VERIFY_CHARGING_CIRCUIT">
+	<tu xmlns:lang="eng">Verify charging circuit.</tu>
+	<tu xmlns:lang="nld">Controleer het laadcircuit</tu>
+	<tu xmlns:lang="fra">Contrôlez le circuit de charge.</tu>
+	<tu xmlns:lang="deu">Ladekreis bestätigen.</tu>
+	<tu xmlns:lang="ita">Verificare il circuito di carica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >チャージング サーキットが正しく機能\しているか確認しなさい。</tu>
+	<tu xmlns:lang="ptg">Verificar o circuito de carga.</tu>
+	<tu xmlns:lang="ptb">Verifique o circuito de carga.</tu>
+	<tu xmlns:lang="rus">Проверьте цепь зарядки.</tu>
+	<tu xmlns:lang="esp">Comprobar el circuito de carga.</tu>
+	<tu xmlns:lang="chs">验证充电电路。</tu>
+	<tu xmlns:lang="kor">충전 회로를 확인하십시오.</tu>
+</tm>

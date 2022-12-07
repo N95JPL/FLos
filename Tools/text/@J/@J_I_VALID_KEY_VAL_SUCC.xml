@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VALID_KEY_VAL_SUCC">
+	<tu xmlns:lang="eng">Valid key and validiation successful.</tu>
+	<tu xmlns:lang="nld">Geldige sleutel en validatie gelukt.</tu>
+	<tu xmlns:lang="fra">Clé valide et validation réussie.</tu>
+	<tu xmlns:lang="deu">Gültiger Schlüssel und Validierung erfolgreich.</tu>
+	<tu xmlns:lang="ita">Chiave valida e convalida riuscita.</tu>
+	<tu xmlns:lang="jpn">キーは有効、正当性確認完了</tu>
+	<tu xmlns:lang="ptg">Chave válida e validação bem-sucedida.</tu>
+	<tu xmlns:lang="ptb">Chave válida e validação bem-sucedida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ключ действительный - проверка достоверности выполнена успешно.</tu>
+	<tu xmlns:lang="esp">Llave válida y validación correcta.</tu>
+	<tu xmlns:lang="chs">有效钥匙，认证成功。</tu>
+	<tu xmlns:lang="kor">유효한 키 및 유효성 검사 성공</tu>
+</tm>

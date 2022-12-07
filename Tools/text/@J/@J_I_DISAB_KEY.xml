@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DISAB_KEY">
+	<tu xmlns:lang="eng">Disable keys</tu>
+	<tu xmlns:lang="nld">Sleutels deactiveren</tu>
+	<tu xmlns:lang="fra">Désactivez les clés.</tu>
+	<tu xmlns:lang="deu">Schlüssel deaktivieren</tu>
+	<tu xmlns:lang="ita">Disattiva chiavi</tu>
+	<tu xmlns:lang="jpn">キーを使用不可にします</tu>
+	<tu xmlns:lang="ptg">Desactive as chaves</tu>
+	<tu xmlns:lang="ptb">Desativar as teclas</tu>
+	<tu xmlns:lang="rus">Выключить клавиши</tu>
+	<tu xmlns:lang="esp">Inhabilitar llaves</tu>
+	<tu xmlns:lang="chs">禁用钥匙</tu>
+	<tu xmlns:lang="kor">키 비활성화</tu>
+</tm>

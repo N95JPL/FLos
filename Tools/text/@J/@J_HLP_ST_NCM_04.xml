@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_NCM_04">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle information and communication system (including sub-inputs).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voertuiginformatie- en communicatiesysteem (inclusief sub-invoeren).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système d'information et de communication du véhicule (y compris sous-entrées).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeug-Informations- und -Kommunikationssystem (einschließlich Untereingänge).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema di informazione e comunicazione del veicolo (incluso sub-input).</tu>
+	<tu xmlns:lang="jpn">車両情報および通信システム (サブインプットを含む)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de informação e de comunicação do veículo (incluindo subentradas).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de informações e comunicações do veículo (incluindo subentradas).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Информация об автомобиле и система связи (включая дополнительные входные сигналы).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de información y comunicación del vehículo (incluidas las señales de entrada secundarias).</tu>
+	<tu xmlns:lang="chs">车辆信息与通讯系统（包括次级输入）。</tu>
+	<tu xmlns:lang="kor">차량 정보 및 통신 시스템(하위 입력 포함)</tu>
+</tm>

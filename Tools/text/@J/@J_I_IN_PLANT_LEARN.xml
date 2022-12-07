@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IN_PLANT_LEARN">
+	<tu xmlns:lang="eng">In-plant learning</tu>
+	<tu xmlns:lang="nld">Inleren in fabriek</tu>
+	<tu xmlns:lang="fra">Apprentissage en usine</tu>
+	<tu xmlns:lang="deu">Anpassungserlernung bei Fertigung</tu>
+	<tu xmlns:lang="ita">Apprendimento in loco</tu>
+	<tu xmlns:lang="jpn">インプラント学習</tu>
+	<tu xmlns:lang="ptg">Programação na fábrica</tu>
+	<tu xmlns:lang="ptb">Aprendizado na fábrica</tu>
+	<tu xmlns:lang="rus">Сохранение в память на заводе</tu>
+	<tu xmlns:lang="esp">Aprendizaje en planta</tu>
+	<tu xmlns:lang="chs">出厂前记忆</tu>
+	<tu xmlns:lang="kor">공장 내 학습</tu>
+</tm>

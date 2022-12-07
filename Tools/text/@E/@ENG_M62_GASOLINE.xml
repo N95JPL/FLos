@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENG_M62_GASOLINE">
+	<tu xmlns:lang="eng">M62
+
+Petrol engine</tu>
+	<tu xmlns:lang="nld">M62
+
+Benzinemotor</tu>
+	<tu xmlns:lang="fra">M62
+
+Moteur à essence</tu>
+	<tu xmlns:lang="deu">M62
+
+Benzinmotor</tu>
+	<tu xmlns:lang="ita">M62
+
+Motore a benzina</tu>
+	<tu xmlns:lang="jpn">M62
+
+ガソ\リン エンジン</tu>
+	<tu xmlns:lang="ptg">M62
+
+Motor a gasolina</tu>
+	<tu xmlns:lang="ptb">M62
+
+Motor a gasolina</tu>
+	<tu xmlns:lang="rus">M62
+
+Бензиновый двигатель</tu>
+	<tu xmlns:lang="esp">M62
+
+Motor de gasolina</tu>
+	<tu xmlns:lang="chs">M62
+
+汽油发动机</tu>
+	<tu xmlns:lang="kor">M62
+
+가솔린 엔진</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceIDNumber$I">
+	<tu xmlns:lang="eng">Service ID - 0x%x.</tu>
+	<tu xmlns:lang="nld">Onderhoudsidentificatie - 0x%x.</tu>
+	<tu xmlns:lang="fra">ID service - 0x%x.</tu>
+	<tu xmlns:lang="deu">Service-ID - 0x%x.</tu>
+	<tu xmlns:lang="ita">ID servizio - 0x%x.</tu>
+	<tu xmlns:lang="jpn">サービス ID - 0x%x </tu>
+	<tu xmlns:lang="ptg">ID serviço - 0x%x.</tu>
+	<tu xmlns:lang="ptb">ID de Serviço - 0x%x.</tu>
+	<tu xmlns:lang="rus">Сервисный идентификатор - 0x%x.</tu>
+	<tu xmlns:lang="esp">ID de servicio: 0x%x.</tu>
+	<tu xmlns:lang="chs">维修 ID - 0x%x。</tu>
+	<tu xmlns:lang="kor">서비스 ID - 0x%x</tu>
+</tm>

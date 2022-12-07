@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TEL_MUTE_ACC">
+	<tu xmlns:lang="eng">Telephone mute function  -  Accessory only</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onderdrukkingsfunctie van telefoon  -  Alleen accessoire</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fonction sourdine du téléphone  -  Accessoire uniquement</tu>
+	<tu xmlns:lang="deu">Telefon-Stummschaltungsfunktion  -  Nur Zubehör</tu>
+	<tu xmlns:lang="ita">Funzione esclusione audio telefono  -  Solo accessori</tu>
+	<tu xmlns:lang="jpn">テレフォン ミュート機能\  －  アクセサリのみ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Função de silenciamento do telefone  -  Apenas acessório</tu>
+	<tu xmlns:lang="ptb">Função de mudo do telefone  -  Apenas acessórios</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция отключения звука телефона  -  Только для вспомогательного оборудования</tu>
+	<tu
+    xmlns:lang="esp"
+  >Función de silenciamiento de teléfono  -  Sólo accesorio</tu>
+	<tu xmlns:lang="chs">电话静音功能  -  仅限附件</tu>
+	<tu xmlns:lang="kor">전화 음소거 기능  -  액세서리만 해당</tu>
+</tm>

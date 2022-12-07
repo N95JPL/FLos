@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SolenoidReplace$T">
+	<tu xmlns:lang="eng">Solenoid replacement.</tu>
+	<tu xmlns:lang="nld">Solenoïdevervanging.</tu>
+	<tu xmlns:lang="fra">Remplacement du solénoïde.</tu>
+	<tu xmlns:lang="deu">Schaltmagnetaustausch.</tu>
+	<tu xmlns:lang="ita">Sostituzione del solenoide.</tu>
+	<tu xmlns:lang="jpn">ソ\レノイド交換</tu>
+	<tu xmlns:lang="ptg">Substituição do solenóide.</tu>
+	<tu xmlns:lang="ptb">Substituição do solenoide.</tu>
+	<tu xmlns:lang="rus">Замена соленоида.</tu>
+	<tu xmlns:lang="esp">Sustitución del solenoide.</tu>
+	<tu xmlns:lang="chs">电磁阀更换。</tu>
+	<tu xmlns:lang="kor">솔레노이드 교체</tu>
+</tm>

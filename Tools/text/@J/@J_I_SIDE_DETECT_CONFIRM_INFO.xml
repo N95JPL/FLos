@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SIDE_DETECT_CONFIRM_INFO">
+	<tu
+    xmlns:lang="eng"
+  >This can be acheived by examining the driver and passenger door mirrors. If side object detection is fitted the door mirrors will contain an icon in the upper outer corner of each mirror (see diagram below). It will be faint, as it may not be illuminated, but it should still be visible.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dit kan worden bereikt door de buitenspiegels aan de bestuurders- en passagierskant te onderzoeken. Als er een voorwerpdetectiesysteem aan de zijkant is aangebracht, is er een pictogram in de bovenste buitenhoek van beide spiegels zichtbaar (raadpleeg de onderstaande afbeelding). Het is misschien nauwelijks waarneembaar omdat het misschien niet is verlicht, maar het is wel zichtbaar.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour ce faire, examinez les rétroviseurs extérieurs conducteur et passager. Si la détection latérale d'objets est présente, chaque rétroviseur comportera une icône dans son angle supérieur extérieur (voir le schéma ci-dessous). Elle sera peu distincte car elle n'est peut-être pas allumée, mais elle doit cependant être visible.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dies kann dadurch erreicht werden, dass Fahrertür- und Beifahrertürspiegel überprüft werden. Ist das System der seitlichen Objekterfassung eingebaut, dann tragen die Spiegel jeweils in ihrer oberen äußeren Ecke ein Symbol (siehe Zeichnung unten). Das Symbol wird nur schwer zu erkennen sein, da es möglicherweise nicht erleuchtet ist, sollte jedoch noch sichtbar sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ciò può essere ottenuto esaminando gli specchietti retrovisori esterni guidatore e passeggero. Se è installato il sistema di rilevamento degli oggetti laterali, ciascuno specchietto retrovisore esterno conterrà un'icona nell'angolo superiore esterno (vedere lo schema sotto). Sarà difficile da individuare, dato che non sarà illuminata, ma dovrebbe comunque risultare visibile.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これは運転席側および助手席側ドア ミラーを調べることによって可能\です。側方障害物探知システム (ブラインド スポット モニター) が装備されている場合、左右ドア ミラーの上部外側にアイコンがあります (下図を参照)。照明もなく薄いアイコンですが、見えるはずです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para tal, examinar os retrovisores da porta do condutor e do passageiro.  Se estiver instalado um sistema de detecção de objectos lateral, os retrovisores exteriores possuirão um ícone no canto superior exterior de cada retrovisor (ver figura abaixo). Estará esbatido, pois pode não estar iluminado, mas deverá ainda assim ser visível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso pode ser verificado examinando os retrovisores externos do lado do motorista e do passageiro. Se a detecção de objeto lateral estiver instalada, os retrovisores externos terão um ícone no canto externo superior de cada retrovisor (veja o diagrama abaixo). Ele poderá estar fraco, visto que pode não estar iluminado, mas deverá ainda estar visível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для этого нужно проверить зеркала на дверях водителя и пассажира. Если система обнаружения объектов сбоку установлена, в верхнем наружнем углу каждого наружного зеркала размещается значок (см. схему ниже). Без подсветки его может быть плохо видно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para ello se pueden examinar los retrovisores del conductor y el acompañante. Si se ha montado un sistema de detección de objetos laterales, los retrovisores de las puertas tendrán un icono en la esquina exterior superior (ver diagrama siguiente). Puede ser poco visible, ya que podría no estar iluminado, pero debe ser visible de todos modos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这可通过检查驾驶员和乘客车门后视镜来实现。 如果配备了侧面物体探测系统，车门后视镜将会在各个后视镜的顶部外侧角处出现一个图标（请参见下图）。 因为图标可能没有亮起，看上去比较模糊，但应该能看得见。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이는 운전석 및 조수석 도어 미러를 검사하여 수행할 수 있습니다. 측면 장애물 감지 시스템이 장착된 경우 도어 미러에는 각 미러의 상부 바깥쪽 코너에 아이콘이 있습니다(아래 다이어그램 참조). 조명이 켜지지 않을 수 있으므로 아이콘이 흐려지지만, 그래도 계속 보여야 합니다.</tu>
+</tm>

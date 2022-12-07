@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnsureWipOffPark$I">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the windshield wipers are off and in the park position.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat de ruitenwissers zijn uitgeschakeld en in de parkeerstand staan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que les essuie-glaces sont arrêtés et en position de repos.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Frontscheibenwischer ausgeschaltet sind und sich in der Parkstellung befinden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che i tergicristalli siano spenti e in posizione di stazionamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ウィンドシールド ワイパーがスイッチ オフされ、パーク ポジションにあることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que os limpa-pára-brisas estão desligados e na posição de descanso. </tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que os limpadores de para-brisa estejam desligados e na posição de estacionamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что стеклоочистители ветрового стекла выключены и находятся в положении парковки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que los limpiaparabrisas estén desactivados y en la posición de reposo.</tu>
+	<tu xmlns:lang="chs">确保挡风玻璃刮水器关闭且处于停泊位置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >윈드실드 와이퍼가 꺼져 있고 주차 위치에 있는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DWNLOAD_VEH_CONFIG">
+	<tu xmlns:lang="eng">Downloading the vehicle configuration file to vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bezig met het downloaden van het voertuigconfiguratiebestand naar het voertuig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Téléchargement du fichier de configuration du véhicule vers le véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeug-Konfigurationsdatei wird zum Fahrzeug heruntergeladen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Scaricamento in corso del file di configurazione sul veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション ファイルを車両へダウンロード中</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A fazer o descarregamento ('download') do ficheiro de configuração do veículo, para o veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Download do arquivo de configuração de veículo para o veículo.</tu>
+	<tu xmlns:lang="rus">Загрузка файла конфигурации автомобиля в автомобиль.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Descargando el archivo de configuración del vehículo en el vehículo.</tu>
+	<tu xmlns:lang="chs">下载车辆配置文件至车辆。</tu>
+	<tu xmlns:lang="kor">차량 구성 파일을 차량에 다운로드 중</tu>
+</tm>

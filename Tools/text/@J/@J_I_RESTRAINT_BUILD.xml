@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RESTRAINT_BUILD">
+	<tu xmlns:lang="eng">Restraints build mode</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fabricagefunctie van beveiligingssysteem voor inzittenden</tu>
+	<tu xmlns:lang="fra">Mode construction des dispositifs de retenue</tu>
+	<tu xmlns:lang="deu">Konfigurationsmodus Rückhaltesystem</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modalità di produzione dispositivi di sicurezza occupanti</tu>
+	<tu xmlns:lang="jpn">レストレイント ビルド モード</tu>
+	<tu xmlns:lang="ptg">Modo de fabrico do sistema de segurança</tu>
+	<tu xmlns:lang="ptb">Modo de construção de restrições</tu>
+	<tu xmlns:lang="rus">Режим установки системы пассивной безопасности</tu>
+	<tu xmlns:lang="esp">Modo de fabricación del sistema de retención</tu>
+	<tu xmlns:lang="chs">约束构建模式</tu>
+	<tu xmlns:lang="kor">에어백 빌드 모드</tu>
+</tm>

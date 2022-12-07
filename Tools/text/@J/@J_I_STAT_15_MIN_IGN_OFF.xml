@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STAT_15_MIN_IGN_OFF">
+	<tu
+    xmlns:lang="eng"
+  >The vehicle must remain stationary for at least 15 minutes with the ignition off, this will place the sensors into 'sleep mode'.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voertuig moet ten minste 15 minuten stil blijven staan met het contact uit, zodat de sensors op de 'sluimerfunctie' zullen overgaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule doit rester immobile pendant au moins 15 minutes avec le contact coupé, ceci mettra les capteurs en 'mode veille'.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug muss mit ausgeschalteter Zündung mindestens 15 Minuten lang stillstehen - hierdurch treten die Sensoren in den Standby-Modus ein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo deve rimanere fermo per almeno 15 minuti con l'accensione disinserita, in modo che i sensori vadano in modalità di riposo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イグニションをオフにしたままで車両を少なくとも 15 分間停止させる必要があります。これによりセンサーが「スリープ モード」になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo tem de continuar parado durante pelo menos 15 minutos com a ignição desligada, o que colocará os sensores em modo de gestão de energia.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo deverá permanecer parado por, pelo menos, 15 minutos com a ignição desligada. Isso colocará os sensores no modo de inatividade.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль должен оставаться неподвижным в течение по меньшей мере 15 минут с выключенным зажиганием - это переведет датчики в ждущий режим.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El vehículo deberá permanecer parado durante al menos 15 minutos con el contacto quitado; los sensores pasarán a 'modo de reposo'.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'车辆必须保持静止至少15分钟，同时点火关闭，这将使传感器置于 '休眠模式'。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >점화 스위치를 끈 상태에서 차량을 15분 이상 정지 상태로 유지해야 합니다. 그러면 센서들이 '휴면 모드'가 됩니다.</tu>
+</tm>

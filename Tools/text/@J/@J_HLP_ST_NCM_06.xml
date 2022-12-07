@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_NCM_06">
+	<tu xmlns:lang="eng">Fibre optic transceiver high temperature.</tu>
+	<tu xmlns:lang="nld">Te hoge temperatuur van glasvezelontvanger.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Température élevée de l'émetteur-récepteur à fibre optique</tu>
+	<tu xmlns:lang="deu">Faseroptischer Sendeempfänger - hohe Temperatur.</tu>
+	<tu xmlns:lang="ita">Ricetrasmettitore a fibre ottiche - temperatura alta.</tu>
+	<tu xmlns:lang="jpn">オプチカル ファイバー トランシーバ、高温</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temperatura elevada no emissor-receptor de fibra óptica.</tu>
+	<tu xmlns:lang="ptb">Temperatura alta do transceptor de fibra óptica.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Высокая температура волоконно-оптического приемопередатчика.</tu>
+	<tu xmlns:lang="esp">Alta temperatura del transceptor de fibra óptica.</tu>
+	<tu xmlns:lang="chs">光纤收发器温度过高。</tu>
+	<tu xmlns:lang="kor">광섬유 트랜스시버 고온</tu>
+</tm>

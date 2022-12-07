@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OP_CHK_PASS">
+	<tu xmlns:lang="eng">Operation check passed.</tu>
+	<tu xmlns:lang="nld">De werkingscontrole is met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Contrôle de fonctionnement réussi.</tu>
+	<tu xmlns:lang="deu">Funktionsprüfung erfolgreich abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Controllo funzionale superato.</tu>
+	<tu xmlns:lang="jpn">オペレーション チェック合格</tu>
+	<tu xmlns:lang="ptg">Verificação de funcionamento aprovada.</tu>
+	<tu xmlns:lang="ptb">Operação aprovada na verificação.</tu>
+	<tu xmlns:lang="rus">Проверка работы завершилась успешно.</tu>
+	<tu xmlns:lang="esp">Comprobación de funcionamiento superada.</tu>
+	<tu xmlns:lang="chs">操作检查通过。</tu>
+	<tu xmlns:lang="kor">작동 점검 통과</tu>
+</tm>

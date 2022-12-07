@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CompBeforeCont$I">
+	<tu
+    xmlns:lang="eng"
+  >Please ensure this is completed before continuing with this part of the application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg a.u.b. dat dit eerst is uitgevoerd, voordat u met dit deel van de toepassing verdergaat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez vérifier que ceci est terminé avant de poursuivre avec cette partie de l'application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte sicherstellen, dass dies abgeschlossen ist, ehe mit diesem Teil des Anwendungsprogramms fortgefahren wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi di completare la procedura prima di continuare con questa sezione dell'applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アプリケーションのこの部分を続行する前に、これが完了していることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Complete este procedimento antes de prosseguir com esta parte da aplicação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que isso seja concluído antes de continuar com esta parte do aplicativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перед выполнением этой части приложения убедитесь в завершении текущей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que esto se termine antes de continuar con esta parte de la aplicación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在继续使用该应用程序的此部分之前，请确保已完成此项工作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >응용 프로그램의 이 부분을 진행하기 전에 이 작업을 완료해야 합니다.</tu>
+</tm>

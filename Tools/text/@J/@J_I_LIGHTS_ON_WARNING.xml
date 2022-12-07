@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LIGHTS_ON_WARNING">
+	<tu xmlns:lang="eng">Lights on warning</tu>
+	<tu xmlns:lang="nld">Waarschuwing dat verlichting aan is</tu>
+	<tu xmlns:lang="fra">Avertissement de phares allumés</tu>
+	<tu xmlns:lang="deu">Warnung ?Beleuchtung eingeschaltet?</tu>
+	<tu xmlns:lang="ita">Segnale luci accese</tu>
+	<tu xmlns:lang="jpn">警告ランプ</tu>
+	<tu xmlns:lang="ptg">Aviso de luzes acesas</tu>
+	<tu xmlns:lang="ptb">Luzes de aviso acesas</tu>
+	<tu xmlns:lang="rus">Предупреждение о включенном освещении</tu>
+	<tu xmlns:lang="esp">Testigo de luces encendidas</tu>
+	<tu xmlns:lang="chs">开灯报警</tu>
+	<tu xmlns:lang="kor">조명 켜짐 경고</tu>
+</tm>

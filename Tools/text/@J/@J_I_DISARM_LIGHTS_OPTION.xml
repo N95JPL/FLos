@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DISARM_LIGHTS_OPTION">
+	<tu xmlns:lang="eng">Disarm lights</tu>
+	<tu xmlns:lang="nld">Schakel de verlichting uit</tu>
+	<tu xmlns:lang="fra">Désarmez les feux</tu>
+	<tu xmlns:lang="deu">Aufleuchten bei Entschärfung</tu>
+	<tu xmlns:lang="ita">Disinserire le luci</tu>
+	<tu xmlns:lang="jpn">ディスアーミング ライト</tu>
+	<tu xmlns:lang="ptg">Desactivar luzes</tu>
+	<tu xmlns:lang="ptb">Desarmar luzes</tu>
+	<tu xmlns:lang="rus">Отключите фары</tu>
+	<tu xmlns:lang="esp">Desactivar las luces</tu>
+	<tu xmlns:lang="chs">戒备解除灯</tu>
+	<tu xmlns:lang="kor">조명 해제</tu>
+</tm>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_GEAR_PARK_POSITION">
+	<tu xmlns:lang="eng">Make sure the gearshift lever is in the park position.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer dat de transmissiehendel in de parkeerstand staat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le sélecteur de vitesses doit être en position stationnement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass der Wählhebel in der Parkstellung steht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che la leva del cambio sia nella posizione di folle.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ギアシフト レバーがパーキング ポジションにあることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certificar-se de que alavanca das mudanças se encontra na posição de estacionamento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a alavanca de mudança de marchas está na posição de estacionamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что рычаг переключения передач находится в положении 'стоянка'.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que la palanca de cambios está en la posición P.</tu>
+	<tu xmlns:lang="chs">确保变速换档杆位于驻车位置。</tu>
+	<tu xmlns:lang="kor">기어 변속 레버가 주차 위치에 있는지 확인하십시오.</tu>
+</tm>

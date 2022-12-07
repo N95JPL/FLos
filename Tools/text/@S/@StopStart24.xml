@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart24">
+	<tu
+    xmlns:lang="eng"
+  >Warning: Performing a DTC clear on a petrol (gas) engine vehicle will inhibit the auto stop/start system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Waarschuwing: het wissen DTC's bij een auto met een benzinemotor blokkeert het automatische Stop/Start-systeem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Avertissement : l'effacement des DTC sur un véhicule doté d'un moteur essence neutralise le système Arrêt/Démarrage auto.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Warnung: Bei Durchführung einer Fehlercodelöschung an einem Fahrzeug mit Benzinmotor (Gas) wird das Auto-Stopp-Start-System gesperrt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Avvertenza: La cancellazione di un DTC su un veicolo a benzina provocherà la disabilitazione del sistema Stop/Start automatico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >警告: ガソリン エンジン車両で DTC クリアを実行すると、オート ストップ/スタート システムは禁止状態になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aviso: Realizar uma eliminação de códigos de avaria (DTC) num veículo com motor a gasolina (gás) inibe o sistema Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aviso: realizar uma limpeza de DTC em um motor a gasolina irá inibir o sistema stop/start automático.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Предупреждение: сброс диагностического кода неисправности на автомобиле с бензиновым двигателем приведет к блокировке автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aviso: Al borrar los DTC en un vehículo con motor de gasolina (gas), se bloqueará el sistema Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="chs"
+  >警告：在汽油发动机车辆上执行 DTC 清除将禁止自动停止/启动系统。</tu>
+	<tu
+    xmlns:lang="kor"
+  >경고: 가솔린 엔진 차량에서 DTC 삭제를 수행하면 자동 Stop/Start 시스템이 억제됩니다.</tu>
+</tm>

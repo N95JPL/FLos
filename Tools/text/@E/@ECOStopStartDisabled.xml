@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECOStopStartDisabled">
+	<tu
+    xmlns:lang="eng"
+  >Stop/start system off.  System is working as expected and has just been disabled via the ECO/auto stop/start switch.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stop/Start-systeem uit. Systeem werkt zoals verwacht en is zojuist uitgeschakeld via de schakelaar ECO/automatische Stop/Start.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système Arrêt/Démarrage désactivé. Le système fonctionne normalement et a seulement été désactivé via le commutateur ECO/Arrêt/Démarrage auto.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Stopp/Start-System ausgeschaltet. System funktioniert wie erwartet und wurde gerade über den ECO-/Auto-Stopp-Start-Schalter deaktiviert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disattivazione del sistema Stop/Start. Il sistema funziona come previsto ed è stato appena disattivato dall'interruttore Stop/Start automatico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スタート/ストップ システムがオフになっています。 システムは期待通りに動作していますが、ECO/自動ストップ/スタート スイッチによって無効になりました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema Stop/Start desligado. O sistema está a funcionar conforme esperado e acaba de ser desativado através do interruptor ECO / Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema Stop/Start desligado. O sistema está funcionando conforme o esperado e acabou de ser desativado por meio do interruptor de stop/start automático/ECO.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система стоп/старт выключена. Система работает должным образом и была только что отключена с помощью переключателя ECO/автоматической системы стоп/старт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema Stop/Start desactivado. El sistema funciona según lo previsto y se acaba de desactivar a través del interruptor Stop/Start automático/ECO.</tu>
+	<tu
+    xmlns:lang="chs"
+  >停止/启动系统已关闭。 系统按预期工作，且刚刚通过 ECO/自动停止/启动开关被禁用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >Stop/Start 시스템이 꺼져 있습니다. 시스템이 예상대로 작동 중이며 ECO/자동 Stop/Start 스위치를 통해 지금 막 비활성화되었습니다.</tu>
+</tm>

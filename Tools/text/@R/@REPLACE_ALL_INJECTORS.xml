@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@REPLACE_ALL_INJECTORS">
+	<tu xmlns:lang="eng">Replace all existing injectors with new injectors.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Vervang alle bestaande injectors door nieuwe injectors.</tu>
+	<tu xmlns:lang="fra">Remplacez tous les injecteurs existants par des neufs.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle vorhandenen Einspritzventile gegen neue Einspritzventile austauschen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sostituire tutti gli iniettori esistenti con iniettori nuovi.</tu>
+	<tu xmlns:lang="jpn">すべての現存インジェクタを新品と交換しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Substitua todos os injectores existentes por injectores novos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Substitua todos os injetores existentes por novos injetores.</tu>
+	<tu xmlns:lang="rus">Замените все существующие форсунки на новые.</tu>
+	<tu xmlns:lang="esp">Sustituir todos los inyectores existentes.</tu>
+	<tu xmlns:lang="chs">用新的喷油器更换全部现有喷油器。</tu>
+	<tu xmlns:lang="kor">기존 인젝터를 전부 신품 인젝터로 교체하십시오.</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERVINT14_18000MILES_24MNTH">
+	<tu xmlns:lang="eng">Service interval 14  -  18000 miles / 24 months</tu>
+	<tu xmlns:lang="nld">Onderhoudsinterval 14  -  18.000 mijl / 24 maanden</tu>
+	<tu xmlns:lang="fra">Périodicité d'entretien 14  -  18000 miles / 24 mois</tu>
+	<tu xmlns:lang="deu">Wartungsintervall 14  -  18000 Meilen / 24 Monate</tu>
+	<tu
+    xmlns:lang="ita"
+  >Intervallo di servizio (tagliando) 14  -  18000 miglia/24 mesi</tu>
+	<tu xmlns:lang="jpn">サービス インターバル 14  －  18000 マイル／24 ヶ月</tu>
+	<tu xmlns:lang="ptg">Intervalo de revisão 14  -  18000 milhas / 24 meses</tu>
+	<tu xmlns:lang="ptb">Intervalo de Manutenção 14  -  18000 milhas / 24 meses</tu>
+	<tu
+    xmlns:lang="rus"
+  >Интервал периодичности обслуживания 14  -  18000 миль / 24 месяца</tu>
+	<tu xmlns:lang="esp">Intervalo de servicio 14  -  18000 millas / 24 meses</tu>
+	<tu xmlns:lang="chs">维护间隔时间 14  -  18000 英里/24 个月</tu>
+	<tu xmlns:lang="kor">서비스 주기 14  -  18000마일/24개월</tu>
+</tm>

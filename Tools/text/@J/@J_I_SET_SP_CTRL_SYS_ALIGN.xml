@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_SP_CTRL_SYS_ALIGN">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will set the speed control system into alignment mode</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal het snelheidsregelsysteem in de uitlijnfunctie zetten</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de mettre le régulateur de vitesse en mode d'alignement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Maßnahme wird das Geschwindigkeitsregelungssystem in den Ausrichtungsmodus geschaltet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura imposta il sistema di controllo velocità nella modalità allineamento</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順はスピード コントロール システムをアライメント モードにセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento vai colocar o sistema de controlo de velocidade no modo de alinhamento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento irá definir o sistema de controle de velocidade no modo de alinhamento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта процедура служит для переключения системы круиз-контроля в режим подстройки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento establece el sistema de control de la velocidad en modo de alineación.</tu>
+	<tu xmlns:lang="chs">本程序将令速度控制系统进入校准模式</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 스피드 컨트롤 시스템을 정렬 모드로 설정합니다.</tu>
+</tm>

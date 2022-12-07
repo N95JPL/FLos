@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart207">
+	<tu
+    xmlns:lang="eng"
+  >12 volt primary battery temperature not within acceptable range</tu>
+	<tu
+    xmlns:lang="nld"
+  >De temperatuur van de 12-Volts primaire accu ligt niet binnen het aanvaardbare bereik</tu>
+	<tu
+    xmlns:lang="fra"
+  >Température de la batterie principale 12 volts en dehors de la plage acceptable</tu>
+	<tu
+    xmlns:lang="deu"
+  >Temperatur der 12-Volt-Hauptbatterie nicht innerhalb des zulässigen Bereichs</tu>
+	<tu
+    xmlns:lang="ita"
+  >La temperatura della batteria principale da 12 V non rientra nella gamma consentita</tu>
+	<tu xmlns:lang="jpn">12 ボルト プライマリ バッテリー温度が許容範囲内にない</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temperatura da bateria primária de 12 V fora do intervalo aceitável</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Inibição causada pela temperatura da bateria primária de 12 V fora da faixa aceitável.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Температура основной 12-вольтовой аккумуляторной батареи вне допустимого диапазона</tu>
+	<tu
+    xmlns:lang="esp"
+  >La temperatura de la batería principal de 12 voltios no se encuentra dentro de los límites aceptables</tu>
+	<tu xmlns:lang="chs">12 伏主蓄电池温度不在可接受的范围内</tu>
+	<tu xmlns:lang="kor">기본 12V 배터리 온도가 허용 범위를 벗어남</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PRIV_LOCK_TRUNK_NOT">
+	<tu xmlns:lang="eng">Without private locking  -  Trunk</tu>
+	<tu xmlns:lang="nld">Zonder privévergrendeling  -  Kofferruimte</tu>
+	<tu xmlns:lang="fra">Sans verrouillage privé  -  Coffre</tu>
+	<tu xmlns:lang="deu">Ohne Separatverriegelung  -  Kofferraum</tu>
+	<tu xmlns:lang="ita">Senza bloccaggio privato  -  Bagagliaio</tu>
+	<tu xmlns:lang="jpn">プライベート ロッキングなし  －  トランク</tu>
+	<tu xmlns:lang="ptg">Sem trancagem privada  -  Bagageira</tu>
+	<tu xmlns:lang="ptb">Sem travamento privado  -  Porta-malas</tu>
+	<tu xmlns:lang="rus">Без индивидуального запирания  -  Багажник</tu>
+	<tu xmlns:lang="esp">Sin cierre privado  -  Maletero</tu>
+	<tu xmlns:lang="chs">无私人锁闭功能  -  行李箱</tu>
+	<tu xmlns:lang="kor">개인 잠금 기능 없음  -  트렁크</tu>
+</tm>

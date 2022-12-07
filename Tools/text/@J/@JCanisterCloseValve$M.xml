@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JCanisterCloseValve$M">
+	<tu xmlns:lang="eng">Canister close valve.</tu>
+	<tu xmlns:lang="nld">Afsluitklep van koolstoffilter.</tu>
+	<tu xmlns:lang="fra">Clapet de fermeture du filtre à charbon actif</tu>
+	<tu xmlns:lang="deu">Behälterschließventil.</tu>
+	<tu xmlns:lang="ita">Valvola chiusura filtro carboni attivi.</tu>
+	<tu xmlns:lang="jpn">キャニスタ クローズ バルブ</tu>
+	<tu xmlns:lang="ptg">Válvula de fecho do depósito.</tu>
+	<tu xmlns:lang="ptb">Válvula de fechamento do recipiente.</tu>
+	<tu xmlns:lang="rus">Запирающий клапан угольного адсорбера.</tu>
+	<tu xmlns:lang="esp">Válvula de cierre del filtro de carbón.</tu>
+	<tu xmlns:lang="chs">炭罐闭合阀。</tu>
+	<tu xmlns:lang="kor">캐니스터 폐쇄 밸브</tu>
+</tm>

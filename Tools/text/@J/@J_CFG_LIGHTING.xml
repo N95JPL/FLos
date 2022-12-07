@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CFG_LIGHTING">
+	<tu xmlns:lang="eng">Lighting</tu>
+	<tu xmlns:lang="nld">Verlichting</tu>
+	<tu xmlns:lang="fra">Eclairage</tu>
+	<tu xmlns:lang="deu">Beleuchtung</tu>
+	<tu xmlns:lang="ita">Luci</tu>
+	<tu xmlns:lang="jpn">ライト</tu>
+	<tu xmlns:lang="ptg">Iluminação</tu>
+	<tu xmlns:lang="ptb">Iluminação</tu>
+	<tu xmlns:lang="rus">Освещение</tu>
+	<tu xmlns:lang="esp">Alumbrado</tu>
+	<tu xmlns:lang="chs">照明</tu>
+	<tu xmlns:lang="kor">라이팅</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_IS_SEC_LED_OFF">
+	<tu xmlns:lang="eng">Is the security LED off?</tu>
+	<tu xmlns:lang="nld">Is de beveiligings LED uit?</tu>
+	<tu xmlns:lang="fra">La diode LED de sécurité anti-vol est-elle eteinte ?</tu>
+	<tu xmlns:lang="deu">Ist die LED sicherheit aus?</tu>
+	<tu xmlns:lang="ita">Il LED del sistema antifurto è off?</tu>
+	<tu xmlns:lang="jpn">セキュリティLEDはオフですか？</tu>
+	<tu xmlns:lang="ptg">O LED de segurança está apagado?</tu>
+	<tu xmlns:lang="ptb">O LED de segurança está apagado?</tu>
+	<tu xmlns:lang="rus">Светодиодный индикатор охранной системы не горит?</tu>
+	<tu xmlns:lang="esp">¿Está apagado el LED del sistema de seguridad?</tu>
+	<tu xmlns:lang="chs">安全 LED 是否关闭？</tu>
+	<tu xmlns:lang="kor">보안 LED가 꺼집니까?</tu>
+</tm>

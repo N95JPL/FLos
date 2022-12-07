@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRIP_UNITS_RESET">
+	<tu xmlns:lang="eng">Trip units reset</tu>
+	<tu xmlns:lang="nld">Reset boordcomputereenheden</tu>
+	<tu xmlns:lang="fra">Réinitialisation des unités de distance </tu>
+	<tu xmlns:lang="deu">Rücksetzung - Einheiten des Tageskilometerzählers</tu>
+	<tu xmlns:lang="ita">Unità viaggio reimpostate</tu>
+	<tu xmlns:lang="jpn">トリップ単位のリセット</tu>
+	<tu xmlns:lang="ptg">Reposição das unidades do conta-distâncias</tu>
+	<tu xmlns:lang="ptb">Reajuste de unidades de percurso</tu>
+	<tu xmlns:lang="rus">Сброс единиц измерения  трип-компьютера</tu>
+	<tu xmlns:lang="esp">Puesta a cero de unidades de contador</tu>
+	<tu xmlns:lang="chs">里程单位复位</tu>
+	<tu xmlns:lang="kor">트립 유닛 재설정</tu>
+</tm>

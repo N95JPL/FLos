@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_0A">
+	<tu xmlns:lang="eng">0x0A : Currently learning pressure point 1.</tu>
+	<tu xmlns:lang="nld">0x0A : momenteel bezig met inleren van drukpunt 1.</tu>
+	<tu xmlns:lang="fra">0x0A : Apprentissage en cours pression point 1.</tu>
+	<tu xmlns:lang="deu">0x0A : Aktuelle Erlernung Druckpunkt 1.</tu>
+	<tu
+    xmlns:lang="ita"
+  >0x0A : attualmente in corso apprendimento punto pressione 1.</tu>
+	<tu xmlns:lang="jpn">0x0A : 現在の学習プレッシャ ポイント 1。</tu>
+	<tu xmlns:lang="ptg">0x0A : A programar actualmente o ponto de pressão 1.</tu>
+	<tu xmlns:lang="ptb">0X0A : Atualmente aprendizagem do ponto de pressão 1.</tu>
+	<tu
+    xmlns:lang="rus"
+  >0x0A : Точка 1 текущего контрольного значения давления.</tu>
+	<tu xmlns:lang="esp">0x0A: Aprendiendo el punto de presión 1.</tu>
+	<tu xmlns:lang="chs">0x0A： 当前记忆压力点1。</tu>
+	<tu xmlns:lang="kor">0x0A : 현재의 학습 압력 지점 1.</tu>
+</tm>

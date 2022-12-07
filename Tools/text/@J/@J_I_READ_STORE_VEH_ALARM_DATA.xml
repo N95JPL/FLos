@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_READ_STORE_VEH_ALARM_DATA">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will read and store the vehicle alarm trigger history data</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal de historische gegevens over de oorzaken voor het laten afgaan van het alarm uitlezen en opslaan</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de relever et d'enregistrer les données sur l'historique de déclenchement de l'alarme du véhicule</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Maßnahme werden die Verlaufsdaten zur Alarmauslösung ausgelesen und gespeichert</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura legge e memorizza i dati storici di scatto degli allarmi del veicolo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順は車両アラーム トリガー履歴データを読み取って保存します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento vai ler e guardar os dados históricos dos alarmes desencadeados no veículo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento vai ler e armazenar os dados históricos do acionador do alarme do veículo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная процедура служит для считывания и сохранения данных в журнале срабатывания сигнализации автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento lee y memoriza los datos del historial de activación de la alarma del vehículo</tu>
+	<tu xmlns:lang="chs">本程序将读取并保存车辆报警触发器历史数据</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 차량 알람 트리거 기록 데이터를 읽고 저장합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PARTS_DOWNLOAD_REQD">
+	<tu xmlns:lang="eng">One or more software parts are available to be downloaded, therefore this will require all software parts to be downloaded</tu>
+	<tu xmlns:lang="nld">Downloaden van een of meerdere softwareonderdelen is beschikbaar, dus alle softwareonderdelen moeten worden gedownload</tu>
+	<tu xmlns:lang="fra">Un ou plusieurs éléments logiciels sont prêts à être téléchargés ; il faudra donce télécharger tous les éléments logiciels</tu>
+	<tu xmlns:lang="deu">Ein oder mehrere Teile der Software stehen für das Herunterladen zur Verfügung. Deshalb müssen alle Teile der Software heruntergeladen werden.</tu>
+	<tu xmlns:lang="ita">Una o più parti di software sono disponibili per lo scaricamento, pertanto sarà necessario scaricare tutte le parti di software</tu>
+	<tu xmlns:lang="jpn">ソ\フトウェアの一部またはそれ以上をダウンロードして利用できますが、それにはソ\フトウェア全体をダウンロードする必要があります</tu>
+	<tu xmlns:lang="ptg">Estão disponíveis para transferência uma ou mais partes de software, o que implica, portanto, descarregar todas as partes do software</tu>
+	<tu xmlns:lang="ptb">Uma ou mais partes de software estão disponíveis para serem baixadas, portanto, isso exigirá que todas as partes de software sejam baixadas</tu>
+	<tu xmlns:lang="rus">Доступна загрузка одного или нескольких компонентов программного обеспечения, но для этого необходимо загрузить все компоненты</tu>
+	<tu xmlns:lang="esp">Hay uno o varios componentes de software disponibles para descarga (esto requiere descargar todos los componentes de software)</tu>
+	<tu xmlns:lang="chs">有一个或多个软件组件可供下载，因此这一程序将需要下载全部软件组件</tu>
+	<tu xmlns:lang="kor">하나 이상의 소프트웨어 파트를 다운로드할 수 있으므로, 이를 위해서는 모든 소프트웨어 파트를 다운로드해야 합니다.</tu>
+</tm>

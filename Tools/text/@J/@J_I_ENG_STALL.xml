@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENG_STALL">
+	<tu xmlns:lang="eng">The engine stalled.</tu>
+	<tu xmlns:lang="nld">De motor is afgeslagen.</tu>
+	<tu xmlns:lang="fra">Le moteur a calé.</tu>
+	<tu xmlns:lang="deu">Der Motor ist stehengeblieben.</tu>
+	<tu xmlns:lang="ita">Motore in stallo.</tu>
+	<tu xmlns:lang="jpn">エンジンがストールしました。</tu>
+	<tu xmlns:lang="ptg">O motor foi abaixo.</tu>
+	<tu xmlns:lang="ptb">O motor parou.</tu>
+	<tu xmlns:lang="rus">Двигатель заглох.</tu>
+	<tu xmlns:lang="esp">El motor se caló.</tu>
+	<tu xmlns:lang="chs">发动机已失速。</tu>
+	<tu xmlns:lang="kor">엔진이 멈춤</tu>
+</tm>

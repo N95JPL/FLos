@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_CLOS_DRI_DOOR_LATCH">
+	<tu xmlns:lang="eng">Close the driver's door latch</tu>
+	<tu xmlns:lang="nld">SLUIT de vergrendeling van de bestuurdersdeur</tu>
+	<tu xmlns:lang="fra">FERMER le loquet de la porte du conducteur</tu>
+	<tu xmlns:lang="deu">Fahrertürverriegelung SCHLIESSEN</tu>
+	<tu xmlns:lang="ita">CHIUDERE il chiavistello della porta guida</tu>
+	<tu xmlns:lang="jpn">　ﾄﾞﾗｲﾊﾞ－側のﾄﾞｱ・ﾗｯﾁを閉鎖して下さい。</tu>
+	<tu xmlns:lang="ptg">Fechar o trinco da porta do condutor</tu>
+	<tu xmlns:lang="ptb">Feche a trava da porta do motorista</tu>
+	<tu xmlns:lang="rus">Закройте защелку двери водителя</tu>
+	<tu xmlns:lang="esp">CERRAR el pestillo de la puerta chófer</tu>
+	<tu xmlns:lang="chs">合上驾驶员一侧车门门锁</tu>
+	<tu xmlns:lang="kor">운전석 도어 래치를 닫으십시오.</tu>
+</tm>

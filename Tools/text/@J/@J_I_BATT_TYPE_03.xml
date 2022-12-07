@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_TYPE_03">
+	<tu xmlns:lang="eng">T7 80Ah 700 cold cranking ampere</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stroomsterkte bij aanslaan van motor bij koude start 700 A, T7 80Ah </tu>
+	<tu xmlns:lang="fra">T7 80 Ah 700 ampères au lancement à froid </tu>
+	<tu xmlns:lang="deu">T7 80 Ah 700 Kaltstartampere </tu>
+	<tu xmlns:lang="ita">Amperaggio avviamento a freddo T7 80Ah 700</tu>
+	<tu xmlns:lang="jpn">T7 80Ah 700 コールド クランキング アンペア</tu>
+	<tu xmlns:lang="ptg">T7 80Ah 700 amperagem de arranque a frio</tu>
+	<tu xmlns:lang="ptb">Amperagem de partida a frio T7 80Ah 700</tu>
+	<tu xmlns:lang="rus">T7 80 Ач, ток холодного пуска двигателя 700 А </tu>
+	<tu xmlns:lang="esp">T7 80Ah con 700 A de capacidad de arranque en frío</tu>
+	<tu xmlns:lang="chs">T7 80Ah 700 冷起动电流</tu>
+	<tu xmlns:lang="kor">T7 80Ah 700 냉간 크랭킹 암페어</tu>
+</tm>

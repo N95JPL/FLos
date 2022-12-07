@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UPPER_LIMIT">
+	<tu xmlns:lang="eng">Upper limit</tu>
+	<tu xmlns:lang="nld">Bovengrens</tu>
+	<tu xmlns:lang="fra">Limite supérieure.</tu>
+	<tu xmlns:lang="deu">Obere Grenze</tu>
+	<tu xmlns:lang="ita">Limite superiore</tu>
+	<tu xmlns:lang="jpn">アッパー リミット</tu>
+	<tu xmlns:lang="ptg">Limite superior</tu>
+	<tu xmlns:lang="ptb">Limite superior</tu>
+	<tu xmlns:lang="rus">Верхний предел</tu>
+	<tu xmlns:lang="esp">Límite superior</tu>
+	<tu xmlns:lang="chs">上限</tu>
+	<tu xmlns:lang="kor">상한</tu>
+</tm>

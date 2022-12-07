@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROC_STAT_GEAR_SHFT_L">
+	<tu
+    xmlns:lang="eng"
+  >Please carry out the following procedures for the stationary gear shift learn routine:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer de volgende procedures uit voor de inleerroutine van het schakelen bij stilstand:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez suivre les procédures suivantes pour le programme d'apprentissage du sélecteur de vitesse à l'arrêt :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte die folgenden Maßnahmen für die Schalt-Lernroutine ?Stand? durchführen:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Si prega di attuare le procedure sotto riportate per la procedura di apprendimento del selettore cambio da fermi:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >停止中のギア シフト学習ルーチンとして、次の手順を実行しなさい：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Efectue os procedimentos seguintes para a rotina de programação das mudanças com o veículo parado:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Execute os seguintes procedimentos para a rotina de seleção de marchas com o veículo parado:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполните следующие процедуры для операции самонастройки переключения передач на неподвижном автомобиле:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Realizar los siguientes procedimientos para la rutina de aprendizaje del cambio con el vehículo parado:</tu>
+	<tu xmlns:lang="chs">请执行下列用于车辆静止不动时换档记忆的常规程序：</tu>
+	<tu
+    xmlns:lang="kor"
+  >정지 상태의 기어 변속 학습 루틴에 대해 다음 절차를 수행하십시오.</tu>
+</tm>

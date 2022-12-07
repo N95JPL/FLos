@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_NO_VALIDITY_FAILURES">
+	<tu xmlns:lang="eng">No validity failures present</tu>
+	<tu xmlns:lang="nld">Geen geldigheidsstoringen aanwezig</tu>
+	<tu xmlns:lang="fra">Aucun échec de validité présent</tu>
+	<tu xmlns:lang="deu">Keine Validitätsfehler vorhanden</tu>
+	<tu xmlns:lang="ita">Non sono presenti guasti dovuti alla validità</tu>
+	<tu xmlns:lang="jpn">妥当性のない不具合は現在ありません</tu>
+	<tu xmlns:lang="ptg">Não existem falhas relacionadas com validade</tu>
+	<tu xmlns:lang="ptb">Nenhuma falha de validade presente</tu>
+	<tu xmlns:lang="rus">Ошибки достоверности отсутствуют</tu>
+	<tu xmlns:lang="esp">No hay fallos de validez</tu>
+	<tu xmlns:lang="chs">不存在任何验证失败</tu>
+	<tu xmlns:lang="kor">유효성 오류가 존재하지 않음</tu>
+</tm>

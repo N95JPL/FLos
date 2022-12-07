@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_STOPLIGHTS">
+	<tu xmlns:lang="eng">Stop lamps</tu>
+	<tu xmlns:lang="nld">Remlichten</tu>
+	<tu xmlns:lang="fra">Feux stop</tu>
+	<tu xmlns:lang="deu">Bremsleuchten</tu>
+	<tu xmlns:lang="ita">Luci di arresto</tu>
+	<tu xmlns:lang="jpn">ストップ ランプ</tu>
+	<tu xmlns:lang="ptg">Luzes de travagem</tu>
+	<tu xmlns:lang="ptb">Luzes de freio</tu>
+	<tu xmlns:lang="rus">Стоп-сигналы</tu>
+	<tu xmlns:lang="esp">Luces pare</tu>
+	<tu xmlns:lang="chs">刹车灯</tu>
+	<tu xmlns:lang="kor">스톱 램프</tu>
+</tm>

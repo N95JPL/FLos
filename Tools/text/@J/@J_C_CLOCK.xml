@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_CLOCK">
+	<tu xmlns:lang="eng">Clock</tu>
+	<tu xmlns:lang="nld">Klok</tu>
+	<tu xmlns:lang="fra">Horloge</tu>
+	<tu xmlns:lang="deu">Uhr</tu>
+	<tu xmlns:lang="ita">Orologio</tu>
+	<tu xmlns:lang="jpn">ｸﾛｯｸ</tu>
+	<tu xmlns:lang="ptg">Relógio</tu>
+	<tu xmlns:lang="ptb">Relógio</tu>
+	<tu xmlns:lang="rus">Часы</tu>
+	<tu xmlns:lang="esp">Reloj</tu>
+	<tu xmlns:lang="chs">时钟</tu>
+	<tu xmlns:lang="kor">시계</tu>
+</tm>

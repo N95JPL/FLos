@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TIME_UNITS">
+	<tu xmlns:lang="eng">Time units</tu>
+	<tu xmlns:lang="nld">Tijdseenheden.</tu>
+	<tu xmlns:lang="fra">Unités horaires.</tu>
+	<tu xmlns:lang="deu">Zeiteinheiten</tu>
+	<tu xmlns:lang="ita">Unità di tempo</tu>
+	<tu xmlns:lang="jpn">時間単位</tu>
+	<tu xmlns:lang="ptg">Unidades de tempo</tu>
+	<tu xmlns:lang="ptb">Unidades de tempo</tu>
+	<tu xmlns:lang="rus">Единицы измерения времени</tu>
+	<tu xmlns:lang="esp">Unidades de tiempo</tu>
+	<tu xmlns:lang="chs">时间单位</tu>
+	<tu xmlns:lang="kor">시간 단위</tu>
+</tm>

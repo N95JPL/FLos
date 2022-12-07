@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_TERRAIN_OPTIMIZATION">
+	<tu xmlns:lang="eng">204-06 ride and handling optimization.</tu>
+	<tu
+    xmlns:lang="nld"
+  >204-06 optimalisatie van passagierscomfort en wegligging.</tu>
+	<tu
+    xmlns:lang="fra"
+  >204-06 optimisation du confort de suspension et du comportement.</tu>
+	<tu xmlns:lang="deu">204-06 Optimierung von Fahrverhalten und Fahrkomfort.</tu>
+	<tu
+    xmlns:lang="ita"
+  >204-06 ottimizzazione condizioni di guida e maneggevolezza.</tu>
+	<tu xmlns:lang="jpn">204-06 ライドおよびハンドリング最適化</tu>
+	<tu xmlns:lang="ptg">Optimização de andamento e comportamento 204-06.</tu>
+	<tu xmlns:lang="ptb">204-06 Otimização de direção e manuseio.</tu>
+	<tu xmlns:lang="rus">Раздел 204-06 'Оптимизация езды и управления'.</tu>
+	<tu xmlns:lang="esp">204-06 optimización de la marcha y maniobrabilidad.</tu>
+	<tu xmlns:lang="chs">204 - 06 行驶及操纵优化。</tu>
+	<tu xmlns:lang="kor">204-06 승차감 및 핸들링 최적화</tu>
+</tm>

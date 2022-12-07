@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CM_KEY_WRITE">
+	<tu
+    xmlns:lang="eng"
+  >The following process will check the validity of the control module security status, this could involve multiple ignition cycles, ensure all on screen prompts are followed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij de volgende procedure wordt de geldigheid van de beveiligingsstatus van de regelmodule gecontroleerd. Het is mogelijk dat het contact van het voertuig hiertoe meerdere malen moet worden in- en uitgeschakeld. Volg alle instructies op het scherm.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le processus suivant vérifiera la validité de l'état de sécurité du module de commande, ce qui pourra nécessiter plusieurs coupures et rétablissements du contact ; veuillez suivre toutes les invites à l'écran.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Im folgenden Arbeitsgang wird die Gültigkeit des Sicherheitsstatus des Steuergeräts überprüft. Hierzu kann mehrmaliges Ein- und Ausschalten der Zündung gehören; sicherstellen, dass allen Bildschirmaufforderungen gefolgt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La procedura seguente controlla la validità dello stato di sicurezza del modulo di comando e potrebbe comportare molteplici cicli di accensione; attenersi scrupolosamente a tutte le istruzioni visualizzate.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の手順でコントロール モジュールのセキュリティ ステータスの正当性がチェックされます。これには複数回のイグニション サイクルが含まれます。必ず画面の全指示に従いなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O processo que se segue verifica a validade do estado de segurança do módulo de comando, podendo incluir vários ciclos de ignição; certifique-se de que segue todas as indicações do ecrã.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O processo a seguir irá verificar a validade do status de segurança do módulo de controle, o que poderá incluir vários ciclos de ignição, certifique-se de que todas as instruções na tela sejam seguidas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующий процесс выполнит проверку состояния защиты блока управления и включает в себя серию циклов включения зажигания, в ходе выполнения которых требуется следовать появляющимся на экране указаниям.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El siguiente proceso comprobará la validez del estado de seguridad del módulo de control. Esto puede requerir varios ciclos de encendido. Debe asegurarse de seguir todas las indicaciones que aparezcan en pantalla.</tu>
+	<tu
+    xmlns:lang="chs"
+  >下列过程将检查控制模块防盗状态的有效性，该过程可能涉及多个点火循环。确保遵循屏幕上出现的所有提示。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 프로세스에서는 컨트롤 모듈 보안 상태의 유효성을 점검하고, 이에는 여러 점화 사이클이 관련될 수 있으므로 화면에 표시되는 모든 지시를 준수하는지 확인하십시오.</tu>
+</tm>

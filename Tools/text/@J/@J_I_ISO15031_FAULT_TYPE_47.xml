@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_47">
+	<tu xmlns:lang="eng">System internal failure - watchdog/safety failure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Intern defect in systeem - fout in 'watchdog'/beveiliging.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaillance interne du système - défaut de chien de garde / sécurité.</tu>
+	<tu xmlns:lang="deu">Interne Systemstörung - Watchdog-/Sicherheitsfehler.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto interno sistema - guasto di circuito di sorveglianza/sicurezza.</tu>
+	<tu xmlns:lang="jpn">システム内部故障 － 監視機能\／セーフティ故障</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha interna no sistema - falha de vigilância/segurança.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha interna do sistema - falha de segurança/watchdog.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Внутренний отказ системы - неисправность сторожевой /охранной схемы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo interno del sistema: fallo del circuito de supervisión ('watchdog')/sistema de seguridad.</tu>
+	<tu xmlns:lang="chs">系统内部故障 - 看门狗/安全故障。</tu>
+	<tu xmlns:lang="kor">시스템 내부 고장 - 감시 장치/안전 장치 고장</tu>
+</tm>

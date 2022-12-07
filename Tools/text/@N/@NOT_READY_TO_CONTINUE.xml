@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NOT_READY_TO_CONTINUE">
+	<tu xmlns:lang="eng">Not ready to continue</tu>
+	<tu xmlns:lang="nld">Niet gereed om verder te gaan</tu>
+	<tu xmlns:lang="fra">Pas prêt à continuer</tu>
+	<tu xmlns:lang="deu">Nicht bereit zum Fortsetzen</tu>
+	<tu xmlns:lang="ita">Non pronto per continuare</tu>
+	<tu xmlns:lang="jpn">続行する準備ができていません</tu>
+	<tu xmlns:lang="ptg">Não pronto para continuar</tu>
+	<tu xmlns:lang="ptb">Não está pronto para continuar</tu>
+	<tu xmlns:lang="rus">Не готово к продолжению</tu>
+	<tu xmlns:lang="esp">No está listo para continuar</tu>
+	<tu xmlns:lang="chs">未准备好继续</tu>
+	<tu xmlns:lang="kor">계속할 준비가 되지 않음</tu>
+</tm>

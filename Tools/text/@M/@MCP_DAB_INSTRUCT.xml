@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_DAB_INSTRUCT">
+	<tu
+    xmlns:lang="eng"
+  >This application must be used to add or remove the digital radio accessory unit</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing is vereist om de digitale-radioaccessoire toe te voegen of te verwijderen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application doit être utilisée pour ajouter ou supprimer le module de radio numérique accessoire</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung muss zum Hinzufügen und Entfernen des Digitalradio-Zubehörgeräts verwendet werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Utilizzare questa applicazione per aggiungere o rimuovere l'unità accessori autoradio digitale</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、デジタル ラジオ アクセサリ ユニットを追加または削除するために使用しなければならない。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação tem de ser utilizada para adicionar ou remover a unidade de rádio digital acessória</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esta aplicação deve ser usada para instalar ou remover a unidade do acessório de rádio digital</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение необходимо использовать для добавления или удаления дополнительного блока цифрового радиовещания</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación se debe utilizar para añadir o eliminar el accesorio de radio digital</tu>
+	<tu xmlns:lang="chs">必须使用该应用添加或删除数字无线电附件单元</tu>
+	<tu
+    xmlns:lang="kor"
+  >디지털 라디오 액세서리 유닛을 추가 및 제거할 때는 반드시 이 애플리케이션을 사용해야 합니다.</tu>
+</tm>

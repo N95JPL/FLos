@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_DIE_PART_MILE">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required when a diesel particle filter is replaced, this resets the soot mass/time and mileage since the last change.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig wanneer u een dieseldeeltjesfilter vervangt, hij zal de koolaanslagmassa/-tijd en kilometerstand terugstellen, sinds het de laatste keer is vervangen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé lorsqu'un filtre à particules diesel est remplacé ; il permet la réinitialisation du volume/de la durée des suies et du kilométrage depuis le dernier remplacement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, wenn der Dieselrußfilter ersetzt wird - hierdurch wird die Rußmenge/Zeit und Laufleistung seit letztem Wechsel zurückgesetzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta quando si sostituisce un filtro antiparticolato per diesel per azzerare massa fuliggine/tempo e chilometraggio dall'ultimo cambio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、ディーゼル微粒子フィルター (DPF) が交換されたときに必要であり、前回の交換後の走行距離および煤煙のマス／時間をリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária quando se substitui um filtro de partículas do sistema Diesel; reinicializa o tempo/massa de fuligem e a quilometragem desde a última substituição.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária quando um filtro de partículas de diesel for substituído, isso redefine a massa de fuligem/tempo e quilometragem desde a última troca.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция необходима при замене противосажевого фильтра дизельного двигателя и используется для сброса значений массы сажи/времени и данных о пробеге автомобиля, полученных с момента предыдущей замены фильтра.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse al sustituir el filtro de partículas Diesel; esto pone a cero la masa de carbonilla/el tiempo y kilometraje desde la última sustitución.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果更换了柴油微粒过滤器，则需要执行本程序，该程序重置自上次更改以来的碳烟质量/时间和里程。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 디젤 미립자 필터를 교체할 때 필요하고, 그을음 질량/마지막 변경 이후의 시간과 주행 거리를 재설정합니다.</tu>
+</tm>

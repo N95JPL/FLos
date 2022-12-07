@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PrintResultsFailed">
+	<tu xmlns:lang="eng">Failed to print results</tu>
+	<tu xmlns:lang="nld">Resultaten afdrukken mislukt</tu>
+	<tu xmlns:lang="fra">Échec de l'impression des résultats</tu>
+	<tu xmlns:lang="deu">Fehler beim Ausdrucken der Ergebnisse</tu>
+	<tu xmlns:lang="ita">Impossibile stampare i risultati</tu>
+	<tu xmlns:lang="jpn">結果の印刷に失敗しました</tu>
+	<tu xmlns:lang="ptg">Não foi possível imprimir os resultados</tu>
+	<tu xmlns:lang="ptb">Falha da impressão dos resultados</tu>
+	<tu xmlns:lang="rus">Не удалось распечатать результаты</tu>
+	<tu xmlns:lang="esp">No se pudieron imprimir los resultados</tu>
+	<tu xmlns:lang="chs">打印结果失败</tu>
+	<tu xmlns:lang="kor">결과 인쇄 실패</tu>
+</tm>

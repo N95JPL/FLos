@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONT_KEY_NOT_USABLE">
+	<tu
+    xmlns:lang="eng"
+  >If you continue, keys that are not present will not be usable.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als u doorgaat, zijn sleutels die niet aanwezig zijn niet bruikbaar.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si vous continuez, les clés qui ne sont pas présentes seront inutilisables.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls Sie fortfahren, werden nicht vorhandene Schlüssel nicht mehr benutzbar sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se si sceglie di continuare, le chiavi che non sono presenti non saranno utilizzabili.</tu>
+	<tu xmlns:lang="jpn">続行すると、現在ないキーは使用できなくなります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se continuar, as chaves que não estão presentes ficarão inutilizadas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Caso opte por continuar, as chaves ausentes não poderão ser utilizadas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В случае продолжения использование отсутствующих ключей будет невозможно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se continúa, no se podrán utilizar las llaves que no estén presentes.</tu>
+	<tu xmlns:lang="chs">如果您继续，没有出现的密钥将不能使用。</tu>
+	<tu xmlns:lang="kor">계속할 경우 존재하지 않는 키는 사용할 수 없습니다.</tu>
+</tm>

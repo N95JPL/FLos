@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DEG_F">
+	<tu xmlns:lang="eng">°F (Degrees Fahrenheit)</tu>
+	<tu xmlns:lang="nld">Graden Fahrenheit</tu>
+	<tu xmlns:lang="fra">°F</tu>
+	<tu xmlns:lang="deu">Grad Fahrenheit</tu>
+	<tu xmlns:lang="ita">Gradi Fahrenheit</tu>
+	<tu xmlns:lang="jpn">華氏度数</tu>
+	<tu xmlns:lang="ptg">Graus Fahrenheit</tu>
+	<tu xmlns:lang="ptb">°F (graus Fahrenheit)</tu>
+	<tu xmlns:lang="rus">Градусы Фаренгейта</tu>
+	<tu xmlns:lang="esp">Grados Fahrenheit</tu>
+	<tu xmlns:lang="chs">华氏度</tu>
+	<tu xmlns:lang="kor">°F(화씨)</tu>
+</tm>

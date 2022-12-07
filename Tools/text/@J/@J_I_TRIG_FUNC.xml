@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRIG_FUNC">
+	<tu xmlns:lang="eng">Retrigger functionality</tu>
+	<tu xmlns:lang="nld">Functie voor opnieuw laten afgaan</tu>
+	<tu xmlns:lang="fra">Fonction de redéclenchement</tu>
+	<tu xmlns:lang="deu">Funktionalität erneute Auslösung</tu>
+	<tu xmlns:lang="ita">Funzionalità nuovo scatto</tu>
+	<tu xmlns:lang="jpn">再トリガー機能\</tu>
+	<tu xmlns:lang="ptg">Funcionalidade de reactivação</tu>
+	<tu xmlns:lang="ptb">Funcionalidade de reacionamento</tu>
+	<tu xmlns:lang="rus">Функция повторного запуска триггера</tu>
+	<tu xmlns:lang="esp">Funcionalidad del reactivador</tu>
+	<tu xmlns:lang="chs">再触发器功能</tu>
+	<tu xmlns:lang="kor">재트리거 기능</tu>
+</tm>

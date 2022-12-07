@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SOLAR_SENSOR_ZONE_SINGLE">
+	<tu xmlns:lang="eng">Single zone solar sensor</tu>
+	<tu xmlns:lang="nld">Zonnesensor met één zone</tu>
+	<tu xmlns:lang="fra">Capteur solaire à zone unique</tu>
+	<tu xmlns:lang="deu">Einzonen-Solarsensor</tu>
+	<tu xmlns:lang="ita">Sensore solare a zona singola</tu>
+	<tu xmlns:lang="jpn">シングル ゾーン ソ\ーラー センサー</tu>
+	<tu xmlns:lang="ptg">Sensor solar de zona única</tu>
+	<tu xmlns:lang="ptb">Sensor solar de zona única</tu>
+	<tu xmlns:lang="rus">Однозонный датчик солнечного света</tu>
+	<tu xmlns:lang="esp">Sensor solar de una zona </tu>
+	<tu xmlns:lang="chs">单区阳光传感器</tu>
+	<tu xmlns:lang="kor">싱글 존 솔라 센서</tu>
+</tm>

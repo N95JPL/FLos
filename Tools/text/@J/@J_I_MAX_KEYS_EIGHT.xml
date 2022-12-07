@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MAX_KEYS_EIGHT">
+	<tu xmlns:lang="eng">The maximum number of keys allowed is 8.</tu>
+	<tu xmlns:lang="nld">Het maximum aantal toegestane sleutels is 8.</tu>
+	<tu xmlns:lang="fra">Le nombre maximum de clés autorisé est 8.</tu>
+	<tu xmlns:lang="deu">Die maximale Anzahl zulässiger Schlüssel betägt 8.</tu>
+	<tu xmlns:lang="ita">Numero massimo di chiavi consentite: 8.</tu>
+	<tu xmlns:lang="jpn">使用可能\なキーは最大 8 個です。</tu>
+	<tu xmlns:lang="ptg">O número máximo de chaves permitido é de 8.</tu>
+	<tu xmlns:lang="ptb">O número máximo de chaves permitido é 8.</tu>
+	<tu xmlns:lang="rus">Допускается не более 8 ключей.</tu>
+	<tu xmlns:lang="esp">El número máximo de llaves admitido es 8.</tu>
+	<tu xmlns:lang="chs">允许的最多钥匙数为 8。</tu>
+	<tu xmlns:lang="kor">허용되는 최대 키 수는 8개입니다.</tu>
+</tm>

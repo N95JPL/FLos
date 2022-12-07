@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SFT_STRT">
+	<tu xmlns:lang="eng">Soft start.</tu>
+	<tu xmlns:lang="nld">Soft-start.</tu>
+	<tu xmlns:lang="fra">Démarrage doux.</tu>
+	<tu xmlns:lang="deu">Sequenzieller Anlauf.</tu>
+	<tu xmlns:lang="ita">Avviamento senza carico.</tu>
+	<tu xmlns:lang="jpn">ソ\フト スタート</tu>
+	<tu xmlns:lang="ptg">Arranque suave.</tu>
+	<tu xmlns:lang="ptb">Partida suave.</tu>
+	<tu xmlns:lang="rus">Плавный запуск.</tu>
+	<tu xmlns:lang="esp">Arranque suave.</tu>
+	<tu xmlns:lang="chs">软起动。</tu>
+	<tu xmlns:lang="kor">부드러운 시작</tu>
+</tm>

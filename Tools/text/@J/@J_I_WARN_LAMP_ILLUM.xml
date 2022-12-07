@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WARN_LAMP_ILLUM">
+	<tu
+    xmlns:lang="eng"
+  >The warning lamp will remain illuminated with the restraints system deactivated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het waarschuwingslampje zal blijven branden terwijl het beveiligingssysteem voor inzittenden is uitgeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le témoin d'avertissement reste allumé avec le système de retenue désactivé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Warnleuchte bleibt bei deaktiviertem Rückhaltesystem eingeschaltet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La spia resterà accesa con il sistema di sicurezza occupanti disattivato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >拘束システム作動停止の状態では警告灯が点灯したままになります。</tu>
+	<tu xmlns:lang="ptg">Estado da plausibilidade da ignição</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A lâmpada de advertência permanecerá acesa com o sistema de retenções desativado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сигнальный индикатор будет гореть при выключении системы пассивной безопасности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El testigo permanecerá encendido estando desactivado el sistema de retención.</tu>
+	<tu xmlns:lang="chs">约束系统关闭后，报警灯将一直点亮。</tu>
+	<tu
+    xmlns:lang="kor"
+  >경고등은 에어백 시스템이 비활성화된 상태에서 계속 켜진 채로 남습니다.</tu>
+</tm>

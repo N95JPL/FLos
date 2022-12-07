@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BrakeVacuumStatus">
+	<tu xmlns:lang="eng">Brake vacuum status</tu>
+	<tu xmlns:lang="nld">Status van remvacuüm</tu>
+	<tu xmlns:lang="fra">État de dépression du système de freinage</tu>
+	<tu xmlns:lang="deu">Bremsunterdruckstatus</tu>
+	<tu xmlns:lang="ita">Stato di depressione del freno</tu>
+	<tu xmlns:lang="jpn">ブレーキ バキューム ステータス</tu>
+	<tu xmlns:lang="ptg">Estado do vácuo dos travões</tu>
+	<tu xmlns:lang="ptb">Status do vácuo do freio</tu>
+	<tu xmlns:lang="rus">Состояние вакуумного усилителя тормозов</tu>
+	<tu xmlns:lang="esp">Estado de vacío del sistema de frenos</tu>
+	<tu xmlns:lang="chs">制动真空状态</tu>
+	<tu xmlns:lang="kor">브레이크 진공 상태</tu>
+</tm>

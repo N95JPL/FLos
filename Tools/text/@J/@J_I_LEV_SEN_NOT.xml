@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LEV_SEN_NOT">
+	<tu xmlns:lang="eng">Without level sensor</tu>
+	<tu xmlns:lang="nld">Zonder peilsensor</tu>
+	<tu xmlns:lang="fra">Sans capteur de niveau</tu>
+	<tu xmlns:lang="deu">Ohne Füllstandssensor</tu>
+	<tu xmlns:lang="ita">Senza sensore di livello</tu>
+	<tu xmlns:lang="jpn">レベル センサーなし</tu>
+	<tu xmlns:lang="ptg">Sem sensor de nível</tu>
+	<tu xmlns:lang="ptb">Sem sensor de nível</tu>
+	<tu xmlns:lang="rus">Без датчика уровня</tu>
+	<tu xmlns:lang="esp">Sin sensor de nivel</tu>
+	<tu xmlns:lang="chs">无水平传感器</tu>
+	<tu xmlns:lang="kor">레벨 센서 없음</tu>
+</tm>

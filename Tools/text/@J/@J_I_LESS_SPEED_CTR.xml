@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_SPEED_CTR">
+	<tu xmlns:lang="eng">Speed control not fitted</tu>
+	<tu xmlns:lang="nld">Cruise control niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Régulateur de vitesse non monté</tu>
+	<tu xmlns:lang="deu">Geschwindigkeitsregler nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Controllo velocità non in dotazione</tu>
+	<tu xmlns:lang="jpn">スピード コントロール非装備</tu>
+	<tu xmlns:lang="ptg">Controlo de velocidade não está instalado</tu>
+	<tu xmlns:lang="ptb">Controle de velocidade não instalado</tu>
+	<tu xmlns:lang="rus">Круиз-контроль не установлен</tu>
+	<tu xmlns:lang="esp">No hay sistema de control de velocidad</tu>
+	<tu xmlns:lang="chs">速度控制系统未安装</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤이 장착되지 않음</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HALF_VER_BULK">
+	<tu xmlns:lang="eng">Half vertical mesh bulkhead</tu>
+	<tu xmlns:lang="nld">Half verticaal schutbord van plaatgaas</tu>
+	<tu xmlns:lang="fra">Cloison maillée semi-verticale</tu>
+	<tu xmlns:lang="deu">Vertikale Halb-Maschen-Spritzwand</tu>
+	<tu xmlns:lang="ita">Semiparatia a rete verticale</tu>
+	<tu xmlns:lang="jpn">半垂直メッシュ バルクヘッド</tu>
+	<tu xmlns:lang="ptg">Meia antepara vertical em rede</tu>
+	<tu xmlns:lang="ptb">Metade do anteparo de malha vertical</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перегородка решетчатая во всю высоту и в половину ширины</tu>
+	<tu xmlns:lang="esp">Panel de separación semivertical con malla</tu>
+	<tu xmlns:lang="chs">半竖直网孔隔板</tu>
+	<tu xmlns:lang="kor">반 수직 메시 벌크헤드</tu>
+</tm>

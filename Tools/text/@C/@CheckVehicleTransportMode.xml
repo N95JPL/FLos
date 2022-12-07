@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckVehicleTransportMode">
+	<tu xmlns:lang="eng">Make sure the vehicle is out of transportation mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verzeker u ervan dat het voertuig niet in de transportstand staat.</tu>
+	<tu xmlns:lang="fra">S'assurer que le véhicule n'est pas en mode transport.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass sich das Fahrzeug nicht im Transport-Modus befindet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che il veicolo non sia in modalità di trasporto.</tu>
+	<tu xmlns:lang="jpn">車両が輸送モード以外であることを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o veículo não se encontra no modo de transporte.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o veículo está fora do modo de transporte.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что выключен режим транспортировки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que el vehículo no se encuentre en el modo de transporte.</tu>
+	<tu xmlns:lang="chs">确保车辆已退出运输模式。</tu>
+	<tu xmlns:lang="kor">차량이 운송 모드를 벗어난 상태인지 확인하십시오.</tu>
+</tm>

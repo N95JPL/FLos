@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_TRACTION_SWITCHS">
+	<tu xmlns:lang="eng">Traction control switch.</tu>
+	<tu xmlns:lang="nld">Traction-controlschakelaar.</tu>
+	<tu xmlns:lang="fra">Contacteur d'anti-patinage</tu>
+	<tu xmlns:lang="deu">Traktionskontrollschalter.</tu>
+	<tu xmlns:lang="ita">Interruttore di controllo trazione.</tu>
+	<tu xmlns:lang="jpn">トラクション コントロール スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptor de controlo da tracção.</tu>
+	<tu xmlns:lang="ptb">Interruptor de controle de tração.</tu>
+	<tu xmlns:lang="rus">Выключатель противобуксовочной системы</tu>
+	<tu xmlns:lang="esp">Interruptor del control de tracción.</tu>
+	<tu xmlns:lang="chs">牵引控制开关</tu>
+	<tu xmlns:lang="kor">트랙션 컨트롤 스위치</tu>
+</tm>

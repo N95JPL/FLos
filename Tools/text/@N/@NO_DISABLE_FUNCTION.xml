@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NO_DISABLE_FUNCTION">
+	<tu xmlns:lang="eng">No disable function</tu>
+	<tu xmlns:lang="nld">Geen uitschakelfunctie</tu>
+	<tu xmlns:lang="fra">Pas de fonction de désactivation.</tu>
+	<tu xmlns:lang="deu">Keine Deaktivierungsfunktion</tu>
+	<tu xmlns:lang="ita">Nessuna funzione di disabilitazione</tu>
+	<tu xmlns:lang="jpn">非作動機能\なし</tu>
+	<tu xmlns:lang="ptg">Função de não desactivação</tu>
+	<tu xmlns:lang="ptb">Sem função de desativação</tu>
+	<tu xmlns:lang="rus">Функция отключения отсутствует</tu>
+	<tu xmlns:lang="esp">No hay función de inhabilitación</tu>
+	<tu xmlns:lang="chs">无停用功能</tu>
+	<tu xmlns:lang="kor">비활성화 기능 없음</tu>
+</tm>

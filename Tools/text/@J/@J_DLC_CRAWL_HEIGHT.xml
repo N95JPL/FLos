@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_CRAWL_HEIGHT">
+	<tu xmlns:lang="eng">Crawl height.</tu>
+	<tu xmlns:lang="nld">Kruiphoogte.</tu>
+	<tu xmlns:lang="fra">Hauteur d'avance lente.</tu>
+	<tu xmlns:lang="deu">Kriechhöhe.</tu>
+	<tu xmlns:lang="ita">Altezza di marcia ad avanzamento lento.</tu>
+	<tu xmlns:lang="jpn">クロール ハイト</tu>
+	<tu xmlns:lang="ptg">Altura de marcha lenta.</tu>
+	<tu xmlns:lang="ptb">Altura Crawl.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Высота при движении на минимальной скорости по местности со сложным рельефом.</tu>
+	<tu xmlns:lang="esp">Altura de marcha superlenta.</tu>
+	<tu xmlns:lang="chs">缓行高度。</tu>
+	<tu xmlns:lang="kor">크롤 높이</tu>
+</tm>

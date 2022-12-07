@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_COMMERCIAL">
+	<tu xmlns:lang="eng">Commercial</tu>
+	<tu xmlns:lang="nld">Commercieel</tu>
+	<tu xmlns:lang="fra">Commercial</tu>
+	<tu xmlns:lang="deu">Kommerziell</tu>
+	<tu xmlns:lang="ita">Commerciale</tu>
+	<tu xmlns:lang="jpn">コマーシャル</tu>
+	<tu xmlns:lang="ptg">Comercial</tu>
+	<tu xmlns:lang="ptb">Comercial</tu>
+	<tu xmlns:lang="rus">Коммерческий</tu>
+	<tu xmlns:lang="esp">Comercial</tu>
+	<tu xmlns:lang="chs">商业</tu>
+	<tu xmlns:lang="kor">상용</tu>
+</tm>

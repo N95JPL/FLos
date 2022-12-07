@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CYL_BAL_TEST">
+	<tu xmlns:lang="eng">Cylinder balancing test</tu>
+	<tu xmlns:lang="nld">Test van cilinderbalans</tu>
+	<tu xmlns:lang="fra">Essai d'équilibrage de cylindre</tu>
+	<tu xmlns:lang="deu">Zylinderunwuchttest</tu>
+	<tu xmlns:lang="ita">Prova di bilanciamento cilindri</tu>
+	<tu xmlns:lang="jpn">シリンダ バランス テスト</tu>
+	<tu xmlns:lang="ptg">Prima 'Continuar' (Continue) para regressar ao menu.</tu>
+	<tu xmlns:lang="ptb">Teste de balanceamento do cilindro</tu>
+	<tu xmlns:lang="rus">Проверка балансировки цилиндра</tu>
+	<tu xmlns:lang="esp">Prueba de equilibrado de cilindros</tu>
+	<tu xmlns:lang="chs">气缸平衡测试</tu>
+	<tu xmlns:lang="kor">실린더 밸런싱 테스트</tu>
+</tm>

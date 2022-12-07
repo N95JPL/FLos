@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@REPEAT_FOR_NEW_EXISTING_PLIPS">
+	<tu
+    xmlns:lang="eng"
+  >Repeat process for any other new or existing plips present.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Herhaal de procedure voor alle overige aanwezige nieuwe of bestaande afstandsbedieningen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Répétez le processus pour toutes les télécommandes neuves ou existantes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vorgehen für alle anderen zur Verfügung stehenden neuen oder vorhandenen Fernbedienungen wiederholen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ripetere la procedura per qualsiasi altro telecomando nuovo o già esistente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >他に新しい、あるいは現存のプリップがある場合はプロセスを繰り返しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Repita o processo para os restantes 'plips' novos ou já existentes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Repita o processo para qualquer outro plips novos ou existentes presentes.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Повторите процесс для всех остальных новых или использующихся пультов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Repetir el proceso para los demás mandos a distancia nuevos o existentes que estén presentes.</tu>
+	<tu xmlns:lang="chs">为任何其它新的或现有手持式遥控器重复执行程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >그 외에 새 플립 또는 기존 플립이 존재할 경우 이런 모든 플립에 대해 프로세스를 반복하십시오.</tu>
+</tm>

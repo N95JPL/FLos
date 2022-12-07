@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_CONTENT_ALL">
+	<tu xmlns:lang="eng">Content all 00s or FFs</tu>
+	<tu xmlns:lang="nld">Inhoud van alle 00's of FF's</tu>
+	<tu xmlns:lang="fra">Contenu : tous les 00 ou les FF</tu>
+	<tu xmlns:lang="deu">Inhalt alle 00s oder FFs</tu>
+	<tu xmlns:lang="ita">Contenuto tutti 00 o FF</tu>
+	<tu xmlns:lang="jpn">コンテンツ、すべて 00 または FF</tu>
+	<tu xmlns:lang="ptg">Conteúdo tudo 00s ou FFs</tu>
+	<tu xmlns:lang="ptb">Conteúdo de todos os 00s ou FFs</tu>
+	<tu xmlns:lang="rus">Содержимое всех 00 или FF</tu>
+	<tu xmlns:lang="esp">Contenido: todo 00 o FF</tu>
+	<tu xmlns:lang="chs">内容均为 00 或 FF</tu>
+	<tu xmlns:lang="kor">모든 00 또는 FF의 내용</tu>
+</tm>

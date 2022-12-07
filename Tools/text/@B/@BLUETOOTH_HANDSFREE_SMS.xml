@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BLUETOOTH_HANDSFREE_SMS">
+	<tu
+    xmlns:lang="eng"
+  >Bluetooth handsfree telephone system with SMS message support</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bluetooth hands-free telefoonsysteem met SMS-ondersteuning</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système de téléphone mains-libres Bluetooth avec prise en charge des messages SMS</tu>
+	<tu
+    xmlns:lang="deu"
+  >Telefonsystem mit Bluetooth-Freisprecheinrichtung und SMS-Nachrichtenunterstützung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema telefono viva voce Bluetooth con supporto messaggi SMS</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ブルートゥース ハンズフリー テレホン システム (SMS メッセージ サポート付き)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de telemóvel com Bluetooth com suporte de mensagens SMS</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de telefone bluetooth viva-voz com suporte da mensagem SMS</tu>
+	<tu
+    xmlns:lang="rus"
+  >Телефонная система с функцией 'handsfree' использующей технологию 'bluetooth' и поддержкой SMS-сообщений</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de telefonía manos libres Bluetooth compatible con mensajes SMS</tu>
+	<tu xmlns:lang="chs">带 SMS 短信服务支持的蓝牙免提电话系统</tu>
+	<tu
+    xmlns:lang="kor"
+  >SMS 메시지 지원 기능이 있는 블루투스 핸즈프리 전화 시스템</tu>
+</tm>

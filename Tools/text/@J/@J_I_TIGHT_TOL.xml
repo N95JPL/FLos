@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIGHT_TOL">
+	<tu xmlns:lang="eng">Tight tolerences</tu>
+	<tu xmlns:lang="nld">Nauwe toleranties</tu>
+	<tu xmlns:lang="fra">Tolérances serrées</tu>
+	<tu xmlns:lang="deu">Enge Toleranzen</tu>
+	<tu xmlns:lang="ita">Tolleranze ridotte</tu>
+	<tu xmlns:lang="jpn">僅少許容誤差</tu>
+	<tu xmlns:lang="ptg">Tolerâncias limitadas</tu>
+	<tu xmlns:lang="ptb">Menor tolerância</tu>
+	<tu xmlns:lang="rus">Жесткие допуски</tu>
+	<tu xmlns:lang="esp">Tolerancias estrictas</tu>
+	<tu xmlns:lang="chs">精密允差</tu>
+	<tu xmlns:lang="kor">엄격한 공차</tu>
+</tm>

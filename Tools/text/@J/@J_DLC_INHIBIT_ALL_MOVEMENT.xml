@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_INHIBIT_ALL_MOVEMENT">
+	<tu xmlns:lang="eng">Inhibit all movement.</tu>
+	<tu xmlns:lang="nld">Blokkeer alle beweging.</tu>
+	<tu xmlns:lang="fra">Neutralisation de tout mouvement.</tu>
+	<tu xmlns:lang="deu">Alle Bewegungen sperren.</tu>
+	<tu xmlns:lang="ita">Disattivare qualsiasi movimento.</tu>
+	<tu xmlns:lang="jpn">すべての動作のインヒビット</tu>
+	<tu xmlns:lang="ptg">Inibir todos os movimentos.</tu>
+	<tu xmlns:lang="ptb">Inibir todo o movimento.</tu>
+	<tu xmlns:lang="rus">Запрет на все перемещения.</tu>
+	<tu xmlns:lang="esp">Inhibir todo movimiento.</tu>
+	<tu xmlns:lang="chs">抑制全部运动。</tu>
+	<tu xmlns:lang="kor">모든 동작 금지</tu>
+</tm>

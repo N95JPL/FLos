@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_MISCONFIG_5">
+	<tu
+    xmlns:lang="eng"
+  >The total number of incorrectly configured parameters (up to a maximum of ten).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het totaal aantal verkeerd geconfigureerde parameters (maximaal tien).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Nombre total de paramètres mal configurés (jusqu'à dix maximum).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Gesamtzahl falsch konfigurierter Parameter (bis maximal zehn).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il numero totale dei parametri configurati non correttamente (fino a un massimo di dieci).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >間違ってコンフィギュレーションされたパラメータの総数 (最大 10 まで)。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número total de parâmetros configurados incorrectamente (até um máximo de dez).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O número total de parâmetros configurados incorretamente (até um máximo de dez).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Общее число неправильно настроенных параметров (максимальное количество до 10).</tu>
+	<tu
+    xmlns:lang="esp"
+  >El número total de parámetros configurados incorrectamente (diez como máximo).</tu>
+	<tu xmlns:lang="chs">错误配置的参数的总数（最多 10 个）。</tu>
+	<tu xmlns:lang="kor">잘못 구성된 매개 변수 총 수(최대 10개).</tu>
+</tm>

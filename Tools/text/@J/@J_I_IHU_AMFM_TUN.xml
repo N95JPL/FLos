@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IHU_AMFM_TUN">
+	<tu xmlns:lang="eng">Audio control module internal AM/FM tuner.</tu>
+	<tu xmlns:lang="nld">Interne AM/FM-tuner van geïntegreerde hoofdunit.</tu>
+	<tu xmlns:lang="fra">Syntoniser AM/FM interne à l'autoradio intégré.</tu>
+	<tu xmlns:lang="deu">Integriertes Audiosystem - interner AM/FM-Tuner.</tu>
+	<tu xmlns:lang="ita">Sintonizzatore AM/FM interno unità audio integrata.</tu>
+	<tu xmlns:lang="jpn">統合ヘッド ユニット内部 AM/FM チューナー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sintonizador AM/FM interno da unidade principal integrada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sintonizador interno AM/FM do módulo de controle de áudio.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Встроенный AM/FM тюнер интегрированного головного устройства.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sintonizador AM/FM interno del aparato central integral.</tu>
+	<tu xmlns:lang="chs">集成主机单元AM/FM内部调谐器。</tu>
+	<tu xmlns:lang="kor">오디오 컨트롤 모듈 내부 AM/FM 튜너</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NoConnect_T_L">
+	<tu xmlns:lang="eng">Connect failed.</tu>
+	<tu xmlns:lang="nld">Verbinding mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de connexion.</tu>
+	<tu xmlns:lang="deu">Verbindungsaufnahme nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Mancato collegamento.</tu>
+	<tu xmlns:lang="jpn">接続に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Ligação falhou.</tu>
+	<tu xmlns:lang="ptb">Falha na conexão.</tu>
+	<tu xmlns:lang="rus">Ошибка подключения.</tu>
+	<tu xmlns:lang="esp">La conexión falló.</tu>
+	<tu xmlns:lang="chs">连接失败。</tu>
+	<tu xmlns:lang="kor">연결에 실패했습니다.</tu>
+</tm>

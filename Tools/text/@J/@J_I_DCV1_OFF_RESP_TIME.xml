@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DCV1_OFF_RESP_TIME">
+	<tu xmlns:lang="eng">Direction control valve 1 - off response time</tu>
+	<tu xmlns:lang="nld">Richtingsregelklep 1 - reactietijd uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Electrovanne de commande directionnelle 1 - temps de réponse de désactivation.</tu>
+	<tu xmlns:lang="deu">Richtungssteuerventil 1 - Ansprechzeit Ausschaltung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Valvola controllo direzione 1 - tempo di risposta disattivazione</tu>
+	<tu xmlns:lang="jpn">方向コントロール バルブ 1 - オフ応答時間</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Válvula de controlo da direcção 1 - tempo de resposta para desligar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Válvula do controle de direção 1 - tempo de resposta do sistema ligado</tu>
+	<tu xmlns:lang="rus">Распределитель 1 - время срабатывания на выключение</tu>
+	<tu
+    xmlns:lang="esp"
+  >Válvula de control de dirección 1: tiempo de respuesta de desactivación</tu>
+	<tu xmlns:lang="chs">方向控制阀1 - 关闭响应时间</tu>
+	<tu xmlns:lang="kor">방향 컨트롤 밸브 1 - Off 응답 시간</tu>
+</tm>

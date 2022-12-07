@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SH_ARM_PWR_LESS_HEAT_MIR">
+	<tu xmlns:lang="eng">Short arm power/not heated mirrors</tu>
+	<tu xmlns:lang="nld">Elektrisch bediende/onverwarmde spiegels met korte arm</tu>
+	<tu xmlns:lang="fra">Rétroviseurs électriques/non chauffants bras court</tu>
+	<tu
+    xmlns:lang="deu"
+  >Elektrisch verstellbare Spiegel/nicht beheizt ? kurzer Arm</tu>
+	<tu xmlns:lang="ita">Specchietti elettrici/non riscaldati a braccio corto</tu>
+	<tu xmlns:lang="jpn">ショート アーム パワー ミラー (ヒーターなし)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retrovisores exteriores eléctricos/sem desembaciador - braço curto</tu>
+	<tu xmlns:lang="ptb">Alimentação de braço curto/retrovisores não aquecidos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Зеркала на коротком кронштейне без обогрева, с электроприводом</tu>
+	<tu xmlns:lang="esp">Retrovisores eléctricos/no térmicos de brazo corto</tu>
+	<tu xmlns:lang="chs">电动/无加热式后视镜短支臂</tu>
+	<tu xmlns:lang="kor">쇼트 암 전동식/무열선 미러</tu>
+</tm>

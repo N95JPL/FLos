@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WIPERS_REAR_CONTINUOUS">
+	<tu xmlns:lang="eng">Rear continuous wipers</tu>
+	<tu xmlns:lang="nld">Continue ruitenwissers van achterruit.</tu>
+	<tu xmlns:lang="fra">Essuie-glace arrière à balayage continu.</tu>
+	<tu xmlns:lang="deu">Heckscheibenwischer mit Dauerbetriebsstellung</tu>
+	<tu xmlns:lang="ita">Funzionamento continuo tergicristalli posteriori</tu>
+	<tu xmlns:lang="jpn">リア連続ワイパー</tu>
+	<tu xmlns:lang="ptg">Limpa-vidros, funcionamento contínuo</tu>
+	<tu xmlns:lang="ptb">Limpadores traseiros contínuos</tu>
+	<tu xmlns:lang="rus">Непрерывный режим работы задних стеклоочистителей</tu>
+	<tu xmlns:lang="esp">Limpialuneta continuo</tu>
+	<tu xmlns:lang="chs">后连续刮水器</tu>
+	<tu xmlns:lang="kor">리어 연속 작동 와이퍼</tu>
+</tm>

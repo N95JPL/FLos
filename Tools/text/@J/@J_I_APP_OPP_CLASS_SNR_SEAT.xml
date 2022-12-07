@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_OPP_CLASS_SNR_SEAT">
+	<tu
+    xmlns:lang="eng"
+  >This application will calibrate the occupancy classification sensor seat offset.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing kalibreert de stoelafwijking van de inzittendenclassificatiesensor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application étalonnera le décalage du siège pour le capteur de classification d'occupation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung kalibriert den Sitzversatz des Belegungserkennungssensors.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quest'applicazione esegue la taratura dell'offset del sedile per il sensore di classificazione occupanti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、乗員識別センサーのシート オフセットをキャリブレーションします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação irá calibrar o valor de compensação do banco para o sensor de classificação de ocupantes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo calibrará o deslocamento do assento do sensor de classificação de ocupantes.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение служит для калибровки датчика классификации сидящего на сиденье.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación calibrará el valor de compensación del asiento para el sensor de clasificación de ocupantes.</tu>
+	<tu xmlns:lang="chs">本应用程序将校准占用分级传感器座椅偏差。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 승객 분류 센서 시트 오프셋을 보정합니다.</tu>
+</tm>

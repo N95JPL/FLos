@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ARC_ODST_ABORT">
+	<tu xmlns:lang="eng">Dynamic response calibration routine has been aborted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De kalibreringsroutine van de 'Dynamic Reponse' is afgebroken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le programme d'étalonnage de réponse dynamique a été abandonné.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Kalibrierungsroutine für Dynamic Response wurde abgebrochen.</tu>
+	<tu xmlns:lang="ita">Procedura di taratura 'Dynamic Response' interrotta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ダイナミック レスポンス キャリブレーション作業が中断されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Rotina de calibragem da resposta dinâmica foi abortada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Rotina de calibração do Dynamic response foi cancelada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура калибровки динамического реагирования отменена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha cancelado la rutina de calibración de respuesta dinámica.</tu>
+	<tu xmlns:lang="chs">动态响应校准常规程序已被中止。</tu>
+	<tu xmlns:lang="kor">다이내믹 리스폰스 보정 루틴이 중단되었습니다.</tu>
+</tm>

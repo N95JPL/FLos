@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_MODIFICATION_DATE_YEAR">
+	<tu xmlns:lang="eng">Car configuration file modification date (year)</tu>
+	<tu xmlns:lang="nld">Wijzigingsdatum autoconfiguratiebestand (jaar)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Date de modification du fichier de configuration du véhicule (année).</tu>
+	<tu xmlns:lang="deu">Änderungsdatum Fahrzeug-Konfigurationsdatei (Jahr)</tu>
+	<tu xmlns:lang="ita">Data modifica file di configurazione veicolo (anno)</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション ファイル変更日付 (年)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Data de modificação do ficheiro de configuração do veículo (ano)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Data de modificação do arquivo de configuração de carro (ano)</tu>
+	<tu xmlns:lang="rus">Дата изменения файла конфигурации автомобиля (год)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fecha (año) de modificación del archivo de configuración del coche</tu>
+	<tu xmlns:lang="chs">轿车配置文件修改日期（年）</tu>
+	<tu xmlns:lang="kor">차량 구성 파일 수정 날짜(년)</tu>
+</tm>

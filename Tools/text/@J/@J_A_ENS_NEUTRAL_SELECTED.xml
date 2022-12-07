@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENS_NEUTRAL_SELECTED">
+	<tu xmlns:lang="eng">Make sure neutral is selected.</tu>
+	<tu xmlns:lang="nld">Zorg dat neutraal is gekozen</tu>
+	<tu xmlns:lang="fra">Vérifiez que le sélecteur est au point mort</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, daß die Wahlhebelstellung Neutral gewählt wurde</tu>
+	<tu xmlns:lang="ita">Assicurarsi che il cambio sia in folle</tu>
+	<tu xmlns:lang="jpn">ニュートラルが選択されていることを確認しなさい。</tu>
+	<tu xmlns:lang="ptg">Assegure-se de que o ponto morto está seleccionado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a posição neutra esteja selecionada.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что выбрано положение 'нейтраль'.</tu>
+	<tu xmlns:lang="esp">Comprobar que el cambio está en punto muerto</tu>
+	<tu xmlns:lang="chs">确保选择了空档。</tu>
+	<tu xmlns:lang="kor">중립이 선택되어 있는지 확인하십시오.</tu>
+</tm>

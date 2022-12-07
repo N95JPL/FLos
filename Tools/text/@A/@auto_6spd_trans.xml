@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@auto_6spd_trans">
+	<tu xmlns:lang="eng">Automatic 6 speed transmission</tu>
+	<tu xmlns:lang="nld">Automatische transmissie met 6 versnellingen</tu>
+	<tu xmlns:lang="fra">Transmission automatique 6 vitesses</tu>
+	<tu xmlns:lang="deu">6-Gang-Automatikgetriebe</tu>
+	<tu xmlns:lang="ita">Cambio automatico a 6 rapporti</tu>
+	<tu xmlns:lang="jpn">オートマチック 6 速トランスミッション</tu>
+	<tu xmlns:lang="ptg">Transmissão automática de 6 velocidades</tu>
+	<tu xmlns:lang="ptb">Transmissão de 6 velocidades automática</tu>
+	<tu xmlns:lang="rus">Автоматическая 6-ступенчатая коробка передач</tu>
+	<tu xmlns:lang="esp">Cambio automático de 6 velocidades</tu>
+	<tu xmlns:lang="chs">6速自动变速器</tu>
+	<tu xmlns:lang="kor">자동 6단 변속기</tu>
+</tm>

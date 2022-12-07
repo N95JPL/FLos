@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_CONTENT">
+	<tu xmlns:lang="eng">Select content position.</tu>
+	<tu xmlns:lang="nld">Kies inhoudspositie</tu>
+	<tu xmlns:lang="fra">Sélectionner la position du contenu</tu>
+	<tu xmlns:lang="deu">Speicherbereich auswählen</tu>
+	<tu xmlns:lang="ita">Selezionare la variante</tu>
+	<tu xmlns:lang="jpn">コンテンツ ポジションを選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Seleccionar posição de conteúdo.</tu>
+	<tu xmlns:lang="ptb">Selecione a posição do conteúdo.</tu>
+	<tu xmlns:lang="rus">Выберите позицию данных.</tu>
+	<tu xmlns:lang="esp">Seleccionar posición del contenido</tu>
+	<tu xmlns:lang="chs">选择内容位置。</tu>
+	<tu xmlns:lang="kor">콘텐츠 위치를 선택하십시오.</tu>
+</tm>

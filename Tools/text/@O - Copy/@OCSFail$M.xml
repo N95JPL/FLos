@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@OCSFail$M">
+	<tu xmlns:lang="eng">Occupancy sensor calibration failed.</tu>
+	<tu xmlns:lang="nld">De kalibrering van de inzittendensensor is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de l'étalonnage du capteur d'occupation.</tu>
+	<tu xmlns:lang="deu">Kalibrierung des Sitzbelegungssensors nicht erfolgreich abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Taratura sensore occupanti non riuscita.</tu>
+	<tu xmlns:lang="jpn">乗員センサー キャリブレーションに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Falha na calibragem do sensor de ocupação.</tu>
+	<tu xmlns:lang="ptb">Falha na calibração do sensor de ocupação.</tu>
+	<tu xmlns:lang="rus">Калибровка датчика присутствия в салоне не выполнена.</tu>
+	<tu xmlns:lang="esp">La calibración del sensor de ocupación falló.</tu>
+	<tu xmlns:lang="chs">乘载传感器标定失败。</tu>
+	<tu xmlns:lang="kor">승객 감지 센서 보정에 실패했습니다.</tu>
+</tm>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HOW_MANY_KEYS_READY">
+	<tu
+    xmlns:lang="eng"
+  >Please enter the total number of smart keys you intend to program and have them ready.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer het totale aantal Smart-keys in dat u wilt programmeren en houd ze gereed.
+
+    </tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez saisir le nombre total de clés intelligentes que vous voulez programmer et préparez-les.
+
+    </tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte die Gesamtzahl der Smart Keys eingeben, die programmiert werden sollen, und diese bereithalten.
+
+    </tu>
+	<tu
+    xmlns:lang="ita"
+  >Immettere il numero totale di chiavi Smart da programmare e tenerle pronte.
+
+    </tu>
+	<tu
+    xmlns:lang="jpn"
+  >プログラムするスマート キーの合計数を入力し、それらを用意してください。
+
+    </tu>
+	<tu
+    xmlns:lang="ptg"
+  >Introduza o número total de chaves inteligentes que pretende programar e tenha-as à mão.
+
+    </tu>
+	<tu
+    xmlns:lang="ptb"
+  >Informe o número total de chaves inteligentes que pretende programar e deixe-as preparadas.
+
+    </tu>
+	<tu
+    xmlns:lang="rus"
+  >Введите общее количество электронных ключей для программирования и приготовьте их.
+
+    </tu>
+	<tu
+    xmlns:lang="esp"
+  >Introduzca la cantidad de llaves inteligentes que prevé programar y téngalas listas.
+
+    </tu>
+	<tu xmlns:lang="chs">请输入您打算进行编程的智能钥匙的总数，并将它们准备好。
+
+    </tu>
+	<tu
+    xmlns:lang="kor"
+  >프로그래밍하려는 스마트 키의 총 개수를 입력하고 키를 준비하십시오.
+
+    </tu>
+</tm>

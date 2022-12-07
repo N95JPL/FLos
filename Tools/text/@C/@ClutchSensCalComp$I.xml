@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ClutchSensCalComp$I">
+	<tu xmlns:lang="eng">Clutch sensor calibration complete.</tu>
+	<tu xmlns:lang="nld">Kalibrering van koppelingssensor is uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Etalonnage du capteur d'embrayage terminé.</tu>
+	<tu xmlns:lang="deu">Kalibration Kupplungssensor abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Taratura sensore frizione completata.</tu>
+	<tu xmlns:lang="jpn">クラッチ センサー キャリブレーションが完了しました。</tu>
+	<tu xmlns:lang="ptg">Calibragem do sensor da embraiagem concluída.</tu>
+	<tu xmlns:lang="ptb">Calibragem do sensor de embreagem concluída.</tu>
+	<tu xmlns:lang="rus">Калибровка датчика сцепления завершена.</tu>
+	<tu xmlns:lang="esp">Calibración del sensor del embrague concluida.</tu>
+	<tu xmlns:lang="chs">离合器传感器标定完成。</tu>
+	<tu xmlns:lang="kor">클러치 센서 보정이 완료되었습니다.</tu>
+</tm>

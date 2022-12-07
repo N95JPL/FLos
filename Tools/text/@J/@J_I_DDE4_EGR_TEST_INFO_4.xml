@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DDE4_EGR_TEST_INFO_4">
+	<tu xmlns:lang="eng">The engine needs to be at Idle to proceed the test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De motor moet stationair lopen om de test te vervolgen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le moteur doit tourner au ralenti pour effectuer ce test.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um mit dem Test fortzufahren, muss der Motor bei Leerlaufdrehzahl drehen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il motore deve essere al minimo per l'esecuzione della prova.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストを進行させるにはエンジンがアイドリングしている必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima 'Repetir' (Repeat) para repetir a purga dos travões.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O motor precisa estar em marcha lenta para continuar o teste.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для продолжения проверки необходимо, чтобы двигатель работал на холостом ходу.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El motor debe estar en ralentí para realizar la prueba.</tu>
+	<tu xmlns:lang="chs">发动机必须怠速以便继续测试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트를 진행하려면 엔진을 공회전 상태로 두어야 합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA7959">
+	<tu xmlns:lang="eng">Engine idle speed</tu>
+	<tu xmlns:lang="nld">STATIONAIRE SNELHEID MOTOR</tu>
+	<tu xmlns:lang="fra">VITESSE DU MOTEUR AU REPOS</tu>
+	<tu xmlns:lang="deu">MOTORLEERLAUFDREHZAHL</tu>
+	<tu xmlns:lang="ita">VELOCITA DI MINIMO DEL MOTORE</tu>
+	<tu xmlns:lang="jpn">エンｼﾞン・アイﾄﾞル・スﾋﾟーﾄﾞ</tu>
+	<tu xmlns:lang="ptg">Ralenti do motor</tu>
+	<tu xmlns:lang="ptb">Marcha lenta do motor</tu>
+	<tu xmlns:lang="rus">Холостой ход двигателя</tu>
+	<tu xmlns:lang="esp">VELOCIDAD DE RALENTI DEL MOTOR</tu>
+	<tu xmlns:lang="chs">发动机怠速</tu>
+	<tu xmlns:lang="kor">엔진 공회전 속도</tu>
+</tm>

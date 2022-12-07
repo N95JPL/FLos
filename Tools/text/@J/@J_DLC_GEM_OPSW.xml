@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_GEM_OPSW">
+	<tu xmlns:lang="eng">Oil pressure switch</tu>
+	<tu xmlns:lang="nld">Oliedrukschakelaar.</tu>
+	<tu xmlns:lang="fra">Manostat d'huile.</tu>
+	<tu xmlns:lang="deu">Öldruckschalter.</tu>
+	<tu xmlns:lang="ita">Pressostato olio.</tu>
+	<tu xmlns:lang="jpn">油圧スイッチ。</tu>
+	<tu xmlns:lang="ptg">Interruptor da pressão do óleo.</tu>
+	<tu xmlns:lang="ptb">interruptor da pressão do óleo</tu>
+	<tu xmlns:lang="rus">Реле давления масла.</tu>
+	<tu xmlns:lang="esp">Interruptor de presión del aceite</tu>
+	<tu xmlns:lang="chs">机油压力开关。</tu>
+	<tu xmlns:lang="kor">오일 압력 스위치</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BELT_REM">
+	<tu xmlns:lang="eng">Belt minder</tu>
+	<tu xmlns:lang="nld">Beltminder</tu>
+	<tu xmlns:lang="fra">Rappel de ceinture de sécurité</tu>
+	<tu xmlns:lang="deu">Sicherheitsgurtwarnung</tu>
+	<tu xmlns:lang="ita">Avvertenza cintura di sicurezza</tu>
+	<tu xmlns:lang="jpn">ベルトマインダー</tu>
+	<tu xmlns:lang="ptg">Indicador do cinto de segurança</tu>
+	<tu xmlns:lang="ptb">Lembrete de cinto</tu>
+	<tu xmlns:lang="rus">Сигнализатор непристегнутого ремня безопасности</tu>
+	<tu xmlns:lang="esp">Aviso del cinturón de seguridad</tu>
+	<tu xmlns:lang="chs">安全带提醒器</tu>
+	<tu xmlns:lang="kor">벨트 마인더</tu>
+</tm>

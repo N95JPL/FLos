@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_PRES_SEN_CAL">
+	<tu xmlns:lang="eng">Pressure sensor calibration.</tu>
+	<tu xmlns:lang="nld">Kalibrering van druksensor.</tu>
+	<tu xmlns:lang="fra">Etalonnage du capteur de pression.</tu>
+	<tu xmlns:lang="deu">Kalibrierung Drucksensor.</tu>
+	<tu xmlns:lang="ita">Taratura sensore pressione.</tu>
+	<tu xmlns:lang="jpn">プレッシャ センサーのキャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem do sensor de pressão.</tu>
+	<tu xmlns:lang="ptb">Calibração do sensor de pressão.</tu>
+	<tu xmlns:lang="rus">Калибровка датчика давления.</tu>
+	<tu xmlns:lang="esp">Calibración del sensor de presión.</tu>
+	<tu xmlns:lang="chs">压力传感器标定。</tu>
+	<tu xmlns:lang="kor">압력 센서 보정</tu>
+</tm>

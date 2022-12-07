@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_LOAD_PLS_WAIT">
+	<tu xmlns:lang="eng">Loading, please wait.</tu>
+	<tu xmlns:lang="nld">Aan het laden. Even wachten a.u.b.</tu>
+	<tu xmlns:lang="fra">Chargement, patientez SVP.</tu>
+	<tu xmlns:lang="deu">Laden läuft, bitte warten.</tu>
+	<tu xmlns:lang="ita">Attendere. Caricamento in corso.</tu>
+	<tu xmlns:lang="jpn">ロード中。お待ちください。</tu>
+	<tu xmlns:lang="ptg">A carregar; aguarde por favor.</tu>
+	<tu xmlns:lang="ptb">Carregando, aguarde.</tu>
+	<tu xmlns:lang="rus">Выполняется загрузка. Пожалуйста, подождите.</tu>
+	<tu xmlns:lang="esp">Cargando...</tu>
+	<tu xmlns:lang="chs">'正在加载，请等待。’</tu>
+	<tu xmlns:lang="kor">로딩 중입니다. 기다리십시오.</tu>
+</tm>

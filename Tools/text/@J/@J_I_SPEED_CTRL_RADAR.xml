@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SPEED_CTRL_RADAR">
+	<tu xmlns:lang="eng">Speed control radar</tu>
+	<tu xmlns:lang="nld">Radar van snelheidsregelsysteem</tu>
+	<tu xmlns:lang="fra">Radar du régulateur de vitesse</tu>
+	<tu xmlns:lang="deu">Geschwindigkeitsregelung - Radar</tu>
+	<tu xmlns:lang="ita">Radar di controllo velocità</tu>
+	<tu xmlns:lang="jpn">スピード コントロール レーダー</tu>
+	<tu xmlns:lang="ptg">Radar do controlo da velocidade</tu>
+	<tu xmlns:lang="ptb">Radar de controle de velocidade</tu>
+	<tu xmlns:lang="rus">Радар круиз-контроля</tu>
+	<tu xmlns:lang="esp">Radar de control de la velocidad</tu>
+	<tu xmlns:lang="chs">速度控制雷达</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤 레이더</tu>
+</tm>

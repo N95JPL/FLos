@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VIN_FROM_VEHICLE">
+	<tu xmlns:lang="eng">VIN from vehicle interrogation</tu>
+	<tu xmlns:lang="nld">VIN van voertuigaflezing</tu>
+	<tu xmlns:lang="fra">VIN obtenu par interrogation du véhicule</tu>
+	<tu xmlns:lang="deu">Vom Fahrzeug abgefragte VIN</tu>
+	<tu xmlns:lang="ita">VIN da interrogazione veicolo</tu>
+	<tu xmlns:lang="jpn">車両問い合わせによる VIN</tu>
+	<tu xmlns:lang="ptg">NIV da interrogação ao veículo</tu>
+	<tu xmlns:lang="ptb">VIN da interrogação do veículo</tu>
+	<tu xmlns:lang="rus">VIN-код, полученный из автомобиля по запросу</tu>
+	<tu xmlns:lang="esp">VIN obtenido de la interrogación del vehículo</tu>
+	<tu xmlns:lang="chs">从车辆检查中得到的 VIN</tu>
+	<tu xmlns:lang="kor">차량 조회에서 확인한 VIN</tu>
+</tm>

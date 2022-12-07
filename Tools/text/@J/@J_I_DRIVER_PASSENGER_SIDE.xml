@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRIVER_PASSENGER_SIDE">
+	<tu xmlns:lang="eng">Driver and passenger side</tu>
+	<tu xmlns:lang="nld">Bestuurders- en passagierszijde</tu>
+	<tu xmlns:lang="fra">Côté conducteur et passager</tu>
+	<tu xmlns:lang="deu">Fahrer- und Beifahrerseite</tu>
+	<tu xmlns:lang="ita">Lato guidatore e passeggero</tu>
+	<tu xmlns:lang="jpn">運転席側および助手席側</tu>
+	<tu xmlns:lang="ptg">Lado do condutor e do passageiro</tu>
+	<tu xmlns:lang="ptb">Lado do motorista e passageiro</tu>
+	<tu xmlns:lang="rus">Сторона водителя и пассажира</tu>
+	<tu xmlns:lang="esp">Lado del conductor y lado del acompañante</tu>
+	<tu xmlns:lang="chs">驾驶员和乘客一侧</tu>
+	<tu xmlns:lang="kor">운전석 및 조수석</tu>
+</tm>

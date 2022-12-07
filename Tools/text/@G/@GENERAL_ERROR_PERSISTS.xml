@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@GENERAL_ERROR_PERSISTS">
+	<tu
+    xmlns:lang="eng"
+  >If General 01 failure still persists, contact retailer technical support for assistance with all relevant session files.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de Algemene 01-storing nog steeds aanhoudt, neem dan contact om met de technische support voor ondersteuning bij alle relevante sessiebestanden.
+</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si l'erreur générale 01 persiste, contactez l'assistance technique des concessionnaires avec tous les fichiers de session à portée de main.
+</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn Fehler „General 01“ immer noch vorhanden ist, den technischen Händler-Support mit allen entsprechenden Sitzungsdateien bezüglich Unterstützung kontaktieren.
+</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se il guasto generale 01 persiste, contattare il supporto tecnico del concessionario per l’assistenza di tutti i file relativi alla sessione.
+</tu>
+	<tu
+    xmlns:lang="jpn"
+  >一般的な 01 故障が依然として存在する場合、ディーラー テクニカル サポートに連絡し、関連するすべてのセッション ファイルについてサポートを受けてください。
+</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a falha geral 01 persistir, contacte a assistência técnica do concessionário para obter apoio em relação a todos os ficheiros de sessão relevantes.
+</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o erro Geral 01 persistir, entre em contato com o suporte técnico do concessionário para obter assistência com todos os arquivos de sessão relevantes.
+</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если сбой '01-Общая ошибка' не устранен, обратитесь за помощью в службу технической поддержки дилеров, предоставив все соответствующие файлы сеанса.
+</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el error general 01 persiste, póngase en contacto con el servicio de asistencia técnica del concesionario para obtener ayuda con los archivos de sesión correspondientes.
+</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果一般 01 故障依然存在，请联系经销商技术支持以获得帮助并提供所有相关会话文件。
+</tu>
+	<tu
+    xmlns:lang="kor"
+  >일반 01 오류가 계속 발생할 경우 모든 관련 세션 파일을 준비하여 리테일러 기술 지원 부서로 문의하면 도움을 받을 수 있습니다.
+</tu>
+</tm>

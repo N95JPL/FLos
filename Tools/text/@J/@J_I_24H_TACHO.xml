@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_24H_TACHO">
+	<tu xmlns:lang="eng">24 hour tachograph</tu>
+	<tu xmlns:lang="nld">24-uurs tachograaf</tu>
+	<tu xmlns:lang="fra">Tachygraphe 24 heures</tu>
+	<tu xmlns:lang="deu">24-Stunden-Fahrtenschreiber</tu>
+	<tu xmlns:lang="ita">Tachigrafo 24 ore</tu>
+	<tu xmlns:lang="jpn">24 時間タコグラフ</tu>
+	<tu xmlns:lang="ptg">Tacógrafo de 24 horas</tu>
+	<tu xmlns:lang="ptb">Tacógrafo de 24 horas</tu>
+	<tu xmlns:lang="rus">Тахограф 24-часового действия</tu>
+	<tu xmlns:lang="esp">Tacógrafo de 24 horas</tu>
+	<tu xmlns:lang="chs">24 小时转速图</tu>
+	<tu xmlns:lang="kor">24시간 타코그래프</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_LANG_REG">
+	<tu xmlns:lang="eng">Without language region</tu>
+	<tu xmlns:lang="nld">Zonder taalregio </tu>
+	<tu xmlns:lang="fra">Sans région de langue </tu>
+	<tu xmlns:lang="deu">Ohne Sprachregion </tu>
+	<tu xmlns:lang="ita">Senza regione linguistica</tu>
+	<tu xmlns:lang="jpn">言語地域なし</tu>
+	<tu xmlns:lang="ptg">Sem região idiomática</tu>
+	<tu xmlns:lang="ptb">Sem região de idioma</tu>
+	<tu xmlns:lang="rus">Без языкового региона </tu>
+	<tu xmlns:lang="esp">Sin región de idioma</tu>
+	<tu xmlns:lang="chs">无语言区</tu>
+	<tu xmlns:lang="kor">언어 지역 없음</tu>
+</tm>

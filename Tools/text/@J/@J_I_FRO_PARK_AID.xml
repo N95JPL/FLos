@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FRO_PARK_AID">
+	<tu xmlns:lang="eng">Front parking aid</tu>
+	<tu xmlns:lang="nld">Met hulpsysteem voor vooruit parkeren</tu>
+	<tu xmlns:lang="fra">Aide aux manouvres de parking avant</tu>
+	<tu xmlns:lang="deu">Einparkhilfe vorn</tu>
+	<tu xmlns:lang="ita">Assistenza parcheggio anteriore</tu>
+	<tu xmlns:lang="jpn">フロント パーキング エイド</tu>
+	<tu xmlns:lang="ptg">Auxiliar de estacionamento dianteiro</tu>
+	<tu xmlns:lang="ptb">Sensor de estacionamento dianteiro</tu>
+	<tu xmlns:lang="rus">Система помощи при парковке передним ходом</tu>
+	<tu xmlns:lang="esp">Ayuda delantera para el estacionamiento</tu>
+	<tu xmlns:lang="chs">前驻车助力</tu>
+	<tu xmlns:lang="kor">프론트 주차 보조 시스템</tu>
+</tm>

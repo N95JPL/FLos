@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_INSERT_KEY_TO_BE_PROGRAMMED">
+	<tu
+    xmlns:lang="eng"
+  >Insert the key to be programmed into the ignition barrel.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Steek de sleutel die geprogrammeerd moet worden in het contactslot</tu>
+	<tu
+    xmlns:lang="fra"
+  >Introduisez la clé à programmer dans le commutateur d'allumage</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den zu programmierenden Schlüssel in das Zündschloß einstecken</tu>
+	<tu xmlns:lang="ita">Infilare nell'accensione la chiave da programmare</tu>
+	<tu xmlns:lang="jpn">プログラムするキーをイグニションに挿入しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Introduzir a chave a ser programada no canhão da ignição.</tu>
+	<tu xmlns:lang="ptb">Insira a chave a ser programada no tambor de ignição.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вставьте программируемый ключ в цилиндр замка зажигания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Meter en el interruptor del encendido la llave que se ha de programar</tu>
+	<tu xmlns:lang="chs">将要设置的钥匙插入点火筒。</tu>
+	<tu xmlns:lang="kor">프로그래밍할 키를 점화 배럴에 넣으십시오.</tu>
+</tm>

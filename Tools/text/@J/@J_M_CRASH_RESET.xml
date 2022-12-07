@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CRASH_RESET">
+	<tu xmlns:lang="eng">Crash status reset</tu>
+	<tu xmlns:lang="nld">Botsingsstatus terugstellen</tu>
+	<tu xmlns:lang="fra">Réinitialisation de l'état de collision</tu>
+	<tu xmlns:lang="deu">Rücksetzung Crash-Status</tu>
+	<tu xmlns:lang="ita">Ripristino stato urto</tu>
+	<tu xmlns:lang="jpn">クラッシュ ステータスのリセット</tu>
+	<tu xmlns:lang="ptg">Reiniciar estado de colisão</tu>
+	<tu xmlns:lang="ptb">Redefinir status de colisão</tu>
+	<tu xmlns:lang="rus">Сброс состояния параметра столкновений</tu>
+	<tu xmlns:lang="esp">Restauración de estado de choque</tu>
+	<tu xmlns:lang="chs">碰撞状态复位</tu>
+	<tu xmlns:lang="kor">충돌 상태 재설정</tu>
+</tm>

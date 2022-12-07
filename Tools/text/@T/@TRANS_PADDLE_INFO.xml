@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRANS_PADDLE_INFO">
+	<tu
+    xmlns:lang="eng"
+  >This application will provide the option for enabling or disabling the transmission paddle shift functionality.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing zal de mogelijkheid bieden tot het in- en uitschakelen van de schakelhendelfunctie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application offre la possibilité d'activer ou de désactiver la fonctionnalité de changement de vitesse par palette.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Anwendung kann die Schaltwippenfunktion aktiviert oder deaktiviert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione offre la possibilità di abilitare o disabilitare la funzionalità del cambio a levette.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、トランスミッション パドル シフト機能\を作動可／作動不可に設定するオプションを提供します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação oferece a opção de activar e desactivar a funcionalidade de mudança de velocidade através das patilhas das mudanças.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo fornecerá a opção de ativar ou desativar a funcionalidade do câmbio borboleta da transmissão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное приложение обеспечивает возможность включения и отключения лепесткового переключателя коробки передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación proporcionará la opción de activar o desactivar la funcionalidad de la la leva de cambios.</tu>
+	<tu
+    xmlns:lang="chs"
+  >此应用程序将提供用于启用或禁用变速器踏板换档功能的选项。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램은 변속기 패들 시프트 기능을 활성화 또는 비활성화하는 옵션을 제공합니다.</tu>
+</tm>

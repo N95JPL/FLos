@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_FANS">
+	<tu xmlns:lang="eng">Cooling fan(s)</tu>
+	<tu xmlns:lang="nld">Koelventilatoren</tu>
+	<tu xmlns:lang="fra">Ventilateur(s) de refroidissement</tu>
+	<tu xmlns:lang="deu">Kühlerlüfter</tu>
+	<tu xmlns:lang="ita">Ventola(e) di raffreddamento</tu>
+	<tu xmlns:lang="jpn">クーリ・グ ファ・</tu>
+	<tu xmlns:lang="ptg">Ventoinha(s) de arrefecimento</tu>
+	<tu xmlns:lang="ptb">Ventoinhas de arrefecimento</tu>
+	<tu xmlns:lang="rus">Охлаждающий вентилятор (вентиляторы)</tu>
+	<tu xmlns:lang="esp">Ventilador(es) de refrigeración</tu>
+	<tu xmlns:lang="chs">冷却风扇</tu>
+	<tu xmlns:lang="kor">냉각 팬</tu>
+</tm>

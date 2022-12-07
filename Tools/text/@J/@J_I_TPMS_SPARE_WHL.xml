@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TPMS_SPARE_WHL">
+	<tu
+    xmlns:lang="eng"
+  >The tire pressure monitor system incorporates the spare wheel.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het Tyre Pressure Monitoring System omvat het reservewiel.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le système de contrôle de pression des pneus comprend la roue de secours.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zum Reifendruck-Überwachungssystem gehört das Ersatzrad.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sistema di monitoraggio della pressione pneumatici comprende la ruota di scorta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >タイヤ プレッシャ モニター システムはスペア ホイールをも含めモニターします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema de monitorização da pressão dos pneus inclui a roda sobresselente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema de monitoramento de pressão dos pneus incorpora a roda sobressalente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система контроля давления в шинах также контролирует давление в запасном колесе.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema de detección de la presión de los neumáticos incluye a la rueda de repuesto.</tu>
+	<tu xmlns:lang="chs">备胎也安装了轮胎压力监测系统。</tu>
+	<tu
+    xmlns:lang="kor"
+  >타이어 공기압 모니터링 시스템에는 스페어 휠이 포함됩니다.</tu>
+</tm>

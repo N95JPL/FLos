@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RIGHT_IGNITOR">
+	<tu xmlns:lang="eng">Right ignitor</tu>
+	<tu xmlns:lang="nld">Ontsteking, rechts</tu>
+	<tu xmlns:lang="fra">Dispositif d'allumage droit</tu>
+	<tu xmlns:lang="deu">Zündgerät rechts</tu>
+	<tu xmlns:lang="ita">Detonatore destro</tu>
+	<tu xmlns:lang="jpn">右イグナイタ</tu>
+	<tu xmlns:lang="ptg">Dispositivo de accionamento, lado direito</tu>
+	<tu xmlns:lang="ptb">Ignição do lado direito</tu>
+	<tu xmlns:lang="rus">Правый электровоспламенитель</tu>
+	<tu xmlns:lang="esp">Detonador derecho</tu>
+	<tu xmlns:lang="chs">右点火器</tu>
+	<tu xmlns:lang="kor">우측 점화 스위치</tu>
+</tm>

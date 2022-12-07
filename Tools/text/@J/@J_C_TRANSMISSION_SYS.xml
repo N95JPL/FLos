@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_TRANSMISSION_SYS">
+	<tu xmlns:lang="eng">Transmission system</tu>
+	<tu xmlns:lang="nld">Transmissiesysteem</tu>
+	<tu xmlns:lang="fra">Systeme de transmission</tu>
+	<tu xmlns:lang="deu">Getriebesystem</tu>
+	<tu xmlns:lang="ita">Sistema trasmissione</tu>
+	<tu xmlns:lang="jpn">トランスミッション システム</tu>
+	<tu xmlns:lang="ptg">Sistema de transmissão</tu>
+	<tu xmlns:lang="ptb">Sistema de transmissão</tu>
+	<tu xmlns:lang="rus">Система силовой передачи</tu>
+	<tu xmlns:lang="esp">Sistema transmisión</tu>
+	<tu xmlns:lang="chs">变速器系统</tu>
+	<tu xmlns:lang="kor">변속기 시스템</tu>
+</tm>

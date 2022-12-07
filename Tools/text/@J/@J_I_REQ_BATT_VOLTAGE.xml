@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REQ_BATT_VOLTAGE">
+	<tu xmlns:lang="eng">Required vehicle battery voltage is</tu>
+	<tu xmlns:lang="nld">De vereiste voertuigaccuspanning is</tu>
+	<tu xmlns:lang="fra">Tension requise de la batterie du véhicule :</tu>
+	<tu xmlns:lang="deu">Die benötigte Spannung der Fahrzeugbatterie beträgt</tu>
+	<tu xmlns:lang="ita">La tensione della batteria del veicolo richiesta è</tu>
+	<tu xmlns:lang="jpn">必要な車両バッテリ電圧：</tu>
+	<tu xmlns:lang="ptg">A tensão da bateria do veículo necessária é</tu>
+	<tu xmlns:lang="ptb">A tensão necessária da bateria do veículo é</tu>
+	<tu xmlns:lang="rus">Требуемое напряжение аккумуляторной батареи автомобиля</tu>
+	<tu xmlns:lang="esp">La tensión de la batería que se requiere es</tu>
+	<tu xmlns:lang="chs">所需的车辆蓄电池电压为</tu>
+	<tu xmlns:lang="kor">필요한 차량 배터리 전압은</tu>
+</tm>

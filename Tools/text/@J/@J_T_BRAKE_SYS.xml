@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_BRAKE_SYS">
+	<tu xmlns:lang="eng">206-00 Brake system</tu>
+	<tu xmlns:lang="nld">206-00 Remsysteem</tu>
+	<tu xmlns:lang="fra">206-00 Système de freinage</tu>
+	<tu xmlns:lang="deu">206-00 Bremssystem</tu>
+	<tu xmlns:lang="ita">206-00 Sistema frenante </tu>
+	<tu xmlns:lang="jpn">206-00 ブレーキ システム</tu>
+	<tu xmlns:lang="ptg">206-00 Sistema de travões</tu>
+	<tu xmlns:lang="ptb">206-00 Sistema de freios</tu>
+	<tu xmlns:lang="rus">206-00 Тормозная система</tu>
+	<tu xmlns:lang="esp">206-00 Sistema de frenos</tu>
+	<tu xmlns:lang="chs">206-00制动系统</tu>
+	<tu xmlns:lang="kor">206-00 브레이크 시스템</tu>
+</tm>

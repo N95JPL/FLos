@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IntStoreError$I">
+	<tu xmlns:lang="eng">Internal storage problem (e.g. flash error).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Probleem bij interne opslag (bijv. flitsprogrammeerfout).</tu>
+	<tu xmlns:lang="fra">Problème de stockage interne (par ex. erreur flash).</tu>
+	<tu xmlns:lang="deu">Internes Speicherproblem (z. B. Flash-Fehler).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Problema di memorizzazione interno (ad es. errore lampeggio).</tu>
+	<tu xmlns:lang="jpn">内部保存の問題 (例：フラッシュ エラー)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Problema interno de armazenamento (por exemplo, erro de flash).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Problema de armazenamento interno (por exemplo, erro de flash).</tu>
+	<tu xmlns:lang="rus">Ошибка внутренней памяти (например, флэш-памяти).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Problema de almacenamiento interno (p.ej., error de actualización del software).</tu>
+	<tu xmlns:lang="chs">内部存储问题（如，闪烁错误）。</tu>
+	<tu xmlns:lang="kor">내부 저장소 문제(예: 플래시 오류)</tu>
+</tm>

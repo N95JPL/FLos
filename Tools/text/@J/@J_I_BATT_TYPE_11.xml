@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_TYPE_11">
+	<tu xmlns:lang="eng">H8HD 90Ah 950 cold cranking ampere</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stroomsterkte bij aanslaan van motor bij koude start 950 A, H8HD 90Ah </tu>
+	<tu xmlns:lang="fra">H8HD 90 Ah 950 ampères au lancement à froid </tu>
+	<tu xmlns:lang="deu">H8 90 Ah 950 Kaltstartampere </tu>
+	<tu xmlns:lang="ita">Amperaggio avviamento a freddo H8HD 90Ah 950</tu>
+	<tu xmlns:lang="jpn">H8HD 90Ah 950 コールド クランキング アンペア</tu>
+	<tu xmlns:lang="ptg">H8HD 90Ah 950 amperagem de arranque a frio</tu>
+	<tu xmlns:lang="ptb">Amperagem de partida a frio H8HD 90Ah 950</tu>
+	<tu xmlns:lang="rus">H8HD 90 Ач, ток холодного пуска двигателя 950 А </tu>
+	<tu xmlns:lang="esp">H8HD 90Ah con 950 A de capacidad de arranque en frío</tu>
+	<tu xmlns:lang="chs">H8HD 90Ah 950 冷起动电流</tu>
+	<tu xmlns:lang="kor">H8HD 90Ah 950 냉간 크랭킹 암페어</tu>
+</tm>

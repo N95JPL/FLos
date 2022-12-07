@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NAV_INT_CNTR_PAN">
+	<tu xmlns:lang="eng">Navigation integrated control panel</tu>
+	<tu xmlns:lang="nld">Geïntegreerd bedieningspaneel van navigatiesysteem </tu>
+	<tu xmlns:lang="fra">Panneau de commande intégré de navigation </tu>
+	<tu xmlns:lang="deu">Navigation, erweitertes integriertes Bedienfeld </tu>
+	<tu xmlns:lang="ita">Quadro comandi integrato navigazione</tu>
+	<tu xmlns:lang="jpn">ナビゲーション インテグレート コントロール パネル</tu>
+	<tu xmlns:lang="ptg">Navegação, painel de controlo integrado</tu>
+	<tu xmlns:lang="ptb">Painel de controle integrado de navegação</tu>
+	<tu xmlns:lang="rus">Встроенная панель управления навигационной системы</tu>
+	<tu xmlns:lang="esp">Panel de mandos integrado del sistema de navegación</tu>
+	<tu xmlns:lang="chs">导航集成控制面板</tu>
+	<tu xmlns:lang="kor">내비게이션 통합 컨트롤 패널</tu>
+</tm>

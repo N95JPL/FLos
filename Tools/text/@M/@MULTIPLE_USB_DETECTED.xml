@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MULTIPLE_USB_DETECTED">
+	<tu xmlns:lang="eng">Multiple USB flash drives detected</tu>
+	<tu xmlns:lang="nld">Meerdere USB-sticks gedetecteerd</tu>
+	<tu xmlns:lang="fra">Plusieurs clés USB détectées</tu>
+	<tu xmlns:lang="deu">Mehrere USB-Sticks erkannt</tu>
+	<tu xmlns:lang="ita">Più unità flash USB rilevate</tu>
+	<tu xmlns:lang="jpn">複数の USB フラッシュ ドライブが検知されました</tu>
+	<tu xmlns:lang="ptg">Várias unidades flash USB detetadas</tu>
+	<tu xmlns:lang="ptb">Múltiplos pen drives USB detectados</tu>
+	<tu xmlns:lang="rus">Обнаружено несколько накопителей USB</tu>
+	<tu xmlns:lang="esp">Se han detectado varias unidades de memoria USB</tu>
+	<tu xmlns:lang="chs">检测到多个 USB 闪存驱动器</tu>
+	<tu xmlns:lang="kor">여러 USB 플래시 드라이브가 감지됨</tu>
+</tm>

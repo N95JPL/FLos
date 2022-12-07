@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OTH_KEYS_DISABLED">
+	<tu
+    xmlns:lang="eng"
+  >The key currently inserted into the starter control unit is programmed, all other possible keys have now been successfully disabled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De sleutel die momenteel in de regeleenheid voor sleutelloos starten (docking station)is gestoken, is geprogrammeerd en alle overige mogelijke sleutels zijn nu met succes gedeactiveerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La clé actuellement insérée dans le module de commande de démarrage est programmée ; toutes les autres clés possibles ont été désactivées avec succès.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der aktuell in die Startsteuereinheit eingesteckte Schlüssel ist programmiert, alle anderen möglichen Schlüssel wurde jetzt erfolgreich deaktiviert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La chiave correntemente inserita nell'unità di comando del motorino di avviamento è programmata, tutte le altre possibili chiavi sono state ora correttamente disabilitate.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >現在スターター コントロール ユニットに挿入されているキーはプログラムされています。他の可能\性のあるキーはすべて正常に作動不可設定されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A chave actualmente introduzida na unidade de controlo do motor de arranque está programada; todas as restantes chaves possíveis foram desactivadas com êxito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A chave atualmente inserida na unidade de controle de partida está programada, todas as outras chaves possíveis foram agora desativadas com êxito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вставленный в настоящее время в блок управления стартером ключ запрограммирован. Все прочие возможные ключи успешно заблокированы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La llave insertada actualmente en la unidad de control del arranque está programada. Las demás llaves posibles se han desactivado correctamente.</tu>
+	<tu xmlns:lang="chs">当前插入起动机控制单元的车钥已编程，其它车钥已被禁用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스타터 컨트롤 유닛에 현재 삽입되어 있는 키가 프로그래밍되며, 다른 모든 가능한 키가 올바로 비활성화되었습니다.</tu>
+</tm>

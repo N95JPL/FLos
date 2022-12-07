@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DDM">
+	<tu xmlns:lang="eng">Driver's door control module</tu>
+	<tu xmlns:lang="nld">Regelmodule bestuurdersportier</tu>
+	<tu xmlns:lang="fra">Module de commande de porte du conducteur</tu>
+	<tu xmlns:lang="deu">Fahrertür-steuergerät</tu>
+	<tu xmlns:lang="ita">Modulo di comando portiera guidatore</tu>
+	<tu xmlns:lang="jpn">運]席側ドア コ・トロールモジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando da porta do condutor.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle da porta do motorista</tu>
+	<tu xmlns:lang="rus">Блок управления в двери водителя</tu>
+	<tu xmlns:lang="esp">Módulo de control de la puerta del conductor</tu>
+	<tu xmlns:lang="chs">驾驶员一侧车门控制模块</tu>
+	<tu xmlns:lang="kor">운전석 도어 컨트롤 모듈</tu>
+</tm>

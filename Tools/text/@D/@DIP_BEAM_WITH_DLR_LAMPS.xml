@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DIP_BEAM_WITH_DLR_LAMPS">
+	<tu xmlns:lang="eng">Low beam with daytime running lamps</tu>
+	<tu xmlns:lang="nld">Dimlicht met dimlicht overdag</tu>
+	<tu xmlns:lang="fra">Feu de croisement avec allumage des feux de jour.</tu>
+	<tu xmlns:lang="deu">Abblendlicht mit Tagfahrlicht</tu>
+	<tu xmlns:lang="ita">Faro anabbagliante con luci diurne</tu>
+	<tu xmlns:lang="jpn">昼間走行ランプ付きロービーム</tu>
+	<tu xmlns:lang="ptg">Médios com luzes de condução diurna</tu>
+	<tu xmlns:lang="ptb">Farol baixo com luzes de funcionamento diurno</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включение ближнего света фар одновременно с дневными габаритными огнями</tu>
+	<tu xmlns:lang="esp">Luz de cruce con luces de conducción diurna</tu>
+	<tu xmlns:lang="chs">带白昼行驶灯的近光灯</tu>
+	<tu xmlns:lang="kor">주간 주행등을 포함한 로우 빔</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_WISH_CLR_ALAR_TRIG_HIS">
+	<tu xmlns:lang="eng">Do you wish to clear alarm trigger history?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wilt u de historie van de oorzaken voor het laten afgaan van het alarm wissen?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Voulez-vous effacer l'historique des déclenchements d'alarmes ?</tu>
+	<tu xmlns:lang="deu">Möchten Sie die Historie - Alarmauslösung löschen?</tu>
+	<tu xmlns:lang="ita">Cancellare la cronologia di attivazioni allarmi?</tu>
+	<tu xmlns:lang="jpn">アラーム トリガー履歴をクリアしますか？</tu>
+	<tu xmlns:lang="ptg">Pretende apagar o histórico de disparos do alarme?</tu>
+	<tu xmlns:lang="ptb">Deseja apagar o histórico do acionador de alarme?</tu>
+	<tu xmlns:lang="rus">Очистить журнал срабатываний сигнализации?</tu>
+	<tu xmlns:lang="esp">¿Desea borrar el historial de disparos de la alarma?</tu>
+	<tu xmlns:lang="chs">您想清除报警触发器历史记录吗？</tu>
+	<tu xmlns:lang="kor">알람 트리거 기록을 삭제하시겠습니까?</tu>
+</tm>

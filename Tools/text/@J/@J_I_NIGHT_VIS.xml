@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NIGHT_VIS">
+	<tu xmlns:lang="eng">Night vision</tu>
+	<tu xmlns:lang="nld">Nachtzicht</tu>
+	<tu xmlns:lang="fra">Vision nocturne</tu>
+	<tu xmlns:lang="deu">Nachtsicht</tu>
+	<tu xmlns:lang="ita">Visione notturna</tu>
+	<tu xmlns:lang="jpn">ナイト ビジョン</tu>
+	<tu xmlns:lang="ptg">Sistema de visão nocturna</tu>
+	<tu xmlns:lang="ptb">Visão noturna</tu>
+	<tu xmlns:lang="rus">Система ночного видения</tu>
+	<tu xmlns:lang="esp">Visión nocturna</tu>
+	<tu xmlns:lang="chs">夜视</tu>
+	<tu xmlns:lang="kor">야간 시야</tu>
+</tm>

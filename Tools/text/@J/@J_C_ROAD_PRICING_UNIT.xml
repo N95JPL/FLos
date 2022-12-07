@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ROAD_PRICING_UNIT">
+	<tu xmlns:lang="eng">Road pricing unit</tu>
+	<tu xmlns:lang="nld">Unit voor rekeningrijden</tu>
+	<tu xmlns:lang="fra">Peage (singapour)</tu>
+	<tu xmlns:lang="deu">Strassengebührenzähler</tu>
+	<tu xmlns:lang="ita">Unitè pedaggio stradale</tu>
+	<tu xmlns:lang="jpn">通行料金単位（シ・ガポールのみ）</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Unidade do sistema 'Road Pricing' (taxas de utilização associadas à circulação automóvel)</tu>
+	<tu xmlns:lang="ptb">Unidade de tarifas de circulação</tu>
+	<tu xmlns:lang="rus">Калькулятор стоимости проезда по платным дорогам</tu>
+	<tu xmlns:lang="esp">Impuesto de circulación (en singapur)</tu>
+	<tu xmlns:lang="chs">公路计价单元</tu>
+	<tu xmlns:lang="kor">도로 통행료 징수 장치</tu>
+</tm>

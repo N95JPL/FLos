@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_NEW_OR_DISABLED">
+	<tu
+    xmlns:lang="eng"
+  >The key inserted into the starter control unit is either a new or disabled key.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De sleutel die u in de regeleenheid voor sleutelloos starten (docking station)steekt, moet een nieuwe of gedeactiveerde sleutel zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La clé insérée dans le module de commande de démarrage est soit neuve, soit désactivée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beim in die Startsteuereinheit eingesteckten Schlüssel handelt es sich entweder um einen neuen oder um einen deaktivierten Schlüssel.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La chiave inserita nell'unità di comando del motorino di avviamento è una chiave nuova o disabilitata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スターター コントロール ユニットへ挿入されるキーは新品または作動不可設定されたものです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A chave introduzida na unidade de controlo do motor de arranque é nova ou está desactivada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A chave inserida na unidade de controle de partida é uma chave nova ou desativada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вставленный в блок управления стартером ключ новый или заблокирован.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La llave insertada en el módulo de control de arranque es una llave nueva o desactivada.</tu>
+	<tu
+    xmlns:lang="chs"
+  >插入起动机控制单元的车钥必须是新的车钥，或是被禁用的车钥。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스타터 컨트롤 유닛에 삽입된 키는 새 키 또는 비활성화된 키입니다.</tu>
+</tm>

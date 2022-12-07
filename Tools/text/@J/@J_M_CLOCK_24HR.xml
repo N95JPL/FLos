@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CLOCK_24HR">
+	<tu xmlns:lang="eng">24 Hour clock</tu>
+	<tu xmlns:lang="nld">24 uurs klok</tu>
+	<tu xmlns:lang="fra">Horloge de 24 heures</tu>
+	<tu xmlns:lang="deu">24-Stunden-Uhr</tu>
+	<tu xmlns:lang="ita">Orologio a 24 ore</tu>
+	<tu xmlns:lang="jpn">24 時間表\示クロック</tu>
+	<tu xmlns:lang="ptg">Formato horário de 24 horas</tu>
+	<tu xmlns:lang="ptb">Relógio com ciclo de 24 horas</tu>
+	<tu xmlns:lang="rus">Часы, работающие в 24-часовом режиме</tu>
+	<tu xmlns:lang="esp">Reloj de 24 horas</tu>
+	<tu xmlns:lang="chs">24 小时制时钟</tu>
+	<tu xmlns:lang="kor">24시간 표시 시계</tu>
+</tm>

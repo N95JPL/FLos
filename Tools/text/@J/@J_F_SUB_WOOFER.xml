@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SUB_WOOFER">
+	<tu xmlns:lang="eng">Subwoofer</tu>
+	<tu xmlns:lang="nld">Sub-woofer</tu>
+	<tu xmlns:lang="fra">Haut-parleur des sous-graves</tu>
+	<tu xmlns:lang="deu">Tieftonlautsprecher</tu>
+	<tu xmlns:lang="ita">Altoparlante inferiore per toni bassi</tu>
+	<tu xmlns:lang="jpn">サブウーファ</tu>
+	<tu xmlns:lang="ptg">Subwoofer (altifalante de subgraves)</tu>
+	<tu xmlns:lang="ptb">Subwoofer</tu>
+	<tu xmlns:lang="rus">Сабвуфер</tu>
+	<tu xmlns:lang="esp">Altavoz sonidos gravisimos</tu>
+	<tu xmlns:lang="chs">超低音扬声器</tu>
+	<tu xmlns:lang="kor">서브우퍼</tu>
+</tm>

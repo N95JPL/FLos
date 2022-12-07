@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PANIC_FUNC">
+	<tu xmlns:lang="eng">Panic alarm functionality</tu>
+	<tu xmlns:lang="nld">Werking van paniekalarm</tu>
+	<tu xmlns:lang="fra">Fonctionnalité du bouton d'alarme anti-agression</tu>
+	<tu xmlns:lang="deu">Panikalarm-Funktionalität</tu>
+	<tu xmlns:lang="ita">Funzionalità allarme antipanico</tu>
+	<tu xmlns:lang="jpn">パニック アラーム機能\</tu>
+	<tu xmlns:lang="ptg">Funcionalidade de alarme de emergência</tu>
+	<tu xmlns:lang="ptb">Funcionalidade de alarme de pânico</tu>
+	<tu xmlns:lang="rus">Функционирование кнопки предупредительной сигнализации</tu>
+	<tu xmlns:lang="esp">Funcionamiento de la alarma de pánico</tu>
+	<tu xmlns:lang="chs">紧急报警器功能</tu>
+	<tu xmlns:lang="kor">패닉 알람 기능</tu>
+</tm>

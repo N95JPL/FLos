@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RECOVERY_MODE_WAIT_20MINS">
+	<tu
+    xmlns:lang="eng"
+  >The module is now in recovery mode, please wait 20 minutes and then retry</tu>
+	<tu
+    xmlns:lang="nld"
+  >De module bevindt zich nu in de herstelmodus. Wacht 20 minuten en probeer het opnieuw</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce module est maintenant en mode récupération, patientez 20 minutes puis essayez de nouveau</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Steuergerät befindet sich jetzt im Wiederherstellungsmodus. Versuchen Sie es nach 20 Minuten bitte erneut.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo è ora in modalità di recupero, attendere 20 minuti quindi riprovare</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュールは現在リカバリ モードです。20 分後に再試行してください</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O módulo está agora em modo de recuperação, aguarde 20 minutos e volte a tentar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo está agora no modo de recuperação, aguarde 20 minutos e, então, tente novamente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок находится в режиме восстановления, выполните повторную попытку через 20 минут</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo se encuentra en modo de recuperación, espere 20 minutos y vuelva a intentarlo.</tu>
+	<tu xmlns:lang="chs">模块正处于修复模式，请等待 20 分钟，然后再重试</tu>
+	<tu
+    xmlns:lang="kor"
+  >모듈이 현재 복구 모드에 있습니다. 20분간 기다린 후 다시 시도하십시오.</tu>
+</tm>

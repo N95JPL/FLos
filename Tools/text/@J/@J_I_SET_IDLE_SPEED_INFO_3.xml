@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_IDLE_SPEED_INFO_3">
+	<tu
+    xmlns:lang="eng"
+  >Whilst making these changes, it is important to consider that the vehicle characteristics will change with mileage.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Terwijl u deze wijzigingen aanbrengt, moet u bedenken dat de voertuigkarakteristieken veranderen naarmate de kilometerstand toeneemt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si vous procédez à ces changements, il est important de tenir compte du fait que les caractéristiques du véhicule changeront avec le kilométrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Während diese Änderungen vorgenommen werden, muss auch bedacht werden, dass sich das Ansprechverhalten des Fahrzeugs mit zunehmender Laufleistung verändert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Durante l'esecuzione di queste modifiche è importante considerare che le caratteristiche del veicolo variano con il differente chilometraggio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これらの変更を行う間に、車両の特性は走行距離増大に伴って変化することを理解することが重要です。</tu>
+	<tu xmlns:lang="ptg">Falha durante a operação de equilibragem</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Enquanto você está fazendo essas mudanças, é importante considerar que as características do veículo irão mudar com a quilometragem.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При выполнении данных изменений важно учесть, что характеристики автомобиля будут изменяться по мере увеличения пробега.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Al efectuar estas modificaciones, es importante tener en cuenta que las características del vehículo cambiarán según el kilometraje recorrido.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'在做出这些改变的同时，还要考虑到车辆特性将伴随里程的增加而发生改变，这一点非常重要。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >이런 변경 작업을 하는 동안 차량 특성이 주행 거리와 함께 바뀔 것이라는 점을 고려하는 것이 중요합니다.</tu>
+</tm>

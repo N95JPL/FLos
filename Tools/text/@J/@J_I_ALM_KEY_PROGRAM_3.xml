@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_KEY_PROGRAM_3">
+	<tu
+    xmlns:lang="eng"
+  >If the smart key has programmed successfully, the horn will sound and the hazard warning lamps will flash once.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de smart-key succesvol is geprogrammeerd, zal de claxon geluid maken en knipperen de alarmknipperlichten één keer.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la clé intelligente a été correctement programmée, l'avertisseur sonore retentit et les feux de détresse clignotent une fois.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn der Smart Key erfolgreich programmiert wurde, ertönt die Hupe, und die Warnblinkanlage blinkt einmal.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la chiave Smart è stata programmata correttamente, l'avvisatore acustico suona e i lampeggiatori di emergenza lampeggiano una volta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スマート キーのプログラミングが正常に完了した場合、ホーンが鳴り、ハザード ワーニング ランプが 1 回点滅する。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a chave inteligente estiver correctamente programada, a buzina soa e as luzes avisadoras de sinalização de emergência piscam uma vez.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a chave inteligente tiver sido programada com sucesso, a buzina soará e as luzes do pisca-alerta piscarão uma vez.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При успешном программировании электронного ключа прозвучит звуковой сигнал и один раз мигнут фонари аварийной сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la llave inteligente se ha programado correctamente, sonará la bocina y las luces de emergencia parpadearán una vez.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果成功地对智能钥匙进行了编程设置，将响起喇叭声，且危险报警灯闪烁一次。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스마트 키를 올바르게 프로그래밍한 경우, 경음기가 울리고 위험 경고등이 한 번 깜박입니다.</tu>
+</tm>

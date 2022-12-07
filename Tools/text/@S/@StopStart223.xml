@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart223">
+	<tu
+    xmlns:lang="eng"
+  >It is normal for this parameter to indicate as an inhibit condition while the vehicle is in motion.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het is normaal dat deze parameter wordt aangegeven als een geblokkeerde toestand terwijl de auto in beweging is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Il est normal que ce paramètre s'affiche comme condition de neutralisation lorsque le véhicule roule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es ist normal, dass dieser Parameter bei fahrendem Fahrzeug auf eine Sperrbedingung hinweist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È normale per questo parametro indicare una condizione di disabilitazione quando il veicolo è in movimento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両が走行しているときにこのパラメータが禁止条件として示されるのは正常です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É normal que este parâmetro indique uma condição de inibição com o veículo em movimento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >É normal que este parâmetro seja indicado como condição de inibição enquanto o veículo está em movimento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Этот параметр может указывать на состояние блокировки, пока автомобиль находится в движении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Es normal que este parámetro indique una condición de bloqueo mientras el vehículo está en movimiento.</tu>
+	<tu xmlns:lang="chs">车辆在行驶过程中时，此参数显示禁用状态是正常情况。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량이 움직이는 동안 이 매개 변수가 억제 조건으로 표시되는 것은 정상입니다.</tu>
+</tm>

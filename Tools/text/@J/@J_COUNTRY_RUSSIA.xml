@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_RUSSIA">
+	<tu xmlns:lang="eng">Russia</tu>
+	<tu xmlns:lang="nld">Rusland</tu>
+	<tu xmlns:lang="fra">Russie</tu>
+	<tu xmlns:lang="deu">Rußland</tu>
+	<tu xmlns:lang="ita">Russia</tu>
+	<tu xmlns:lang="jpn">ロシア</tu>
+	<tu xmlns:lang="ptg">Rússia</tu>
+	<tu xmlns:lang="ptb">Rússia</tu>
+	<tu xmlns:lang="rus">Россия</tu>
+	<tu xmlns:lang="esp">Rusia</tu>
+	<tu xmlns:lang="chs">俄罗斯</tu>
+	<tu xmlns:lang="kor">러시아</tu>
+</tm>

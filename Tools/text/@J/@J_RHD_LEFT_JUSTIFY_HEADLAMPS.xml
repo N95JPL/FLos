@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_RHD_LEFT_JUSTIFY_HEADLAMPS">
+	<tu
+    xmlns:lang="eng"
+  >Right hand drive vehicle with left justified headlamps (UK markets).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Rechtsbestuurd voertuig met naar links ingestelde koplampen (markten van het V.K.).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Véhicule à conduite à droite avec phares pour circulation à gauche (marchés R-U).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Rechtslenker mit nach links ausgerichteten Scheinwerfern (GB-Markt).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Veicolo con guida a destra e fascio luminoso fari orientato verso sinistra (mercato britannico).</tu>
+	<tu xmlns:lang="jpn">左ヘッドランプ承認右ハンドル車両 (英国市場)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Veículo com volante à direita com faróis alinhados à esquerda (mercados RU).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Veículo conduzido pelo lado direito com faróis justificados à esquerda (mercados do Reino Unido).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль с правосторонним управлением и юстированными влево фарами (рынки Великобритании).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Vehículo con volante a la derecha con faros alineados a la izquierda (mercados del Reino Unido).</tu>
+	<tu xmlns:lang="chs">配有左侧调整前照灯（英国市场）的右驾车辆。</tu>
+	<tu xmlns:lang="kor">좌측 헤드램프가 조정된 우측 핸들 차량(영국 시장)</tu>
+</tm>

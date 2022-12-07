@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VINMismatch_T">
+	<tu xmlns:lang="eng">VIN error</tu>
+	<tu xmlns:lang="nld">VIN-fout</tu>
+	<tu xmlns:lang="fra">Erreur de VIN</tu>
+	<tu xmlns:lang="deu">VIN-Fehler</tu>
+	<tu xmlns:lang="ita">Errore di VIN</tu>
+	<tu xmlns:lang="jpn">VIN エラー</tu>
+	<tu xmlns:lang="ptg">Erro NIV</tu>
+	<tu xmlns:lang="ptb">Erro de VIN</tu>
+	<tu xmlns:lang="rus">Ошибка VIN</tu>
+	<tu xmlns:lang="esp">Error del VIN</tu>
+	<tu xmlns:lang="chs">车辆识别代码（VIN）错误</tu>
+	<tu xmlns:lang="kor">VIN 오류</tu>
+</tm>

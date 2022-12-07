@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_STOP_START_HEALTH_INFO_7">
+	<tu xmlns:lang="eng">The system status will be displayed by means of:</tu>
+	<tu
+    xmlns:lang="nld"
+  >De status van het systeem wordt weergegeven door middel van:</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'état du système apparaît à l'aide des éléments suivants :</tu>
+	<tu xmlns:lang="deu">Der System-Status wird angezeigt mithilfe von:</tu>
+	<tu xmlns:lang="ita">Lo stato del sistema viene visualizzato per mezzo di:</tu>
+	<tu xmlns:lang="jpn">システム ステータスは、次のように表示されます。</tu>
+	<tu xmlns:lang="ptg">O estado do sistema será indicado através de:</tu>
+	<tu xmlns:lang="ptb">O status do sistema será exibido por meio de:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Статус системы будет обозначен посредством следующих знаков:</tu>
+	<tu
+    xmlns:lang="esp"
+  >El estado del sistema se mostrará de la siguiente forma:</tu>
+	<tu xmlns:lang="chs">系统状态将通过以下方式显示：</tu>
+	<tu xmlns:lang="kor">시스템 상태는 다음과 같은 방법으로 표시됩니다.</tu>
+</tm>

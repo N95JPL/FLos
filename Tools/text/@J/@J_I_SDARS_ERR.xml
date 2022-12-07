@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SDARS_ERR">
+	<tu xmlns:lang="eng">Satellite digital audio receiver system error</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fout in systeem voor satellietontvanger van digitale geluidsinstallatie</tu>
+	<tu
+    xmlns:lang="fra"
+  >Erreur système de récepteur audio numérique par satellite</tu>
+	<tu
+    xmlns:lang="deu"
+  >Digitales Satellitenradio-Audioempfängersystem - Fehler</tu>
+	<tu xmlns:lang="ita">Errore sistema ricevitore audio digitale satellitare</tu>
+	<tu xmlns:lang="jpn">衛星デジタル オーディオ レシーバー システム エラー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Erro SDARS (sistema receptor áudio digital via satélite)</tu>
+	<tu xmlns:lang="ptb">Erro no sistema receptor de áudio digital via satélite</tu>
+	<tu xmlns:lang="rus">Ошибка цифровой аудиосистемы спутникового приема</tu>
+	<tu
+    xmlns:lang="esp"
+  >Error del sistema de receptor de audio digital vía satélite</tu>
+	<tu xmlns:lang="chs">卫星数字音频接收器系统出错</tu>
+	<tu xmlns:lang="kor">위성 디지털 오디오 수신기 시스템 오류</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@USB_DRIVE_WILL_BE_FORMATTED">
+	<tu xmlns:lang="eng">USB flash drive will be formatted.</tu>
+	<tu xmlns:lang="nld">USB-stick wordt geformatteerd.</tu>
+	<tu xmlns:lang="fra">Le lecteur USB va être formaté.</tu>
+	<tu xmlns:lang="deu">USB-Stick wird formatiert.</tu>
+	<tu xmlns:lang="ita">L’unità flash USB verrà formattata.</tu>
+	<tu xmlns:lang="jpn">USB フラッシュ ドライブがフォーマットされます。</tu>
+	<tu xmlns:lang="ptg">A unidade flash USB será formatada.</tu>
+	<tu xmlns:lang="ptb">O Pen drive USB será formatado.</tu>
+	<tu xmlns:lang="rus">Будет выполнено форматирование накопителя USB.</tu>
+	<tu xmlns:lang="esp">La unidad de memoria USB se formateará.</tu>
+	<tu xmlns:lang="chs">将格式化 USB 闪存驱动器。</tu>
+	<tu xmlns:lang="kor">USB 플래시 드라이브가 포맷됩니다.</tu>
+</tm>

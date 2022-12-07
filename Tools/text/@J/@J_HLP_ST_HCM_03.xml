@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_HCM_03">
+	<tu
+    xmlns:lang="eng"
+  >In the adaptive front lighting system the levelling module runs the stepper motors to the lower mechanical stop.</tu>
+	<tu
+    xmlns:lang="nld"
+  >In het adaptieve voorverlichtingssysteem stuurt de regelmodule van hoogte-instelling de stappenmotoren naar de onderste mechanische eindaanslag.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Dans le système de phares autodirectionnels, le module de réglage de site amène les moteurs pas-à-pas à la butée mécanique inférieure.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beim adaptiven Kurvenlicht verfährt das Steuergerät der Leuchtweitenregulierung die Schrittmotoren an den unteren mechanischen Anschlag.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nel sistema luci anteriori adattative, il modulo di livellamento aziona i motorini passo passo fino al fermo meccanico inferiore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アダプティブ フロント ライティング システムで、レベリング モジュールはステッパ モーターを下方の機械的ストップ位置へ駆動します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >No sistema de iluminação dianteira adaptável, o módulo de nivelamento faz deslocar os motores passo-a-passo para o batente mecânico inferior.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >No sistema de faróis dianteiros adaptativos, o módulo de nivelamento aciona os motores de passo até o batente mecânico inferior.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В адаптивной системе переднего освещения блок коррекции положения фар запускает шаговые двигатели до механической остановки в нижнем положении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo de nivelación del sistema de faros adaptativos hace funcionar los motores paso a paso para que lleguen al tope mecánico inferior.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在自适应前照明系统，调平模块运行步进电机，以降低机械限位器。</tu>
+	<tu
+    xmlns:lang="kor"
+  >어댑티브 프론트 조명 시스템에서 레벨링 모듈이 하부 기계식 스톱 위치까지 스테퍼 모터를 작동합니다.</tu>
+</tm>

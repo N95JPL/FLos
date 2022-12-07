@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HOURS_AND_MINS">
+	<tu xmlns:lang="eng">%d hours %d minutes</tu>
+	<tu xmlns:lang="nld">%d uur %d minuten</tu>
+	<tu xmlns:lang="fra">%d heures %d minutes</tu>
+	<tu xmlns:lang="deu">%d Stunden %d Minuten</tu>
+	<tu xmlns:lang="ita">%d ore %d minuti</tu>
+	<tu xmlns:lang="jpn">%d 時間 %d 分</tu>
+	<tu xmlns:lang="ptg">%d horas %d minutos</tu>
+	<tu xmlns:lang="ptb">%d horas %d minutos</tu>
+	<tu xmlns:lang="rus">%d час. %d мин.</tu>
+	<tu xmlns:lang="esp">%d horas %d minutos</tu>
+	<tu xmlns:lang="chs">%d 小时 %d 分钟</tu>
+	<tu xmlns:lang="kor">%d시간 %d분</tu>
+</tm>

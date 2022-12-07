@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOCK_BUTTON">
+	<tu xmlns:lang="eng">Lock button</tu>
+	<tu xmlns:lang="nld">Vergrendeltoets</tu>
+	<tu xmlns:lang="fra">Bouton de verrouillage</tu>
+	<tu xmlns:lang="deu">Verriegelungstaste</tu>
+	<tu xmlns:lang="ita">Tasto di bloccaggio</tu>
+	<tu xmlns:lang="jpn">ロック ボタン</tu>
+	<tu xmlns:lang="ptg">Botão de trancar</tu>
+	<tu xmlns:lang="ptb">Botão de travamento</tu>
+	<tu xmlns:lang="rus">Кнопка запирания</tu>
+	<tu xmlns:lang="esp">Botón de bloqueo</tu>
+	<tu xmlns:lang="chs">锁定按钮</tu>
+	<tu xmlns:lang="kor">잠금 버튼</tu>
+</tm>

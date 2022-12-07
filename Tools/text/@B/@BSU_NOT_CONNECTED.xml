@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BSU_NOT_CONNECTED">
+	<tu xmlns:lang="eng">Battery Support Unit is not connected</tu>
+	<tu xmlns:lang="nld">Acculader is niet aangesloten</tu>
+	<tu xmlns:lang="fra">Unité de support de batterie non branchée</tu>
+	<tu xmlns:lang="deu">Batterieladegerät ist nicht angeschlossen</tu>
+	<tu xmlns:lang="ita">Unità di supporto della batteria non collegata</tu>
+	<tu xmlns:lang="jpn">バッテリー サポート ユニットが接続されていません</tu>
+	<tu xmlns:lang="ptg">A unidade de suporte da bateria não está ligada</tu>
+	<tu xmlns:lang="ptb">A Unidade de Suporte da Bateria não está conectada</tu>
+	<tu
+    xmlns:lang="rus"
+  >Устройство поддержания заряда аккумуляторной батареи не подключено</tu>
+	<tu xmlns:lang="esp">El acondicionador de batería no está conectado</tu>
+	<tu xmlns:lang="chs">蓄电池支持单元未连接</tu>
+	<tu xmlns:lang="kor">배터리 지원 장치가 연결되지 않았습니다.</tu>
+</tm>

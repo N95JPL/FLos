@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_CELL_PHONE_SYS">
+	<tu xmlns:lang="eng">Cellular telephone system not fitted</tu>
+	<tu xmlns:lang="nld">Autotelefoonsysteem niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Système de téléphone cellulaire non monté</tu>
+	<tu xmlns:lang="deu">Mobiltelefonsystem nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Impianto telefono cellulare non in dotazione</tu>
+	<tu xmlns:lang="jpn">セルラー テレホン システム非装備</tu>
+	<tu xmlns:lang="ptg">Sistema de telemóvel não está instalado</tu>
+	<tu xmlns:lang="ptb">Sistema de telefone celular não instalado</tu>
+	<tu xmlns:lang="rus">Система сотовой телефонной связи не установлена</tu>
+	<tu xmlns:lang="esp">No hay sistema de telefonía móvil</tu>
+	<tu xmlns:lang="chs">蜂窝电话系统未安装</tu>
+	<tu xmlns:lang="kor">휴대 전화 시스템이 장착되지 않음</tu>
+</tm>

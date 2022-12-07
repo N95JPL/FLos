@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_OCS">
+	<tu xmlns:lang="eng">Restraints occupant classification system module</tu>
+	<tu
+    xmlns:lang="nld"
+  >Module van inzittenden-classificatiesysteem, veiligheidsgordels en airbags</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de système de détection d'occupation de siège des systèmes de retenue</tu>
+	<tu xmlns:lang="deu">Belegungserkennungs-Steuergerät, Rückhaltesystem</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo sistema classificazione occupanti, sicurezza occupanti</tu>
+	<tu xmlns:lang="jpn">拘束乗員識別システム モジュール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo do sistema de classificação de ocupantes do sistema de segurança</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo do sistema de classificação de restrições de ocupante</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок системы классификации пассажира/водителя системы пассивной безопасности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo del sistema de clasificación de los ocupantes del sistema de retención</tu>
+	<tu xmlns:lang="chs">约束乘员分类系统模块</tu>
+	<tu xmlns:lang="kor">에어백 승객 분류 시스템 모듈</tu>
+</tm>

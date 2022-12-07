@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_OUT_TRANS_MODE">
+	<tu
+    xmlns:lang="eng"
+  >The vehicle has successfully been taken out of transport mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het uit de transportfunctie halen van het voertuig is met succes uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le mode de transport du véhicule a été annulé avec succès.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug wurde erfolgreich aus dem Transportmodus gebracht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo è uscito correttamente dalla modalità di trasporto.</tu>
+	<tu xmlns:lang="jpn">車両は正常に輸送モードから抜けました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo foi retirado com êxito do modo de transporte.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo foi retirada do modo de transporte com êxito.</tu>
+	<tu xmlns:lang="rus">Режим транспортировки автомобиля успешно отключен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El vehículo ha salido satisfactoriamente del modo de transporte.</tu>
+	<tu xmlns:lang="chs">车辆已成功从运输模式中退出。</tu>
+	<tu xmlns:lang="kor">차량이 올바로 운송 모드에서 해제되었습니다.</tu>
+</tm>

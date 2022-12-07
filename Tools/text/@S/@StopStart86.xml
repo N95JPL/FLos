@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart86">
+	<tu
+    xmlns:lang="eng"
+  >The auto stop/start system will resume operation when the process has completed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het automatische Stop/Start-systeem wordt weer ingeschakeld wanneer het proces is voltooid.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le système Arrêt/Démarrage auto se réactive après l'achèvement du processus.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Auto-Stopp-Start-System nimmt den Betrieb wieder auf, wenn der Prozess abgeschlossen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quando il processo è stato completato, il sistema Stop/Start automatico riprende a funzionare.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プロセスが完了すると、オート ストップ/スタート システムは作動を再開します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema Stop/Start automático retoma o funcionamento quando o processo é concluído.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema stop/start automático retomará a operação quando o processo tiver sido concluído.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автоматическая интеллектуальная система запуска/остановки двигателя стоп/старт возобновит работу по завершении процесса.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema Stop/Start automático reanudará su funcionamiento cuando se complete el proceso.</tu>
+	<tu xmlns:lang="chs">此流程完毕后，自动停止/启动系统将恢复操作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 프로세스가 완료되면 자동 Stop/Start 시스템이 작동을 재개합니다.</tu>
+</tm>

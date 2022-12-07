@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnsWindCleanDry$M">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the windshield area surrounding the sensor is completely clean and dry.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat de plek op de voorruit rondom de sensor helemaal schoon en droog is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que la surface du pare-brise entourant le capteur est parfaitement propre et sèche.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass der Windschutzscheibenbereich um den Sensor herum völlig sauber und trocken ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che l'area del parabrezza circostante al sensore sia completamente pulita e asciutta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >センサー周辺のウィンドシールド エリアが完全に乾燥し、まったく汚れていないことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que a zona do pára-brisas à volta do sensor está totalmente limpa e seca.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se a área do para-brisa ao redor do sensor está completamente limpa e seca.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что участок ветрового стекла вокруг датчика абсолютно чистый и сухой.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que la zona del parabrisas alrededor del sensor esté totalmente limpia y seca.</tu>
+	<tu xmlns:lang="chs">确保环绕传感器的挡风玻璃区域完全干净和干燥。</tu>
+	<tu
+    xmlns:lang="kor"
+  >센서를 둘러싸고 있는 윈드실드 영역이 매우 깨끗하고 건조한지 확인하십시오.</tu>
+</tm>

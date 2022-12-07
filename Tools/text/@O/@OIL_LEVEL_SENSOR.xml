@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OIL_LEVEL_SENSOR">
+	<tu xmlns:lang="eng">Engine oil level sensor</tu>
+	<tu xmlns:lang="nld">Sensor, motoroliepeil</tu>
+	<tu xmlns:lang="fra">Capteur de niveau d'huile moteur</tu>
+	<tu xmlns:lang="deu">Motorölstandsfühler</tu>
+	<tu xmlns:lang="ita">Sensore livello olio motore</tu>
+	<tu xmlns:lang="jpn">エンｼﾞン・オイル・レﾍﾞル・センサ</tu>
+	<tu xmlns:lang="ptg">Sensor do nível de óleo do motor</tu>
+	<tu xmlns:lang="ptb">Sensor do nível de óleo do motor</tu>
+	<tu xmlns:lang="rus">Датчик уровня моторного масла</tu>
+	<tu xmlns:lang="esp">Sensor nivel aceite motor</tu>
+	<tu xmlns:lang="chs">发动机机油油位传感器</tu>
+	<tu xmlns:lang="kor">엔진 오일 레벨 센서</tu>
+</tm>

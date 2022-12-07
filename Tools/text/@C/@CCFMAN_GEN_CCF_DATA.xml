@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_GEN_CCF_DATA">
+	<tu xmlns:lang="eng">Generating car configuration data, please wait</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bezig met genereren voertuigconfiguratiegegevens, even geduld a.u.b.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Données de configuration du véhicule en cours de production, veuillez patienter</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeug-Konfigurationsdaten werden erstellt, bitte warten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Generazione in corso dei dati di configurazione veicolo, attendere</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション データを生成中です - お待ちください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A gerar os dados de configuração do veículo; queira aguardar</tu>
+	<tu xmlns:lang="ptb">Gerando dados de configuração do carro, aguarde</tu>
+	<tu xmlns:lang="rus">Подождите, генерируются данные конфигурации автомобиля</tu>
+	<tu xmlns:lang="esp">Generando datos de configuración del vehículo...</tu>
+	<tu xmlns:lang="chs">正在生成车辆配置数据，请等候</tu>
+	<tu xmlns:lang="kor">차량 구성 데이터를 생성 중입니다. 기다려 주십시오.</tu>
+</tm>

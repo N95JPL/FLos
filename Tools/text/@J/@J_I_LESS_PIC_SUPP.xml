@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_PIC_SUPP">
+	<tu xmlns:lang="eng">Without picture support</tu>
+	<tu xmlns:lang="nld">Zonder beeldondersteuning </tu>
+	<tu xmlns:lang="fra">Sans prise en charge d'images </tu>
+	<tu xmlns:lang="deu">Ohne Bildunterstützung </tu>
+	<tu xmlns:lang="ita">Senza supporto immagini</tu>
+	<tu xmlns:lang="jpn">ピクチャー サポートなし</tu>
+	<tu xmlns:lang="ptg">Sem suporte de imagens</tu>
+	<tu xmlns:lang="ptb">Sem suporte de imagens</tu>
+	<tu xmlns:lang="rus">Без поддержки вывода изображений </tu>
+	<tu xmlns:lang="esp">Sin compatibilidad con imágenes</tu>
+	<tu xmlns:lang="chs">无图片支持</tu>
+	<tu xmlns:lang="kor">사진 지원 없음</tu>
+</tm>

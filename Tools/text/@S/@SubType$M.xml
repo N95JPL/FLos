@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SubType$M">
+	<tu xmlns:lang="eng">Sub-type</tu>
+	<tu xmlns:lang="nld">Sub-type</tu>
+	<tu xmlns:lang="fra">Sous-type.</tu>
+	<tu xmlns:lang="deu">Untertyp</tu>
+	<tu xmlns:lang="ita">Sottotipo</tu>
+	<tu xmlns:lang="jpn">サブタイプ</tu>
+	<tu xmlns:lang="ptg">Subtipo</tu>
+	<tu xmlns:lang="ptb">Sub-tipo</tu>
+	<tu xmlns:lang="rus">Подтип</tu>
+	<tu xmlns:lang="esp">Subtipo</tu>
+	<tu xmlns:lang="chs">子类型</tu>
+	<tu xmlns:lang="kor">하위 유형</tu>
+</tm>

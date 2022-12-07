@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_TURBOCHARGER">
+	<tu xmlns:lang="eng">Turbocharger</tu>
+	<tu xmlns:lang="nld">Supercharger</tu>
+	<tu xmlns:lang="fra">Turbocompresseur</tu>
+	<tu xmlns:lang="deu">Turbolader.</tu>
+	<tu xmlns:lang="ita">Turbocompressore</tu>
+	<tu xmlns:lang="jpn">ターボチャージャ</tu>
+	<tu xmlns:lang="ptg">Turbocompressor</tu>
+	<tu xmlns:lang="ptb">Turbocompressor</tu>
+	<tu xmlns:lang="rus">Турбокомпрессор</tu>
+	<tu xmlns:lang="esp">Turbo</tu>
+	<tu xmlns:lang="chs">涡轮增压器</tu>
+	<tu xmlns:lang="kor">터보차저</tu>
+</tm>

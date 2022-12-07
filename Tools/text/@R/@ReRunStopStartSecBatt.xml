@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ReRunStopStartSecBatt">
+	<tu
+    xmlns:lang="eng"
+  >Re-run the stop/start system application.  If the secondary battery is still inhibiting the stop/start system contact retailer technical support.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer de toepassing van het stop/start-systeem opnieuw uit. Als de secundaire accu nog steeds het Stop/Start-systeem blokkeert, neem dan contact op met Dealer Technical Support.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Exécuter de nouveau l'application du système Arrêt/Démarrage. Si la batterie secondaire neutralise toujours le système Arrêt/Démarrage, contacter l'assistance technique des concessionnaires.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Stopp/Start-System-Anwendung erneut ausführen. Wenn die Sekundärbatterie immer noch das Stopp/Start-System sperrt, mit dem Retailer Technical Support Kontakt aufnehmen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Eseguire nuovamente l'applicazione del sistema Stop/Start. Se la batteria secondaria ancora disabilita il sistema Stop/Start, rivolgersi al supporto tecnico del concessionario.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スタート/ストップ システム アプリケーションを再度実行します。 セカンダリ バッテリーがスタート/ストップ システムを禁止続ける場合は、正規ディーラーのテクニカル サポートに連絡してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Volte a executar a aplicação do sistema Stop/Start. Caso a bateria secundária ainda se encontre a inibir o sistema Stop/Start, contacte a assistência técnica do concessionário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Execute novamente a aplicação do sistema Stop/Start. Se a bateria secundária ainda está inibindo o sistema stop/start, entre em contato com suporte técnico da Concessionária.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Снова запустите систему стоп/старт. Если система стоп/старт все еще блокируется вспомогательной аккумуляторной батареей, свяжитесь со службой технической поддержки дилера.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Vuelva a ejecutar la aplicación del sistema Stop/Start. Si la batería secundaria sigue impidiendo el funcionamiento del sistema Stop/Start, consulte con el servicio de asistencia técnica para concesionarios.</tu>
+	<tu
+    xmlns:lang="chs"
+  >重新运行停止/启动系统应用程序。 如果辅助蓄电池仍禁止停止/启动系统，请联系经销商技术支持。</tu>
+	<tu
+    xmlns:lang="kor"
+  >Stop/Start 시스템 응용 프로그램을 다시 실행하십시오. 보조 배터리가 여전히 Stop/Start 시스템을 억제하고 있을 경우 딜러점 기술 지원부로 문의하십시오.</tu>
+</tm>

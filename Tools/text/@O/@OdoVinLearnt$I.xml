@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OdoVinLearnt$I">
+	<tu
+    xmlns:lang="eng"
+  >The odometer value and VIN will now have been learnt and verified.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De kilometertellerwaarde en het VIN zullen nu zijn ingeleerd en geverifieerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le VIN et la valeur du totalisateur kilométrique ont à présent été appris et vérifiés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kilometerstand und VIN wurden nun erlernt und verifiziert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Apprendimento e verifica del valore contachilometri e VIN completati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オドメータ数値および VIN の認識および正当性確認が完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O valor do conta-quilómetros e o NIV terão agora sido programados e verificados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O valor do odômetro e o VIN agora terá sido memorizado e verificado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Теперь будут определены и проверены значения одометра и VIN-код.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ahora habrá aprendido y verificado el valor del cuentakilómetros y el VIN.</tu>
+	<tu xmlns:lang="chs">里程表值和VIN现已得到记忆和验证。</tu>
+	<tu xmlns:lang="kor">주행 기록계 값과 VIN이 학습되고 확인되었습니다.</tu>
+</tm>

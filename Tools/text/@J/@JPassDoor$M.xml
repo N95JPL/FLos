@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JPassDoor$M">
+	<tu xmlns:lang="eng">Passenger's door</tu>
+	<tu xmlns:lang="nld">Passagiersdeur</tu>
+	<tu xmlns:lang="fra">Portière passager</tu>
+	<tu xmlns:lang="deu">Beifohretu</tu>
+	<tu xmlns:lang="ita">Porta passeggero</tu>
+	<tu xmlns:lang="jpn">ﾊﾟッセンｼﾞャー・ﾄﾞア</tu>
+	<tu xmlns:lang="ptg">Porta do passageiro</tu>
+	<tu xmlns:lang="ptb">Porta do passageiro</tu>
+	<tu xmlns:lang="rus">Дверь пассажира</tu>
+	<tu xmlns:lang="esp">Puerta del acompañante</tu>
+	<tu xmlns:lang="chs">乘客一侧车门</tu>
+	<tu xmlns:lang="kor">조수석 도어</tu>
+</tm>

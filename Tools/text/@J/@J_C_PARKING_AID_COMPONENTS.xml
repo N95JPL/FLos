@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_PARKING_AID_COMPONENTS">
+	<tu xmlns:lang="eng">Parking aid system components</tu>
+	<tu xmlns:lang="nld">Componenten parkeerhulpsysteem</tu>
+	<tu xmlns:lang="fra">Composants du systeme d'aide au stationnement</tu>
+	<tu xmlns:lang="deu">Einparkhilfesystem-komponenten</tu>
+	<tu xmlns:lang="ita">Componenti sistema assistenza parcheggio</tu>
+	<tu xmlns:lang="jpn">パーキ・グ エイド システム コ・ポーネ・ト</tu>
+	<tu xmlns:lang="ptg">Componentes do sistema de auxílio ao estacionamento</tu>
+	<tu xmlns:lang="ptb">Componentes do sistema de sensores de estacionamento</tu>
+	<tu xmlns:lang="rus">Компоненты системы помощи при парковке.</tu>
+	<tu xmlns:lang="esp">Componentes del sistema de ayuda de aparcamiento</tu>
+	<tu xmlns:lang="chs">驻车助力系统元件</tu>
+	<tu xmlns:lang="kor">파킹 에이드 시스템 구성 요소</tu>
+</tm>

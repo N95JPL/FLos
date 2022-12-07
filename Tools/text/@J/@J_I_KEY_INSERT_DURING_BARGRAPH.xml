@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_INSERT_DURING_BARGRAPH">
+	<tu
+    xmlns:lang="eng"
+  >The key to be programmed must be inserted during the 15 second progress bar, this will be displayed once the key program mode has been activated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U moet de sleutel die u wilt programmeren insteken terwijl de voortgangsbalk van 15 seconden wordt weergegeven. Deze verschijnt zodra u de functie voor het programmeren van sleutels geactiveerd hebt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La clé à programmer doit être insérée dans les 15 secondes mesurées par la barre de progression ; ceci sera affiché lorsque le mode de programmation de clé aura été activé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der zu programmierende Schlüssel muss während der 15 Sekunden dauernden Anzeige des Fortschrittsbalkens eingesteckt werden; dieser wird nach Aktivierung des Schlüsselprogrammiermodus angezeigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La chiave da programmare deve essere inserita durante la barra di avanzamento di 15 secondi che verrà visualizzata non appena viene attivata la modalità di programmazione chiave.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >15 秒の進行バーが動いているうちにプログラムするキーを挿入する必要があります。キー プログラム モードが起動されると、これは表\示されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A chave a ser programada terá de ser introduzida durante a visualização da barra de progresso de 15 segundos; esta será mostrada assim que se activa o modo de programação de chaves.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A chave a ser programada deve ser inserida durante a barra de progresso de 15 segundos, essa será exibida após o modo de programa da chave ser ativado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подлежащий программированию ключ должен быть вставлен в течение 15 секунд, пока отображается индикатор выполнения, появляющийся на экране после включения режима программирования ключа.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se debe insertar la llave que se va a programar mientras esté visible la barra de progreso de 15 segundos que aparecerá cuando se active el modo de programación de llaves.</tu>
+	<tu
+    xmlns:lang="chs"
+  >待编程的车钥必须在 15 秒内插入，车钥编程模式激活后会显示时间进度条。</tu>
+	<tu
+    xmlns:lang="kor"
+  >15초간 진행 표시줄이 표시되는 동안 프로그래밍할 키를 삽입해야 하며, 이것은 키 프로그램 모드가 활성화된 후에 표시됩니다.</tu>
+</tm>

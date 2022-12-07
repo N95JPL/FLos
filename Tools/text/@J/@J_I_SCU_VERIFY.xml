@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SCU_VERIFY">
+	<tu xmlns:lang="eng">Starter control unit verify</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verificatie van regeleenheid voor sleutelloos starten (docking station)</tu>
+	<tu xmlns:lang="fra">Vérification du module de commande de démarrage</tu>
+	<tu xmlns:lang="deu">Verifikation Startsteuereinheit</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verifica dell'unità di comando del motorino di avviamento</tu>
+	<tu xmlns:lang="jpn">スターター コントロール ユニットの正当性確認</tu>
+	<tu xmlns:lang="ptg">Verificar unidade de controlo do motor de arranque</tu>
+	<tu xmlns:lang="ptb">Verificar unidade de controle de partida</tu>
+	<tu xmlns:lang="rus">Проверка блока управления стартером</tu>
+	<tu xmlns:lang="esp">Comprobación del módulo de control del arranque</tu>
+	<tu xmlns:lang="chs">起动机控制单元验证</tu>
+	<tu xmlns:lang="kor">스타터 컨트롤 유닛 확인</tu>
+</tm>

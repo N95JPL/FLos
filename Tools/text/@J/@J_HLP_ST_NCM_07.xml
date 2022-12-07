@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_NCM_07">
+	<tu xmlns:lang="eng">Battery low voltage threshold.</tu>
+	<tu xmlns:lang="nld">Ondergrenswaarde van accuspanning.</tu>
+	<tu xmlns:lang="fra">Seuil de basse tension de batterie</tu>
+	<tu xmlns:lang="deu">Schwellenwert niedrige Batteriespannung.</tu>
+	<tu xmlns:lang="ita">Soglia di tensione batteria bassa.</tu>
+	<tu xmlns:lang="jpn">バッテリ低電圧作動値</tu>
+	<tu xmlns:lang="ptg">Limiar de tensão baixa da bateria.</tu>
+	<tu xmlns:lang="ptb">Limite de baixa tensão da bateria.</tu>
+	<tu xmlns:lang="rus">Порог низкого напряжения аккумуляторной батареи.</tu>
+	<tu xmlns:lang="esp">Umbral de baja tensión de la batería.</tu>
+	<tu xmlns:lang="chs">蓄电池电压下门限值。</tu>
+	<tu xmlns:lang="kor">배터리 저전압 임계값</tu>
+</tm>

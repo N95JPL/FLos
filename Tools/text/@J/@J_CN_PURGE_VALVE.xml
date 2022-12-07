@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CN_PURGE_VALVE">
+	<tu xmlns:lang="eng">Purge valve</tu>
+	<tu xmlns:lang="nld">Afzuigklep</tu>
+	<tu xmlns:lang="fra">Valve de purge</tu>
+	<tu xmlns:lang="deu">Spülventil</tu>
+	<tu xmlns:lang="ita">Valvola di spurgo</tu>
+	<tu xmlns:lang="jpn">パージ バルブ</tu>
+	<tu xmlns:lang="ptg">Válvula de purga</tu>
+	<tu xmlns:lang="ptb">Válvula de dreno</tu>
+	<tu xmlns:lang="rus">Клапан продувки</tu>
+	<tu xmlns:lang="esp">Válvula de purga</tu>
+	<tu xmlns:lang="chs">清污阀</tu>
+	<tu xmlns:lang="kor">퍼지 밸브</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_68">
+	<tu xmlns:lang="eng">Algorithm based failure - event information.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fout gebaseerd op algoritme - informatie over gebeurtenis.</tu>
+	<tu xmlns:lang="fra">Erreur d'algorithme - information d'événement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf Algorithmus basierender Fehler - Ereignisinformation.</tu>
+	<tu xmlns:lang="ita">Guasto algoritmico - informazioni eventi.</tu>
+	<tu xmlns:lang="jpn">アルゴリズム ベースの不具合 － イベント情報</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha com base no algoritmo - informações sobre os eventos.</tu>
+	<tu xmlns:lang="ptb">Falha baseada em algoritmo - informações de evento.</tu>
+	<tu xmlns:lang="rus">Ошибка алгоритма - сведения о событии.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo basado en algoritmos: información sobre la avería.</tu>
+	<tu xmlns:lang="chs">算法相关故障 - 事件信息。</tu>
+	<tu xmlns:lang="kor">알고리즘 기반 오류 - 이벤트 정보</tu>
+</tm>

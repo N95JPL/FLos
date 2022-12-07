@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JThisTestHasFailed$I">
+	<tu xmlns:lang="eng">This test has failed</tu>
+	<tu xmlns:lang="nld">Deze test is fout</tu>
+	<tu xmlns:lang="fra">Cet essai a échoué</tu>
+	<tu xmlns:lang="deu">Diese Prüfung war nicht erfolgreich</tu>
+	<tu xmlns:lang="ita">Questa prova è fallita</tu>
+	<tu xmlns:lang="jpn">このﾃｽﾄは不合格</tu>
+	<tu xmlns:lang="ptg">Este teste foi reprovado</tu>
+	<tu xmlns:lang="ptb">Este teste falhou</tu>
+	<tu xmlns:lang="rus">Данная проверка не прошла</tu>
+	<tu xmlns:lang="esp">Se ha fallado esta prueba</tu>
+	<tu xmlns:lang="chs">本测试失败</tu>
+	<tu xmlns:lang="kor">이 테스트에 실패했습니다.</tu>
+</tm>

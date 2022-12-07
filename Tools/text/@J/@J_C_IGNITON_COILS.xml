@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_IGNITON_COILS">
+	<tu xmlns:lang="eng">Ignition coil(s)</tu>
+	<tu xmlns:lang="nld">Bobine(s)</tu>
+	<tu xmlns:lang="fra">Bobine(s) d'allumage</tu>
+	<tu xmlns:lang="deu">Zündspule(n)</tu>
+	<tu xmlns:lang="ita">Bobina(e) di accensione</tu>
+	<tu xmlns:lang="jpn">イグニショ・ コイル</tu>
+	<tu xmlns:lang="ptg">Bobina(s) da ignição</tu>
+	<tu xmlns:lang="ptb">Bobinas de ignição</tu>
+	<tu xmlns:lang="rus">Катушка (катушки) зажигания</tu>
+	<tu xmlns:lang="esp">Bobina(s) de encendido</tu>
+	<tu xmlns:lang="chs">点火线圈</tu>
+	<tu xmlns:lang="kor">점화 코일</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_R_ACRONYM_PSM">
+	<tu xmlns:lang="eng">Passenger's seat module</tu>
+	<tu xmlns:lang="nld">Regelmodule van de passagiersstoel</tu>
+	<tu xmlns:lang="fra">Module de siège passager</tu>
+	<tu xmlns:lang="deu">Beifahrersitz-Steuermodul</tu>
+	<tu xmlns:lang="ita">Modulo sedile passeggero</tu>
+	<tu xmlns:lang="jpn">助手席側シート モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo do banco do passageiro</tu>
+	<tu xmlns:lang="ptb">Módulo do assento do passageiro</tu>
+	<tu xmlns:lang="rus">Блок управления сиденьем пассажира</tu>
+	<tu xmlns:lang="esp">Módulo del asiento del acompañante</tu>
+	<tu xmlns:lang="chs">驾驶员一侧座椅模块</tu>
+	<tu xmlns:lang="kor">조수석 시트 모듈</tu>
+</tm>

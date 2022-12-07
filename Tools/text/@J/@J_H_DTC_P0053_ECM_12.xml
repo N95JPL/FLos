@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_DTC_P0053_ECM_12">
+	<tu xmlns:lang="eng">Switch off the engine.</tu>
+	<tu xmlns:lang="nld">Zet de motor af.</tu>
+	<tu xmlns:lang="fra">Arrêter le moteur.</tu>
+	<tu xmlns:lang="deu">Den Motor ausschalten.</tu>
+	<tu xmlns:lang="ita">Spegnere il motore.</tu>
+	<tu xmlns:lang="jpn">エンジンを切る。</tu>
+	<tu xmlns:lang="ptg">Desligar o motor.</tu>
+	<tu xmlns:lang="ptb">Desligue o motor.</tu>
+	<tu xmlns:lang="rus">Выключите двигатель.</tu>
+	<tu xmlns:lang="esp">Pare el motor.</tu>
+	<tu xmlns:lang="chs">关闭发动机。</tu>
+	<tu xmlns:lang="kor">엔진을 끄십시오.</tu>
+</tm>

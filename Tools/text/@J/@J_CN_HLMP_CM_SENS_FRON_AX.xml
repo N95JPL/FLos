@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CN_HLMP_CM_SENS_FRON_AX">
+	<tu xmlns:lang="eng">Headlamp control module sensor front axle</tu>
+	<tu
+    xmlns:lang="nld"
+  >Sensor van de regelmodule van de koplampnivellering op de vooras</tu>
+	<tu xmlns:lang="fra">Capteur d'essieu avant - module de commande des phares</tu>
+	<tu
+    xmlns:lang="deu"
+  >Höhensensor Vorderachse - Steuermodul Leuchtweitenregulierung</tu>
+	<tu xmlns:lang="ita">Sensore modulo comando fari - assale anteriore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ヘッドランプ コントロール モジュール センサ フロント アクスル</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Eixo dianteiro do sensor do módulo de comando dos faróis</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Eixo dianteiro do sensor do módulo de controle do farol</tu>
+	<tu xmlns:lang="rus">Датчик модуля управления фарами, передний мост</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control de los faros: sensor del eje delantero</tu>
+	<tu xmlns:lang="chs">前照灯控制模块传感器前轴</tu>
+	<tu xmlns:lang="kor">헤드램프 컨트롤 모듈 센서 프론트 액슬</tu>
+</tm>

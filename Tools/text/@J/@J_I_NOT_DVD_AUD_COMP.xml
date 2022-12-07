@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NOT_DVD_AUD_COMP">
+	<tu xmlns:lang="eng">Not DVD audio compatible.</tu>
+	<tu xmlns:lang="nld">Niet compatibel met dvd-audio.</tu>
+	<tu xmlns:lang="fra">Non compatible DVD audio.</tu>
+	<tu xmlns:lang="deu">Nicht DVD-Audio-kompatibel.</tu>
+	<tu xmlns:lang="ita">DVD audio non compatibile.</tu>
+	<tu xmlns:lang="jpn">DVD オーディオ非対応</tu>
+	<tu xmlns:lang="ptg">Não compatível com DVD áudio.</tu>
+	<tu xmlns:lang="ptb">Áudio de DVD não compatível.</tu>
+	<tu xmlns:lang="rus">Несовместимый проигрыватель аудио DVD-дисков.</tu>
+	<tu xmlns:lang="esp">No compatible con DVD audio.</tu>
+	<tu xmlns:lang="chs">DVD音频不兼容。</tu>
+	<tu xmlns:lang="kor">DVD 오디오 호환 안 됨</tu>
+</tm>

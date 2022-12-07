@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_CCF_VIN_INVALID">
+	<tu xmlns:lang="eng">Car configuration file VIN %s invalid</tu>
+	<tu xmlns:lang="nld">VIN %s van voertuigconfiguratiebestand is ongeldig</tu>
+	<tu
+    xmlns:lang="fra"
+  >VIN %s du fichier de configuration du véhicule invalide</tu>
+	<tu xmlns:lang="deu">VIN %s in der Fahrzeug-Konfigurationsdatei ungültig</tu>
+	<tu xmlns:lang="ita">File di configurazione veicolo - VIN %s non valido</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション ファイル VIN %s 無効</tu>
+	<tu xmlns:lang="ptg">NIV %s inválido no ficheiro de configuração do veículo</tu>
+	<tu xmlns:lang="ptb">%s do VIN do arquivo de configuração do carro inválido</tu>
+	<tu xmlns:lang="rus">Недопустимый файл конфигурации автомобиля VIN %s</tu>
+	<tu
+    xmlns:lang="esp"
+  >El VIN %s del archivo de configuración del vehículo no es válido</tu>
+	<tu xmlns:lang="chs">车辆配置文件 VIN %s 无效</tu>
+	<tu xmlns:lang="kor">차량 구성 파일 VIN %s이(가) 잘못됨</tu>
+</tm>

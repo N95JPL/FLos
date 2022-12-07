@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DLC_NUM_402E">
+	<tu xmlns:lang="eng">Vehicle battery  -  Amp hour charge loss</tu>
+	<tu xmlns:lang="nld">Accu  -  Ladingverlies in Ampère-uur</tu>
+	<tu
+    xmlns:lang="fra"
+  >Batterie du véhicule  -  Perte de charge en ampères-heures</tu>
+	<tu xmlns:lang="deu">Fahrzeugbatterie  -  Amperestunden-Ladungsverlust</tu>
+	<tu xmlns:lang="ita">Batteria veicolo  -  Amperora perdita di carica</tu>
+	<tu xmlns:lang="jpn">車両ﾊﾞｯﾃﾘ  －  Ah (アンペア アワー) 充電損失</tu>
+	<tu xmlns:lang="ptg">Bateria do veículo  -  Perda de carga em amperes hora</tu>
+	<tu xmlns:lang="ptb">Bateria do veículo  -  Perda de carga por ampere hora</tu>
+	<tu xmlns:lang="rus">Аккумуляторная батарея  -  Потеря заряда в ампер-часах</tu>
+	<tu xmlns:lang="esp">Batería del vehículo  -  Pérdida de carga amperio hora</tu>
+	<tu xmlns:lang="chs">车辆蓄电池  -  充电损失（安培小时）</tu>
+	<tu xmlns:lang="kor">차량 배터리  -  암페어 시간 충전 손실</tu>
+</tm>

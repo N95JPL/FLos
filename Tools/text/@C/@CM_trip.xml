@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_trip">
+	<tu xmlns:lang="eng">Trip computer</tu>
+	<tu xmlns:lang="nld">Boordcomputer</tu>
+	<tu xmlns:lang="fra">Ordinateur de mise en marche</tu>
+	<tu xmlns:lang="deu">Trip-computer</tu>
+	<tu xmlns:lang="ita">Computer di viaggio</tu>
+	<tu xmlns:lang="jpn">ﾄﾘｯﾌﾟ・ｺﾝﾋﾟｭーﾀ</tu>
+	<tu xmlns:lang="ptg">Computador de bordo</tu>
+	<tu xmlns:lang="ptb">Computador de bordo</tu>
+	<tu xmlns:lang="rus">Маршрутный компьютер</tu>
+	<tu xmlns:lang="esp">Ordenador de viaje</tu>
+	<tu xmlns:lang="chs">行程计算器</tu>
+	<tu xmlns:lang="kor">트립 컴퓨터</tu>
+</tm>

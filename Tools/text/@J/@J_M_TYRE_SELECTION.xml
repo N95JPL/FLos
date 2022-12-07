@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_TYRE_SELECTION">
+	<tu xmlns:lang="eng">Tire selection</tu>
+	<tu xmlns:lang="nld">Bandenkeuze</tu>
+	<tu xmlns:lang="fra">Selection des pneus</tu>
+	<tu xmlns:lang="deu">Reifenauswahl</tu>
+	<tu xmlns:lang="ita">Selezione pneumatici</tu>
+	<tu xmlns:lang="jpn">タイヤ選択</tu>
+	<tu xmlns:lang="ptg">Selecção de pneus</tu>
+	<tu xmlns:lang="ptb">Seleção de pneus</tu>
+	<tu xmlns:lang="rus">Выбор шин</tu>
+	<tu xmlns:lang="esp">Selección neumáticos</tu>
+	<tu xmlns:lang="chs">轮胎选择</tu>
+	<tu xmlns:lang="kor">타이어 선택</tu>
+</tm>

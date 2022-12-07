@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart10">
+	<tu
+    xmlns:lang="eng"
+  >Vehicles equipped with a secondary battery may also display this inhibit condition if the secondary battery state of charge falls below 80%.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Auto's die zijn voorzien van een secundaire accu kunnen deze geblokkeerde toestand vertonen als de laadtoestand van de secundaire accu daalt tot onder 80%.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette neutralisation peut survenir dans les véhicules équipés d'une batterie secondaire si l'état de charge de la batterie secondaire est inférieur à 80 %.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei Fahrzeugen mit einer Sekundärbatterie kann die Sperrbedingung auch angezeigt werden, wenn der Ladezustand der Sekundärbatterie unter 80 % fällt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Anche i veicoli dotati di batteria secondaria possono presentare questa condizione di disabilitazione se lo stato di carica della batteria secondaria è inferiore all'80%.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セカンダリ バッテリー搭載車両でも、セカンダリ バッテリーの充電状態が 80% を下回るとこの禁止状態が表示されることがあります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os veículos equipados com uma bateria secundária podem ainda apresentar esta condição de inibição se o estado de carga da bateria secundária for inferior a 80%.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Veículos equipados com uma bateria secundária também podem exibir essa condição de inibição se o estado de carga da bateria secundária cair abaixo de 80%.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние блокировки также может иметь место у автомобилей, оснащенных вспомогательной аккумуляторной батареей, если уровень ее заряда падает ниже 80 %.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los vehículos equipados con una batería auxiliar también pueden mostrar esta condición de bloqueo si el estado de carga de la batería auxiliar disminuye por debajo del 80%.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果辅助蓄电池的电荷状态降至 80% 以下，则配备辅助蓄电池的车辆也可能显示此禁止状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >보조 배터리가 장착된 차량 역시 보조 배터리의 충전 상태가 80% 미만으로 떨어질 경우 이 억제 상태를 나타낼 수 있습니다.</tu>
+</tm>

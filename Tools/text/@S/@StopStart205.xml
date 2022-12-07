@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart205">
+	<tu
+    xmlns:lang="eng"
+  >The application has detected a low primary battery state of charge.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De toepassing heeft een lage laadtoestand van de primaire accu gedetecteerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'application a détecté un faible état de charge de la batterie principale.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Anwendung hat einen niedrigen Ladezustand der Hauptbatterie erkannt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'applicazione ha rilevato un basso stato di carica della batteria principale.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アプリケーションは、プライマリ バッテリーの充電状態が低いことを検出しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A aplicação detetou um estado de carga baixo da bateria primária.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O aplicativo detectou um estado de carga baixa da bateria primária.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Приложение обнаружило низкий уровень заряда основной аккумуляторной батареи.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La aplicación ha detectado un estado de carga de la batería principal bajo.</tu>
+	<tu xmlns:lang="chs">应用程序已检测到主蓄电池的荷电状态低。</tu>
+	<tu
+    xmlns:lang="kor"
+  >응용 프로그램이 낮은 기본 배터리 충전 상태를 감지했습니다.</tu>
+</tm>

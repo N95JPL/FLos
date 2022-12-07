@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_01">
+	<tu xmlns:lang="eng">0x01 : Non volatile memory has become corrupt and may have lost previous learnt values.</tu>
+	<tu xmlns:lang="nld">0x01 : het niet-vluchtige geheugen is verminkt en eerder ingeleerde waarden zijn misschien verloren gegaan.</tu>
+	<tu xmlns:lang="fra">0x01 : La mémoire non volatile a été corrompue et peut avoir perdu les valeurs apprises précédemment.</tu>
+	<tu xmlns:lang="deu">0x01 : Nicht flüchtiger Speicher wurde korrumpiert und zuvor erlernte Werte können verloren gegangen sein.</tu>
+	<tu xmlns:lang="ita">0x01 : la memoria non volatile è diventata corrotta e potrebbe avere perso i valori appresi precedentemente.</tu>
+	<tu xmlns:lang="jpn">0x01 : 不揮発性メモリが損壊し前回の学習数値が消失したおそれがある。</tu>
+	<tu xmlns:lang="ptg">0x01 : A memória não volátil ficou corrompida e pode ter perdido valores previamente programados.</tu>
+	<tu xmlns:lang="ptb">0X01 : memória não volátil tornou-se corrompida e pode ter perdido valores aprendidos anteriormente.</tu>
+	<tu xmlns:lang="rus">0x01 : Энергонезависимая память повреждена, поэтому возможна потеря ранее запрограммированных значений.</tu>
+	<tu xmlns:lang="esp">0x01: La memoria no volátil se ha dañado y pueden haberse perdido los valores aprendidos.</tu>
+	<tu xmlns:lang="chs">0x01： 非易失性存贮器已损坏，且可能已丢失以前的记忆值。</tu>
+	<tu xmlns:lang="kor">0x01 : 비휘발성 메모리가 손상되어 이전에 학습한 값이 손실되었을 수 있습니다.</tu>
+</tm>

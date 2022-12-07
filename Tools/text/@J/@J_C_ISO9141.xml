@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ISO9141">
+	<tu xmlns:lang="eng">ISO network</tu>
+	<tu xmlns:lang="nld">ISO netwerk</tu>
+	<tu xmlns:lang="fra">Reseau ISO</tu>
+	<tu xmlns:lang="deu">ISO-datenbus</tu>
+	<tu xmlns:lang="ita">Rete ISO</tu>
+	<tu xmlns:lang="jpn">ISO ネットワーク</tu>
+	<tu xmlns:lang="ptg">Rede - ISO</tu>
+	<tu xmlns:lang="ptb">Rede ISO</tu>
+	<tu xmlns:lang="rus">Сеть стандарта ISO</tu>
+	<tu xmlns:lang="esp">Red ISO</tu>
+	<tu xmlns:lang="chs">ISO网络</tu>
+	<tu xmlns:lang="kor">ISO 네트워크</tu>
+</tm>

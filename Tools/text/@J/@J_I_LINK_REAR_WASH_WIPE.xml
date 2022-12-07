@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LINK_REAR_WASH_WIPE">
+	<tu xmlns:lang="eng">Rear wash wipe linked to transmission</tu>
+	<tu xmlns:lang="nld">Achterruitensproeier/-wisser gekoppeld aan transmissie</tu>
+	<tu
+    xmlns:lang="fra"
+  >Essuie-glace/Lave-glace arrière relié à la transmission</tu>
+	<tu
+    xmlns:lang="deu"
+  >Waschanlage/Scheibenwischer hinten mit Getriebe verbunden</tu>
+	<tu xmlns:lang="ita">Lava/tergilunotto collegato al cambio</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスミッションにリンクされたリア ウォッシャ ワイパー</tu>
+	<tu xmlns:lang="ptg">Lava/limpa-vidros traseiro associado à transmissão</tu>
+	<tu xmlns:lang="ptb">Limpador/lavador traseiro ligado à transmissão</tu>
+	<tu
+    xmlns:lang="rus"
+  >Задний стеклоочиститель/омыватель, связанный с коробкой передач</tu>
+	<tu xmlns:lang="esp">Limpia/lavaluneta conectado a la caja de cambios</tu>
+	<tu xmlns:lang="chs">与变速器关联的后清洗刮水</tu>
+	<tu xmlns:lang="kor">트랜스미션에 연결된 후방 워셔 와이퍼</tu>
+</tm>

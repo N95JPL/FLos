@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_VERIFY_QUIESCENT_CURRENT">
+	<tu
+    xmlns:lang="eng"
+  >Use measurements to verify battery monitoring system quiescent current measurements</tu>
+	<tu
+    xmlns:lang="nld"
+  >Gebruik metingen om de metingen van de ruststroom door het accucontrolesysteem te controleren</tu>
+	<tu
+    xmlns:lang="fra"
+  >Servez-vous des mesures précédentes pour contrôler les mesures du courant de repos absorbé du système de surveillance de la batterie</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mittels Messungen die Ruhestrommessungen des Batterieüberwachungssystems bestätigen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Usare le misurazioni per verificare le misure della corrente a riposo del sistema di monitoraggio della batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >計測機器を使用し、バッテリ モニタリング システムの暗電流計測値が適切であることを確認しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Realizar medições para verificar as medições da corrente de repouso do sistema de monitorização da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Use as medições para verificar as medições de corrente em inatividade do sistema de monitoramento da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполните измерения, чтобы проверить ток покоя, измеренный системой контроля аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Utilizar medidas de referencia para comprobar las medidas de corriente remanente del sistema de control de la batería</tu>
+	<tu xmlns:lang="chs">采用测量值验证蓄电池监测系统静态电流测量值</tu>
+	<tu
+    xmlns:lang="kor"
+  >측정을 통해 배터리 모니터링 시스템 대기 전류 측정값을 확인하십시오.</tu>
+</tm>

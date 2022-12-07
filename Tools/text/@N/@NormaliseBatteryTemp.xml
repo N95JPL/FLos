@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NormaliseBatteryTemp">
+	<tu
+    xmlns:lang="eng"
+  >Allow the battery temperature to normalise and recheck 'power status time data capture - vehicle battery temperature - estimated (PID 4029)' and re-run the stop/start system application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Laat de accu op een normale temperatuur komen en controleer opnieuw 'tijdstip registratie vermogensstatus - temperatuur voertuigaccu - geschat (PID 4029)' en voer de toepassing voor het Stop/Start-systeem opnieuw uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Laisser la température de la batterie se stabiliser et cocher à nouveau Capture de données temporelles sur l'état de l'alimentation - Température de la batterie du véhicule - Estimation (PID 4029), puis exécuter de nouveau l'application du système Arrêt/Démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Warten, bis sich die Batterietemperatur normalisiert hat, und erneut „Zeitdatenerfassung Versorgungsstatus – Temperatur Fahrzeugbatterie – geschätzt (PID 4029)“ überprüfen, sowie die Stopp/Start-System-Anwendung erneut ausführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lasciare normalizzare la temperatura della batteria e ricontrollare l'acquisizione dei dati tempo stato alimentazione - temperatura batteria del veicolo - stimato (PID 4029) ed eseguire nuovamente l'applicazione del sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリー温度を正常化し、「電源ステータスの時間データ捕捉 - 車両バッテリー温度 - 予測 (PID 4029)」を再確認し、スタート/ストップ システム アプリケーションを再実行できます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deixe que a temperatura da bateria normalize e verifique novamente a captura de dados temporais do estado da alimentação - temperatura da bateria do veículo - estimada (PID 4029) e volte a executar a aplicação do sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Permita que a temperatura da bateria se normalize e verifique novamente power status time data capture - vehicle battery temperature - estimated (PID 4029) (Captura de dados de tempo de status de alimentação - temperatura da bateria do veículo - estimado (PID 4029)) e execute novamente a aplicação do sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дайте температуре АКБ нормализоваться, снова проверьте наличие сообщения Сбор данных о состоянии питания за период времени - температура АКБ автомобиля - расчетное значение (PID 4029) и повторите запуск приложения системы стоп/старт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Deje que la temperatura de la batería se normalice y vuelva a comprobar Captura de datos temporales del estado de alimentación - Temperatura de la batería del vehículo - Estimación (PID 4029); a continuación, ejecute de nuevo la aplicación del sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="chs"
+  >让蓄电池温度正常，并重新检查“电源状态时间数据捕获 - 车辆蓄电池温度 — 估计值 (PID 4029)”，并重新运行停止/启动系统应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리 온도가 정상화될 때까지 기다리고 '전원 상태 시간 데이터 캡처 - 차량 배터리 온도 - 추정치(PID 4029)'를 다시 점검하고 Stop/Start 시스템 응용 프로그램을 다시 실행하십시오.</tu>
+</tm>

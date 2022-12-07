@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONV_ROOF">
+	<tu xmlns:lang="eng">Conventional roof</tu>
+	<tu xmlns:lang="nld">Conventioneel dak</tu>
+	<tu xmlns:lang="fra">Toit normal</tu>
+	<tu xmlns:lang="deu">Konventionelles Dach</tu>
+	<tu xmlns:lang="ita">Tetto convenzionale</tu>
+	<tu xmlns:lang="jpn">固定ルーフ</tu>
+	<tu xmlns:lang="ptg">Tecto convencional</tu>
+	<tu xmlns:lang="ptb">Teto convencional</tu>
+	<tu xmlns:lang="rus">Складная крыша</tu>
+	<tu xmlns:lang="esp">Techo convencional</tu>
+	<tu xmlns:lang="chs">常规顶篷</tu>
+	<tu xmlns:lang="kor">컨버터블 루프</tu>
+</tm>

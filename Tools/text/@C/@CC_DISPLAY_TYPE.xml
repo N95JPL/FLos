@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CC_DISPLAY_TYPE">
+	<tu xmlns:lang="eng">Standard speed control display type</tu>
+	<tu xmlns:lang="nld">Weergavetype standaard snelheidsregeling</tu>
+	<tu xmlns:lang="fra">Type d'affichage du régulateur de vitesse standard.</tu>
+	<tu xmlns:lang="deu">Standard-Geschwindigkeitsregelung - Anzeigeart</tu>
+	<tu xmlns:lang="ita">Tipo display controllo di velocità standard</tu>
+	<tu xmlns:lang="jpn">標準スピード コントロール ディスプレイ タイプ</tu>
+	<tu xmlns:lang="ptg">Controlo da velocidade normal, tipo de visor</tu>
+	<tu xmlns:lang="ptb">Tipo de tela do controle de velocidade padrão</tu>
+	<tu xmlns:lang="rus">Тип дисплея стандартной системы круиз-контроля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tipo de visualización del control de velocidad estándar</tu>
+	<tu xmlns:lang="chs">标准速度控制显示类型</tu>
+	<tu xmlns:lang="kor">표준 스피드 컨트롤 디스플레이 유형</tu>
+</tm>

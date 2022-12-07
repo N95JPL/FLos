@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_CM_COOLING_FAN">
+	<tu xmlns:lang="eng">Control module cooling fan.</tu>
+	<tu xmlns:lang="nld">Koelventilatorregelmodule</tu>
+	<tu xmlns:lang="fra">Ventilateur de refroidissement CM</tu>
+	<tu xmlns:lang="deu">Steuergerät kühlerlüfter</tu>
+	<tu xmlns:lang="ita">Ventola raffreddamento modulo di comando </tu>
+	<tu xmlns:lang="jpn">CM クーリ・グ ファ・</tu>
+	<tu xmlns:lang="ptg">Ventoinha de arrefecimento do módulo de comando.</tu>
+	<tu xmlns:lang="ptb">Ventilador de arrefecimento do módulo de controle.</tu>
+	<tu xmlns:lang="rus">Охлаждающий вентилятор блока управления.</tu>
+	<tu xmlns:lang="esp">Ventilador de refrigeración del CM</tu>
+	<tu xmlns:lang="chs">控制模块冷却风扇。</tu>
+	<tu xmlns:lang="kor">컨트롤 모듈 냉각 팬.</tu>
+</tm>

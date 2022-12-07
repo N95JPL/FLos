@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_SWPK">
+	<tu xmlns:lang="eng">Rear entertainment system switchpack</tu>
+	<tu xmlns:lang="nld">Schakelaargroep voor audioinstallatie achter</tu>
+	<tu xmlns:lang="fra">Ensemble de contacteurs de système audio arrière</tu>
+	<tu xmlns:lang="deu">Schaltergruppe Audiosystem hinten</tu>
+	<tu xmlns:lang="ita">Gruppo commutatori impianto audio posteriore</tu>
+	<tu xmlns:lang="jpn">リア オーディオ システム スイッチパック</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Conjunto de interruptores do sistema de entretenimento traseiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conjunto de interruptores do sistema de entretenimento traseiro</tu>
+	<tu xmlns:lang="rus">Блок переключателей задней мультимедийной системы.</tu>
+	<tu xmlns:lang="esp">Panel de mandos trasero del sistema de audio</tu>
+	<tu xmlns:lang="chs">后部娱乐系统开关组件</tu>
+	<tu xmlns:lang="kor">리어 엔터테인먼트 시스템 스위치 팩</tu>
+</tm>

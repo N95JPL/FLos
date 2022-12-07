@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BTOOTH_TELEPHONE">
+	<tu xmlns:lang="eng">Bluetooth cellular telephone system</tu>
+	<tu xmlns:lang="nld">Bluetooth-mobiele telefoonsysteem</tu>
+	<tu xmlns:lang="fra">Système de téléphone cellulaire Bluetooth</tu>
+	<tu xmlns:lang="deu">Bluetooth-Mobiltelefonsystem</tu>
+	<tu xmlns:lang="ita">Sistema telefono cellulare Bluetooth</tu>
+	<tu xmlns:lang="jpn">Bluetooth セルラー ホン システム</tu>
+	<tu xmlns:lang="ptg">Sistema de telemóvel com Bluetooth</tu>
+	<tu xmlns:lang="ptb">Sistema do telefone celular Bluetooth</tu>
+	<tu xmlns:lang="rus">Телефонная система с bluetooth</tu>
+	<tu xmlns:lang="esp">Sistema de telefonía móvil Bluetooth</tu>
+	<tu xmlns:lang="chs">蓝牙蜂窝电话系统</tu>
+	<tu xmlns:lang="kor">블루투스 휴대 전화 시스템</tu>
+</tm>

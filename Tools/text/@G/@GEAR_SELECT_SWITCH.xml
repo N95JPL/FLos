@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@GEAR_SELECT_SWITCH">
+	<tu xmlns:lang="eng">Gear selector switches (steering wheel mounted)</tu>
+	<tu xmlns:lang="nld">Schakelhendels (op stuurwiel)</tu>
+	<tu xmlns:lang="fra">Sélecteurs de vitesse (montés sur le volant)</tu>
+	<tu xmlns:lang="deu">Gangwahlschalter (am Lenkrad)</tu>
+	<tu xmlns:lang="ita">Interruttori cambio marce (su volante)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ギア セレクター スイッチ (ステアリング ホイール マウント)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Interruptores da alavanca selectora (montados no volante)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Interruptores do seletor de marchas (montados no volante)</tu>
+	<tu xmlns:lang="rus">Переключатели передач (на рулевом колесе)</tu>
+	<tu xmlns:lang="esp">Interruptores de la palanca de cambios (en el volante)</tu>
+	<tu xmlns:lang="chs">换档杆开关（安装于方向盘）</tu>
+	<tu xmlns:lang="kor">기어 셀렉터 스위치(스티어링 휠에 장착됨)</tu>
+</tm>

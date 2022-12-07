@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_LIGHTS_ON_ARM_DIS">
+	<tu
+    xmlns:lang="eng"
+  >Interior lamps are not switched on when alarm is disarmed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer het alarm wordt uitgeschakeld, gaat de binnenverlichting niet aan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les lampes intérieures ne sont pas allumées quand l'alarme est désactivée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Innenbeleuchtung wird bei Entschärfung des Alarms nicht eingeschaltet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le luci abitacolo non si accendono quando l'allarme viene disinserito.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アラームがディスアーミングされたとき、インテリア ランプはスイッチ オンされません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As luzes interiores não são ligadas quando o alarme é desactivado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Luzes do Interior não são ligadas quando o alarme for desarmado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Освещение салона не включается после отключения сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las luces interiores no se encienden cuando se desactiva la alarma.</tu>
+	<tu xmlns:lang="chs">报警器解除时，车内灯没有打开。</tu>
+	<tu xmlns:lang="kor">알람 해제 시 실내등이 켜지지 않습니다.</tu>
+</tm>

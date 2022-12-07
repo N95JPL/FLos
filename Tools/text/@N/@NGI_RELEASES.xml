@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NGI_RELEASES">
+	<tu xmlns:lang="eng">NGI releases</tu>
+	<tu xmlns:lang="nld">NGI-versies</tu>
+	<tu xmlns:lang="fra">Versions NGI</tu>
+	<tu xmlns:lang="deu">NGI-Releases</tu>
+	<tu xmlns:lang="ita">Versioni NGI</tu>
+	<tu xmlns:lang="jpn">NGI リリース</tu>
+	<tu xmlns:lang="ptg">Lançamentos NGI</tu>
+	<tu xmlns:lang="ptb">Versões de NGI</tu>
+	<tu xmlns:lang="rus">Версии NGI</tu>
+	<tu xmlns:lang="esp">Versiones de NGI</tu>
+	<tu xmlns:lang="chs">NGI 版本</tu>
+	<tu xmlns:lang="kor">NGI 릴리스</tu>
+</tm>

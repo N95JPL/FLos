@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAN_REAR_WIND">
+	<tu xmlns:lang="eng">Manually operated rear windows</tu>
+	<tu xmlns:lang="nld">Handbediende ruiten in achterportieren</tu>
+	<tu xmlns:lang="fra">Vitres arrière à commande manuelle</tu>
+	<tu xmlns:lang="deu">Manuelle Fensterheber hinten</tu>
+	<tu xmlns:lang="ita">Cristalli posteriori ad azionamento manuale</tu>
+	<tu xmlns:lang="jpn">手動リア ウィンドウ</tu>
+	<tu xmlns:lang="ptg">Vidros traseiros manuais</tu>
+	<tu xmlns:lang="ptb">Janelas traseiras acionadas manualmente</tu>
+	<tu xmlns:lang="rus">Ручной привод задних стеклоподъемников</tu>
+	<tu xmlns:lang="esp">Ventanillas traseras accionadas manualmente</tu>
+	<tu xmlns:lang="chs">手动后车窗</tu>
+	<tu xmlns:lang="kor">수동식 후방 윈도우</tu>
+</tm>

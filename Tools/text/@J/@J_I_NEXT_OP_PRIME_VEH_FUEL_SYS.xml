@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NEXT_OP_PRIME_VEH_FUEL_SYS">
+	<tu xmlns:lang="eng">The next operation will prime the vehicle fuel system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met de nu volgende bewerking start u de toevoer van het brandstofsysteem van het voertuig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'opération suivante amorcera le circuit d'alimentation du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Im nächsten Schritt wird das Kraftstoffsystem des Fahrzeugs vorbefüllt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Con la prossima operazione verrà adescato il sistema di alimentazione del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の操作では車両のフューエル システムをプライミングします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A operação seguinte vai purgar o sistema de combustível do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A próxima operação escorvará o sistema de combustível do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующая операция служит для подкачки топлива в топливную систему автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La operación siguiente ceba el sistema de combustible del vehículo.</tu>
+	<tu xmlns:lang="chs">下一操作将准备启动车辆燃油系统。</tu>
+	<tu xmlns:lang="kor">다음 작업에서는 차량 연료 시스템을 프라이밍합니다.</tu>
+</tm>

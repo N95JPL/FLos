@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TELE_VOIC_LANG">
+	<tu xmlns:lang="eng">Cellular telephone voice language</tu>
+	<tu xmlns:lang="nld">Taal voor stem van mobiele telefoon.</tu>
+	<tu xmlns:lang="fra">Langue de la voix du téléphone cellulaire</tu>
+	<tu xmlns:lang="deu">Mobiltelefon Stimmensprache</tu>
+	<tu xmlns:lang="ita">Lingua viva voce telefono cellulare</tu>
+	<tu xmlns:lang="jpn">セルラー ホン音声言語</tu>
+	<tu xmlns:lang="ptg">Idioma dos comandos por voz do telemóvel</tu>
+	<tu xmlns:lang="ptb">Idioma da voz do telefone celular</tu>
+	<tu xmlns:lang="rus">Язык голосового управления сотовым телефоном</tu>
+	<tu xmlns:lang="esp">Idioma de voz del teléfono móvil</tu>
+	<tu xmlns:lang="chs">蜂窝电话语音语言</tu>
+	<tu xmlns:lang="kor">휴대 전화 음성 언어</tu>
+</tm>

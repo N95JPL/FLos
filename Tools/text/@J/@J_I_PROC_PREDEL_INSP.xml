@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROC_PREDEL_INSP">
+	<tu
+    xmlns:lang="eng"
+  >During the pre-delivery inspection the following procedures will be performed:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens de afleveringsinspectie zullen de onderstaande procedures worden uitgevoerd:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pendant l'inspection avant livraison, les procédures suivantes seront exécutées :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Während der Übergabeinspektion werden die folgenden Maßnahmen durchgeführt:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Durante l'ispezione alla consegna, verranno eseguite le procedure seguenti:</tu>
+	<tu xmlns:lang="jpn">PDI 作業中に次の手順が実行されます：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Durante a inspecção pré-entrega, serão realizados os seguintes procedimentos:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Durante a inspeção de pré-entrega os procedimentos a seguir serão realizados:</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе предпродажной подготовки будут выполнены следующие процедуры:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Durante la inspección preentrega se llevarán a cabo los siguientes procedimientos:</tu>
+	<tu xmlns:lang="chs">在出厂前检查期间，将执行以下程序：</tu>
+	<tu xmlns:lang="kor">납품 전 점검 중에 다음 절차가 수행됩니다.</tu>
+</tm>

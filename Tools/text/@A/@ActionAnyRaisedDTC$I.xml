@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ActionAnyRaisedDTC$I">
+	<tu
+    xmlns:lang="eng"
+  >Action any diagnostic trouble codes raised as required.</tu>
+	<tu xmlns:lang="nld">Verhelp zonodig de eventuele diagnosefoutcodes.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Prenez les mesures nécessitées par les codes d'anomalie enregistrés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Bedarf erforderliche Maßnahmen für abgespeicherte Fehlercodes durchführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Procedere come necessario agli eventuali codici dei problemi di diagnostica riscontrati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >記録された診断トラブル コードがある場合、必要に応じて対応作業をしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tome as acções necessárias para eliminar todos os códigos de avaria existentes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Acione todos os códigos de problema de diagnóstico levantados, conforme necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Устраните по необходимости любые зарегистированные диагностические коды неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Realizar las acciones apropiadas para los códigos de avería que se hayan registrado.</tu>
+	<tu xmlns:lang="chs">按要求对提出的任何故障诊断码采取措施。</tu>
+	<tu
+    xmlns:lang="kor"
+  >필요에 따라, 제기된 임의의 고장 진단 코드를 작동시킵니다.</tu>
+</tm>

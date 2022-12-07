@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_IMMEDIATE">
+	<tu xmlns:lang="eng">The next time learning is done, pilot correction learning will go immediately to the appropriate value.</tu>
+	<tu xmlns:lang="nld">De volgende keer dat het inleren wordt uitgevoerd, zal de routine 'inleren van pilot-correctie' direct naar de betreffende waarde gaan.</tu>
+	<tu xmlns:lang="fra">La prochaine fois que l'apprentissage sera fait, l'apprentissage de la correction pilote prendra immédiatement la valeur appropriée.</tu>
+	<tu xmlns:lang="deu">Wird das Lernverfahren das nächste Mal durchgeführt, geht das Lernverfahren Voreinspritzungskorrektur direkt zum angemessenen Wert.</tu>
+	<tu xmlns:lang="ita">La prossima volta che viene eseguito l'apprendimento, l'apprendimento di correzione pilota andrà immediatamente al valore appropriato.</tu>
+	<tu xmlns:lang="jpn">次回学習が行われたとき、パイロット補正学習は即、適切な数値へ進みます。</tu>
+	<tu xmlns:lang="ptg">Da próxima vez que a programação for efectuada, a programação da correcção piloto irá imediatamente para o valor adequado.</tu>
+	<tu xmlns:lang="ptb">Na próxima vez que a aprendizagem for feita, a aprendizagem de correção do piloto irá imediatamente para o valor adequado.</tu>
+	<tu xmlns:lang="rus">При выполнении следующего сохранения сразу установится значение контрольной корректировки.</tu>
+	<tu xmlns:lang="esp">La próxima vez que se realice el aprendizaje, el aprendizaje de corrección piloto pasará inmediatamente al valor apropiado.</tu>
+	<tu xmlns:lang="chs">下次记忆已完成，试验性校正记忆将立即达到适当的值。</tu>
+	<tu xmlns:lang="kor">다음에 학습이 완료될 때, 파일럿 보정 학습이 즉시 알맞은 값으로 이동합니다.</tu>
+</tm>

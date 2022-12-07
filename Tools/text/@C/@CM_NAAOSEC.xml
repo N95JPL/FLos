@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_NAAOSEC">
+	<tu xmlns:lang="eng">North American security system.</tu>
+	<tu xmlns:lang="nld">Noord-Amerikaans beveiligingssysteem</tu>
+	<tu xmlns:lang="fra">Système antivol Amérique du Nord</tu>
+	<tu xmlns:lang="deu">Nordamerikanische Diebstahlwarnanlage</tu>
+	<tu xmlns:lang="ita">Sistema antifurto nordamericano</tu>
+	<tu xmlns:lang="jpn">北米セキュリティ システム</tu>
+	<tu xmlns:lang="ptg">Sistema de segurança da América do Norte.</tu>
+	<tu xmlns:lang="ptb">Sistema de segurança da América do Norte.</tu>
+	<tu xmlns:lang="rus">Охранная система для Северной Америки.</tu>
+	<tu xmlns:lang="esp">Sistema de seguridad norteamericano</tu>
+	<tu xmlns:lang="chs">北美安全系统。</tu>
+	<tu xmlns:lang="kor">북미 보안 시스템</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_81">
+	<tu xmlns:lang="eng">0x81 : Relearn was successful.</tu>
+	<tu xmlns:lang="nld">0x81 : het opnieuw inleren is met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">0x81 : Ré-apprentissage réussi.</tu>
+	<tu xmlns:lang="deu">0x81 : Neuerlernung war erfolgreich.</tu>
+	<tu xmlns:lang="ita">0x81 : Il riapprendimento è riuscito.</tu>
+	<tu xmlns:lang="jpn">0x81 : 再学習は正常に完了。</tu>
+	<tu xmlns:lang="ptg">0x81 : Reprogramação bem sucedida.</tu>
+	<tu xmlns:lang="ptb">0X81 : Reaprendizagem foi bem-sucedida.</tu>
+	<tu xmlns:lang="rus">0x81 : Повторное сохранение выполнено успешно.</tu>
+	<tu xmlns:lang="esp">0x81: El reaprendizaje fue satisfactorio.</tu>
+	<tu xmlns:lang="chs">0x81： 重新记忆成功完成。</tu>
+	<tu xmlns:lang="kor">0x81 : 재학습에 성공했습니다.</tu>
+</tm>

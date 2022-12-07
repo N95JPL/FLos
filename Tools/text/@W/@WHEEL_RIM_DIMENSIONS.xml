@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WHEEL_RIM_DIMENSIONS">
+	<tu xmlns:lang="eng">Wheel rim dimensions</tu>
+	<tu xmlns:lang="nld">Velgafmetingen.</tu>
+	<tu xmlns:lang="fra">Dimensions de la jante.</tu>
+	<tu xmlns:lang="deu">Felgenmaße</tu>
+	<tu xmlns:lang="ita">Dimensioni cerchio ruota</tu>
+	<tu xmlns:lang="jpn">ホイール リム ディメンション</tu>
+	<tu xmlns:lang="ptg">Dimensões das jantes</tu>
+	<tu xmlns:lang="ptb">Dimensões do aro da roda</tu>
+	<tu xmlns:lang="rus">Размеры обода колеса</tu>
+	<tu xmlns:lang="esp">Dimensiones de las llantas</tu>
+	<tu xmlns:lang="chs">轮辋尺寸</tu>
+	<tu xmlns:lang="kor">휠 림 치수</tu>
+</tm>

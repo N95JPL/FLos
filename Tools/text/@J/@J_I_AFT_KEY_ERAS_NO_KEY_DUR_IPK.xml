@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AFT_KEY_ERAS_NO_KEY_DUR_IPK">
+	<tu
+    xmlns:lang="eng"
+  >After the keys have been successfully erased, do not place keys in the starter control unit until instructed during the replacement instrument cluster procedure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Nadat de sleutels zijn gewist, mogen er geen sleutels in de regelmodule voor starten worden geplaatst tot u hier tijdens de vervangingsprocedure van de instrumentengroep om wordt gevraagd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Après avoir effacé correctement les clés, ne les placez pas dans l'unité de commande de démarrage avant d'en avoir reçu l'instruction pendant la procédure de remplacement du tableau de bord.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach dem erfolgreichen Löschen der Schlüssel erst dann einen Schlüssel in die Startsteuereinheit einstecken, wenn Sie im Zuge der Arbeiten zum Austausch des Kombiinstruments hierzu aufgefordert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dopo che le chiavi sono state correttamente cancellate, non inserire le chiavi nell'unità di comando avviamento fino a che ciò non viene richiesto nel corso della procedura di sostituzione del gruppo strumenti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >キーの消去が正しく完了したのち、インストルメント クラスタ交換手順中に、指示があるまでキーをスターター コントロール ユニット内に置いてはなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Depois de apagar as chaves com êxito, não colocar as chaves na unidade de comando do motor de arranque até receber essa indicação durante o procedimento de substituição do grupo de instrumentos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após as chaves serem apagadas com sucesso, não coloque as chaves na unidade de controle do motor de partida até que seja instruído durante o procedimento de substituição do conjunto de instrumentos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После стирания кодов ключей из памяти не вставляйте ключи в блок управления стартером в процессе замены панели приборов, пока не появится соответствующее указание.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez borradas correctamente las llaves, no las debe colocar en el módulo de control del motor de arranque hasta que se le indique durante el procedimiento de sustitución del cuadro de instrumentos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在更换组合仪表的过程中，当钥匙码成功擦除后，收到指示前不要将钥匙插入起动器控制单元。</tu>
+	<tu
+    xmlns:lang="kor"
+  >키가 올바로 삭제된 후, 계기판 교체 절차 중에 따로 지시가 있을 때까지는 키를 스타터 컨트롤 유닛에 두지 마십시오.</tu>
+</tm>

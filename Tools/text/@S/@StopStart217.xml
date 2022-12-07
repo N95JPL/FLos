@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart217">
+	<tu
+    xmlns:lang="eng"
+  >An auto stop/ECO stop is not possible until the DPF regeneration has completed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Een automatische stop/ECO-stop is niet mogelijk totdat de regeneratie van het roetfilter is uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un arrêt automatique/ECO est impossible tant que la régénération du DPF n'est pas terminée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ein Auto-Stopp/ECO-Stopp ist erst möglich, nachdem die DPF-Regeneration abgeschlossen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'arresto del sistema Stop/Start automatico non è possibile fino a quando non viene completata la rigenerazione DPF.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >DPF 再生が完了するまで、自動ストップ/ECO ストップは利用できません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não é possível uma paragem automática/ECO até que a regeneração do DPF esteja concluída.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não é possível efetuar uma parada automática/parada ECO até que a regeneração do DPF seja concluída.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автоматическая остановка двигателя / функция ECO stop невозможна, пока не закончена регенерация DPF.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La parada automática/parada ECO no es posible hasta que se complete la regeneración del DPF.</tu>
+	<tu xmlns:lang="chs">DPF 再生完成前，无法自动停止/ECO 停止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >DPF 재생이 완료될 때까지 자동 Stop/ECO Stop을 사용할 수 없습니다.</tu>
+</tm>

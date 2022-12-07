@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HOTSPOT_MPH">
+	<tu xmlns:lang="eng">Miles per hour</tu>
+	<tu xmlns:lang="nld">Mijl per uur</tu>
+	<tu xmlns:lang="fra">Miles à l'heure</tu>
+	<tu xmlns:lang="deu">Meilen pro Stunde</tu>
+	<tu xmlns:lang="ita">Miglia all'ora</tu>
+	<tu xmlns:lang="jpn">毎時ﾏｲﾙ(MPH)</tu>
+	<tu xmlns:lang="ptg">Milhas por hora</tu>
+	<tu xmlns:lang="ptb">Milhas por hora</tu>
+	<tu xmlns:lang="rus">Миль в час</tu>
+	<tu xmlns:lang="esp">Millas por hora</tu>
+	<tu xmlns:lang="chs">MPH</tu>
+	<tu xmlns:lang="kor">시간당 마일</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BLUETOOTH_HANDSFREE">
+	<tu xmlns:lang="eng">Bluetooth handsfree telephone system</tu>
+	<tu xmlns:lang="nld">Bluetooth hands-free telefoonsysteem</tu>
+	<tu xmlns:lang="fra">Système de téléphone mains-libres Bluetooth</tu>
+	<tu xmlns:lang="deu">Telefonsystem mit Bluetooth-Freisprecheinrichtung</tu>
+	<tu xmlns:lang="ita">Sistema telefono viva voce Bluetooth</tu>
+	<tu xmlns:lang="jpn">ブルートゥース ハンズフリー テレホン システム</tu>
+	<tu xmlns:lang="ptg">Sistema de telemóvel com Bluetooth</tu>
+	<tu xmlns:lang="ptb">Sistema de telefone viva-voz Bluetooth</tu>
+	<tu
+    xmlns:lang="rus"
+  >Телефонная система с функцией 'handsfree' использующей технологию 'bluetooth' </tu>
+	<tu xmlns:lang="esp">Sistema de telefonía manos libres Bluetooth</tu>
+	<tu xmlns:lang="chs">蓝牙免提电话系统</tu>
+	<tu xmlns:lang="kor">블루투스 핸즈프리 전화 시스템</tu>
+</tm>

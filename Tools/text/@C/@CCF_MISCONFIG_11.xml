@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_MISCONFIG_11">
+	<tu xmlns:lang="eng">Car configuration display example</tu>
+	<tu xmlns:lang="nld">Voorbeeld van voertuigconfiguratiescherm</tu>
+	<tu xmlns:lang="fra">Exemple d'affichage de configuration de véhicule</tu>
+	<tu xmlns:lang="deu">Anzeige Fahrzeugkonfiguration ? Beispiel</tu>
+	<tu xmlns:lang="ita">Esempio di display configurazione veicolo</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション表\示の例</tu>
+	<tu xmlns:lang="ptg">Exemplo de indicação de configuração do veículo</tu>
+	<tu xmlns:lang="ptb">Exemplo de visor de configuração do carro</tu>
+	<tu xmlns:lang="rus">Пример отображения конфигурации автомобиля</tu>
+	<tu xmlns:lang="esp">Ejemplo de pantalla de configuración del vehículo</tu>
+	<tu xmlns:lang="chs">车辆配置显示实例</tu>
+	<tu xmlns:lang="kor">차량 구성 디스플레이 예</tu>
+</tm>

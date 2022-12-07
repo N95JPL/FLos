@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OIL_LEVEL_2_0">
+	<tu xmlns:lang="eng">2.0 litre</tu>
+	<tu xmlns:lang="nld">2,0 liter</tu>
+	<tu xmlns:lang="fra">2,0 litre</tu>
+	<tu xmlns:lang="deu">2,0 Liter</tu>
+	<tu xmlns:lang="ita">2,0 litri</tu>
+	<tu xmlns:lang="jpn">2.0 リッター</tu>
+	<tu xmlns:lang="ptg">2,0 litros</tu>
+	<tu xmlns:lang="ptb">2,0 litros</tu>
+	<tu xmlns:lang="rus">2,0 л</tu>
+	<tu xmlns:lang="esp">2,0 litros</tu>
+	<tu xmlns:lang="chs">2.0 升</tu>
+	<tu xmlns:lang="kor">2.0L</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_CYC_IGN_OFF_ON">
+	<tu xmlns:lang="eng">Cycle the ignition from off to on.</tu>
+	<tu xmlns:lang="nld">Schakel het contact van uit naar in.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tournez la clé de la position contact coupé à contact établi.</tu>
+	<tu xmlns:lang="deu">Zündung von Stellung Aus in Stellung Ein bringen.</tu>
+	<tu xmlns:lang="ita">Inserire l'accensione.</tu>
+	<tu xmlns:lang="jpn">イグニション キーをオフからオンに廻しなさい。</tu>
+	<tu xmlns:lang="ptg">Ligar a ignição.</tu>
+	<tu xmlns:lang="ptb">Desligue e ligue a ignição</tu>
+	<tu xmlns:lang="rus">Периодически включайте и выключайте зажигание.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Activar el encendido de la posición de contacto cortado a la de contacto dado.</tu>
+	<tu xmlns:lang="chs">让点火从关闭循环至打开。</tu>
+	<tu xmlns:lang="kor">점화 스위치를 껐다가 켜십시오.</tu>
+</tm>

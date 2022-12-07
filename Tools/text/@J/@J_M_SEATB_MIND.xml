@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SEATB_MIND">
+	<tu xmlns:lang="eng">Safety belt minder configuration</tu>
+	<tu xmlns:lang="nld">Configuratie, waarschuwing voor autogordel</tu>
+	<tu xmlns:lang="fra">Configuration du rappel de ceinture de sécurité</tu>
+	<tu xmlns:lang="deu">Konfiguration - Sicherheitsgurtwarnung</tu>
+	<tu xmlns:lang="ita">Configurazione segnale cintura di sicurezza</tu>
+	<tu xmlns:lang="jpn">シートベルト警告コンフィギュレーション</tu>
+	<tu xmlns:lang="ptg">Configuração do indicador do cinto de segurança</tu>
+	<tu xmlns:lang="ptb">Configuração do lembrete do cinto de segurança</tu>
+	<tu
+    xmlns:lang="rus"
+  >Конфигурация сигнализатора непристёгнутого ремня безопасности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Configuración del aviso de cinturón de seguridad sin abrochar</tu>
+	<tu xmlns:lang="chs">安全带提示配置</tu>
+	<tu xmlns:lang="kor">안전벨트 마인더 구성</tu>
+</tm>

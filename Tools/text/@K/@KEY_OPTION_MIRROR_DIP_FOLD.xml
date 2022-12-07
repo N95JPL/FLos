@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KEY_OPTION_MIRROR_DIP_FOLD">
+	<tu
+    xmlns:lang="eng"
+  >Both reverse mirror dipping and auto-folding exterior mirrors.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zowel omlaag kantelen van spiegel bij achteruitrijden als automatisch inklappen van buitenspiegels.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Inclinaison des rétroviseurs en marche arrière et escamotage automatique des rétroviseurs extérieurs.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Spiegelabsenkung bei Rückwärtsfahrt und automatisches Einklappen der Außenspiegel</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sia specchietti retrovisori esterni ripiegabili automaticamente sia con oscurazione di retromarcia.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >リバース ミラー下向きおよびドア ミラー自動折りたたみの両方</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retrovisores com função de inclinação em marcha atrás e recolhimento automático.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Rebaixamento do retrovisor e dobramento automático dos espelhos externos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Наклон зеркала при движении задним ходом и автоматическое складывание наружных зеркал.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Inclinación de retrovisores en marcha atrás y plegado automático de retrovisores exteriores.</tu>
+	<tu xmlns:lang="chs">倒车后视镜下降和自动折叠外部后视镜。</tu>
+	<tu xmlns:lang="kor">리버스 미러 디핑과 자동 폴딩 외부 미러 모두 해당됨.</tu>
+</tm>

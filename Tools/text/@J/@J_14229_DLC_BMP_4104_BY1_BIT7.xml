@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DLC_BMP_4104_BY1_BIT7">
+	<tu
+    xmlns:lang="eng"
+  >Convertible top position sensor inputs  -  Front latch open sensor</tu>
+	<tu
+    xmlns:lang="nld"
+  >Invoeren van positiesensor van convertiblekap  -  Sensor voor slot open voor</tu>
+	<tu
+    xmlns:lang="fra"
+  >Entrées de capteur de position de capote  -  Capteur d'ouverture de verrou avant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Stellungssensoreingänge - Cabrioverdeck  -  Schlossöffnungssensor vorne</tu>
+	<tu
+    xmlns:lang="ita"
+  >Input sensore posizione capote  -  Sensore meccanismo chiusura anteriore aperto</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コンバーチブル トップ ポジション センサー インプット  －  フロント ラッチ オープン センサー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sinais de entrada do sensor de posição da capota  -  Sensor, trinco dianteiro aberto</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Entradas do sensor de posição da capota conversível  -  Sensor de abertura da trava dianteira</tu>
+	<tu
+    xmlns:lang="rus"
+  >Входные сигналы датчика верхнего положения складного верха  -  Датчик открытой передней защёлки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Señales de entrada del sensor de posición de la capota  -  Sensor de apertura del enganche delantero</tu>
+	<tu xmlns:lang="chs">活动顶篷位置传感器输入  -  前插销开启传感器</tu>
+	<tu xmlns:lang="kor">컨버터블 탑 위치 센서 입력  -  프론트 래치 열림 센서</tu>
+</tm>

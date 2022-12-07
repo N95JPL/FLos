@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_38">
+	<tu
+    xmlns:lang="eng"
+  >Frequency modulation/pulse width modulation failure - signal frequency is incorrect.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fout in frequentiemodulatie / pulsbreedtemodulatie - signaalfrequentie is onjuist.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaut de modulation de fréquence / modulation de largeur d'impulsions - fréquence du signal incorrecte.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Störung Frequenzmodulation/Impulsbreitenmodulation - falsche Signalfrequenz.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto di modulazione frequenza/modulazione durata impulsi - frequenza segnale errata.</tu>
+	<tu xmlns:lang="jpn">周波数変調／パルス幅変調不良 － シグナル周波数、不正</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha na modulação da frequência/modulação por largura de impulso - frequência do sinal está incorrecta.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha na modulação de frequência/modulação da largura do pulso - frequência do sinal incorreta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка частотной модуляции/ШИМ - неверная частота сигнала.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo de modulación de frecuencia/modulación de anchura de impulsos: frecuencia de señal incorrecta.</tu>
+	<tu xmlns:lang="chs">频率调制/脉宽调制故障 - 信号频率不正确。</tu>
+	<tu xmlns:lang="kor">주파수 변조/펄스 폭 변조 실패 - 신호 주파수가 부정확함</tu>
+</tm>

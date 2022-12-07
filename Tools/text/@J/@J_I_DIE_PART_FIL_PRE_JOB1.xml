@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIE_PART_FIL_PRE_JOB1">
+	<tu xmlns:lang="eng">Diesel particulate filter value data  -  Pre-job 1</tu>
+	<tu
+    xmlns:lang="nld"
+  >Gegevens van dieseldeeltjesfilterwaarden  -  Vóór bewerking 1</tu>
+	<tu
+    xmlns:lang="fra"
+  >Valeurs du filtre à particules diesel  -  Tâche préliminaire 1</tu>
+	<tu xmlns:lang="deu">Dieselrußfilter - Datenwerte  -  Vor Aufgabe 1</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dati valore filtro antiparticolato per diesel  -  Prelavoro 1</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ディーゼル微粒子フィルター (DPF) 数値データ  －  プリジョブ 1</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Dados de valores do filtro de partículas do sistema Diesel  -  Pré-tarefa 1</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Dados de valor do filtro de partículas de diesel  -  Pré-trabalho 1</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данные параметров противосажевого фильтра дизельного двигателя  -  Предварительное задание 1</tu>
+	<tu
+    xmlns:lang="esp"
+  >Datos de valores del filtro de partículas Diesel  -  Trabajo previo 1</tu>
+	<tu xmlns:lang="chs">柴油微粒过滤器值数据  -  预工序1</tu>
+	<tu xmlns:lang="kor">디젤 미립자 필터 값 데이터  -  사전 작업 1</tu>
+</tm>

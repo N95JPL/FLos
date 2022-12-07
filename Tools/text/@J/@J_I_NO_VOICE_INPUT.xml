@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_VOICE_INPUT">
+	<tu xmlns:lang="eng">No voice input</tu>
+	<tu xmlns:lang="nld">Geen spraakinvoer</tu>
+	<tu xmlns:lang="fra">Pas d'entrée vocale</tu>
+	<tu xmlns:lang="deu">Keine Spracheingabe</tu>
+	<tu xmlns:lang="ita">Nessun input vocale</tu>
+	<tu xmlns:lang="jpn">音声インプットなし</tu>
+	<tu xmlns:lang="ptg">Sem entrada de voz</tu>
+	<tu xmlns:lang="ptb">Sem entrada por voz</tu>
+	<tu xmlns:lang="rus">Без голосового управления</tu>
+	<tu xmlns:lang="esp">No hay entrada de voz</tu>
+	<tu xmlns:lang="chs">无语音输入</tu>
+	<tu xmlns:lang="kor">음성 입력 없음</tu>
+</tm>

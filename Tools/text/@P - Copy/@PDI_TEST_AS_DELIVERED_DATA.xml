@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PDI_TEST_AS_DELIVERED_DATA">
+	<tu xmlns:lang="eng">Vehicle initialization in progress, please wait...</tu>
+	<tu xmlns:lang="nld">Voertuiginitialisatie in uitvoering, even geduld a.u.b.</tu>
+	<tu xmlns:lang="fra">Initialisation du véhicule en cours, veuillez patienter...</tu>
+	<tu xmlns:lang="deu">Fahrzeuginitialisierung läuft, bitte warten...</tu>
+	<tu xmlns:lang="ita">Inizializzazione del veicolo in corso, attendere...</tu>
+	<tu xmlns:lang="jpn">車両の初期化が進行中です - お待ちください。</tu>
+	<tu xmlns:lang="ptg">Inicialização do veículo em curso; queira aguardar...</tu>
+	<tu xmlns:lang="ptb">Inicialização do veículo em andamento, aguarde ...</tu>
+	<tu xmlns:lang="rus">Подождите, выполняется инициализация автомобиля...</tu>
+	<tu xmlns:lang="esp">Inicialización del vehículo en curso...</tu>
+	<tu xmlns:lang="chs">车辆初始化进行中，请等候……</tu>
+	<tu xmlns:lang="kor">차량 초기화를 진행 중이므로 잠시 기다려 주십시오.</tu>
+</tm>

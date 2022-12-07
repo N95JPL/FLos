@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FlatLevSmooth$I">
+	<tu
+    xmlns:lang="eng"
+  >The calibration floor must be a flat, level, smooth surface.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voor de kalibrering moet de auto op een vlak, horizontaal en glad oppervlak staan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La surface d'étalonnage doit être plane, régulière et lisse.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Boden, auf dem die Kalibrierung durchgeführt wird, muss flach, eben und glatt sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La pedana di taratura deve trovarsi su una superficie orizzontale, piatta e regolare.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >キャリブレーションを行うフロアは平らで、水平かつスムーズでなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O piso para a calibragem tem de ser plano, nivelado e com uma superfície lisa.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O piso da calibração deve ser uma superfície plana, nivelada e lisa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Поверхность калибровочной площадки должна быть плоской, ровной и гладкой.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La calibración se debe realizar sobre un suelo plano, liso y nivelado.</tu>
+	<tu xmlns:lang="chs">'标定用的地板必须是平整、水平、光滑的表面。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >보정 구역의 표면은 평평하고 수평을 이루며 부드러워야 합니다.</tu>
+</tm>

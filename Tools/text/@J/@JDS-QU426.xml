@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QU426">
+	<tu xmlns:lang="eng">Will the vehicle start and idle?</tu>
+	<tu xmlns:lang="nld">Start de motor en loopt deze stationair ?</tu>
+	<tu
+    xmlns:lang="fra"
+  >La voiture démarre-t-elle et tourne-t-elle au ralenti ?</tu>
+	<tu xmlns:lang="deu">Anlassen und Leerlauf für Fahrzeug in Ordnung ?</tu>
+	<tu xmlns:lang="ita">Si avvia la vettura al minimo ?</tu>
+	<tu xmlns:lang="jpn">エンｼﾞンは始動し、アイﾄﾞリンｸﾞしますか？</tu>
+	<tu xmlns:lang="ptg">O veículo arranca ao ralenti?</tu>
+	<tu xmlns:lang="ptb">O veículo dá a partida e permanece em marcha lenta?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запускается ли двигатель и работает ли он на холостых оборотах?</tu>
+	<tu xmlns:lang="esp">¿Arranca el coche en ralentí ?</tu>
+	<tu xmlns:lang="chs">车辆是否可以启动并怠速？</tu>
+	<tu xmlns:lang="kor">차량이 시동되고 공회전합니까?</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECOStopStartInFault">
+	<tu
+    xmlns:lang="eng"
+  >Stop/start system fault. The system is in a fault condition (as a response to another module or system being in a fault condition).  Check for stop/start system associated module DTCs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Storing in Stop/Start-systeem. Het systeem is in een storingstoestand (als reactie op een andere module of systeem in een storingstoestand). Controleer op module-DTC's met betrekking tot het Stop-/Start-systeem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaillance du système Arrêt/Démarrage. Le système présente un défaut (en réponse à un autre module ou système présentant un défaut). Recherchez les DTC associés au module du système Arrêt/Démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Stopp/Start-System – Fehler. Im System liegt ein Fehler vor (als Reaktion auf ein anderes Steuergerät bzw. Modul, in dem ein Fehler vorliegt). Auf Steuergerät-DTCs in Zusammenhang mit dem Stopp/Start-System prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto del sistema Stop/Start. Il sistema è in condizione di guasto (in risposta a un modulo o sistema diverso che si trova in una condizione di guasto). Controllare i DTC del modulo associato al sistema Stop/Start</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スタート/ストップ システムの不具合。 (故障状態になっている別のモジュールまたはシステムに対応して) システムは故障状態になっている。 スタート/ストップ システムに関連するモジュール DTC がないか確認する。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Avaria do sistema Stop/Start. O sistema encontra-se numa situação de avaria (como resposta a outro módulo ou sistema que se encontra em situação de avaria). Verifique se existem DTCs do módulo associados ao sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha no sistema Stop/Start O sistema está em uma condição de falha (como resposta a um outro módulo ou sistema em condição de falha). Verifique se há DTCs do módulo associados ao Sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Неисправность системы стоп/старт. Система в состоянии неисправности (реакция на неисправность другого блока или системы). Проверьте наличие кодов неисправности DTC блока, относящихся к системе стоп/старт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo del sistema Stop/Start. El sistema presenta un fallo (como respuesta a otro módulo o sistema que tiene un fallo). Compruebe si hay DTC asociados con el sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="chs"
+  >停止/启动系统故障。 系统处于故障状态（作为对另一个正处于故障状态下的模块或系统的响应）。 检查是否存在与停止/启动系统相关的模块的 DTC。</tu>
+	<tu
+    xmlns:lang="kor"
+  >Stop/Start 시스템 고장. 시스템이 고장 상태입니다(다른 모듈 또는 시스템에 대한 응답이 고장 상태로 표시됨). Stop/Start 시스템 관련 모듈 DTC가 있는지 확인하십시오.</tu>
+</tm>

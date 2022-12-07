@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RUSS_LANG_INFO">
+	<tu
+    xmlns:lang="eng"
+  >This information will be determined during the following procedures and, if necessary, the appropriate actions will be detailed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze informatie wordt gedurende de volgende procedures vastgesteld en zo nodig worden de vereiste handelingen beschreven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ces informations seront confirmées lors des procédures suivantes et, si nécessaire, des actions appropriées seront mises en œuvre.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Informationen werden mit den folgenden Verfahren ermittelt. Soweit erforderlich, werden die durchzuführenden Maßnahmen erläutert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Queste informazioni vengono determinate durante le seguenti procedure e, se necessario, vengono indicate le azioni appropriate da eseguire.</tu>
+	<tu xmlns:lang="jpn">?????????????????????????????????????????</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta informação será determinada durante os procedimentos seguintes e, se necessário, serão indicadas as acções adequadas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esta informação será determinada durante os procedimentos a seguir e, se necessário, as medidas apropriadas serão descritas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта информация определяется при проведении следующих процедур и, при необходимости, соответствующие действия будут описаны более подробно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta información se determinará durante los siguientes procedimientos; si fuera necesario, se explicarán detalladamente las acciones que deben llevarse a cabo.</tu>
+	<tu xmlns:lang="chs">??????????????????,????,???????????????</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 절차 중에 이 정보가 확인되고, 필요한 경우 적절한 조치가 자세히 설명될 것입니다.</tu>
+</tm>

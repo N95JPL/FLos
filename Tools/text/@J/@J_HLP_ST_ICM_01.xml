@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_ICM_01">
+	<tu
+    xmlns:lang="eng"
+  >Will include a check of steering wheel switches continuity.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hierin is tevens een controle op een breuk in de schakelaars op het stuurwiel opgenomen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Comprendra un contrôle de continuité des contacteurs du volant.</tu>
+	<tu xmlns:lang="deu">Umfasst eine Durchgangsprüfung der Lenkradschalter.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Include un controllo della continuità degli interruttori sul volante.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング ホイール スイッチの導通のチェックを含みます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Inclui uma verificação de continuidade nos comandos/interruptores do volante.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Inclui uma verificação de continuidade dos interruptores do volante.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включает в себя проверку целостности переключателей рулевого колеса.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Incluirá una comprobación de la continuidad de los interruptores montados en el volante.</tu>
+	<tu xmlns:lang="chs">将包括检查方向盘开关电路的连续性。</tu>
+	<tu xmlns:lang="kor">스티어링 휠 스위치 통전성 검사가 포함됩니다.</tu>
+</tm>

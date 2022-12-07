@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CAU_ENS_VEH_CLR_OBS">
+	<tu
+    xmlns:lang="eng"
+  >Caution! Make sure the vehicle is clear of any obstacles.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Let op! Zorg dat er bij het voertuig geen obstakels zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attention ! Assurez-vous que le véhicule n'est confronté à aucun obstacle.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vorsicht! Sicherstellen, dass sich keine Hindernisse in Nähe des Fahrzeugs befinden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attenzione! Assicurarsi che non vi siano ostacoli davanti alla vettura.</tu>
+	<tu xmlns:lang="jpn">注意！ 車両に何も障害物がないことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Cuidado! Certifique-se de que o veículo está afastado de quaisquer obstáculos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Cuidado Certifique-se de que o veículo esteja sem nenhum obstáculo por perto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Предостережение! Убедитесь в отсутствии каких-либо препятствий для автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >¡Atención! Asegurarse de que el vehículo esté alejado de todo obstáculo.</tu>
+	<tu xmlns:lang="chs">注意！确保车辆没有任何障碍物。</tu>
+	<tu xmlns:lang="kor">주의! 차량 주위에 장애물이 없도록 하십시오.</tu>
+</tm>

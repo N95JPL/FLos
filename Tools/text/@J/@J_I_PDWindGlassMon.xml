@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PDWindGlassMon">
+	<tu xmlns:lang="eng">Passenger's door window glass monitoring.</tu>
+	<tu xmlns:lang="nld">Bewaking van voorpassagiersportierruit.</tu>
+	<tu xmlns:lang="fra">Commande de vitre de porte passager.</tu>
+	<tu xmlns:lang="deu">Überwachung Beifahrertürfenster.</tu>
+	<tu xmlns:lang="ita">Monitoraggio cristallo portiera passeggero.</tu>
+	<tu xmlns:lang="jpn">助手席側ドア ウィンドウ ガラスのモニタリング</tu>
+	<tu xmlns:lang="ptg">Monitorização do vidro da porta do passageiro.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Monitoramento do vidro da janela da porta do passageiro.</tu>
+	<tu xmlns:lang="rus">Контроль стеклоподъемника двери пассажира.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Control del cristal de la ventanilla de la puerta del acompañante.</tu>
+	<tu xmlns:lang="chs">乘客一侧车门玻璃窗监测。</tu>
+	<tu xmlns:lang="kor">조수석 도어 윈도우 글라스 모니터링</tu>
+</tm>

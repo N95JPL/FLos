@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALL_KEY_USE_AVAIL">
+	<tu xmlns:lang="eng">All keys required for use must be available.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alle voor gebruik benodigde sleutels moeten beschikbaar zijn.</tu>
+	<tu xmlns:lang="fra">Toutes les clés à utiliser doivent être disponibles.</tu>
+	<tu xmlns:lang="deu">Alle zu verwendenden Schlüssel müssen verfügbar sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tutte le chiavi richieste per l'uso devono essere disponibili.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >使用する必要のあるすべてのキーが用意できていなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todas as chaves necessárias para utilização devem estar disponíveis.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todas as chaves necessárias para utilização devem estar disponíveis.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Необходимо наличие всех ключей, которые планируется использовать.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se debe disponer de todas las llaves que se necesiten para el uso.</tu>
+	<tu xmlns:lang="chs">使用要求的所有车匙必须备妥待用。</tu>
+	<tu xmlns:lang="kor">사용에 필요한 모든 키를 사용할 수 있어야 합니다.</tu>
+</tm>

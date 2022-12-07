@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDST_ALGERIA">
+	<tu xmlns:lang="eng">Algeria</tu>
+	<tu xmlns:lang="nld">Algerije</tu>
+	<tu xmlns:lang="fra">Algérie</tu>
+	<tu xmlns:lang="deu">Algerien</tu>
+	<tu xmlns:lang="ita">Algeria</tu>
+	<tu xmlns:lang="jpn">アルジェリア</tu>
+	<tu xmlns:lang="ptg">Argélia</tu>
+	<tu xmlns:lang="ptb">Argélia</tu>
+	<tu xmlns:lang="rus">Алжир</tu>
+	<tu xmlns:lang="esp">Argelia</tu>
+	<tu xmlns:lang="chs">阿尔及利亚</tu>
+	<tu xmlns:lang="kor">알제리</tu>
+</tm>

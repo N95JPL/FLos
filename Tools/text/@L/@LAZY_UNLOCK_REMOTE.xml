@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LAZY_UNLOCK_REMOTE">
+	<tu xmlns:lang="eng">Lazy unlock from remote handset</tu>
+	<tu xmlns:lang="nld">Lui ontgrendelen vanaf afstandsbediening</tu>
+	<tu xmlns:lang="fra">Déverrouillage confort par télécommande.</tu>
+	<tu xmlns:lang="deu">Entriegeln mit Komforteinstieg über Fernbedienung</tu>
+	<tu xmlns:lang="ita">Sbloccaggio agevolato dal telecomando</tu>
+	<tu xmlns:lang="jpn">リモート ハンドセットによるレイジー アンロック</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Destrancagem com adaptação automática (lazy unlock) com o comando à distância</tu>
+	<tu xmlns:lang="ptb">Destravamento lento pelo controle remoto</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция Lazy Unlock - общее отпирание с пульта дистанционного управления</tu>
+	<tu xmlns:lang="esp">Desbloqueo automático con transmisor</tu>
+	<tu xmlns:lang="chs">从遥控手持设备进行便捷解锁</tu>
+	<tu xmlns:lang="kor">원격 핸드셋의 레이지 언록</tu>
+</tm>

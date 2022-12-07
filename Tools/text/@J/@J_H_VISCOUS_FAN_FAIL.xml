@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_VISCOUS_FAN_FAIL">
+	<tu
+    xmlns:lang="eng"
+  >Test failed  -  Limits were not reached during drive cycle  -  Please replace the viscous fan and re-test</tu>
+	<tu
+    xmlns:lang="nld"
+  >Test zonder resultaat  -  Gedurende de rijcyclus werden de grenzen niet bereikt  -  Vervang a.u.b. de viscoventilator en voer de test nogmaals uit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Essai non reussi  -  Les limites n'ont été atteintes pendant le cycle de conduite  -  Remplacez le ventilateur à viscocoupleur et refaites le test</tu>
+	<tu
+    xmlns:lang="deu"
+  >Prüfung erfolglos  -  Während des Fahrzyklus wurden keine Grenzwerte erreicht  -  Viskolüfter ersetzen und neu prüfen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prova non superata  -  Non sono stati raggiunti i limiti durante il ciclo di guida  -  Sostituire la ventola a giunto viscoso e ripetere la prova</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ﾃｽﾄができませんでした。  －  ドライブ サイクル中にリミットに到達しませんでした。  －  ビスカス ファンを交換し再テストしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falhou teste  -  Não foram atingidos os limites durante o ciclo de condução  -  Substitua a ventoinha viscosa e teste de novo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Reprovação no teste  -  Os limites não foram atingidos durante ciclo de condução  -  Substitua o ventilador viscoso e teste novamente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка не пройдена  -  Во время ездового цикла требуемые пределы не достигнуты  -  Замените вязкостный вентилятор и повторите проверку</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha superado la prueba  -  No se alcanzaron los límites durante el ciclo de conducción  -  Sustituir el ventilador viscoso y volver a comprobar</tu>
+	<tu
+    xmlns:lang="chs"
+  >测试失败  -  驱动循环过程中未达到限值  -  请更换硅油风扇并重新测试</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트 실패  -  주행 사이클 중에 한계에 도달하지 않음  -  비스코스 팬을 교체하고 다시 테스트하십시오.</tu>
+</tm>

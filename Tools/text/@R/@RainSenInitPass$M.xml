@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RainSenInitPass$M">
+	<tu xmlns:lang="eng">Rain sensor initialisation set-up was successful.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instelling voor de initialisatie van de regensensor is met succes uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédure d'initialisation du capteur de pluie réussie.</tu>
+	<tu xmlns:lang="deu">Initialisierungseinstellung Regensensor erfolgreich.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impostazione inizializzazione sensore pioggia riuscita.</tu>
+	<tu xmlns:lang="jpn">雨滴センサーの初期化セットアップが正常に完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A configuração de inicialização do sensor de chuva foi bem sucedida.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A configuração de inicialização do sensor de chuva foi bem-sucedida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Настройка инициализации датчика дождя выполнена успешно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La configuración de la iniciación del sensor de lluvia fue satisfactoria.</tu>
+	<tu xmlns:lang="chs">雨量传感器初始化设置成功。</tu>
+	<tu xmlns:lang="kor">레인 센서 초기화 설정에 성공했습니다.</tu>
+</tm>

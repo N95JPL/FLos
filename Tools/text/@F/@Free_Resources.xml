@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Free_Resources">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle configuration cannot continue until the resources have been released.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voertuigconfiguratie kan niet verder gaan tot de systeemelementen zijn vrijgegeven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La configuration du véhicule ne peut pas continuer tant que les ressources n'ont pas été libérées.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Fahrzeugkonfiguration kann nicht fortgesetzt werden, bis nicht alle Ressourcen freigegeben wurden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La configurazione del veicolo non può continuare finché non sono state rilasciate le risorse.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >リソ\ースが開放されない限り車両コンフィギュレーションを続行できません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A configuração do veículo não pode prosseguir até os recursos serem libertados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A configuração do veículo não pode continuar até que os recursos tenham sido liberados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Продолжить конфигурирование автомобиля невозможно до высвобождения необходимого ресурса памяти.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La configuración del vehículo no puede continuar hasta que no se hayan desocupado los recursos.</tu>
+	<tu xmlns:lang="chs">不能继续对车辆进行配置，直至资源已释放。</tu>
+	<tu
+    xmlns:lang="kor"
+  >리소스가 릴리스될 때까지는 차량 구성을 계속할 수 없습니다.</tu>
+</tm>

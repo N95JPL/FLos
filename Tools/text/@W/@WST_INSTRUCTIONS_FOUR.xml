@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_INSTRUCTIONS_FOUR">
+	<tu xmlns:lang="eng">Cannot be moved when braked by the ABS system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Kan niet bewogen worden, wanneer er met het ABS-systeem wordt geremd.</tu>
+	<tu xmlns:lang="fra">Ne peut pas être bougée si freinée par le système ABS.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kann bei Bremsung durch das ABS-System nicht bewegt werden.</tu>
+	<tu xmlns:lang="ita">Non può essere mossa quando è frenata dal sistema ABS.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ABS システムによってブレーキがかかっているときには動かせません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não podem rodar enquanto estão sob o efeito de travagem do ABS.</tu>
+	<tu xmlns:lang="ptb">Não pode ser movida quando travada pelo sistema ABS.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не может двигаться при торможении с использованием ABS.</tu>
+	<tu xmlns:lang="esp">No se puede mover cuando la frena el sistema ABS.</tu>
+	<tu xmlns:lang="chs">ABS 系统制动时不能运动。</tu>
+	<tu xmlns:lang="kor">ABS 시스템으로 제동 시 움직일 수 없습니다.</tu>
+</tm>

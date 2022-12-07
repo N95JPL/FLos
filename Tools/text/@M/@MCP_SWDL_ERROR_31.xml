@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_SWDL_ERROR_31">
+	<tu
+    xmlns:lang="eng"
+  >A failure occurred  -  Error code 31  =  The request is out of range</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is een storing opgetreden - Foutcode 31 = Het verzoek is buiten bereik</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une défaillance s'est produite - Code d'erreur 31 = La demande est hors limites</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es ist ein Fehler aufgetreten – Fehlercode 31 = Die Anforderung liegt außerhalb der Reichweite</tu>
+	<tu
+    xmlns:lang="ita"
+  >Si è verificato un errore - Codice di errore 31 = La richiesta è fuori gamma</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エラーが発生しました - エラー コード 31 = リクエストが範囲外</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ocorreu uma falha - Código de erro 31 = O pedido está fora do limite</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma falha ocorreu - Código de erro 31 = Solicitação fora da faixa</tu>
+	<tu
+    xmlns:lang="rus"
+  >Произошел сбой — код ошибки: 31 = запрос находится вне диапазона</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha producido un fallo - Código de error 31 = La solicitud está fuera de límites</tu>
+	<tu xmlns:lang="chs">发生故障 - 错误代码 31 = 请求超出范围</tu>
+	<tu xmlns:lang="kor">오류 발생 - 오류 코드 31 = 요청이 범위를 벗어남</tu>
+</tm>

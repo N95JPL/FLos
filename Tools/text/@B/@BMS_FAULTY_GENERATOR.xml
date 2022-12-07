@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_FAULTY_GENERATOR">
+	<tu xmlns:lang="eng">Faulty generator</tu>
+	<tu xmlns:lang="nld">Defecte dynamo</tu>
+	<tu xmlns:lang="fra">Alternateur défectueux.</tu>
+	<tu xmlns:lang="deu">Generator schadhaft</tu>
+	<tu xmlns:lang="ita">Generatore difettoso</tu>
+	<tu xmlns:lang="jpn">ジェネレータ不良</tu>
+	<tu xmlns:lang="ptg">Alternador avariado</tu>
+	<tu xmlns:lang="ptb">Falha no gerador</tu>
+	<tu xmlns:lang="rus">Неисправен генератор</tu>
+	<tu xmlns:lang="esp">Alternador defectuoso</tu>
+	<tu xmlns:lang="chs">发电机故障</tu>
+	<tu xmlns:lang="kor">제너레이터 고장</tu>
+</tm>

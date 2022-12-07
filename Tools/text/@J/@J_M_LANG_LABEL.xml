@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_LANG_LABEL">
+	<tu xmlns:lang="eng">Language label</tu>
+	<tu xmlns:lang="nld">Taallabel</tu>
+	<tu xmlns:lang="fra">Etiquette de langue</tu>
+	<tu xmlns:lang="deu">Sprachenschild</tu>
+	<tu xmlns:lang="ita">Etichetta indicante la lingua</tu>
+	<tu xmlns:lang="jpn">言語ラベル</tu>
+	<tu xmlns:lang="ptg">Etiqueta do idioma</tu>
+	<tu xmlns:lang="ptb">Etiqueta de Idioma</tu>
+	<tu xmlns:lang="rus">Наклейка с указанием языка</tu>
+	<tu xmlns:lang="esp">Etiqueta de idioma</tu>
+	<tu xmlns:lang="chs">语言标签</tu>
+	<tu xmlns:lang="kor">언어 라벨</tu>
+</tm>

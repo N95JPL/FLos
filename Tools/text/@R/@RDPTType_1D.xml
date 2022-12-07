@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RDPTType_1D">
+	<tu xmlns:lang="eng">Liters per 100 Km</tu>
+	<tu xmlns:lang="nld">Liter per 100 km</tu>
+	<tu xmlns:lang="fra">Litres par 100 km</tu>
+	<tu xmlns:lang="deu">Liter pro 100 km</tu>
+	<tu xmlns:lang="ita">Litri per 100 km</tu>
+	<tu xmlns:lang="jpn">L/100km</tu>
+	<tu xmlns:lang="ptg">Litros por 100 km</tu>
+	<tu xmlns:lang="ptb">Litros por 100 km</tu>
+	<tu xmlns:lang="rus">Литры на 100 км</tu>
+	<tu xmlns:lang="esp">Litros por 100 km</tu>
+	<tu xmlns:lang="chs">升/100千米</tu>
+	<tu xmlns:lang="kor">100km당 소모 연료량(리터)</tu>
+</tm>

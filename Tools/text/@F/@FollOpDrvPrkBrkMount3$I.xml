@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FollOpDrvPrkBrkMount3$I">
+	<tu
+    xmlns:lang="eng"
+  >This can lead to a condition where not enough cable is available to connect to the brakes.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hierdoor kan er een situatie ontstaan, waarbij er onvoldoende kabel beschikbaar is om met de remmen te kunnen verbinden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cela peut donner lieu à une condition où il n'y a pas suffisamment de câble disponible pour qu'il puisse être accouplé aux freins.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Damit stellt sich eine Situation ein, in der keine ausreichende Seilzuglänge für den Anschluss an die Bremsen zur Verfügung steht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ne può conseguire una condizione in cui il cavo non è sufficiente ad effettuare la connessione ai freni.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この場合、ブレーキへ接続するためのケーブルの長さが充分でない状態が発生します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Isto pode levar a uma situação em que não há cabo suficiente disponível para ligar aos travões.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso pode levar a uma condição na qual não haja cabo suficiente disponível para conectar os freios.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это может привести к тому, что длины кабеля будет недостаточно для подключения к тормозам.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esto puede llevar a una situación en la que no se dispone de una cantidad suficiente de cable para conectar los frenos.</tu>
+	<tu xmlns:lang="chs">这可导致没有足够的拉索来连接制动器。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이렇게 되면 브레이크에 연결할 케이블이 충분하지 않은 상태가 될 수 있습니다.</tu>
+</tm>

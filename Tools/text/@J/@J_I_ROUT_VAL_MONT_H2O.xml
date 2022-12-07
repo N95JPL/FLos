@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_VAL_MONT_H2O">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required to reset the values of mileage and distance, which relates to the monitoring of water within the fuel.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig voor het terugstellen van de waarden voor de kilometerstand en de gereden afstand, die op de bewaking van het water in de brandstof betrekking hebben.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé pour réinitialiser les valeurs de kilométrage et de distance liées au contrôle de l'eau dans le carburant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, um die Werte für Kilometerstand und Distanz rückzusetzen, die für die Überwachung von Wasser im Kraftstoff genutzt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta per azzerare i valori di chilometraggio e distanza relativi al monitoraggio dell'acqua nel carburante.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、フューエル内の水のモニターに関連する走行距離数値をリセットするために必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária para reinicializar os valores de quilometragem e distância, relacionados com a monitorização da água no combustível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária para redefinir os valores da quilometragem e a distância, o que se refere ao monitoramento da água no combustível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнение данной операции требуется для сброса значений пробега и расстояния, относящихся к контролю содержания воды в топливе.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse para poner a cero los valores de kilometraje y distancia asociados con el control del contenido de agua en el combustible.</tu>
+	<tu
+    xmlns:lang="chs"
+  >需要执行本程序以重置里程和距离值，这与监控燃油中的水份有关。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 마일리지 및 거리 값의 재설정에 필요하며, 연료 내 수분 모니터링과 관련되어 있습니다.</tu>
+</tm>

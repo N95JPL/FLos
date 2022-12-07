@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FIT_VOIC_CTRL_MMM">
+	<tu
+    xmlns:lang="eng"
+  >Fitted with voice control (hosted via the multi-media module).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Uitgerust met spraakactivering ('hosted' via de multimediamodule).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Equipé de la commande vocale (hébergée par le biais du module multimédia).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit Sprachsteuerung ausgestattet (über Multimedia-Steuergerät bereitgestellt).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Comando a viva voce in dotazione (risiede nel modulo multimediale).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >音声コントロール装備 (マルチメディア モジュールによって受け入れ)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Equipado com comando por voz (através do módulo do sistema multimédia).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Equipado com controle de voz (hospedado por módulo multimídia).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлена система голосового управления (реализуется через мультимедийный блок).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cuenta con activación por voz (funciona a través del módulo multimedia).</tu>
+	<tu xmlns:lang="chs">安装了语音控制器（通过多媒体模块托管）。</tu>
+	<tu xmlns:lang="kor">음성 컨트롤이 장착됨(멀티 미디어 모듈을 통해 호스팅)</tu>
+</tm>

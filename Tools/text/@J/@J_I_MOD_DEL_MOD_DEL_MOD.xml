@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOD_DEL_MOD_DEL_MOD">
+	<tu xmlns:lang="eng">Module delivery mode  -  Delivery mode</tu>
+	<tu xmlns:lang="nld">Moduletoevoerfunctie  -  Afleveringsfunctie</tu>
+	<tu xmlns:lang="fra">Mode de livraison du module.  -  Mode livraison</tu>
+	<tu xmlns:lang="deu">Steuergerät-Auslieferungsmodus  -  Auslieferungsmodus</tu>
+	<tu xmlns:lang="ita">Modalità di consegna modulo  -  Modalità di consegna</tu>
+	<tu xmlns:lang="jpn">モジュール デリバリ モード  －  デリバリー モード</tu>
+	<tu xmlns:lang="ptg">Modo de alimentação do módulo  -  Modo de transporte</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Modo de fornecimento do módulo  -  Modo de fornecimento</tu>
+	<tu xmlns:lang="rus">Транспортный режим модуля  -  Режим доставки</tu>
+	<tu xmlns:lang="esp">Modo de entrega del módulo  -  Modo de entrega</tu>
+	<tu xmlns:lang="chs">模块发车模式  -  发车模式</tu>
+	<tu xmlns:lang="kor">모듈 배송 모드  -  배송 모드</tu>
+</tm>

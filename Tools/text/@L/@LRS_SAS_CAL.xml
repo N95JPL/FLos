@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_SAS_CAL">
+	<tu xmlns:lang="eng">The steering angle has been calibrated.</tu>
+	<tu xmlns:lang="nld">De stuuruitslag is nu gekalibreerd.</tu>
+	<tu xmlns:lang="fra">L'angle de direction a été étalonné.</tu>
+	<tu xmlns:lang="deu">Der Lenkwinkel wurde kalibriert.</tu>
+	<tu xmlns:lang="ita">L'angolo di sterzata è stato tarato.</tu>
+	<tu xmlns:lang="jpn">ステアリング アングルがキャリブレーションされました。</tu>
+	<tu xmlns:lang="ptg">O ângulo da direcção foi calibrado.</tu>
+	<tu xmlns:lang="ptb">O ângulo de direção foi calibrado.</tu>
+	<tu xmlns:lang="rus">Калибровка угла поворота выполнена.</tu>
+	<tu xmlns:lang="esp">Se ha calibrado el ángulo de la dirección.</tu>
+	<tu xmlns:lang="chs">转向角已校准。</tu>
+	<tu xmlns:lang="kor">스티어링 각도가 보정되었습니다.</tu>
+</tm>

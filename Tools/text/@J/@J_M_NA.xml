@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_NA">
+	<tu xmlns:lang="eng">Normally aspirated</tu>
+	<tu xmlns:lang="nld">Zelfaanzuigend</tu>
+	<tu xmlns:lang="fra">Aspiration normale</tu>
+	<tu xmlns:lang="deu">Saugmotor</tu>
+	<tu xmlns:lang="ita">Ad aspirazione normale</tu>
+	<tu xmlns:lang="jpn">自然吸気</tu>
+	<tu xmlns:lang="ptg">Aspiração normal</tu>
+	<tu xmlns:lang="ptb">Normalmente aspirado</tu>
+	<tu xmlns:lang="rus">Без турбонаддува</tu>
+	<tu xmlns:lang="esp">Atmosférico</tu>
+	<tu xmlns:lang="chs">正常进气</tu>
+	<tu xmlns:lang="kor">정상 흡기</tu>
+</tm>

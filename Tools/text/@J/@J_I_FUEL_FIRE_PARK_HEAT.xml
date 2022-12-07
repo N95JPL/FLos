@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUEL_FIRE_PARK_HEAT">
+	<tu xmlns:lang="eng">Fuel fired parking heater (FFPH)</tu>
+	<tu xmlns:lang="nld">Op brandstof werkende standkachel (FFPH)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Chauffage de position de repos à combustion de carburant (FFPH)</tu>
+	<tu xmlns:lang="deu">Kraftstoffbetriebene Standheizung (FFPH)</tu>
+	<tu xmlns:lang="ita">Riscaldatore parcheggio alimentato a carburante (FFH)</tu>
+	<tu xmlns:lang="jpn">フューエル燃焼式パーク ヒーター (FFPH)</tu>
+	<tu xmlns:lang="ptg">Aquecedor a combustível de estacionamento (FFPH)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aquecedor quando estacionado por queima de combustível (FFPH)</tu>
+	<tu xmlns:lang="rus">Стояночный подогреватель, работающий на топливе (FFPH)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Calefactor de estacionamiento por quemado de combustible (FFPH)</tu>
+	<tu xmlns:lang="chs">燃油燃烧式驻车加热器（FFFH）</tu>
+	<tu xmlns:lang="kor">연료 연소식 주차 히터(FFPH)</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RunDTCMonCheck$I">
+	<tu
+    xmlns:lang="eng"
+  >Please run diagnostic trouble code monitor to verify no diagnostic trouble codes are present.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer a.u.b. de diagnosefoutcodebewaking uit om te verifiëren of er geen diagnosefoutcodes aanwezig zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez exécuter le contrôleur de codes de diagnostic pour vérifier qu'aucun code de diagnostic n'est présent.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte Fehlercode-Monitor laufen lassen um sicherzustellen, dass keine Fehlercodes vorliegen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Eseguire il monitaggio dei codici di guasto diagnostici per controllare che non sia presente nessun codice di guasto diagnostico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >診断トラブル コード モニターを実行し、診断トラブル コードがないことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Execute o monitor de diagnóstico de códigos de avarias para verificar se não existem códigos de avarias.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Opere o monitor do código de problema de diagnóstico para verificar se não há códigos de problema de diagnóstico presentes.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проведите контроль диагностических кодов неисправностей, чтобы подтвердить, что диагностические коды неисправностей отсутствуют.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Hacer funcionar el lector de códigos de avería para verificar que no haya ningún código de avería.</tu>
+	<tu xmlns:lang="chs">请运行故障诊断码监测器，来验证是否不存在故障诊断码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >고장 진단 코드 모니터를 실행하여 고장 진단 코드가 없는지 확인하십시오.</tu>
+</tm>

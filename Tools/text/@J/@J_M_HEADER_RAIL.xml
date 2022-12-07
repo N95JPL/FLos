@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_HEADER_RAIL">
+	<tu xmlns:lang="eng">Header rail</tu>
+	<tu xmlns:lang="nld">Voorste daktoog</tu>
+	<tu xmlns:lang="fra">Rail de pavillon</tu>
+	<tu xmlns:lang="deu">Vorderer Verdeckquerträger</tu>
+	<tu xmlns:lang="ita">Traversa testata</tu>
+	<tu xmlns:lang="jpn">ヘッダーレール</tu>
+	<tu xmlns:lang="ptg">Régua distribuidora principal</tu>
+	<tu xmlns:lang="ptb">Trilho do cabeçote</tu>
+	<tu xmlns:lang="rus">Дуга крыши</tu>
+	<tu xmlns:lang="esp">Arco del parabrisas</tu>
+	<tu xmlns:lang="chs">分供管</tu>
+	<tu xmlns:lang="kor">헤더 레일</tu>
+</tm>

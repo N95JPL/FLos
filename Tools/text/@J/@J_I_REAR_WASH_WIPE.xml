@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_WASH_WIPE">
+	<tu xmlns:lang="eng">Rear wash wipe</tu>
+	<tu xmlns:lang="nld">Achterruitensproeier/-wisser</tu>
+	<tu xmlns:lang="fra">Essuie-glace/Lave-glace arrière</tu>
+	<tu xmlns:lang="deu">Waschanlage/Scheibenwischer hinten</tu>
+	<tu xmlns:lang="ita">Lava/tergilunotto</tu>
+	<tu xmlns:lang="jpn">リア ウォッシャ ワイパー</tu>
+	<tu xmlns:lang="ptg">Lava/limpa-vidros traseiro</tu>
+	<tu xmlns:lang="ptb">Limpador/lavador traseiro</tu>
+	<tu xmlns:lang="rus">Задний стеклоочиститель/омыватель</tu>
+	<tu xmlns:lang="esp">Limpia/lavaluneta</tu>
+	<tu xmlns:lang="chs">后清洗刮水</tu>
+	<tu xmlns:lang="kor">후방 워셔 와이퍼</tu>
+</tm>

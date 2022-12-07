@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ATCM_USAGE_CLEAR">
+	<tu xmlns:lang="eng">Terrain optimization usage data clear.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Optimalisatiegebruiksgegevens van 'terrain response'-systeem wissen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Données utilisées pour l'optimisation du terrain effacées.</tu>
+	<tu xmlns:lang="deu">Löschung - Nutzungsdaten Terrainoptimierung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Cancellazione dei dati di utilizzazione dell'ottimizzazione Terrain.</tu>
+	<tu xmlns:lang="jpn">テレイン最適化使用データのクリア</tu>
+	<tu xmlns:lang="ptg">Apagar dados de utilização da optimização do Terrain.</tu>
+	<tu xmlns:lang="ptb">Dados de uso da otimização do terrain limpos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данные использования системы адаптации к дорожным условиям очищены.</tu>
+	<tu xmlns:lang="esp">Borrado de datos de optimización para el terreno.</tu>
+	<tu xmlns:lang="chs">地形优化使用数据清除。</tu>
+	<tu xmlns:lang="kor">터레인 최적화 사용 데이터 지우기.</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SERV_INT_RESET_FAILED">
+	<tu xmlns:lang="eng">Failed to reset the service interval.</tu>
+	<tu xmlns:lang="nld">Resetten van onderhoudsinterval is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de remise à zéro des intervalles de révision.</tu>
+	<tu xmlns:lang="deu">Das Wartungsintervall konnte nicht rückgesetzt werden.</tu>
+	<tu xmlns:lang="ita">Mancato azzeramento intervallo di servizio.</tu>
+	<tu xmlns:lang="jpn">サービス インターバルのリセットに失敗</tu>
+	<tu xmlns:lang="ptg">Não foi possível reiniciar os intervalos de revisão.</tu>
+	<tu xmlns:lang="ptb">Falha ao restabelecer o intervalo de manutenção.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Невозможно выполнить сброс интервала технического обслуживания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se logró poner a cero el intervalo entre revisiones.</tu>
+	<tu xmlns:lang="chs">重置维护时间间隔失败。</tu>
+	<tu xmlns:lang="kor">서비스 주기 재설정에 실패했습니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INJECTOR_CODE_10_DIGIT_PREFIX">
+	<tu
+    xmlns:lang="eng"
+  >The injector details plate also includes a prefix letter which denotes the associated cylinder number (M, N, R or S); this prefix letter will not need to be entered as part of the 10 digit code as this has been included above.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het identificatieplaatje van de injector is tevens voorzien van een voorgevoegde letter, die het bijbehorende cilindernummer aangeeft (M, N, R of S); u hoeft dit voorvoegsel niet als deel van de 10-cijferige code in te voeren, aangezien dit in het bovenstaande is opgenomen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La plaque signalétique d'injecteur comporte également une lettre en préfixe qui indique le numéro de cylindre associé (M, N, R ou S) ; cette lettre préfixe ne doit pas être saisie avec le code à 10 caractères puisqu'elle est incluse ci-dessus.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf dem Einspritzventil-Typenschild ist auch ein Präfix-Buchstabe angegeben, der die zugehörige Zylindernummer kennzeichnet (M, N, R oder S); dieser Präfix-Buchstabe muss nicht zusammen mit dem 10-stelligen Code eingegeben werden, da die Zylindernummer oben aus der Eingabemaske hervorgeht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La targhetta dati dell'iniettore include anche una lettera di prefisso che indica il numero del cilindro associato (M, N, R o S); questa lettera di prefisso non deve essere immessa come parte del codice a 10 cifre, in quanto quest'ultimo è stato incluso sopra.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インジェクタ詳細プレートにはまた、関連シリンダ ナンバー (M、N、R または S) を表\わすプリフィックス文字があります。このプリフィックス文字は上記に含まれるため 10 桁コードの一部として入力する必要はありません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A chapa de dados do injector inclui igualmente uma letra como prefixo, que indica o número do cilindro correspondente (M, N, R ou S); essa letra prefixo não precisará de ser introduzida como parte do código de 10 dígitos já que já foi incluída acima.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O injetor detalha a placa e também inclui uma letra, que denota o número do cilindro associado (M, N, R ou S); essa letra como prefixo não precisará ser inserida como parte do código de 10 dígitos, pois isso foi incluído acima.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На бирке форсунки также указан буквенный префикс, обозначающий соответствующий номер цилиндра (M, N, R или S); этот буквенный префикс необходимо ввести в качестве составляющей вышеуказанного 10-значного кода.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La chapa de datos del inyector incluye una letra de prefijo que indica el número de cilindro asociado (M, N, R o S); no hace falta poner esta letra como parte del código de 10 dígitos, puesto que ya está incluida arriba.</tu>
+	<tu
+    xmlns:lang="chs"
+  >喷油器详情铭牌还包括一个前缀字母，代表关联气缸编号（M、N、R或S）；这一前缀字母将不需要作为10位代码的一部分输入，因为上面已包含。</tu>
+	<tu
+    xmlns:lang="kor"
+  >인젝터 세부 정보가 표시된 플레이트에는 관련 실린더 번호(M, N, R 또는 S)를 나타내는 접두사 문자도 포함되는데, 이 접두사 문자가 위에서 포함된 것처럼 10자리 코드의 일부로 이 문자를 입력할 필요는 없습니다.</tu>
+</tm>

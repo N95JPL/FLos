@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_REPEAT_STEPS_IF_NO_MESS">
+	<tu
+    xmlns:lang="eng"
+  >If 'resetting service mode' does not appear after the buttons are pressed in step 5, repeat steps 1-5 – you do not have to wait 12 hours to do this.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als 'resetting service mode' (bezig met resetten van onderhoudsfunctie) niet verschijnt nadat u de toetsen in stap 5 hebt ingedrukt, herhaalt u de stappen 1 - 5. U hoeft hiervoor niet 12 uur te wachten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si 'resetting service mode' (réinitialisation du mode service) n'apparaît pas après avoir appuyé sur les boutons à l'étape 5, répétez les étapes 1 à 5 - il n'est pas nécessaire d'attendre 12 heures pour le faire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wird nach Drücken der Tasten in Schritt 5 nicht 'Resetting service mode' (Servicemodus wird rückgesetzt) angezeigt, Schritte 1-5 wiederholen - eine Wartezeit von 12 Stunden muss nicht eingehalten werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se dopo aver premuto i tasti al punto 5 non viene visualizzato il messaggio 'resetting service mode', (ripristino modalità di servizio in corso), ripetere i punti da 1 a 5; non è necessario attendere 12 ore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステップ 5 でボタンを押したのち「resetting service mode (サービス モードのリセット中)」が表\示されない場合、ステップ 1 ～ 5 を繰り返しなさい - これを行うために 12 時間待つ必要はありません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a mensagem 'resetting service mode' (a repor modo de serviço) não surgir depois de premidos os botões na etapa 5, repetir as etapas 1 a 5. Não é necessário aguardar 12 horas para o fazer.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se redefinindo modo de serviço não aparecer depois de os botões serem pressionados na etapa 5, repita as etapas de 1 a 5 - você não precisa esperar 12 horas para fazer isso.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если сообщение 'сброс режима обслуживания' не появляется после того, как кнопки нажимаются на шаге 5, повторите шаги 1-5 - для этого нет необходимости ждать 12 часов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si no aparece el mensaje 'resetting service mode' (restaurando modo de servicio) tras pulsar los botones en el paso 5, repetir los pasos del 1 al 5; no hace falta esperar 12 horas para hacerlo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'如果在步骤 5 中按住按钮后'维修模式复位'没有出现，请重复步骤 1 - 5 - 您不必等待 12 小时再重复步骤 1 - 5。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >5단계에서 버튼을 누른 후에 '서비스 모드를 재설정하는 중' 메시지가 나타나지 않으면 1~5단계를 반복하십시오. 이를 위해 12시간 동안 기다릴 필요는 없습니다.</tu>
+</tm>

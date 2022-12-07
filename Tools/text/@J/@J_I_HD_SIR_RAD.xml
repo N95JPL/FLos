@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HD_SIR_RAD">
+	<tu xmlns:lang="eng">High definition and Sirius radio system</tu>
+	<tu xmlns:lang="nld">Hoogwaardig en Sirius-radiosysteem</tu>
+	<tu xmlns:lang="fra">Système d'autoradio Sirius et haute définition</tu>
+	<tu xmlns:lang="deu">Hoch auflösendes und Sirius-Radiosystem</tu>
+	<tu xmlns:lang="ita">Sistema radio alta definizione e Sirius</tu>
+	<tu xmlns:lang="jpn">ハイ デフィニション (HD) シリウス ラジオ システム</tu>
+	<tu xmlns:lang="ptg">Sistema de rádio Sirius e de alta definição</tu>
+	<tu xmlns:lang="ptb">Sistema de rádio Sirius de alta definição</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система радиовещания высокой четкости и приема сигнала Sirius</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de radio de alta definición y sistema de radio Sirius</tu>
+	<tu xmlns:lang="chs">高音质和 Sirius 广播系统</tu>
+	<tu xmlns:lang="kor">고화질 및 Sirius 라디오 시스템</tu>
+</tm>

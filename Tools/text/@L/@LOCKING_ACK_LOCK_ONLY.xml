@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LOCKING_ACK_LOCK_ONLY">
+	<tu xmlns:lang="eng">Acknowledge locking, but not unlocking</tu>
+	<tu xmlns:lang="nld">Bevestig vergrendeling, maar niet ontgrendeling</tu>
+	<tu xmlns:lang="fra">Confirme le verrouillage mais pas le déverrouillage</tu>
+	<tu xmlns:lang="deu">Verriegelung bestätigen, nicht jedoch Entriegelung</tu>
+	<tu xmlns:lang="ita">Confermare bloccaggio, ma non sbloccaggio</tu>
+	<tu xmlns:lang="jpn">ロッキングを確認、ただしアンロッキング確認はしない</tu>
+	<tu xmlns:lang="ptg">Confirma trancagem, mas não destrancagem</tu>
+	<tu xmlns:lang="ptb">Reconhecer travamento, mas não destravar</tu>
+	<tu xmlns:lang="rus">Подтвердите запирание, но не отпирание</tu>
+	<tu xmlns:lang="esp">Reconocer el bloqueo pero no el desbloqueo</tu>
+	<tu xmlns:lang="chs">确认锁闭，而非解锁</tu>
+	<tu xmlns:lang="kor">잠금 확인, 그러나 잠금 해제는 확인 안 함</tu>
+</tm>

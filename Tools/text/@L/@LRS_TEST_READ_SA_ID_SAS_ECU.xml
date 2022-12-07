@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_TEST_READ_SA_ID_SAS_ECU">
+	<tu
+    xmlns:lang="eng"
+  >The tester reads the steering angle identification from the steering angle sensor electronic control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het testapparaat leest de identificatie van de stuuruitslag uit de elektronische regelmodule van de stuuruitslagsensor uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le testeur lit l'identification d'angle de direction dans le module de commande électronique de capteur d'angle de direction.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Testgerät liest die Lenkwinkelidentifikation aus dem elektronischen Lenkwinkelsensor-Steuergerät aus.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il tester legge l'identificativo dell'angolo di sterzata dall'unità di comando elettronica sensore angolo di sterzata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テスターはステアリング アングル センサー エレクトロニック コントロール ユニットからステアリング アングル ID を読み取ります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O dispositivo de teste faz a leitura da identificação do ângulo da direcção a partir da unidade electrónica de controlo do sensor do ângulo da direcção.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O testador lê a identificação do ângulo de direção da unidade de controle eletrônico do sensor do ângulo de direção.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Диагностическое устройство считывает идентификацию угла поворота, передаваемую с электронного блока управления датчиком угла поворота.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El comprobador lee la identificación del ángulo de la dirección en el módulo de control electrónico del sensor del ángulo de la dirección.</tu>
+	<tu xmlns:lang="chs">测试仪从转向角传感器电子控制单元读取转向角标识。</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스터가 스티어링 각도 센서 전자 컨트롤 유닛에서 스티어링 각도 식별 정보를 읽습니다.</tu>
+</tm>

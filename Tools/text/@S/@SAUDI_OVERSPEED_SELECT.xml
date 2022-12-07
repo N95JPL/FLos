@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SAUDI_OVERSPEED_SELECT">
+	<tu xmlns:lang="eng">Enable or disable Saudi Arabia overspeed warning</tu>
+	<tu
+    xmlns:lang="nld"
+  >Schakel de waarschuwing voor een te hoge snelheid (Saudi-Arabië) in of uit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Activez ou désactivez l'avertissement de vitesse excessive - Arabie saoudite.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Geschwindigkeitswarnung Saudi-Arabien aktivieren oder deaktivieren</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attivare o disattivare l'avvertenza velocità eccessiva per l'Arabia Saudita</tu>
+	<tu
+    xmlns:lang="jpn"
+  >サウジアラビア用オーバースピード警告の作動可または作動不可設定</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Active ou desactive o aviso de excesso de velocidade para Arábia Saudita</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ative ou desative alerta de rotação excessiva da Arábia Saudita</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включите или отключите предупреждение о превышении скорости для Саудовской Аравии</tu>
+	<tu
+    xmlns:lang="esp"
+  >Habilitar o inhabilitar el aviso de exceso de velocidad para Arabia Saudí</tu>
+	<tu xmlns:lang="chs">启用或禁用沙特阿拉伯超速警告</tu>
+	<tu xmlns:lang="kor">사우디아라비아 과속 경고 활성화 또는 비활성화</tu>
+</tm>

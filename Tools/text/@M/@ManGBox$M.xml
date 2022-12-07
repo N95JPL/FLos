@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ManGBox$M">
+	<tu xmlns:lang="eng">Manual transmission</tu>
+	<tu xmlns:lang="nld">Handgeschakelde versnellingsbak</tu>
+	<tu xmlns:lang="fra">Boîte de vitesses manuelle</tu>
+	<tu xmlns:lang="deu">Schaltgetriebe</tu>
+	<tu xmlns:lang="ita">Trasmissione manuale</tu>
+	<tu xmlns:lang="jpn">ﾏﾆｭｱﾙ･ﾄﾗﾝｽﾐｯｼｮﾝ</tu>
+	<tu xmlns:lang="ptg">Transmissão manual</tu>
+	<tu xmlns:lang="ptb">Transmissão manual</tu>
+	<tu xmlns:lang="rus">Механическая коробка передач</tu>
+	<tu xmlns:lang="esp">Caja de cambios manual</tu>
+	<tu xmlns:lang="chs">手动变速器</tu>
+	<tu xmlns:lang="kor">수동 변속기</tu>
+</tm>

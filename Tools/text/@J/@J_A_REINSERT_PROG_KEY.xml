@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_REINSERT_PROG_KEY">
+	<tu xmlns:lang="eng">Re-insert a programmed key.</tu>
+	<tu xmlns:lang="nld">Steek een geprogrammeerde sleutel nogmaals in.</tu>
+	<tu xmlns:lang="fra">Réinsérez une clé programmée.</tu>
+	<tu xmlns:lang="deu">Einen programmierten Schlüssel wieder einstecken.</tu>
+	<tu xmlns:lang="ita">Reinserire una chiave programmata.</tu>
+	<tu xmlns:lang="jpn">プログラムされたキーをもう一度挿入しなさい。</tu>
+	<tu xmlns:lang="ptg">Voltar a introduzir uma chave programada.</tu>
+	<tu xmlns:lang="ptb">Insira novamete uma chave programada.</tu>
+	<tu xmlns:lang="rus">Еще раз вставьте запрограммированный ключ.</tu>
+	<tu xmlns:lang="esp">Volver a insertar una llave programada.</tu>
+	<tu xmlns:lang="chs">再次插入已编程的车钥。</tu>
+	<tu xmlns:lang="kor">프로그래밍된 키를 다시 삽입하십시오.</tu>
+</tm>

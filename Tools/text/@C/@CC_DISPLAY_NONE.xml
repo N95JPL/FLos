@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CC_DISPLAY_NONE">
+	<tu xmlns:lang="eng">No speed control display</tu>
+	<tu xmlns:lang="nld">Geen weergave snelheidsregeling</tu>
+	<tu xmlns:lang="fra">Pas d'affichage du régulateur de vitesse.</tu>
+	<tu xmlns:lang="deu">Keine Anzeige Geschwindigkeitsregelung</tu>
+	<tu xmlns:lang="ita">Nessun display controllo di velocità</tu>
+	<tu xmlns:lang="jpn">スピード コントロール ディスプレイなし</tu>
+	<tu xmlns:lang="ptg">Sem visor de controlo da velocidade</tu>
+	<tu xmlns:lang="ptb">Sem tela do controle de velocidade</tu>
+	<tu xmlns:lang="rus">Дисплей круиз-контроля отсутствует</tu>
+	<tu xmlns:lang="esp">Sin visualización del control de velocidad</tu>
+	<tu xmlns:lang="chs">无速度控制显示</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤 디스플레이 없음</tu>
+</tm>

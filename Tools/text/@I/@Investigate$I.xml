@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Investigate$I">
+	<tu
+    xmlns:lang="eng"
+  >Please investigate any possible faults before retrying.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onderzoek voordat u het opnieuw probeert a.u.b. eerst de eventuele fouten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez rechercher tous défauts éventuels avant de recommencer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte mögliche Störungen untersuchen, ehe ein erneuter Versuch unternommen wird.</tu>
+	<tu xmlns:lang="ita">Prima di riprovare, investigare i possibili guasti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >再試行の前に、発生している可能\性のある不具合を点検しなさい。</tu>
+	<tu xmlns:lang="ptg">Investigue possíveis avarias antes de voltar a tentar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Investigue todas as possíveis falhas antes de tentar novamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прежде чем продолжить, выполните поиск любых возможных неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Investigar las posibles anomalías antes de volver a intentar.</tu>
+	<tu xmlns:lang="chs">重新尝试前请检查任何可能的故障。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다시 시도하기 전에 가능한 모든 고장 여부를 조사하십시오.</tu>
+</tm>

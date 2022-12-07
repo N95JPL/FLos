@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WITHOUT_OIL_LEVEL_SENSOR">
+	<tu xmlns:lang="eng">Without engine oil level sensor</tu>
+	<tu xmlns:lang="nld">Zonder motoroliepeilsensor</tu>
+	<tu xmlns:lang="fra">Sans capteur de niveau d'huile moteur</tu>
+	<tu xmlns:lang="deu">Ohne Motoröl-Füllstandssensor</tu>
+	<tu xmlns:lang="ita">Senza sensore livello olio motore</tu>
+	<tu xmlns:lang="jpn">エンジン オイル レベル センサーなし</tu>
+	<tu xmlns:lang="ptg">Sem sensor do nível de óleo do motor</tu>
+	<tu xmlns:lang="ptb">Sem sensor de nível de óleo do motor</tu>
+	<tu xmlns:lang="rus">Без датчика уровня моторного масла</tu>
+	<tu xmlns:lang="esp">Sin sensor del nivel de aceite del motor</tu>
+	<tu xmlns:lang="chs">无发动机机油油位传感器</tu>
+	<tu xmlns:lang="kor">엔진 오일 레벨 센서 없음</tu>
+</tm>

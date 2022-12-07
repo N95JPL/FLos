@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SAUDI_OVRSPD_ENAB">
+	<tu xmlns:lang="eng">Saudi Arabia overspeed enabled.</tu>
+	<tu xmlns:lang="nld">Oversnelheid voor Saoedie-Arabië is geactiveerd.</tu>
+	<tu xmlns:lang="fra">Témoin de vitesse excessive activé - Arabie saoudite.</tu>
+	<tu xmlns:lang="deu">Geschwindigkeitswarnung Saudi-Arabien aktiviert.</tu>
+	<tu xmlns:lang="ita">Avvertenza velocità eccessiva Arabia Saudita attivata.</tu>
+	<tu xmlns:lang="jpn">サウジアラビア オーバースピード作動可</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aviso de velocidade excessiva para Arábia Saudita activado.</tu>
+	<tu xmlns:lang="ptb">Excesso de velocidade na Arábia Saudita ativado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включена функция предупреждения о превышении скорости для Саудовской Аравии.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aviso de exceso de velocidad habilitado para Arabia Saudí.</tu>
+	<tu xmlns:lang="chs">沙特阿拉伯过速已启用。</tu>
+	<tu xmlns:lang="kor">사우디아라비아 과속 활성화</tu>
+</tm>

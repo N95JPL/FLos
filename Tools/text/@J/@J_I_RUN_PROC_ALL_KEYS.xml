@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RUN_PROC_ALL_KEYS">
+	<tu xmlns:lang="eng">Carry out this procedure for all keys.</tu>
+	<tu xmlns:lang="nld">Voer deze procedure uit voor alle sleutels.</tu>
+	<tu xmlns:lang="fra">Effectuez cette procédure pour toutes les clés.</tu>
+	<tu xmlns:lang="deu">Diesen Arbeitsgang für alle Schlüssel durchführen.</tu>
+	<tu xmlns:lang="ita">Eseguire questa procedura per tutti i tasti.</tu>
+	<tu xmlns:lang="jpn">全キーについてこの手順を実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A descrição do código de avaria acima está incorrecta; consulte a descrição complementar.</tu>
+	<tu xmlns:lang="ptb">Realize este procedimento para todas as chaves.</tu>
+	<tu xmlns:lang="rus">Выполните эту процедуру для всех ключей.</tu>
+	<tu xmlns:lang="esp">Realizar este procedimiento para todas las llaves.</tu>
+	<tu xmlns:lang="chs">为所有钥匙执行这一程序。</tu>
+	<tu xmlns:lang="kor">모든 키에 대해 이 절차를 수행하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ACTION_FOLLOWING_INVESTIGATION">
+	<tu xmlns:lang="eng">Action following investigation:</tu>
+	<tu xmlns:lang="nld">Actie na onderzoek:</tu>
+	<tu xmlns:lang="fra">Intervention suivant investigation :</tu>
+	<tu xmlns:lang="deu">Maßnahme nach abgeschlossener Untersuchung:</tu>
+	<tu xmlns:lang="ita">Azione successiva all'indagine:</tu>
+	<tu xmlns:lang="jpn">調査後の処置：</tu>
+	<tu xmlns:lang="ptg">Acção na sequência da investigação:</tu>
+	<tu xmlns:lang="ptb">Ação após a investigação:</tu>
+	<tu xmlns:lang="rus">Действие после проверки:</tu>
+	<tu xmlns:lang="esp">Acción tras la investigación:</tu>
+	<tu xmlns:lang="chs">调查之后采取的措施：</tu>
+	<tu xmlns:lang="kor">조사 이후의 조치:</tu>
+</tm>

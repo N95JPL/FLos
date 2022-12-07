@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ROW_SERV_INT_OPT">
+	<tu xmlns:lang="eng">Rest of world  -  Service interval options</tu>
+	<tu xmlns:lang="nld">Rest van de wereld  -  Opties voor onderhoudsinterval</tu>
+	<tu
+    xmlns:lang="fra"
+  >Reste du monde  -  Options de la périodicité d'entretien</tu>
+	<tu xmlns:lang="deu">Übrige Länder  -  Optionen für Wartungsintervall</tu>
+	<tu xmlns:lang="ita">Resto del mondo  -  Opzioni indicatore tagliandi</tu>
+	<tu xmlns:lang="jpn">レストオブワールド  －  サービス間隔オプション</tu>
+	<tu xmlns:lang="ptg">Resto do mundo  -  Opções de intervalo de revisão</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Restante do mundo  -  Opções de intervalo de manutenção</tu>
+	<tu xmlns:lang="rus">Остальные страны  -  Варианты интервалов обслуживания</tu>
+	<tu
+    xmlns:lang="esp"
+  >Resto del mundo  -  Opciones del intervalo entre revisiones</tu>
+	<tu xmlns:lang="chs">世界其它国家和地区  -  保养间隔选项</tu>
+	<tu xmlns:lang="kor">나머지 국가  -  서비스 주기 옵션</tu>
+</tm>

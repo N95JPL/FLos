@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_SCRN_NOT_FIT">
+	<tu xmlns:lang="eng">The rear screen is not fitted.</tu>
+	<tu xmlns:lang="nld">Het scherm achterin is niet geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">L'écran arrière n'est pas installé.</tu>
+	<tu xmlns:lang="deu">Der Bildschirm hinten ist nicht eingebaut.</tu>
+	<tu xmlns:lang="ita">Schermo posteriore non in dotazione.</tu>
+	<tu xmlns:lang="jpn">リア スクリーン非装備</tu>
+	<tu xmlns:lang="ptg">O ecrã traseiro não está montado.</tu>
+	<tu xmlns:lang="ptb">Tela traseira não instalada.</tu>
+	<tu xmlns:lang="rus">Сзади экран не установлен.</tu>
+	<tu xmlns:lang="esp">No tiene pantalla trasera.</tu>
+	<tu xmlns:lang="chs">后部屏幕未安装。</tu>
+	<tu xmlns:lang="kor">리어 화면이 장착되지 않았습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@UNABLE_TO_RESOLVE">
+	<tu xmlns:lang="eng">Unable to resolve</tu>
+	<tu xmlns:lang="nld">Kan niet worden opgelost</tu>
+	<tu xmlns:lang="fra">Impossible de résoudre le problème</tu>
+	<tu xmlns:lang="deu">Kann nicht gelöst werden</tu>
+	<tu xmlns:lang="ita">Risoluzione impossibile</tu>
+	<tu xmlns:lang="jpn">解決不能</tu>
+	<tu xmlns:lang="ptg">Não foi possível resolver</tu>
+	<tu xmlns:lang="ptb">Não é possível fazer a leitura</tu>
+	<tu xmlns:lang="rus">Невозможно устранить проблему</tu>
+	<tu xmlns:lang="esp">No se puede resolver.</tu>
+	<tu xmlns:lang="chs">无法解析</tu>
+	<tu xmlns:lang="kor">해결할 수 없음</tu>
+</tm>

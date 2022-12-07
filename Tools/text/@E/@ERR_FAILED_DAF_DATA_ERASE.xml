@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ERR_FAILED_DAF_DATA_ERASE">
+	<tu xmlns:lang="eng">Failure in erasing ECU DAF data</tu>
+	<tu xmlns:lang="nld">Het wissen van de ECU DAF-gegevens is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec d'effacement des données DAF de l'ECU.</tu>
+	<tu xmlns:lang="deu">Steuergerät-DAF-Daten konnten nicht gelöscht werden</tu>
+	<tu xmlns:lang="ita">Errore cancellazione dati DAF ECU</tu>
+	<tu xmlns:lang="jpn">ECU DAF データの消去に失敗</tu>
+	<tu xmlns:lang="ptg">Falha ao apagar os dados DAF da ECU</tu>
+	<tu xmlns:lang="ptb">Falha na exclusão dos dados DAF da ECU</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка при удалении данных DAF из электронного блока управления</tu>
+	<tu xmlns:lang="esp">Fallo al borrar datos DAF de ECU</tu>
+	<tu xmlns:lang="chs">擦除 ECU DAF 数据过程中发生故障</tu>
+	<tu xmlns:lang="kor">ECU DAF 데이터 삭제 실패</tu>
+</tm>

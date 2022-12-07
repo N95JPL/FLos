@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NxtOpDrvEPB$I">
+	<tu
+    xmlns:lang="eng"
+  >The following operation will drive the parking brake at full power to unjam as required, ensure the parking brake switch is in the released position.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De nu volgende bewerking zal de handrem met volle kracht aandrijven om hem zoals gevraagd wordt, los te zetten. Zorg dat de handremschakelaar in de loszetstand staat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'opération suivante actionnera le frein de stationnement à la puissance maximum pour le débloquer selon le besoin, vérifiez que le commutateur de frein de stationnement est en position desserrée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der folgende Schritt treibt die Handbremse mit voller Kraft für das Entklemmen wie erforderlich; sicherstellen, dass der Handbremsenschalter in der Lösestellung steht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La seguente operazione provocherà lo sbloccaggio del freno di stazionamento alla massima potenza come richiesto; controllare che l'interruttore del freno stesso sia in posizione disinserita. </tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のオペレーションでは、必要に応じてパーキング ブレーキをフルパワーで固着解除へ駆動します。パーキング ブレーキ スイッチがリリース ポジションにあることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As seguintes operações colocarão o travão de mão na potência total para desbloquear quando necessário, certifique-se de que o interruptor do travão de mão está solto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A seguinte operação acionará o freio de estacionamento com a potência total para desbloquear, conforme necessário, certifique-se de que o interruptor do freio de estacionamento está na posição liberada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При выполнении следующей операции стояночный тормоз по требованию будет полностью расцеплен, убедитесь, что выключатель стояночного тормоза находится в выключенном положении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La operación siguiente accionará el freno de estacionamiento con la máxima potencia para desatascarlo según se requiera; verificar que el interruptor del freno de estacionamiento esté en la posición de desactivación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'下列操作将按要求以全动力驱动驻车制动器来解除堵塞，确保驻车制动开关处于释放位置。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 작동은 주차 브레이크를 최대 출력으로 구동하여 필요에 따라 걸림을 제거합니다. 주차 브레이크 스위치가 해제 위치에 있는지 확인하십시오.</tu>
+</tm>

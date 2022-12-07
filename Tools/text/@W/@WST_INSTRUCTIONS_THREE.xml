@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_INSTRUCTIONS_THREE">
+	<tu
+    xmlns:lang="eng"
+  >It can generate a sensor signal (&gt; 3kmh) when moved.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het beweegt, kan het een sensorsignaal genereren (&gt; 3 km/uur).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Peut générer un signal de capteur (&gt; 3 km/h) si déplacé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kann beim Bewegen ein Sensorsignal erzeugen (&gt; 3 km/h).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Può generare un segnale del sensore (&gt; 3 km/h) quando viene mossa.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >動かしたとき、センサー シグナル (&gt; 3 km/h) を発生します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pode gerar um sinal de sensor (&gt; 3 km/h) quando rodada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ela pode gerar um sinal de sensor (&gt; 3km/h) quando movida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Он может генерировать сигнал датчика (&gt; 3 км/ч) при движении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Puede generar una señal de sensor (&gt; 3km/h) cuando se mueve.</tu>
+	<tu xmlns:lang="chs">运动时可生成一个传感器信号（大于 3kmh）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >(3kmh 이상의 속도로) 센서가 움직이면 센서 신호를 생성할 수 있습니다.</tu>
+</tm>

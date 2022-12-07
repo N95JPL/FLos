@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_KEYLESS_ENTRY">
+	<tu xmlns:lang="eng">Keyless entry/computer operated locks</tu>
+	<tu xmlns:lang="nld">Openen zonder sleutel/computerbediende sloten</tu>
+	<tu xmlns:lang="fra">Serrures d'entree sans cle/commandees par ordinateur</tu>
+	<tu xmlns:lang="deu">Fernentriegelung/computergesteuerte schlösser</tu>
+	<tu
+    xmlns:lang="ita"
+  >Chiusura/apertura telecomandata/serrature computerizzate</tu>
+	<tu xmlns:lang="jpn">キーレス エ・トリー／コ・ピュータ作ｮロック</tu>
+	<tu xmlns:lang="ptg">Fechaduras accionadas por computador/entrada sem chave</tu>
+	<tu xmlns:lang="ptb">Sistema sem chave/travas operadas por computador</tu>
+	<tu xmlns:lang="rus">Доступ без ключа/блокировки, управляемые компьютером</tu>
+	<tu
+    xmlns:lang="esp"
+  >Apertura a distancia/cerraduras accionadas por ordenador</tu>
+	<tu xmlns:lang="chs">无键输入/计算机操作锁</tu>
+	<tu xmlns:lang="kor">키리스 엔트리/컴퓨터 작동 록</tu>
+</tm>

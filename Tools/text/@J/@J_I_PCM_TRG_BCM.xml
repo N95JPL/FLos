@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PCM_TRG_BCM">
+	<tu
+    xmlns:lang="eng"
+  >Powertrain control module  -  Target identification read from the body control module</tu>
+	<tu
+    xmlns:lang="nld"
+  >Regelmodule van de aandrijflijn  -  Identificatie van streefwaarde uitgelezen uit carrosserieregelmodule</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de commande du groupe motopropulseur  -  Identification cible lue à partir du module de commande de carrosserie</tu>
+	<tu
+    xmlns:lang="deu"
+  >Antriebsstrang-Steuermodul  -  Aus dem Karosseriesteuergerät ausgelesene Zielidentifikation</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo di comando catena cinematica  -  Identificativo target letto da modulo di comando carrozzeria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パワートレーン コントロール モジュール  －  ボディ コントロール モジュールから読み取られた目標 ID</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo de comando do grupo motopropulsor.  -  Identificação alvo lida do módulo de comando da carroçaria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo de controle do powertrain  -  Leitura da identificação de destino no módulo de controle da carroceria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок управления силовым агрегатом  -  Чтение заданных значений идентификации из блока управления кузовными системами</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control del grupo motor y transmisión  -  Lectura de identificación de objetivo en el módulo de control de la carrocería</tu>
+	<tu xmlns:lang="chs">传动系控制模块  -  从车身控制模块读取目标标识</tu>
+	<tu
+    xmlns:lang="kor"
+  >파워트레인 컨트롤 모듈  -  차체 컨트롤 모듈에서 대상 식별 정보 읽기</tu>
+</tm>

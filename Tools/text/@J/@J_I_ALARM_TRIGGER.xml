@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALARM_TRIGGER">
+	<tu xmlns:lang="eng">Alarm trigger</tu>
+	<tu xmlns:lang="nld">Oorzaak voor het laten afgaan van het alarm</tu>
+	<tu xmlns:lang="fra">Déclencheur d'alarme.</tu>
+	<tu xmlns:lang="deu">Alarmtrigger</tu>
+	<tu xmlns:lang="ita">Attivazione allarme</tu>
+	<tu xmlns:lang="jpn">アラーム トリガー</tu>
+	<tu xmlns:lang="ptg">Disparo do alarme</tu>
+	<tu xmlns:lang="ptb">Acionador de alarme</tu>
+	<tu xmlns:lang="rus">Триггер сигнализации</tu>
+	<tu xmlns:lang="esp">Disparador de alarma</tu>
+	<tu xmlns:lang="chs">报警触发器</tu>
+	<tu xmlns:lang="kor">알람 트리거</tu>
+</tm>

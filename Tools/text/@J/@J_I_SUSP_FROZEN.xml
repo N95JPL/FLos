@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SUSP_FROZEN">
+	<tu
+    xmlns:lang="eng"
+  >The air suspension is now frozen, the headlamps can now be adjusted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De luchtvering is nu geblokkeerd, de koplampen kunnen worden afgesteld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La suspension pneumatique est maintenant immobilisée, les phares peuvent être réglés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Luftfederung ist jetzt festgesetzt, die Scheinwerfer können jetzt eingestellt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ora la sospensione pneumatica è bloccata ed è possibile regolare i fari.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エア サスペンションは現在凍結しています。ここでヘッドランプを調整することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A suspensão pneumática está agora congelada, sendo agora possível regular os faróis.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A suspensão a ar está agora congelada, os faróis agora podem ser ajustados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Теперь положение пневматической подвески зафиксировано, и можно выполнять регулировку фар.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ahora la suspensión neumática está inactiva y se pueden ajustar los faros.</tu>
+	<tu xmlns:lang="chs">空气悬挂被固定住，现在可以调节前照灯。</tu>
+	<tu
+    xmlns:lang="kor"
+  >에어 서스펜션은 현재 동결된 상태이며, 이제 헤드램프를 조정할 수 있습니다.</tu>
+</tm>

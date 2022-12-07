@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_PASS_AIRBAG">
+	<tu xmlns:lang="eng">Passenger's air bag</tu>
+	<tu xmlns:lang="nld">Passagiersairbag</tu>
+	<tu xmlns:lang="fra">Airbag passager</tu>
+	<tu xmlns:lang="deu">Beifahrer-Airbag</tu>
+	<tu xmlns:lang="ita">Airbag del passeggero</tu>
+	<tu xmlns:lang="jpn">パッセンジャー エア バッグ</tu>
+	<tu xmlns:lang="ptg">Airbag do passageiro.</tu>
+	<tu xmlns:lang="ptb">Airbag do passageiro</tu>
+	<tu xmlns:lang="rus">Подушка безопасности пассажира</tu>
+	<tu xmlns:lang="esp">Airbag del acompañante</tu>
+	<tu xmlns:lang="chs">乘客一侧安全气囊</tu>
+	<tu xmlns:lang="kor">조수석 에어백</tu>
+</tm>

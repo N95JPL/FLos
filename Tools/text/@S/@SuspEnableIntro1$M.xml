@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspEnableIntro1$M">
+	<tu
+    xmlns:lang="eng"
+  >This routine places the ride level module into normal operation which will enable the suspension to be inflated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine zet de rijhoogtemodule op normaal bedrijf, zodat de luchtvering kan worden opgeblazen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme met le module correcteur d'assiette en fonctionnement normal pour permettre le gonflage de la suspension.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine schaltet das Fahrhöhen-Steuergerät in den normalen Betriebszustand, was ein Befüllen der Luftfederung ermöglicht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura dispone il modulo altezza di marcia nella condizione normale di funzionamento, che abiliterà il gonfiaggio della sospensione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンによりライド レベル モジュールは通常作動にセットされ、サスペンションのエア充填が可能\になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina coloca o módulo de nível de andamento em funcionamento normal, o que permitirá insuflar a suspensão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esta rotina coloca o módulo de nivelamento do veículo em operação normal, o que permite que a suspensão a ar seja inflada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе данной процедуры блок управления высотой подвески возвращается в нормальный режим работы, что позволит закачать воздух в систему подвески.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina pone el módulo de nivelación de la marcha en el modo de funcionamiento normal, lo cual permite inflar la suspensión.</tu>
+	<tu
+    xmlns:lang="chs"
+  >该常规程序将行驶水平模块置于正常工作状态，这可使悬架充气。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차는 지상고 모듈을 정상 작동시켜 서스펜션 공기 주입을 활성화합니다.</tu>
+</tm>

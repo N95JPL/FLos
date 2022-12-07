@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OP_GEAR_SHFT_DRIVE">
+	<tu
+    xmlns:lang="eng"
+  >This next operation will involve carrying out a gear shift learn whilst driving the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De volgende handeling bestaat uit het inleren van het schakelen tijdens het rijden met het voertuig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La prochaine opération implique d'effectuer un apprentissage du sélecteur de vitesse tout en conduisant le véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der nächste Arbeitsschritt erfordert Durchführung der Schalt-Lernroutine, während das Fahrzeug gefahren wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quest'operazione successiva implicherà l'effettuazione di un apprendimento del selettore cambio durante la guida del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の操作では、車両を走行させながらギア シフト学習を行います。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A próxima operação implica efectuar uma programação das mudanças, durante a condução do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esta próxima operação envolverá a realização do aprendizado da mudança de marcha ao dirigir o veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При выполнении следующей операции производится самонастройка переключения передач во время движения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La siguiente operación requiere realizar un aprendizaje del cambio mientras se conduce el vehículo.</tu>
+	<tu xmlns:lang="chs">下一操作将涉及在驾驶车辆过程中执行一次换档记忆。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 다음 작업에서 차량 주행 중에 기어 변속 학습을 수행하는 과정이 포함됩니다.</tu>
+</tm>

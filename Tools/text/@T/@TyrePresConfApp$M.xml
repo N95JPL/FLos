@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TyrePresConfApp$M">
+	<tu xmlns:lang="eng">Tire pressure monitor confirmation application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Toepassing voor het bevestigen van de bandenspanningsbewaking.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Application de confirmation du contrôle de pression des pneus.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anwendungsprogramm zur Bestätigung der Reifendrucküberwachung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Applicazione di conferma monitoraggio pressione pneumatici.</tu>
+	<tu xmlns:lang="jpn">タイヤ プレッシャ モニター確認アプリケーション</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aplicação de confirmação da monitorização da pressão dos pneus.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aplicativo de confirmação do monitor de pressão dos pneus.</tu>
+	<tu xmlns:lang="rus">Приложение подтверждения контроля давления в шинах.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aplicación de confirmación de control de la presión de los neumáticos.</tu>
+	<tu xmlns:lang="chs">轮胎压力监测器确认应用程序。</tu>
+	<tu xmlns:lang="kor">타이어 공기압 모니터 확인 응용 프로그램</tu>
+</tm>

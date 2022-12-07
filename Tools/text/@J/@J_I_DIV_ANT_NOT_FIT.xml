@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIV_ANT_NOT_FIT">
+	<tu xmlns:lang="eng">Diversity antenna not fitted.</tu>
+	<tu xmlns:lang="nld">De diversiteitsantenne is niet geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Antenne multiple non installée.</tu>
+	<tu xmlns:lang="deu">Diversity-Antenne nicht eingebaut.</tu>
+	<tu xmlns:lang="ita">Antenna diversionale non in dotazione.</tu>
+	<tu xmlns:lang="jpn">分岐アンテナ非装備</tu>
+	<tu xmlns:lang="ptg">Sistema múltiplo de antenas não montado.</tu>
+	<tu xmlns:lang="ptb">Antena de diversidade não instalada.</tu>
+	<tu xmlns:lang="rus">Разнесенная антенна не установлена.</tu>
+	<tu xmlns:lang="esp">No tiene antena de diversidad.</tu>
+	<tu xmlns:lang="chs">分集式天线未安装。</tu>
+	<tu xmlns:lang="kor">다이버시티 안테나가 장착되지 않음</tu>
+</tm>

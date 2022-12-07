@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IMMOB">
+	<tu xmlns:lang="eng">Immobilised</tu>
+	<tu xmlns:lang="nld">Startblokkering ingeschakeld</tu>
+	<tu xmlns:lang="fra">Immobilisé</tu>
+	<tu xmlns:lang="deu">Wegfahrgesperrt</tu>
+	<tu xmlns:lang="ita">Immobilizzato</tu>
+	<tu xmlns:lang="jpn">イモビライザ作動中</tu>
+	<tu xmlns:lang="ptg">Imobilizado</tu>
+	<tu xmlns:lang="ptb">Imobilizado</tu>
+	<tu xmlns:lang="rus">Заблокирован</tu>
+	<tu xmlns:lang="esp">Inmovilizado</tu>
+	<tu xmlns:lang="chs">已锁止不动</tu>
+	<tu xmlns:lang="kor">고정됨</tu>
+</tm>

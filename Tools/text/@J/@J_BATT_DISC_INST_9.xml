@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_BATT_DISC_INST_9">
+	<tu xmlns:lang="eng">Re-connect the VCI</tu>
+	<tu xmlns:lang="nld">Sluit de VCI weer aan</tu>
+	<tu xmlns:lang="fra">Reconnectez la VCI</tu>
+	<tu xmlns:lang="deu">Das VCI wieder anschließen.</tu>
+	<tu xmlns:lang="ita">Ricollegare il VCI</tu>
+	<tu xmlns:lang="jpn">VCI を再接続します</tu>
+	<tu xmlns:lang="ptg">Volte a ligar o VCI</tu>
+	<tu xmlns:lang="ptb">Reconecte a VCI</tu>
+	<tu xmlns:lang="rus">Снова подсоедините VCI</tu>
+	<tu xmlns:lang="esp">Vuelva a conectar la VCI</tu>
+	<tu xmlns:lang="chs">重新连接 VCI</tu>
+	<tu xmlns:lang="kor">VCI를 다시 연결하십시오.</tu>
+</tm>

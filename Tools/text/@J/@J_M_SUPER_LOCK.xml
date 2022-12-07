@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SUPER_LOCK">
+	<tu xmlns:lang="eng">Superlocking</tu>
+	<tu xmlns:lang="nld">Supervergrendeling.</tu>
+	<tu xmlns:lang="fra">Double verrouillage</tu>
+	<tu xmlns:lang="deu">Doppelverriegelung.</tu>
+	<tu xmlns:lang="ita">Funzione superlock</tu>
+	<tu xmlns:lang="jpn">スーパーロッキング</tu>
+	<tu xmlns:lang="ptg">Supertrancagem</tu>
+	<tu xmlns:lang="ptb">Supertravamento</tu>
+	<tu xmlns:lang="rus">Суперблокировка</tu>
+	<tu xmlns:lang="esp">Cierre con enclavamiento</tu>
+	<tu xmlns:lang="chs">超级锁定</tu>
+	<tu xmlns:lang="kor">슈퍼록 작동</tu>
+</tm>

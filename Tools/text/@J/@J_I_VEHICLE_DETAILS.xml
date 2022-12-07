@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEHICLE_DETAILS">
+	<tu xmlns:lang="eng">Vehicle/file details.</tu>
+	<tu xmlns:lang="nld">Voertuig/bestandgegevens.</tu>
+	<tu xmlns:lang="fra">Détails du véhicule/fichier.</tu>
+	<tu xmlns:lang="deu">Fahrzeug-/Datei-Einzelheiten.</tu>
+	<tu xmlns:lang="ita">Dettagli veicolo/file.</tu>
+	<tu xmlns:lang="jpn">車両／ファイル詳細</tu>
+	<tu xmlns:lang="ptg">Pormenores do veículo/ficheiro.</tu>
+	<tu xmlns:lang="ptb">Detalhes do veículo.</tu>
+	<tu xmlns:lang="rus">Данные автомобиля/файла.</tu>
+	<tu xmlns:lang="esp">Datos del vehículo/archivo.</tu>
+	<tu xmlns:lang="chs">车辆/文件详细资料。</tu>
+	<tu xmlns:lang="kor">차량/파일 세부 정보</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_FLGT_REC">
+	<tu xmlns:lang="eng">Flight recorder.</tu>
+	<tu xmlns:lang="nld">Ritrecorder.</tu>
+	<tu xmlns:lang="fra">Enregistreur de bord.</tu>
+	<tu xmlns:lang="deu">Datenaufzeichnungssystem.</tu>
+	<tu xmlns:lang="ita">Flight recorder.</tu>
+	<tu xmlns:lang="jpn">フライト レコーダー</tu>
+	<tu xmlns:lang="ptg">Registador de viagem (caixa negra).</tu>
+	<tu xmlns:lang="ptb">Gravador de voo.</tu>
+	<tu xmlns:lang="rus">Бортовой регистратор.</tu>
+	<tu xmlns:lang="esp">Caja negra.</tu>
+	<tu xmlns:lang="chs">飞行记录器</tu>
+	<tu xmlns:lang="kor">블랙박스</tu>
+</tm>

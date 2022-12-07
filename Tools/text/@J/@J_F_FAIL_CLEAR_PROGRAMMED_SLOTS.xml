@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_FAIL_CLEAR_PROGRAMMED_SLOTS">
+	<tu xmlns:lang="eng">Failed to clear all programmed key fob slots.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wissen van alle geprogrammeerde geheugenplaatsen voor afstandsbedieningssleutels mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec de l'effacement de tous les emplacements programmés de l'émetteur de télécommande.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es konnten nicht alle programmierten Fernbedienungsplätze gelöscht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Azzeramento di tutti gli slot delle chiavi programmate non riuscito.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >すべてのプログラムされたキーフォブ スロットをクリアできませんでした。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não foi possível limpar todas as ranhuras programadas do comando da chave.</tu>
+	<tu xmlns:lang="ptb">Falha ao limpar todos os slots de teclas programadas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Невозможно очистить все ячейки памяти запрограммированных брелоков.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se borraron todas las ranuras de transmisores programados.</tu>
+	<tu xmlns:lang="chs">未能清除所有已编程遥控钥匙槽。</tu>
+	<tu xmlns:lang="kor">프로그래밍된 모든 키 리모컨 슬롯 삭제에 실패했습니다.</tu>
+</tm>

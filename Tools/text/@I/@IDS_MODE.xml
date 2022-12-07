@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDS_MODE">
+	<tu xmlns:lang="eng">Mode</tu>
+	<tu xmlns:lang="nld">Functie</tu>
+	<tu xmlns:lang="fra">Mode</tu>
+	<tu xmlns:lang="deu">Modus</tu>
+	<tu xmlns:lang="ita">Modalità</tu>
+	<tu xmlns:lang="jpn">モード</tu>
+	<tu xmlns:lang="ptg">Modo</tu>
+	<tu xmlns:lang="ptb">Modo</tu>
+	<tu xmlns:lang="rus">Режим</tu>
+	<tu xmlns:lang="esp">Modo</tu>
+	<tu xmlns:lang="chs">模式</tu>
+	<tu xmlns:lang="kor">모드</tu>
+</tm>

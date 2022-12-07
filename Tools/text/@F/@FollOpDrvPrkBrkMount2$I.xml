@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FollOpDrvPrkBrkMount2$I">
+	<tu
+    xmlns:lang="eng"
+  >This may be necessary if the parking brake is operated without the cables being connected to the brakes.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dit is misschien nodig als de handrem werd aangetrokken, zonder dat de kabels aan de remmen waren bevestigd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cela pourra être nécessaire si le frein de stationnement est actionné sans que les câbles soient accouplés aux freins.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dies kann erforderlich sein, wenn die Handbremse betätigt wird, ohne dass die Seilzüge an den Bremsen angeschlossen sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Può essere necessario se il freno di stazionamento viene azionato con i cavi non collegati ai freni.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ケーブルがブレーキへ接続されていない状態でパーキング ブレーキが操作された場合に、この動作は必要になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tal pode ser necessário se o travão de mão for accionado sem os cabos estarem ligados aos travões.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso pode ser necessário se o freio de estacionamento for operado sem os cabos conectados nos freios.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это может понадобиться, если стояночный тормоз был включен, но кабели не подключены к тормозам.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esto puede ser necesario si se acciona el freno de estacionamiento sin que los cables estén conectados a los frenos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果操作了驻车制动器，而未将拉索连接到制动器上，则此步可能是必要的。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 작업은 케이블이 브레이크에 연결되지 않은 상태에서 주차 브레이크가 작동될 경우에 필요합니다.</tu>
+</tm>

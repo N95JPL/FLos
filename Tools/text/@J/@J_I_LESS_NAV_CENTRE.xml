@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_NAV_CENTRE">
+	<tu xmlns:lang="eng">Navigation center not fitted</tu>
+	<tu xmlns:lang="nld">Navigatiecentrum niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Centre de navigation non monté</tu>
+	<tu xmlns:lang="deu">Navigationseinheit nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Sistema di navigazione non in dotazione</tu>
+	<tu xmlns:lang="jpn">ナビゲーション センター非装備</tu>
+	<tu xmlns:lang="ptg">Centro de navegação não está instalado</tu>
+	<tu xmlns:lang="ptb">Centro de navegação não instalado</tu>
+	<tu xmlns:lang="rus">Навигационный центр не установлен</tu>
+	<tu xmlns:lang="esp">No hay centro de navegación</tu>
+	<tu xmlns:lang="chs">导航中心未安装</tu>
+	<tu xmlns:lang="kor">내비게이션 센터가 장착되지 않음</tu>
+</tm>

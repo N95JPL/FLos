@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckFuelWarningLight">
+	<tu xmlns:lang="eng">Make sure that the fuel warning light is not on.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verzeker u ervan dat het brandstofwaarschuwingslampje niet brandt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'assurer que le témoin de niveau bas de carburant n'est pas allumé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Kraftstoff-Warnleuchte nicht eingeschaltet ist.</tu>
+	<tu xmlns:lang="ita">Assicurarsi che non sia accesa la spia del carburante.</tu>
+	<tu xmlns:lang="jpn">フューエル警告ランプが点灯していないことを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que a luz avisadora de nível de combustível não está ligada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a luz de aviso de combustível não está ligada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что не горит сигнализатор низкого уровня топлива.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que el testigo de bajo nivel de combustible no está encendido.</tu>
+	<tu xmlns:lang="chs">确保燃油警告灯未打开。</tu>
+	<tu xmlns:lang="kor">연료 경고등이 켜져 있지 않은지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LIGHTS_OFF_IGN_ON_OFF">
+	<tu
+    xmlns:lang="eng"
+  >Make sure vehicle lights are off and ignition can be turned on and off before proceeding.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat de voertuigverlichting is uitgeschakeld en het contact kan worden in- en uitgeschakeld alvorens verder te gaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'assurer que les phares du véhicule sont éteints et que le contact peut être établi et coupé avant de poursuivre.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Fahrzeugbeleuchtung ausgeschaltet ist und die Zündung ein- und ausgeschaltet werden kann, ehe fortgefahren wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che le luci del veicolo siano spente e l'accensione possa essere inserita e disinserita prima di procedere.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >続行する前に、車両のライトがオフであり、イグニションをオン／オフできることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que as luzes do veículo estão apagadas e a ignição pode ser ligada e desligada antes de prosseguir.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se que luzes do veículo estão desligadas e que a ignição pode ser ligada e desligada antes de prosseguir.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прежде чем продолжить работу, убедитесь, что осветительные приборы автомобиля выключены, а зажигание включается и выключается.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que estén apagadas las luces del vehículo y que se pueda poner y quitar el contacto antes de proceder.</tu>
+	<tu xmlns:lang="chs">继续之前，确保车灯关闭，而点火则可开启，亦可关闭。</tu>
+	<tu
+    xmlns:lang="kor"
+  >계속 진행하기 전에 차량 조명이 꺼져 있고 점화 스위치를 켜고 끌 수 있는지 확인하십시오.</tu>
+</tm>

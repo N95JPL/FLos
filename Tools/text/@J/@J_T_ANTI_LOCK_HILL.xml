@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_ANTI_LOCK_HILL">
+	<tu xmlns:lang="eng">206-09D Anti-lock control - hill descent control</tu>
+	<tu xmlns:lang="nld">206-09D Antiblokkeersysteem - met afdalingsregeling</tu>
+	<tu xmlns:lang="fra">206-09D Commande antiblocage - contrôle de descente</tu>
+	<tu xmlns:lang="deu">206-09D Antiblockiersystem - Bergabfahrregelung</tu>
+	<tu
+    xmlns:lang="ita"
+  >206-09D Comando antibloccaggio - controllo marcia in discesa</tu>
+	<tu
+    xmlns:lang="jpn"
+  >206-09D アンチロック コントロール － 下り坂コントロール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >206-09D Controlo antibloqueio - controlo de descida em encosta</tu>
+	<tu
+    xmlns:lang="ptb"
+  >206-09D Controle antibloqueio - controle de descida de ladeiras</tu>
+	<tu
+    xmlns:lang="rus"
+  >206-09D Управление системой антиблокировки - система помощи при спуске</tu>
+	<tu xmlns:lang="esp">206-09D Control antibloqueo - control cuesta abajo</tu>
+	<tu xmlns:lang="chs">206-09D防抱死控制 - 下坡控制</tu>
+	<tu xmlns:lang="kor">206-09D 안티 록 컨트롤 - HDC(Hill Descent Control)</tu>
+</tm>

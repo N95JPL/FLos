@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LATEST_AVAILABLE_VERSION">
+	<tu xmlns:lang="eng">Latest available version</tu>
+	<tu xmlns:lang="nld">Meest recente beschikbare versie</tu>
+	<tu xmlns:lang="fra">Dernière version disponible</tu>
+	<tu xmlns:lang="deu">Neueste verfügbare Version</tu>
+	<tu xmlns:lang="ita">Versione più recente disponibile</tu>
+	<tu xmlns:lang="jpn">入手可能な最新バージョン</tu>
+	<tu xmlns:lang="ptg">Versão disponível mais recente</tu>
+	<tu xmlns:lang="ptb">Versão mais recente disponível</tu>
+	<tu xmlns:lang="rus">Последняя доступная версия</tu>
+	<tu xmlns:lang="esp">Última versión disponible</tu>
+	<tu xmlns:lang="chs">最新的可用版本</tu>
+	<tu xmlns:lang="kor">사용 가능한 최신 버전</tu>
+</tm>

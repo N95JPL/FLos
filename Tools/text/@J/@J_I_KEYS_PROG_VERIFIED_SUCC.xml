@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEYS_PROG_VERIFIED_SUCC">
+	<tu xmlns:lang="eng">Keys programmed and verified successfully.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De sleutels zijn met succes geprogrammeerd en geverifieerd.</tu>
+	<tu xmlns:lang="fra">Clés programmées et vérifiées avec succès.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Schlüssel wurden erfolgreich programmiert und verifiziert.</tu>
+	<tu xmlns:lang="ita">Chiavi programmate e verificate con successo.</tu>
+	<tu xmlns:lang="jpn">キーのプログラムおよび検証は正常に完了しました。</tu>
+	<tu xmlns:lang="ptg">Chaves programadas e verificadas com êxito.</tu>
+	<tu xmlns:lang="ptb">Chaves programadas e verificadas com sucesso.</tu>
+	<tu xmlns:lang="rus">Программирование и проверка ключей успешно завершены.</tu>
+	<tu xmlns:lang="esp">Llaves programas y verificadas satisfactoriamente.</tu>
+	<tu xmlns:lang="chs">钥匙已设置并成功通过验证。</tu>
+	<tu xmlns:lang="kor">키가 올바로 프로그래밍 및 확인되었습니다.</tu>
+</tm>

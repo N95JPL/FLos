@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_AUSTRIA">
+	<tu xmlns:lang="eng">Austria</tu>
+	<tu xmlns:lang="nld">Oostenrijk</tu>
+	<tu xmlns:lang="fra">Autriche</tu>
+	<tu xmlns:lang="deu">Österreich</tu>
+	<tu xmlns:lang="ita">Austria</tu>
+	<tu xmlns:lang="jpn">オーストリア</tu>
+	<tu xmlns:lang="ptg">Áustria</tu>
+	<tu xmlns:lang="ptb">Áustria</tu>
+	<tu xmlns:lang="rus">Австрия</tu>
+	<tu xmlns:lang="esp">Austria</tu>
+	<tu xmlns:lang="chs">奥地利</tu>
+	<tu xmlns:lang="kor">오스트리아</tu>
+</tm>

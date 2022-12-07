@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_QV_CAT_WDS">
+	<tu xmlns:lang="eng">Diagnostic Tool X400</tu>
+	<tu xmlns:lang="nld">Diagnosesysteem X400</tu>
+	<tu xmlns:lang="fra">Outil de diagnostic X400</tu>
+	<tu xmlns:lang="deu">Diagnosesystem X400</tu>
+	<tu xmlns:lang="ita">Strumento diagnostico X400</tu>
+	<tu xmlns:lang="jpn">診断ツール X400</tu>
+	<tu xmlns:lang="ptg">Ferramenta de diagnóstico X400</tu>
+	<tu xmlns:lang="ptb">Ferramenta de Diagnóstico X400</tu>
+	<tu xmlns:lang="rus">Диагностическое устройство X400</tu>
+	<tu xmlns:lang="esp">Herramienta de diagnóstico X400</tu>
+	<tu xmlns:lang="chs">诊断工具 X400</tu>
+	<tu xmlns:lang="kor">진단 도구 X400</tu>
+</tm>

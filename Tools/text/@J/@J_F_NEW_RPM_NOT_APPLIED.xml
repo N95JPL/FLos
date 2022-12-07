@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_NEW_RPM_NOT_APPLIED">
+	<tu xmlns:lang="eng">The new RPM specified could not be applied.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het nieuwe gespecificeerde toerental kon niet worden toegepast.</tu>
+	<tu xmlns:lang="fra">Le nouveau régime spécifié n'a pas pu être appliqué.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die neue angegebene Umdrehungszahl konnte nicht angewandt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impossibile applicare il nuovo numero di giri specificato.</tu>
+	<tu xmlns:lang="jpn">新しく特定された RPM を適用できませんでした。</tu>
+	<tu xmlns:lang="ptg">Honduras</tu>
+	<tu xmlns:lang="ptb">O novo RPM especificado não pôde ser aplicado.</tu>
+	<tu xmlns:lang="rus">Новое значение оборотов в минуту невозможно применить.</tu>
+	<tu xmlns:lang="esp">No se pudo aplicar el nuevo valor de rpm especificado.</tu>
+	<tu xmlns:lang="chs">给定的新转速无法应用。</tu>
+	<tu xmlns:lang="kor">새로 지정된 RPM을 적용하지 못했습니다.</tu>
+</tm>

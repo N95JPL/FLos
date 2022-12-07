@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENG_STRT_STUMB">
+	<tu xmlns:lang="eng">The engine started and stumbled.</tu>
+	<tu xmlns:lang="nld">De motor startte en stotterde.</tu>
+	<tu xmlns:lang="fra">Le moteur a démarré puis hoqueté.</tu>
+	<tu xmlns:lang="deu">Der Motor ist angesprungen und stockte.</tu>
+	<tu xmlns:lang="ita">Avviamento difficoltoso motore.</tu>
+	<tu xmlns:lang="jpn">エンジンが始動し、スタンブルしました。</tu>
+	<tu xmlns:lang="ptg">O motor arrancou e hesitou.</tu>
+	<tu xmlns:lang="ptb">Motor ligado e irregular.</tu>
+	<tu xmlns:lang="rus">Двигатель запустился и работал со сбоями.</tu>
+	<tu xmlns:lang="esp">El motor arrancó y vaciló.</tu>
+	<tu xmlns:lang="chs">发动机启动后出现不稳定状况。</tu>
+	<tu xmlns:lang="kor">엔진이 시동된 후 멈칫거림</tu>
+</tm>

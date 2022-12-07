@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDST_ERROR">
+	<tu xmlns:lang="eng">Error</tu>
+	<tu xmlns:lang="nld">Fout</tu>
+	<tu xmlns:lang="fra">Erreur</tu>
+	<tu xmlns:lang="deu">Fehler</tu>
+	<tu xmlns:lang="ita">Errore</tu>
+	<tu xmlns:lang="jpn">エラー</tu>
+	<tu xmlns:lang="ptg">Erro</tu>
+	<tu xmlns:lang="ptb">Erro</tu>
+	<tu xmlns:lang="rus">Ошибка</tu>
+	<tu xmlns:lang="esp">Error</tu>
+	<tu xmlns:lang="chs">错误</tu>
+	<tu xmlns:lang="kor">오류</tu>
+</tm>

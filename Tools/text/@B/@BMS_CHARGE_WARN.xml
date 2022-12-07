@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CHARGE_WARN">
+	<tu xmlns:lang="eng">Charge warning lamp illuminated with engine running</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het waarschuwingslampje voor opladen brandt terwijl de motor draait</tu>
+	<tu xmlns:lang="fra">Témoin de charge allumé lorsque le moteur tourne</tu>
+	<tu xmlns:lang="deu">Ladekontrollleuchte bei laufendem Motor eingeschaltet</tu>
+	<tu xmlns:lang="ita">Spia di carica accesa con il motore avviato</tu>
+	<tu xmlns:lang="jpn">エンジン回転中にチャージ警告灯が点灯</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Luz de aviso de carregamento acesa com o motor a trabalhar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Luz de aviso de carga acesa com o motor em funcionamento</tu>
+	<tu
+    xmlns:lang="rus"
+  >При работе двигателя горит сигнальный индикатор зарядки</tu>
+	<tu xmlns:lang="esp">Testigo de carga encendido con el motor en marcha</tu>
+	<tu xmlns:lang="chs">在发动机运转的情况下充电警报灯亮起</tu>
+	<tu xmlns:lang="kor">엔진 작동 시 충전 경고등이 켜짐</tu>
+</tm>

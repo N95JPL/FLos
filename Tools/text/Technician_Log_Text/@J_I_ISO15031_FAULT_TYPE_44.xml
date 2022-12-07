@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_44">
+<tu xmlns:lang="eng">System internal failure - data memory failure.</tu>
+<tu xmlns:lang="nld">Intern defect in systeem - fout in gegevensgeheugen.</tu>
+<tu xmlns:lang="fra">D&#233;faillance interne du syst&#232;me - d&#233;faut de m&#233;moire de donn&#233;es.</tu>
+<tu xmlns:lang="deu">Interne Systemst&#246;rung - Datenspeicherfehler.</tu>
+<tu xmlns:lang="ita">Guasto interno sistema - guasto di memoria dati.</tu>
+<tu xmlns:lang="jpn">ƒVƒXƒeƒ€“à•”ŒÌá | ƒf[ƒ^ ƒƒ‚ƒŠ•s—Ç</tu>
+<tu xmlns:lang="ptg">Falha interna no sistema - falha de mem&#243;ria de dados.</tu>
+<tu xmlns:lang="rus">Âíóòðåííèé îòêàç ñèñòåìû - îøèáêà â ïàìÿòè äàííûõ.</tu>
+<tu xmlns:lang="esp">Fallo interno del sistema: fallo de memoria de datos.</tu>
+<tu xmlns:lang="chs">ÏµÍ³ÄÚ²¿¹ÊÕÏ - Êý¾Ý´æ´¢Æ÷¹ÊÕÏ¡£</tu>
+</tm>

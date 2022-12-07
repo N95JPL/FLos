@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ImageWrong$I">
+	<tu
+    xmlns:lang="eng"
+  >Images may not show the correct wheel, ensure measurements are made on the wheel required.</tu>
+	<tu
+    xmlns:lang="nld"
+  >In de afbeeldingen wordt misschien niet het juiste wiel aangegeven, zorg dat u de metingen op het correcte wiel uitvoert.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les images ne représentent peut-être pas la roue correcte, veillez à effectuer les mesures sur la roue requise.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Bilder zeigen möglicherweise nicht das korrekte Rad. Sicherstellen, dass die Messungen am gewünschten Rad durchgeführt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le immagini potrebbero non mostrare la ruota giusta, accertarsi che le misurazioni vengano fatte sulla ruota richiesta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イメージが正しいホイールを表\わしていない可能\性があります。必要なホイールについて測定を行いなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As imagens podem não mostrar a roda correcta; certifique-se de que as medições são feitas na roda necessária.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As imagens podem não mostrar a roda correta, garanta que as medições sejam feitas na roda necessária.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На экране может отображаться другое колесо, убедитесь, что измерения выполнены на требуемом колесе.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Puede que las imágenes no muestren la rueda correcta; asegurarse de que los valores se midan en la rueda que se requiera.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'图像可能未显示正确的车轮，确保对所需的车轮进行了测量。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >그림에는 해당 휠이 표시되어 있지 않을 수도 있습니다. 필요한 휠에서 측정을 하도록 하십시오.</tu>
+</tm>

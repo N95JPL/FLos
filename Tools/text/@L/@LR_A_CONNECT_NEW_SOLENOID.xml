@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_A_CONNECT_NEW_SOLENOID">
+	<tu
+    xmlns:lang="eng"
+  >Disconnect the connector and connect the new solenoid to the connector, but do not fit the solenoid to the transfer case.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Koppel de stekker los en sluit de nieuwe solenoïde op de stekker aan, maar monteer de solenoïde niet op de tussenbak.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Débranchez le connecteur et branchez le nouveau solénoïde sur le connecteur, mais ne montez pas le solénoïde sur la boîte de transfert.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Verbinder abziehen und neuen Schaltmagneten am Verbinder anschließen, Schaltmagneten jedoch nicht in das Verteilergetriebe einbauen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Scollegare il connettore e collegare il nuovo solenoide al connettore senza montarlo sulla scatola di rinvio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コネクターの接続を外し、トランスファー ケースに取り付けずに、新品のソ\レノイドをコネクターに接続しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Desligue o conector e ligue o novo solenóide ao conector, mas não instale o solenóide na caixa de transferência.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Desconecte o conector e conecte o novo solenóide ao conector, mas não encaixe o solenoide à caixa de transferência.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отсоедините разъем и подключите к нему новый соленоид, но не устанавливайте соленоид на раздаточную коробку.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Desenchufar el conector y conectar el nuevo solenoide al conector, pero sin montar el solenoide en la caja de transferencia.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'断开接头并将新的电磁阀连接到接头上，但不要将电磁阀安装到分动箱上。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >커넥터를 분리하고 새 솔레노이드를 커넥터에 연결하되, 솔레노이드를 트랜스퍼 케이스에 장착하지 마십시오.</tu>
+</tm>

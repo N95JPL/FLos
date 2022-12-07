@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QU400">
+	<tu xmlns:lang="eng">The test failed, would you like to retry?</tu>
+	<tu xmlns:lang="nld">De test is mislukt, wilt u het nog eens proberen ?</tu>
+	<tu xmlns:lang="fra">Echec du test - Voulez-vous réessayer ?</tu>
+	<tu xmlns:lang="deu">Prüfung nicht bestanden; erneut durchführen ?</tu>
+	<tu xmlns:lang="ita">Il test non è riuscito, desiderate riprovare ?</tu>
+	<tu xmlns:lang="jpn">テストに不合格です。再試行しますか？</tu>
+	<tu xmlns:lang="ptg">O teste falhou, pretende repetir?</tu>
+	<tu xmlns:lang="ptb">O teste falhou, gostaria de tentar novamente?</tu>
+	<tu xmlns:lang="rus">Проверка не выполнена, повторить еще раз?</tu>
+	<tu xmlns:lang="esp">¿Prueba fallida, quieres probar otra vez ?</tu>
+	<tu xmlns:lang="chs">‘测试失败，想再试一次吗？’</tu>
+	<tu xmlns:lang="kor">테스트에 통과하지 못했습니다. 다시 시도하시겠습니까?</tu>
+</tm>

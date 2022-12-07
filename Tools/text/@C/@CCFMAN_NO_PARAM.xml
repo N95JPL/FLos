@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_NO_PARAM">
+	<tu xmlns:lang="eng">No parameters obtained for this module</tu>
+	<tu xmlns:lang="nld">Geen parameters verkregen voor deze module</tu>
+	<tu xmlns:lang="fra">Aucun paramètre obtenu pour ce module</tu>
+	<tu xmlns:lang="deu">Keine Parameter für dieses Steuergerät erhalten</tu>
+	<tu xmlns:lang="ita">Non sono stati ottenuti parametri per questo modulo</tu>
+	<tu xmlns:lang="jpn">このモジュール用のパラメータは入手できません。</tu>
+	<tu xmlns:lang="ptg">Nenhum parâmetro obtido para este módulo</tu>
+	<tu xmlns:lang="ptb">Nenhum parâmetro foi obtido para este módulo</tu>
+	<tu xmlns:lang="rus">Для этого модуля параметры не получены</tu>
+	<tu xmlns:lang="esp">No se obtuvieron parámetros para este módulo</tu>
+	<tu xmlns:lang="chs">没有取得用于此模块的参数</tu>
+	<tu xmlns:lang="kor">이 모듈에 대해 획득된 매개 변수가 없음</tu>
+</tm>

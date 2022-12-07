@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ASL_DISPLAY_FULL_PLUS_PRIORITY">
+	<tu
+    xmlns:lang="eng"
+  >Automatic speed limit full display plus priority messages</tu>
+	<tu
+    xmlns:lang="nld"
+  >Volledige weergave automatische snelheidslimiet plus prioriteitsberichten</tu>
+	<tu
+    xmlns:lang="fra"
+  >Limiteur de vitesse automatique, affichage complet plus messages prioritaires.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Automatische Geschwindigkeitsbegrenzung - Vollanzeige mit Prioritätsmeldungen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Display completo limiti di velocità e messaggi di priorità</tu>
+	<tu xmlns:lang="jpn">自動速度制限フル ディスプレイ + 優先メッセージ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Limite automático de velocidade, visor completo mais mensagens de prioridade</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Tela cheia do limitador automático de velocidade com mensagens de prioridade</tu>
+	<tu
+    xmlns:lang="rus"
+  >Полнофункциональный дисплей системы автоматического ограничения скорости плюс приоритетные сообщения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Visualización completa del limitador automático de velocidad con mensajes prioritarios</tu>
+	<tu xmlns:lang="chs">自动速度控制完整显示＋优先消息</tu>
+	<tu xmlns:lang="kor">자동 속도 제한 전체 디스플레이  우선 순위 메시지</tu>
+</tm>

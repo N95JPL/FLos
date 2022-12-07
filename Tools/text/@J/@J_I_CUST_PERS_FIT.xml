@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CUST_PERS_FIT">
+	<tu xmlns:lang="eng">Customer personalisation is fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De functie voor persoonlijke voorkeuren is geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Personnalisation client installée.</tu>
+	<tu xmlns:lang="deu">Kundenspezifische Personalisierung ist eingebaut.</tu>
+	<tu xmlns:lang="ita">Personalizzazione cliente in dotazione.</tu>
+	<tu xmlns:lang="jpn">顧客パーソ\ナライゼーション装備</tu>
+	<tu xmlns:lang="ptg">Personalização do cliente está instalada.</tu>
+	<tu xmlns:lang="ptb">Personalização do cliente instalada.</tu>
+	<tu xmlns:lang="rus">Установлена система персонализации пользователя.</tu>
+	<tu xmlns:lang="esp">Tiene personalización del cliente.</tu>
+	<tu xmlns:lang="chs">客户个性化已安装。</tu>
+	<tu xmlns:lang="kor">고객 개인화 기능이 장착되었습니다.</tu>
+</tm>

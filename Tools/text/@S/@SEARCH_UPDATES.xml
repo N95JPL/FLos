@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SEARCH_UPDATES">
+	<tu xmlns:lang="eng">Searching website for available updates</tu>
+	<tu xmlns:lang="nld">Zoeken op website naar beschikbare updates</tu>
+	<tu
+    xmlns:lang="fra"
+  >Recherche des mises à jour disponibles sur le site Web </tu>
+	<tu
+    xmlns:lang="deu"
+  >Website wird auf verfügbare Aktualisierungen durchsucht</tu>
+	<tu xmlns:lang="ita">Ricerca nel sito Web degli aggiornamenti disponibili</tu>
+	<tu xmlns:lang="jpn">ウェブサイトに利用可能\な更新があるか検索中</tu>
+	<tu xmlns:lang="ptg">A procurar website para actualizações disponíveis</tu>
+	<tu xmlns:lang="ptb">Pesquisando atualizações disponíveis no website</tu>
+	<tu xmlns:lang="rus">Выполняется поиск доступных обновлений на веб-сайте</tu>
+	<tu xmlns:lang="esp">Buscando actualizaciones disponibles en el sitio web</tu>
+	<tu xmlns:lang="chs">搜索网站，查找可供使用的更新文件</tu>
+	<tu xmlns:lang="kor">웹 사이트에서 사용 가능한 업데이트 검색</tu>
+</tm>

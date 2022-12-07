@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_INJECT_INFO">
+	<tu
+    xmlns:lang="eng"
+  >Each injector connected to the powertrain control module has different characteristics e.g. opening times, shutting times and these injector characteristics vary with fuel rail pressure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Elke injector die op de regelmodule van de aandrijflijn is aangesloten heeft verschillende karakteristieken, bijv. openings- en sluitingstijden, en deze injectorkarakteristieken variëren afhankelijk van de druk in de common rail.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Chaque injecteur raccordé au module de commande du groupe motopropulseur a différentes caractéristiques par ex. durées d'ouverture, durées de fermeture et ces caractéristiques d'injecteur peuvent varier avec la pression de la rampe.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Jedes an das Antriebsstrang-Steuergerät angeschlossene Einspritzventil besitzt unterschiedliche Charakteristika hinsichtlich Öffnungszeit, Schließzeit usw. und diese Charakteristika ändern sich in Abhängigkeit vom Druck im Kraftstoffverteilerrohr.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ciascun iniettore collegato al modulo comando catena cinematica presenta caratteristiche differenti, ad esempio tempi di apertura, tempi di chiusura, e queste caratteristiche dell'iniettore varieranno in funzione della pressione nel collettore alimentazione carburante.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パワートレーン コントロール モジュールに接続された各インジェクタには異なる特性があり (開／閉時間など)、これらのインジェクタ特性はフューエル レール プレッシャによって変化します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os vários injectores ligados ao módulo de comando do grupo motopropulsor têm todos características diferentes (por ex. tempos de abertura, tempos de fecho) e essas características variam com a pressão na régua distribuidora de combustível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Cada injetor conectado ao módulo de controle do powertrain tem características diferentes, por exemplo, tempos de abertura e de desligamento, e essas características do injetor podem variar de acordo com a pressão dos trilhos de combustível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Каждая форсунка, соединенная с блоком управления силовым агрегатом, имеет различные характеристики; например, время открытия и закрытия зависят от давления в топливной магистрали.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cada uno de los inyectores conectados al módulo de control del grupo motor y transmisión tiene características diferentes, como los tiempos de apertura y cierre, las cuales varían según la presión en la rampa de combustible.</tu>
+	<tu
+    xmlns:lang="chs"
+  >连接到动力传动系统控制模块的每一喷油器具有不同的特性，如不同的开启时间、关闭时间，而且，这些喷油器特性随燃油油轨压力的不同而改变。</tu>
+	<tu
+    xmlns:lang="kor"
+  >파워트레인 컨트롤 모듈에 연결된 각 인젝터의 특성(예: 개방 횟수, 차단 횟수 등)은 서로 다르며, 이런 인젝터 특성은 연료 레일 압력에 따라 변합니다.</tu>
+</tm>

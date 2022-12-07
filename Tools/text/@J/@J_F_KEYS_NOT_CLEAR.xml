@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_KEYS_NOT_CLEAR">
+	<tu xmlns:lang="eng">Keys not cleared</tu>
+	<tu xmlns:lang="nld">Toetsen niet vrijgegeven</tu>
+	<tu xmlns:lang="fra">Touches pas effacées</tu>
+	<tu xmlns:lang="deu">Nicht freigegebene Tasten</tu>
+	<tu xmlns:lang="ita">Tasti non azzerati</tu>
+	<tu xmlns:lang="jpn">ｷｰがｸﾘｱされていません｡</tu>
+	<tu xmlns:lang="ptg">Chaves não apagadas</tu>
+	<tu xmlns:lang="ptb">Chaves não apagadas</tu>
+	<tu xmlns:lang="rus">Ключи не сброшены</tu>
+	<tu xmlns:lang="esp">Teclas sin borrar</tu>
+	<tu xmlns:lang="chs">车匙未清除</tu>
+	<tu xmlns:lang="kor">키가 삭제되지 않음</tu>
+</tm>

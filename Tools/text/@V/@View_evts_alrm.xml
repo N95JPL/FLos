@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@View_evts_alrm">
+	<tu
+    xmlns:lang="eng"
+  >Viewing these events may help to diagnose situations where a vehicle is experiencing repeated alarms.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Door het bekijken van deze gebeurtenissen wordt het stellen van een diagnose in situaties waarbij het alarm in het voertuig herhaaldelijk afgaat mogelijk vergemakkelijkt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La visualisation de ces événements peut être utile pour le diagnostic de situations où un véhicule subit des alarmes répétées.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einsehen dieser Ereignisse kann für die Diagnose von Situationen helfen, bei denen es bei einem Fahrzeug zu wiederholter Alarmauslösung kommt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La visualizzazione di questi eventi può essere di aiuto per diagnosticare situazioni in cui il veicolo è soggetto a ripetuti allarmi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両のアラームが繰り返し作動しているとき、これらのイベントを見ることによって状況の診断に役立つことがあります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Visualizar estes acontecimentos pode ajudar a diagnosticar situações em que um veículo regista alarmes repetidos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Exibir esses eventos pode ajudar a diagnosticar situações em que um veículo está apresentando alarmes repetidos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Просмотр этих событий может помочь при диагностике ситуаций, когда аварийные сигналы повторяются.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La visualización de estos incidentes puede ayudar a diagnosticar situaciones en las que un vehículo experimenta disparos reiterados de la alarma.</tu>
+	<tu xmlns:lang="chs">查看这些事件可能有助于诊断车辆反复出现报警的情形。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이런 이벤트를 보면 차량에서 알람이 반복적으로 발생하는 상황을 진단하는 데 도움이 될 수 있습니다.</tu>
+</tm>

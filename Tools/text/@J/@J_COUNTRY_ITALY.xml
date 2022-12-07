@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_ITALY">
+	<tu xmlns:lang="eng">Italy</tu>
+	<tu xmlns:lang="nld">Italië</tu>
+	<tu xmlns:lang="fra">Italie</tu>
+	<tu xmlns:lang="deu">Italien</tu>
+	<tu xmlns:lang="ita">Italia</tu>
+	<tu xmlns:lang="jpn">イタリア</tu>
+	<tu xmlns:lang="ptg">Itália</tu>
+	<tu xmlns:lang="ptb">Itália</tu>
+	<tu xmlns:lang="rus">Италия</tu>
+	<tu xmlns:lang="esp">Italia</tu>
+	<tu xmlns:lang="chs">意大利</tu>
+	<tu xmlns:lang="kor">이탈리아</tu>
+</tm>

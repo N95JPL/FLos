@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_VEHICLE_ID">
+	<tu xmlns:lang="eng">Vehicle identification.</tu>
+	<tu xmlns:lang="nld">Voertuigidentificatie</tu>
+	<tu xmlns:lang="fra">Identification du véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeugidentifikation</tu>
+	<tu xmlns:lang="ita">Identificazione del veicolo</tu>
+	<tu xmlns:lang="jpn">車両 ID</tu>
+	<tu xmlns:lang="ptg">Identificação do veículo.</tu>
+	<tu xmlns:lang="ptb">Identificação do veículo.</tu>
+	<tu xmlns:lang="rus">Идентификация автомобиля.</tu>
+	<tu xmlns:lang="esp">Identificación del vehículo</tu>
+	<tu xmlns:lang="chs">车辆标识。</tu>
+	<tu xmlns:lang="kor">차량 식별</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FAIL_CONTACT_DEALER_SUPPORT">
+	<tu
+    xmlns:lang="eng"
+  >If it fails again please contact dealer technical support for further assistance.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als hij opnieuw defect raakt, neemt u contact op met Dealer Technical Support voor verdere hulp.</tu>
+	<tu
+    xmlns:lang="fra"
+  >En cas de nouvelle défaillance, contactez l'assistance technique des concessionnaires pour obtenir de l'aide.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kommt es zu erneutem Versagen, für weitere Hilfe Kontakt mit dem Dealer Technical Support aufnehmen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se si guasta una seconda volta, contattare il supporto tecnico per i concessionari per richiedere ulteriore assistenza.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >故障が再発した場合、テクニカル サポートに連絡しアシストを得なさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se voltar a falhar, contacte a assistência técnica do concessionário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se falhar novamente, entre em contato com o suporte técnico do revendedor para assistência técnica adicional.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если неисправность сохраняется, обратитесь в службу технической поддержки дилеров для получения дополнительной помощи.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se vuelve a producir el fallo, póngase en contacto con el departamento de asistencia técnica a concesionarios para obtener ayuda.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果再次失败，请与经销商技术支持人员联系，以取得进一步的帮助。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다시 실패할 경우 딜러 기술 지원부에 지원을 요청하십시오.</tu>
+</tm>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@W_DISP_TOUCH_DUAL">
+	<tu xmlns:lang="eng">With display  -  Touchscreen  -  Dual view</tu>
+	<tu xmlns:lang="nld">Met scherm  -  Touch screen  -  Dubbele weergave</tu>
+	<tu xmlns:lang="fra">Avec affichage  -  Ecran tactile  -  Double affichage</tu>
+	<tu xmlns:lang="deu">Mit Display  -  Touchscreen  -  Dual-View</tu>
+	<tu
+    xmlns:lang="ita"
+  >Con display  -  Schermo a sfioramento  -  Doppia visualizzazione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ディスプレイ装備  －  タッチスクリーン  －  デュアル ビュー</tu>
+	<tu xmlns:lang="ptg">Com ecrã  -  Ecrã de toque  -  Visualização dupla</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Com display  -  Tela Touchscreen  -  Exibição dupla (Dual view)</tu>
+	<tu xmlns:lang="rus">С дисплеем  -  Сенсорный экран  -  Двойной вид</tu>
+	<tu xmlns:lang="esp">Con pantalla  -  Pantalla táctil  -  Vista doble</tu>
+	<tu xmlns:lang="chs">带显示器  -  触摸屏  -  双视图</tu>
+	<tu xmlns:lang="kor">디스플레이 장착  -  터치스크린  -  듀얼 뷰</tu>
+</tm>

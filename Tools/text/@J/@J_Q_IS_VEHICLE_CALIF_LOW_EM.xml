@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_IS_VEHICLE_CALIF_LOW_EM">
+	<tu
+    xmlns:lang="eng"
+  >Is the vehicle built to Californian low emissions specification?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuig gebouwd volgens de Californische lage emissies specificatie?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule a été construit en conformité avec les réglementations californiennes sur la réduction des émissions ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist das Fahrzeug gemäß kalifornischer Spezifikation für niedrige Emissionswerte gebaut?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo è conforme alle specifiche californiane sulle basse emissioni?</tu>
+	<tu xmlns:lang="jpn">車両はカリフォルニア ロー エミッション仕様ですか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo foi construído de acordo com especificação de emissões baixas para a Califórnia?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A montagem do veículo está de acordo com as especificações de baixas emissões da Califórnia?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль собран в соответствии с Калифорнийской спецификацией по снижению токсичности выхлопа?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Está construido el vehículo de conformidad con la especificación californiana de bajas emisiones?</tu>
+	<tu xmlns:lang="chs">车辆是根据加州低排放标准制造的吗？</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량이 캘리포니아 배기가스 배출 수준 사양에 따라 제조되었습니까?</tu>
+</tm>

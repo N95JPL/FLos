@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckParkAssistanceInactive">
+	<tu xmlns:lang="eng">Make sure that the park assist system is not active.</tu>
+	<tu xmlns:lang="nld">Zorg ervoor dat het parkeerhulpsysteem niet actief is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'assurer que le système d'aide au stationnement n'est pas activé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass das Einparkassistent-System nicht aktiv ist.</tu>
+	<tu xmlns:lang="ita">Assicurarsi che il sistema Park Assist non sia attivo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パーキング アシスト システムがアクティブでないことを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o sistema de assistência ao estacionamento não está ativo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o sistema de assistência para estacionar não está ativo.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что система Park Assist выключена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que el sistema de asistencia al estacionamiento no está activo.</tu>
+	<tu xmlns:lang="chs">确保驻车辅助系统未激活。</tu>
+	<tu xmlns:lang="kor">파크 어시스트 시스템이 작동하지 않는지 확인하십시오.</tu>
+</tm>

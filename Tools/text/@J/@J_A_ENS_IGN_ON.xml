@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENS_IGN_ON">
+	<tu xmlns:lang="eng">Make sure the ignition is switched on.</tu>
+	<tu xmlns:lang="nld">Controleer of de ontsteking ingeshakeld is</tu>
+	<tu xmlns:lang="fra">s'assurer que le contact est en position allumage</tu>
+	<tu xmlns:lang="deu">Versichere dass die zundung eingeshaltet ist</tu>
+	<tu xmlns:lang="ita">assicurarsi che l'accensione sia su acceso</tu>
+	<tu xmlns:lang="jpn">イｸﾞニションがオンになっていることを確認してください。</tu>
+	<tu xmlns:lang="ptg">Assegure-se de que a ignição está ligada.</tu>
+	<tu xmlns:lang="ptb">Certifique-se de que a ignição esteja ligada.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что зажигание включено.</tu>
+	<tu xmlns:lang="esp">Asegurar que la arranque esta encendida</tu>
+	<tu xmlns:lang="chs">确保打开了点火开关。</tu>
+	<tu xmlns:lang="kor">점화 스위치가 켜져 있는지 확인하십시오.</tu>
+</tm>

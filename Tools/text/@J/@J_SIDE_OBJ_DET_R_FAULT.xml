@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_SIDE_OBJ_DET_R_FAULT">
+	<tu xmlns:lang="eng">Side object detection right fault</tu>
+	<tu xmlns:lang="nld">Fout in detectie van voorwerpen aan de zijkant, rechts</tu>
+	<tu xmlns:lang="fra">Erreur de détection latérale d'objets côté droit</tu>
+	<tu xmlns:lang="deu">Seitliche Objekterfassung rechts - Störung</tu>
+	<tu xmlns:lang="ita">Guasto rilevamento oggetto laterale destro</tu>
+	<tu xmlns:lang="jpn">側方オブジェクト検出、右不良</tu>
+	<tu xmlns:lang="ptg">Detecção de objecto lateral à direita - avaria</tu>
+	<tu xmlns:lang="ptb">Falha na detecção de objeto lateral à direita</tu>
+	<tu xmlns:lang="rus">Сбой при обнаружении объекта справа</tu>
+	<tu xmlns:lang="esp">Anomalía de detección de objeto lateral, lado derecho</tu>
+	<tu xmlns:lang="chs">右侧物体探测故障</tu>
+	<tu xmlns:lang="kor">측면 장애물 감지 우측 고장</tu>
+</tm>

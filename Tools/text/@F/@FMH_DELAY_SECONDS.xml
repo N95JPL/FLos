@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FMH_DELAY_SECONDS">
+	<tu xmlns:lang="eng">Follow me home delay (seconds)</tu>
+	<tu xmlns:lang="nld">Vertraging instapverlichting (seconden)</tu>
+	<tu xmlns:lang="fra">Temporisation d'accompagnement (secondes).</tu>
+	<tu xmlns:lang="deu">Beleuchtungs-Ausschaltverzögerung (Sekunden).</tu>
+	<tu xmlns:lang="ita">Funzione spegnimento ritardato luci (secondi)</tu>
+	<tu xmlns:lang="jpn">リンプホームの遅延 (秒)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temporização da iluminação temporária ao afastar-se do veículo (segundos)</tu>
+	<tu xmlns:lang="ptb">Atraso do Follow me home (segundos)</tu>
+	<tu xmlns:lang="rus">Задержка выключения фар (в секундах)</tu>
+	<tu xmlns:lang="esp">Retardo de luces al salir (segundos)</tu>
+	<tu xmlns:lang="chs">前照灯延时熄灭延迟（秒）。</tu>
+	<tu xmlns:lang="kor">에스코트 램프 지연(초)</tu>
+</tm>

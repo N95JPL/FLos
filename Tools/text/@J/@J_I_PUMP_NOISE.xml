@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PUMP_NOISE">
+	<tu xmlns:lang="eng">Pump noises</tu>
+	<tu xmlns:lang="nld">Pompgeluiden</tu>
+	<tu xmlns:lang="fra">Bruits de pompe</tu>
+	<tu xmlns:lang="deu">Pumpengeräusche</tu>
+	<tu xmlns:lang="ita">Rumori dalla pompa</tu>
+	<tu xmlns:lang="jpn">ポンプ ノイズ</tu>
+	<tu xmlns:lang="ptg">Ruídos da bomba</tu>
+	<tu xmlns:lang="ptb">Ruídos da bomba</tu>
+	<tu xmlns:lang="rus">Шумы насоса</tu>
+	<tu xmlns:lang="esp">Ruidos de la bomba</tu>
+	<tu xmlns:lang="chs">泵噪音</tu>
+	<tu xmlns:lang="kor">펌프 소음</tu>
+</tm>

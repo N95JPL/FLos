@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_CONTINUE_SELECTION">
+	<tu
+    xmlns:lang="eng"
+  >Do you wish to continue with the current vehicle selection?</tu>
+	<tu xmlns:lang="nld">Wilt u doorgaan met het huidige gekozen voertuig?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Souhaitez-vous continuer avec la sélection de véhicule actuelle ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Möchten Sie mit der aktuellen Fahrzeugauswahl fortfahren?</tu>
+	<tu xmlns:lang="ita">Continuare con la selezione corrente del veicolo?</tu>
+	<tu xmlns:lang="jpn">現在の車両の選択で続行しますか？</tu>
+	<tu xmlns:lang="ptg">Deseja continuar com a presente selecção de veículo?</tu>
+	<tu xmlns:lang="ptb">Você quer continuar com a atual seleção do veículo?</tu>
+	<tu xmlns:lang="rus">Продолжить работу с выбранным автомобилем?</tu>
+	<tu xmlns:lang="esp">¿Desea continuar con la selección de vehículo actual?</tu>
+	<tu xmlns:lang="chs">您是否希望继续当前车辆选项？</tu>
+	<tu xmlns:lang="kor">현재 차량 선택을 계속 진행하시겠습니까?</tu>
+</tm>

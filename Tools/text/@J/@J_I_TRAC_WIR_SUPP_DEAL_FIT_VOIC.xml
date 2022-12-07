@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRAC_WIR_SUPP_DEAL_FIT_VOIC">
+	<tu
+    xmlns:lang="eng"
+  >Production installed wiring to support dealer fitted voice activated controls.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens productie gemonteerde bedrading ter ondersteuning van een door de dealer gemonteerd spraakactiveringssysteem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Faisceau installé en usine en prévision de la commande vocale montée par le concessionnaire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Produktionsseitig eingebaute Verkabelung zur Unterstützung von im Vertragspartner-Betrieb eingebauten, sprachaktivierten Steuerelementen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Cablaggio installato in produzione a supporto dei comandi attivati a voce forniti dal concessionario.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >音声作動コントロール ディーラー装着サポートのため生産時にワイヤリングが取り付けられています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Cablagem eléctrica instalada na fase de produção para suportar o sistema de comandos de voz instalado pelo concessionário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A fiação instalada de produção deve suportar os controles ativados por voz equipados pelo concessionário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установленная на заводе проводка, помогающая в установке средств голосового управления на станции дилера.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cableado instalado en fábrica para admitir mandos activados por la voz montados por el concesionario.</tu>
+	<tu
+    xmlns:lang="chs"
+  >生产线安装的线路，用以支持经销商安装的语音致动控制功能。</tu>
+	<tu
+    xmlns:lang="kor"
+  >딜러점에서 장착한 음성 작동식 컨트롤을 지원하기 위해 생산 시 장착된 배선</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart70">
+	<tu
+    xmlns:lang="eng"
+  >This condition may be caused by performing a DTC clear.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dit probleem kan worden veroorzaakt door het wissen van de DTC's.</tu>
+	<tu xmlns:lang="fra">Cette condition peut être due à l'effacement des DTC.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Zustand kann auf die Durchführung einer Fehlercodelöschung zurückzuführen sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa condizione può essere causata dall'eliminazione di un DTC.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この状態は、DTC クリアの実行によって発生する可能性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta condição pode ser provocada por uma eliminação dos códigos de avaria (DTC).</tu>
+	<tu xmlns:lang="ptb">Essa condição pode ser causada ao apagar um DTC.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное состояние может быть вызвано сбросом диагностических кодов неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta condición puede estar provocada porque se han borrado DTC.</tu>
+	<tu xmlns:lang="chs">执行 DTC 清除可能造成这种情况。</tu>
+	<tu xmlns:lang="kor">DTC 삭제 수행이 이 상태를 일으킨 원인일 수 있습니다.</tu>
+</tm>

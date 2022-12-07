@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FMH_HIGH_BEAM_HEADLAMPS">
+	<tu xmlns:lang="eng">Follow me home with high beam headlamps</tu>
+	<tu xmlns:lang="nld">Instapverlichting met grootlicht</tu>
+	<tu xmlns:lang="fra">Fonction d'accompagnement avec les feux de route.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beleuchtungs-Ausschaltverzögerung mit Fernlichtscheinwerfern</tu>
+	<tu xmlns:lang="ita">Funzione spegnimento ritardato con fari abbaglianti</tu>
+	<tu xmlns:lang="jpn">ハイビーム ヘッドランプ点灯を伴うリンプホーム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Iluminação temporária ao afastar-se do veículo com faróis de máximos</tu>
+	<tu xmlns:lang="ptb">Follow me home com faróis altos</tu>
+	<tu xmlns:lang="rus">Задержка выключения фар дальнего света</tu>
+	<tu xmlns:lang="esp">Retardo de luces al salir con faros de luz larga</tu>
+	<tu xmlns:lang="chs">远光灯前照灯延时熄灭</tu>
+	<tu xmlns:lang="kor">하이 빔 헤드램프를 이용한 에스코트 램프</tu>
+</tm>

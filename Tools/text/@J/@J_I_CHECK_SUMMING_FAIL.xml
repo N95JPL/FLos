@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHECK_SUMMING_FAIL">
+	<tu xmlns:lang="eng">Check sum test failed</tu>
+	<tu xmlns:lang="nld">Checksum test mislukt</tu>
+	<tu xmlns:lang="fra">Essai de somme de contrôle échoué</tu>
+	<tu xmlns:lang="deu">Prüfsummenprüfung nicht erfolgreich</tu>
+	<tu xmlns:lang="ita">Prova di somma di controllo non riuscita</tu>
+	<tu xmlns:lang="jpn">ﾁｪｯｸ ｻﾑ ﾃｽﾄ不合格</tu>
+	<tu xmlns:lang="ptg">Teste à verificação de memória falhou</tu>
+	<tu xmlns:lang="ptb">Reprovação no teste de verificação de soma</tu>
+	<tu xmlns:lang="rus">Проверка контрольной суммы не пройдена</tu>
+	<tu xmlns:lang="esp">Prueba del checksum mal</tu>
+	<tu xmlns:lang="chs">校验和测试失败</tu>
+	<tu xmlns:lang="kor">체크섬 테스트 실패</tu>
+</tm>

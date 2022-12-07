@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_OP_RESET__FUEL_SYS">
+	<tu
+    xmlns:lang="eng"
+  >The next operation will reset the adaption status for the fueling system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De volgende bewerking zal de adaptatie-status van het brandstoftoevoersysteem opnieuw instellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'opération suivante va réinitialiser l'état d'adaptation du système d'alimentation en carburant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dem nächsten Schritt wird der Anpassungsstatus des Kraftstoffsystems zurückgesetzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'operazione successiva azzererà lo stato di adattamento per il sistema di alimentazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のオペレーションはフュエリング システムの補正ステータスをリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A operação que se segue irá repor o estado da adaptação do sistema de combustível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A próxima operação redefinirá a adaptação do status para o sistema de abastecimento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При выполнении следующей операции произойдет сброс состояния адаптации системы заправки топливом.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La siguiente operación restaurará el estado de adaptación para el sistema de alimentación de combustible.</tu>
+	<tu xmlns:lang="chs">下一操作将为加油系统复位自适应状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 작업에서는 연료 공급 시스템에 대한 어댑테이션 상태를 재설정합니다.</tu>
+</tm>

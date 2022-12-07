@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SW_FOLD_TOP_IDS_IF_APP">
+	<tu
+    xmlns:lang="eng"
+  >This software update is only for certain folding top modules. The Diagnostic Tool will read the hardware and select the software if applicable.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze software-update is alleen van toepassing op bepaalde modellen met een softtop. Het diagnosesysteem zal de hardware uitlezen en de software selecteren indien van toepassing.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La mise à jour de ce logiciel ne concerne que certains modules de capote. L'outil de diagnostic lit la référence du matériel et sélectionne le logiciel approprié si disponible.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Softwareaktualisierung bezieht sich nur auf bestimmte Modelle mit Faltdach. Das Diagnosesystem ermittelt die Hardware und wählt, sofern zutreffend, die Software aus.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questo aggiornamento software è previsto solo per alcuni moduli del tettuccio pieghevole. Lo strumento diagnostico leggerà l'hardware e selezionerà il software se applicabile.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このソフトウェア アップデートは特定の格納トップ モジュール専用です。 診断ツールはハードウェアを読み取り、該当する場合はソフトウェアを選択します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta atualização de software destina-se apenas a determinados módulos da capota. A ferramenta de diagnóstico irá ler o hardware e selecionar o software, se necessário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esta atualização de software é destinada somente para certos módulos da capota conversível. A Ferramenta de Diagnóstico lerá o hardware e selecionará o software, se aplicável.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное обновление программного обеспечения предназначено только для определенных блоков управления складным верхом. Диагностическое устройство проанализирует аппаратное обеспечение и выберет программное обеспечение (если применимо).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta actualización de software es sólo para determinados módulos de control de la capota. La herramienta de diagnóstico leerá el hardware y seleccionará el software si procede.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本软件更新仅用于某些折叠顶篷模块。 诊断工具将读取硬件信息并在适用时选择软件。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 소프트웨어 업데이트는 특정 폴딩 탑 모듈 전용입니다. 진단 도구는 하드웨어를 읽고 해당되는 경우 소프트웨어를 선택합니다.</tu>
+</tm>

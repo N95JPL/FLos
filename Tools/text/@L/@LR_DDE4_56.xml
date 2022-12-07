@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_DDE4_56">
+	<tu xmlns:lang="eng">Speed control status</tu>
+	<tu xmlns:lang="nld">Status van cruise control</tu>
+	<tu xmlns:lang="fra">Etat du régulateur de vitesse.</tu>
+	<tu xmlns:lang="deu">Status Geschwindigkeitsregelung</tu>
+	<tu xmlns:lang="ita">Stato controllo velocità</tu>
+	<tu xmlns:lang="jpn">スピード コントロール ステータス</tu>
+	<tu xmlns:lang="ptg">Estado do controlo de velocidade</tu>
+	<tu xmlns:lang="ptb">Estado do controle de velocidade</tu>
+	<tu xmlns:lang="rus">Состояние круиз-контроля</tu>
+	<tu xmlns:lang="esp">Estado del control de velocidad</tu>
+	<tu xmlns:lang="chs">速度控制状态</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤 상태</tu>
+</tm>

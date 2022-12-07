@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_EG_INFO_ECU">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required whenever an exhaust gas related component is replaced in the vehicle.  It is required to send the following information to the electronic control unit distance since the last replacement of emission relevant components.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig wanneer u in het voertuig een component m.b.t. de uitlaatgassen vervangt.  U dient de volgende informatie naar de elektronische regelmodule te sturen, de gereden afstand sinds de laatste keer dat de voor emissie van belang zijnde componenten vervangen zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé lorsqu'un composant relatif aux gaz d'échappement est remplacé sur le véhicule.  Vous devez envoyer les informations suivantes au module de commande électronique depuis le dernier remplacement des composants du système d'émission concernés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, wenn ein abgasrelevantes Bauteil im Fahrzeug ersetzt wird.  Die folgenden Informationen müssen an das elektronische Steuergerät übertragen werden: Laufleistung seit letztem Ersetzen von abgasrelevanten Bauteilen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta quando si sostituisce un componente relativo ai gas di scarico nel veicolo.  È necessario inviare la seguente informazione all'unità di comando elettronica - chilometraggio dall'ultima sostituzione di componenti relativi alle emissioni.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、車両のエキゾースト ガス関連のコンポーネントが交換されたときに必ず必要になります。  エレクトロニック コントロール ユニットに次の情報を送る必要があります - 前回のエミッション関連コンポーネント交換からの走行距離。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária sempre que se substitui um componente relacionado com os gases de escape no veículo.  É necessário enviar as informações seguintes para a unidade electrónica de controlo: distância desde a última substituição de componentes relevantes relacionados com emissões.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária sempre que um componente relacionado ao gás de escape é substituído no veículo.  Isso é necessário para enviar as seguintes informações para a distância da unidade de controle eletrônico desde a última substituição dos componentes de emissão pertinentes.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция необходима при замене компонентов системы выпуска отработавших газов.  Необходимо отправить следующие данные на электронный блок управления: расстояние, пройденное с момента последней замены компонентов, относящихся к системе снижения токсичности отработавших газов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse al sustituir un componente relacionado con los gases de escape.  Se necesita para enviar los datos siguientes a la unidad de control electrónico: kilometraje desde la última sustitución de componentes relacionados con el control de emisiones.</tu>
+	<tu
+    xmlns:lang="chs"
+  >只要更换了车辆中与废气相关的部件，即执行本程序。  要求向电子控制单元发送自上次更换与排放相关的部件以来的下述信息。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에서 배기 가스 관련 구성 요소를 교체할 때는 항상 이 루틴이 필요합니다.  배기 가스 관련 구성 요소를 마지막으로 교체한 이후로 다음 정보를 전자 컨트롤 유닛으로 보내야 합니다.</tu>
+</tm>

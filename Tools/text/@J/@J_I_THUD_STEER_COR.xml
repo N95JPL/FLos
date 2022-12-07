@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_THUD_STEER_COR">
+	<tu xmlns:lang="eng">Thud when steering around a corner</tu>
+	<tu xmlns:lang="nld">Stoot bij het door een bocht sturen</tu>
+	<tu xmlns:lang="fra">Bruit sourd en prise de virage</tu>
+	<tu xmlns:lang="deu">Dumpfer Schlag beim Lenken durch eine Kurve</tu>
+	<tu xmlns:lang="ita">Rumore sordo durante una svolta stretta</tu>
+	<tu xmlns:lang="jpn">コーナーでステアリングを切ったときのドシンという音</tu>
+	<tu xmlns:lang="ptg">Ruído surdo ao manobrar numa curva</tu>
+	<tu xmlns:lang="ptb">Baque ao dirigir em curvas</tu>
+	<tu xmlns:lang="rus">Стук при повороте</tu>
+	<tu xmlns:lang="esp">Ruido sordo al virar</tu>
+	<tu xmlns:lang="chs">拐角转弯时发出砰击声</tu>
+	<tu xmlns:lang="kor">코너 주위에서 스티어링 시 쿵 하는 소리</tu>
+</tm>

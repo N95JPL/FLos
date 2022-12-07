@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_VOICE_COMPONENT">
+	<tu xmlns:lang="eng">Voice activation components</tu>
+	<tu xmlns:lang="nld">Componenten spraakbesturing</tu>
+	<tu xmlns:lang="fra">Composants de l'activation vocale</tu>
+	<tu xmlns:lang="deu">Sprachsteuerungskomponenten</tu>
+	<tu xmlns:lang="ita">Componenti attivazione vocale</tu>
+	<tu xmlns:lang="jpn">音声作ｮコ・ポーネ・ト</tu>
+	<tu xmlns:lang="ptg">Componentes de activação por voz</tu>
+	<tu xmlns:lang="ptb">Componentes de ativação por voz</tu>
+	<tu xmlns:lang="rus">Компоненты системы голосового управления</tu>
+	<tu xmlns:lang="esp">Componentes del sistema de activación de voz</tu>
+	<tu xmlns:lang="chs">语音激活元件</tu>
+	<tu xmlns:lang="kor">음성 작동 구성 요소</tu>
+</tm>

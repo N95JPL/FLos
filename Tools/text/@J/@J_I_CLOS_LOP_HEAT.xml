@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CLOS_LOP_HEAT">
+	<tu xmlns:lang="eng">Closed loop heating.</tu>
+	<tu xmlns:lang="nld">Gesloten-lus-verwarming.</tu>
+	<tu xmlns:lang="fra">Chauffage en boucle fermée.</tu>
+	<tu xmlns:lang="deu">Heizen im geschlossenen Kreis.</tu>
+	<tu xmlns:lang="ita">Riscaldamento a circuito chiuso.</tu>
+	<tu xmlns:lang="jpn">クローズド ループ ヒーティング</tu>
+	<tu xmlns:lang="ptg">Aquecimento em circuito fechado.</tu>
+	<tu xmlns:lang="ptb">Aquecimento de circuito fechado.</tu>
+	<tu xmlns:lang="rus">Нагрев с замкнутым контуром.</tu>
+	<tu xmlns:lang="esp">Calefacción en lazo cerrado.</tu>
+	<tu xmlns:lang="chs">闭环加热。</tu>
+	<tu xmlns:lang="kor">폐쇄 루프 가열</tu>
+</tm>

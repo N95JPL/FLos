@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WIPERS_PROGRAMMED_WIPE">
+	<tu xmlns:lang="eng">Programmed wipe</tu>
+	<tu xmlns:lang="nld">Geprogrammeerd wissen.</tu>
+	<tu xmlns:lang="fra">Balayage programmé.</tu>
+	<tu xmlns:lang="deu">Programmiertes Wischen</tu>
+	<tu xmlns:lang="ita">Passata programmata</tu>
+	<tu xmlns:lang="jpn">プログラムド ワイプ</tu>
+	<tu xmlns:lang="ptg">Limpa-vidros, funcionamento programado</tu>
+	<tu xmlns:lang="ptb">Varredura programada</tu>
+	<tu xmlns:lang="rus">Программа работы стеклоочистителя</tu>
+	<tu xmlns:lang="esp">Barrido programado</tu>
+	<tu xmlns:lang="chs">已设置刮水</tu>
+	<tu xmlns:lang="kor">프로그래밍된 와이퍼 작동</tu>
+</tm>

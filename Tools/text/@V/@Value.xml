@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Value">
+	<tu xmlns:lang="eng">Measurement</tu>
+	<tu xmlns:lang="nld">Meting</tu>
+	<tu xmlns:lang="fra">Mesure</tu>
+	<tu xmlns:lang="deu">Messung</tu>
+	<tu xmlns:lang="ita">Misurazione</tu>
+	<tu xmlns:lang="jpn">計測</tu>
+	<tu xmlns:lang="ptg">Medição</tu>
+	<tu xmlns:lang="ptb">Medição</tu>
+	<tu xmlns:lang="rus">Измерение</tu>
+	<tu xmlns:lang="esp">Medición</tu>
+	<tu xmlns:lang="chs">测量</tu>
+	<tu xmlns:lang="kor">측정</tu>
+</tm>

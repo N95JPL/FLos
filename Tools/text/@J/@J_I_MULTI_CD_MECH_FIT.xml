@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MULTI_CD_MECH_FIT">
+	<tu xmlns:lang="eng">Multi CD mechanism is fitted.</tu>
+	<tu xmlns:lang="nld">Er is een mechanisme voor meerdere cd's gemonteerd.</tu>
+	<tu xmlns:lang="fra">Mécanisme multi-CD installé.</tu>
+	<tu xmlns:lang="deu">Mehrfach-CD-Mechanismus ist eingebaut.</tu>
+	<tu xmlns:lang="ita">Meccanismo multi CD in dotazione.</tu>
+	<tu xmlns:lang="jpn">マルチ CD メカニズム装備</tu>
+	<tu xmlns:lang="ptg">Está instalado mecanismo de troca-CDs.</tu>
+	<tu xmlns:lang="ptb">Mecanismo de CD múltiplo instalado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлен механизм проигрывания нескольких компакт-дисков.</tu>
+	<tu xmlns:lang="esp">Tiene mecanismo de CD múltiple.</tu>
+	<tu xmlns:lang="chs">多CD机构已安装。</tu>
+	<tu xmlns:lang="kor">멀티 CD 메커니즘이 장착되었습니다.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DiffVinStored$I">
+	<tu
+    xmlns:lang="eng"
+  >Different vehicle identification number (from vehicle configuration) already stored.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Ander voertuigidentificatienummer (uit de voertuigconfiguratie) reeds opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Numéro d'identification du véhicule différent (de la configuration du véhicule) déjà enregistré.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Andere Fahrzeug-Identifizierungsnummer (aus der Fahrzeugkonfiguration) schon gespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Già memorizzato un diverso numero di identificazione veicolo (da configurazione veicolo).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >異なった車両 ID ナンバーが (車両コンフィギュレーションから) すでに記録されています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Número diferente de identificação do veículo (da configuração do veículo) já armazenado. </tu>
+	<tu
+    xmlns:lang="ptb"
+  >Número de identificação do veículo diferente (da configuração do veículo) já armazenado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В памяти уже сохранен другой идентификационный номер автомобиля (от конфигурации автомобиля).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ya hay memorizado un número de identificación del vehículo distinto del de la configuración del vehículo.</tu>
+	<tu xmlns:lang="chs">已经存储了（与车辆配置）不同的车辆标识号。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 구성의 다른 차량 식별 번호가 이미 저장되어 있습니다.</tu>
+</tm>

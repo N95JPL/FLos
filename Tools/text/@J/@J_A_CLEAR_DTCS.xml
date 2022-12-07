@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_CLEAR_DTCS">
+	<tu xmlns:lang="eng">Clear diagnostic trouble codes</tu>
+	<tu xmlns:lang="nld">Wis de diagnosefoutcodes</tu>
+	<tu xmlns:lang="fra">Effacer les codes d'anomalie</tu>
+	<tu xmlns:lang="deu">Fehlercodes löschen</tu>
+	<tu xmlns:lang="ita">Cancellare i codici di guasto diagnostici</tu>
+	<tu xmlns:lang="jpn">診断トラブル コードをクリアしなさい</tu>
+	<tu xmlns:lang="ptg">Apague os códigos de avaria</tu>
+	<tu xmlns:lang="ptb">Limpe os código de problema de diagnóstico</tu>
+	<tu xmlns:lang="rus">Удалите диагностические коды неисправностей</tu>
+	<tu xmlns:lang="esp">Borrar los códigos de avería</tu>
+	<tu xmlns:lang="chs">清除故障诊断码</tu>
+	<tu xmlns:lang="kor">고장 진단 코드를 삭제하십시오.</tu>
+</tm>

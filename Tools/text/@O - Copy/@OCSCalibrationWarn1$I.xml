@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@OCSCalibrationWarn1$I">
+	<tu xmlns:lang="eng">Make sure no faults exist on the system as the occupancy sensor will not calibrate.</tu>
+	<tu xmlns:lang="nld">Zorg dat er geen fouten in het systeem aanwezig zijn, aangezien u de inzittendensensor dan niet kunt kalibreren.</tu>
+	<tu xmlns:lang="fra">Vérifiez qu'il n'existe aucun défaut dans le système sinon le capteur d'occupation ne s'étalonnera pas.</tu>
+	<tu xmlns:lang="deu">Sicherstellen, dass das System störungsfrei ist, da ansonsten der Belegungssensor nicht kalibriert werden kann.</tu>
+	<tu xmlns:lang="ita">Accertarsi che il sistema non presenti nessun guasto in quanto il sensore occupanti non si tarerà.</tu>
+	<tu xmlns:lang="jpn">乗員センサーのキャリブレーションが行えないため、システムに不具合がないことを確認しなさい。</tu>
+	<tu xmlns:lang="ptg">Certifique-se de que não existem avarias no sistema, caso contrário o sensor de ocupação não será calibrado.</tu>
+	<tu xmlns:lang="ptb">Certifique-se de que não haja falhas no sistema, pois, se houver, o sensor de ocupação não será calibrado.</tu>
+	<tu xmlns:lang="rus">Убедитесь в отсутствии неисправностей системы, так как датчик присутствия в салоне не выполнит калибровку.</tu>
+	<tu xmlns:lang="esp">Asegurarse de que no haya ninguna anomalía del sistema, o de lo contrario el sensor de ocupación no se calibrará.</tu>
+	<tu xmlns:lang="chs">确保该系统上不存在故障，否则乘载传感器将无法标定。</tu>
+	<tu xmlns:lang="kor">승객 감지 센서는 보정이 되지 않으므로 시스템에 고장이 없어야 합니다.</tu>
+</tm>

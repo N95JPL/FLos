@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROCK_WHEEL_BRAKE_CYCLE">
+	<tu
+    xmlns:lang="eng"
+  >This will involve rocking the wheel whilst the Diagnostic Tool instructs the ABS system to execute a braking cycle which should result in the locking of the wheel for several seconds followed by a releasing of the wheel.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hiervoor zult u het wiel heen en weer moeten bewegen terwijl het diagnosesysteem het ABS-systeem een remcyclus laat uitvoeren, waardoor het wiel eerst een paar seconden geblokkeerd wordt en daarna weer wordt losgezet.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ceci suppose de faire basculer la roue au moment où l'outil de diagnostic demande au système ABS d'effectuer un cycle de freinage, ce qui doit provoquer le blocage de la roue pendant plusieurs secondes suivi de son relâchement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hierzu muss das Rad bewegt werden, während das Diagnosegerät dem ABS befiehlt, einen Bremszyklus durchzuführen, was zu einem Blockieren des Rades für mehrere Sekunden mit anschließender Freigabe führen sollte.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa operazione richiede di far oscillare la ruota mentre lo strumento diagnostico comanda il sistema ABS per eseguire un ciclo di frenatura che dovrebbe causare il bloccaggio della ruota per diversi secondi, seguito dal suo rilascio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これにより、診断ツールが ABS システムに対してブレーキ サイクルの実行を指示すると同時にホイールのロックを引き起こします。ホイールはブレーキ サイクルによって数秒間ロックされたあと結果的にリリースされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Isto implica que a roda abane durante a execução de um ciclo de travagem pelo sistema de travagem antibloqueio (ABS) instruído pela ferramenta de diagnóstico e que deverá resultar no bloqueio da roda durante vários segundos, seguido de um soltar da roda.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso envolve girar a roda enquanto a Ferramenta de Diagnóstico instrui o sistema ABS a executar um ciclo de frenagem, que deve resultar no travamento da roda durante vários segundos, seguido por uma liberação da roda.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль необходимо раскачивать, пока диагностическое устройство будет передавать в систему ABS команду выполнения цикла торможения, что должно привести к блокировке колеса на несколько секунд, а затем - к отключению блокировки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para esto habrá que mover la rueda hacia un lado y otro mientras la herramienta de diagnóstico ordena al sistema ABS que ejecute un ciclo de frenado que debería producir el bloqueo de la rueda durante varios segundos, seguido del desbloqueo de la misma.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这将包括：在诊断工具指示 ABS 系统执行制动循环时摇晃车轮。制动循环可使得车轮锁闭几秒钟，随后释放车轮。</tu>
+	<tu
+    xmlns:lang="kor"
+  >진단 도구가 ABS 시스템에 제동 사이클을 실행하여 몇 초 동안 휠을 잠근 후에 해제하도록 안내하지만, 여기에는 휠을 흔드는 동작도 포함됩니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_SPEED_SWITCHES">
+	<tu xmlns:lang="eng">Speed control switches</tu>
+	<tu xmlns:lang="nld">Kruissnelheidsregeling schakelaars</tu>
+	<tu xmlns:lang="fra">Contacteurs commande de croisiere</tu>
+	<tu xmlns:lang="deu">Geschwindigkeitsregelschalter</tu>
+	<tu xmlns:lang="ita">Interruttori comando velocità di crociera</tu>
+	<tu xmlns:lang="jpn">クルーズ コ・トロール スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptores do controlo da velocidade</tu>
+	<tu xmlns:lang="ptb">Interruptores de controle de velocidade</tu>
+	<tu xmlns:lang="rus">Выключатели системы управления скоростью движения</tu>
+	<tu xmlns:lang="esp">Mandos del control de velocidad</tu>
+	<tu xmlns:lang="chs">速度控制开关</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤 스위치</tu>
+</tm>

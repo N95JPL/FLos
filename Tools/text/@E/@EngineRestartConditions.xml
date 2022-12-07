@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineRestartConditions">
+	<tu xmlns:lang="eng">Engine restart conditions</tu>
+	<tu xmlns:lang="nld">Herstartvoorwaarden motor</tu>
+	<tu xmlns:lang="fra">Conditions de redémarrage du moteur</tu>
+	<tu xmlns:lang="deu">Motor-Neustart-Bedingungen</tu>
+	<tu xmlns:lang="ita">Condizioni di riavvio del motore</tu>
+	<tu xmlns:lang="jpn">エンジンの再始動条件</tu>
+	<tu xmlns:lang="ptg">Condições de arranque do motor</tu>
+	<tu xmlns:lang="ptb">Condições de nova partida do motor</tu>
+	<tu xmlns:lang="rus">Условия повторного запуска двигателя</tu>
+	<tu xmlns:lang="esp">Condiciones de arranque del motor</tu>
+	<tu xmlns:lang="chs">发动机重新起动条件</tu>
+	<tu xmlns:lang="kor">엔진 재시동 상태</tu>
+</tm>

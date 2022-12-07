@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KeyNo$I">
+	<tu xmlns:lang="eng">Key  %d.</tu>
+	<tu xmlns:lang="nld">Sleutel  %d.</tu>
+	<tu xmlns:lang="fra">Clé  %d.</tu>
+	<tu xmlns:lang="deu">Schlüssel %d.</tu>
+	<tu xmlns:lang="ita">Chiave %d.</tu>
+	<tu xmlns:lang="jpn">キー %d</tu>
+	<tu xmlns:lang="ptg">Chave  %d.</tu>
+	<tu xmlns:lang="ptb">Chave  %d.</tu>
+	<tu xmlns:lang="rus">Ключ %d.</tu>
+	<tu xmlns:lang="esp">Llave  %d.</tu>
+	<tu xmlns:lang="chs">钥匙 %d。</tu>
+	<tu xmlns:lang="kor">키 %d</tu>
+</tm>

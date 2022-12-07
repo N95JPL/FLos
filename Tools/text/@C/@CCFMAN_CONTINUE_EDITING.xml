@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_CONTINUE_EDITING">
+	<tu xmlns:lang="eng">Do you wish to continue editing parameters?</tu>
+	<tu xmlns:lang="nld">Wilt u verdergaan met het bewerken van de parameters?</tu>
+	<tu xmlns:lang="fra">Souhaitez-vous continuer à modifier les paramètres ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Möchten Sie mit der Bearbeitung von Parametern fortfahren?</tu>
+	<tu xmlns:lang="ita">Continuare la procedura di modifica dei parametri?</tu>
+	<tu xmlns:lang="jpn">パラメータの編集を続行しますか？</tu>
+	<tu xmlns:lang="ptg">Deseja continuar a editar parâmetros?</tu>
+	<tu xmlns:lang="ptb">Deseja continuar editando os parâmetros?</tu>
+	<tu xmlns:lang="rus">Продолжить редактирование параметров?</tu>
+	<tu xmlns:lang="esp">¿Desea seguir modificando parámetros?</tu>
+	<tu xmlns:lang="chs">您希望继续编辑参数吗？</tu>
+	<tu xmlns:lang="kor">매개 변수를 계속 편집하시겠습니까?</tu>
+</tm>

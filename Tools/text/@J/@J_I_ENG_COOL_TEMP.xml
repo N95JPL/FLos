@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENG_COOL_TEMP">
+	<tu xmlns:lang="eng">Engine coolant temperature</tu>
+	<tu xmlns:lang="nld">Motor koelvloeistof temperatuur</tu>
+	<tu xmlns:lang="fra">Température du liquide de refroidissement moteur</tu>
+	<tu xmlns:lang="deu">Motorkühlmitteltemperatur</tu>
+	<tu xmlns:lang="ita">Temperatura refrigerante motore</tu>
+	<tu xmlns:lang="jpn">エンジン冷却水温</tu>
+	<tu xmlns:lang="ptg">Temperatura do líquido de arrefecimento do motor</tu>
+	<tu xmlns:lang="ptb">Temperatura do líquido de arrefecimento do motor</tu>
+	<tu xmlns:lang="rus">Температура охлаждающей жидкости</tu>
+	<tu xmlns:lang="esp">Temperatura del refrigerante del motor</tu>
+	<tu xmlns:lang="chs">发动机冷却液温度</tu>
+	<tu xmlns:lang="kor">엔진 냉각수 온도</tu>
+</tm>

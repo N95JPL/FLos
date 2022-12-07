@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_AC_FITTED">
+	<tu xmlns:lang="eng">Climate control.</tu>
+	<tu xmlns:lang="nld">Klimaatregeling</tu>
+	<tu xmlns:lang="fra">Climatisation</tu>
+	<tu xmlns:lang="deu">Klimaregelung</tu>
+	<tu xmlns:lang="ita">Climatizzatore</tu>
+	<tu xmlns:lang="jpn">エア コンディショニング</tu>
+	<tu xmlns:lang="ptg">Comando da climatização.</tu>
+	<tu xmlns:lang="ptb">Controle de temperatura.</tu>
+	<tu xmlns:lang="rus">Управление микроклиматом.</tu>
+	<tu xmlns:lang="esp">Climatización</tu>
+	<tu xmlns:lang="chs">气候控制。</tu>
+	<tu xmlns:lang="kor">실내 온도 조절 장치</tu>
+</tm>

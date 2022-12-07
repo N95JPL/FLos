@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRACK_05">
+	<tu xmlns:lang="eng">Track 5</tu>
+	<tu xmlns:lang="nld">Track 5</tu>
+	<tu xmlns:lang="fra">Piste 5.</tu>
+	<tu xmlns:lang="deu">Spur 5</tu>
+	<tu xmlns:lang="ita">Brano 5</tu>
+	<tu xmlns:lang="jpn">トラック 5</tu>
+	<tu xmlns:lang="ptg">Faixa 5</tu>
+	<tu xmlns:lang="ptb">Faixa 5</tu>
+	<tu xmlns:lang="rus">Дорожка 5</tu>
+	<tu xmlns:lang="esp">Pista 5</tu>
+	<tu xmlns:lang="chs">轨迹 5</tu>
+	<tu xmlns:lang="kor">트랙 5</tu>
+</tm>

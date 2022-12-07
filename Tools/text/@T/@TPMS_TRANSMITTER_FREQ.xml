@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TPMS_TRANSMITTER_FREQ">
+	<tu xmlns:lang="eng">Tire pressure monitor system transmitter frequency.</tu>
+	<tu xmlns:lang="nld">Zenderfrequentie van bandenspanningbewakingssysteem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fréquence de l'émetteur du système de contrôle de pression des pneus.</tu>
+	<tu xmlns:lang="deu">Senderfrequenz Reifendruck-Überwachungssystem.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Frequenza trasmettitore sistema di monitoraggio pressione pneumatici.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >タイヤ プレッシャ モニタリング システム トランスミッタの周波数</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Frequência do transmissor do sistema de monitorização da pressão dos pneus.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Frequência do transmissor do sistema do monitor de pressão dos pneus</tu>
+	<tu xmlns:lang="rus">Частота передатчика системы контроля давления в шинах.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Frecuencia del transmisor del sistema de detección de la presión de los neumáticos.</tu>
+	<tu xmlns:lang="chs">轮胎压力监测器系统发射机频率。</tu>
+	<tu xmlns:lang="kor">타이어 공기압 모니터 시스템 송신기 주파수.</tu>
+</tm>

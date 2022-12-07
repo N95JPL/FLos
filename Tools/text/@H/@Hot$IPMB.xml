@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Hot$IPMB">
+	<tu xmlns:lang="eng">Image processing module B</tu>
+	<tu xmlns:lang="nld">Beeldverwerkingsmodule B</tu>
+	<tu xmlns:lang="fra">Module de traitement d'image B</tu>
+	<tu xmlns:lang="deu">Bildverarbeitungsmodul 'B'</tu>
+	<tu xmlns:lang="ita">Modulo elaborazione immagini B</tu>
+	<tu xmlns:lang="jpn">イメージ処理モジュール B</tu>
+	<tu xmlns:lang="ptg">Módulo de processamento de imagem 'B'</tu>
+	<tu xmlns:lang="ptb">Módulo B de processamento de imagem</tu>
+	<tu xmlns:lang="rus">Блок 'В' обработки изображений</tu>
+	<tu xmlns:lang="esp">Módulo 'B' de procesamiento de imágenes</tu>
+	<tu xmlns:lang="chs">图像处理模块'B'</tu>
+	<tu xmlns:lang="kor">이미지 처리 모듈 B</tu>
+</tm>

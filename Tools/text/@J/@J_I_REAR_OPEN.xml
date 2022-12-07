@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_OPEN">
+	<tu xmlns:lang="eng">Rear opening</tu>
+	<tu xmlns:lang="nld">Opening achter</tu>
+	<tu xmlns:lang="fra">Ouverture arrière</tu>
+	<tu xmlns:lang="deu">Öffnung hinten</tu>
+	<tu xmlns:lang="ita">Apertura posteriore</tu>
+	<tu xmlns:lang="jpn">リア開口部</tu>
+	<tu xmlns:lang="ptg">Abertura traseira</tu>
+	<tu xmlns:lang="ptb">Abertura traseira</tu>
+	<tu xmlns:lang="rus">Задние - открывание</tu>
+	<tu xmlns:lang="esp">Apertura trasera</tu>
+	<tu xmlns:lang="chs">后开口</tu>
+	<tu xmlns:lang="kor">후방 열기</tu>
+</tm>

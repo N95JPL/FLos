@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DSP">
+	<tu xmlns:lang="eng">Audio digital signal processing module</tu>
+	<tu xmlns:lang="nld">Module voor digitale signaalverwerking van audio</tu>
+	<tu xmlns:lang="fra">Module de traitement du signal numérique audio</tu>
+	<tu xmlns:lang="deu">Digitales Signalverarbeitungsmodul - Audiosystem</tu>
+	<tu xmlns:lang="ita">Modulo processore segnali audio digitali</tu>
+	<tu xmlns:lang="jpn">オーディオ デジタル シグナル プロセッサ モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de processamento do sinal digital de áudio</tu>
+	<tu xmlns:lang="ptb">Módulo de processamento do sinal digital de áudio</tu>
+	<tu xmlns:lang="rus">Блок обработки цифрового аудиосигнала</tu>
+	<tu xmlns:lang="esp">Módulo procesador de señales digitales de audio</tu>
+	<tu xmlns:lang="chs">音频数字信号处理模块</tu>
+	<tu xmlns:lang="kor">오디오 디지털 신호 처리 모듈</tu>
+</tm>

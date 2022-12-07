@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUEL_HEATER_MOD_SW">
+	<tu xmlns:lang="eng">Fuel fired heater module software</tu>
+	<tu
+    xmlns:lang="nld"
+  >Software van regelmodule van op brandstof werkende hulpverwarming</tu>
+	<tu
+    xmlns:lang="fra"
+  >Logiciel du module du réchauffeur à combustion de carburant</tu>
+	<tu
+    xmlns:lang="deu"
+  >Steuergeräte-Software - kraftstoffbetriebene Zusatzheizung</tu>
+	<tu xmlns:lang="ita">Software modulo riscaldatore alimentato a carburante</tu>
+	<tu xmlns:lang="jpn">フューエル燃焼ヒーター モジュール ソ\フトウェア</tu>
+	<tu xmlns:lang="ptg">Software do módulo do aquecedor a combustível</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Software do módulo do aquecedor por queima de combustível</tu>
+	<tu xmlns:lang="rus">Программное обеспечение блока топливного подогревателя</tu>
+	<tu xmlns:lang="esp">Software del calefactor por quemado de combustible</tu>
+	<tu xmlns:lang="chs">燃油型加热器模块软件</tu>
+	<tu xmlns:lang="kor">연료 연소식 히터 모듈 소프트웨어</tu>
+</tm>

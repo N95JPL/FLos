@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IDLE_SPEED_ADJUST_3">
+	<tu
+    xmlns:lang="eng"
+  >Carry out the adjustments in the following order to find the optimum value to suit the vehicle; 10, -10, 20, -20, 30, 40, etc.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer de afstellingen uit in deze volgorde om de optimale waarde voor het voertuig te vinden: , -10, , -20, , , enz.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Effectuez les réglages dans l'ordre suivant pour trouver la valeur optimale pour le véhicule : , -10, , -20, , , etc.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einstellungen in der folgenden Reihe vornehmen, um den optimal für das Fahrzeug geeigneten Wert zu finden: , -10, , -20, , , usw.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Eseguire le regolazioni nell'ordine seguente per individuare il valore ottimale per il veicolo; , -10, , -20, ,  e così via.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の順序で調整を行い車両に最適な数値を見つけなさい；+10、-10、+20、-20、+30、+40、など。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique se sai algum som de cada uma das colunas de som.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Execute os ajustes na seguinte ordem para encontrar o valor ideal para se adequar ao veículo; 10, -10, 20, -20, 30, 40, etc.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполните регулировку в следующем порядке для установления оптимального значения, соответствующего автомобилю ; +10, -10, +20, -20, +30, +40, и т.д.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Realizar los ajustes en el orden siguiente a fin de obtener el valor óptimo para el vehículo: , -10, , -20, , , etc.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'按下列次序进行调整，以找出适合车辆的最佳值；＋10，-10，＋20，-20，＋30，＋40 等。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >10, -10, 20, -20, 30, 40 등의 순서대로 조정을 수행하여 차량에 적합한 최적의 값을 찾으십시오.</tu>
+</tm>

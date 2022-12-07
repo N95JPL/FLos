@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DOOR_REM_SIN_AUTO">
+	<tu xmlns:lang="eng">Door remote single channel  -  With autostart</tu>
+	<tu
+    xmlns:lang="nld"
+  >Enkelkanaals afstandsbediening van portier  -  Met autostart</tu>
+	<tu
+    xmlns:lang="fra"
+  >Télécommande de porte simple canal  -  Avec autodémarrage</tu>
+	<tu xmlns:lang="deu">Einfachkanal Tür-Fernbedienung  -  Mit Automatikstart</tu>
+	<tu
+    xmlns:lang="ita"
+  >Telecomando portiere monocanale  -  Con avvio automatico</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ドア リモート シングル チャンネル  －  オートスタート装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Canal único do comando à distância das portas  -  Com arranque automático</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Canal único remoto das portas  -  Com partida automática</tu>
+	<tu
+    xmlns:lang="rus"
+  >Одноканальное дистанционное управление дверями  -  С автозапуском</tu>
+	<tu
+    xmlns:lang="esp"
+  >Mando a distancia de un solo canal  -  Con arranque automático</tu>
+	<tu xmlns:lang="chs">单通道车门遥控  -  带自动启动</tu>
+	<tu xmlns:lang="kor">도어 원격 싱글 채널  -  자동 시작 기능 포함</tu>
+</tm>

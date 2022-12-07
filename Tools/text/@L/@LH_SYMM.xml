@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LH_SYMM">
+	<tu xmlns:lang="eng">Left hand symmetry</tu>
+	<tu xmlns:lang="nld">Symmetrie voor stuur links</tu>
+	<tu xmlns:lang="fra">Symétrie côté gauche</tu>
+	<tu xmlns:lang="deu">Linksseitige Symmetrie</tu>
+	<tu xmlns:lang="ita">Simmetria lato sinistro</tu>
+	<tu xmlns:lang="jpn">左のシンメトリー</tu>
+	<tu xmlns:lang="ptg">Simetria do lado esquerdo</tu>
+	<tu xmlns:lang="ptb">Simetria do lado esquerdo</tu>
+	<tu xmlns:lang="rus">Симметрия слева</tu>
+	<tu xmlns:lang="esp">Simetría izquierda</tu>
+	<tu xmlns:lang="chs">左侧对称性</tu>
+	<tu xmlns:lang="kor">좌측 대칭</tu>
+</tm>

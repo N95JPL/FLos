@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNIT_SET_09">
+	<tu
+    xmlns:lang="eng"
+  >Temperature:  °C  -  Clock:  12 hour  -  Distance:  km  -  Fuel:  liter/km</tu>
+	<tu
+    xmlns:lang="nld"
+  >Temperatuur:  °C   -  Klok:  12 uur   -  Afstand:  km   -  Brandstof:  liter/km</tu>
+	<tu
+    xmlns:lang="fra"
+  >Température :  °C   -  Horloge :  12 heures   -  Distance :  km   -  Carburant :  litre/km</tu>
+	<tu
+    xmlns:lang="deu"
+  >Temperatur:  °C   -  Uhr:  12 Stunden   -  Distanz:  km   -  Kraftstoff:  Liter/km</tu>
+	<tu
+    xmlns:lang="ita"
+  >Temperatura:  °C  -  Orologio:  12 ore  -  Distanza:  km  -  Carburante:  litri/km</tu>
+	<tu
+    xmlns:lang="jpn"
+  >温度：  °C  －  時計：  12 時間  －  距離：  km  －  燃費：  L／km</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temperatura:  °C  -  Relógio:  12 horas  -  Distância:  km  -  Combustível:  litro/km</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Temperatura: °C  -  Relógio: 12 horas  -  Distância: km  -  Combustível: litro/km</tu>
+	<tu
+    xmlns:lang="rus"
+  >Температура:  °C   -  Часы: 12-час. формат   -  Пробег:  км   -  Расход топлива:  л/км</tu>
+	<tu
+    xmlns:lang="esp"
+  >Temperatura:  °C  -  Reloj:  12 horas  -  Distancia:  km  -  Combustible:  litro/Km</tu>
+	<tu
+    xmlns:lang="chs"
+  >温度：  °C   -  时钟：  12 小时  -  距离：  公里  -  燃油：  升/公里</tu>
+	<tu
+    xmlns:lang="kor"
+  >온도: °C  -  시계: 12시간  -  거리: km  -  연료: 리터/km</tu>
+</tm>

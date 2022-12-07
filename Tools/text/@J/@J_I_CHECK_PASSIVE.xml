@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHECK_PASSIVE">
+	<tu
+    xmlns:lang="eng"
+  >This test will check the friendly passive immobilization system. This test is only valid for vehicles which have passive immobilization enabled as a market option.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze test zal het passieve startblokkeringssysteem controleren. Deze test geldt alleen voor voertuigen waarbij de passieve startblokkering als marktoptie is ingeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce test va vérifier le système d'immobilisation passive convivial. Ce test n'est valable que pour les véhicules munis d'une immobilisation passive activée comme option de vente.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Test überprüft das Wegfahrsperrensystem. Dieser Test ist nur für Fahrzeuge bestimmt, bei denen die passive Wegfahrsperre als marktspezifische Option aktiviert ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa prova controlla il sistema di immobilizzazione passiva semplificata. Questa prova è valida solo per i veicoli con immobilizzazione passiva attivata come opzione di mercato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストではフレンドリー パッシブ イモビライゼーション システムがチェックされます。このテストは市場オプションとしてパッシブ イモビライゼーションが作動可に設定されている車両にのみ有効です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este teste verificará o sistema de imobilização passivo amigável. Este teste só é válido para veículos com sistema de imobilização passivo activado como opção de mercado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este teste verificará o sistema de imobilização amigável passivo. Este teste é válido somente para veículos que têm a imobilização passiva ativada como uma opção de mercado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе данного теста выполняется проверка пассивной системы блокировки запуска двигателя. Эта проверка выполняется только на автомобилях, оснащенных системой пассивного включения блокировки в качестве стандартной функции на конкретном рынке.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta prueba comprobará el sistema de inmovilización pasiva amistosa Esta prueba es válida solamente para vehículos que tengan habilitada la inmovilización pasiva como opción del mercado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一测试将检查友好被动防盗锁止系统。这一测试只对已启用被动防盗锁止系统（可选的市场选项）的车辆有效。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 테스트에서 친숙한 수동적 이모빌라이제이션 시스템을 점검합니다. 이 테스트는 수동적 이모빌라이제이션을 시장 옵션으로 사용하는 차량에만 유효합니다.</tu>
+</tm>

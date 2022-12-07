@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EBLOCK_HEAT">
+	<tu xmlns:lang="eng">Engine block heater</tu>
+	<tu xmlns:lang="nld">Motorblokverwarming</tu>
+	<tu xmlns:lang="fra">Réchauffeur du bloc-moteur</tu>
+	<tu xmlns:lang="deu">Motorblockheizung</tu>
+	<tu xmlns:lang="ita">Riscaldatore blocco motore</tu>
+	<tu xmlns:lang="jpn">エンジン ブロック ヒーター</tu>
+	<tu xmlns:lang="ptg">Aquecedor do bloco do motor</tu>
+	<tu xmlns:lang="ptb">Aquecedores do bloco do motor</tu>
+	<tu xmlns:lang="rus">Встраиваемый подогреватель двигателя</tu>
+	<tu xmlns:lang="esp">Calefactor del bloque motor</tu>
+	<tu xmlns:lang="chs">发动机缸体加热器</tu>
+	<tu xmlns:lang="kor">엔진 블록 히터</tu>
+</tm>

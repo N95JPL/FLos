@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MODULE_ORIGINAL_REFIT">
+	<tu
+    xmlns:lang="eng"
+  >Re-fit the control module originally fitted to the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Monteer de regelmodule van de aandrijflijn die oorspronkelijk in het voertuig was gemonteerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Reposez le module de commande qui était à l'origine sur le véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das ursprünglich in das Fahrzeug eingebaute Steuergerät wieder einbauen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Rimontare il modulo di comando originariamente installato sul veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両に元々取り付けられていたコントロール モジュールを再取り付けしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Torne a montar o módulo de comando originalmente montado no veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Encaixe novamente o módulo de controle originalmente instalado no veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Переустановите блок управления, изначально установленный на автомобиле.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Volver a montar el módulo de control que estaba originalmente montado en el vehículo.</tu>
+	<tu xmlns:lang="chs">装上车辆原先装配的控制模块。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에 원래 장착되어 있었던 컨트롤 모듈을 다시 장착하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HOTSPOT_VVT">
+	<tu xmlns:lang="eng">Variable valve timing</tu>
+	<tu xmlns:lang="nld">Variabele kleptiming</tu>
+	<tu xmlns:lang="fra">Distribution variable</tu>
+	<tu xmlns:lang="deu">Variable Ventilsteuerung</tu>
+	<tu xmlns:lang="ita">Fasatura variabile valvole</tu>
+	<tu xmlns:lang="jpn">可変バルブ タイミング</tu>
+	<tu xmlns:lang="ptg">Comando variável das válvulas</tu>
+	<tu xmlns:lang="ptb">Regulagem de válvula variável</tu>
+	<tu xmlns:lang="rus">Механизм изменения фаз газораспределения</tu>
+	<tu xmlns:lang="esp">Distribución variable</tu>
+	<tu xmlns:lang="chs">可变气门正时</tu>
+	<tu xmlns:lang="kor">가변 밸브 타이밍</tu>
+</tm>

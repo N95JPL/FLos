@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TILT_VOLUMETRIC_SENSOR_NO">
+	<tu xmlns:lang="eng">No tilt/volumetric sensor</tu>
+	<tu xmlns:lang="nld">Geen kantelsensor/volumetrische sensor.</tu>
+	<tu xmlns:lang="fra">Pas de capteur d'inclinaison/volumétrique.</tu>
+	<tu xmlns:lang="deu">Kein Neigungssensor/Innenraumüberwachungs-Sensor</tu>
+	<tu xmlns:lang="ita">Sensore non inclinazione/volumetrico</tu>
+	<tu xmlns:lang="jpn">チルト／ボリメトリック センサーなし</tu>
+	<tu xmlns:lang="ptg">Sem sensor de inclinação/volumétrico</tu>
+	<tu xmlns:lang="ptb">Sem sensor de inclinação/volumétrico</tu>
+	<tu xmlns:lang="rus">Кренометр/объемный датчик отсутствуют</tu>
+	<tu xmlns:lang="esp">Sin sensor de inclinación/protección volumétrica</tu>
+	<tu xmlns:lang="chs">无倾斜/容积传感器</tu>
+	<tu xmlns:lang="kor">틸트/형체 감지 센서 없음</tu>
+</tm>

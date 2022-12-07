@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_INTRO_5_1">
+	<tu xmlns:lang="eng">Passive (minimum sensitivity)</tu>
+	<tu xmlns:lang="nld">passief (minimum gevoeligheid)</tu>
+	<tu xmlns:lang="fra">Passif (sensibilité minimale)</tu>
+	<tu xmlns:lang="deu">Passiv (minimale Sensitivität)</tu>
+	<tu xmlns:lang="ita">Passiva (sensibilità minima)</tu>
+	<tu xmlns:lang="jpn">パッシブ (最低感度)</tu>
+	<tu xmlns:lang="ptg">Passivo (sensibilidade mínima)</tu>
+	<tu xmlns:lang="ptb">MIN: sensibilidade mínima.</tu>
+	<tu xmlns:lang="rus">Пассивная (минимальная чувствительность)</tu>
+	<tu xmlns:lang="esp">Pasiva (sensibilidad mínima)</tu>
+	<tu xmlns:lang="chs">被动的（最小敏感度）</tu>
+	<tu xmlns:lang="kor">수동형(최소 감도)</tu>
+</tm>

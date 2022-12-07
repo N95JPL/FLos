@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SIZE_KB">
+	<tu xmlns:lang="eng">Size (KB).</tu>
+	<tu xmlns:lang="nld">Grootte (kB).</tu>
+	<tu xmlns:lang="fra">Taille (Ko).</tu>
+	<tu xmlns:lang="deu">Größe (kB).</tu>
+	<tu xmlns:lang="ita">Dimensione (KB).</tu>
+	<tu xmlns:lang="jpn">サイズ (KB)</tu>
+	<tu xmlns:lang="ptg">Tamanho (KB).</tu>
+	<tu xmlns:lang="ptb">Tamanho (KB).</tu>
+	<tu xmlns:lang="rus">Размер (Кб).</tu>
+	<tu xmlns:lang="esp">Tamaño (KB).</tu>
+	<tu xmlns:lang="chs">大小 (KB)。</tu>
+	<tu xmlns:lang="kor">크기(KB)</tu>
+</tm>

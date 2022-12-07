@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_OVER_TIME">
+	<tu
+    xmlns:lang="eng"
+  >Pilot correction learning at service and at engine-on is designed to learn changes to injectors over time, so only allows incremental changes from previously-learned values.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het inleren van de pilot-correctie tijdens bedrijf en bij lopende motor is zodanig ontworpen dat het de wijzigingen in de injectors geleidelijk inleert en biedt dus slechts stapsgewijze wijzigingen van eerder ingeleerde waarden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'apprentissage de la correction pilote en entretien et au démarrage est conçu pour apprendre les variations des injecteurs dans le temps, et ne permet donc que des changements incrémentiels à partir des valeurs apprises précédemment.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Lernverfahren Voreinspritzungskorrektur bei der Inspektion und beim Motorstart dient dazu, die Änderungen an Einspritzventilen über die Zeit zu erlernen, so dass nur schrittweise Änderungen von zuvor erlernten Werten möglich sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'apprendimento correzione pilota durante il servizio e a motore acceso è concepito per apprendere le variazioni degli iniettori nel corso del tempo, per cui consente solo variazioni incrementali rispetto ai valori appresi precedentemente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >修理時およびエンジン オン時のパイロット補正学習は、時間経過におけるインジェクタの変化を学習するように設計されています。したがって前回学習した数値からの増大分の変化のみを受け入れます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A programação da correcção piloto em assistência e com o motor ligado foi concebida para programar alterações ocorridas nos injectores ao longo do tempo, por isso só permite alterações em incrementos a partir de valores previamente programados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A aprendizagem de correção do piloto de manutenção e de motor ligado foi projetada para aprender as mudanças para os injetores ao longo do tempo, permitindo somente alterações incrementais de valores previamente aprendidos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Значения контрольной корректировки, установливаемые при пуске двигателя или при эксплуатации, служат для отслеживания изменений характеристик форсунок с течением времени, обеспечивая исключительно последовательное их изменение относительно ранее запрограммированных значений.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El aprendizaje de corrección piloto en servicio y al encender el motor está diseñado para que se aprendan los cambios surtidos en los inyectores con el tiempo, de modo que solo permite cambios incrementales partiendo de valores previamente aprendidos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >维修以及发动机启动时的试验性校正记忆是用于记忆喷油器随时间发生的变化，从而仅允许在原记忆值基础上的递增变化。</tu>
+	<tu
+    xmlns:lang="kor"
+  >서비스 및 엔진 가동 시의 파일럿 보정 학습은 시간의 경과에 따른 인젝터의 변화를 학습할 목적으로 고안된 것이므로, 이전에 학습한 값으로부터 점진적인 변화만 허용됩니다.</tu>
+</tm>

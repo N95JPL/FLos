@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUX_LAMP_BUTTON">
+	<tu xmlns:lang="eng">Auxiliary lamps  -  Button controlled</tu>
+	<tu xmlns:lang="nld">Hulpverlichting   -  Regeling via knop</tu>
+	<tu xmlns:lang="fra">Feux auxiliaires   -  Commandé par bouton</tu>
+	<tu xmlns:lang="deu">Zusatzscheinwerfer   -  Über Taste gesteuert</tu>
+	<tu xmlns:lang="ita">Luci ausiliarie  -  Con controllo a pulsante</tu>
+	<tu xmlns:lang="jpn">補助ランプ  －  ボタン制御</tu>
+	<tu xmlns:lang="ptg">Luzes auxiliares  -  Controlo por botão</tu>
+	<tu xmlns:lang="ptb">Lâmpadas auxiliares  -  Controlada por botão</tu>
+	<tu xmlns:lang="rus">Дополнительные лампы  -  Управление кнопкой</tu>
+	<tu xmlns:lang="esp">Luces auxiliares  -  Botón controlado</tu>
+	<tu xmlns:lang="chs">辅助灯  -  受控按钮</tu>
+	<tu xmlns:lang="kor">보조 램프  -  버튼 제어식</tu>
+</tm>

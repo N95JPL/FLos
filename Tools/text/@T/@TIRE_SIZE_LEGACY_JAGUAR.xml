@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TIRE_SIZE_LEGACY_JAGUAR">
+	<tu xmlns:lang="eng">Jaguar tire size</tu>
+	<tu xmlns:lang="nld">Jaguar-bandenmaat</tu>
+	<tu xmlns:lang="fra">Dimensions des pneus Jaguar.</tu>
+	<tu xmlns:lang="deu">Jaguar Reifengröße</tu>
+	<tu xmlns:lang="ita">Dimensioni pneumatico Jaguar</tu>
+	<tu xmlns:lang="jpn">Jaguar タイヤ サイズ</tu>
+	<tu xmlns:lang="ptg">Tamanho dos pneus Jaguar</tu>
+	<tu xmlns:lang="ptb">Tamanho do pneu Jaguar</tu>
+	<tu xmlns:lang="rus">Размер шин Jaguar</tu>
+	<tu xmlns:lang="esp">Tamaño de neumáticos de Jaguar</tu>
+	<tu xmlns:lang="chs">Jaguar轮胎尺寸</tu>
+	<tu xmlns:lang="kor">Jaguar 타이어 규격</tu>
+</tm>

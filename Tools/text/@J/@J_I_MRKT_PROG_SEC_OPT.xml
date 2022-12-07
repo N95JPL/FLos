@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MRKT_PROG_SEC_OPT">
+	<tu
+    xmlns:lang="eng"
+  >Market program security options -  default settings can be changed if required.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Beveiligingsopties van marktprogramma: standaardinstellingen kunnen naar wens worden gewijzigd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Options de sécurité à programmer pour chaque marché - les réglages par défaut peuvent être modifiés le cas échéant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherheitsoptionen Absatzmarktprogrammierung - Vorgabeeinstellungen können bei Bedarf geändert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Opzioni sicurezza programma mercato - se richiesto, le impostazioni predefinite possono essere modificate.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >市場プログラム セキュリティ オプション - 必要に応じてデフォルト設定を変更することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Opções de segurança do programa do mercado:  as predefinições podem ser alteradas, se o desejar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Opções de mercado para segurança do programa - as configurações padrão podem ser alteradas se necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Охранные опции для целевого рынка - значения по умолчанию можно при необходимости изменить.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Opciones de seguridad del programa para el mercado: se puede cambiar la configuración predeterminada si es necesario.</tu>
+	<tu xmlns:lang="chs">市场编程防盗选择--如需要可改变默认设置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >시장 프로그램 보안 옵션 - 필요한 경우 기본 설정을 변경할 수 있습니다.</tu>
+</tm>

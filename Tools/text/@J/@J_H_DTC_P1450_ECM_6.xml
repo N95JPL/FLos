@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_DTC_P1450_ECM_6">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the ignition is on and the engine is not running.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat het contact is ingeschakeld en de motor niet draait.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifier que le contact est mis et le moteur n’est pas en marche.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Zündung eingeschaltet ist und der Motor nicht läuft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accertarsi che l’accensione sia in posizione on e che il motore non sia in moto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イグニッションがオンで、エンジンが作動していないことを確認する。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que a ignição está ligada e o motor não está a trabalhar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a chave está ligada e o motor não está funcionando</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что зажигание включено и что двигатель не работает.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que el encendido esté activado y el motor no esté en funcionamiento.</tu>
+	<tu xmlns:lang="chs">确定点火开关打开，且发动机没有运转。</tu>
+	<tu
+    xmlns:lang="kor"
+  >점화 스위치가 켜져 있고 엔진이 작동 중이지 않은지 확인하십시오.</tu>
+</tm>

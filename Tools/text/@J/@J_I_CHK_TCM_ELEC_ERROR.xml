@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHK_TCM_ELEC_ERROR">
+	<tu
+    xmlns:lang="eng"
+  >This routine is used to check that the transmission control module for electrical errors. When the routine is activated the transmission control module will test all outputs for errors.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine wordt gebruikt om te controleren of de transmissieregelmodule is gemonteerd zonder enige elektrische fouten. Wanneer de routine wordt geactiveerd, test de transmissieregelmodule alle uitgangssignalen op fouten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme est utilisé pour contrôler les erreurs électriques du module de commande de transmission. Lorsque le programme est activé, le module de commande de transmission teste toutes les sorties pour détecter les erreurs éventuelles.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine wird das Getriebesteuergerät auf Elektrikfehler überprüft. Bei Aktivierung der Routine testet das Getriebesteuergerät alle Ausgänge auf Elektrikfehler.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura viene utilizzata per controllare se il modulo di comando cambio presenti errori elettrici. Quando la procedura viene attivata, il modulo di comando cambio controlla tutti gli output per individuare eventuali errori.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、トランスミッション コントロール モジュールの電気的エラーをチェックするために用いられます。このルーチンを起動すると、トランスミッション コントロール モジュールはすべてのアウトプットのエラーをテストします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é utilizada para verificar a existência de erros eléctricos no módulo de comando da transmissão. Quando a rotina é activada, o módulo de comando da transmissão testa a existência de erros em todas as saídas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é usada para verificar se o módulo de controle de transmissão apresenta erros. Quando a rotina é ativado, o módulo de controle de transmissão testará todas as saídas em busca de erros.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция используется для проверки блока управления коробкой передач на предмет электрических ошибок. При активации операции блок управления коробкой передач тестирует все выходные сигналы на предмет ошибок.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina se usa para comprobar si hay errores eléctricos en el módulo de control de transmisión. Cuando se activa la rutina, el módulo de control de la transmisión comprobará todas las señales de salida para detectar errores.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本常规程序是用于检查变速箱控制模块是否存在电气错误。 当该程序启动时，变速箱控制模块将测试全部输出是否存在错误。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 변속기 컨트롤 모듈에서 전기적 오류 여부를 점검하는 데 사용됩니다. 루틴이 활성화되면 변속기 컨트롤 모듈이 모든 출력에서 오류 여부를 테스트합니다.</tu>
+</tm>

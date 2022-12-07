@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SunroofSuccess$M">
+	<tu xmlns:lang="eng">Sliding roof initialisation set-up was successful.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instelling voor de initialisatie van het schuifdak is met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Procédure d'initialisation du toit ouvrant réussie.</tu>
+	<tu xmlns:lang="deu">Initialisierungseinstellung Schiebedach erfolgreich.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impostazione inizializzazione tettuccio scorrevole riuscita.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スライディング ルーフ初期化セットアップが正常に完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A configuração de inicialização do tejadilho deslizante foi bem sucedida.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A configuração de inicialização do teto deslizante foi bem-sucedida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Настройка инициализации сдвижного верха выполнена успешно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La configuración de la inicialización del techo solar fue satisfactoria.</tu>
+	<tu xmlns:lang="chs">活动顶蓬初始化设置成功。</tu>
+	<tu xmlns:lang="kor">슬라이딩 루프 초기화 설정에 성공했습니다.</tu>
+</tm>

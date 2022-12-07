@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_AC">
+	<tu xmlns:lang="eng">Rear air conditioning</tu>
+	<tu xmlns:lang="nld">Airconditioning achteraan</tu>
+	<tu xmlns:lang="fra">Climatiseur arrière</tu>
+	<tu xmlns:lang="deu">Klimaanlage hinten</tu>
+	<tu xmlns:lang="ita">Impianto aria condizionata posteriore</tu>
+	<tu xmlns:lang="jpn">リア エア コンディショニング</tu>
+	<tu xmlns:lang="ptg">Ar condicionado traseiro</tu>
+	<tu xmlns:lang="ptb">Ar condicionado traseiro</tu>
+	<tu xmlns:lang="rus">Задний кондиционер</tu>
+	<tu xmlns:lang="esp">Aire acondicionado trasero</tu>
+	<tu xmlns:lang="chs">后空调</tu>
+	<tu xmlns:lang="kor">리어 에어컨</tu>
+</tm>

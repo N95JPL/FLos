@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAP_UPDT_ERR_INFO_CONTACT_RTS">
+	<tu
+    xmlns:lang="eng"
+  >The map has failed to update, please contact retailer technical support.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De kaart is niet bijgewerkt. Neem contact op met Dealer Technical Support.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La mise à jour de la carte a échoué. Veuillez contacter l'assistance technique des concessionnaires.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Karte konnte nicht aktualisiert werden. Bitte den technischen Support des Händlers kontaktieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non è stato possibile aggiornare la mappa, contattare il supporto tecnico del concessionario.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >マップ更新に失敗したため、正規ディーラーの技術サポートに連絡すること。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não foi possível atualizar o mapa; contacte a assistência técnica do concessionário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ocorreu uma falha ao atualizar o mapa. Entre em contato com o suporte técnico da concessionária.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не удалось выполнить обновление карты. Обратитесь в службу технической поддержки дилеров.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha actualizado el mapa, póngase en contacto con el servicio de asistencia técnica del concesionario.</tu>
+	<tu xmlns:lang="chs">地图更新失败，请联系经销商技术支持。</tu>
+	<tu
+    xmlns:lang="kor"
+  >지도 업데이트에 실패했습니다. 딜러점 기술 지원부로 문의하십시오.</tu>
+</tm>

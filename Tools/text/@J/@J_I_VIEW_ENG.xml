@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VIEW_ENG">
+	<tu xmlns:lang="eng">View the engineering display.</tu>
+	<tu xmlns:lang="nld">Bekijk de engineeringdisplay.</tu>
+	<tu xmlns:lang="fra">Voir l'affichage technique.</tu>
+	<tu xmlns:lang="deu">Technische Anzeige einsehen.</tu>
+	<tu xmlns:lang="ita">Visualizzare il display tecnica.</tu>
+	<tu xmlns:lang="jpn">エンジニアリング ディスプレイを表\示させなさい。</tu>
+	<tu xmlns:lang="ptg">Ver a visualização para departamento técnico.</tu>
+	<tu xmlns:lang="ptb">Visualize a vista de engenharia.</tu>
+	<tu xmlns:lang="rus">Просмотреть отображение технических единиц.</tu>
+	<tu xmlns:lang="esp">Ver la pantalla de información técnica.</tu>
+	<tu xmlns:lang="chs">浏览工程显示。</tu>
+	<tu xmlns:lang="kor">엔지니어링 디스플레이 보기</tu>
+</tm>

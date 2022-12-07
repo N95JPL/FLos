@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RlmSymptTest$M">
+	<tu xmlns:lang="eng">Ride level control module symptom based tests.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tests op basis van symptomen voor rijhoogteregelmodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de commande du régulateur d'assiette, essais basés sur les symptômes.</tu>
+	<tu xmlns:lang="deu">Niveauausgleichs-Steuergerät - symptombasierte Tests.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prove basate sui sintomi del modulo di comando livello altezza di marcia.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ライド レベル コントロール モジュールの症状ベース テスト</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo de comando da altura da suspensão, testes com base em sintomas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Testes com base em sintomas do módulo de controle do nível de condução.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверки, основанные на признаках неисправностей блока управления высотой подвески.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pruebas basadas en los síntomas del módulo de control de la altura de la carrocería.</tu>
+	<tu xmlns:lang="chs">基于行驶水平控制模块征兆的测试。</tu>
+	<tu xmlns:lang="kor">테스트를 바탕으로 한 지상고 컨트롤 모듈 증상</tu>
+</tm>

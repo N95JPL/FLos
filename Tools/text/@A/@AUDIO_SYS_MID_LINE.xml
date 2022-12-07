@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUDIO_SYS_MID_LINE">
+	<tu xmlns:lang="eng">Midline audio system</tu>
+	<tu xmlns:lang="nld">Standaardgeluidsinstallatie</tu>
+	<tu xmlns:lang="fra">Système audio moyenne gamme</tu>
+	<tu xmlns:lang="deu">Audiosystem in mittlerer Ausführung</tu>
+	<tu xmlns:lang="ita">Sistema audio Midline</tu>
+	<tu xmlns:lang="jpn">ミッドライン オーディオ システム</tu>
+	<tu xmlns:lang="ptg">Sistema de som de gama média</tu>
+	<tu xmlns:lang="ptb">Sistema de áudio da linha do meio</tu>
+	<tu xmlns:lang="rus">Аудиосистема среднего ценового сегмента</tu>
+	<tu xmlns:lang="esp">Sistema de audio de gama media</tu>
+	<tu xmlns:lang="chs">中档音频系统</tu>
+	<tu xmlns:lang="kor">중심선 오디오 시스템</tu>
+</tm>

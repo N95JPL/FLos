@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FACT_MODE_DIS_MRKT_PROG">
+	<tu xmlns:lang="eng">Factory mode disabled via market programming.</tu>
+	<tu xmlns:lang="nld">Fabrieksstand uitgeschakeld via marktprogrammering.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mode usine désactivé en raison de la programmation propre au marché.</tu>
+	<tu xmlns:lang="deu">Werksmodus deaktiviert über Absatzmarktprogrammierung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modalità di fabbrica disattivata attraverso la programmazione mercato.</tu>
+	<tu xmlns:lang="jpn">市場プログラミングによるメーカー モード作動不可設定</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Modo de fábrica desactivado através da programação do mercado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Modo de fábrica desativado pela programação de mercado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Заводской режим отключен вследствие программирования для целевого рынка.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Modo de fábrica desactivado mediante programación para el mercado.</tu>
+	<tu xmlns:lang="chs">工厂模式通过市场编程被禁用。</tu>
+	<tu xmlns:lang="kor">시장 프로그래밍을 통해 비활성화된 공장 모드</tu>
+</tm>

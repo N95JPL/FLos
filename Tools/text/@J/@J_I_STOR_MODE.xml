@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STOR_MODE">
+	<tu xmlns:lang="eng">Storage mode</tu>
+	<tu xmlns:lang="nld">Opslagfunctie</tu>
+	<tu xmlns:lang="fra">Mode remisage</tu>
+	<tu xmlns:lang="deu">Speichermodus</tu>
+	<tu xmlns:lang="ita">Modalità di memoria</tu>
+	<tu xmlns:lang="jpn">保存モード</tu>
+	<tu xmlns:lang="ptg">Modo de armazenamento</tu>
+	<tu xmlns:lang="ptb">Modo de armazenamento</tu>
+	<tu xmlns:lang="rus">Режим хранения</tu>
+	<tu xmlns:lang="esp">Modo de almacenamiento</tu>
+	<tu xmlns:lang="chs">存储模式</tu>
+	<tu xmlns:lang="kor">저장 모드</tu>
+</tm>

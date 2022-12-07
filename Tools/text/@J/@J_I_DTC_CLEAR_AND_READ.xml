@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DTC_CLEAR_AND_READ">
+	<tu xmlns:lang="eng">Diagnostic trouble code clear and read</tu>
+	<tu xmlns:lang="nld">Wissen en lezen van diagnosefoutcodes</tu>
+	<tu xmlns:lang="fra">Code d'anomalie effacé et lu</tu>
+	<tu xmlns:lang="deu">Löschen und Lesen von Fehlercodes</tu>
+	<tu xmlns:lang="ita">Cancellazione e lettura codice guasto diagnostico</tu>
+	<tu xmlns:lang="jpn">診断トラブル コード クリアおよび読み取り</tu>
+	<tu xmlns:lang="ptg">Ler e apagar códigos de avaria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Exclusão e leitura do código de problemas de diagnóstico</tu>
+	<tu xmlns:lang="rus">Сброс и считывание диагностического кода неисправности</tu>
+	<tu xmlns:lang="esp">Borrado y lectura de códigos de avería</tu>
+	<tu xmlns:lang="chs">故障诊断码清除与读取</tu>
+	<tu xmlns:lang="kor">고장 진단 코드 삭제 및 읽기</tu>
+</tm>

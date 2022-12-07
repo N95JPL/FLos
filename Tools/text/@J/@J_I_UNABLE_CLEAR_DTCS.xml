@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNABLE_CLEAR_DTCS">
+	<tu xmlns:lang="eng">Unable to clear diagnostic trouble code's</tu>
+	<tu xmlns:lang="nld">Kan DTC's niet wissen</tu>
+	<tu xmlns:lang="fra">Impossible d'effacer les DTC</tu>
+	<tu xmlns:lang="deu">Fehlercodes konnten nicht gelöscht werden</tu>
+	<tu xmlns:lang="ita">Impossibile cancellare i DTC</tu>
+	<tu xmlns:lang="jpn">DTCの消去不能\</tu>
+	<tu xmlns:lang="ptg">Impossível limpar os códigos de avaria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não foi possível excluir os códigos de problema de diagnóstico</tu>
+	<tu xmlns:lang="rus">Не удается удалить диагностические коды неисправностей</tu>
+	<tu xmlns:lang="esp">Imposibilidad de borrar los DTCs</tu>
+	<tu xmlns:lang="chs">无法清除故障诊断代码</tu>
+	<tu xmlns:lang="kor">고장 진단 코드를 삭제할 수 없음</tu>
+</tm>

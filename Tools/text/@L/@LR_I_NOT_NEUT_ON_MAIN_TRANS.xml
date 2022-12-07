@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_I_NOT_NEUT_ON_MAIN_TRANS">
+	<tu xmlns:lang="eng">Not in neutral on main transmission.</tu>
+	<tu xmlns:lang="nld">Bij de hoofdtransmissie niet in de neutraalstand.</tu>
+	<tu xmlns:lang="fra">Boîte de vitesses principale pas au point mort.</tu>
+	<tu xmlns:lang="deu">Nicht in Neutralstellung des Getriebes.</tu>
+	<tu xmlns:lang="ita">Cambio principale non in folle.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >メイン トランスミッションがニュートラルになっていません。</tu>
+	<tu xmlns:lang="ptg">A transmissão principal não está em ponto morto.</tu>
+	<tu xmlns:lang="ptb">Não está na posição neutra na transmissão principal.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ведущий вал коробки передач не переключился на 'нейтраль'.</tu>
+	<tu xmlns:lang="esp">La caja de cambios principal no está en punto muerto.</tu>
+	<tu xmlns:lang="chs">主变速器未在空挡。</tu>
+	<tu xmlns:lang="kor">주 변속기에서 중립 위치에 있지 않음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WeekOfManufact$I">
+	<tu xmlns:lang="eng">Week of manufacture.</tu>
+	<tu xmlns:lang="nld">Fabricageweek.</tu>
+	<tu xmlns:lang="fra">Semaine de fabrication.</tu>
+	<tu xmlns:lang="deu">Herstellungswoche.</tu>
+	<tu xmlns:lang="ita">Settimana di fabbricazione.</tu>
+	<tu xmlns:lang="jpn">製造週</tu>
+	<tu xmlns:lang="ptg">Semana de fabrico.</tu>
+	<tu xmlns:lang="ptb">Semana de fabricação.</tu>
+	<tu xmlns:lang="rus">Неделя выпуска автомобиля.</tu>
+	<tu xmlns:lang="esp">Semana de fabricación.</tu>
+	<tu xmlns:lang="chs">制造周。</tu>
+	<tu xmlns:lang="kor">제조 주</tu>
+</tm>

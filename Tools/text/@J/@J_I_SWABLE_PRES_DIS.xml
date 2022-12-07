@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SWABLE_PRES_DIS">
+	<tu xmlns:lang="eng">Switchable pressures disabled.</tu>
+	<tu xmlns:lang="nld">De schakelbare drukken zijn gedeactiveerd.</tu>
+	<tu xmlns:lang="fra">Pressions commutables désactivées.</tu>
+	<tu xmlns:lang="deu">Schaltbare Drücke deaktiviert.</tu>
+	<tu xmlns:lang="ita">Pressioni attivabili disattivate.</tu>
+	<tu xmlns:lang="jpn">プレッシャ切り替え非作動</tu>
+	<tu xmlns:lang="ptg">Pressões comutáveis desactivadas.</tu>
+	<tu xmlns:lang="ptb">Pressões comutáveis desativadas.</tu>
+	<tu xmlns:lang="rus">Переключаемые значения давления не разрешены.</tu>
+	<tu xmlns:lang="esp">Presiones conmutables inhabilitadas</tu>
+	<tu xmlns:lang="chs">已禁用可转换的压力。</tu>
+	<tu xmlns:lang="kor">압력 전환 비활성화</tu>
+</tm>

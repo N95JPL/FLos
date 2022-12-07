@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_INT_LAMPS_TRUNK_AJAR">
+	<tu xmlns:lang="eng">Interior lamps activated with trunk ajar enable</tu>
+	<tu
+    xmlns:lang="nld"
+  >Inschakelen van interieurlampen geactiveerd bij kofferruimte open</tu>
+	<tu
+    xmlns:lang="fra"
+  >Activation lampes intérieures activées avec coffre mal fermé</tu>
+	<tu
+    xmlns:lang="deu"
+  >Innenbeleuchtung aktiviert mit Aktivierung Kofferraumöffnung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Luci abitacolo attivate con abilitazione bagagliaio socchiuso</tu>
+	<tu xmlns:lang="jpn">トランク オープン時のインテリア ランプ点灯設定</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Luzes interiores activadas com aviso de bagageira mal fechada activo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Luzes internas ativadas com porta-malas entreaberto - habilitado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включение внутреннего освещения при открытой крышке багажного отделения</tu>
+	<tu xmlns:lang="esp">Alumbrado interior activado al abrir el maletero</tu>
+	<tu xmlns:lang="chs">内部灯启动且行李箱微开启用</tu>
+	<tu xmlns:lang="kor">트렁크 열림 기능이 활성화된 상태에서 실내등이 작동됨</tu>
+</tm>

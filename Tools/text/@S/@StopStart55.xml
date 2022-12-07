@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart55">
+	<tu
+    xmlns:lang="eng"
+  >A low secondary battery state of charge could be due to poor charging system performance or a power supply distribution box issue.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Een lage laadtoestand van de secundaire accu kan het gevolg zijn van slechte prestaties van het laadsysteem of een probleem met een stroomverdeeldoos.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un faible état de charge de la batterie secondaire peut être dû à des performances médiocres du système de charge ou à un problème du boîtier de distribution de l'alimentation électrique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ein niedriger Ladezustand der Sekundärbatterie kann auf eine schwache Leistung des Ladesystems oder ein Problem mit dem Stromversorgungsverteilerkasten zurückzuführen sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Un basso stato di carica della batteria secondaria può essere dovuto a scarse prestazioni del sistema di carica o a un problema della scatola di distribuzione dell'alimentazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セカンダリ バッテリーの充電状態の低下は、充電システムのパフォーマンスの低下または電源供給ディストリビューション ボックスの問題が原因である可能性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pode existir um estado de carga baixo da bateria secundária devido ao fraco desempenho do sistema de carregamento ou a um problema com a caixa de distribuição de alimentação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Um estado de carga baixo da bateria secundária pode ocorrer devido ao desempenho ruim do sistema de carga ou problema na caixa de distribuição da fonte de alimentação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Низкий заряд вспомогательной аккумуляторной батареи может быть обусловлен неэффективной работой системы зарядки или неисправностью распределительной коробки электропитания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Un estado de carga bajo de la batería auxiliar puede deberse a un mal funcionamiento del sistema de carga o un problema de la caja de distribución de la alimentación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >辅助蓄电池充电状态低可能是由于充电系统性能不良或者配电盒问题。</tu>
+	<tu
+    xmlns:lang="kor"
+  >보조 배터리 충전 부족 상태는 충전 시스템 성능 불량 또는 전원 공급 배전함 문제 때문일 수 있습니다.</tu>
+</tm>

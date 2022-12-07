@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CHECKING_REAR_ENT_FIT">
+	<tu
+    xmlns:lang="eng"
+  >Checking if vehicle is fitted with a rear seat entertainment system</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleren of het voertuig is uitgerust met Rear Seat Entertainment</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez si le véhicule est équipé d'un système d'infodivertissement de siège arrière</tu>
+	<tu
+    xmlns:lang="deu"
+  >Überprüft, ob das Fahrzeug mit einem Fond-Multimediasystem ausgestattet ist</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che sul veicolo sia montato un sistema di intrattenimento per i sedili posteriori</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両にリヤ シート エンターテイメント システムが装備されているか確認中</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar se o veículo dispõe de sistema de entretenimento dos bancos traseiros</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verificação se o veículo está equipado com um sistema de entretenimento do assento traseiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка наличия развлекательной системы для пассажиров задних сидений в автомобиле</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobando si el vehículo lleva instalado el sistema de entretenimiento trasero</tu>
+	<tu xmlns:lang="chs">检查车辆是否安装了后排座椅娱乐系统</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에 뒷좌석 엔터테인먼트 시스템이 장착되어 있는지 점검</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_BATT_CHRG_CONN">
+	<tu xmlns:lang="eng">Ensure an approved battery charger is connected.</tu>
+	<tu xmlns:lang="nld">Zorg dat er een goedgekeurde acculader is aangesloten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez qu'un chargeur de batterie agréé est raccordé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass ein zugelassenes Batterieladegerät angeschlossen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che sia collegato un caricabatterie approvato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >承認されたバッテリ充電器が接続されていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que está ligado um carregador de bateria aprovado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que um carregador de bateria aprovado está conectado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что к аккумуляторной батарее подключено одобренное зарядное устройство.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que se conecta un cargador de baterías homologado.</tu>
+	<tu xmlns:lang="chs">确保连接了认可的蓄电池充电器。</tu>
+	<tu xmlns:lang="kor">승인된 배터리 충전기가 연결되어 있는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_EXIT_WDS_T4_MAIN_MENU">
+	<tu xmlns:lang="eng">Please exit the Diagnostic Tool to the T4 main menu.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Sluit het diagnosesysteem, waardoor u in het T4-hoofdmenu terechtkomt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Quittez l'outil de diagnostic pour retourner au menu principal du T4.</tu>
+	<tu xmlns:lang="deu">Das Diagnosetool beenden und das T4-Menü aufrufen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Uscire dallo strumento diagnostico e tornare al menu principale T4.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >診断ツールを終了し T4 メイン メニューに進んでください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sair da ferramenta de diagnóstico para o menu principal do T4.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Saia da Ferramenta de Diagnóstico e vá para o menu principal T4.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выйдите из диагностического устройства в главное меню T4.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Salga de la herramienta de diagnóstico al menú principal del T4.</tu>
+	<tu xmlns:lang="chs">请退出诊断工具至 T4 主菜单。</tu>
+	<tu xmlns:lang="kor">진단 도구를 종료하고 T4 주 메뉴로 돌아가십시오.</tu>
+</tm>

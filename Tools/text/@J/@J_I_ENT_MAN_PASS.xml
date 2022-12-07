@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENT_MAN_PASS">
+	<tu xmlns:lang="eng">Enter manufacturing password:</tu>
+	<tu xmlns:lang="nld">Voer fabricage-wachtwoord in:</tu>
+	<tu xmlns:lang="fra">Entrez le mot de passe de fabrication :</tu>
+	<tu xmlns:lang="deu">Fertigungs-Passwort eingeben:</tu>
+	<tu xmlns:lang="ita">Immettere la password di produzione:</tu>
+	<tu xmlns:lang="jpn">生産パスワードを入力しなさい：</tu>
+	<tu xmlns:lang="ptg">Introduza a palavra-passe de fabrico:</tu>
+	<tu xmlns:lang="ptb">Insira a senha de fabricação:</tu>
+	<tu xmlns:lang="rus">Введите пароль изготовителя:</tu>
+	<tu xmlns:lang="esp">Introducir contraseña de fabricación:</tu>
+	<tu xmlns:lang="chs">输入制造密码：</tu>
+	<tu xmlns:lang="kor">제조 비밀번호 입력:</tu>
+</tm>

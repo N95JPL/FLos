@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALL_TRANSP_LOCALISED">
+	<tu
+    xmlns:lang="eng"
+  >All 4 transponder units have been successfully localised.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alle 4 de antwoordzenders zijn met succes gelokaliseerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les 4 unités de transpondeurs ont été correctement localisées.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle 4 Transpondereinheiten wurden erfolgreich lokalisiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tutti e 4 i risponditori sono stati individuati correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >4 個のトランスポンダ ユニットすべてが正常にプログラムされました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os 4 emissores-receptores foram todos localizados com êxito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todas as 4 unidades do transmissor foram localizadas com êxito.</tu>
+	<tu xmlns:lang="rus">Все 4 блока транспондера успешно локализованы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se han localizado correctamente las 4 unidades de transpondedor.</tu>
+	<tu xmlns:lang="chs">4 个无线电发射机应答器单元已全部完成局部化。</tu>
+	<tu xmlns:lang="kor">4개의 트랜스폰더 유닛 위치를 전부 올바로 찾았습니다.</tu>
+</tm>

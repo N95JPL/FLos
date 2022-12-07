@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BATTERY_CUTOFF_SWITCH">
+	<tu xmlns:lang="eng">Battery cut-off switch</tu>
+	<tu xmlns:lang="nld">Accuafsluitschakelaar</tu>
+	<tu xmlns:lang="fra">Commutateur de coupure de la batterie.</tu>
+	<tu xmlns:lang="deu">Batterie-Trennschalter</tu>
+	<tu xmlns:lang="ita">Interruttore scollegamento batteria</tu>
+	<tu xmlns:lang="jpn">バッテリ カットオフ スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptor de corte da bateria</tu>
+	<tu xmlns:lang="ptb">Interruptor de corte da bateria</tu>
+	<tu xmlns:lang="rus">Аварийный выключатель аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Seccionador de la batería</tu>
+	<tu xmlns:lang="chs">蓄电池切断开关</tu>
+	<tu xmlns:lang="kor">배터리 차단 스위치</tu>
+</tm>

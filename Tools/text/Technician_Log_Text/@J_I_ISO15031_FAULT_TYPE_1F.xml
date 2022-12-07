@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_1F">
+<tu xmlns:lang="eng">General electrical failure - circuit intermittent.</tu>
+<tu xmlns:lang="nld">Algemeen elektrisch defect - circuit werkt met tussenpozen.</tu>
+<tu xmlns:lang="fra">Panne &#233;lectrique g&#233;n&#233;rale - circuit intermittent.</tu>
+<tu xmlns:lang="deu">Allgemeine Elektrikst&#246;rung - aussetzende Stromkreisst&#246;rung.</tu>
+<tu xmlns:lang="ita">Guasto elettrico generale - circuito intermittente.</tu>
+<tu xmlns:lang="jpn">ˆê”ÊƒGƒŒƒNƒgƒŠƒJƒ‹ŒÌá | ƒT[ƒLƒbƒgA’f‘±“I•s‹ï‡</tu>
+<tu xmlns:lang="ptg">Falha el&#233;ctrica geral - circuito intermitente.</tu>
+<tu xmlns:lang="rus">Ýëåêòðè÷åñêàÿ íåèñïðàâíîñòü îáùåãî õàðàêòåðà - ïåðåìåæàþùàÿñÿ íåèñïðàâíîñòü â öåïè.</tu>
+<tu xmlns:lang="esp">Fallo el&#233;ctrico general: circuito intermitente.</tu>
+<tu xmlns:lang="chs">Ò»°ãµçÆø¹ÊÕÏ - µçÂ·¼äÐªÐÔ¹ÊÕÏ¡£</tu>
+</tm>

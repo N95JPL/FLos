@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_HEADLAMPS">
+	<tu xmlns:lang="eng">Headlamps</tu>
+	<tu xmlns:lang="nld">Koplampen</tu>
+	<tu xmlns:lang="fra">Phares</tu>
+	<tu xmlns:lang="deu">Scheinwerfer</tu>
+	<tu xmlns:lang="ita">Proiettori</tu>
+	<tu xmlns:lang="jpn">ﾍｯﾄﾞﾗﾝﾌﾟ</tu>
+	<tu xmlns:lang="ptg">Faróis</tu>
+	<tu xmlns:lang="ptb">Faróis.</tu>
+	<tu xmlns:lang="rus">Передние фары</tu>
+	<tu xmlns:lang="esp">Faros</tu>
+	<tu xmlns:lang="chs">前照灯</tu>
+	<tu xmlns:lang="kor">헤드램프</tu>
+</tm>

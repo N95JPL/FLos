@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EPBUnjamProc$I">
+	<tu xmlns:lang="eng">Parking brake unjam procedure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Procedure voor het weer loszetten van de handrem, na vastlopen.</tu>
+	<tu xmlns:lang="fra">Procédure de déblocage du frein de stationnement.</tu>
+	<tu xmlns:lang="deu">Entklemmen der Handbremse.</tu>
+	<tu xmlns:lang="ita">Procedura di sbloccaggio del freno di stazionamento.</tu>
+	<tu xmlns:lang="jpn">パーキング ブレーキ固着解除手順</tu>
+	<tu xmlns:lang="ptg">Procedimento de desbloqueio do travão de mão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Procedimento de desbloqueio do freio de estacionamento.</tu>
+	<tu xmlns:lang="rus">Процедура расцепления стояночного тормоза.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Procedimiento de desatasco del freno de estacionamiento.</tu>
+	<tu xmlns:lang="chs">驻车制动器解除堵塞程序。</tu>
+	<tu xmlns:lang="kor">주차 브레이크 걸림 제거 절차</tu>
+</tm>

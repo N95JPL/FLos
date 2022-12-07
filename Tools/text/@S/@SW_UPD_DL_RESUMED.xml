@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SW_UPD_DL_RESUMED">
+	<tu xmlns:lang="eng">Software update resumed</tu>
+	<tu xmlns:lang="nld">Software-update hervat</tu>
+	<tu xmlns:lang="fra">Reprise de la mise à jour logicielle</tu>
+	<tu xmlns:lang="deu">Softwareaktualisierung fortgesetzt</tu>
+	<tu xmlns:lang="ita">Aggiornamento software ripreso</tu>
+	<tu xmlns:lang="jpn">ソフトウェア アップデートを再開しました</tu>
+	<tu xmlns:lang="ptg">Atualização de software retomada</tu>
+	<tu xmlns:lang="ptb">Atualização de software retomada</tu>
+	<tu xmlns:lang="rus">Обновление программного обеспечения возобновлено</tu>
+	<tu xmlns:lang="esp">Se ha reanudado la actualización del software</tu>
+	<tu xmlns:lang="chs">软件更新已恢复</tu>
+	<tu xmlns:lang="kor">소프트웨어 업데이트를 다시 시작합니다.</tu>
+</tm>

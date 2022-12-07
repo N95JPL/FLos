@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_61">
+	<tu xmlns:lang="eng">Algorithm based failure - signal calculation failure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fout gebaseerd op algoritme - fout bij signaalberekening.</tu>
+	<tu xmlns:lang="fra">Erreur d'algorithme - erreur de calcul du signal.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf Algorithmus basierender Fehler - Signalberechnungsfehler.</tu>
+	<tu xmlns:lang="ita">Guasto algoritmico - guasto calcolo segnale.</tu>
+	<tu xmlns:lang="jpn">アルゴリズム ベースの不具合 － シグナル演算不良</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha com base no algoritmo - falha no cálculo do sinal.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha com base em algoritmo - falha de cálculo do sinal.</tu>
+	<tu xmlns:lang="rus">Ошибка алгоритма - ошибка расчета сигнала.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo basado en algoritmos: fallo de cálculo de señales.</tu>
+	<tu xmlns:lang="chs">算法相关故障 - 信号计算故障。</tu>
+	<tu xmlns:lang="kor">알고리즘 기반 오류 - 신호 계산 실패</tu>
+</tm>

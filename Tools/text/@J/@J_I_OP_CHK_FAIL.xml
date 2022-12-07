@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OP_CHK_FAIL">
+	<tu xmlns:lang="eng">Operation check failed.</tu>
+	<tu xmlns:lang="nld">Werkingscontrole mislukt.</tu>
+	<tu xmlns:lang="fra">Echec du contrôle de fonctionnement.</tu>
+	<tu xmlns:lang="deu">Funktionsprüfung nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Controllo del funzionamento non riuscito.</tu>
+	<tu xmlns:lang="jpn">作動チェックに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Verificação de funcionamento falhou.</tu>
+	<tu xmlns:lang="ptb">Falha na verificação de operação.</tu>
+	<tu xmlns:lang="rus">Проверка работы завершилась неудачно.</tu>
+	<tu xmlns:lang="esp">Fallo de comprobación de funcionamiento.</tu>
+	<tu xmlns:lang="chs">操作检查失败。</tu>
+	<tu xmlns:lang="kor">작동 점검에 실패했습니다.</tu>
+</tm>

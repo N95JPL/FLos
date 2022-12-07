@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OpenCloseDriversDoorCheck">
+	<tu
+    xmlns:lang="eng"
+  >Open and close the drivers door, check for status change on the instrument cluster.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Open en sluit het bestuurdersportier, controleer op verandering van status op het scherm.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ouvrir et fermer la porte conducteur, rechercher le changement d'état sur l'écran.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Fahrertür öffnen und schließen, den Touchscreen auf eine Statusänderung prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Aprire e chiudere la portiera del conducente, verificare l'eventuale cambiamento di stato sullo schermo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >運転席ドアを開閉し、画面上でのステータスの変化を確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Abra e feche a porta do condutor, verifique se existem alterações de estado no ecrã.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Abra e feche a porta do motorista, verifique se há mudança de status na Touchscreen.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Откройте и закройте водительскую дверь, затем проверьте, изменилось ли состояние на экране.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Abra y cierre la puerta del conductor, y compruebe si hay cambio de estado en la pantalla.</tu>
+	<tu xmlns:lang="chs">打开并关闭驾驶员车门，在屏幕上检查状态是否变化。</tu>
+	<tu
+    xmlns:lang="kor"
+  >운전석 도어를 열었다가 닫고, 화면에서 상태가 바뀌는지 점검하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Warning">
+	<tu xmlns:lang="eng">WARNING!</tu>
+	<tu xmlns:lang="nld">WAARSCHUWING:</tu>
+	<tu xmlns:lang="fra">AVERTISSEMENT :</tu>
+	<tu xmlns:lang="deu">VORSICHT:</tu>
+	<tu xmlns:lang="ita">AVVERTENZA:</tu>
+	<tu xmlns:lang="jpn">警告</tu>
+	<tu xmlns:lang="ptg">AVISO!</tu>
+	<tu xmlns:lang="ptb">AVISO!</tu>
+	<tu xmlns:lang="rus">ВНИМАНИЕ!</tu>
+	<tu xmlns:lang="esp">AVISO:</tu>
+	<tu xmlns:lang="chs">警告！</tu>
+	<tu xmlns:lang="kor">경고!</tu>
+</tm>

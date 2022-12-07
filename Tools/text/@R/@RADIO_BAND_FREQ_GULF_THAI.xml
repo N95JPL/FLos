@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RADIO_BAND_FREQ_GULF_THAI">
+	<tu
+    xmlns:lang="eng"
+  >Frequency band and step for Gulf countries and Thailand</tu>
+	<tu xmlns:lang="nld">Frequentiebereik en -stap voor Golfstaten en Thailand</tu>
+	<tu
+    xmlns:lang="fra"
+  >Bande et palier de fréquences pour les pays du Golfe et la Thaïlande</tu>
+	<tu
+    xmlns:lang="deu"
+  >Frequenzband und Frequenzschritt für Golfstaaten und Thailand</tu>
+	<tu
+    xmlns:lang="ita"
+  >Banda di frequenza e incremento per i Paesi del Golfo e la Tailandia</tu>
+	<tu xmlns:lang="jpn">湾岸諸国およびタイ向け周波数帯とステップ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Banda de frequência e incremento para os países do Golfo e Tailândia</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Faixa de frequência e etapa para países do Golfo e Tailândia</tu>
+	<tu
+    xmlns:lang="rus"
+  >Частотный диапазон и шаг для стран Персидского залива и Таиланда</tu>
+	<tu
+    xmlns:lang="esp"
+  >Banda e incremento de frecuencia para países del Golfo Pérsico y Tailandia</tu>
+	<tu xmlns:lang="chs">海湾国家及泰国频率带宽与频率步幅</tu>
+	<tu xmlns:lang="kor">걸프 국가 및 태국의 주파수 밴드 및 단계</tu>
+</tm>

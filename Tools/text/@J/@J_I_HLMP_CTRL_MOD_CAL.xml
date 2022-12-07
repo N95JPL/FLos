@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HLMP_CTRL_MOD_CAL">
+	<tu xmlns:lang="eng">Headlamp control module system calibration</tu>
+	<tu
+    xmlns:lang="nld"
+  >Systeemkalibrering van de regelmodule van de koplamphoogte-instelling</tu>
+	<tu xmlns:lang="fra">Etalonnage du système du module de commande des phares</tu>
+	<tu xmlns:lang="deu">Kalibrierung - Steuergerät Scheinwerfersystem</tu>
+	<tu xmlns:lang="ita">Taratura sistema modulo di comando fari</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ヘッドランプ コントロール モジュール システムのキャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem do sistema do módulo de comando dos faróis</tu>
+	<tu xmlns:lang="ptb">Calibração do sistema do módulo de controle dos faróis</tu>
+	<tu xmlns:lang="rus">Калибровка блока управления фарами</tu>
+	<tu
+    xmlns:lang="esp"
+  >Calibración del sistema del módulo de control de los faros</tu>
+	<tu xmlns:lang="chs">前照灯控制模块系统校准</tu>
+	<tu xmlns:lang="kor">헤드램프 컨트롤 모듈 시스템 보정</tu>
+</tm>

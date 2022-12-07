@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_NO_BATTERY_CHARGER">
+	<tu
+    xmlns:lang="eng"
+  >A battery charger must not be connected at any time during the entire process.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Op geen enkel moment tijdens de gehele procedure mag een acculader worden aangesloten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un chargeur de batterie doit rester branché pendant toute la durée de la procédure.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Während des gesamten Verfahrens darf zu keiner Zeit ein Batterieladegerät angeschlossen werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per l'intera durata del processo non si dovrà mai collegare un caricabatteria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このプロセス全体を通じて、いかなるときにもバッテリ充電器を接続してはなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não pode ser ligado um carregador de bateria em nenhum momento durante o processo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Um carregador de bateria não pode ser conectado em nenhum momento durante todo o processo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Во время всего процесса нельзя подсоединять устройство для зарядки аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Durante el proceso no se debe conectar un cargador de batería en ningún momento.</tu>
+	<tu xmlns:lang="chs">在整个过程中的任何时候，都不得连接蓄电池充电器。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전체 프로세스 중에 어떤 시점에서도 배터리 충전기를 연결하면 안 됩니다.</tu>
+</tm>

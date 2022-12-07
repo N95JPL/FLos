@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_KEY_PROGRAMMED">
+	<tu xmlns:lang="eng">Smart key is successfully programmed
+</tu>
+	<tu xmlns:lang="nld">Smart-key is met succes geprogrammeerd
+
+    </tu>
+	<tu xmlns:lang="fra">La clé intelligente a été programmée avec succès
+
+    </tu>
+	<tu xmlns:lang="deu">Smart Key erfolgreich programmiert
+
+    </tu>
+	<tu xmlns:lang="ita">Chiave Smart programmata correttamente
+
+    </tu>
+	<tu xmlns:lang="jpn">スマート キーが正常にプログラムされました
+
+    </tu>
+	<tu xmlns:lang="ptg">Chave inteligente programada com êxito
+
+    </tu>
+	<tu xmlns:lang="ptb">A chave inteligente foi programada com êxito
+
+    </tu>
+	<tu xmlns:lang="rus">Электронный ключ успешно запрограммирован
+
+    </tu>
+	<tu xmlns:lang="esp">La llave inteligente se ha programado correctamente
+
+    </tu>
+	<tu xmlns:lang="chs">智能钥匙已成功编程
+
+    </tu>
+	<tu xmlns:lang="kor">스마트 키가 올바르게 프로그래밍되었습니다.
+
+    </tu>
+</tm>

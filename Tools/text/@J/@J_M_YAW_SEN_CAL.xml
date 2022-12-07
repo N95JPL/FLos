@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_YAW_SEN_CAL">
+	<tu xmlns:lang="eng">Yaw rate sensor calibration.</tu>
+	<tu xmlns:lang="nld">Kalibrering van gierbewegingssensor.</tu>
+	<tu xmlns:lang="fra">Etalonnage du capteur de vitesse angulaire de lacet.</tu>
+	<tu xmlns:lang="deu">Kalibrierung Gierratensensor.</tu>
+	<tu xmlns:lang="ita">Taratura sensore tasso d'imbardata.</tu>
+	<tu xmlns:lang="jpn">ヨー レート センサーのキャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem do sensor de guinada.</tu>
+	<tu xmlns:lang="ptb">Calibração do sensor da taxa de inclinação.</tu>
+	<tu xmlns:lang="rus">Калибровка датчика угловой скорости.</tu>
+	<tu xmlns:lang="esp">Calibración del sensor del ángulo de guiñada.</tu>
+	<tu xmlns:lang="chs">偏航速率传感器标定。</tu>
+	<tu xmlns:lang="kor">요 레이트 센서 보정</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AirbagCodingFail$I">
+	<tu
+    xmlns:lang="eng"
+  >It was not possible to write coding data to the air bag control module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het schrijven van codeergegevens naar de airbagregelmodule is mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Il n'a pas été possible d'écrire des données de codage dans le module de commande d'airbag.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Codierungsdaten konnten nicht auf das Airbag-Steuergerät geschrieben werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impossibile scrivere i dati di codifica nel modulo di comando airbag.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コード データをエアバッグ コントロール モジュールに書き込めませんでした。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não foi possível escrever dados de codificação no módulo de controlo dos airbags.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não foi possível registrar os dados de codificação no módulo de controle do airbag.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не удалось записать данные кодирования в блок управления подушками безопасности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No fue posible grabar datos de codificación en el módulo de control de los airbags.</tu>
+	<tu xmlns:lang="chs">不能向安全气囊控制模块中写入编码数据。</tu>
+	<tu xmlns:lang="kor">에어백 컨트롤 모듈에 코딩 데이터를 쓸 수 없었습니다.</tu>
+</tm>

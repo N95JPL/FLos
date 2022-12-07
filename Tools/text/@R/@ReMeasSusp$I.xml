@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ReMeasSusp$I">
+	<tu
+    xmlns:lang="eng"
+  >The retry will require the suspension height to be re-measured.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om dit opnieuw te proberen, moet de luchtveringshoogte nogmaals worden gemeten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La nouvelle tentative requiert une remesure de la hauteur de suspension.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beim Neuversuch ist es erforderlich, die Fahrhöhe neu zu messen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per la riprova è necessario rimisurare l'altezza delle sospensione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >再試行では、サスペンション ハイトの再測定が必要になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A nova tentativa implica outra medição da altura da suspensão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A nova tentativa requererá que a altura de suspensão seja medida novamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для выполнения повторной попытки потребуется заново измерить высоту подвески.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El reintento requerirá que se vuelva a medir la altura de la suspensión.</tu>
+	<tu xmlns:lang="chs">重试将要求重新测量悬架高度。</tu>
+	<tu xmlns:lang="kor">다시 시도하려면 서스펜션 높이를 다시 측정해야 합니다.</tu>
+</tm>

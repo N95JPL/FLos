@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_COMMS_ERROR">
+	<tu
+    xmlns:lang="eng"
+  >There has been a communication error with the alarm locking module (ALM). Error code = 0x%X</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is een communicatiefout opgetreden in de noodvergrendelingsmodule (ALM). Foutcode = 0x%X</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une erreur de communication est survenue avec le module de verrouillage de l'alarme (ALM). Code d'erreur = 0x%X</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es ist ein Kommunikationsfehler mit dem Alarmverriegelungsmodul (ALM) aufgetreten. Fehlercode = 0x%X</tu>
+	<tu
+    xmlns:lang="ita"
+  >Si è verificato un errore di comunicazione con il modulo di bloccaggio allarme (ALM). Codice di errore = 0x%X</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アラーム ロッキング モジュール (ALM) で通信エラー。 エラー コード = 0x%X</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Houve um erro de comunicação no módulo de trancagem de alarme (ALM). Código de erro = 0x%X</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Erro de comunicação com o Módulo de travamento do alarme (ALM). Código do erro = 0x%X</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка связи с блоком сигнализации (ALM). Код ошибки = 0x%X</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha producido un error de comunicación con el módulo de bloqueo de alarma (ALM). Código de error = 0x%X</tu>
+	<tu xmlns:lang="chs">报警锁定模块 (ALM) 发生通信错误。 错误代码 = 0x%X</tu>
+	<tu
+    xmlns:lang="kor"
+  >알람 잠금 모듈(ALM)과의 통신 오류가 있었습니다. 오류 코드 = 0x%X</tu>
+</tm>

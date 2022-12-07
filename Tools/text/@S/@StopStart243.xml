@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart243">
+	<tu xmlns:lang="eng">Stop inhibited due to fuel run dry prevention</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stop geblokkeerd vanwege preventie draaien zonder brandstof</tu>
+	<tu
+    xmlns:lang="fra"
+  >Arrêt neutralisé en raison du système de prévention des pannes sèches</tu>
+	<tu
+    xmlns:lang="deu"
+  >Stopp wegen Kraftstoffsystem-Trockenlaufschutz gesperrt</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitazione dell'arresto causata dalla prevenzione esaurimento carburante</tu>
+	<tu xmlns:lang="jpn">燃料切れ防止によるストップの禁止</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Inibição da paragem devido a prevenção de esvaziamento do depósito de combustível</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Parada inibida devido à prevenção de funcionamento sem combustível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Остановка заблокирована в целях предотвращения полной выработки топлива</tu>
+	<tu
+    xmlns:lang="esp"
+  >Parada bloqueada debido a prevención de agotamiento del combustible</tu>
+	<tu xmlns:lang="chs">因燃油耗尽预防措施停止被禁用</tu>
+	<tu xmlns:lang="kor">연료 고갈 방지로 인한 Stop 억제</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_STATUS_NOK">
+	<tu xmlns:lang="eng">Not ok</tu>
+	<tu xmlns:lang="nld">Niet goed</tu>
+	<tu xmlns:lang="fra">Pas ok</tu>
+	<tu xmlns:lang="deu">Nicht in Ordnung</tu>
+	<tu xmlns:lang="ita">Non ok</tu>
+	<tu xmlns:lang="jpn">良好ではありません。</tu>
+	<tu xmlns:lang="ptg">Não ok</tu>
+	<tu xmlns:lang="ptb">Não OK</tu>
+	<tu xmlns:lang="rus">Неисправность</tu>
+	<tu xmlns:lang="esp">No correcto</tu>
+	<tu xmlns:lang="chs">不正常</tu>
+	<tu xmlns:lang="kor">불량</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_SECOND_SECUR_SYS">
+	<tu xmlns:lang="eng">Secondary security system not fitted</tu>
+	<tu xmlns:lang="nld">Secundair alarmsysteem niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Système de sécurité secondaire non monté</tu>
+	<tu xmlns:lang="deu">Sekundäres Fahrzeugschutzsystem nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Sistema antifurto secondario non in dotazione </tu>
+	<tu xmlns:lang="jpn">セカンダリ セキュリティ システム非装備</tu>
+	<tu xmlns:lang="ptg">Sistema secundário de segurança não está instalado</tu>
+	<tu xmlns:lang="ptb">Sistema de segurança secundário não instalado</tu>
+	<tu xmlns:lang="rus">Вспомогательная охранная система не установлена</tu>
+	<tu xmlns:lang="esp">No hay sistema de seguridad secundario</tu>
+	<tu xmlns:lang="chs">辅助安全系统未安装</tu>
+	<tu xmlns:lang="kor">2차 보안 시스템이 장착되지 않음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_KEY_ALREADY_PROG">
+	<tu xmlns:lang="eng">Key already programmed fault</tu>
+	<tu xmlns:lang="nld">Fout: sleutel reeds geprogrammeerd</tu>
+	<tu xmlns:lang="fra">Défaut clé déjà programmée</tu>
+	<tu xmlns:lang="deu">Fehler - Schlüssel bereits programmiert</tu>
+	<tu xmlns:lang="ita">Errore chiave già programmata</tu>
+	<tu xmlns:lang="jpn">「キーがすでにプログラムされている」不具合</tu>
+	<tu xmlns:lang="ptg">Avaria de chave já programada</tu>
+	<tu xmlns:lang="ptb">Chave já programada com falha</tu>
+	<tu xmlns:lang="rus">Ошибка: ключ уже запрограммирован</tu>
+	<tu xmlns:lang="esp">Fallo debido a que la llave ya está programada</tu>
+	<tu xmlns:lang="chs">已编程的车钥出现故障。</tu>
+	<tu xmlns:lang="kor">키에 이미 프로그래밍된 오류</tu>
+</tm>

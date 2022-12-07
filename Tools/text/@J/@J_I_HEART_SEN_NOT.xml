@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEART_SEN_NOT">
+	<tu xmlns:lang="eng">Without heartbeat sensor</tu>
+	<tu xmlns:lang="nld">Zonder hartslagsensor</tu>
+	<tu xmlns:lang="fra">Sans capteur de battements de c?ur</tu>
+	<tu xmlns:lang="deu">Ohne Dauersignal-Sensor</tu>
+	<tu xmlns:lang="ita">Senza sensore segnale impulso</tu>
+	<tu xmlns:lang="jpn">心拍センサーなし</tu>
+	<tu xmlns:lang="ptg">Sem sensor de batimentos</tu>
+	<tu xmlns:lang="ptb">Sem sensor de pulso</tu>
+	<tu xmlns:lang="rus">Без датчика синхронизации</tu>
+	<tu xmlns:lang="esp">Sin sensor de funcionamiento (heartbeat)</tu>
+	<tu xmlns:lang="chs">无心跳传感器</tu>
+	<tu xmlns:lang="kor">하트비트 센서 없음</tu>
+</tm>

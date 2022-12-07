@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_MISCONFIG_2">
+	<tu
+    xmlns:lang="eng"
+  >This should be performed if a specific body control module diagnostic trouble code (U2101-00) is present.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dit moet worden uitgevoerd als er een specifieke diagnosefoutcode (U2101-00) voor de carrosserieregelmodule is opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ceci doit être effectué en présence d'un code de défaut de diagnostic spécifique au module de commande de carrosserie (U2101-00).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dies muss durchgeführt werden, wenn ein bestimmter Fehlercode (U2101-00) des Karosseriesteuergeräts abgespeichert ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ciò deve essere eseguito se è presente uno specifico codice di guasto diagnostico (U2101-00) del modulo di comando carrozzeria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >特定のボディ コントロール モジュール 診断トラブル コード (U2101-00) がある場合、これを実施する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tal deverá ser efectuado se houver um código de avaria do módulo de controlo da carroçaria específico (U2101-00).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso deverá ser feito se um código de problema de diagnóstico do módulo de controle da carroceria específico (U2101-00) estiver presente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данные действия необходимо выполнить, если зафиксирован диагностический код неисправности блока управления системами кузова (U2101-00).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Debe llevarse a cabo si está presente un código de avería específico (U2101-00) en el módulo de control de la carrocería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果存在特定的车身控制模块故障诊断码（U2101-00），则应该执行此检查。</tu>
+	<tu
+    xmlns:lang="kor"
+  >특정 차체 컨트롤 모듈 고장 진단 코드(U2101-00)가 설정된 경우 이 절차를 수행해야 합니다.</tu>
+</tm>

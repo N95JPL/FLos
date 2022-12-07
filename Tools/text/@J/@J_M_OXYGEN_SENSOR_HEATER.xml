@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_OXYGEN_SENSOR_HEATER">
+	<tu xmlns:lang="eng">Oxygen sensor heater</tu>
+	<tu xmlns:lang="nld">Zuurstofsensorverwarming</tu>
+	<tu xmlns:lang="fra">Chauffage de sonde a oxygene</tu>
+	<tu xmlns:lang="deu">Lambdasondenheizung</tu>
+	<tu xmlns:lang="ita">Riscaldatore sensore ossigeno</tu>
+	<tu xmlns:lang="jpn">O2 セ・サ ヒーター</tu>
+	<tu xmlns:lang="ptg">Resistência de aquecimento do sensor de oxigénio</tu>
+	<tu xmlns:lang="ptb">Aquecedor do sensor de oxigênio</tu>
+	<tu xmlns:lang="rus">Подогреватель кислородного датчика</tu>
+	<tu xmlns:lang="esp">Calefactor del sensor de oxígeno</tu>
+	<tu xmlns:lang="chs">氧传感器加热器</tu>
+	<tu xmlns:lang="kor">산소 센서 히터</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUTO_ALARM_ACT">
+	<tu xmlns:lang="eng">Automatic alarm activate</tu>
+	<tu xmlns:lang="nld">Automatische activering van alarm</tu>
+	<tu xmlns:lang="fra">Activation automatique de l'alarme</tu>
+	<tu xmlns:lang="deu">Automatische Alarmaktivierung</tu>
+	<tu xmlns:lang="ita">Attivazione automatica dell'allarme</tu>
+	<tu xmlns:lang="jpn">自動アラーム作動</tu>
+	<tu xmlns:lang="ptg">Activação automática do alarme</tu>
+	<tu xmlns:lang="ptb">Alarma automático ativado</tu>
+	<tu xmlns:lang="rus">Автоматическое включение сигнализации</tu>
+	<tu xmlns:lang="esp">Activación de alarma automática</tu>
+	<tu xmlns:lang="chs">自动报警激活</tu>
+	<tu xmlns:lang="kor">자동 알람 활성화</tu>
+</tm>

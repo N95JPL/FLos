@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOD_INIT">
+	<tu xmlns:lang="eng">Module initialization</tu>
+	<tu xmlns:lang="nld">Opstarten van module</tu>
+	<tu xmlns:lang="fra">Initialisation du module</tu>
+	<tu xmlns:lang="deu">Steuergeräte-Initialisierung</tu>
+	<tu xmlns:lang="ita">Inizializzazione modulo</tu>
+	<tu xmlns:lang="jpn">モジュールの初期化</tu>
+	<tu xmlns:lang="ptg">Inicialização do módulo</tu>
+	<tu xmlns:lang="ptb">Inicialização do módulo</tu>
+	<tu xmlns:lang="rus">Инициализация блока</tu>
+	<tu xmlns:lang="esp">Inicialización del módulo</tu>
+	<tu xmlns:lang="chs">模块初始化</tu>
+	<tu xmlns:lang="kor">모듈 초기화</tu>
+</tm>

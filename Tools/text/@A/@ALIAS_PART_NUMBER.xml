@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ALIAS_PART_NUMBER">
+	<tu xmlns:lang="eng">Alias part number</tu>
+	<tu xmlns:lang="nld">Alternatief onderdeelnummer</tu>
+	<tu xmlns:lang="fra">Référence d'alias</tu>
+	<tu xmlns:lang="deu">Ersetzungsteil-Teilenummer</tu>
+	<tu xmlns:lang="ita">Numero parte alternativo</tu>
+	<tu xmlns:lang="jpn">エイリアス (別称) パーツ ナンバー</tu>
+	<tu xmlns:lang="ptg">Número de peça da marca</tu>
+	<tu xmlns:lang="ptb">Alias de número de peça</tu>
+	<tu xmlns:lang="rus">Номер аналогичной детали</tu>
+	<tu xmlns:lang="esp">Número de pieza ajena</tu>
+	<tu xmlns:lang="chs">别称零件号</tu>
+	<tu xmlns:lang="kor">별칭 부품 번호</tu>
+</tm>

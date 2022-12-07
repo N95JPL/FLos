@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUTO_IGN_CAUSE_DTCS">
+	<tu
+    xmlns:lang="eng"
+  >The application can automatically control the ignition, however DTCs may be logged as a result of this process.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De toepassing zal het contact regelen, alhoewel er als gevolg van deze procedure DTC's gelogd kunnen worden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'application peut contrôler automatiquement l'allumage, mais des DTC peuvent être enregistrés à la suite de ce processus.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Programm kann automatisch die Zündung steuern, als Ergebnis hiervon können allerdings DTCs abgespeichert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'applicazione può controllare automaticamente l'accensione, tuttavia questo processo può causare la registrazione di DTC.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは自動的にイグニションを制御することができますが、このプロセスの結果 DTC が記録されることがあります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A aplicação pode controlar automaticamente a ignição, contudo pode ocorrer o registo de DTCs como consequência deste processo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O aplicativo pode controlar automaticamente a ignição, no entanto os DTCs podem ser registrados como resultado desse processo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное приложение может автоматически управлять зажиганием, однако в результате могут регистрироваться диагностические коды неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La aplicación puede controlar automáticamente el encendido, pero es posible que se registren algunos DTC como consecuencia de este proceso.</tu>
+	<tu
+    xmlns:lang="chs"
+  >应用程序可以自动控制点火，然而，这一过程可能导致故障诊断码（DTC）被记录。</tu>
+	<tu
+    xmlns:lang="kor"
+  >응용 프로그램이 점화를 자동으로 제어할 수 있지만, 이 프로세스로 인해 DTC가 기록될 수도 있습니다.</tu>
+</tm>

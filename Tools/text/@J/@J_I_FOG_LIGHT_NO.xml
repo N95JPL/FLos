@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FOG_LIGHT_NO">
+	<tu xmlns:lang="eng">Without foglight</tu>
+	<tu xmlns:lang="nld">Zonder mistlichten</tu>
+	<tu xmlns:lang="fra">Sans feu anti-brouillard</tu>
+	<tu xmlns:lang="deu">Ohne Nebelscheinwerfer</tu>
+	<tu xmlns:lang="ita">Senza fendinebbia</tu>
+	<tu xmlns:lang="jpn">フォグライトなし</tu>
+	<tu xmlns:lang="ptg">Sem farol de nevoeiro</tu>
+	<tu xmlns:lang="ptb">Sem farol de neblina</tu>
+	<tu xmlns:lang="rus">Без противотуманных фар</tu>
+	<tu xmlns:lang="esp">Sin luz antiniebla</tu>
+	<tu xmlns:lang="chs">无雾灯</tu>
+	<tu xmlns:lang="kor">포그 램프 없음</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FAILURE_UPDATING_NGI">
+	<tu
+    xmlns:lang="eng"
+  >Failure occurred while updating the InControl Touch Pro software</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fout opgetreden tijdens het updaten van de InControl Touch Pro-software</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une erreur s'est produite lors de la mise à jour du logiciel InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fehler bei der Aktualisierung der InControl Touch Pro Software</tu>
+	<tu xmlns:lang="ita">Impossibile aggiornare il software InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="jpn"
+  >InControl Touch Pro ソフトウェアの更新中にエラーが発生しました</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ocorreu uma falha durante a atualização do software InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A falha ocorreu ao atualizar o software InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Во время обновления программного обеспечения InControl Touch Pro произошел сбой</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha producido un fallo al actualizar el software de InControl Touch Pro.</tu>
+	<tu xmlns:lang="chs">更新 InControl Touch Pro 软件时发生故障</tu>
+	<tu
+    xmlns:lang="kor"
+  >InControl Touch Pro 소프트웨어 업데이트 중 오류가 발생했습니다.</tu>
+</tm>

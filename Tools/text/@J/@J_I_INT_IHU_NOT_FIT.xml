@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_IHU_NOT_FIT">
+	<tu xmlns:lang="eng">Integrated audio module not fitted</tu>
+	<tu xmlns:lang="nld">Geïntegreerde audiomodule niet aangebracht</tu>
+	<tu xmlns:lang="fra">Module audio intégré non monté</tu>
+	<tu xmlns:lang="deu">Integriertes Audiosystem nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Modulo audio integrato non installato</tu>
+	<tu xmlns:lang="jpn">インテグレート オーディオ モジュール非装備</tu>
+	<tu xmlns:lang="ptg">Módulo áudio integrado não instalado</tu>
+	<tu xmlns:lang="ptb">Módulo de áudio integrado não presente</tu>
+	<tu xmlns:lang="rus">Блок встроенной аудиосистемы не установлен</tu>
+	<tu xmlns:lang="esp">No tiene módulo de audio integrado</tu>
+	<tu xmlns:lang="chs">集成音频模块未安装</tu>
+	<tu xmlns:lang="kor">통합 오디오 모듈이 장착되지 않음</tu>
+</tm>

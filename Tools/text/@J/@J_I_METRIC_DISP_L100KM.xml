@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_METRIC_DISP_L100KM">
+	<tu xmlns:lang="eng">Metric display: liters/100km</tu>
+	<tu xmlns:lang="nld">Metrisch display:Liter/100km</tu>
+	<tu xmlns:lang="fra">Affichage métrique : litres/100 km</tu>
+	<tu xmlns:lang="deu">Metrische Anzeige:Liter/100 km</tu>
+	<tu xmlns:lang="ita">Display unità metriche: litri/100 km</tu>
+	<tu xmlns:lang="jpn">メートル表\示：l/100km</tu>
+	<tu xmlns:lang="ptg">Formato métrico de visualização: litros/100 km</tu>
+	<tu xmlns:lang="ptb">Exibição métrica: litros/100 km</tu>
+	<tu xmlns:lang="rus">Отображение в метрической системе измерений: л/100 км</tu>
+	<tu xmlns:lang="esp">Indicación en sistema métrico: litros/100 km</tu>
+	<tu xmlns:lang="chs">公制显示：L/100km</tu>
+	<tu xmlns:lang="kor">미터법 표시: L/100km</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATTERY_TIME_IN_SERVICE">
+	<tu xmlns:lang="eng">Battery time in service</tu>
+	<tu xmlns:lang="nld">Gebruiksduur van accu</tu>
+	<tu xmlns:lang="fra">Durée d'utilisation de la batterie</tu>
+	<tu xmlns:lang="deu">Batterie-Nutzungsdauer</tu>
+	<tu xmlns:lang="ita">Durata in servizio batteria</tu>
+	<tu xmlns:lang="jpn">バッテリ使用時間</tu>
+	<tu xmlns:lang="ptg">Tempo da bateria em serviço</tu>
+	<tu xmlns:lang="ptb">Tempo de bateria em serviço</tu>
+	<tu xmlns:lang="rus">Срок эксплуатации аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Tiempo en servicio de la batería</tu>
+	<tu xmlns:lang="chs">蓄电池使用时间</tu>
+	<tu xmlns:lang="kor">배터리 사용 시간</tu>
+</tm>

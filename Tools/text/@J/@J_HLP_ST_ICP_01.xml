@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_ICP_01">
+	<tu xmlns:lang="eng">On-demand self-test verifies the basic operation.</tu>
+	<tu xmlns:lang="nld">De opvraagbare zelftest verifieert de basiswerking.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'autodiagnostic sur demande vérifie le fonctionnement de base.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Selbsttest auf Abruf überprüft die grundlegende Funktion.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'autodiagnosi su richiesta verifica il funzionamento di base.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オンデマンド セルフテストにより基本的作動の正当性確認が行われます。</tu>
+	<tu xmlns:lang="ptg">O autoteste a pedido verifica o funcionamento básico.</tu>
+	<tu xmlns:lang="ptb">Sob demanda o auto-teste verifica a operação básica.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При самопроверке по запросу проверяются основные операции.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La autocomprobación a solicitud verifica el funcionamiento básico.</tu>
+	<tu xmlns:lang="chs">按需自检验证基本操作。</tu>
+	<tu xmlns:lang="kor">온디맨드 자체 테스트에서 기본 작동을 확인합니다.</tu>
+</tm>

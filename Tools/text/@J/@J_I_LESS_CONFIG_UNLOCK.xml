@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_CONFIG_UNLOCK">
+	<tu xmlns:lang="eng">Without configurable unlocking</tu>
+	<tu xmlns:lang="nld">Zonder configureerbaar ontgrendelen</tu>
+	<tu xmlns:lang="fra">Sans déverrouillage configurable</tu>
+	<tu xmlns:lang="deu">Ohne konfigurierbare Entriegelung </tu>
+	<tu xmlns:lang="ita">Senza sbloccaggio configurabile</tu>
+	<tu xmlns:lang="jpn">コンフィギュレーション可能\なアンロッキングなし</tu>
+	<tu xmlns:lang="ptg">Sem destrancagem configurável</tu>
+	<tu xmlns:lang="ptb">Sem destravamento configurável</tu>
+	<tu xmlns:lang="rus">Без настраиваемого отпирания</tu>
+	<tu xmlns:lang="esp">Sin desbloqueo configurable</tu>
+	<tu xmlns:lang="chs">无可配置的解锁</tu>
+	<tu xmlns:lang="kor">구성 가능한 잠금 해제 불포함</tu>
+</tm>

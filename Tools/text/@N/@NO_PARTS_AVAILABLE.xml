@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NO_PARTS_AVAILABLE">
+	<tu xmlns:lang="eng">No parts available</tu>
+	<tu xmlns:lang="nld">Geen onderdelen beschikbaar</tu>
+	<tu xmlns:lang="fra">Pas de pièces disponibles</tu>
+	<tu xmlns:lang="deu">Keine Teile verfügbar</tu>
+	<tu xmlns:lang="ita">Nessuna parte disponibile</tu>
+	<tu xmlns:lang="jpn">パーツは入手できません</tu>
+	<tu xmlns:lang="ptg">Não existem peças disponíveis</tu>
+	<tu xmlns:lang="ptb">Peças indisponíveis</tu>
+	<tu xmlns:lang="rus">Компоненты отсутствуют</tu>
+	<tu xmlns:lang="esp">No hay piezas disponibles</tu>
+	<tu xmlns:lang="chs">不能提供零件</tu>
+	<tu xmlns:lang="kor">사용 가능한 부품 없음</tu>
+</tm>

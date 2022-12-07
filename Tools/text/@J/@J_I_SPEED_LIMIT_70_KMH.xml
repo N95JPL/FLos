@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SPEED_LIMIT_70_KMH">
+	<tu xmlns:lang="eng">Speed limit 70 mph</tu>
+	<tu xmlns:lang="nld">Maximumsnelheid 70 mijl/h </tu>
+	<tu xmlns:lang="fra">Vitesse limite 70 mi/h </tu>
+	<tu xmlns:lang="deu">Geschwindigkeitsbegrenzung 70 mph </tu>
+	<tu xmlns:lang="ita">Limite di velocità 70 mph</tu>
+	<tu xmlns:lang="jpn">速度制限 70 マイル／時</tu>
+	<tu xmlns:lang="ptg">Limite de velocidade 70 mph</tu>
+	<tu xmlns:lang="ptb">Limite de velocidade 70 mph</tu>
+	<tu xmlns:lang="rus">Ограничение скорости 70 миль/ч </tu>
+	<tu xmlns:lang="esp">Límite de velocidad de 70 millas/h</tu>
+	<tu xmlns:lang="chs">速度限制 70 英里/小时</tu>
+	<tu xmlns:lang="kor">속도 제한 70mph</tu>
+</tm>

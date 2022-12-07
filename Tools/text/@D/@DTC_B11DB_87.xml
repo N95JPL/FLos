@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DTC_B11DB_87">
+	<tu
+    xmlns:lang="eng"
+  >B11DB-87 - Battery monitoring system communications loss</tu>
+	<tu
+    xmlns:lang="nld"
+  >B11DB-87 - Communicatieverlies met het accucontrolesysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >B11DB-87 - Perte de communication avec le système de surveillance de la batterie</tu>
+	<tu
+    xmlns:lang="deu"
+  >B11DB-87 - Batterieüberwachungssystem - Kommunikationsverlust</tu>
+	<tu
+    xmlns:lang="ita"
+  >B11DB-87 - Perdita di comunicazione del sistema di monitoraggio batteria</tu>
+	<tu xmlns:lang="jpn">B11DB-87 - バッテリ モニタリング システムの通信消失</tu>
+	<tu
+    xmlns:lang="ptg"
+  >B11DB-87 - Perda de comunicação com o sistema de monitorização da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >B11DB-87 - Perda de comunicação com o sistema de monitoramento da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >B11DB-87 - потеря связи с системой контроля аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >B11DB-87 - Pérdida de comunicación del sistema de control de la batería</tu>
+	<tu xmlns:lang="chs">B11DB-87--蓄电池监测系统通信中断</tu>
+	<tu xmlns:lang="kor">B11DB-87 - 배터리 모니터링 시스템 통신 손실</tu>
+</tm>

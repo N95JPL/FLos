@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_A_RUN_DTC_MONITOR">
+	<tu xmlns:lang="eng">Run the diagnostic trouble code monitor.</tu>
+	<tu xmlns:lang="nld">Voer de diagnosefoutcodebewaking uit.</tu>
+	<tu xmlns:lang="fra">Exécutez le contrôleur de codes de diagnostic.</tu>
+	<tu xmlns:lang="deu">Fehlercode-Monitor laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Eseguire il monitoraggio dei codici di guasto diagnostici.</tu>
+	<tu xmlns:lang="jpn">診断トラブル コード モニターを実行しなさい。</tu>
+	<tu xmlns:lang="ptg">Execute o monitor de diagnóstico de códigos de avaria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Execute o monitor do código de problema de diagnóstico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Провести контроль диагностических кодов неисправностей.</tu>
+	<tu xmlns:lang="esp">Hacer funcionar el lector de códigos de avería.</tu>
+	<tu xmlns:lang="chs">运行故障诊断码监测器。</tu>
+	<tu xmlns:lang="kor">고장 진단 코드 모니터를 실행하십시오.</tu>
+</tm>

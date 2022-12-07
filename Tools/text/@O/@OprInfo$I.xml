@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OprInfo$I">
+	<tu xmlns:lang="eng">Operator information</tu>
+	<tu xmlns:lang="nld">Operatorinformatie</tu>
+	<tu xmlns:lang="fra">Informations opérateur</tu>
+	<tu xmlns:lang="deu">Bedienerinformationen</tu>
+	<tu xmlns:lang="ita">Dati operatore</tu>
+	<tu xmlns:lang="jpn">オペレータ インフォメーション</tu>
+	<tu xmlns:lang="ptg">Informações do operador</tu>
+	<tu xmlns:lang="ptb">Informações do operador</tu>
+	<tu xmlns:lang="rus">Сведения об операторе</tu>
+	<tu xmlns:lang="esp">Información del operador</tu>
+	<tu xmlns:lang="chs">操作员信息</tu>
+	<tu xmlns:lang="kor">작업자 정보</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart242">
+	<tu xmlns:lang="eng">Stop inhibited due to fuel rail pressure too low</tu>
+	<tu xmlns:lang="nld">Stop geblokkeerd omdat de brandstofraildruk te laag is</tu>
+	<tu
+    xmlns:lang="fra"
+  >Arrêt neutralisé en raison d'une pression de rampe d'injection de carburant trop basse</tu>
+	<tu
+    xmlns:lang="deu"
+  >Stopp aufgrund zu niedrigen Kraftstoffverteilerrohrdrucks gesperrt</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitazione dell'arresto causata dalla pressione collettore di alimentazione carburante troppo bassa</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フューエル レール プレッシャが低すぎることによる停止禁止</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Inibição da paragem devido a pressão na rampa de combustível demasiado baixa</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Parada inibida devido à pressão muito baixa da flauta de combustível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Остановка заблокирована из-за слишком низкого давления в топливной рампе</tu>
+	<tu
+    xmlns:lang="esp"
+  >Parada bloqueada debido a que la presión en el tubo distribuidor de combustible es demasiado baja</tu>
+	<tu xmlns:lang="chs">因燃油分供管压力过低停止被禁用</tu>
+	<tu xmlns:lang="kor">너무 낮은 연료 레일 압력으로 인한 Stop 억제</tu>
+</tm>

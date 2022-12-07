@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_IPC_03">
+	<tu
+    xmlns:lang="eng"
+  >The passive anti-theft system, the on-demand self-test shall prove out the anti-theft indicator for 3 seconds, however, no communication with the control module shall be performed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij het passieve anti-diefstalsysteem, de opvraagbare zelftest zal het controlelampje van het anti-diefstalsysteem 3 seconden uittesten, zal er echter geen communicatie met de regelmodule plaatsvinden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour le système antivol passif, l'autodiagnostic sur demande contrôle le fonctionnement du témoin antivol pendant 3 secondes, mais aucune communication avec le module de commande n'a lieu.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beim passiven Diebstahlschutzsystem prüft der Selbsttest auf Abruf die Diebstahlschutzindikatoren für 3 Sekunden, es wird allerdings keine Kommunikation mit dem Steuergerät durchgeführt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per il sistema antifurto passivo, l'autodiagnosi su richiesta esegue la prova della spia antifurto per 3 secondi, senza però scambiare nessuna comunicazione con il modulo di comando.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >受動盗難防止システムについては、オンデマンド セルフテストは盗難防止インジケータを 3 秒間テストしますが、コントロール モジュールとの通信は行いません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema passivo anti-roubo - o autoteste a pedido testa o indicador do sistema anti-roubo durante 3 segundos, mas sem que haja qualquer comunicação com o módulo de controlo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema antifurto passivo e o autoteste sob demanda deverão comprovar o indicador antifurto por 3 segundos, no entanto, nenhuma comunicação com o módulo de controle deve ser realizada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Пассивная противоугонная система, самопроверка по запросу должна подтвердить работу системы включением индикатора противоугонной системы на 3 секунды, однако, связь с блоком управления не должна осуществляться.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para el sistema antirrobo pasivo, la autocomprobación solicitada comprobará el testigo del sistema durante 3 segundos, pero no habrá comunicación con el módulo de control.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'无源防盗系统、按需自检将证明防盗指示灯点亮 3 秒钟是合适的，但不执行与控制模块的通讯。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >패시브 도난 방지 시스템에 대한 온디맨드 자체 테스트에서 도난 방지 표시등이 3초간의 검사에 합격하지만, 컨트롤 모듈과의 통신이 수행되면 안 됩니다.</tu>
+</tm>

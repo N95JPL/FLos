@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@O_GR_SEL_NETR">
+	<tu xmlns:lang="eng">Move the gearshift selector to neutral.</tu>
+	<tu xmlns:lang="nld">Zet de transmissiehendel in de neutraalstand.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mettez le sélecteur de vitesses en position point mort.</tu>
+	<tu xmlns:lang="deu">Wählhebel in die Neutralstellung bringen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Spostare il selettore del cambio nella posizione di folle.</tu>
+	<tu xmlns:lang="jpn">ギアシフト セレクターをニュートラルへ移動しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deslocar a alavanca das mudanças para a posição de ponto morto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Mova o seletor da alavanca de seleção de marcha para neutro.</tu>
+	<tu xmlns:lang="rus">Перевести селектор в положение 'нейтраль'.</tu>
+	<tu xmlns:lang="esp">Mover el selector de marchas a la posición N.</tu>
+	<tu xmlns:lang="chs">将变速排挡选择器放回到空档档位。</tu>
+	<tu xmlns:lang="kor">기어 변속 셀렉터를 중립으로 이동하십시오.</tu>
+</tm>

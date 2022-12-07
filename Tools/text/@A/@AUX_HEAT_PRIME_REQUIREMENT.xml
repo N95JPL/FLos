@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUX_HEAT_PRIME_REQUIREMENT">
+	<tu
+    xmlns:lang="eng"
+  >The auxiliary heater should only be primed if the fuel line has been changed, or is there no fuel at the burner.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Naar de hulpverwarming mag alleen brandstof worden aangezogen als de brandstofleiding is vervangen of wanneer er in de brander geen brandstof aanwezig is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le chauffage auxiliaire ne doit être amorcé que si la conduite de carburant a été remplacée ou s'il n'y a pas de carburant dans le brûleur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Zusatzheizung muss nur mit Kraftstoff vorbefüllt werden, wenn die Kraftstoffleitung ausgetauscht wurde oder wenn kein Kraftstoff am Brenner ansteht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il riscaldatore ausiliario deve essere adescato soltanto se è stata sostituita la tubazione del carburante oppure se non vi è carburante nel bruciatore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フューエル ラインを交換したとき、あるいはバーナーにフューエルがないときにのみ、補助ヒーターをプライミングします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O aquecedor auxiliar só deve ser ferrado se o tubo de combustível tiver sido substituído ou se não existir combustível no queimador.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O aquecedor auxiliar só deve ser escorvado se a linha de combustível foi alterada, ou se não há nenhum combustível no queimador.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дополнительный подогреватель необходимо заливать топливом только в случае замены топливопровода или при отсутствии топлива на горелке.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El calefactor auxiliar debe cebarse solamente en caso de sustituirse la tubería de combustible, o si no hay combustible en el quemador.</tu>
+	<tu
+    xmlns:lang="chs"
+  >只有在燃油管路经过更换，或燃烧器中没有燃油时，才对辅助加热器进行加注。</tu>
+	<tu
+    xmlns:lang="kor"
+  >연료 라인을 교환했거나 버너에 연료가 없는 경우에만 보조 히터를 프라이밍해야 합니다.</tu>
+</tm>

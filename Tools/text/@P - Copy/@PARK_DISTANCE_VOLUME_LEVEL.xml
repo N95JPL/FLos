@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PARK_DISTANCE_VOLUME_LEVEL">
+	<tu xmlns:lang="eng">Parking distance control - rear volume</tu>
+	<tu xmlns:lang="nld">Parkeerafstandsregeling - achtervolume</tu>
+	<tu xmlns:lang="fra">Avertisseur de distance de man?uvre - volume arrière.</tu>
+	<tu xmlns:lang="deu">Steuerung Einparkhilfe - Lautstärke hinten</tu>
+	<tu xmlns:lang="ita">Controllo distanza parcheggio - volume posteriore</tu>
+	<tu xmlns:lang="jpn">パーキング ディスタンス コントロール - リア ボリューム</tu>
+	<tu xmlns:lang="ptg">Comando da distância de estacionamento - volume traseiro</tu>
+	<tu xmlns:lang="ptb">Controle de distância de estacionamento - volume traseiro</tu>
+	<tu xmlns:lang="rus">Управление дистанцией системы помощи при парковке - задний объем</tu>
+	<tu xmlns:lang="esp">Sistema de ayuda al aparcamiento: volumen trasero</tu>
+	<tu xmlns:lang="chs">驻车距离控制 - 尾部空间</tu>
+	<tu xmlns:lang="kor">주차 거리 컨트롤 - 리어 볼륨</tu>
+</tm>

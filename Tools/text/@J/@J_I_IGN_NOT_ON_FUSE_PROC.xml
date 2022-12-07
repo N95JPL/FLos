@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IGN_NOT_ON_FUSE_PROC">
+	<tu
+    xmlns:lang="eng"
+  >If ignition cannot be turned on repeat fuse removal procedure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het contact niet kan worden ingeschakeld, herhaalt u de procedure voor het verwijderen van de zekering.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si le contact ne peut pas être établi, répéter la procédure de retrait des fusibles.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn sich die Zündung nicht einschalten lässt, das Verfahren für den Sicherungsaustausch wiederholen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se non è possibile inserire l'accensione, ripetere la procedura di smontaggio del fusibile.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イグニションをオンにできない場合、ヒューズ取り外し手順を繰り返しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se não for possível ligar a ignição, repita o procedimento de desmontagem do fusível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se não for possível ligar a ignição, repita o procedimento e remoção do fusível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если зажигание не включается, поробуйте еще раз извлечь предохранитель.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si no se puede poner el contacto se deberá repetir el proceso de extracción del fusible.</tu>
+	<tu xmlns:lang="chs">如果点火不能打开，请重复保险丝拆除程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >점화 스위치를 켤 수 없는 경우 퓨즈 탈거 절차를 반복하십시오.</tu>
+</tm>

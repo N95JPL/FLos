@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALL_KEY_NOT_CYC">
+	<tu xmlns:lang="eng">All keys have not been cycled.</tu>
+	<tu xmlns:lang="nld">Niet alle sleutels zijn verwerkt.</tu>
+	<tu xmlns:lang="fra">Toutes les clés n'ont pas exécuté un cycle.</tu>
+	<tu xmlns:lang="deu">Es wurden noch nicht alle Schlüssel benutzt.</tu>
+	<tu xmlns:lang="ita">Ciclo non eseguito di tutte le chiavi.</tu>
+	<tu xmlns:lang="jpn">全キーがサイクルされていません。</tu>
+	<tu xmlns:lang="ptg">As chaves não foram todas ligadas/desligadas.</tu>
+	<tu xmlns:lang="ptb">Nenhuma chave foi girada.</tu>
+	<tu xmlns:lang="rus">Для включения зажигания использовались не все ключи.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha realizado el ciclo completo con todas las llaves.</tu>
+	<tu xmlns:lang="chs">并非所有钥匙均已循环使用一遍。</tu>
+	<tu xmlns:lang="kor">모든 키의 사이클이 수행되지 않았습니다.</tu>
+</tm>

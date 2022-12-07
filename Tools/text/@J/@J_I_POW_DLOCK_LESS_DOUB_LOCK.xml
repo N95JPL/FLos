@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_POW_DLOCK_LESS_DOUB_LOCK">
+	<tu xmlns:lang="eng">Power door locks, less double dead lock.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Elektrisch bediende portiersloten, zonder dubbele deadlock.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Serrures de portes électriques sans double verrouillage.</tu>
+	<tu xmlns:lang="deu">Elektrische Türverriegelung ohne Doppelverriegelung.</tu>
+	<tu xmlns:lang="ita">Serrature elettriche portiere, senza doppia chiusura.</tu>
+	<tu xmlns:lang="jpn">ダブル デッドロックなし、電動ドア ロック</tu>
+	<tu xmlns:lang="ptg">Trancagem eléctrica das portas, menos trancagem dupla.</tu>
+	<tu xmlns:lang="ptb">Travas elétricas da porta, menos trava dupla morta.</tu>
+	<tu xmlns:lang="rus">Запирание электрозамка двери, без двойного запирания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cerraduras eléctricas de las puertas sin cierre con enclavamiento.</tu>
+	<tu xmlns:lang="chs">'电动门锁，不带双锁止。'</tu>
+	<tu xmlns:lang="kor">파워 도어 록, 이중 잠금 기능 없음</tu>
+</tm>

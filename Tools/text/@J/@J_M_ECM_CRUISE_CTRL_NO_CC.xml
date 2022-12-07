@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ECM_CRUISE_CTRL_NO_CC">
+	<tu xmlns:lang="eng">No speed control is fitted</tu>
+	<tu xmlns:lang="nld">Geen cruise control gemonteerd</tu>
+	<tu xmlns:lang="fra">Véhicule sans régulateur de vitesse</tu>
+	<tu xmlns:lang="deu">Kein Geschwindigkeitsregler eingebaut</tu>
+	<tu xmlns:lang="ita">Non è in dotazione nessun controllo di velocità</tu>
+	<tu xmlns:lang="jpn">スピード コントロールは装備されていません。</tu>
+	<tu xmlns:lang="ptg">Não está instalado o controlo de velocidade</tu>
+	<tu xmlns:lang="ptb">Nenhum controle de velocidade está instalado</tu>
+	<tu xmlns:lang="rus">Круиз-контроль не установлено</tu>
+	<tu xmlns:lang="esp">El sistema de control de velocidad no está instalado</tu>
+	<tu xmlns:lang="chs">未安装速度控制系统</tu>
+	<tu xmlns:lang="kor">장착된 스피드 컨트롤이 없음</tu>
+</tm>

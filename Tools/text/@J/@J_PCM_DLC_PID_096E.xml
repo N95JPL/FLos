@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_PCM_DLC_PID_096E">
+	<tu xmlns:lang="eng">Idle speed set-point.</tu>
+	<tu xmlns:lang="nld">Instelpunt van stationair toerental.</tu>
+	<tu xmlns:lang="fra">Valeur de consigne de régime de ralenti.</tu>
+	<tu xmlns:lang="deu">Sollwert Leerlaufdrehzahl.</tu>
+	<tu xmlns:lang="ita">Punto prestabilito di regime di minimo.</tu>
+	<tu xmlns:lang="jpn">アイドル スピード セットポイント</tu>
+	<tu xmlns:lang="ptg">Valor de referência do ralenti.</tu>
+	<tu xmlns:lang="ptb">Ponto de ajuste da velocidade em marcha lenta.</tu>
+	<tu xmlns:lang="rus">Уставка холостого хода.</tu>
+	<tu xmlns:lang="esp">Valor programado de la velocidad de ralentí.</tu>
+	<tu xmlns:lang="chs">怠速转速设置点。</tu>
+	<tu xmlns:lang="kor">공회전 속도 설정 지점</tu>
+</tm>

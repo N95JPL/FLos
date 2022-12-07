@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart300">
+	<tu xmlns:lang="eng">Pre-condition</tu>
+	<tu xmlns:lang="nld">Voorwaarden</tu>
+	<tu xmlns:lang="fra">Condition préalable</tu>
+	<tu xmlns:lang="deu">Vorklimatisierung</tu>
+	<tu xmlns:lang="ita">Condizione preliminare</tu>
+	<tu xmlns:lang="jpn">前提条件</tu>
+	<tu xmlns:lang="ptg">Pré-requisito</tu>
+	<tu xmlns:lang="ptb">Pré-condição</tu>
+	<tu xmlns:lang="rus">Предварительные условия</tu>
+	<tu xmlns:lang="esp">Condición previa</tu>
+	<tu xmlns:lang="chs">预处理</tu>
+	<tu xmlns:lang="kor">전제 조건</tu>
+</tm>

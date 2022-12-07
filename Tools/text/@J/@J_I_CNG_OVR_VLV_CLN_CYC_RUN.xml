@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CNG_OVR_VLV_CLN_CYC_RUN">
+	<tu xmlns:lang="eng">Change-over valve cleaning cycle is running.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De reinigingscyclus van de wisselklep wordt nu uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Cycle de nettoyage de vanne d'inverseur en cours.</tu>
+	<tu xmlns:lang="deu">Reinigungszyklus - Umschaltventil läuft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È in corso il ciclo di pulizia delle valvole di commutazione.</tu>
+	<tu xmlns:lang="jpn">チェンジオーバー バルブ クリーニング サイクル進行中</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O ciclo de limpeza da válvula de comutação está a ser realizado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O ciclo do apagamento da válvula comutadora está em funcionamento.</tu>
+	<tu xmlns:lang="rus">Выполняется цикл очистки переключающего клапана.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Está en curso el ciclo de limpieza de la válvula de conmutación.</tu>
+	<tu xmlns:lang="chs">切换阀正在运行清洁循环。</tu>
+	<tu xmlns:lang="kor">전환 밸브 청소 주기가 실행 중입니다.</tu>
+</tm>

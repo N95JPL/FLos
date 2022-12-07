@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEIGHT_CALIBRATION">
+	<tu xmlns:lang="eng">Height calibration</tu>
+	<tu xmlns:lang="nld">Hoogtekalibrering</tu>
+	<tu xmlns:lang="fra">Etalonnage de hauteur</tu>
+	<tu xmlns:lang="deu">Höhenkalibrierung</tu>
+	<tu xmlns:lang="ita">Taratura altezza</tu>
+	<tu xmlns:lang="jpn">ハイト キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem da altura</tu>
+	<tu xmlns:lang="ptb">Calibração de altura</tu>
+	<tu xmlns:lang="rus">Калибровка высоты</tu>
+	<tu xmlns:lang="esp">Calibración de altura</tu>
+	<tu xmlns:lang="chs">高度校准</tu>
+	<tu xmlns:lang="kor">차고 보정</tu>
+</tm>

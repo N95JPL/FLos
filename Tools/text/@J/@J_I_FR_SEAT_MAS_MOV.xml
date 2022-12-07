@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FR_SEAT_MAS_MOV">
+	<tu xmlns:lang="eng">Front seat massage movement</tu>
+	<tu xmlns:lang="nld">Beweging van voorstoel bij masseren</tu>
+	<tu xmlns:lang="fra">Mouvement de massage de siège avant</tu>
+	<tu xmlns:lang="deu">Vordersitz-Massagebewegung</tu>
+	<tu xmlns:lang="ita">Movimento massaggio sedile anteriore</tu>
+	<tu xmlns:lang="jpn">フロント シート マッサージ作動</tu>
+	<tu xmlns:lang="ptg">Movimento de massagem do assento dianteiro</tu>
+	<tu xmlns:lang="ptb">Movimentação do massageador do assento dianteiro</tu>
+	<tu xmlns:lang="rus">Регулировка массажера переднего сиденья</tu>
+	<tu xmlns:lang="esp">Movimiento de masaje del asiento delantero</tu>
+	<tu xmlns:lang="chs">前座椅按摩系统移动</tu>
+	<tu xmlns:lang="kor">전방 시트 마사지 작동</tu>
+</tm>

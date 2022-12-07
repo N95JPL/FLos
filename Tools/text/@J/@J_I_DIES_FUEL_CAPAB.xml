@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIES_FUEL_CAPAB">
+	<tu xmlns:lang="eng">Diesel fuel capability.</tu>
+	<tu xmlns:lang="nld">Kan dieselolie gebruiken.</tu>
+	<tu xmlns:lang="fra">Capacité carburant diesel.</tu>
+	<tu xmlns:lang="deu">Kann mit Diesel betrieben werden.</tu>
+	<tu xmlns:lang="ita">Capacità di gasolio.</tu>
+	<tu xmlns:lang="jpn">ディーゼル フュエル性能\</tu>
+	<tu xmlns:lang="ptg">Capacidade para diesel.</tu>
+	<tu xmlns:lang="ptb">Capacidade do combustível diesel.</tu>
+	<tu xmlns:lang="rus">Комплектация для работы на дизельном топливе.</tu>
+	<tu xmlns:lang="esp">Capacidad de gasoil.</tu>
+	<tu xmlns:lang="chs">柴油机燃油容量。</tu>
+	<tu xmlns:lang="kor">디젤 연료 기능</tu>
+</tm>

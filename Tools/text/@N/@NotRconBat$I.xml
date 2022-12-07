@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NotRconBat$I">
+	<tu
+    xmlns:lang="eng"
+  >Do not re-connect the battery until requested to do so.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U mag de accu niet opnieuw vastkoppelen totdat het systeem hierom vraagt.</tu>
+	<tu xmlns:lang="fra">Ne rebranchez pas la batterie avant d'y être invité.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Batterie erst wieder anschließen, wenn Sie hierzu aufgefordert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non ricollegare la batteria fino a quando non viene richiesto.</tu>
+	<tu xmlns:lang="jpn">指示があるまでバッテリを再接続しないでください。</tu>
+	<tu xmlns:lang="ptg">Não ligue a bateria enquanto tal não lhe for pedido.</tu>
+	<tu xmlns:lang="ptb">Não conecte novamente a bateria até que solicitado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не подключайте аккумуляторную батарею, пока система не предложит этого сделать.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No volver a conectar la batería hasta que se solicite hacerlo.</tu>
+	<tu xmlns:lang="chs">在未得到要求时，不要重新连接蓄电池。</tu>
+	<tu xmlns:lang="kor">요청이 있을 때까지 배터리를 다시 연결하지 마십시오.</tu>
+</tm>

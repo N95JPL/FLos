@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IVDC_NO_BCM">
+	<tu xmlns:lang="eng">No body control module</tu>
+	<tu xmlns:lang="nld">Geen carrosserieregelmodule</tu>
+	<tu xmlns:lang="fra">Absence de module de commande de carrosserie</tu>
+	<tu xmlns:lang="deu">Kein Karosseriesteuergerät</tu>
+	<tu xmlns:lang="ita">Senza modulo comando carrozzeria </tu>
+	<tu xmlns:lang="jpn">ボディ コントロール モジュールなし</tu>
+	<tu xmlns:lang="ptg">Nenhum módulo de controlo da carroçaria</tu>
+	<tu xmlns:lang="ptb">Nenhum módulo de controle da carroceria</tu>
+	<tu xmlns:lang="rus">Отсутствует блок управления системами кузова</tu>
+	<tu xmlns:lang="esp">No hay módulo de control de la carrocería</tu>
+	<tu xmlns:lang="chs">无车身控制模块</tu>
+	<tu xmlns:lang="kor">차체 컨트롤 모듈 없음</tu>
+</tm>

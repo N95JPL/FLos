@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_95">
+	<tu xmlns:lang="eng">Component failure - incorrect assembly.</tu>
+	<tu xmlns:lang="nld">Component defect - onjuist gemonteerd.</tu>
+	<tu xmlns:lang="fra">Composant défectueux - ensemble incorrect.</tu>
+	<tu xmlns:lang="deu">Bauteilstörung - falscher Zusammenbau.</tu>
+	<tu xmlns:lang="ita">Guasto componente - montaggio errato.</tu>
+	<tu xmlns:lang="jpn">コンポーネント故障 － アセンブリ不正</tu>
+	<tu xmlns:lang="ptg">Falha de componente - conjunto incorrecto.</tu>
+	<tu xmlns:lang="ptb">Falha do componente - conjunto incorreto.</tu>
+	<tu xmlns:lang="rus">Отказ элемента - неправильная сборка.</tu>
+	<tu xmlns:lang="esp">Fallo de componente: ensamblaje incorrecto.</tu>
+	<tu xmlns:lang="chs">元件故障 - 不正确的总成。</tu>
+	<tu xmlns:lang="kor">구성 요소 고장 - 조립이 잘못됨</tu>
+</tm>

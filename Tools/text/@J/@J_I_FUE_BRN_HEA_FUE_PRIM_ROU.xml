@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUE_BRN_HEA_FUE_PRIM_ROU">
+	<tu xmlns:lang="eng">Fuel burning heater, fuel priming routine.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Routine voor het aanzuigen van brandstof, op brandstof werkende verwarming.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Chauffage à combustion de carburant, programme d'amorçage de l'alimentation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kraftstoffbetriebener Zusatzheizer, Kraftstoff-Vorbefüllroutine.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Riscaldatore alimentato a carburante, procedura d'iniezione d'avviamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フューエル燃焼ヒーター、フューエル プライミング ルーチン</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aquecedor a combustível, rotina de ferragem do combustível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aquecedor da queima de combustível, rotina de preparação de combustível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Жидкостный подогреватель, операция прокачки топливной системы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Calefactor a gasóleo, rutina de cebado del combustible.</tu>
+	<tu xmlns:lang="chs">'燃油燃烧型加热器，燃油起动燃油加注常规程序。'</tu>
+	<tu xmlns:lang="kor">연료 연소식 히터, 연료 프라이밍 절차</tu>
+</tm>

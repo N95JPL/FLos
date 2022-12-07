@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart36">
+	<tu
+    xmlns:lang="eng"
+  >This condition can also be due to normal battery charging requirements and will clear once the requirement is met.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toestand kan ook het gevolg zijn van normale vereisten voor acculading en wordt opgeheven zodra de aan vereiste wordt voldaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette condition peut également être due à un besoin normal de charge de la batterie et s'effacera une fois ce besoin satisfait.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Zustand kann auch auf normale Batterieladeanforderungen zurückzuführen sein und wird gelöscht, wenn die Anforderungen erfüllt sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa condizione può essere inoltre causata dai normali requisiti di carica della batteria e scompare una volta soddisfatto tale requisito.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この状態は、通常のバッテリー充電要件によって発生することもあります。要件が満たされると解消します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta condição também pode ser provocada pelos requisitos normais de carregamento da bateria e apaga-se assim que for cumprido o requisito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa condição também pode ocorrer devido a requisitos normais de carga da bateria, sendo apagada assim que o requisito for atendido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное состояние также может быть обусловлено стандартными требованиями по зарядке аккумуляторной батареи и исчезать при соответствии этим требованиям.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta condición también puede deberse a los requisitos de carga normal de la batería y desaparecerá una vez que se haya cumplido el requisito.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这种情况也可能因蓄电池正常充电要求而导致，一旦满足此要求，此故障将清除。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 상태는 일반적인 배터리 충전 요구 사항 때문일 수도 있으며 요구 사항이 충족되면 해소됩니다.</tu>
+</tm>

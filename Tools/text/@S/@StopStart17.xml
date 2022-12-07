@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart17">
+	<tu
+    xmlns:lang="eng"
+  >Once this procedure has been completed a auto stop/start system health check must be carried out to confirm correct function.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Nadat deze procedure is uitgevoerd, moet er een statuscontrole van het automatische Stop/Start-systeem worden uitgevoerd om de juiste werking te controleren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois cette procédure effectuée, il est nécessaire de procéder à un contrôle d'état du système Arrêt/Démarrage auto pour confirmer son bon fonctionnement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss dieses Verfahrens muss eine Zustandsprüfung des Auto-Stopp-Start-Systems durchgeführt werden, um die einwandfreie Funktion zu bestätigen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta completata questa procedura, è necessario eseguire un controllo per confermare che il sistema Stop/Start automatico funzioni correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順が完了したら、オート ストップ/スタート システムの正常性点検を実行して、正しく機能することを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Depois de este procedimento ter sido concluído, deve ser efetuada uma verificação do estado do sistema Stop/Start automático para confirmar o seu funcionamento correto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Assim que esse procedimento for concluído, uma verificação de integridade do sistema stop/start deve ser realizada para confirmar o funcionamento correto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После завершения этой процедуры будет проведена проверка состояния автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт для подтверждения исправности работы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez que se haya completado este procedimiento, debe comprobarse el estado del sistema Stop/Start automático para confirmar que funciona correctamente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >此步骤完成后，必须执行自动停止/启动系统的健康检查，以确认运行正确。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차를 완료한 후 자동 Stop/Start 시스템 상태 점검을 수행하여 올바르게 작동하는지 확인해야 합니다.</tu>
+</tm>

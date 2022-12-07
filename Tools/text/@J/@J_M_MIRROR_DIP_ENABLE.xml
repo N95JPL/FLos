@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_MIRROR_DIP_ENABLE">
+	<tu xmlns:lang="eng">Mirror dip in reverse enable</tu>
+	<tu xmlns:lang="nld">Spiegel kiepstand in achteruit actief</tu>
+	<tu xmlns:lang="fra">Basculement des retroviseurs en marche arriere active</tu>
+	<tu xmlns:lang="deu">Einschaltung spiegelabkippung bei rückwärtsfahrt</tu>
+	<tu xmlns:lang="ita">Abilitazione abbassamento specchietto in retromarcia</tu>
+	<tu xmlns:lang="jpn">リバース ミラー ディップ作ｮ選択</tu>
+	<tu xmlns:lang="ptg">Inclinação do retrovisor em marcha-atrás, activar</tu>
+	<tu xmlns:lang="ptb">Ajuste do retrovisor em marcha à ré ativado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Разрешение функции автоматического наклона зеркала заднего вида при движении задним ходом</tu>
+	<tu
+    xmlns:lang="esp"
+  >Habilitación de inclinación de retrovisores en marcha atrás</tu>
+	<tu xmlns:lang="chs">倒档时后视镜倾斜启用</tu>
+	<tu xmlns:lang="kor">리버스 미러 딥 활성화</tu>
+</tm>

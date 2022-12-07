@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AntiTrapFail$M">
+	<tu xmlns:lang="eng">Failed to learn anti-trap parameters.</tu>
+	<tu xmlns:lang="nld">Het inleren van de antiblokkeerparameters is mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec de l'apprentissage des paramètres anti-pincement.</tu>
+	<tu xmlns:lang="deu">Einklemmschutz-Parameter wurden nicht erlernt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Mancato apprendimento parametri anti-intrappolamento finestrini.</tu>
+	<tu xmlns:lang="jpn">アンチ トラップ パラメータの学習に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Falha em reconhecer os parâmetros de antientalo.</tu>
+	<tu xmlns:lang="ptb">Falha ao memorizar os parâmetros antiesmagamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Невозможно сохранить параметры функции предотвращения защемления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudieron aprender los parámetros antipinzamiento.</tu>
+	<tu xmlns:lang="chs">学习防陷阱参数失败。</tu>
+	<tu xmlns:lang="kor">학습 안티 트랩 매개 변수 학습에 실패했습니다.</tu>
+</tm>

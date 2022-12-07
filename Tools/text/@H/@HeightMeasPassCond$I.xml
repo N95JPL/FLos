@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HeightMeasPassCond$I">
+	<tu
+    xmlns:lang="eng"
+  >For a pass condition all 4 wheels must have a height calibration error of 3mm or less.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voor goedkeuring mag de hoogtekalibreringsfout maximaal 3 mm per wiel bedragen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour que la calibration réussisse, il faut que les 4 roues disposent d'une erreur d'étalonnage de hauteur de moins de 3 mm.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um den Test zu bestehen, müssen alle vier Räder einen Fahrhöhen-Kalibrierungsfehler von 3 mm oder geringer aufweisen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per superare la prova, tutte e quattro le ruote devono presentare un errore di taratura di altezza di 3 mm o inferiore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パスするには、4 輪すべてのハイト キャリブレーション エラーが 3 mm またはそれ以下でなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para a calibragem ser aprovada, as 4 rodas têm de ter todas um desvio na calibragem da altura até 3 mm.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para uma condição de passagem, todas as 4 as rodas devem ter uma falha na calibração de altura de 3 mm ou menos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для получения положительного результата проверки все 4 колеса должны иметь ошибку калибровки высоты не более 3 мм.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para superar la prueba, el error de calibración de altura en las cuatro ruedas debe ser de como máximo 3 mm.</tu>
+	<tu
+    xmlns:lang="chs"
+  >通过条件是：所有4个车轮的高度标定误差都必须等于或小于3毫米。</tu>
+	<tu
+    xmlns:lang="kor"
+  >통과하려면 휠 4개 모두 높이 보정 오류가 3mm 이하여야 합니다.</tu>
+</tm>

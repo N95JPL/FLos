@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@START_AUTHORISATION_STATUS">
+	<tu xmlns:lang="eng">Start authorisation status</tu>
+	<tu xmlns:lang="nld">Status van startautorisatie</tu>
+	<tu xmlns:lang="fra">Etat de l'autorisation de démarrage</tu>
+	<tu xmlns:lang="deu">Status Startautorisierung</tu>
+	<tu xmlns:lang="ita">Stato di autorizzazione avviamento</tu>
+	<tu xmlns:lang="jpn">始動許可ステータス</tu>
+	<tu xmlns:lang="ptg">Estado da autorização para iniciar</tu>
+	<tu xmlns:lang="ptb">Status de autorização de partida</tu>
+	<tu xmlns:lang="rus">Состояние авторизации запуска</tu>
+	<tu xmlns:lang="esp">Estado de autorización de arranque</tu>
+	<tu xmlns:lang="chs">启动授权状态</tu>
+	<tu xmlns:lang="kor">시동 승인 상태</tu>
+</tm>

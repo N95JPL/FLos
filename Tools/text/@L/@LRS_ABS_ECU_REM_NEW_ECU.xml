@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_ABS_ECU_REM_NEW_ECU">
+	<tu
+    xmlns:lang="eng"
+  >The existing ABS electronic control unit is removed and a new electronic control unit is fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De bestaande elektronische ABS-regelmodule wordt verwijderd en er wordt een nieuwe elektronische regelmodule geïnstalleerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module de commande électronique ABS existant est déposé et un nouveau module de commande électronique est installé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das vorhandene elektronische ABS-Steuergerät wird ausgebaut und ein neues elektronisches Steuergerät wird eingebaut.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Viene rimossa l'unità di comando elettronica ABS esistente e viene montata una nuova unità di comando elettronica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >現存 ABS エレクトロニック コントロール ユニットが取り外され、新品のエレクトロニック コントロール ユニットが取り付けられます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A unidade electrónica de controlo do ABS existente é desmontada e é montada uma nova.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A unidade de controle eletrônico ABS existente é removida e uma nova unidade de controle eletrônico é instalada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Существующий электронный блок управления ABS удален, и установлен новый электронный блок управления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se desmonta el módulo de control electrónico existente del ABS y se sustituye por uno nuevo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >拆除了现有 ABS 电子控制单元并安装了一个新的电子控制单元。</tu>
+	<tu
+    xmlns:lang="kor"
+  >기존 ABS 전자 컨트롤 유닛이 탈거되고 신품 전자 컨트롤 유닛이 장착됩니다.</tu>
+</tm>

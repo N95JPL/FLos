@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TGATE_TRUN_FUNC">
+	<tu xmlns:lang="eng">Tailgate/trunk function</tu>
+	<tu xmlns:lang="nld">Achterklep/kofferdeksel-functie</tu>
+	<tu xmlns:lang="fra">Fonction hayon/coffre</tu>
+	<tu xmlns:lang="deu">Funktion Heckklappe/Kofferraumdeckel</tu>
+	<tu xmlns:lang="ita">Funzione portellone/bagagliaio</tu>
+	<tu xmlns:lang="jpn">テールゲート／トランク機能\</tu>
+	<tu xmlns:lang="ptg">Função porta traseira/bagageira</tu>
+	<tu xmlns:lang="ptb">Função de tampa traseira/porta-malas</tu>
+	<tu xmlns:lang="rus">Функционирование двери/крышки багажного отделения</tu>
+	<tu xmlns:lang="esp">Función de portón trasero/maletero</tu>
+	<tu xmlns:lang="chs">尾门／行李箱功能</tu>
+	<tu xmlns:lang="kor">테일게이트/트렁크 기능</tu>
+</tm>

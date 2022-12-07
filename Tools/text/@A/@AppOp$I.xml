@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AppOp$I">
+	<tu
+    xmlns:lang="eng"
+  >The principle of this application is that the operator will have 3 attempts to calibrate the suspension, in case the first attempt fails.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het principe waar deze toepassing van uitgaat is dat de monteur 3 keer de ophanging kan proberen te kalibreren, mocht de eerste poging mislukken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le principe de cette application est que l'opérateur dispose de 3 tentatives pour calibrer la suspension, au cas où la première tentative échouerait.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Anwendungsprogramm räumt dem Anwender 3 Versuche für das Kalibrieren der Federung ein, falls dies nicht beim ersten Mal klappt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il principio di questa applicazione è che l'operatore potrà fare tre tentativi per tarare le sospensioni, se il primo tentativo non riesce.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションの原則では、最初の試行に失敗しても、オペレータは 3 回までサスペンション キャリブレーションを行うことができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O princípio desta aplicação é que o operador terá 3 tentativas para calibrar a suspensão, caso a primeira tentativa falhe.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O princípio desse aplicativo é o operador ter 3 tentativas para calibrar a suspensão, no caso de a primeira tentativa falhar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Особенностью этого приложения является то, что у оператора будет 3 попытки калибровки подвески в том случае, если не получится с первого раза.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El principio de esta aplicación es que el técnico tendrá tres intentos para calibrar la suspensión, en caso de que falle el primer intento.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'此应用程序的原则是：操作员将尝试3次标定悬挂，以防第一次尝试失败。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램의 원칙은 작업자가 첫 번째 서스펜션 보정에 실패할 경우 이를 3회 시도하게 된다는 것입니다.</tu>
+</tm>

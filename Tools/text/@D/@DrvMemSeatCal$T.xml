@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DrvMemSeatCal$T">
+	<tu xmlns:lang="eng">Driver's memory seat calibration.</tu>
+	<tu xmlns:lang="nld">Kalibrering van bestuurdersstoelgeheugen.</tu>
+	<tu xmlns:lang="fra">Etalonnage du siège conducteur à mémoire.</tu>
+	<tu xmlns:lang="deu">Kalibrierung - Fahrersitz mit Sitzspeicher.</tu>
+	<tu xmlns:lang="ita">Taratura sedile guidatore con memoria.</tu>
+	<tu xmlns:lang="jpn">運転席側メモリ シート キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem da memorização do banco do condutor.</tu>
+	<tu xmlns:lang="ptb">Calibragem do assento com memória do motorista.</tu>
+	<tu xmlns:lang="rus">Калибровка сиденья водителя с настройками в памяти.</tu>
+	<tu xmlns:lang="esp">Calibración de la memoria del asiento del conductor.</tu>
+	<tu xmlns:lang="chs">驾驶员一侧记忆座椅标定。</tu>
+	<tu xmlns:lang="kor">운전석 메모리 시트 보정</tu>
+</tm>

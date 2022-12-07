@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LESS_DISPLAY">
+	<tu xmlns:lang="eng">Without display</tu>
+	<tu xmlns:lang="nld">Zonder scherm</tu>
+	<tu xmlns:lang="fra">Sans affichage</tu>
+	<tu xmlns:lang="deu">Ohne Display</tu>
+	<tu xmlns:lang="ita">Senza display</tu>
+	<tu xmlns:lang="jpn">ディスプレイなし</tu>
+	<tu xmlns:lang="ptg">Sem ecrã</tu>
+	<tu xmlns:lang="ptb">Sem display</tu>
+	<tu xmlns:lang="rus">Без дисплея</tu>
+	<tu xmlns:lang="esp">Sin pantalla</tu>
+	<tu xmlns:lang="chs">无显示器</tu>
+	<tu xmlns:lang="kor">디스플레이 미장착</tu>
+</tm>

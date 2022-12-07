@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TIRE_DIMENSIONS">
+	<tu xmlns:lang="eng">Tire dimensions</tu>
+	<tu xmlns:lang="nld">Bandafmetingen</tu>
+	<tu xmlns:lang="fra">Dimensions des pneus.</tu>
+	<tu xmlns:lang="deu">Reifenmaße</tu>
+	<tu xmlns:lang="ita">Dimensioni pneumatico</tu>
+	<tu xmlns:lang="jpn">タイヤ ディメンション</tu>
+	<tu xmlns:lang="ptg">Dimensões dos pneus</tu>
+	<tu xmlns:lang="ptb">Dimensões do pneu</tu>
+	<tu xmlns:lang="rus">Размеры шины</tu>
+	<tu xmlns:lang="esp">Dimensiones de los neumáticos</tu>
+	<tu xmlns:lang="chs">轮胎尺寸</tu>
+	<tu xmlns:lang="kor">타이어 치수</tu>
+</tm>

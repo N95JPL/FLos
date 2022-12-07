@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REC_ALAR_TRIG">
+	<tu xmlns:lang="eng">Most recent alarm triggers.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De meest recente oorzaken voor het laten afgaan van het alarm.</tu>
+	<tu xmlns:lang="fra">Déclenchements d'alarmes les plus récents.</tu>
+	<tu xmlns:lang="deu">Kürzest zurückliegende Alarmauslösungen.</tu>
+	<tu xmlns:lang="ita">Attivazioni allarme più recenti.</tu>
+	<tu xmlns:lang="jpn">最新のアラーム トリガー</tu>
+	<tu xmlns:lang="ptg">Disparos de alarme mais recentes.</tu>
+	<tu xmlns:lang="ptb">Acionadores de alarme mais recentes.</tu>
+	<tu xmlns:lang="rus">Самые последние срабатывания сигнализации.</tu>
+	<tu xmlns:lang="esp">Disparos más recientes de la alarma.</tu>
+	<tu xmlns:lang="chs">最近的报警触发器。</tu>
+	<tu xmlns:lang="kor">가장 최근의 알람 트리거 내역</tu>
+</tm>

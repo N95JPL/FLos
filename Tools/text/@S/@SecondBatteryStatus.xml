@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SecondBatteryStatus">
+	<tu xmlns:lang="eng">Secondary battery status</tu>
+	<tu xmlns:lang="nld">Status van secundaire accu</tu>
+	<tu xmlns:lang="fra">État de la batterie secondaire</tu>
+	<tu xmlns:lang="deu">Status Sekundärbatterie</tu>
+	<tu xmlns:lang="ita">Stato batteria secondaria</tu>
+	<tu xmlns:lang="jpn">セカンダリ バッテリーのステータス</tu>
+	<tu xmlns:lang="ptg">Estado da bateria secundária</tu>
+	<tu xmlns:lang="ptb">Status da bateria secundária</tu>
+	<tu xmlns:lang="rus">Состояние вспомогательной аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Estado de la batería secundaria</tu>
+	<tu xmlns:lang="chs">辅助蓄电池状态</tu>
+	<tu xmlns:lang="kor">보조 배터리 상태</tu>
+</tm>

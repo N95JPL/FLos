@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HOT_CLIMATE">
+	<tu xmlns:lang="eng">Hot climate</tu>
+	<tu xmlns:lang="nld">Warm klimaat</tu>
+	<tu xmlns:lang="fra">Climat chaud.</tu>
+	<tu xmlns:lang="deu">Heißes Klima</tu>
+	<tu xmlns:lang="ita">Climi caldi</tu>
+	<tu xmlns:lang="jpn">ホット クライメート</tu>
+	<tu xmlns:lang="ptg">Clima quente</tu>
+	<tu xmlns:lang="ptb">Climas quentes</tu>
+	<tu xmlns:lang="rus">Жаркий климат</tu>
+	<tu xmlns:lang="esp">Clima cálido</tu>
+	<tu xmlns:lang="chs">炎热气候</tu>
+	<tu xmlns:lang="kor">고온 기후</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_MPH_OR_KPH">
+	<tu xmlns:lang="eng">Road speed units</tu>
+	<tu xmlns:lang="nld">Rijsnelheidseenheden</tu>
+	<tu xmlns:lang="fra">Unites de vitesse du vehicule</tu>
+	<tu xmlns:lang="deu">Einheit fahrgeschwindigkeit</tu>
+	<tu xmlns:lang="ita">Unita di velocita su strada</tu>
+	<tu xmlns:lang="jpn">車葬P位</tu>
+	<tu xmlns:lang="ptg">Unidades de velocidade em estrada</tu>
+	<tu xmlns:lang="ptb">Unidades de velocidade na estrada</tu>
+	<tu xmlns:lang="rus">Единицы скорости движения</tu>
+	<tu xmlns:lang="esp">Unidades de velocidad</tu>
+	<tu xmlns:lang="chs">行驶速度计量单位</tu>
+	<tu xmlns:lang="kor">주행 속도 단위</tu>
+</tm>

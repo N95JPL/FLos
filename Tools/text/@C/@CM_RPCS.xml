@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_RPCS">
+	<tu xmlns:lang="eng">Rear passenger convenience</tu>
+	<tu xmlns:lang="nld">Comfort van de achterpassagier</tu>
+	<tu xmlns:lang="fra">Confort passagers arrière</tu>
+	<tu xmlns:lang="deu">Rücksitz-Komfortausstattung</tu>
+	<tu xmlns:lang="ita">Funzione luci per passeggeri posteriori</tu>
+	<tu xmlns:lang="jpn">後席コンビニエンス</tu>
+	<tu xmlns:lang="ptg">Conforto dos passageiros traseiros</tu>
+	<tu xmlns:lang="ptb">Conveniência do passageiro no banco de trás</tu>
+	<tu xmlns:lang="rus">Комфорт для задних пассажиров</tu>
+	<tu xmlns:lang="esp">Confort de las plazas traseras</tu>
+	<tu xmlns:lang="chs">后乘客一侧方便功能</tu>
+	<tu xmlns:lang="kor">리어 조수석 편의 기능</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STATUS_MOST">
+	<tu xmlns:lang="eng">Configuring security on MOST.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bezig met het configureren van de beveiliging bij MOST.</tu>
+	<tu xmlns:lang="fra">Configuration de la sécurité sur MOST.</tu>
+	<tu xmlns:lang="deu">MOST-Sicherheitseinschaltung wird konfiguriert.</tu>
+	<tu xmlns:lang="ita">Configurazione in corso della sicurezza su MOST.</tu>
+	<tu xmlns:lang="jpn">MOST セキュリティ コンフィギュレーション中</tu>
+	<tu xmlns:lang="ptg">A configurar a segurança em MOST.</tu>
+	<tu xmlns:lang="ptb">Configuração da segurança no MOST.</tu>
+	<tu xmlns:lang="rus">Конфигурирование защиты сети MOST.</tu>
+	<tu xmlns:lang="esp">Configuración de la seguridad en MOST.</tu>
+	<tu xmlns:lang="chs">配置MOST的保密性。</tu>
+	<tu xmlns:lang="kor">MOST 보안 구성</tu>
+</tm>

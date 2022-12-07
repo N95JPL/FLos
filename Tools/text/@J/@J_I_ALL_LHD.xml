@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALL_LHD">
+	<tu xmlns:lang="eng">All left hand drive</tu>
+	<tu xmlns:lang="nld">Alle met stuur links</tu>
+	<tu xmlns:lang="fra">Toutes les conduites ... gauche</tu>
+	<tu xmlns:lang="deu">Alle Linkslenker</tu>
+	<tu xmlns:lang="ita">Tutti i modelli con guida a sinistra</tu>
+	<tu xmlns:lang="jpn">すべて左ハンドル</tu>
+	<tu xmlns:lang="ptg">Todos com volante à esquerda</tu>
+	<tu xmlns:lang="ptb">Toda condução à esquerda</tu>
+	<tu xmlns:lang="rus">Полностью левостороннее управление</tu>
+	<tu xmlns:lang="esp">Todos los coches con volante a la izquierda</tu>
+	<tu xmlns:lang="chs">所有左驾车辆</tu>
+	<tu xmlns:lang="kor">모든 좌측 핸들</tu>
+</tm>

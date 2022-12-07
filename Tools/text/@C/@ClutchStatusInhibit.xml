@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ClutchStatusInhibit">
+	<tu
+    xmlns:lang="eng"
+  >Clutch pedal status will show as an inhibit until pressed fully.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Koppelingspedaalstatus wordt als een blokkering weergegeven totdat het volledig is ingedrukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'état de la pédale d'embrayage apparaît comme neutralisé jusqu'à ce qu'elle soit enfoncée complètement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Kupplungspedal-Status zeigt eine Sperre an, bis das Pedal ganz durchgetreten ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lo stato del pedale della frizione risulterà disattivato fintanto che non sarà abbassato completamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >クラッチ ペダル ステータスは、一杯まで踏み込まれるまで禁止として表示されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O estado do pedal da embraiagem será apresentado como uma inibição até ser premido a fundo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O status do pedal da embreagem será exibido como inibido até que totalmente pressionado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние педали сцепления будет отображаться как заблокировано до тех пор, пока педаль не будет полностью нажата.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El estado del pedal de embrague se mostrará como bloqueado hasta que se pise hasta el tope.</tu>
+	<tu xmlns:lang="chs">在完全踩下之前，离合器踏板状态将显示为禁止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >클러치 페달을 끝까지 밟을 때까지 클러치 페달 상태가 억제로 표시됩니다.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RUN_STR_COL_MEM_ECU_REPLACE">
+	<tu
+    xmlns:lang="eng"
+  >This routine will need to be run if either the steering column or Memory ECU are replaced</tu>
+	<tu
+    xmlns:lang="nld"
+  >U zult deze routine moeten uitvoeren als de stuurkolom of de geheugen-ECU vervangen wordt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme devra être exécuté si la colonne de direction ou l'ECU de mémoire sont remplacés</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss laufen gelassen werden, wenn das Lenksäulen-Steuergerät oder das Positionsspeicher-Steuergerät ausgetauscht wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura deve essere eseguita in caso di sostituzione del piantone di sterzo o dell'ECU di memoria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング コラムまたはメモリ ECU のいずれかを交換した場合、このルーチンを実行する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Será necessário executar esta rotina se se substituir a coluna da direcção ou a ECU da memória</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina terá de ser executada se a coluna de direção ou a memória da ECU forem substituídas</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнение этой операции требуется при замене рулевой колонки или электронного блока управления модулем памяти</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se sustituye la columna de la dirección o la ECU de la memoria, habrá que ejecutar esta rutina.</tu>
+	<tu xmlns:lang="chs">如果更换了转向柱或ECU存储器，将需要运行这一常规程序</tu>
+	<tu
+    xmlns:lang="kor"
+  >스티어링 칼럼 또는 메모리 ECU를 교체할 경우 이 루틴을 실행해야 합니다.</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_INTAKE_AIR_DISTRIBUTION">
+	<tu xmlns:lang="eng">303-12 Intake air distribution and filtering</tu>
+	<tu xmlns:lang="nld">303-12 Inlaatluchtverdeling en -filtering</tu>
+	<tu xmlns:lang="fra">303-12 Distribution et filtration de l'air d'admission</tu>
+	<tu xmlns:lang="deu">303-12 Ansaugluftverteilung und Filtrierung</tu>
+	<tu xmlns:lang="ita">303-12 Distribuzione e filtraggio aria aspirata </tu>
+	<tu
+    xmlns:lang="jpn"
+  >303-12 インテーク エア ディストリビューションおよびフィルタリング</tu>
+	<tu xmlns:lang="ptg">303-12 Distribuição e filtragem do ar de admissão</tu>
+	<tu xmlns:lang="ptb">303-12 Distribuição e filtragem do ar de admissão</tu>
+	<tu
+    xmlns:lang="rus"
+  >303-12 Распределение и фильтрация потока входного воздуха</tu>
+	<tu xmlns:lang="esp">303-12 Filtrado y distribución del aire de admisión</tu>
+	<tu xmlns:lang="chs">303-12进气配送与过滤</tu>
+	<tu xmlns:lang="kor">303-12 흡기 분배 및 필터링</tu>
+</tm>

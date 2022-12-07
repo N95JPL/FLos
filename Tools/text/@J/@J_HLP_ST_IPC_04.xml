@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_IPC_04">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle speed &lt; 2 Km/h obtained from the brake control module via the CAN.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De voertuigsnelheid &lt; 2 km/uur, via het CAN vanuit de regelmodule van het remsysteem verkregen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vitesse du véhicule &lt; 2 km/h obtenue par le module de commande des freins par l'intermédiaire du CAN.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrgeschwindigkeit &lt;2 km/h, erhalten vom Bremssteuergerät auf dem CAN-Datenbus.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Velocità veicolo &lt; 2 km/h ottenuta dal modulo di comando freni tramite CAN.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車速 &lt; 2 Km/h、CAN を介してブレーキ コントロール モジュールから得られます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Velocidade do veículo &lt; 2 km/h - informação proveniente do módulo de controlo dos travões através da CAN.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Velocidade do veículo &lt; 2 km/h obtida a partir do módulo de controle do freio através da rede CAN.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Скорость движения &lt; 2 км/ч, полученная от блока управления тормозной системой через CAN.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Velocidad del vehículo &lt; 2 km/h obtenida del módulo de control de los frenos a través del bus CAN.</tu>
+	<tu xmlns:lang="chs">通过 CAN 从制动器控制模块取得的车辆速度小于 2 Km/h。</tu>
+	<tu
+    xmlns:lang="kor"
+  >CAN을 통해 브레이크 컨트롤 모듈에서 2km/h 미만의 차량 속도가 획득됨</tu>
+</tm>

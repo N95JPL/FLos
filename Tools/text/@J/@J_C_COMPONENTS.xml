@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_COMPONENTS">
+	<tu xmlns:lang="eng">Components</tu>
+	<tu xmlns:lang="nld">Componenten</tu>
+	<tu xmlns:lang="fra">Composants</tu>
+	<tu xmlns:lang="deu">Komponenten</tu>
+	<tu xmlns:lang="ita">Componenti</tu>
+	<tu xmlns:lang="jpn">コ・ポーネ・ト</tu>
+	<tu xmlns:lang="ptg">Componentes</tu>
+	<tu xmlns:lang="ptb">Componentes</tu>
+	<tu xmlns:lang="rus">Компоненты</tu>
+	<tu xmlns:lang="esp">Componentes</tu>
+	<tu xmlns:lang="chs">元件</tu>
+	<tu xmlns:lang="kor">구성 요소</tu>
+</tm>

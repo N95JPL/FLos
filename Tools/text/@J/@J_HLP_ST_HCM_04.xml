@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_HCM_04">
+	<tu
+    xmlns:lang="eng"
+  >Then the swivelling module runs to left mechanical stop, to the upper mechanical stop of levelling and at last to the right mechanical stop position of swivelling.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De regelmodule voor zwenken stuurt de motoren daarna eerst naar de linker mechanische aanslag, vervolgens naar de bovenste mechanische aanslag van de hoogte-instelling en tenslotte naar de rechter mechanische stoppositie voor zwenken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module d'inclinaison tourne alors jusqu'à la butée mécanique gauche, jusqu'à la butée mécanique supérieure du réglage de site et enfin jusqu'à la butée mécanique droite d'inclinaison.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Schwenksteuergerät verfährt sie anschließend gegen den linken mechanischen Anschlag, gegen den oberen mechanischen Anschlag für die Leuchtweitenregulierung und zuletzt gegen den rechten Anschlag für die Scheinwerferschwenkung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quindi il modulo di rotazione aziona i motorini fino al fermo meccanico sinistro, fino al fermo meccanico superiore di livellamento e infine fino al fermo meccanico destro di rotazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >そののち、スイベル モジュールが左の機械的ストップ位置へ、次にレベリングの上方の機械的ストップ位置へ、最後にスイベルの右の機械的ストップ位置へ駆動します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O módulo de rotação desloca-se depois até ao batente mecânico esquerdo, até ao batente mecânico superior do sistema de nivelamento e, por fim, até à posição do batente mecânico direito do sistema de rotação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo de rotação percorre o batente mecânico esquerdo, o batente mecânico superior do nivelamento e, finalmente, a posição de rotação do batente mecânico direito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Затем поворотный модуль перемещается до механической остановки в левом положении, до механической остановки в верхнем положении регулировки и, наконец, до механической остановки в правом положении при повороте.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo de giro los hace moverse luego al tope mecánico izquierdo, al tope mecánico superior de nivelación y, por último, a la posición del tope mecánico derecho de giro.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'然后旋转模块运行至左机械限位器、调平上机械限位器，最后到达旋转的右机械限位器位置。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >그런 다음 스위블링 모듈이 좌측 기계식 스톱까지 작동하고 레벨링의 상부 기계식 스톱까지 작동한 다음, 마지막으로 스위블링의 우측 기계식 스톱 위치까지 작동합니다.</tu>
+</tm>

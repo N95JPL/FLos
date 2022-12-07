@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LO_OCTANE_LEAD_CAP">
+	<tu xmlns:lang="eng">Low octane leaded fuel capability.</tu>
+	<tu xmlns:lang="nld">Geschikt voor gelode benzine met laag octaangehalte.</tu>
+	<tu xmlns:lang="fra">Carburant au plomb à faible indice d'octane accepté.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Betriebsmöglichkeit mit verbleitem Benzin niederer Oktanzahl.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Funzionamento con carburante con piombo a basso numero di ottano.</tu>
+	<tu xmlns:lang="jpn">低オクタン価有鉛フューエル対応性</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Capacidade para combustível com chumbo de baixo teor de octanas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Capacidade do combustível com chumbo e baixa octanagem.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Возможность работы на низкооктановом этилированном топливе.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Funcionamiento con combustible con plomo de bajo octanaje.</tu>
+	<tu xmlns:lang="chs">低辛烷值加铅燃油性能。</tu>
+	<tu xmlns:lang="kor">저옥탄 무연 연료 기능</tu>
+</tm>

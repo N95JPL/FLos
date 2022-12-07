@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-ME6827">
+	<tu xmlns:lang="eng">Initialising</tu>
+	<tu xmlns:lang="nld">Opzet aanvangsfase nieuwe test</tu>
+	<tu xmlns:lang="fra">Initialisation</tu>
+	<tu xmlns:lang="deu">Initialisiert</tu>
+	<tu xmlns:lang="ita">Inizializzando</tu>
+	<tu xmlns:lang="jpn">システム初期化中</tu>
+	<tu xmlns:lang="ptg">A inicializar</tu>
+	<tu xmlns:lang="ptb">inicializando</tu>
+	<tu xmlns:lang="rus">Инициализация</tu>
+	<tu xmlns:lang="esp">Inicializando</tu>
+	<tu xmlns:lang="chs">正在初始化</tu>
+	<tu xmlns:lang="kor">초기화 중</tu>
+</tm>

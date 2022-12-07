@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_PUMPSMOTORS">
+	<tu xmlns:lang="eng">Vacuum pump</tu>
+	<tu xmlns:lang="nld">Vacuümpomp</tu>
+	<tu xmlns:lang="fra">Pompe a vide</tu>
+	<tu xmlns:lang="deu">Unterdruckpumpe</tu>
+	<tu xmlns:lang="ita">Pompa di depressione</tu>
+	<tu xmlns:lang="jpn">ﾊﾞｷｭーﾑ・ﾎﾟﾝﾌﾟ</tu>
+	<tu xmlns:lang="ptg">Bomba de vácuo</tu>
+	<tu xmlns:lang="ptb">Bomba a vácuo</tu>
+	<tu xmlns:lang="rus">Вакуумный насос</tu>
+	<tu xmlns:lang="esp">Bomba de vacio</tu>
+	<tu xmlns:lang="chs">真空泵</tu>
+	<tu xmlns:lang="kor">진공 펌프</tu>
+</tm>

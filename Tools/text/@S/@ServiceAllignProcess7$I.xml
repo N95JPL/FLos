@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess7$I">
+	<tu
+    xmlns:lang="eng"
+  >Following vehicles too closely will obscure the stationary targets from the radar, a time gap of 2 seconds is recommended.</tu>
+	<tu
+    xmlns:lang="nld"
+  >als u te dicht achter voertuigen rijdt, belemmert u het zicht van de radar op stilstaande doelen, wij bevelen een tussenruimte van 2 seconden aan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si vous suivez des véhicules de trop près, les cibles fixes seront masquées pour le radar ; un intervalle de 2 secondes est recommandé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zu geringer Abstand zu vorausfahrenden Fahrzeugen verdeckt die stationären Objekte für den Radarsensor. Ein Abstand von 2 Sekunden wird empfohlen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se si segue troppo da vicino il veicolo di fronte, il radar non rileverà gli obiettivi, si raccomanda una distanza di due secondi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >先行車両に接近しすぎると、レーダーから静止目標が見えにくくなります。2 秒間のタイム ギャップが推奨されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ao seguir demasiado perto do veículo da frente, o radar terá mais dificuldade em detectar os alvos estacionários, pelo que se recomenda um espaço entre veículos de 2 segundos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Seguir veículos de muito perto irá ocultar os alvos estacionários do radar, um espaço de tempo de 2 segundos é recomendado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При слишком малой дистанции до движущихся впереди автомобилей радар не будет распознавать неподвижные объекты. Рекомендуется временной интервал 2 секунды.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se sigue a otros vehículos muy de cerca, los objetivos estacionarios quedarán ocultos del radar; se recomienda una separación temporal de 2 segundos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'跟车太近将妨碍雷达测定静止目标，建议保持2秒钟的间隔。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량을 너무 가까이 뒤따를 경우 레이더에서 정지 차량이 가려집니다. 2초 이상의 시간 간격을 유지할 것을 권장합니다.</tu>
+</tm>

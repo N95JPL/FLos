@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_SW_HLAMPS_ON_NEXT_TEST">
+	<tu
+    xmlns:lang="eng"
+  >Switch the headlamps on for the next test to help with visibility of headlamp movement.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Schakel de koplampen aan voor de volgende test zodat de beweging van de koplampen beter zichtbaar is</tu>
+	<tu
+    xmlns:lang="fra"
+  >Allumez les phares pour le test suivant pour mieux suivre le mouvement des phares</tu>
+	<tu
+    xmlns:lang="deu"
+  >Scheinwerfer für den nächsten Test einschalten, um die Schweinwerferbewegung leichter beobachten zu können</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accendere i fari per la prova successiva per vedere meglio il loro movimento</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のテストでヘッドランプレベリングの作動確認がしやすいよう、ランプをオンにしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Acender os faróis para o teste seguinte, de forma a auxiliar a visibilidade do movimento dos faróis.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para o próximo teste, ligue os faróis e isso vai ajudar com a visibilidade do movimento do farol.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для следующей проверки включите передние фары, чтобы можно было лучше наблюдать перемещение передних фар.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Encender los faros para la prueba siguiente para ver mejor el movimiento de los faros</tu>
+	<tu xmlns:lang="chs">打开前照灯，在前照灯移动可见度的帮助下进行下一测试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 테스트에서는 헤드램프 움직임을 볼 수 있도록 헤드램프를 켜십시오.</tu>
+</tm>

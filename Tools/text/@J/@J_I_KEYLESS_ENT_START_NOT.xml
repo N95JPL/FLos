@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEYLESS_ENT_START_NOT">
+	<tu xmlns:lang="eng">Without keyless entry and start</tu>
+	<tu xmlns:lang="nld">Zonder instappen en starten zonder sleutel</tu>
+	<tu xmlns:lang="fra">Sans accès et démarrage sans clé</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ohne Keyless Entry und Keyless Start (Schlüsselfernbedienung Zugang und Start)</tu>
+	<tu xmlns:lang="ita">Senza sistema di entrata e avviamento senza chiave</tu>
+	<tu xmlns:lang="jpn">キーレス エントリーおよびスタートなし</tu>
+	<tu xmlns:lang="ptg">Sem sistema de entrada e arranque sem chave</tu>
+	<tu xmlns:lang="ptb">Sem entrada e partida sem chave</tu>
+	<tu xmlns:lang="rus">Без системы доступа и запуска без ключа</tu>
+	<tu xmlns:lang="esp">Sin acceso y arranque sin llave</tu>
+	<tu xmlns:lang="chs">未配无钥匙进入和起动</tu>
+	<tu xmlns:lang="kor">키리스 엔트리 및 시동 기능 없음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_REM_ACCESSORY">
+	<tu xmlns:lang="eng">Remove accessory.</tu>
+	<tu xmlns:lang="nld">Accessoire verwijderen.</tu>
+	<tu xmlns:lang="fra">Supprimer accessoire.</tu>
+	<tu xmlns:lang="deu">Verbraucher entfernen.</tu>
+	<tu xmlns:lang="ita">Togliere l'accessorio.</tu>
+	<tu xmlns:lang="jpn">アクセサリの削除</tu>
+	<tu xmlns:lang="ptg">Desmontar os acessórios.</tu>
+	<tu xmlns:lang="ptb">Remova o acessório.</tu>
+	<tu xmlns:lang="rus">Снимите дополнительное оборудование.</tu>
+	<tu xmlns:lang="esp">Eliminar accesorio.</tu>
+	<tu xmlns:lang="chs">拆卸附件。</tu>
+	<tu xmlns:lang="kor">액세서리를 탈거하십시오.</tu>
+</tm>

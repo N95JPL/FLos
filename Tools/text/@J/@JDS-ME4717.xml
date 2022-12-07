@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-ME4717">
+	<tu xmlns:lang="eng">Wait for at least 30 seconds</tu>
+	<tu xmlns:lang="nld">Wacht tenminste 30 seconden</tu>
+	<tu xmlns:lang="fra">Attendez au moins 30 secondes</tu>
+	<tu xmlns:lang="deu">Mindestens 30 Sekunden warten</tu>
+	<tu xmlns:lang="ita">Aspettare almeno 30 secondi</tu>
+	<tu xmlns:lang="jpn">最低 30 秒間待って下さい。</tu>
+	<tu xmlns:lang="ptg">Aguardar pelo menos 30 segundos</tu>
+	<tu xmlns:lang="ptb">Aguarde pelo menos 30 segundos</tu>
+	<tu xmlns:lang="rus">Подождать не менее 30 секунд</tu>
+	<tu xmlns:lang="esp">Espere por lo menos 30 segundos</tu>
+	<tu xmlns:lang="chs">等待至少 30 秒</tu>
+	<tu xmlns:lang="kor">최소 30초 동안 기다립니다.</tu>
+</tm>

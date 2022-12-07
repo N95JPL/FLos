@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MOST_SW_CONFIG_BYTE_01">
+	<tu xmlns:lang="eng">MOST software configuration - byte 1</tu>
+	<tu xmlns:lang="nld">MOST-softwareconfiguratie - byte 1</tu>
+	<tu xmlns:lang="fra">Configuration logiciel MOST - octet 1.</tu>
+	<tu xmlns:lang="deu">MOST-Softwarekonfiguration - Byte 1</tu>
+	<tu xmlns:lang="ita">Configurazione software MOST - byte 1</tu>
+	<tu xmlns:lang="jpn">MOST ソ\フトウェア コンフィギュレーション - バイト 1</tu>
+	<tu xmlns:lang="ptg">Configuração do software MOST - byte 1</tu>
+	<tu xmlns:lang="ptb">Configuração do software MOST - byte 1</tu>
+	<tu xmlns:lang="rus">Конфигурация программы MOST - байт 1.</tu>
+	<tu xmlns:lang="esp">Configuración de software del MOST: byte 1</tu>
+	<tu xmlns:lang="chs">MOST 软件配置 - 字节 1</tu>
+	<tu xmlns:lang="kor">MOST 소프트웨어 구성 - 바이트 1</tu>
+</tm>

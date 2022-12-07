@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SEC_PRESS_AUD_FEEDBACK">
+	<tu xmlns:lang="eng">Second press audible lock feedback</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hoorbare feedback bij vergrendeling met tweede druk op de toets</tu>
+	<tu xmlns:lang="fra">Retour sonore de deuxième pression de verrouillage</tu>
+	<tu
+    xmlns:lang="deu"
+  >Signaltonrückmeldung bei Verriegelung bei zweitem Tastendruck</tu>
+	<tu xmlns:lang="ita">Segnale acustico bloccaggio seconda pressione</tu>
+	<tu xmlns:lang="jpn">ロック 2 回押し警告音フィードバック</tu>
+	<tu xmlns:lang="ptg">Resposta sonora de trancagem ao segundo toque</tu>
+	<tu xmlns:lang="ptb">Aviso sonoro de travamento no segundo pressionamento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Звуковой сигнал обратной связи закрытия замков после второго нажатия</tu>
+	<tu xmlns:lang="esp">Aviso acústico de bloqueo con segunda pulsación</tu>
+	<tu xmlns:lang="chs">二次按压锁闭音频反馈</tu>
+	<tu xmlns:lang="kor">두 번 누름 청각적 잠금 피드백</tu>
+</tm>

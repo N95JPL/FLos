@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_LOADS_TOO_HIGH">
+	<tu xmlns:lang="eng">Vehicle electrical loads too high</tu>
+	<tu
+    xmlns:lang="nld"
+  >De elektrische belastingen van het voertuig zijn te hoog</tu>
+	<tu xmlns:lang="fra">Charges électriques du véhicule trop élevées</tu>
+	<tu xmlns:lang="deu">Elektrische Fahrzeuglasten zu hoch.</tu>
+	<tu xmlns:lang="ita">Carichi elettrici della vettura eccessivamente elevati</tu>
+	<tu xmlns:lang="jpn">車両の電気負荷が高過ぎ</tu>
+	<tu xmlns:lang="ptg">Cargas eléctricas do veículo demasiado elevadas</tu>
+	<tu xmlns:lang="ptb">Cargas elétricas do veículo muito altas</tu>
+	<tu
+    xmlns:lang="rus"
+  >На автомобиле слишком высокое потребление электроэнергии</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las cargas eléctricas del vehículo son demasiado elevadas</tu>
+	<tu xmlns:lang="chs">车辆电气负荷过高</tu>
+	<tu xmlns:lang="kor">차량의 전기적 부하가 너무 높음</tu>
+</tm>

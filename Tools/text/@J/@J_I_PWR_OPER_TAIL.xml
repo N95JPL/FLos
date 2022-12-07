@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PWR_OPER_TAIL">
+	<tu xmlns:lang="eng">Power operated tailgate</tu>
+	<tu xmlns:lang="nld">Elektrisch bediende achterklep</tu>
+	<tu xmlns:lang="fra">Hayon à ouverture électrique</tu>
+	<tu xmlns:lang="deu">Elektrisch betriebene Heckklappe</tu>
+	<tu xmlns:lang="ita">Portellone ad azionamento elettrico</tu>
+	<tu xmlns:lang="jpn">パワー テールゲート</tu>
+	<tu xmlns:lang="ptg">Porta da retaguarda de accionamento eléctrico</tu>
+	<tu xmlns:lang="ptb">Tampa traseira elétrica</tu>
+	<tu xmlns:lang="rus">Дверь багажного отделения с электроприводом</tu>
+	<tu xmlns:lang="esp">Portón trasero eléctrico</tu>
+	<tu xmlns:lang="chs">电动尾门</tu>
+	<tu xmlns:lang="kor">전동식 뒷문</tu>
+</tm>

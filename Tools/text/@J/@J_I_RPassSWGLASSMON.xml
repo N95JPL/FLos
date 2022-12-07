@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RPassSWGLASSMON">
+	<tu xmlns:lang="eng">Rear passenger's door window glass monitoring.</tu>
+	<tu xmlns:lang="nld">Ruitcontrole passagiersportier achter.</tu>
+	<tu xmlns:lang="fra">Commande de vitre de porte passager arrière.</tu>
+	<tu xmlns:lang="deu">Überwachung Hintertürfenster Beifahrerseite.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Monitoraggio del cristallo del finestrino della portiera del passeggero posteriore</tu>
+	<tu xmlns:lang="jpn">助手席側リヤ ドア ウィンドウ ガラスのモニタリング</tu>
+	<tu xmlns:lang="ptg">Monitorização do vidro da porta traseira, passageiro.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Monitoramento do vidro da janela da porta do passageiro traseiro.</tu>
+	<tu xmlns:lang="rus">Контроль стекла задней двери пассажира</tu>
+	<tu
+    xmlns:lang="esp"
+  >Control del cristal de la ventanilla trasera del lado del acompañante.</tu>
+	<tu xmlns:lang="chs">后乘客车门窗玻璃监测。</tu>
+	<tu xmlns:lang="kor">리어 조수석 도어 윈도우 글라스 모니터링</tu>
+</tm>

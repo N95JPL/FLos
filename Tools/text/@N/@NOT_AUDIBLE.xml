@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NOT_AUDIBLE">
+	<tu xmlns:lang="eng">Not audible</tu>
+	<tu xmlns:lang="nld">Niet hoorbaar</tu>
+	<tu xmlns:lang="fra">Non audible.</tu>
+	<tu xmlns:lang="deu">Nicht hörbar</tu>
+	<tu xmlns:lang="ita">Non udibile</tu>
+	<tu xmlns:lang="jpn">無音</tu>
+	<tu xmlns:lang="ptg">Não audível</tu>
+	<tu xmlns:lang="ptb">Inaudível</tu>
+	<tu xmlns:lang="rus">Не звуковой</tu>
+	<tu xmlns:lang="esp">No audible</tu>
+	<tu xmlns:lang="chs">听不到。</tu>
+	<tu xmlns:lang="kor">들을 수 없음</tu>
+</tm>

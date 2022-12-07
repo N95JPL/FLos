@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_MEXICO">
+	<tu xmlns:lang="eng">Mexico</tu>
+	<tu xmlns:lang="nld">Mexico</tu>
+	<tu xmlns:lang="fra">Mexique</tu>
+	<tu xmlns:lang="deu">Mexiko</tu>
+	<tu xmlns:lang="ita">Messico</tu>
+	<tu xmlns:lang="jpn">メキシコ</tu>
+	<tu xmlns:lang="ptg">México</tu>
+	<tu xmlns:lang="ptb">México</tu>
+	<tu xmlns:lang="rus">Мексика</tu>
+	<tu xmlns:lang="esp">México</tu>
+	<tu xmlns:lang="chs">墨西哥</tu>
+	<tu xmlns:lang="kor">멕시코</tu>
+</tm>

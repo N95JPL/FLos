@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOD_SUCCES_BUILD_MODE">
+	<tu
+    xmlns:lang="eng"
+  >The module has successfully been placed into build mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het in de fabricagefunctie zetten van de module is met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Le module a bien été placé en mode construction.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Steuergerät wurde erfolgreich in den Konfigurationsmodus gebracht.</tu>
+	<tu xmlns:lang="ita">Il modulo è stato messo in modalità di produzione.</tu>
+	<tu xmlns:lang="jpn">モジュールは正常に再生モードに設定されました。</tu>
+	<tu xmlns:lang="ptg">O módulo foi colocado com êxito em modo de fabrico.</tu>
+	<tu xmlns:lang="ptb">O módulo foi colocado em modo de criação com sucesso.</tu>
+	<tu xmlns:lang="rus">Блок успешно переведен в режим установки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo ha pasado satisfactoriamente al modo de fabricación.</tu>
+	<tu xmlns:lang="chs">模块被成功置入建立模式。</tu>
+	<tu xmlns:lang="kor">모듈이 올바로 빌드 모드로 전환되었습니다.</tu>
+</tm>

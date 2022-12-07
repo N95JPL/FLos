@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ADVICE_TECH_HOTLINE">
+	<tu xmlns:lang="eng">Advice can be sourced via the technical hotline.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Advies kan worden ingewonnen via de technische hulpdienst.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Des conseils peuvent être obtenus au moyen de l'assistance technique téléphonique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Weitere Ratschläge können über die Technische Hotline eingeholt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È possibile richiedere informazioni al numero verde dell'assistenza tecnica.</tu>
+	<tu xmlns:lang="jpn">テクニカル ホットラインからアドバイスを得られます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pode obter informações através da Linha de Apoio Técnico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >É possível obter recomendações por meio da Assistência Técnica.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Консультацию можно получить в службе технической поддержки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se puede obtener ayuda a través del servicio de asistencia técnica.</tu>
+	<tu xmlns:lang="chs">可通过技术热线获取建议意见。</tu>
+	<tu xmlns:lang="kor">기술 지원 핫라인을 통해 조언을 구할 수 있습니다.</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MANU_FUEL_PRIM">
+	<tu xmlns:lang="eng">Manufacturing fuel priming</tu>
+	<tu xmlns:lang="nld">Brandstofaanzuiging bij fabricage</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fabrication du dispositif d'amorçage du circuit d'alimentation</tu>
+	<tu xmlns:lang="deu">Werkseitige Kraftstoff-Vorbefüllung</tu>
+	<tu xmlns:lang="ita">Iniezione d'avviamento di produzione</tu>
+	<tu xmlns:lang="jpn">生産工場でのフューエルのプライミング</tu>
+	<tu xmlns:lang="ptg">Ferragem de combustível de fabrico</tu>
+	<tu xmlns:lang="ptb">Escorva de combustível de fabricação</tu>
+	<tu xmlns:lang="rus">Прокачка топливной системы</tu>
+	<tu xmlns:lang="esp">Cebado de combustible de fabricación</tu>
+	<tu xmlns:lang="chs">制造启动注油</tu>
+	<tu xmlns:lang="kor">연료 프라이밍 제조</tu>
+</tm>

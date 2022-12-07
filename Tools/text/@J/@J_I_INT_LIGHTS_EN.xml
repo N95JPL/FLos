@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_LIGHTS_EN">
+	<tu
+    xmlns:lang="eng"
+  >Full control of interior lights by the electronic control unit is enabled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De volledige regeling van de binnenverlichting door de elektronische regeleenheid is ingeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La commande totale des lampes intérieures par le module de commande électronique est activée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vollständige Steuerung der Innenbeleuchtung über elektronisches Steuergerät ist aktiviert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Comando completo delle luci abitacolo da parte dell'unità di comando elettronica attivato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック コントロール ユニットによるインテリア ランプのフル制御は作動可に設定されています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O controlo total das luzes interiores pela unidade electrónica de controlo está activado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O controle total das luzes do interior pela unidade de controle eletrônico está ativado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включено полное управление освещением салона с электронного блока управления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El control absoluto de las luces interiores por parte de la unidad de control electrónico está habilitado.</tu>
+	<tu xmlns:lang="chs">电子控制单元全面控制的车内灯已启用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전자 컨트롤 유닛에 의한 내부 조명의 전체 컨트롤이 활성화됩니다.</tu>
+</tm>

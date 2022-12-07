@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FCDIM_06">
+	<tu xmlns:lang="eng">4)  Control module checks companion video input.</tu>
+	<tu
+    xmlns:lang="nld"
+  >4)  De regelmodule controleert de video-invoer van de medepassagier.</tu>
+	<tu
+    xmlns:lang="fra"
+  >4)  Le module de commande contrôle l'entrée vidéo de la caméra d'assistance.</tu>
+	<tu xmlns:lang="deu">4)  Steuergerät prüft Hilfsmodul-Videoeingang.</tu>
+	<tu
+    xmlns:lang="ita"
+  >4)  Il modulo di comando controlla l'input video del Companion.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >4)  コントロール モジュールはコンパニオン ビデオ インプットをチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >4)  O módulo de controlo verifica o sinal de entrada de vídeo da câmara auxiliar do condutor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >4)  O módulo de controle verifica a entrada de vídeo associada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >4)  Блок управления проверяет входной сигнал вспомогательного видео.</tu>
+	<tu
+    xmlns:lang="esp"
+  >4)  El módulo de control comprueba la señal de entrada de vídeo de acompañamiento.</tu>
+	<tu xmlns:lang="chs">4)  控制模块检查配套装置视频输入。</tu>
+	<tu xmlns:lang="kor">4)  컨트롤 모듈이 컴패니언 비디오 입력을 점검합니다.</tu>
+</tm>

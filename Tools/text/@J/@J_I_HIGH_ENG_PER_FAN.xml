@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HIGH_ENG_PER_FAN">
+	<tu xmlns:lang="eng">High performance fan</tu>
+	<tu xmlns:lang="nld">Ventilator met hoge prestaties</tu>
+	<tu xmlns:lang="fra">Ventilateur hautes performances</tu>
+	<tu xmlns:lang="deu">Kühlerlüfter mit hoher Leistung</tu>
+	<tu xmlns:lang="ita">Ventola ad alte prestazioni</tu>
+	<tu xmlns:lang="jpn">ハイ パフォーマンス ファン</tu>
+	<tu xmlns:lang="ptg">Ventoinha de desempenho elevado</tu>
+	<tu xmlns:lang="ptb">Ventilador de alto desempenho</tu>
+	<tu xmlns:lang="rus">Вентилятор высокой производительности</tu>
+	<tu xmlns:lang="esp">Ventilador de altas prestaciones</tu>
+	<tu xmlns:lang="chs">高性能风扇</tu>
+	<tu xmlns:lang="kor">고성능 팬</tu>
+</tm>

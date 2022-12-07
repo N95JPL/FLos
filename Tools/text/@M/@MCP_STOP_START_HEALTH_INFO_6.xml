@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_STOP_START_HEALTH_INFO_6">
+	<tu
+    xmlns:lang="eng"
+  >This application will require the vehicle to be driven at above 16 km/h or 10 mph</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing zal vragen 16 km/h of 10 mph met de auto te rijden</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application nécessite que le véhicule roule à une vitesse supérieure à 16 km/h</tu>
+	<tu
+    xmlns:lang="deu"
+  >Für die Anwendung muss das Fahrzeug mit mehr als 16 km/h gefahren werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione richiede di guidare il veicolo a più di 16 km/h.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アプリケーションにより、車両を 16 km/h (10 mph) で走行させることが要求されます</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação requer que o veículo seja conduzido a uma velocidade superior a 16 km/h</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo irá exigir que o veículo seja conduzido acima de 16 km/h (10 mph)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для работы приложения необходимо двигаться со скоростью выше 16 км/ч (10 миль/ч)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación necesita que el vehículo se conduzca a una velocidad superior a 16 km/h (10 mph).</tu>
+	<tu
+    xmlns:lang="chs"
+  >此应用程序将要求车辆以 16 公里/小时（10 英里/小时）速度行驶</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램에서 차량을 16km/h(10mph) 이상으로 주행한 후 멈추도록 요구합니다.</tu>
+</tm>

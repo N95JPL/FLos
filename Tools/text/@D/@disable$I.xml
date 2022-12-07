@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@disable$I">
+	<tu xmlns:lang="eng">Disable</tu>
+	<tu xmlns:lang="nld">Uitschakelen</tu>
+	<tu xmlns:lang="fra">Désactiver</tu>
+	<tu xmlns:lang="deu">Deaktivieren</tu>
+	<tu xmlns:lang="ita">Disabilita</tu>
+	<tu xmlns:lang="jpn">作動不可</tu>
+	<tu xmlns:lang="ptg">Desactivar</tu>
+	<tu xmlns:lang="ptb">Desativar</tu>
+	<tu xmlns:lang="rus">Отключить</tu>
+	<tu xmlns:lang="esp">Desactivar</tu>
+	<tu xmlns:lang="chs">禁用</tu>
+	<tu xmlns:lang="kor">비활성화</tu>
+</tm>

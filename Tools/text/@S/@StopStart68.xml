@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart68">
+	<tu xmlns:lang="eng">Stop inhibited due to engine speed is too high</tu>
+	<tu xmlns:lang="nld">Stop geblokkeerd omdat het motortoerental te hoog is</tu>
+	<tu xmlns:lang="fra">Arrêt neutralisé en raison du régime moteur trop élevé</tu>
+	<tu xmlns:lang="deu">Stopp gesperrt, da die Motordrehzahl zu hoch ist</tu>
+	<tu
+    xmlns:lang="ita"
+  >Inibizione dell'arresto a causa del regime motore troppo alto</tu>
+	<tu xmlns:lang="jpn">エンジン回転数が高すぎることによるストップ機能禁止</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Paragem inibida devido a um regime do motor demasiado elevado</tu>
+	<tu xmlns:lang="ptb">Parada inibida devido à velocidade muito alta do motor</tu>
+	<tu
+    xmlns:lang="rus"
+  >Остановка заблокирована — слишком высокая частота вращения двигателя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Parada bloqueada porque el régimen del motor es demasiado alto</tu>
+	<tu xmlns:lang="chs">由于发动机转速过高，停止已被禁用</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진 속도가 너무 높기 때문에 Stop 기능이 억제되었습니다.</tu>
+</tm>

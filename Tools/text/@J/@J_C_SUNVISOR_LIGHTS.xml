@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_SUNVISOR_LIGHTS">
+	<tu xmlns:lang="eng">Sunvisor lamps</tu>
+	<tu xmlns:lang="nld">Zonnekleplampen</tu>
+	<tu xmlns:lang="fra">Lampes pare-soleil</tu>
+	<tu xmlns:lang="deu">Sonnenblendenleuchten</tu>
+	<tu xmlns:lang="ita">Luci parasole</tu>
+	<tu xmlns:lang="jpn">ｻﾝﾊﾞｲｻﾞ・ﾗﾝﾌﾟ</tu>
+	<tu xmlns:lang="ptg">Luzes das palas de sol</tu>
+	<tu xmlns:lang="ptb">Luzes do quebra-sol</tu>
+	<tu xmlns:lang="rus">Ламы солнцезащитных козырьков</tu>
+	<tu xmlns:lang="esp">Lamparas de parasol</tu>
+	<tu xmlns:lang="chs">遮阳板灯</tu>
+	<tu xmlns:lang="kor">선바이저 램프</tu>
+</tm>

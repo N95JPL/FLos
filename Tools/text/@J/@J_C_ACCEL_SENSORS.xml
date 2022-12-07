@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ACCEL_SENSORS">
+	<tu xmlns:lang="eng">Accelerometer sensors</tu>
+	<tu xmlns:lang="nld">Sensors van de acceleratiemeter</tu>
+	<tu xmlns:lang="fra">Capteurs d'accéléromètres</tu>
+	<tu xmlns:lang="deu">Sensoren - Beschleunigungsaufnahme</tu>
+	<tu xmlns:lang="ita">Sensori accelerometri</tu>
+	<tu xmlns:lang="jpn">加速度計センサ</tu>
+	<tu xmlns:lang="ptg">Sensores do acelerómetro</tu>
+	<tu xmlns:lang="ptb">Sensores do acelerômetro</tu>
+	<tu xmlns:lang="rus">Датчики акселерометров</tu>
+	<tu xmlns:lang="esp">Sensores del acelerómetro</tu>
+	<tu xmlns:lang="chs">加速计传感器</tu>
+	<tu xmlns:lang="kor">가속도계 센서</tu>
+</tm>

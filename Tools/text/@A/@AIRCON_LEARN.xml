@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AIRCON_LEARN">
+	<tu
+    xmlns:lang="eng"
+  >This will allow the powertrain control module to learn that the vehicle is fitted with air conditioning.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hiermee laat u de regelmodule van aandrijflijn weten dat het voertuig met airconditioning is uitgerust.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ceci permet au module de commande du groupe motopropulseur d'apprendre que le véhicule est équipé d'une climatisation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hierdurch kann das Antriebsstrang-Steuergerät erlernen, dass das Fahrzeug mit einer Klimaanlage ausgestattet ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ciò consentirà al modulo gestione catena cinematica di apprendere che il veicolo è munito di aria condizionata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これによりパワートレーン コントロール モジュールは、車両にエア コンディショニングが装備されていることを学習することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Isto permitirá que o módulo de comando do grupo motopropulsor aprenda que o veículo está equipado com ar condicionado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso irá permitir que o módulo de controle do powertrain saiba se o veículo está equipado com ar-condicionado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это позволит блоку управления силовым агрегатом определить, что автомобиль оснащен кондиционером.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esto permitirá al módulo de control del grupo motor y transmisión aprender que el vehículo tiene aire acondicionado.</tu>
+	<tu xmlns:lang="chs">这将让动力传动系统控制模块记住车辆配备了空调装置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이를 통해 파워트레인 컨트롤 모듈은 차량에 에어컨이 장착되어 있음을 학습할 수 있습니다.</tu>
+</tm>

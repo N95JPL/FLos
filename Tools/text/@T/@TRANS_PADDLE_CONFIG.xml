@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRANS_PADDLE_CONFIG">
+	<tu xmlns:lang="eng">Paddle shift configuration</tu>
+	<tu xmlns:lang="nld">Configuratie van schakelhendel</tu>
+	<tu xmlns:lang="fra">Configuration des palettes de changement de vitesse</tu>
+	<tu xmlns:lang="deu">Schaltwippenkonfiguration</tu>
+	<tu xmlns:lang="ita">Configurazione cambio a levette</tu>
+	<tu xmlns:lang="jpn">パドル シフトのコンフィギュレーション</tu>
+	<tu xmlns:lang="ptg">Configuração das mudanças através de patilhas</tu>
+	<tu xmlns:lang="ptb">Configuração de câmbio borboleta</tu>
+	<tu xmlns:lang="rus">Конфигурация лепесткового переключателя</tu>
+	<tu xmlns:lang="esp">Configuración de la leva de cambios</tu>
+	<tu xmlns:lang="chs">踏板换档配置</tu>
+	<tu xmlns:lang="kor">패들 시프트 구성</tu>
+</tm>

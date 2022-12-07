@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENG_STALL_COMPLETE">
+	<tu
+    xmlns:lang="eng"
+  >Once the procedure is completed, the engine will stall.</tu>
+	<tu xmlns:lang="nld">Zodra de procedure beëindigd is, zal de motor afslaan.</tu>
+	<tu xmlns:lang="fra">Une fois la procédure terminée, le moteur va caler.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nachdem der Vorgang abgeschlossen wurde, bleibt der Motor stehen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta completata la procedura, il motore entra in stallo.</tu>
+	<tu xmlns:lang="jpn">手順が完了するとエンジンはストールします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Depois de completado o procedimento, o motor irá abaixo.</tu>
+	<tu xmlns:lang="ptb">Após a conclusão do procedimento, o motor vai parar.</tu>
+	<tu xmlns:lang="rus">По окончании процедуры двигатель остановится.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez finalizado el procedimiento, el motor se calará.</tu>
+	<tu xmlns:lang="chs">'一旦该程序完成，发动机将停转。'</tu>
+	<tu xmlns:lang="kor">절차가 완료되면 엔진이 멈춥니다.</tu>
+</tm>

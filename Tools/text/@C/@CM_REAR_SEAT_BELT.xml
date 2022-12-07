@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_REAR_SEAT_BELT">
+	<tu xmlns:lang="eng">Number of rear safety belts.</tu>
+	<tu xmlns:lang="nld">Aantal veiligheidsgordels achter.</tu>
+	<tu xmlns:lang="fra">Nombre de ceintures de sécurité arrière.</tu>
+	<tu xmlns:lang="deu">Anzahl von Sicherheitsgurten hinten.</tu>
+	<tu xmlns:lang="ita">Numero di cinture di sicurezza posteriori.</tu>
+	<tu xmlns:lang="jpn">リア シートベルトの数</tu>
+	<tu xmlns:lang="ptg">Número de cintos de segurança traseiros.</tu>
+	<tu xmlns:lang="ptb">Número de cintos de segurança traseiros.</tu>
+	<tu xmlns:lang="rus">Количество задних ремней безопасности.</tu>
+	<tu xmlns:lang="esp">Cantidad de cinturones de seguridad traseros.</tu>
+	<tu xmlns:lang="chs">后部安全带数量。</tu>
+	<tu xmlns:lang="kor">뒷좌석 안전벨트 수</tu>
+</tm>

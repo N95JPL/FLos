@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ADAP_FUEL_TRIM_DISP">
+	<tu xmlns:lang="eng">Adaptive fuel trim display</tu>
+	<tu xmlns:lang="nld">Weergave van adaptieve brandstofafstelling</tu>
+	<tu xmlns:lang="fra">Affichage de l'alimentation adaptative</tu>
+	<tu xmlns:lang="deu">Anzeige - adaptive Gemischanpassung</tu>
+	<tu xmlns:lang="ita">Visualizzazione della correzione carburante adattativa</tu>
+	<tu xmlns:lang="jpn">アダプティブ フューエル トリム ディスプレイ</tu>
+	<tu xmlns:lang="ptg">Visualização da regulação adaptável do combustível</tu>
+	<tu xmlns:lang="ptb">Exibição de ajuste de combustível adaptável</tu>
+	<tu xmlns:lang="rus">Дисплей корректировки топливной смеси</tu>
+	<tu
+    xmlns:lang="esp"
+  >Representación visual de la corrección de adaptación del combustible</tu>
+	<tu xmlns:lang="chs">自适应燃油调整显示</tu>
+	<tu xmlns:lang="kor">연료 트림 어댑테이션 디스플레이</tu>
+</tm>

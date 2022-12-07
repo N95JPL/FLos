@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMP_DTC_CLEAR">
+	<tu
+    xmlns:lang="eng"
+  >The next procedure will be to carry out a complete vehicle diagnostic trouble code clear.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De procedure die u nu zult moeten uitvoeren, is het volledig wissen van de diagnosefoutcodes uit het voertuig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La prochaine procédure consistera à effectuer un effacement complet des codes de défaut de diagnostic du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Als nächstes müssen alle im Fahrzeug abgespeicherten Fehlercodes gelöscht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La prossima procedura da eseguire è la cancellazione completa dei codici di guasto diagnostici del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の手順で車両の診断トラブル コードの完全クリアを実行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A operação seguinte é apagar todos os códigos de avaria do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O próximo procedimento será apagar completamente o código de diagnóstico de falhas do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Необходимо выполнить следующую процедуру для полного удаления всех диагностических кодов неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El siguiente procedimiento será la realización de un borrado completo de los códigos de avería del vehículo.</tu>
+	<tu xmlns:lang="chs">下一程序将执行完整的车辆故障诊断代码清除。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 절차에서는 전체 차량 고장 진단 코드 삭제를 수행합니다.</tu>
+</tm>

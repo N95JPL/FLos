@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PED_IMPCT_SYS_WARN_ENAB">
+	<tu xmlns:lang="eng">Pedestrian impact system warning enabled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Waarschuwing van systeem voor aanrijden van voetgangers is geactiveerd.</tu>
+	<tu xmlns:lang="fra">Témoin de détection d'impact avec piéton activé.</tu>
+	<tu xmlns:lang="deu">Warnung Fußgänger-Aufprallerkennungssystem aktiviert.</tu>
+	<tu xmlns:lang="ita">Avvertenza sistema impatto pedoni attivata.</tu>
+	<tu xmlns:lang="jpn">歩行者インパクト システム警告作動可</tu>
+	<tu xmlns:lang="ptg">Aviso de sistema de impacto de peões activado.</tu>
+	<tu xmlns:lang="ptb">Alerta do sistema de impacto de pedestre ativado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включена предупредительная сигнализация системы обнаружения опасности столкновения с пешеходом.</tu>
+	<tu xmlns:lang="esp">Aviso del sistema de impacto de peatones habilitado.</tu>
+	<tu xmlns:lang="chs">行人撞击系统警告已启用。</tu>
+	<tu xmlns:lang="kor">보행자 충격 시스템 경고 활성화</tu>
+</tm>

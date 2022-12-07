@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AMP_NOT_FIT">
+	<tu xmlns:lang="eng">Amplifier is not fitted.</tu>
+	<tu xmlns:lang="nld">De versterker is niet geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Amplificateur non installé.</tu>
+	<tu xmlns:lang="deu">Verstärker ist nicht eingebaut.</tu>
+	<tu xmlns:lang="ita">Amplificatore non in dotazione.</tu>
+	<tu xmlns:lang="jpn">アンプリファイア非装備</tu>
+	<tu xmlns:lang="ptg">Amplificador não montado.</tu>
+	<tu xmlns:lang="ptb">Amplificador não instalado.</tu>
+	<tu xmlns:lang="rus">Усилитель не установлен.</tu>
+	<tu xmlns:lang="esp">No tiene amplificador.</tu>
+	<tu xmlns:lang="chs">放大器未安装。</tu>
+	<tu xmlns:lang="kor">앰프가 장착되지 않았습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DRIVER_DOOR_OPEN">
+	<tu xmlns:lang="eng">Driver's door open</tu>
+	<tu xmlns:lang="nld">Bestuurdersportier open</tu>
+	<tu xmlns:lang="fra">Porte conducteur ouverte</tu>
+	<tu xmlns:lang="deu">Fahrertür offen</tu>
+	<tu xmlns:lang="ita">Portiera guidatore aperta</tu>
+	<tu xmlns:lang="jpn">ドライバー ドア オープ・</tu>
+	<tu xmlns:lang="ptg">Porta do condutor aberta</tu>
+	<tu xmlns:lang="ptb">Porta do motorista aberta</tu>
+	<tu xmlns:lang="rus">Открыта дверь водителя</tu>
+	<tu xmlns:lang="esp">Puerta conductor abierta</tu>
+	<tu xmlns:lang="chs">驾驶员一侧车门打开</tu>
+	<tu xmlns:lang="kor">운전석 도어 열림</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LANG_REG_S_AMER">
+	<tu xmlns:lang="eng">Language region for South America</tu>
+	<tu xmlns:lang="nld">Taalregio voor Zuid-Amerika </tu>
+	<tu xmlns:lang="fra">Région langue pour l'Amérique du Sud </tu>
+	<tu xmlns:lang="deu">Sprachregion für Südamerika </tu>
+	<tu xmlns:lang="ita">Regione linguistica per l'America del Sud</tu>
+	<tu xmlns:lang="jpn">南米の言語地域</tu>
+	<tu xmlns:lang="ptg">Região idiomática para a América do Sul</tu>
+	<tu xmlns:lang="ptb">Região de idioma para a América do Sul</tu>
+	<tu xmlns:lang="rus">Языковой регион для Южной Америки </tu>
+	<tu xmlns:lang="esp">Región de idioma para Sudamérica</tu>
+	<tu xmlns:lang="chs">南美的语言区</tu>
+	<tu xmlns:lang="kor">남미의 언어 지역</tu>
+</tm>

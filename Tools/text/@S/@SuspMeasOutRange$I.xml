@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspMeasOutRange$I">
+	<tu xmlns:lang="eng">Suspension measurement out of range.</tu>
+	<tu xmlns:lang="nld">Luchtveringsmeting buiten bereik.</tu>
+	<tu xmlns:lang="fra">Mesure de suspension hors limites.</tu>
+	<tu xmlns:lang="deu">Fahrhöhenmessung außerhalb des Bereichs.</tu>
+	<tu xmlns:lang="ita">Misura sospensione fuori campo.</tu>
+	<tu xmlns:lang="jpn">サスペンション測定値、既定範囲外</tu>
+	<tu xmlns:lang="ptg">Medição da suspensão fora da gama.</tu>
+	<tu xmlns:lang="ptb">Suspensão medida fora da faixa.</tu>
+	<tu xmlns:lang="rus">Измерение подвески вне диапазона.</tu>
+	<tu xmlns:lang="esp">Medida de la suspensión fuera de límites.</tu>
+	<tu xmlns:lang="chs">悬架测量值超出范围。</tu>
+	<tu xmlns:lang="kor">서스펜션 측정값이 범위를 벗어남</tu>
+</tm>

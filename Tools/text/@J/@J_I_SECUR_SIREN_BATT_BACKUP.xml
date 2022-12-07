@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SECUR_SIREN_BATT_BACKUP">
+	<tu xmlns:lang="eng">Security siren-battery backup</tu>
+	<tu xmlns:lang="nld">Beveiligingssirene-noodstroom</tu>
+	<tu xmlns:lang="fra">Sirène de sécurité-avec protection batterie</tu>
+	<tu xmlns:lang="deu">Alarmanlagen-Signalhorn - mit Batterieunterstützung</tu>
+	<tu xmlns:lang="ita">Batteria di riserva di sicurezza con sirena</tu>
+	<tu xmlns:lang="jpn">セキュリティ サイレン バッテリ バックアップ</tu>
+	<tu xmlns:lang="ptg">Sirene de segurança - apoio da bateria</tu>
+	<tu xmlns:lang="ptb">Sirene de segurança - backup com bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сирена охранной системы с резервным питанием от аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Sirena del sistema de seguridad autoalimentada </tu>
+	<tu xmlns:lang="chs">有源安全报警器</tu>
+	<tu xmlns:lang="kor">보안 사이렌 배터리 백업</tu>
+</tm>

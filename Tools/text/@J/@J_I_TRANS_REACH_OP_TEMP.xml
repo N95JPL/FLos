@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRANS_REACH_OP_TEMP">
+	<tu
+    xmlns:lang="eng"
+  >Waiting for transmission to reach operating temperature</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bezig met wachten tot de transmissie de bedrijfstemperatuur bereikt heeft</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attente que la transmission atteigne la température de fonctionnement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf Erreichen der Getriebe-Betriebstemperatur wird gewartet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >In attesa che il cambio raggiunga la temperatura di esercizio</tu>
+	<tu xmlns:lang="jpn">トランスミッションが作動温度に到達するのを待っています</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A aguardar que a transmissão atinja a temperatura de funcionamento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aguardando a transmissão atingir a temperatura de operação</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ожидание прогрева коробки передач до рабочей температуры</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esperando a que la caja de transmisión alcance la temperatura de funcionamiento</tu>
+	<tu xmlns:lang="chs">正在等待变速箱达到工作温度</tu>
+	<tu xmlns:lang="kor">변속기가 작동 온도에 이를 때까지 대기 중</tu>
+</tm>

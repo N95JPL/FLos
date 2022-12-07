@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DOOR_MODULE_COMBINED_UPDATE">
+	<tu
+    xmlns:lang="eng"
+  >This application will automatically carry out an update to both the driver and passenger door modules to ensure that both modules have compatible software levels.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing zal zowel de bestuurders- als passagiersportiermodule bijwerken om te waarborgen dat de softwareniveau's van de beide modules compatibel zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application sera automatiquement lancée pour mettre à jour les deux modules de porte conducteur et passager pour s'assurer qu'ils disposent de versions logicielles compatibles.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung führt automatisch eine Aktualisierung des Fahrertür- und des Beifahrertür-Steuergeräts durch, damit gewährleistet ist, dass beide Steuergeräte mit der gleichen Softwareversion programmiert sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione eseguirà automaticamente un aggiornamento dei moduli portiera lato guida e lato passeggero per assicurare che entrambi i moduli abbiano livelli di software compatibili.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >運転席側および助手席側ドア モジュールの両方が適合するソ\フトウェア レベルを持つようにするため、このアプリケーションは自動的に両モジュールを更新します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação actualizará automaticamente os módulos das portas do condutor e do passageiro para garantir que ambos os módulos possuem versões de software compatíveis.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo automaticamente realizará uma atualização para os módulos da porta do passageiro e do motorista para assegurar que os duas módulos têm níveis de software compatível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение будет автоматически выполнять обновление блоков дверей водителя и пассажира для обеспечения совместимости версий программного обеспечения этих двух блоков.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación actualiza automáticamente los módulos de puerta del conductor y acompañante para asegurar que ambos módulos tengan versiones compatibles de software.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本应用程序将自动对驾驶员和乘客车门模块执行一次更新，以确保两个模块软件等级的兼容。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 운전석 및 조수석 도어 모듈 모두에 대한 업데이트를 자동으로 수행하여 두 모듈의 소프트웨어 레벨이 모두 호환되는지 확인합니다.</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JArmDisarmVisualConfirmation$M">
+	<tu xmlns:lang="eng">Arm / disarm visual confirmation</tu>
+	<tu xmlns:lang="nld">Bewapening/ontwapening, zichtbare bevestiging</tu>
+	<tu xmlns:lang="fra">Confirmation visuelle arme / desarme</tu>
+	<tu xmlns:lang="deu">Scharf / entschärft visuelle bestätigung</tu>
+	<tu xmlns:lang="ita">Attivare / disattivare la conferma visiva</tu>
+	<tu xmlns:lang="jpn">ｱﾗーﾑ設定／解除の目視確認</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Confirmação visual de activação / desactivação do alarme</tu>
+	<tu xmlns:lang="ptb">Confirmação visual de armar/desarmar</tu>
+	<tu
+    xmlns:lang="rus"
+  >Визуальное подтверждение включения/отключения охранной системы</tu>
+	<tu xmlns:lang="esp">Confirmacion visual de armar / desarmar</tu>
+	<tu xmlns:lang="chs">布设/解除报警视觉确认</tu>
+	<tu xmlns:lang="kor">비주얼 확인 설정/해제</tu>
+</tm>

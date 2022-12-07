@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIRE_PRES_SETUP_COMP_SUC">
+	<tu
+    xmlns:lang="eng"
+  >Tire pressure monitor system set-up procedure completed successfully.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instelprocedure voor het bandenspanningsbewakingssysteem is met succes uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédure de configuration du système de contrôle de pression des pneus terminée avec succès.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einrichtverfahren Reifendrucküberwachungssystem erfolgreich abgeschlossen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Procedura di impostazione sistema monitoraggio pressione pneumatici completata correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >タイヤ プレッシャ モニター システム セットアップ手順が正常に完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Procedimento de configuração do sistema de monitorização da pressão dos pneus concluído com êxito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Procedimento de configuração do sistema de monitoramento da pressão dos pneus concluído com êxito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура настройки системы контроля давления в шинах успешно завершена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Procedimiento de configuración del sistema de control de la presión de los neumáticos concluido satisfactoriamente.</tu>
+	<tu xmlns:lang="chs">轮胎压力监测器系统设置程序成功完成。</tu>
+	<tu
+    xmlns:lang="kor"
+  >타이어 공기압 모니터 시스템 설정 절차가 성공적으로 완료됨</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SOUNDER_ROW">
+	<tu xmlns:lang="eng">Rest of world sounder</tu>
+	<tu xmlns:lang="nld">Sirene, rest van de wereld.</tu>
+	<tu xmlns:lang="fra">Signal sonore reste du monde.</tu>
+	<tu xmlns:lang="deu">Signaltongeber - übrige Länder</tu>
+	<tu xmlns:lang="ita">Segnale acustico resto del mondo</tu>
+	<tu xmlns:lang="jpn">レストオブワールド向けサウンダー</tu>
+	<tu xmlns:lang="ptg">Unidade sonora para resto do mundo</tu>
+	<tu xmlns:lang="ptb">Sonda para restante do mundo</tu>
+	<tu xmlns:lang="rus">Динамик для прочих стран</tu>
+	<tu xmlns:lang="esp">Sirena para el resto del mundo</tu>
+	<tu xmlns:lang="chs">其他国家或地区的发声器</tu>
+	<tu xmlns:lang="kor">나머지 국가용 경보 발생기</tu>
+</tm>

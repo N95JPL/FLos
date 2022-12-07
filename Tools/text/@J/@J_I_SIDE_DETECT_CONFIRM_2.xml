@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SIDE_DETECT_CONFIRM_2">
+	<tu
+    xmlns:lang="eng"
+  >Is the vehicle fitted with a side object detection system?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuig uitgerust met een voorwerpdetectiesysteem aan de zijkant?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule est-il équipé d'un système de détection latérale d'objets ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist das Fahrzeug mit einem System der seitlichen Objekterfassung ausgerüstet?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo è dotato di un sistema di rilevamento degli oggetti laterali?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両に側方障害物探知システム (ブラインド スポット モニター) が装備されていますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo está equipado com sistema de detecção de objectos lateral?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo está equipado com um sistema de detecção de objeto lateral?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль оборудован системой обнаружения объектов сбоку?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Se ha montado un sistema de detección de objetos laterales en el vehículo?</tu>
+	<tu xmlns:lang="chs">车辆是否配备侧面物体探测系统？</tu>
+	<tu xmlns:lang="kor">차량에 측면 장애물 감지 시스템이 장착되어 있습니까?</tu>
+</tm>

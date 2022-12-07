@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_2L_PETROL_ENG">
+	<tu xmlns:lang="eng">Petrol GTDI </tu>
+	<tu xmlns:lang="nld">Benzine GTDI </tu>
+	<tu xmlns:lang="fra">GTDI essence </tu>
+	<tu xmlns:lang="deu">Benzin GTDI </tu>
+	<tu xmlns:lang="ita">GTDI benzina </tu>
+	<tu xmlns:lang="jpn">ガソ\リン GTDI </tu>
+	<tu xmlns:lang="ptg">Gasolina GTDI </tu>
+	<tu xmlns:lang="ptb">Gasolina GTDI </tu>
+	<tu xmlns:lang="rus">Бензиновый GTDI </tu>
+	<tu xmlns:lang="esp">GTDI de gasolina </tu>
+	<tu xmlns:lang="chs">汽油 GTDI </tu>
+	<tu xmlns:lang="kor">가솔린 GTDI </tu>
+</tm>

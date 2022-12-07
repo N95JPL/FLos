@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PRESS_TICK_TO_START_I">
+	<tu xmlns:lang="eng">Press tick to start</tu>
+	<tu xmlns:lang="nld">Druk op akkoord om te beginnen</tu>
+	<tu xmlns:lang="fra">Appuyez sur l'icône 'OK' pour commencer</tu>
+	<tu xmlns:lang="deu">Zum Beginnen das Häkchen antippen</tu>
+	<tu xmlns:lang="ita">Premere l'icona di spunta per cominciare</tu>
+	<tu xmlns:lang="jpn">ティックを押して開始しなさい。</tu>
+	<tu xmlns:lang="ptg">Premir o visto para iniciar</tu>
+	<tu xmlns:lang="ptb">Pressione a marca para iniciar</tu>
+	<tu xmlns:lang="rus">Нажмите галочку, чтобы запустить</tu>
+	<tu xmlns:lang="esp">Pulsar el botón de continuar para empezar</tu>
+	<tu xmlns:lang="chs">按下勾选键开始</tu>
+	<tu xmlns:lang="kor">시작하려면 체크 표시를 누르십시오.</tu>
+</tm>

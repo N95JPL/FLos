@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MEDIA_NOT_FOUND">
+	<tu xmlns:lang="eng">Media not found</tu>
+	<tu xmlns:lang="nld">Media niet gevonden</tu>
+	<tu xmlns:lang="fra">Média introuvable</tu>
+	<tu xmlns:lang="deu">Medien nicht gefunden</tu>
+	<tu xmlns:lang="ita">Supporto multimediale non individuato</tu>
+	<tu xmlns:lang="jpn">メディアが見つかりません</tu>
+	<tu xmlns:lang="ptg">Dispositivo de multimédia não encontrado</tu>
+	<tu xmlns:lang="ptb">Mídia não encontrada</tu>
+	<tu xmlns:lang="rus">Мультимедийное устройство не найдено</tu>
+	<tu xmlns:lang="esp">Archivos multimedia no encontrados</tu>
+	<tu xmlns:lang="chs">未发现媒体</tu>
+	<tu xmlns:lang="kor">미디어를 찾을 수 없음</tu>
+</tm>

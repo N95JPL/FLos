@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WAIT_BARGRAPH_IGN_OFF">
+	<tu
+    xmlns:lang="eng"
+  >Wait until the bargraph is complete then switch ignition on</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wacht totdat de balk is volgelopen en schakel daarna het contact in</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attendez que le graphique à barres soit complet puis mettez le contact</tu>
+	<tu
+    xmlns:lang="deu"
+  >Warten, bis das Balkendiagramm gefüllt ist, und anschließend die Zündung einschalten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attendere che il grafico a barre sia completato, quindi inserire l'accensione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バーグラフが終了するまで待ち、その後イグニションをオンにします</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aguardar até o gráfico de barras estar concluído e, a seguir, ligar a ignição</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aguarde até que o gráfico de barras fique completo, e então, ligue a ignição</tu>
+	<tu xmlns:lang="rus">Дождитесь заполнения индикатора и включите зажигание</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esperar hasta que se haya completado la barra de progreso y conectar el encendido</tu>
+	<tu xmlns:lang="chs">等候条形图完成，然后打开点火</tu>
+	<tu
+    xmlns:lang="kor"
+  >막대그래프가 완성될 때까지 기다린 다음 점화 스위치를 켜십시오.</tu>
+</tm>

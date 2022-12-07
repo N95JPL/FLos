@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart221">
+	<tu xmlns:lang="eng">Inhibit due to alternator fault</tu>
+	<tu xmlns:lang="nld">Blokkering als gevolg van storing van dynamo</tu>
+	<tu xmlns:lang="fra">Neutralisation due à une défaillance de l'alternateur</tu>
+	<tu xmlns:lang="deu">Sperre durch Generatorstörung</tu>
+	<tu xmlns:lang="ita">Disabilitazione dovuta a un guasto all'alternatore</tu>
+	<tu xmlns:lang="jpn">オルタネータの故障による禁止</tu>
+	<tu xmlns:lang="ptg">Inibição devido a avaria do alternador</tu>
+	<tu xmlns:lang="ptb">Inibição por falha do alternador</tu>
+	<tu xmlns:lang="rus">Заблокировано из-за неисправности генератора</tu>
+	<tu xmlns:lang="esp">Bloqueo debido a un error del alternador</tu>
+	<tu xmlns:lang="chs">由于交流发电机故障而禁用</tu>
+	<tu xmlns:lang="kor">교류 발전기 고장으로 인한 억제</tu>
+</tm>

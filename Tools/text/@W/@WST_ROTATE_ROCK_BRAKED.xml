@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_ROTATE_ROCK_BRAKED">
+	<tu xmlns:lang="eng">Attempt to rotate/rock the wheel being tested.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Probeer het geteste wiel te verdraaien/heen en weer te schommelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Essayez de faire tourner/basculer la roue soumise au test.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Versuchen, das getestete Rad zu drehen/vorwärts und rückwärts zu bewegen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tentare di ruotare/muovere avanti e indietro la ruota in prova.</tu>
+	<tu xmlns:lang="jpn">テストするホイールの回転／揺すりを試行しなさい。</tu>
+	<tu xmlns:lang="ptg">Tente rodar/abanar a roda que está a ser testada.</tu>
+	<tu xmlns:lang="ptb">Tente girar/balançar a roda que está sendo testada.</tu>
+	<tu xmlns:lang="rus">Попытка вращения/покачивания проверяемого колеса.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Intentar girar completamente la rueda sometida a prueba o girarla un poco en un sentido y otro.</tu>
+	<tu xmlns:lang="chs">尝试旋转/摇晃正在测试的车轮。</tu>
+	<tu xmlns:lang="kor">테스트 중인 휠을 회전하거나 흔들어 보십시오.</tu>
+</tm>

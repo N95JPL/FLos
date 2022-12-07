@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_NO_JOB">
+	<tu xmlns:lang="eng">No software download job created.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is geen download-bewerking voor de software aangemaakt.</tu>
+	<tu xmlns:lang="fra">Aucune tâche de téléchargement du logiciel créée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wurde keine Aufgabe für das Herunterladen von Software erstellt.</tu>
+	<tu xmlns:lang="ita">Nessuna operazione di scaricamento software creata.</tu>
+	<tu xmlns:lang="jpn">ソ\フトウェア ダウンロード作業が生成されていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não foi criada qualquer tarefa de descarregamento de software.</tu>
+	<tu xmlns:lang="ptb">Nenhum processo de download de software criado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не создано никаких заданий загрузки программного обеспечения.</tu>
+	<tu xmlns:lang="esp">No se creó ningún trabajo de descarga de software.</tu>
+	<tu xmlns:lang="chs">未创建软件下载工作。</tu>
+	<tu xmlns:lang="kor">소프트웨어 다운로드 작업이 생성되지 않음</tu>
+</tm>

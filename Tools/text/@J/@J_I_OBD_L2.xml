@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OBD_L2">
+	<tu xmlns:lang="eng">On-board diagnostic stage level II</tu>
+	<tu xmlns:lang="nld">On-board-diagnosefase, niveau II</tu>
+	<tu xmlns:lang="fra">Phase de diagnostic de bord, niveau II</tu>
+	<tu xmlns:lang="deu">On-Board-Diagnosestadium Stufe II</tu>
+	<tu xmlns:lang="ita">Fase diagnostica di bordo livello II</tu>
+	<tu xmlns:lang="jpn">車載診'fレベル II</tu>
+	<tu xmlns:lang="ptg">Diagnóstico integrado - fase de nível II</tu>
+	<tu xmlns:lang="ptb">Nível II da etapa de diagnóstico a bordo</tu>
+	<tu xmlns:lang="rus">Уровень II бортовой диагностической системы</tu>
+	<tu xmlns:lang="esp">Fase de diagnosis de a bordo, nivel II</tu>
+	<tu xmlns:lang="chs">车载诊断阶段进程 II</tu>
+	<tu xmlns:lang="kor">자기진단장치 단계 레벨 II</tu>
+</tm>

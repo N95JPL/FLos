@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENG_TUNE_INFO_ADDITIONAL">
+	<tu xmlns:lang="eng">Additional engine tune information</tu>
+	<tu xmlns:lang="nld">Aanvullende informatie motorafstelling</tu>
+	<tu xmlns:lang="fra">Informations complémentaires de réglage du moteur.</tu>
+	<tu xmlns:lang="deu">Motorabstimmung - Zusatzinformationen</tu>
+	<tu xmlns:lang="ita">Informazioni supplementari messa a punto motore</tu>
+	<tu xmlns:lang="jpn">追加エンジン チューン情報</tu>
+	<tu xmlns:lang="ptg">Informação adicional de afinação do motor</tu>
+	<tu xmlns:lang="ptb">Informações adicionais de ajuste do motor</tu>
+	<tu xmlns:lang="rus">Дополнительная информация о настройках двигателя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Información suplementaria sobre la puesta a punto del motor</tu>
+	<tu xmlns:lang="chs">附加的发动机调试信息</tu>
+	<tu xmlns:lang="kor">추가 엔진 튜닝 정보</tu>
+</tm>

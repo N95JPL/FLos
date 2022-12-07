@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JHowManyHandsetsLikeToProgram$Q">
+	<tu
+    xmlns:lang="eng"
+  >How many key fob transmitters would you like to program?</tu>
+	<tu xmlns:lang="nld">Hoeveel handbediende zenders wilt u programmeren ?</tu>
+	<tu xmlns:lang="fra">Combien de combinés voulez-vous programmer ?</tu>
+	<tu xmlns:lang="deu">Wieviele Handsender möchten Sie programmieren ?</tu>
+	<tu xmlns:lang="ita">Quanti trasmettitori portatili vorreste programmare ?</tu>
+	<tu xmlns:lang="jpn">ﾊﾝﾄﾞｾｯﾄを何個、ﾌﾟﾛｸﾞﾗﾑしますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quantas chaves com emissor-receptor pretende programar?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Quantos transmissores de controle remoto você gostaria de programar?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сколько пультов дистанционного управления вы хотите запрограммировать?</tu>
+	<tu xmlns:lang="esp">¿Cuantos mandos a distancia querría Vd. programar?</tu>
+	<tu xmlns:lang="chs">您要对多少个遥控钥匙发射器进行编程？</tu>
+	<tu xmlns:lang="kor">몇 개의 키 리모컨 송신기를 프로그래밍하시겠습니까?</tu>
+</tm>

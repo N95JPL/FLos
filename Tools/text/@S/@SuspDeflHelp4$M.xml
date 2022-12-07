@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspDeflHelp4$M">
+	<tu
+    xmlns:lang="eng"
+  >It is the responsibility of the technician to ensure that air has been exhausted and the system is deflated to a safe pressure to disconnect unions.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het is de verantwoordelijkheid van de monteur om te controleren of de lucht inderdaad eruit is en het systeem tot een zodanige druk is leeggelopen, dat de verbindingen zonder gevaar kunnen worden losgekoppeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >C'est au technicien qu'il appartient de s'assurer que l'air a été évacué et que le système est dégonflé à une pression sûre avant de débrancher les raccords.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es fällt in den Verantwortungsbereich des Mechanikers sicherzustellen, dass die Luft entwichen ist und das System auf einen sicheren Druck für das Abklemmen von Verbindungen entlüftet wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È responsabilità del tecnico assicurarsi che sia stata scaricata l'aria e che il sistema sia sgonfiato ad una pressione di sicurezza per lo scollegamento dei raccordi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テクニシャンの責任において、ユニオンの接続を外すための安全なプレッシャにまで、システムのエア減圧がなされたことを確認する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É da responsabilidade do técnico garantir que o ar foi retirado e de que o sistema está a uma pressão segura para poder desligar as uniões.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >É de responsabilidade do técnico garantir que o ar foi retirado e que o sistema seja esvaziado com uma pressão segura para desconexão das uniões.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Техник обязан убедиться, что воздух был выпущен, и что давление в системе безопасно для отключения соединений.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Es responsabilidad del técnico asegurarse de que se haya descargado el aire y que el sistema esté desinflado a una presión que no ofrezca ningún riesgo antes de desconectar las uniones.</tu>
+	<tu
+    xmlns:lang="chs"
+  >技术员的责任是确保空气已排净，而且系统空气已经排放至可断开接头的安全压力。</tu>
+	<tu
+    xmlns:lang="kor"
+  >공기가 배기되었고 시스템이 유니언을 분리하기에 안전한 압력까지 감압되었는지 확인하는 일은 정비사의 책임입니다.</tu>
+</tm>

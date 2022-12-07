@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LO_LINE_INST_CLUSTER">
+	<tu xmlns:lang="eng">Low line instrument cluster.</tu>
+	<tu xmlns:lang="nld">Basisinstrumentenpaneel.</tu>
+	<tu xmlns:lang="fra">Tableau de bord bas de gamme.</tu>
+	<tu xmlns:lang="deu">Kombiinstrument in Grundausführung.</tu>
+	<tu xmlns:lang="ita">Quadro strumenti base.</tu>
+	<tu xmlns:lang="jpn">ローライン インストルメント クラスタ</tu>
+	<tu xmlns:lang="ptg">Grupo de instrumentos 'Low Line'.</tu>
+	<tu xmlns:lang="ptb">Conjunto do painel de instrumentos inferior.</tu>
+	<tu xmlns:lang="rus">Панель приборов нижнего ценового сегмента.</tu>
+	<tu xmlns:lang="esp">Cuadro de instrumentos de gama baja.</tu>
+	<tu xmlns:lang="chs">低端组合仪表。</tu>
+	<tu xmlns:lang="kor">로우 라인 계기판</tu>
+</tm>

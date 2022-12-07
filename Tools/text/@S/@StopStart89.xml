@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart89">
+	<tu
+    xmlns:lang="eng"
+  >This inhibit condition will be present while the vehicle is being driven</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze geblokkeerde toestand is aanwezig terwijl er met de auto wordt gereden</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette neutralisation survient lorsque le véhicule roule</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Sperrbedingung ist vorhanden, während das Fahrzeug gefahren wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa condizione di disabilitazione sarà presente quando il veicolo è in marcia</tu>
+	<tu xmlns:lang="jpn">この禁止状態は、車両の運転中発生します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta condição de inibição ocorre durante a condução do veículo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa condição de inibição estará presente enquanto o veículo estiver sendo conduzido</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блокировка будет присутствовать во время движения автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta condición de bloqueo estará presente mientras se conduce el vehículo.</tu>
+	<tu xmlns:lang="chs">驾驶车辆时，此禁止状态将出现</tu>
+	<tu xmlns:lang="kor">이 억제 상태는 차량 주행 중에 나타납니다.</tu>
+</tm>

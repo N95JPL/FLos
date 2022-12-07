@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_LANG_SELECTION">
+	<tu xmlns:lang="eng">Language selection</tu>
+	<tu xmlns:lang="nld">Taalkeuze</tu>
+	<tu xmlns:lang="fra">Selection langue</tu>
+	<tu xmlns:lang="deu">Sprachauswahl</tu>
+	<tu xmlns:lang="ita">Selezione lingua</tu>
+	<tu xmlns:lang="jpn">言語選択</tu>
+	<tu xmlns:lang="ptg">Selecção do idioma</tu>
+	<tu xmlns:lang="ptb">Seleção do idioma</tu>
+	<tu xmlns:lang="rus">Выбор языка</tu>
+	<tu xmlns:lang="esp">Selección de idioma</tu>
+	<tu xmlns:lang="chs">语言选择</tu>
+	<tu xmlns:lang="kor">언어 선택</tu>
+</tm>

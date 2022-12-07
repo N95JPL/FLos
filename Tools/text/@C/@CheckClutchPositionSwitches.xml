@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckClutchPositionSwitches">
+	<tu
+    xmlns:lang="eng"
+  >Press the clutch fully and make sure that both clutch pedal position switches change.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Trap het koppelingspedaal volledig in en verzeker u ervan dat beide koppelingspedaalstandschakelaars omgaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyer sur la pédale d'embrayage au maximum et s'assurer que les deux commutateurs de position de la pédale d'embrayage changent.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Kupplungspedal vollständig durchdrücken und sicherstellen, dass sich beide Kupplungspedal-Stellungsschalter ändern.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il pedale della frizione completamente e verificare la variazione dei due interruttori di posizione del pedale della frizione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >クラッチを一杯まで踏み込み、両方のクラッチ ペダル ポジション スイッチが変化していることを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima a fundo a embraiagem e certifique-se de que ambos os interruptores de posição do pedal da embraiagem se alteram.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione a embreagem totalmente e certifique-se de ambos os interruptores de posição do pedal da embreagem sejam acionados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите на педаль сцепления до упора и убедитесь, что оба датчика положения педали сцепления срабатывают.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pise el embrague a fondo y asegúrese de que ambos interruptores de posición del pedal de embrague cambian.</tu>
+	<tu xmlns:lang="chs">完全踩下离合器并确保两个离合器踏板位置开关已改变。</tu>
+	<tu
+    xmlns:lang="kor"
+  >클러치를 끝까지 밟고 양쪽 클러치 페달 위치 스위치가 모두 바뀌는지 확인하십시오.</tu>
+</tm>

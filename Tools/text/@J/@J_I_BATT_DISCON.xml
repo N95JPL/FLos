@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_DISCON">
+	<tu xmlns:lang="eng">Battery disconnected</tu>
+	<tu xmlns:lang="nld">Accuaansluiting verbroken</tu>
+	<tu xmlns:lang="fra">Batterie débranchée</tu>
+	<tu xmlns:lang="deu">Batterie abgeklemmt</tu>
+	<tu xmlns:lang="ita">Batteria scollegata</tu>
+	<tu xmlns:lang="jpn">バッテリ接続切断済み</tu>
+	<tu xmlns:lang="ptg">Bateria desligada</tu>
+	<tu xmlns:lang="ptb">Bateria desconectada</tu>
+	<tu xmlns:lang="rus">Аккумуляторная батарея отсоединена</tu>
+	<tu xmlns:lang="esp">Batería desconectada</tu>
+	<tu xmlns:lang="chs">蓄电池断开连接</tu>
+	<tu xmlns:lang="kor">배터리가 분리됨</tu>
+</tm>

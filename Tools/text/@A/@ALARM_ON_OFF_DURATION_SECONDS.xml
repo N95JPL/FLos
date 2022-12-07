@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ALARM_ON_OFF_DURATION_SECONDS">
+	<tu xmlns:lang="eng">Alarm on/off duration (seconds)</tu>
+	<tu xmlns:lang="nld">Duur alarmsysteem aan/uit (seconden)</tu>
+	<tu xmlns:lang="fra">Durée marche/arrêt alarme (secondes).</tu>
+	<tu xmlns:lang="deu">Dauer Alarm ein/aus (Sekunden)</tu>
+	<tu xmlns:lang="ita">Durata attivazione/disattivazione allarme (secondi)</tu>
+	<tu xmlns:lang="jpn">アラームのオン／オフ時間 (秒)</tu>
+	<tu xmlns:lang="ptg">Duração de alarme ligado/desligado (segundos)</tu>
+	<tu xmlns:lang="ptb">Duração do alarme/ligado/desligado (segundos)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Продолжительность включения/выключения сигнализации (в секундах)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Duración de activación/desactivación de la alarma (segundos)</tu>
+	<tu xmlns:lang="chs">报警打开/关闭持续时间（秒）</tu>
+	<tu xmlns:lang="kor">알람 켜짐/꺼짐 지속 시간(초)</tu>
+</tm>

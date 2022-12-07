@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_CAL_HEIGHT_AIR_SUSP">
+	<tu
+    xmlns:lang="eng"
+  >This application will calibrate the height of the air suspension</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dit programmaonderdeel zal de hoogte van de luchtvering kalibreren</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'application va étalonner la hauteur de la suspension pneumatique</tu>
+	<tu xmlns:lang="deu">Diese Anwendung kalibriert die Luftfederungshöhe.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione esegue la taratura dell'altezza delle sospensioni pneumatiche</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションはエア サスペンションの高さをキャリブレーションします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação calibra a altura da suspensão pneumática</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo irá calibrar a altura da suspensão a ar</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение предназначено для калибровки высоты пневматической подвески</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación calibrará la altura de la suspensión neumática</tu>
+	<tu xmlns:lang="chs">这一应用程序将标定空气悬架的高度</tu>
+	<tu xmlns:lang="kor">이 애플리케이션은 에어 서스펜션의 높이를 보정합니다.</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALLERG_ZONE">
+	<tu xmlns:lang="eng">Asthma and allergy clean zone</tu>
+	<tu xmlns:lang="nld">'Clean zone'-systeem voor astma en allergie</tu>
+	<tu xmlns:lang="fra">Système Clean zone anti-asthme et anti-allergies</tu>
+	<tu xmlns:lang="deu">Clean-Zone-System für Asthmatiker und Allergiker</tu>
+	<tu xmlns:lang="ita">Sistema clean zone asma e allergie</tu>
+	<tu xmlns:lang="jpn">喘息およびアレルギー クリーン ゾーン システム</tu>
+	<tu xmlns:lang="ptg">Sistema Clean Zone contra asma e alergias</tu>
+	<tu xmlns:lang="ptb">Zona limpa de asma e alergia</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система Clean zone поддержания чистого воздуха в салоне</tu>
+	<tu xmlns:lang="esp">Sistema Clean zone para asmáticos y alérgicos</tu>
+	<tu xmlns:lang="chs">哮喘和过敏 Clean Zone 系统</tu>
+	<tu xmlns:lang="kor">기관지염 및 알레르기 클린존</tu>
+</tm>

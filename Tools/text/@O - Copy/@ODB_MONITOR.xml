@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@ODB_MONITOR">
+	<tu xmlns:lang="eng">Monitor</tu>
+	<tu xmlns:lang="nld">Bewaking</tu>
+	<tu xmlns:lang="fra">Contrôleur</tu>
+	<tu xmlns:lang="deu">Monitor</tu>
+	<tu xmlns:lang="ita">Monitoraggio</tu>
+	<tu xmlns:lang="jpn">モニター</tu>
+	<tu xmlns:lang="ptg">Função de monitorização</tu>
+	<tu xmlns:lang="ptb">Monitor</tu>
+	<tu xmlns:lang="rus">Монитор</tu>
+	<tu xmlns:lang="esp">Control</tu>
+	<tu xmlns:lang="chs">监测器</tu>
+	<tu xmlns:lang="kor">모니터</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_AAM_06">
+	<tu xmlns:lang="eng">1 cycle output signal is 25Hz, output time is 200ms.</tu>
+	<tu
+    xmlns:lang="nld"
+  >1 cyclusuitvoersignaal is 25 Hz, de uitvoertijd is 200 milliseconden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >1 cycle du signal de sortie est de 25 Hz, le temps de sortie est de 200 ms.</tu>
+	<tu
+    xmlns:lang="deu"
+  >1 Zyklus des Ausgangssignals hat 25 Hz, die Ausgabezeit beträgt 200 ms.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il segnale di output di 1 ciclo è 25 Hz, il tempo di output è 200 ms.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >1 サイクル アウトプット シグナルは 25Hz、アウトプット時間は 200 ミリ秒です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sinal de saída de 1 ciclo é de 25 Hz; duração da saída é de 200 ms.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sinal de saída de 1 ciclo é de 25Hz, o tempo de saída é de 200 ms.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выходной сигнал 1 цикла частотой 25 Гц, время выходного сигнала 200 мс.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La señal de salida de 1 ciclo es 25 Hz, el tiempo de salida es 200 ms.</tu>
+	<tu xmlns:lang="chs">'1 个循环的输出信号为 25Hz，输出时间为 200ms。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >1 사이클의 출력 신호는 25Hz이고 출력 시간은 200ms입니다.</tu>
+</tm>

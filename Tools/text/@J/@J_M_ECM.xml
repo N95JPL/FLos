@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ECM">
+	<tu xmlns:lang="eng">Engine control module</tu>
+	<tu xmlns:lang="nld">Motorregelmodule</tu>
+	<tu xmlns:lang="fra">Module de commande du moteur</tu>
+	<tu xmlns:lang="deu">Motorsteuermodul</tu>
+	<tu xmlns:lang="ita">Modulo di comando motore</tu>
+	<tu xmlns:lang="jpn">エンジン コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando do motor.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle do motor</tu>
+	<tu xmlns:lang="rus">Модуль управления двигателем</tu>
+	<tu xmlns:lang="esp">Módulo de control del motor</tu>
+	<tu xmlns:lang="chs">发动机控制模块</tu>
+	<tu xmlns:lang="kor">엔진 컨트롤 모듈</tu>
+</tm>

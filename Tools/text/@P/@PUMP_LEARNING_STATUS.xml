@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PUMP_LEARNING_STATUS">
+	<tu xmlns:lang="eng">Fuel injection pump calibration learning status</tu>
+	<tu xmlns:lang="nld">Status, inleren van kalibrering brandstofinjectiepomp.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Etat d'apprentissage du calibrage de la pompe d'injection.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Lernverfahren Kraftstoffeinspritzpumpenkalibrierung - Status</tu>
+	<tu
+    xmlns:lang="ita"
+  >Stato di apprendimento taratura pompa di iniezione carburante.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フューエル インジェクション ポンプ キャリブレーション学習ステータス</tu>
+	<tu xmlns:lang="ptg">Estado da programação da calibragem da bomba injectora</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Status da aprendizagem da calibração da bomba de injeção de combustível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние сохранения значений калибровки топливного насоса высокого давления</tu>
+	<tu
+    xmlns:lang="esp"
+  >Estado de aprendizaje de la calibración de la bomba de inyección</tu>
+	<tu xmlns:lang="chs">燃油喷射泵标定记忆状态</tu>
+	<tu xmlns:lang="kor">연료 분사 펌프 보정 학습 상태</tu>
+</tm>

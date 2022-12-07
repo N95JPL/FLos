@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENTER_INJ_IDS">
+	<tu
+    xmlns:lang="eng"
+  >Please enter the injector identification numbers for the selected injectors on the following screen.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer de injectornummers van de geselecteerde injectors op het volgende scherm in.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez saisir les numéros d'identification des injecteurs sélectionnés sur l'écran suivant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einspritzventil-Identifizierungsnummern der ausgewählten Einspritzventile auf dem nächsten Bildschirm eingeben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Immettere i numeri di identificazione iniettori per gli iniettori selezionati sulla schermata seguente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の画面で選択されたインジェクタのインジェクタ ID ナンバーを入力しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Introduzir os números de identificação dos injectores seleccionados no ecrã seguinte.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Digite os números de identificação do injetor para os injetores selecionados na tela a seguir.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Введите идентификационные номера для выбранных форсунок на следующем экране.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Introducir los números de identificación de los inyectores seleccionados en la siguiente pantalla.</tu>
+	<tu xmlns:lang="chs">请在下列显示屏中输入所选喷油器的标识号码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 화면에서 선택한 인젝터에 대한 인젝터 식별 번호를 입력하십시오.</tu>
+</tm>

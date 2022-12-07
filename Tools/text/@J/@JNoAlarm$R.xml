@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JNoAlarm$R">
+	<tu xmlns:lang="eng">%d : no alarm</tu>
+	<tu xmlns:lang="nld">%d : Geen alarm</tu>
+	<tu xmlns:lang="fra">%d : Pas d'alarme</tu>
+	<tu xmlns:lang="deu">%d : Kein Alarm</tu>
+	<tu xmlns:lang="ita">%d : Senza antifurto</tu>
+	<tu xmlns:lang="jpn">%d ｱﾗーﾑ無し</tu>
+	<tu xmlns:lang="ptg">%d: sem alarme</tu>
+	<tu xmlns:lang="ptb">%d : não há alarme</tu>
+	<tu xmlns:lang="rus">%d : сигнал тревоги не включается</tu>
+	<tu xmlns:lang="esp">%d: Sin alarma</tu>
+	<tu xmlns:lang="chs">%d ：无报警</tu>
+	<tu xmlns:lang="kor">%d: 알람 없음</tu>
+</tm>

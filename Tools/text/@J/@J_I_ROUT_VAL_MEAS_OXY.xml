@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_VAL_MEAS_OXY">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required to reset the values of adapted absolute measuring error of oxygen concentration and the cold start counter.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig om de waarden van de aangepaste absolute meetfout voor het zuurstofgehalte en de teller van koude starten terug te stellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé pour réinitialiser les valeurs d'erreur de mesure absolue adaptées de concentration d'oxygène et le compteur de démarrage à froid.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, wenn die Werte für den erlernten Absolutmessfehler der Sauerstoffkonzentration und der Kaltstartzähler zurückgesetzt werden sollen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta per azzerare i valori di errore di misura assoluto adattato di concentrazione ossigeno e il contatore di avviamenti a freddo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、酸素濃度の補正絶対測定エラーおよびコールド スタート カウンター数値をリセットするために必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária para reinicializar os valores de erro de medição absoluta adaptada da concentração de oxigénio e do contador de arranques a frio.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária para redefinir os valores adaptados de erro de medição absoluta da concentração de oxigênio e o contador de partida a frio.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнение данной операции требуется для сброса значений откорректированной ошибки абсолютного измерения датчика содержания кислорода и счетчика холодных пусков.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse para poner a cero los valores de error adaptado de medición absoluta de la concentración de oxígeno y el contador de arranques en frío.</tu>
+	<tu
+    xmlns:lang="chs"
+  >需要执行本程序以重置氧气浓度和冷启动计数器的适应后的绝对测量错误。</tu>
+	<tu
+    xmlns:lang="kor"
+  >산소 농도의 조정된 절대 측정 오류의 값과 냉간 시동 카운터를 재설정하려면 이 루틴이 필요합니다.</tu>
+</tm>

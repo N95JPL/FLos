@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BSU_CONNECTED">
+	<tu xmlns:lang="eng">Battery Support Unit is connected</tu>
+	<tu xmlns:lang="nld">Acculader is aangesloten</tu>
+	<tu xmlns:lang="fra">Unité de support de batterie branchée</tu>
+	<tu xmlns:lang="deu">Batterieladegerät ist angeschlossen</tu>
+	<tu xmlns:lang="ita">Unità di supporto della batteria collegata</tu>
+	<tu xmlns:lang="jpn">バッテリー サポート ユニットが接続されています</tu>
+	<tu xmlns:lang="ptg">A unidade de suporte da bateria está ligada</tu>
+	<tu xmlns:lang="ptb">A Unidade de Suporte da Bateria está conectada</tu>
+	<tu
+    xmlns:lang="rus"
+  >Устройство поддержания заряда аккумуляторной батареи подключено</tu>
+	<tu xmlns:lang="esp">El acondicionador de batería está conectado</tu>
+	<tu xmlns:lang="chs">蓄电池支持单元已连接</tu>
+	<tu xmlns:lang="kor">배터리 지원 장치가 연결되었습니다.</tu>
+</tm>

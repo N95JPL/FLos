@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JAPAN_ID">
+	<tu xmlns:lang="eng">Japanese identification</tu>
+	<tu xmlns:lang="nld">Japanse identificatie</tu>
+	<tu xmlns:lang="fra">Identification japonaise.</tu>
+	<tu xmlns:lang="deu">Japanische Kennung</tu>
+	<tu xmlns:lang="ita">Identificazione giapponese</tu>
+	<tu xmlns:lang="jpn">日本 ID</tu>
+	<tu xmlns:lang="ptg">Identificação japonesa</tu>
+	<tu xmlns:lang="ptb">Identificação japonesa</tu>
+	<tu xmlns:lang="rus">Идентификация для Японии</tu>
+	<tu xmlns:lang="esp">Identificación japonesa</tu>
+	<tu xmlns:lang="chs">日文标识</tu>
+	<tu xmlns:lang="kor">일본어 식별</tu>
+</tm>

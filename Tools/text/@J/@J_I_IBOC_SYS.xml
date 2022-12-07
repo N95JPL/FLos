@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IBOC_SYS">
+	<tu xmlns:lang="eng">In band on channel system</tu>
+	<tu xmlns:lang="nld">In-band on channel-systeem</tu>
+	<tu xmlns:lang="fra">Système IBOC</tu>
+	<tu xmlns:lang="deu">In-Band-On-Channel-System</tu>
+	<tu xmlns:lang="ita">Sistema IBOC (In-band On Channel)</tu>
+	<tu xmlns:lang="jpn">インバンド オン チャンネル システム</tu>
+	<tu xmlns:lang="ptg">Sistema 'In-band on channel'</tu>
+	<tu xmlns:lang="ptb">Na bando no sistema de canal</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система цифрового вещания по технологии IBOC (в полосе совмещенного канала)</tu>
+	<tu xmlns:lang="esp">Sistema canal dentro de banda</tu>
+	<tu xmlns:lang="chs">带内同频系统</tu>
+	<tu xmlns:lang="kor">인밴드 온채널 시스템</tu>
+</tm>

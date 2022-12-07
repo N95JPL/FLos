@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INCLINE_SENSOR_UK_NL_LU">
+	<tu
+    xmlns:lang="eng"
+  >This application enables the inclination sensor for those vehicles built to UK, Holland or Luxembourg market specification.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze toepassing activeert u de hellingshoekdetector voor de voertuigen die overeenkomstig de marktspecificatie van het Verenigd Koninkrijk, Nederland en Luxemburg gefabriceerd zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application permet d'activer le capteur d'inclinaison des véhicules construits selon les spécifications des marchés du R.-U., des Pays-Bas ou du Luxembourg.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Durch diese Anwendung wird der Neigungssensor für die nach den Marktspezifikationen von Großbritannien, den Niederlanden oder Luxemburg hergestellten Fahrzeuge aktiviert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione abilita il sensore di inclinazione per i veicoli costruiti secondo le specifiche del Regno Unito, dell'Olanda o del Lussemburgo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、英国、オランダ、ルクセンブルグ市場仕様の車両について傾斜センサーを作動可に設定します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação activa o sensor de inclinação nos veículos fabricados segundo as especificações do mercado do Reino Unido, Países Baixos ou Luxemburgo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo habilita o sensor de inclinação para os veículos construídos para a especificação de mercado do Reino Unido, Holanda ou Luxemburgo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение включает датчик наклона в автомобилях, произведенных для Великобритании, Нидерландов или Люксембурга.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación habilita el sensor de inclinación para los vehículos fabricados según las especificaciones de los mercados del Reino Unido, Holanda y Luxemburgo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >该应用程序为那些按英国、荷兰或卢森堡市场规范制造的车辆启用倾斜传感器。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션에서는 영국, 네덜란드 또는 룩셈부르크 시장 사양에 맞춰 제작된 차량의 기울기 센서를 활성화합니다.</tu>
+</tm>

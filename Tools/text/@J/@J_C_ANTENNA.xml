@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ANTENNA">
+	<tu xmlns:lang="eng">Antenna</tu>
+	<tu xmlns:lang="nld">Antenne</tu>
+	<tu xmlns:lang="fra">Antenne</tu>
+	<tu xmlns:lang="deu">Antenne</tu>
+	<tu xmlns:lang="ita">Antenna</tu>
+	<tu xmlns:lang="jpn">ア・テオ</tu>
+	<tu xmlns:lang="ptg">Antena</tu>
+	<tu xmlns:lang="ptb">Antena</tu>
+	<tu xmlns:lang="rus">Антенна</tu>
+	<tu xmlns:lang="esp">Antena</tu>
+	<tu xmlns:lang="chs">天线</tu>
+	<tu xmlns:lang="kor">안테나</tu>
+</tm>

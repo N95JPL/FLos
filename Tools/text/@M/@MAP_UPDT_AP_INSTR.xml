@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAP_UPDT_AP_INSTR">
+	<tu xmlns:lang="eng">Application instructions:</tu>
+	<tu xmlns:lang="nld">Instructies bij de toepassing:</tu>
+	<tu xmlns:lang="fra">Instructions de l'application :</tu>
+	<tu xmlns:lang="deu">Anwendungsanweisungen:</tu>
+	<tu xmlns:lang="ita">Istruzioni dell'applicazione:</tu>
+	<tu xmlns:lang="jpn">アプリケ―ション取扱説明書:</tu>
+	<tu xmlns:lang="ptg">Instruções de aplicação:</tu>
+	<tu xmlns:lang="ptb">Instruções do aplicativo:</tu>
+	<tu xmlns:lang="rus">Инструкции приложения:</tu>
+	<tu xmlns:lang="esp">Instrucciones de aplicación:</tu>
+	<tu xmlns:lang="chs">应用程序说明：</tu>
+	<tu xmlns:lang="kor">응용 프로그램 지침:</tu>
+</tm>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CUR_BAT_VOLT_TOO_LOW">
+	<tu xmlns:lang="eng">The current vehicle battery voltage is too low:</tu>
+	<tu xmlns:lang="nld">De huidige voertuigaccuspanning is te laag:</tu>
+	<tu
+    xmlns:lang="fra"
+  >La tension actuelle de la batterie du véhicule est trop basse :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die aktuelle Spannung der Fahrzeugbatterie ist zu niedrig:</tu>
+	<tu
+    xmlns:lang="ita"
+  >La tensione corrente della batteria del veicolo è troppo bassa:</tu>
+	<tu xmlns:lang="jpn">現在の車両バッテリ電圧は低過ぎます：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A tensão actual da bateria do veículo é demasiado baixa:</tu>
+	<tu xmlns:lang="ptb">A tensão da bateria do veículo atual está muito baixa:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Текущее напряжение аккумуляторной батареи слишком низкое:</tu>
+	<tu xmlns:lang="esp">La tensión actual de la batería es demasiado baja:</tu>
+	<tu xmlns:lang="chs">当前车辆蓄电池电压过低：</tu>
+	<tu xmlns:lang="kor">현재 차량 배터리 전압이 너무 낮음:</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Clutch75Percent">
+	<tu xmlns:lang="eng">Clutch pedal 75% switch status</tu>
+	<tu xmlns:lang="nld">Status van 75% schakelaar koppelingspedaal</tu>
+	<tu xmlns:lang="fra">État de contacteur de la pédale d'embrayage 75 %</tu>
+	<tu xmlns:lang="deu">Kupplungspedal 75 %-Schalterstatus</tu>
+	<tu xmlns:lang="ita">Stato interruttore pedale della frizione 75%</tu>
+	<tu xmlns:lang="jpn">クラッチ ペダル 75% スイッチのステータス</tu>
+	<tu xmlns:lang="ptg">Estado do interruptor do pedal da embraiagem a 75%</tu>
+	<tu xmlns:lang="ptb">Status do interruptor de 75% do pedal da embreagem</tu>
+	<tu xmlns:lang="rus">Состояние датчика педали сцепления 75 %</tu>
+	<tu
+    xmlns:lang="esp"
+  >Estado del interruptor de accionamiento al 75 % del pedal de embrague</tu>
+	<tu xmlns:lang="chs">离合器踏板 75% 开关状态</tu>
+	<tu xmlns:lang="kor">클러치 페달 75% 스위치 상태</tu>
+</tm>

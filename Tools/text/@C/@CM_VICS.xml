@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_VICS">
+	<tu
+    xmlns:lang="eng"
+  >Is the vehicle fitted with a vehicle information and communication system?</tu>
+	<tu xmlns:lang="nld">Is het voertuig uitgerust met een voertuiginformatie- en
+communicatiesysteem?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule est-il équipé d'un système d'information et de communication du véhicule ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist das Fahrzeug mit einem Fahrzeug-Informations- und Kommunikationssystem ausgerüstet?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo è dotato di sistema dati e comunicazioni del veicolo?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この車両に、車両インフォメーションおよびコミュニケーション システムが装備されていますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo está equipado com um sistema de informações e comunicações do veículo?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo está equipado com um sistema de informações e comunicações do veículo?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Оснащен ли автомобиль системой связи и передачи информации?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Tiene instalado el coche un sistema de informaciones y comunicaciones?</tu>
+	<tu xmlns:lang="chs">车辆上安装了车辆信息和通讯系统了吗？</tu>
+	<tu xmlns:lang="kor">차량에 차량 정보 및 통신 시스템이 장착되어 있습니까?</tu>
+</tm>

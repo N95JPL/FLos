@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_ICP_02">
+	<tu
+    xmlns:lang="eng"
+  >1)  Turns off all LED's for first 5 seconds; then turns on for 25 seconds and checks for faulty LED's.</tu>
+	<tu
+    xmlns:lang="nld"
+  >1)  Alle LED's worden gedurende de eerste 5 seconden uitgezet, daarna worden ze 25 seconden aangezet en wordt gecontroleerd of er LED's defect zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >1)  Eteignez toutes les DEL pendant les 5 premières secondes, puis allumez-les pendant 25 secondes et vérifiez si des DEL sont défectueuses.</tu>
+	<tu
+    xmlns:lang="deu"
+  >1)  Schaltet alle Leuchtdioden zuerst 5 Sekunden lang aus, dann 25 Sekunden lang ein und prüft aus Vorhandensein schadhafter Leuchtdioden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >1)  Spegnere tutti i LED per i primi 5 secondi; quindi accenderli per 25 secondi e controllare se ci siano LED guasti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >1)  全 LED を最初 5 秒間消灯させ、そののち 25 秒間点灯させて不良 LED をチェックしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >1)  Apaga todos os LEDs nos primeiros 5 segundos; depois acende-os durante 25 segundos e verifica se existem LEDs avariados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >1)  Desliga todos os LEDs pelos primeiros 5 segundos; em seguida, liga por 25 segundos e verifica a existência de defeitos no LEDs.</tu>
+	<tu
+    xmlns:lang="rus"
+  >1)  Выключение всех светодиодов в течение первых 5 секунд; затем включение на 25 секунд и проверка на предмет неисправных светодиодов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >1)  Apaga todos los LED durante los primeros 5 segundos, luego los enciende durante 25 segundos y comprueba si alguno es defectuoso.</tu>
+	<tu
+    xmlns:lang="chs"
+  >1)  在第一个 5 秒钟关闭所有 LED；然后打开 25 秒钟并检查是否存在故障 LED。</tu>
+	<tu
+    xmlns:lang="kor"
+  >1)  먼저 5초간 모든 LED를 끈 다음 25초간 켜고 결함 있는 LED가 있는지 점검합니다.</tu>
+</tm>

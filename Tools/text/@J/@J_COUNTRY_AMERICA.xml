@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_AMERICA">
+	<tu xmlns:lang="eng">America</tu>
+	<tu xmlns:lang="nld">Amerika</tu>
+	<tu xmlns:lang="fra">Amérique</tu>
+	<tu xmlns:lang="deu">Amerika</tu>
+	<tu xmlns:lang="ita">America</tu>
+	<tu xmlns:lang="jpn">米国</tu>
+	<tu xmlns:lang="ptg">Estados Unidos da América</tu>
+	<tu xmlns:lang="ptb">América</tu>
+	<tu xmlns:lang="rus">Америка</tu>
+	<tu xmlns:lang="esp">América del Norte</tu>
+	<tu xmlns:lang="chs">美国</tu>
+	<tu xmlns:lang="kor">아메리카</tu>
+</tm>

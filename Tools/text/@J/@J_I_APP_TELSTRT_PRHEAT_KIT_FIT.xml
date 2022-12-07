@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_TELSTRT_PRHEAT_KIT_FIT">
+	<tu
+    xmlns:lang="eng"
+  >This application should only be ran if the L359 Telestart diesel engine pre-heat kit has been fitted. This application will update the following:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing mag alleen worden uitgevoerd indien de L359 Telestart-voorverwarmingsset voor de dieselmotor is gemonteerd. Tijdens het uitvoeren van deze toepassing wordt het volgende bijgewerkt:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application doit être lancée uniquement si le kit de préchauffage diesel Telestart du L359 a été monté. Cette application permet de mettre à jour les fonctions suivantes :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung nur laufen lassen, wenn der Telestart-Dieselmotor-Vorwärmsatz L359 eingebaut wurde. Diese Anwendung aktualisiert Folgendes:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quest'applicazione deve essere eseguita solo se è stato installato il kit preriscaldamento motore diesel L359 Telestart. Quest'applicazione aggiornerà quanto segue:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、L359 テレスタート ディーゼル エンジン予\熱キットを取り付けたときにのみ実行してください。このアプリケーションは次の項目を更新します：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação apenas deve ser executada se tiver sido instalado o kit de pré-aquecimento do motor Diesel L359 Telestart. Esta aplicação actualizará o seguinte:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo somente só deve ser executado se o kit de pré-aquecimento do motor a diesel L359 Telestart foi instalado. Este aplicativo atualizará o seguinte.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение следует запускать только если установлен блок предпускового подогрева дизельного двигателя L359 Telestart. Данное приложение выполнит следующие обновления:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación sólo debe ejecutarse si está instalado el kit de precalentamiento de motor Diesel L359 Telestart. La aplicación actualizará lo siguiente:</tu>
+	<tu
+    xmlns:lang="chs"
+  >该应用程序只有在装配了L359 Telestart远距操纵柴油发动机预热套件时才可运行。 这一应用程序将更新下列项目：</tu>
+	<tu
+    xmlns:lang="kor"
+  >L359 원격 시동 디젤 엔진 예열 키트가 장착된 경우에만 이 애플리케이션을 실행해야 합니다. 이 애플리케이션에서는 다음을 업데이트합니다.</tu>
+</tm>

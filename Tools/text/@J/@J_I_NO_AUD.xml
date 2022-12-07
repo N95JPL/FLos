@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_AUD">
+	<tu xmlns:lang="eng">No audio</tu>
+	<tu xmlns:lang="nld">Geen geluid</tu>
+	<tu xmlns:lang="fra">Pas de système audio</tu>
+	<tu xmlns:lang="deu">Kein Audio</tu>
+	<tu xmlns:lang="ita">Senza sistema audio</tu>
+	<tu xmlns:lang="jpn">オーディオなし</tu>
+	<tu xmlns:lang="ptg">Sem sistema áudio</tu>
+	<tu xmlns:lang="ptb">Sem áudio</tu>
+	<tu xmlns:lang="rus">Без аудиосистемы</tu>
+	<tu xmlns:lang="esp">Sin audio</tu>
+	<tu xmlns:lang="chs">无音频</tu>
+	<tu xmlns:lang="kor">오디오 없음</tu>
+</tm>

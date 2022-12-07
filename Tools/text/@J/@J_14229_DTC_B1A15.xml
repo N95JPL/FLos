@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DTC_B1A15">
+	<tu xmlns:lang="eng">Passenger air bag deactivation warning lamp</tu>
+	<tu xmlns:lang="nld">Waarschuwingslampje gedeactiveerde passagiersairbag</tu>
+	<tu
+    xmlns:lang="fra"
+  >Témoin d'avertissement de désactivation d'airbag passager</tu>
+	<tu xmlns:lang="deu">Deaktivierungsleuchte Beifahrerairbag</tu>
+	<tu xmlns:lang="ita">Spia luminosa disattivazione airbag passeggero</tu>
+	<tu xmlns:lang="jpn">助手席側エアバッグ非作動警告灯</tu>
+	<tu xmlns:lang="ptg">Luz de aviso de desactivação do airbag do passageiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Lâmpada de aviso de desativação do airbag do passageiro</tu>
+	<tu xmlns:lang="rus">Сигнализатор отключения подушки безопасности пассажира</tu>
+	<tu xmlns:lang="esp">Testigo de desactivación del airbag del acompañante</tu>
+	<tu xmlns:lang="chs">乘客安全气囊停用报警灯</tu>
+	<tu xmlns:lang="kor">조수석 에어백 비활성화 경고등</tu>
+</tm>

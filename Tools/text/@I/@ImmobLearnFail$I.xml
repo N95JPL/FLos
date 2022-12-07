@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ImmobLearnFail$I">
+	<tu xmlns:lang="eng">Immobilization fail.</tu>
+	<tu xmlns:lang="nld">Startblokkering mislukt.</tu>
+	<tu xmlns:lang="fra">Echec immobilisation.</tu>
+	<tu xmlns:lang="deu">Wegfahrsperre - Ausfall.</tu>
+	<tu xmlns:lang="ita">Errore immobilizzazione.</tu>
+	<tu xmlns:lang="jpn">イモビライゼーション学習に失敗</tu>
+	<tu xmlns:lang="ptg">Imobilização falhou.</tu>
+	<tu xmlns:lang="ptb">Falha de imobilização.</tu>
+	<tu xmlns:lang="rus">Неисправность системы блокировки запуска двигателя.</tu>
+	<tu xmlns:lang="esp">Fallo del sistema de inmovilización.</tu>
+	<tu xmlns:lang="chs">防盗锁止失败。</tu>
+	<tu xmlns:lang="kor">이모빌라이제이션 실패</tu>
+</tm>

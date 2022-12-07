@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA1520">
+	<tu xmlns:lang="eng">Central door locking</tu>
+	<tu xmlns:lang="nld">CENTRALE DEURVERGRENDELING</tu>
+	<tu xmlns:lang="fra">VERROUILLAGE CENTRAL</tu>
+	<tu xmlns:lang="deu">ZENTRAL VERRIEGELUNG</tu>
+	<tu xmlns:lang="ita">SERRATURA CENTRALE PORTIERE</tu>
+	<tu xmlns:lang="jpn">セントラル・ﾄﾞア・ロッキンｸﾞ</tu>
+	<tu xmlns:lang="ptg">Fecho centralizado das portas</tu>
+	<tu xmlns:lang="ptb">Travamento central das portas</tu>
+	<tu xmlns:lang="rus">Центральное запирание дверей</tu>
+	<tu xmlns:lang="esp">SISTEMA CERRADURA CENTRAL</tu>
+	<tu xmlns:lang="chs">中央门锁</tu>
+	<tu xmlns:lang="kor">중앙 도어 잠금</tu>
+</tm>

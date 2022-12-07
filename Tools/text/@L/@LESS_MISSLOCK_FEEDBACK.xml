@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LESS_MISSLOCK_FEEDBACK">
+	<tu xmlns:lang="eng">Without audible mislock feedback</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zonder hoorbare feedback bij mislukken van vergrendeling</tu>
+	<tu xmlns:lang="fra">Sans retour sonore de verrouillage incorrect</tu>
+	<tu xmlns:lang="deu">Ohne Signaltonrückmeldung bei Fehlverriegelung</tu>
+	<tu xmlns:lang="ita">Senza segnale bloccaggio errato</tu>
+	<tu xmlns:lang="jpn">ロック不良警告音フィードバックなし</tu>
+	<tu xmlns:lang="ptg">Sem resposta sonora de falha na trancagem</tu>
+	<tu xmlns:lang="ptb">Sem aviso sonoro de travamento incorreto</tu>
+	<tu xmlns:lang="rus">Без звукового сигнала обратной связи незакрытого замка</tu>
+	<tu xmlns:lang="esp">Sin aviso acústico de bloqueo incorrecto</tu>
+	<tu xmlns:lang="chs">无未锁闭音频反馈</tu>
+	<tu xmlns:lang="kor">청각적 잠금 오류 피드백 미장착</tu>
+</tm>

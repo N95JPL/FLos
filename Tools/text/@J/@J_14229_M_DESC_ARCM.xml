@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_ARCM">
+	<tu xmlns:lang="eng">Dynamic response module</tu>
+	<tu
+    xmlns:lang="nld"
+  >Regeling voor actief rollen (actief stabilisatiesysteem)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôle de roulis actif (système de stabilisation active)</tu>
+	<tu xmlns:lang="deu">Aktive Wanksteuerung (aktives Stabilisierungssystem)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Comando rollio attivo (sistema di stabilizzazione attivo)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アクティブ ロール コントロール (アクティブ スタビライザ システム)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Controlo activo da oscilação lateral do veículo (sistema de estabilização activo)</tu>
+	<tu xmlns:lang="ptb">Módulo do dynamic response</tu>
+	<tu xmlns:lang="rus">Блок управления динамическими характеристиками</tu>
+	<tu
+    xmlns:lang="esp"
+  >Control del balanceo activo (sistema de estabilización activo)</tu>
+	<tu xmlns:lang="chs">动态响应模块</tu>
+	<tu xmlns:lang="kor">다이내믹 리스폰스 모듈</tu>
+</tm>

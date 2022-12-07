@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NAV_WITH_TRAFFICMASTER">
+	<tu xmlns:lang="eng">Navigation with TrafficMaster dynamic route guidance</tu>
+	<tu
+    xmlns:lang="nld"
+  >Navigatie met dynamische routegeleiding van Trafficmaster</tu>
+	<tu xmlns:lang="fra">Navigation avec guidage dynamique Trafficmaster</tu>
+	<tu
+    xmlns:lang="deu"
+  >Navigationssystem mit dynamischer Trafficmaster-Routenführung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Navigazione con guida dinamica di percorso Trafficmaster</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トラフィックマスター ダイナミック ルート ガイダンス装備ナビゲーション</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Navegação com orientação dinâmica em itinerário TrafficMaster</tu>
+	<tu xmlns:lang="ptb">Navegação com orientação dinâmica TrafficMaster</tu>
+	<tu
+    xmlns:lang="rus"
+  >Навигация с функцией динамической прокладки маршрута TrafficMaster</tu>
+	<tu xmlns:lang="esp">Navegación con guía dinámica de ruta TrafficMaster</tu>
+	<tu xmlns:lang="chs">配备 TrafficMaster 动态路由导向的导航系统</tu>
+	<tu xmlns:lang="kor">TrafficMaster 동적 경로 안내 기능이 있는 내비게이션</tu>
+</tm>

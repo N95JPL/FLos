@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@H_ACTION_13347">
+	<tu
+    xmlns:lang="eng"
+  >Check and update the Transmission Control Module software version if necessary.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer de softwareversie van de transmissieregelmodule. Voer indien nodig een update uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôlez la version du logiciel du module de commande de transmission et mettez-la à jour si nécessaire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ggf. die Softwareversion des Getriebesteuergeräts überprüfen und aktualisieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare e aggiornare la versione del software del modulo di comando cambio se necessario.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスミッション コントロール モジュール ソ\フトウェア バージョンをチェックし、必要に応じてアップデートしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar a versão do software do módulo de controlo da transmissão e, se necessário, actualizar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique e atualize a versão do software do Módulo de Controle de Transmissão se necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте и при необходимости обновите версию программного обеспечения блока управления коробкой передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar la versión del software del módulo de control de la transmisión y actualizar si es necesario.</tu>
+	<tu xmlns:lang="chs">检查变速器控制模块的软件版本，必要时予以更新。</tu>
+	<tu
+    xmlns:lang="kor"
+  >변속기 컨트롤 모듈 소프트웨어 버전을 확인하고 필요에 따라 업데이트하십시오.</tu>
+</tm>

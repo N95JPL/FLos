@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NEW_SW_PARTS_PROGRAM">
+	<tu xmlns:lang="eng">New software parts to be programmed</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er zijn nieuwe software-onderdelen die geprogrammeerd moeten worden</tu>
+	<tu xmlns:lang="fra">Nouveaux éléments logiciels à programmer</tu>
+	<tu xmlns:lang="deu">Zu programmierende neue Softwareteile</tu>
+	<tu xmlns:lang="ita">Nuove parti software da programmare</tu>
+	<tu xmlns:lang="jpn">プログラムする新しいソ\フトウェアの部分</tu>
+	<tu xmlns:lang="ptg">Novas peças do software a programar</tu>
+	<tu xmlns:lang="ptb">Novas peças de software a serem programadas</tu>
+	<tu
+    xmlns:lang="rus"
+  >Новые программные модули, которые необходимо запрограммировать</tu>
+	<tu xmlns:lang="esp">Piezas de software nuevas que se deben programar</tu>
+	<tu xmlns:lang="chs">有待编程的新软件部件</tu>
+	<tu xmlns:lang="kor">프로그래밍할 새 소프트웨어 파트</tu>
+</tm>

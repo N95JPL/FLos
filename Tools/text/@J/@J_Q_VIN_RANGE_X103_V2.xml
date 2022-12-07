@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_VIN_RANGE_X103_V2">
+	<tu
+    xmlns:lang="eng"
+  >Is the vehicle identification number greater than A30644 but less than A40265?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuigidentificatienummer hoger dan A30644 maar lager dan A40265?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le numéro d'identification du véhicule est-il supérieur à A30644 mais inférieur à A40265 ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist die Fahrzeug-Identifizierungsnummer gröîer als A30644 aber kleiner als A40265?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il numero di identificazione del veicolo è maggiore di A30644 ma minore di A40265?</tu>
+	<tu xmlns:lang="jpn">車両 ID ナンバーは A30644 以降、A40265 以前ですか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número de identificação do veículo é superior a A30644 mas inferior a A40265?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O número de identificação do veículo é maior que A30644 e menor que A40265?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Идентификационный номер автомобиля больше A30644, но меньше A40265?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Es el número de identificación del vehículo superior a A30644 pero inferior a A40265?</tu>
+	<tu xmlns:lang="chs">车辆标识代码是否大于  A30644  但小于 A40265 ？</tu>
+	<tu xmlns:lang="kor">차량 식별 번호가 A30644보다 높고 A40265보다 낮습니까?</tu>
+</tm>

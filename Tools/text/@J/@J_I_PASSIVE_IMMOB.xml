@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PASSIVE_IMMOB">
+	<tu xmlns:lang="eng">Passive immobilization</tu>
+	<tu xmlns:lang="nld">Passieve startblokkering</tu>
+	<tu xmlns:lang="fra">Immobilisation passive</tu>
+	<tu xmlns:lang="deu">Passive Wegfahrsperre</tu>
+	<tu xmlns:lang="ita">Immobilizzazione passiva</tu>
+	<tu xmlns:lang="jpn">パッシブ イモビライゼーション</tu>
+	<tu xmlns:lang="ptg">Imobilização do sistema passivo anti-roubo</tu>
+	<tu xmlns:lang="ptb">Imobilização passiva</tu>
+	<tu xmlns:lang="rus">Пассивная блокировка запуска двигателя</tu>
+	<tu xmlns:lang="esp">Inmovilización pasiva</tu>
+	<tu xmlns:lang="chs">无源防盗系统</tu>
+	<tu xmlns:lang="kor">수동적 이모빌라이제이션</tu>
+</tm>

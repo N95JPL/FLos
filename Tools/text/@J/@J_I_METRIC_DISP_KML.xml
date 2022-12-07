@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_METRIC_DISP_KML">
+	<tu xmlns:lang="eng">Metric display: km/liter</tu>
+	<tu xmlns:lang="nld">Metrisch display: km/liter</tu>
+	<tu xmlns:lang="fra">Affichage métrique : km/litre</tu>
+	<tu xmlns:lang="deu">Metrische Anzeige:km/Liter</tu>
+	<tu xmlns:lang="ita">Display unità metriche: km/litro</tu>
+	<tu xmlns:lang="jpn">メートル表\示：km/l</tu>
+	<tu xmlns:lang="ptg">Formato métrico de visualização: km/litro</tu>
+	<tu xmlns:lang="ptb">Exibição métrica: km/litro</tu>
+	<tu xmlns:lang="rus">Отображение в метрической системе измерений: км/л</tu>
+	<tu xmlns:lang="esp">Indicación en sistema métrico: km/litro</tu>
+	<tu xmlns:lang="chs">公制显示：km/L</tu>
+	<tu xmlns:lang="kor">미터법 표시: km/L</tu>
+</tm>

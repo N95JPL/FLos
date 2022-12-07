@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CN_MAFS">
+	<tu xmlns:lang="eng">Air flow meter</tu>
+	<tu xmlns:lang="nld">Luchtstromingsmeter</tu>
+	<tu xmlns:lang="fra">Débitmètre d'air</tu>
+	<tu xmlns:lang="deu">Luftdurchsatzmesser</tu>
+	<tu xmlns:lang="ita">Flussometro aria</tu>
+	<tu xmlns:lang="jpn">エア フロー メータ</tu>
+	<tu xmlns:lang="ptg">Medidor do fluxo de ar</tu>
+	<tu xmlns:lang="ptb">Medidor de fluxo de ar</tu>
+	<tu xmlns:lang="rus">Датчик расхода воздуха</tu>
+	<tu xmlns:lang="esp">Caudalímetro</tu>
+	<tu xmlns:lang="chs">空气流量计</tu>
+	<tu xmlns:lang="kor">공기량 미터</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_NO_CAL_DATA">
+	<tu xmlns:lang="eng">No calibration for this variant</tu>
+	<tu xmlns:lang="nld">Geen kalibratie voor deze uitvoering</tu>
+	<tu xmlns:lang="fra">Pas de calibrage pour cette variante</tu>
+	<tu xmlns:lang="deu">Keine Kalibrierung für dieses Modell </tu>
+	<tu xmlns:lang="ita">Nessuna calibrazione per questa variante</tu>
+	<tu xmlns:lang="jpn">このバリアントにキャリブレーションはありません。</tu>
+	<tu xmlns:lang="ptg">Não há calibragem para esta versão</tu>
+	<tu xmlns:lang="ptb">Nenhuma calibração para esta variante</tu>
+	<tu xmlns:lang="rus">Для данной конфигурации калибровка не выполняется</tu>
+	<tu xmlns:lang="esp">Esta versión no está calibrada</tu>
+	<tu xmlns:lang="chs">对这一变量不存在标定</tu>
+	<tu xmlns:lang="kor">이 바리안트에는 보정이 없음</tu>
+</tm>

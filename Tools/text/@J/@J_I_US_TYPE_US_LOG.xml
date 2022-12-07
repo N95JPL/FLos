@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_US_TYPE_US_LOG">
+	<tu xmlns:lang="eng">USA  type  -  USA logic</tu>
+	<tu xmlns:lang="nld">VS-type  -  VS-logic</tu>
+	<tu xmlns:lang="fra">Type USA  -  Logique USA</tu>
+	<tu xmlns:lang="deu">USA  Typ  -  USA Logik</tu>
+	<tu xmlns:lang="ita">Tipo USA  -  Logica USA</tu>
+	<tu xmlns:lang="jpn">米国タイプ  －  米国ロジック</tu>
+	<tu xmlns:lang="ptg">Tipo EUA  -  Lógica EUA</tu>
+	<tu xmlns:lang="ptb">Tipo EUA  -  Logic EUA</tu>
+	<tu xmlns:lang="rus">Тип для США  -  Логика для США</tu>
+	<tu xmlns:lang="esp">Tipo Estados Unidos  -  Lógica Estados Unidos</tu>
+	<tu xmlns:lang="chs">美国类型  -  美国逻辑</tu>
+	<tu xmlns:lang="kor">미국 유형  -  미국 논리</tu>
+</tm>

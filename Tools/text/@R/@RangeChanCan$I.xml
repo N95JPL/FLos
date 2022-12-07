@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RangeChanCan$I">
+	<tu xmlns:lang="eng">Range change cancelled.</tu>
+	<tu xmlns:lang="nld">Bereikverandering geannuleerd.</tu>
+	<tu xmlns:lang="fra">Changement de gamme annulé.</tu>
+	<tu xmlns:lang="deu">Bereichsschaltung abgebrochen.</tu>
+	<tu xmlns:lang="ita">Cambiamento di gamma operativa cancellato.</tu>
+	<tu xmlns:lang="jpn">レンジ変更がキャンセルされました。</tu>
+	<tu xmlns:lang="ptg">Mudança de gama cancelada.</tu>
+	<tu xmlns:lang="ptb">Alteração de intervalo cancelada.</tu>
+	<tu xmlns:lang="rus">Изменение диапазона отменено.</tu>
+	<tu xmlns:lang="esp">Se anuló el cambio de gama.</tu>
+	<tu xmlns:lang="chs">范围更改已取消。</tu>
+	<tu xmlns:lang="kor">레인지 전환이 취소됨</tu>
+</tm>

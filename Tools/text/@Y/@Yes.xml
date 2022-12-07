@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Yes">
+	<tu xmlns:lang="eng">Yes</tu>
+	<tu xmlns:lang="nld">Ja</tu>
+	<tu xmlns:lang="fra">Oui</tu>
+	<tu xmlns:lang="deu">Ja</tu>
+	<tu xmlns:lang="ita">Sì</tu>
+	<tu xmlns:lang="jpn">はい</tu>
+	<tu xmlns:lang="ptg">Sim</tu>
+	<tu xmlns:lang="ptb">Sim</tu>
+	<tu xmlns:lang="rus">Да</tu>
+	<tu xmlns:lang="esp">Sí</tu>
+	<tu xmlns:lang="chs">是</tu>
+	<tu xmlns:lang="kor">예</tu>
+</tm>

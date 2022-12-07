@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RunSelfTest$I">
+	<tu xmlns:lang="eng">Running module self test - please wait.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bezig met het uitvoeren van de modulezelftest - even geduld alstublieft.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lancement du module d'autodiagnostic en cours - veuillez patienter.</tu>
+	<tu xmlns:lang="deu">Modul-Selbsttest wird ausgeführt - bitte warten.</tu>
+	<tu xmlns:lang="ita">Autodiagnostica modulo in corso - attendere prego.</tu>
+	<tu xmlns:lang="jpn">ﾓｼﾞｭーﾙ・ｾﾙﾌﾃｽﾄ中 - お待ちください</tu>
+	<tu xmlns:lang="ptg">A correr o autoteste do módulo - aguarde por favor.</tu>
+	<tu xmlns:lang="ptb">Executando autoteste do módulo - aguarde.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполняется самотестирование блока. Пожалуйста, подождите.</tu>
+	<tu xmlns:lang="esp">Ejecutando la autocomprobación del módulo; espere.</tu>
+	<tu xmlns:lang="chs">模块自检正在运行--请等候。</tu>
+	<tu xmlns:lang="kor">모듈 자체 테스트 실행 중 - 기다려 주십시오.</tu>
+</tm>

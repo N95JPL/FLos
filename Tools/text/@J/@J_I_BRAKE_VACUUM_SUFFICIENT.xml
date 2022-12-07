@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BRAKE_VACUUM_SUFFICIENT">
+	<tu xmlns:lang="eng">Brake vacuum sufficient</tu>
+	<tu xmlns:lang="nld">Remvacuüm voldoende</tu>
+	<tu xmlns:lang="fra">Dépression du système de freinage suffisante</tu>
+	<tu xmlns:lang="deu">Bremsunterdruck ausreichend</tu>
+	<tu xmlns:lang="ita">Depressione servofreno sufficiente</tu>
+	<tu xmlns:lang="jpn">ブレーキ用バキュームが充分</tu>
+	<tu xmlns:lang="ptg">Vácuo dos travões suficiente</tu>
+	<tu xmlns:lang="ptb">Vácuo do freio suficiente</tu>
+	<tu xmlns:lang="rus">Вакуум в усилителе тормозов достаточен</tu>
+	<tu xmlns:lang="esp">Vacío del sistema de frenos suficiente</tu>
+	<tu xmlns:lang="chs">制动真空度充足</tu>
+	<tu xmlns:lang="kor">브레이크 진공 충분</tu>
+</tm>

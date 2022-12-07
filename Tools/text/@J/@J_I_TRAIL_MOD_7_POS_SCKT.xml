@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRAIL_MOD_7_POS_SCKT">
+	<tu
+    xmlns:lang="eng"
+  >Trailer module  7  -  Position socket (pin 7 not in use)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Aanhangermodule.  7  -  Positiecontactdoos (pen 7 niet in gebruik)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de remorque.  7  -  Prise de position (broche 7 inutilisée)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anhänger-Steuergerät  7  -  Anschluss (Stift 7 nicht belegt)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo rimorchio  7  -  Presa posizione (piedino 7 non in uso)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トレーラー モジュール  7  －  ポジショニング ソ\ケット (ピン 7 は使用せず)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo do reboque  7  -  Tomada das luzes de presença (pino 7 sem utilização)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo de reboque  7  -  Soquete de posição (pino 7 não está em uso)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок прицепа  7  -  Позиционная розетка (контакт № 7 не используется)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo del remolque  7  -  Conector de posición (el pin 7 no está en uso)</tu>
+	<tu xmlns:lang="chs">拖车模块  7  -  针脚插座（针脚 7 未用）</tu>
+	<tu xmlns:lang="kor">트레일러 모듈  7  -  위치 소켓(핀 7이 사용 안 됨)</tu>
+</tm>

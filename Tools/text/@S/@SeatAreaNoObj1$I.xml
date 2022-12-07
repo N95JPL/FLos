@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SeatAreaNoObj1$I">
+	<tu
+    xmlns:lang="eng"
+  >This calibration routine involves powering the seat to the end stops of every supported axis.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij deze kalibreringsroutine moet u de stoel naar de eindaanslagen van elke ondersteunde richting verstellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme d'étalonnage nécessite le déplacement électrique du siège jusqu'aux butées d'extrémités sur tous les axes pris en charge.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Kalibrierungsroutine wird der Sitz an die Endanschläge aller vorgesehenen Verstellachsen verfahren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura di taratura comporta l'azionamento del sedile fino ai fine corsa di ogni asse supportato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このキャリブレーション ルーチンでは、シートを各サポート済み軸上のエンド ストップまで電動駆動します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A rotina de calibragem envolve accionar o banco até aos batentes de todos os eixos suportados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina de calibração envolve o acionamento do assento até a parada final de cada eixo suportado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура калибровки включает перемещение сиденья до предельных положений по всем поддерживаемым осям перемещения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina de calibración implica la activación del asiento hasta los topes de cada eje que admite ajuste.</tu>
+	<tu
+    xmlns:lang="chs"
+  >此标定常规程序包括：使用动力装置将座椅移动至每个受支持的坐标轴的端部止动位置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 보정 절차에는 지원되는 모든 축의 엔드 스톱까지 시트에 전원을 공급하는 것이 포함되어 있습니다.</tu>
+</tm>

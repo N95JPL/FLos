@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DLR_WASH_STRATEGY_SELECT">
+	<tu
+    xmlns:lang="eng"
+  >Scandinavian/Canadian daytime running lamps wash strategy select</tu>
+	<tu
+    xmlns:lang="nld"
+  >Scandinavische/Canadese strategie voor sproeien van dimlichten overdag selecteren</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélection de stratégie de lavage des feux de jour Scandinavie/Canada.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auswahl skandinavische/kanadische Tagfahrlicht-Waschstrategie</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezione strategia di lavaggio luci diurne Paesi scandinavi/Canada</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スカンジナビア／カナダ昼間走行ランプ ウォッシュ ストラテジー選択</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccionar estratégia de lava-faróis, luzes de condução diurna para Escandinávia/Canadá</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Seleção de estratégia de lavagem das luzes de funcionamento diurno para Escandinávia/Canadá</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выбор режимов работы омывателей для Скандинавии и Канады, где включение габаритных огней в дневное время является обязательным</tu>
+	<tu
+    xmlns:lang="esp"
+  >Selección de la estrategia de lavado de luces de conducción diurna, Escandinavia/Canadá</tu>
+	<tu xmlns:lang="chs">斯堪的纳维亚/加拿大白天行驶灯洗涤策略选择</tu>
+	<tu xmlns:lang="kor">스칸디나비아/캐나다 주간 주행등 와셔 계획 선택</tu>
+</tm>

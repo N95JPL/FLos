@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_DTC_X202_AC_MON">
+	<tu xmlns:lang="eng">Start engine.
+Use the Diagnostic Tool to monitor air conditioning pressure sensor signal voltage.
+Set climate control to a low temperature; operate for 2 minutes.
+Switch off climate control; wait 2 minutes.
+Air conditioning pressure sensor signal voltage should be greater than 4.9 volts.</tu>
+	<tu xmlns:lang="nld">Start de motor.
+Gebruik de diagnoseapparatuur om de signaalspanning van de druksensor van de airconditioning te bewaken.
+Stel de klimaatregeling in op een lage temperatuur; laat het systeem gedurende 2 minuten werken.
+Zet de klimaatregeling uit; wacht 2 minuten.
+De signaalspanning van de druksensor van de airconditioning moet hoger zijn dan 4,9 volt.</tu>
+	<tu xmlns:lang="fra">Démarrer le moteur.
+Utilisez l'outil de diagnostic pour surveiller la tension du signal du capteur de pression de climatisation.
+Réglez la climatisation sur une température basse ; faites-la fonctionner pendant 2 minutes.
+Coupez la climatisation ; patientez 2 minutes.
+La tension du signal du capteur de pression de climatisation doit être supérieure à 4,9 V.</tu>
+	<tu xmlns:lang="deu">Motor starten.
+Mit dem Diagnosetool die Signalspannung des Klimaanlagendrucksensors überwachen.
+Die Klimaregelung auf eine niedrige Temperatur einstellen und 2 Minuten lang laufen lassen.
+Die Klimaregelung ausschalten und 2 Minuten lang warten.
+Die Signalspannung des Klimaanlagendrucksensors sollte nicht mehr als 4,9 Volt betragen.</tu>
+	<tu xmlns:lang="ita">Avviare il motore.
+Utilizzare lo strumento diagnostico per monitorare la tensione del segnale del sensore di pressione dell'aria condizionata.
+Impostare il comando della climatizzazione ad una temperatura bassa per 2 minuti.
+Spegnere il comando della climatizzazione; attendere 2 minuti.
+La tensione del segnale del sensore di pressione dell'aria condizionata deve essere superiore a 4,9 V.</tu>
+	<tu xmlns:lang="jpn">エンジンを始動する。
+診断ツールを使用して、エアコン プレッシャ センサ信号電圧をモニタします。
+クライメート コントロールを低温に設定して、2 分間作動させます。
+クライメート コントロールをオフにして、2 分間待ちます。
+エアコン プレッシャ センサ信号電圧は 4.9 V を上回る必要があります。</tu>
+	<tu xmlns:lang="ptg">Pôr o motor a trabalhar.
+Utilize a ferramenta de diagnóstico para monitorizar a tensão de sinal do sensor de pressão do ar condicionado.
+Regular o comando da climatização para uma temperatura baixa; ligar durante 2 minutos.
+Desligue o controlo da climatização; aguarde 2 minutos.
+A tensão de sinal do sensor de pressão do ar condicionado deve ser superior a 4,9 V.</tu>
+	<tu xmlns:lang="ptb">Dê a partida no motor.
+Use a Ferramenta de Diagnóstico para monitorar a tensão do sinal do sensor de pressão do ar-condicionado.
+Ajuste o controle de temperatura para uma temperatura baixa e deixe funcionar por 2 minutos.
+Desligue o controle de temperatura; aguarde 2 minutos.
+A tensão do sinal do sensor de pressão do ar-condicionado deve ser maior que 4,9 volts.</tu>
+	<tu xmlns:lang="rus">Запустить двигатель.
+С помощью диагностического инструмента проверьте напряжение сигнала датчика давления системы кондиционирования воздуха.
+Установите систему управления микроклиматом на низкую температуру; включите на 2 минуты.
+Выключите систему управления микроклиматом; подождите 2 минуты.
+Напряжение сигнала датчика давления в кондиционере должно быть выше 4,9 В.</tu>
+	<tu xmlns:lang="esp">Arranque el motor.
+Utilice la herramienta de diagnóstico para monitorizar la tensión de la señal del sensor de presión del aire acondicionado.
+Ajuste el control de climatización a una temperatura baja; hágalo funcionar durante 2 minutos.
+Desactive el control de climatización; espere 2 minutos.
+La tensión de la señal del sensor de presión del aire acondicionado debe ser superior a 4,9 voltios.</tu>
+	<tu xmlns:lang="chs">启动发动机
+使用诊断工具监测空调压力传感器信号电压。
+将气候控制设置为一个较低的温度；运行 2 分钟。
+关闭气候控制；等待 2 分钟。
+空调压力传感器信号电压应该大于 4.9 伏。</tu>
+	<tu xmlns:lang="kor">엔진을 시동하십시오.
+진단 도구를 사용하여 에어컨 압력 센서 신호 전압을 모니터링하십시오.
+실내 온도 조절 시스템을 낮은 온도로 설정하십시오. 2분간 작동하십시오.
+실내 온도 조절 시스템을 끄고 2분간 기다리십시오.
+에어컨 압력 센서 신호 전압이 4.9V보다 커야 합니다.</tu>
+</tm>

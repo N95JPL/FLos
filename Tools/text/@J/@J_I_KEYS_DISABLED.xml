@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEYS_DISABLED">
+	<tu xmlns:lang="eng">Number of keys disabled</tu>
+	<tu xmlns:lang="nld">Aantal uitgeschakelde sleutels</tu>
+	<tu xmlns:lang="fra">Nombre de clés désactivées</tu>
+	<tu xmlns:lang="deu">Anzahl von deaktivierten Schlüsseln</tu>
+	<tu xmlns:lang="ita">Numero di chiavi disattivate</tu>
+	<tu xmlns:lang="jpn">作動不可設定キーの数</tu>
+	<tu xmlns:lang="ptg">Número de chaves desactivadas</tu>
+	<tu xmlns:lang="ptb">Número de chaves desativadas</tu>
+	<tu xmlns:lang="rus">Количество отключенных ключей</tu>
+	<tu xmlns:lang="esp">Número de llaves inhabilitadas</tu>
+	<tu xmlns:lang="chs">禁用的钥匙数量</tu>
+	<tu xmlns:lang="kor">비활성화된 키의 수</tu>
+</tm>

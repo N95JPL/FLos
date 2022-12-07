@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ALL_PARTS_UP_TO_DATE">
+	<tu
+    xmlns:lang="eng"
+  >All software parts are at the latest released level, therefore no download is required</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alle softwareonderdelen zijn van de meest recente versie, zodat downloaden niet nodig is</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tous les éléments logiciels sont en version la plus récente, aucun téléchargement n'est requis</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle Teile der Software befinden sich auf aktuellstem Stand, folglich ist kein Herunterladen erforderlich.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il livello di aggiornamento di tutte le parti di software è quello più recente, pertanto non è necessario alcuno scaricamento</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ソ\フトウェアの全部分が最新リリース レベルです。したがってダウンロードの必要はありません</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todas as peças de software se encontram actualizadas, portanto, não é necessário efectuar qualquer download.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todas as partes do software estão no nível de versão mais recente, portanto, nenhum download é necessário</tu>
+	<tu
+    xmlns:lang="rus"
+  >Все компоненты программного обеспечения последней версии, поэтому загрузка не требуется</tu>
+	<tu
+    xmlns:lang="esp"
+  >Todos los componentes de software son las versiones más recientes, por lo que no es necesario realizar ninguna descarga</tu>
+	<tu xmlns:lang="chs">全部软件组件均为最新发布版本，因此，不需要进行任何下载</tu>
+	<tu
+    xmlns:lang="kor"
+  >모든 소프트웨어 파트가 최신 릴리스된 레벨에 있으므로, 다운로드할 필요가 없습니다.</tu>
+</tm>

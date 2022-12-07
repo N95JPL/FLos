@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_IGNITION_ON_ERROR">
+	<tu xmlns:lang="eng">Ignition was not switched 'on' in the required time.</tu>
+	<tu xmlns:lang="nld">Contact was niet op tijd ingeschakeld.</tu>
+	<tu xmlns:lang="fra">Le contact n'était pas mis au moment voulu.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Zündung wurde in der erforderlichen Zeit nicht eingeschaltet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'accensione non era stata inserita entro il tempo richiesto.</tu>
+	<tu xmlns:lang="jpn">所定の時間内にイグニッションが「オン」にされなかった。</tu>
+	<tu xmlns:lang="ptg">A ignição não estava ligada no momento pretendido.</tu>
+	<tu xmlns:lang="ptb">A ignição não estava ativada no momento necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Зажигание не было включено в течение необходимого времени.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se activó el sistema de encendido en el momento oportuno.</tu>
+	<tu xmlns:lang="chs">点火开关未在要求时间内打开。</tu>
+	<tu
+    xmlns:lang="kor"
+  >필요한 시간 내에 점화 스위치가 'ON'으로 전환되지 않았습니다.</tu>
+</tm>

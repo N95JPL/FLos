@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WIPERS_INT_SPEED_DEPENDENT">
+	<tu xmlns:lang="eng">Speed dependent intermittent windshield wipers</tu>
+	<tu
+    xmlns:lang="nld"
+  >Snelheidsafhankelijke interval ruitenwissers van de voorruit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Balayage intermittent d'essuie-glaces dépendant de la vitesse.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Geschwindigkeitsabhängige Intervalltaktung der Windschutzscheibenwischer</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tergicristalli parabrezza intermittenti dipendenti dalla velocità</tu>
+	<tu xmlns:lang="jpn">速度感応間欠ウィンドシールド ワイパー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Limpa-pára-brisas intermitente dependente da velocidade</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Limpadores de para-brisa intermitentes dependentes da velocidade</tu>
+	<tu
+    xmlns:lang="rus"
+  >Режим регулирования прерывистой работы стеклоочистителей ветрового стекла в зависимости от скорости движения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Limpiaparabrisas de intermitencia sensibles a la velocidad del vehículo</tu>
+	<tu xmlns:lang="chs">由速度控制的间歇性挡风玻璃刮水器</tu>
+	<tu xmlns:lang="kor">속도 연동 간헐 윈드실드 와이퍼</tu>
+</tm>

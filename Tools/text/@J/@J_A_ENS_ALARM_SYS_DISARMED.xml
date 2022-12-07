@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENS_ALARM_SYS_DISARMED">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the vehicle alarm system is in a disarmed state</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat het diefstalalarmsysteem uitgeschakeld is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifier que le système d'alarme du véhicule n'est pas ARME</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vergewissern Sie sich, daß die Alarmanlage ENTSCHÄRFT ist</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che l'antifurto del veicolo NON SIA ATTIVATO</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ｾｷｭﾘﾃｨ・ｼｽﾃﾑが作動していない状態であることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Assegure-se de que o sistema de alarme do veículo está num estado desactivado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o sistema de alarme do veículo está em estado de desarme</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что система сигнализации автомобиля отключена</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar que el sistema de alarma del vehículo está en estado DESACTIVADO</tu>
+	<tu xmlns:lang="chs">确保车辆报警系统处于解除状态</tu>
+	<tu xmlns:lang="kor">차량 알람 시스템이 해제 상태인지 확인하십시오.</tu>
+</tm>

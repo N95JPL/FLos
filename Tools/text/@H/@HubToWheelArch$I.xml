@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HubToWheelArch$I">
+	<tu xmlns:lang="eng">Hub center to wheel arch.</tu>
+	<tu xmlns:lang="nld">Afstand tussen het naafmiddelpunt en de wielkuip.</tu>
+	<tu xmlns:lang="fra">Du centre du moyeu au passage de roue.</tu>
+	<tu xmlns:lang="deu">Nabenmitte bis Radlauf.</tu>
+	<tu xmlns:lang="ita">Centro mozzo a passaruota.</tu>
+	<tu xmlns:lang="jpn">ハブ中央からホイールアーチまで</tu>
+	<tu xmlns:lang="ptg">Centro do cubo à cava da roda.</tu>
+	<tu xmlns:lang="ptb">Centro do cubo do arco da roda.</tu>
+	<tu xmlns:lang="rus">Расстояние от центра ступицы до надколесной арки.</tu>
+	<tu xmlns:lang="esp">Centro del cubo al pase de rueda.</tu>
+	<tu xmlns:lang="chs">轮毂中心至轮罩拱。</tu>
+	<tu xmlns:lang="kor">허브 중앙에서 휠 아치까지</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspMeasTol$I">
+	<tu
+    xmlns:lang="eng"
+  >The suspension height measurement tolerances are small, therefore, it is imperative that the height values measured and entered are accurate.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De toleranties van de luchtveringsmeting zijn klein en het is derhalve zeer belangrijk dat de gemeten en ingevoerde waarden voor de hoogte nauwkeurig zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les tolérances de mesure de la hauteur de suspension sont faibles, il est donc impératif que les valeurs de hauteur mesurées et saisies soient précises.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Toleranzen für die Messwerte der Luftfederungshöhe sind gering; von daher ist es unerlässlich, dass die gemessenen und eingegebenen Höhenwerte akkurat sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le tolleranze della misura di altezza delle sospensioni sono piccole, perciò è fondamentale che i valori di altezza misurati e inseriti siano precisi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >サスペンション ハイト測定値の許容範囲は僅かであるため、測定ハイト数値とその入力は正確でなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As tolerâncias de medição da altura da suspensão são pequenas; por isso é imperativo que os valores de altura medidos e introduzidos sejam exactos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As tolerâncias na medição da altura da suspensão são pequenas, por isso, é fundamental que os valores de altura medidos e inseridos sejam precisos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Допуски на измерение высоты подвески небольшие, поэтому измеренные и вводимые значения высоты обязательно должны быть точными.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las tolerancias de la medida de la altura de las suspensión son pequeñas, por lo tanto, es imprescindible que los valores de altura medidos e introducidos sean precisos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'悬架高度测量公差很小，因此，必须保证实测和输入的高度值准确。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >서스펜션 높이 측정 공차가 작으므로 측정 및 입력하는 높이값이 정확해야 합니다.</tu>
+</tm>

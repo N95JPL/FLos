@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_FUSE_FAILURE">
+	<tu xmlns:lang="eng">Fuse failure</tu>
+	<tu xmlns:lang="nld">Zekering defect</tu>
+	<tu xmlns:lang="fra">Fusible grille</tu>
+	<tu xmlns:lang="deu">Sicherungsversagen</tu>
+	<tu xmlns:lang="ita">Guasto fusibile</tu>
+	<tu xmlns:lang="jpn">ヒューズ不良</tu>
+	<tu xmlns:lang="ptg">Avaria no fusível</tu>
+	<tu xmlns:lang="ptb">Falha do fusível</tu>
+	<tu xmlns:lang="rus">Отказ предохранителя</tu>
+	<tu xmlns:lang="esp">Fallo de fusible</tu>
+	<tu xmlns:lang="chs">保险丝故障</tu>
+	<tu xmlns:lang="kor">퓨즈 고장</tu>
+</tm>

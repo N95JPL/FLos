@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_LWR">
+	<tu xmlns:lang="eng">No low wattage rating</tu>
+	<tu xmlns:lang="nld">Geen laag wattverbruik</tu>
+	<tu xmlns:lang="fra">Pas d'indice de puissance faible</tu>
+	<tu xmlns:lang="deu">Keine Angabe niedrige Stromaufnahme</tu>
+	<tu xmlns:lang="ita">Nessun wattaggio basso</tu>
+	<tu xmlns:lang="jpn">低ワット レート設定なし</tu>
+	<tu xmlns:lang="ptg">Sem potência baixa</tu>
+	<tu xmlns:lang="ptb">Sem classificação de baixo watt</tu>
+	<tu xmlns:lang="rus">Без малого потребления мощности</tu>
+	<tu xmlns:lang="esp">No tiene clasificación de baja potencia</tu>
+	<tu xmlns:lang="chs">无低额定功率</tu>
+	<tu xmlns:lang="kor">낮은 와트수 등급 없음</tu>
+</tm>

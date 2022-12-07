@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HIGH_NAV">
+	<tu xmlns:lang="eng">High navigation system with colour touch screen</tu>
+	<tu xmlns:lang="nld">Hoogwaardig navigatiesysteem met kleurentouch-screen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système de navigation haut de gamme avec écran tactile couleur</tu>
+	<tu
+    xmlns:lang="deu"
+  >Navigationssystem in gehobener Ausführung mit Farb-Touchscreen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema di navigazione di gamma alta con schermo a sfioramento a colori</tu>
+	<tu
+    xmlns:lang="jpn"
+  >カラー タッチ スクリーン付きハイ ナビゲーション システム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de navegação elevado com ecrã de toque policromático</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de navegação alto com tela colorida touchscreen</tu>
+	<tu
+    xmlns:lang="rus"
+  >Навигационная система высшего класса с цветным сенсорным экраном</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de navegación de gama alta (pantalla táctil en color)</tu>
+	<tu xmlns:lang="chs">配彩色触摸屏的高级导航系统</tu>
+	<tu xmlns:lang="kor">컬러 터치 스크린이 있는 하이 내비게이션 시스템</tu>
+</tm>

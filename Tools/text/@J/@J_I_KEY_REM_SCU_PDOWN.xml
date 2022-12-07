@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_REM_SCU_PDOWN">
+	<tu
+    xmlns:lang="eng"
+  >The key will need to be removed from the starter control unit to allow the system to power down and then re-inserted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U zult de sleutel uit de regeleenheid voor sleutelloos starten (docking station)moeten verwijderen zodat het systeem zichzelf kan uitschakelen. Daarna steekt u de sleutel weer in.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La clé devra être retirée du module de commande de démarrage pour permettre au véhicule de s'arrêter puis réinsérée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Schlüssel muss aus der Startsteuereinheit abgezogen werden, damit das System abschalten kann, und muss anschließend wieder eingesteckt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La chiave dovrà essere rimossa dall'unità di comando del motorino di avviamento per consentire lo spegnimento del sistema e poi reinserita.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >キーをスターター コントロール ユニットから取り外し、システムをパワーダウンさせ、そののち再挿入する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A chave terá de ser retirada da unidade de controlo do motor de arranque, para permitir que o sistema desligue, e depois terá de ser reintroduzida.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A chave deverá ser removida da unidade de controle de partida para permitir que o sistema desligue e, em seguida, reinserida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Потребуется удалить ключ из блока управления стартером для выключения системы и затем повторно его вставить.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Hay que retirar la llave del módulo de control de arranque para permitir la desactivación del sistema y después volver a insertarla.</tu>
+	<tu
+    xmlns:lang="chs"
+  >必须把钥匙从起动机控制单元上取下，以使系统停止，然后重新插入。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스타터 컨트롤 유닛에서 키를 제거하여 시스템 전원이 꺼진 다음 키를 다시 삽입할 수 있도록 해야 합니다.</tu>
+</tm>

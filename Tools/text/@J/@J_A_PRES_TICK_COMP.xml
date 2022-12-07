@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PRES_TICK_COMP">
+	<tu xmlns:lang="eng">Press the confirmation tick on completion.</tu>
+	<tu xmlns:lang="nld">Druk na beëindiging op de afvinktoets.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cochez la case de confirmation à la fin de la procédure.</tu>
+	<tu xmlns:lang="deu">Nach Abschluss zur Bestätigung das Häkchen antippen.</tu>
+	<tu xmlns:lang="ita">Al termine, premere il tasto di spunta di conferma.</tu>
+	<tu xmlns:lang="jpn">完了時に確認のティックを押しなさい。</tu>
+	<tu xmlns:lang="ptg">Premir o sinal de confirmação após a conclusão.</tu>
+	<tu xmlns:lang="ptb">Pressione a marca de confirmação na conclusão.</tu>
+	<tu xmlns:lang="rus">По окончании подтвердить, нажав на галочку.</tu>
+	<tu xmlns:lang="esp">Pulsar el botón de confirmación cuando haya terminado.</tu>
+	<tu xmlns:lang="chs">完成后打勾确认。</tu>
+	<tu xmlns:lang="kor">완료 시 확인 체크 표시를 누르십시오.</tu>
+</tm>

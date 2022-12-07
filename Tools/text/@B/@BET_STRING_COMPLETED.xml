@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BET_STRING_COMPLETED">
+	<tu
+    xmlns:lang="eng"
+  >ABS electronic control unit renewal has been succesfully completed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het vervangen van de elektronische ABS-regelmodule is met succes uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le renouvellement du module de commande électronique ABS a été effectué avec succès.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Erneuerung des elektronischen ABS-Steuergeräts wurde erfolgreich abgeschlossen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La sostituzione dell'unità di comando elettronica ABS è stata completata correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ABS エレクトロニック コントロール ユニットの交換は正常に完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A substituição da unidade electrónica de controlo do ABS foi bem sucedida.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Renovação da unidade de controle eletrônico ABS foi concluída com êxito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обновление электронного блока управления ABS успешно выполнено.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha sustituido correctamente el módulo de control electrónico del ABS.</tu>
+	<tu xmlns:lang="chs">成功完成 ABS 电子控制单元更新。</tu>
+	<tu xmlns:lang="kor">ABS 전자 컨트롤 유닛 교체가 성공적으로 완료되었습니다.</tu>
+</tm>

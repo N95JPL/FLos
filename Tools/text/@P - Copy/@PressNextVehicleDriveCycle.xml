@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PressNextVehicleDriveCycle">
+	<tu xmlns:lang="eng">Press next to start the vehicle drive cycle.</tu>
+	<tu xmlns:lang="nld">Op Volgende drukken om de rijcyclus van het voertuig te starten.</tu>
+	<tu xmlns:lang="fra">Appuyer sur Suivant pour démarrer le cycle de conduite du véhicule.</tu>
+	<tu xmlns:lang="deu">Zum Starten des Fahrzeug-Fahrzyklus auf „Weiter“ drücken.</tu>
+	<tu xmlns:lang="ita">Premere Avanti per avviare il ciclo di guida del veicolo.</tu>
+	<tu xmlns:lang="jpn">「次へ」を押して、車両のドライブ サイクルを開始します。</tu>
+	<tu xmlns:lang="ptg">Prima seguinte para iniciar o ciclo de condução do veículo.</tu>
+	<tu xmlns:lang="ptb">Pressione Next (Próximo) para iniciar o ciclo de condução do veículo.</tu>
+	<tu xmlns:lang="rus">Нажмите Далее, чтобы начать ездовой цикл автомобиля.</tu>
+	<tu xmlns:lang="esp">Pulse Siguiente para iniciar el ciclo de conducción del vehículo.</tu>
+	<tu xmlns:lang="chs">按下一个以启动车辆的行驶周期。</tu>
+	<tu xmlns:lang="kor">다음을 눌러 차량 주행 사이클을 시작하십시오.</tu>
+</tm>

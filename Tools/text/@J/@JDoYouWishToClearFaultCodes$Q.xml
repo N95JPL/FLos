@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDoYouWishToClearFaultCodes$Q">
+	<tu xmlns:lang="eng">Do you wish to clear the fault codes?</tu>
+	<tu xmlns:lang="nld">Wilt u de foutcodes wissen?</tu>
+	<tu xmlns:lang="fra">Voulez-vous effacer les codes de défauts?</tu>
+	<tu xmlns:lang="deu">Möchten Sie die Fehlercodes löschen?</tu>
+	<tu xmlns:lang="ita">Vuoi cancellare i codici di guasto?</tu>
+	<tu xmlns:lang="jpn">故障コードをクリアしますか？</tu>
+	<tu xmlns:lang="ptg">Pretende apagar os códigos de avaria?</tu>
+	<tu xmlns:lang="ptb">Deseja apagar os códigos de falha?</tu>
+	<tu xmlns:lang="rus">Удалить коды неисправностей?</tu>
+	<tu xmlns:lang="esp">¿Desea borrar los códigos de averías?</tu>
+	<tu xmlns:lang="chs">您希望清除该故障代码吗？</tu>
+	<tu xmlns:lang="kor">고장 코드를 삭제하시겠습니까?</tu>
+</tm>

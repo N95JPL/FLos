@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROAD_FRIC_DET">
+	<tu xmlns:lang="eng">Road friction detection</tu>
+	<tu xmlns:lang="nld">Detectie van wegdekwrijving</tu>
+	<tu xmlns:lang="fra">Détection de friction</tu>
+	<tu xmlns:lang="deu">Haftreibungsermittlung</tu>
+	<tu xmlns:lang="ita">Rilevamento attrito su strada</tu>
+	<tu xmlns:lang="jpn">道路摩擦検出</tu>
+	<tu xmlns:lang="ptg">Detecção de aderência ao piso</tu>
+	<tu xmlns:lang="ptb">Detecção de fricção da estrada</tu>
+	<tu xmlns:lang="rus">Контроль сцепления колес с дорогой</tu>
+	<tu xmlns:lang="esp">Detección de la fricción de la carretera</tu>
+	<tu xmlns:lang="chs">路面摩擦检测</tu>
+	<tu xmlns:lang="kor">도로 마찰 감지</tu>
+</tm>

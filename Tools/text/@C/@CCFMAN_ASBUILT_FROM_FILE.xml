@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_ASBUILT_FROM_FILE">
+	<tu xmlns:lang="eng">As built from file</tu>
+	<tu xmlns:lang="nld">Af fabriek volgens bestand</tu>
+	<tu xmlns:lang="fra">Conforme à l'exécution par rapport au fichier</tu>
+	<tu xmlns:lang="deu">Werkseitige Baudaten aus Datei</tu>
+	<tu xmlns:lang="ita">Di fabbricazione dal file</tu>
+	<tu xmlns:lang="jpn">ファイルからのアズ ビルト</tu>
+	<tu xmlns:lang="ptg">Dados de fábrica do ficheiro</tu>
+	<tu xmlns:lang="ptb">Como construído do arquivo</tu>
+	<tu xmlns:lang="rus">Заводские параметры из файла</tu>
+	<tu xmlns:lang="esp">Configuración de fábrica a partir del archivo</tu>
+	<tu xmlns:lang="chs">来自文档的出厂状态值</tu>
+	<tu xmlns:lang="kor">파일의 애즈-빌트(As-Built)</tu>
+</tm>

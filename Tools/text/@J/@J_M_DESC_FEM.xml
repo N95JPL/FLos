@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DESC_FEM">
+	<tu xmlns:lang="eng">Front electronics module.</tu>
+	<tu xmlns:lang="nld">Voorste elektronische module</tu>
+	<tu xmlns:lang="fra">Module électronique avant</tu>
+	<tu xmlns:lang="deu">Elektronisches Steuermodul vorne</tu>
+	<tu xmlns:lang="ita">Centralina elettronica anteriore</tu>
+	<tu xmlns:lang="jpn">フロント エレクトロニック モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo dianteiro dos elementos electrónicos.</tu>
+	<tu xmlns:lang="ptb">Módulo eletrônico dianteiro.</tu>
+	<tu xmlns:lang="rus">Передний электронный блок.</tu>
+	<tu xmlns:lang="esp">Módulo electrónico delantero</tu>
+	<tu xmlns:lang="chs">前电子模块。</tu>
+	<tu xmlns:lang="kor">프론트 전자 모듈</tu>
+</tm>

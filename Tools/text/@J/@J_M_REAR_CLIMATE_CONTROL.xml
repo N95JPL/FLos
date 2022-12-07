@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_REAR_CLIMATE_CONTROL">
+	<tu xmlns:lang="eng">Rear climate control system</tu>
+	<tu xmlns:lang="nld">Climate control achter</tu>
+	<tu xmlns:lang="fra">Système de climatisation arrière</tu>
+	<tu xmlns:lang="deu">Klimaregelung hinten</tu>
+	<tu xmlns:lang="ita">Sistema comando climatizzazione posteriore</tu>
+	<tu xmlns:lang="jpn">リア エア コンディショニング システム</tu>
+	<tu xmlns:lang="ptg">Sistema traseiro de controlo da climatização</tu>
+	<tu xmlns:lang="ptb">Sistema de controle de temperatura traseiro</tu>
+	<tu xmlns:lang="rus">Задняя система климат-контроля</tu>
+	<tu xmlns:lang="esp">Sistema de climatización trasera</tu>
+	<tu xmlns:lang="chs">后气候控制系统</tu>
+	<tu xmlns:lang="kor">리어 실내 온도 조절 시스템</tu>
+</tm>

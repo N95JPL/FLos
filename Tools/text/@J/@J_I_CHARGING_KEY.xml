@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHARGING_KEY">
+	<tu xmlns:lang="eng">Charging key</tu>
+	<tu xmlns:lang="nld">Laadsleutel</tu>
+	<tu xmlns:lang="fra">Clé en cours de chargement</tu>
+	<tu xmlns:lang="deu">Schlüssel wird geladen</tu>
+	<tu xmlns:lang="ita">Caricamento chiave</tu>
+	<tu xmlns:lang="jpn">キーのチャージ</tu>
+	<tu xmlns:lang="ptg">A carregar a chave</tu>
+	<tu xmlns:lang="ptb">Carregar chave</tu>
+	<tu xmlns:lang="rus">Зарядка ключа</tu>
+	<tu xmlns:lang="esp">Cargando llave</tu>
+	<tu xmlns:lang="chs">钥匙充电</tu>
+	<tu xmlns:lang="kor">충전 키</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SPEED_CTRL_ALIGN">
+	<tu xmlns:lang="eng">Speed control alignment</tu>
+	<tu xmlns:lang="nld">Uitlijning van snelheidsregelsysteem</tu>
+	<tu xmlns:lang="fra">Alignement du régulateur de vitesse</tu>
+	<tu xmlns:lang="deu">Geschwindigkeitsregelungsanpassung</tu>
+	<tu xmlns:lang="ita">Allineamento controllo velocità</tu>
+	<tu xmlns:lang="jpn">スピード コントロール アライメント</tu>
+	<tu xmlns:lang="ptg">Alinhamento do controlo da velocidade</tu>
+	<tu xmlns:lang="ptb">Alinhamento do controle de velocidade</tu>
+	<tu xmlns:lang="rus">Подстройка круиз-контроля</tu>
+	<tu xmlns:lang="esp">Alineación de control de la velocidad</tu>
+	<tu xmlns:lang="chs">速度控制校准</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤 얼라인먼트</tu>
+</tm>

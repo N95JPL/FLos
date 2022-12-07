@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PATCH_UDATE_AVAIL">
+	<tu xmlns:lang="eng">Patch update is available</tu>
+	<tu xmlns:lang="nld">Bijwerkupdate beschikbaar</tu>
+	<tu xmlns:lang="fra">Un fichier correctif de mise à jour est disponible</tu>
+	<tu xmlns:lang="deu">Patch-Aktualisierung ist verfügbar</tu>
+	<tu xmlns:lang="ita">L'aggiornamento di correzione è disponibile</tu>
+	<tu xmlns:lang="jpn">パッチの更新が利用可能\です</tu>
+	<tu xmlns:lang="ptg">Actualização disponível</tu>
+	<tu xmlns:lang="ptb">A atualização das correções está disponível</tu>
+	<tu xmlns:lang="rus">Доступно обновление</tu>
+	<tu xmlns:lang="esp">Está disponible una actualización de revisión</tu>
+	<tu xmlns:lang="chs">现有补丁更新文件可供使用</tu>
+	<tu xmlns:lang="kor">패치 업데이트를 사용할 수 있습니다.</tu>
+</tm>

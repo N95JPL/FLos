@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FOL_DISP_ADVI">
+	<tu xmlns:lang="eng">Follow the displayed advice if this occurs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Mocht dit gebeuren, dan volgt u de aanwijzingen op het scherm.</tu>
+	<tu xmlns:lang="fra">Suivez le conseil affiché si cela se produit.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls dies auftritt, den angezeigten Anleitungen folgen.</tu>
+	<tu xmlns:lang="ita">In questo caso, seguire le istruzioni visualizzate.</tu>
+	<tu xmlns:lang="jpn">これが発生した場合、表\示された指示に従いなさい。</tu>
+	<tu xmlns:lang="ptg">Siga as instruções apresentadas, se isso acontecer.</tu>
+	<tu xmlns:lang="ptb">Siga os conselhos exibidos se isso ocorrer.</tu>
+	<tu xmlns:lang="rus">Если это происходит, следуйте рекомендациям на экране.</tu>
+	<tu xmlns:lang="esp">Si ello ocurre, seguir los consejos que se indiquen.</tu>
+	<tu xmlns:lang="chs">如果出现这种情况，请按屏显建议执行。</tu>
+	<tu xmlns:lang="kor">이런 문제가 발생하면 표시되는 메시지에 따르십시오.</tu>
+</tm>

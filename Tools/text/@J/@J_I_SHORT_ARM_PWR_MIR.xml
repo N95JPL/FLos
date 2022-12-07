@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SHORT_ARM_PWR_MIR">
+	<tu xmlns:lang="eng">Short arm power/heated mirrors</tu>
+	<tu xmlns:lang="nld">Elektrisch bediende/verwarmde spiegels met korte arm</tu>
+	<tu xmlns:lang="fra">Rétroviseurs électriques/chauffants bras court</tu>
+	<tu xmlns:lang="deu">Elektrisch betriebene/beheizte Kurzarmspiegel</tu>
+	<tu xmlns:lang="ita">Specchietti elettrici/riscaldati a braccio corto</tu>
+	<tu xmlns:lang="jpn">ショート アーム パワー／ヒーテッド ミラー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retrovisores exteriores eléctricos/aquecidos de braço curto</tu>
+	<tu xmlns:lang="ptb">Retrovisores elétricos/aquecidos de braço curto</tu>
+	<tu
+    xmlns:lang="rus"
+  >Зеркала на коротком кронштейне с обогревом и электроприводом</tu>
+	<tu xmlns:lang="esp">Retrovisores térmicos/eléctricos de brazo corto</tu>
+	<tu xmlns:lang="chs">短臂电动/加热式后视镜</tu>
+	<tu xmlns:lang="kor">짧은 암 전동/열선내장 미러</tu>
+</tm>

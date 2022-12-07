@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart245">
+	<tu
+    xmlns:lang="eng"
+  >Stop inhibited - Insufficient time has elapsed since the conventional start of the engine.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stop geblokkeerd - er is onvoldoende tijd verstreken sinds het conventioneel starten van de motor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Arrêt neutralisé - Une durée insuffisante s'est écoulée depuis le démarrage classique du moteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Stopp gesperrt – seit dem konventionellen Start des Motors ist nicht ausreichend viel Zeit verstrichen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitazione dell'arresto - È trascorso un tempo insufficiente dall'avviamento convenzionale del motore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ストップの禁止 - 通常のエンジン始動から充分な時間が経過していません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Inibição da paragem - tempo insuficiente decorrido desde o arranque convencional do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Parada inibida - Tempo insuficiente decorrido desde a partida convencional do motor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Остановка заблокирована — после обычного запуска двигателя прошло недостаточно времени.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Paraba bloqueada - No ha transcurrido el tiempo suficiente desde el arranque convencional del motor.</tu>
+	<tu xmlns:lang="chs">停止被禁用 - 发动机常规启动后持续的时间不足。</tu>
+	<tu
+    xmlns:lang="kor"
+  >Stop 억제 - 일반 방식의 엔진 시동 후 충분한 시간이 경과하지 않음</tu>
+</tm>

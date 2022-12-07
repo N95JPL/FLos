@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_F_SOL_SETUP_COMP_DTCS_LOGGED">
+	<tu
+    xmlns:lang="eng"
+  >Solenoid replacement set-up completed with diagnostic trouble codes logged.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instelling van de solenoïdevervanging is uitgevoerd, waarbij de diagnosefoutcodes zijn gelogd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédure de remplacement du solénoïde terminée avec enregistrement de codes de diagnostic.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einstellung Schaltmagnetaustausch wurde abgeschlossen; Fehlercodes wurden abgespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impostazione sostituzione solenoide completata con registrazione di codici di guasto diagnostici.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >診断トラブル コード記録のままソ\レノイド交換セットアップ完了。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Configuração da substituição do solenóide concluída com os códigos de avaria registados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Configuração de substituição do solenoide concluída com os códigos de problema de diagnóstico registrados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Настройка замены соленоида завершена с зарегистрированными кодами неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Configuración de la sustitución del solenoide concluida con códigos de avería registrados.</tu>
+	<tu xmlns:lang="chs">电磁阀更换设置完成，故障诊断码已记录。</tu>
+	<tu
+    xmlns:lang="kor"
+  >고장 진단 코드가 기록된 상태에서 솔레노이드 교체 설정이 완료됨</tu>
+</tm>

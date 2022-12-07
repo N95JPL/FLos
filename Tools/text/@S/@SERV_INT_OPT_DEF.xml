@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SERV_INT_OPT_DEF">
+	<tu xmlns:lang="eng">Default market interval</tu>
+	<tu xmlns:lang="nld">Standaard marktinterval</tu>
+	<tu xmlns:lang="fra">Périodicité de marché par défaut</tu>
+	<tu xmlns:lang="deu">Standardvorgabe für das Marktintervall</tu>
+	<tu xmlns:lang="ita">Intervallo di manutenzione predefinito di mercato</tu>
+	<tu xmlns:lang="jpn">デフォルトのマーケット間隔</tu>
+	<tu xmlns:lang="ptg">Intervalo predefinido para o mercado</tu>
+	<tu xmlns:lang="ptb">Intervalo padrão do mercado</tu>
+	<tu xmlns:lang="rus">Интервал по умолчанию для данного рынка сбыта</tu>
+	<tu xmlns:lang="esp">Intervalo de mercado predeterminado</tu>
+	<tu xmlns:lang="chs">默认市场间隔</tu>
+	<tu xmlns:lang="kor">기본 시장 주기</tu>
+</tm>

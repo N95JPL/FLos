@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SPARE_PROC">
+	<tu
+    xmlns:lang="eng"
+  >The spare wheel unit identification cannot be learned via the normal drive cycle routine, the spare tire must be removed to retrieve the transponder identification number.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De identificatie van de reservewieleenheid kan niet via de normale rijcyclus worden ingeleerd. Het reservewiel moet worden verwijderd om het identificatienummer van de antwoordzender te kunnen vinden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'identification de l'unité de roue de secours ne peut pas être apprise par le programme du cycle de conduite normal ; il faut retirer la roue de secours pour récupérer le numéro d'identification du transpondeur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Identifikation des Ersatzradmoduls kann bei einer normalen Probefahrt nicht erlernt werden, zur Auslesung der Transponder-Identifikationsnummer muss das Ersatzrad ausgebaut werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'identificazione della ruota di scorta non può essere rilevata attraverso la normale procedura del ciclo di guida, è necessario rimuovere la ruota di scorta per leggere il numero di identificazione del risponditore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >通常のドライブ サイクル ルーチンでスペア ホイール ユニット ID を学習することはできません。スペア タイヤを取り外してトランスポンダ ID ナンバーを読み取る必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A identificação da unidade da roda sobresselente não se consegue programar através da rotina normal do ciclo de condução; o pneu sobresselente tem de ser desmontado para ler o número de identificação do emissor-receptor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A identificação da unidade da roda sobressalente não pode ser adquirida por meio do ciclo de condução normal rotina, o pneu sobressalente deve ser removido para recuperar o número de identificação do transmissor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Идентификацию узла запасного колеса невозможно провести с помощью обычного дорожного испытания - его необходимо снять, чтобы получить идентификационный номер передатчика.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La identificación de la rueda de repuesto no se puede obtener mediante la rutina de ciclo de conducción normal. Hay que extraer el neumático de repuesto para obtener el número de identificación del transpondedor.</tu>
+	<tu
+    xmlns:lang="chs"
+  >备用车轮单元标识号码不能通过正常的行驶循环例程获得，必须将备用胎取下，才能找到发射机应答器标识号码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >정상적인 주행 사이클 루틴을 통해 스페어 휠 유닛 식별 정보를 학습할 수 없습니다. 트랜스폰더 식별 번호를 검색하려면 스페어 타이어를 제거해야 합니다.</tu>
+</tm>

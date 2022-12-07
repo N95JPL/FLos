@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_STOP_START_HEALTH_INFO_4">
+	<tu
+    xmlns:lang="eng"
+  >The order of the values displayed on the left side of the screen will vary according to the vehicle variant</tu>
+	<tu
+    xmlns:lang="nld"
+  >De volgorde van de weergegeven waarden aan de linkerkant van het scherm is afhankelijk van de modelvariant</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'ordre des valeurs affichées sur le côté gauche de l'écran varie selon la variante du véhicule</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Reihenfolge der auf der linken Seite des Bildschirms angezeigten Datenwerte variiert abhängig von der Fahrzeugvariante.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'ordine dei valori visualizzati sul lato sinistro dello schermo varia in base alla versione del veicolo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >画面の左側に表示される値の順序は、車両モデルによって異なります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A ordem dos valores apresentados no lado esquerdo do ecrã varia conforme a versão do veículo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A ordem dos valores exibidos no lado esquerdo da tela varia de acordo com a versão do veículo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Порядок значений, отображаемых в левой части экрана, может различаться в зависимости от модификации автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >El orden de los valores que se muestran en el lado izquierdo de la pantalla variará en función de la versión del vehículo.</tu>
+	<tu xmlns:lang="chs">触摸屏左侧所示值的顺序将随车型而有所不同</tu>
+	<tu
+    xmlns:lang="kor"
+  >스크린 좌측에 표시되는 값의 순서는 차량 모델에 따라 달라집니다.</tu>
+</tm>

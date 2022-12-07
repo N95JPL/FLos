@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RANGE_SWITCH_TYPE">
+	<tu xmlns:lang="eng">Transfer box controller range change switch type</tu>
+	<tu
+    xmlns:lang="nld"
+  >Type schakelaar voor verandering van controllerbereik van tussendifferentieel.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Type de commutateur de changement de gamme de contrôleur de boîte de transfert.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Typ Übersetzungsbereichsschalter - Verteilergetriebe-Steuergerät</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tipo interruttore modifica gamma controller scatola di rinvio</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスファー ボックス コントローラ レンジ変更スイッチ タイプ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Controlador da caixa de transferência, alteração de gama, tipo de interruptor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Tipo de interruptor de mudança de relação da caixa de transferência</tu>
+	<tu
+    xmlns:lang="rus"
+  >Тип переключателя смены режимов контроллера раздаточной коробки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tipo de interruptor de cambio de gama de marchas del controlador de la caja de transferencia</tu>
+	<tu xmlns:lang="chs">分线箱控制器范围改变开关类型</tu>
+	<tu xmlns:lang="kor">트랜스퍼 박스 컨트롤러 범위 변경 스위치 유형</tu>
+</tm>

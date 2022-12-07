@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@GearNeutralSelected">
+	<tu xmlns:lang="eng">Gear neutral selected</tu>
+	<tu xmlns:lang="nld">Neutraal geselecteerd</tu>
+	<tu xmlns:lang="fra">Sélecteur placé au point mort</tu>
+	<tu xmlns:lang="deu">Getriebe-Neutralstellung gewählt</tu>
+	<tu xmlns:lang="ita">Marcia in posizione di folle selezionata</tu>
+	<tu xmlns:lang="jpn">ギヤ ニュートラル選択済み</tu>
+	<tu xmlns:lang="ptg">Ponto-morto selecionado</tu>
+	<tu xmlns:lang="ptb">Marcha em ponto morto selecionada</tu>
+	<tu xmlns:lang="rus">Включена нейтральная передача</tu>
+	<tu xmlns:lang="esp">Punto muerto seleccionado</tu>
+	<tu xmlns:lang="chs">已选择空档</tu>
+	<tu xmlns:lang="kor">기어 중립 선택</tu>
+</tm>

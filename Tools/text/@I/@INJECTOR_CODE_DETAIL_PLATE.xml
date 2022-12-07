@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INJECTOR_CODE_DETAIL_PLATE">
+	<tu xmlns:lang="eng">The injector detail plate located on the engine block.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het identificatieplaatje van de injector, dat zich op het motorblok bevindt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Plaque signalétique d'injecteur située sur le bloc moteur.</tu>
+	<tu xmlns:lang="deu">Auf dem Einspritzventil-Typenschild am Motorblock</tu>
+	<tu
+    xmlns:lang="ita"
+  >La targhetta dati degli iniettori ubicata sul monoblocco.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジン ブロックに取り付けられたインジェクタ詳細プレート</tu>
+	<tu xmlns:lang="ptg">Chapa de dados do injector situada no bloco do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O placa com os detalhes do injetor localizada no bloco do motor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На бирке форсунки, расположенной на блоке цилиндров двигателя.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La chapa de datos del inyector, situada en el bloque motor.</tu>
+	<tu xmlns:lang="chs">位于发动机本体上的喷油器详情铭牌。</tu>
+	<tu xmlns:lang="kor">엔진 블록에 있는 인젝터 세부 정보 플레이트.</tu>
+</tm>

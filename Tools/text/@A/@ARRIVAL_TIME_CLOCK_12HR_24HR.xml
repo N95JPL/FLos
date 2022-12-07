@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ARRIVAL_TIME_CLOCK_12HR_24HR">
+	<tu xmlns:lang="eng">Arrival time clock 12/24 hrs</tu>
+	<tu xmlns:lang="nld">Aankomsttijdklok 12/24 uurs</tu>
+	<tu xmlns:lang="fra">Heure d'arrivée, horloge 12/24 heures.</tu>
+	<tu xmlns:lang="deu">Ankunftszeit - 12-/24-Stunden-Uhr</tu>
+	<tu xmlns:lang="ita">Orologio ora di arrivo 12/24 ore</tu>
+	<tu xmlns:lang="jpn">到着時間時計 12/24 時間</tu>
+	<tu xmlns:lang="ptg">Relógio da hora de chegada 12/24 h</tu>
+	<tu xmlns:lang="ptb">Hora de chegada no relógio, 12/24 h</tu>
+	<tu xmlns:lang="rus">Время прибытия в формате 12/24 ч</tu>
+	<tu xmlns:lang="esp">Reloj de hora de llegada 12/24 horas</tu>
+	<tu xmlns:lang="chs">抵达时钟12/24小时</tu>
+	<tu xmlns:lang="kor">도착 시간 시계 12/24시간</tu>
+</tm>

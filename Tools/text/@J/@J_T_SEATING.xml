@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_SEATING">
+	<tu xmlns:lang="eng">501-10 Seating</tu>
+	<tu xmlns:lang="nld">501-10 Stoelen</tu>
+	<tu xmlns:lang="fra">501-10 Sièges</tu>
+	<tu xmlns:lang="deu">501-10 Sitze</tu>
+	<tu xmlns:lang="ita">501-10 Sedili</tu>
+	<tu xmlns:lang="jpn">501-20A シーティング</tu>
+	<tu xmlns:lang="ptg">501-10 Bancos</tu>
+	<tu xmlns:lang="ptb">Assentos 501-10</tu>
+	<tu xmlns:lang="rus">501-10 Сиденья</tu>
+	<tu xmlns:lang="esp">501-10 Asientos</tu>
+	<tu xmlns:lang="chs">501-10座椅配置</tu>
+	<tu xmlns:lang="kor">501-10 시트</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_REAR_SEAT_CLIM_CTR">
+	<tu xmlns:lang="eng">No rear seat climate control</tu>
+	<tu xmlns:lang="nld">Zonder klimaatregeling voor achterstoel</tu>
+	<tu xmlns:lang="fra">Sans commande de climatisation de siège arrière</tu>
+	<tu xmlns:lang="deu">Keine Rücksitz-Klimaanlage</tu>
+	<tu xmlns:lang="ita">Senza comando climatizzazione sedili posteriori</tu>
+	<tu xmlns:lang="jpn">リア シート エア コンディショニングなし</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não existe um controlo da climatização para os bancos traseiros</tu>
+	<tu xmlns:lang="ptb">não há controle de temperatura no assento traseiro</tu>
+	<tu xmlns:lang="rus">Отсутствует панель климат-контроля на заднем сиденье</tu>
+	<tu xmlns:lang="esp">Sin climatización para los pasajeros traseros</tu>
+	<tu xmlns:lang="chs">无后部座椅气候控制系统</tu>
+	<tu xmlns:lang="kor">리어 시트 온도 조절 장치 없음</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ACTION_IF_NO_FAULT_RESULT">
+	<tu xmlns:lang="eng">Action if investigation results find no fault:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Actie indien na onderzoek geen storingen zijn gevonden:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Intervention si les résultats de l'investigation n'indiquent aucun défaut :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Maßnahme, wenn durch Untersuchung keine Störung ermittelt wurde:</tu>
+	<tu xmlns:lang="ita">Azione nel caso non risultino guasti dall'indagine:</tu>
+	<tu xmlns:lang="jpn">調査の結果、故障が見つからなかった場合の処置：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Acção se os resultados da investigação não mostrarem qualquer anomalia:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ação caso os resultados de investigação não encontrem falhas:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Действие в случае, если при проверке неисправность не обнаружена:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Acción si los resultados de la investigación no detectan ninguna anomalía:</tu>
+	<tu xmlns:lang="chs">调查结果没有发现任何故障时采取的措施：</tu>
+	<tu xmlns:lang="kor">조사 결과에서 고장을 찾을 수 없는 경우의 조치:</tu>
+</tm>

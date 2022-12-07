@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IMMO_LEARN_FAILED_PCM_DIESEL">
+	<tu
+    xmlns:lang="eng"
+  >The diesel powertrain control module has failed to learn the immobilization codes.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het inleren van de startblokkeringscodes door de regelmodule van de aandrijflijn voor de dieselmotor is mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module de commande du groupe motopropulseur diesel n'a pas appris les codes d'antidémarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Dieselmotor-Steuergerät konnte die Wegfahrsperrencodes nicht erlernen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo comando catena cinematica diesel non ha appreso i codici di immobilizzazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ディーゼル パワートレーン コントロール モジュールはイモビライゼーション コードの学習に失敗しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A programação dos códigos de imobilização no módulo de comando do grupo motopropulsor de veículos a diesel falhou.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo de controle do powertrain de diesel falhou a fim de aprender os códigos de imobilização.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка программирования кодов блокировки запуска для блока управления дизельным силовым агрегатом.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo de control del grupo motor y transmisión no logró aprender los códigos de inmovilización.</tu>
+	<tu xmlns:lang="chs">柴油机动力传动系统控制模块未能记住防盗锁止密码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >디젤 파워트레인 컨트롤 모듈이 이모빌라이제이션 코드 학습에 실패했습니다.</tu>
+</tm>

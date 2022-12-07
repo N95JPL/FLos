@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRIVE_APP">
+	<tu xmlns:lang="eng">Drive away release</tu>
+	<tu xmlns:lang="nld">Handrem loszetten bij wegrijden</tu>
+	<tu xmlns:lang="fra">Desserrage automatique du frein au démarrage</tu>
+	<tu xmlns:lang="deu">Lösen beim Anfahren</tu>
+	<tu xmlns:lang="ita">Sblocco alla partenza</tu>
+	<tu xmlns:lang="jpn">ドライブアウェイ リリース</tu>
+	<tu xmlns:lang="ptg">Desengate de início de marcha</tu>
+	<tu xmlns:lang="ptb">Liberação por velocidade</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция отпускания стояночного тормоза при трогании с места</tu>
+	<tu xmlns:lang="esp">Desactivación al emprender la marcha</tu>
+	<tu xmlns:lang="chs">驶离释放</tu>
+	<tu xmlns:lang="kor">자동 해제</tu>
+</tm>

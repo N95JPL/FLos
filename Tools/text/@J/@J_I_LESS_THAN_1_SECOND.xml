@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_THAN_1_SECOND">
+	<tu xmlns:lang="eng">Less than 1 second.</tu>
+	<tu xmlns:lang="nld">Minder dan 1 seconde.</tu>
+	<tu xmlns:lang="fra">Moins de 1 seconde</tu>
+	<tu xmlns:lang="deu">Weniger als 1 Sekunde.</tu>
+	<tu xmlns:lang="ita">Meno di 1 secondo.</tu>
+	<tu xmlns:lang="jpn">1 秒以内</tu>
+	<tu xmlns:lang="ptg">Menos de 1 segundo.</tu>
+	<tu xmlns:lang="ptb">Menos de 1 segundo.</tu>
+	<tu xmlns:lang="rus">Менее 1 секунды.</tu>
+	<tu xmlns:lang="esp">Menos de 1 segundo.</tu>
+	<tu xmlns:lang="chs">小于 1 秒钟。</tu>
+	<tu xmlns:lang="kor">1초 미만</tu>
+</tm>

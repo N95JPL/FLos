@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDST_VALIDATION_MODE">
+	<tu xmlns:lang="eng">Validation</tu>
+	<tu xmlns:lang="nld">Bevestiging</tu>
+	<tu xmlns:lang="fra">Validation</tu>
+	<tu xmlns:lang="deu">Validierung</tu>
+	<tu xmlns:lang="ita">Convalida</tu>
+	<tu xmlns:lang="jpn">正当性確認</tu>
+	<tu xmlns:lang="ptg">Validação</tu>
+	<tu xmlns:lang="ptb">Validação</tu>
+	<tu xmlns:lang="rus">Проверка достоверности</tu>
+	<tu xmlns:lang="esp">Validación</tu>
+	<tu xmlns:lang="chs">验证</tu>
+	<tu xmlns:lang="kor">확인</tu>
+</tm>

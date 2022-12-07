@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PUMP_LEARNING_SCV_INFO">
+	<tu
+    xmlns:lang="eng"
+  >Each suction control valve has its own unique electric current/fuel quantity characteristics and these vary across the current range.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Elke aanzuigregelklep heeft zijn eigen unieke karakteristieken voor elektrische stroom/brandstofhoeveelheid en deze variëren over het hele stroomsterktebereik.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Chaque électrovanne de commande d'aspiration dispose de caractéristiques de quantité de carburant/de courant électrique uniques et celles-ci varient sur la plage de courant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Jedes Steuerventil Kraftstoffansaugung verfügt über seine eigenen, unverwechselbaren Charakteristika hinsichtlich elektrischem Strom/Kraftstoffmenge und diese verändern sich über den Stromstärkebereich.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ciascuna valvola di comando aspirazione ha le sue particolari caratteristiche di corrente elettrica/quantità di carburante, che variano nell'ambito della gamma attuale.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >各サクション コントロール バルブはそれぞれ独自の電流／フューエル量特性を持ち、それらは電流範囲内で変化します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Cada válvula de controlo da sucção possui as suas características únicas de corrente eléctrica/quantidade de combustível, que variam na gama de corrente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Cada válvula de controle de sucção possui a sua própria corrente elétrica/quantidade de combustível características, e elas podem variar em toda a faixa de corrente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Каждый клапан регулировки всасывания топлива имеет собственные уникальные характеристики силы тока/количества топлива, зависящие от тока.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cada válvula reguladora de aspiración tiene sus propias características exclusivas de corriente eléctrica / cantidad de combustible, las cuales varían de acuerdo al valor de la corriente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >每一进气控制阀具有其自身独特的电流/燃油量特性，而这些特性在整个电流范围内随电流的不同而发生变化。</tu>
+	<tu
+    xmlns:lang="kor"
+  >각 흡입 컨트롤 밸브에는 고유의 전류/연료량 특성이 있으며, 이런 특성은 전류 범위에 따라 변합니다.</tu>
+</tm>

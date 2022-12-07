@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KM_LITER">
+	<tu xmlns:lang="eng">Km/liter</tu>
+	<tu xmlns:lang="nld">Km/liter</tu>
+	<tu xmlns:lang="fra">km/litre</tu>
+	<tu xmlns:lang="deu">km/Liter</tu>
+	<tu xmlns:lang="ita">Km/litro</tu>
+	<tu xmlns:lang="jpn">km／リッター</tu>
+	<tu xmlns:lang="ptg">km/litro</tu>
+	<tu xmlns:lang="ptb">Km/litro</tu>
+	<tu xmlns:lang="rus">км/л</tu>
+	<tu xmlns:lang="esp">Km/litro</tu>
+	<tu xmlns:lang="chs">公里/升</tu>
+	<tu xmlns:lang="kor">Km/리터</tu>
+</tm>

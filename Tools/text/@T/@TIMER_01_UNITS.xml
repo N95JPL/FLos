@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TIMER_01_UNITS">
+	<tu xmlns:lang="eng">Timer 1 units</tu>
+	<tu xmlns:lang="nld">Eenheden van timer 1.</tu>
+	<tu xmlns:lang="fra">Unités temporisateur 1.</tu>
+	<tu xmlns:lang="deu">Zeitgeber 1 Einheiten</tu>
+	<tu xmlns:lang="ita">Unità timer 1</tu>
+	<tu xmlns:lang="jpn">タイマー 1 単位</tu>
+	<tu xmlns:lang="ptg">Unidades do temporizador 1</tu>
+	<tu xmlns:lang="ptb">Unidades de timer 1</tu>
+	<tu xmlns:lang="rus">Блоки таймера 1.</tu>
+	<tu xmlns:lang="esp">Unidades del temporizador 1</tu>
+	<tu xmlns:lang="chs">计时器 1 单元</tu>
+	<tu xmlns:lang="kor">타이머 1 단위</tu>
+</tm>

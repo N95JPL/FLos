@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BYTES_TITLE">
+	<tu xmlns:lang="eng">Bytes</tu>
+	<tu xmlns:lang="nld">Bytes</tu>
+	<tu xmlns:lang="fra">Octets</tu>
+	<tu xmlns:lang="deu">Bytes</tu>
+	<tu xmlns:lang="ita">Byte</tu>
+	<tu xmlns:lang="jpn">バイト</tu>
+	<tu xmlns:lang="ptg">Bytes</tu>
+	<tu xmlns:lang="ptb">Bytes</tu>
+	<tu xmlns:lang="rus">Байты</tu>
+	<tu xmlns:lang="esp">Bytes</tu>
+	<tu xmlns:lang="chs">字节</tu>
+	<tu xmlns:lang="kor">바이트</tu>
+</tm>

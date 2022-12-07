@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MAN_TRANSAX_TRAN">
+	<tu xmlns:lang="eng">Manual transaxle transmission</tu>
+	<tu xmlns:lang="nld">Handgeschakelde versnellingsbak met transaxle</tu>
+	<tu xmlns:lang="fra">Boîte-pont manuelle</tu>
+	<tu xmlns:lang="deu">Quer eingebautes Schaltgetriebe</tu>
+	<tu xmlns:lang="ita">Gruppo frizione/cambio/trasmissione finale manuale </tu>
+	<tu xmlns:lang="jpn">マニュアル トランスアクスル トランスミッション</tu>
+	<tu xmlns:lang="ptg">Transmissão com caixa de velocidades manual</tu>
+	<tu xmlns:lang="ptb">Transmissão da transmissão manual</tu>
+	<tu xmlns:lang="rus">Ведущий мост в блоке с коробкой передач</tu>
+	<tu xmlns:lang="esp">Cambio manual y diferencial</tu>
+	<tu xmlns:lang="chs">手动变速器</tu>
+	<tu xmlns:lang="kor">수동 트랜스액슬 변속기</tu>
+</tm>

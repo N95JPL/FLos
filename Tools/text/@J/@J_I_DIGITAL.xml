@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIGITAL">
+	<tu xmlns:lang="eng">Digital</tu>
+	<tu xmlns:lang="nld">Digitaal</tu>
+	<tu xmlns:lang="fra">numérique</tu>
+	<tu xmlns:lang="deu">Digital</tu>
+	<tu xmlns:lang="ita">Digitale</tu>
+	<tu xmlns:lang="jpn">デジタル</tu>
+	<tu xmlns:lang="ptg">Digital</tu>
+	<tu xmlns:lang="ptb">Digital</tu>
+	<tu xmlns:lang="rus">Цифровой</tu>
+	<tu xmlns:lang="esp">Digital</tu>
+	<tu xmlns:lang="chs">数字式</tu>
+	<tu xmlns:lang="kor">디지털</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_24">
+	<tu xmlns:lang="eng">0x24 : Not started due to change in fan state.</tu>
+	<tu
+    xmlns:lang="nld"
+  >0x24 : inleren niet gestart vanwege een wijziging in de ventilatorstatus.</tu>
+	<tu
+    xmlns:lang="fra"
+  >0x24 : Non commencé à cause du changement d'état du ventilateur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >0x24 : Nicht angelaufen aufgrund von Änderung im Lüfterzustand.</tu>
+	<tu
+    xmlns:lang="ita"
+  >0x24 : Non avviato a causa di una variazione dello stato della ventola.</tu>
+	<tu xmlns:lang="jpn">0x24 : ファン ステータスの変化のためスタートせず。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >0x24 : Não iniciado devido a alteração no estado da ventoinha.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >0X24 : Não iniciado devido a uma mudança no estado do ventilador.</tu>
+	<tu
+    xmlns:lang="rus"
+  >0x24 : Запуск не выполнен из-за изменения состояния вентилятора.</tu>
+	<tu
+    xmlns:lang="esp"
+  >0x24: No se inició debido a un cambio de estado del ventilador.</tu>
+	<tu xmlns:lang="chs">0x24： 由于风扇状态的改变而没有启动。</tu>
+	<tu xmlns:lang="kor">0x24 : 팬 상태의 변화 때문에 시작되지 않습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JErrorTones$M">
+	<tu xmlns:lang="eng">Error tones</tu>
+	<tu xmlns:lang="nld">Storingstonen</tu>
+	<tu xmlns:lang="fra">Tonalites d'erreur</tu>
+	<tu xmlns:lang="deu">Fehlersignale</tu>
+	<tu xmlns:lang="ita">Toni di errore</tu>
+	<tu xmlns:lang="jpn">ｴﾗー・ﾄーﾝ</tu>
+	<tu xmlns:lang="ptg">Tons de erro</tu>
+	<tu xmlns:lang="ptb">Tons de erro</tu>
+	<tu xmlns:lang="rus">Сигналы ошибок</tu>
+	<tu xmlns:lang="esp">Tono de error</tu>
+	<tu xmlns:lang="chs">错误提示音</tu>
+	<tu xmlns:lang="kor">오류 음향</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart238">
+	<tu xmlns:lang="eng">Stop inhibited - DPF regeneration in progress</tu>
+	<tu xmlns:lang="nld">Stop geblokkeerd - regeneratie roetfilter bezig</tu>
+	<tu xmlns:lang="fra">Arrêt neutralisé - Régénération du DPF en cours</tu>
+	<tu xmlns:lang="deu">Stopp gesperrt – DPF-Regeneration läuft</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitazione dell'arresto - Rigenerazione DPF in corso</tu>
+	<tu xmlns:lang="jpn">ストップの禁止 - DPF 再生サイクルが進行中</tu>
+	<tu xmlns:lang="ptg">Inibição da paragem - regeneração do DPF em curso</tu>
+	<tu xmlns:lang="ptb">Parada inibida - Regeneração do DPF em andamento.</tu>
+	<tu xmlns:lang="rus">Остановка заблокирована — выполняется регенерация DPF</tu>
+	<tu xmlns:lang="esp">Parada bloqueada - Regeneración del DPF en curso</tu>
+	<tu xmlns:lang="chs">停止被禁用 - 正在进行 DPF 再生</tu>
+	<tu xmlns:lang="kor">Stop 억제 - DPF 재생 진행 중</tu>
+</tm>

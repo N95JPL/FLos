@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_DSM_04">
+	<tu xmlns:lang="eng">1)  Check that all switchpack inputs are released.</tu>
+	<tu
+    xmlns:lang="nld"
+  >1)  Controleer of geen knoppen van de schakelaargroep zijn ingedrukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >1)  Vérifiez qu'aucun des boutons du bloc commutateurs n'est enfoncé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >1)  Prüfen. ob alle Schalterfeldeingänge freigesetzt sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >1)  Controllare che nessuno dei pulsanti del gruppo interruttori sia premuto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >1)  全スイッチパック インプットがリリースされているかチェックしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >1)  Certifique-se de que não há interruptores premidos no conjunto de interruptores.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >1)  Verifique se todas as entradas do conjunto de interruptores entradas estão liberadas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >1)  Проверьте, чтобы все входные сигналы блока выключателей были отключены.</tu>
+	<tu
+    xmlns:lang="esp"
+  >1)  Comprobar que ninguno de los botones del grupo de interruptores esté pulsado.</tu>
+	<tu xmlns:lang="chs">1)  检查所有开关组件输入是否得到释放。</tu>
+	<tu xmlns:lang="kor">1)  모든 스위치 팩 입력이 해제되는지 점검하십시오.</tu>
+</tm>

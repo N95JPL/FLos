@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENTER_DETAILS">
+	<tu xmlns:lang="eng">Please enter login details</tu>
+	<tu xmlns:lang="nld">Voer aanmeldgegevens in</tu>
+	<tu xmlns:lang="fra">Veuillez entrer les coordonnées de connexion</tu>
+	<tu xmlns:lang="deu">Bitte Login-Details eingeben</tu>
+	<tu xmlns:lang="ita">Inserire i dati per il login</tu>
+	<tu xmlns:lang="jpn">ログイン詳細を入力しなさい</tu>
+	<tu xmlns:lang="ptg">Introduzir os dados de login</tu>
+	<tu xmlns:lang="ptb">Digite os detalhes de login</tu>
+	<tu xmlns:lang="rus">Введите данные для входа в систему</tu>
+	<tu xmlns:lang="esp">Introducir los datos de acceso al sistema</tu>
+	<tu xmlns:lang="chs">请输入登录详细信息</tu>
+	<tu xmlns:lang="kor">로그인 세부 정보를 입력하십시오.</tu>
+</tm>

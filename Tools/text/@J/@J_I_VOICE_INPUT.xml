@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VOICE_INPUT">
+	<tu xmlns:lang="eng">Voice input</tu>
+	<tu xmlns:lang="nld">Spraakinvoer</tu>
+	<tu xmlns:lang="fra">Entrée vocale</tu>
+	<tu xmlns:lang="deu">Spracheingabe</tu>
+	<tu xmlns:lang="ita">Input vocale</tu>
+	<tu xmlns:lang="jpn">音声インプット</tu>
+	<tu xmlns:lang="ptg">Entrada de voz</tu>
+	<tu xmlns:lang="ptb">Entrada por voz</tu>
+	<tu xmlns:lang="rus">Голосовое управление</tu>
+	<tu xmlns:lang="esp">Entrada de voz</tu>
+	<tu xmlns:lang="chs">语音输入</tu>
+	<tu xmlns:lang="kor">음성 입력</tu>
+</tm>

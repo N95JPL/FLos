@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_IPC">
+	<tu xmlns:lang="eng">Instrument cluster control module.</tu>
+	<tu xmlns:lang="nld">Regelmodule van de instrumentenpaneelgroep.</tu>
+	<tu xmlns:lang="fra">Module de commande de tableau de bord.</tu>
+	<tu xmlns:lang="deu">Kombiinstrument-Steuermodul.</tu>
+	<tu xmlns:lang="ita">Modulo comando gruppo strumenti plancia.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インストルメント パネル クラスタ コントロール モジュール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo de controlo do grupo de instrumentos do painel de instrumentos.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle do conjunto de instrumentos.</tu>
+	<tu xmlns:lang="rus">Блок управления блоком приборов.</tu>
+	<tu xmlns:lang="esp">Módulo de control del cuadro de instrumentos.</tu>
+	<tu xmlns:lang="chs">组合仪表控制模块。</tu>
+	<tu xmlns:lang="kor">계기판 컨트롤 모듈</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENGM_OFFSET">
+	<tu xmlns:lang="eng">Offset</tu>
+	<tu xmlns:lang="nld">Verschuiving</tu>
+	<tu xmlns:lang="fra">Ecart</tu>
+	<tu xmlns:lang="deu">Versatz</tu>
+	<tu xmlns:lang="ita">Scarto</tu>
+	<tu xmlns:lang="jpn">オフセット</tu>
+	<tu xmlns:lang="ptg">Desvio</tu>
+	<tu xmlns:lang="ptb">Deslocamento</tu>
+	<tu xmlns:lang="rus">Смещение</tu>
+	<tu xmlns:lang="esp">Desviación</tu>
+	<tu xmlns:lang="chs">偏差</tu>
+	<tu xmlns:lang="kor">오프셋</tu>
+</tm>

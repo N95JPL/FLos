@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_6_CONT_HLD_SERV_MODE_APP">
+	<tu
+    xmlns:lang="eng"
+  >6)  Continue to hold buttons until 'service mode reset' appears on the message display (should take 10-15 seconds).</tu>
+	<tu
+    xmlns:lang="nld"
+  >6)  Blijf de toetsen indrukken totdat 'service mode reset' (resetten onderhoudsfunctie) op het message centre verschijnt (duurt ongeveer 10 - 15 seconden).</tu>
+	<tu
+    xmlns:lang="fra"
+  >6)  Continuez à appuyer sur les boutons sans relâcher jusqu'à ce que 'service mode reset' (réinitialisation du mode service) apparaisse à l'écran (prend de 10 à 15 secondes).</tu>
+	<tu
+    xmlns:lang="deu"
+  >6)  Tasten weiter gedrückt halten, bis 'Service mode reset' (Rücksetzung Servicemodus) im Informationsdisplay angezeigt wird (dauert 10-15 Sekunden).</tu>
+	<tu
+    xmlns:lang="ita"
+  >6)  Tenere premuti i tasti fino a visualizzare sul display dei messaggi 'service mode reset' (ripristino modalità di servizio) (occorrono 10-15 secondi).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >6)  メッセージ ディスプレイに「service mode reset (サービス モードのリセット)」が表\示されるまでボタンを押したままにしなさい (10 ～ 15 秒かかります)。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >6)  Continuar a manter os botões premidos até a mensagem 'service mode reset' (modo de serviço reposto) surgir no ecrã de mensagens (deverá demorar entre 10 a 15 segundos).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >6)  Continue a segurar os botões até que reinicialização do modo de serviço apareça no visor de mensagens (deve demorar 10-15 segundos).</tu>
+	<tu
+    xmlns:lang="rus"
+  >6)  Продолжайте удерживать кнопки до тех пор, пока на дисплее не появится сообщение 'режим обслуживания сброшен' (это должно занять 10-15 секунд).</tu>
+	<tu
+    xmlns:lang="esp"
+  >6)  Seguir pulsando los botones hasta que aparezca el mensaje ''service mode reset' (restauración del modo de servicio) en la pantalla de mensajes; debería tardar entre 10 y 15 segundos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >6)  继续按住按钮，直到'维修模式复位'出现于消息显示屏上（应需时 10 - 15 秒钟）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >6)  메시지 디스플레이에 '서비스 모드 재설정'이 나타날 때까지 버튼을 계속 누른 채로 있으십시오(10~15초 정도 걸림).</tu>
+</tm>

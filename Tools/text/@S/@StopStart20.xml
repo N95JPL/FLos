@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart20">
+	<tu
+    xmlns:lang="eng"
+  >Any charging system related DTCs must be resolved before auto stop/start system investigation is undertaken.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alle DTC's die betrekking hebben op het laadsysteem moeten worden verholpen voordat het automatische Stop/Start-systeem wordt onderzocht.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tous les DTC liés au système de charge doivent être résolus avant d'entreprendre l'examen du système Arrêt/Démarrage auto.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle Fehlercodes im Zusammenhang mit dem Ladesystem müssen aufgelöst werden, bevor mit der Untersuchung des Auto-Stopp-Start-Systems begonnen werden kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prima di analizzare il sistema Stop/Start automatico, è necessario risolvere gli eventuali DTC relativi al sistema di carica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オート ストップ/スタート システムの調査を行う前に、充電システム関連の DTC を解決する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quaisquer códigos de avaria (DTC) relacionados com o sistema de carregamento devem ser resolvidos antes de ser efetuada a investigação do sistema Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Quaisquer DTCs relacionados a esse sistema de carga devem ser resolvidos antes de uma investigação do sistema stop/start automático ser realizada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >До диагностики автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт необходимо устранить все диагностические коды неисправности, относящиеся к системе зарядки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Debe resolverse cualquier DTC asociado con el sistema de carga antes de que se lleve a cabo la investigación del sistema Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="chs"
+  >进行自动停止/启动系统调查前，必须解决任何充电系统相关的 DTC。</tu>
+	<tu
+    xmlns:lang="kor"
+  >충전 시스템 관련 DTC를 모두 해결한 후 자동 Stop/Start 시스템 조사에 착수해야 합니다.</tu>
+</tm>

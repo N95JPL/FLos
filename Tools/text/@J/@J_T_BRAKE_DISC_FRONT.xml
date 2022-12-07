@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_BRAKE_DISC_FRONT">
+	<tu xmlns:lang="eng">206-03 Front disc brake</tu>
+	<tu xmlns:lang="nld">206-03 Schijfrem voor</tu>
+	<tu xmlns:lang="fra">206-03 Frein à disque avant</tu>
+	<tu xmlns:lang="deu">206-03 Scheibenbremsen vorne</tu>
+	<tu xmlns:lang="ita">206-03 Freno a disco anteriore</tu>
+	<tu xmlns:lang="jpn">206-03 フロント ディスク ブレーキ</tu>
+	<tu xmlns:lang="ptg">206-03 Travões de disco dianteiros</tu>
+	<tu xmlns:lang="ptb">206-03 Freio a disco dianteiro</tu>
+	<tu xmlns:lang="rus">206-03 Передний дисковый тормоз</tu>
+	<tu xmlns:lang="esp">206-03 Freno de disco delantero</tu>
+	<tu xmlns:lang="chs">206-03前碟片制动器</tu>
+	<tu xmlns:lang="kor">206-03 프론트 디스크 브레이크</tu>
+</tm>

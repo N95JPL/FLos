@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NON_ARMOUR_VEH">
+	<tu xmlns:lang="eng">Non-armoured vehicle</tu>
+	<tu xmlns:lang="nld">Voertuig zonder pantsering</tu>
+	<tu xmlns:lang="fra">Véhicule non blindé</tu>
+	<tu xmlns:lang="deu">Ungepanzertes Fahrzeug</tu>
+	<tu xmlns:lang="ita">Vettura non blindata</tu>
+	<tu xmlns:lang="jpn">非装甲車両</tu>
+	<tu xmlns:lang="ptg">Veículo não blindado</tu>
+	<tu xmlns:lang="ptb">Veículo não blindado</tu>
+	<tu xmlns:lang="rus">Небронированный автомобиль</tu>
+	<tu xmlns:lang="esp">Vehículo no blindado </tu>
+	<tu xmlns:lang="chs">未安装防弹的车辆</tu>
+	<tu xmlns:lang="kor">비장갑 차량</tu>
+</tm>

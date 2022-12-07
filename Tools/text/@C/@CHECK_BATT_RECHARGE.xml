@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CHECK_BATT_RECHARGE">
+	<tu
+    xmlns:lang="eng"
+  >Check and recharge Battery as required, and select retry.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer de accu en laad deze indien nodig opnieuw op. Selecteer Opnieuw proberen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôlez la batterie et rechargez-la si nécessaire, puis sélectionnez Réessayer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Batterie prüfen und nach Bedarf neu laden, und „Erneut versuchen“ auswählen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare e ricaricare la batteria come richiesto, quindi selezionare Riprova.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >必要に応じてバッテリーの点検および再充電を行い、再試行を選択します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique a bateria, recarregue se necessário e volte a tentar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique e recarregue a Bateria conforme necessário e selecione repetir.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте и повторно выполните зарядку аккумуляторной батареи надлежащим образом и выберите Повторить.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Compruebe la batería y recárguela si es necesario. Seleccione Reintentar.</tu>
+	<tu xmlns:lang="chs">检查蓄电池电量并且根据需要进行充电，然后选择重试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리를 점검하고 필요에 따라 재충전한 후 다시 시도를 선택하십시오.</tu>
+</tm>

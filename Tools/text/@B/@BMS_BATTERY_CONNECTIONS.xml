@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_BATTERY_CONNECTIONS">
+	<tu xmlns:lang="eng">Check battery terminal connections tight</tu>
+	<tu xmlns:lang="nld">Controleer dat de accuaansluitklemmen goed vastzitten</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que les bornes de la batterie sont bien fixées</tu>
+	<tu xmlns:lang="deu">Batterieklemmen auf Festsitz prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che i terminali della batteria siano saldamente collegati</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリ ターミナル接続部がしっかり締まっているかチェックしなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar se as ligações dos terminais da bateria estão bem apertadas</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se as conexões do terminal da bateria estão bem presas</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте затяжку клеммных соединений аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar que las conexiones de los bornes de la batería son firmes</tu>
+	<tu xmlns:lang="chs">检查确保蓄电池接线端子连接牢靠</tu>
+	<tu xmlns:lang="kor">배터리 단자가 확실히 연결되었는지 점검하십시오.</tu>
+</tm>

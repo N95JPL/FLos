@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_79">
+	<tu xmlns:lang="eng">Mechanical failure - mechanical linkage failure.</tu>
+	<tu xmlns:lang="nld">Mechanisch defect - fout in mechanische verbinding.</tu>
+	<tu xmlns:lang="fra">Défaillance mécanique - panne de liaison mécanique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mechanische Störung - Störung am mechanischen Gestänge.</tu>
+	<tu xmlns:lang="ita">Guasto meccanico - guasto tiranteria meccanica.</tu>
+	<tu xmlns:lang="jpn">機械的故障 － メカニカル リンケージ故障</tu>
+	<tu xmlns:lang="ptg">Falha mecânica - falha na articulação mecânica.</tu>
+	<tu xmlns:lang="ptb">Falha mecânica - falha na articulação mecânica.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Механическая неисправность - отказ механического привода.</tu>
+	<tu xmlns:lang="esp">Fallo mecánico: fallo mecánico del sistema.</tu>
+	<tu xmlns:lang="chs">机械故障 - 机械连接故障。</tu>
+	<tu xmlns:lang="kor">기계적 고장 - 기계적 링크 고장</tu>
+</tm>

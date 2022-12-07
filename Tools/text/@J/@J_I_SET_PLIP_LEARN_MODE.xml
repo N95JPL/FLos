@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_PLIP_LEARN_MODE">
+	<tu
+    xmlns:lang="eng"
+  >The tester is now setting the 10AS electronic control unit into Plip Learn mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het testapparaat stelt de elektronische regeleenheid 10AS nu in op de functie voor het inleren van de afstandsbediening.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le testeur va maintenant régler le module de commande électronique 10AS en mode d'apprentissage de la télécommande.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Tester bringt das elektronische Steuergerät 10AS jetzt in den Fernbedienungs-Lernmodus.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il tester sta ora impostando l'unità di comando elettronica 10AS in modalità di apprendimento telecomando.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テスターは 10AS エレクトロニック コントロール ユニットをプリップ学習モードに設定しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O equipamento de teste está agora a definir a unidade electrónica de controlo 10AS para modo de programação 'plip' (comando à distância da altura do engate de reboque).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O dispositivo de teste está configurando a unidade de controle eletrônico 10AS no modo de aprendizado Plip.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Тестер переключает электронный блок управления 10AS в режим сохранения пользовательских настроек (Plip Learn).</tu>
+	<tu
+    xmlns:lang="esp"
+  >El comprobador está poniendo la unidad de control electrónico 10AS en modo de aprendizaje del mando a distancia.</tu>
+	<tu xmlns:lang="chs">测试仪现在将10AS电控单元设置到手持遥控器记忆模式中</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스터가 10AS 전자 컨트롤 유닛을 플립 학습(Plip Learn) 모드로 설정 중입니다.</tu>
+</tm>

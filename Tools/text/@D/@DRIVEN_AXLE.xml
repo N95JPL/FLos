@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DRIVEN_AXLE">
+	<tu xmlns:lang="eng">Driven axle</tu>
+	<tu xmlns:lang="nld">Aangedreven as</tu>
+	<tu xmlns:lang="fra">Essieu moteur</tu>
+	<tu xmlns:lang="deu">Angetriebene Achse</tu>
+	<tu xmlns:lang="ita">Assale azionato</tu>
+	<tu xmlns:lang="jpn">ドリブン アクスル</tu>
+	<tu xmlns:lang="ptg">Eixo comandado</tu>
+	<tu xmlns:lang="ptb">Eixo acionado</tu>
+	<tu xmlns:lang="rus">Ведомый мост</tu>
+	<tu xmlns:lang="esp">Eje impulsado</tu>
+	<tu xmlns:lang="chs">从动轴</tu>
+	<tu xmlns:lang="kor">피동 액슬</tu>
+</tm>

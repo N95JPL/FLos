@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_DAMPER_LHR">
+	<tu xmlns:lang="eng">Rear left damper</tu>
+	<tu xmlns:lang="nld">Schokdemper links achter</tu>
+	<tu xmlns:lang="fra">Amortisseur arriere gauche</tu>
+	<tu xmlns:lang="deu">Dämpfer hinten links</tu>
+	<tu xmlns:lang="ita">Ammortizzatore posteriore sinistro</tu>
+	<tu xmlns:lang="jpn">国､リア ダ・パ</tu>
+	<tu xmlns:lang="ptg">Amortecedor traseiro esquerdo</tu>
+	<tu xmlns:lang="ptb">Amortecedor traseiro esquerdo</tu>
+	<tu xmlns:lang="rus">Задний левый амортизатор</tu>
+	<tu xmlns:lang="esp">Amortiguador trasero izquierdo</tu>
+	<tu xmlns:lang="chs">左后减振器</tu>
+	<tu xmlns:lang="kor">리어 좌측 댐퍼</tu>
+</tm>

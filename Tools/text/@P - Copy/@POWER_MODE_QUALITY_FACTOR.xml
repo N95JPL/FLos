@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@POWER_MODE_QUALITY_FACTOR">
+	<tu xmlns:lang="eng">Power mode and power mode quality factor</tu>
+	<tu xmlns:lang="nld">Startfunctie en kwaliteitsfactor van startfunctie</tu>
+	<tu xmlns:lang="fra">Mode alimentation et facteur de qualité du mode alimentation</tu>
+	<tu xmlns:lang="deu">Leistungsmodus und Qualitätsfaktor Leistungsmodus</tu>
+	<tu xmlns:lang="ita">Modalità di potenza e fattore qualità modalità di potenza.</tu>
+	<tu xmlns:lang="jpn">パワー モードおよびパワー モード クォリテー ファクター</tu>
+	<tu xmlns:lang="ptg">Modo de alimentação e factor de qualidade do modo de alimentação</tu>
+	<tu xmlns:lang="ptb">Modo de alimentação e fator de qualidade do modo de alimentação.</tu>
+	<tu xmlns:lang="rus">Режим электропитания и коэффициент качества режима электропитания</tu>
+	<tu xmlns:lang="esp">Modo de alimentación y factor de calidad del modo de alimentación</tu>
+	<tu xmlns:lang="chs">电源模式与电源模式品质系数</tu>
+	<tu xmlns:lang="kor">전원 모드 및 전원 모드 품질 계수</tu>
+</tm>

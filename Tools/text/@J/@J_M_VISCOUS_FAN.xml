@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_VISCOUS_FAN">
+	<tu xmlns:lang="eng">Viscous fan drive cycle</tu>
+	<tu xmlns:lang="nld">Rijcyclus van viscoventilator</tu>
+	<tu xmlns:lang="fra">Cycle de conduite du ventilateur à viscocoupleur</tu>
+	<tu xmlns:lang="deu">Viskolüfter-Fahrzyklus</tu>
+	<tu xmlns:lang="ita">Ciclo di azionamento ventola a giunto viscoso</tu>
+	<tu xmlns:lang="jpn">ビスカス ファン ドライブ サイクル</tu>
+	<tu xmlns:lang="ptg">Ciclo de accionamento da ventoinha viscosa</tu>
+	<tu xmlns:lang="ptb">Ciclo viscoso de condução do ventilador</tu>
+	<tu xmlns:lang="rus">Цикл вождения вентилятора охлаждения муфты вязкости</tu>
+	<tu xmlns:lang="esp">Ciclo de conducción para el ventilador viscoso</tu>
+	<tu xmlns:lang="chs">粘滞性风扇驱动循环</tu>
+	<tu xmlns:lang="kor">비스코스 팬 주행 사이클</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DONT_REMOVE_KEY_BARGRAPH">
+	<tu
+    xmlns:lang="eng"
+  >Do not remove the inserted key until the 15 second bargraph is displayed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U mag de ingestoken sleutel niet verwijderen totdat de voortgangsbalk van 15 seconden verschijnt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ne retirez pas la clé insérée tant que la barre de progression de 15 secondes est affichée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den eingesteckten Schlüssel nicht abziehen, bis das Balkendiagramm für 15 Sekunden angezeigt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non rimuovere la chiave inserita fino a che non viene visualizzato il grafico a barre di 15 secondi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >15 秒バーグラフが表\示されるまで、挿入されたキーを取り外してはなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não retirar a chave introduzida antes de o gráfico de barras de 15 segundos ficar visível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não remova a chave inserida até que o gráfico de barras seja exibido por 15 segundos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не извлекать вставленный ключ в течение 15 секунд, пока отображается индикатор выполнения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No retirar la llave insertada hasta que aparezca la barra de progreso de 15 segundos.</tu>
+	<tu xmlns:lang="chs">条形图显示 15 秒之后，才可取下车钥。</tu>
+	<tu
+    xmlns:lang="kor"
+  >막대그래프가 표시된 후 15초가 지날 때까지는 삽입된 키를 제거하지 마십시오.</tu>
+</tm>

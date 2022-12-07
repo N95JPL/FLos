@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LEV_SEN_ALARM">
+	<tu xmlns:lang="eng">Level sensor  -  If alarm</tu>
+	<tu xmlns:lang="nld">Peilsensor  -  Alarm geactiveerd</tu>
+	<tu xmlns:lang="fra">Capteur de niveau  -  En présence d'une alarme</tu>
+	<tu xmlns:lang="deu">Füllstandssensor  -  Falls Alarm</tu>
+	<tu xmlns:lang="ita">Sensore di livello  -  In caso di allarme presente</tu>
+	<tu xmlns:lang="jpn">レベル センサー  －  アラームが次の状況の場合：</tu>
+	<tu xmlns:lang="ptg">Sensor de nível  -  Se o alarme</tu>
+	<tu xmlns:lang="ptb">Sensor de nível  -  Se instalado com alarme</tu>
+	<tu xmlns:lang="rus">С датчиком уровня  -  Если сигнализация</tu>
+	<tu xmlns:lang="esp">Sensor de nivel  -  Si se produce una alarma</tu>
+	<tu xmlns:lang="chs">水平传感器  -  如果报警</tu>
+	<tu xmlns:lang="kor">레벨 센서  -  알람</tu>
+</tm>

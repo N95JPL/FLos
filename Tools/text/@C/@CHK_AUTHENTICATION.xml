@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CHK_AUTHENTICATION">
+	<tu xmlns:lang="eng">Checking authentication</tu>
+	<tu xmlns:lang="nld">Autorisatie controleren</tu>
+	<tu xmlns:lang="fra">Contrôle d'authentification</tu>
+	<tu xmlns:lang="deu">Authentifizierung wird geprüft</tu>
+	<tu xmlns:lang="ita">Controllo dell'autenticazione</tu>
+	<tu xmlns:lang="jpn">認証をチェック中</tu>
+	<tu xmlns:lang="ptg">A verificar a autenticação</tu>
+	<tu xmlns:lang="ptb">Verificação da autenticação</tu>
+	<tu xmlns:lang="rus">Выполняется проверка  идентификации</tu>
+	<tu xmlns:lang="esp">Comprobando la autentificación</tu>
+	<tu xmlns:lang="chs">检查授权状态</tu>
+	<tu xmlns:lang="kor">인증 점검</tu>
+</tm>

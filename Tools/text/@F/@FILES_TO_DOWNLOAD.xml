@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FILES_TO_DOWNLOAD">
+	<tu xmlns:lang="eng">Files to be downloaded</tu>
+	<tu xmlns:lang="nld">Te downloaden bestanden</tu>
+	<tu xmlns:lang="fra">Fichiers à télécharger</tu>
+	<tu xmlns:lang="deu">Herunterzuladende Dateien</tu>
+	<tu xmlns:lang="ita">File da scaricare</tu>
+	<tu xmlns:lang="jpn">ダウンロードするファイル</tu>
+	<tu xmlns:lang="ptg">Ficheiros a transferir</tu>
+	<tu xmlns:lang="ptb">Arquivos a serem baixados</tu>
+	<tu xmlns:lang="rus">Файлы для загрузки</tu>
+	<tu xmlns:lang="esp">Archivos que hay que descargar</tu>
+	<tu xmlns:lang="chs">要下载的文件</tu>
+	<tu xmlns:lang="kor">다운로드할 파일</tu>
+</tm>

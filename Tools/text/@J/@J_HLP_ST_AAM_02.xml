@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_AAM_02">
+	<tu xmlns:lang="eng">It is not an audible test.</tu>
+	<tu xmlns:lang="nld">Het is geen hoorbare test.</tu>
+	<tu xmlns:lang="fra">Il ne s'agit pas d'un test audible.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es handelt sich nicht um einen Test, bei dem etwas gehört werden kann.</tu>
+	<tu xmlns:lang="ita">La prova non fornisce un segnale acustico.</tu>
+	<tu xmlns:lang="jpn">このテストは耳で聞こえません。</tu>
+	<tu xmlns:lang="ptg">Não se trata de um teste perceptível.</tu>
+	<tu xmlns:lang="ptb">Este não é um teste sonoro.</tu>
+	<tu xmlns:lang="rus">Это не проверка на слышимость звукового сигнала.</tu>
+	<tu xmlns:lang="esp">No es una prueba audible.</tu>
+	<tu xmlns:lang="chs">这不是音频测试。</tu>
+	<tu xmlns:lang="kor">이것은 가청 테스트가 아닙니다.</tu>
+</tm>

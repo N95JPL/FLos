@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INJ_PROG_SUCCESS">
+	<tu
+    xmlns:lang="eng"
+  >All indicated injectors have been programmed successfully.</tu>
+	<tu xmlns:lang="nld">Alle aangegeven injectors zijn geprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tous les injecteurs indiqués ont été programmés correctement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle angezeigten Einspritzventile wurden erfolgreich programmiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tutti gli iniettori indicati sono stati programmati correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >表\示された全インジェクタのプログラムが正常に完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todos os injectores indicados foram programados com êxito.</tu>
+	<tu xmlns:lang="ptb">Todos os injetores foram programados com sucesso.</tu>
+	<tu xmlns:lang="rus">Все указанные форсунки успешно запрограммированы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Todos los inyectores indicados se han programado correctamente.</tu>
+	<tu xmlns:lang="chs">所有显示的喷油器均已成功编程。</tu>
+	<tu xmlns:lang="kor">표시된 모든 인젝터가 올바로 프로그래밍되었습니다.</tu>
+</tm>

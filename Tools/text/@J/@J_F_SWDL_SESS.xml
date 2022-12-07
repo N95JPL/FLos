@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SWDL_SESS">
+	<tu xmlns:lang="eng">No software parts available for this vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voor dit voertuig zijn geen software-onderdelen beschikbaar.</tu>
+	<tu xmlns:lang="fra">Aucun élément logiciel disponible pour ce véhicule.</tu>
+	<tu xmlns:lang="deu">Keine Softwareteile für dieses Fahrzeug verfügbar.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per questo veicolo non è disponibile nessun componente software.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この車両に利用可能\なソ\フトウェア パートはありません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não há partes do programa de software disponíveis para este veículo.</tu>
+	<tu xmlns:lang="ptb">Nenhuma peça disponível para este veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для данного автомобиля отсутствуют программные компоненты.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se dispone de las partes de software para este vehículo.</tu>
+	<tu xmlns:lang="chs">没有本车辆可用的软件部件。</tu>
+	<tu xmlns:lang="kor">이 차량에 사용할 수 있는 소프트웨어 파트가 없음</tu>
+</tm>

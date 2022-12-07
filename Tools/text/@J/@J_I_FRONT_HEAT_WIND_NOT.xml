@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FRONT_HEAT_WIND_NOT">
+	<tu xmlns:lang="eng">No heated front screen</tu>
+	<tu xmlns:lang="nld">Geen verwarmde voorruit</tu>
+	<tu xmlns:lang="fra">Pas de pare-brise chauffant</tu>
+	<tu xmlns:lang="deu">Keine Windschutzscheibenheizung</tu>
+	<tu xmlns:lang="ita">No parabrezza termico</tu>
+	<tu xmlns:lang="jpn">ノンヒーテッド フロント スクリーン</tu>
+	<tu xmlns:lang="ptg">Pára-brisas sem desembaciador</tu>
+	<tu xmlns:lang="ptb">Sem desembaçador dianteiro</tu>
+	<tu xmlns:lang="rus">Без обогрева ветрового стекла</tu>
+	<tu xmlns:lang="esp">Parabrisas no calefactado</tu>
+	<tu xmlns:lang="chs">无加热型前挡风玻璃</tu>
+	<tu xmlns:lang="kor">열선내장 전방 스크린 없음</tu>
+</tm>

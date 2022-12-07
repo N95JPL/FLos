@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_INVALID_DATA">
+	<tu xmlns:lang="eng">Invalid data.</tu>
+	<tu xmlns:lang="nld">Ongeldige gegevens.</tu>
+	<tu xmlns:lang="fra">Données non valides.</tu>
+	<tu xmlns:lang="deu">Ungültige Daten.</tu>
+	<tu xmlns:lang="ita">Dati non validi.</tu>
+	<tu xmlns:lang="jpn">無効データ</tu>
+	<tu xmlns:lang="ptg">Dados inválidos.</tu>
+	<tu xmlns:lang="ptb">Dados inválidos.</tu>
+	<tu xmlns:lang="rus">Неверные данные.</tu>
+	<tu xmlns:lang="esp">Datos no válidos.</tu>
+	<tu xmlns:lang="chs">无效数据。</tu>
+	<tu xmlns:lang="kor">유효하지 않은 데이터</tu>
+</tm>

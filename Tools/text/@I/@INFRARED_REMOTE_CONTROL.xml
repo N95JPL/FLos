@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INFRARED_REMOTE_CONTROL">
+	<tu xmlns:lang="eng">Infra-red remote control</tu>
+	<tu xmlns:lang="nld">Infrarood afstandsbediening</tu>
+	<tu xmlns:lang="fra">Télécommande infrarouge.</tu>
+	<tu xmlns:lang="deu">Infrarot-Fernbedienung</tu>
+	<tu xmlns:lang="ita">Telecomando a infrarossi</tu>
+	<tu xmlns:lang="jpn">赤外線リモート コントロール</tu>
+	<tu xmlns:lang="ptg">Comando à distância por infravermelhos</tu>
+	<tu xmlns:lang="ptb">Controle remoto infravermelho</tu>
+	<tu xmlns:lang="rus">Инфракрасный пульт ДУ</tu>
+	<tu xmlns:lang="esp">Mando a distancia por infrarrojos</tu>
+	<tu xmlns:lang="chs">红外遥控</tu>
+	<tu xmlns:lang="kor">적외선 리모컨</tu>
+</tm>

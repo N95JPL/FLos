@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FCDIM_05">
+	<tu
+    xmlns:lang="eng"
+  >3)  Control module checks Gb video interface communication link.</tu>
+	<tu
+    xmlns:lang="nld"
+  >3)  De regelmodule controleert de communicatieverbinding van de Gb-video-interface.</tu>
+	<tu
+    xmlns:lang="fra"
+  >3)  Le module de commande contrôle la liaison de communication d'interface vidéo à grande vitesse.</tu>
+	<tu
+    xmlns:lang="deu"
+  >3)  Steuergerät prüft Kommunikationsverbindung für GB-Videoschnittstelle.</tu>
+	<tu
+    xmlns:lang="ita"
+  >3)  Il modulo di comando controlla il collegamento di comunicazione interfaccia video alta velocità (Gigabit).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >3)  コントロール モジュールは GB ビデオ インターフェース通信リンクをチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >3)  O módulo de controlo verifica a ligação de comunicação (Gb) da interface de vídeo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >3)  O módulo de controle verifica o link de comunicação em Gb da interface de vídeo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >3)  Блок управления проверяет линию последовательной связи Гб видео.</tu>
+	<tu
+    xmlns:lang="esp"
+  >3)  El módulo de control comprueba el enlace de comunicación con la interfaz de vídeo Gb.</tu>
+	<tu xmlns:lang="chs">3)  控制模块检查 Gb 视频接口通讯链接。</tu>
+	<tu
+    xmlns:lang="kor"
+  >3)  컨트롤 모듈이 Gb 비디오 인터페이스 통신 링크를 점검합니다.</tu>
+</tm>

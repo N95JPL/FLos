@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MODULE_ORIGINAL_INHALE_DATA">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle information will be read from the original module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De voertuiginformatie zal uit de oorspronkelijke module worden uitgelezen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'information de véhicule sera lue dans le module original.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeuginformationen werden aus dem ursprünglichen Steuergerät ausgelesen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le informazioni sul veicolo verranno lette dal modulo originale.</tu>
+	<tu xmlns:lang="jpn">車両情報は元のモジュールから読み取ることができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As informações do veículo serão lidas a partir do módulo de origem.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As informações do veículo serão lidas pelo módulo original.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Информация об автомобиле будет считываться с исходного блока.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La información del vehículo se obtendrá del módulo original.</tu>
+	<tu xmlns:lang="chs">车辆信息将从原模块读取。</tu>
+	<tu xmlns:lang="kor">원래 모듈에서 차량 정보를 읽습니다.</tu>
+</tm>

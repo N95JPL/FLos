@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_SET_DAY_RUN_LIGHT">
+	<tu
+    xmlns:lang="eng"
+  >This application will set the daylight running lights to either off, Scandinavian, Canadian or Poland option.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing zet de dagverlichting in de stand uit, Scandinavië, Canada of Polen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application règlera les feux de jour pour l'option désactivés, Scandinavie, Canada ou Pologne.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung stellt das Tagfahrlicht entweder auf Aus oder auf die Option Skandinavien, Kanada oder Polen ein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quest'applicazione imposta le luci diurne a disinserite, opzione scandinava, canadese o polacca.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションで、スカンジナビア、カナダ、ポーランドのオプションである昼間走行ライトをオフに設定することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação irá regular as luzes de circulação diurna para a opção de desactivação, Escandinávia, Canadá ou Polónia.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo irá definir a posição das luzes de funcionamento diurno em desligar. Opção Escandinava, Canadense ou Polonesa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение служит для установки опции дневных габаритных фонарей: выключено, скандинавская, канадская или польская опции.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación ajustará las luces de conducción diurna a la opción Desactivadas, Escandinavia, Canadá o Polonia.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本应用程序将把日间行车灯设置以下选项之一：关闭、斯堪的纳维亚、加拿大或波兰设置选项。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 주간 주행등을 OFF, 스칸디나비아, 캐나다 또는 폴란드 옵션으로 설정합니다.</tu>
+</tm>

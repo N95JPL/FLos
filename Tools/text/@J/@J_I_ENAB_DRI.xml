@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENAB_DRI">
+	<tu xmlns:lang="eng">Enabled while driving</tu>
+	<tu xmlns:lang="nld">Ingeschakeld tijdens rijden</tu>
+	<tu xmlns:lang="fra">Activé pendant la marche</tu>
+	<tu xmlns:lang="deu">Beim Fahren aktiviert</tu>
+	<tu xmlns:lang="ita">Attivato durante la guida </tu>
+	<tu xmlns:lang="jpn">走行中、作動可に設定</tu>
+	<tu xmlns:lang="ptg">Activado durante a condução</tu>
+	<tu xmlns:lang="ptb">Ativado durante a condução</tu>
+	<tu xmlns:lang="rus">При движении включается</tu>
+	<tu xmlns:lang="esp">Activado mientras se conduce</tu>
+	<tu xmlns:lang="chs">行车时功能启用</tu>
+	<tu xmlns:lang="kor">주행 중 활성화됨</tu>
+</tm>

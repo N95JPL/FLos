@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RECOVERY_FILES_NOT_AVAILABLE">
+	<tu xmlns:lang="eng">The recovery files are not present on the disc.
+</tu>
+	<tu xmlns:lang="nld">De herstelbestanden zijn niet aanwezig op de schijf.
+</tu>
+	<tu xmlns:lang="fra">Le disque ne contient pas les fichiers de restauration.
+</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Wiederherstellungsdateien sind auf dem Datenträger nicht vorhanden.
+</tu>
+	<tu xmlns:lang="ita">I file di ripristino non sono presenti sul disco.
+</tu>
+	<tu xmlns:lang="jpn">リカバリ ファイルがディスク上に存在しません。
+</tu>
+	<tu xmlns:lang="ptg">Os ficheiros de recuperação não se encontram no disco.
+</tu>
+	<tu xmlns:lang="ptb">Os arquivos de recuperação não estão presentes no disco.
+</tu>
+	<tu xmlns:lang="rus">Восстановленные файлы отсутствуют на диске.
+</tu>
+	<tu xmlns:lang="esp">Los archivos de recuperación no se encuentran en el disco.
+</tu>
+	<tu xmlns:lang="chs">恢复文件不在光盘上。
+</tu>
+	<tu xmlns:lang="kor">디스크에 복구 파일이 없습니다.
+</tu>
+</tm>

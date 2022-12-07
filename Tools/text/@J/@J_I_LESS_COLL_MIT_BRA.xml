@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_COLL_MIT_BRA">
+	<tu xmlns:lang="eng">Without collision mitigation by braking</tu>
+	<tu xmlns:lang="nld">Zonder botsingsvermindering door te remmen</tu>
+	<tu xmlns:lang="fra">Sans atténuation de collision par freinage.</tu>
+	<tu xmlns:lang="deu">Ohne Kollisionsschwereminderung durch Bremsen</tu>
+	<tu xmlns:lang="ita">Senza attenuazione collisione tramite frenata</tu>
+	<tu xmlns:lang="jpn">制動による衝突緩和なし</tu>
+	<tu xmlns:lang="ptg">Sem mitigação da colisão por travagem</tu>
+	<tu xmlns:lang="ptb">Sem redução de colisão por frenagem</tu>
+	<tu xmlns:lang="rus">Без смягчения столкновения за счет торможения</tu>
+	<tu xmlns:lang="esp">Sin atenuación de choque mediante el frenado</tu>
+	<tu xmlns:lang="chs">无通过制动实现碰撞缓冲的功能</tu>
+	<tu xmlns:lang="kor">제동에 의한 충돌 완화 기능 없음</tu>
+</tm>

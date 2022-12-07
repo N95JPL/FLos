@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WINDOW_PINCH_PROT_VALID">
+	<tu xmlns:lang="eng">Door glass window pinch protection validation</tu>
+	<tu
+    xmlns:lang="nld"
+  >Validatie van mechanisme tegen beklemd raken van portierruit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Validation de la protection anti-pincement des vitres de porte</tu>
+	<tu xmlns:lang="deu">Türfensterscheiben - Einklemmschutz-Validierung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Convalida protezione anti-intrappolamento dei cristalli delle portiere.</tu>
+	<tu xmlns:lang="jpn">ドア ガラス ウィンドウ挟み込み防止の正当性確認</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Validação da protecção antientalamento do vidro da porta</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Validação proteção antiesmagamento da janela do vidro da porta</tu>
+	<tu
+    xmlns:lang="rus"
+  >Стеклоподъемники, проверка функции защиты от защемления</tu>
+	<tu xmlns:lang="esp">Validación del mecanismo retráctil de las ventanillas</tu>
+	<tu xmlns:lang="chs">车门玻璃窗挤压保护验证</tu>
+	<tu xmlns:lang="kor">도어 글라스 윈도우 끼임 방지 보호 유효성 검사</tu>
+</tm>

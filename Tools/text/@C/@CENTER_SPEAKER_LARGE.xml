@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CENTER_SPEAKER_LARGE">
+	<tu xmlns:lang="eng">Large center speaker</tu>
+	<tu xmlns:lang="nld">Grote middelste luidspreker</tu>
+	<tu xmlns:lang="fra">Grand haut-parleur central.</tu>
+	<tu xmlns:lang="deu">Großer mittlerer Lautsprecher</tu>
+	<tu xmlns:lang="ita">Altoparlante centrale grande</tu>
+	<tu xmlns:lang="jpn">センター スピーカー (大)</tu>
+	<tu xmlns:lang="ptg">Altifalante central grande</tu>
+	<tu xmlns:lang="ptb">Alto-falante central grande</tu>
+	<tu xmlns:lang="rus">Большой центральный динамик</tu>
+	<tu xmlns:lang="esp">Altavoz central grande</tu>
+	<tu xmlns:lang="chs">大型中央扬声器</tu>
+	<tu xmlns:lang="kor">대형 센터 스피커</tu>
+</tm>

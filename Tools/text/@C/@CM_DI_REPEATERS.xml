@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_DI_REPEATERS">
+	<tu xmlns:lang="eng">Turn signal repeaters.</tu>
+	<tu xmlns:lang="nld">Zijrichtingaanwijzerlichten</tu>
+	<tu xmlns:lang="fra">Répétiteurs déindicateurs de direction</tu>
+	<tu xmlns:lang="deu">Seitliche Blinkleuchten</tu>
+	<tu xmlns:lang="ita">Indicatori di direzione laterali</tu>
+	<tu xmlns:lang="jpn">方向指示リピータ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Indicadores intermitentes de mudança direcção laterais.</tu>
+	<tu xmlns:lang="ptb">Repetidores da seta.</tu>
+	<tu xmlns:lang="rus">Повторители указателя поворота</tu>
+	<tu xmlns:lang="esp">Intermitentes laterales</tu>
+	<tu xmlns:lang="chs">转向信号灯复示器。</tu>
+	<tu xmlns:lang="kor">방향 지시등 중계기</tu>
+</tm>

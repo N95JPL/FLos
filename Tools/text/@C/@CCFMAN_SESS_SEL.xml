@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_SESS_SEL">
+	<tu xmlns:lang="eng">Session active car configuration selection</tu>
+	<tu xmlns:lang="nld">Selectie van voertuigconfiguratie voor actieve sessie</tu>
+	<tu
+    xmlns:lang="fra"
+  >Session active de sélection de la configuration du véhicule</tu>
+	<tu xmlns:lang="deu">Auswahl Fahrzeugkonfiguration für aktuelle Sitzung</tu>
+	<tu xmlns:lang="ita">Selezione configurazione veicolo sessione attiva</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション アクティブ セッション選択</tu>
+	<tu xmlns:lang="ptg">Selecção de configuração do veículo - sessão activa</tu>
+	<tu xmlns:lang="ptb">Seleção da configuração do carro ativo da sessão</tu>
+	<tu xmlns:lang="rus">Выбор активного сеанса конфигурации автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Selección de configuración del vehículo en sesión activa</tu>
+	<tu xmlns:lang="chs">运行中的车辆配置选项程序</tu>
+	<tu xmlns:lang="kor">세션 활성 차량 구성 선택</tu>
+</tm>

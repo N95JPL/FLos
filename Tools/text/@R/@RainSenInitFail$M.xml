@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RainSenInitFail$M">
+	<tu xmlns:lang="eng">Rain sensor initialisation set-up failed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instelling voor de initialisatie van de regensensor is mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec de la procédure d'initialisation du capteur de pluie.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Initialisierungseinstellung Regensensor nicht erfolgreich.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impostazione inizializzazione sensore pioggia non riuscita.</tu>
+	<tu xmlns:lang="jpn">雨滴センサーの初期化セットアップに失敗しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A configuração de inicialização do sensor de chuva falhou.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha na configuração de inicialização do sensor de chuva.</tu>
+	<tu xmlns:lang="rus">Настройка инициализации датчика дождя не выполнена.</tu>
+	<tu xmlns:lang="esp">La iniciación del sensor de lluvia falló.</tu>
+	<tu xmlns:lang="chs">雨量传感器初始化设置失败。</tu>
+	<tu xmlns:lang="kor">레인 센서 초기화 설정에 실패했습니다.</tu>
+</tm>

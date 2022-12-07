@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ADAPTIVE_CC_STOP_GO_BRAKE_2">
+	<tu xmlns:lang="eng">Adaptive speed control, stop and go, brake limit 2</tu>
+	<tu
+    xmlns:lang="nld"
+  >Adaptieve cruise control, stoppen en optrekken, remlimiet 2</tu>
+	<tu
+    xmlns:lang="fra"
+  >Régulateur de vitesse adaptatif, dispositif arrêt/relance, limite de freinage 2</tu>
+	<tu
+    xmlns:lang="deu"
+  >Adaptive Geschwindigkeitsregelung, Stop-and-go-Verkehr, Schwellenwert für Bremsen 2</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllo di velocità adattativo, arresto e partenza, limite freno 2</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アダプティブ スピード コントロール、ストップ アンド ゴー、ブレーキ リミット 2</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Controlo da velocidade adaptável, pára e arranca, limite de travagem 2</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Controle de velocidade adaptável, pare e vá, limite de frenagem 2</tu>
+	<tu
+    xmlns:lang="rus"
+  >Адаптивный круиз-контроль, 'старт-стоп', ограничитель тормозов 2</tu>
+	<tu
+    xmlns:lang="esp"
+  >Control de velocidad adaptativo, parada y arranque, límite de frenos 2</tu>
+	<tu xmlns:lang="chs">自适应速度控制，停止与前进，制动器极限位置2</tu>
+	<tu xmlns:lang="kor">어댑티브 스피드 컨트롤, 정지 및 실행, 브레이크 제한 2</tu>
+</tm>

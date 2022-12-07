@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FCDIM_09">
+	<tu xmlns:lang="eng">MOST bus fully operational.</tu>
+	<tu xmlns:lang="nld">MOST-bus werkt volledig naar behoren.</tu>
+	<tu xmlns:lang="fra">Bus MOST entièrement opérationnel</tu>
+	<tu xmlns:lang="deu">MOST-Datenbus vollständig funktional.</tu>
+	<tu xmlns:lang="ita">Bus MOST completamente funzionante.</tu>
+	<tu xmlns:lang="jpn">MOST バスは完全に作動中</tu>
+	<tu xmlns:lang="ptg">Condutor de dados MOST a funcionar em pleno.</tu>
+	<tu xmlns:lang="ptb">Barramento MOST totalmente operacional.</tu>
+	<tu xmlns:lang="rus">Шина MOST находится в полностью рабочем состоянии.</tu>
+	<tu xmlns:lang="esp">Bus MOST en pleno estado operativo.</tu>
+	<tu xmlns:lang="chs">MOST 总线完全正常运行。</tu>
+	<tu xmlns:lang="kor">MOST 버스가 완전히 작동함</tu>
+</tm>

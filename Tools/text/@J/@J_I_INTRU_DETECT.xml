@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INTRU_DETECT">
+	<tu xmlns:lang="eng">Intrusion detected</tu>
+	<tu xmlns:lang="nld">Binnendringing ontdekt</tu>
+	<tu xmlns:lang="fra">Intrusion détectée</tu>
+	<tu xmlns:lang="deu">Glasbruch nachgewiesen</tu>
+	<tu xmlns:lang="ita">Rilevata intrusione</tu>
+	<tu xmlns:lang="jpn">侵入が検知されました。</tu>
+	<tu xmlns:lang="ptg">Detectada intrusão</tu>
+	<tu xmlns:lang="ptb">Invasão detectada</tu>
+	<tu xmlns:lang="rus">Обнаружено проникновение</tu>
+	<tu xmlns:lang="esp">Detectada intrusión</tu>
+	<tu xmlns:lang="chs">检测到入侵</tu>
+	<tu xmlns:lang="kor">침입이 감지됨</tu>
+</tm>

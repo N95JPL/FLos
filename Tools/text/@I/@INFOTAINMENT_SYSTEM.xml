@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INFOTAINMENT_SYSTEM">
+	<tu xmlns:lang="eng">Infotainment system</tu>
+	<tu xmlns:lang="nld">Infotainment-systeem</tu>
+	<tu xmlns:lang="fra">Système d'audio-information.</tu>
+	<tu xmlns:lang="deu">Infotainmentsystem</tu>
+	<tu xmlns:lang="ita">Sistema Infotainment</tu>
+	<tu xmlns:lang="jpn">インフォテイメント エンタテイメント システム</tu>
+	<tu xmlns:lang="ptg">Sistema Infotainment</tu>
+	<tu xmlns:lang="ptb">Sistema de infoentretenimento</tu>
+	<tu xmlns:lang="rus">Информационно-развлекательная система</tu>
+	<tu xmlns:lang="esp">Sistema de info-entretenimiento</tu>
+	<tu xmlns:lang="chs">信息娱乐系统</tu>
+	<tu xmlns:lang="kor">인포테인먼트 시스템</tu>
+</tm>

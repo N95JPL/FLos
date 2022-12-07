@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRIG_ALARM">
+	<tu xmlns:lang="eng">Retrigger  -  If alarm</tu>
+	<tu xmlns:lang="nld">Opnieuw laten afgaan  -  Alarm geactiveerd</tu>
+	<tu xmlns:lang="fra">Redéclenchement  -  En présence d'une alarme</tu>
+	<tu xmlns:lang="deu">Erneute Auslösung  -  Falls Alarm</tu>
+	<tu xmlns:lang="ita">Nuovo scatto  -  In caso di allarme presente</tu>
+	<tu xmlns:lang="jpn">再トリガー  －  アラームが次の状況の場合：</tu>
+	<tu xmlns:lang="ptg">Reactivação  -  Se o alarme</tu>
+	<tu xmlns:lang="ptb">Reacionamento  -  Se instalado com alarme</tu>
+	<tu xmlns:lang="rus">Повторный запуск триггера  -  Если сигнализация</tu>
+	<tu xmlns:lang="esp">Reactivador  -  Si se produce una alarma</tu>
+	<tu xmlns:lang="chs">再触发器  -  如果报警</tu>
+	<tu xmlns:lang="kor">다시 트리거  -  알람</tu>
+</tm>

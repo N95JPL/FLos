@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_ALC_INTERLOCK">
+	<tu xmlns:lang="eng">Without alcohol interlock</tu>
+	<tu xmlns:lang="nld">Zonder alcoholslot</tu>
+	<tu xmlns:lang="fra">Sans éthylotest antidémarrage</tu>
+	<tu xmlns:lang="deu">Ohne Alkohol-Sperre</tu>
+	<tu xmlns:lang="ita">Senza interblocco alcool</tu>
+	<tu xmlns:lang="jpn">アルコール インターロックなし</tu>
+	<tu xmlns:lang="ptg">Sem bloqueio de álcool</tu>
+	<tu xmlns:lang="ptb">Sem intertravamento de álcool</tu>
+	<tu xmlns:lang="rus">Без алкогольного блокиратора</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sin dispositivo de seguridad para detectar una concentración elevada de alcohol</tu>
+	<tu xmlns:lang="chs">无酒精联锁</tu>
+	<tu xmlns:lang="kor">알코올 인터로크 불포함</tu>
+</tm>

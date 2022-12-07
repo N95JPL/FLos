@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_SPEED_CMSUPPLIES">
+	<tu xmlns:lang="eng">Speed control module supplies</tu>
+	<tu xmlns:lang="nld">Stroomvoorzieningen van de snelheidsregelmodules</tu>
+	<tu xmlns:lang="fra">Alimentations du module de régulateur de vitesse</tu>
+	<tu
+    xmlns:lang="deu"
+  >Versorgungsleitungen - Steuermodul Geschwindigkeitsregler</tu>
+	<tu xmlns:lang="ita">Alimentazioni modulo controllo velocità</tu>
+	<tu xmlns:lang="jpn">スピード コントロール モジュール供給</tu>
+	<tu xmlns:lang="ptg">Alimentação do módulo de controlo da velocidade</tu>
+	<tu xmlns:lang="ptb">Fontes do módulo de controle de velocidade</tu>
+	<tu xmlns:lang="rus">Питание блока управления скоростью движения</tu>
+	<tu xmlns:lang="esp">Alimentaciones del módulo de control de velocidad</tu>
+	<tu xmlns:lang="chs">速度控制模块电源</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤 모듈 전원 공급</tu>
+</tm>

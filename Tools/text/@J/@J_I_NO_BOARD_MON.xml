@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_BOARD_MON">
+	<tu xmlns:lang="eng">No board monitor</tu>
+	<tu xmlns:lang="nld">Geen boordmonitor</tu>
+	<tu xmlns:lang="fra">Pas de contrôleur de bord</tu>
+	<tu xmlns:lang="deu">Keine On-Board-Überwachung</tu>
+	<tu xmlns:lang="ita">Nessun monitoraggio di bordo</tu>
+	<tu xmlns:lang="jpn">ボード モニターなし</tu>
+	<tu xmlns:lang="ptg">Sem monitor de bordo</tu>
+	<tu xmlns:lang="ptb">Sem monitor da placa</tu>
+	<tu xmlns:lang="rus">Без бортового монитора</tu>
+	<tu xmlns:lang="esp">No hay monitor de diagnosis de a bordo</tu>
+	<tu xmlns:lang="chs">无车载诊断监视器</tu>
+	<tu xmlns:lang="kor">보드 모니터 없음</tu>
+</tm>

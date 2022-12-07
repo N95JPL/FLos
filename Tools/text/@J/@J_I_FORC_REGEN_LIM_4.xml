@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FORC_REGEN_LIM_4">
+	<tu
+    xmlns:lang="eng"
+  >This will only occur if the soot mass present in the filter is below a set upper limit</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dit gebeurt alleen als de roetmassa in het filter lager is dan een ingestelde bovengrens</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cela ne se produira que si la masse de suie présente dans le filtre est inférieure à une limite supérieure établie.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dies tritt nur auf, wenn die im Dieselrufilter vorliegende Rußmasse unter dem festgelegten oberen Grenzwert liegt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ciò avviene soltanto se la massa di fuliggine presente nel filtro è inferiore a un limite massimo prestabilito</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これは、フィルタ内の煤の質量が設定されている上限未満である場合にのみ行われます</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tal só irá ocorrer se a fuligem existente no filtro for inferior a um limite máximo estabelecido</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso só vai ocorrer se a massa de fuligem presente no filtro é abaixo de um determinado limite superior</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это произойдет только в том случае, если масса сажи в фильтре будет ниже установленного верхнего предельного значения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esto sólo ocurrirá si la masa de carbonilla presente en el filtro es inferior a un límite superior.</tu>
+	<tu xmlns:lang="chs">这只有在过滤器中存在的烟尘质量低于设定上限时才会出现</tu>
+	<tu
+    xmlns:lang="kor"
+  >이는 필터에 있는 그을음 질량이 상한 설정 미만일 경우에만 발생합니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RUN_TRAN_ADAPT_MODE">
+	<tu
+    xmlns:lang="eng"
+  >It is recommended to run the transmission set adaptation mode application from under the 'Special Apps' heading.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wij adviseren u de toepassing voor het instellen van de adaptatiefunctie van de transmissie uit te voeren vanuit het menu 'Special Apps' (speciale toepassingen).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Il est recommandé de lancer l'application du mode d'adaptation réglé de transmission à partir du menu 'App. spéciales'.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wird empfohlen, die Anwendung ?Getriebe-Anpassungsmodus einstellen? von der Überschrift ?Special Apps? (Spezialanwendungen) aus laufen zu lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Si raccomanda di eseguire l'applicazione della modalità di adattamento impostata del cambio ubicata sotto la 'intestazione 'Special Apps' (Applicazioni speciali).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >「スペシャル アプリケーション」の見出しからトランスミッション セット補正モード アプリケーションを実行することを推奨します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Recomenda-se que execute a aplicação da transmissão para definição do modo de adaptação a partir do título 'Special Apps'.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Recomenda-se executar o aplicativo do modo de adaptação definido da transmissão no cabeçalho Aplicativos especiais.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Рекомендуется выполнить запуск приложения для включения режима адаптации коробки передач в разделе Специальные приложения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Es recomendable ejecutar la aplicación del modo de adaptación establecido del cambio desde el encabezado Special Apps (aplicaciones especiales).</tu>
+	<tu
+    xmlns:lang="chs"
+  >建议从“Special Apps”（专门应用程序）标题下，运行变速箱设置自适应模式应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >'특수 애플리케이션' 머리글 아래에서 변속기 설정 어댑테이션 모드 애플리케이션을 실행하는 것이 좋습니다.</tu>
+</tm>

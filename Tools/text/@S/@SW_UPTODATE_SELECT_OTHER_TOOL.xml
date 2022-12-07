@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SW_UPTODATE_SELECT_OTHER_TOOL">
+	<tu
+    xmlns:lang="eng"
+  >This module is already at the latest level of software, please select an alternative tool from the recommendations screen</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze module is al bijgewerkt naar de laatste softwareversie. Selecteer een andere tool op het scherm Aanbevelingen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce module correspond déjà à la dernière version de logiciel, sélectionner un outil alternatif sur l'écran de recommandation</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Steuergerät ist bereits auf dem neusten Softwarestand. Bitte ein anderes Tool aus der Ansicht Empfehlungen wählen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >In questo modulo è già presente la versione software più recente; selezionare uno strumento alternativo dalla schermata delle raccomandazioni</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このモジュールは既に最新レベルのソ\フトウェアに搭載されているので、推奨スクリーンから代替ツールを選択する</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este módulo já possui a versão mais recente de software, seleccione uma ferramenta alternativa do ecrã de recomendações</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este módulo já está com a última versão do software, selecione uma ferramenta alternativa na tela de recomendações</tu>
+	<tu
+    xmlns:lang="rus"
+  >Этот модуль уже оснащен новейшим программным обеспечением, выберите альтернативный инструмент на экране рекомендаций</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este módulo ya tiene instalada la versión más reciente; seleccione otra herramienta de la pantalla de recomendaciones</tu>
+	<tu xmlns:lang="chs">该模块已采用了最新版本软件，请为建议页面选择替代工具</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 모듈에는 이미 최신 레벨의 소프트웨어가 설치되어 있습니다. 권장 사항 화면에서 다른 공구를 선택하십시오.</tu>
+</tm>

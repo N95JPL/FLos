@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspDeflSuccess$M">
+	<tu xmlns:lang="eng">Air suspension deflate successful.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het leeg laten lopen van de luchtvering is met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Dégonflage de la suspension pneumatique réussi.</tu>
+	<tu xmlns:lang="deu">Entlüftung der Luftfederung erfolgreich.</tu>
+	<tu xmlns:lang="ita">Sgonfiaggio sospensione pneumatica riuscito.</tu>
+	<tu xmlns:lang="jpn">エア サスペンションの収縮は正常に行われました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esvaziamento da suspensão pneumática efectuado com êxito.</tu>
+	<tu xmlns:lang="ptb">Esvaziamento da suspensão a ar bem-sucedido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выпуск воздуха из системы пневматической подвески выполнен.</tu>
+	<tu xmlns:lang="esp">Suspensión neumática desinflada satisfactoriamente.</tu>
+	<tu xmlns:lang="chs">空气悬架放气成功。</tu>
+	<tu xmlns:lang="kor">에어 서스펜션 감압이 성공적으로 완료되었습니다.</tu>
+</tm>

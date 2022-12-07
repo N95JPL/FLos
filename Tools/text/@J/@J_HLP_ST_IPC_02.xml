@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_IPC_02">
+	<tu
+    xmlns:lang="eng"
+  >If the expected condition is not sensed then a fault is logged for that input.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de verwachte toestand niet gedetecteerd wordt, zal het systeem voor die invoer een fout loggen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si les conditions prévues ne sont pas détectées, un défaut est enregistré pour cette entrée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wird der erwartete Zustand nicht angetroffen, wird für diesen Eingang ein Fehlercode abgespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la condizione prevista non viene rilevata, si registra un guasto per tale input.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >予\想される条件が検知されない場合、そのインプットの故障が記録されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se não for encontrada a situação prevista, é gerado um código de avaria relacionado com esse sinal de entrada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a condição não é detectada, uma falha é registrada para essa entrada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если ожидаемое состояние не определяется, неисправность записывается в журнал для данного входа.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si no se detecta el estado esperado, se registra una anomalía para esa señal de entrada.</tu>
+	<tu xmlns:lang="chs">如果没有感测到期望的状态，则为那一输入记录一个故障。</tu>
+	<tu
+    xmlns:lang="kor"
+  >예상되는 상태가 감지되지 않는 경우에는 그 입력에 대해 고장이 기록됩니다.</tu>
+</tm>

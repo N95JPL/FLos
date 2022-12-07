@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart209">
+	<tu
+    xmlns:lang="eng"
+  >If  the climate control is still causing a system inhibit make sure that de-mist has not been selected and the front and rear (if fitted) climate control system is set to off.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het klimaatregelingssysteem nog steeds een blokkering van het systeem veroorzaakt, zorg er dan voor dat de ontwaseming niet is geselecteerd en dat het klimaatregelingssysteem voor en achter (indien aanwezig) is uitgeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la climatisation provoque toujours une neutralisation du système, assurez-vous que le désembuage n'a pas été sélectionné et que le système de climatisation (le cas échéant) avant et arrière est désactivé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Verursacht die Klimaanlage nach wie vor eine Sperrung des Systems, sicherstellen, dass die Entfeuchtung nicht aktiviert wurde und dass die vordere und die hintere (falls verbaut) Klimaanlage ausgeschaltet sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se il comando della climatizzazione continua a causare una disabilitazione del sistema, assicurarsi che non sia stato selezionato lo sbrinatore e che il sistema di comando della climatizzazione anteriore e posteriore (se in dotazione) sia stato disinserito.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >クライメート コントロールによってシステムの禁止が引き続き行われている場合は、デミストが選択されていないこと、およびフロント/リヤ (装備している場合) クライメート コントロール システムがオフに設定されていることを確認してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o controlo da climatização continuar a provocar uma inibição do sistema, certifique-se de que o desembaciador não está selecionado e de que o sistema de controlo da climatização dianteiro e traseiro (caso instalado) está desligado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o controle de temperatura ainda estiver causando uma inibição do sistema, certifique-se de que a função de desembaçamento não foi selecionada e de que o sistema de controle de temperatura dianteira e traseira (se instalado) está desligado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если климат-контроль продолжает блокировать систему, убедитесь, что не была выбрана функция оттаивания стекол и система климат-контроля в передней и задней частях салона (если установлена) отключена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el control de climatización sigue bloqueando el sistema, asegúrese de que no se haya seleccionado el desempañado y de que el sistema de climatización delantero y trasero (si está equipado) esté apagado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果气候控制仍导致系统禁用，确保未选择除雾功能，且前部和后部气候控制系统（如果安装）设置为关闭。</tu>
+	<tu
+    xmlns:lang="kor"
+  >실내 온도 조절 시스템으로 인해 계속 시스템 억제가 발생하는 경우 성에 제거를 선택하지 않았으며 프론트 및 리어(장착된 경우) 실내 온도 조절 시스템이 꺼짐으로 설정되어 있는지 확인하십시오.</tu>
+</tm>

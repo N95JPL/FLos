@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_A_DRV_CYC_COMP_RESTART">
+	<tu
+    xmlns:lang="eng"
+  >Once the drive cycle has been completed restart this application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Start deze toepassing opnieuw zodra u de rijcyclus hebt uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois le cycle de conduite terminé, redémarrez cette application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss des Fahrzyklus dieses Anwendungsprogramm neu starten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta completato il ciclo di guida, riavviare quest'applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ドライブ サイクル完了後、このアプリケーションを実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando o ciclo de condução tiver terminado, reinicie esta aplicação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma vez que o ciclo de acionamento tenha sido concluído, reinicie este aplicativo.</tu>
+	<tu xmlns:lang="rus">По завершении ездового цикла перезагрузить приложение.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez concluido el ciclo de conducción, reiniciar esta aplicación.</tu>
+	<tu xmlns:lang="chs">一旦完成行驶循环后，重新启动本应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >주행 사이클이 완료되면 이 애플리케이션을 다시 시작하십시오.</tu>
+</tm>

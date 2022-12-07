@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PWR_18_WAY_DRI_SEAT_ADJ">
+	<tu xmlns:lang="eng">Power 18-way  -  Driver's seat adjustment</tu>
+	<tu
+    xmlns:lang="nld"
+  >18-voudig elektrisch verstelbaar  -  Verstelling van bestuurdersstoel</tu>
+	<tu xmlns:lang="fra">Alimentation 18 voies  -  Réglage de siège conducteur</tu>
+	<tu xmlns:lang="deu">Versorgung, 18-polig  -  Sitzverstellung Fahrerseite</tu>
+	<tu xmlns:lang="ita">Alimentazione 18 vie  -  Regolazione sedile guidatore</tu>
+	<tu xmlns:lang="jpn">18 ウェイ電源供給  －  運転席側シート調整</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Alimentação, 18 vias  -  Regulação do banco do condutor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ajuste de 18 posições da alimentação  -  Ajuste do assento do motorista</tu>
+	<tu
+    xmlns:lang="rus"
+  >18-контактный разъем питания  -  Регулировка сиденья водителя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Eléctrico de ajuste en 18 sentidos  -  Ajuste del asiento del conductor</tu>
+	<tu xmlns:lang="chs">18 路电源  -  驾驶员一侧座椅调节装置</tu>
+	<tu xmlns:lang="kor">전원 18웨이  -  운전석 시트 조정</tu>
+</tm>

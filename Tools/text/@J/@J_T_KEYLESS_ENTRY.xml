@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_KEYLESS_ENTRY">
+	<tu xmlns:lang="eng">501-14B Keyless entry/computer operated locks</tu>
+	<tu
+    xmlns:lang="nld"
+  >501-14B Zonder sleutel naar binnen/computergestuurde sloten</tu>
+	<tu
+    xmlns:lang="fra"
+  >501-14B Entrée sans clé / serrures commandées par ordinateur</tu>
+	<tu xmlns:lang="deu">501-14B Fernbediente/modulgesteuerte Verriegelungen</tu>
+	<tu
+    xmlns:lang="ita"
+  >501-14B Chiusura centralizzata/serrature azionate da computer</tu>
+	<tu xmlns:lang="jpn">501-14B キーレス エントリー／コンピュータ作動ロック</tu>
+	<tu
+    xmlns:lang="ptg"
+  >501-14B Fechaduras accionadas por computador/entrada sem chave</tu>
+	<tu
+    xmlns:lang="ptb"
+  >501-14B Sistema sem chave/travas operadas por computador</tu>
+	<tu
+    xmlns:lang="rus"
+  >501-14B Доступ без ключа/замки, управляемые компьютером</tu>
+	<tu
+    xmlns:lang="esp"
+  >501-14B Apertura a distancia/cerraduras accionadas por ordenador</tu>
+	<tu xmlns:lang="chs">501-14B无匙进入/电脑操纵锁闭系统</tu>
+	<tu xmlns:lang="kor">501-14B 키리스 엔트리/컴퓨터 작동식 시계</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LocTorqHi$I">
+	<tu xmlns:lang="eng">Locking torque too high.</tu>
+	<tu xmlns:lang="nld">Blokkeringskoppel is te hoog.</tu>
+	<tu xmlns:lang="fra">Couple de blocage trop élevé.</tu>
+	<tu xmlns:lang="deu">Sperrmoment zu hoch.</tu>
+	<tu xmlns:lang="ita">Coppia di bloccaggio troppo alta.</tu>
+	<tu xmlns:lang="jpn">トルクをハイにロック中</tu>
+	<tu xmlns:lang="ptg">Binário de bloqueio demasiado elevado.</tu>
+	<tu xmlns:lang="ptb">Torque de travamento muito alto.</tu>
+	<tu xmlns:lang="rus">Слишком высокий блокирующий момент.</tu>
+	<tu xmlns:lang="esp">Par de bloqueo demasiado elevado.</tu>
+	<tu xmlns:lang="chs">锁止力矩过大。</tu>
+	<tu xmlns:lang="kor">잠금 토크가 너무 높음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRIVE_BEHAVIOUR">
+	<tu xmlns:lang="eng">Driving behaviour</tu>
+	<tu xmlns:lang="nld">Rijgedrag</tu>
+	<tu xmlns:lang="fra">Comportement de conduite</tu>
+	<tu xmlns:lang="deu">Fahrverhalten</tu>
+	<tu xmlns:lang="ita">Stile di guida</tu>
+	<tu xmlns:lang="jpn">運転挙動</tu>
+	<tu xmlns:lang="ptg">Comportamento de condução</tu>
+	<tu xmlns:lang="ptb">Comportamento de condução</tu>
+	<tu xmlns:lang="rus">Поведение при поездке</tu>
+	<tu xmlns:lang="esp">Comportamiento al volante</tu>
+	<tu xmlns:lang="chs">行驶性能</tu>
+	<tu xmlns:lang="kor">주행 동작</tu>
+</tm>

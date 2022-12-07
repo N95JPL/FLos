@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@REAR_FOGS_ON_TRAILER">
+	<tu xmlns:lang="eng">Rear fog lamps on when the trailer is present</tu>
+	<tu xmlns:lang="nld">Mistlampen achter aan wanneer aanhanger aanwezig is</tu>
+	<tu
+    xmlns:lang="fra"
+  >Phares antibrouillard arrière allumés si remorque présente</tu>
+	<tu xmlns:lang="deu">Nebelschlussleuchten ein bei angeschlossenem Anhänger</tu>
+	<tu
+    xmlns:lang="ita"
+  >Fendinebbia posteriori accesi quando il rimorchio è agganciato</tu>
+	<tu xmlns:lang="jpn">トレーラーがあるときにリア フォグランプがオン</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Luzes de nevoeiro traseiras ligadas quando o reboque está atrelado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Faróis de neblina traseiros ligados quando o reboque está presente</tu>
+	<tu
+    xmlns:lang="rus"
+  >При подключенном прицепе включаются задние противотуманные фары</tu>
+	<tu xmlns:lang="esp">Pilotos antiniebla encendidos cuando hay un remolque</tu>
+	<tu xmlns:lang="chs">有拖车时后雾灯打开</tu>
+	<tu xmlns:lang="kor">트레일러가 있을 때 리어 포그 램프가 켜짐</tu>
+</tm>

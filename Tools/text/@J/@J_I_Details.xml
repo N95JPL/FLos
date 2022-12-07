@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_Details">
+	<tu xmlns:lang="eng">Details</tu>
+	<tu xmlns:lang="nld">Bijzonderheden</tu>
+	<tu xmlns:lang="fra">Détails.</tu>
+	<tu xmlns:lang="deu">Einzelheiten</tu>
+	<tu xmlns:lang="ita">Dettagli</tu>
+	<tu xmlns:lang="jpn">詳細</tu>
+	<tu xmlns:lang="ptg">Dados</tu>
+	<tu xmlns:lang="ptb">Detalhes</tu>
+	<tu xmlns:lang="rus">Сведения</tu>
+	<tu xmlns:lang="esp">Detalles</tu>
+	<tu xmlns:lang="chs">细节</tu>
+	<tu xmlns:lang="kor">세부 정보</tu>
+</tm>

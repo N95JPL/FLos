@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ERR_NULL_PTR_DAF_FILE_PARAM">
+	<tu xmlns:lang="eng">Null pointer passed to dafFile parameter</tu>
+	<tu
+    xmlns:lang="nld"
+  >De nulwijzer is naar de dafBestand-parameter verzonden.</tu>
+	<tu xmlns:lang="fra">Pointeur nul envoyé au paramètre dafRecord.</tu>
+	<tu xmlns:lang="deu">Nullzeiger an Parameter dafFile übergeben</tu>
+	<tu xmlns:lang="ita">Puntatore nullo passato a parametro dafFile</tu>
+	<tu
+    xmlns:lang="jpn"
+  >Null (ゼロ) ポインターが DAF ファイル パラメータに送信されました。</tu>
+	<tu xmlns:lang="ptg">Ponteiro nulo passou para parâmetro de ficheiro DAF</tu>
+	<tu xmlns:lang="ptb">Ponteiro nulo passado ao parâmetro dafFile</tu>
+	<tu xmlns:lang="rus">В параметр файла DAF передан нулевой указатель</tu>
+	<tu xmlns:lang="esp">Puntero nulo pasado a parámetro de archivo DAF</tu>
+	<tu xmlns:lang="chs">空指针转至 DAF 文件参数</tu>
+	<tu xmlns:lang="kor">Null 포인터가 dafFile 매개 변수로 전달됨</tu>
+</tm>

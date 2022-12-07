@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_POOR_CENT_RESP">
+	<tu xmlns:lang="eng">Poor response around straight ahead position</tu>
+	<tu xmlns:lang="nld">Slechte reactie rondom de rechtvooruitstand</tu>
+	<tu xmlns:lang="fra">Réaction médiocre autour de la position ligne droite</tu>
+	<tu
+    xmlns:lang="deu"
+  >Schlechtes Ansprechverhalten um die Geradeausstellung herum</tu>
+	<tu
+    xmlns:lang="ita"
+  >Risposta insufficiente attorno alla posizione dritta avanti</tu>
+	<tu xmlns:lang="jpn">直進位置での応答不良</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Resposta fraca em redor da posição de avanço em linha recta</tu>
+	<tu xmlns:lang="ptb">Resposta insatisfatória na posição em linha reta</tu>
+	<tu
+    xmlns:lang="rus"
+  >Слабое реагирование на руль при среднем положении колес.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Respuesta deficiente alrededor de la posición de marcha en línea recta</tu>
+	<tu xmlns:lang="chs">笔直向前位置响应不佳</tu>
+	<tu xmlns:lang="kor">직진 주행 위치 주변에서 응답 불량</tu>
+</tm>

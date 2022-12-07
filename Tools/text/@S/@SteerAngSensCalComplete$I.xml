@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SteerAngSensCalComplete$I">
+	<tu xmlns:lang="eng">Steering wheel angle sensor calibration is complete.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De kalibrering van de stuuruitslaghoeksensor is uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Etalonnage du capteur d'angle de braquage terminé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Kalibrierung des Lenkwinkelsensors ist abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Taratura sensore angolo volante completata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング ホイール アングル センサー キャリブレーションが完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A calibragem do sensor de ângulo do volante está concluída.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A calibragem do sensor do ângulo do volante esta concluída.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Калибровка датчика угла поворота рулевого колеса завершена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha concluido la calibración del sensor del ángulo del volante.</tu>
+	<tu xmlns:lang="chs">方向盘角度传感器标定完成。</tu>
+	<tu xmlns:lang="kor">스티어링 휠 각도 센서 보정이 완료되었습니다.</tu>
+</tm>

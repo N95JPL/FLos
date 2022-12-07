@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ERR_ECU_REPROG_MAX_TIMES">
+	<tu
+    xmlns:lang="eng"
+  >The ECU has been reprogrammed the maximum number of times (14)</tu>
+	<tu
+    xmlns:lang="nld"
+  >De ECU is voor het maximum aantal keren opnieuw geprogrammeerd (14).</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'ECU a été reprogrammée le nombre de fois maximum (14).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Steuergerät wurde so oft wie zulässig neu programmiert (14)</tu>
+	<tu
+    xmlns:lang="ita"
+  >La ECU è stata riprogrammata il numero massimo di volte (14)</tu>
+	<tu xmlns:lang="jpn">ECU が最大回数 (14 回) 再プログラムされました。</tu>
+	<tu xmlns:lang="ptg">A ECU foi reprogramada o número máximo de vezes (14)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A ECU foi reprogramada para o número máximo de vezes (14)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Число перепрограммирований электронного блока управления достигло максимально допустимого значения (14).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se vuelto a programar la ECU la máxima cantidad de veces admitidas (14)</tu>
+	<tu xmlns:lang="chs">已对 ECU 进行了最大次数 (14) 的重新设置</tu>
+	<tu xmlns:lang="kor">ECU가 최대 횟수만큼(14회) 다시 프로그래밍되었습니다.</tu>
+</tm>

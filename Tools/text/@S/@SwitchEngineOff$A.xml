@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SwitchEngineOff$A">
+	<tu xmlns:lang="eng">Switch engine off.</tu>
+	<tu xmlns:lang="nld">Motor UITschakelen</tu>
+	<tu xmlns:lang="fra">Arrêtez le moteur</tu>
+	<tu xmlns:lang="deu">Schalten Sie den Motor aus</tu>
+	<tu xmlns:lang="ita">Spegnere il motore</tu>
+	<tu xmlns:lang="jpn">ｴﾝｼﾞﾝを止めなさい。</tu>
+	<tu xmlns:lang="ptg">Desligar o motor.</tu>
+	<tu xmlns:lang="ptb">Desligue o motor.</tu>
+	<tu xmlns:lang="rus">Выключите двигатель.</tu>
+	<tu xmlns:lang="esp">Pare el motor</tu>
+	<tu xmlns:lang="chs">关闭发动机。</tu>
+	<tu xmlns:lang="kor">엔진을 끄십시오.</tu>
+</tm>

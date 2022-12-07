@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@W_DISP_TOUCH">
+	<tu xmlns:lang="eng">With display  -  Touchscreen</tu>
+	<tu xmlns:lang="nld">Met scherm  -  Touch screen</tu>
+	<tu xmlns:lang="fra">Avec affichage  -  Ecran tactile</tu>
+	<tu xmlns:lang="deu">Mit Display  -  Touchscreen</tu>
+	<tu xmlns:lang="ita">Con display  -  Schermo a sfioramento</tu>
+	<tu xmlns:lang="jpn">ディスプレイ装備  －  タッチスクリーン</tu>
+	<tu xmlns:lang="ptg">Com ecrã  -  Ecrã de toque</tu>
+	<tu xmlns:lang="ptb">Com display  -  Tela Touchscreen</tu>
+	<tu xmlns:lang="rus">С дисплеем  -  Сенсорный экран</tu>
+	<tu xmlns:lang="esp">Con pantalla  -  Pantalla táctil</tu>
+	<tu xmlns:lang="chs">带显示器  -  触摸屏</tu>
+	<tu xmlns:lang="kor">디스플레이 장착  -  터치스크린</tu>
+</tm>

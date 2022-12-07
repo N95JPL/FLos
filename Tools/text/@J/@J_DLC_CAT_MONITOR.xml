@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_CAT_MONITOR">
+	<tu xmlns:lang="eng">Catalyst monitor</tu>
+	<tu xmlns:lang="nld">Katalysatormonitor</tu>
+	<tu xmlns:lang="fra">Contrôle de catalyseur</tu>
+	<tu xmlns:lang="deu">Katalysatormonitor</tu>
+	<tu xmlns:lang="ita">Monitor catalizzatori</tu>
+	<tu xmlns:lang="jpn">触媒モニター</tu>
+	<tu xmlns:lang="ptg">Monitor do catalisador</tu>
+	<tu xmlns:lang="ptb">Monitor do catalisador</tu>
+	<tu xmlns:lang="rus">Проверка каталитического нейтрализатора</tu>
+	<tu xmlns:lang="esp">Monitor de catalizadores</tu>
+	<tu xmlns:lang="chs">催化剂监测器</tu>
+	<tu xmlns:lang="kor">촉매 모니터</tu>
+</tm>

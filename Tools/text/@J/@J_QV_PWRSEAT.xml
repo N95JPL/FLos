@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_QV_PWRSEAT">
+	<tu xmlns:lang="eng">Powered seat</tu>
+	<tu xmlns:lang="nld">Elektrische stoelverstelling</tu>
+	<tu xmlns:lang="fra">Siège électrique</tu>
+	<tu xmlns:lang="deu">Elektrische Sitzverstellung</tu>
+	<tu xmlns:lang="ita">Sedile a regolazione elettrica</tu>
+	<tu xmlns:lang="jpn">電動シート</tu>
+	<tu xmlns:lang="ptg">Banco eléctrico</tu>
+	<tu xmlns:lang="ptb">Assento elétrico</tu>
+	<tu xmlns:lang="rus">Сиденье с электроприводом</tu>
+	<tu xmlns:lang="esp">Asiento con ajuste eléctrico</tu>
+	<tu xmlns:lang="chs">动力座椅</tu>
+	<tu xmlns:lang="kor">전동 시트</tu>
+</tm>

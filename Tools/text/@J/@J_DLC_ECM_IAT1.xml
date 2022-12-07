@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_ECM_IAT1">
+	<tu xmlns:lang="eng">Intake air temperature</tu>
+	<tu xmlns:lang="nld">Inlaatluchttemperatuur</tu>
+	<tu xmlns:lang="fra">Température d'air d'admission</tu>
+	<tu xmlns:lang="deu">Ansauglufttemperatur</tu>
+	<tu xmlns:lang="ita">Temperatura aria aspirazione</tu>
+	<tu xmlns:lang="jpn">インテーク エア テンパラチャ</tu>
+	<tu xmlns:lang="ptg">Temperatura do ar de admissão.</tu>
+	<tu xmlns:lang="ptb">Temperatura do ar de admissão</tu>
+	<tu xmlns:lang="rus">Температура всасываемого воздуха.</tu>
+	<tu xmlns:lang="esp">Temperatura del aire de admisión</tu>
+	<tu xmlns:lang="chs">进气温度。</tu>
+	<tu xmlns:lang="kor">흡기 온도</tu>
+</tm>

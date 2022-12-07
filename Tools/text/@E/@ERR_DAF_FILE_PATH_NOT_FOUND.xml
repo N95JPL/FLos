@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ERR_DAF_FILE_PATH_NOT_FOUND">
+	<tu xmlns:lang="eng">Cannot find the path for specified DAF file</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het syteem kan het pad voor het gespecificeerde DAF-bestand niet vinden.</tu>
+	<tu xmlns:lang="fra">Chemin du fichier DAF spécifié introuvable.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Pfad zur angegebenen DAF-Datei kann nicht gefunden werden</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impossibile trovare il percorso del file DAF specificato</tu>
+	<tu xmlns:lang="jpn">特定 DAF ファイルのパスが見つかりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não é possível encontrar o caminho para o ficheiro DAF especificado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não é possível encontrar o caminho para o arquivo DAF especificado</tu>
+	<tu xmlns:lang="rus">Не удается найти путь к заданному файлу DAF</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se puede encontrar la ruta para el archivo DAF especificado</tu>
+	<tu xmlns:lang="chs">找不到指定的 DAF 文件路径</tu>
+	<tu xmlns:lang="kor">지정된 DAF 파일의 경로를 찾을 수 없음</tu>
+</tm>

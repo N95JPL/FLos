@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALIAS_PART">
+	<tu xmlns:lang="eng">Alias part</tu>
+	<tu xmlns:lang="nld">Alternatief onderdeelnummer</tu>
+	<tu xmlns:lang="fra">Elément alias</tu>
+	<tu xmlns:lang="deu">Alternativteil</tu>
+	<tu xmlns:lang="ita">Parte alternativa</tu>
+	<tu xmlns:lang="jpn">エイリアス部</tu>
+	<tu xmlns:lang="ptg">Número de peça da marca</tu>
+	<tu xmlns:lang="ptb">Alias de peça</tu>
+	<tu xmlns:lang="rus">Аналогичная деталь</tu>
+	<tu xmlns:lang="esp">Pieza ajena</tu>
+	<tu xmlns:lang="chs">零件别称</tu>
+	<tu xmlns:lang="kor">별칭 부품</tu>
+</tm>

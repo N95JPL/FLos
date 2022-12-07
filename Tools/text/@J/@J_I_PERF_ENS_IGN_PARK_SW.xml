@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PERF_ENS_IGN_PARK_SW">
+	<tu
+    xmlns:lang="eng"
+  >To perform the calibration, make sure the ignition is on, depress the footbrake and pull up the parking brake apply switch.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om de kalibrering uit te voeren, zorgt u ervoor dat het contact aan staat, trapt u het rempedaal in, en trekt u de aantrekschakelaar van de handrem omhoog.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour effectuer l'étalonnage, assurez-vous que le contact est mis, enfoncez la pédale de frein et tirez le commutateur de serrage du frein de stationnement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Für die Kalibrierung sicherstellen, dass die Zündung eingeschaltet ist, das Bremspedal durchtreten und den Parkbremsen-Anlegeschalter nach oben ziehen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per eseguire la taratura, assicurarsi che l'accensione sia inserita, premere il pedale del freno e sollevare l'interruttore di inserimento del freno di stazionamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >キャリブレーションを行うため、イグニションをオンにし、ブレーキ ペダルを踏み込んでパーキング ブレーキ オン スイッチを引き上げなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para efectuar a calibragem, certifique-se de que a ignição está ligada, prima o pedal do travão e puxe o interruptor de aplicação do travão de mão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para executar a calibração, certifique-se de que a ignição esteja ligada, pressione o pedal de freio e puxe para cima o interruptor de aplicação do freio de estacionamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для выполнения калибровки необходимо включить зажигание, нажать педаль тормоза и потянуть рычаг включения стояночного тормоза.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para realizar la calibración, verificar que el contacto esté dado, pisar el pedal de freno y tirar hacia arriba del interruptor de activación del freno de estacionamiento.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'若需执行标定，要确保点火开关接通，踏下脚制动器，同时拉上驻车制动器实施开关。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >보정을 실시하려면 점화 스위치가 켜져 있는지 확인한 후 풋 브레이크를 밟고 주차 브레이크 작동 스위치를 당깁니다.</tu>
+</tm>

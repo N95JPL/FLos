@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TIRE_WIDTH_IN_MM">
+	<tu xmlns:lang="eng">Tire width (millimetres)</tu>
+	<tu xmlns:lang="nld">Bandbreedte (milimeter)</tu>
+	<tu xmlns:lang="fra">Largeur des pneus (millimètres).</tu>
+	<tu xmlns:lang="deu">Reifenbreite (Millimeter)</tu>
+	<tu xmlns:lang="ita">Larghezza pneumatico (millimetri)</tu>
+	<tu xmlns:lang="jpn">タイヤ幅 (mm)</tu>
+	<tu xmlns:lang="ptg">Largura dos pneus (milímetros)</tu>
+	<tu xmlns:lang="ptb">Largura do pneu (milímetros)</tu>
+	<tu xmlns:lang="rus">Ширина шины (мм)</tu>
+	<tu xmlns:lang="esp">Anchura de los neumáticos (milímetros)</tu>
+	<tu xmlns:lang="chs">轮胎宽度（毫米）</tu>
+	<tu xmlns:lang="kor">타이어 폭(밀리미터)</tu>
+</tm>

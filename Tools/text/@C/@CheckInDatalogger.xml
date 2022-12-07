@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckInDatalogger">
+	<tu
+    xmlns:lang="eng"
+  >Check 'power status time data capture - vehicle battery temperature - estimated (PID 4029)' on Diagnostic Tool datalogger.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer 'tijdstip registratie vermogensstatus - temperatuur autoaccu - geschat (PID 4029)' op de datalogger van het diagnosesysteem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cochez l'option 'Capture de données temporelles sur l'état de l'alimentation - Température de la batterie du véhicule - Estimation (PID 4029)' sur l'enregistreur de données de l'outil de diagnostic.</tu>
+	<tu
+    xmlns:lang="deu"
+  >„Zeitdatenerfassung Versorgungsstatus – Temperatur Fahrzeugbatterie – geschätzt (PID 4029)“ im Diagnosesystem-Datalogger prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare acquisizione dati tempo stato alimentazione - temperatura batteria del veicolo - stimato (PID 4029) sul datalogger dello strumento diagnostico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >診断ツール データロガーで、「電源ステータス時間データ捕捉 - 車両バッテリー温度 - 予測 (PID 4029)」を確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique a 'captura de dados temporais do estado da alimentação - temperatura da bateria do veículo - estimada (PID 4029)' no registador de dados da ferramenta de diagnóstico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique “Captura de dados de tempo de status de alimentação - temperatura da bateria do veículo - estimado (PID 4029)” no Datalogger da Ferramenta de Diagnóstico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте наличие сообщения 'Сбор данных о состоянии питания за период времени - температура аккумуляторной батареи автомобиля - расчетное значение (PID 4029)' в регистраторе данных диагностического устройства.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Consulte Captura de datos temporales del estado de alimentación - Temperatura de la batería del vehículo - Estimación (PID 4029) en el Datalogger de la herramienta de diagnóstico.</tu>
+	<tu
+    xmlns:lang="chs"
+  >检查诊断工具数据记录器上的“电源状态时间数据捕获 - 车辆蓄电池温度 - 估计值 (PID 4029)”。</tu>
+	<tu
+    xmlns:lang="kor"
+  >진단 도구 Datalogger에서 '전원 상태 시간 데이터 캡처 - 차량 배터리 온도 - 추정치(PID 4029)'를 확인하십시오.</tu>
+</tm>

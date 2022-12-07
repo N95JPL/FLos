@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECS_CODE_A">
+	<tu xmlns:lang="eng">ECS  -  A  -  4.2 NA Federal LEV 2</tu>
+	<tu
+    xmlns:lang="nld"
+  >ECS  -  A  -  zelfaanzuigende 4.2L-motor, federale emissienorm 2</tu>
+	<tu xmlns:lang="fra">ECS  -  A  -  4.2 atmosph. Federal NIV. 2</tu>
+	<tu xmlns:lang="deu">ECS  -  A  -  4.2 Saugmotor USA Lev 2</tu>
+	<tu xmlns:lang="ita">ECS  -  A  -  4.2 NA Federale LIV 2</tu>
+	<tu xmlns:lang="jpn">ECS  －  A  －  4.2 自然吸気、連邦 LEV 2</tu>
+	<tu xmlns:lang="ptg">ECS  -  A  -  4.2 NA Federal Nív.2</tu>
+	<tu xmlns:lang="ptb">ECS  -  A  -  4.2 NA Federal LEV 2</tu>
+	<tu
+    xmlns:lang="rus"
+  >ECS  -  A  -  4.2 без наддува - федеральный стандарт LEV 2</tu>
+	<tu xmlns:lang="esp">ECS  -  A  -  4.2 NA Federal LEV 2</tu>
+	<tu xmlns:lang="chs">ECS  -  A  -  4.2、自然进气、联邦二级排暸标准</tu>
+	<tu xmlns:lang="kor">ECS  -  A  -  4.2 NA Federal LEV 2</tu>
+</tm>

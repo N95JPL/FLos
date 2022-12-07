@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BLUETOOTH_AUTO">
+	<tu xmlns:lang="eng">Bluetooth autostreaming</tu>
+	<tu xmlns:lang="nld">Bluetooth autostreaming</tu>
+	<tu xmlns:lang="fra">Flux en temps réel automatique Bluetooth</tu>
+	<tu xmlns:lang="deu">Bluetooth mit Autostreaming</tu>
+	<tu xmlns:lang="ita">Autostreaming Bluetooth</tu>
+	<tu xmlns:lang="jpn">ブルートゥース オートストリーミング</tu>
+	<tu xmlns:lang="ptg">Autostreaming do Bluetooth</tu>
+	<tu xmlns:lang="ptb">Transmissão automática via Bluetooth</tu>
+	<tu xmlns:lang="rus">Автоматическая передача потоков данных по Bluetooth</tu>
+	<tu xmlns:lang="esp">Reproducción automática Bluetooth</tu>
+	<tu xmlns:lang="chs">蓝牙自动流媒体播放</tu>
+	<tu xmlns:lang="kor">블루투스 자동 스트리밍</tu>
+</tm>

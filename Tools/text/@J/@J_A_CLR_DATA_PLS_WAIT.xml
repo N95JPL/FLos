@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_CLR_DATA_PLS_WAIT">
+	<tu xmlns:lang="eng">Clearing data, please wait.</tu>
+	<tu xmlns:lang="nld">Gegevens aan het wissen. Even wachten a.u.b.</tu>
+	<tu xmlns:lang="fra">Effacement des données, patientez SVP.</tu>
+	<tu xmlns:lang="deu">Daten werden gelöscht, bitte warten.</tu>
+	<tu xmlns:lang="ita">Attendere. Cancellazione dei dati in corso.</tu>
+	<tu xmlns:lang="jpn">データをクリア中。お待ちください。</tu>
+	<tu xmlns:lang="ptg">A apagar dados; aguarde por favor.</tu>
+	<tu xmlns:lang="ptb">Apagando dados, aguarde.</tu>
+	<tu xmlns:lang="rus">Выполняется удаление данных. Пожалуйста, подождите.</tu>
+	<tu xmlns:lang="esp">Borrando datos...</tu>
+	<tu xmlns:lang="chs">'正在清除数据，请等待。'</tu>
+	<tu xmlns:lang="kor">데이터 삭제 중입니다. 기다리십시오.</tu>
+</tm>

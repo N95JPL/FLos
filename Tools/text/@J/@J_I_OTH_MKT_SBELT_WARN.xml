@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OTH_MKT_SBELT_WARN">
+	<tu xmlns:lang="eng">Other market safety belt warning.</tu>
+	<tu xmlns:lang="nld">Veiligheidsgordelwaarschuwing voor overige markten.</tu>
+	<tu xmlns:lang="fra">Avertisseur de ceinture de sécurité d'un autre marché.</tu>
+	<tu xmlns:lang="deu">Sicherheitsgurtwarnung für anderen Markt.</tu>
+	<tu xmlns:lang="ita">Avvertenza cintura di sicurezza altri mercati.</tu>
+	<tu xmlns:lang="jpn">他の市場のシートベルト警告</tu>
+	<tu xmlns:lang="ptg">Aviso do cinto de segurança de outro mercado.</tu>
+	<tu xmlns:lang="ptb">Outro alerta do cinto de segurança de mercado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Предупреждение о необходимости пристегнуть ремень безопасности для других рынков.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aviso de cinturón de seguridad desabrochado de otros mercados.</tu>
+	<tu xmlns:lang="chs">其它市场的安全带警告。</tu>
+	<tu xmlns:lang="kor">기타 시장 안전벨트 경고</tu>
+</tm>

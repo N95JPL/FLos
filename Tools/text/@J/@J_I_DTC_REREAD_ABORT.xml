@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DTC_REREAD_ABORT">
+	<tu xmlns:lang="eng">Diagnostic trouble code clear and re-read aborted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het wissen en opnieuw lezen van de diagnosefoutcodes is afgebroken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Effacement et relecture du code d'anomalie interrompus.</tu>
+	<tu xmlns:lang="deu">Löschung und Neuauslesung von Fehlercodes abgebrochen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Cancellazione e rilettura codice guasto diagnostico interrotta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >診断トラブル コードのクリアおよび再読み取りが中断されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Função de apagamento e nova leitura de códigos de avaria cancelada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Código de diagnóstico de falha apagado e nova leitura interrompida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отмена сброса диагностического кода неисправности и повторного считывания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha cancelado el borrado y nueva lectura de códigos de avería.</tu>
+	<tu xmlns:lang="chs">故障诊断代码清除与重新读取中止。</tu>
+	<tu xmlns:lang="kor">고장 진단 코드 삭제 및 다시 읽기가 중단됨</tu>
+</tm>

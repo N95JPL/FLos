@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart239">
+	<tu xmlns:lang="eng">Stop inhibited - DPF regeneration is required</tu>
+	<tu xmlns:lang="nld">Stop geblokkeerd - regeneratie roetfilter vereist</tu>
+	<tu xmlns:lang="fra">Arrêt neutralisé - Régénération du DPF requise</tu>
+	<tu xmlns:lang="deu">Stopp gesperrt – DPF-Regeneration erforderlich</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitazione dell'arresto - Rigenerazione DPF necessaria</tu>
+	<tu xmlns:lang="jpn">ストップの禁止 - DPF 再生が必要</tu>
+	<tu xmlns:lang="ptg">Inibição da paragem - regeneração do DPF necessária</tu>
+	<tu xmlns:lang="ptb">Parada inibida - A regeneração do DPF é necessária.</tu>
+	<tu xmlns:lang="rus">Остановка заблокирована — требуется регенерация DPF</tu>
+	<tu xmlns:lang="esp">Parada bloqueada - Se requiere regeneración del DPF</tu>
+	<tu xmlns:lang="chs">停止被禁用 - DPF 需要再生</tu>
+	<tu xmlns:lang="kor">Stop 억제 - DPF 재생이 필요함</tu>
+</tm>

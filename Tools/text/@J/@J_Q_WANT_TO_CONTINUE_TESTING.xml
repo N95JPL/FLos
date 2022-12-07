@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_WANT_TO_CONTINUE_TESTING">
+	<tu xmlns:lang="eng">Do you want to continue testing?</tu>
+	<tu xmlns:lang="nld">Wilt u doorgaan met testen?</tu>
+	<tu xmlns:lang="fra">Voulez-vous poursuivre l'essai ?</tu>
+	<tu xmlns:lang="deu">Möchten Sie mit der Prüfung fortfahren?</tu>
+	<tu xmlns:lang="ita">Vuoi continuare la prova?</tu>
+	<tu xmlns:lang="jpn">テストを続行しますか？</tu>
+	<tu xmlns:lang="ptg">Pretende continuar a testar?</tu>
+	<tu xmlns:lang="ptb">Deseja continuar o teste?</tu>
+	<tu xmlns:lang="rus">Продолжить проверку?</tu>
+	<tu xmlns:lang="esp">¿Continuar comprobando?</tu>
+	<tu xmlns:lang="chs">您要继续测试吗？</tu>
+	<tu xmlns:lang="kor">테스트를 계속하시겠습니까?</tu>
+</tm>

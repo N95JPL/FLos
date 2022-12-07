@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_27">
+	<tu
+    xmlns:lang="eng"
+  >General signal failure - signal rate of change is above the threshold.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Algemene signaalfout - veranderingssnelheid van signaal boven de drempel.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Panne de signalisation générale - fréquence de variation du signal est supérieure au seuil.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Allgemeine Signalstörung - Änderungsrate des Signals liegt über Grenzwert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto generale di segnale - velocità cambiamento segnale al di sopra del valore soglia.</tu>
+	<tu xmlns:lang="jpn">一般シグナル不良 － シグナル変化レート規定値以上</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha geral no sinal - frequência de mudança do sinal está acima do limiar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha geral de sinal - taxa de sinal de mudança acima do limite.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Общая ошибка сигнала - частота изменения сигнала выше порогового значения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo general de señal: rapidez de cambio de la señal por encima del valor umbral.</tu>
+	<tu xmlns:lang="chs">一般信号故障 - 信号变化率高于门限值。</tu>
+	<tu xmlns:lang="kor">일반적인 신호 오류 - 신호 변화율이 임계값 이상임</tu>
+</tm>

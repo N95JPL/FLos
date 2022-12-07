@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_POWER_BRAKE">
+	<tu xmlns:lang="eng">206-07 Power brake actuation</tu>
+	<tu xmlns:lang="nld">206-07 Bediening stuurbekrachtiging</tu>
+	<tu xmlns:lang="fra">206-07 Actionnement du frein assisté</tu>
+	<tu xmlns:lang="deu">206-07 Bremskraftverstärker</tu>
+	<tu xmlns:lang="ita">206-07 Attuazione servofreno</tu>
+	<tu xmlns:lang="jpn">206-07 パワー ブレーキ作動</tu>
+	<tu xmlns:lang="ptg">206-07 Accionamento do travão eléctrico</tu>
+	<tu xmlns:lang="ptb">206-07 Atuação de freio elétrico</tu>
+	<tu xmlns:lang="rus">206-07 Активация тормоза с усилителем</tu>
+	<tu xmlns:lang="esp">206-07 Accionamiento del servofreno</tu>
+	<tu xmlns:lang="chs">206-07动力制动启动</tu>
+	<tu xmlns:lang="kor">206-07 파워 브레이크 작동</tu>
+</tm>

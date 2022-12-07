@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CurrentKeyDis$M">
+	<tu xmlns:lang="eng">The current key has been previously disabled.</tu>
+	<tu xmlns:lang="nld">De huidige sleutel is reeds eerder gedeactiveerd.</tu>
+	<tu xmlns:lang="fra">La clé actuelle a été préalablement rendue invalide.</tu>
+	<tu xmlns:lang="deu">Der aktuelle Schlüssel wurde zuvor deaktiviert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La chiave corrente è stata precedentemente disabilitata.  </tu>
+	<tu xmlns:lang="jpn">現在のキーは以前に作動不可設定されています。</tu>
+	<tu xmlns:lang="ptg">A chave actual foi anteriormente desactivada.</tu>
+	<tu xmlns:lang="ptb">A chave atual foi desabitada anteriormente.</tu>
+	<tu xmlns:lang="rus">Имеющийся ключ был ранее заблокирован.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La tecla actual se ha inhabilitado en una ocasión anterior.</tu>
+	<tu xmlns:lang="chs">当前钥匙此前已被禁用。</tu>
+	<tu xmlns:lang="kor">현재 키가 이전에 비활성화되었습니다.</tu>
+</tm>

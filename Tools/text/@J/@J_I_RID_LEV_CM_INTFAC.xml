@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RID_LEV_CM_INTFAC">
+	<tu xmlns:lang="eng">Ride level control module diagnostic interface.</tu>
+	<tu xmlns:lang="nld">Diagnose-interface voor rijhoogteregelmodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Interface de diagnostic du module de commande du régulateur d'assiette.</tu>
+	<tu xmlns:lang="deu">Diagnoseschnittstelle Niveauausgleichs-Steuergerät.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Interfaccia diagnostica modulo di comando altezza di marcia.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ライド レベル コントロール モジュール診断インターフェース</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Interface de diagnóstico do módulo de controlo da altura da suspensão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Interface de diagnóstico do módulo de controle do nível de condução.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Диагностический интерфейс блока управления уровнем клиренса.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Interfaz para diagnosis del módulo de control de la altura de la carrocería.</tu>
+	<tu xmlns:lang="chs">行驶水平控制模块诊断接口。</tu>
+	<tu xmlns:lang="kor">지상고 컨트롤 모듈 진단 인터페이스</tu>
+</tm>

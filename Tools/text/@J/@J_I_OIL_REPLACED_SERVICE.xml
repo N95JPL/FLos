@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OIL_REPLACED_SERVICE">
+	<tu
+    xmlns:lang="eng"
+  >Has the engine oil been replaced at this service interval?</tu>
+	<tu xmlns:lang="nld">Is de motorolie tijdens deze onderhoudsbeurt ververst?</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'huile moteur a-t-elle été changée lors de cet entretien ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wurde das Motoröl in diesem Serviceintervall gewechselt?</tu>
+	<tu xmlns:lang="ita">L'olio motore è stato sostituito a questo tagliando?</tu>
+	<tu xmlns:lang="jpn">このサービス間隔でエンジン オイルが交換されましたか？</tu>
+	<tu xmlns:lang="ptg">O óleo de motor foi substituído aquando desta revisão?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O óleo do motor foi substituído neste intervalo de serviço?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Было ли заменено масло в двигателе в данный период обслуживания?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Se ha cambiado el aceite del motor en este intervalo entre revisiones?</tu>
+	<tu xmlns:lang="chs">在本次维修间隔内，是否已更换发动机机油？</tu>
+	<tu xmlns:lang="kor">이 서비스 주기대로 엔진 오일을 교체했습니까?</tu>
+</tm>

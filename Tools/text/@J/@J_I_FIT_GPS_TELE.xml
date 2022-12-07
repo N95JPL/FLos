@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FIT_GPS_TELE">
+	<tu
+    xmlns:lang="eng"
+  >Fitted with global positioning system (integrated telematics).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Uitgerust met globaal plaatsbepalingssysteem (geïntegreerde telematica).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Equipé d'un système de positionnement global (GPS) (télématique intégrée).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit globalem Positionierungssystem ausgestattet (integrierte Telematik).</tu>
+	<tu xmlns:lang="ita">GPS in dotazione (sistema telematico integrato).</tu>
+	<tu xmlns:lang="jpn">GPS システム (統合テレマティクス) 装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Equipado com Sistema de Posicionamento Global (sistema telemático integrado).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Equipado com sistema de posicionamento global (telemática integrada).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлена система глобального позиционирования (интегрированная телематика).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tiene sistema de posicionamiento global (telemática integral).</tu>
+	<tu xmlns:lang="chs">安装了全球定位系统（集成车载信息服务系统）。</tu>
+	<tu xmlns:lang="kor">글로벌 포지셔닝 시스템이 장착됨(통합형 텔레매틱스)</tu>
+</tm>

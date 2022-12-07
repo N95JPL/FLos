@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_63">
+	<tu xmlns:lang="eng">0x63 : Exited due to injector correction factor codes not entered (or non volatile memory corrupted).</tu>
+	<tu xmlns:lang="nld">0x63 : inleren afgesloten omdat de correctiefactorcodes van de injector niet zijn ingevoerd (of het niet-vluchtige geheugen verminkt is).</tu>
+	<tu xmlns:lang="fra">0x63 : Quitté à cause de codes de facteur de correction d'injecteur non saisis (ou mémoire non volatile corrompue).</tu>
+	<tu xmlns:lang="deu">0x63 : Beendet aufgrund von nicht eingegebenen Einspritzventil-Korrekturfaktoren (oder Korruption des nicht flüchtigen Speichers).</tu>
+	<tu xmlns:lang="ita">0x63 : Interrotto perché non sono stati immessi i codici del fattore di correzione degli iniettori (o perché la memoria non volatile è corrotta).</tu>
+	<tu xmlns:lang="jpn">0x63 : インジェクタ補正要因コードが入力されていない (あるいは不揮発性メモリが損壊している) ため終了。</tu>
+	<tu xmlns:lang="ptg">0x63 : Saiu devido a códigos de factores de correcção dos injectores não introduzidos (ou memória não volátil corrompida).</tu>
+	<tu xmlns:lang="ptb">0X63 : Encerrada devido aos códigos do fator de correção do injetor não inseridos (ou memória não volátil corrompida).</tu>
+	<tu xmlns:lang="rus">0x63 : Произведен выход, так как не введены коды коэффициентов коррекции форсунок (или повреждена энергонезависимая память).</tu>
+	<tu xmlns:lang="esp">0x63: Se cerró por no haberse introducido los códigos de factor de corrección de los inyectores (o por estar dañada la memoria no volátil).</tu>
+	<tu xmlns:lang="chs">0x63： 由于喷油器校正系数编码未输入（或非易失性存贮器已损坏）而退出运行。</tu>
+	<tu xmlns:lang="kor">0x63 : 인젝터 보정 계수 코드가 입력되어 있지 않기 때문에(또는 비휘발성 메모리가 손상되었기 때문에) 종료됩니다.</tu>
+</tm>

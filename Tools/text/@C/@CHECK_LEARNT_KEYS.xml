@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CHECK_LEARNT_KEYS">
+	<tu xmlns:lang="eng">Check all learnt keys</tu>
+	<tu xmlns:lang="nld">Controleer alle ingeleerde sleutels</tu>
+	<tu xmlns:lang="fra">Contrôlez toutes les clés apprises</tu>
+	<tu xmlns:lang="deu">Alle angemeldeten Schlüssel überprüfen</tu>
+	<tu xmlns:lang="ita">Controllare tutte le chiave apprese</tu>
+	<tu xmlns:lang="jpn">学習済みの全キーのチェック</tu>
+	<tu xmlns:lang="ptg">Verifique todas as chaves programadas</tu>
+	<tu xmlns:lang="ptb">Verifique todas as chaves aprendidas</tu>
+	<tu xmlns:lang="rus">Проверьте все запрограммированные ключи</tu>
+	<tu xmlns:lang="esp">Comprobar todas las llaves aprendidas</tu>
+	<tu xmlns:lang="chs">检查所有记忆车匙</tu>
+	<tu xmlns:lang="kor">학습된 키를 전부 점검하십시오.</tu>
+</tm>

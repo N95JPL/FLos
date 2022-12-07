@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_DETERM_CORRECT_SHUTDOWN">
+	<tu
+    xmlns:lang="eng"
+  >Determine if vehicle systems are shutting down correctly when vehicle not active</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bepaal of voertuigsystemen correct afsluiten wanneer het voertuig niet actief is</tu>
+	<tu
+    xmlns:lang="fra"
+  >Confirmez que les systèmes du véhicule se coupent correctement lorsque le véhicule est au repos</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ermitteln, ob nach Abstellen des Motors Fahrzeugsysteme korrekt abschalten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Determinare se i sistemi della vettura si spengano correttamente quando la vettura non è attiva</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両が非アクティブのとき、車両システムが正常にシャットダウンすることを確認しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Determinar se os sistemas do veículo estão a desligar correctamente quando o veículo não está activo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Determine se os sistemas do veículo estão desligando corretamente quando o veículo não está ativo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте, правильно ли выключаются системы автомобиля, когда он в неактивном состоянии</tu>
+	<tu
+    xmlns:lang="esp"
+  >Determinar si los sistemas del vehículo se desconectan correctamente cuando el vehículo no está activo</tu>
+	<tu xmlns:lang="chs">确定在车辆未启动时车辆系统是否正在正确关闭</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량이 작동하지 않을 때 차량 시스템이 올바로 셧다운되는지 확인하십시오.</tu>
+</tm>

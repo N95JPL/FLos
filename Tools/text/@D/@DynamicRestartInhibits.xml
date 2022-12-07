@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DynamicRestartInhibits">
+	<tu xmlns:lang="eng">Dynamic restart inhibits</tu>
+	<tu xmlns:lang="nld">Dynamische herstart blokkeert</tu>
+	<tu xmlns:lang="fra">Neutralisations du redémarrage dynamique</tu>
+	<tu xmlns:lang="deu">Dynamischer Neustart verhindert</tu>
+	<tu xmlns:lang="ita">Disattivazioni riavvio Dynamic</tu>
+	<tu xmlns:lang="jpn">動的再始動禁止</tu>
+	<tu xmlns:lang="ptg">Inibições do arranque dinâmico</tu>
+	<tu xmlns:lang="ptb">Inibições de nova partida dinâmica</tu>
+	<tu xmlns:lang="rus">Динамическая блокировка повторного запуска</tu>
+	<tu xmlns:lang="esp">El arranque dinámico se bloquea</tu>
+	<tu xmlns:lang="chs">动态重新起动禁止</tu>
+	<tu xmlns:lang="kor">동적 재시동 억제</tu>
+</tm>

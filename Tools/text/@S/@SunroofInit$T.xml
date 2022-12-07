@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SunroofInit$T">
+	<tu xmlns:lang="eng">Sliding roof module initialisation.</tu>
+	<tu xmlns:lang="nld">Initialisatie van schuifdakregelmodule.</tu>
+	<tu xmlns:lang="fra">Initialisation du module de toit ouvrant.</tu>
+	<tu xmlns:lang="deu">Initialisierung Schiebedach-Steuergerät.</tu>
+	<tu xmlns:lang="ita">Inizializzazione modulo tettuccio scorrevole.</tu>
+	<tu xmlns:lang="jpn">スライディング ルーフ モジュール初期化</tu>
+	<tu xmlns:lang="ptg">Inicialização do módulo do tecto de abrir.</tu>
+	<tu xmlns:lang="ptb">Inicialização do módulo do teto deslizante.</tu>
+	<tu xmlns:lang="rus">Инициализация блока управления сдвижным верхом.</tu>
+	<tu xmlns:lang="esp">Iniciación del módulo del techo solar.</tu>
+	<tu xmlns:lang="chs">滑动顶蓬模块初始化。</tu>
+	<tu xmlns:lang="kor">슬라이딩 루프 모듈 초기화</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAP_UPDT_SUCC_Q_EITHER">
+	<tu xmlns:lang="eng">To check if the install was complete, either:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er zijn twee mogelijkheden om te controleren of de installatie volledig is uitgevoerd:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour vérifier que l'installation s'est déroulée avec succès, utilisez l'une des méthodes suivantes :</tu>
+	<tu xmlns:lang="deu">Prüfen der Installation auf Vollständigkeit:</tu>
+	<tu xmlns:lang="ita">Per controllare il completamento dell'installazione:</tu>
+	<tu xmlns:lang="jpn">インストールが完了したかどうか確認するには:</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A instalação foi concluída se ocorrer uma das seguintes situações:</tu>
+	<tu xmlns:lang="ptb">Para verificar se a instalação foi concluída:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедиться, что установка завершена, можно одним из следующих способов:</tu>
+	<tu xmlns:lang="esp">Para comprobar si se ha completado la instalación:</tu>
+	<tu xmlns:lang="chs">为了检查安装是否完成：</tu>
+	<tu xmlns:lang="kor">다음 중 하나로 설치가 완료되었는지 확인할 수 있습니다.</tu>
+</tm>

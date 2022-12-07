@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QU7977">
+	<tu xmlns:lang="eng">Is the engine running?</tu>
+	<tu xmlns:lang="nld">LOOPT de motor</tu>
+	<tu xmlns:lang="fra">le moteur est-il EN MARCHE</tu>
+	<tu xmlns:lang="deu">Läuft Motor</tu>
+	<tu xmlns:lang="ita">Sta funzionando il motore</tu>
+	<tu xmlns:lang="jpn">ｴﾝジﾝは回転していますか。</tu>
+	<tu xmlns:lang="ptg">O motor está a trabalhar?</tu>
+	<tu xmlns:lang="ptb">O motor está funcionando?</tu>
+	<tu xmlns:lang="rus">Работает ли двигатель в настоящий момент?</tu>
+	<tu xmlns:lang="esp">Está funcionando el motor</tu>
+	<tu xmlns:lang="chs">发动机在运转吗？</tu>
+	<tu xmlns:lang="kor">엔진이 작동합니까?</tu>
+</tm>

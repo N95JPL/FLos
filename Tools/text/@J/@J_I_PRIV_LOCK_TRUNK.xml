@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PRIV_LOCK_TRUNK">
+	<tu xmlns:lang="eng">Private locking trunk</tu>
+	<tu xmlns:lang="nld">Privévergrendeling van kofferdeksel</tu>
+	<tu xmlns:lang="fra">Verrouillage de coffre à bagages privé</tu>
+	<tu xmlns:lang="deu">Kofferraum mit Separatverriegelung</tu>
+	<tu xmlns:lang="ita">Bagagliaio con bloccaggio privato</tu>
+	<tu xmlns:lang="jpn">プライベート ロッキング トランク</tu>
+	<tu xmlns:lang="ptg">Bagageira com trancagem privada</tu>
+	<tu xmlns:lang="ptb">Porta-malas de travamento privado</tu>
+	<tu xmlns:lang="rus">Индивидуальное запирание крышки багажника</tu>
+	<tu xmlns:lang="esp">Maletero con cierre privado</tu>
+	<tu xmlns:lang="chs">私人锁闭行李箱</tu>
+	<tu xmlns:lang="kor">개인 잠금 트렁크</tu>
+</tm>

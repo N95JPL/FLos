@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SUCCESS_CLEAR_TARGET">
+	<tu xmlns:lang="eng">Target identifier cleared successfully.</tu>
+	<tu xmlns:lang="nld">Gevraagde identificatie met succes gewist.</tu>
+	<tu xmlns:lang="fra">Identificateur cible effacé avec succès</tu>
+	<tu xmlns:lang="deu">Zielkennung erfolgreich gelöscht.</tu>
+	<tu xmlns:lang="ita">Cancellazione identificativo target riuscita.</tu>
+	<tu xmlns:lang="jpn">目標 ID 機能\が正常にクリアされました。</tu>
+	<tu xmlns:lang="ptg">Identificador de alvo apagado com êxito.</tu>
+	<tu xmlns:lang="ptb">Identificador alvo apagado com êxito.</tu>
+	<tu xmlns:lang="rus">Удаление целевого идентификатора выполнено успешно.</tu>
+	<tu xmlns:lang="esp">Se borró el identificador del objetivo.</tu>
+	<tu xmlns:lang="chs">目标标识符成功清除。</tu>
+	<tu xmlns:lang="kor">대상 식별자가 올바르게 삭제되었습니다.</tu>
+</tm>

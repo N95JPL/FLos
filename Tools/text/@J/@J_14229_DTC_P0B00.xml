@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DTC_P0B00">
+	<tu
+    xmlns:lang="eng"
+  >Auxiliary transmission fluid pump motor  -  Phase U  -  Current</tu>
+	<tu
+    xmlns:lang="nld"
+  >Motor, hulppomp voor transmissievloeistof  -  Fase U  -  Stroom</tu>
+	<tu
+    xmlns:lang="fra"
+  >Moteur de pompe à liquide de transmission auxiliaire  -  Phase U  -  Actuel</tu>
+	<tu xmlns:lang="deu">Motor - Zusatzgetriebeölpumpe  -  Phase U  -  Strom</tu>
+	<tu
+    xmlns:lang="ita"
+  >Motorino pompa liquido cambio ausiliaria  -  Fase U  -  Corrente</tu>
+	<tu
+    xmlns:lang="jpn"
+  >補助トランスミッション フルード ポンプ モーター  －  フェーズ U  －  電流</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Motor da bomba auxiliar do fluido da transmissão  -  Fase U  -  Corrente</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Motor da bomba do fluido de transmissão auxiliar  -  Fase U  -  Corrente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вспомогательный электродвигатель насоса для трансмиссионной жидкости  -  Фаза U  -  Ток</tu>
+	<tu
+    xmlns:lang="esp"
+  >Motor de la bomba auxiliar del líquido de la transmisión  -  Fase U  -  Corriente</tu>
+	<tu xmlns:lang="chs">辅助变速器油泵电机  -  相位 U  -  电流</tu>
+	<tu xmlns:lang="kor">보조 변속기 오일 펌프 모터  -  U상  -  전류</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_HEATED_WIPER_PARK">
+	<tu xmlns:lang="eng">Heated wiper park area</tu>
+	<tu xmlns:lang="nld">Parkeerplaats verwarmde wissers</tu>
+	<tu xmlns:lang="fra">Zone de repos d'essuie-glaces chauffees</tu>
+	<tu xmlns:lang="deu">Beheizte wischer-ruhestellung</tu>
+	<tu xmlns:lang="ita">Area di stazionamento tergicristallo riscaldata</tu>
+	<tu xmlns:lang="jpn">ワイパー パーク ヒーター エリア</tu>
+	<tu xmlns:lang="ptg">Posição de descanso do limpa pára-brisas aquecido</tu>
+	<tu xmlns:lang="ptb">Área de estacionamento do limpador aquecido</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обогреватель в зоне нижнего положения щёток стеклоочистителя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Zona calefactada de aparcamiento de los limpiaparabrisas</tu>
+	<tu xmlns:lang="chs">加热型刮水器停泊区域</tu>
+	<tu xmlns:lang="kor">열선내장 와이퍼 파크 위치</tu>
+</tm>

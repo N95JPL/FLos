@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_1_KEY_RESTART">
+	<tu
+    xmlns:lang="eng"
+  >Only 1 key was selected to be programmed, you will need to locate another key and re-start the application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U hebt slechts 1 sleutel geselecteerd die u wilt programmeren. U zult nog een andere sleutel moeten aangeven en de toepassing opnieuw moeten starten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Seule la clé 1 a été sélectionnée pour la programmation, vous devrez trouver une autre clé et relancez l'application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wurde nur 1 Schlüssel für die Programmierung ausgewählt; Sie müssen einen weiteren Schlüssel finden und die Anwendung neu starten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È stata selezionata solo 1 chiave da programmare, è necessario trovare un'altra chiave e riavviare l'applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プログラムするキーが 1 個のみ選択されました。もう 1 個のキーを見つけてアプリケーションを再スタートする必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Só foi seleccionada 1 chave para ser programada; terá de localizar outra chave e reiniciar a aplicação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Somente 1 chave foi selecionada para ser programada, você precisa localizar outra chave e reiniciar o aplicativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для программирования был выбран только 1 ключ. Вам потребуется найти другой ключ и повторно запустить приложение.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sólo se seleccionó una llave para ser programada. Debe buscar otra llave y reiniciar la aplicación.</tu>
+	<tu xmlns:lang="chs">仅选了一把车钥用于编程，需要另选一把车钥并重启应用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >한 키만 프로그래밍하도록 선택되었으며, 다른 키를 찾고 애플리케이션을 다시 시작해야 합니다.</tu>
+</tm>

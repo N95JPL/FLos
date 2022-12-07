@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INVEST_FAULT_DTC_MON">
+	<tu
+    xmlns:lang="eng"
+  >On completion of the remaining module set-up procedures, please investigate any faults that may be present using the diagnostic trouble code monitor.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Na het uitvoeren van de instelprocedures voor de overige modules, onderzoekt u eventuele storingen met behulp van de DTC-monitor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >A la fin des procédures de configuration des modules restants, rechercher les défauts éventuels à l'aide du contrôleur de codes d'anomalie.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss der Einrichtung der übrigen Steuergeräte mit dem Fehlercode-Monitor auf Fehler überprüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al completamento delle restanti procedure di impostazione del modulo, ricercare la causa di eventuali guasti che dovessero essere presenti, utilizzando il monitoraggio dei codici per i problemi di diagnostica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >残りのモジュールのセットアップ手順完了後、DTC モニターを使用し、何らかの故障がないか調べなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Após efectuar os restantes procedimentos de configuração do módulo, investigue por favor quaisquer avarias que possam existir, usando o monitor de códigos de avaria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após a conclusão dos procedimentos restantes de configuração do módulo, investigue todas as falhas que possam estar presentes usando o monitor do código de diagnóstico de problemas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По завершении остальных процедур настройки блоков проверьте наличие возможных неисправностей с помощью монитора диагностических кодов неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Al completar los demás procedimientos de configuración de módulos, investigue los códigos de avería presentes mediante el lector de códigos de avería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >完成剩下的模块设置程序后，请利用故障诊断代码监视器查找可能出现的所有故障。</tu>
+	<tu
+    xmlns:lang="kor"
+  >나머지 모듈 설치 절차가 완료되면 고장 진단 코드 모니터를 사용하여 발생할 수 있는 고장이 있는지 조사하십시오.</tu>
+</tm>

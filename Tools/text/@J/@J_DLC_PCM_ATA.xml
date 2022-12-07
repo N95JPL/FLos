@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_PCM_ATA">
+	<tu xmlns:lang="eng">Actual throttle angle</tu>
+	<tu xmlns:lang="nld">Momentele gasklephoek</tu>
+	<tu xmlns:lang="fra">Angle réel du papillon</tu>
+	<tu xmlns:lang="deu">Faktischer Drosselklappenwinkel</tu>
+	<tu xmlns:lang="ita">Angolo effettivo farfalla</tu>
+	<tu xmlns:lang="jpn">実際のスロットル アングル</tu>
+	<tu xmlns:lang="ptg">Ângulo real da borboleta</tu>
+	<tu xmlns:lang="ptb">Ângulo de acelerador</tu>
+	<tu xmlns:lang="rus">Фактический угол открытия дроссельной заслонки</tu>
+	<tu xmlns:lang="esp">Ángulo de la mariposa real</tu>
+	<tu xmlns:lang="chs">实际油门角度</tu>
+	<tu xmlns:lang="kor">실제 스로틀 각도</tu>
+</tm>

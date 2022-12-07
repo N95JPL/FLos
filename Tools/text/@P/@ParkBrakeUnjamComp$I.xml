@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ParkBrakeUnjamComp$I">
+	<tu xmlns:lang="eng">Park brake unjam procedure is complete.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Procedure voor het weer loszetten van de handrem, na vastlopen, is uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure de déblocage du frein de stationnement est terminée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Entklemmvorgang für die Handbremse ist abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Procedura sbloccaggio freno stazionamento completata.</tu>
+	<tu xmlns:lang="jpn">パーキング ブレーキ マニュアル解除手順が完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O processo de desencravamento do travão de mão está concluído.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O procedimento de desbloqueio do freio de estacionamento está concluído.</tu>
+	<tu xmlns:lang="rus">Процедура расцепления стояночного тормоза завершена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Procedimiento de desatasco del freno de estacionamiento concluido.</tu>
+	<tu xmlns:lang="chs">驻车制动器解除堵塞程序完成。</tu>
+	<tu xmlns:lang="kor">주차 브레이크 걸림 제거 절차가 완료되었습니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_EGR_VLV_CAL">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required when an exhaust gas regeneration valve is replaced to allow the offset learn to be calculated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig wanneer u een uitlaatgassen-regeneratieklep vervangt, zodat het systeem de afwijking voor het inleren kan berekenen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé lorsqu'une soupape de régénération des gaz d'échappement est remplacée pour permettre le calcul du déport.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, wenn ein Abgasrückführungsventil ersetzt wird, damit die Versatzerlernung berechnet werden kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta quando si sostituisce una valvola di rigenerazione gas di scarico per consentire il calcolo di apprendimento offset.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、エキゾースト ガス再生バルブが交換されたとき、オフセット学習を計算するために必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária quando se substitui uma válvula de regeneração dos gases de escape para permitir o cálculo do valor de compensação a ser aplicado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária quando uma válvula de regeneração do gás de escapamento é substituída para permitir que a compensação aprenda a ser calculada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция необходима при замене клапана системы регенерации отработавших газов для расчета значения поправки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse al sustituir la válvula de regeneración de gases de escape para que pueda calcularse la corrección necesaria.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果更换了废气再生阀，则需要执行本程序以计算补偿学习值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >오프셋 학습을 계산할 수 있도록 하기 위해 배기 가스 재생 밸브를 교체할 때 이 루틴이 필요합니다.</tu>
+</tm>

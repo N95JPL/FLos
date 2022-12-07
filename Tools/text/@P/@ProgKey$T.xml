@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ProgKey$T">
+	<tu xmlns:lang="eng">Program keys.</tu>
+	<tu xmlns:lang="nld">Programmeer de sleutels.</tu>
+	<tu xmlns:lang="fra">Programmez les clés.</tu>
+	<tu xmlns:lang="deu">Schlüssel programmieren.</tu>
+	<tu xmlns:lang="ita">Programmare le chiavi.</tu>
+	<tu xmlns:lang="jpn">キーのプログラム</tu>
+	<tu xmlns:lang="ptg">Programar chaves.</tu>
+	<tu xmlns:lang="ptb">Programar chaves.</tu>
+	<tu xmlns:lang="rus">Программирование ключей.</tu>
+	<tu xmlns:lang="esp">Programar llaves.</tu>
+	<tu xmlns:lang="chs">编程设置钥匙。</tu>
+	<tu xmlns:lang="kor">키를 프로그래밍하십시오.</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_MDX_SRV_FAILED_TIMEOUT">
+	<tu xmlns:lang="eng">Failed due to timeout.</tu>
+	<tu xmlns:lang="nld">Mislukt vanwege timeout.</tu>
+	<tu xmlns:lang="fra">Echec dû à l'expiration du délai.</tu>
+	<tu xmlns:lang="deu">Kein Erfolg aufgrund von Zeitüberschreitung.</tu>
+	<tu xmlns:lang="ita">Non riuscita a causa di timeout.</tu>
+	<tu xmlns:lang="jpn">タイムアウトのため失敗しました。</tu>
+	<tu xmlns:lang="ptg">Falhou devido a limite de tempo ultrapassado.</tu>
+	<tu xmlns:lang="ptb">Falhou devido ao tempo limite.</tu>
+	<tu xmlns:lang="rus">Сбой из-за превышения лимита времени.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudo completar porque se agotó el tiempo de espera.</tu>
+	<tu xmlns:lang="chs">因超时而失败。</tu>
+	<tu xmlns:lang="kor">시간 초과로 인해 실패했습니다.</tu>
+</tm>

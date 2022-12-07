@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TELEMATIC_PREP">
+	<tu xmlns:lang="eng">Telematic preparation</tu>
+	<tu xmlns:lang="nld">Voorbereiding voor telematica</tu>
+	<tu xmlns:lang="fra">Pré-équipement de télématique</tu>
+	<tu xmlns:lang="deu">Telematikvorbereitung</tu>
+	<tu xmlns:lang="ita">Preparazione telematica</tu>
+	<tu xmlns:lang="jpn">テレマティクス対応</tu>
+	<tu xmlns:lang="ptg">Preparação do sistema telemático</tu>
+	<tu xmlns:lang="ptb">Preparação para telemática</tu>
+	<tu xmlns:lang="rus">Подготовлен для телематики</tu>
+	<tu xmlns:lang="esp">Preinstalación de sistema telemático</tu>
+	<tu xmlns:lang="chs">车载信息服务系统预留</tu>
+	<tu xmlns:lang="kor">텔레매틱스 준비</tu>
+</tm>

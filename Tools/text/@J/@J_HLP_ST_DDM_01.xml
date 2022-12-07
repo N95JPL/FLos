@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_DDM_01">
+	<tu
+    xmlns:lang="eng"
+  >An electrical check of all components connected to the driver's door module will be executed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem zal op alle componenten die op de bestuurdersportiermodule zijn aangesloten een elektrische test uitvoeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un contrôle électrique de tous les composants connectés au module de porte conducteur sera exécuté.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wird eine Elektrikprüfung aller an das Türsteuergerät - Fahrerseite angeschlossenen Bauteile durchgeführt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Viene eseguito un controllo elettrico di tutti i componenti collegati al modulo portiera guidatore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >運転席側ドア モジュールに接続された全コンポーネントの電気的チェックが実行されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Será efectuada uma verificação eléctrica de todos os componentes ligados ao módulo da porta do condutor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma verificação de todos os componentes do sistema elétrico conectados ao módulo de porta do motorista será executada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Будет выполнена электрическая проверка всех элементов, связанных с блоком двери водителя.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ejecutará una comprobación eléctrica de todos los componentes conectados al módulo de la puerta del conductor.</tu>
+	<tu
+    xmlns:lang="chs"
+  >将对连接到驾驶员一侧车门模块的所有元件执行一次电气检查。</tu>
+	<tu
+    xmlns:lang="kor"
+  >운전석 도어 모듈에 연결된 모든 구성 요소의 전기적 검사가 실행됩니다.</tu>
+</tm>

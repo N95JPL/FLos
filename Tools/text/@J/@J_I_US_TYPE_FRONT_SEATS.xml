@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_US_TYPE_FRONT_SEATS">
+	<tu xmlns:lang="eng">USA  type  -  Front seats generation 4 logic</tu>
+	<tu xmlns:lang="nld">VS-type  -  Voorstoelen van generatie 4 logic</tu>
+	<tu xmlns:lang="fra">Type USA  -  Logique sièges avant génération 4</tu>
+	<tu xmlns:lang="deu">USA  Typ  -  Vordersitze Logik 4. Generation</tu>
+	<tu xmlns:lang="ita">Tipo USA  -  Sedili anteriori logica generazione 4</tu>
+	<tu xmlns:lang="jpn">米国タイプ  －  フロント シート第 4 世代ロジック</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tipo EUA  -  Bancos dianteiros com lógica de 4ª geração</tu>
+	<tu xmlns:lang="ptb">Tipo EUA  -  Assentos dianteiros, geração 4 Logic</tu>
+	<tu xmlns:lang="rus">Тип для США  -  Передние сиденья с логикой 4 поколения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tipo Estados Unidos  -  Generación de lógica 4 de asientos delanteros</tu>
+	<tu xmlns:lang="chs">美国类型  -  前座椅生成 4 逻辑</tu>
+	<tu xmlns:lang="kor">미국 유형  -  프론트 시트 세대 4 논리</tu>
+</tm>

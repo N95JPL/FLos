@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_WDS_GEM">
+	<tu xmlns:lang="eng">General electronics control module.</tu>
+	<tu xmlns:lang="nld">Algemene elektronische module</tu>
+	<tu xmlns:lang="fra">Module électronique générique</tu>
+	<tu xmlns:lang="deu">Generisches Elektronikmodul.</tu>
+	<tu xmlns:lang="ita">Centralina elettronica generale</tu>
+	<tu xmlns:lang="jpn">一般エレクトロニックモジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de controlo electrónico geral.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle eletrônico geral</tu>
+	<tu xmlns:lang="rus">Общий модуль электронного управления.</tu>
+	<tu xmlns:lang="esp">Módulo electrónico general.</tu>
+	<tu xmlns:lang="chs">通用电子控制模块</tu>
+	<tu xmlns:lang="kor">범용 전자 컨트롤 모듈.</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REF_CURR_VARI_HI">
+	<tu xmlns:lang="eng">Reference current variation is too high.</tu>
+	<tu xmlns:lang="nld">Variatie van referentiesstroom is te hoog.</tu>
+	<tu xmlns:lang="fra">La variation du courant de référence est trop élevée.</tu>
+	<tu xmlns:lang="deu">Die Bezugsstromabweichung ist zu hoch.</tu>
+	<tu xmlns:lang="ita">Variazione corrente riferimento troppo alta.</tu>
+	<tu xmlns:lang="jpn">参照電流変化が高過ぎます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Oscilação da corrente de referência é demasiado elevada.</tu>
+	<tu xmlns:lang="ptb">A variação da corrente de referência está muito alta.</tu>
+	<tu xmlns:lang="rus">Перепад значений тока опорного сигнала слишком велик.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La variación de corriente de referencia es demasiado elevada.</tu>
+	<tu xmlns:lang="chs">参考电流变化太大。</tu>
+	<tu xmlns:lang="kor">기준 전류 변화가 너무 높습니다.</tu>
+</tm>

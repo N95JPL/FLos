@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RPassCompProt">
+	<tu
+    xmlns:lang="eng"
+  >Rear passenger's door window or passenger compartment protection.</tu>
+	<tu xmlns:lang="nld">Beveiliging van achterportierruit of interieur.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Protection des vitres de porte des passagers arrière ou de l'habitacle.</tu>
+	<tu xmlns:lang="deu">Hintertürfenster oder Fahrgastraumschutz.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Cristallo portiera passeggeri posteriori o protezione dell'abitacolo.</tu>
+	<tu xmlns:lang="jpn">リア乗員ドア ウィンドウまたは車内の保護</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Protecção dos vidros das portas dos passageiros traseiros ou do habitáculo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Proteção de compartimento dos passageiros ou da janela da porta traseira do lado do passageiro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Защита окна двери заднего пассажира или салона автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Protección de las ventanillas de las puertas traseras o del habitáculo.</tu>
+	<tu xmlns:lang="chs">乘客一侧后车门车窗或乘客车厢保护。</tu>
+	<tu xmlns:lang="kor">리어 조수석 도어 윈도우 또는 조수석 컴파트먼트 보호</tu>
+</tm>

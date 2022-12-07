@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_ENGINE_EMISSION_CONTROL">
+	<tu xmlns:lang="eng">303-08 Engine emission control</tu>
+	<tu xmlns:lang="nld">303-08 Motoremissieregeling</tu>
+	<tu xmlns:lang="fra">303-08 Antipollution du moteur</tu>
+	<tu xmlns:lang="deu">303-08 Abgasregelung</tu>
+	<tu xmlns:lang="ita">303-08 Comando emissioni motore</tu>
+	<tu xmlns:lang="jpn">303-08 エンジン エミッション コントロール</tu>
+	<tu xmlns:lang="ptg">303-08 Controlo das emissões do motor</tu>
+	<tu xmlns:lang="ptb">303-08 Controle de emissões do motor</tu>
+	<tu
+    xmlns:lang="rus"
+  >303-08 Система снижения токсичности отработавших газов двигателя</tu>
+	<tu xmlns:lang="esp">303-08 Control de emisiones del motor</tu>
+	<tu xmlns:lang="chs">303-08发动机排放控制</tu>
+	<tu xmlns:lang="kor">303-08 엔진 배기 가스 규제</tu>
+</tm>

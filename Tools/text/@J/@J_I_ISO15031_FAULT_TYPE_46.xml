@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_46">
+	<tu
+    xmlns:lang="eng"
+  >System internal failure - calibration/parameter memory failure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Intern defect in systeem - fout in kalibrering / parametergeheugen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaillance interne du système - défaut de mémoire d'étalonnage / de paramétrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Interne Systemstörung - Kalibrierungs-/Parameterspeicherfehler.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto interno sistema - guasto di memoria di taratura/parametri.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >システム内部故障 － キャリブレーション／パラメータ メモリ不良</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha interna no sistema - falha de memória de calibragem/parâmetros.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha interna do sistema - falha de memória da calibração/parâmetro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Внутренний отказ системы - ошибка памяти калибровов/параметров.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo interno del sistema: fallo de memoria de parámetros/calibración.</tu>
+	<tu xmlns:lang="chs">系统内部故障 - 校准/参数存储器故障。</tu>
+	<tu xmlns:lang="kor">시스템 내부 고장 - 보정/매개 변수 메모리 오류</tu>
+</tm>

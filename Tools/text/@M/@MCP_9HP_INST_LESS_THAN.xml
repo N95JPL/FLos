@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_9HP_INST_LESS_THAN">
+	<tu
+    xmlns:lang="eng"
+  >Transmission serial number is less than or equal to 81204</tu>
+	<tu
+    xmlns:lang="nld"
+  >Transmissieserienummer is lager dan of gelijk aan 81204</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le numéro de série de la transmission est inférieur ou égal à 81204</tu>
+	<tu xmlns:lang="deu">Getriebe-Seriennummer ist kleiner oder gleich 81204.</tu>
+	<tu xmlns:lang="ita">Numero di serie del cambio inferiore o uguale a 81204</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスミッションのシリアル ナンバーが 81204 以下である</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Número de série da transmissão inferior ou igual a 81204</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Número de série da transmissão é menor ou igual a 81204</tu>
+	<tu xmlns:lang="rus">Серийный номер коробки передач ниже или равен 81204</tu>
+	<tu
+    xmlns:lang="esp"
+  >El número de serie de la transmisión es inferior o igual a 81204</tu>
+	<tu xmlns:lang="chs">变速器序列号小于或等于 81204</tu>
+	<tu xmlns:lang="kor">변속기 일련 번호가 81204보다 작거나 같음</tu>
+</tm>

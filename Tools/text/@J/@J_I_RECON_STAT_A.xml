@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RECON_STAT_A">
+	<tu xmlns:lang="eng">Reconfiguration status A area</tu>
+	<tu xmlns:lang="nld">Status opnieuw configureren van A-gebied</tu>
+	<tu xmlns:lang="fra">Etat de reconfiguration zone A.</tu>
+	<tu xmlns:lang="deu">Status Neukonfiguration Bereich A</tu>
+	<tu xmlns:lang="ita">Stato riconfigurazione area A</tu>
+	<tu xmlns:lang="jpn">再コンフィギュレーション ステータス、A エリア</tu>
+	<tu xmlns:lang="ptg">Estado de reconfiguração, zona A</tu>
+	<tu xmlns:lang="ptb">Reconfiguração da área de status A</tu>
+	<tu xmlns:lang="rus">Состояние перенастройки области А</tu>
+	<tu xmlns:lang="esp">Reconfiguración de estado zona A</tu>
+	<tu xmlns:lang="chs">重新配置状态A区</tu>
+	<tu xmlns:lang="kor">재구성 상태 A 영역</tu>
+</tm>

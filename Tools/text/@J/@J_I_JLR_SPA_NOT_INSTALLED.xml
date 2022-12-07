@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_JLR_SPA_NOT_INSTALLED">
+	<tu
+    xmlns:lang="eng"
+  >Additional pinpoint tests have not been installed or an earlier version is installed, please load the latest version of additional pinpoint tests from the DVD.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Extra lokalisatietesten zijn niet geïnstalleerd of een oude versie is geïnstalleerd. Laad de meest recente versie van de extra lokalisatietesten vanaf de dvd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les contrôles détaillés supplémentaires n'ont pas été installés ou une version ancienne est installée, veuillez charger la version la plus récente des contrôles détaillés supplémentaires sur le DVD.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zusätzliche Systemprüfungen wurden nicht installiert oder es ist eine ältere Version installiert; bitte die aktuellste Version zusätzlicher Systemprüfungen von der DVD laden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non sono state installate le prove localizzate supplementari oppure è installata una versione meno recente, caricare la versione più recente delle prove localizzate supplementari dal DVD.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >追加ピンポイント テストはインストールされませんでした。または古いバージョンがインストールされています。DVD から追加ピンポイント テストの最新バージョンをロードしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não foram instalados os testes adicionais ou está instalada uma versão anterior; carregue a versão mais recente dos testes pontuais adicionais a partir deste DVD.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Testes pontuais adicionais não foram instalados ou uma versão anterior está instalada, carregue a versão mais recente do DVD de testes pontuais adicionais.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не установлены дополнительные тесты для локализации неисправностей или установлена более ранняя версия. Загрузите с DVD-диска последнюю версию дополнительных тестов для локализации неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se han instalado pruebas entre pines adicionales o hay instalada una versión anterior; cargue la última versión de pruebas entre pines adicionales que está en el DVD.</tu>
+	<tu
+    xmlns:lang="chs"
+  >没有安装附加的精确定位测试，或者安装了较早版本的精确定位测试，请从 DVD 加载最新版本的附加精确定位测试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >추가 핀포인트 테스트가 설치되지 않았거나 이전 버전이 설치되어 있습니다. DVD에서 추가 핀포인트 테스트의 최신 버전을 로드하십시오.</tu>
+</tm>

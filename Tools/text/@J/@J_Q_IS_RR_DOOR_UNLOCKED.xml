@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_IS_RR_DOOR_UNLOCKED">
+	<tu xmlns:lang="eng">Is the rear right door unlocked?</tu>
+	<tu xmlns:lang="nld">Is het rechterachterportier open?</tu>
+	<tu xmlns:lang="fra">La porte arrière droite est-elle déverrouillée ?</tu>
+	<tu xmlns:lang="deu">Ist die Hintertür rechts entriegelt?</tu>
+	<tu xmlns:lang="ita">La portiera posteriore destra è sbloccata?</tu>
+	<tu xmlns:lang="jpn">右リア ドアはアンロックされていますか？</tu>
+	<tu xmlns:lang="ptg">A porta traseira direita está destrancada?</tu>
+	<tu xmlns:lang="ptb">A porta traseira direita está destravada?</tu>
+	<tu xmlns:lang="rus">Отперта ли задняя правая дверь?</tu>
+	<tu xmlns:lang="esp">¿Está desbloqueada la puerta trasera derecha?</tu>
+	<tu xmlns:lang="chs">右后车门是否解锁？</tu>
+	<tu xmlns:lang="kor">리어 우측 도어가 잠금 해제됩니까?</tu>
+</tm>

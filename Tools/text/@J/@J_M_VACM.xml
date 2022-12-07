@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_VACM">
+	<tu xmlns:lang="eng">Voice activation system control module</tu>
+	<tu xmlns:lang="nld">Regelmodule spraakbesturingssysteem</tu>
+	<tu xmlns:lang="fra">Module de commande du système d'activation vocale</tu>
+	<tu xmlns:lang="deu">Steuergerät Sprachsteuerungssystem</tu>
+	<tu xmlns:lang="ita">Modulo di comando sistema ad attivazione vocale</tu>
+	<tu xmlns:lang="jpn">音声作動システム コントロールモジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando do sistema de activação por voz</tu>
+	<tu xmlns:lang="ptb">Módulo de controle do sistema de ativação por voz</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок управления системой распознавания голосовых команд</tu>
+	<tu xmlns:lang="esp">Módulo de control del sistema de activación por voz</tu>
+	<tu xmlns:lang="chs">语音启动系统控制模块</tu>
+	<tu xmlns:lang="kor">음성 작동 시스템 컨트롤 모듈</tu>
+</tm>

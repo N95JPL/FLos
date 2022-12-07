@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_UNITS">
+	<tu xmlns:lang="eng">Units</tu>
+	<tu xmlns:lang="nld">Eenheden</tu>
+	<tu xmlns:lang="fra">Unites</tu>
+	<tu xmlns:lang="deu">Masseinheiten</tu>
+	<tu xmlns:lang="ita">Unità</tu>
+	<tu xmlns:lang="jpn">単位</tu>
+	<tu xmlns:lang="ptg">Unidades</tu>
+	<tu xmlns:lang="ptb">Unidades</tu>
+	<tu xmlns:lang="rus">Единицы измерения</tu>
+	<tu xmlns:lang="esp">Unidades</tu>
+	<tu xmlns:lang="chs">计量单位</tu>
+	<tu xmlns:lang="kor">단위</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUGH_LEAK_DETECT">
+	<tu xmlns:lang="eng">Rough leak detected.</tu>
+	<tu xmlns:lang="nld">Zeer groot lek gedetecteerd.</tu>
+	<tu xmlns:lang="fra">Fuite sévère détectée.</tu>
+	<tu xmlns:lang="deu">Erhebliche Undichtigkeit ermittelt.</tu>
+	<tu xmlns:lang="ita">Rilevata grossa perdita.</tu>
+	<tu xmlns:lang="jpn">ラフ リーク検出</tu>
+	<tu xmlns:lang="ptg">Detectada fuga grande.</tu>
+	<tu xmlns:lang="ptb">Vazamento irregular detectado.</tu>
+	<tu xmlns:lang="rus">Обнаружена большая утечка.</tu>
+	<tu xmlns:lang="esp">Se detectó una fuga grande.</tu>
+	<tu xmlns:lang="chs">检测到较大泄漏。</tu>
+	<tu xmlns:lang="kor">대량 누출이 감지됨</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DTC_C1991">
+	<tu xmlns:lang="eng">Module calibration failure.</tu>
+	<tu xmlns:lang="nld">Kalibrering van module mislukt</tu>
+	<tu xmlns:lang="fra">Défaillance d'étalonnage du module</tu>
+	<tu xmlns:lang="deu">Modulkalibrierung - Ausfall</tu>
+	<tu xmlns:lang="ita">Guasto taratura modulo</tu>
+	<tu xmlns:lang="jpn">モジュール キャリブレーション不良</tu>
+	<tu xmlns:lang="ptg">Avaria na calibragem do módulo.</tu>
+	<tu xmlns:lang="ptb">Falha de calibragem do módulo.</tu>
+	<tu xmlns:lang="rus">Ошибка калибровки модуля.</tu>
+	<tu xmlns:lang="esp">Fallo de calibración del módulo</tu>
+	<tu xmlns:lang="chs">模块校准故障。</tu>
+	<tu xmlns:lang="kor">모듈 보정 오류.</tu>
+</tm>

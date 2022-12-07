@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_WARN_NO_CCF_DATA">
+	<tu xmlns:lang="eng">Vehicle configuration data has not been uploaded.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het uploaden van de voertuigconfiguratiegegevens is niet uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les données de configuration du véhicule n'ont pas été téléchargées.</tu>
+	<tu xmlns:lang="deu">Fahrzeugkonfigurationsdaten wurden nicht hochgeladen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >I dati di configurazione veicolo non sono stati caricati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション データがアップロードされていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O envio ('upload') dos dados de configuração do veículo não foi efectuado.</tu>
+	<tu xmlns:lang="ptb">Dados de configuração do veículo carregados.</tu>
+	<tu xmlns:lang="rus">Данные конфигурации автомобиля не были переданы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se han cargado los datos de configuración del vehículo.</tu>
+	<tu xmlns:lang="chs">车辆配置数据还未上传。</tu>
+	<tu xmlns:lang="kor">차량 구성 데이터가 업로드되지 않았습니다.</tu>
+</tm>

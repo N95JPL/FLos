@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IDLE_SPD_SET">
+	<tu
+    xmlns:lang="eng"
+  >The idle speed will be set to a default value which can be adjusted using the idle adjustment application within 'set-up and configuration' if required.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem zal het stationair toerental op een standaardwaarde instellen, die u zonodig met de toepassing voor het aanpassen van het stationair toerental in 'instellingen en configuratie' kunt veranderen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous pouvez régler le régime de ralenti sur une valeur par défaut à l'aide de l'application relative au réglage du régime de ralenti dans 'réglages et configuration' le cas échéant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Leerlaufdrehzahl wird auf einen Standardwert eingestellt, der bei Bedarf über das Anwendungsprogramm Leerlaufdrehzahl-Einstellung unter 'set-up and configuration' (Einrichten und Konfiguration) verändert werden kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il regime minimo viene impostato su un valore predefinito, che può essere quindi regolato tramite l'applicazione di regolazione in impostazione e configurazione, se necessario.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アイドル スピードはデフォルト数値にセットされ、必要に応じて「セットアップおよびコンフィギュレーション」内のアイドル調整アプリケーションを使用して調整ができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O ralenti é regulado com um valor predefinido que pode ser ajustado usando a aplicação de regulação do ralenti em 'definição e configuração', se necessário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A velocidade da marcha lenta será ajustada para um valor padrão que pode ser ajustado usando o ajuste da marcha lenta aplicação em configuração, se necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Используется значение числа оборотов холостого хода по умолчанию, которое можно регулировать при помощи программы регулировки холостого хода в режиме установки и конфигурации, если это необходимо.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El régimen de ralentí se definirá en un valor predeterminado que se puede ajustar usando la aplicación de ajuste del ralentí en 'Preparación y configuración', si es necesario.</tu>
+	<tu
+    xmlns:lang="chs"
+  >怠速将被设为默认值，如需要，可使用‘设置和配置’内的怠速调整应用程序调整。</tu>
+	<tu
+    xmlns:lang="kor"
+  >공회전 속도는 기본값으로 설정되는데, 필요할 경우 '설정 및 구성' 범위 내에서 공회전 조정 애플리케이션을 사용하여 이 속도를 조정할 수 있습니다.</tu>
+</tm>

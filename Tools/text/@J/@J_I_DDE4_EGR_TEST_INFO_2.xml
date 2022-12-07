@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DDE4_EGR_TEST_INFO_2">
+	<tu
+    xmlns:lang="eng"
+  >The test will operate the exhaust gas recirculation modulator causing a change in air flow.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De test zal de modulator van de uitlaatgasrecirculatie in werking stellen, waardoor de luchtstroming zal veranderen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cet essai fait fonctionner le modulateur de recyclage des gaz d'échappement en provoquant un changement dans le flux d'air.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Test betätigt den Modulator - Abgasrückführung, was eine Luftströmungsänderung verursacht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La prova aziona il modulatore ricircolo gas di scarico causando una variazione del flusso d'aria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストは EGR モジュレータを作動させエアフローを変化させます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima 'Sair' (Exit) para concluir a sequência de purga automática.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O teste irá operar o modulador da recirculação do gás do escapamento, causando uma mudança no fluxo de ar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная проверка выполняет проверку работы модулятора системы рециркуляции отработавших газов, которая приводит к изменению расхода воздуха.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La prueba accionará el modulador de recirculación de gases de escape, provocando un cambio en el flujo de aire.</tu>
+	<tu xmlns:lang="chs">该测试将运行废气再循环调节器，造成一个空气流量变化。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 테스트에서는 배기 가스 재순환 모듈레이터를 작동하여 공기 흐름을 변화시킵니다.</tu>
+</tm>

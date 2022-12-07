@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_BATT_MON_SEN">
+	<tu xmlns:lang="eng">Without battery monitor sensor</tu>
+	<tu xmlns:lang="nld">Zonder sensor van accucontrole </tu>
+	<tu xmlns:lang="fra">Sans capteur de contrôle de batterie </tu>
+	<tu xmlns:lang="deu">Ohne Batterie-Überwachungssensor </tu>
+	<tu xmlns:lang="ita">Senza sensore monitor batteria</tu>
+	<tu xmlns:lang="jpn">バッテリ モニター センサーなし</tu>
+	<tu xmlns:lang="ptg">Sem sensor de monitorização da bateria</tu>
+	<tu xmlns:lang="ptb">Sem sensor do monitor da bateria</tu>
+	<tu xmlns:lang="rus">Без датчика контроля состояния аккумуляторной батареи </tu>
+	<tu xmlns:lang="esp">Sin sensor de control de la batería</tu>
+	<tu xmlns:lang="chs">无蓄电池监测器传感器</tu>
+	<tu xmlns:lang="kor">배터리 모니터 센서 없음</tu>
+</tm>

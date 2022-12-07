@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_DRIVERS_DOOR_LOCK">
+	<tu xmlns:lang="eng">Driver's door locking</tu>
+	<tu xmlns:lang="nld">Vergrendeling bestuurdersportier</tu>
+	<tu xmlns:lang="fra">Verrouillage de porte du conducteur</tu>
+	<tu xmlns:lang="deu">Türverriegelung fahrerseite</tu>
+	<tu xmlns:lang="ita">Bloccaggio portiera guidatore</tu>
+	<tu xmlns:lang="jpn">運]席側ドア ロッキ・グ</tu>
+	<tu xmlns:lang="ptg">Trancagem da porta do condutor</tu>
+	<tu xmlns:lang="ptb">Trava da porta do motorista</tu>
+	<tu xmlns:lang="rus">Запирание двери водителя</tu>
+	<tu xmlns:lang="esp">Cierre de la puerta del conductor</tu>
+	<tu xmlns:lang="chs">驾驶员一侧车门锁定</tu>
+	<tu xmlns:lang="kor">운전석 도어 잠금</tu>
+</tm>

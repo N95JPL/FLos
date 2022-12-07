@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DESC_PAM">
+	<tu xmlns:lang="eng">Parking aid control module.</tu>
+	<tu xmlns:lang="nld">Regelmodule van het parkeerhulpsysteem</tu>
+	<tu xmlns:lang="fra">Module de commande d'avertisseur de marche arrière</tu>
+	<tu xmlns:lang="deu">Einparkhilfe-Steuermodul</tu>
+	<tu xmlns:lang="ita">Modulo di comando assistenza parcheggio</tu>
+	<tu xmlns:lang="jpn">パーキング エイド コントロール モジュール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo de comando do sistema de auxílio ao estacionamento.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle dos sensores de estacionamento.</tu>
+	<tu xmlns:lang="rus">Блок управления системой помощи при парковке.</tu>
+	<tu xmlns:lang="esp">Módulo de control de la ayuda para el estacionamiento</tu>
+	<tu xmlns:lang="chs">驻车辅助控制模块。</tu>
+	<tu xmlns:lang="kor">주차 보조 시스템 컨트롤 모듈</tu>
+</tm>

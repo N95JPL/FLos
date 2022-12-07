@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart92">
+	<tu
+    xmlns:lang="eng"
+  >When the ambient air pressure increases the inhibit will clear.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de omgevingsluchtdruk toeneemt, verdwijnt de blokkering.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La neutralisation s'efface lorsque la pression de l'air ambiant augmente.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn die Außenlufttemperatur steigt, wird die Sperre aufgehoben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quando la pressione dell'aria ambiente aumenta, la disabilitazione scompare.</tu>
+	<tu xmlns:lang="jpn">外気圧が上昇すると、禁止状態は解除されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando a pressão do ar ambiente aumenta, a inibição apaga-se.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Quando a pressão do ar ambiente aumentar, a inibição desaparecerá.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При повышении давления окружающего воздуха блокировка устранится.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El bloqueo desaparecerá cuando la presión ambiente aumente.</tu>
+	<tu xmlns:lang="chs">环境空气压力升高后，此禁止将被清除。</tu>
+	<tu xmlns:lang="kor">외기 압력이 증가하면 억제 상태가 해소됩니다.</tu>
+</tm>

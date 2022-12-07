@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_INERTIA_SWITCH">
+	<tu xmlns:lang="eng">Inertia switch</tu>
+	<tu xmlns:lang="nld">Traagheidsschakelaar</tu>
+	<tu xmlns:lang="fra">Bouton inertie</tu>
+	<tu xmlns:lang="deu">Unfallschutzschalter</tu>
+	<tu xmlns:lang="ita">Interruttore inerziale</tu>
+	<tu xmlns:lang="jpn">ｲﾅーｼｬ・ｽｲｯﾁ</tu>
+	<tu xmlns:lang="ptg">Interruptor de inércia</tu>
+	<tu xmlns:lang="ptb">Interruptor de inércia</tu>
+	<tu xmlns:lang="rus">Инерционный выключатель</tu>
+	<tu xmlns:lang="esp">Interruptor de inercia</tu>
+	<tu xmlns:lang="chs">惯性开关</tu>
+	<tu xmlns:lang="kor">관성 스위치</tu>
+</tm>

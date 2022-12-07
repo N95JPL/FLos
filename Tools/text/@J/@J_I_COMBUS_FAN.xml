@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMBUS_FAN">
+	<tu xmlns:lang="eng">Combustion fan.</tu>
+	<tu xmlns:lang="nld">Verbrandingsventilator.</tu>
+	<tu xmlns:lang="fra">Ventilateur de combustion.</tu>
+	<tu xmlns:lang="deu">Verbrennungsluftgebläse.</tu>
+	<tu xmlns:lang="ita">Ventola di combustione.</tu>
+	<tu xmlns:lang="jpn">燃焼ファン</tu>
+	<tu xmlns:lang="ptg">Ventoinha de combustão.</tu>
+	<tu xmlns:lang="ptb">Ventoinha de combustão.</tu>
+	<tu xmlns:lang="rus">Вентилятор системы сгорания.</tu>
+	<tu xmlns:lang="esp">Ventilador de combustión.</tu>
+	<tu xmlns:lang="chs">燃烧送风风扇。</tu>
+	<tu xmlns:lang="kor">연소 팬</tu>
+</tm>

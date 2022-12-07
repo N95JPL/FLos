@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PASS_ALARM_ACT">
+	<tu xmlns:lang="eng">Passive alarm activation</tu>
+	<tu xmlns:lang="nld">Activering van passief alarm</tu>
+	<tu xmlns:lang="fra">Activation de l'alarme passive</tu>
+	<tu xmlns:lang="deu">Passive Alarmaktivierung</tu>
+	<tu xmlns:lang="ita">Attivazione allarme passivo</tu>
+	<tu xmlns:lang="jpn">パッシブ アラーム作動</tu>
+	<tu xmlns:lang="ptg">Activação do alarme passivo</tu>
+	<tu xmlns:lang="ptb">Ativação passiva do alarme</tu>
+	<tu xmlns:lang="rus">Активация пассивной охранной системы</tu>
+	<tu xmlns:lang="esp">Activación de alarma pasiva</tu>
+	<tu xmlns:lang="chs">无源报警器激活</tu>
+	<tu xmlns:lang="kor">수동적 알람 활성화</tu>
+</tm>

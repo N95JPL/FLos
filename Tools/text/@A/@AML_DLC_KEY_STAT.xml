@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AML_DLC_KEY_STAT">
+	<tu xmlns:lang="eng">Key status.</tu>
+	<tu xmlns:lang="nld">Sleutelstatus.</tu>
+	<tu xmlns:lang="fra">Statut de la clé</tu>
+	<tu xmlns:lang="deu">Schlüsselstatus</tu>
+	<tu xmlns:lang="ita">Status della chiave</tu>
+	<tu xmlns:lang="jpn">キーの状態</tu>
+	<tu xmlns:lang="ptg">Estado da chave.</tu>
+	<tu xmlns:lang="ptb">Status da chave.</tu>
+	<tu xmlns:lang="rus">Состояние ключа.</tu>
+	<tu xmlns:lang="esp">Estado de la llave.</tu>
+	<tu xmlns:lang="chs">钥匙状态。</tu>
+	<tu xmlns:lang="kor">키 상태</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@USB_3_INSERT_DRIVE_TESTER_2">
+	<tu
+    xmlns:lang="eng"
+  >Make sure that the USB flash drive has enough free space before continuing. A minimum of 32GB of free space will be required.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat er genoeg vrije ruimte aanwezig is op de USB-stick voordat u verdergaat. Er is minimaal 32GB vrije ruimte vereist.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que la clé USB dispose d'un espace suffisant avant de poursuivre. Au moins 32 Go d'espace libre sont requis.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vor dem Fortfahren sicherstellen, dass auf dem USB-Stick ausreichend Speicherplatz vorhanden ist. Ein freier Speicherplatz von mindestens 32 GB muss verfügbar sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prima di continuare, assicurarsi che sull'unità flash USB sia disponibile spazio sufficiente. Lo spazio minimo richiesto è di 32 GB.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >続行する前に、USB フラッシュ ドライブに充分な空き容量があることを確認してください。 少なくとも 32GB の空き容量が必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que a unidade flash USB tem espaço livre suficiente antes de continuar. É necessário ter um espaço livre mínimo de 32 GB.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o pen drive USB tenha espaço livre suficiente antes de continuar. Um mínimo de 32GB de espaço livre será necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перед продолжением убедитесь, что на носителе USB достаточно свободной памяти. Необходимо наличие не менее 32 Гб свободной памяти.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Antes de continuar, asegúrese de que la unidad de memoria USB tiene suficiente espacio libre. Se necesita un mínimo de 32 GB de espacio libre.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确定 USB 闪存驱动器具有足够的可用空间，然后继续。 需要最少具有 32GB 的可用空间。</tu>
+	<tu
+    xmlns:lang="kor"
+  >계속하기 전에 USB 플래시 드라이브에 여유 공간이 충분한지 확인하십시오. 최소 32GB의 여유 공간이 필요합니다.</tu>
+</tm>

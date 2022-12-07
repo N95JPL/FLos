@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SEL_SERV_INT_OPT_INFO">
+	<tu
+    xmlns:lang="eng"
+  >This application will allow you to select a different service mileage interval for certain regions (rest of world).  If you select rest of world degrade this will reduce the mileage interval</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze toepassing kunt u voor bepaalde regio's (rest van de wereld) een ander onderhoudsinterval selecteren.  Als u bij verslechtering kiest voor overige landen, wordt het interval korter (in km)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application vous permet de sélectionner un autre intervalle de kilométrage de service pour certaines régions (reste du monde).  Si vous sélectionnez une dégradation de type Reste du monde, l'intervalle de kilométrage est réduit.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung ermöglicht die Auswahl eines abweichenden Kilometerintervalls für die Wartung für bestimmte Regionen (Rest der Welt).  Wenn Herabsetzung für den Rest der Welt gewählt wird, wird das Kilometerintervall reduziert</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione consente di selezionare un intervallo di chilometraggio per la manutenzione diverso in determinate regioni (ROW).  Selezionando ROW (Rest of World) si riduce l'intervallo di chilometraggio</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションを使用して、一部の地域 (その他の国) に異なるサービス マイル数間隔を選択することができる。  その他の国を選択し、これを下げると走行距離間隔が短くなる</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação permite seleccionar um intervalo de quilometragem de revisão diferente para determinadas regiões (resto do mundo).  Se seleccionar degradação para o resto do mundo, isto irá reduzir o intervalo de quilometragem</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo permite que você selecione um intervalo de quilometragem para manutenção diferente em algumas regiões (resto do mundo).  Se você selecionar diminuir resto do mundo, o intervalo de quilometragem será reduzido</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение позволяет выбирать различные интервалы обслуживания / пробег для определенных регионов (остальные страны мира).  Выбор межсервисных интервалов для работы в неблагоприятных условиях для остальных стран мира приведет к сокращению межсервисных интервалов</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación le permitirá seleccionar un intervalo de kilometraje de servicio diferente para ciertas regiones (resto del mundo).  Si selecciona la opción de resto del mundo con degradación, el intervalo de kilometraje se reducirá</tu>
+	<tu
+    xmlns:lang="chs"
+  >此应用程序将允许您为特定地区（世界其他地区）选择不同的保养里程间隔。  如果您选择了“世界其他地区”，降级该设置会减少里程间隔</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램을 사용하면 특정 지역(나머지 국가)에 대해 다른 서비스 마일리지 주기를 선택할 수 있습니다.  나머지 국가의 주기를 단축시키면 마일리지 주기도 단축됩니다.</tu>
+</tm>

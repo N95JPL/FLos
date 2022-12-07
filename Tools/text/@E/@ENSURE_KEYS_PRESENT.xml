@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENSURE_KEYS_PRESENT">
+	<tu xmlns:lang="eng">Make sure all smart keys to be programmed are present.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat alle Smart-keys die moeten worden geprogrammeerd, aanwezig zijn.
+
+    </tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que toutes les clés intelligentes à programmer sont présentes.
+
+    </tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass alle zu programmierenden Smart Keys vorhanden sind.
+
+    </tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che siano presenti tutte le chiavi Smart da programmare.
+
+    </tu>
+	<tu
+    xmlns:lang="jpn"
+  >プログラムするすべてのスマート キーが手元にあることを確認してください。
+
+    </tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que estão presentes todas as chaves inteligentes a serem programadas.
+
+    </tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que todas as chaves inteligentes a serem programadas estejam presentes.
+
+    </tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что имеются все электронные ключи, которые требуется запрограммировать.
+
+    </tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que dispone de todas las llaves inteligentes que se deben programar.
+
+    </tu>
+	<tu xmlns:lang="chs">确保待编程的所有智能钥匙都在现场。
+
+    </tu>
+	<tu xmlns:lang="kor">프로그래밍할 모든 스마트 키가 있는지 확인하십시오.
+
+    </tu>
+</tm>

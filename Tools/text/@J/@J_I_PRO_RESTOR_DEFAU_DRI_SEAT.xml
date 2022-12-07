@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PRO_RESTOR_DEFAU_DRI_SEAT">
+	<tu
+    xmlns:lang="eng"
+  >The following routine will restore all the seat axis position values to default for the driver's seat module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De nu volgende routine zal de standaardwaarden van alle stoelaspositiewaarden voor de bestuurdersstoelmodule herstellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure suivante rétablira l'ensemble des valeurs de position par défaut de l'axe du siège du module de siège conducteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit der folgenden Routine werden alle Werte für die Sitz-Verstellachsen für das Fahrersitz-Steuergerät wieder auf die Standardwerte zurückgestellt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La seguente procedura ripristina tutti i valori di posizione degli assi del sedile sulle impostazioni predefinite per il modulo del sedile guidatore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のルーチンで、運転席側シート モジュールについて、すべてのシート軸方向ポジション数値がデフォルトに復元されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A rotina seguinte repõe todos os valores de posição axial dos bancos para os valores predefinidos relativos ao módulo do banco do condutor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A seguinte rotina irá restaurar todos os valores de posição do eixo do assento para o valor padrão para o módulo de assentos do motorista.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При выполнении следующей операции восстанавливаются все значения для осей перемещения сиденья водителя, используемые по умолчанию.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La rutina siguiente restaurará todos los valores predeterminados de los ejes del asiento para el módulo del asiento del conductor.</tu>
+	<tu
+    xmlns:lang="chs"
+  >下述例行程序将让驾驶员座椅模块的所有座椅轴线值恢复到默认值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 루틴에서는 운전석 모듈에 대해 모든 시트 축 위치 값을 기본값으로 복원합니다.</tu>
+</tm>

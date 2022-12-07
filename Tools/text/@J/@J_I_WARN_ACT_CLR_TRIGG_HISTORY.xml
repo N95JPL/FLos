@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WARN_ACT_CLR_TRIGG_HISTORY">
+	<tu
+    xmlns:lang="eng"
+  >WARNING!  This action will also clear the alarm trigger history.</tu>
+	<tu
+    xmlns:lang="nld"
+  >WAARSCHUWING:  Door deze handeling wordt tevens de historie van de oorzaken voor het laten afgaan van het alarm gewist.</tu>
+	<tu
+    xmlns:lang="fra"
+  >AVERTISSEMENT :  Cette action efface aussi l'historique de déclenchement de l'alarme.</tu>
+	<tu
+    xmlns:lang="deu"
+  >VORSICHT:  Durch diesen Vorgang wird außerdem die Historie der Alarmauslösungen gelöscht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >AVVERTENZA:  Quest'azione cancella anche la cronologia delle attivazioni dell'allarme.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >警告  この処置によりアラーム トリガー履歴もクリアされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >AVISO!  Esta acção apaga também o histórico de disparos do alarme.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >AVISO!  Essa ação também apaga o histórico do acionador do alarme</tu>
+	<tu
+    xmlns:lang="rus"
+  >ВНИМАНИЕ!  Данное действие также очистит журнал регистрации срабатывания триггеров цепи тревожной сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >AVISO:  Esta acción también borrará el historial de disparos de la alarma.</tu>
+	<tu xmlns:lang="chs">警告！  这一动作还将清除报警触发器历史记录。</tu>
+	<tu xmlns:lang="kor">경고!  이 조치를 취하면 알람 트리거 기록도 삭제됩니다.</tu>
+</tm>

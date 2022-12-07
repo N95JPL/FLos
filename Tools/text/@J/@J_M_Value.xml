@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_Value">
+	<tu xmlns:lang="eng">Value</tu>
+	<tu xmlns:lang="nld">Waarde</tu>
+	<tu xmlns:lang="fra">Valeur</tu>
+	<tu xmlns:lang="deu">Wert</tu>
+	<tu xmlns:lang="ita">Valore</tu>
+	<tu xmlns:lang="jpn">数値</tu>
+	<tu xmlns:lang="ptg">Valor</tu>
+	<tu xmlns:lang="ptb">Valor</tu>
+	<tu xmlns:lang="rus">Значение</tu>
+	<tu xmlns:lang="esp">Valor</tu>
+	<tu xmlns:lang="chs">数值</tu>
+	<tu xmlns:lang="kor">값</tu>
+</tm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart102">
+	<tu xmlns:lang="eng">Stop inhibited - Ambient air temperature is too high</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stop geblokkeerd - de temperatuur van de omgevingslucht is te hoog</tu>
+	<tu
+    xmlns:lang="fra"
+  >Arrêt neutralisé - La température de l'air ambiant est trop élevée</tu>
+	<tu xmlns:lang="deu">Stopp gesperrt – Außenlufttemperatur ist zu hoch</tu>
+	<tu
+    xmlns:lang="ita"
+  >Inibizione dell'arresto - La temperatura ambiente è troppo alta</tu>
+	<tu xmlns:lang="jpn">ストップ機能禁止 - 外気温が高すぎます</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Paragem inibida - A temperatura do ar ambiente é demasiado elevada</tu>
+	<tu xmlns:lang="ptb">Parada inibida - Temperatura do ar ambiente muito alta</tu>
+	<tu
+    xmlns:lang="rus"
+  >Остановка заблокирована — слишком высокая температура окружающего воздуха</tu>
+	<tu
+    xmlns:lang="esp"
+  >Parada bloqueada: la temperatura ambiente es demasiado alta</tu>
+	<tu xmlns:lang="chs">停止已禁止 - 环境空气温度太高</tu>
+	<tu xmlns:lang="kor">Stop 억제 - 외기 온도가 너무 높음</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HeightFuncPowerAxisOpp$I">
+	<tu
+    xmlns:lang="eng"
+  >The height function will now be powered along its axis in the opposite direction.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De hoogtefunctie wordt nu in tegengestelde richting langs zijn as gestuurd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La fonction de hauteur sera maintenant activée électriquement le long de son axe dans la direction opposée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Höhe wird jetzt entlang ihrer Achse in entgegengesetzter Richtung verstellt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La funzione di regolazione dell'altezza adesso verrà azionata lungo il suo asse nella direzione opposta.</tu>
+	<tu xmlns:lang="jpn">ハイト機能\がその軸上で逆方向に電動駆動されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A função de altura será agora accionada ao longo do eixo respectivo na direcção oposta.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A função de altura será acionada junto com seu eixo na direção oposta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сейчас будет включена функция регулировки высоты в обратном направлении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La función de altura se accionará ahora en su eje en sentido contrario.</tu>
+	<tu xmlns:lang="chs">高度功能现在将在相反方向上沿其坐标轴操纵。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이제 높이 기능이 해당 축을 따라 반대 방향으로 작동하게 됩니다.</tu>
+</tm>

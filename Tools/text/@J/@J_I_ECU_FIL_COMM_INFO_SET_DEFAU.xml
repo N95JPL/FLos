@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ECU_FIL_COMM_INFO_SET_DEFAU">
+	<tu
+    xmlns:lang="eng"
+  >When the electronic control unit is replaced, it is required to copy information related to servicing of the particle filter from the old electronic control unit into the new one.  If it is not possible to communicate with the old electronic control unit, then the information will be set to default values.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij het vervangen van de elektronische regelmodule, dient u de informatie m.b.t. het onderhoud van het deeltjesfilter van de oude elektronische module naar de nieuwe te kopiëren.  Als het communiceren met de oude elektronische regelmodule onmogelijk is, zal het systeem de informatie op de standaardwaarden instellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lors du remplacement du module de commande électronique, vous devez transférer les informations concernant l'entretien du filtre à particules de l'ancien module de commande électronique vers le nouveau module.  S'il s'avère impossible de communiquer avec l'ancien module de commande électronique, les informations prendront la forme de valeurs par défaut.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wird das elektronische Steuergerät ersetzt, ist es erforderlich, Wartungsinformationen zum Rußfilter vom alten zum neuen elektronischen Steuergerät zu kopieren.  Falls eine Kommunikation mit dem alten elektronischen Steuergerät nicht möglich ist, werden die Informationen auf Standardwerte eingestellt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quando si sostituisce l'unità di comando elettronica, è necessario copiare le informazioni relative alla manutenzione del filtro antiparticolato dalla vecchia alla nuova unità di comando.  Se non è possibile comunicare con la vecchia unità di comando elettronica, le informazioni vengono impostate su valori predefiniti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック コントロール ユニットが交換されたとき、微粒子フィルターの修理に関連した情報を古いコントロール ユニットから新しいコントロール ユニットへコピーする必要があります。  古いエレクトロニック コントロール ユニットとの通信が不可能\な場合には、情報はデフォルト数値にセットされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando a unidade electrónica de controlo é substituída, é necessário copiar as informações relacionadas com a assistência do filtro de partículas da unidade electrónica de controlo antiga para a nova.  Se não for possível comunicar com a unidade electrónica de controlo antiga, as informações serão repostas com os valores predefinidos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Quando a unidade de controle eletrônico for substituída, será necessário copiar as informações relacionadas à manutenção do filtro de partículas da unidade de controle eletrônico antigo para o novo.  Se não for possível se comunicar com a antigo unidade de controle eletrônico, a informação será ajustada para os valores padrão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При замене электронного блока управления необходимо скопировать данные, относящиеся к обслуживанию противосажевого фильтра, из старого блока управления в новый.  Если обмен данными со старым электронным блоком управления невозможен, устанавливаются значения параметров по умолчанию.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cuando se sustituye la unidad de control electrónico, debe copiarse en la unidad de control nueva la información sobre la revisión del filtro de partículas obtenida de la unidad de control antigua.  Si no es posible comunicarse con la unidad de control electrónico antigua, los datos se definirán en los valores predeterminados.</tu>
+	<tu
+    xmlns:lang="chs"
+  >当更换电子控制单元后，要将与微粒过滤器相关的维修信息从旧的电子控制单元复制到新的控制器中。  如无法与旧电子控制单元通讯，则信息应设为默认值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전자 컨트롤 유닛을 교체할 때는 미립자 필터 서비스와 관련된 정보를 기존 전자 컨트롤 유닛에서 신품 전자 컨트롤 유닛으로 복사해야 합니다.  기존 전자 컨트롤 유닛과 통신할 수 없는 경우에는 정보가 기본값으로 설정됩니다.</tu>
+</tm>

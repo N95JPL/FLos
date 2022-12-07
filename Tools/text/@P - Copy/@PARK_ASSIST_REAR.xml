@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PARK_ASSIST_REAR">
+	<tu xmlns:lang="eng">Rear parking assistance only</tu>
+	<tu xmlns:lang="nld">Alleen achteruitrijbeveiliging</tu>
+	<tu xmlns:lang="fra">Aide aux manoeuvres de stationnement arrière seulement</tu>
+	<tu xmlns:lang="deu">Nur Einparkhilfe hinten</tu>
+	<tu xmlns:lang="ita">Solo assistenza parcheggio posteriore</tu>
+	<tu xmlns:lang="jpn">リア パーキング エイドのみ</tu>
+	<tu xmlns:lang="ptg">Apenas assistência ao estacionamento traseira</tu>
+	<tu xmlns:lang="ptb">Assistência de estacionamento traseira somente</tu>
+	<tu xmlns:lang="rus">Только система помощи при парковке задним ходом</tu>
+	<tu xmlns:lang="esp">Ayuda al aparcamiento trasera solamente</tu>
+	<tu xmlns:lang="chs">仅有后部驻车辅助功能</tu>
+	<tu xmlns:lang="kor">후방 주차 지원만 해당</tu>
+</tm>

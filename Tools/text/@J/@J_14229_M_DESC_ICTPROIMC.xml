@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_ICTPROIMC">
+	<tu xmlns:lang="eng">InControl Touch Pro infotainment master controller</tu>
+	<tu xmlns:lang="nld">InControl Touch Pro infotainmentmastercontroller</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôleur maître d'infodivertissement InControl Touch Pro</tu>
+	<tu xmlns:lang="deu">InControl Touch Pro Infotainment-Hauptsteuerung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controller principale Infotainment (IMC) InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="jpn"
+  >InControl Touch Pro インフォテイメント マスタ コントローラ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Controlador principal do sistema de informação e entretenimento InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >InControl Touch Pro: controlador mestre do infoentretenimento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Главный контроллер информационно-развлекательной системы InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="esp"
+  >Controlador principal del sistema de información y entretenimiento de InControl Touch Pro</tu>
+	<tu xmlns:lang="chs">InControl 智能驭享信息娱乐主控制器</tu>
+	<tu xmlns:lang="kor">InControl Touch Pro 인포테인먼트 마스터 컨트롤러</tu>
+</tm>

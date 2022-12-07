@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_BATT_I_GT_40A">
+	<tu xmlns:lang="eng">Battery current greater than 40A</tu>
+	<tu xmlns:lang="nld">De accustroom is hoger dan 40 A</tu>
+	<tu xmlns:lang="fra">Courant de la batterie supérieur à 40 A</tu>
+	<tu xmlns:lang="deu">Batteriestrom größer als 40 A.</tu>
+	<tu xmlns:lang="ita">Corrente batteria superiore a 40A</tu>
+	<tu xmlns:lang="jpn">バッテリ電流が 40A 以上</tu>
+	<tu xmlns:lang="ptg">Corrente da bateria superior a 40 A </tu>
+	<tu xmlns:lang="ptb">Corrente da bateria maior que 40 A</tu>
+	<tu xmlns:lang="rus">Ток аккумуляторной батареи превышает 40 A</tu>
+	<tu xmlns:lang="esp">La corriente de la batería es superior a 40 A</tu>
+	<tu xmlns:lang="chs">蓄电池电流大于 40 安培</tu>
+	<tu xmlns:lang="kor">40A 이상의 배터리 전류</tu>
+</tm>

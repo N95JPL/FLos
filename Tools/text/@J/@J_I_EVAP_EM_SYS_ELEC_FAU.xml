@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EVAP_EM_SYS_ELEC_FAU">
+	<tu
+    xmlns:lang="eng"
+  >Evaporative emission system leak detection pump - electrical fault detected.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Lekdetectiepomp van benzinedampafzuigsysteem - elektrische fout gedetecteerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pompe de détection des fuites dans le système de récupération des vapeurs de carburant - défaut électrique détecté.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Pumpe, Leckermittlung Kraftstoffdampf-Rückhaltesystem - elektrische Störung ermittelt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pompa rilevazione perdite sistema emissioni evaporative - rilevato guasto elettrico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エバポレーティブ エミッション システム リーク検出ポンプ － 電気的故障検出</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Bomba de detecção de fugas do sistema de controlo das emissões de vapor de combustível - detectada avaria eléctrica.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Bomba de detecção de vazamento do sistema de emissão evaporativa - falha elétrica detectada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Насос выявления утечек в системе снижения токсичности отработавших газов - обнаружена неисправность электросистемы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Bomba de detección de fugas del sistema de control de emisiones por evaporación: se detectó una anomalía eléctrica.</tu>
+	<tu xmlns:lang="chs">蒸发排放系统泄漏检测泵 - 检测到电气故障。</tu>
+	<tu xmlns:lang="kor">증발 가스 시스템 누출 감지 펌프 - 전기적 고장이 감지됨</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FuelLeakChk$I">
+	<tu xmlns:lang="eng">Fuel leak check</tu>
+	<tu xmlns:lang="nld">Controle op brandstoflekken.</tu>
+	<tu xmlns:lang="fra">Contrôle de fuite du carburant.</tu>
+	<tu xmlns:lang="deu">Prüfung auf Kraftstoffundichtigkeit.</tu>
+	<tu xmlns:lang="ita">Controllo perdite carburante.</tu>
+	<tu xmlns:lang="jpn">フューエル リーク チェック</tu>
+	<tu xmlns:lang="ptg">Verificação de fugas de combustível.</tu>
+	<tu xmlns:lang="ptb">Verificação de vazamento de combustível</tu>
+	<tu xmlns:lang="rus">Проверка на утечку топлива</tu>
+	<tu xmlns:lang="esp">Comprobación de fugas de combustible.</tu>
+	<tu xmlns:lang="chs">燃油泄漏检查</tu>
+	<tu xmlns:lang="kor">연료 누출 점검</tu>
+</tm>

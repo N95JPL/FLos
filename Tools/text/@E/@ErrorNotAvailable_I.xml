@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ErrorNotAvailable_I">
+	<tu xmlns:lang="eng">Not available.</tu>
+	<tu xmlns:lang="nld">Niet beschikbaar</tu>
+	<tu xmlns:lang="fra">Non disponible</tu>
+	<tu xmlns:lang="deu">Nicht verfügbar</tu>
+	<tu xmlns:lang="ita">Non disponibile</tu>
+	<tu xmlns:lang="jpn">入手不可能\</tu>
+	<tu xmlns:lang="ptg">Não disponível.</tu>
+	<tu xmlns:lang="ptb">Não disponível.</tu>
+	<tu xmlns:lang="rus">Не поставляется.</tu>
+	<tu xmlns:lang="esp">No está disponible</tu>
+	<tu xmlns:lang="chs">不可用。</tu>
+	<tu xmlns:lang="kor">사용할 수 없음</tu>
+</tm>

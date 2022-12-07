@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TestFailed$M">
+	<tu xmlns:lang="eng">Test failed</tu>
+	<tu xmlns:lang="nld">Test zonder resultaat</tu>
+	<tu xmlns:lang="fra">Essai non reussi</tu>
+	<tu xmlns:lang="deu">Prüfung erfolglos</tu>
+	<tu xmlns:lang="ita">Prova non superata</tu>
+	<tu xmlns:lang="jpn">ﾃｽﾄができませんでした。</tu>
+	<tu xmlns:lang="ptg">Falhou teste</tu>
+	<tu xmlns:lang="ptb">Reprovação no teste</tu>
+	<tu xmlns:lang="rus">Проверка не пройдена</tu>
+	<tu xmlns:lang="esp">No se ha superado la prueba</tu>
+	<tu xmlns:lang="chs">测试失败</tu>
+	<tu xmlns:lang="kor">테스트 실패</tu>
+</tm>

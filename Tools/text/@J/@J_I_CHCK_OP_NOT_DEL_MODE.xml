@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHCK_OP_NOT_DEL_MODE">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will check the operational state of the module, to ensure it is not in delivery mode</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal de bedrijfsstatus van de module controleren, om ervoor te zorgen dat hij niet in de afleveringsfunctie staat</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de contrôler l'état de fonctionnement du module et de s'assurer que ce dernier n'est pas en mode de livraison</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Maßnahme wird der Betriebsstatus des Steuergeräts überprüft, um sicherzustellen, dass er sich nicht im Auslieferungsmodus befindet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura verificherà lo stato operativo del modulo, per assicurare che non si trovi nella modalità di consegna</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順はモジュールの作動ステータスをチェックし、モジュールがデリバリ モードにないことを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento verificará o estado operacional do módulo, para assegurar que não se encontra no modo de alimentação</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento irá verificar o estado operacional do módulo, para garantir que ele não esteja no modo de fornecimento</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе данной процедуры проверяется рабочее состояние блока, чтобы убедиться, что он не находится в режиме доставки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento comprueba el estado de funcionamiento del módulo para asegurarse de que no está en modo de entrega</tu>
+	<tu xmlns:lang="chs">该程序将检查模块工作状态，以确保其不是处于传送模式</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 모듈의 작동 상태를 점검하여 모듈이 배송 모드에 있지 않은지 점검합니다.</tu>
+</tm>

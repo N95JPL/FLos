@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-ME2330">
+	<tu xmlns:lang="eng">Press [tick] when ready to continue</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk [vinkje] in wanneer men klaar is om verder te gaan</tu>
+	<tu xmlns:lang="fra">Appuyez sur [TICK] lorsque vous êtes prêt à continuer</tu>
+	<tu xmlns:lang="deu">Mit [HAKEN] weiter</tu>
+	<tu xmlns:lang="ita">Premere SPUNTA [TICK] quando pronto a continuare</tu>
+	<tu xmlns:lang="jpn">継続する準備ができたらティックを押してください。</tu>
+	<tu xmlns:lang="ptg">Premir [visto] quando estiver pronto para continuar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione (a marca) quando estiver pronto para continuar</tu>
+	<tu xmlns:lang="rus">Нажмите [галочку], когда будете готовы продолжить</tu>
+	<tu xmlns:lang="esp">Pulsar VALE [TICK] cuando listo para continuar</tu>
+	<tu xmlns:lang="chs">准备好时按下[勾号]继续</tu>
+	<tu xmlns:lang="kor">계속할 준비가 되면 [체크 표시]를 누릅니다.</tu>
+</tm>

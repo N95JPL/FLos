@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_TELEM_MULTI">
+	<tu xmlns:lang="eng">No telematics/multi-media</tu>
+	<tu xmlns:lang="nld">Geen telematica / multimedia</tu>
+	<tu xmlns:lang="fra">Sans télématique/multimédia</tu>
+	<tu xmlns:lang="deu">Keine Telematik/Multimedia</tu>
+	<tu xmlns:lang="ita">Senza sistema telematico/multimediale</tu>
+	<tu xmlns:lang="jpn">Telematics／マルチメディアなし</tu>
+	<tu xmlns:lang="ptg">Não existe um sistema telemático/multimédia</tu>
+	<tu xmlns:lang="ptb">Sem telemática/multimídia</tu>
+	<tu xmlns:lang="rus">Не интегрированная/мультимедийная система</tu>
+	<tu xmlns:lang="esp">Sin sistema telemático/multimedia</tu>
+	<tu xmlns:lang="chs">无音频系统/多媒体系统</tu>
+	<tu xmlns:lang="kor">텔레매틱스/멀티미디어 없음</tu>
+</tm>

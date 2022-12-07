@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SING_CD_MECH_FIT">
+	<tu xmlns:lang="eng">Single CD mechanism is fitted.</tu>
+	<tu xmlns:lang="nld">Er is een mechanisme voor één cd gemonteerd.</tu>
+	<tu xmlns:lang="fra">Mécanisme de lecteur CD monodisque installé.</tu>
+	<tu xmlns:lang="deu">Einzel-CD-Mechanismus ist eingebaut.</tu>
+	<tu xmlns:lang="ita">Meccanismo lettore CD singolo in dotazione.</tu>
+	<tu xmlns:lang="jpn">シングル CD メカニズム装備</tu>
+	<tu xmlns:lang="ptg">Está instalado mecanismo de CD único.</tu>
+	<tu xmlns:lang="ptb">Único mecanismo do CD instalado.</tu>
+	<tu xmlns:lang="rus">Установлен механизм проигрывания одного компакт-диска.</tu>
+	<tu xmlns:lang="esp">Tiene mecanismo de CD sencillo.</tu>
+	<tu xmlns:lang="chs">单CD机构已安装。</tu>
+	<tu xmlns:lang="kor">싱글 CD 메커니즘이 장착되었습니다.</tu>
+</tm>

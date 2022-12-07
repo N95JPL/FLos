@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CURRENT_KEY_STATUS">
+	<tu xmlns:lang="eng">Current key status</tu>
+	<tu xmlns:lang="nld">Huidige sleutelstatus</tu>
+	<tu xmlns:lang="fra">Etat de clé actuel</tu>
+	<tu xmlns:lang="deu">Aktueller Schlüsselstatus</tu>
+	<tu xmlns:lang="ita">Stato chiave corrente</tu>
+	<tu xmlns:lang="jpn">現在のキーのステータス</tu>
+	<tu xmlns:lang="ptg">Estado actual da chave</tu>
+	<tu xmlns:lang="ptb">Status atual da chave</tu>
+	<tu xmlns:lang="rus">Текущее состояние ключа</tu>
+	<tu xmlns:lang="esp">Estado actual de la llave</tu>
+	<tu xmlns:lang="chs">当前钥匙状态</tu>
+	<tu xmlns:lang="kor">현재 키 상태</tu>
+</tm>

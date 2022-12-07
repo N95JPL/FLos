@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REP_PROC_5_TIMES">
+	<tu xmlns:lang="eng">Repeat this procedure 5 times.</tu>
+	<tu xmlns:lang="nld">Herhaal deze procedure 5 keer.</tu>
+	<tu xmlns:lang="fra">Répétez cette procédure 5 fois.</tu>
+	<tu xmlns:lang="deu">Diese Maßnahme fünfmal wiederholen.</tu>
+	<tu xmlns:lang="ita">Ripetere questa procedura per 5 volte.</tu>
+	<tu xmlns:lang="jpn">この手順を 5 回繰り返しなさい。</tu>
+	<tu xmlns:lang="ptg">Repita este procedimento 5 vezes.</tu>
+	<tu xmlns:lang="ptb">Repita este procedimento 5 vezes.</tu>
+	<tu xmlns:lang="rus">Повторите данную процедуру 5 раз.</tu>
+	<tu xmlns:lang="esp">Repetir este procedimiento 5 veces.</tu>
+	<tu xmlns:lang="chs">重复此程序5次。</tu>
+	<tu xmlns:lang="kor">이 절차를 5회 반복하십시오.</tu>
+</tm>

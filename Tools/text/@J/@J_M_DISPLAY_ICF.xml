@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DISPLAY_ICF">
+	<tu xmlns:lang="eng">Display injector correction factors.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geef de correctiefactoren van de injector op het scherm weer.</tu>
+	<tu xmlns:lang="fra">Affichez les facteurs de correction d'injecteur.</tu>
+	<tu xmlns:lang="deu">Einspritzventil-Korrekturfaktoren anzeigen.</tu>
+	<tu xmlns:lang="ita">Visualizza i fattori di correzione iniettori.</tu>
+	<tu xmlns:lang="jpn">インジェクタ補正要因の表\示</tu>
+	<tu xmlns:lang="ptg">Visualizar os factores de correcção dos injectores.</tu>
+	<tu xmlns:lang="ptb">Exibir fatores de correção do injetor.</tu>
+	<tu xmlns:lang="rus">Отобразить коэффициенты коррекции форсунки.</tu>
+	<tu xmlns:lang="esp">Mostrar los factores de corrección de los inyectores.</tu>
+	<tu xmlns:lang="chs">显示喷油器修正系数。</tu>
+	<tu xmlns:lang="kor">인젝터 보정 계수를 표시하십시오.</tu>
+</tm>

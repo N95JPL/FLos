@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_MESSAGE_CENTRE_COMP">
+	<tu xmlns:lang="eng">Message center components</tu>
+	<tu xmlns:lang="nld">Mededelingencentrumcomponenten</tu>
+	<tu xmlns:lang="fra">Composants du centre des messages</tu>
+	<tu xmlns:lang="deu">Informationsdisplaykomponenten</tu>
+	<tu xmlns:lang="ita">Componenti display messaggi</tu>
+	<tu xmlns:lang="jpn">メッセージ セ・ター コ・ポーネ・ト</tu>
+	<tu xmlns:lang="ptg">Componentes do centro de mensagens</tu>
+	<tu xmlns:lang="ptb">Componentes da central de mensagens.</tu>
+	<tu xmlns:lang="rus">Компоненты информационной панели</tu>
+	<tu xmlns:lang="esp">Componentes del centro de información</tu>
+	<tu xmlns:lang="chs">消息中心组件</tu>
+	<tu xmlns:lang="kor">메시지 센터 구성 요소</tu>
+</tm>

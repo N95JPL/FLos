@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EXIT_WDS_T4_MAIN_MENU">
+	<tu
+    xmlns:lang="eng"
+  >To complete control module coding, please exit the Diagnostic Tool to the T4 main menu.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om de codering van de regelmodule te voltooien, sluit u het diagnosesysteem aan om terug te keren naar het T4-hoofdmenu.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour terminer le codage du module de commande, quittez l'outil de diagnostic pour retourner au menu principal du T4.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um die Steuergerätecodierung zu beenden, bitte das Diagnosesystem zum T4-Hauptmenü verlassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per completare la codifica del modulo di comando, chiudere lo strumento diagnostico e ritornare al menu principale T4.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コントロール モジュールのコーディングを完了するには、診断ツールを終了し、T4 メイン メニューへ進んでください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para concluir a codificação do módulo de controlo, saia da ferramenta de diagnóstico para o menu principal do T4.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para concluir a codificação do módulo de controle, saia da Ferramenta de Diagnóstico para o menu principal do T4.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для завершения кодирования блока управления выйдите из диагностического устройства в главное меню T4.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para completar la codificación del módulo de control, salga de la herramienta de diagnóstico al menú principal del T4.</tu>
+	<tu xmlns:lang="chs">为完成控制模块编码，请退出诊断工具以转至 T4 主菜单。</tu>
+	<tu
+    xmlns:lang="kor"
+  >컨트롤 모듈 코딩을 완료하려면 진단 도구를 종료하고 T4 주 메뉴로 돌아가십시오.</tu>
+</tm>

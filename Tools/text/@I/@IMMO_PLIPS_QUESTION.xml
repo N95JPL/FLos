@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IMMO_PLIPS_QUESTION">
+	<tu xmlns:lang="eng">Do you require plip programming?</tu>
+	<tu xmlns:lang="nld">Moet u afstandsbedieningen programmeren?</tu>
+	<tu xmlns:lang="fra">Voulez-vous reprogrammer les télécommandes ?</tu>
+	<tu xmlns:lang="deu">Müssen Fernbedienungen programmiert werden?</tu>
+	<tu xmlns:lang="ita">È necessario programmare i telecomandi?</tu>
+	<tu xmlns:lang="jpn">プリップをプログラミングする必要がありますか？</tu>
+	<tu xmlns:lang="ptg">É necessário programar 'plips'?</tu>
+	<tu xmlns:lang="ptb">Você precisa da programação de plip?</tu>
+	<tu xmlns:lang="rus">Требуется ли программировать пульты?</tu>
+	<tu xmlns:lang="esp">¿Se necesita programar los mandos a distancia?</tu>
+	<tu xmlns:lang="chs">您要进行手持式遥控器编程吗？</tu>
+	<tu xmlns:lang="kor">플립 프로그래밍이 필요하십니까?</tu>
+</tm>

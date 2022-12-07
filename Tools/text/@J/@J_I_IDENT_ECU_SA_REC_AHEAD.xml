@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IDENT_ECU_SA_REC_AHEAD">
+	<tu
+    xmlns:lang="eng"
+  >An identifier is stored in both electronic control units, and the current steering angle is recorded as the straight ahead position.</tu>
+	<tu
+    xmlns:lang="nld"
+  >In de beide elektronische regeleenheden wordt een identificatiecode opgeslagen en de huidige stuuruitslag wordt als de rechtvooruitstand vastgelegd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un identifiant est stocké dans les deux modules de commande électroniques, et l'angle de direction actuel est enregistré comme position en ligne droite.</tu>
+	<tu
+    xmlns:lang="deu"
+  >In beiden elektronischen Steuergeräten wird eine Kennung abgespeichert und der aktuelle Lenkwinkel wird als die Geradeausstellung aufgezeichnet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Viene memorizzato un identificativo in entrambe le unità di comando elettroniche e l'angolo di sterzata corrente viene registrato come posizione di marcia rettilinea.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >両方のエレクトロニック コントロール ユニットには ID 機能\が保存され、現在のステアリング アングルが直進ポジションであるとして記録されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Em ambas as unidades electrónicas de controlo é registado um identificador e o ângulo da direcção actual fica registado como sendo a posição de condução em linha recta.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Um identificador é armazenado em ambas as unidades de controle eletrônico, e o ângulo atual da direção é gravado como a posição em linha reta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Идентификатор сохраняется на обоих электронных блоках управления, и текущий угол поворота регистрируется как среднее положение колес.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se guarda un identificador en ambos módulos de control electrónico y el ángulo de dirección actual se registra como la posición de marcha en línea recta.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'一个标识符同时保存到了两个电子控制单元中，且当前转向角记录为正前方位置。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >식별자가 양쪽 전자 컨트롤 유닛에 모두 저장되고, 현재 스티어링 각도가 직진 주행 위치로 기록됩니다.</tu>
+</tm>

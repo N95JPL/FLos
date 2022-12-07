@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROC_PERF_SET_ADPT_MODE">
+	<tu
+    xmlns:lang="eng"
+  >During the set adaptation mode application the following procedures will be performed:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens het instellen van de adaptatiefunctie zullen de onderstaande procedures worden uitgevoerd:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pendant l'application du mode d'adaptation réglé, les procédures suivantes seront exécutées :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Während der Anwendung ?Anpassungsmodus einstellen? werden die folgenden Maßnahmen durchgeführt:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Durante l'applicazione della modalità di adattamento impostata, verranno eseguite le procedure seguenti:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セット補正モード アプリケーション実行中に次の手順が実行されます：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Durante a aplicação para definir o modo de adaptação, serão realizados os seguintes procedimentos:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Durante a aplicação do modo de adaptação definido, os procedimentos a seguir serão realizados:</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе выполнения приложения для включения режима адаптации будут выполнены следующие процедуры:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Durante la aplicación del modo de adaptación establecido se llevarán a cabo los siguientes procedimientos:</tu>
+	<tu xmlns:lang="chs">在设置自适应模式应用程序运行期间，将执行以下程序：</tu>
+	<tu xmlns:lang="kor">어댑테이션 모드 설정 적용 중에 다음 절차가 수행됩니다.</tu>
+</tm>

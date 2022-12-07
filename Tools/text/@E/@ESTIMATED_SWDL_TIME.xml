@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ESTIMATED_SWDL_TIME">
+	<tu xmlns:lang="eng">Estimated software download time: %s</tu>
+	<tu xmlns:lang="nld">Geschatte tijd voor het downloaden van de software: %s</tu>
+	<tu xmlns:lang="fra">Durée estimée du téléchargement : %s</tu>
+	<tu xmlns:lang="deu">Geschätzte Zeit für das Herunterladen der Software: %s</tu>
+	<tu xmlns:lang="ita">Tempo di download software previsto: %s</tu>
+	<tu xmlns:lang="jpn">ソ\フトウェアのダウンロードに必要な時間 (推定)：%s</tu>
+	<tu xmlns:lang="ptg">Tempo estimado para a transferência do software: %s</tu>
+	<tu xmlns:lang="ptb">Tempo estimado de download do software: %s</tu>
+	<tu xmlns:lang="rus">Примерное время загрузки программного обеспечения: %s</tu>
+	<tu xmlns:lang="esp">Tiempo estimado de descarga del software: %s</tu>
+	<tu xmlns:lang="chs">估计的软件下载时间：%s</tu>
+	<tu xmlns:lang="kor">예상 소프트웨어 다운로드 시간: %s</tu>
+</tm>

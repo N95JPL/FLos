@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FMH_LICENSE_PLATE_LAMPS">
+	<tu xmlns:lang="eng">Follow me home with license plate lamp</tu>
+	<tu xmlns:lang="nld">Instapverlichting met kentekenplaatlamp</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fonction d'accompagnement avec lampe de plaque d'immatriculation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beleuchtungs-Ausschaltverzögerung mit Kennzeichenleuchten</tu>
+	<tu xmlns:lang="ita">Funzione spegnimento ritardato con luce targa</tu>
+	<tu xmlns:lang="jpn">ナンバー プレート点灯を伴うリンプホーム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Iluminação temporária ao afastar-se do veículo com luz da chapa de matrícula </tu>
+	<tu xmlns:lang="ptb">Follow me home com luz da placa de licença</tu>
+	<tu xmlns:lang="rus">Задержка выключения подсветки номерного знака</tu>
+	<tu xmlns:lang="esp">Retardo de luces al salir con luz de la matrícula</tu>
+	<tu xmlns:lang="chs">牌照灯延时熄灭</tu>
+	<tu xmlns:lang="kor">번호판등을 이용한 에스코트 램프</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart41">
+	<tu
+    xmlns:lang="eng"
+  >Start a fresh drive cycle and re-run the application without using the paddle switch system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Start een nieuwe rijcyclus en voer de toepassing opnieuw uit zonder het schakelhendelsysteem te gebruiken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Démarrez un nouveau cycle de conduite et exécutez de nouveau l'application sans utiliser le système de commutateur à palette.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einen neuen Fahrzyklus starten und die Anwendung ohne Betätigung des Schaltwippensystems erneut ausführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Avviare un nuovo ciclo di guida ed eseguire nuovamente l'applicazione senza utilizzare il sistema dell'interruttore di selezione marcia.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >新たにドライブ サイクルを開始して、パドル スイッチ システムを使用せずにアプリケーションを再実行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Inicie um novo ciclo de condução e volte a executar a aplicação sem utilizar o sistema do interruptor de patilha.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Inicie um ciclo de condução novo e execute o aplicativo novamente sem utilizar o sistema do interruptor chato.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Начните новый ездовой цикл и повторно запустите приложение, не используя систему подрулевых лепестков переключения передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Inicie un nuevo ciclo de conducción y vuelva a ejecutar la aplicación sin utilizar el interruptor tipo leva.</tu>
+	<tu
+    xmlns:lang="chs"
+  >启动新的行驶周期，然后在不使用拨杆开关系统的情况下重新运行应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >주행 사이클을 새로 시작하고 패들 스위치 시스템을 사용하지 않고서 응용 프로그램을 다시 실행하십시오.</tu>
+</tm>

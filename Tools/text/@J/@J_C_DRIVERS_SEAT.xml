@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_DRIVERS_SEAT">
+	<tu xmlns:lang="eng">Driver's seat</tu>
+	<tu xmlns:lang="nld">Bestuurderszitting</tu>
+	<tu xmlns:lang="fra">Siege conducteur</tu>
+	<tu xmlns:lang="deu">Fahrersitz</tu>
+	<tu xmlns:lang="ita">Sedile del conducente</tu>
+	<tu xmlns:lang="jpn">ﾄﾞﾗｲﾊﾞー・ｼーﾄ</tu>
+	<tu xmlns:lang="ptg">Banco do condutor</tu>
+	<tu xmlns:lang="ptb">Assento do motorista</tu>
+	<tu xmlns:lang="rus">Сиденье водителя</tu>
+	<tu xmlns:lang="esp">Asiento del chofer</tu>
+	<tu xmlns:lang="chs">驾驶员一侧座椅</tu>
+	<tu xmlns:lang="kor">운전석 시트</tu>
+</tm>

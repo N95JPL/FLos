@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RESET_DPF_STORE_VAL">
+	<tu xmlns:lang="eng">Reset the diesel particulate filter stored values.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Reset de opgeslagen waarden voor het diesel-roetfilter.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Remettez à zéro les valeurs du filtre à particules diesel enregistrées.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Abgespeicherte Werte für den Diesel-Partikelfilter rücksetzen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ripristinare i valori memorizzati del filtro polveri diesel.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >記録されたディーゼル微粒子フィルター数値をリセットしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Repor os valores do filtro de partículas do Diesel gravados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Reconfigurar os valores armazenados do filtro de partículas diesel.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сбросьте сохраненные значения для противосажевого фильтра.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Restaurar los valores memorizados del filtro antipartículas Diesel.</tu>
+	<tu xmlns:lang="chs">让柴油微粒滤清器存储的值复位。</tu>
+	<tu xmlns:lang="kor">디젤 미립자 필터의 저장된 값을 재설정하십시오.</tu>
+</tm>

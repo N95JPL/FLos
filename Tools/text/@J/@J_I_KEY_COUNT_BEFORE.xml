@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_COUNT_BEFORE">
+	<tu xmlns:lang="eng">Key count (before)</tu>
+	<tu xmlns:lang="nld">Sleuteltelling (voor)</tu>
+	<tu xmlns:lang="fra">Comptage des clés (avant)</tu>
+	<tu xmlns:lang="deu">Schlüsselzählung (vor)</tu>
+	<tu xmlns:lang="ita">Conteggio chiave (prima)</tu>
+	<tu xmlns:lang="jpn">キー カウント (前)</tu>
+	<tu xmlns:lang="ptg">Contagem das chaves (antes)</tu>
+	<tu xmlns:lang="ptb">Contagem de chave (antes)</tu>
+	<tu xmlns:lang="rus">Количество ключей (после)</tu>
+	<tu xmlns:lang="esp">Recuento de llaves (antes)</tu>
+	<tu xmlns:lang="chs">钥匙计数（前）</tu>
+	<tu xmlns:lang="kor">키 카운트(이전)</tu>
+</tm>

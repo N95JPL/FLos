@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SEPARATE_PLIPS_FROM_KEYS">
+	<tu
+    xmlns:lang="eng"
+  >It will be easier to operate the plips if separated from the ignition keys for this application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens deze toepassing zult u de afstandsbedieningen gemakkelijker kunnen bedienen, wanneer zij van de contactsleutels gescheiden zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Il sera plus facile de faire fonctionner les télécommandes si vous les séparez des clés de contact pour cette application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Fernbedienungen lassen sich für diese Anwendung leichter betätigen, wenn sie von den Zündschlüsseln getrennt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sarà più facile azionare i telecomandi se sono separati dalle chiavi di accensione per questa applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションについては、イグニション キーから分離したほうがプリップを操作しやすいでしょう。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Será mais fácil accionar os 'plips' se separados das chaves de ignição para esta aplicação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Será mais fácil operar os plips se separados das chaves de ignição para este aplicativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для выполнения данного приложения пульты будет легче использовать, если снять их с ключей зажигания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para esta aplicación será más fácil utilizar los mandos a distancia si se separan de las llaves de contacto.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果为这一用途将其与点火钥匙分开，手持式遥控器操作起来将会更为方便。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션의 경우 점화 키에서 분리되어 있으면 플립을 작동하기가 더 쉬울 것입니다.</tu>
+</tm>

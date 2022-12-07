@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_PREV_CCF">
+	<tu xmlns:lang="eng">Previous working car configuration file</tu>
+	<tu xmlns:lang="nld">Vorig voertuigconfiguratiebestand voor huidig voertuig</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fichier précédent de configuration du véhicule en réparation</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vorherige Konfigurationsdatei für bearbeitetes Fahrzeug</tu>
+	<tu xmlns:lang="ita">File configurazione veicolo operativo precedente</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ひとつ前の機能\していた車両コンフィギュレーション ファイル</tu>
+	<tu xmlns:lang="ptg">Ficheiro de configuração do veículo - anterior</tu>
+	<tu xmlns:lang="ptb">Arquivo de configuração do carro de trabalho anterior</tu>
+	<tu xmlns:lang="rus">Предыдущий рабочий файл конфигурации автомобиля</tu>
+	<tu xmlns:lang="esp">Archivo de configuración anterior del vehículo actual</tu>
+	<tu xmlns:lang="chs">前一车辆配置工作文件</tu>
+	<tu xmlns:lang="kor">이전의 작동 차량 구성 파일</tu>
+</tm>

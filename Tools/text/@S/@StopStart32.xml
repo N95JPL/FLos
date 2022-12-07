@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart32">
+	<tu xmlns:lang="eng">Make sure that the wade sensing system is not active.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat het Wade Sensing-systeem niet actief is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que le système Wade Sensing n'est pas activé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass das Wattiefen-Messsystem nicht aktiv ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che il sistema di rilevamento dei guadi Wade Sensing non sia attivo.</tu>
+	<tu xmlns:lang="jpn">深水センサ システムが作動していないことを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o sistema de deteção de travessia de água não está ativo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o sistema de detecção de travessia não está ativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что датчик глубины водного препятствия Wade Sensing выключен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que el sistema Wade Sensing no está activo.</tu>
+	<tu xmlns:lang="chs">确保涉水感应系统未激活。</tu>
+	<tu xmlns:lang="kor">Wade 센싱 시스템이 활성 상태가 아닌지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DeflCompSel$T">
+	<tu xmlns:lang="eng">Select the components that require deflation.</tu>
+	<tu xmlns:lang="nld">Kies de componenten die u wilt laten leeglopen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélectionnez les composants qui doivent être dégonflés.</tu>
+	<tu xmlns:lang="deu">Bauteile auswählen, die entlüftet werden müssen.</tu>
+	<tu xmlns:lang="ita">Selezionare i componenti da sgonfiare.</tu>
+	<tu xmlns:lang="jpn">減圧の必要なコンポーネントを選択しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccione os componentes que necessitam de retirada de ar.</tu>
+	<tu xmlns:lang="ptb">Selecione os componentes que exigem o esvaziamento.</tu>
+	<tu xmlns:lang="rus">Выберите компоненты, требующие выпуска воздуха.</tu>
+	<tu xmlns:lang="esp">Seleccionar los componentes que hay que desinflar.</tu>
+	<tu xmlns:lang="chs">选择需要放气的部件。</tu>
+	<tu xmlns:lang="kor">감압이 필요한 구성 요소를 선택하십시오.</tu>
+</tm>

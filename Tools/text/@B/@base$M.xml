@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@base$M">
+	<tu xmlns:lang="eng">Base</tu>
+	<tu xmlns:lang="nld">Basis</tu>
+	<tu xmlns:lang="fra">Base</tu>
+	<tu xmlns:lang="deu">Basis</tu>
+	<tu xmlns:lang="ita">Base</tu>
+	<tu xmlns:lang="jpn">ベース</tu>
+	<tu xmlns:lang="ptg">Base</tu>
+	<tu xmlns:lang="ptb">Base</tu>
+	<tu xmlns:lang="rus">Базовый</tu>
+	<tu xmlns:lang="esp">Base</tu>
+	<tu xmlns:lang="chs">基础</tu>
+	<tu xmlns:lang="kor">베이스</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMPLETE_FULL_TEST">
+	<tu
+    xmlns:lang="eng"
+  >The full test must be completed, even if one or more required limits are not reached during this test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De test moet helemaal worden uitgevoerd, ook als een of meer van de vereiste limieten niet worden bereikt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un test complet doit être lancé même si une ou plusieurs limites/butées ne sont pas atteintes pendant ce test.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der gesamte Test muss vollständig abgeschlossen werden, selbst wenn einer oder mehrere der geforderten Grenzwerte bei diesem Test nicht erreicht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È necessario completare la prova interamente anche se uno o più limiti richiesti non sono raggiunti durante lo svolgimento della prova.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテスト中に、ひとつあるいはそれ以上の必要なリミット位置への到達がなくとも、フル テストを完了しなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É necessário realizar o teste até ao fim, mesmo que não sejam atingidos um ou mais limites exigidos durante o mesmo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O teste completo deve ser concluído, mesmo que um ou mais limites necessários não sejam atingidos durante esse teste.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Необходимо провести полную проверку, даже если в ходе этого теста одно или несколько требуемых ограничений не были достигнуты.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Debe realizarse la comprobación completa, aunque no se alcancen uno o más límites requeridos durante la misma.</tu>
+	<tu
+    xmlns:lang="chs"
+  >即使在本测试中没有达到一个或多个要求的限止位置，也必须完成全面测试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 테스트를 수행하는 동안에 요구되는 한계에 하나 이상 도달하지 못한 경우라도 전체 테스트를 완료해야 합니다.</tu>
+</tm>

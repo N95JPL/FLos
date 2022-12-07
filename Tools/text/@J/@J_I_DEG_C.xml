@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DEG_C">
+	<tu xmlns:lang="eng">°C (degrees celcius)</tu>
+	<tu xmlns:lang="nld">Graden Celsius</tu>
+	<tu xmlns:lang="fra">°C</tu>
+	<tu xmlns:lang="deu">Grad Celsius</tu>
+	<tu xmlns:lang="ita">Gradi Centigradi</tu>
+	<tu xmlns:lang="jpn">摂氏度数</tu>
+	<tu xmlns:lang="ptg">Graus Celsius</tu>
+	<tu xmlns:lang="ptb">°C (graus Celcius)</tu>
+	<tu xmlns:lang="rus">Градусы Цельсия</tu>
+	<tu xmlns:lang="esp">Grados centígrados</tu>
+	<tu xmlns:lang="chs">摄氏度</tu>
+	<tu xmlns:lang="kor">°C(섭씨)</tu>
+</tm>

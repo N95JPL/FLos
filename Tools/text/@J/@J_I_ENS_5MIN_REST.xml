@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENS_5MIN_REST">
+	<tu
+    xmlns:lang="eng"
+  >Make sure that the application is carried out within 5 minutes of the vehicle coming to rest.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De toepassing moet binnen 5 minuten nadat het voertuig tot stilstand is gekomen, worden uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application doit être exécutée dans les 5 minutes suivant l'arrêt du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass das Anwendungsprogramm innerhalb von 5 Minuten laufen gelassen wird, nachdem das Fahrzeug zum Stillstand kam.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che l'applicazione venga eseguita entro 5 minuti dall'arresto del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両が休止状態になってから 5 分以内にアプリケーションを実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que a aplicação é executada no espaço de 5 minutos a seguir ao descanso do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a aplicação é realizada dentro de 5 minutos no veículo em repouso.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное приложение необходимо выполнить в течение 5 минут после остановки автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La aplicación debe ejecutarse en los 5 minutos siguientes al momento de parar el vehículo.</tu>
+	<tu xmlns:lang="chs">确保在车辆停下后的5分钟之内运行此应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 정지 후 5분 이내에 이 애플리케이션이 수행되는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CfgSpecialApps">
+	<tu xmlns:lang="eng">Special applications.</tu>
+	<tu xmlns:lang="nld">Speciale toepassingen</tu>
+	<tu xmlns:lang="fra">Applications spéciales</tu>
+	<tu xmlns:lang="deu">Spezialanwendungen</tu>
+	<tu xmlns:lang="ita">Applicazioni speciali</tu>
+	<tu xmlns:lang="jpn">スペシャル アプリケーション</tu>
+	<tu xmlns:lang="ptg">Aplicações especiais.</tu>
+	<tu xmlns:lang="ptb">Aplicações especiais.</tu>
+	<tu xmlns:lang="rus">Специальные программы.</tu>
+	<tu xmlns:lang="esp">Aplicaciones especiales</tu>
+	<tu xmlns:lang="chs">特殊应用</tu>
+	<tu xmlns:lang="kor">특수 응용 프로그램</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ASBUILT_CORRUPT">
+	<tu xmlns:lang="eng">Corrupt or Incomplete As-Built data.</tu>
+	<tu xmlns:lang="nld">Corrupte of onvolledige af-fabriekgegevens.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Données des caractéristiques d'origine corrompues ou incomplètes.</tu>
+	<tu xmlns:lang="deu">Beschädigte oder unvollständige werkseitige Baudaten.</tu>
+	<tu xmlns:lang="ita">Dati di fabbricazione danneggiati o incompleti.</tu>
+	<tu xmlns:lang="jpn">アズビルト データが破損しているか、または不完全です。</tu>
+	<tu xmlns:lang="ptg">Dados de fábrica corrompidos ou incompletos.</tu>
+	<tu xmlns:lang="ptb">Dados de Fábrica Corrompidos ou Incompletos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Поврежденные или неполные данные файла заводских настроек.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los datos de configuración de fábrica están dañados o incompletos.</tu>
+	<tu xmlns:lang="chs">损坏或不完整的出厂数据。</tu>
+	<tu
+    xmlns:lang="kor"
+  >애즈-빌트(As-Built) 데이터가 손상되었거나 불완전합니다.</tu>
+</tm>

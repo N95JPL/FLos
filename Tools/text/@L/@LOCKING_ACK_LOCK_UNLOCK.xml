@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LOCKING_ACK_LOCK_UNLOCK">
+	<tu xmlns:lang="eng">Acknowledge both locking and unlocking</tu>
+	<tu xmlns:lang="nld">Bevestig zowel vergrendeling als ontgrendeling</tu>
+	<tu
+    xmlns:lang="fra"
+  >Confirme aussi bien le verrouillage que le déverrouillage</tu>
+	<tu xmlns:lang="deu">Verriegelung und Entriegelung bestätigen</tu>
+	<tu xmlns:lang="ita">Confermare bloccaggio e sbloccaggio</tu>
+	<tu xmlns:lang="jpn">ロッキング、アンロッキングの両方を確認</tu>
+	<tu xmlns:lang="ptg">Confirma trancagem e destrancagem</tu>
+	<tu xmlns:lang="ptb">Reconhecer travamento e destravamento</tu>
+	<tu xmlns:lang="rus">Подтвердите запирание и отпирание</tu>
+	<tu xmlns:lang="esp">Reconocer tanto el bloqueo como el desbloqueo</tu>
+	<tu xmlns:lang="chs">确认锁闭及解锁</tu>
+	<tu xmlns:lang="kor">잠금 및 잠금 해제를 모두 확인함</tu>
+</tm>

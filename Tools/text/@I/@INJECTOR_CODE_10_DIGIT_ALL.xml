@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INJECTOR_CODE_10_DIGIT_ALL">
+	<tu
+    xmlns:lang="eng"
+  >The injector and associated packaging will have the unique 10 digit code; this full code will need to be entered above within the correct cylinder number.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Op de injector en de bijbehorende verpakking zal een unieke 10-cijferige code staan; u dient deze volledige code voor het juiste cilindernummer hierboven in te voeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'injecteur et l'emballage associé disposent d'un code à 10 caractères unique ; ce code complet devra être saisi au-dessus du numéro de cylindre correct.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf dem Einspritzventil bzw. der zugehörigen Verpackung ist der unverwechselbare 10-stellige Code angegeben; dieser Code muss oben vollständig für die zugehörige Zylindernummer eingegeben werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'iniettore e l'imballaggio associato avranno un codice numerico univoco a 10 cifre; è necessario immettere questo codice per intero qui sopra, assieme al numero del cilindro corretto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インジェクタおよび関連パッケージには独自の 10 桁コードがあります。このフルコードを上記の正しいシリンダ ナンバー内に入力する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O injector e a embalagem correspondente terão o código único de 10 dígitos; esse código terá de ser introduzido acima, junto com o número do cilindro correcto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O injetor e as embalagens associadas terão o exclusivo código de 10 dígitos; esse código completo precisará ser digitado acima no número do cilindro correto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Форсунка и соответствующая сборка будет иметь уникальный 10-значный код; этот код необходимо полностью ввести выше в поле цилиндра с соответствующим номером.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El inyector y el embalaje asociado tendrá el código exclusivo de 10 dígitos, el cual se debe escribir completo arriba en el número de cilindro correcto.</tu>
+	<tu
+    xmlns:lang="chs"
+  >喷油器及相关包装上有独有的10位代码；这一完整代码将需要在正确的气缸编号上方输入。</tu>
+	<tu
+    xmlns:lang="kor"
+  >인젝터와 관련 포장에는 고유한 10자리 코드가 있는데, 위에서 알맞은 실린더 번호 내에 이 코드 전체를 입력해야 합니다.</tu>
+</tm>

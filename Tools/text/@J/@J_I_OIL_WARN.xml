@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OIL_WARN">
+	<tu xmlns:lang="eng">Oil warning</tu>
+	<tu xmlns:lang="nld">Oliewaarschuwing</tu>
+	<tu xmlns:lang="fra">Avertissement huile</tu>
+	<tu xmlns:lang="deu">Ölwarnung</tu>
+	<tu xmlns:lang="ita">Avvertenza olio</tu>
+	<tu xmlns:lang="jpn">オイル警告</tu>
+	<tu xmlns:lang="ptg">Aviso de óleo</tu>
+	<tu xmlns:lang="ptb">Aviso de óleo</tu>
+	<tu xmlns:lang="rus">Сигнализатор по маслу</tu>
+	<tu xmlns:lang="esp">Testigo de nivel de aceite</tu>
+	<tu xmlns:lang="chs">机油警告</tu>
+	<tu xmlns:lang="kor">오일 경고</tu>
+</tm>

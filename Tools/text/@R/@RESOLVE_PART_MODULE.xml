@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RESOLVE_PART_MODULE">
+	<tu xmlns:lang="eng">Resolving parts for %s module</tu>
+	<tu xmlns:lang="nld">Onderdelen voor %s-module oplossen</tu>
+	<tu xmlns:lang="fra">Correction des éléments pour le module %s</tu>
+	<tu xmlns:lang="deu">Teile für %s-Steuergerät werden geklärt</tu>
+	<tu xmlns:lang="ita">Risoluzione parti in corso per il modulo %s</tu>
+	<tu xmlns:lang="jpn">%s モジュール用のパーツを解析・特定しています</tu>
+	<tu xmlns:lang="ptg">A rectificar componentes para o módulo %s</tu>
+	<tu xmlns:lang="ptb">Resolver partes para módulo %s</tu>
+	<tu xmlns:lang="rus">Идет получение компонентов для блока %s</tu>
+	<tu xmlns:lang="esp">Corrigiendo componentes del módulo %s</tu>
+	<tu xmlns:lang="chs">正在解决 %s 模块的零部件</tu>
+	<tu xmlns:lang="kor">%s 모듈 부품 해결</tu>
+</tm>

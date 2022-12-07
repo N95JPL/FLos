@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_INS_KEY_WHEN_INSTRUCT">
+	<tu xmlns:lang="eng">Do not insert the key before this instruction.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Steek de sleutel niet in voordat u deze instructie krijgt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >N'insérez pas la clé avant d'en recevoir l'instruction.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den Schlüssel nicht vor Anzeige dieser Anleitung einstecken.</tu>
+	<tu xmlns:lang="ita">Non inserire la chiave prima di questa istruzione.</tu>
+	<tu xmlns:lang="jpn">この指示の前にキーを挿入してはなりません。</tu>
+	<tu xmlns:lang="ptg">Não introduzir a chave antes desta instrução.</tu>
+	<tu xmlns:lang="ptb">Não insira a chave antes desta instrução.</tu>
+	<tu xmlns:lang="rus">Не вставляйте ключ до этого указания.</tu>
+	<tu xmlns:lang="esp">No insertar la llave antes de esta instrucción.</tu>
+	<tu xmlns:lang="chs">完成此指令之前不可插入车钥。</tu>
+	<tu xmlns:lang="kor">이 지시가 표시되기 전에는 키를 삽입하지 마십시오.</tu>
+</tm>

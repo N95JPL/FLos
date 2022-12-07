@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INCORR_REC_FIT_MKT">
+	<tu xmlns:lang="eng">Incorrect receiver fitted for this market.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is een ontvanger geïnstalleerd die voor deze markt onjuist is.</tu>
+	<tu xmlns:lang="fra">Récepteur installé incorrect pour ce marché.</tu>
+	<tu xmlns:lang="deu">Falscher Empfänger für diesen Absatzmarkt eingebaut.</tu>
+	<tu xmlns:lang="ita">Montato ricevitore non corretto per questo mercato.</tu>
+	<tu xmlns:lang="jpn">この市場に不適合のレシーバが取り付けられています。</tu>
+	<tu xmlns:lang="ptg">Receptor montado é incorrecto para este mercado.</tu>
+	<tu xmlns:lang="ptb">Receptor incorreto instalado nesse mercado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлен приемник, не предназначенный для данного рынка.</tu>
+	<tu xmlns:lang="esp">El receptor instalado es incorrecto para este mercado.</tu>
+	<tu xmlns:lang="chs">给此市场安装了不正确的接收器。</tu>
+	<tu xmlns:lang="kor">이 시장에 맞지 않는 수신기가 장착됨</tu>
+</tm>

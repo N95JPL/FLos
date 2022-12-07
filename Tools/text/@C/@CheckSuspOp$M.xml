@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckSuspOp$M">
+	<tu
+    xmlns:lang="eng"
+  >With the engine running and all doors closed, ensure the air suspension is functioning and the vehicle height can be raised and lowered using the air suspension switch.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer terwijl de motor loopt en alle portieren dicht zijn of de luchtvering werkt en de voertuighoogte met de schakelaar voor luchtvering omhoog en omlaag gaat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Moteur en marche et toutes portes fermées, vérifiez que la suspension pneumatique fonctionne et que le véhicule peut être relevé et abaissé avec le commutateur de suspension pneumatique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei laufendem Motor und geschlossenen Türen sicherstellen, dass die Luftfederung arbeitet und die Fahrhöhe mit der Luftfederungstaste angehoben und abgesenkt werden kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Con il motore acceso e tutte le portiere chiuse, controllare che la sospensione pneumatica funzioni e che tramite il relativo interruttore si possa aumentare e abbassare l'altezza del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンがかかった状態で、すべてのドアを閉じ、エア サスペンション スイッチを使用して、エア サスペンション機能\により車高が上昇／下降することを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Com o motor a trabalhar e todas as portas fechadas, certifique-se de que a suspensão pneumática está a funcionar e de que a altura do veículo pode ser elevada e baixada utilizando o interruptor da suspensão pneumática.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Com o motor em funcionamento e todas as portas fechadas, certifique-se de que a suspensão a ar esteja funcionando e a altura do veículo possa ser levantada e abaixada usando o interruptor de suspensão a ar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что двигатель работает, все двери закрыты, пневматическая подвеска функционирует, а высоту автомобиля можно увеличивать и уменьшать при помощи выключателя пневматической подвески.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Con el motor en marcha y todas las puertas cerradas, verificar que la suspensión neumática funcione y que pueda subir y bajar la altura del vehículo mediante uso del interruptor de la suspensión neumática.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'在发动机运转和所有车门关闭时，确保使用空气悬架开关可使空气悬架工作，同时车辆高度可升降。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진이 작동하고 있고 모든 도어가 닫힌 상태에서, 에어 서스펜션이 제대로 작동하고 에어 서스펜션 스위치를 사용하여 차고를 올리고 내릴 수 있는지 확인하십시오.</tu>
+</tm>

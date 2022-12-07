@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@USASpec$Q">
+	<tu xmlns:lang="eng">Is the vehicle built to North American specification?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuig gebouwd volgens NOORD-AMERIKAANSE SPECIFICATIES</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule est-il construit selon les spécifications NORD AMERICAINES</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist das Fahrzeug nach NORDAMERIKANISCHEN Spezifikationen gebaut</tu>
+	<tu
+    xmlns:lang="ita"
+  >E costruita la vettura secondo specificazione nordamericana</tu>
+	<tu xmlns:lang="jpn">車両は北米仕様ですか</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo foi construído com especificações para a América do Norte?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A montagem do veículo está de acordo com as especificações da América do Norte?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль собран в соответствии со спецификациями для Северной Америки?</tu>
+	<tu
+    xmlns:lang="esp"
+  >Está construido el coche según especificación norteamericano</tu>
+	<tu xmlns:lang="chs">车辆是按照北美规格制造的吗？</tu>
+	<tu xmlns:lang="kor">차량이 북미 사양에 따라 제조되었습니까?</tu>
+</tm>

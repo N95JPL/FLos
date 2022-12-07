@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ALARMS_PER_P_CAUSE">
+	<tu xmlns:lang="eng">Number of alarms per perimeter cause.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Aantal keren dat het alarm afgaat per perimeteroorzaak.</tu>
+	<tu xmlns:lang="fra">Nombre d'alarmes par cause périmétrique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anzahl der Alarme pro Auslösung durch Perimeterüberwachung.</tu>
+	<tu xmlns:lang="ita">Numero di allarmi per causa perimetrale.</tu>
+	<tu xmlns:lang="jpn">周辺原因ごとのアラーム回数</tu>
+	<tu xmlns:lang="ptg">Número de alarmes por causa no perímetro.</tu>
+	<tu xmlns:lang="ptb">Número de alarmes por razão do perímetro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Количество сигналов тревоги на причину, связанную с охраной периметра.</tu>
+	<tu xmlns:lang="esp">Número de alarmas por causa perimétrica.</tu>
+	<tu xmlns:lang="chs">每个周边原因引发的报警次数。</tu>
+	<tu xmlns:lang="kor">주변 원인당 알람 횟수</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VinallReadyStored$I">
+	<tu
+    xmlns:lang="eng"
+  >Specified vehicle identification number (from the vehicle configuration) already stored.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het gespecificeerde voertuigidentificatienummer (uit de voertuigconfiguratie) is reeds opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Numéro d'identification du véhicule spécifié (de la configuration du véhicule) déjà enregistré.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Angegebene Fahrzeug-Identifizierungsnummer (aus der Fahrzeugkonfiguration) bereits gespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Già memorizzato numero di identificazione veicolo specificato (da configurazione veicolo).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >特定車両 ID ナンバー (車両コンフィギュレーションからの) がすでに保存されています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número de identificação do veículo especificado (da configuração do veículo) já está gravado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Número de identificação do veículo especificado (da configuração do veículo) já armazenado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Указанный идентификационный номер автомобиля уже сохранен (из блока конфигурации автомобиля).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ya está memorizado el número de identificación del vehículo especificado (de la configuración del vehículo).</tu>
+	<tu xmlns:lang="chs">已经存储了（车辆配置）规定的车辆标识号。</tu>
+	<tu xmlns:lang="kor">규정된 차량 식별 번호가 이미 저장됨(차량 구성을 통해)</tu>
+</tm>

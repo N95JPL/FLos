@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart3">
+	<tu
+    xmlns:lang="eng"
+  >Monitor the primary battery state of charge which should be seen to increase.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer de laadtoestand van de primaire accu, u moet deze zien toenemen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Surveillez l'état de charge de la batterie principale qui doit augmenter visiblement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den Ladezustand der Hauptbatterie überwachen; dieser sollte sich erhöhen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Monitorare lo stato di carica della batteria principale che deve aumentare.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プライマリ バッテリーの充電状態を監視してください。上昇するはずです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Monitorize o estado de carga da bateria primária que deverá aumentar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Monitore o estado de carga da bateria primária, que deverá aumentar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отслеживайте заряд основной аккумуляторной батареи — он должен заметно увеличиваться.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Monitorice el estado de carga de la batería principal que debe aumentar.</tu>
+	<tu xmlns:lang="chs">监测主蓄电池的电荷状态，应该观察到电荷增加。</tu>
+	<tu
+    xmlns:lang="kor"
+  >기본 배터리 충전 상태가 증가하는 것으로 보이는지 모니터링하십시오.</tu>
+</tm>

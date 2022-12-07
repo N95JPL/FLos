@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CAU_PROG_CM_EXC_80_FAIL">
+	<tu
+    xmlns:lang="eng"
+  >Caution: attempting to program a control module when the ambient temperature in the region of the module exceeds 80 °C may result in a failure to program.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Let op: als u een regelmodule probeert te programmeren terwijl de omgevingstemperatuur in de buurt van de module hoger dan 80 °C is, kan het programmeren mislukken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attention : toute tentative de programmation d'un module de commande alors que la température ambiante au niveau du module dépasse 80°C risque d'entraîner un échec du programme.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vorsicht: Liegt die Außenlufttemperatur in der Nähe eines Steuergeräts über 80 °C, dann die Programmierung des Steuergeräts fehlschlagen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attenzione: la tentata programmazione di un modulo di comando ad una temperatura ambiente circostante superiore a 80°C può risultare nella mancata programmazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >注意：コントロール モジュールの周辺温度が摂氏 80 度を超える状態で、モジュールのプログラミングを試みると失敗する可能\性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Atenção: a tentativa para programar um módulo de comando quando a temperatura ambiente em redor do módulo ultrapassa os 80 °C pode impossibilitar a programação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Atenção: tentar programar um módulo de controle quando a temperatura ambiente na região do módulo exceder 80°C pode resultar em uma falha no programa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Предостережение: попытка запрограммировать блок управления, когда температура атмосферного воздуха в зоне блока превышает 80 °C, может привести к сбою процесса программирования.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Atención: si se intenta programar un módulo de control cuando la temperatura ambiente alrededor del módulo excede de 80 °C, es posible que la programación no se complete.</tu>
+	<tu
+    xmlns:lang="chs"
+  >注意：如果控制模块的区域环境温度超过 80 °C 时尝试对此模块编程，则可能导致编程失败</tu>
+	<tu
+    xmlns:lang="kor"
+  >주의: 모듈 영역에서 외부 온도가 80°C를 초과할 때 컨트롤 모듈을 프로그래밍하려고 하면 프로그램에 실패할 수 있습니다.</tu>
+</tm>

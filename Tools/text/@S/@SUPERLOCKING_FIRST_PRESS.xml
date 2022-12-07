@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SUPERLOCKING_FIRST_PRESS">
+	<tu xmlns:lang="eng">First press superlock</tu>
+	<tu xmlns:lang="nld">Supervergrendelen bij eerst druk op toets.</tu>
+	<tu xmlns:lang="fra">Superverrouillage à une pression.</tu>
+	<tu xmlns:lang="deu">Doppelverriegelung bei erstem Drücken</tu>
+	<tu xmlns:lang="ita">Premere prima Superlock</tu>
+	<tu xmlns:lang="jpn">ファースト プレス スーパーロック</tu>
+	<tu xmlns:lang="ptg">Supertrancagem ao primeiro toque</tu>
+	<tu xmlns:lang="ptb">Supertravamento no primeiro pressionamento</tu>
+	<tu xmlns:lang="rus">Сначала нажмите кнопку 'superlock'</tu>
+	<tu xmlns:lang="esp">Cierre con enclavamiento: primera pulsación</tu>
+	<tu xmlns:lang="chs">首先按下超级锁定</tu>
+	<tu xmlns:lang="kor">먼저 슈퍼록을 누르십시오.</tu>
+</tm>

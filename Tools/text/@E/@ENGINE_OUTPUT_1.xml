@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENGINE_OUTPUT_1">
+	<tu xmlns:lang="eng">Engine output 1</tu>
+	<tu xmlns:lang="nld">Uitvoersignaal 1 van motor
+</tu>
+	<tu xmlns:lang="fra">Sortie moteur 1
+</tu>
+	<tu xmlns:lang="deu">Motorausgang 1
+</tu>
+	<tu xmlns:lang="ita">Output 1 motore
+</tu>
+	<tu xmlns:lang="jpn">エンジン アウトプット 1
+</tu>
+	<tu xmlns:lang="ptg">Saída do motor 1
+</tu>
+	<tu xmlns:lang="ptb">Saída do motor 1</tu>
+	<tu xmlns:lang="rus">Выход двигателя 1
+</tu>
+	<tu xmlns:lang="esp">Señal de salida del motor 1
+</tu>
+	<tu xmlns:lang="chs">发动机输出1
+</tu>
+	<tu xmlns:lang="kor">엔진 출력 1</tu>
+</tm>

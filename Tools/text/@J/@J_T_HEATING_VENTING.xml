@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_HEATING_VENTING">
+	<tu xmlns:lang="eng">412-02 Heating and venting</tu>
+	<tu xmlns:lang="nld">412-02 Verwarming en ventilatie</tu>
+	<tu xmlns:lang="fra">412-02 Chauffage et ventilation</tu>
+	<tu xmlns:lang="deu">412-02 Heizung und Belüftung</tu>
+	<tu xmlns:lang="ita">412-02 Riscaldamento e ventilazione</tu>
+	<tu xmlns:lang="jpn">412-02 ヒーティングおよびベンチレーション</tu>
+	<tu xmlns:lang="ptg">412-02 Aquecimento e ventilação</tu>
+	<tu xmlns:lang="ptb">412-02 Aquecimento e ventilação</tu>
+	<tu xmlns:lang="rus">412-02 Обогрев и вентиляция</tu>
+	<tu xmlns:lang="esp">412-02 Calefacción y ventilación</tu>
+	<tu xmlns:lang="chs">412-02加热与通风</tu>
+	<tu xmlns:lang="kor">412-02 난방 및 환기</tu>
+</tm>

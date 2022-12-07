@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_STATUS_NORMAL_OP_MODE">
+	<tu xmlns:lang="eng">Normal operation mode</tu>
+	<tu xmlns:lang="nld">Normale bedrijfsmodus</tu>
+	<tu xmlns:lang="fra">Mode de fonctionnement normal.</tu>
+	<tu xmlns:lang="deu">Normaler Betriebsmodus</tu>
+	<tu xmlns:lang="ita">Modalità di funzionamento normale</tu>
+	<tu xmlns:lang="jpn">通常作動モード</tu>
+	<tu xmlns:lang="ptg">Modo de funcionamento normal</tu>
+	<tu xmlns:lang="ptb">Modo de operação normal</tu>
+	<tu xmlns:lang="rus">Нормальный режим работы</tu>
+	<tu xmlns:lang="esp">Modo de funcionamiento normal</tu>
+	<tu xmlns:lang="chs">驻车操作模式</tu>
+	<tu xmlns:lang="kor">정상 작동 모드</tu>
+</tm>

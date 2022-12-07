@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_SEL_OPT_ACCESS">
+	<tu
+    xmlns:lang="eng"
+  >Please select the option you require for the chosen accessory.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Selecteer de optie die u voor de gekozen accessoire nodig hebt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez sélectionner l'option requise pour l'accessoire choisi.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die benötigte Option für das ausgewählte Zubehör auswählen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezionare l'opzione richiesta per l'accessorio scelto.</tu>
+	<tu xmlns:lang="jpn">選択されたアクセサリに必要なオプションを選択しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccionar a opção necessária para o acessório escolhido.</tu>
+	<tu xmlns:lang="ptb">Selecione a opção que você deseja para o acessório.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выберите нужную опцию для выбранного дополнительного оборудования.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccionar la opción requerida para el accesorio seleccionado.</tu>
+	<tu xmlns:lang="chs">请为选定的附件选择您所要求的选项。</tu>
+	<tu xmlns:lang="kor">선택한 액세서리에 필요한 옵션을 선택하십시오.</tu>
+</tm>

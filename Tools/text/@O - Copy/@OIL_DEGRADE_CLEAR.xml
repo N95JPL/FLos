@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@OIL_DEGRADE_CLEAR">
+	<tu xmlns:lang="eng">Clear oil degradation</tu>
+	<tu xmlns:lang="nld">Wis de olieverslechteringsteller</tu>
+	<tu xmlns:lang="fra">Effacer la dégradation de l'huile</tu>
+	<tu xmlns:lang="deu">Ölzustandsverschlechterung löschen</tu>
+	<tu xmlns:lang="ita">Cancellare la degradazione dell'olio</tu>
+	<tu xmlns:lang="jpn">オイル劣化のクリア</tu>
+	<tu xmlns:lang="ptg">Degradação clara do óleo</tu>
+	<tu xmlns:lang="ptb">Apagar degradação do óleo</tu>
+	<tu xmlns:lang="rus">Очистка данных о старении масла</tu>
+	<tu xmlns:lang="esp">Borrar deterioro del aceite</tu>
+	<tu xmlns:lang="chs">给机油退化降级清零</tu>
+	<tu xmlns:lang="kor">오일 품질 저하 삭제</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_QV_MEMSEAT">
+	<tu xmlns:lang="eng">Memory seat</tu>
+	<tu xmlns:lang="nld">Stoel met geheugen</tu>
+	<tu xmlns:lang="fra">Siège à mémoire</tu>
+	<tu xmlns:lang="deu">Sitzpositionsspeicherung</tu>
+	<tu xmlns:lang="ita">Sedile con memoria</tu>
+	<tu xmlns:lang="jpn">メモリ シート</tu>
+	<tu xmlns:lang="ptg">Banco com memória</tu>
+	<tu xmlns:lang="ptb">Assento com memória</tu>
+	<tu xmlns:lang="rus">Сиденье с функцией памяти положений</tu>
+	<tu xmlns:lang="esp">Asiento con memoria</tu>
+	<tu xmlns:lang="chs">记忆座椅</tu>
+	<tu xmlns:lang="kor">메모리 시트</tu>
+</tm>

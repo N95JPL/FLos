@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DTC_P0620_01">
+	<tu xmlns:lang="eng">P0620-01 - Generator electrical fault</tu>
+	<tu xmlns:lang="nld">P0620-01 - Elektrische storing in de dynamo</tu>
+	<tu xmlns:lang="fra">P0620-01 - Défaut électrique de l'alternateur</tu>
+	<tu xmlns:lang="deu">P0620-01 - Generator - Elektrikstörung</tu>
+	<tu xmlns:lang="ita">P0620-01 - Guasto elettrico del generatore</tu>
+	<tu xmlns:lang="jpn">P0620-01 - ジェネレータの電気的故障</tu>
+	<tu xmlns:lang="ptg">P0620-01 - Avaria eléctrica no alternador</tu>
+	<tu xmlns:lang="ptb">P0620-01 - Falha elétrica do alternador</tu>
+	<tu xmlns:lang="rus">P0620-01 - электрическая неисправность генератора</tu>
+	<tu xmlns:lang="esp">P0620-01 - Fallo eléctrico del alternador</tu>
+	<tu xmlns:lang="chs">P0620-01--发电机电气故障</tu>
+	<tu xmlns:lang="kor">P0620-01 - 제너레이터의 전기적 고장</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FRT_ACT_SBELT_PRE">
+	<tu xmlns:lang="eng">Front active safety belt retractor pre-tensioner</tu>
+	<tu
+    xmlns:lang="nld"
+  >Actieve voorspanner van oprolmechanisme van veiligheidsgordel voor</tu>
+	<tu
+    xmlns:lang="fra"
+  >Prétensionneur rétracteur de boucle de ceinture de sécurité active avant</tu>
+	<tu xmlns:lang="deu">Aufrollautomatik Gurtstraffer vorn aktiv</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pretensionatore riavvolgitore cintura di sicurezza attiva anteriore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フロント アクティブ シートベルト リトラクタ プリテンショナ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pré-tensor activo do carreto de inércia do cinto de segurança dianteiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pré-tensionador do retrator do cinto de segurança ativo dianteiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Преднатяжитель инерционного барабана переднего активного ремня безопасности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pretensor del retractor del cinturón de seguridad activo delantero</tu>
+	<tu xmlns:lang="chs">前部主动安全带伸缩器预紧器</tu>
+	<tu xmlns:lang="kor">전방 능동 안전 벨트 리트랙터 프리텐셔너</tu>
+</tm>

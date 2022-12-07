@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_VALID">
+	<tu
+    xmlns:lang="eng"
+  >Key valid, allocated slot number (%d), failed to verify due to incorrect challenge response.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Sleutel is geldig, toegewezen geheugenplaatsnummer (%d), verificatie mislukt vanwege verkeerd antwoord bij controle op juistheid.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Clé valide, numéro d'emplacement alloué (%d), échec de vérification dû à une réponse incorrecte à l'interrogation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Schlüssel gültig, zugeteilte Platznummer (%d), konnte aufgrund falscher Antwort auf Anforderung nicht verifiziert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Chiave valida, numero slot allocato (%d) - impossibile verificare a causa di una risposta di verifica incorretta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >キーは有効、スロット ナンバー (%d) 割り当て済み、チャレンジ レスポンス不良のため正当性確認に失敗</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Chave válida, ranhura atribuída número  (%d), não conseguiu verificar devido a resposta errada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Chave válida, número da ranhura alocada (%d), falha na verificação, em decorrência da resposta incorreta ao desafio.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ключ действующий, выделенный номер слота (%d), ошибка верификации вследствие неправильного ответа на запрос.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Llave válida, número de ranura asignado (%d), no fue verificada debido a una respuesta incorrecta a la solicitud de identificación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'钥匙有效，已分配槽号码（%d），由于不正确的询问应答而未能验证。</tu>
+	<tu
+    xmlns:lang="kor"
+  >키가 유효함, 할당된 슬롯 번호(%d), 챌린지 응답이 올바르지 않아 확인에 실패함</tu>
+</tm>

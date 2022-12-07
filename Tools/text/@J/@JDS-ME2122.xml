@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-ME2122">
+	<tu xmlns:lang="eng">Reading</tu>
+	<tu xmlns:lang="nld">AFLEZEN</tu>
+	<tu xmlns:lang="fra">LECTURE</tu>
+	<tu xmlns:lang="deu">ABLESEN</tu>
+	<tu xmlns:lang="ita">LETTURA</tu>
+	<tu xmlns:lang="jpn">読み取り中</tu>
+	<tu xmlns:lang="ptg">Leitura</tu>
+	<tu xmlns:lang="ptb">Leitura</tu>
+	<tu xmlns:lang="rus">Считывание показаний</tu>
+	<tu xmlns:lang="esp">LECTURA</tu>
+	<tu xmlns:lang="chs">正在读取</tu>
+	<tu xmlns:lang="kor">측정값</tu>
+</tm>

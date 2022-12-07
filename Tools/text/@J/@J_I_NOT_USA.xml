@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NOT_USA">
+	<tu xmlns:lang="eng">Not America</tu>
+	<tu xmlns:lang="nld">Niet in Amerika</tu>
+	<tu xmlns:lang="fra">Sauf Amérique</tu>
+	<tu xmlns:lang="deu">Nicht Amerika</tu>
+	<tu xmlns:lang="ita">Eccetto l'America</tu>
+	<tu xmlns:lang="jpn">米国を除く。</tu>
+	<tu xmlns:lang="ptg">Excepto Estados Unidos da América</tu>
+	<tu xmlns:lang="ptb">Não para os EUA</tu>
+	<tu xmlns:lang="rus">Не Америка</tu>
+	<tu xmlns:lang="esp">Salvo Estados Unidos</tu>
+	<tu xmlns:lang="chs">美国除外</tu>
+	<tu xmlns:lang="kor">아메리카 아님</tu>
+</tm>

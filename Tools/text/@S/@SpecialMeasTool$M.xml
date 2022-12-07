@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SpecialMeasTool$M">
+	<tu
+    xmlns:lang="eng"
+  >Special ride height measurement tools are required to calibrate the suspension height sensors.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voor de kalibrering van de rijhoogtesensors voor de luchtvering heeft u speciaal rijhoogtemeetgereedschap nodig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Des outils spéciaux de mesure de l'assiette sont requis pour l'étalonnage des capteurs de hauteur de suspension.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zur Kalibrierung der Höhensensoren werden spezielle Fahrhöhen-Messwerkzeuge benötigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per tarare i sensori di altezza delle sospensioni sono necessari attrezzi speciali per la misurazione dell'altezza di marcia.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >サスペンション ハイト センサーのキャリブレーションには特殊ライド ハイト測定ツールが必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >São necessárias ferramentas especiais de medição da altura para calibrar os sensores de altura da suspensão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >São necessárias ferramentas de medição da altura do veículo para calibrar os sensores de altura da suspensão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для калибровки датчиков высоты подвески необходимы специальные инструменты для измерения высоты подвески.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para calibrar los sensores de altura de la suspensión se necesitan herramientas especiales de medición de la altura de marcha.</tu>
+	<tu xmlns:lang="chs">标定悬架高度传感器时需要专用的行驶高度测量工具。</tu>
+	<tu
+    xmlns:lang="kor"
+  >서스펜션 높이 센서를 보정하려면 특수 지상고 측정 공구가 필요합니다.</tu>
+</tm>

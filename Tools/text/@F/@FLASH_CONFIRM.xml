@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FLASH_CONFIRM">
+	<tu xmlns:lang="eng">Flash confirm</tu>
+	<tu xmlns:lang="nld">Bevestiging knippersignaal</tu>
+	<tu xmlns:lang="fra">Flash confirmé.</tu>
+	<tu xmlns:lang="deu">Blinkbestätigung</tu>
+	<tu xmlns:lang="ita">Lampeggio di conferma</tu>
+	<tu xmlns:lang="jpn">フラッシュ確認</tu>
+	<tu xmlns:lang="ptg">Confirmação 'Flash'</tu>
+	<tu xmlns:lang="ptb">Confirmação flash</tu>
+	<tu xmlns:lang="rus">Мигающий сигнал подтверждения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Confirmación de actualización del programa (alumbrado interior)</tu>
+	<tu xmlns:lang="chs">闪存确认</tu>
+	<tu xmlns:lang="kor">플래시 확인</tu>
+</tm>

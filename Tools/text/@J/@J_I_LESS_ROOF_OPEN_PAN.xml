@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_ROOF_OPEN_PAN">
+	<tu xmlns:lang="eng">Roof opening panels not fitted</tu>
+	<tu xmlns:lang="nld">Schuifdakpanelen niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Toit ouvrant non monté</tu>
+	<tu xmlns:lang="deu">Schiebedach nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Pannelli apertura tettuccio non in dotazione</tu>
+	<tu xmlns:lang="jpn">ルーフ オープニング パネル非装備</tu>
+	<tu xmlns:lang="ptg">Painéis do tecto de abrir não estão instalados</tu>
+	<tu xmlns:lang="ptb">Painéis de abertura do teto não instalados</tu>
+	<tu xmlns:lang="rus">Открывающиеся панели крыши не установлены</tu>
+	<tu xmlns:lang="esp">No hay panel de techo corredizo</tu>
+	<tu xmlns:lang="chs">车顶开启面板未安装</tu>
+	<tu xmlns:lang="kor">루프 개방 패널이 장착되지 않음</tu>
+</tm>

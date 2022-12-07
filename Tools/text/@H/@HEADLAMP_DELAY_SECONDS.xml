@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HEADLAMP_DELAY_SECONDS">
+	<tu xmlns:lang="eng">Headlamp delay (seconds)</tu>
+	<tu xmlns:lang="nld">Vertraging koplamp (seconden)</tu>
+	<tu xmlns:lang="fra">Temporisation des phares (secondes).</tu>
+	<tu xmlns:lang="deu">Scheinwerferverzögerung (Sekunden)</tu>
+	<tu xmlns:lang="ita">Ritardo fari (secondi)</tu>
+	<tu xmlns:lang="jpn">ヘッドランプ遅延 (秒)</tu>
+	<tu xmlns:lang="ptg">Temporizador dos faróis (segundos)</tu>
+	<tu xmlns:lang="ptb">Temporizador dos faróis (segundos)</tu>
+	<tu xmlns:lang="rus">Задержка выключения фар (в секундах)</tu>
+	<tu xmlns:lang="esp">Retardo de faros (segundos)</tu>
+	<tu xmlns:lang="chs">前照灯延迟（秒）</tu>
+	<tu xmlns:lang="kor">헤드램프 지연(초)</tu>
+</tm>

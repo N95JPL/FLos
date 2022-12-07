@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_ZON_DR_LOCK">
+	<tu xmlns:lang="eng">Without zonal opposite door re-locking</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zonder opnieuw vergrendelen van tegenoverliggend portier in zone</tu>
+	<tu xmlns:lang="fra">Avec reverrouillage de porte opposée de zone</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ohne zonale Wiederverriegelung der gegenüber liegenden Tür</tu>
+	<tu xmlns:lang="ita">Senza ribloccaggio portiere opposte zonale</tu>
+	<tu xmlns:lang="jpn">ゾーン対向ドア再ロックなし</tu>
+	<tu xmlns:lang="ptg">Sem retrancagem de porta oposta por zona</tu>
+	<tu xmlns:lang="ptb">Sem retravamento de porta oposta</tu>
+	<tu xmlns:lang="rus">Без повторного запирания противоположной двери</tu>
+	<tu xmlns:lang="esp">Sin cierre de seguridad zonal de puerta opuesta</tu>
+	<tu xmlns:lang="chs">无区域性对面车门再锁定</tu>
+	<tu xmlns:lang="kor">구역 맞은편 도어 재잠금 불포함</tu>
+</tm>

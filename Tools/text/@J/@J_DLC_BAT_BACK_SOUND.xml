@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_BAT_BACK_SOUND">
+	<tu xmlns:lang="eng">Battery backed sounder</tu>
+	<tu xmlns:lang="nld">Sirene met batterijreserve</tu>
+	<tu xmlns:lang="fra">Sirène auto-alimentée</tu>
+	<tu xmlns:lang="deu">Batterieunterstütztes Alarmhorn</tu>
+	<tu xmlns:lang="ita">Sirena a batteria</tu>
+	<tu xmlns:lang="jpn">バッテリ バックアップ サウンダー</tu>
+	<tu xmlns:lang="ptg">Unidade sonora de segurança da bateria</tu>
+	<tu xmlns:lang="ptb">Alarme apoiado por bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Оповещатель с резервным питанием от аккумуляторной батареи.</tu>
+	<tu xmlns:lang="esp">Sirena autoalimentada</tu>
+	<tu xmlns:lang="chs">蓄电池支持的发声器。</tu>
+	<tu xmlns:lang="kor">배터리 백업 경보 발생기</tu>
+</tm>

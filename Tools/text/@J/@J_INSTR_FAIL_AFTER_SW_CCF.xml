@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_INSTR_FAIL_AFTER_SW_CCF">
+	<tu
+    xmlns:lang="eng"
+  >On vehicles between B20075 and B21741 the instrument cluster fails to operate immediately following a software or CCF (Car configuration file) download.</tu>
+	<tu
+    xmlns:lang="nld"
+  >In voertuigen in het VIN-bereik tussen B20075 en B21741 werkt de instrumentengroep niet onmiddellijk na het downloaden van software of het voertuigconfiguratiebestand.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Véhicules entre B20075 et B21741 - échec de mise en route immédiate du tableau de bord suite au téléchargement d'un logiciel ou CCF (fichier de configuration du véhicule).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei Fahrzeugen zwischen B20075 und B21741 arbeitet des Kombiinstrument nicht mehr, nachdem Software oder eine CCF (Fahrzeug-Konfigurationsdatei) heruntergeladen wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sui veicoli compresi tra B20075 e B21741, il gruppo strumenti non funziona immediatamente dopo che è stato scaricato un software o un CCF (file di configurazione veicolo).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >VIN B20075 ～ B21741 の車両において、ソ\フトウェアまたは CCF (車両コンフィギュレーション ファイル) のダウンロード直後にインストルメント クラスタが作動しません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nos veículos entre B20075 e B21741, o grupo de instrumentos não funciona imediatamente depois de se descarregar um software ou CCF (ficheiro de configuração do veículo).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Em veículos entre B20075 e B21741, o conjunto do painel de instrumentos não consegue operar imediatamente após o download do software ou do arquivo de configuração de carro (CCF).</tu>
+	<tu
+    xmlns:lang="rus"
+  >На автомобилях с VIN от B20075 до B21741 панель приборов не работает сразу после загрузки программного обеспечения или файла конфигурации автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >En los vehículos entre el B20075 y el B21741, el cuadro de instrumentos no funciona inmediatamente después de haber descargado un programa o un CCF (archivo de configuración del vehículo).</tu>
+	<tu
+    xmlns:lang="chs"
+  >在车辆标识代码处于B20075与B21741之间的车辆上，组合仪表未能在软件或CCF（车辆配置文件）下载后立即开始工作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >B20075와 B21741 사이의 차량에서 소프트웨어 또는 CCF(차량 구성 파일) 다운로드 직후에 계기판이 작동하지 않습니다.</tu>
+</tm>

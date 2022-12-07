@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SEC_COMM_STAT">
+	<tu xmlns:lang="eng">Security communication status</tu>
+	<tu xmlns:lang="nld">Status beveiligingscommunicatie</tu>
+	<tu xmlns:lang="fra">Etat des communications de sécurité.</tu>
+	<tu xmlns:lang="deu">Status Fahrzeugschutzkommunikation</tu>
+	<tu xmlns:lang="ita">Stato comunicazioni sicurezza</tu>
+	<tu xmlns:lang="jpn">セキュリティ通信ステータス</tu>
+	<tu xmlns:lang="ptg">Estado da comunicação de segurança</tu>
+	<tu xmlns:lang="ptb">Estado de comunicação de segurança</tu>
+	<tu xmlns:lang="rus">Состояние обмена данными с охранной системой</tu>
+	<tu xmlns:lang="esp">Estado de comunicación de seguridad</tu>
+	<tu xmlns:lang="chs">安全通讯状态</tu>
+	<tu xmlns:lang="kor">보안 통신 상태</tu>
+</tm>

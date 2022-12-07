@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LOW_LEVEL_SEC_VEH_IMPORTANT">
+	<tu
+    xmlns:lang="eng"
+  >! Important !  For Low Level Security Vehicles (No Remotes)</tu>
+	<tu
+    xmlns:lang="nld"
+  >! Belangrijk!  Voor voertuigen met een laag beveiligingsniveau (geen afstandsbedieningen)</tu>
+	<tu
+    xmlns:lang="fra"
+  >! Important !  Pour les véhicules présentant un niveau de sécurité faible (pas de télécommandes)</tu>
+	<tu
+    xmlns:lang="deu"
+  >! Wichtig!  Für Fahrzeuge mit geringem Fahrzeugschutzniveau (keine Fernbedienungen)</tu>
+	<tu
+    xmlns:lang="ita"
+  >! Importante!  Per i veicoli con basso livello di sicurezza (senza telecomandi)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >！重要！ ロー レベル セキュリティ車両 (リモートなし) 用</tu>
+	<tu
+    xmlns:lang="ptg"
+  >! Importante!  Veículos com nível de segurança baixo (sem comandos à distância)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >!Importante! Para níveis baixos de segurança dos veículos (Não remotos)</tu>
+	<tu
+    xmlns:lang="rus"
+  >! Важно!  Для автомобилей с охранной системой низкого уровня (без пультов ДУ)</tu>
+	<tu
+    xmlns:lang="esp"
+  >! Importante:  para vehículos con seguridad de nivel bajo (sin receptores)</tu>
+	<tu xmlns:lang="chs">! 重要提示！  仅适用于低档防盗车辆（无遥控功能）</tu>
+	<tu xmlns:lang="kor">! 중요 ! 로우 레벨 보안 차량의 경우(리모컨 없음)</tu>
+</tm>

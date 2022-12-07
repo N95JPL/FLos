@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SETUP_APP">
+	<tu xmlns:lang="eng">Application failed.</tu>
+	<tu xmlns:lang="nld">De toepassing is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de l'application.</tu>
+	<tu xmlns:lang="deu">Anwendungsprogramm nicht erfolgreich ausgeführt.</tu>
+	<tu xmlns:lang="ita">Applicazione non eseguita.</tu>
+	<tu xmlns:lang="jpn">アプリケーションの失敗</tu>
+	<tu xmlns:lang="ptg">Aplicação falhou.</tu>
+	<tu xmlns:lang="ptb">Falha do aplicativo.</tu>
+	<tu xmlns:lang="rus">Сбой выполнения приложения.</tu>
+	<tu xmlns:lang="esp">Falló la aplicación.</tu>
+	<tu xmlns:lang="chs">应用程序失败。</tu>
+	<tu xmlns:lang="kor">응용 프로그램 실패</tu>
+</tm>

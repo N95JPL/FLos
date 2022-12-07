@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_F_TC_SETUP_COMP_SUCCESS">
+	<tu
+    xmlns:lang="eng"
+  >Transfer case replacement set-up completed successfully.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instelling van de tussenbakvervanging is met succes uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédure de remplacement de la boîte de transfert réussie.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einstellung Verteilergetriebeaustausch wurde erfolgreich abgeschlossen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impostazione sostituzione scatola di rinvio completata correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスファー ケース交換セットアップが正常に完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Configuração da substituição da caixa de transferência concluída com sucesso.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Configuração de substituição da caixa de transferência concluída com êxito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Настройка замены раздаточной коробки выполнена успешно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Configuración de la sustitución de la caja de transferencia concluida satisfactoriamente.</tu>
+	<tu xmlns:lang="chs">分动箱更换设置成功完成。</tu>
+	<tu xmlns:lang="kor">트랜스퍼 케이스 교체 설정이 성공적으로 완료됨</tu>
+</tm>

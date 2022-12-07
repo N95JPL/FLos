@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_CLUTCH">
+	<tu xmlns:lang="eng">308-01 Clutch</tu>
+	<tu xmlns:lang="nld">308-01 Koppeling</tu>
+	<tu xmlns:lang="fra">308-01 Embrayage</tu>
+	<tu xmlns:lang="deu">308-01 Kupplung</tu>
+	<tu xmlns:lang="ita">308-01 Frizione</tu>
+	<tu xmlns:lang="jpn">308-01 クラッチ</tu>
+	<tu xmlns:lang="ptg">308-01 Embraiagem</tu>
+	<tu xmlns:lang="ptb">Embreagem 308-01</tu>
+	<tu xmlns:lang="rus">308-01 Сцепление</tu>
+	<tu xmlns:lang="esp">308-01 Embrague</tu>
+	<tu xmlns:lang="chs">308-01离合器</tu>
+	<tu xmlns:lang="kor">308-01 클러치</tu>
+</tm>

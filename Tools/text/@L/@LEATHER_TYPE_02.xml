@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LEATHER_TYPE_02">
+	<tu xmlns:lang="eng">Leather type 2 material</tu>
+	<tu xmlns:lang="nld">Materiaal, leder type 2</tu>
+	<tu xmlns:lang="fra">Matière cuir type 2.</tu>
+	<tu xmlns:lang="deu">Ledermaterial Typ 2</tu>
+	<tu xmlns:lang="ita">Materiale pelle tipo 2</tu>
+	<tu xmlns:lang="jpn">レザー タイプ 2 マテリアル</tu>
+	<tu xmlns:lang="ptg">Material tipo 2, cabedal</tu>
+	<tu xmlns:lang="ptb">Material de couro tipo 2</tu>
+	<tu xmlns:lang="rus">Материал - кожа, тип 2</tu>
+	<tu xmlns:lang="esp">Material de cuero tipo 2</tu>
+	<tu xmlns:lang="chs">2 类皮革材料</tu>
+	<tu xmlns:lang="kor">가죽 유형 2 소재</tu>
+</tm>

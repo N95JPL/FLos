@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_OPENING_ROOF">
+	<tu xmlns:lang="eng">501-17 Roof opening panel</tu>
+	<tu xmlns:lang="nld">501-17 Zonnedak</tu>
+	<tu xmlns:lang="fra">501-17 Panneau de toit ouvrant</tu>
+	<tu xmlns:lang="deu">501-17 Schiebedach</tu>
+	<tu xmlns:lang="ita">501-17 Pannello tetto apribile</tu>
+	<tu xmlns:lang="jpn">501-17 ルーフ オープニング パネル</tu>
+	<tu xmlns:lang="ptg">501-17 Painel do tecto de abrir</tu>
+	<tu xmlns:lang="ptb">501-17 Painel de abertura do teto</tu>
+	<tu xmlns:lang="rus">501-17 Панель управления люком</tu>
+	<tu xmlns:lang="esp">501-17 Techo solar</tu>
+	<tu xmlns:lang="chs">501-17顶篷开口板</tu>
+	<tu xmlns:lang="kor">501-17 루프 개방 패널</tu>
+</tm>

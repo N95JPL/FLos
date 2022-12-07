@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_UNLCK_DOR_KEYFOB_TRANS">
+	<tu xmlns:lang="eng">Unlock the doors using the key fob transmitter.</tu>
+	<tu xmlns:lang="nld">Ontgrendel de portieren met de sleutelzender.</tu>
+	<tu xmlns:lang="fra">Déverrouiller les portes à l'aide de la télécommande.</tu>
+	<tu xmlns:lang="deu">Türen mit dem Schlüsselring-Sender entriegeln.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sbloccare le portiere usando il telecomando della chiave.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >キーフォブ トランスミッタを使用し、ドアをアンロックしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Destrancar as portas com o comando da chave com transmissor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Destrave as portas usando o transmissor do controle remoto.</tu>
+	<tu xmlns:lang="rus">Отоприте двери с пульта дистанционного управления.</tu>
+	<tu xmlns:lang="esp">Desbloquee las puertas utilizando el transmisor.</tu>
+	<tu xmlns:lang="chs">使用遥控钥匙牌发射器打开车门锁。</tu>
+	<tu xmlns:lang="kor">키 리모컨 송신기를 사용해 도어를 잠금 해제하십시오.</tu>
+</tm>

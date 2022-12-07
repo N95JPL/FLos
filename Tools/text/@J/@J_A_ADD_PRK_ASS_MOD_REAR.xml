@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ADD_PRK_ASS_MOD_REAR">
+	<tu xmlns:lang="eng">Add parking assist module  -  Rear</tu>
+	<tu
+    xmlns:lang="nld"
+  >Regelmodule van vooruit- en achteruitrijbeveiliging toevoegen  -  ACHTER</tu>
+	<tu xmlns:lang="fra">Ajoutez le module d'aide au stationnement  -  ARRIERE</tu>
+	<tu xmlns:lang="deu">Einparkhilfe-Steuergerät hinzufügen.  -  HINTEN</tu>
+	<tu
+    xmlns:lang="ita"
+  >Aggiungere il modulo di assistenza parcheggio  -  POSTERIORE</tu>
+	<tu xmlns:lang="jpn">パーキング エイド モジュールの追加  －  リア</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Adicionar módulo do auxiliar de estacionamento  -  Traseira</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Adicionar módulo de assistência para estacionamento  -  Traseira</tu>
+	<tu xmlns:lang="rus">Добавить блок помощи при парковке  -  Задний</tu>
+	<tu xmlns:lang="esp">Añadir el módulo de ayuda al aparcamiento  -  TRASEROS</tu>
+	<tu xmlns:lang="chs">加入驻车辅助模块  -  后部</tu>
+	<tu xmlns:lang="kor">주차 지원 모듈 추가  -  리어</tu>
+</tm>

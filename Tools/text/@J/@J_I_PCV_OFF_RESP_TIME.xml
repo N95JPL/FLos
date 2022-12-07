@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PCV_OFF_RESP_TIME">
+	<tu xmlns:lang="eng">Pressure control valve - off response time</tu>
+	<tu xmlns:lang="nld">Drukregelklep - reactietijd voor uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Régulateur de pression - temps de réponse de désactivation.</tu>
+	<tu xmlns:lang="deu">Druckregelventil - Ansprechzeit Ausschaltung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Valvola comando pressione - tempo di risposta disattivazione</tu>
+	<tu xmlns:lang="jpn">プレッシャ コントロール バルブ - オフ応答時間</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Válvula de controlo da pressão - tempo de resposta para desligar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Válvula do controle de pressão - tempo de resposta do sistema desligado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Клапан регулировки давления - время срабатывания на выключение</tu>
+	<tu
+    xmlns:lang="esp"
+  >Válvula reguladora de presión: tiempo de respuesta de desactivación</tu>
+	<tu xmlns:lang="chs">压力控制阀 - 关闭响应时间</tu>
+	<tu xmlns:lang="kor">압력 컨트롤 밸브 - Off 응답 시간</tu>
+</tm>

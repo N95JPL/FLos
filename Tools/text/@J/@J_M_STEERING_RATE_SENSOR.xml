@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_STEERING_RATE_SENSOR">
+	<tu xmlns:lang="eng">Steering rate sensor</tu>
+	<tu xmlns:lang="nld">Overbrengingsverhoudingssensor van het stuur</tu>
+	<tu xmlns:lang="fra">Capteur de taux de braquage</tu>
+	<tu xmlns:lang="deu">Lenkratensensor</tu>
+	<tu xmlns:lang="ita">Sensore portata sterzo</tu>
+	<tu xmlns:lang="jpn">ステアリ・グレート セ・サ</tu>
+	<tu xmlns:lang="ptg">Sensor da taxa de direcção</tu>
+	<tu xmlns:lang="ptb">Sensor de taxa de direção</tu>
+	<tu xmlns:lang="rus">Датчик угла поворота рулевого колеса</tu>
+	<tu xmlns:lang="esp">Sensor de velocidad de giro de la dirección</tu>
+	<tu xmlns:lang="chs">转向速率传感器</tu>
+	<tu xmlns:lang="kor">스티어링 속도 센서</tu>
+</tm>

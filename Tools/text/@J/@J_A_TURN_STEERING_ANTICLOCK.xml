@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_TURN_STEERING_ANTICLOCK">
+	<tu xmlns:lang="eng">Turn steering fully counterclockwise and hold.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Draai het stuurwiel volledig linksom en houd het in die stand vast</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tourner le volant à fond dans le sens inverse des aiguilles d'une montre et le maintenir à cette position</tu>
+	<tu xmlns:lang="deu">Lenkrad ganz nach links drehen und festhalten</tu>
+	<tu
+    xmlns:lang="ita"
+  >Girare il volante completamente in senso antiorario e tenerlo in questa posizione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリングを反時計方向にいっぱいに回してそのまま保持しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Rodar a direcção completamente no sentido contrário ao dos ponteiros do relógio e mantê-la nesta posição.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Vire a direção totalmente no sentido anti-horário e mantenha-a nessa posição.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверните рулевое колесо против часовой стрелки до упора и удерживайте.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Girar del todo el volante hacia la izquierda y sostenerlo</tu>
+	<tu xmlns:lang="chs">沿逆时针方向转动转向器到最大位置并保持。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스티어링 휠을 시계 반대 방향으로 끝까지 돌리고 이 위치를 유지하십시오.</tu>
+</tm>

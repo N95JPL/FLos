@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_UND">
+	<tu xmlns:lang="eng">M-undefined</tu>
+	<tu xmlns:lang="nld">M-niet gedefinieerd</tu>
+	<tu xmlns:lang="fra">M-Indéfini</tu>
+	<tu xmlns:lang="deu">M - Nicht definiert</tu>
+	<tu xmlns:lang="ita">M-non definito</tu>
+	<tu xmlns:lang="jpn">M-不特定</tu>
+	<tu xmlns:lang="ptg">M - indefinido</tu>
+	<tu xmlns:lang="ptb">M - indefinido</tu>
+	<tu xmlns:lang="rus">M - не определено</tu>
+	<tu xmlns:lang="esp">M-no definido</tu>
+	<tu xmlns:lang="chs">M - 未定义</tu>
+	<tu xmlns:lang="kor">M-정의되지 않음</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_RUS_LANG_SEL">
+	<tu
+    xmlns:lang="eng"
+  >This application will enable the Russian language to be selected from menu in the High Level Display</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze toepassing kan Russisch worden geselecteerd in het menu van het hoogwaardige display.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Grâce à cette application, il est possible de sélectionner le russe comme langue du menu sur l'affichage haute définition</tu>
+	<tu
+    xmlns:lang="deu"
+  >Durch diese Anwendung kann für das Display der gehobenen Ausführung die russische Sprache aus dem Menü ausgewählt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione consente di selezionare la lingua russa dal menu del display di gamma alta</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションにより、ハイ レベル ディスプレイのメニューでロシア語を選択することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação permite seleccionar o idioma russo do menu no ecrã de alto nível</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo vai permitir que o idioma russo seja selecionado no menu no monitor de nível alto</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное приложение позволит активировать русский язык, и его можно будет выбирать в меню на верхнем дисплее</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación permitirá elegir el idioma ruso en el menú de la pantalla de gama alta</tu>
+	<tu xmlns:lang="chs">本应用程序将让您能够从高位显示器菜单中选择俄语</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션에서는 고급 디스플레이의 메뉴에서 러시아어를 선택할 수 있습니다.</tu>
+</tm>

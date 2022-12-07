@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOBILISE_OPTION">
+	<tu xmlns:lang="eng">Mobilise</tu>
+	<tu xmlns:lang="nld">Startblokkering opheffen</tu>
+	<tu xmlns:lang="fra">Mobilise</tu>
+	<tu xmlns:lang="deu">Mobilisieren</tu>
+	<tu xmlns:lang="ita">Mobilizzare</tu>
+	<tu xmlns:lang="jpn">モビライゼーション</tu>
+	<tu xmlns:lang="ptg">Mobilizar</tu>
+	<tu xmlns:lang="ptb">Mobilizar</tu>
+	<tu xmlns:lang="rus">Отключить блокировку</tu>
+	<tu xmlns:lang="esp">Movilizar</tu>
+	<tu xmlns:lang="chs">起动</tu>
+	<tu xmlns:lang="kor">기동</tu>
+</tm>

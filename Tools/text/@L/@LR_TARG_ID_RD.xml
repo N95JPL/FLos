@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_TARG_ID_RD">
+	<tu xmlns:lang="eng">Target identifier read</tu>
+	<tu xmlns:lang="nld">Gewenste identificatie lezen</tu>
+	<tu xmlns:lang="fra">Identificateur cible lu.</tu>
+	<tu xmlns:lang="deu">Zielkennung gelesen</tu>
+	<tu xmlns:lang="ita">Lettura ID target</tu>
+	<tu xmlns:lang="jpn">目標 ID 機能\読み取り</tu>
+	<tu xmlns:lang="ptg">Ler identificador de alvo</tu>
+	<tu xmlns:lang="ptb">Leitura do identificador alvo</tu>
+	<tu xmlns:lang="rus">Считывание заданных идентификаторов</tu>
+	<tu xmlns:lang="esp">Lectura de identificador de objetivo</tu>
+	<tu xmlns:lang="chs">目标标识符读取</tu>
+	<tu xmlns:lang="kor">대상 ID 읽기</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_MOD_PERSONALISE">
+	<tu
+    xmlns:lang="eng"
+  >Please review and, if necessary, change the features to select the desired customer personalisation settings.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bekijk en verander zo nodig de functies om de door de klant gewenste instellingen te kiezen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez vérifier et, si nécessaire, modifier les fonctions permettant de sélectionner les réglages de personnalisation du client.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte Merkmale überprüfen und ggf. ändern, um die gewünschten Einstellungen der kundenspezifischen Personalisierung auszuwählen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Rivedere e, se necessario, modificare le funzioni per la selezione delle impostazioni di personalizzazione del cliente desiderate.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >顧客の希望する個人設定を選択できるよう見直しを行い、必要に応じて機能\を変更しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É favor rever e, se necessário, alterar as características, de modo a seleccionar as definições de personalização pretendidas pelo cliente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Leia e, se necessário, troque os recursos para selecionar as configurações de personalização desejadas pelo cliente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте и при необходимости измените функции для выбора требуемых настроек пользовательской персонализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Repasar y, si es preciso, cambiar las características para seleccionar las opciones de personalización del cliente que se deseen.</tu>
+	<tu xmlns:lang="chs">请核对并在必要时更改功能，以选择所需的客户个性化设置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >기능을 검토한 후 필요할 경우 이를 변경하여 원하는 고객 개인화 설정을 선택하십시오.</tu>
+</tm>

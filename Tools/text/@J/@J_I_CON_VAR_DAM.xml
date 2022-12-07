@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CON_VAR_DAM">
+	<tu xmlns:lang="eng">Constant variable damping system</tu>
+	<tu xmlns:lang="nld">Continu variabel dempingsysteem</tu>
+	<tu xmlns:lang="fra">Système d'amortissement variable/constant</tu>
+	<tu xmlns:lang="deu">Kontinuierlich variables Dämpfersystem</tu>
+	<tu xmlns:lang="ita">Sistema di smorzamento variabile costante</tu>
+	<tu xmlns:lang="jpn">常時変動ダンピング システム</tu>
+	<tu xmlns:lang="ptg">Sistema de suspensão variável constante</tu>
+	<tu xmlns:lang="ptb">Sistema de amortecimento variável constante</tu>
+	<tu xmlns:lang="rus">Система бесступенчатого регулирования демпфирования </tu>
+	<tu xmlns:lang="esp">Sistema de suspensión variable de forma constante</tu>
+	<tu xmlns:lang="chs">持续可变减震系统</tu>
+	<tu xmlns:lang="kor">상시 가변 댐핑 시스템</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FrontXlinkFailO$M">
+	<tu xmlns:lang="eng">Failed to open front cross link valve.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het openen van de voorste dwarsverbindingsklep is mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec d'ouverture de la vanne de liaison transversale avant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Querverbindungsventil vorne konnte nicht geöffnet werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Mancata apertura valvola braccio trasversale anteriore.</tu>
+	<tu xmlns:lang="jpn">フロント クロス リンク バルブを開けませんでした。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha em abrir a válvula dianteira de tirante transversal.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha ao abrir válvula de conexão transversal dianteira.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка при открытии клапана переднего поперечного канала.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudo abrir la válvula de conexión transversal delantera.</tu>
+	<tu xmlns:lang="chs">打开前横梁链接阀失败。</tu>
+	<tu xmlns:lang="kor">프론트 크로스 링크 밸브 개방에 실패했습니다.</tu>
+</tm>

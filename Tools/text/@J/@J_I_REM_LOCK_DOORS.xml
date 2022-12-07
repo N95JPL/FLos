@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REM_LOCK_DOORS">
+	<tu xmlns:lang="eng">Remote lock with doors open</tu>
+	<tu
+    xmlns:lang="nld"
+  >Vergrendelen met afstandsbediening met geopende portieren</tu>
+	<tu xmlns:lang="fra">Verrouillage à distance portes ouvertes</tu>
+	<tu xmlns:lang="deu">Verriegelung mit Fernbedienung bei geöffneten Türen</tu>
+	<tu xmlns:lang="ita">Bloccaggio a distanza con portiere aperte</tu>
+	<tu xmlns:lang="jpn">ドアが開いているときのリモート ロッキング</tu>
+	<tu xmlns:lang="ptg">Função de fecho do comando com portas abertas</tu>
+	<tu xmlns:lang="ptb">Trava remota com portas abertas</tu>
+	<tu xmlns:lang="rus">Дистанционное запирание при открытых дверях</tu>
+	<tu
+    xmlns:lang="esp"
+  >Bloqueo mediante mando a distancia con puertas abiertas</tu>
+	<tu xmlns:lang="chs">车门开启遥控锁定</tu>
+	<tu xmlns:lang="kor">도어가 열린 상태에서 원격 잠금</tu>
+</tm>

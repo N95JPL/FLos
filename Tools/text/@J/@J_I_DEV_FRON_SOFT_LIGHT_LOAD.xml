@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DEV_FRON_SOFT_LIGHT_LOAD">
+	<tu xmlns:lang="eng">Deviation front soft light load</tu>
+	<tu xmlns:lang="nld">Afwijking bij lichte belasting voor - zacht</tu>
+	<tu xmlns:lang="fra">Déviation avant molle charge légère</tu>
+	<tu xmlns:lang="deu">Abweichung vorn, weiche Kennlinie, leichte Last</tu>
+	<tu xmlns:lang="ita">Deviazione anteriore morbida carico leggero</tu>
+	<tu xmlns:lang="jpn">フロント ソ\フト軽負荷偏差</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deflexão do eixo dianteiro - amortecimento suave, carga leve</tu>
+	<tu xmlns:lang="ptb">Desvio dianteiro suave de carga leve</tu>
+	<tu xmlns:lang="rus">Отклонение, спереди - незначительная нагрузка</tu>
+	<tu
+    xmlns:lang="esp"
+  >Desviación con neumáticos delanteros blandos - carga ligera</tu>
+	<tu xmlns:lang="chs">偏差 - 前部软减震、轻负荷</tu>
+	<tu xmlns:lang="kor">편차 프론트 소프트 경부하</tu>
+</tm>

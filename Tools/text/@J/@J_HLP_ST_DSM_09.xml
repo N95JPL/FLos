@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_DSM_09">
+	<tu
+    xmlns:lang="eng"
+  >Seat switch pack switches (affecting seat module) not pressed and seat stationary.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De schakelaars van de stoelschakelaargroep (die de stoelmodule beïnvloeden) zijn niet ingedrukt en de stoel staat stil.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Commutateurs du bloc commutateurs de siège (affectant le module de siège) non actionnés et siège immobile</tu>
+	<tu
+    xmlns:lang="deu"
+  >Schalter der Sitzschaltergruppe (mit Auswirkung auf das Sitzsteuergerät) nicht betätigt und Sitz stehend.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Interruttori gruppo interruttori sedile (che interessano il modulo sedile) non premuti e sedile fermo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >(シート モジュールに影響のある) シート スイッチパック スイッチが押されていない。シートは静止している。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Interruptores do conjunto de interruptores do banco (ligados ao módulo do banco) não premidos e banco imobilizado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conjunto de interruptores do assento (que afetam o módulo do assento) não pressionado e assento estacionário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выключатели блоков выключателей сиденья (влияющие на блок сиденья) не нажаты, и сиденье неподвижно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Mandos del grupo de interruptores del asiento (que afectan al módulo del asiento) sin pulsar y asiento estacionario.</tu>
+	<tu xmlns:lang="chs">座椅开关组件开关（影响座椅模块）没有按下且座椅不动。</tu>
+	<tu
+    xmlns:lang="kor"
+  >시트 스위치 팩 스위치(시트 모듈에 영향을 주는)를 누르지 않고 시트가 정지해 있음</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ADV_FR_HLAMP_WITH_STAT_BEN">
+	<tu
+    xmlns:lang="eng"
+  >Advanced front lighting system with static bending, light and auto dynamic adjust</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geavanceerd voorverlichtingssysteem met statische bochtlampen en automatische dynamische koplamphoogte-instelling</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système d'éclairage avant avancé avec feux de virage statiques et correcteur auto dynamique</tu>
+	<tu
+    xmlns:lang="deu"
+  >Halogen-Kurvenlicht mit statischen Abbiegeleuchten und automatischer dynamischer Leuchtweitenregulierung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema avanzato luci anteriori con luci con curvatura statica e regolazione dinamica automatica</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スタチック ベンディング、ライトおよび自動ダイナミック調整機能\付き先進フロント ライティング システム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de luzes dianteiras avançado com iluminação lateral estática e regulação dinâmica automática</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de iluminação dianteiro avançado com pisca-alerta, iluminação e ajuste dinâmico automático</tu>
+	<tu
+    xmlns:lang="rus"
+  >Усовершенствованная система переднего освещения со статическим освещением при повороте и автоматической динамической регулировкой</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de alumbrado delantero avanzado con luces de maniobra (AFS) y ajuste de altura</tu>
+	<tu xmlns:lang="chs">配备静态转弯灯和自动动态调节功能的高级前照明系统</tu>
+	<tu
+    xmlns:lang="kor"
+  >정적 코너링 램프와 자동 동적 조정 기능이 있는 고급 전방 조명 시스템</tu>
+</tm>

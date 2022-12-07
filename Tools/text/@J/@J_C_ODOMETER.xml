@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ODOMETER">
+	<tu xmlns:lang="eng">Odometer</tu>
+	<tu xmlns:lang="nld">Kilometerteller</tu>
+	<tu xmlns:lang="fra">Odometre</tu>
+	<tu xmlns:lang="deu">Wegstreckenzähler</tu>
+	<tu xmlns:lang="ita">Odometro</tu>
+	<tu xmlns:lang="jpn">オドメータ</tu>
+	<tu xmlns:lang="ptg">Conta-quilómetros</tu>
+	<tu xmlns:lang="ptb">Hodômetro</tu>
+	<tu xmlns:lang="rus">Одометр</tu>
+	<tu xmlns:lang="esp">Cuentakilómetros</tu>
+	<tu xmlns:lang="chs">里程表</tu>
+	<tu xmlns:lang="kor">주행 기록계</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_REAR_HEAT_SEAT">
+	<tu xmlns:lang="eng">Rear heated seat not fitted</tu>
+	<tu xmlns:lang="nld">Verwarming van achterstoel niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Chauffage de banquette arrière non monté</tu>
+	<tu xmlns:lang="deu">Rücksitzheizung nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Sedile posteriore riscaldato non in dotazione</tu>
+	<tu xmlns:lang="jpn">リア シート ヒーター非装備</tu>
+	<tu xmlns:lang="ptg">Banco traseiro aquecido não está instalado</tu>
+	<tu xmlns:lang="ptb">Assento aquecido traseiro não instalado</tu>
+	<tu xmlns:lang="rus">Подогрев заднего сиденья не установлен</tu>
+	<tu xmlns:lang="esp">No hay asiento trasero térmico</tu>
+	<tu xmlns:lang="chs">后座椅加热系统未安装</tu>
+	<tu xmlns:lang="kor">리어 열선내장 시트가 장착되지 않음</tu>
+</tm>

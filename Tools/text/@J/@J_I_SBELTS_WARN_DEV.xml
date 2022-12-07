@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SBELTS_WARN_DEV">
+	<tu xmlns:lang="eng">Safety belt warning device</tu>
+	<tu xmlns:lang="nld">Veiligheidsgordelwaarschuwing</tu>
+	<tu xmlns:lang="fra">Système d'avertissement de ceinture de sécurité</tu>
+	<tu xmlns:lang="deu">Sicherheitsgurt-Warneinrichtung</tu>
+	<tu xmlns:lang="ita">Dispositivo avvertenza cintura di sicurezza</tu>
+	<tu xmlns:lang="jpn">シートベルト ワーニング デバイス</tu>
+	<tu xmlns:lang="ptg">Dispositivo de aviso do cinto de segurança</tu>
+	<tu xmlns:lang="ptb">Dispositivo de aviso de cinto de segurança</tu>
+	<tu
+    xmlns:lang="rus"
+  >Устройство предупреждения о непристегнутом ремне безопасности</tu>
+	<tu xmlns:lang="esp">Dispositivo de aviso de cinturón de seguridad</tu>
+	<tu xmlns:lang="chs">安全带警告装置</tu>
+	<tu xmlns:lang="kor">안전 벨트 경고 장치</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_AUTO_TRANSMISSION">
+	<tu xmlns:lang="eng">307-00 Automatic transmission/transaxle</tu>
+	<tu xmlns:lang="nld">307-00 Automatische transmissie/transaxle</tu>
+	<tu xmlns:lang="fra">307-00 Transmission automatique/boîte-pont</tu>
+	<tu xmlns:lang="deu">307-00 Automatikgetriebe</tu>
+	<tu xmlns:lang="ita">307-00 Cambio automatico/gruppo trasmissione </tu>
+	<tu
+    xmlns:lang="jpn"
+  >307-00 オートマチック トランスミッション／トランスアクスル</tu>
+	<tu xmlns:lang="ptg">307-00 Caixa de velocidades/transmissão automática</tu>
+	<tu xmlns:lang="ptb">307-00 Transmissão automática/transeixo</tu>
+	<tu xmlns:lang="rus">307-00 Блок автоматической коробки передач/трансмиссии</tu>
+	<tu xmlns:lang="esp">307-00 Caja de cambios automática</tu>
+	<tu xmlns:lang="chs">307-00自动变速器/驱动桥</tu>
+	<tu xmlns:lang="kor">307-00 자동 변속기/트랜스액슬</tu>
+</tm>

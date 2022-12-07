@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PLACE_RLM_INOUT_TOL">
+	<tu
+    xmlns:lang="eng"
+  >This application provides the ability to be able to place the ride level control module in and out of tight tolerance mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing maakt het mogelijk de regelmodule van rijhoogte in en uit de nauwe-tolerantiefunctie te schakelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application offre la possibilité de mettre le module de commande de régulation d'assiette en mode et hors mode tolérances serrées.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit diesem Anwendungsprogramm kann das Niveauausgleichs-Steuergerät in die und aus der Betriebsart enge Toleranzen gebracht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quest'applicazione consente di inserire e di disinserire la modalità Tolleranza ristretta del modulo di comando altezza di marcia.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、ライド レベリング コントロール モジュールの僅少許容誤差モードへのスイッチ オン／オフ切り替え機能を提供します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação permite colocar o módulo de controlo do nível de suspensão dentro e fora do modo de tolerância limitada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo possibilita o posicionamento do módulo de controle de nível de condução dentro e fora do modo de menor tolerância.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение обеспечивает возможность включения и выключения режима жестких допусков для блока регулирования ездовой высоты подвески.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación ofrece la opción de activar y desactivar el modo de tolerancia estricta en el módulo de control de la altura de la carrocería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >此应用程序具有让行驶高度控制模块进入或退出精密允差模式的功能。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램을 이용하면 지상고 컨트롤 모듈의 엄격한 공차 모드를 설정할 수 있습니다.</tu>
+</tm>

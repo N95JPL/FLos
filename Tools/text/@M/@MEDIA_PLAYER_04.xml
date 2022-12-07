@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MEDIA_PLAYER_04">
+	<tu xmlns:lang="eng">Media player 4</tu>
+	<tu xmlns:lang="nld">Mediaspeler 4</tu>
+	<tu xmlns:lang="fra">Lecteur de média 4.</tu>
+	<tu xmlns:lang="deu">Multimediaspieler 4</tu>
+	<tu xmlns:lang="ita">Lettore multimediale 4</tu>
+	<tu xmlns:lang="jpn">メディア プレーヤー 4</tu>
+	<tu xmlns:lang="ptg">Leitor multimédia 4</tu>
+	<tu xmlns:lang="ptb">Player de mídia 4</tu>
+	<tu xmlns:lang="rus">Медиаплейер 4</tu>
+	<tu xmlns:lang="esp">Reproductor multimedia 4</tu>
+	<tu xmlns:lang="chs">媒体播放器 4</tu>
+	<tu xmlns:lang="kor">미디어 플레이어 4</tu>
+</tm>

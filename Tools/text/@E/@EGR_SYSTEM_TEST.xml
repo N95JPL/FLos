@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EGR_SYSTEM_TEST">
+	<tu xmlns:lang="eng">Exhaust gas recirculation system test</tu>
+	<tu xmlns:lang="nld">Test van uitlaatgasrecirculatiesysteem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôle du système de recyclage des gaz d'échappement.</tu>
+	<tu xmlns:lang="deu">Test Abgasrückführungssystem</tu>
+	<tu xmlns:lang="ita">Prova di monitoraggio sistema ricircolo gas di scarico</tu>
+	<tu xmlns:lang="jpn">EGR システム テスト</tu>
+	<tu xmlns:lang="ptg">Teste do sistema de recirculação dos gases de escape</tu>
+	<tu xmlns:lang="ptb">Teste do sistema de recirculação do gás do escapamento</tu>
+	<tu xmlns:lang="rus">Проверка системы рециркуляции отработавших газов</tu>
+	<tu xmlns:lang="esp">Prueba del sistema de recirculación de gases de escape</tu>
+	<tu xmlns:lang="chs">废气再循环系统测试</tu>
+	<tu xmlns:lang="kor">배기 가스 재순환 시스템 테스트</tu>
+</tm>

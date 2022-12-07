@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Confirm_I">
+	<tu xmlns:lang="eng">Is this correct?</tu>
+	<tu xmlns:lang="nld">Is dit juist?</tu>
+	<tu xmlns:lang="fra">Ceci est-il correct ?</tu>
+	<tu xmlns:lang="deu">Ist dies richtig?</tu>
+	<tu xmlns:lang="ita">O giusto?</tu>
+	<tu xmlns:lang="jpn">これは正しいですか？</tu>
+	<tu xmlns:lang="ptg">Está correcto?</tu>
+	<tu xmlns:lang="ptb">Certo?</tu>
+	<tu xmlns:lang="rus">Это верно?</tu>
+	<tu xmlns:lang="esp">¿Es esto correcto?</tu>
+	<tu xmlns:lang="chs">这正确吗？</tu>
+	<tu xmlns:lang="kor">이것이 올바릅니까?</tu>
+</tm>

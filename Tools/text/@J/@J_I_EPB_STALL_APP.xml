@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EPB_STALL_APP">
+	<tu xmlns:lang="eng">Electronic park brake stall apply</tu>
+	<tu xmlns:lang="nld">Elektronische handrem aantrekken bij motor uit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Serrage électronique du frein de stationnement lors d'un calage</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anlegen der elektronischen Handbremse bei Motorstillstand</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attivazione freno di stazionamento elettronico all'arresto del motore</tu>
+	<tu xmlns:lang="jpn">エレクトロニック パーキング ブレーキ ストール オン</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aplicação do travão de mão electrónico em paragem do motor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aplicação de parada do freio de estacionamento eletrônico</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция включения электронного стояночного тормоза при выключении двигателя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Activación del freno de estacionamiento eléctrico al calarse el motor</tu>
+	<tu xmlns:lang="chs">电子驻车制动发动机失速启用</tu>
+	<tu xmlns:lang="kor">전자식 주차 브레이크 멈춤 작동</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GARAGE_DOR_OPEN_NOT_FIT">
+	<tu xmlns:lang="eng">Garage door opener not fitted</tu>
+	<tu xmlns:lang="nld">Garagedeuropener niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Véhicule non équipé de l'ouvre-porte de garage</tu>
+	<tu xmlns:lang="deu">Garagentoröffner nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Telecomando apertura garage non in dotazione</tu>
+	<tu xmlns:lang="jpn">ガレージ ドア オープナーは装備されていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Dispositivo de abertura de portas de garagem não instalado</tu>
+	<tu xmlns:lang="ptb">Abridor da porta da garagem não instalado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дистанционный пульт управления гаражными воротами не установлен</tu>
+	<tu xmlns:lang="esp">No hay mando de garaje</tu>
+	<tu xmlns:lang="chs">车库门开启按钮未安装</tu>
+	<tu xmlns:lang="kor">차고 문 개폐기가 장착되지 않음</tu>
+</tm>

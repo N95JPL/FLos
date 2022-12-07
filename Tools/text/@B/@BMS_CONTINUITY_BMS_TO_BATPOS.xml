@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CONTINUITY_BMS_TO_BATPOS">
+	<tu
+    xmlns:lang="eng"
+  >Verify continuity of supply wire between battery monitoring system and battery positive terminal</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer op continuïteit in het voedingscircuit tussen het accucontrolesysteem en de pluspool van de accu</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôlez la continuité du câble d'alimentation entre le système de surveillance de la batterie et la borne positive de batterie</tu>
+	<tu
+    xmlns:lang="deu"
+  >Durchgang des Versorgungskabels zwischen Batterieüberwachungssystem und Batteriepluspol bestätigen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare la continuità del filo di alimentazione tra sistema di monitoraggio della batteria e terminale positivo della batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリ モニタリング システムとバッテリ プラス ターミナル間の供給ワイヤの導通が適切であることを確認しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar a continuidade no cabo de alimentação entre o sistema de monitorização da bateria e o terminal positivo da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique a continuidade do fio de alimentação entre o sistema de monitoramento da bateria e o terminal positivo da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте на предмет отсутствия обрыва провод питания между системой контроля аккумуляторной батареи и положительной клеммой аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar la continuidad del cable de alimentación entre el sistema de control de la batería y el borne positivo de la batería</tu>
+	<tu
+    xmlns:lang="chs"
+  >验证蓄电池监测系统与蓄电池正极接线端子之间的供电线路的电路导通性</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리 모니터링 시스템과 배터리 양극 단자 사이에 있는 공급선의 통전성을 확인하십시오.</tu>
+</tm>

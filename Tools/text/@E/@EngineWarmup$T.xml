@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineWarmup$T">
+	<tu xmlns:lang="eng">Pre-test engine warm up.</tu>
+	<tu xmlns:lang="nld">Opwarmen van de motor vóór de test.</tu>
+	<tu xmlns:lang="fra">Echauffement du moteur avant essai</tu>
+	<tu xmlns:lang="deu">Motorerwärmung vor Prüfung</tu>
+	<tu xmlns:lang="ita">Riscaldamento motore prima della prova</tu>
+	<tu xmlns:lang="jpn">試験前のｴﾝジﾝ暖機</tu>
+	<tu xmlns:lang="ptg">Aquecimento do motor antes do teste.</tu>
+	<tu xmlns:lang="ptb">Aquecimento do motor no pré-teste.</tu>
+	<tu xmlns:lang="rus">Прогрев двигателя перед проверкой.</tu>
+	<tu xmlns:lang="esp">Calentamiento del motor antes de la prueba.</tu>
+	<tu xmlns:lang="chs">预测试发动机预热。</tu>
+	<tu xmlns:lang="kor">엔진 워밍업을 사전 테스트하십시오.</tu>
+</tm>

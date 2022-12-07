@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ADD_REM_ACCESSORIES">
+	<tu xmlns:lang="eng">Add/remove accessories.</tu>
+	<tu xmlns:lang="nld">Accessoires toevoegen/verwijderen.</tu>
+	<tu xmlns:lang="fra">Ajouter/supprimer accessoires.</tu>
+	<tu xmlns:lang="deu">Verbraucher hinzufügen/entfernen.</tu>
+	<tu xmlns:lang="ita">Aggiungere/togliere accessori.</tu>
+	<tu xmlns:lang="jpn">アクセサリの追加／削除</tu>
+	<tu xmlns:lang="ptg">Adicionar/retirar acessórios.</tu>
+	<tu xmlns:lang="ptb">Adicionar/remover acessórios.</tu>
+	<tu xmlns:lang="rus">Установите/снимите дополнительное оборудование</tu>
+	<tu xmlns:lang="esp">Añadir/eliminar accesorios.</tu>
+	<tu xmlns:lang="chs">添加/拆卸附件。</tu>
+	<tu xmlns:lang="kor">액세서리 추가/제거</tu>
+</tm>

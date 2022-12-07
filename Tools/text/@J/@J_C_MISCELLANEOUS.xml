@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_MISCELLANEOUS">
+	<tu xmlns:lang="eng">Miscellaneous</tu>
+	<tu xmlns:lang="nld">Diversen</tu>
+	<tu xmlns:lang="fra">Divers</tu>
+	<tu xmlns:lang="deu">Verschiedenes</tu>
+	<tu xmlns:lang="ita">Varie</tu>
+	<tu xmlns:lang="jpn">その他</tu>
+	<tu xmlns:lang="ptg">Diversos</tu>
+	<tu xmlns:lang="ptb">Diversos</tu>
+	<tu xmlns:lang="rus">Прочее</tu>
+	<tu xmlns:lang="esp">Varios</tu>
+	<tu xmlns:lang="chs">其他</tu>
+	<tu xmlns:lang="kor">기타</tu>
+</tm>

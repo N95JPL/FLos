@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_BATT_V_LT_12_0V">
+	<tu xmlns:lang="eng">Battery voltage too low</tu>
+	<tu xmlns:lang="nld">Accuspanning te laag</tu>
+	<tu xmlns:lang="fra">Tension de batterie trop basse</tu>
+	<tu xmlns:lang="deu">Batteriespannung zu niedrig</tu>
+	<tu xmlns:lang="ita">Tensione batteria troppo bassa</tu>
+	<tu xmlns:lang="jpn">バッテリ低電圧</tu>
+	<tu xmlns:lang="ptg">Tensão da bateria demasiado baixa</tu>
+	<tu xmlns:lang="ptb">Tensão da bateria muito baixa</tu>
+	<tu xmlns:lang="rus">Напряжение аккумуляторной батареи слишком низкое</tu>
+	<tu xmlns:lang="esp">Tensión de batería demasiado baja</tu>
+	<tu xmlns:lang="chs">蓄电池电压过低</tu>
+	<tu xmlns:lang="kor">배터리 전압이 너무 낮음</tu>
+</tm>

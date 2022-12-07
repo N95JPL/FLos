@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NavSympTest$M">
+	<tu xmlns:lang="eng">Navigation system symptom based tests</tu>
+	<tu
+    xmlns:lang="nld"
+  >Op symptomen gebaseerde testen van het navigatiesysteem</tu>
+	<tu xmlns:lang="fra">Tests basés sur les symptômes du système de navigation</tu>
+	<tu xmlns:lang="deu">Navigationssystem - symptombasierte Tests</tu>
+	<tu xmlns:lang="ita">Prove basate sui sintomi del sistema di navigazione</tu>
+	<tu xmlns:lang="jpn">ナビゲーション システムの症状に基づいたテスト</tu>
+	<tu xmlns:lang="ptg">Testes com base em sintomas do sistema de navegação</tu>
+	<tu xmlns:lang="ptb">Testes com base nos sintomas do sistema de navegação</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка навигационной системы на основе признаков неисправности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pruebas basadas en los síntomas del sistema de navegación</tu>
+	<tu xmlns:lang="chs">基于导航系统症状的测试</tu>
+	<tu xmlns:lang="kor">내비게이션 시스템 증상 기반 테스트</tu>
+</tm>

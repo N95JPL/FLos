@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIRE_PRES_MON_TRANS">
+	<tu xmlns:lang="eng">Tire pressure monitor transmitter functionality</tu>
+	<tu xmlns:lang="nld">Werking van de zender voor bandenspanningbewaking</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fonctionnalité de l'émetteur de contrôle de pression des pneus</tu>
+	<tu xmlns:lang="deu">Funktionalität Sender Reifendrucküberwachung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Funzionalità trasmettitore monitoraggio pressione pneumatici</tu>
+	<tu xmlns:lang="jpn">タイヤ プレッシャ モニター トランスミッタ機能\</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Funcionamento do transmissor do sistema de monitorização da pressão dos pneus</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Funcionalidade do transmissor do monitor de pressão dos pneus</tu>
+	<tu xmlns:lang="rus">Работа датчика контроля давления в шинах</tu>
+	<tu
+    xmlns:lang="esp"
+  >Funcionamiento del transmisor del sistema de detección de la presión de los neumáticos.</tu>
+	<tu xmlns:lang="chs">轮胎压力监测器发射机功能</tu>
+	<tu xmlns:lang="kor">타이어 공기압 모니터 송신기 기능</tu>
+</tm>

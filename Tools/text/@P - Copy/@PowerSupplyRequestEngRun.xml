@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PowerSupplyRequestEngRun">
+	<tu xmlns:lang="eng">The power supply system requests engine running.</tu>
+	<tu xmlns:lang="nld">Het voedingssysteem vraagt om draaiende motor.</tu>
+	<tu xmlns:lang="fra">Le système d'alimentation requiert que le moteur soit en marche.</tu>
+	<tu xmlns:lang="deu">Das Versorgungssystem fordert Motorlauf an.</tu>
+	<tu xmlns:lang="ita">Il sistema di alimentazione richiede il motore in funzione.</tu>
+	<tu xmlns:lang="jpn">電源供給システムが作動するためには、エンジンがかかっている必要があります。</tu>
+	<tu xmlns:lang="ptg">O sistema de alimentação requer o funcionamento do motor.</tu>
+	<tu xmlns:lang="ptb">O sistema de fonte de alimentação requer o motor em funcionamento.</tu>
+	<tu xmlns:lang="rus">Для работы системы электропитания двигатель должен работать.</tu>
+	<tu xmlns:lang="esp">El sistema de alimentación solicita que el motor esté en marcha</tu>
+	<tu xmlns:lang="chs">电源系统请求发动机运转。</tu>
+	<tu xmlns:lang="kor">전원 공급 시스템에서 엔진 작동을 요청합니다.</tu>
+</tm>

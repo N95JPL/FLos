@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EMER_BRAKE_LGHT_EX">
+	<tu xmlns:lang="eng">Emergency brake lamp  -  Extended lamp area</tu>
+	<tu xmlns:lang="nld">Noodstop-remlicht.  -  Uitgebreid lampgebied</tu>
+	<tu
+    xmlns:lang="fra"
+  >Feu de frein de secours.  -  Surface d'éclairage étendue</tu>
+	<tu xmlns:lang="deu">Notfallbremsleuchte  -  Erweiterter Leuchtenbereich</tu>
+	<tu xmlns:lang="ita">Luce freno di emergenza  -  Zona luci estesa</tu>
+	<tu xmlns:lang="jpn">緊急ブレーキ ランプ  －  延長ランプ エリア</tu>
+	<tu xmlns:lang="ptg">Luz de travagem de emergência  -  Área da luz alargada</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Luz de frenagem de emergência  -  Área de lâmpada estendida</tu>
+	<tu
+    xmlns:lang="rus"
+  >Индикатор экстренного торможения  -  Расширенная зона фонаря</tu>
+	<tu xmlns:lang="esp">Luz de freno de emergencia  -  Área de luces ampliada</tu>
+	<tu xmlns:lang="chs">紧急制动灯  -  扩展灯区</tu>
+	<tu xmlns:lang="kor">비상 브레이크 등  -  확장 램프 영역</tu>
+</tm>

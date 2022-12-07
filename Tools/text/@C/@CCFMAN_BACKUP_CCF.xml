@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_BACKUP_CCF">
+	<tu xmlns:lang="eng">Backup working car configuration file</tu>
+	<tu xmlns:lang="nld">Back-up van configuratiebestand voor huidig voertuig</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sauvegarde du fichier de configuration du véhicule en réparation</tu>
+	<tu xmlns:lang="deu">Sicherung - Konfigurationsdatei bearbeitetes Fahrzeug</tu>
+	<tu xmlns:lang="ita">File configurazione veicolo operativo di backup</tu>
+	<tu
+    xmlns:lang="jpn"
+  >現在の車両コンフィギュレーション ファイルのバックアップ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Cópia de segurança do ficheiro de configuração do veículo actual</tu>
+	<tu xmlns:lang="ptb">Backup do arquivo de configuração do carro de trabalho</tu>
+	<tu xmlns:lang="rus">Резервная копия рабочего файла конфигурации автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Copia de seguridad del archivo de configuración del vehículo actual</tu>
+	<tu xmlns:lang="chs">备份车辆配置工作文件</tu>
+	<tu xmlns:lang="kor">작동 중인 차량 구성 파일 백업</tu>
+</tm>

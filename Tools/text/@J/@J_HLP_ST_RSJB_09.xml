@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_RSJB_09">
+	<tu xmlns:lang="eng">Hazard switch is not pressed.</tu>
+	<tu xmlns:lang="nld">De alarmknipperlichtschakelaar is niet ingedrukt.</tu>
+	<tu xmlns:lang="fra">L'interrupteur des feux de détresse n'est pas enfoncé.</tu>
+	<tu xmlns:lang="deu">Warnblinkanlagenschalter ist nicht betätigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'interruttore di lampeggio indicatori di emergenza non è premuto.</tu>
+	<tu xmlns:lang="jpn">ハザード スイッチが押されていない</tu>
+	<tu xmlns:lang="ptg">Interruptor dos intermitentes de perigo não premido.</tu>
+	<tu xmlns:lang="ptb">Interruptor do pisca-alerta não pressionado.</tu>
+	<tu xmlns:lang="rus">Выключатель аварийной сигнализации не нажат.</tu>
+	<tu xmlns:lang="esp">El interruptor de luces de emergencia no está pulsado.</tu>
+	<tu xmlns:lang="chs">危险开关没有按下。</tu>
+	<tu xmlns:lang="kor">비상등 스위치를 누르지 않은 상태입니다.</tu>
+</tm>

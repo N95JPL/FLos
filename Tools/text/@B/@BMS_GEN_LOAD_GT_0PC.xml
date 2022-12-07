@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_GEN_LOAD_GT_0PC">
+	<tu xmlns:lang="eng">Generator load is greater than 0%</tu>
+	<tu xmlns:lang="nld">De dynamobelasting is hoger dan 0%</tu>
+	<tu xmlns:lang="fra">Charge de l'alternateur supérieure à 0 %</tu>
+	<tu xmlns:lang="deu">Generatorlast ist größer als 0 %.</tu>
+	<tu xmlns:lang="ita">Il carico del generatore è maggiore dello 0%</tu>
+	<tu xmlns:lang="jpn">ジェネレータ負荷が 0% 以上</tu>
+	<tu xmlns:lang="ptg">A carga do alternador é superior a 0%</tu>
+	<tu xmlns:lang="ptb">A carga do alternador é maior do que 0%</tu>
+	<tu xmlns:lang="rus">Нагрузка генератора превышает 0 %</tu>
+	<tu xmlns:lang="esp">La carga del alternador es superior al 0%</tu>
+	<tu xmlns:lang="chs">发电机负荷大于 0％</tu>
+	<tu xmlns:lang="kor">제너레이터 부하가 0%보다 큼</tu>
+</tm>

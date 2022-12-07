@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SEAT_TARCK_SEN_BOTH">
+	<tu
+    xmlns:lang="eng"
+  >Seat track sensors  -  Driver and front passenger seats</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stoelrailsensors  -  Bestuurders- en voorpassagiersstoelen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Capteurs de glissière de siège  -  Sièges conducteur et passager avant</tu>
+	<tu xmlns:lang="deu">Sitzschienensensoren  -  Fahrer- und Beifahrersitz</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sensori guide sedili  -  Sedili guidatore e passeggero anteriore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >シート トラック センサー  －  運転席側およびフロント助手席側シート</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sensores da calha do banco  -  Bancos do cindutor e do passageiro dianteiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sensores de acompanhamento do assento  -  Assentos do motorista e passageiro dianteiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Датчики положения сидений  -  Сиденья водителя и переднего пассажира</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sensores de posición del asiento  -  Asientos del conductor y el acompañante</tu>
+	<tu xmlns:lang="chs">座椅滑轨传感器  -  驾驶员座椅和前乘客座椅</tu>
+	<tu xmlns:lang="kor">시트 트랙 센서  -  운전석 및 조수석</tu>
+</tm>

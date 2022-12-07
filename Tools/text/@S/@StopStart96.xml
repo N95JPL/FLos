@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart96">
+	<tu
+    xmlns:lang="eng"
+  >Re-test the vehicle once the temperature increases above 0°C.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Test de auto opnieuw zodra de temperatuur tot boven 0°C stijgt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Testez à nouveau le véhicule lorsque la température sera remontée au-dessus de 0 °C.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug erneut testen, sobald die Temperatur über 0 °C gestiegen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ripetere la prova del veicolo quando il valore della temperatura è superiore a 0 °C.</tu>
+	<tu xmlns:lang="jpn">温度が 0ﾟC を上回ったら車両を再テストしてください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Testar novamente o veículo quando a temperatura aumentar acima de 0 °C.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Teste novamente o veículo assim que a temperatura aumentar acima de 0°C.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проводите повторную проверку автомобиля, как только температура превысит 0 °C.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Vuelva a comprobar el vehículo una vez que la temperatura sea superior a 0 °C.</tu>
+	<tu xmlns:lang="chs">温度升至高于 0°C 后，重新测试车辆。</tu>
+	<tu
+    xmlns:lang="kor"
+  >온도가 0°C 이상으로 증가하면 차량을 다시 테스트하십시오.</tu>
+</tm>

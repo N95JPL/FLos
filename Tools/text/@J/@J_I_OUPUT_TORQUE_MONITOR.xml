@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OUPUT_TORQUE_MONITOR">
+	<tu xmlns:lang="eng">Engine torque diagnostic monitor</tu>
+	<tu xmlns:lang="nld">Diagnosebewaking van motorkoppel</tu>
+	<tu xmlns:lang="fra">Contrôleur de diagnostic du couple moteur</tu>
+	<tu xmlns:lang="deu">Motordrehmoment-Diagnosemonitor</tu>
+	<tu xmlns:lang="ita">Controllo diagnostico della coppia motore</tu>
+	<tu xmlns:lang="jpn">エンジン トルク診断モニター</tu>
+	<tu xmlns:lang="ptg">Monitor de diagnóstico do binário do motor</tu>
+	<tu xmlns:lang="ptb">Monitor de diagnóstico de torque do motor</tu>
+	<tu xmlns:lang="rus">Контроль диагностики крутящего момента двигателя</tu>
+	<tu xmlns:lang="esp">Control de diagnosis del par motor</tu>
+	<tu xmlns:lang="chs">发动机扭矩诊断监测器</tu>
+	<tu xmlns:lang="kor">엔진 토크 진단 모니터</tu>
+</tm>

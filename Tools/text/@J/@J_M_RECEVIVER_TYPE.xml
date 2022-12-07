@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_RECEVIVER_TYPE">
+	<tu xmlns:lang="eng">Receiver type.</tu>
+	<tu xmlns:lang="nld">Ontvangertype.</tu>
+	<tu xmlns:lang="fra">Type de récepteur.</tu>
+	<tu xmlns:lang="deu">Empfängertyp.</tu>
+	<tu xmlns:lang="ita">Tipo di ricevitore.</tu>
+	<tu xmlns:lang="jpn">レシーバ タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de receptor.</tu>
+	<tu xmlns:lang="ptb">Tipo de receptor.</tu>
+	<tu xmlns:lang="rus">Тип приемника.</tu>
+	<tu xmlns:lang="esp">Tipo de receptor.</tu>
+	<tu xmlns:lang="chs">接收机类型。</tu>
+	<tu xmlns:lang="kor">수신기 유형</tu>
+</tm>

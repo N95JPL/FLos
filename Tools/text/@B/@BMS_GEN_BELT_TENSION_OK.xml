@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_GEN_BELT_TENSION_OK">
+	<tu xmlns:lang="eng">Ensure generator drive belt correctly tensioned</tu>
+	<tu xmlns:lang="nld">Zorg dat de dynamoaandrijfriem correct is gespannen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veillez à ce que la courroie de l'alternateur soit correctement tendue</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass der Generator-Antriebsriemen korrekt gespannt ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che la cinghia dentata del generatore sia correttamente tesa</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ジェネレータ ドライブ ベルトのテンションが適切であることを確認しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certificar-se de que a correia de accionamento do alternador está devidamente esticada</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se a correia de transmissão do alternador está corretamente tensionada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте правильность натяжения приводного ремня генератора</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que la correa del alternador está tensada correctamente</tu>
+	<tu xmlns:lang="chs">确保发电机传动带正确张紧</tu>
+	<tu xmlns:lang="kor">제너레이터 구동 벨트의 장력이 올바른지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_FUEL_TYPE">
+	<tu xmlns:lang="eng">Fuel type</tu>
+	<tu xmlns:lang="nld">Brandstofsoort.</tu>
+	<tu xmlns:lang="fra">Type de carburant.</tu>
+	<tu xmlns:lang="deu">Kraftstoffart.</tu>
+	<tu xmlns:lang="ita">Tipo di carburante.</tu>
+	<tu xmlns:lang="jpn">フューエル タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de combustível</tu>
+	<tu xmlns:lang="ptb">Tipo de combustível</tu>
+	<tu xmlns:lang="rus">Тип топлива</tu>
+	<tu xmlns:lang="esp">Tipo de combustible.</tu>
+	<tu xmlns:lang="chs">燃油类型</tu>
+	<tu xmlns:lang="kor">연료 유형</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PARAM_FILE_ENGLAND">
+	<tu xmlns:lang="eng">Parameter file for England</tu>
+	<tu xmlns:lang="nld">Parameterbestand voor Engeland</tu>
+	<tu xmlns:lang="fra">Fichier de configuration destiné à l'Angleterre</tu>
+	<tu xmlns:lang="deu">Parameterdatei für England</tu>
+	<tu xmlns:lang="ita">File parametri per l'Inghilterra</tu>
+	<tu xmlns:lang="jpn">英国用パラメータ ファイル</tu>
+	<tu xmlns:lang="ptg">Ficheiro de parâmetros para Inglaterra</tu>
+	<tu xmlns:lang="ptb">Arquivo de parâmetro para Inglaterra</tu>
+	<tu xmlns:lang="rus">Файл параметров для Англии</tu>
+	<tu xmlns:lang="esp">Archivo de parámetros para Inglaterra</tu>
+	<tu xmlns:lang="chs">用于英格兰的参数文件</tu>
+	<tu xmlns:lang="kor">매개 변수 파일(잉글랜드)</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_7">
+	<tu xmlns:lang="eng">General failure information - mechanical failure.</tu>
+	<tu xmlns:lang="nld">Informatie over algemeen defect - mechanisch defect.</tu>
+	<tu xmlns:lang="fra">Panne générale - défaillance mécanique.</tu>
+	<tu xmlns:lang="deu">Allgemeine Störungsinformation - mechanische Störung.</tu>
+	<tu xmlns:lang="ita">Informazioni guasti generali - guasto meccanico. </tu>
+	<tu xmlns:lang="jpn">一般故障情報 － 機械的故障</tu>
+	<tu xmlns:lang="ptg">Informações gerais sobre a falha - falha mecânica.</tu>
+	<tu xmlns:lang="ptb">Informações de falha geral - falha mecânica.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сведения об общей неисправности - механическая неисправность.</tu>
+	<tu xmlns:lang="esp">Información de fallo general: fallo mecánico.</tu>
+	<tu xmlns:lang="chs">一般故障信息 - 机械故障。</tu>
+	<tu xmlns:lang="kor">일반 고장 정보 - 기계적 고장</tu>
+</tm>

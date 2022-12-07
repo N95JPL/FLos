@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INVAL_SIGNATURE">
+	<tu xmlns:lang="eng">Invalid signature</tu>
+	<tu xmlns:lang="nld">Ongeldige handtekening</tu>
+	<tu xmlns:lang="fra">Signature non valide</tu>
+	<tu xmlns:lang="deu">Ungültige Signatur</tu>
+	<tu xmlns:lang="ita">Firma non valida</tu>
+	<tu xmlns:lang="jpn">無効な署名</tu>
+	<tu xmlns:lang="ptg">Assinatura inválida</tu>
+	<tu xmlns:lang="ptb">Assinatura inválida</tu>
+	<tu xmlns:lang="rus">Подпись недействительна</tu>
+	<tu xmlns:lang="esp">Firma no válida</tu>
+	<tu xmlns:lang="chs">无效签名</tu>
+	<tu xmlns:lang="kor">잘못된 서명</tu>
+</tm>

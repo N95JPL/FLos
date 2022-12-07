@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AMB_TMP_OUT_RNG">
+	<tu xmlns:lang="eng">Ambient temperature - out of range.</tu>
+	<tu xmlns:lang="nld">Omgevingstemperatuur - buiten bereik.</tu>
+	<tu xmlns:lang="fra">Température ambiante - hors limites.</tu>
+	<tu xmlns:lang="deu">Außentemperatur - außerhalb des Bereichs.</tu>
+	<tu xmlns:lang="ita">Temperatura ambiente - fuori campo.</tu>
+	<tu xmlns:lang="jpn">外気温 － 規定範囲外</tu>
+	<tu xmlns:lang="ptg">Temperatura ambiente - fora da gama.</tu>
+	<tu xmlns:lang="ptb">Temperatura ambiente - fora do intervalo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Температура окружающего воздуха за пределами допустимого диапазона.</tu>
+	<tu xmlns:lang="esp">Temperatura ambiente: fuera de límites.</tu>
+	<tu xmlns:lang="chs">环境温度 - 超出范围。</tu>
+	<tu xmlns:lang="kor">외부 온도 - 범위를 벗어남</tu>
+</tm>

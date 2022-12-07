@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_APP_RAN_WHL_TIRE_SPEC">
+	<tu
+    xmlns:lang="eng"
+  >This application is required to be ran if changing the original wheel and tire specification</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing moet worden uitgevoerd, wanneer u de originele specificatie van velg/band wijzigt</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application doit être exécutée si la spécification d'origine des roues et pneus est modifiée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Programm muss ausgeführt werden, wenn die Räder und Reifen der Originalausrüstung gegen eine andere Spezifikation ausgetauscht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione deve essere eseguita se si montano ruote e pneumatici di tipo diverso da quello originale</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オリジナルのホイールおよびタイヤ仕様を変更する場合、このアプリケーションを実行する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação deve ser corrida, se a especificação original de pneu e jante for alterada</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esse aplicativo é necessário para ser executado se mudar a roda original e a especificação do pneu</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение требуется запускать при изменении спецификаций первоначально установленного колеса и шины</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación debe ejecutarse si se cambia la especificación original de llantas y neumáticos</tu>
+	<tu xmlns:lang="chs">如果改变原车轮与轮胎尺寸规格，则要求运行这一应用程序</tu>
+	<tu
+    xmlns:lang="kor"
+  >원래 휠 및 타이어 사양을 변경하는 경우 이 애플리케이션을 실행해야 합니다.</tu>
+</tm>

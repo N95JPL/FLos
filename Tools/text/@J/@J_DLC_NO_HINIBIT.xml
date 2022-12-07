@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_NO_HINIBIT">
+	<tu xmlns:lang="eng">No inhibit.</tu>
+	<tu xmlns:lang="nld">Geen blokkering.</tu>
+	<tu xmlns:lang="fra">Pas de neutralisation.</tu>
+	<tu xmlns:lang="deu">Keine Sperrung.</tu>
+	<tu xmlns:lang="ita">Nessuna funzione di disattivazione.</tu>
+	<tu xmlns:lang="jpn">インヒビットなし</tu>
+	<tu xmlns:lang="ptg">Sem inibição.</tu>
+	<tu xmlns:lang="ptb">Sem inibição.</tu>
+	<tu xmlns:lang="rus">Запрет отсутствует.</tu>
+	<tu xmlns:lang="esp">No hay inhibición.</tu>
+	<tu xmlns:lang="chs">无抑制。</tu>
+	<tu xmlns:lang="kor">금지 없음</tu>
+</tm>

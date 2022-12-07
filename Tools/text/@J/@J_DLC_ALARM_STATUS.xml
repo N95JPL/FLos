@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_ALARM_STATUS">
+	<tu xmlns:lang="eng">Alarm status</tu>
+	<tu xmlns:lang="nld">Alarmstatus</tu>
+	<tu xmlns:lang="fra">Etat de l'alarme</tu>
+	<tu xmlns:lang="deu">Alarmstatus</tu>
+	<tu xmlns:lang="ita">Stato allarme</tu>
+	<tu xmlns:lang="jpn">アラーム ステータス</tu>
+	<tu xmlns:lang="ptg">Estado do alarme</tu>
+	<tu xmlns:lang="ptb">Status do alarme</tu>
+	<tu xmlns:lang="rus">Состояние сигнализации</tu>
+	<tu xmlns:lang="esp">Estado del sistema de alarma</tu>
+	<tu xmlns:lang="chs">报警状态</tu>
+	<tu xmlns:lang="kor">알람 상태</tu>
+</tm>

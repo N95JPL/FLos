@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SA_FIVE_CHALLANGE_FAILURE_4">
+	<tu xmlns:lang="eng">Replace the module and retry the application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Vervang de module en probeer het programmaonderdeel nogmaals uit te voeren.</tu>
+	<tu xmlns:lang="fra">Remplacez le module et relancez l'application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Steuergerät austauschen und die Anwendung erneut ausführen.</tu>
+	<tu xmlns:lang="ita">Sostituire il modulo e riprovare l'applicazione.</tu>
+	<tu xmlns:lang="jpn">モジュールを交換してアプリケーションを再試行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Substituir o módulo e tentar executar a aplicação de novo.</tu>
+	<tu xmlns:lang="ptb">Substitua o módulo e teste novamente o aplicativo.</tu>
+	<tu xmlns:lang="rus">Замените блок и повторите запуск приложения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sustituir el módulo y volver a intentar ejecutar la aplicación.</tu>
+	<tu xmlns:lang="chs">更换该模块并重试该应用程序。</tu>
+	<tu xmlns:lang="kor">모듈을 교체하고 애플리케이션을 다시 시도하십시오.</tu>
+</tm>

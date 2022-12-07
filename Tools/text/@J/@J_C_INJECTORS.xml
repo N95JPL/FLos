@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_INJECTORS">
+	<tu xmlns:lang="eng">Fuel injectors</tu>
+	<tu xmlns:lang="nld">Brandtofinspuitstukken</tu>
+	<tu xmlns:lang="fra">Injecteurs de carburant</tu>
+	<tu xmlns:lang="deu">Einspritzdüsen</tu>
+	<tu xmlns:lang="ita">Iniettori carburante</tu>
+	<tu xmlns:lang="jpn">ﾌｭｴﾙ・ｲﾝｼﾞｪｸﾀ</tu>
+	<tu xmlns:lang="ptg">Injectores</tu>
+	<tu xmlns:lang="ptb">Injetores de combustível.</tu>
+	<tu xmlns:lang="rus">Топливные форсунки</tu>
+	<tu xmlns:lang="esp">Inyectores de combustible</tu>
+	<tu xmlns:lang="chs">喷油器</tu>
+	<tu xmlns:lang="kor">연료 인젝터</tu>
+</tm>

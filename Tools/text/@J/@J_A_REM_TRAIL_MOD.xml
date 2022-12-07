@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_REM_TRAIL_MOD">
+	<tu xmlns:lang="eng">Remove trailer module</tu>
+	<tu xmlns:lang="nld">Module van aanhanger verwijderen</tu>
+	<tu xmlns:lang="fra">Retirez le module de remorque</tu>
+	<tu xmlns:lang="deu">Anhängersteuergerät entfernen.</tu>
+	<tu xmlns:lang="ita">Rimuovere il modulo rimorchio</tu>
+	<tu xmlns:lang="jpn">トレーラー モジュールの取り外し</tu>
+	<tu xmlns:lang="ptg">Desmontar o módulo de atrelado</tu>
+	<tu xmlns:lang="ptb">Remover módulo de trailer</tu>
+	<tu xmlns:lang="rus">Удалить блок прицепа</tu>
+	<tu xmlns:lang="esp">Quitar el módulo del remolque</tu>
+	<tu xmlns:lang="chs">取出拖车模块</tu>
+	<tu xmlns:lang="kor">트레일러 모듈 제거</tu>
+</tm>

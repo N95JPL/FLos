@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_SETT_CCUR_POSS">
+	<tu xmlns:lang="eng">Note: this setting must be as accurate as possible.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Opmerking: deze instelling moet zo nauwkeurig mogelijk gebeuren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Remarque : ce réglage doit être aussi précis que possible.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hinweis: Diese Einstellung muss so genau wie möglich sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nota: questa posizione deve essere quanto più precisa possibile.</tu>
+	<tu xmlns:lang="jpn">注記：この設定は可能\な限り正確である必要があります。</tu>
+	<tu xmlns:lang="ptg">Nota: Esta posição terá de ser o mais exacta possível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Nota: esta definição deve ser tão precisa quanto possível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Примечание: эта установка должна быть выполнена максимально точно.</tu>
+	<tu xmlns:lang="esp">Nota: este ajuste debe ser lo más exacto posible.</tu>
+	<tu xmlns:lang="chs">注：这一设置必须尽可能精确。</tu>
+	<tu xmlns:lang="kor">참고: 이 설정은 가능한 한 정확해야 합니다.</tu>
+</tm>

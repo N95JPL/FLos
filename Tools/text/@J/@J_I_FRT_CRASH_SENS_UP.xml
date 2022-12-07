@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FRT_CRASH_SENS_UP">
+	<tu xmlns:lang="eng">Front crash sensing system  -  Upfront sensor</tu>
+	<tu
+    xmlns:lang="nld"
+  >Sensorsysteem voor botsing van voren  -  Voorste sensor</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système de détection de collision avant  -  Capteur avant</tu>
+	<tu xmlns:lang="deu">Aufprallsensorsystem vorn  -  Sensor vorn</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema di rilevamento urto anteriore  -  Sensore anteriore</tu>
+	<tu xmlns:lang="jpn">フロント クラッシュ検知システム  －  フロント センサー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de detecção de impacto frontal  -  Sensor dianteiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de detecção de colisão frontal  -  Sensor frontal</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система обнаружения лобового столкновения  -  Датчик столкновения спереди</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de detección de colisiones frontales  -  Sensor delantero</tu>
+	<tu xmlns:lang="chs">前碰撞感测系统  -  前部传感器</tu>
+	<tu xmlns:lang="kor">전방 충돌 감지 시스템  -  전방 상단 센서</tu>
+</tm>

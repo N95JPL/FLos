@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_29">
+	<tu xmlns:lang="eng">General signal failure - signal is invalid.</tu>
+	<tu xmlns:lang="nld">Algemene signaalfout - signaal is ongeldig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Panne de signalisation générale - signal est non valide.</tu>
+	<tu xmlns:lang="deu">Allgemeine Signalstörung - Signal ist ungültig.</tu>
+	<tu xmlns:lang="ita">Guasto generale di segnale - segnale non valido.</tu>
+	<tu xmlns:lang="jpn">一般シグナル不良 － シグナル無効</tu>
+	<tu xmlns:lang="ptg">Falha geral no sinal - o sinal é inválido.</tu>
+	<tu xmlns:lang="ptb">Falha geral do sinal - sinal inválido.</tu>
+	<tu xmlns:lang="rus">Общая ошибка сигнала - неверный сигнал.</tu>
+	<tu xmlns:lang="esp">Fallo general de señal: señal no válida.</tu>
+	<tu xmlns:lang="chs">一般信号故障 - 信号无效。</tu>
+	<tu xmlns:lang="kor">일반적인 신호 오류 - 신호가 잘못됨</tu>
+</tm>

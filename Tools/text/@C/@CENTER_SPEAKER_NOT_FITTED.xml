@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CENTER_SPEAKER_NOT_FITTED">
+	<tu xmlns:lang="eng">No center speaker fitted</tu>
+	<tu xmlns:lang="nld">Geen middelste luidspreker aangebracht</tu>
+	<tu xmlns:lang="fra">Pas de haut-parleur central monté.</tu>
+	<tu xmlns:lang="deu">Kein mittlerer Lautsprecher eingebaut</tu>
+	<tu xmlns:lang="ita">Altoparlante centrale non in dotazione</tu>
+	<tu xmlns:lang="jpn">センター スピーカーは取り付けられていません。</tu>
+	<tu xmlns:lang="ptg">Sem altifalante central</tu>
+	<tu xmlns:lang="ptb">Sem alto-falante central instalado</tu>
+	<tu xmlns:lang="rus">Центральный динамик отсутствует</tu>
+	<tu xmlns:lang="esp">No tiene altavoz central</tu>
+	<tu xmlns:lang="chs">未配备中心扬声器</tu>
+	<tu xmlns:lang="kor">장착된 중앙 스피커 없음</tu>
+</tm>

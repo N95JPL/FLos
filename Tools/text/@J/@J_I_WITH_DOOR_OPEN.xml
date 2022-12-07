@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WITH_DOOR_OPEN">
+	<tu xmlns:lang="eng">With door open</tu>
+	<tu xmlns:lang="nld">Met portier open</tu>
+	<tu xmlns:lang="fra">Avec les portes ouvertes</tu>
+	<tu xmlns:lang="deu">Mit Türöffnung</tu>
+	<tu xmlns:lang="ita">Con portiera aperta</tu>
+	<tu xmlns:lang="jpn">ドアが開いたままで</tu>
+	<tu xmlns:lang="ptg">Com porta aberta</tu>
+	<tu xmlns:lang="ptb">Com a porta aberta</tu>
+	<tu xmlns:lang="rus">С открытой дверью</tu>
+	<tu xmlns:lang="esp">Con la puerta abierta</tu>
+	<tu xmlns:lang="chs">在车门打开的状态下</tu>
+	<tu xmlns:lang="kor">도어가 열려 있는 상태</tu>
+</tm>

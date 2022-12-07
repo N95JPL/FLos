@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_I_FOL_OP_CALIB_XY_SENSOR">
+	<tu xmlns:lang="eng">The following operation calibrates the XY sensor.</tu>
+	<tu xmlns:lang="nld">De nu volgende bewerking kalibreert de XY-sensor.</tu>
+	<tu xmlns:lang="fra">L'opération suivante étalonne le capteur XY.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dem folgenden Vorgehen wird der XY-Sensor kalibriert.</tu>
+	<tu xmlns:lang="ita">La seguente operazione tara il sensore XY.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のオペレーションで XY センサーをキャリブレーションします。</tu>
+	<tu xmlns:lang="ptg">A seguinte operação calibra o sensor XY.</tu>
+	<tu xmlns:lang="ptb">A seguinte operação calibra o sensor XY.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующая операция выполняет калибровку двухкоординатного датчика.</tu>
+	<tu xmlns:lang="esp">La operación siguiente calibra el sensor XY.</tu>
+	<tu xmlns:lang="chs">下述操作将对XY传感器进行标定。</tu>
+	<tu xmlns:lang="kor">다음 작동을 하면 XY 센서가 보정됩니다.</tu>
+</tm>

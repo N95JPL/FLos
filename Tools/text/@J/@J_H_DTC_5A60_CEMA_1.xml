@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_DTC_5A60_CEMA_1">
+	<tu xmlns:lang="eng">No positive temperature coefficient function</tu>
+	<tu xmlns:lang="nld">Geen functie voor positieve temperatuurcoëfficiënt</tu>
+	<tu xmlns:lang="fra">Pas de fonction de coefficient de température.</tu>
+	<tu xmlns:lang="deu">Keine positive Temperaturkoeffizientfunktion</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nessuna funzione relativa al coefficiente di temperatura positiva</tu>
+	<tu xmlns:lang="jpn">ポジティブ温度係数機能なし</tu>
+	<tu xmlns:lang="ptg">Sem função de coeficiente de temperatura positivo</tu>
+	<tu xmlns:lang="ptb">Sem função do coeficiente de temperatura positiva</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нет функции положительного температурного коэффициента.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ninguna función de coeficiente de temperatura positiva.</tu>
+	<tu xmlns:lang="chs">不存在正温度系数功能</tu>
+	<tu xmlns:lang="kor">정온도계수 기능이 없음</tu>
+</tm>

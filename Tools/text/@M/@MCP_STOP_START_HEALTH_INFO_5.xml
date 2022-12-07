@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_STOP_START_HEALTH_INFO_5">
+	<tu
+    xmlns:lang="eng"
+  >This application will display all the system inhibits that can influence the stop/start system functionality</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing geeft alle blokkeringen van het systeem weer die van invloed kunnen zijn op de functionaliteit van het Stop/Start-systeem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application affiche toutes les neutralisations du système qui peuvent influencer le fonctionnement du système Arrêt/Démarrage</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung zeigt alle Sperrbedingungen an, die Einfluss auf die Funktionalität des Stopp-Start-Systems haben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Con questa applicazione è possibile visualizzare le condizioni di disabilitazione che possono influenzare il funzionamento del sistema Stop/Start</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションにより、システムで作動禁止状態になっているもの (スタート/ストップ システムの機能に影響を及ぼす可能性のあるもの) がすべて表示されます</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação apresentará todas as inibições do sistema que podem influenciar o funcionamento do sistema Stop/Start</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo irá exibir todas as inibições do sistema que podem influenciar a funcionalidade do sistema Stop/Start</tu>
+	<tu
+    xmlns:lang="rus"
+  >Приложение отобразит все блокировки системы, которые могут повлиять на работу интеллектуальной системы запуска/остановки двигателя стоп/старт</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación mostrará todos los bloqueos del sistema que pueden afectar al funcionamiento del sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="chs"
+  >此应用程序将显示可以影响停止/启动系统功能的所有系统禁用状况</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램이 Stop/Start 시스템 기능에 영향을 줄 수 있는 모든 시스템 억제 조건을 표시합니다.</tu>
+</tm>

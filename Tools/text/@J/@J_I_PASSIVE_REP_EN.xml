@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PASSIVE_REP_EN">
+	<tu xmlns:lang="eng">Repeat passive immobilisation is enabled</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het herhalen van de passieve startblokkering is ingeschakeld</tu>
+	<tu xmlns:lang="fra">L'immobilisation passive répétée est activée</tu>
+	<tu xmlns:lang="deu">Wiederholte passive Wegfahrsperre ist aktiviert.</tu>
+	<tu xmlns:lang="ita">Ripetizione immobilizzazione passiva attivata</tu>
+	<tu
+    xmlns:lang="jpn"
+  >リピート パッシブ イモビライゼーションは作動可設定されています。</tu>
+	<tu xmlns:lang="ptg">Imobilização passiva repetida está activada</tu>
+	<tu xmlns:lang="ptb">Repetir imobilização passiva está ativado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Повторная пассивная блокировка запуска двигателя включена</tu>
+	<tu
+    xmlns:lang="esp"
+  >La repetición de la inmovilización pasiva está habilitada</tu>
+	<tu xmlns:lang="chs">重复被动防盗锁止已启用</tu>
+	<tu xmlns:lang="kor">수동적 이모빌라이제이션 반복이 활성화됨</tu>
+</tm>

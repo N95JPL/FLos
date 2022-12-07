@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GEAR_SHFT_LEARN_ROUT">
+	<tu xmlns:lang="eng">Gear shift learn routine</tu>
+	<tu xmlns:lang="nld">Inleerroutine van het schakelen</tu>
+	<tu xmlns:lang="fra">Programme d'apprentissage du sélecteur de vitesse</tu>
+	<tu xmlns:lang="deu">Lernroutine Schaltung</tu>
+	<tu xmlns:lang="ita">Procedura di apprendimento del selettore cambio</tu>
+	<tu xmlns:lang="jpn">ギア シフト学習ルーチン</tu>
+	<tu xmlns:lang="ptg">Rotina de programação das mudanças</tu>
+	<tu xmlns:lang="ptb">Rotina de aprendizado de mudança de marcha</tu>
+	<tu xmlns:lang="rus">Операция самонастройки переключения передач</tu>
+	<tu xmlns:lang="esp">Rutina de aprendizaje del cambio</tu>
+	<tu xmlns:lang="chs">换档杆记忆常规程序</tu>
+	<tu xmlns:lang="kor">기어 변속 학습 루틴</tu>
+</tm>

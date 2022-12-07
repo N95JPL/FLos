@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_28">
+	<tu xmlns:lang="eng">0x28 : Not started due to being in start mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >0x28 : inleren niet gestart omdat de transmissie in de startfunctie staat.</tu>
+	<tu xmlns:lang="fra">0x28 : Non commencé car en mode démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >0x28 : Nicht angelaufen aufgrund von Vorliegen des Startmodus.</tu>
+	<tu
+    xmlns:lang="ita"
+  >0x28 : Non avviato perché è selezionata la modalità avviamento.</tu>
+	<tu xmlns:lang="jpn">0x28 : スタート モードにあるためスタートせず。</tu>
+	<tu xmlns:lang="ptg">0x28 : Não iniciado por estar em modo de arranque.</tu>
+	<tu xmlns:lang="ptb">0X28 : Não iniciado devido a estar no modo de partida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >0x28 : Запуск не выполнен, так как активен режим пуска.</tu>
+	<tu xmlns:lang="esp">0x28: No se inició por estar en modo de arranque.</tu>
+	<tu xmlns:lang="chs">0x28： 由于处于启动模式而没有启动。</tu>
+	<tu xmlns:lang="kor">0x28 : 시동 모드에 있기 때문에 시작되지 않습니다.</tu>
+</tm>

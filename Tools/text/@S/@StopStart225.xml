@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart225">
+	<tu
+    xmlns:lang="eng"
+  >If the inhibit condition does not clear a full drive cycle may be required.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de geblokkeerde toestand niet verdwijnt is mogelijk een volledige rijcyclus vereist.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la condition de neutralisation ne disparaît pas, un cycle de conduite complet peut être nécessaire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wird die Sperrbedingung nicht behoben, ist möglicherweise ein vollständiger Fahrzyklus erforderlich.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la condizione di disabilitazione non viene eliminata, potrebbe essere necessario un ciclo di guida completo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >禁止条件が消去されない場合は、フル ドライブ サイクルが必要な場合があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a condição de inibição não desaparecer, pode ser necessário um ciclo de acionamento completo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a condição de inibição não for removida, um ciclo de condução completo pode ser necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если состояние блокировки сохраняется, может потребоваться полный ездовой цикл.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la condición de bloqueo no se borra, puede ser necesario un ciclo de conducción completo.</tu>
+	<tu xmlns:lang="chs">如果未清除禁用状态，则可能需要一个完整的驾驶循环。</tu>
+	<tu
+    xmlns:lang="kor"
+  >억제 조건이 삭제되지 않으면 전체 주행 사이클이 필요할 수 있습니다.</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_POW_REAR_SEAT_RECLIN_BENCH">
+	<tu xmlns:lang="eng">Power rear seat recliner for bench seat.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bekrachtigde afstelling van de rugleuning van de zitbank.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Inclinaison électrique du siège arrière type banquette.</tu>
+	<tu xmlns:lang="deu">Rücksitzversteller für Sitzbank.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Azionare il meccanismo di abbassamento del sedile posteriore integrale.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ベンチシートになるよう、リア シート リクライナーをモーター駆動しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de reclinação eléctrica dos bancos traseiros para banco corrido.</tu>
+	<tu xmlns:lang="ptb">Reclinador elétrico do assento traseiro corrido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электропривод изменения наклона заднего многоместного сиденья.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Inclinación eléctrica del asiento trasero para asiento tipo banco.</tu>
+	<tu xmlns:lang="chs">将电动后座椅调整成为长躺椅的倾斜装置。</tu>
+	<tu xmlns:lang="kor">벤치 시트용 파워 리어 시트 리클라이너</tu>
+</tm>

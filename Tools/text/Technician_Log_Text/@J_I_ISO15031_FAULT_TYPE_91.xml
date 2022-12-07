@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_91">
+<tu xmlns:lang="eng">Component failure - parametric.</tu>
+<tu xmlns:lang="nld">Component defect - parametrisch.</tu>
+<tu xmlns:lang="fra">Composant d&#233;fectueux - param&#233;trage.</tu>
+<tu xmlns:lang="deu">Bauteilst&#246;rung - parametrisch.</tu>
+<tu xmlns:lang="ita">Guasto componente - parametrico.</tu>
+<tu xmlns:lang="jpn">ƒRƒ“ƒ|[ƒlƒ“ƒgŒÌá | ƒpƒ‰ƒƒgƒŠƒbƒN (•Ï”)</tu>
+<tu xmlns:lang="ptg">Falha de componente - param&#233;trica.</tu>
+<tu xmlns:lang="rus">Îòêàç ýëåìåíòà - ïî ïàðàìåòðàì.</tu>
+<tu xmlns:lang="esp">Fallo de componente: param&#233;trico.</tu>
+<tu xmlns:lang="chs">Ôª¼þ¹ÊÕÏ - ²ÎÊý¡£</tu>
+</tm>

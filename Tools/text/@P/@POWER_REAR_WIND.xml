@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@POWER_REAR_WIND">
+	<tu xmlns:lang="eng">Powered rear windows</tu>
+	<tu xmlns:lang="nld">Elektrisch bediende ruiten in achterportieren</tu>
+	<tu xmlns:lang="fra">Vitres arrière électriques</tu>
+	<tu xmlns:lang="deu">Elektrische Fensterheber hinten</tu>
+	<tu xmlns:lang="ita">Cristalli posteriori elettrici</tu>
+	<tu xmlns:lang="jpn">電動リア ウィンドウ</tu>
+	<tu xmlns:lang="ptg">Vidros traseiros eléctricos</tu>
+	<tu xmlns:lang="ptb">Vidros traseiros elétricos</tu>
+	<tu xmlns:lang="rus">Электростеклоподъемники задних дверей</tu>
+	<tu xmlns:lang="esp">Elevalunas eléctricos traseros</tu>
+	<tu xmlns:lang="chs">电动后车窗</tu>
+	<tu xmlns:lang="kor">전동식 후방 윈도우</tu>
+</tm>

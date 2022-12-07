@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_TACHO">
+	<tu xmlns:lang="eng">Without tachograph</tu>
+	<tu xmlns:lang="nld">Zonder tachograaf</tu>
+	<tu xmlns:lang="fra">Sans tachygraphe</tu>
+	<tu xmlns:lang="deu">Ohne Fahrtenschreiber</tu>
+	<tu xmlns:lang="ita">Senza tachigrafo</tu>
+	<tu xmlns:lang="jpn">タコグラフなし</tu>
+	<tu xmlns:lang="ptg">Sem tacógrafo</tu>
+	<tu xmlns:lang="ptb">Sem tacógrafo</tu>
+	<tu xmlns:lang="rus">Без тахографа</tu>
+	<tu xmlns:lang="esp">Sin tacógrafo</tu>
+	<tu xmlns:lang="chs">无转速图</tu>
+	<tu xmlns:lang="kor">타코그래프 불포함</tu>
+</tm>

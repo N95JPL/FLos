@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TargetModule$M">
+	<tu xmlns:lang="eng">Target module : %s (0x%x)</tu>
+	<tu xmlns:lang="nld">Doelmodule: %s (0x%x)</tu>
+	<tu xmlns:lang="fra">Module cible : %s (0x%x)</tu>
+	<tu xmlns:lang="deu">Zielmodul: %s (0x%x)</tu>
+	<tu xmlns:lang="ita">Modulo target: %s (0x%x)</tu>
+	<tu xmlns:lang="jpn">対象モジュール: %s (0x%x)</tu>
+	<tu xmlns:lang="ptg">Módulo alvo: %s (0x%x)</tu>
+	<tu xmlns:lang="ptb">Módulo alvo: %s (0x%x)</tu>
+	<tu xmlns:lang="rus">Заданный блок: %s (0x%x)</tu>
+	<tu xmlns:lang="esp">Módulo objetivo: %s (0x%x)</tu>
+	<tu xmlns:lang="chs">目标模块：%s (0x%x)</tu>
+	<tu xmlns:lang="kor">대상 모듈: %s(0x%x)</tu>
+</tm>

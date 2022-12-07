@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROLL_ATE_CAL_SEN">
+	<tu xmlns:lang="eng">Roll rate sensor calibration</tu>
+	<tu xmlns:lang="nld">Kalibrering van sensor overhelsnelheid</tu>
+	<tu xmlns:lang="fra">Etalonnage du capteur de vitesse de roulis</tu>
+	<tu xmlns:lang="deu">Kalibrierung - Wankratensensor</tu>
+	<tu xmlns:lang="ita">Taratura sensore velocità di rollio</tu>
+	<tu xmlns:lang="jpn">ロール レート センサー キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem do sensor da taxa de oscilação lateral</tu>
+	<tu xmlns:lang="ptb">Calibração do sensor da taxa de rolagem</tu>
+	<tu xmlns:lang="rus">Калибровка датчика угловой жесткости подвески.</tu>
+	<tu xmlns:lang="esp">Calibración del sensor de balanceo</tu>
+	<tu xmlns:lang="chs">滚速传感器校准</tu>
+	<tu xmlns:lang="kor">롤 레이트 센서 보정</tu>
+</tm>

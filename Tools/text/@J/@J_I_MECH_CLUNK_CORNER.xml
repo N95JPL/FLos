@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MECH_CLUNK_CORNER">
+	<tu xmlns:lang="eng">Mechanical click/clunk when cornering</tu>
+	<tu xmlns:lang="nld">Mechanisch klikken/rammelen bij het nemen van bochten</tu>
+	<tu xmlns:lang="fra">Clic/clac mécanique en virage</tu>
+	<tu xmlns:lang="deu">Mechanisches Klicken/Knacken bei Kurvenfahrt</tu>
+	<tu xmlns:lang="ita">Tintinnio/suono metallico in curva</tu>
+	<tu xmlns:lang="jpn">コーナリング時の機械的カチカチ音／カラン音</tu>
+	<tu xmlns:lang="ptg">Estalido/batimento mecânico ao curvar</tu>
+	<tu xmlns:lang="ptb">Clique mecânico/tinido nas curvas</tu>
+	<tu xmlns:lang="rus">Механический щелчок/удар при повороте</tu>
+	<tu xmlns:lang="esp">Chasquido/golpetazo mecánico en los virajes</tu>
+	<tu xmlns:lang="chs">转弯时出现机械嘀哒声/沉闷的金属声</tu>
+	<tu
+    xmlns:lang="kor"
+  >코너링 시 기계 요소끼리 부딪쳐 딸각하거나 둔탁한 소음 발생</tu>
+</tm>

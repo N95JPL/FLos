@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_SWITZERLAND">
+	<tu xmlns:lang="eng">Switzerland</tu>
+	<tu xmlns:lang="nld">Zwitserland</tu>
+	<tu xmlns:lang="fra">Suisse</tu>
+	<tu xmlns:lang="deu">Schweiz</tu>
+	<tu xmlns:lang="ita">Svizzera</tu>
+	<tu xmlns:lang="jpn">スイス</tu>
+	<tu xmlns:lang="ptg">Suíça</tu>
+	<tu xmlns:lang="ptb">Suíça</tu>
+	<tu xmlns:lang="rus">Швейцария</tu>
+	<tu xmlns:lang="esp">Suiza</tu>
+	<tu xmlns:lang="chs">瑞士</tu>
+	<tu xmlns:lang="kor">스위스</tu>
+</tm>

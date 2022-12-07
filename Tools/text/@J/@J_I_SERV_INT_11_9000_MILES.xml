@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERV_INT_11_9000_MILES">
+	<tu xmlns:lang="eng">Service interval 11  -  9000 miles</tu>
+	<tu xmlns:lang="nld">Onderhoudsinterval 11  -  9000 mijl</tu>
+	<tu xmlns:lang="fra">Périodicité d'entretien 11  -  9 000 miles</tu>
+	<tu xmlns:lang="deu">Wartungsintervall 11  -  9000 Meilen</tu>
+	<tu xmlns:lang="ita">Intervallo di servizio (tagliando) 11  -  9000 miglia</tu>
+	<tu xmlns:lang="jpn">サービス インターバル 11  －  9000 マイル</tu>
+	<tu xmlns:lang="ptg">Intervalo de revisão 11  -  9000 milhas</tu>
+	<tu xmlns:lang="ptb">Intervalo de Manutenção 11  -  9000 milhas</tu>
+	<tu xmlns:lang="rus">Интервал периодичности обслуживания 11  -  9000 миль</tu>
+	<tu xmlns:lang="esp">Intervalo de servicio 11  -  9000 millas</tu>
+	<tu xmlns:lang="chs">维护间隔时间 11  -  9000 英里</tu>
+	<tu xmlns:lang="kor">서비스 주기 11  -  9000마일</tu>
+</tm>

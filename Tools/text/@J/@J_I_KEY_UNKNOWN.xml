@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_UNKNOWN">
+	<tu xmlns:lang="eng">Untrusted (unknown key)</tu>
+	<tu xmlns:lang="nld">Niet betrouwbaar (onbekende sleutel)</tu>
+	<tu xmlns:lang="fra">Non validée (clé inconnue)</tu>
+	<tu xmlns:lang="deu">Nicht vertrauenswürdig (unbekannter Schlüssel)</tu>
+	<tu xmlns:lang="ita">Non fidata (chiave sconosciuta)</tu>
+	<tu xmlns:lang="jpn">信頼不可 (不明なキー)</tu>
+	<tu xmlns:lang="ptg">Origem desconhecida (chave desconhecida)</tu>
+	<tu xmlns:lang="ptb">Não confiável (chave desconhecida)</tu>
+	<tu xmlns:lang="rus">Ненадежный (неизвестный ключ)</tu>
+	<tu xmlns:lang="esp">No es de confianza (llave desconocida)</tu>
+	<tu xmlns:lang="chs">不可信的（不明钥匙）</tu>
+	<tu xmlns:lang="kor">신뢰할 수 없음(알 수 없는 키)</tu>
+</tm>

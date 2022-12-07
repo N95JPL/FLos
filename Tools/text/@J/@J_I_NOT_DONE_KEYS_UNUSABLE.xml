@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NOT_DONE_KEYS_UNUSABLE">
+	<tu
+    xmlns:lang="eng"
+  >If this is not carried out the existing keys will not be usable with the new instrument pack.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als dit niet wordt uitgevoerd, zult u de bestaande sleutels niet bij de nieuwe instrumentengroep kunnen gebruiken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si cela n'est pas fait, les clés existantes ne pourront pas être utilisées avec le nouveau tableau de bord.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls dies nicht durchgeführt wird, sind die vorhandenen Schlüssel zusammen mit dem neuen Kombiinstrument nicht verwendbar.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se questa procedura non viene eseguita, le chiavi esistenti non saranno utilizzabili con il nuovo gruppo strumenti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これを実施しないと現存キーは新品のインストルメント パックで使用できません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se isto não for feito, as chaves existentes não poderão ser usadas com o grupo de instrumentos novo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se isso não for realizado, as chaves existentes não serão utilizáveis com o novo painel de instrumentos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если эта операция не выполнена, имеющиеся ключи нельзя будет использовать с новой панелью приборов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si esto no se lleva a cabo, no se podrán utilizar las llaves existentes con el cuadro de instrumentos nuevo.</tu>
+	<tu xmlns:lang="chs">如果这一程序未执行，现有钥匙将不可用于新的仪表组件。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 작업을 수행하지 않으면 신품 계기판에서 기존 키를 사용할 수 없습니다.</tu>
+</tm>

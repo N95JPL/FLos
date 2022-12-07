@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TICK_SUSPENSION_DEFLATE">
+	<tu
+    xmlns:lang="eng"
+  >Once the confirmation tick is pressed the suspension will deflate.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zodra u ter bevestiging op de afvinktoets hebt gedrukt, zal de luchtvering leeglopen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois que vous aurez appuyé sur la coche de confirmation, la suspension se dégonflera.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sobald das Bestätigungshäkchen angetippt wurde, wird die Luftfederung entleert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dopo aver premuto il tasto di spunta la sospensione si sgonfia.</tu>
+	<tu xmlns:lang="jpn">確認ティックを押すとサスペンションは収縮します。</tu>
+	<tu xmlns:lang="ptg">Válvula de fecho do aquecedor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma vez que a confirmação seja pressionada, a suspensão esvaziará.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После нажатия галочки подтверждения из пневмоподвески выпускается воздух.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez pulsado el botón de continuar, la suspensión se desinflará.</tu>
+	<tu xmlns:lang="chs">一旦按下确认勾号，悬挂系统将放气。</tu>
+	<tu xmlns:lang="kor">확인 체크 표시를 누르면 서스펜션이 수축됩니다.</tu>
+</tm>

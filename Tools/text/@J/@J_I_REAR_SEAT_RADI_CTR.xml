@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_SEAT_RADI_CTR">
+	<tu xmlns:lang="eng">Rear seat audio unit controls</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met bedieningsorganen van de geluidsinstallatie - achterin</tu>
+	<tu xmlns:lang="fra">Commandes de système audio de siège arrière</tu>
+	<tu xmlns:lang="deu">Rücksitz-Audiosystembedienteil</tu>
+	<tu xmlns:lang="ita">Comandi impianto audio sedili posteriori</tu>
+	<tu xmlns:lang="jpn">リア シート オーディオ ユニット コントロール</tu>
+	<tu xmlns:lang="ptg">Comandos da unidade áudio no banco traseiro</tu>
+	<tu xmlns:lang="ptb">Controles da unidade de áudio do assento traseiro</tu>
+	<tu xmlns:lang="rus">Средства управления аудиосистемой на задних сиденьях</tu>
+	<tu
+    xmlns:lang="esp"
+  >Mandos del aparato de audio para los pasajeros traseros</tu>
+	<tu xmlns:lang="chs">后座椅音频单元控制系统</tu>
+	<tu xmlns:lang="kor">리어 시트 오디오 장치 컨트롤</tu>
+</tm>

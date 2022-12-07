@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STER_COL_LCK_NOT_FIT">
+	<tu xmlns:lang="eng">Steering column lock is not fitted</tu>
+	<tu xmlns:lang="nld">Stuurkolomslot is niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Véhicule sans verrouillage de colonne de direction</tu>
+	<tu xmlns:lang="deu">Lenksäulenverriegelung ist nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Bloccasterzo non in dotazione</tu>
+	<tu xmlns:lang="jpn">ステアリング コラム ロックは装備されていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O bloqueio da coluna da direcção não se encontra instalado</tu>
+	<tu xmlns:lang="ptb">Trava da coluna de direção não instalada</tu>
+	<tu xmlns:lang="rus">Замок рулевой колонки не установлен</tu>
+	<tu xmlns:lang="esp">No hay instalado bloqueo de la columna de la dirección</tu>
+	<tu xmlns:lang="chs">未安装转向柱锁</tu>
+	<tu xmlns:lang="kor">스티어링 칼럼 잠금 장치가 장착되지 않음</tu>
+</tm>

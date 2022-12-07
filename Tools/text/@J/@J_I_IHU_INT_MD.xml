@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IHU_INT_MD">
+	<tu xmlns:lang="eng">Audio control module internal minidisc.</tu>
+	<tu xmlns:lang="nld">Interne minidisc-speler van geïntegreerde hoofdunit.</tu>
+	<tu xmlns:lang="fra">MiniDisc interne à l'autoradio intégré.</tu>
+	<tu xmlns:lang="deu">Integriertes Audiosystem - interner Minidisc-Spieler.</tu>
+	<tu xmlns:lang="ita">MiniDisc interno unità audio integrata.</tu>
+	<tu xmlns:lang="jpn">統合ヘッド ユニット内部ミニディスク </tu>
+	<tu xmlns:lang="ptg">Mini-disc interno da unidade principal integrada.</tu>
+	<tu xmlns:lang="ptb">Minidisco interno do módulo de controle de áudio.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Встроенный проигрыватель минидисков интегрированного головного устройства.</tu>
+	<tu xmlns:lang="esp">Minidisco interno del aparato central integral.</tu>
+	<tu xmlns:lang="chs">集成主机单元内部微型磁盘。</tu>
+	<tu xmlns:lang="kor">오디오 컨트롤 모듈 내부 미니디스크</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INV_FILE_FMAT">
+	<tu xmlns:lang="eng">Invalid file format</tu>
+	<tu xmlns:lang="nld">Ongeldig bestandsformaat</tu>
+	<tu xmlns:lang="fra">Format de fichier non valide.</tu>
+	<tu xmlns:lang="deu">Ungültiges Dateiformat</tu>
+	<tu xmlns:lang="ita">Formato file non valido</tu>
+	<tu xmlns:lang="jpn">無効なファイル フォーマット</tu>
+	<tu xmlns:lang="ptg">Formato do ficheiro não válido</tu>
+	<tu xmlns:lang="ptb">Formato de arquivo inválido</tu>
+	<tu xmlns:lang="rus">Неверный формат файла</tu>
+	<tu xmlns:lang="esp">Formato de archivo no válido</tu>
+	<tu xmlns:lang="chs">无效文件格式</tu>
+	<tu xmlns:lang="kor">잘못된 파일 형식</tu>
+</tm>

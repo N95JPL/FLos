@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FCDIM_04">
+	<tu xmlns:lang="eng">2)  Control module checks all memory access.</tu>
+	<tu
+    xmlns:lang="nld"
+  >2)  De regelmodule controleert de toegang tot alle geheugens.</tu>
+	<tu
+    xmlns:lang="fra"
+  >2)  Le module de commande contrôle tous les accès mémoire.</tu>
+	<tu xmlns:lang="deu">2)  Steuergerät prüft gesamten Speicherzugang.</tu>
+	<tu
+    xmlns:lang="ita"
+  >2)  Il modulo di comando controlla tutti gli accessi di memoria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >2)  コントロール モジュールは全メモリ アクセスをチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >2)  O módulo de controlo verifica todos os acessos à memória.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >2)  O módulo de controle verifica todos os acessos à memória.</tu>
+	<tu xmlns:lang="rus">2)  Блок управления проверяет все ЗУ.</tu>
+	<tu
+    xmlns:lang="esp"
+  >2)  El módulo de control comprueba todo el acceso a la memoria.</tu>
+	<tu xmlns:lang="chs">2)  控制模块检查所有存储器存取活动。</tu>
+	<tu xmlns:lang="kor">2)  컨트롤 모듈이 모든 메모리 액세스를 점검합니다.</tu>
+</tm>

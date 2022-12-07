@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@OldModuleMes4$I">
+	<tu xmlns:lang="eng">If the immobilization control module has been renewed, the replacement immobilization control module should have been supplied with the same security seed as the original unit.</tu>
+	<tu xmlns:lang="nld">Als de regelmodule startblokkering vervangen is, moet de vervangingsregelmodule startblokkering geleverd zijn met dezelfde 'beveiligingsinstellingen' als het oorspronkelijke apparaat.</tu>
+	<tu xmlns:lang="fra">Si le module de commande antidémarrage a été remplacé, le module de remplacement doit avoir été doté des mêmes données de sécurité que l'unité d'origine.</tu>
+	<tu xmlns:lang="deu">Wurde das Wegfahrsperren-Steuergerät erneuert, sollte das Austauschgerät mit den gleichen Sicherheitsdaten wie das ursprüngliche Gerät geliefert worden sein.</tu>
+	<tu xmlns:lang="ita">Se il modulo di comando immobilizzazione è stato sostituito, il modulo di comando immobilizzazione di ricambio deve essere già programmato con gli stessi dati di sicurezza dell'unità originale.</tu>
+	<tu xmlns:lang="jpn">イモビライゼーション コントロール モジュールを交換した場合、交換用イモビライゼーション コントロール モジュールは、元のユニットと同じセキュリティ シードが付属して供給されたはずです。</tu>
+	<tu xmlns:lang="ptg">Se o módulo de controlo do sistema de imobilização tiver sido substituído, o módulo de controlo do sistema de imobilização de substituição deverá ter sido fornecido com o mesmo código de segurança que o módulo de origem.</tu>
+	<tu xmlns:lang="ptb">Se o módulo de controle de imobilização foi substituído, o novo módulo deve ser fornecido com a mesma segurança na unidade original.</tu>
+	<tu xmlns:lang="rus">Если установлен новый блок управления иммобилайзером, он должен иметь такой же защитный код, что и старый блок.</tu>
+	<tu xmlns:lang="esp">Si se ha sustituido el módulo de control de inmovilización, el nuevo módulo debería haberse suministrado con los mismos datos de seguridad que el módulo original.</tu>
+	<tu xmlns:lang="chs">'如果防盗锁止控制模块已更新，则应提供与原始单元一样的安全种子给更换的防盗锁止控制模块。'</tu>
+	<tu xmlns:lang="kor">이모빌라이제이션 컨트롤 모듈을 교체한 경우 교체 이모빌라이제이션 컨트롤 모듈에 원래 장치와 동일한 보안 시드가 제공된 상태여야 합니다.</tu>
+</tm>

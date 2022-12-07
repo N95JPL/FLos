@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TEST_30S_DURATION_PLEASE_WAIT">
+	<tu
+    xmlns:lang="eng"
+  >The test will take approximately 30 seconds - please wait</tu>
+	<tu xmlns:lang="nld">De test duurt ongeveer 30 seconden - even geduld</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce test prendra environ 30 secondes - veuillez patienter</tu>
+	<tu xmlns:lang="deu">Der Test dauert ca. 30 Sekunden - bitte warten.</tu>
+	<tu xmlns:lang="ita">La prova richiederà circa 30 secondi - attendere</tu>
+	<tu xmlns:lang="jpn">テストには約 30 秒かかります - お待ちください</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O teste demorará cerca de 30 segundos - Aguarde, por favor</tu>
+	<tu xmlns:lang="ptb">O teste levará aproximadamente 30 segundos - aguarde</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнение данной проверки займет приблизительно 30 секунд. Подождите</tu>
+	<tu xmlns:lang="esp">La prueba tardará unos 30 segundos. Espere...</tu>
+	<tu xmlns:lang="chs">测试需要大约 30 秒钟--请稍候</tu>
+	<tu xmlns:lang="kor">테스트에 걸리는 시간은 약 30초이므로 기다려 주십시오.</tu>
+</tm>

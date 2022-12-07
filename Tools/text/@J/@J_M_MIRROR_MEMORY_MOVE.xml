@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_MIRROR_MEMORY_MOVE">
+	<tu xmlns:lang="eng">Mirror memory movement</tu>
+	<tu xmlns:lang="nld">Mechaniek van het spiegelgeheugen</tu>
+	<tu xmlns:lang="fra">Déplacement à mémoire de rétroviseur</tu>
+	<tu xmlns:lang="deu">Spiegel-Speicherverstellung</tu>
+	<tu xmlns:lang="ita">Movimento memoria specchietto retrovisore</tu>
+	<tu xmlns:lang="jpn">ミラー メモリ調整</tu>
+	<tu xmlns:lang="ptg">Movimento de memória do retrovisor </tu>
+	<tu xmlns:lang="ptb">Movimento do retrovisor com memória</tu>
+	<tu xmlns:lang="rus">Перемещение зеркала в сохраненное положение</tu>
+	<tu xmlns:lang="esp">Movimiento memorizado de retrovisores</tu>
+	<tu xmlns:lang="chs">后视镜存储器运动</tu>
+	<tu xmlns:lang="kor">미러 메모리 이동</tu>
+</tm>

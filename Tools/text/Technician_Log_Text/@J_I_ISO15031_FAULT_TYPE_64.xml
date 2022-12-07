@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_64">
+<tu xmlns:lang="eng">Algorithm based failure - signal plausibility failure.</tu>
+<tu xmlns:lang="nld">Fout gebaseerd op algoritme - fout bij signaalplausibiliteit.</tu>
+<tu xmlns:lang="fra">Erreur d&#39;algorithme - erreur de plausibilit&#233; du signal.</tu>
+<tu xmlns:lang="deu">Auf Algorithmus basierender Fehler - Signalplausibilit&#228;tsfehler.</tu>
+<tu xmlns:lang="ita">Guasto algoritmico - guasto di accettabilit&#224; segnale.</tu>
+<tu xmlns:lang="jpn">ƒAƒ‹ƒSƒŠƒYƒ€ ƒx[ƒX‚Ì•s‹ï‡ | ƒVƒOƒiƒ‹®‡«•s—Ç</tu>
+<tu xmlns:lang="ptg">Falha com base no algoritmo - falha de plausibilidade do sinal.</tu>
+<tu xmlns:lang="rus">Îøèáêà àëãîðèòìà - îøèáêà äîñòîâåðíîñòè ñèãíàëà.</tu>
+<tu xmlns:lang="esp">Fallo basado en algoritmos: fallo de viabilidad de se&#241;ales.</tu>
+<tu xmlns:lang="chs">Ëã·¨Ïà¹Ø¹ÊÕÏ - ÐÅºÅËÆÕæÐÔ¹ÊÕÏ¡£</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SUPERCHARGER">
+	<tu xmlns:lang="eng">Supercharger</tu>
+	<tu xmlns:lang="nld">Supercharger</tu>
+	<tu xmlns:lang="fra">Compresseur de suralimentation</tu>
+	<tu xmlns:lang="deu">Kompressor</tu>
+	<tu xmlns:lang="ita">Sovralimentatore</tu>
+	<tu xmlns:lang="jpn">スーパーチャージャ</tu>
+	<tu xmlns:lang="ptg">Supercompressor</tu>
+	<tu xmlns:lang="ptb">Supercharger</tu>
+	<tu xmlns:lang="rus">Турбокомпрессор</tu>
+	<tu xmlns:lang="esp">Sobrealimentado</tu>
+	<tu xmlns:lang="chs">增压器</tu>
+	<tu xmlns:lang="kor">슈퍼차저</tu>
+</tm>

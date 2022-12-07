@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_PROG_ENABLED">
+	<tu xmlns:lang="eng">Key is programmed and enabled</tu>
+	<tu xmlns:lang="nld">Sleutel is geprogrammeerd en ingeschakeld</tu>
+	<tu xmlns:lang="fra">La clé est programmée et activée</tu>
+	<tu xmlns:lang="deu">Schlüssel ist programmiert und aktiviert</tu>
+	<tu xmlns:lang="ita">La chiave è programmata e abilitata</tu>
+	<tu xmlns:lang="jpn">キーがプログラムされ作動可に設定されます</tu>
+	<tu xmlns:lang="ptg">Chave programada e activada</tu>
+	<tu xmlns:lang="ptb">Chave é programada e ativada</tu>
+	<tu xmlns:lang="rus">Ключ запрограммирован и включен</tu>
+	<tu xmlns:lang="esp">La llave está programada y habilitada</tu>
+	<tu xmlns:lang="chs">钥匙已被编程且启用</tu>
+	<tu xmlns:lang="kor">키가 프로그래밍 및 활성화됨</tu>
+</tm>

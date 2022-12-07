@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_PERIMETER">
+	<tu xmlns:lang="eng">Perimeter alarm</tu>
+	<tu xmlns:lang="nld">Perimeteralarm</tu>
+	<tu xmlns:lang="fra">Alarme périmétrique</tu>
+	<tu xmlns:lang="deu">Ultraschallsensoren</tu>
+	<tu xmlns:lang="ita">Allarme perimetrale</tu>
+	<tu xmlns:lang="jpn">周辺アラーム</tu>
+	<tu xmlns:lang="ptg">Alarme do perímetro</tu>
+	<tu xmlns:lang="ptb">Alarme do perímetro</tu>
+	<tu xmlns:lang="rus">Охрана периметра</tu>
+	<tu xmlns:lang="esp">Alarma perimétrica</tu>
+	<tu xmlns:lang="chs">周边报警器</tu>
+	<tu xmlns:lang="kor">주변 알람</tu>
+</tm>

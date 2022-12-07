@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_HCM_06">
+	<tu
+    xmlns:lang="eng"
+  >The static cornering lamp is switched on during the self-test and switched off in the end of the self-test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens de zelftest wordt de statische bochtlamp aangezet en aan het einde van de zelftest weer uitgezet.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le feu directionnel fixe est allumé pendant l'autodiagnostic et éteint à la fin de l'autodiagnostic.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das statische Kurvenlicht wird während des Selbsttests eingeschaltet und am Ende des Selbsttests ausgeschaltet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La luce angolo statica viene accesa durante l'autodiagnosi e viene spenta al termine dell'autodiagnosi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セルフテスト中に静止型コーナリング ランプがスイッチ オンされ、セルフテストの終りにはスイッチ オフされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A luz de viragem estática é acesa durante o autoteste e apagada no final.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A luz de curva estática é ligada durante o autoteste e desligada ao final do autoteste.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Неподвижная лампа указателя поворота включается при самопроверке и выключается по ее окончании.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La luz de curva estática se enciende durante la autocomprobación y se apaga al finalizar esta.</tu>
+	<tu xmlns:lang="chs">静态转弯灯在自检期间打开并在自检结束时关闭。</tu>
+	<tu
+    xmlns:lang="kor"
+  >정적 코너링 램프가 자체 테스트 중에 켜지고 자체 테스트가 끝나면 꺼집니다.</tu>
+</tm>

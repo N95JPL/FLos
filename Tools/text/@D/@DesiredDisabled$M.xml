@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DesiredDisabled$M">
+	<tu xmlns:lang="eng">The desired key is disabled.</tu>
+	<tu xmlns:lang="nld">De gekozen sleutel is gedeactiveerd.</tu>
+	<tu xmlns:lang="fra">La clé voulue est invalide.</tu>
+	<tu xmlns:lang="deu">Der gewünschte Schlüssel ist deaktiviert.</tu>
+	<tu xmlns:lang="ita">La chiave richiesta è disabilitata.</tu>
+	<tu xmlns:lang="jpn">要求されたキーは作動不可設定されました。</tu>
+	<tu xmlns:lang="ptg">A chave pretendida está desactivada.</tu>
+	<tu xmlns:lang="ptb">A tecla desejada é desativada.</tu>
+	<tu xmlns:lang="rus">Необходимый ключ заблокирован.</tu>
+	<tu xmlns:lang="esp">La tecla deseada está inhabilitada.</tu>
+	<tu xmlns:lang="chs">所需的钥匙已被禁用。</tu>
+	<tu xmlns:lang="kor">필요한 키가 비활성화되었습니다.</tu>
+</tm>

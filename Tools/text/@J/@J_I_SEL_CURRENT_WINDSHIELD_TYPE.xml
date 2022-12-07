@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SEL_CURRENT_WINDSHIELD_TYPE">
+	<tu
+    xmlns:lang="eng"
+  >If this is not correct select the current windshield type:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als dit niet juist is, selecteert u het huidige type voorruit:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si incorrect, sélectionner le type de pare-brise actuel :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls dies nicht korrekt ist, den aktuellen Windschutzscheibentyp auswählen:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se ciò non è corretto, selezionare il tipo corrente di parabrezza:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これが正しくない場合、現在のウィンドシールド タイプを選択しなさい：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se não estiver correcto, seleccione o tipo de pára-brisas actual:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se isso não estiver correto, selecione o tipo de para-brisa atual:</tu>
+	<tu xmlns:lang="rus">Если неверно, выберите текущий тип ветрового стекла:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si no es correcto, seleccionar el tipo de parabrisas actual:</tu>
+	<tu xmlns:lang="chs">如果该参数不正确，请选择当前挡风玻璃类型：</tu>
+	<tu
+    xmlns:lang="kor"
+  >이것이 올바르지 않으면 현재 윈드실드 유형을 선택하십시오.</tu>
+</tm>

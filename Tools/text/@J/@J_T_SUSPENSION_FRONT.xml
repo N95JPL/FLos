@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_SUSPENSION_FRONT">
+	<tu xmlns:lang="eng">204-01 Front suspension</tu>
+	<tu xmlns:lang="nld">204-01 Voorwielophanging</tu>
+	<tu xmlns:lang="fra">204-01 Suspension avant</tu>
+	<tu xmlns:lang="deu">204-01 Vorderradaufhängung</tu>
+	<tu xmlns:lang="ita">204-01 Sospensione anteriore</tu>
+	<tu xmlns:lang="jpn">204-01 フロント サスペンション</tu>
+	<tu xmlns:lang="ptg">204-01 Suspensão dianteira</tu>
+	<tu xmlns:lang="ptb">204-01 Suspensão dianteira</tu>
+	<tu xmlns:lang="rus">204-01 Передняя подвеска</tu>
+	<tu xmlns:lang="esp">204-01 Suspensión delantera</tu>
+	<tu xmlns:lang="chs">204-01前悬挂</tu>
+	<tu xmlns:lang="kor">204-01 프론트 서스펜션</tu>
+</tm>

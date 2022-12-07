@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HIGH_BEAM_LMP">
+	<tu xmlns:lang="eng">High beam lamps.</tu>
+	<tu xmlns:lang="nld">Grootlichtlampen.</tu>
+	<tu xmlns:lang="fra">Phares de route.</tu>
+	<tu xmlns:lang="deu">Fernlichtscheinwerfer.</tu>
+	<tu xmlns:lang="ita">Fari abbaglianti.</tu>
+	<tu xmlns:lang="jpn">ハイビーム ランプ</tu>
+	<tu xmlns:lang="ptg">Faróis de máximos.</tu>
+	<tu xmlns:lang="ptb">Luzes do farol alto.</tu>
+	<tu xmlns:lang="rus">Лампы дальнего света.</tu>
+	<tu xmlns:lang="esp">Faros de luz larga.</tu>
+	<tu xmlns:lang="chs">远光灯。</tu>
+	<tu xmlns:lang="kor">하이 빔 램프</tu>
+</tm>

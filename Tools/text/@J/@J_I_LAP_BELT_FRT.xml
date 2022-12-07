@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LAP_BELT_FRT">
+	<tu xmlns:lang="eng">Lap belt pretensioner  -  Front</tu>
+	<tu xmlns:lang="nld">Voorspanner van heupgordel  -  VOOR</tu>
+	<tu xmlns:lang="fra">Prétensionneur de ceinture ventrale  -  AVANT</tu>
+	<tu xmlns:lang="deu">Gurtstraffer Beckengurt  -  VORNE</tu>
+	<tu xmlns:lang="ita">Pretensionatore cintura addominale  -  ANTERIORE</tu>
+	<tu xmlns:lang="jpn">ラップベルト プリテンショナ  －  フロント</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pré-tensor da faixa subabdominal do cinto de segurança  -  Dianteira</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pré-tensionador do cinto de segurança abdominal  -  Dianteira</tu>
+	<tu
+    xmlns:lang="rus"
+  >Преднатяжитель поясного ремня безопасности  -  Передний</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pretensor inferior del cinturón de seguridad  -  FRONTALES</tu>
+	<tu xmlns:lang="chs">膝部安全带预紧器  -  前部</tu>
+	<tu xmlns:lang="kor">허리에 매는 안전벨트 프리텐셔너  -  프론트</tu>
+</tm>

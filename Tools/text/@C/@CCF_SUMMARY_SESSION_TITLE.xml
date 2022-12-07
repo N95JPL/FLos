@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_SUMMARY_SESSION_TITLE">
+	<tu xmlns:lang="eng">Session entry car configuration summary</tu>
+	<tu
+    xmlns:lang="nld"
+  >Overzicht van voertuigconfiguratie voor gebruik in sessie</tu>
+	<tu
+    xmlns:lang="fra"
+  >Session de saisie du résumé de la configuration du véhicule</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zusammenfassung der Fahrzeugkonfiguration bei Eintritt in die Sitzung</tu>
+	<tu xmlns:lang="ita">Sommario configurazione veicolo ingresso sessione</tu>
+	<tu xmlns:lang="jpn">セッション入力 - 車両コンフィギュレーション概要</tu>
+	<tu xmlns:lang="ptg">Resumo da configuração do veículo - sessão de entrada</tu>
+	<tu xmlns:lang="ptb">Entrada na sessão de resumo da configuração do carro</tu>
+	<tu xmlns:lang="rus">Сеанс ввода сводных данных о конфигурации автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Resumen de la configuración del vehículo en inicio de sesión</tu>
+	<tu xmlns:lang="chs">车辆配置概要程序条目</tu>
+	<tu xmlns:lang="kor">세션 진입 차량 구성 요약</tu>
+</tm>

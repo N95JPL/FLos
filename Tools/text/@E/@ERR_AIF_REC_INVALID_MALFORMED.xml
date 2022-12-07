@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ERR_AIF_REC_INVALID_MALFORMED">
+	<tu xmlns:lang="eng">AIF record structure is invalid or malformed</tu>
+	<tu xmlns:lang="nld">De AIF-bestandsstructuur is ongeldig of vervormd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La structure d'enregistrement AIF est invalide ou déformée.</tu>
+	<tu xmlns:lang="deu">AIF-Datensatzstruktur ist ungültig oder beschädigt</tu>
+	<tu xmlns:lang="ita">Struttura registrazione AIF non valida o malformata</tu>
+	<tu xmlns:lang="jpn">AIF 記録構\成が無効または変形しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Estrutura de registo AIF não é válida ou está mal formada</tu>
+	<tu xmlns:lang="ptb">Estrutura do registro AIF inválida ou mal-formada</tu>
+	<tu xmlns:lang="rus">Недопустимая или искаженная структура архива AIF</tu>
+	<tu
+    xmlns:lang="esp"
+  >La estructura del registro AIF no es válida o está deformada</tu>
+	<tu xmlns:lang="chs">AIF记录构造无效或残缺</tu>
+	<tu xmlns:lang="kor">AIF 기록 구조가 잘못되었거나 형식이 잘못됨</tu>
+</tm>

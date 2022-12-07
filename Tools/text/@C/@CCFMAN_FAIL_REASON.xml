@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_FAIL_REASON">
+	<tu xmlns:lang="eng">Failure reason</tu>
+	<tu xmlns:lang="nld">Reden van storing</tu>
+	<tu xmlns:lang="fra">Raison de la défaillance</tu>
+	<tu xmlns:lang="deu">Ausfallursache</tu>
+	<tu xmlns:lang="ita">Motivo del guasto</tu>
+	<tu xmlns:lang="jpn">不具合の原因</tu>
+	<tu xmlns:lang="ptg">Razão da avaria</tu>
+	<tu xmlns:lang="ptb">Motivo da falha</tu>
+	<tu xmlns:lang="rus">Причина неисправности</tu>
+	<tu xmlns:lang="esp">Motivo del fallo</tu>
+	<tu xmlns:lang="chs">故障原因</tu>
+	<tu xmlns:lang="kor">실패 이유</tu>
+</tm>

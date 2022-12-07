@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ACC_USB_IPOD_IAM">
+	<tu
+    xmlns:lang="eng"
+  >Accessory USB unit with iPod function in integrated audio module</tu>
+	<tu
+    xmlns:lang="nld"
+  >USB-aansluitpunt voor accessoires met iPod-functie in regelmodule van geïntegreerde geluidsinstallatie</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module USB accessoire avec fonction iPod dans le module audio intégré</tu>
+	<tu
+    xmlns:lang="deu"
+  >USB-Einheit mit iPod-Funktion für Zusatzgeräte im integrierten Audiosystem</tu>
+	<tu
+    xmlns:lang="ita"
+  >Unità USB accessoria con funzione iPod nel modulo audio integrato</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インテグレート オーディオ モジュールに iPod 機能\を装備したアクセサリ USB ユニット</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Unidade USB acessória com função iPod em módulo áudio integrado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Unidade USB acessória com função iPod no módulo do sistema de áudio integrado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дополнительный блок USB с поддержкой Reviewer preferential term changeiPod в блоке встроенной аудиосистемы</tu>
+	<tu
+    xmlns:lang="esp"
+  >Unidad USB de accesorio con función iPod en módulo de audio integral</tu>
+	<tu xmlns:lang="chs">位于集成音频模块内、具备 iPod 功能的 USB 附件单元</tu>
+	<tu xmlns:lang="kor">통합 오디오 모듈에 iPod 기능이 있는 액세서리 USB 유닛</tu>
+</tm>

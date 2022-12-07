@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUEL_ADAP_STAT">
+	<tu xmlns:lang="eng">Fuel adaption status</tu>
+	<tu xmlns:lang="nld">Status van brandstofaanpassing</tu>
+	<tu xmlns:lang="fra">Etat de l'adaptation d'alimentation</tu>
+	<tu xmlns:lang="deu">Status Kraftstoffanpassung</tu>
+	<tu xmlns:lang="ita">Stato adattamento carburante</tu>
+	<tu xmlns:lang="jpn">フューエル補正ステータス</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A versão do software pode ser obtida executando-se o teste de integridade da rede no menu de configuração.</tu>
+	<tu xmlns:lang="ptb">Resumo de adaptação de combustível</tu>
+	<tu xmlns:lang="rus">Состояние модификации топлива</tu>
+	<tu xmlns:lang="esp">Estado de la adaptación del combustible</tu>
+	<tu xmlns:lang="chs">燃油调适状态</tu>
+	<tu xmlns:lang="kor">연료 어댑테이션 상태</tu>
+</tm>

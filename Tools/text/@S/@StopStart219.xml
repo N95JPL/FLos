@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart219">
+	<tu xmlns:lang="eng">Hot start detected - Rising fluid and air temperatures</tu>
+	<tu
+    xmlns:lang="nld"
+  >Warme start gedetecteerd - temperatuur vloeistof en lucht neemt toe</tu>
+	<tu
+    xmlns:lang="fra"
+  >Démarrage à chaud détecté - Hausse des températures de l'air et du liquide</tu>
+	<tu
+    xmlns:lang="deu"
+  >Warmstart erkannt – steigende Flüssigkeits- und Lufttemperaturen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Avviamento a caldo rilevato - Innalzamento delle temperature dell'aria e del liquido</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ホット スタート検出 - フルード温度および空気温度が上昇しています</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Arranque a quente detetado - temperaturas do ar e do fluido a aumentar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Partida a quente detectada - Temperaturas do fluido e do ar em elevação</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обнаружен запуск с прогретым двигателем - повышенная температура жидкости и воздуха</tu>
+	<tu
+    xmlns:lang="esp"
+  >Arranque en caliente detectado - Temperaturas de aire y líquidos en ascenso</tu>
+	<tu xmlns:lang="chs">检测到热启动 - 油液和空气温度升高</tu>
+	<tu xmlns:lang="kor">열간 시동이 감지됨 - 용액 및 공기 온도가 상승 중임</tu>
+</tm>

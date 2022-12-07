@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HazardsOn$M">
+	<tu xmlns:lang="eng">Switch on the hazard lamps.</tu>
+	<tu xmlns:lang="nld">Zet de alarmknipperlichten aan.</tu>
+	<tu xmlns:lang="fra">Allumez les feux de détresse.</tu>
+	<tu xmlns:lang="deu">Warnblinkleuchten einschalten.</tu>
+	<tu xmlns:lang="ita">Accendere gli indicatori di emergenza.</tu>
+	<tu xmlns:lang="jpn">ハザード ランプをスイッチ オンしなさい。</tu>
+	<tu xmlns:lang="ptg">Ligue as lâmpadas de emergência.</tu>
+	<tu xmlns:lang="ptb">Ligue a luz do pisca-alerta.</tu>
+	<tu xmlns:lang="rus">Включить лампы аварийной сигнализации.</tu>
+	<tu xmlns:lang="esp">Encender las luces de emergencia.</tu>
+	<tu xmlns:lang="chs">打开危险灯。</tu>
+	<tu xmlns:lang="kor">비상등을 켜십시오.</tu>
+</tm>

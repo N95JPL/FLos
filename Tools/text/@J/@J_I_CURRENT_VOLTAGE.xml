@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CURRENT_VOLTAGE">
+	<tu xmlns:lang="eng">Current measured battery voltage:</tu>
+	<tu xmlns:lang="nld">Op dit moment gemeten accuspanning:</tu>
+	<tu xmlns:lang="fra">Tension de batterie mesurée actuelle :</tu>
+	<tu xmlns:lang="deu">Aktuell gemessene Batteriespannung:</tu>
+	<tu xmlns:lang="ita">Tensione batteria misurata correntemente:</tu>
+	<tu xmlns:lang="jpn">電流測定済みバッテリ電圧：</tu>
+	<tu xmlns:lang="ptg">Tensão da bateria actual:</tu>
+	<tu xmlns:lang="ptb">Tensão da bateria medida atualmente:</tu>
+	<tu xmlns:lang="rus">Текущее измеренное напряжение аккумуляторной батареи:</tu>
+	<tu xmlns:lang="esp">Tensión medida actual de la batería:</tu>
+	<tu xmlns:lang="chs">当前测得的蓄电池电压：</tu>
+	<tu xmlns:lang="kor">현재 측정된 배터리 전압:</tu>
+</tm>

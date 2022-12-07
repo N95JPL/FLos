@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_40">
+	<tu
+    xmlns:lang="eng"
+  >0x40 : Exited due to engine temperature being below or significantly above normal running temperature.</tu>
+	<tu
+    xmlns:lang="nld"
+  >0x40 : inleren afgesloten omdat de motortemperatuur onder of aanzienlijk boven de normale bedrijfstemperatuur ligt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >0x40 : Quitté à cause de la température moteur inférieure ou sensiblement supérieure à la température normale de fonctionnement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >0x40 : Beendet aufgrund einer Kühlmitteltemperatur, die unter oder erheblich über der normalen Betriebstemperatur liegt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >0x40 : Interrotto perché la temperatura motore è inferiore o significativamente superiore alla normale temperatura di funzionamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >0x40 : エンジン温度が通常作動温度より低いあるいは極端に高いため終了。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >0x40 : Saiu devido ao facto de a temperatura do motor ser inferior ou significativamente superior à temperatura normal de funcionamento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >0X40 : Encerrada devido à temperatura do motor estar abaixo ou significativamente acima da temperatura de funcionamento normal.</tu>
+	<tu
+    xmlns:lang="rus"
+  >0x40 : Произведен выход, так как температура двигателя ниже или значительно выше нормальной рабочей температуры.</tu>
+	<tu
+    xmlns:lang="esp"
+  >0x40: Se cerró por estar la temperatura del motor por debajo o muy por encima de la temperatura de funcionamiento normal.</tu>
+	<tu
+    xmlns:lang="chs"
+  >0x40： 由于发动机温度低于或显著高于正常运行温度而退出运行。</tu>
+	<tu
+    xmlns:lang="kor"
+  >0x40 : 엔진 온도가 정상 작동 온도보다 낮거나 현저히 높기 때문에 종료됩니다.</tu>
+</tm>

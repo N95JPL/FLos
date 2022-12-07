@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PUMP_LEARNING_IN_PROGRESS">
+	<tu
+    xmlns:lang="eng"
+  >Fuel injection pump calibration learning procedure is in progress - please wait.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem is bezig met het uitvoeren van de inleerprocedure voor de kalibrering van de brandstofinjectiepomp - even geduld a.u.b.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédure d'apprentissage du calibrage de la pompe d'injection en cours - patientez SVP.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Lernverfahren Kraftstoffeinspritzpumpenkalibrierung läuft - bitte warten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La procedura di apprendimento della taratura della pompa di iniezione è in corso - attendere.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フューエル インジェクション ポンプ キャリブレーション学習手順が進行中です - お待ちください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O procedimento de programação da calibragem da bomba injectora de combustível está em curso - por favor aguarde.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O procedimento de aprendizagem da calibração da bomba de injeção de combustível está em andamento - aguarde.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполняется процедура сохранения значений калибровки топливного насоса высокого давления. Подождите, пожалуйста.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Procedimiento de aprendizaje de la calibración de la bomba de inyección en curso. Por favor espere.</tu>
+	<tu xmlns:lang="chs">燃油喷射泵校准记忆程序运行中--请等候。</tu>
+	<tu
+    xmlns:lang="kor"
+  >연료 분사 펌프 보정 학습 절차가 진행 중이므로, 기다려 주십시오.</tu>
+</tm>

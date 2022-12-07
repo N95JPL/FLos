@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_IGNITON_AMPLIFIER">
+	<tu xmlns:lang="eng">Ignition amplifier(s)</tu>
+	<tu xmlns:lang="nld">Ontstekingsversterker(s)</tu>
+	<tu xmlns:lang="fra">Amplificateur(s) d'allumage</tu>
+	<tu xmlns:lang="deu">Zündverstärker</tu>
+	<tu xmlns:lang="ita">Amplificatore(i) di accensione</tu>
+	<tu xmlns:lang="jpn">イグニショ・ ア・プリファイア</tu>
+	<tu xmlns:lang="ptg">Amplificador(es) da ignição</tu>
+	<tu xmlns:lang="ptb">Amplificador(es) de ignição</tu>
+	<tu xmlns:lang="rus">Усилитель (усилители) зажигания</tu>
+	<tu xmlns:lang="esp">Amplificador(es) de encendido</tu>
+	<tu xmlns:lang="chs">点火放大器</tu>
+	<tu xmlns:lang="kor">점화 증폭기</tu>
+</tm>

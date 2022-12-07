@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PLS_SEL_MARKET">
+	<tu xmlns:lang="eng">Please select the correct vehicle market</tu>
+	<tu xmlns:lang="nld">Kies de juiste voertuigmarkt</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez sélectionner le marché du véhicule qui convient</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte den korrekten Absatzmarkt für das Fahrzeug auswählen.</tu>
+	<tu xmlns:lang="ita">Selezionare il mercato veicolo corretto.</tu>
+	<tu xmlns:lang="jpn">正しい車両市場を選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Seleccionar o mercado do veículo correcto</tu>
+	<tu xmlns:lang="ptb">Selecione o mercado correto do veículo</tu>
+	<tu xmlns:lang="rus">Выберите соответствующий рынок для автомобиля</tu>
+	<tu xmlns:lang="esp">Seleccionar el mercado correcto del vehículo</tu>
+	<tu xmlns:lang="chs">请选择正确的车辆市场</tu>
+	<tu xmlns:lang="kor">알맞은 차량 시장을 선택하십시오.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart233">
+	<tu
+    xmlns:lang="eng"
+  >Repeated operation of the brake pedal during an automatic stop will induce an early engine re-start.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Herhaaldelijke bediening van het rempedaal tijdens een automatische stop zorgt ervoor dat de motor vroeg opnieuw start.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le fonctionnement répété de la pédale de frein lors d'un arrêt automatique se traduit par un redémarrage rapide du moteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Eine wiederholte Betätigung des Bremspedals während eines automatischen Ausschaltens bewirkt ein frühes erneutes Starten des Motors.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'azionamento ripetuto del pedale del freno durante un arresto automatico provoca un riavvio prematuro del motore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >自動ストップ中にブレーキ ペダルを繰り返し操作すると、エンジンが早期に再始動します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O acionamento repetido do pedal do travão durante uma paragem automática induz a um rearranque precoce do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A operação repetida do pedal de freio durante uma parada automática levará a uma nova partida precoce do motor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Многократное нажатие педали тормоза во время автоматической остановки вызовет преждевременный повторный запуск двигателя.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El accionamiento repetido del pedal de freno durante una parada automática provocará que el motor vuelva a arrancar antes de tiempo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在自动停止过程反复操作制动踏板会导致发动机过早重新启动。</tu>
+	<tu
+    xmlns:lang="kor"
+  >자동 Stop 도중에 브레이크 페달을 반복적으로 작동하면 엔진이 조기에 재시동하게 됩니다.</tu>
+</tm>

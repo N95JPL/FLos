@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_AIR_PATH_APP">
+	<tu xmlns:lang="eng">Air path set-up routine</tu>
+	<tu xmlns:lang="nld">Instelroutine luchtpad</tu>
+	<tu xmlns:lang="fra">Routine de configuration de la trajectoire d'air</tu>
+	<tu xmlns:lang="deu">Routine zur Einrichtung des Luftpfads</tu>
+	<tu xmlns:lang="ita">Processo di impostazione del percorso dell'aria</tu>
+	<tu xmlns:lang="jpn">エア経路セットアップ ルーチン</tu>
+	<tu xmlns:lang="ptg">Rotina de configuração do percurso do ar</tu>
+	<tu xmlns:lang="ptb">Rotina de configuração do caminho de ar</tu>
+	<tu xmlns:lang="rus">Процедура установки воздушной магистрали</tu>
+	<tu xmlns:lang="esp">Rutina para configurar la ruta del aire</tu>
+	<tu xmlns:lang="chs">空气通道设置程序</tu>
+	<tu xmlns:lang="kor">공기 흐름 설정 루틴</tu>
+</tm>

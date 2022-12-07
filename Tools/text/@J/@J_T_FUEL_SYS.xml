@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_FUEL_SYS">
+	<tu xmlns:lang="eng">310-00 Fuel system</tu>
+	<tu xmlns:lang="nld">310-00 Brandstofsysteem</tu>
+	<tu xmlns:lang="fra">310-00 Système d'alimentation</tu>
+	<tu xmlns:lang="deu">310-00 Kraftstoffsystem</tu>
+	<tu xmlns:lang="ita">310-00 Sistema di alimentazione</tu>
+	<tu xmlns:lang="jpn">310-00 フュエル システム</tu>
+	<tu xmlns:lang="ptg">310-00 Sistema de combustível</tu>
+	<tu xmlns:lang="ptb">310-00 Sistema de combustível</tu>
+	<tu xmlns:lang="rus">310-00 Топливная система</tu>
+	<tu xmlns:lang="esp">310-00 Sistema de combustible</tu>
+	<tu xmlns:lang="chs">310-00燃油系统</tu>
+	<tu xmlns:lang="kor">310-00 연료 시스템</tu>
+</tm>

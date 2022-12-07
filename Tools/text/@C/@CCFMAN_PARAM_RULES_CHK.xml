@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_PARAM_RULES_CHK">
+	<tu xmlns:lang="eng">Parameter rules check</tu>
+	<tu xmlns:lang="nld">Parameterregelcontrole</tu>
+	<tu xmlns:lang="fra">Contrôle des règles de paramètres</tu>
+	<tu xmlns:lang="deu">Prüfung der Parameterregeln</tu>
+	<tu xmlns:lang="ita">Controllo delle regole del parametro</tu>
+	<tu xmlns:lang="jpn">パラメータ ルール チェック</tu>
+	<tu xmlns:lang="ptg">Verificação de regras de parâmetros</tu>
+	<tu xmlns:lang="ptb">Verificação de regras de parâmetro</tu>
+	<tu xmlns:lang="rus">Проверка правил параметра</tu>
+	<tu xmlns:lang="esp">Comprobación de reglas de parámetros</tu>
+	<tu xmlns:lang="chs">参数规则检查</tu>
+	<tu xmlns:lang="kor">매개 변수 규칙 점검</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_QUIESCENT_CURRENT">
+	<tu xmlns:lang="eng">Quiescent current</tu>
+	<tu xmlns:lang="nld">Ruststroom</tu>
+	<tu xmlns:lang="fra">Courant consomme</tu>
+	<tu xmlns:lang="deu">Ruhestrom</tu>
+	<tu xmlns:lang="ita">Corrente a riposo</tu>
+	<tu xmlns:lang="jpn">零入力電流</tu>
+	<tu xmlns:lang="ptg">Corrente de repouso</tu>
+	<tu xmlns:lang="ptb">Corrente inerte</tu>
+	<tu xmlns:lang="rus">Ток покоя</tu>
+	<tu xmlns:lang="esp">Corriente silenciosa</tu>
+	<tu xmlns:lang="chs">静态电流</tu>
+	<tu xmlns:lang="kor">대기 전류</tu>
+</tm>

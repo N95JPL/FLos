@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_STAT_BRK_PED">
+	<tu
+    xmlns:lang="eng"
+  >With the vehicle stationary, depress the brake pedal and keep the shift lever in the neutral position for 3 seconds.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Trap terwijl het voertuig stil staat het rempedaal in en houd de transmissiehendel gedurende 3 seconden in de neutraalstand.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Avec le véhicule à l'arrêt, enfoncez la pédale de frein et maintenez le levier sélecteur au point mort pendant 3 secondes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei stehendem Fahrzeug das Bremspedal durchtreten und den Wählhebel 3 Sekunden lang in der Leerlaufstellung halten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Con il veicolo fermo, premere il pedale del freno e mantenere la leva del selettore in posizione Neutral (folle) per 3 secondi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両停止中に、ブレーキ ペダルを踏み込み、シフト レバーを 3 秒間ニュートラル ポジションに保持しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Com o veículo parado, carregue no pedal do travão e mantenha a alavanca das mudanças na posição de ponto morto (N) durante 3 segundos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Com o veículo parado, pressione o pedal do freio e mantenha o câmbio na posição N por 3 segundos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На неподвижном автомобиле нажмите педаль тормоза и подержите рычаг переключения передач в нейтральном положении в течение 3 секунд.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Con el vehículo parado, pisar el pedal del freno y mantener la palanca del cambio en la posición de punto muerto durante 3 segundos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在车辆静止不动的情况下，踩下制动踏板并将换档杆置于空档位置保持3秒钟。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량이 정지한 상태에서 브레이크 페달을 밟고 변속 레버를 3초간 중립 위치로 유지하십시오.</tu>
+</tm>

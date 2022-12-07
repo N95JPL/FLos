@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FUEL_TANK_VOLUME_L316_75L">
+	<tu xmlns:lang="eng">75 liter tank (Defender 110/130)</tu>
+	<tu xmlns:lang="nld">Tank van 75 liter (Defender 110/130)</tu>
+	<tu xmlns:lang="fra">Réservoir 75 litres (Defender 110/130)</tu>
+	<tu xmlns:lang="deu">75-Liter-Tank (Defender 110/130)</tu>
+	<tu xmlns:lang="ita">Serbatoio di 75 litri (Defender 110/130)</tu>
+	<tu xmlns:lang="jpn">75 リッター タンク (Defender 110/130)</tu>
+	<tu xmlns:lang="ptg">Depósito de 75 litros (Defender 110/130)</tu>
+	<tu xmlns:lang="ptb">Tanque de 75 litros (Defender 110/130)</tu>
+	<tu xmlns:lang="rus">75-литровый бак (Defender 110/130)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Depósito de combustible de 75 litros (Defender 110/130)</tu>
+	<tu xmlns:lang="chs">75升油罐（卫士（Defender） 110/130）</tu>
+	<tu xmlns:lang="kor">75리터 탱크(Defender 110/130)</tu>
+</tm>

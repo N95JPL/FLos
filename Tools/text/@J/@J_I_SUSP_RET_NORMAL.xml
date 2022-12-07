@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SUSP_RET_NORMAL">
+	<tu
+    xmlns:lang="eng"
+  >The air suspension has now been returned to normal operating state.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De luchtvering staat nu weer in de normale bedrijfsfunctie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La suspension pneumatique a été ramenée à l'état de fonctionnement normal.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Luftfederung wurde jetzt in den normalen Betriebszustand rückversetzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La sospensione pneumatica è stata riportata al normale stato operativo.</tu>
+	<tu xmlns:lang="jpn">エア サスペンションは通常作動状態に戻りました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A suspensão pneumática foi agora reposta no estado normal de funcionamento.</tu>
+	<tu xmlns:lang="ptb">A suspensão a ar voltou ao estado de operação normal.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Пневматическая подвеска вернулась в обычное рабочее состояние.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La suspensión neumática ha vuelto al estado de funcionamiento normal.</tu>
+	<tu xmlns:lang="chs">空气悬挂现在返回到正常工作状态。</tu>
+	<tu xmlns:lang="kor">에어 서스펜션이 정상 작동 상태로 돌아왔습니다.</tu>
+</tm>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NOT_FOT_RTI_DISP">
+	<tu
+    xmlns:lang="eng"
+  >Not fitted with road traffic information/display on the center console.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Niet uitgerust met verkeersinformatie/weergave op de middenconsole.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Non équipé des informations routières/de l'affichage dans la console centrale.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nicht mit Straßenverkehrsinformationen/Anzeige in Mittelkonsole ausgestattet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Informazioni traffico/schermo su consolle centrale non in dotazione.</tu>
+	<tu xmlns:lang="jpn">交通情報／センター コンソ\ール ディスプレイ非装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não equipado com visor/informações de tráfego na consola central.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não equipado com informações rodoviárias/monitor no console central.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не снабжен дисплеем информации о дорожном движении на центральной консоли.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No tiene información/visualización de tráfico en la consola central.</tu>
+	<tu xmlns:lang="chs">中央控制台上未安装道路交通信息/显示器。</tu>
+	<tu xmlns:lang="kor">센터 콘솔에 도로 교통 정보/디스플레이가 장착되지 않음</tu>
+</tm>

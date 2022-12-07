@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LOCK_FEEDBACK">
+	<tu xmlns:lang="eng">Audible lock feedback</tu>
+	<tu xmlns:lang="nld">Hoorbare feedback bij vergrendelen</tu>
+	<tu xmlns:lang="fra">Retour sonore de verrouillage</tu>
+	<tu xmlns:lang="deu">Signaltonrückmeldung bei Verriegelung</tu>
+	<tu xmlns:lang="ita">Segnale acustico bloccaggio</tu>
+	<tu xmlns:lang="jpn">ロック警告音フィードバック</tu>
+	<tu xmlns:lang="ptg">Reposta sonora de trancagem</tu>
+	<tu xmlns:lang="ptb">Aviso sonoro de travamento</tu>
+	<tu xmlns:lang="rus">Звуковой сигнал обратной связи закрытого замка</tu>
+	<tu xmlns:lang="esp">Aviso acústico de bloqueo</tu>
+	<tu xmlns:lang="chs">锁闭音频反馈</tu>
+	<tu xmlns:lang="kor">청각적 잠금 피드백</tu>
+</tm>

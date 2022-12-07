@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUEL_ADAP_REIN">
+	<tu xmlns:lang="eng">Fuelling adaption re-initialization</tu>
+	<tu xmlns:lang="nld">Herintitialisatie van brandstoftoevoeraanpassing</tu>
+	<tu
+    xmlns:lang="fra"
+  >Réinitialisation de l'adaptation du système d'alimentation en carburant</tu>
+	<tu xmlns:lang="deu">Neuinitialisierung - Anpassung Kraftstoffzumessung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Reinizializzazione adattamento alimentazione carburante</tu>
+	<tu xmlns:lang="jpn">フューエリング補正の再初期化</tu>
+	<tu xmlns:lang="ptg">Reinicialização da adaptação de abastecimento</tu>
+	<tu xmlns:lang="ptb">Reinicialização de adaptação de abastecimento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Повторная инициализация автоматической регулировки подачи топлива</tu>
+	<tu xmlns:lang="esp">Reinicialización de la adaptación del combustible</tu>
+	<tu xmlns:lang="chs">加油适应值重新初始化</tu>
+	<tu xmlns:lang="kor">연료 공급 어댑테이션 재초기화</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@GEAR_SELECT_MECH">
+	<tu xmlns:lang="eng">Mechanical gear selector</tu>
+	<tu xmlns:lang="nld">Mechanische transmissieselectie</tu>
+	<tu xmlns:lang="fra">Sélecteur de vitesse mécanique</tu>
+	<tu xmlns:lang="deu">Mechanischer Wählhebel</tu>
+	<tu xmlns:lang="ita">Selettore cambio meccanico</tu>
+	<tu xmlns:lang="jpn">メカニカル ギア セレクター</tu>
+	<tu xmlns:lang="ptg">Alavanca selectora mecânica</tu>
+	<tu xmlns:lang="ptb">Seletor de marchas mecânico</tu>
+	<tu xmlns:lang="rus">Механический селектор коробки передач</tu>
+	<tu xmlns:lang="esp">Palanca de cambios mecánica</tu>
+	<tu xmlns:lang="chs">机械换档杆</tu>
+	<tu xmlns:lang="kor">기계식 기어 레버</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JFuelPumpControl$M">
+	<tu xmlns:lang="eng">Fuel pump control</tu>
+	<tu xmlns:lang="nld">Brandstofpompregeling</tu>
+	<tu xmlns:lang="fra">Commande de pompe a carburant</tu>
+	<tu xmlns:lang="deu">Steuerung kraftstoffpumpe</tu>
+	<tu xmlns:lang="ita">Controllo pompa carburante</tu>
+	<tu xmlns:lang="jpn">燃料ポンプ コントロール</tu>
+	<tu xmlns:lang="ptg">Comando da bomba de combustível</tu>
+	<tu xmlns:lang="ptb">Controle da bomba de combustível</tu>
+	<tu xmlns:lang="rus">Управление топливным насосом</tu>
+	<tu xmlns:lang="esp">Control bomba combustible</tu>
+	<tu xmlns:lang="chs">燃油泵 控制</tu>
+	<tu xmlns:lang="kor">연료 펌프 컨트롤</tu>
+</tm>

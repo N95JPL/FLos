@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_W_NEXT_OP_MAY_DRV_SROOF">
+	<tu xmlns:lang="eng">WARNING! The next operation may drive the sliding roof</tu>
+	<tu
+    xmlns:lang="nld"
+  >WAARSCHUWING!! Door de volgende handeling kan het zonnedak worden aangedreven</tu>
+	<tu
+    xmlns:lang="fra"
+  >AVERTISSEMENT !! La prochaine opération pourra faire fonctionner le toit ouvrant</tu>
+	<tu
+    xmlns:lang="deu"
+  >WARNUNG !! Durch den nächsten Arbeitsschritt kann das Schiebedach betätigt werden</tu>
+	<tu
+    xmlns:lang="ita"
+  >ATTENZIONE !! La prossima operazione può azionare il tettuccio</tu>
+	<tu xmlns:lang="jpn">警告!! 次の操作によりサンルーフが作動する場合がある。</tu>
+	<tu xmlns:lang="ptg">AVISO! A etapa seguinte pode activar o tecto de abrir</tu>
+	<tu xmlns:lang="ptb">AVISO! A próxima operação pode acionar o teto solar</tu>
+	<tu
+    xmlns:lang="rus"
+  >ВНИМАНИЕ! Выполнение следующей операции может привести в движение сдвижной верх</tu>
+	<tu
+    xmlns:lang="esp"
+  >AVISO: La operación siguiente puede dar lugar a que se mueva el techo solar</tu>
+	<tu xmlns:lang="chs">警告！下一操作可能驱动活动顶篷</tu>
+	<tu xmlns:lang="kor">경고! 다음 작업 시 슬라이딩 루프가 구동될 수 있습니다.</tu>
+</tm>

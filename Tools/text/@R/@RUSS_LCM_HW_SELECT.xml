@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RUSS_LCM_HW_SELECT">
+	<tu
+    xmlns:lang="eng"
+  >Lamp check module part number.  Select the appropriate option:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onderdeelnummer van de module voor de controle van de lampjes  Kies de toepasselijke optie:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Référence du module de contrôle des ampoules.  Sélectionnez l’option appropriée :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Leuchtenprüfmodul-Teilenummer.  Wählen Sie die entsprechende Option:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Numero di parte del modulo di controllo luci.  Selezionare l'opzione appropriata:</tu>
+	<tu xmlns:lang="jpn">??? ???? ????? ??? ?????  ?????????????????:</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Número de peça do módulo de verificação das lâmpadas.  Seleccione a opção adequada:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Número de peça do módulo de verificação da lâmpada.  Selecione a opção apropriada:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Номер детали модуля проверки сигнализаторов.  Выберите нужную опцию:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Número de referencia del módulo de comprobación de luces.  Seleccione la opción apropiada:</tu>
+	<tu xmlns:lang="chs">??????????  ????????:</tu>
+	<tu xmlns:lang="kor">램프 점검 모듈 부품 번호  알맞은 옵션을 선택하십시오.</tu>
+</tm>

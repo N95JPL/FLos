@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_AC_REFRIG_MONITOR">
+	<tu xmlns:lang="eng">Air conditioning refrigerant monitor</tu>
+	<tu xmlns:lang="nld">Monitor van het airco-koelmiddel</tu>
+	<tu xmlns:lang="fra">Contrôle de réfrigérant de climatisation</tu>
+	<tu xmlns:lang="deu">A/C-Kältemittelmonitor</tu>
+	<tu xmlns:lang="ita">Monitor refrigerante aria condizionata</tu>
+	<tu xmlns:lang="jpn">エア コンディショニング冷媒モニター</tu>
+	<tu xmlns:lang="ptg">Monitor do refrigerante do ar condicionado</tu>
+	<tu xmlns:lang="ptb">Monitor do líquido de arrefecimento do ar-condicionado</tu>
+	<tu xmlns:lang="rus">Проверка насоса хладагента кондиционера</tu>
+	<tu xmlns:lang="esp">Monitor del refrigerante del aire acondicionado</tu>
+	<tu xmlns:lang="chs">空调制冷监测器</tu>
+	<tu xmlns:lang="kor">에어컨 냉매 모니터</tu>
+</tm>

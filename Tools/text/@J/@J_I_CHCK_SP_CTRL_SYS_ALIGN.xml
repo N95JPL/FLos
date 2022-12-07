@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHCK_SP_CTRL_SYS_ALIGN">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will check that the speed control system has been placed into alignment mode</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal controleren dat het snelheidsregelsysteem in de uitlijnfunctie is gezet</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de s'assurer que le système de contrôle de la vitesse est bien en mode d'alignement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Maßnahme wird überprüft, ob sich das Geschwindigkeitsregelungssystem im Ausrichtungsmodus befindet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura verificherà che il sistema di controllo velocità sia stato messo nella modalità di allineamento</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順はスピード コントロール システムがアライメント モードに入ったことをチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento verificará se o sistema de controlo de velocidade foi colocado no modo de alinhamento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento irá verificar se o sistema de controle de velocidade foi colocado em modo de alinhamento</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе процедуры проверяется было ли выполнено переключение системы круиз-контроля в режим подстройки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento comprueba que se ha establecido el sistema de control de la velocidad en modo de alineación</tu>
+	<tu xmlns:lang="chs">该程序将检查确保已让速度控制系统进入校准模式</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 스피드 컨트롤 시스템이 정렬 모드로 설정되었는지 점검합니다.</tu>
+</tm>

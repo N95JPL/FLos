@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENSURE_ROOF_CLOSED">
+	<tu
+    xmlns:lang="eng"
+  >If the vehicle is a convertible, make sure the roof is fully closed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het een convertible betreft, zorgt u dat het dak helemaal dicht is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si le véhicule est décapotable, vérifiez que le toit est complètement fermé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Handelt es sich bei dem Fahrzeug um ein Cabriolet, sicherstellen, dass das Verdeck vollständig geschlossen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se il veicolo è convertibile, accertarsi che il tettuccio sia completamente chiuso.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両がコンバーチブルの場合、ルーフが全閉であることを確認しなさい。</tu>
+	<tu xmlns:lang="ptg">Sintomas de anomalia</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o veículo for um conversível, certifique-se de que o teto esteja totalmente fechado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если автомобиль - кабриолет, убедитесь, что крыша полностью закрыта.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se trata de un vehículo descapotable, asegurarse de que la capota esté bien cerrada.</tu>
+	<tu xmlns:lang="chs">'如果车辆为活动顶篷，请确保车顶完全关闭。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >컨버터블 차량인 경우에는 루프가 완전히 닫혀 있는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FCDIM_08">
+	<tu xmlns:lang="eng">6)  Control module checks TV video input.</tu>
+	<tu
+    xmlns:lang="nld"
+  >6)  De regelmodule controleert de video-invoer van de televisie.</tu>
+	<tu xmlns:lang="fra">6)  Le module de commande contrôle l'entrée vidéo TV.</tu>
+	<tu xmlns:lang="deu">6)  Steuergerät prüft TV-Videoeingang.</tu>
+	<tu
+    xmlns:lang="ita"
+  >6)  Il modulo di comando controlla l'input video della TV.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >6)  コントロール モジュールは TV ビデオ インプットをチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >6)  O módulo de controlo verifica o sinal de entrada TV.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >6)  O módulo de controle verifica a entrada de vídeo da TV.</tu>
+	<tu
+    xmlns:lang="rus"
+  >6)  Блок управления проверяет входной сигнал телевизора и видео.</tu>
+	<tu
+    xmlns:lang="esp"
+  >6)  El módulo de control comprueba la señal de entrada de vídeo de TV.</tu>
+	<tu xmlns:lang="chs">6)  控制模块检查电视视频输入。</tu>
+	<tu xmlns:lang="kor">6)  컨트롤 모듈이 TV 비디오 입력을 점검합니다.</tu>
+</tm>

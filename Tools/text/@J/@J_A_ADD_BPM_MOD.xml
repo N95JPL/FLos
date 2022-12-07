@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ADD_BPM_MOD">
+	<tu xmlns:lang="eng">Add bluetooth telephone module</tu>
+	<tu xmlns:lang="nld">Bluetooth-telefoonmodule toevoegen</tu>
+	<tu xmlns:lang="fra">Ajouter module de téléphone Bluetooth</tu>
+	<tu xmlns:lang="deu">Bluetooth-Telefonsteuergerät hinzufügen</tu>
+	<tu xmlns:lang="ita">Aggiungere modulo telefono Bluetooth</tu>
+	<tu xmlns:lang="jpn">ブルートゥース テレホン モジュールの追加</tu>
+	<tu xmlns:lang="ptg">Adicionar módulo de telemóvel com Bluetooth</tu>
+	<tu xmlns:lang="ptb">Adicionar módulo Bluetooth do telefone</tu>
+	<tu xmlns:lang="rus">Добавить модуль телефона с поддержкой bluetooth</tu>
+	<tu xmlns:lang="esp">Añadir módulo de teléfono Bluetooth</tu>
+	<tu xmlns:lang="chs">添加蓝牙电话模块</tu>
+	<tu xmlns:lang="kor">블루투스 전화 모듈 추가</tu>
+</tm>

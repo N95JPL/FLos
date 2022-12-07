@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_AAM_01">
+	<tu
+    xmlns:lang="eng"
+  >This routine is automatically run on start up of the module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem voert deze routine automatisch uit bij het opstarten van de module.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme est exécuté automatiquement à l'initialisation du module.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Routine läuft automatisch beim Einschalten des Steuergeräts.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è eseguita automaticamente all'accensione del modulo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンはモジュールの起動時に自動的に実行されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é executada automaticamente durante o arranque do módulo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é executada automaticamente no início do módulo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная процедура выполняется автоматически при запуске блока.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina se ejecuta automáticamente al iniciarse el funcionamiento del módulo.</tu>
+	<tu xmlns:lang="chs">这一常规程在启动模块时自动运行。</tu>
+	<tu xmlns:lang="kor">이 루틴은 모듈 시동 시 자동으로 실행됩니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SAMPLE_OVERRUN">
+	<tu xmlns:lang="eng">Sample overrun</tu>
+	<tu xmlns:lang="nld">Gegevensoverloop van monster</tu>
+	<tu xmlns:lang="fra">Surcharge d'échantillon</tu>
+	<tu xmlns:lang="deu">Beispiel Schiebebetrieb</tu>
+	<tu xmlns:lang="ita">Eccedenza campione</tu>
+	<tu xmlns:lang="jpn">サンプル オーバーラン</tu>
+	<tu xmlns:lang="ptg">Desaceleração de amostragem</tu>
+	<tu xmlns:lang="ptb">Excesso da amostra</tu>
+	<tu xmlns:lang="rus">Переполнение выборки</tu>
+	<tu xmlns:lang="esp">Exceso de muestras</tu>
+	<tu xmlns:lang="chs">样本超出范围</tu>
+	<tu xmlns:lang="kor">샘플 오버런</tu>
+</tm>

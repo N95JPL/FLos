@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_KVM">
+	<tu xmlns:lang="eng">Keyless vehicle module</tu>
+	<tu xmlns:lang="nld">Module voor 'keyless'-systeem</tu>
+	<tu xmlns:lang="fra">Module d'accès sans clé véhicule</tu>
+	<tu xmlns:lang="deu">Fahrberechtigungs-Steuergerät</tu>
+	<tu xmlns:lang="ita">Modulo veicolo senza chiavi</tu>
+	<tu xmlns:lang="jpn">キーレス車両モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de entrada sem chave do veículo</tu>
+	<tu xmlns:lang="ptb">Módulo de veículo sem chave</tu>
+	<tu xmlns:lang="rus">Блок автомобиля без ключа</tu>
+	<tu xmlns:lang="esp">Módulo de apertura a distancia del vehículo</tu>
+	<tu xmlns:lang="chs">无钥匙车辆模块</tu>
+	<tu xmlns:lang="kor">키리스 차량 모듈</tu>
+</tm>

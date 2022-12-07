@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_VISCOUS_FAN_PASS">
+	<tu
+    xmlns:lang="eng"
+  >Test passed  -  Correct limits were reached during drive cycle</tu>
+	<tu
+    xmlns:lang="nld"
+  >Test geslaagd  -  Tijdens de rijcyclus werden de juiste grenzen bereikt</tu>
+	<tu
+    xmlns:lang="fra"
+  >Essai réussi  -  Des limites correctes ont été atteintes pendant le cycle de conduite</tu>
+	<tu
+    xmlns:lang="deu"
+  >Prüfung erfolgreich  -  Während des Fahrzyklus wurden die korrekten Grenzwerte erreicht</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prova superata  -  Limiti corretti sono stati raggiunti durante il ciclo di guida</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ﾃｽﾄにﾊﾟｽしました。  －  ドライブ サイクル中に正しいリミットに到達しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Passou teste  -  Foram atingidos os limites correctos durante o ciclo de condução</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aprovação no teste  -  Corrija os limites que foram atingidos durante o ciclo de condução</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка пройдена  -  Во время ездового цикла достигнуты требуемые пределы</tu>
+	<tu
+    xmlns:lang="esp"
+  >Prueba bien  -  Se alcanzaron los límites correctos durante el ciclo de conducción</tu>
+	<tu xmlns:lang="chs">测试通过。  -  驱动循环过程中达到了正确的限值</tu>
+	<tu xmlns:lang="kor">테스트 통과  -  주행 사이클 중에 적당한 한계에 도달함</tu>
+</tm>

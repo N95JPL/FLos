@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_MOV_SEN_PREP">
+	<tu xmlns:lang="eng">Interior movement sensor preparation</tu>
+	<tu xmlns:lang="nld">Voorbereiding van bewegingssensor in passagiersruimte</tu>
+	<tu xmlns:lang="fra">Paramétrage du capteur de mouvement intérieur</tu>
+	<tu xmlns:lang="deu">Innenraum-Bewegungssensor - Vorbereitung</tu>
+	<tu xmlns:lang="ita">Preparazione del sensore di movimento nell'abitacolo</tu>
+	<tu xmlns:lang="jpn">車内モーション センサーの準備</tu>
+	<tu xmlns:lang="ptg">Preparação do sensor de movimento no interior</tu>
+	<tu xmlns:lang="ptb">Preparação do sensor de movimento interno</tu>
+	<tu xmlns:lang="rus">Подготовлен для датчика движения в салоне</tu>
+	<tu xmlns:lang="esp">Preparación del sensor de movimiento interior</tu>
+	<tu xmlns:lang="chs">内部移动传感器准备</tu>
+	<tu xmlns:lang="kor">실내 동작 센서 준비</tu>
+</tm>

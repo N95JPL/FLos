@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDS_PRESSURE">
+	<tu xmlns:lang="eng">Pressure</tu>
+	<tu xmlns:lang="nld">Druk</tu>
+	<tu xmlns:lang="fra">Pression</tu>
+	<tu xmlns:lang="deu">Druck</tu>
+	<tu xmlns:lang="ita">Pressione</tu>
+	<tu xmlns:lang="jpn">プレッシャ</tu>
+	<tu xmlns:lang="ptg">Pressão</tu>
+	<tu xmlns:lang="ptb">Pressão</tu>
+	<tu xmlns:lang="rus">Давление</tu>
+	<tu xmlns:lang="esp">Presión</tu>
+	<tu xmlns:lang="chs">压力</tu>
+	<tu xmlns:lang="kor">압력</tu>
+</tm>

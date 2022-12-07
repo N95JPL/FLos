@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INJECTOR_CODE_PACKAGING">
+	<tu
+    xmlns:lang="eng"
+  >The injector packaging (where injector replacement has been carried out).</tu>
+	<tu
+    xmlns:lang="nld"
+  >De verpakking van de injector (als u de injector vervangen hebt).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Emballage de l'injecteur (lorsque le remplacement de l'injecteur a été effectué).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf der Einspritzventilverpackung (wenn ein Einspritzventil ausgetauscht wird)</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'imballaggio dell'iniettore (laddove è stata eseguita la sostituzione dell'iniettore).</tu>
+	<tu xmlns:lang="jpn">インジェクタ パッケージ (インジェクタが交換された場合)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Embalagem do injector (quando o injector tiver sido substituído).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A embalagem do injetor (onde substituição do injetor foi realizada).</tu>
+	<tu xmlns:lang="rus">На сборке форсунок (при замене форсунки).</tu>
+	<tu
+    xmlns:lang="esp"
+  >El embalaje del inyector (cuando se ha sustituido el inyector).</tu>
+	<tu xmlns:lang="chs">喷油器包装（进行了喷油器更换的场合）。</tu>
+	<tu xmlns:lang="kor">인젝터 포장(인젝터 교체를 수행한 경우).</tu>
+</tm>

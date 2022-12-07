@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AVAI_T4_SOFTWARE">
+	<tu xmlns:lang="eng">This option is only available via the T4 software.</tu>
+	<tu xmlns:lang="nld">Deze optie is alleen via de T4-software beschikbaar.</tu>
+	<tu xmlns:lang="fra">Cette option n'est disponible que via le logiciel T4.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Option steht nur über die T4-Software zur Verfügung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa opzione è disponibile solo tramite il programma T4.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このオプションは T4 ソ\フトウェアを介してのみ利用可能\です。</tu>
+	<tu xmlns:lang="ptg">Tanzânia</tu>
+	<tu xmlns:lang="ptb">Esta opção só está disponível por meio do software T4.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная опция доступна только для программного обеспечения T4.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta opción solo está disponible a través del software del T4.</tu>
+	<tu xmlns:lang="chs">此选项只能通过 T4 软件取得。</tu>
+	<tu xmlns:lang="kor">이 옵션은 T4 소프트웨어를 통해서만 사용할 수 있습니다.</tu>
+</tm>

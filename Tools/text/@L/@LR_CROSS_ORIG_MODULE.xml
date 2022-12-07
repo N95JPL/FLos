@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_CROSS_ORIG_MODULE">
+	<tu xmlns:lang="eng">Press cross if the original module is still fitted</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op het kruisje als de originele module nog steeds is gemonteerd</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la croix si le module d'origine est encore monté</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Kreuz antippen, wenn das ursprüngliche Steuergerät immer noch eingebaut ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere la crocetta se è ancora installato il modulo originale</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オリジナルのモジュールがまだ取り付けられている場合は×を押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Premir a cruz, se o módulo original ainda estiver montado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione a cruz se o módulo original ainda está instalado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если по-прежнему установлен оригинальный блок, нажмите на крестик</tu>
+	<tu xmlns:lang="esp">Pulsar la cruz si aún está montado el módulo original</tu>
+	<tu xmlns:lang="chs">如果仍装配了原模块，请按叉键</tu>
+	<tu
+    xmlns:lang="kor"
+  >원래 모듈이 여전히 장착되어 있으면 십자 기호를 누르십시오.</tu>
+</tm>

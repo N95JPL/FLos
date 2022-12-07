@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DOWNLOAD_COMPLETE">
+	<tu xmlns:lang="eng">Download complete</tu>
+	<tu xmlns:lang="nld">Download volledig</tu>
+	<tu xmlns:lang="fra">Transfert complet</tu>
+	<tu xmlns:lang="deu">Herunterladen abgeschlossen</tu>
+	<tu xmlns:lang="ita">Trasferimento dati completato</tu>
+	<tu xmlns:lang="jpn">ダウンロード完了</tu>
+	<tu xmlns:lang="ptg">Transferência completa</tu>
+	<tu xmlns:lang="ptb">Download concluído</tu>
+	<tu xmlns:lang="rus">Загрузка завершена</tu>
+	<tu xmlns:lang="esp">Descarga terminada</tu>
+	<tu xmlns:lang="chs">下载完成</tu>
+	<tu xmlns:lang="kor">다운로드 완료</tu>
+</tm>

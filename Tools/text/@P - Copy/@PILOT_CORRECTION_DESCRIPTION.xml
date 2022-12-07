@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_DESCRIPTION">
+	<tu xmlns:lang="eng">The in service pilot correction learning routine is used to automate the calibration of each injector's characteristics over the full fuel rail pressure range of normal engine operation.</tu>
+	<tu xmlns:lang="nld">Het systeem gebruikt de routine 'inleren van pilot-correctie tijdens bedrijf' om de kalibrering van de karakteristieken van elke injector, tijdens normaal bedrijf van de motor, over het hele drukbereik in de common rail te automatiseren.</tu>
+	<tu xmlns:lang="fra">Le programme d'apprentissage de correction pilote en entretien est utilisé pour automatiser le calibrage des caractéristiques de chaque injecteur sur toute la plage de pression de la rampe d'injection de fonctionnement normal du moteur.</tu>
+	<tu xmlns:lang="deu">Das Lernverfahren Voreinspritzungskorrektur bei der Inspektion dient dazu, die Kalibrierung der Charakteristika jedes Einspritzventils über das gesamte Spektrum des Kraftstoff-Verteilerrohrdrucks bei normalem Motorbetrieb zu automatisieren.</tu>
+	<tu xmlns:lang="ita">La procedura di apprendimento delle correzioni pilota in servizio viene usata per automatizzare la taratura delle caratteristiche di ciascun iniettore sull'intera gamma di pressione del collettore alimentazione carburante del normale funzionamento del motore.</tu>
+	<tu xmlns:lang="jpn">インサービス パイロット補正学習ルーチンは、エンジンの通常作動状態において、フューエル レール プレッシャの全範囲にわたり各インジェクタ特性のキャリブレーションを自動的に行うために使用されます。</tu>
+	<tu xmlns:lang="ptg">A rotina de programação da correcção piloto em assistência é usada para automatizar a calibragem das características de cada um dos injectores em toda a gama de pressão da régua distribuidora de combustível em funcionamento normal do motor.</tu>
+	<tu xmlns:lang="ptb">A rotina de aprendizagem de correção do piloto de manutenção é usada para automatizar a calibração de cada característica do injetor em todo o range de pressão de trilho de combustível da operação normal do motor.</tu>
+	<tu xmlns:lang="rus">Данная операция для сохранения значений контрольной корректировки в эксплуатации используется для автоматизации калибровки характеристик каждой форсунки во всем диапазоне давления в топливной магистрали при нормальном режиме работы двигателя.</tu>
+	<tu xmlns:lang="esp">La rutina de aprendizaje de corrección piloto en servicio se utiliza para automatizar la calibración de las características de cada inyector en todo el alcance de la presión de la rampa de combustible durante el funcionamiento normal del motor.</tu>
+	<tu xmlns:lang="chs">维护时执行的试验性校正记忆常规程序，用于自动标定发动机正常运行的整个燃油油轨压力范围内各个喷油器的特性。</tu>
+	<tu xmlns:lang="kor">서비스 중 파일럿 보정 학습 루틴은 정상 엔진 작동의 전체 연료 레일 압력 범위에서 각 인젝터의 특성 보정 자동화에 사용됩니다.</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_PERSON_PARAMS">
+	<tu xmlns:lang="eng">List of personalisation parameters for modification</tu>
+	<tu
+    xmlns:lang="nld"
+  >Lijst met te wijzigen parameters van persoonlijke voorkeuren</tu>
+	<tu
+    xmlns:lang="fra"
+  >Liste des paramètres de personnalisation en vue d'une modification</tu>
+	<tu xmlns:lang="deu">Liste von Personalisierungsparametern für Modifikation</tu>
+	<tu
+    xmlns:lang="ita"
+  >Elenco dei parametri di personalizzazione da modificare</tu>
+	<tu xmlns:lang="jpn">改善変更のための個人設定パラメータ リスト</tu>
+	<tu xmlns:lang="ptg">Lista de parâmetros de personalização a alterar</tu>
+	<tu xmlns:lang="ptb">Lista de parâmetros de personalização para modificação</tu>
+	<tu xmlns:lang="rus">Список параметров персонализации для изменения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Lista de parámetros de personalización para su modificación</tu>
+	<tu xmlns:lang="chs">用于修正的个性化参数列表</tu>
+	<tu xmlns:lang="kor">수정을 위한 개인화 매개 변수의 목록</tu>
+</tm>

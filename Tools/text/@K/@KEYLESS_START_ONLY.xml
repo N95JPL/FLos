@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KEYLESS_START_ONLY">
+	<tu xmlns:lang="eng">Keyless start only</tu>
+	<tu xmlns:lang="nld">Alleen starten zonder sleutel</tu>
+	<tu xmlns:lang="fra">Démarrage sans clé seulement</tu>
+	<tu xmlns:lang="deu">Nur Keyless Start (schlüsselloser Start)</tu>
+	<tu xmlns:lang="ita">Solo avviamento senza chiave</tu>
+	<tu xmlns:lang="jpn">キーレス スタートのみ</tu>
+	<tu xmlns:lang="ptg">Apenas arranque sem chave</tu>
+	<tu xmlns:lang="ptb">Partida sem chave somente</tu>
+	<tu xmlns:lang="rus">Только запуск без ключа</tu>
+	<tu xmlns:lang="esp">Arranque sin llave únicamente</tu>
+	<tu xmlns:lang="chs">仅免匙启动</tu>
+	<tu xmlns:lang="kor">키리스 시동만 해당</tu>
+</tm>

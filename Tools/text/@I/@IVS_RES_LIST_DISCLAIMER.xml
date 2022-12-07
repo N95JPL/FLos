@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IVS_RES_LIST_DISCLAIMER">
+	<tu
+    xmlns:lang="eng"
+  >An incorrect answer may result in no software parts found or the wrong parts selected to download</tu>
+	<tu
+    xmlns:lang="nld"
+  >Een onjuist antwoord kan tot gevolg hebben dat er geen software-onderdelen worden gevonden of dat de verkeerde onderdelen worden gedownload.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une réponse incorrecte peut se solder par l'absence d'éléments logiciels ou la sélection d'éléments erronés à télécharger</tu>
+	<tu
+    xmlns:lang="deu"
+  >Eine falsche Antwort kann dazu führen, dass keine Softwareteile gefunden oder falsche Teile für das Herunterladen ausgewählt werden</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una risposta non corretta potrebbe dare luogo al mancato ritrovamento delle parti del software o alla selezione delle parti sbagliate per lo scaricamento</tu>
+	<tu
+    xmlns:lang="jpn"
+  >答えが間違っていると、ソ\フトウェア パーツが見つからない、あるいは誤ったパーツのダウンロードを選択してしまう可能\性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Uma resposta incorrecta pode impossibilitar encontrar peças do software ou levar à selecção incorrecta de peças para transferência</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma resposta incorreta pode resultar em nenhuma parte do software encontrada ou a parte selecionada incorreta para download</tu>
+	<tu
+    xmlns:lang="rus"
+  >В результате неправильного ответа элементы программного обеспечения могут быть не найдены или возможен выбор неправильных элементов ПО для загрузки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una respuesta incorrecta puede provocar que no se encuentren componentes de software o que se seleccionen para descarga los componentes incorrectos</tu>
+	<tu
+    xmlns:lang="chs"
+  >不正确的应答可能造成：没有发现任何软件组件或选择了错误的组件进行下载</tu>
+	<tu
+    xmlns:lang="kor"
+  >잘못 대답하면 소프트웨어 파트를 찾을 수 없거나 다운로드할 파트가 잘못 선택될 수 있습니다.</tu>
+</tm>

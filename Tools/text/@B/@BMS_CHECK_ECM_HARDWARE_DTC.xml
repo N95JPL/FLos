@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CHECK_ECM_HARDWARE_DTC">
+	<tu
+    xmlns:lang="eng"
+  >Check if any engine control module hardware diagnostic trouble code faults are present</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer op diagnosefoutcodes m.b.t. de hardware van de motorregelmodule</tu>
+	<tu
+    xmlns:lang="fra"
+  >Recherchez la présence de codes d'anomalie matérielle liés au module de commande du moteur</tu>
+	<tu
+    xmlns:lang="deu"
+  >Prüfen, ob Fehlercodes zur Hardware des Motorsteuergeräts abgespeichert sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare se siano presenti codici dei problemi di diagnostica relativi all'hardware modulo di comando motore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジン コントロール モジュール ハードウェアの故障に関する診断トラブル コードがないかチェックしなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar se está presente algum código de avaria relativo ao equipamento do módulo de comando do motor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se há falhas de código de problema de diagnóstico do hardware do módulo de controle do motor presentes</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте наличие диагностических кодов неисправностей для аппаратной части блока управления двигателем</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar si hay algún código de avería de hardware del módulo de control del motor</tu>
+	<tu xmlns:lang="chs">检查是否存在任何发动机控制模块硬件故障诊断码</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진 컨트롤 모듈 하드웨어 고장 진단 코드 고장이 존재하는지 점검하십시오.</tu>
+</tm>

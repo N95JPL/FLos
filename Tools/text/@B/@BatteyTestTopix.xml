@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BatteyTestTopix">
+	<tu
+    xmlns:lang="eng"
+  >Using the Midtronics battery tester and information within TOPIx section 414-01, make sure the battery is in a suitable condition to support the stop/start system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer met de Midtronics-accutester en aan hand van de informatie in TOPIx sectie 414-01 dat de accu in een geschikte conditie is om het Stop/Start-systeem te ondersteunen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >À l'aide du testeur de batterie Midtronics et des informations de la section TOPIx 414-01, assurez-vous que la batterie peut prendre en charge le système Arrêt/Démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit Hilfe des Midtronics-Batterieprüfers und der Informationen in TOPIx, Abschnitt 414-01, sicherstellen, dass sich die Batterie in einem geeigneten Zustand zur Unterstützung des Stopp/Start-Systems befindet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Utilizzando il tester per batterie Midtronics e le informazioni contenute in TOPIx sezione 414-01, verificare che la batteria sia in condizioni adeguate per alimentare il sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >Midtronics バッテリー テスタを使用して TOPIx セクション 414-01 の情報に基づいて、バッテリーがスタート/ストップ システムをサポートするのに適した状態であることを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Utilizando o dispositivo de teste de baterias Midtronics e informações que se encontram na secção 414-01 do TOPIx, certifique-se de que a bateria está em condições adequadas para suportar o sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Utilizando o verificador de bateria Midtronics e as informações na seção 414-01 do TOPIx, certifique-se de que a bateria está em boas condições para suportar o sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Используя тестер Midtronics и информацию из раздела 414-01 TOPIx, убедитесь, что АКБ находится в приемлемом состоянии для поддержания работы системы старт/стоп.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Con el comprobador de baterías Midtronics y la información de la sección 414-01 de TOPIx, asegúrese de que la batería se encuentra en condiciones adecuadas para alimentar el sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="chs"
+  >使用 Midtronics 蓄电池测试仪和 TOPIX 第 414-01 节中的信息，确保蓄电池处于支持停止/启动系统的合适状态下。</tu>
+	<tu
+    xmlns:lang="kor"
+  >TOPIx 섹션 414-01의 Midtronics 배터리 테스터와 정보를 사용하여 배터리가 Stop/Start 시스템을 지원하기에 적합한 상태인지 확인하십시오.</tu>
+</tm>

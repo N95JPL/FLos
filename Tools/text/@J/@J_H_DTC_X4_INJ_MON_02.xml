@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_DTC_X4_INJ_MON_02">
+	<tu xmlns:lang="eng">Battery voltage &gt; 12 volts.</tu>
+	<tu xmlns:lang="nld">Accuspanning &gt; 12 V</tu>
+	<tu xmlns:lang="fra">Tension de batterie &gt; 12 V</tu>
+	<tu xmlns:lang="deu">Batteriespannung &gt; 12V</tu>
+	<tu xmlns:lang="ita">Tensione batteria &gt; 12 V</tu>
+	<tu xmlns:lang="jpn">バッテリ電圧 12 V 以上</tu>
+	<tu xmlns:lang="ptg">Tensão da bateria &gt; 12 V.</tu>
+	<tu xmlns:lang="ptb">Tensão da bateria acima de 12 V.</tu>
+	<tu xmlns:lang="rus">Напряжение аккумуляторной батареи &gt; 12 В.</tu>
+	<tu xmlns:lang="esp">Voltaje de batería &gt; 12 v</tu>
+	<tu xmlns:lang="chs">蓄电池电压 &gt; 12V。</tu>
+	<tu xmlns:lang="kor">배터리 전압 &gt; 12 볼트.</tu>
+</tm>

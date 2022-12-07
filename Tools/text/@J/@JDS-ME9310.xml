@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-ME9310">
+	<tu xmlns:lang="eng">Close the passenger's door</tu>
+	<tu xmlns:lang="nld">Passagiersportier SLUITEN</tu>
+	<tu xmlns:lang="fra">FERMEZ portière passager</tu>
+	<tu xmlns:lang="deu">Fahrgasttür schließen</tu>
+	<tu xmlns:lang="ita">CHIUDERE la porta passeggero</tu>
+	<tu xmlns:lang="jpn">パｯセﾝジャ－側ドｱを閉めて下さい。</tu>
+	<tu xmlns:lang="ptg">Fechar a porta do passageiro</tu>
+	<tu xmlns:lang="ptb">Feche a porta do passageiro</tu>
+	<tu xmlns:lang="rus">Закройте дверь пассажира</tu>
+	<tu xmlns:lang="esp">CIERRE la puerta pasajero</tu>
+	<tu xmlns:lang="chs">关闭乘客一侧车门</tu>
+	<tu xmlns:lang="kor">조수석 도어를 닫습니다.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_BATT_DISC_INST_10">
+	<tu
+    xmlns:lang="eng"
+  >Please wait for on-screen VCI indicator to confirm VCI is ready</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wacht tot de indicator van de VCI op het scherm aangeeft dat de VCI gereed is</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez attendre que s'affiche à l'écran un indicateur confirmant que la VCI est prête à fonctionner</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte zur Bestätigung auf die VCI-Anzeige warten, dass das VCI bereit ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attendere che l'indicatore del VCI sullo schermo indichi che il VCI è pronto</tu>
+	<tu
+    xmlns:lang="jpn"
+  >画面上の VCI インジケータに VCI の準備が整ったことが示されるまで待機してください</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aguarde que o indicador do VCI no ecrã indique que o VCI está pronto</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aguarde até que o indicador de VCI na tela confirme que a VCI está pronta</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дождитесь появления на экране индикатора VCI для подтверждения готовности VCI</tu>
+	<tu
+    xmlns:lang="esp"
+  >Espere a que aparezca en pantalla el indicador de la VCI para confirmar que la VCI está preparada</tu>
+	<tu xmlns:lang="chs">请等待屏幕上的 VCI 指示灯确认 VCI 已准备就绪</tu>
+	<tu
+    xmlns:lang="kor"
+  >화면의 VCI 표시등을 통해 VCI가 준비되었음을 확인할 수 있을 때까지 기다리십시오.</tu>
+</tm>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LAZY_SEATS_REMOTE_DOOR_OPEN">
+	<tu xmlns:lang="eng">Lazy seats with remote unlock and door open</tu>
+	<tu
+    xmlns:lang="nld"
+  >Luie stoelen met ontgrendelen met afstandsbediening en portier geopend</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sièges confort avec déverrouillage à distance et porte ouverte.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Verfahren der Sitze mit Komforteinstieg bei Entriegeln über Fernbedienung und geöffneter Tür</tu>
+	<tu
+    xmlns:lang="ita"
+  >Regolazione agevolata sedili con sbloccaggio da telecomando e apertura portiera</tu>
+	<tu
+    xmlns:lang="jpn"
+  >リモート アンロック／ドア オープンを伴うレイジー シート</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Bancos com adaptação automática com destrancagem por comando à distância e porta aberta</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Assentos lentos com destravamento e abertura da porta remotos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция Lazy Seats - с дистанционным отпиранием и открытием двери</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ajuste automático de los asientos con desbloqueo y apertura a distancia de las puertas</tu>
+	<tu xmlns:lang="chs">具有遥控解锁和车门打开功能的便捷座椅</tu>
+	<tu xmlns:lang="kor">원격 잠금 해제 및 도어 열림 기능을 이용한 레이지 시트</tu>
+</tm>

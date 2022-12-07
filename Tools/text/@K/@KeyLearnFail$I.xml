@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KeyLearnFail$I">
+	<tu xmlns:lang="eng">Key learn failed.</tu>
+	<tu xmlns:lang="nld">Inleren van sleutel niet gelukt.</tu>
+	<tu xmlns:lang="fra">Echec d'apprentissage de la clé.</tu>
+	<tu xmlns:lang="deu">Schlüsselerlernung nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Apprendimento chiave non riuscito.</tu>
+	<tu xmlns:lang="jpn">キー認識に失敗</tu>
+	<tu xmlns:lang="ptg">Programação da chave falhou.</tu>
+	<tu xmlns:lang="ptb">Falha na memorização da chave.</tu>
+	<tu xmlns:lang="rus">Ошибка при запоминании ключа.</tu>
+	<tu xmlns:lang="esp">Falló el aprendizaje de llaves.</tu>
+	<tu xmlns:lang="chs">钥匙记忆失败。</tu>
+	<tu xmlns:lang="kor">키 학습 실패</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROLL_OVER_SENSING">
+	<tu xmlns:lang="eng">Roll over sensing</tu>
+	<tu xmlns:lang="nld">Detectie van over de kop gaan </tu>
+	<tu xmlns:lang="fra">Détection de retournement </tu>
+	<tu xmlns:lang="deu">Überschlag-Ermittlung </tu>
+	<tu xmlns:lang="ita">Rilevamento antiribaltamento</tu>
+	<tu xmlns:lang="jpn">ロール オーバー検知</tu>
+	<tu xmlns:lang="ptg">Detecção de capotamento</tu>
+	<tu xmlns:lang="ptb">Detecção capotamento</tu>
+	<tu xmlns:lang="rus">Обнаружение опасности опрокидывания </tu>
+	<tu xmlns:lang="esp">Sensor de vuelco</tu>
+	<tu xmlns:lang="chs">侧倾传感器</tu>
+	<tu xmlns:lang="kor">롤 오버 감지</tu>
+</tm>

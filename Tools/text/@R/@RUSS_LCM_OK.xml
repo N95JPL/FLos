@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RUSS_LCM_OK">
+	<tu
+    xmlns:lang="eng"
+  >The lamp check module (LCM) is at the required hardware level</tu>
+	<tu
+    xmlns:lang="nld"
+  >De module voor de controle van de lampjes (LCM) is van het vereiste hardwareniveau</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module de contrôle des ampoules (LCM) présente les caractéristiques matérielles requises</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Leuchtenprüfmodul (LCM) entspricht der erforderlichen Hardwareversion</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo di prova delle spie (LCM) ha già la versione hardware richiesta</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このランプ チェック モジュール (LCM) は必要なハードウェア レベルのものです</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A versão de hardware do módulo de verificação das lâmpadas (LCM) é a correcta</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo de verificação da lâmpada (LCM) possui a versão de hardware necessário</tu>
+	<tu
+    xmlns:lang="rus"
+  >Аппаратное обеспечение модуля проверки освещения (LCM) не требует модернизации</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo de comprobación de luces (LCM) presenta el nivel de hardware necesario.</tu>
+	<tu xmlns:lang="chs">车灯检查模块（LCM）是要求的硬件版本。</tu>
+	<tu xmlns:lang="kor">램프 점검 모듈(LCM)이 필수 하드웨어 레벨에 있습니다.</tu>
+</tm>

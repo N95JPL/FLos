@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALAR_TRIG_HIS_CLR_SUC">
+	<tu xmlns:lang="eng">Alarm trigger history cleared successfully.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De historie van de oorzaken voor het laten afgaan van het alarm is met succes gewist.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Historique des déclenchements d'alarmes effacé correctement.</tu>
+	<tu xmlns:lang="deu">Historie - Alarmauslösung erfolgreich gelöscht.</tu>
+	<tu xmlns:lang="ita">Cancellazione cronologia attivazioni allarme riuscito.</tu>
+	<tu xmlns:lang="jpn">アラーム トリガー履歴が正常にクリアされました。</tu>
+	<tu xmlns:lang="ptg">Histórico dos disparos do alarme apagado com êxito.</tu>
+	<tu xmlns:lang="ptb">Histórico do acionador de alarme apagado com êxito.</tu>
+	<tu xmlns:lang="rus">Журнал срабатываний сигнализации успешно очищен.</tu>
+	<tu xmlns:lang="esp">Se logró borrar el historial de disparos de la alarma.</tu>
+	<tu xmlns:lang="chs">报警触发器历史纪录已成功清除。</tu>
+	<tu xmlns:lang="kor">알람 트리거 기록이 성공적으로 삭제됨</tu>
+</tm>

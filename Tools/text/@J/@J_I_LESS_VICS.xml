@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_VICS">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle information and communications system dynamic route guidance not fitted</tu>
+	<tu
+    xmlns:lang="nld"
+  >Auto-informatie en dynamische routebegeleiding voor communicatiesysteem niet geïnstalleerd</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le guidage dynamique du système d'information et de communication du véhicule n'est pas installé</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die dynamische Zielführung des Fahrzeuginformations- und Kommunikationssystems ist nicht eingebaut</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guida dinamica del percorso del sistema comunicazione ed informazioni relative al veicolo non installata</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両情報および通信システム ダイナミック ルート ガイダンス非装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Orientação dinâmica de percurso do sistema de informação e comunicação do veículo não instalada</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Orientação de rota dinâmica do sistema de informações e comunicações do veículo não instalada</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция динамической прокладки маршрута в составе системы связи и передачи информации автомобиля не установлена</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema dinámico de guía de ruta del sistema de información y comunicación del vehículo no instalado</tu>
+	<tu xmlns:lang="chs">车辆信息和通信系统的动态路线指引沒有安裝</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 정보 및 통신 시스템 동적 경로 안내 기능이 장착되지 않음</tu>
+</tm>

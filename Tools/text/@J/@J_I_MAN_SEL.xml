@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MAN_SEL">
+	<tu xmlns:lang="eng">Manual selection</tu>
+	<tu xmlns:lang="nld">Handmatige keuze</tu>
+	<tu xmlns:lang="fra">Sélection manuelle</tu>
+	<tu xmlns:lang="deu">Manuelle Auswahl</tu>
+	<tu xmlns:lang="ita">Selezione manuale</tu>
+	<tu xmlns:lang="jpn">マニュアル選択</tu>
+	<tu xmlns:lang="ptg">Selecção manual</tu>
+	<tu xmlns:lang="ptb">Seleção manual</tu>
+	<tu xmlns:lang="rus">Ручной выбор</tu>
+	<tu xmlns:lang="esp">Selección manual</tu>
+	<tu xmlns:lang="chs">手动选择</tu>
+	<tu xmlns:lang="kor">수동 선택</tu>
+</tm>

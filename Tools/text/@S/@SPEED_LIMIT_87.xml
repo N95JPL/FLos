@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SPEED_LIMIT_87">
+	<tu xmlns:lang="eng">Vehicle speed limit - 87 mph (140 km/h)</tu>
+	<tu xmlns:lang="nld">Voertuigsnelheidsgrens 87 mijl/h (140 km/h)</tu>
+	<tu xmlns:lang="fra">Limite de vitesse du véhicule - 87 mi/h (140 km/h).</tu>
+	<tu xmlns:lang="deu">Fahrgeschwindigkeitsbegrenzung - 87 mph (140 km/h)</tu>
+	<tu xmlns:lang="ita">Limite di velocità del veicolo - 87 mph (140 km/h)</tu>
+	<tu xmlns:lang="jpn">車両スピード リミット - 140 km/h (87 mph)</tu>
+	<tu xmlns:lang="ptg">Limite de velocidade do veículo - 87 mph (140 km/h)</tu>
+	<tu xmlns:lang="ptb">Limite de velocidade do veículo - 87 mph (140 km/h)</tu>
+	<tu xmlns:lang="rus">Ограничение скорости движения - 87 миль/ч (140 км/ч)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Límite de velocidad del vehículo: 87 millas/h (140 km/h)</tu>
+	<tu xmlns:lang="chs">车速限值--87英里/小时（140千米/小时）</tu>
+	<tu xmlns:lang="kor">차량 속도 제한 - 140km/h(87mph)</tu>
+</tm>

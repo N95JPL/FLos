@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FUEL_ECON_TRIP_COMP">
+	<tu xmlns:lang="eng">Trip computer fuel economy</tu>
+	<tu xmlns:lang="nld">Brandstofverbruik op boordcomputer</tu>
+	<tu xmlns:lang="fra">Consommation de carburant sur ordinateur de bord</tu>
+	<tu xmlns:lang="deu">Bordcomputer ? Kraftstoffverbrauch</tu>
+	<tu xmlns:lang="ita">Computer di bordo - consumo carburante</tu>
+	<tu xmlns:lang="jpn">トリップ コンピュータ - 燃費</tu>
+	<tu xmlns:lang="ptg">Economia de combustível no computador de bordo</tu>
+	<tu xmlns:lang="ptb">Economia de combustível no computador de bordo</tu>
+	<tu xmlns:lang="rus">Экономия топлива по данным маршрутного компьютера</tu>
+	<tu
+    xmlns:lang="esp"
+  >Indicación de consumo de combustible del ordenador de viaje</tu>
+	<tu xmlns:lang="chs">行车计算机燃油经济性</tu>
+	<tu xmlns:lang="kor">트립 컴퓨터 연비</tu>
+</tm>

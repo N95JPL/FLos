@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_LEFT_REAR_DOOR_LOCK">
+	<tu xmlns:lang="eng">Rear left door locking</tu>
+	<tu xmlns:lang="nld">Vergrendeling portier linksachter</tu>
+	<tu xmlns:lang="fra">Verrouillage de porte arriere gauche</tu>
+	<tu xmlns:lang="deu">Türverriegelung hinten links</tu>
+	<tu xmlns:lang="ita">Bloccaggio portiera posteriore sinistra</tu>
+	<tu xmlns:lang="jpn">鴻潟A ドア ロッキ・グ</tu>
+	<tu xmlns:lang="ptg">Trancagem da porta traseira esquerda</tu>
+	<tu xmlns:lang="ptb">Trava da porta traseira esquerda</tu>
+	<tu xmlns:lang="rus">Запирание задней левой двери</tu>
+	<tu xmlns:lang="esp">Cierre de la puerta trasera izquierda</tu>
+	<tu xmlns:lang="chs">左后车门锁定</tu>
+	<tu xmlns:lang="kor">리어 좌측 도어 잠금</tu>
+</tm>

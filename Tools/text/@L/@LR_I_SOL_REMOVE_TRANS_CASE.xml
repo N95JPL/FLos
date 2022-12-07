@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_I_SOL_REMOVE_TRANS_CASE">
+	<tu
+    xmlns:lang="eng"
+  >The solenoid can now be removed from the transfer case, but do not disconnect the connector.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt de solenoïde nu van de tussenbak verwijderen, maar u mag de stekker niet loskoppelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous pouvez maintenant retirer le solénoïde de la boîte de transfert, mais ne débranchez pas le connecteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Schaltmagnet kann jetzt aus dem Verteilergetriebe ausgebaut werden, allerdings nicht den Verbinder abziehen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È ora possibile smontare il solenoide dalla scatola di rinvio senza scollegare il connettore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ここでソ\レノイドをトランスファー ケースから取り外すことができます。ただしコネクターの接続を外してはなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O solenóide pode agora ser removido da caixa de transferência, mas não desligue o conector.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O solenóide pode agora ser removido da caixa de transferência, mas não desconecte o conector.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Теперь можно извлечь соленоид из раздаточной коробки, но не отсоединять разъем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ahora se puede extraer el solenoide de la caja de transferencia, pero no se debe desenchufar el conector.</tu>
+	<tu xmlns:lang="chs">'电磁阀现在可以从分动箱上取下，但不要断开接头。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >이제 트랜스퍼 케이스에서 솔레노이드를 탈거할 수 있지만 커넥터를 분리하지 마십시오.</tu>
+</tm>

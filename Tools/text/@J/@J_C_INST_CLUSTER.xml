@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_INST_CLUSTER">
+	<tu xmlns:lang="eng">Instrument cluster</tu>
+	<tu xmlns:lang="nld">Instrumentengroep.</tu>
+	<tu xmlns:lang="fra">Tableau de bord.</tu>
+	<tu xmlns:lang="deu">Kombiinstrument.</tu>
+	<tu xmlns:lang="ita">Quadro strumenti.</tu>
+	<tu xmlns:lang="jpn">インストルメント クラスタ</tu>
+	<tu xmlns:lang="ptg">Grupo dos instrumentos.</tu>
+	<tu xmlns:lang="ptb">Conjunto de instrumentos</tu>
+	<tu xmlns:lang="rus">Панель приборов</tu>
+	<tu xmlns:lang="esp">Cuadro de instrumentos.</tu>
+	<tu xmlns:lang="chs">组合仪表</tu>
+	<tu xmlns:lang="kor">계기판</tu>
+</tm>

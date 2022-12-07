@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_WAS_HOT_FILM_MET_REP">
+	<tu xmlns:lang="eng">Was the hot film air mass meter replaced?</tu>
+	<tu xmlns:lang="nld">Is de hittefilm-luchthoeveelheidsmeter vervangen?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le débitmètre d'air massique à film chaud a-t-il été remplacé ?</tu>
+	<tu xmlns:lang="deu">Wurde der Heißfilm-Luftmassenmesser ersetzt?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il misuratore di massa aria a film caldo è stato sostituito?</tu>
+	<tu xmlns:lang="jpn">ホット フィルム エア マス メータは交換されましたか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O medidor do fluxo de ar de película quente foi substituído?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O medidor da massa de ar da película quente foi substituído?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Был ли заменен пленочный датчик массового расхода воздуха?</tu>
+	<tu xmlns:lang="esp">¿Se sustituyó el caudalímetro de película caliente?</tu>
+	<tu xmlns:lang="chs">更换过热膜空气质量表吗？
+1
+
+</tu>
+	<tu xmlns:lang="kor">열막식 공기질량 계량기가 교체되었습니까?</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnsureClutchNotDepress$I">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the clutch pedal is not being pressed as the clutch travel is being calibrated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat u het koppelingspedaal niet intrapt terwijl de pedaalslag gekalibreerd wordt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veillez à ce que la pédale d'embrayage ne soit pas enfoncée pendant l'étalonnage de la course de l'embrayage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass das Kupplungspedal nicht betätigt wird, während der Kupplungsverstellweg kalibriert wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accertarsi che durante la taratura della corsa della frizione il pedale non venga premuto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >クラッチ トラベル キャリブレーション中にクラッチ ペダルを踏み込んではなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o pedal da embraiagem não está a ser premido à medida que o curso da embraiagem está a ser calibrado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não pressione o pedal da embreagem enquanto o percurso da embreagem estiver sendo calibrado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что во время калибровки хода сцепления педаль сцепления не нажата.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que no se esté pisando el pedal del embrague al calibrarse la carrera de éste.</tu>
+	<tu xmlns:lang="chs">在标定离合器行程时，确保离合器踏板未踏下。</tu>
+	<tu
+    xmlns:lang="kor"
+  >클러치 이동이 보정되고 있지 않으므로 클러치 페달을 밟지 않도록 하십시오.</tu>
+</tm>

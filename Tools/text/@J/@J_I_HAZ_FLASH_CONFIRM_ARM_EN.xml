@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HAZ_FLASH_CONFIRM_ARM_EN">
+	<tu xmlns:lang="eng">Hazard lamps flash to confirm arm/disarm</tu>
+	<tu
+    xmlns:lang="nld"
+  >De alarmknipperlichten knipperen om in-/uitschakelen te bevestigen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les feux de détresse clignotent pour confirmer l'activation/la désactivation de l'alarme</tu>
+	<tu
+    xmlns:lang="deu"
+  >Warnblinkleuchten blinken zur Bestätigung der Schärfung/Entschärfung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Gli indicatori di emergenza lampeggiano per confermare l'inserimento/il disinserimento</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アーミング／ディスアーミングの確認のためにハザード ランプが点滅します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os intermitentes de perigo piscam para confirmar a activação/desactivação</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As luzes do pisca-alerta piscam para confirmar armar/desarmar</tu>
+	<tu
+    xmlns:lang="rus"
+  >Лампы аварийной сигнализации загораются для подтверждения постановки на сигнализацию/отключения сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las luces de emergencia destellan para confirmar la activación/desactivación de la alarma</tu>
+	<tu xmlns:lang="chs">危险指示灯闪烁，以确认启用/解除</tu>
+	<tu xmlns:lang="kor">설정/해제를 확인하기 위해 비상등이 깜박임</tu>
+</tm>

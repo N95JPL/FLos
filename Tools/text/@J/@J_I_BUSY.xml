@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BUSY">
+	<tu xmlns:lang="eng">Busy</tu>
+	<tu xmlns:lang="nld">Bezig</tu>
+	<tu xmlns:lang="fra">Occupé</tu>
+	<tu xmlns:lang="deu">Belegt</tu>
+	<tu xmlns:lang="ita">Occupato</tu>
+	<tu xmlns:lang="jpn">ビジー状態</tu>
+	<tu xmlns:lang="ptg">Ocupado</tu>
+	<tu xmlns:lang="ptb">Ocupado</tu>
+	<tu xmlns:lang="rus">Занято</tu>
+	<tu xmlns:lang="esp">Ocupado</tu>
+	<tu xmlns:lang="chs">忙碌</tu>
+	<tu xmlns:lang="kor">사용 중</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FUEL_PRIME_TIME_COUNTER_RESET">
+	<tu xmlns:lang="eng">Reset prime time counter to zero</tu>
+	<tu xmlns:lang="nld">Stel de klok voor de aanzuigtijd terug op nul</tu>
+	<tu xmlns:lang="fra">Remettez le compteur de temps d'amorce à zéro</tu>
+	<tu xmlns:lang="deu">Zeitzähler Vorbefüllung auf null zurücksetzen</tu>
+	<tu xmlns:lang="ita">Azzerare il contatore adescamento</tu>
+	<tu xmlns:lang="jpn">プライミング タイム カウンターをゼロにリセット</tu>
+	<tu xmlns:lang="ptg">Coloque o contador do tempo de ferragem a zero</tu>
+	<tu xmlns:lang="ptb">Redefinir contador de tempo principal para zero</tu>
+	<tu xmlns:lang="rus">Обнулите счетчик времени заливки</tu>
+	<tu xmlns:lang="esp">Poner el contador de tiempo de cebado a cero</tu>
+	<tu xmlns:lang="chs">将加注时间计时器复位清零</tu>
+	<tu xmlns:lang="kor">프라이밍 시간 카운터를 0으로 재설정</tu>
+</tm>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_OPEN_FLASH_FILE">
+	<tu xmlns:lang="eng">Failed to open the required flash file(s).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het openen van het gewenste flitsbestand(en) is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec d'ouverture du (des) fichier(s) flash requis.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die benötigte(n) Flash-Datei(en) konnte(n) nicht geöffnet werden.</tu>
+	<tu xmlns:lang="ita">Apertura file flash richiesto/i non riuscita.</tu>
+	<tu xmlns:lang="jpn">必要なフラッシュ ファイルを開けませんでした。</tu>
+	<tu xmlns:lang="ptg">Abertura do(s) ficheiro(s) 'flash' pretendido(s) falhou.
+</tu>
+	<tu xmlns:lang="ptb">Falha ao abrir o(s) arquivo(s) em flash desejado.</tu>
+	<tu xmlns:lang="rus">Ошибка открытия необходимого файла (файлов) прошивки.</tu>
+	<tu xmlns:lang="esp">No se pudieron abrir los archivos Flash deseados.</tu>
+	<tu xmlns:lang="chs">打开所需闪存文件失败。</tu>
+	<tu xmlns:lang="kor">필요한 플래시 파일 열기 실패</tu>
+</tm>

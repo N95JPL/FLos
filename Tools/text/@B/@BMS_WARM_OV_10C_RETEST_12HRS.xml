@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_WARM_OV_10C_RETEST_12HRS">
+	<tu
+    xmlns:lang="eng"
+  >Warm vehicle at temperature of 10°C or above and retest after at least 12 hours.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verwarm het voertuig tot 10 °C of hoger en test opnieuw na minstens 12 uur.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Faites monter la température du véhicule jusqu'à 10 °C minimum et lancez à nouveau le test au bout de 12 heures.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeug bei einer Temperatur von 10 °C oder höher aufwärmen und nach mindestens 12 Stunden erneut prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Riscaldare la vettura alla temperatura di 10°C o superiore e ripetere la prova dopo almeno 12 ore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >10°C またはそれ以上の気温で車両を暖め、少なくとも 12 時間経過後に再テストしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aquecer o veículo à temperatura de 10 °C ou mais e voltar a testar passado, pelo menos, 12 horas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aqueça o veículo à temperatura de 10 °C ou acima e teste novamente após, pelo menos, 12 horas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прогрейте автомобиль при температуре не ниже 10°C и повторите проверку не ранее, чем через 12 часов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Calentar el vehículo a una temperatura de 10°C o superior, y repetir la prueba cuando hayan transcurrido 12 horas como mínimo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >以 10℃ 或更高的温度预热车辆，并在经过至少 12 小时之后重新进行测试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량을 10°C 이상의 온도에서 워밍업하고 12시간 이상 지난 후에 다시 테스트하십시오.</tu>
+</tm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ADAPT_DAMP_MOD_CAL_LRN">
+	<tu xmlns:lang="eng">Adaptive damping module calibration learn</tu>
+	<tu
+    xmlns:lang="nld"
+  >Inleren van kalibratie door regelmodule van adaptieve schokdempers</tu>
+	<tu
+    xmlns:lang="fra"
+  >Apprentissage de l'étalonnage du module d'amortissement adaptatif</tu>
+	<tu xmlns:lang="deu">Kalibrierung Steuergerät adaptive Dämpfung - Erlernung</tu>
+	<tu xmlns:lang="ita">Apprendimento taratura modulo smorzamento adattativo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アダプティブ ダンピング モジュール キャリブレーション学習</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Programação da calibragem do módulo da suspensão activa</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aprendizagem de calibração do módulo e amortecimento adaptativo</tu>
+	<tu xmlns:lang="rus">Калибровка модуля адаптивной системы подвески</tu>
+	<tu
+    xmlns:lang="esp"
+  >Memorización de calibración del módulo de suspensión adaptativa</tu>
+	<tu xmlns:lang="chs">自适应阻尼模块校验记忆</tu>
+	<tu xmlns:lang="kor">어댑티브 댐핑 모듈 보정 학습</tu>
+</tm>

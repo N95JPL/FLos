@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_LAT_ACCEL_CAL_SUCC">
+	<tu xmlns:lang="eng">Lateral accelerometer calibrated successfully.</tu>
+	<tu xmlns:lang="nld">Dwarsacceleratiesensor succesvol gekalibreerd.</tu>
+	<tu xmlns:lang="fra">Etalonnage de l'accéléromètre latéral réussi.</tu>
+	<tu xmlns:lang="deu">Querbeschleunigungssensor erfolgreich kalibriert.</tu>
+	<tu xmlns:lang="ita">Taratura accelerometro laterale riuscita.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >横方向加速度センサーのキャリブレーションは正常に完了しました。</tu>
+	<tu xmlns:lang="ptg">Acelerómetro lateral calibrado com êxito.</tu>
+	<tu xmlns:lang="ptb">Acelerômetro lateral calibrado com êxito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Калибровка датчика поперечного ускорения выполнена успешно.</tu>
+	<tu xmlns:lang="esp">Acelerómetro lateral calibrado satisfactoriamente.</tu>
+	<tu xmlns:lang="chs">横向加速计已成功标定。</tu>
+	<tu xmlns:lang="kor">횡방향 가속도계 보정 성공</tu>
+</tm>

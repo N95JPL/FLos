@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PART_DETAILS2">
+	<tu xmlns:lang="eng">Part details</tu>
+	<tu xmlns:lang="nld">Bijzonderheden van het onderdeel</tu>
+	<tu xmlns:lang="fra">Détails de l'élément</tu>
+	<tu xmlns:lang="deu">Bauteile-Einzelheiten</tu>
+	<tu xmlns:lang="ita">Dettagli componenti</tu>
+	<tu xmlns:lang="jpn">パーツの詳細</tu>
+	<tu xmlns:lang="ptg">Dados da peça</tu>
+	<tu xmlns:lang="ptb">Detalhes da peça</tu>
+	<tu xmlns:lang="rus">Элементы детали</tu>
+	<tu xmlns:lang="esp">Detalles de la pieza</tu>
+	<tu xmlns:lang="chs">零件细节</tu>
+	<tu xmlns:lang="kor">부품 세부 사항</tu>
+</tm>

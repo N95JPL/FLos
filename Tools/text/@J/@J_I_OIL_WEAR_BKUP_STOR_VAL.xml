@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OIL_WEAR_BKUP_STOR_VAL">
+	<tu xmlns:lang="eng">Oil wear back-up  -  Write stored value</tu>
+	<tu
+    xmlns:lang="nld"
+  >Back-up van olieverslechtering  -  Opgeslagen waarde schrijven</tu>
+	<tu
+    xmlns:lang="fra"
+  >Dispositif de secours d'huile usagée  -  Consigner la valeur enregistrée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherungskopie - Ölalterung  -  Gespeicherten Wert schreiben</tu>
+	<tu xmlns:lang="ita">Back-up usura olio  -  Scrivere valore memorizzato</tu>
+	<tu xmlns:lang="jpn">オイル消耗バックアップ  －  保存数値の書き込み</tu>
+	<tu xmlns:lang="ptg">Reserva, desgaste do óleo  -  Escrever valor gravado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Backup de desgaste do óleo  -  Grave o valor armazenado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Резервное копирование данных об износе масла  -  Запись сохраненного значения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Copia de seguridad del desgaste del aceite  -  Escribir el valor memorizado</tu>
+	<tu xmlns:lang="chs">润滑油磨损备份  -  写入存储值</tu>
+	<tu xmlns:lang="kor">오일 마모 백업  -  저장된 값 쓰기</tu>
+</tm>

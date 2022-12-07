@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIGHT_TOL_SET_CLEAR_IDS">
+	<tu
+    xmlns:lang="eng"
+  >Tight tolerance mode has now been set, this mode can only be cleared by using the Diagnostic Tool, it cannot be cleared by cycling the ignition.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Nauwe-tolerantiefunctie is nu ingesteld. Deze functie kan alleen worden gewist via de diagnoseapparatuur en kan niet worden gewist door het contact in en uit te schakelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le mode Tolérances serrées a été sélectionné et ne peut être désélectionné que par l'outil de diagnostic ; il est impossible de le désactiver en coupant, puis en rétablissant le contact.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wurde jetzt die Betriebsart für enge Toleranzen eingestellt. Diese Betriebsart kann nur mit Hilfe des Diagnosetools verlassen werden, nicht jedoch durch Ein- und Ausschalten der Zündung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al momento è impostata la modalità di tolleranza ridotta, che può essere cancellata solo tramite lo strumento diagnostico e non disinserendo e reinserendo l'accensione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >僅少許容誤差モードに設定されました。このモードは診断ツールを使用してのみクリアできます。イグニッション キーを廻すことではクリアできません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O modo de tolerância limitada foi agora definido. Este modo só pode ser cancelado utilizando a ferramenta da diagnóstico. Não é possível cancelá-lo desligando e ligando a ignição.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após o modo de menor tolerância ter sido definido, ele poderá ser excluído somente por meio da utilização da Ferramenta de Diagnóstico; ele não poderá ser excluído ao desligar e ligar a ignição.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включен режим жестких допусков, его можно выключить только с помощью диагностического инструмента, деактивация с помощью включения/выключения зажигания невозможна.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha establecido el modo de tolerancia estricta; este modo solo se puede desactivar mediante la herramienta de diagnóstico. No se puede desactivar con un ciclo de encendido.</tu>
+	<tu
+    xmlns:lang="chs"
+  >现在已设置精密公差模式。该模式仅可使用诊断工具进行清除，无法通过循环点火开关进行清除。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이제 엄격한 공차 모드가 설정되었으며, 이 모드는 진단 도구를 사용해서만 해제할 수 있고 점화 사이클로는 해제할 수 없습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WINDSCREEN_TYPE">
+	<tu xmlns:lang="eng">Windshield glass type</tu>
+	<tu xmlns:lang="nld">Type voorruit</tu>
+	<tu xmlns:lang="fra">Type de verre du pare-brise</tu>
+	<tu xmlns:lang="deu">Windschutzscheibentyp</tu>
+	<tu xmlns:lang="ita">Tipo cristallo parabrezza</tu>
+	<tu xmlns:lang="jpn">ウィンドシールド ガラスのタイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de vidro do pára-brisas</tu>
+	<tu xmlns:lang="ptb">Tipo de vidro do para-brisa</tu>
+	<tu xmlns:lang="rus">Тип ветрового стекла</tu>
+	<tu xmlns:lang="esp">Tipo de parabrisas</tu>
+	<tu xmlns:lang="chs">挡风玻璃类型</tu>
+	<tu xmlns:lang="kor">윈드실드 글라스 유형</tu>
+</tm>

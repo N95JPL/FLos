@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_BAT_SIREN">
+	<tu xmlns:lang="eng">Battery siren.</tu>
+	<tu xmlns:lang="nld">Accusirene</tu>
+	<tu xmlns:lang="fra">Sirène auto-alimentée</tu>
+	<tu xmlns:lang="deu">Batteriegestützte Alarmsirene</tu>
+	<tu xmlns:lang="ita">Sirena a batteria</tu>
+	<tu xmlns:lang="jpn">バッテリ サイレン</tu>
+	<tu xmlns:lang="ptg">Sirene da bateria.</tu>
+	<tu xmlns:lang="ptb">Sirene da bateria.</tu>
+	<tu xmlns:lang="rus">Сирена с собственной аккумуляторной батареей.</tu>
+	<tu xmlns:lang="esp">Sirena autoalimentada</tu>
+	<tu xmlns:lang="chs">蓄电池警报器。</tu>
+	<tu xmlns:lang="kor">배터리 사이렌</tu>
+</tm>

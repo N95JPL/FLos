@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_8">
+<tu xmlns:lang="eng">General failure information - bus signal/message failure.</tu>
+<tu xmlns:lang="nld">Informatie over algemeen defect - fout in bussignaal/-boodschap.</tu>
+<tu xmlns:lang="fra">Panne g&#233;n&#233;rale - d&#233;faut de signal / message bus.</tu>
+<tu xmlns:lang="deu">Allgemeine St&#246;rungsinformation - Datenbus-Signal-/Meldungsfehler.</tu>
+<tu xmlns:lang="ita">Informazioni guasti generali - guasto di segnale bus/messaggio.</tu>
+<tu xmlns:lang="jpn">ˆê”ÊŒÌáî•ñ | ƒoƒX ƒVƒOƒiƒ‹^ƒƒbƒZ[ƒW•s—Ç</tu>
+<tu xmlns:lang="ptg">Informa&#231;&#245;es gerais sobre a falha - falha na mensagem/sinal do bus.</tu>
+<tu xmlns:lang="rus">Èíôîðìàöèÿ îá îòêàçå îáùåãî õàðàêòåðà - îøèáêà ïåðåäà÷è ñèãíàëà/ñîîáùåíèÿ ïî øèíå.</tu>
+<tu xmlns:lang="esp">Informaci&#243;n de fallo general: fallo de se&#241;ales/mensajes del bus.</tu>
+<tu xmlns:lang="chs">ÆÕÍ¨¹ÊÕÏÐÅÏ¢ - ×ÜÏßÐÅºÅ/ÏûÏ¢¹ÊÕÏ¡£</tu>
+</tm>

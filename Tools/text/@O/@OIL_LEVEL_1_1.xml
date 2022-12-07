@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OIL_LEVEL_1_1">
+	<tu xmlns:lang="eng">1.1 litre</tu>
+	<tu xmlns:lang="nld">1,1 liter</tu>
+	<tu xmlns:lang="fra">1,1 litre</tu>
+	<tu xmlns:lang="deu">1,1 Liter</tu>
+	<tu xmlns:lang="ita">1,1 litri</tu>
+	<tu xmlns:lang="jpn">1.1 リッター</tu>
+	<tu xmlns:lang="ptg">1,1 litros</tu>
+	<tu xmlns:lang="ptb">1,1 litro</tu>
+	<tu xmlns:lang="rus">1,1 л</tu>
+	<tu xmlns:lang="esp">1,1 litros</tu>
+	<tu xmlns:lang="chs">1.1 升</tu>
+	<tu xmlns:lang="kor">1.1L</tu>
+</tm>

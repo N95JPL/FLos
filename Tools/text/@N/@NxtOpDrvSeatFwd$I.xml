@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NxtOpDrvSeatFwd$I">
+	<tu
+    xmlns:lang="eng"
+  >The next operation will drive the seat forwards along the horizontal axis.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De nu volgende bewerking zal de stoel over de horizontale as naar voren schuiven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'opération suivante fera avancer le siège sur l'axe horizontal.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der nächste Schritt verfährt den Sitz waagerecht nach vorne.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La prossima operazione spingerà il sedile in avanti lungo l'asse orizzontale.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のオペレーションでは、シートを水平軸に沿って前進方向へ駆動します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A próxima operação accionará o banco para a frente ao longo do eixo horizontal.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A próxima operação acionará o assento para a frente ao longo do eixo horizontal.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При выполнении следующей операции сиденье переместится вперед по горизонтальной оси.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La operación siguiente desplazará el asiento hacia delante en su eje horizontal.</tu>
+	<tu xmlns:lang="chs">下一个操作将沿水平坐标轴向前驱动座椅。</tu>
+	<tu xmlns:lang="kor">다음 작동 시 시트가 수평축을 따라 앞쪽으로 구동합니다.</tu>
+</tm>

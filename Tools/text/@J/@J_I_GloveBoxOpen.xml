@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GloveBoxOpen">
+	<tu xmlns:lang="eng">Glove box is open.</tu>
+	<tu xmlns:lang="nld">Het handschoenenkastje is open.</tu>
+	<tu xmlns:lang="fra">Boîte à gants ouverte.</tu>
+	<tu xmlns:lang="deu">Handschuhfach ist offen.</tu>
+	<tu xmlns:lang="ita">Cassetto portaoggetti aperto.</tu>
+	<tu xmlns:lang="jpn">グローブボックスが開いています。</tu>
+	<tu xmlns:lang="ptg">O porta-luvas está aberto.</tu>
+	<tu xmlns:lang="ptb">Porta-luvas aberto.</tu>
+	<tu xmlns:lang="rus">Перчаточный ящик открыт.</tu>
+	<tu xmlns:lang="esp">La guantera está abierta.</tu>
+	<tu xmlns:lang="chs">杂物箱打开。</tu>
+	<tu xmlns:lang="kor">글로브 박스가 열렸습니다.</tu>
+</tm>

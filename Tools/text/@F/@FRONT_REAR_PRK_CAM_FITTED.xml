@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FRONT_REAR_PRK_CAM_FITTED">
+	<tu xmlns:lang="eng">Front and rear parking cameras fitted</tu>
+	<tu xmlns:lang="nld">Parkeervideocamera's voor en achter gemonteerd</tu>
+	<tu xmlns:lang="fra">Caméras d'aide au stationnement avant et arrière</tu>
+	<tu xmlns:lang="deu">Einparkkamera vorn und hinten eingebaut</tu>
+	<tu
+    xmlns:lang="ita"
+  >Telecamere parcheggio anteriori e posteriori installate</tu>
+	<tu xmlns:lang="jpn">フロントおよびリア パーキング カメラ装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Câmaras de estacionamento dianteira e traseira montadas</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Câmeras de estacionamento dianteira e traseira instaladas</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль оснащён передними и задними камерами системы помощи при парковке</tu>
+	<tu xmlns:lang="esp">Con cámaras de aparcamiento trasera y delantera</tu>
+	<tu xmlns:lang="chs">前后驻车摄像头已安装</tu>
+	<tu xmlns:lang="kor">프론트 및 리어 주차 카메라가 장착됨</tu>
+</tm>

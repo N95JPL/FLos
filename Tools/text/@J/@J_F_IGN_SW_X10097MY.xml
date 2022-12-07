@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_IGN_SW_X10097MY">
+	<tu xmlns:lang="eng">Ignition switch</tu>
+	<tu xmlns:lang="nld">Contactschakelaar</tu>
+	<tu xmlns:lang="fra">Allumage</tu>
+	<tu xmlns:lang="deu">Zündschalter</tu>
+	<tu xmlns:lang="ita">Interruttore accensione</tu>
+	<tu xmlns:lang="jpn">ｲｸﾞﾆｼｮﾝ・ｽｲｯﾁ</tu>
+	<tu xmlns:lang="ptg">Interruptor da ignição</tu>
+	<tu xmlns:lang="ptb">interruptor da ignição</tu>
+	<tu xmlns:lang="rus">Выключатель зажигания</tu>
+	<tu xmlns:lang="esp">Llave de contacto</tu>
+	<tu xmlns:lang="chs">点火开关</tu>
+	<tu xmlns:lang="kor">점화 스위치</tu>
+</tm>

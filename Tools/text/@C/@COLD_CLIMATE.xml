@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@COLD_CLIMATE">
+	<tu xmlns:lang="eng">Cold climate</tu>
+	<tu xmlns:lang="nld">Koud klimaat</tu>
+	<tu xmlns:lang="fra">Climat froid.</tu>
+	<tu xmlns:lang="deu">Kaltes Klima</tu>
+	<tu xmlns:lang="ita">Climi freddi</tu>
+	<tu xmlns:lang="jpn">寒冷気候</tu>
+	<tu xmlns:lang="ptg">Clima frio</tu>
+	<tu xmlns:lang="ptb">Climas frios</tu>
+	<tu xmlns:lang="rus">Холодный климат</tu>
+	<tu xmlns:lang="esp">Clima frío</tu>
+	<tu xmlns:lang="chs">寒冷气候</tu>
+	<tu xmlns:lang="kor">한랭 기후</tu>
+</tm>

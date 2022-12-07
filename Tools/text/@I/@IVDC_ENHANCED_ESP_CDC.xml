@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IVDC_ENHANCED_ESP_CDC">
+	<tu
+    xmlns:lang="eng"
+  >Integrated vehicle dynamic control (inc. enhanced electronic stability programme and continuous damping control)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geïntegreerde regeling van voertuigdynamica (incl. verbeterd elektronische-stabiliteitsprogramma en continue dempingsregeling)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Commande de stabilité dynamique intégrée du véhicule (programme électronique de stabilité amélioré et commande d'amortissement continu inclus)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Integrierte Fahrzeugdynamikregelung (einschl. elektronisches Stabilitätsprogramm und kontinuierliche Dämpferregelung)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllo dinamico integrato veicolo (incluso programma elettronico stabilità potenziato e controllo continuo smorzamento)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >統合車両ダイナミック コントロール (改善型エレクトロニック スタビリティ プログラムおよび連続ダンピング コントロールを含む)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Controlo dinâmico do veículo integrado (inc. programa electrónico de estabilidade melhorado e controlo contínuo da suspensão)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Controle dinâmico integrado do veículo (incl. programa avançado de estabilidade eletrônica e controle de amortecimento contínuo)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Встроенный блок управления системой динамической стабилизации автомобиля (включая модернизированную электронную программу стабилизации и непрерывное управление адаптивной системой подвески)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Control de dinámica del vehículo integrado (incluye el programa de estabilidad electrónico mejorado y el control continuo de la suspensión)</tu>
+	<tu
+    xmlns:lang="chs"
+  >集成车辆动态控制（包括强化电子稳定性程序与持续减震控制）</tu>
+	<tu
+    xmlns:lang="kor"
+  >통합 차량 다이내믹 컨트롤(향상된 전자 안정성 프로그램 및 연속 댐핑 컨트롤 포함)</tu>
+</tm>

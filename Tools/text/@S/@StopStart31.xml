@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart31">
+	<tu
+    xmlns:lang="eng"
+  >The steering wheel must not be more than 180° from center.</tu>
+	<tu xmlns:lang="nld">Het stuurwiel mag niet meer dan 180° zijn verdraaid.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le volant ne doit pas être tourné à plus de 180° du centre.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Lenkrad darf nicht mehr als 180° von der Mitte entfernt sein.</tu>
+	<tu xmlns:lang="ita">Il volante non deve trovarsi a più di 180° dal centro.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング ホイールは、中心から 180ﾟ 以下でなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O volante não deve estar a mais de 180° a partir do centro.</tu>
+	<tu xmlns:lang="ptb">O volante não deve estar a mais de 180° do centro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Рулевое колесо не должно быть повернуто более чем на 180° от центрального положения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El volante no puede estar girado a más de 180° de su posición central.</tu>
+	<tu xmlns:lang="chs">方向盘不得偏离中间位置 180°以上。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스티어링 휠을 중앙 위치에서 180° 이상 돌리면 안 됩니다.</tu>
+</tm>

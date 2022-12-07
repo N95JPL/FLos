@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_FUEL_SENSORS">
+	<tu xmlns:lang="eng">Fuel sensors</tu>
+	<tu xmlns:lang="nld">Brandstofsensors</tu>
+	<tu xmlns:lang="fra">Capteurs de carburant</tu>
+	<tu xmlns:lang="deu">Kraftstoffsensoren</tu>
+	<tu xmlns:lang="ita">Sensori carburante</tu>
+	<tu xmlns:lang="jpn">フュエル セ・サ</tu>
+	<tu xmlns:lang="ptg">Sensores de combustível</tu>
+	<tu xmlns:lang="ptb">Sensores de combustível</tu>
+	<tu xmlns:lang="rus">Датчики топлива</tu>
+	<tu xmlns:lang="esp">Sensores de combustible</tu>
+	<tu xmlns:lang="chs">燃油传感器</tu>
+	<tu xmlns:lang="kor">연료 센서</tu>
+</tm>

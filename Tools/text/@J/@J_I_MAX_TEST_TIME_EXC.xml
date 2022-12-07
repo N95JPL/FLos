@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MAX_TEST_TIME_EXC">
+	<tu xmlns:lang="eng">Maximum test time was exceeded.</tu>
+	<tu xmlns:lang="nld">De maximumtesttijd werd overschreden.</tu>
+	<tu xmlns:lang="fra">La durée maximale du test a été dépassée.</tu>
+	<tu xmlns:lang="deu">Höchsttestzeit wurde überschritten.</tu>
+	<tu xmlns:lang="ita">È stato superato il tempo massimo di prova.</tu>
+	<tu xmlns:lang="jpn">最長テスト時間を超えました。</tu>
+	<tu xmlns:lang="ptg">Tempo máximo do teste foi ultrapassado.</tu>
+	<tu xmlns:lang="ptb">O tempo máximo de teste foi excedido.</tu>
+	<tu xmlns:lang="rus">Превышено максимально допустимое время проверки.</tu>
+	<tu xmlns:lang="esp">Se excedió el tiempo máximo para la prueba.</tu>
+	<tu xmlns:lang="chs">已超过最长测试时间。</tu>
+	<tu xmlns:lang="kor">최대 테스트 시간이 초과되었습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_INDIA">
+	<tu xmlns:lang="eng">India</tu>
+	<tu xmlns:lang="nld">India</tu>
+	<tu xmlns:lang="fra">Inde</tu>
+	<tu xmlns:lang="deu">Indien</tu>
+	<tu xmlns:lang="ita">India</tu>
+	<tu xmlns:lang="jpn">インド</tu>
+	<tu xmlns:lang="ptg">Índia</tu>
+	<tu xmlns:lang="ptb">Índia</tu>
+	<tu xmlns:lang="rus">Индия</tu>
+	<tu xmlns:lang="esp">India</tu>
+	<tu xmlns:lang="chs">印度</tu>
+	<tu xmlns:lang="kor">인도</tu>
+</tm>

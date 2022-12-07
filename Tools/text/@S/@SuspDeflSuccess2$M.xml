@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspDeflSuccess2$M">
+	<tu
+    xmlns:lang="eng"
+  >When disconnecting components, make sure the pipe fittings are slackened slowly and not fully disconnected until air has stopped escaping.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg er bij het loskoppelen van de componenten voor dat u de pijpverbindingen langzaam losdraait en nog niet helemaal loskoppelt, totdat de lucht er niet meer uitstroomt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >En débranchant des composants, desserrez lentement les raccords de tuyauterie et ne les débranchez pas complètement tant qu'il s'en échappe encore de l'air.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beim Abbauen von Bauteilen sicherstellen, dass die Leitungsanschlüsse langsam gelöst und erst dann vollständig getrennt werden, wenn alle Luft entwichen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quando si scollegano i componenti, assicurarsi di allentare i raccordi dei tubi lentamente e di non staccarli completamente finché l'aria non ha smesso di fuoriuscire. </tu>
+	<tu
+    xmlns:lang="jpn"
+  >コンポーネントの接続を外すとき、パイプ接続部を徐々に緩めること。エアの流出が停止するまで接続を完全に外してはなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando desligar componentes, certifique-se de que é lentamente aliviado o aperto dos tubos e de que não são desligados totalmente, até que o ar tenha deixado de sair.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ao desconectar os componentes, certifique-se de que as conexões do tubo sejam afrouxadas lentamente e não totalmente desconectadas até que o ar pare de sair.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При отсоединении компонентов медленно откручивайте фитинги и не отсоединяйте их полностью, пока не выйдет весь воздух.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Al desacoplar los componentes, asegurarse de que los racores de los tubos se aflojen lentamente y no se separen del todo hasta que no haya terminado de salir el aire.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'在断开部件连接时，要确保管路接头被缓慢松开，但不要完全断开，直至排气停止。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >구성 요소를 분리할 때 파이프 피팅을 천천히 느슨하게 하고 공기 배출이 중지될 때까지 완전히 분리하지 마십시오.</tu>
+</tm>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENTRY_DELAY_AUDIBLE_TICK">
+	<tu xmlns:lang="eng">Entry delay/audible confirm (tick)</tu>
+	<tu xmlns:lang="nld">Instapvertraging/hoorbare bevestiging (signaal)</tu>
+	<tu xmlns:lang="fra">Confirmation d'entrée temporisée/sonore (coche).</tu>
+	<tu xmlns:lang="deu">Einstiegsverzögerung/hörbare Warnung (Häkchen)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ritardo entrata/segnale acustico di conferma (segno di spunta)</tu>
+	<tu xmlns:lang="jpn">エントリー遅延／確認音 (ティック マーク)</tu>
+	<tu xmlns:lang="ptg">Temporizador de entrada/confirmação sonora (visto)</tu>
+	<tu xmlns:lang="ptb">Confirmação sonora/atraso de entrada (tique)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Задержка на время для входа/звуковой сигнал подтверждения (щелчки)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Retardo al entrar/confirmación sonora (marca de verificación)</tu>
+	<tu xmlns:lang="chs">进入延迟/音频确认（嘀哒声）</tu>
+	<tu xmlns:lang="kor">엔트리 딜레이/청각적 확인(체크 표시)</tu>
+</tm>

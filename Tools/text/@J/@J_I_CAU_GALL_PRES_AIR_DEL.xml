@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CAU_GALL_PRES_AIR_DEL">
+	<tu
+    xmlns:lang="eng"
+  >Caution! Make sure the gallery pressure is vented to atmosphere before taking out the air delivery pipe.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Let op! Zorg dat de kanaaldruk eerst naar de buitenlucht wordt ontlucht, voordat u de luchttoevoerpijp eraf haalt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attention ! Vérifiez que la pression dans le conduit est abaissée au niveau ambiant avant de débrancher le tuyau d'arrivée d'air.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vorsicht! Sicherstellen, dass der Druck im Druckluftkanal an Atmosphäre entlüftet wird, ehe die Luftzufuhrleitung herausgenommen wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attenzione! Assicurarsi che la pressione del condotto venga scaricata nell'atmosfera prima di estrarre il tubo di mandata aria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >注意！ エア デリバリ パイプを取り出す前に、ギャラリー プレッシャが大気に開放されていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Atenção! Certifique-se de que a pressão da galeria é ventilada para a atmosfera antes de retirar o tubo de alimentação de ar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Cuidado Certifique-se de que a pressão da galeria é descarregada para a atmosfera antes de retirar o tubo de distribuição de ar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Предостережение! перед извлечением подводящего воздуховода убедитесь в том, что давление канала сброшено в атмосферу.</tu>
+	<tu
+    xmlns:lang="esp"
+  >¡Atención! Asegurarse de que la presión del conducto salga a la atmósfera antes de desmontar el tubo de descarga de aire.</tu>
+	<tu xmlns:lang="chs">注意！在取出输气管之前，确保流道压力被释放至大气中。</tu>
+	<tu
+    xmlns:lang="kor"
+  >주의! 갤러리 압력이 대기 중으로 빠져나간 이후에 공기 공급 파이프를 꺼내십시오.</tu>
+</tm>

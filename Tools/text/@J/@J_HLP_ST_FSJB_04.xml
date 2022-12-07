@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FSJB_04">
+	<tu
+    xmlns:lang="eng"
+  >Sets on-demand diagnostic trouble codes for inputs not showing the correct state.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Slaat de opvraagbare diagnosefoutcodes op voor de invoeren die niet de juiste status aangeven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Enregistre des codes de défaut de diagnostic sur demande pour les entrées ne présentant pas l'état correct.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beim Selbsttest auf Abruf generierte Fehlercodes werden für Eingänge abgespeichert, die nicht den korrekten Zustand aufweisen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Registra codici di guasto diagnostici su richiesta per gli input che non risultano nello stato corretto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オンデマンド診断トラブル コードを、正しいステータスを示さないインプットに設定します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Define códigos de avaria 'a pedido' para sinais de entrada que não exibam o estado correcto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Define códigos de problemas de diagnóstico sob demanda para entradas não mostrando o estado correto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Регистрация диагностических кодов неисправностей по запросу для входов не показывает правильного состояния.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Registra códigos de avería a solicitud para las señales de entrada para las que no se indique el estado correcto.</tu>
+	<tu xmlns:lang="chs">为没有显示正确状态的输入设置按需故障诊断代码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >올바른 상태를 표시하지 않는 입력에 대해 온디맨드 고장 진단 코드를 설정합니다.</tu>
+</tm>

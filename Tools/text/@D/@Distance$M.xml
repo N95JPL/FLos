@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Distance$M">
+	<tu xmlns:lang="eng">Distance</tu>
+	<tu xmlns:lang="nld">AFSTAND</tu>
+	<tu xmlns:lang="fra">DISTANCE</tu>
+	<tu xmlns:lang="deu">ENTFERNUNG</tu>
+	<tu xmlns:lang="ita">DISTANZA</tu>
+	<tu xmlns:lang="jpn">走行距離</tu>
+	<tu xmlns:lang="ptg">Distância</tu>
+	<tu xmlns:lang="ptb">Distância</tu>
+	<tu xmlns:lang="rus">Расстояние</tu>
+	<tu xmlns:lang="esp">DISTANCIA</tu>
+	<tu xmlns:lang="chs">距离</tu>
+	<tu xmlns:lang="kor">거리</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DR_REM_CHAN_SIN">
+	<tu xmlns:lang="eng">Door remote single channel</tu>
+	<tu xmlns:lang="nld">Enkelkanaals afstandsbediening van portier</tu>
+	<tu xmlns:lang="fra">Télécommande de porte simple canal</tu>
+	<tu xmlns:lang="deu">Einfachkanal Tür-Fernbedienung</tu>
+	<tu xmlns:lang="ita">Telecomando portiere monocanale</tu>
+	<tu xmlns:lang="jpn">ドア リモート シングル チャンネル</tu>
+	<tu xmlns:lang="ptg">Canal único do comando à distância das portas</tu>
+	<tu xmlns:lang="ptb">Canal único remoto das portas</tu>
+	<tu xmlns:lang="rus">Одноканальное дистанционное управление дверями</tu>
+	<tu xmlns:lang="esp">Mando a distancia de un solo canal</tu>
+	<tu xmlns:lang="chs">单通道车门遥控</tu>
+	<tu xmlns:lang="kor">도어 원격 싱글 채널</tu>
+</tm>

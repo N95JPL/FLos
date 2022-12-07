@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_GENERATOR_PULLEY">
+	<tu xmlns:lang="eng">Ensure generator pulley correctly fixed</tu>
+	<tu xmlns:lang="nld">Zorg dat de dynamopoelie goed is gemonteerd</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que la poulie d'alternateur est correctement fixée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Generatorriemenscheibe korrekt angebaut ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che la puleggia del generatore sia correttamente fissata</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ジェネレータ プーリーが正しく固定されていることを確認しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certificar-se de que a polia do alternador está bem fixada</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se a polia do alternador está fixada corretamente</tu>
+	<tu xmlns:lang="rus">Проверьте правильность крепления шкива генератора</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que la polea del alternador está bien sujeta</tu>
+	<tu xmlns:lang="chs">确保发电机皮带轮已正确固定</tu>
+	<tu xmlns:lang="kor">제너레이터 풀리가 올바로 고정되어 있는지 확인하십시오.</tu>
+</tm>

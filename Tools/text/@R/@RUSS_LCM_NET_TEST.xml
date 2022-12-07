@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RUSS_LCM_NET_TEST">
+	<tu
+    xmlns:lang="eng"
+  >The next procedure will perform a network integrity test to determine which level of  lamp check module (LCM) is fitted to the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >In de volgende procedure wordt een netwerkintegriteitstest uitgevoerd om te bepalen wat het niveau is van de module voor de controle van de lampjes (LCM) die in het voertuig is gemonteerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure suivante consiste à lancer un test d’intégrité du réseau pour déterminer les caractéristiques du module de contrôle des ampoules (LCM) monté dans le véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Im nächsten Verfahren wird zur Bestimmung der Version des in das Fahrzeug eingebauten Leuchtenprüfmoduls (LCM) ein Netzwerk-Integritätstest durchgeführt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La procedura successiva prevede una prova di integrità di rete per determinare la versione del modulo di controllo luci (LCM) montato sul veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >????????????????????????????????????? ???? ????? (LCM) ????????????</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O procedimento seguinte realizará um teste de integridade da rede para determinar qual a versão do módulo de verificação das lâmpadas (LCM) montado no veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O próximo procedimento irá realizar um teste de integridade de rede para determinar qual a versão do módulo de verificação da lâmpada (LCM) está instalado no veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующая процедура предназначена для проверки целостности сети, чтобы определить уровень модуля проверки сигнализаторов (LCM), установленного на автомобиле.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El siguiente procedimiento efectuará una prueba de integridad de la red para determinar qué nivel del módulo de comprobación de luces (LCM) está instalado en el vehículo.</tu>
+	<tu xmlns:lang="chs">??????????????,????????????????(LCM)???????</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 절차에서는 네트워크 무결성 테스트를 수행하여 차량에 장착된 램프 점검 모듈(LCM)의 레벨을 확인합니다.</tu>
+</tm>

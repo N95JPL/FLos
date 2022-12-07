@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_HORN_ON_EN">
+	<tu xmlns:lang="eng">Vehicle horn on alarm enable</tu>
+	<tu xmlns:lang="nld">Claxon bij alarm inschakelen</tu>
+	<tu xmlns:lang="fra">Sirène d'alarme du véhicule activée si alarme</tu>
+	<tu xmlns:lang="deu">Fahrzeughupe bei Alarm aktivieren</tu>
+	<tu xmlns:lang="ita">Abilitazione allarme avvisatore acustico attivato</tu>
+	<tu xmlns:lang="jpn">アラーム作動時の車両ホーン作動設定</tu>
+	<tu xmlns:lang="ptg">Activar alarme de buzina do veículo ligada</tu>
+	<tu xmlns:lang="ptb">Buzina do veículo no alarme ativada</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включение звукового сигнала автомобиля при срабатывании сигнализации</tu>
+	<tu xmlns:lang="esp">Bocina del vehículo cuando se activa la alarma</tu>
+	<tu xmlns:lang="chs">车辆喇叭开启警告启用</tu>
+	<tu xmlns:lang="kor">알람 활성화 시 차량 경음기</tu>
+</tm>

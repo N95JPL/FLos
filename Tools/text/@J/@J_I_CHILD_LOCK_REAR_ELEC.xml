@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHILD_LOCK_REAR_ELEC">
+	<tu xmlns:lang="eng">Electric child lock  -  Rear doors</tu>
+	<tu xmlns:lang="nld">Elektrisch kinderslot  -  Achterportieren</tu>
+	<tu xmlns:lang="fra">Sécurité enfants électrique  -  Portes arrière</tu>
+	<tu xmlns:lang="deu">Elektrische Kindersicherung  -  Hintertüren</tu>
+	<tu
+    xmlns:lang="ita"
+  >Serratura elettrica per la sicurezza dei bambini  -  Portiere posteriori</tu>
+	<tu xmlns:lang="jpn">電動チャイルド ロック  －  リア ドア</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Fecho de segurança para crianças eléctrico  -  Portas traseiras</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Trava elétrica de segurança para crianças  -  Portas traseiras</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электрическая блокировка замка (детская защита)  -  Задние двери</tu>
+	<tu
+    xmlns:lang="esp"
+  >Bloqueo de seguridad infantil eléctrico  -  Puertas traseras</tu>
+	<tu xmlns:lang="chs">电动儿童锁  -  后门</tu>
+	<tu xmlns:lang="kor">전동식 아동 보호용 도어 잠금 장치  -  리어 도어</tu>
+</tm>

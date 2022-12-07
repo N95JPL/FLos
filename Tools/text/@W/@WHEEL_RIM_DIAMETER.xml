@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WHEEL_RIM_DIAMETER">
+	<tu xmlns:lang="eng">Wheel rim diameter</tu>
+	<tu xmlns:lang="nld">Velgranddiameter.</tu>
+	<tu xmlns:lang="fra">Diamètre de la jante.</tu>
+	<tu xmlns:lang="deu">Felgendurchmesser</tu>
+	<tu xmlns:lang="ita">Diametro cerchio ruota</tu>
+	<tu xmlns:lang="jpn">ホイール リム径</tu>
+	<tu xmlns:lang="ptg">Diâmetro da jante</tu>
+	<tu xmlns:lang="ptb">Diâmetro do aro da roda</tu>
+	<tu xmlns:lang="rus">Диаметр обода колеса</tu>
+	<tu xmlns:lang="esp">Diámetro de las llantas</tu>
+	<tu xmlns:lang="chs">轮辋直径</tu>
+	<tu xmlns:lang="kor">휠 림 직경</tu>
+</tm>

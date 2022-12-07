@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IPK_REC_DIS_2">
+	<tu xmlns:lang="eng">Instrument cluster record distance 2</tu>
+	<tu xmlns:lang="nld">Record van afstand 2 op instrumentengroep</tu>
+	<tu xmlns:lang="fra">Enregistrement des distances tableau de bord 2</tu>
+	<tu xmlns:lang="deu">Kombiinstrument - aufgezeichnete Distanz 2</tu>
+	<tu xmlns:lang="ita">Gruppo strumenti - registro distanza 2</tu>
+	<tu xmlns:lang="jpn">インストルメント クラスタ記録距離 2</tu>
+	<tu xmlns:lang="ptg">Grupo de instrumentos - distância registada 2</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Distância registrada no conjunto do painel de instrumentos 2</tu>
+	<tu xmlns:lang="rus">Регистрация пробега 2 на панели приборов </tu>
+	<tu xmlns:lang="esp">Distancia registrada en el cuadro de instrumentos 2</tu>
+	<tu xmlns:lang="chs">组合仪表记录距离 2</tu>
+	<tu xmlns:lang="kor">계기판 기록 거리 2</tu>
+</tm>

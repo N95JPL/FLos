@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KEYS_NUMBER_PROGRAMMED_IPC">
+	<tu
+    xmlns:lang="eng"
+  >Number of keys programmed to the instrument panel cluster</tu>
+	<tu
+    xmlns:lang="nld"
+  >Aantal op de instrumentengroep geprogrammeerde sleutels</tu>
+	<tu
+    xmlns:lang="fra"
+  >Nombre de clés programmées par rapport au tableau de bord</tu>
+	<tu xmlns:lang="deu">Anzahl der beim Kombiinstrument angemeldeten Schlüssel</tu>
+	<tu xmlns:lang="ita">Numero di chiavi programmate nel quadro strumenti</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インストルメント パネル クラスタへプログラムされたキーの数</tu>
+	<tu xmlns:lang="ptg">Número de chaves programadas no grupo de instrumentos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Número de chaves programadas para o conjunto do painel de instrumentos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Количество ключей, запрограммированных для данного блока панели приборов</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cantidad de llaves programadas para el cuadro de instrumentos</tu>
+	<tu xmlns:lang="chs">编程设置到组合仪表盘的钥匙数量</tu>
+	<tu xmlns:lang="kor">계기판에 프로그래밍된 키의 수</tu>
+</tm>

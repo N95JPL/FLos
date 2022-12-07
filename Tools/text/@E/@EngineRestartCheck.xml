@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineRestartCheck">
+	<tu xmlns:lang="eng">Engine restart</tu>
+	<tu xmlns:lang="nld">Opnieuw starten van de motor</tu>
+	<tu xmlns:lang="fra">Redémarrage du moteur</tu>
+	<tu xmlns:lang="deu">Motorneustart</tu>
+	<tu xmlns:lang="ita">Riavvio del motore</tu>
+	<tu xmlns:lang="jpn">エンジン再始動</tu>
+	<tu xmlns:lang="ptg">Arranque do motor</tu>
+	<tu xmlns:lang="ptb">Nova partida do motor</tu>
+	<tu xmlns:lang="rus">Повторный запуск двигателя</tu>
+	<tu xmlns:lang="esp">Rearranque del motor</tu>
+	<tu xmlns:lang="chs">发动机重新启动</tu>
+	<tu xmlns:lang="kor">엔진 재시동</tu>
+</tm>

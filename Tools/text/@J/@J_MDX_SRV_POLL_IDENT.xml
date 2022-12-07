@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_MDX_SRV_POLL_IDENT">
+	<tu xmlns:lang="eng">Polled identifier</tu>
+	<tu xmlns:lang="nld">Mobiele telefoon/afstandsbediening herkend </tu>
+	<tu xmlns:lang="fra">Identifiant demandé</tu>
+	<tu xmlns:lang="deu">Abgerufene Kennung</tu>
+	<tu xmlns:lang="ita">Identificativo interrogato</tu>
+	<tu xmlns:lang="jpn">ポール (受信シグナル) ID 機能\</tu>
+	<tu xmlns:lang="ptg">Identificador interrogado</tu>
+	<tu xmlns:lang="ptb">Identificador sondado</tu>
+	<tu xmlns:lang="rus">Идентификатор с опросом</tu>
+	<tu xmlns:lang="esp">Identificador solicitado</tu>
+	<tu xmlns:lang="chs">轮询标识符</tu>
+	<tu xmlns:lang="kor">폴링된 식별자</tu>
+</tm>

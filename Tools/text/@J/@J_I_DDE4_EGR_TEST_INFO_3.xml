@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DDE4_EGR_TEST_INFO_3">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the engine is idling and the coolant temperature is above 60 °C.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer dat de motor stationair loopt en de koelvloeistoftemperatuur boven de 60 °C is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que le moteur tourne au ralenti et que la température du liquide de refroidissement est supérieure à 60° C.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass der Motor bei Leerlaufdrehzahl dreht und die Kühlmitteltemperatur über 60 °C liegt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accertarsi che il motore sia al regime di minimo e che la temperatura del refrigerante sia superiore a 60 °C.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンがアイドリング中であり、クーラントの温度が摂氏 60 度以上であることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima 'Sair' (Exit) para interromper a sequência de purga automática.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o motor está em marcha lenta e a temperatura do fluido de arrefecimento está acima de 60 °C.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что двигатель работает на холостом ходу и температура охлаждающей жидкости выше 60 °C.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que el motor esté en ralentí y que la temperatura del refrigerante sea superior a 60 °C.</tu>
+	<tu xmlns:lang="chs">确保发动机处于怠速且冷却液温度高于 60℃。</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진이 공회전 중이고 냉각수 온도가 60°C를 초과하는지 확인하십시오.</tu>
+</tm>

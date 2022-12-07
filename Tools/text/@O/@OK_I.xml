@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OK_I">
+	<tu xmlns:lang="eng">Operation successful.</tu>
+	<tu xmlns:lang="nld">Bewerking geslaagd.</tu>
+	<tu xmlns:lang="fra">Opération réussie.</tu>
+	<tu xmlns:lang="deu">Ablauf erfolgreich.</tu>
+	<tu xmlns:lang="ita">Operazione riuscita.</tu>
+	<tu xmlns:lang="jpn">オペレーションに成功しました。</tu>
+	<tu xmlns:lang="ptg">Operação realizada com êxito.</tu>
+	<tu xmlns:lang="ptb">Operação bem-sucedida.</tu>
+	<tu xmlns:lang="rus">Операция выполнена успешно.</tu>
+	<tu xmlns:lang="esp">Operación con éxito.</tu>
+	<tu xmlns:lang="chs">操作成功。</tu>
+	<tu xmlns:lang="kor">작동 성공</tu>
+</tm>

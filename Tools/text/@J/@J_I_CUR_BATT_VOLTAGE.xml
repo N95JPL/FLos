@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CUR_BATT_VOLTAGE">
+	<tu xmlns:lang="eng">Measured vehicle battery voltage =</tu>
+	<tu xmlns:lang="nld">Gemeten voertuigaccuspanning =</tu>
+	<tu xmlns:lang="fra">Tension mesurée de la batterie du véhicule =</tu>
+	<tu xmlns:lang="deu">Gemessene Spannung der Fahrzeugbatterie =</tu>
+	<tu xmlns:lang="ita">Tensione batteria veicolo misurata =</tu>
+	<tu xmlns:lang="jpn">車両バッテリ電圧測定値 =</tu>
+	<tu xmlns:lang="ptg">Tensão medida da bateria do veículo =</tu>
+	<tu xmlns:lang="ptb">Tensão da bateria do veículo medida =</tu>
+	<tu xmlns:lang="rus">Измеренное напряжение аккумуляторной батареи =</tu>
+	<tu xmlns:lang="esp">Tensión medida de la batería =</tu>
+	<tu xmlns:lang="chs">测得的蓄电池电压＝</tu>
+	<tu xmlns:lang="kor">측정된 차량 배터리 전압 =</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_TV">
+	<tu xmlns:lang="eng">Television not fitted</tu>
+	<tu xmlns:lang="nld">Televisie niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Télévision non montée</tu>
+	<tu xmlns:lang="deu">Fernsehen nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Televisione non in dotazione</tu>
+	<tu xmlns:lang="jpn">TV 非装備</tu>
+	<tu xmlns:lang="ptg">Televisão não está instalada</tu>
+	<tu xmlns:lang="ptb">Televisão não instalada</tu>
+	<tu xmlns:lang="rus">Телевидение не установлено</tu>
+	<tu xmlns:lang="esp">No hay televisión</tu>
+	<tu xmlns:lang="chs">电视未安装</tu>
+	<tu xmlns:lang="kor">텔레비전이 장착되지 않음</tu>
+</tm>

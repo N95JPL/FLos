@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Driver$N">
+	<tu xmlns:lang="eng">Driver</tu>
+	<tu xmlns:lang="nld">Bestuurder's</tu>
+	<tu xmlns:lang="fra">Du conducteur</tu>
+	<tu xmlns:lang="deu">Fahrer</tu>
+	<tu xmlns:lang="ita">Del conducente</tu>
+	<tu xmlns:lang="jpn">ﾄﾞﾗｲﾊﾞー用</tu>
+	<tu xmlns:lang="ptg">Condutor</tu>
+	<tu xmlns:lang="ptb">Motorista</tu>
+	<tu xmlns:lang="rus">Привод</tu>
+	<tu xmlns:lang="esp">Del chofer</tu>
+	<tu xmlns:lang="chs">驾驶员</tu>
+	<tu xmlns:lang="kor">운전자</tu>
+</tm>

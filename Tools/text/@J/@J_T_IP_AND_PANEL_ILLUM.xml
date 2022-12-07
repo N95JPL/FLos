@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_IP_AND_PANEL_ILLUM">
+	<tu xmlns:lang="eng">413-00 Instrument pack and panel illumination</tu>
+	<tu xmlns:lang="nld">413-00 Instrumentengroep en paneelverlichting</tu>
+	<tu xmlns:lang="fra">413-00 Tableau de bord et éclairage de planche de bord</tu>
+	<tu
+    xmlns:lang="deu"
+  >413-00 Beleuchtung - Instrumentengruppe und Instrumententafel</tu>
+	<tu xmlns:lang="ita">413-00 Strumentazione e illuminazione quadro</tu>
+	<tu xmlns:lang="jpn">413-00 インストルメント パックおよびパネル照明</tu>
+	<tu
+    xmlns:lang="ptg"
+  >413-00 Iluminação do grupo de instrumentos e do painel de instrumentos</tu>
+	<tu xmlns:lang="ptb">413-00 Painel de instrumentos e iluminação do painel</tu>
+	<tu xmlns:lang="rus">413-00 Подсветка приборов и панели</tu>
+	<tu
+    xmlns:lang="esp"
+  >413-00 Iluminación del cuadro de instrumentos y del salpicadero</tu>
+	<tu xmlns:lang="chs">413-00仪表组件与仪表板照明</tu>
+	<tu xmlns:lang="kor">413-00 계기판 및 패널 조명</tu>
+</tm>

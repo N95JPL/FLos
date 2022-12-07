@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_SPAIN">
+	<tu xmlns:lang="eng">Spain</tu>
+	<tu xmlns:lang="nld">Spanje</tu>
+	<tu xmlns:lang="fra">Espagne</tu>
+	<tu xmlns:lang="deu">Spanien</tu>
+	<tu xmlns:lang="ita">Spagna</tu>
+	<tu xmlns:lang="jpn">スペイン</tu>
+	<tu xmlns:lang="ptg">Espanha</tu>
+	<tu xmlns:lang="ptb">Espanha</tu>
+	<tu xmlns:lang="rus">Испания</tu>
+	<tu xmlns:lang="esp">España</tu>
+	<tu xmlns:lang="chs">西班牙</tu>
+	<tu xmlns:lang="kor">Spain</tu>
+</tm>

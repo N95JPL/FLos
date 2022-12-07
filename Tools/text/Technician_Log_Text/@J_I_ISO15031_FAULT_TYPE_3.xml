@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_3">
+<tu xmlns:lang="eng">General failure information - frequency modulation/pulse width modulation failure.</tu>
+<tu xmlns:lang="nld">Informatie over algemeen defect - fout in frequentiemodulatie / pulsbreedtemodulatie.</tu>
+<tu xmlns:lang="fra">Panne g&#233;n&#233;rale - d&#233;faut de modulation de fr&#233;quence / modulation de largeur d&#39;impulsions.</tu>
+<tu xmlns:lang="deu">Allgemeine St&#246;rungsinformation - St&#246;rung Frequenzmodulation/Impulsbreitenmodulation.</tu>
+<tu xmlns:lang="ita">Informazioni guasti generali - guasto di modulazione frequenza/modulazione durata impulsi.</tu>
+<tu xmlns:lang="jpn">ˆê”ÊŒÌáî•ñ | Žü”g”•Ï’²^ƒpƒ‹ƒX••Ï’²•s—Ç</tu>
+<tu xmlns:lang="ptg">Informa&#231;&#245;es gerais sobre a falha - falha na modula&#231;&#227;o de frequ&#234;ncia/modula&#231;&#227;o por largura de impulso.</tu>
+<tu xmlns:lang="rus">Ñâåäåíèÿ îá îáùåé íåèñïðàâíîñòè - îøèáêà ÷àñòîòíîé ìîäóëÿöèè/ØÈÌ.</tu>
+<tu xmlns:lang="esp">Informaci&#243;n de fallo general: fallo de modulaci&#243;n de frecuencia/modulaci&#243;n de anchura de impulsos.</tu>
+<tu xmlns:lang="chs">Ò»°ã¹ÊÕÏÐÅÏ¢ - ÆµÂÊµ÷ÖÆ/Âö¿íµ÷ÖÆ¹ÊÕÏ¡£</tu>
+</tm>

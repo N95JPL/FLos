@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_CCF_CONFIG_INFO_2">
+	<tu
+    xmlns:lang="eng"
+  >This application gives the option to enable or disable the time jet function.  With this enabled the washer jets will only operate on the up stroke of the wipers.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing biedt de optie om de gerichte sproeifunctie in of uit te schakelen.  Bij inschakeling hiervan kunnen de sproeiers alleen werken tijdens de omhooggaande slag van de ruitenwissers.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application permet d'activer ou de désactiver la fonction temporisée des gicleurs.  Lorsque cette option est activée, les gicleurs de lave-glace fonctionnent uniquement pendant la course ascendante des essuie-glaces.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung bietet die Möglichkeit zum Aktivieren oder Deaktivieren der zeitgesteuerten Sprühfunktion.  Wenn diese Funktion aktiviert ist, funktionieren die Waschdüsen nur bei der Aufwärtsbewegung der Wischer.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione consente di attivare o disattivare la funzione temporizzata dei getti.  Con questa funzione attiva i getti lavavetro funzioneranno soltanto durante la corsa verso l'alto dei tergicristalli.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションには、タイム ジェット機能\を有効化または無効化するオプションがあります。  これを有効にすると、ワイパーが上方向に動くときだけウォッシャー液が噴射されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação disponibiliza a opção de activar ou desactivar a função de jacto temporizado.  Com isto activado, os jactos do lava-vidros só funcionam no movimento ascendente dos limpa pára-brisas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo oferece a opção de ativar ou desativar a função do jato.  Se a função do jato programado estiver configurada, os jatos do lavador só funcionarão no curso para cima dos limpadores.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное приложение позволяет включить или выключить функцию таймера включения жиклеров.  Если активирована данная функция, жиклеры омывателей будут работать при движении щеток стеклоочистителей вверх.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación permite la opción de activar o desactivar la función de lavaparabrisas programado.  Con esta función activada, los surtidores del lavaparabrisas solo funcionarán durante el barrido ascendente de los limpiaparabrisas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >通过本应用程序可选择启用或禁用定时喷射功能。  启用本功能后，清洗器喷嘴将仅在刮水器上刮行程中才会喷液。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램은 시간 제트 기능을 활성화하거나 비활성화할 수 있는 옵션을 제공합니다.  이것이 활성화되면 와셔 제트는 와이퍼 업 스트로크 시에만 작동됩니다.</tu>
+</tm>

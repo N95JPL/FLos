@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TPM_FITTED">
+	<tu xmlns:lang="eng">Tire pressure monitor system is fitted.</tu>
+	<tu xmlns:lang="nld">Bandenspanningbewakingssysteem is geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Système de contrôle de pression des pneus monté.</tu>
+	<tu xmlns:lang="deu">Reifendruck-Überwachungssystem ist eingebaut.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È in dotazione sistema di monitoraggio pressione pneumatici.</tu>
+	<tu xmlns:lang="jpn">タイヤ プレッシャ モニター システム装備済み</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema de monitorização da pressão dos pneus está instalado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de monitoramento de pressão dos pneus instalado.</tu>
+	<tu xmlns:lang="rus">Система контроля давления установлена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Hay instalado un sistema de detección de la presión de los neumáticos.</tu>
+	<tu xmlns:lang="chs">轮胎压力监测系统已装配。</tu>
+	<tu xmlns:lang="kor">타이어 공기압 모니터 시스템이 장착되었습니다.</tu>
+</tm>

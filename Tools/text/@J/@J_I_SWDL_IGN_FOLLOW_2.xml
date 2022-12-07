@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SWDL_IGN_FOLLOW_2">
+	<tu
+    xmlns:lang="eng"
+  >Software download has now completed, the ignition prompts must now be followed as normal.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De software is gedownload, de ontstekingsprompts moeten op de normale manier worden gevolgd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le téléchargement du logiciel est maintenant terminé, les invites à l'allumage doivent maintenant être suivies de la manière normale.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Herunterladen der Software wurde nun abgeschlossen, den Aufforderungen zur Betätigung der Zündung wie normal folgen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il download del software è stato completato; seguire ora le istruzioni visualizzate per l'accensione, secondo consuetudine.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ソ\フトウェアのダウンロードが完了しました。イグニション操作の指示に通常どおり従いなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A transferência do software está concluída; tem de seguir-se as instruções da ignição como normalmente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O download do software está concluído, as instruções de ignição deverão ser seguidas normalmente agora.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Программное обеспечение загружено, теперь указания по зажиганию должны появляться в штатном режиме.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha completado la descarga del software. Debe seguir las indicaciones relativas al encendido de la manera normal.</tu>
+	<tu xmlns:lang="chs">软件下载完成，现在应按正常情况，遵照执行点火提示。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이제 소프트웨어 다운로드가 완료되었고, 평소대로 점화 프롬프트를 따라야 합니다.</tu>
+</tm>

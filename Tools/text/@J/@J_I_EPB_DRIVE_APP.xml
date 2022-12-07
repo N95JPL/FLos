@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EPB_DRIVE_APP">
+	<tu xmlns:lang="eng">Electronic park brake drive away release</tu>
+	<tu xmlns:lang="nld">Elektronische handrem loszetten bij wegrijden</tu>
+	<tu
+    xmlns:lang="fra"
+  >Desserrage électronique du frein de stationnement au démarrage</tu>
+	<tu xmlns:lang="deu">Lösen der elektronischen Handbremse beim Anfahren</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sbloccaggio freno di stazionamento elettronico alla partenza</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック パーキング ブレーキ ドライブアウェイ リリース</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Desengate do travão de mão electrónico em início de marcha</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Liberação por velocidade do freio de estacionamento eletrônico</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция отпускания электронного стояночного тормоза при трогании с места</tu>
+	<tu
+    xmlns:lang="esp"
+  >Desactivación al iniciar la marcha del freno de estacionamiento eléctrico</tu>
+	<tu xmlns:lang="chs">电子驻车制动驶离释放</tu>
+	<tu xmlns:lang="kor">전자식 주차 브레이크 자동 해제</tu>
+</tm>

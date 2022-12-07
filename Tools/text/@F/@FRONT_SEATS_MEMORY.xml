@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FRONT_SEATS_MEMORY">
+	<tu xmlns:lang="eng">Memory front seats</tu>
+	<tu xmlns:lang="nld">Geheugen voorstoelen</tu>
+	<tu xmlns:lang="fra">Mémoire sièges avant.</tu>
+	<tu xmlns:lang="deu">Vordersitze mit Sitzspeicher</tu>
+	<tu xmlns:lang="ita">Sedili anteriori con memoria</tu>
+	<tu xmlns:lang="jpn">メモリ フロント シート</tu>
+	<tu xmlns:lang="ptg">Bancos dianteiros com memória</tu>
+	<tu xmlns:lang="ptb">Assentos dianteiros com memória</tu>
+	<tu xmlns:lang="rus">Передние сиденья с функцией памяти</tu>
+	<tu xmlns:lang="esp">Asientos delanteros con memoria</tu>
+	<tu xmlns:lang="chs">前座椅记忆</tu>
+	<tu xmlns:lang="kor">메모리 프론트 시트</tu>
+</tm>

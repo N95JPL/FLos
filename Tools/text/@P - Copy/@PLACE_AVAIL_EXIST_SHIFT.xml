@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PLACE_AVAIL_EXIST_SHIFT">
+	<tu xmlns:lang="eng">Place all available existing (already programmed) keys within the vehicle on the shifter surround.</tu>
+	<tu xmlns:lang="nld">Plaats alle beschikbare bestaande (reeds geprogrammeerde) sleutels binnenin het voertuig op het huis van de transmissiehendel.</tu>
+	<tu xmlns:lang="fra">Placez toutes les clés existantes disponibles (déjà programmées) à l'intérieur du véhicule, sur l'encadrement du sélecteur de vitesses.</tu>
+	<tu xmlns:lang="deu">Alle verfügbaren existierenden (schon programmierten) Schlüssel im Fahrzeug auf der Wählhebelkulisse ablegen.</tu>
+	<tu xmlns:lang="ita">Posizionare tutte le chiavi disponibili esistenti (già programmate) all'interno del veicolo, vicino alla leva del cambio.</tu>
+	<tu xmlns:lang="jpn">現在使用できるキーすべて (プログラム済みのもの) を車内のシフター周辺に置きなさい。</tu>
+	<tu xmlns:lang="ptg">Coloque todas as chaves disponíveis existentes (já programadas) no interior do veículo na área em redor da alavanca de mudanças.</tu>
+	<tu xmlns:lang="ptb">Coloque todas as chaves disponíveis (já programadas) no interior do veículo em volta da alavanca de câmbio.</tu>
+	<tu xmlns:lang="rus">Поместите все имеющиеся (запрограммированные) ключи на окантовку рычага переключения передач.</tu>
+	<tu xmlns:lang="esp">Coloque todas las llaves existentes (ya programadas) dentro del vehículo alrededor de la palanca de cambios. </tu>
+	<tu xmlns:lang="chs">将所有已拿到的现有（已编程的）钥匙放入车内换档杆周边。</tu>
+	<tu xmlns:lang="kor">차량 내에서 사용할 수 있는 기존(이미 프로그래밍된)의 모든 키를 시프터 주변에 놓으십시오.</tu>
+</tm>

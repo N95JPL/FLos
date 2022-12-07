@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABAG_WARN_LIT_BUILD_DISAB">
+	<tu
+    xmlns:lang="eng"
+  >The air bag warning lamp will remain illuminated/flashing until build mode is disabled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het airbagcontrolelampje zal blijven branden/knipperen totdat de fabricagefunctie is uitgeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le témoin d'avertissement d'airbag restera allumé/clignotera jusqu'à ce que le mode construction soit désactivé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Airbag-Warnleuchte bleibt erleuchtet/blinkt, bis der Konfigurationsmodus deaktiviert wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La spia airbag rimane accesa/lampeggia finché la modalità di produzione non viene disattivata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >生産モードが解除されるまでエア バッグ警告灯は点灯／点滅を続けます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A luz de aviso do airbag mantém-se acesa/a piscar até o modo de fabrico ser desactivado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A luz de aviso de airbag permanecerá acesa/piscando até que modo de construção seja desativado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сигнализатор подушки безопасности будет гореть/мигать, пока транспортный режим не будет отключен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El testigo de airbags permanecerá iluminado o parpadeando hasta que se desactive el modo de fabricación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >安全气囊警告灯将一直处于点亮/闪烁状态，直至建立模式被禁用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >빌드 모드가 비활성화될 때까지 에어백 경고등이 켜지거나 깜박이는 상태를 유지합니다.</tu>
+</tm>

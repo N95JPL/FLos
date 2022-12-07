@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_STATUS_ODST">
+	<tu xmlns:lang="eng">On demand self test mode</tu>
+	<tu xmlns:lang="nld">Zelftestfunctie op aanvraag</tu>
+	<tu xmlns:lang="fra">Mode auto-diagnostic à la demande</tu>
+	<tu xmlns:lang="deu">Selbsttest auf Abruf-Modus</tu>
+	<tu xmlns:lang="ita">Modalità di prova automatica a richiesta</tu>
+	<tu xmlns:lang="jpn">オン デマンド セルフ テスト モード</tu>
+	<tu xmlns:lang="ptg">Modo de autoteste a pedido</tu>
+	<tu xmlns:lang="ptb">Modo autoteste sob demanda</tu>
+	<tu xmlns:lang="rus">Режим самотестирования по запросу</tu>
+	<tu xmlns:lang="esp">Modo de la autodiagnosis solicitada</tu>
+	<tu xmlns:lang="chs">随需自检模式</tu>
+	<tu xmlns:lang="kor">온디맨드 자체 테스트 모드</tu>
+</tm>

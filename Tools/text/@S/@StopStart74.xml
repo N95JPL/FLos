@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart74">
+	<tu xmlns:lang="eng">This condition may be due to vehicle location.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toestand kan het gevolg zijn van de locatie van de auto.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette condition peut être liée à l'emplacement du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Zustand kann auf einen Fahrzeugstandort zurückzuführen sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa condizione può essere causata dalla posizione del veicolo.</tu>
+	<tu xmlns:lang="jpn">この状態は車両の位置によって発生する可能性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta condição pode ser provocada pela localização do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa condição pode ocorrer devido à localização do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное состояние может быть обусловлено положением автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta condición puede deberse a la ubicación del vehículo.</tu>
+	<tu xmlns:lang="chs">这种情况的原因可能是车辆的位置。</tu>
+	<tu xmlns:lang="kor">이 상태는 차량 위치 때문일 수 있습니다.</tu>
+</tm>

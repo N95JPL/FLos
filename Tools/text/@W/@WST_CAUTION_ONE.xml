@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_CAUTION_ONE">
+	<tu
+    xmlns:lang="eng"
+  >Make sure you follow good workshop practice when working on a vehicle that is jacked up.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat u goede werkplaatsmethoden in acht neemt, wanneer u aan een opgekrikt voertuig werkt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veillez à respecter les bonnes pratiques d'atelier lorsque vous travaillez sur un véhicule levé sur pont.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen dass bei Arbeiten an einem aufgebockten Fahrzeug der guten Werkstattpraxis gefolgt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi di osservare le precauzioni necessarie quando si lavora su un veicolo sollevato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ジャッキアップされた車両の作業を行うときには、ワークショップでの実作業についての注意事項を忠実に守りなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Respeite as normas de segurança da oficina ao trabalhar num veículo elevado por um macaco.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de seguir as boas práticas da oficina quando estiver trabalhando em um veículo que foi erguido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что вы следуете правильным нормам выполнения производственных работ при работе с поднятым на домкрате автомобилем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de seguir las prácticas de taller recomendadas al trabajar en un vehículo elevado con gato.</tu>
+	<tu xmlns:lang="chs">您在顶起的车辆上开展工作时，请确保遵循良好的维修规范。</tu>
+	<tu
+    xmlns:lang="kor"
+  >잭으로 들어 올린 차량에 대한 작업 시, 모범적 작업 관행을 따르십시오.</tu>
+</tm>

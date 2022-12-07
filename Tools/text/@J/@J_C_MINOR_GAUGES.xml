@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_MINOR_GAUGES">
+	<tu xmlns:lang="eng">Instrument pack minor gauges</tu>
+	<tu xmlns:lang="nld">Instrumentenpakket kleine meters</tu>
+	<tu xmlns:lang="fra">Instruments secondaires du tableau de bord</tu>
+	<tu xmlns:lang="deu">Zusatzanzeigen instrument pack</tu>
+	<tu xmlns:lang="ita">Indicatori secondari strumentazione</tu>
+	<tu xmlns:lang="jpn">インストルメント パック小ゲージ</tu>
+	<tu xmlns:lang="ptg">Indicadores secundários do grupo de instrumentos</tu>
+	<tu xmlns:lang="ptb">Medidores menores do grupo de instrumentos</tu>
+	<tu xmlns:lang="rus">Вспомогательные указатели панели приборов</tu>
+	<tu xmlns:lang="esp">Indicadores pequeños cuadro instrumentos</tu>
+	<tu xmlns:lang="chs">仪表板小量表</tu>
+	<tu xmlns:lang="kor">계기판 부수 게이지</tu>
+</tm>

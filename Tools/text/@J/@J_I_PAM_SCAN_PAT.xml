@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PAM_SCAN_PAT">
+	<tu xmlns:lang="eng">Parking assistance module scan pattern</tu>
+	<tu
+    xmlns:lang="nld"
+  >Scanpatroon van module van vooruit- en achteruitrijbeveiliging</tu>
+	<tu
+    xmlns:lang="fra"
+  >Schéma de balayage du module d'aide aux man?uvres de stationnement</tu>
+	<tu xmlns:lang="deu">Scanmuster Einparkhilfe-Steuergerät</tu>
+	<tu xmlns:lang="ita">Configurazione scansione modulo assistenza parcheggio</tu>
+	<tu xmlns:lang="jpn">パーキング エイド モジュール スキャン パターン</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Padrão de digitalização do módulo de assistência ao estacionamento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Padrão de varredura do módulo de assistência de estacionamento</tu>
+	<tu xmlns:lang="rus">Режим сканирования модуля системы помощи при парковке</tu>
+	<tu
+    xmlns:lang="esp"
+  >Patrón de exploración del módulo de ayuda al aparcamiento</tu>
+	<tu xmlns:lang="chs">驻车辅助模块扫描模式</tu>
+	<tu xmlns:lang="kor">주차 지원 모듈 스캔 패턴</tu>
+</tm>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AlTrigHis$M">
+	<tu xmlns:lang="eng">Alarm trigger history.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Historische gegevens voor het laten afgaan van het alarm.</tu>
+	<tu xmlns:lang="fra">Historique des déclenchements d'alarme.</tu>
+	<tu xmlns:lang="deu">Verlauf - Alarmauslösung.</tu>
+	<tu xmlns:lang="ita">Cronologia scatto allarmi.</tu>
+	<tu xmlns:lang="jpn">アラーム トリガーの履歴</tu>
+	<tu xmlns:lang="ptg">Histórico de disparos do alarme.
+</tu>
+	<tu xmlns:lang="ptb">Histórico de disparo de alarme.</tu>
+	<tu xmlns:lang="rus">Журнал срабатывания сигнализации.</tu>
+	<tu xmlns:lang="esp">Historial de los disparadores de alarma.</tu>
+	<tu xmlns:lang="chs">报警触发器历史。</tu>
+	<tu xmlns:lang="kor">경보 트리거 기록</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart244">
+	<tu xmlns:lang="eng">Stop inhibited due to ambient air pressure too low.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stop geblokkeerd omdat de omgevingsluchtdruk te laag is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Arrêt neutralisé en raison de la pression trop basse de l'air ambiant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Stopp aufgrund zu niedrigen Umgebungsluftdrucks gesperrt</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitazione dell'arresto causata da una pressione aria ambiente troppo bassa.</tu>
+	<tu xmlns:lang="jpn">外気圧が低すぎることによるストップの禁止</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Inibição da paragem devido a pressão ambiente demasiado baixa.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Parada inibida devido à pressão muito baixa do ar ambiente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Остановка заблокирована из-за слишком низкого давления окружающего воздуха.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Parada bloqueada debido a que la presión ambiente es demasiado baja.</tu>
+	<tu xmlns:lang="chs">因环境空气压力过低停止被禁用。</tu>
+	<tu xmlns:lang="kor">너무 낮은 외기 압력으로 인한 Stop 억제</tu>
+</tm>

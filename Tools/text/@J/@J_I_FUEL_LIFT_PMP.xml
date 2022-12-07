@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUEL_LIFT_PMP">
+	<tu xmlns:lang="eng">Fuel lift pump</tu>
+	<tu xmlns:lang="nld">Brandstofopvoerpomp</tu>
+	<tu xmlns:lang="fra">Pompe d'alimentation en carburant</tu>
+	<tu xmlns:lang="deu">Kraftstoff-Vorförderpumpe</tu>
+	<tu xmlns:lang="ita">Pompa aspirante del carburante</tu>
+	<tu xmlns:lang="jpn">フューエル リフト ポンプ</tu>
+	<tu xmlns:lang="ptg">Bomba de elevação do combustível</tu>
+	<tu xmlns:lang="ptb">Bomba elevatória de combustível</tu>
+	<tu xmlns:lang="rus">Топливоподкачивающий насос</tu>
+	<tu xmlns:lang="esp">Bomba de alimentación de combustible</tu>
+	<tu xmlns:lang="chs">燃油举升泵</tu>
+	<tu xmlns:lang="kor">연료 리프트 펌프</tu>
+</tm>

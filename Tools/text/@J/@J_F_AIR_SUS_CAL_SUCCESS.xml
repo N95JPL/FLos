@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_AIR_SUS_CAL_SUCCESS">
+	<tu xmlns:lang="eng">The air suspension unit has calibrated successfully.</tu>
+	<tu xmlns:lang="nld">De luchtvering is juist gekalibreerd.</tu>
+	<tu xmlns:lang="fra">Etalonnage de la suspension pneumatique réussi.</tu>
+	<tu xmlns:lang="deu">Die Luftfederungseinheit wurde erfolgreich kalibriert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Taratura riuscita dell'unità di sospensione pneumatica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エア サスペンション ユニットは正常にキャリブレーションされました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A unidade da suspensão pneumática foi calibrada com êxito.</tu>
+	<tu xmlns:lang="ptb">A unidade de suspensão a ar foi calibrada com êxito.</tu>
+	<tu xmlns:lang="rus">Калибровка модуля пневмоподвески успешно завершена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El depósito de la suspensión neumática se ha calibrado con éxito.</tu>
+	<tu xmlns:lang="chs">空气悬挂单元已成功标定。</tu>
+	<tu xmlns:lang="kor">에어 서스펜션 유닛이 성공적으로 보정되었습니다.</tu>
+</tm>

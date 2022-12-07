@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NAV_SYSTEM_SOUTH_AMERICA">
+	<tu xmlns:lang="eng">Navigation system for South America</tu>
+	<tu xmlns:lang="nld">Navigatiesysteem voor Zuid-Amerika</tu>
+	<tu xmlns:lang="fra">Système de navigation destiné à l'Amérique latine</tu>
+	<tu xmlns:lang="deu">Navigationssystem für Südamerika</tu>
+	<tu xmlns:lang="ita">Sistema di navigazione per il Sudamerica</tu>
+	<tu xmlns:lang="jpn">南米仕様ナビゲーション システム</tu>
+	<tu xmlns:lang="ptg">Sistema de navegação para América do Sul</tu>
+	<tu xmlns:lang="ptb">Sistema de navegação para a América do Sul</tu>
+	<tu xmlns:lang="rus">Навигационная система для рынка Южной Америки</tu>
+	<tu xmlns:lang="esp">Sistema de navegación para Sudamérica</tu>
+	<tu xmlns:lang="chs">南美导航系统</tu>
+	<tu xmlns:lang="kor">남미용 내비게이션 시스템</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STER_ANG_SEN_TEST">
+	<tu xmlns:lang="eng">Steering angle sensor test</tu>
+	<tu xmlns:lang="nld">Test van stuuruitslagsensor</tu>
+	<tu xmlns:lang="fra">Essai de capteur d'angle de direction</tu>
+	<tu xmlns:lang="deu">Test Lenkwinkelsensor</tu>
+	<tu xmlns:lang="ita">Prova sensore angolo sterzo</tu>
+	<tu xmlns:lang="jpn">ステアリング アングル センサー テスト</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligue o tubo flexível de purga ao bico do parafuso de purga da pinça.</tu>
+	<tu xmlns:lang="ptb">Teste do sensor de ângulo de direção</tu>
+	<tu xmlns:lang="rus">Проверка датчика угла поворота рулевого колеса</tu>
+	<tu xmlns:lang="esp">Prueba del sensor del ángulo de dirección</tu>
+	<tu xmlns:lang="chs">转向角传感器测试</tu>
+	<tu xmlns:lang="kor">스티어링 각도 센서 테스트</tu>
+</tm>

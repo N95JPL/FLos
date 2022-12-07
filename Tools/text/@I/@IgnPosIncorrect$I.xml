@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IgnPosIncorrect$I">
+	<tu xmlns:lang="eng">Ignition position is incorrect.</tu>
+	<tu xmlns:lang="nld">Verkeerde contactslotstand.</tu>
+	<tu xmlns:lang="fra">Position incorrecte de l'allumage.</tu>
+	<tu xmlns:lang="deu">Falsche Zündschalterstellung.</tu>
+	<tu xmlns:lang="ita">Posizione di accensione errata.</tu>
+	<tu xmlns:lang="jpn">イグニション ポジションが不正です。</tu>
+	<tu xmlns:lang="ptg">Posição da ignição está incorrecta.</tu>
+	<tu xmlns:lang="ptb">Posição de ignição incorreta.</tu>
+	<tu xmlns:lang="rus">Неправильное положение зажигания.</tu>
+	<tu xmlns:lang="esp">Posición de encendido incorrecta.</tu>
+	<tu xmlns:lang="chs">点火位置不正确。</tu>
+	<tu xmlns:lang="kor">점화 위치가 올바르지 않습니다.</tu>
+</tm>

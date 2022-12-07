@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@GTR_ACCESS">
+	<tu xmlns:lang="eng">Global technical reference internet authorisation</tu>
+	<tu xmlns:lang="nld">Internetautorisatie voor global technical reference</tu>
+	<tu xmlns:lang="fra">Global technical reference : autorisation internet </tu>
+	<tu xmlns:lang="deu">Global technical reference  - Internet-Autorisierung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Autorizzazione su Internet per il global technical reference </tu>
+	<tu xmlns:lang="jpn">Global technical reference  インターネット認証</tu>
+	<tu xmlns:lang="ptg">Referência técnica global - autorização da internet</tu>
+	<tu xmlns:lang="ptb">Autorização de Internet de referência técnica global</tu>
+	<tu
+    xmlns:lang="rus"
+  >Авторизация доступа по Интернету к общей справочной информации</tu>
+	<tu
+    xmlns:lang="esp"
+  >Autorización para acceso a través de internet a la global technical reference</tu>
+	<tu xmlns:lang="chs">全球技术参考互联网访问授权</tu>
+	<tu xmlns:lang="kor">글로벌 기술 참조 인터넷 승인</tu>
+</tm>

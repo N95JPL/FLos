@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspDeflHelp3$M">
+	<tu
+    xmlns:lang="eng"
+  >After the timer expires, the system is considered to be deflated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Nadat de timer is afgelopen, wordt het systeem als leeg beschouwd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >A l'expiration du délai, le système est considéré comme dégonflé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Ablauf des Zeitgebers wird davon ausgegangen, dass das System entlüftet ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Scaduto il tempo previsto, il sistema è da considerarsi sgonfio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >その時間が経過したのち、システムはエア減圧されたと考えられます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando o contador expirar, o sistema é considerado como não tendo ar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Depois que o temporizador expira, o sistema é considerado para esvaziado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По истечении времени считается, что воздух из системы выпущен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez vencido el tiempo programado, se considera que el sistema está desinflado.</tu>
+	<tu xmlns:lang="chs">'在达到规定的时间后，则认为系统已经放气。'</tu>
+	<tu xmlns:lang="kor">타이머가 만료되면 시스템이 감압된 것으로 간주됩니다.</tu>
+</tm>

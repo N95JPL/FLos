@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MODE_1_EN">
+	<tu xmlns:lang="eng">Mode 1 enabled</tu>
+	<tu xmlns:lang="nld">Mode 1 ingeschakeld</tu>
+	<tu xmlns:lang="fra">Mode 1 activé</tu>
+	<tu xmlns:lang="deu">Modus 1 aktiviert</tu>
+	<tu xmlns:lang="ita">Modalità 1 abilitata</tu>
+	<tu xmlns:lang="jpn">モード 1 作動可設定済み</tu>
+	<tu xmlns:lang="ptg">Modo 1 activado</tu>
+	<tu xmlns:lang="ptb">Modo 1 ativado</tu>
+	<tu xmlns:lang="rus">Включен режим 1</tu>
+	<tu xmlns:lang="esp">Modo 1 activado</tu>
+	<tu xmlns:lang="chs">模式 1 已启动</tu>
+	<tu xmlns:lang="kor">모드 1이 활성화됨</tu>
+</tm>

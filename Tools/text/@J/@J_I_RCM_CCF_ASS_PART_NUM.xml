@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RCM_CCF_ASS_PART_NUM">
+	<tu xmlns:lang="eng">RCM car configuration file assembly part number 01</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onderdeelnummer 01 van voertuigconfiguratiebestand voor RCM</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module RCM - fichier de configuration du véhicule - réf. 01</tu>
+	<tu
+    xmlns:lang="deu"
+  >RCM - Fahrzeug-Konfigurationsdatei - Montageteil Nummer 01</tu>
+	<tu
+    xmlns:lang="ita"
+  >File di configurazione veicolo per RCM, numero parte complessivo 01</tu>
+	<tu
+    xmlns:lang="jpn"
+  >RCM 車両コンフィギュレーション ファイル アッセンブリ パーツ ナンバー 01</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Número de peça 01 do ficheiro de configuração do veículo do RCM</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conjunto do arquivo de configuração do carro RCM - número de peça 01</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок управления системой пассивной безопасности, файл конфигурации автомобиля, монтажный номер детали 01</tu>
+	<tu
+    xmlns:lang="esp"
+  >Número de pieza de conjunto 01 del archivo de configuración del vehículo RCM</tu>
+	<tu xmlns:lang="chs">RCM 车辆配置文件组件零件号 01</tu>
+	<tu xmlns:lang="kor">RCM 차량 구성 파일 어셈블리 부품 번호 01</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TELEPHONE">
+	<tu xmlns:lang="eng">Telephone</tu>
+	<tu xmlns:lang="nld">Telefoon</tu>
+	<tu xmlns:lang="fra">Téléphone</tu>
+	<tu xmlns:lang="deu">Telefon</tu>
+	<tu xmlns:lang="ita">Telefono</tu>
+	<tu xmlns:lang="jpn">テレフォン</tu>
+	<tu xmlns:lang="ptg">Telefone</tu>
+	<tu xmlns:lang="ptb">Telefone</tu>
+	<tu xmlns:lang="rus">Телефон</tu>
+	<tu xmlns:lang="esp">Teléfono</tu>
+	<tu xmlns:lang="chs">电话</tu>
+	<tu xmlns:lang="kor">전화</tu>
+</tm>

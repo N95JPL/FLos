@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_DELIV_ENABLE">
+	<tu xmlns:lang="eng">Failed delivery mode update.</tu>
+	<tu xmlns:lang="nld">Bijwerken van afleveringsfunctie is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de la mise à jour du mode livraison.</tu>
+	<tu xmlns:lang="deu">Aktualisierung Auslieferungsmodus nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Aggiornamento modalità di consegna non riuscito.</tu>
+	<tu xmlns:lang="jpn">デリバリー モード更新に失敗</tu>
+	<tu xmlns:lang="ptg">Actualização do modo de transporte falhou.</tu>
+	<tu xmlns:lang="ptb">Falha na atualização do modo de fornecimento.</tu>
+	<tu xmlns:lang="rus">Ошибка обновления режима доставки.</tu>
+	<tu xmlns:lang="esp">No se pudo actualizar el modo de entrega.</tu>
+	<tu xmlns:lang="chs">发车模式更新失败。</tu>
+	<tu xmlns:lang="kor">배송 모드 업데이트 실패</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NO_SWDL_TESTS">
+	<tu xmlns:lang="eng">No tests in this menu require software download files</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geen van de tests in dit menu vereisen softwaredownloadbestanden</tu>
+	<tu
+    xmlns:lang="fra"
+  >Aucun test de ce menu ne nécessite des fichiers de téléchargement de logiciel.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Für keine Tests in diesem Menü sind Software-Download-Dateien erforderlich</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nessuna prova in questo menu richiede lo scaricamento di software</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このメニューにソ\フトウェア ダウンロード ファイルを必要とするテストはありません</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nenhum teste deste menu necessita de ficheiros de transferência de software</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Nenhum teste neste menu requer arquivos de download de software</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для данного меню загрузочных файлов программного обеспечения тестов не требуется</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ninguna prueba de este menú requiere archivos de descarga de software</tu>
+	<tu xmlns:lang="chs">此菜单中没有任何测试需要软件下载文件</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 메뉴의 테스트에는 소프트웨어 다운로드 파일이 필요하지 않습니다.</tu>
+</tm>

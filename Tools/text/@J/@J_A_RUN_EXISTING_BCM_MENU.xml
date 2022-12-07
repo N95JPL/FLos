@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_RUN_EXISTING_BCM_MENU">
+	<tu
+    xmlns:lang="eng"
+  >Transport mode active diagnostic trouble code present, run the program exiting the body control module menu option.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is een diagnosefoutcode aanwezig die aangeeft dat de transportfunctie actief is. Voer de menu-optie uit voor het programmeren van de huidige carrosserieregelmodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Code d'anomalie mode de transport actif présent ; lancez le programme à partir de l'option de menu module de commande de carrosserie.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fehlercode Transportmodus aktiv liegt vor, Programm nach Verlassen der Menüoption Karosseriesteuergerät laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È presente un codice di guasto diagnostico attivo della modalità di trasporto, eseguire il programma corrente uscendo dall'opzione del menu del modulo di comando carrozzeria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >輸送モード アクティブ診断トラブル コードがあります。プログラムを実行し「ボディ コントロール モジュール メニュー オプション」を終了しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Código de avaria activo de modo de transporte presente; correr o programa saindo da opção do menu do módulo de comando da carroçaria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Com modo de transporte código de problemas de diagnóstico ativo presente, execute o programa para sair da opção de menu do módulo de controle da carroceria.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обнаружен диагностический код неисправности включенного режима транспортировки. Запустите программу, в меню блока управления кузовными системами.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si está presente el código de avería de modo de transporte activo, ejecutar el programa existente en la opción de menú del módulo de control de la carrocería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >存在运输模式激活故障诊断码，运行车身控制模块菜单选项的程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >운송 모드 활성 고장 진단 코드가 있습니다. 기존 차체 컨트롤 모듈 메뉴 옵션을 실행하십시오.</tu>
+</tm>

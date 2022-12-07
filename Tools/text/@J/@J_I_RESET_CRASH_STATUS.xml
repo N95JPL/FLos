@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RESET_CRASH_STATUS">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will reset the crash status. This is required if any work is carried out that could affect the pedestrian impact system</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal de botsingsstatus resetten. Dit is nodig als er werkzaamheden zijn uitgevoerd, die het voetgangerbeveiligingssysteem nadelig zouden kunnen beïnvloeden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de réinitialiser le statut du module de protection en cas de collision Cette opération est indispensable si des réparations pouvant dérégler le système de protection des piétons ont été effectuées sur le véhicule</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Maßnahme wird der Aufprallstatus zurückgesetzt. Die Maßnahme muss durchgeführt werden, wenn Arbeiten durchgeführt werden, die das Fußgängerschutzsystem beeinträchtigen könnten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura reimposta lo stato urto. Questa procedura si rende necessaria se sono stati eseguiti interventi che potrebbero influenzare il sistema impatto pedoni</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順はクラッシュ ステータスをリセットします。歩行者インパクト システムに影響する可能\性のある何らかの作業を行った場合には、この手順が必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento vai repor a zero o estado de colisão. Esta acção é necessária se for realizado algum trabalho que possa afectar o sistema de impacto de peões</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento irá redefinir o status de colisão. Isso é necessário se for executado qualquer trabalho que poderia afetar o sistema contra impacto de pedestre</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта процедура служит для сброса состояния столкновения. Она необходима при выполнении любых работ, которые могут затрагивать систему предотвращения столкновения с пешеходом</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento restaura el estado de impacto. Esto es necesario si se lleva a cabo alguna tarea que puede afectar al sistema de protección de peatones</tu>
+	<tu
+    xmlns:lang="chs"
+  >本程序将让碰撞状态复位。 如果执行了可能影响行人碰撞系统的任何工作，则要求执行碰撞状态复位</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 충돌 상태를 재설정합니다. 보행자 충격 시스템에 영향을 줄 수 있는 작업이 수행되는 경우 필요한 절차입니다.</tu>
+</tm>

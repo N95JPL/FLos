@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_WINDSHIELD_WIPERS">
+	<tu xmlns:lang="eng">Windshield wipers</tu>
+	<tu xmlns:lang="nld">Ruitewissers</tu>
+	<tu xmlns:lang="fra">Essuie-vitre</tu>
+	<tu xmlns:lang="deu">Scheibenwischer</tu>
+	<tu xmlns:lang="ita">I tergicristallo</tu>
+	<tu xmlns:lang="jpn">ｳｲﾝﾄﾞｽｸﾘーﾝ・ﾜｲﾊﾟー</tu>
+	<tu xmlns:lang="ptg">Limpa pára-brisas</tu>
+	<tu xmlns:lang="ptb">Limpadores de para-brisa</tu>
+	<tu xmlns:lang="rus">Стеклоочистители ветрового стекла</tu>
+	<tu xmlns:lang="esp">Limpiaparabrisas</tu>
+	<tu xmlns:lang="chs">挡风玻璃刮水器</tu>
+	<tu xmlns:lang="kor">윈드실드 와이퍼</tu>
+</tm>

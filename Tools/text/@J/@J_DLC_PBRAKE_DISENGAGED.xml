@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_PBRAKE_DISENGAGED">
+	<tu xmlns:lang="eng">Parking brake disengaged</tu>
+	<tu xmlns:lang="nld">Handrem losgezet</tu>
+	<tu xmlns:lang="fra">Frein à main desserré</tu>
+	<tu xmlns:lang="deu">Handbremse gelöst</tu>
+	<tu xmlns:lang="ita">Freno di stazionamento disinserito</tu>
+	<tu xmlns:lang="jpn">パーキング ブレーキ開放済み</tu>
+	<tu xmlns:lang="ptg">Travão de mão desengatado</tu>
+	<tu xmlns:lang="ptb">Freio de estacionamento desengatado</tu>
+	<tu xmlns:lang="rus">Стояночный тормоз отключен</tu>
+	<tu xmlns:lang="esp">Freno de mano desactivado</tu>
+	<tu xmlns:lang="chs">驻车制动器分离</tu>
+	<tu xmlns:lang="kor">주차 브레이크 해제됨</tu>
+</tm>

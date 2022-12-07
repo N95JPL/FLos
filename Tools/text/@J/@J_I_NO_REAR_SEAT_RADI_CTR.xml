@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_REAR_SEAT_RADI_CTR">
+	<tu xmlns:lang="eng">No rear seat audio unit controls</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zonder bedieningsorganen van de geluidsinstallatie - achterin</tu>
+	<tu xmlns:lang="fra">Sans commande de système audio de siège arrière</tu>
+	<tu xmlns:lang="deu">Kein Rücksitz-Audiosystembedienteil</tu>
+	<tu xmlns:lang="ita">Senza comandi impianto audio sedili posteriori</tu>
+	<tu xmlns:lang="jpn">リア シート オーディオ ユニット コントロールなし</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não existem comandos da unidade áudio no banco traseiro</tu>
+	<tu xmlns:lang="ptb">Sem controles da unidade de áudio do assento traseiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отсутствуют средства управления аудиосистемой на задних сиденьях</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sin mandos del aparato de audio para los pasajeros traseros</tu>
+	<tu xmlns:lang="chs">无后座椅音频单元控制系统</tu>
+	<tu xmlns:lang="kor">리어 시트 오디오 장치 컨트롤 없음</tu>
+</tm>

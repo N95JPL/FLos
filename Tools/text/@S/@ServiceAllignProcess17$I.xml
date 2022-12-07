@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess17$I">
+	<tu
+    xmlns:lang="eng"
+  >Carry out a re-read of the fault codes to ensure that the system has no other additional faults.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Vraag de foutcodes nogmaals op om te controleren of er in het systeem geen andere extra fouten zijn opgetreden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédez à une relecture des codes de défaut pour vérifier que le système ne comporte pas d'autres défauts supplémentaires.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fehlercodes auslesen um sicherzustellen, dass keine zusätzlichen Störungen des Systems vorliegen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Effettuare una rilettura dei codici di guasto per accertarsi che il sistema non presenti nessun altro guasto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フォルトコードの再読み取りを実施し、システムに他の追加故障がないことを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Efectue uma nova leitura dos códigos de avaria para ter a certeza de que o sistema não tem outras avarias.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Realize uma nova leitura dos códigos de falha para que garantir que o sistema não tenha nenhuma outra falha adicional.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполните повторное считывание кодов неисправностей, чтобы в системе не было никаких других неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Leer nuevamente los códigos de avería para verificar que el sistema no presente ninguna otra anomalía.</tu>
+	<tu xmlns:lang="chs">执行故障码的重新读取，以确保系统没有其它故障。</tu>
+	<tu
+    xmlns:lang="kor"
+  >고장 코드를 다시 판독하여 시스템에 다른 고장이 없는지 확인하십시오.</tu>
+</tm>

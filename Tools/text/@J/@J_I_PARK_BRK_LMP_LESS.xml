@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PARK_BRK_LMP_LESS">
+	<tu xmlns:lang="eng">Without parking brake warning lamp</tu>
+	<tu xmlns:lang="nld">Zonder waarschuwingslamp voor handrem</tu>
+	<tu xmlns:lang="fra">Sans témoin d'avertissement de frein de stationnement</tu>
+	<tu xmlns:lang="deu">Ohne Parkbremsen-Warnleuchte</tu>
+	<tu xmlns:lang="ita">Senza spia luminosa freno di stazionamento</tu>
+	<tu xmlns:lang="jpn">パーキング ブレーキ ワーニング ランプなし</tu>
+	<tu xmlns:lang="ptg">Sem luz de aviso do travão de mão</tu>
+	<tu xmlns:lang="ptb">Sem luz de aviso do freio de estacionamento</tu>
+	<tu xmlns:lang="rus">Без сигнального индикатора стояночного тормоза</tu>
+	<tu xmlns:lang="esp">Sin testigo del freno de estacionamiento</tu>
+	<tu xmlns:lang="chs">无驻车制动报警灯</tu>
+	<tu xmlns:lang="kor">주차 브레이크 경고등 불포함</tu>
+</tm>

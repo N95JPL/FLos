@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ACCEL_ACTUATORS">
+	<tu xmlns:lang="eng">Accelerometer actuators</tu>
+	<tu xmlns:lang="nld">Actuators van de acceleratiemeter</tu>
+	<tu xmlns:lang="fra">Actionneurs d'accéléromètre</tu>
+	<tu xmlns:lang="deu">Stellglieder - Beschleunigungsaufnahme</tu>
+	<tu xmlns:lang="ita">Attuatori accelerometri</tu>
+	<tu xmlns:lang="jpn">加速度計アクチュエータ</tu>
+	<tu xmlns:lang="ptg">Actuadores do acelerómetro</tu>
+	<tu xmlns:lang="ptb">Atuadores do acelerômetro</tu>
+	<tu xmlns:lang="rus">Приводы акселерометров</tu>
+	<tu xmlns:lang="esp">Actuadores del acelerómetro</tu>
+	<tu xmlns:lang="chs">加速计致动器</tu>
+	<tu xmlns:lang="kor">가속도계 액추에이터</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_OPERATE_PLIP">
+	<tu
+    xmlns:lang="eng"
+  >Operate plip unlock button on each plip for a minimum of 8 times until the horn sounds or the lights flash.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk minimaal 8 keer op de ontgrendeltoets van elke afstandsbediening totdat de claxon klinkt of de lichten knipperen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Actionnez le bouton de commande de déverrouillage sur chaque plip au moins 8 fois jusqu'à ce que la sirène retentisse ou que les feux clignotent.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fernbedienungstaste Entriegeln auf jeder Fernbedienung mindestens achtmal betätigen, bis die Hupe ertönt oder die Leuchten blinken.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Azionare il pulsante di sbloccaggio di ciascun telecomando per almeno 8 volte fino a quando l'avvisatore acustico suona o le luci lampeggiano.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ホーンが鳴るか、あるいはライトが点滅するまで、各プリップのプリップ アンロック ボタンを少なくとも 8 回にわたって操作しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Accionar o botão de destrancagem do 'plip' em cada 'plip' 8 vezes no mínimo até a buzina soar ou as luzes piscarem.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Operar o botão de destravamento de flip em cada flip durante um mínimo de 8 vezes até que a buzina soe ou as luzes pisquem.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите кнопку отпирания на каждом пульте не менее 8 раз, пока не включится звуковой сигнал или замигают фары.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Accionar el botón de desbloqueo de cada uno de los mandos a distancia al menos ocho veces hasta que suene la bocina o destellen las luces.</tu>
+	<tu
+    xmlns:lang="chs"
+  >操作每一手持遥控器上的解锁按钮至少8次，直到喇叭响起或灯闪亮。</tu>
+	<tu
+    xmlns:lang="kor"
+  >경음기가 울리거나 조명이 깜박일 때까지 최대 8회 각 플립(Plip)의 플립 잠금 해제 버튼을 작동하십시오.</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TO_SETUP_COMP">
+	<tu xmlns:lang="eng">Terrain response rotary control set-up is complete.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het instellen van de draaiknop voor het 'Terrain response'-systeem is uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La configuration de la commande rotative Terrain Response est terminée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einrichtung des Drehreglers des Terrain-Response-Systems ist abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Impostazione manopola Terrain response completata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >地形レスポンス ロータリー コントロール セットアップが完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Configuração do comando rotativo do Terrain Response concluída.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Configuração do controle giratório do Terrain Response concluída.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Настройка поворотного переключателя режимов реагирования подвески на дорожные условия завершена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha concluido la configuración del mando giratorio terrain response.</tu>
+	<tu xmlns:lang="chs">地形响应旋转控制器设置完成。</tu>
+	<tu xmlns:lang="kor">터레인 리스폰스 로터리 컨트롤 설정이 완료되었습니다.</tu>
+</tm>

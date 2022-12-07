@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ENGINE_COOLING">
+	<tu xmlns:lang="eng">Engine cooling</tu>
+	<tu xmlns:lang="nld">Motorkoeling</tu>
+	<tu xmlns:lang="fra">Refroidissement du moteur</tu>
+	<tu xmlns:lang="deu">Kühler</tu>
+	<tu xmlns:lang="ita">Raffreddamento motore</tu>
+	<tu xmlns:lang="jpn">エ・ジ・ クーリ・グ</tu>
+	<tu xmlns:lang="ptg">Arrefecimento do motor</tu>
+	<tu xmlns:lang="ptb">Arrefecimento do motor</tu>
+	<tu xmlns:lang="rus">Охлаждение двигателя</tu>
+	<tu xmlns:lang="esp">Refrigeración del motor</tu>
+	<tu xmlns:lang="chs">发动机冷却</tu>
+	<tu xmlns:lang="kor">엔진 냉각</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ReRunApplication">
+	<tu xmlns:lang="eng">Re-run the application.</tu>
+	<tu xmlns:lang="nld">De toepassing opnieuw uitvoeren.</tu>
+	<tu xmlns:lang="fra">Exécuter de nouveau l'application.</tu>
+	<tu xmlns:lang="deu">Die Anwendung erneut ausführen.</tu>
+	<tu xmlns:lang="ita">Eseguire nuovamente l'applicazione.</tu>
+	<tu xmlns:lang="jpn">アプリケーションを再度実行します。</tu>
+	<tu xmlns:lang="ptg">Volte a executar a aplicação.</tu>
+	<tu xmlns:lang="ptb">Execute novamente a aplicação.</tu>
+	<tu xmlns:lang="rus">Снова запустите приложение.</tu>
+	<tu xmlns:lang="esp">Vuelva a ejecutar la aplicación.</tu>
+	<tu xmlns:lang="chs">重新运行应用程序。</tu>
+	<tu xmlns:lang="kor">응용 프로그램을 다시 실행하십시오.</tu>
+</tm>

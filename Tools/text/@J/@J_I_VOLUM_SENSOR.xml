@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VOLUM_SENSOR">
+	<tu xmlns:lang="eng">Volumetric sensor</tu>
+	<tu xmlns:lang="nld">Volumetrische sensor</tu>
+	<tu xmlns:lang="fra">Capteur volumétrique.</tu>
+	<tu xmlns:lang="deu">Innenraumüberwachungs-Sensor</tu>
+	<tu xmlns:lang="ita">Sensore volumetrico</tu>
+	<tu xmlns:lang="jpn">ボリメトリック センサー</tu>
+	<tu xmlns:lang="ptg">Sensor volumétrico</tu>
+	<tu xmlns:lang="ptb">Sensor volumétrico</tu>
+	<tu xmlns:lang="rus">Объемный датчик</tu>
+	<tu xmlns:lang="esp">Sensor de protección volumétrica</tu>
+	<tu xmlns:lang="chs">体积检测传感器</tu>
+	<tu xmlns:lang="kor">형체 감지 센서</tu>
+</tm>

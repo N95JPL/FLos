@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EU_TYPE">
+	<tu xmlns:lang="eng">EU type</tu>
+	<tu xmlns:lang="nld">EU-type</tu>
+	<tu xmlns:lang="fra">Type EU</tu>
+	<tu xmlns:lang="deu">EU Typ</tu>
+	<tu xmlns:lang="ita">Tipo EU</tu>
+	<tu xmlns:lang="jpn">EU タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo UE</tu>
+	<tu xmlns:lang="ptb">Tipo da UE</tu>
+	<tu xmlns:lang="rus">Тип ЕС</tu>
+	<tu xmlns:lang="esp">Tipo EU</tu>
+	<tu xmlns:lang="chs">欧盟类型</tu>
+	<tu xmlns:lang="kor">EU 유형</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KEYLESS_ENT_ST_LESS_CH">
+	<tu xmlns:lang="eng">Keyless entry and start, less re-charging</tu>
+	<tu
+    xmlns:lang="nld"
+  >Instappen en starten zonder sleutel, zonder opnieuw opladen</tu>
+	<tu xmlns:lang="fra">Entrée et démarrage sans clé, moins recharge</tu>
+	<tu
+    xmlns:lang="deu"
+  >Keyless Entry und Keyless Start (schlüsselloser Zugang und Start), ohne Nachladen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema di accesso e avviamento senza chiave, meno ricarica</tu>
+	<tu xmlns:lang="jpn">キーレス エントリーおよびスタート、再充電なし</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de entrada e arranque sem chave, sem recarregamento</tu>
+	<tu xmlns:lang="ptb">Entrada e partida sem chave, menos recarga</tu>
+	<tu xmlns:lang="rus">Доступ и запуск без ключа, без подзарядки</tu>
+	<tu xmlns:lang="esp">Acceso y arranque sin llave, menos recarga</tu>
+	<tu xmlns:lang="chs">免匙进入和启动，不含充电</tu>
+	<tu xmlns:lang="kor">키리스 엔트리 및 시동, 재충전 제외</tu>
+</tm>

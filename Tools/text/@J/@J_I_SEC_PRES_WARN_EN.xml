@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SEC_PRES_WARN_EN">
+	<tu xmlns:lang="eng">Second press warning chirp enabled</tu>
+	<tu
+    xmlns:lang="nld"
+  >Waarschuwingssignaal bij tweede keer indrukken ingeschakeld</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une alerte sonore retentit lors de la seconde pression.</tu>
+	<tu xmlns:lang="deu">Warnsignal bei zweitem Drücken aktiviert</tu>
+	<tu
+    xmlns:lang="ita"
+  >Segnale acustico di avvertenza seconda pressione abilitato</tu>
+	<tu xmlns:lang="jpn">2 回押し警告音作動可設定済み</tu>
+	<tu xmlns:lang="ptg">Aviso sonoro de segundo toque activado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sinal sonoro de aviso do segundo pressionamento ativado</tu>
+	<tu
+    xmlns:lang="rus"
+  >При втором нажатии включается предупреждающий звуковой сигнал</tu>
+	<tu xmlns:lang="esp">Segundo chirrido de aviso de presión activado</tu>
+	<tu xmlns:lang="chs">第二次按压报警鸣音已启用</tu>
+	<tu xmlns:lang="kor">활성화된 경고음을 두 번째로 누르십시오.</tu>
+</tm>

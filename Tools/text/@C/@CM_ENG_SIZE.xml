@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_ENG_SIZE">
+	<tu xmlns:lang="eng">Engine size.</tu>
+	<tu xmlns:lang="nld">Motorslagvolume</tu>
+	<tu xmlns:lang="fra">Cylindrée moteur</tu>
+	<tu xmlns:lang="deu">Hubraum</tu>
+	<tu xmlns:lang="ita">Capacità del motore</tu>
+	<tu xmlns:lang="jpn">ｴﾝｼﾞﾝ排気量：</tu>
+	<tu xmlns:lang="ptg">Tamanho do motor.</tu>
+	<tu xmlns:lang="ptb">Tamanho do motor.</tu>
+	<tu xmlns:lang="rus">Размер двигателя.</tu>
+	<tu xmlns:lang="esp">Tamaño del motor</tu>
+	<tu xmlns:lang="chs">发动机规格。</tu>
+	<tu xmlns:lang="kor">엔진 크기.</tu>
+</tm>

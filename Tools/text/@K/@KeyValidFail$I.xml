@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KeyValidFail$I">
+	<tu xmlns:lang="eng">Failed to validate the key.</tu>
+	<tu xmlns:lang="nld">Het systeem heeft de sleutel niet goedgekeurd.</tu>
+	<tu xmlns:lang="fra">Echec de validation de la clé.</tu>
+	<tu xmlns:lang="deu">Schlüssel konnte nicht für gültig erklärt werden.</tu>
+	<tu xmlns:lang="ita">Impossibile convalidare la chiave.</tu>
+	<tu xmlns:lang="jpn">キーの正当性確認に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Validação da chave falhou.</tu>
+	<tu xmlns:lang="ptb">Falha ao verificar a chave</tu>
+	<tu xmlns:lang="rus">Не удалось проверить ключ.</tu>
+	<tu xmlns:lang="esp">No se pudo validar la llave.</tu>
+	<tu xmlns:lang="chs">未能验证该钥匙。</tu>
+	<tu xmlns:lang="kor">키 확인 실패</tu>
+</tm>

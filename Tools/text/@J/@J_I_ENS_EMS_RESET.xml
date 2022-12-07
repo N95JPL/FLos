@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENS_EMS_RESET">
+	<tu
+    xmlns:lang="eng"
+  >This will ensure that all engine management system adaptions are reset.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hiermee wordt het terugstellen van alle aanpassingen van het motormanagementsysteem gewaarborgd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ceci permettra la réinitialisation de l'ensemble des adaptations des systèmes de gestion du moteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dies gewährleistet, dass alle Anpassungen des Motormanagementsystems rückgesetzt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questo garantisce che tutti gli adattamenti del sistema di gestione motore siano azzerati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これにより、全エンジン マネジメント システム補正のリセットが確実に行われます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Isto garante que todas as adaptações do sistema de gestão do motor são repostas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso irá assegurar que todas as adaptações do sistema de gerenciamento do motor serão redefinidas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это обеспечивает сброс всех параметров системы управления двигателем, которые требуется изменить.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Eso asegurará que se repongan todas las adaptaciones del sistema de gestión del motor.</tu>
+	<tu xmlns:lang="chs">这将确保发动机管理系统的所有适应值都被重置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이를 통해 모든 엔진 관리 시스템 어댑테이션이 재설정되도록 합니다.</tu>
+</tm>

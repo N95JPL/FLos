@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_BACKUP">
+	<tu xmlns:lang="eng">Backup</tu>
+	<tu xmlns:lang="nld">Back-up</tu>
+	<tu xmlns:lang="fra">Sauvegarde</tu>
+	<tu xmlns:lang="deu">Sicherung</tu>
+	<tu xmlns:lang="ita">Backup</tu>
+	<tu xmlns:lang="jpn">バックアップ</tu>
+	<tu xmlns:lang="ptg">Cópia de segurança</tu>
+	<tu xmlns:lang="ptb">Backup</tu>
+	<tu xmlns:lang="rus">Резервная копия</tu>
+	<tu xmlns:lang="esp">Copia de seguridad</tu>
+	<tu xmlns:lang="chs">备份</tu>
+	<tu xmlns:lang="kor">백업</tu>
+</tm>

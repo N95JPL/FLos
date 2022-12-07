@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_DAMPER_RHF">
+	<tu xmlns:lang="eng">Front right damper</tu>
+	<tu xmlns:lang="nld">Schokdemper rechts voor</tu>
+	<tu xmlns:lang="fra">Amortisseur avant droit</tu>
+	<tu xmlns:lang="deu">Dämpfer vorn rechts</tu>
+	<tu xmlns:lang="ita">Ammortizzatore anteriore destro</tu>
+	<tu xmlns:lang="jpn">右側フロ・ト ダ・パ</tu>
+	<tu xmlns:lang="ptg">Amortecedor dianteiro direito</tu>
+	<tu xmlns:lang="ptb">Amortecimento dianteiro direito</tu>
+	<tu xmlns:lang="rus">Передний правый амортизатор</tu>
+	<tu xmlns:lang="esp">Amortiguador delantero derecho</tu>
+	<tu xmlns:lang="chs">右前减振器</tu>
+	<tu xmlns:lang="kor">프론트 우측 댐퍼</tu>
+</tm>

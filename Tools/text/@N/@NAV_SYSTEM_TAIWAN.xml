@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NAV_SYSTEM_TAIWAN">
+	<tu xmlns:lang="eng">Navigation system for Taiwan</tu>
+	<tu xmlns:lang="nld">Navigatiesysteem voor Taiwan</tu>
+	<tu xmlns:lang="fra">Système de navigation destiné à Taïwan</tu>
+	<tu xmlns:lang="deu">Navigationssystem für Taiwan</tu>
+	<tu xmlns:lang="ita">Sistema di navigazione per Taiwan</tu>
+	<tu xmlns:lang="jpn">台湾仕様ナビゲーション システム</tu>
+	<tu xmlns:lang="ptg">Sistema de navegação para Tailândia</tu>
+	<tu xmlns:lang="ptb">Sistema de navegação para Taiwan</tu>
+	<tu xmlns:lang="rus">Навигационная система для рынка Тайваня</tu>
+	<tu xmlns:lang="esp">Sistema de navegación para Taiwán</tu>
+	<tu xmlns:lang="chs">台湾导航系统</tu>
+	<tu xmlns:lang="kor">대만용 내비게이션 시스템</tu>
+</tm>

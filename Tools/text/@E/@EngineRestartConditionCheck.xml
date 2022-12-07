@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineRestartConditionCheck">
+	<tu xmlns:lang="eng">Engine restart condition check</tu>
+	<tu xmlns:lang="nld">Controle herstartvoorwaarde motor</tu>
+	<tu xmlns:lang="fra">Contrôler les conditions de redémarrage du moteur</tu>
+	<tu xmlns:lang="deu">Prüfung Motor-Neustart-Bedingungen</tu>
+	<tu xmlns:lang="ita">Controllo stato riavvio del motore</tu>
+	<tu xmlns:lang="jpn">エンジン再始動条件の確認</tu>
+	<tu xmlns:lang="ptg">Verificação da condição do arranque do motor</tu>
+	<tu xmlns:lang="ptb">Verificação da condição de nova partida do motor</tu>
+	<tu xmlns:lang="rus">Проверка состояния повторного запуска двигателя</tu>
+	<tu xmlns:lang="esp">Comprobación del estado de arranque del motor</tu>
+	<tu xmlns:lang="chs">发动机重新起动条件检查</tu>
+	<tu xmlns:lang="kor">엔진 재시동 상태 점검</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_GAUGES_WARNING_DEVICES">
+	<tu xmlns:lang="eng">Gauges and warning devices</tu>
+	<tu xmlns:lang="nld">Meters en waarschuwingsvoorzieningen</tu>
+	<tu xmlns:lang="fra">Jauges et dispositifs d'avertissement</tu>
+	<tu xmlns:lang="deu">Anzeige- und warngeräte</tu>
+	<tu xmlns:lang="ita">Indicatori e dispositivi di avviso </tu>
+	<tu xmlns:lang="jpn">ゲージおよび警告デバイス</tu>
+	<tu xmlns:lang="ptg">Indicadores e dispositivos de aviso</tu>
+	<tu xmlns:lang="ptb">Medidores e dispositivos de aviso</tu>
+	<tu
+    xmlns:lang="rus"
+  >Измерительные устройства и устройства предупредительной сигнализации</tu>
+	<tu xmlns:lang="esp">Indicadores y testigos</tu>
+	<tu xmlns:lang="chs">量表和报警装置</tu>
+	<tu xmlns:lang="kor">게이지 및 경고 장치</tu>
+</tm>

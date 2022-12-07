@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_VARIANT_CODING_EXIT">
+	<tu
+    xmlns:lang="eng"
+  >Press the cross to leave hydraulic brake assistance sensitivity unchanged.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op het kruisje om de gevoeligheid van de hydraulische rembekrachtiging te laten zoals hij nu is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la croix pour laisser la sensibilité de l'assistance au freinage hydraulique inchangée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Kreuz antippen, um die Sensitivität des hydraulischen Bremskraftverstärkers unverändert zu lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il tasto con la crocetta per lasciare la sensibilità del servofreno idraulico invariata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ハイドロリック ブレーキ アシスト感度を変更しないでおく場合は × を押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima a cruz para deixar a sensibilidade do sistema de assistência à travagem hidráulica inalterada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione a cruzeta para deixar a assistência à sensibilidade do freio hidráulico inalterada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите на крестик, чтобы оставить чувствительность гидравлической системы помощи при торможении неизменной.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar la cruz para dejar sin modificar la sensibilidad de la asistencia hidráulica al freno.</tu>
+	<tu xmlns:lang="chs">按叉号让液压制动辅助敏感度保持不变。</tu>
+	<tu
+    xmlns:lang="kor"
+  >유압 브레이크 보조 감도를 변경하지 않은 채로 두려면 십자() 기호를 누르십시오.</tu>
+</tm>

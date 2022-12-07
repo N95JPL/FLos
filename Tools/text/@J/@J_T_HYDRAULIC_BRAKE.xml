@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_HYDRAULIC_BRAKE">
+	<tu xmlns:lang="eng">206-06 Hydraulic brake actuation</tu>
+	<tu xmlns:lang="nld">206-06 Bediening hydraulische remmen</tu>
+	<tu xmlns:lang="fra">206-06 Actionnement des freins hydrauliques</tu>
+	<tu xmlns:lang="deu">206-06 Hydraulisches Bremssystem</tu>
+	<tu xmlns:lang="ita">206-06 Attuazione freno idraulico</tu>
+	<tu xmlns:lang="jpn">206-06 ハイドロリック ブレーキ作動</tu>
+	<tu xmlns:lang="ptg">206-06 Accionamento do travão hidráulico</tu>
+	<tu xmlns:lang="ptb">206-06 Atuação de freio hidráulico</tu>
+	<tu xmlns:lang="rus">206-06 Активация гидравлического тормоза</tu>
+	<tu xmlns:lang="esp">206-06 Accionamiento de frenos hidráulicos</tu>
+	<tu xmlns:lang="chs">206-06液压制动启动</tu>
+	<tu xmlns:lang="kor">206-06 유압 브레이크 작동</tu>
+</tm>

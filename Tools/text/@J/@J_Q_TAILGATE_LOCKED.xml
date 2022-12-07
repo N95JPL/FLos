@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_TAILGATE_LOCKED">
+	<tu xmlns:lang="eng">Is the tailgate door locked?</tu>
+	<tu xmlns:lang="nld">Is de achterklep vergrendeld?</tu>
+	<tu xmlns:lang="fra">Le hayon est-il verrouillé ?</tu>
+	<tu xmlns:lang="deu">Ist die Hecktür verriegelt?</tu>
+	<tu xmlns:lang="ita">Il portellone è bloccato?</tu>
+	<tu xmlns:lang="jpn">テールゲート ドアはロックされていますか？</tu>
+	<tu xmlns:lang="ptg">A porta da retaguarda está trancada?</tu>
+	<tu xmlns:lang="ptb">A tampa traseira da porta está travada?</tu>
+	<tu xmlns:lang="rus">Заперта ли дверь багажного отделения?</tu>
+	<tu xmlns:lang="esp">¿Está bloqueado el portón trasero?</tu>
+	<tu xmlns:lang="chs">尾门是否锁闭？</tu>
+	<tu xmlns:lang="kor">테일게이트 도어가 잠깁니까?</tu>
+</tm>

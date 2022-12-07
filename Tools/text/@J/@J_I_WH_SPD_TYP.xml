@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WH_SPD_TYP">
+	<tu xmlns:lang="eng">Wheel speed sensor type</tu>
+	<tu xmlns:lang="nld">Type wielsnelheidssensor</tu>
+	<tu xmlns:lang="fra">Type de capteur de vitesse de roue</tu>
+	<tu xmlns:lang="deu">Raddrehzahlsensortyp</tu>
+	<tu xmlns:lang="ita">Tipo sensori velocità ruote</tu>
+	<tu xmlns:lang="jpn">ホイール スピード センサー タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de sensor de velocidade da roda</tu>
+	<tu xmlns:lang="ptb">Tipo de sensor de velocidade da roda</tu>
+	<tu xmlns:lang="rus">Тип датчика частоты вращения колеса</tu>
+	<tu xmlns:lang="esp">Tipo de sensor de velocidad de la rueda</tu>
+	<tu xmlns:lang="chs">车轮转速传感器类型</tu>
+	<tu xmlns:lang="kor">휠 속도 센서 유형</tu>
+</tm>

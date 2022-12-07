@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BI_FUEL">
+	<tu xmlns:lang="eng">Bi-fuel</tu>
+	<tu xmlns:lang="nld">Benzine-/gasmotor</tu>
+	<tu xmlns:lang="fra">Bicarburation</tu>
+	<tu xmlns:lang="deu">Bi-Fuel</tu>
+	<tu xmlns:lang="ita">Bi-fuel</tu>
+	<tu xmlns:lang="jpn">バイフューエル</tu>
+	<tu xmlns:lang="ptg">Bicombustível</tu>
+	<tu xmlns:lang="ptb">Flex</tu>
+	<tu xmlns:lang="rus">Двухтопливный</tu>
+	<tu xmlns:lang="esp">Bicombustible</tu>
+	<tu xmlns:lang="chs">双燃料</tu>
+	<tu xmlns:lang="kor">바이퓨얼</tu>
+</tm>

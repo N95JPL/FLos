@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart232">
+	<tu xmlns:lang="eng">Primary 12 volt battery state of charge too low</tu>
+	<tu xmlns:lang="nld">Laadtoestand van primaire 12 V-accu te laag</tu>
+	<tu
+    xmlns:lang="fra"
+  >État de charge de la batterie principale 12 volts trop faible</tu>
+	<tu xmlns:lang="deu">Ladezustand der 12-Volt-Hauptbatterie zu niedrig</tu>
+	<tu
+    xmlns:lang="ita"
+  >Stato di carica della batteria principale da 12 V troppo basso</tu>
+	<tu xmlns:lang="jpn">プライマリ 12 ボルト バッテリーの充電状態が低すぎる</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Estado de carga da bateria primária de 12 V demasiado baixa</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Estado de carga da bateria primária de 12 V muito baixo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Слишком низкий заряд основной 12-вольтовой аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Estado de carga insuficiente de la batería principal de 12 voltios</tu>
+	<tu xmlns:lang="chs">12 伏主蓄电池电量过低</tu>
+	<tu xmlns:lang="kor">기본 12V 배터리 충전 상태가 너무 낮음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_NO_DATA">
+	<tu xmlns:lang="eng">No data available for this module</tu>
+	<tu xmlns:lang="nld">Geen gegevens beschikbaar voor deze module</tu>
+	<tu xmlns:lang="fra">Aucune donnée disponible pour ce module</tu>
+	<tu xmlns:lang="deu">Keine Daten für dieses Steuergerät verfügbar</tu>
+	<tu xmlns:lang="ita">Non sono disponibili dati per questo modulo</tu>
+	<tu xmlns:lang="jpn">このモジュール用のデータはありません。</tu>
+	<tu xmlns:lang="ptg">Dados indisponíveis para este módulo</tu>
+	<tu xmlns:lang="ptb">Não há dados disponíveis para este módulo</tu>
+	<tu xmlns:lang="rus">Для этого модуля данных нет</tu>
+	<tu xmlns:lang="esp">No se dispone de datos para este módulo</tu>
+	<tu xmlns:lang="chs">没有此模块的可用数据</tu>
+	<tu xmlns:lang="kor">이 모듈에 사용 가능한 데이터 없음</tu>
+</tm>

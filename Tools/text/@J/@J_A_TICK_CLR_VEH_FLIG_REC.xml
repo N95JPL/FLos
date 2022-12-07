@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_TICK_CLR_VEH_FLIG_REC">
+	<tu xmlns:lang="eng">Press tick to clear the vehicle flight recorder data.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op het vinkje om de ritrecordergegevens te wissen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la coche pour effacer les données de l'enregistreur de bord du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Häkchen antippen, um Daten der Crash-Aufzeichnung des Fahrzeugs zu löschen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il tasto di spunta per cancellare i dati di flight recorder.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ティックを押して、車両のフライト レコーダー データをクリアしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima o sinal de confirmação para apagar os dados do registador de viagem (caixa negra) do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione OK para apagar os dados do gravador de voo do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите галочку для сброса данных бортового регистратора.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar la marca de verificación para borrar los datos de la caja negra del vehículo.</tu>
+	<tu xmlns:lang="chs">请选勾号来清除车辆飞行记录器数据。</tu>
+	<tu
+    xmlns:lang="kor"
+  >체크 표시를 눌러서 차량 블랙박스 데이터를 삭제하십시오.</tu>
+</tm>

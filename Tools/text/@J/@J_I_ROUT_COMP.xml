@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_COMP">
+	<tu xmlns:lang="eng">Routine completed.</tu>
+	<tu xmlns:lang="nld">Routine uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Programme terminé.</tu>
+	<tu xmlns:lang="deu">Routine abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Procedura completata.</tu>
+	<tu xmlns:lang="jpn">ルーチン完了</tu>
+	<tu xmlns:lang="ptg">Rotina concluída.</tu>
+	<tu xmlns:lang="ptb">Rotina concluída.</tu>
+	<tu xmlns:lang="rus">Программа завершена.</tu>
+	<tu xmlns:lang="esp">Rutina concluida.</tu>
+	<tu xmlns:lang="chs">常规程序已完成。</tu>
+	<tu xmlns:lang="kor">절차가 완료됨</tu>
+</tm>

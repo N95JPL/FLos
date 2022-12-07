@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PILOT_CORR_LRN">
+	<tu xmlns:lang="eng">Pilot correction learning</tu>
+	<tu xmlns:lang="nld">Inleren van pilot-correctie</tu>
+	<tu xmlns:lang="fra">Apprentissage de la correction pilote</tu>
+	<tu xmlns:lang="deu">Erlernung Voreinspritzungskorrektur</tu>
+	<tu xmlns:lang="ita">Apprendimento della correzione pilota</tu>
+	<tu xmlns:lang="jpn">パイロット補正学習</tu>
+	<tu xmlns:lang="ptg">Programação de correcção da luz piloto</tu>
+	<tu xmlns:lang="ptb">Aprendizagem de correção do piloto</tu>
+	<tu xmlns:lang="rus">Занесение в память корректировки поворотных фар</tu>
+	<tu xmlns:lang="esp">Aprendizaje de corrección del piloto</tu>
+	<tu xmlns:lang="chs">试验性校正记忆</tu>
+	<tu xmlns:lang="kor">파일럿 보정 학습</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INFO_CTR_MOD">
+	<tu xmlns:lang="eng">Information center module</tu>
+	<tu xmlns:lang="nld">Regelmodule van informatiecentrum</tu>
+	<tu xmlns:lang="fra">Module du centre d'information</tu>
+	<tu xmlns:lang="deu">Steuergerät Fahrerinformationssystem</tu>
+	<tu xmlns:lang="ita">Modulo centrale informazioni</tu>
+	<tu xmlns:lang="jpn">インフォメーション センター モジュール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >São necessários pelo menos 2 cursos completos do pedal (os cursos que bombeiam ar em vez de fluido não devem ser contados).</tu>
+	<tu xmlns:lang="ptb">Módulo da central de informação</tu>
+	<tu xmlns:lang="rus">Блок информационного центра</tu>
+	<tu xmlns:lang="esp">Módulo del centro de información</tu>
+	<tu xmlns:lang="chs">信息中心模块</tu>
+	<tu xmlns:lang="kor">정보 센터 모듈</tu>
+</tm>

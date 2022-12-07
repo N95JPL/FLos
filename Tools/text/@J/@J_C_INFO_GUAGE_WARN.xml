@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_INFO_GUAGE_WARN">
+	<tu xmlns:lang="eng">Information, gauge and warning group</tu>
+	<tu xmlns:lang="nld">Informatie, meter en waarschuwingsgroep</tu>
+	<tu xmlns:lang="fra">Groupe informations, jauges et temoins</tu>
+	<tu xmlns:lang="deu">Instrumente für information, anzeige und warnung</tu>
+	<tu xmlns:lang="ita">Gruppo spie, indicatori, informazioni</tu>
+	<tu xmlns:lang="jpn">イ・フォメーショ・、ゲージおよび警告グループ</tu>
+	<tu xmlns:lang="ptg">Grupo de aviso, indicadores e informação</tu>
+	<tu xmlns:lang="ptb">Grupo de informações, medidor e alerta</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данные, группа датчиков и устройств предупредительной сигнализации</tu>
+	<tu xmlns:lang="esp">Grupo de información, indicadores y testigos</tu>
+	<tu xmlns:lang="chs">‘信息、量表和报警组’</tu>
+	<tu xmlns:lang="kor">정보, 게이지 및 경고 그룹</tu>
+</tm>

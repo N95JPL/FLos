@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_TYPE_02">
+	<tu xmlns:lang="eng">H5 60Ah 520 cold cranking ampere</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stroomsterkte bij aanslaan van motor bij koude start 520 A, H5 60Ah </tu>
+	<tu xmlns:lang="fra">H5 60 Ah 520 ampères au lancement à froid </tu>
+	<tu xmlns:lang="deu">H5 60 Ah 520 Kaltstartampere </tu>
+	<tu xmlns:lang="ita">Amperaggio avviamento a freddo H5 60Ah 520</tu>
+	<tu xmlns:lang="jpn">H5 60Ah 520 コールド クランキング アンペア</tu>
+	<tu xmlns:lang="ptg">H5 60Ah 520 amperagem de arranque a frio</tu>
+	<tu xmlns:lang="ptb">Amperagem de partida a frio H5 60Ah 520</tu>
+	<tu xmlns:lang="rus">H5 60 Ач, ток холодного пуска двигателя 520 А </tu>
+	<tu xmlns:lang="esp">H5 60Ah con 520 A de capacidad de arranque en frío</tu>
+	<tu xmlns:lang="chs">H5 60Ah 520 冷起动电流</tu>
+	<tu xmlns:lang="kor">H5 60Ah 520 냉간 크랭킹 암페어</tu>
+</tm>

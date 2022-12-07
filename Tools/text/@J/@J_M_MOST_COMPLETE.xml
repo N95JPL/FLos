@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_MOST_COMPLETE">
+	<tu xmlns:lang="eng">Security on MOST configuration completed.</tu>
+	<tu xmlns:lang="nld">De beveiliging van de MOST-configuratie is afgerond.</tu>
+	<tu xmlns:lang="fra">Sécurité sur la configuration MOST terminée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Konfiguration - MOST-Sicherheitseinschaltung abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Sicurezza su configurazione MOST completata.</tu>
+	<tu xmlns:lang="jpn">MOST セキュリティ コンフィギュレーション完了</tu>
+	<tu xmlns:lang="ptg">A segurança na configuração do MOST está concluída.</tu>
+	<tu xmlns:lang="ptb">Segurança na configuração MOST concluída.</tu>
+	<tu xmlns:lang="rus">Защита конфигурации сети MOST установлена.</tu>
+	<tu xmlns:lang="esp">Seguridad en la configuración del MOST concluida.</tu>
+	<tu xmlns:lang="chs">MOST安全配置已完成。</tu>
+	<tu xmlns:lang="kor">MOST 보안 구성 완료</tu>
+</tm>

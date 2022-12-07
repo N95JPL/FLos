@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_REM_BRK_ASSIST">
+	<tu xmlns:lang="eng">Brake assist</tu>
+	<tu xmlns:lang="nld">Noodstopbekrachtiging</tu>
+	<tu xmlns:lang="fra">Assistance de freinage.</tu>
+	<tu xmlns:lang="deu">Bremsunterstützung</tu>
+	<tu xmlns:lang="ita">Servofreno</tu>
+	<tu xmlns:lang="jpn">ブレーキ アシスト</tu>
+	<tu xmlns:lang="ptg">Assistência à travagem</tu>
+	<tu xmlns:lang="ptb">Assistência a frenagens</tu>
+	<tu xmlns:lang="rus">Система помощи при торможении</tu>
+	<tu xmlns:lang="esp">Asistencia al frenado</tu>
+	<tu xmlns:lang="chs">制动辅助</tu>
+	<tu xmlns:lang="kor">브레이크 어시스트</tu>
+</tm>

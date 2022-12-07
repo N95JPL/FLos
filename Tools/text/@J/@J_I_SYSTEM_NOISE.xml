@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SYSTEM_NOISE">
+	<tu xmlns:lang="eng">System noises</tu>
+	<tu xmlns:lang="nld">Systeemgeluiden</tu>
+	<tu xmlns:lang="fra">Bruits de système</tu>
+	<tu xmlns:lang="deu">Systemgeräusche</tu>
+	<tu xmlns:lang="ita">Rumori dal sistema</tu>
+	<tu xmlns:lang="jpn">システム ノイズ</tu>
+	<tu xmlns:lang="ptg">Ruídos do sistema</tu>
+	<tu xmlns:lang="ptb">Ruídos do sistema</tu>
+	<tu xmlns:lang="rus">Шум системы</tu>
+	<tu xmlns:lang="esp">Ruidos del sistema</tu>
+	<tu xmlns:lang="chs">系统噪音</tu>
+	<tu xmlns:lang="kor">시스템 소음</tu>
+</tm>

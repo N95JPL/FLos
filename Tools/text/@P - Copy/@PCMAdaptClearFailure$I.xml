@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PCMAdaptClearFailure$I">
+	<tu xmlns:lang="eng">Adaption clear failure.</tu>
+	<tu xmlns:lang="nld">Wissen van de aanpassing is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de l'effacement de l'adaptation.</tu>
+	<tu xmlns:lang="deu">Löschung - Anpassungswerte nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Azzeramento adattamento non riuscito.</tu>
+	<tu xmlns:lang="jpn">補正クリア失敗</tu>
+	<tu xmlns:lang="ptg">Falha ao apagar adaptação.</tu>
+	<tu xmlns:lang="ptb">Falha no processo de apagar a adaptação.</tu>
+	<tu xmlns:lang="rus">Ошибка удаления значений адаптации.</tu>
+	<tu xmlns:lang="esp">Fallo del borrado de adaptaciones.</tu>
+	<tu xmlns:lang="chs">自适应清除故障。</tu>
+	<tu xmlns:lang="kor">어댑테이션 삭제 실패</tu>
+</tm>

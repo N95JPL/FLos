@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_VEHICLE_LOCKED_30_MINS">
+	<tu
+    xmlns:lang="eng"
+  >The vehicle must be left locked for at least thirty minutes</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voertuig moet gedurende minstens dertig minuten vergrendeld blijven</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule doit rester verrouillé pendant trente minutes minimum</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug muss mindestens 30 Minuten lang verriegelt bleiben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La vettura deve essere lasciata bloccata per almeno trenta minuti</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両を少なくとも 30 分間ロックしておかなければなりません</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo deve ser mantido trancado durante, pelo menos, 30 minutos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo deve ser deixado travado por pelo menos trinta minutos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль должен оставаться запертым не менее тридцати минут</tu>
+	<tu
+    xmlns:lang="esp"
+  >Hay que mantener el vehículo bloqueado durante treinta minutos como mínimo</tu>
+	<tu xmlns:lang="chs">必须让车辆处于锁闭状态至少三十分钟</tu>
+	<tu xmlns:lang="kor">30분 이상 차량을 잠근 채로 두어야 합니다.</tu>
+</tm>

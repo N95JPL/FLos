@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FuelPrimeRoutine$I">
+	<tu xmlns:lang="eng">Fuel prime routine</tu>
+	<tu xmlns:lang="nld">Routine voor brandstoftoevoer</tu>
+	<tu xmlns:lang="fra">Procédure d'amorçage de l'alimentation en carburant</tu>
+	<tu xmlns:lang="deu">Kraftstoff-Vorbefüllroutine</tu>
+	<tu xmlns:lang="ita">Procedura di adescamento del carburante</tu>
+	<tu xmlns:lang="jpn">フューエル プライム ルーチン</tu>
+	<tu xmlns:lang="ptg">Rotina de ferragem do sistema de combustível</tu>
+	<tu xmlns:lang="ptb">Rotina principal de combustível</tu>
+	<tu xmlns:lang="rus">Заливка насоса</tu>
+	<tu xmlns:lang="esp">Rutina de cebado de combustible</tu>
+	<tu xmlns:lang="chs">燃油预备常规程序</tu>
+	<tu xmlns:lang="kor">연료 프라이밍 절차</tu>
+</tm>

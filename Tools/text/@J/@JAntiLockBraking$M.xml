@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JAntiLockBraking$M">
+	<tu xmlns:lang="eng">Anti-lock braking</tu>
+	<tu xmlns:lang="nld">Anti-blokkeerremsysteem</tu>
+	<tu xmlns:lang="fra">Freinage antiblocage</tu>
+	<tu xmlns:lang="deu">Antiblockiersystem</tu>
+	<tu xmlns:lang="ita">Frenatura ad antibloccaggio</tu>
+	<tu xmlns:lang="jpn">ｱﾝﾁﾛｯｸ・ﾌﾞﾚーｷﾝｸﾞ</tu>
+	<tu xmlns:lang="ptg">Sistema de travagem antibloqueio</tu>
+	<tu xmlns:lang="ptb">Frenagem antibloqueio</tu>
+	<tu xmlns:lang="rus">Антиблокировочная система тормозов</tu>
+	<tu xmlns:lang="esp">Frenos antibloqueo</tu>
+	<tu xmlns:lang="chs">防抱死制动 (ABS)</tu>
+	<tu xmlns:lang="kor">ABS</tu>
+</tm>

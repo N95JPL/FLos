@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Hot$PCMD">
+	<tu xmlns:lang="eng">Powertrain control module  -  Diesel</tu>
+	<tu xmlns:lang="nld">Regelmodule van de aandrijflijn  -  Diesel</tu>
+	<tu xmlns:lang="fra">Module de commande du groupe motopropulseur  -  Diesel</tu>
+	<tu xmlns:lang="deu">Antriebsstrang-Steuermodul  -  Diesel</tu>
+	<tu xmlns:lang="ita">Modulo di comando catena cinematica  -  Diesel</tu>
+	<tu xmlns:lang="jpn">パワートレーン コントロール モジュール  －  ディーゼル</tu>
+	<tu xmlns:lang="ptg">Módulo de comando do grupo motopropulsor.  -  Diesel</tu>
+	<tu xmlns:lang="ptb">Módulo de controle do powertrain  -  Diesel</tu>
+	<tu xmlns:lang="rus">Блок управления силовым агрегатом  -  Дизель</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control del grupo motor y transmisión  -  Diesel</tu>
+	<tu xmlns:lang="chs">传动系控制模块  -  柴油机</tu>
+	<tu xmlns:lang="kor">파워트레인 컨트롤 모듈  -  디젤</tu>
+</tm>

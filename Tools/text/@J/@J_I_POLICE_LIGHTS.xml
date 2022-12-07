@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_POLICE_LIGHTS">
+	<tu xmlns:lang="eng">Police lamps.</tu>
+	<tu xmlns:lang="nld">Politielampen.</tu>
+	<tu xmlns:lang="fra">Feux de police.</tu>
+	<tu xmlns:lang="deu">Polizeibeleuchtung.</tu>
+	<tu xmlns:lang="ita">Luci su tetto.</tu>
+	<tu xmlns:lang="jpn">ポリス ライト</tu>
+	<tu xmlns:lang="ptg">Luzes de polícia.</tu>
+	<tu xmlns:lang="ptb">Luzes de polícia.</tu>
+	<tu xmlns:lang="rus">Полицейские мигалки.</tu>
+	<tu xmlns:lang="esp">Luces de policía.</tu>
+	<tu xmlns:lang="chs">警灯。</tu>
+	<tu xmlns:lang="kor">경찰 램프</tu>
+</tm>

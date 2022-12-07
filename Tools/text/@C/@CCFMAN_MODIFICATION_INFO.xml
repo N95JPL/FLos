@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_MODIFICATION_INFO">
+	<tu
+    xmlns:lang="eng"
+  >The next screen will show the current option settings for the car configuration file, where a parameter is editable it will be selectable and highlighted white. If required its value can be changed in the bottom section of the screen.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het volgende scherm zal de huidige optie-instellingen voor het voertuigconfiguratiebestand laten zien, waarbij een parameter die kan worden bewerkt wit wordt afgebeeld en kan worden geselecteerd. Zo nodig kan de waarde ervan worden veranderd in het onderste deel van het scherm.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'écran suivant montrera les paramètres actuels des options pour le fichier de configuration du véhicule ; si un paramètre peut être modifié, il sera sélectionnable et surligné en blanc. Si nécessaire, sa valeur peut être changée dans la partie inférieure de l'écran.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der nächste Bildschirm zeigt die gewählten aktuellen Einstellungen für die Fahrzeug-Konfigurationsdatei. Wenn ein Parameter bearbeitet werden kann, kann er ausgewählt werden und wird weiß markiert dargestellt. Falls erforderlich, kann der Wert im unteren Abschnitt des Bildschirms abgeändert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La schermata successiva mostra le impostazioni opzionali correnti per il file di configurazione veicolo, se è possibile modificare un parametro questo sarà selezionabile ed evidenziato in bianco. Se necessario, è possibile modificarne il valore nella sezione inferiore della schermata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の画面は車両コンフィギュレーション ファイルの現在のオプション セッティングを表\示します。ここではパラメータは白で反転表\示され、選択して編集することができます。必要に応じてその数値を画面下部セクションで変更することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O ecrã seguinte mostrará as definições da opção actual para o ficheiro de configuração do veículo; os parâmetros que é possível editar podem ser seleccionados e realçados a branco. Se necessário, é possível alterar o seu valor na secção inferior do ecrã.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A próxima tela mostrará as configurações da opção atual do arquivo de configuração do carro, em que um parâmetro editável poderá ser selecionado e está realçado em branco. Se necessário, seu valor poderá ser alterado na seção inferior da tela.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На следующем экране отображаются настройки текущего варианта для файла конфигурации автомобиля, где редактируемый параметр отмечается белым цветом и доступен для выбора. При необходимости его значение можно изменить в нижней части экрана.</tu>
+	<tu
+    xmlns:lang="esp"
+  >En la siguiente pantalla se muestran las opciones de configuración actuales para el archivo de configuración del vehículo, en la que se pueden seleccionar los parámetros editables (resaltados en color blanco). Si es necesario, se puede modificar el valor de un parámetro en la parte inferior de la pantalla.</tu>
+	<tu
+    xmlns:lang="chs"
+  >下一屏幕将显示车辆配置文件的当前设置选择，当可对一个参数进行编辑时，该参数可被选取，并以白色突出显示。 如果需要，可于屏幕底部对其数值进行更改。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 화면에는 차량 구성 파일에 대한 현재 옵션 설정이 표시되고, 매개 변수를 편집할 수 있는 경우 이 매개 변수를 선택할 수 있고 매개 변수가 흰색으로 강조 표시됩니다. 필요한 경우 화면 하단 섹션에서 그 값을 변경할 수 있습니다.</tu>
+</tm>

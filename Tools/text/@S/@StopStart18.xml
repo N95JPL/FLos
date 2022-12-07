@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart18">
+	<tu
+    xmlns:lang="eng"
+  >The displayed voltage value does not reflect the vehicle electrical system voltage.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De weergegeven spanningswaarde geeft niet de spanning van het elektrische systeem van de auto weer.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La tension affichée ne correspond pas à la tension du circuit électrique du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der angezeigte Spannungswert entspricht nicht der Spannung der elektrischen Anlage des Fahrzeugs.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il valore della tensione visualizzato non riflette la tensione del sistema elettrico del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >表示される電圧値が、車両の電気システムの電圧を示していません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O valor da tensão apresentado não reflete a tensão do sistema elétrico do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O valor de tensão exibido não reflete a tensão do sistema elétrico do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выводимые на дисплей значения напряжения не отражают напряжение электрической системы автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El valor de tensión mostrado no refleja la tensión del sistema eléctrico del vehículo.</tu>
+	<tu xmlns:lang="chs">显示的电压值不反映车辆电气系统电压。</tu>
+	<tu
+    xmlns:lang="kor"
+  >표시되는 전압 값은 차량 전기 시스템 전압을 반영하지 않습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INT_LIGHT_AMB_LED">
+	<tu xmlns:lang="eng">Interior lighting  -  Ambient LED</tu>
+	<tu xmlns:lang="nld">Interieurverlichting  -  LED van sfeerverlichting</tu>
+	<tu xmlns:lang="fra">Eclairage interieur  -  DEL d'éclairage ambiant</tu>
+	<tu xmlns:lang="deu">Innenraumbeleuchtung  -  Umgebungs-LED</tu>
+	<tu xmlns:lang="ita">Illuminazione abitacolo  -  LED ambiente</tu>
+	<tu xmlns:lang="jpn">車熄ﾆ明  －  外光 LED</tu>
+	<tu xmlns:lang="ptg">Luzes interiores  -  LED ambiente</tu>
+	<tu xmlns:lang="ptb">Iluminação interior  -  LED ambiente</tu>
+	<tu xmlns:lang="rus">Внутреннее освещение  -  Светодиод общего освещения</tu>
+	<tu xmlns:lang="esp">Iluminación interior  -  LED de luz ambiente</tu>
+	<tu xmlns:lang="chs">内部照明设备  -  环境 LED</tu>
+	<tu xmlns:lang="kor">실내등  -  실내 조명 LED</tu>
+</tm>

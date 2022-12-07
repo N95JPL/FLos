@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CALL_PARK_HEAT_NOT">
+	<tu xmlns:lang="eng">Without callstart of parking heater</tu>
+	<tu xmlns:lang="nld">Zonder oproepstart van parkeerverwarming</tu>
+	<tu xmlns:lang="fra">Sans callstart du chauffage de stationnement</tu>
+	<tu xmlns:lang="deu">Ohne Telefonstart der Standheizung</tu>
+	<tu xmlns:lang="ita">Senza avvio chiamata riscaldatore parcheggio</tu>
+	<tu xmlns:lang="jpn">パーキング ヒーターのコールスタートなし</tu>
+	<tu xmlns:lang="ptg">Sem activação do pré-aquecimento do veículo</tu>
+	<tu xmlns:lang="ptb">Sem solicitação de início do aquecedor ao estacionar</tu>
+	<tu xmlns:lang="rus">Без запуска стояночного обогревателя по команде</tu>
+	<tu xmlns:lang="esp">Sin llamada de arranque de calefactor de aparcamiento</tu>
+	<tu xmlns:lang="chs">无驻车加热器的遥控启动</tu>
+	<tu xmlns:lang="kor">주차 히터의 콜드 스타트 없음</tu>
+</tm>

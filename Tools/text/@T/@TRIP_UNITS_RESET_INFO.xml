@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRIP_UNITS_RESET_INFO">
+	<tu
+    xmlns:lang="eng"
+  >The following procedure will change the trip units displayed on the instrument cluster message centre.  The units will reset to the same value currently stored within the car configuration file.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met de volgende procedure verandert u de boordcomputereenheden die op het message centre van het instrumentengroep worden weergegeven.  De eenheden worden gereset naar de waarde die momenteel is opgeslagen in het voertuigconfiguratiebestand.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure suivante modifie les unités de distance affichées sur l'afficheur de messages du tableau de bord.  Les unités sont réinitialisées à la valeur actuellement enregistrée dans le fichier de configuration du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dem folgenden Verfahren werden die Anzeigeeinheiten für den Tageskilometerzähler im Informationsdisplay abgeändert.  Die Einheiten werden auf den gleichen Wert zurückgesetzt, der aktuell in der Fahrzeug-Konfigurationsdatei abgespeichert ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La seguente procedura modificherà le unità viaggio visualizzate sul display messaggi del gruppo strumenti.  Le unità saranno reimpostate sul medesimo valore attualmente memorizzato nel file di configurazione veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の手順で、インストルメント クラスタ メッセージ センターに表\示されるトリップ単位が変更されます。  単位は現在車両コンフィギュレーション ファイルに保存されている数値と同じ値にリセットされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O seguinte procedimento irá alterar as unidades do conta-distâncias apresentadas no centro de mensagens do grupo de instrumentos.  As unidades irão ser repostas nos mesmo valores acualmente armazenados no ficheiro de configuração do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O procedimento a seguir alterará as unidade de percurso exibidas na central de mensagens do painel de instrumentos.  As unidades serão redefinidas com o mesmo valor armazenado atualmente dentro do arquivo de configuração do carro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующая процедура предназначена для изменения единиц измерения  параметров пробега, отображаемых на информационной панели щитка приборов.  Текущие единицы измерения будут сброшены и изменятся на значение, хранящееся в файле конфигурации автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El siguiente procedimiento cambiará las unidades del contador mostradas en el centro de mensajes del cuadro de instrumentos.  Las unidades se restablecerán al valor almacenado actualmente en el archivo de configuración del vehículo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >以下程序将会更改组合仪表信息中心所显示的里程单位。  这些单位将会复位到与车辆配置文件中当前保存的值相同。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 절차에서는 계기판 메시지 센터에 표시된 트립 유닛을 변경합니다.  이 유닛은 차량 구성 파일 내에 현재 저장되어 있는 것과 같은 값으로 재설정합니다.</tu>
+</tm>

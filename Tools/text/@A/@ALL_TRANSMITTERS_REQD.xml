@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ALL_TRANSMITTERS_REQD">
+	<tu
+    xmlns:lang="eng"
+  >All transmitters required for programming must be available.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alle sleutelzenders die u wilt programmeren, moeten beschikbaar zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tous les émetteurs nécessaires pour la programmation doivent être disponibles.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle für die Programmierung benötigten Fernbedienungen müssen verfügbar sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tutti i trasmettitori necessari per la programmazione devono essere disponibili.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プログラムに必要なトランスミッタがすべて用意されている必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todos os transmissores necessários para a programação devem estar disponíveis.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todos os transmissores necessários para a programação devem estar disponíveis.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Необходимо наличие всех передатчиков, которые требуется запрограммировать.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se debe disponer de todos los transmisores que se necesiten para la programación.</tu>
+	<tu xmlns:lang="chs">所有需要编程的发射器必须备妥待用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >프로그래밍에 필요한 모든 송신기를 사용할 수 있어야 합니다.</tu>
+</tm>

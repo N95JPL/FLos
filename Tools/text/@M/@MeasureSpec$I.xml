@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MeasureSpec$I">
+	<tu
+    xmlns:lang="eng"
+  >The application will not allow measurement entries to be made if they are either too low or too high, if this occurs then the vehicle suspension system must be inspected to ensure correct operation.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt bij deze toepassing geen meetwaarden invoeren die te laag of te hoog zijn, als dit toch gebeurt, moet u het luchtveringssysteem van het voertuig controleren om te waarborgen dat het normaal functioneert.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'application ne permettra pas de saisir des mesures si elles sont trop élevées ou trop basses. Si ceci se produit, le système de suspension du véhicule doit être examiné pour garantir un fonctionnement correct.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Anwendungsprogramm lässt die Eingabe von Messwerten nicht zu, wenn diese zu niedrig oder zu hoch sind. Tritt dies auf, muss die Federung des Fahrzeugs überprüft werden, um korrekte Funktion sicherzustellen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'applicazione non consentirà l'inserimento di valori di misurazione troppo bassi o troppo alti. In tal caso, il sistema delle sospensioni veicolo deve essere ispezionato per garantirne il corretto funzionamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >測定値が低過ぎまたは高過ぎの場合、アプリケーションはその入力を許可しません。この状況が発生した場合、車両のサスペンション システムが正常に作動するか点検しなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A aplicação não permitirá introduzir medições caso estas sejam demasiado baixas ou demasiado altas; se isso acontecer, o sistema de suspensão do veículo tem de ser inspeccionado para garantir um funcionamento correcto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O aplicativo não permitirá que as entradas de medição sejam feitas se estiverem muito baixas ou muito altas, se isto ocorrer, o sistema de suspensão do veículo deve ser inspecionado para garantir a operação correta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Приложение не позволит произвести записи измерений, если они слишком низкие, либо слишком высокие; если же такое произойдет, систему подвески автомобиля необходимо проверить, чтобы убедиться в ее правильной работе.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La aplicación no permitirá la introducción de medidas si éstas son demasiado bajas o demasiado altas; si esto ocurre, deberá revisarse el sistema de suspensión del vehículo para garantizar un funcionamiento correcto.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'如果测量值过高或过低，该应用程序将不允许输入测量值；如果发生此情况，则必须检验车辆悬架系统，以确保正确操作。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램은 너무 낮거나 높은 측정값 입력을 허용하지 않습니다. 이 경우 차량 서스펜션 시스템을 검사하여 제대로 작동하는지 확인해야 합니다.</tu>
+</tm>

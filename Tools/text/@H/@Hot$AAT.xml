@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Hot$AAT">
+	<tu xmlns:lang="eng">Ambient air temperature</tu>
+	<tu xmlns:lang="nld">Omgevingstemperatuur</tu>
+	<tu xmlns:lang="fra">Température d'air ambiant</tu>
+	<tu xmlns:lang="deu">Außenlufttemperatur</tu>
+	<tu xmlns:lang="ita">Temperatura aria ambiente</tu>
+	<tu xmlns:lang="jpn">外気温</tu>
+	<tu xmlns:lang="ptg">Temperatura do ar</tu>
+	<tu xmlns:lang="ptb">Temperatura do ar ambiente</tu>
+	<tu xmlns:lang="rus">Температура окружающего воздуха</tu>
+	<tu xmlns:lang="esp">Temperatura del aire ambiente</tu>
+	<tu xmlns:lang="chs">环境气温</tu>
+	<tu xmlns:lang="kor">외기 온도</tu>
+</tm>

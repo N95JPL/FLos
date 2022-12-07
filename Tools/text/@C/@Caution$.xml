@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Caution$">
+	<tu xmlns:lang="eng">Caution</tu>
+	<tu xmlns:lang="nld">Waarschuwing</tu>
+	<tu xmlns:lang="fra">Attention</tu>
+	<tu xmlns:lang="deu">Vorsicht</tu>
+	<tu xmlns:lang="ita">Attenzione</tu>
+	<tu xmlns:lang="jpn">注意</tu>
+	<tu xmlns:lang="ptg">Atenção</tu>
+	<tu xmlns:lang="ptb">Cuidado</tu>
+	<tu xmlns:lang="rus">Предостережение</tu>
+	<tu xmlns:lang="esp">Precaución</tu>
+	<tu xmlns:lang="chs">注意</tu>
+	<tu xmlns:lang="kor">주의</tu>
+</tm>

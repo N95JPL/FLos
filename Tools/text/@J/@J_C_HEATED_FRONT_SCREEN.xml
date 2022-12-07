@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_HEATED_FRONT_SCREEN">
+	<tu xmlns:lang="eng">Heated windshield</tu>
+	<tu xmlns:lang="nld">Voorruitverwarming</tu>
+	<tu xmlns:lang="fra">Pare-brise chauffant</tu>
+	<tu xmlns:lang="deu">Beheizbare windschutzscheibe</tu>
+	<tu xmlns:lang="ita">Parabrezza riscaldato</tu>
+	<tu xmlns:lang="jpn">熱線付きフロント スクリーン</tu>
+	<tu xmlns:lang="ptg">Pára-brisas com desembaciador</tu>
+	<tu xmlns:lang="ptb">Para-brisa aquecido</tu>
+	<tu xmlns:lang="rus">Обогрев ветрового стекла</tu>
+	<tu xmlns:lang="esp">Parabrisas térmico</tu>
+	<tu xmlns:lang="chs">加热型挡风玻璃</tu>
+	<tu xmlns:lang="kor">열선내장 윈드실드</tu>
+</tm>

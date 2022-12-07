@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_VIN_START">
+	<tu xmlns:lang="eng">VIN start</tu>
+	<tu xmlns:lang="nld">Begin van VIN</tu>
+	<tu xmlns:lang="fra">Démarrage VIN</tu>
+	<tu xmlns:lang="deu">VIN-Anfang</tu>
+	<tu xmlns:lang="ita">Avvio VIN</tu>
+	<tu xmlns:lang="jpn">VIN 開始</tu>
+	<tu xmlns:lang="ptg">Início do NIV</tu>
+	<tu xmlns:lang="ptb">Partida VIN</tu>
+	<tu xmlns:lang="rus">Запуск VIN-кода</tu>
+	<tu xmlns:lang="esp">VIN inicial</tu>
+	<tu xmlns:lang="chs">VIN启动</tu>
+	<tu xmlns:lang="kor">VIN 시작</tu>
+</tm>

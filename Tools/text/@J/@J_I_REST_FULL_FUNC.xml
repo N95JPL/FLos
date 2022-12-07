@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REST_FULL_FUNC">
+	<tu
+    xmlns:lang="eng"
+  >The restraints system is now set to be fully functional.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het beveiligingssysteem voor inzittenden is nu op de volledige werking ingesteld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les dispositifs de retenue sont dorénavant parfaitement fonctionnels.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Rückhaltesystem ist jetzt auf volle Funktionalität eingestellt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sistema di sicurezza occupanti è ora impostato per funzionare completamente.</tu>
+	<tu xmlns:lang="jpn">拘束システムはフル機能\作動状態にセットされました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema de segurança está agora configurado para funcionar em pleno.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema de retenção está configurado para ser totalmente funcional.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система пассивной безопасности установлена на функционирование в полном объеме.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los sistemas de retención están configurados con todas sus funciones habilitadas.</tu>
+	<tu xmlns:lang="chs">约束系统现被设置为可完全发挥作用。</tu>
+	<tu xmlns:lang="kor">에어백 시스템이 완벽히 작동하도록 설정되어 있습니다.</tu>
+</tm>

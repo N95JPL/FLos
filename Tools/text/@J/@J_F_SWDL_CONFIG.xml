@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SWDL_CONFIG">
+	<tu
+    xmlns:lang="eng"
+  >Failed to correctly configure the software download job.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De bewerking voor het downloaden van software kon niet juist worden geconfigureerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec de configuration correcte de la tâche de téléchargement du logiciel.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Aufgabe des Herunterladens von Software konnte nicht korrekt erstellt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impossibile configurare correttamente l'operazione di scaricamento del software.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ソ\フトウェア ダウンロード作業の正しいコンフィギュレーションに失敗</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não foi possível configurar correctamente a tarefa de descarregamento de software.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha ao configurar corretamente o processo de download do software.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не удалось правильно сконфигурировать задание по загрузке программного обеспечения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudo configurar correctamente el trabajo de descarga de software.</tu>
+	<tu xmlns:lang="chs">未能正确配置软件下载工作。</tu>
+	<tu xmlns:lang="kor">소프트웨어 다운로드 작업을 올바르게 구성하지 못함</tu>
+</tm>

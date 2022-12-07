@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_315_DLOCK_FREQ">
+	<tu xmlns:lang="eng">315 Mhz door lock frequency</tu>
+	<tu xmlns:lang="nld">315 Mhz frequentie van portierslot</tu>
+	<tu xmlns:lang="fra">Fréquence de verrouillage de porte 315 MHz</tu>
+	<tu xmlns:lang="deu">315 MHz Türverriegelungsfrequenz</tu>
+	<tu xmlns:lang="ita">Frequenza serrature portiere 315 MHz</tu>
+	<tu xmlns:lang="jpn">315 Mhz ドア ロック周波数</tu>
+	<tu xmlns:lang="ptg">Frequência de 315 Mhz de trancagem das portas</tu>
+	<tu xmlns:lang="ptb">Frequência de trava da porta de 315 MHz</tu>
+	<tu xmlns:lang="rus">Частота запирания двери 315 МГц</tu>
+	<tu xmlns:lang="esp">Frecuencia de cerradura de las puertas de 315 MHz</tu>
+	<tu xmlns:lang="chs">315 Mhz 车门锁定频率</tu>
+	<tu xmlns:lang="kor">315Mhz 도어 잠금 주파수</tu>
+</tm>

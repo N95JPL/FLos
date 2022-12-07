@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ACCELEROMETER">
+	<tu xmlns:lang="eng">Accelerometers</tu>
+	<tu xmlns:lang="nld">Versnellingsmeters</tu>
+	<tu xmlns:lang="fra">Accelerometres</tu>
+	<tu xmlns:lang="deu">Beschleunigungssensoren</tu>
+	<tu xmlns:lang="ita">Accelerometri</tu>
+	<tu xmlns:lang="jpn">加・xセ・サ</tu>
+	<tu xmlns:lang="ptg">Acelerómetros</tu>
+	<tu xmlns:lang="ptb">Acelerômetros.</tu>
+	<tu xmlns:lang="rus">Акселерометры</tu>
+	<tu xmlns:lang="esp">Aclerómetros</tu>
+	<tu xmlns:lang="chs">加速计</tu>
+	<tu xmlns:lang="kor">가속도계</tu>
+</tm>

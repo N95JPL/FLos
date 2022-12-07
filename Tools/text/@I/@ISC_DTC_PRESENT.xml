@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ISC_DTC_PRESENT">
+	<tu xmlns:lang="eng">Infotainment slave controller DTCs are present.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er zijn DTC's aanwezig met betrekking tot de infotainmentslavecontroller.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Des DTC relatifs au contrôleur esclave d'infodivertissement sont présents.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wurden DTCs für die Infotainment-Nebensteuerung gespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sono presenti DTC correlati al Controller secondario Infotainment (ISC).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インフォテイメント スレーブ コントローラ DTC が存在します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >São apresentados DTC do controlador secundário do sistema de informação e entretenimento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >DTCs do controlador escravo do infoentretenimento estão presentes.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Зарегистрированы коды DTC подчиненного контроллера информационно-развлекательной системы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Hay registrados DTC del controlador secundario del sistema de información y entretenimiento.</tu>
+	<tu xmlns:lang="chs">存在信息娱乐从控制器 DTC。</tu>
+	<tu xmlns:lang="kor">인포테인먼트 슬레이브 컨트롤러 DTC가 있습니다.</tu>
+</tm>

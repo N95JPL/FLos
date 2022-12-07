@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_AUX_INPUT">
+	<tu xmlns:lang="eng">Auxiliary input</tu>
+	<tu xmlns:lang="nld">Aanvullende-apparatuur ingang</tu>
+	<tu xmlns:lang="fra">Entrée auxiliaire</tu>
+	<tu xmlns:lang="deu">Nebenstromkreis-Eingang </tu>
+	<tu xmlns:lang="ita">Ingresso accessori</tu>
+	<tu xmlns:lang="jpn">アクセサリ インプット</tu>
+	<tu xmlns:lang="ptg">Tomada para acessórios</tu>
+	<tu xmlns:lang="ptb">Entrada auxiliar</tu>
+	<tu xmlns:lang="rus">Вспомогательный входной сигнал</tu>
+	<tu xmlns:lang="esp">Entrada auxiliar</tu>
+	<tu xmlns:lang="chs">辅助输入</tu>
+	<tu xmlns:lang="kor">보조 입력</tu>
+</tm>

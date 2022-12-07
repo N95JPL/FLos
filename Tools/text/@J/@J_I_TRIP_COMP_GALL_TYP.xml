@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRIP_COMP_GALL_TYP">
+	<tu xmlns:lang="eng">Trip computer gallon type</tu>
+	<tu xmlns:lang="nld">Boordcomputer, gallon-type</tu>
+	<tu xmlns:lang="fra">Type gallon sur l'ordinateur de bord</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bordcomputer - nicht-metrische Kraftstoffverbrauchswerte</tu>
+	<tu xmlns:lang="ita">Computer di bordo - tipo gallone</tu>
+	<tu xmlns:lang="jpn">トリップ コンピュータ ガロン タイプ</tu>
+	<tu xmlns:lang="ptg">Versão em galões do computador de bordo</tu>
+	<tu xmlns:lang="ptb">Tipo de galão do computador de bordo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Британские единицы измерения расхода топлива в маршрутном компьютере</tu>
+	<tu xmlns:lang="esp">Tipo de galón del ordenador de viaje</tu>
+	<tu xmlns:lang="chs">行车计算机加仑类型</tu>
+	<tu xmlns:lang="kor">트립 컴퓨터 갤런 유형</tu>
+</tm>

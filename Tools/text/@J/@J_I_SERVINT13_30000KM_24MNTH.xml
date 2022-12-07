@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERVINT13_30000KM_24MNTH">
+	<tu xmlns:lang="eng">Service interval 13  -  30000 km / 24 months</tu>
+	<tu xmlns:lang="nld">Onderhoudsinterval 13  -  30.000 km / 24 maanden</tu>
+	<tu xmlns:lang="fra">Périodicité d'entretien 13  -  30000 km / 24 mois</tu>
+	<tu xmlns:lang="deu">Wartungsintervall 13  -  30000 Meilen / 24 Monate</tu>
+	<tu
+    xmlns:lang="ita"
+  >Intervallo di servizio (tagliando) 13  -  30000 km/24 mesi</tu>
+	<tu xmlns:lang="jpn">サービス インターバル 13  －  30000 km／24 ヶ月</tu>
+	<tu xmlns:lang="ptg">Intervalo de revisão 13  -  30000 km / 24 meses</tu>
+	<tu xmlns:lang="ptb">Intervalo de Manutenção 13  -  30000 Km / 24 meses</tu>
+	<tu
+    xmlns:lang="rus"
+  >Интервал периодичности обслуживания 13  -  30000 км / 24 месяца</tu>
+	<tu xmlns:lang="esp">Intervalo de servicio 13  -  30000 km / 24 meses</tu>
+	<tu xmlns:lang="chs">维护间隔时间 13  -  30000 公里/24 个月</tu>
+	<tu xmlns:lang="kor">서비스 주기 13  -  30000km/24개월</tu>
+</tm>

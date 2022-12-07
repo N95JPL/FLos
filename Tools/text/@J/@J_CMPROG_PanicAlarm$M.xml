@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CMPROG_PanicAlarm$M">
+	<tu xmlns:lang="eng">Panic alarm</tu>
+	<tu xmlns:lang="nld">Paniekalarm</tu>
+	<tu xmlns:lang="fra">Alarme panique</tu>
+	<tu xmlns:lang="deu">Panikalarm</tu>
+	<tu xmlns:lang="ita">Allarme di panico</tu>
+	<tu xmlns:lang="jpn">　ﾊﾟﾆｯｸ・ｱﾗ－ﾑ</tu>
+	<tu xmlns:lang="ptg">Alarme de emergência</tu>
+	<tu xmlns:lang="ptb">Alarme de pânico</tu>
+	<tu xmlns:lang="rus">Тревожная сигнализация</tu>
+	<tu xmlns:lang="esp">Alarma de panico</tu>
+	<tu xmlns:lang="chs">应急报警</tu>
+	<tu xmlns:lang="kor">패닉 알람</tu>
+</tm>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_92">
+<tu xmlns:lang="eng">Component failure - performance or incorrect operation.</tu>
+<tu xmlns:lang="nld">Component defect - prestaties of onjuiste werking.</tu>
+<tu xmlns:lang="fra">Composant d&#233;fectueux - performance ou fonctionnement incorrect.</tu>
+<tu xmlns:lang="deu">Bauteilst&#246;rung - Leistung oder Fehlfunktion.</tu>
+<tu xmlns:lang="ita">Guasto componente - prestazioni o funzionamento errato.</tu>
+<tu xmlns:lang="jpn">ƒRƒ“ƒ|[ƒlƒ“ƒgŒÌá | ƒpƒtƒH[ƒ}ƒ“ƒX‚Ü‚½‚ÍƒIƒyƒŒ[ƒVƒ‡ƒ“•s³</tu>
+<tu xmlns:lang="ptg">Falha de componente - desempenho ou funcionamento incorrecto.</tu>
+<tu xmlns:lang="rus">Îòêàç ýëåìåíòà - ôóíêöèîíèðîâàíèå èëè íåïðàâèëüíàÿ ðàáîòà.</tu>
+<tu xmlns:lang="esp">Fallo de componente: rendimiento o funcionamiento incorrecto.</tu>
+<tu xmlns:lang="chs">Ôª¼þ¹ÊÕÏ - ÐÔÄÜ»ò²»ÕýÈ·²Ù×÷¡£</tu>
+</tm>

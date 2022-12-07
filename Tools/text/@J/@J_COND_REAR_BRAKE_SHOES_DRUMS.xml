@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COND_REAR_BRAKE_SHOES_DRUMS">
+	<tu
+    xmlns:lang="eng"
+  >Please check the condition of the rear brake shoes and drums.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer of de achterremschoenen en -trommels in orde zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez contrôler l'état des segments et tambours de frein arrière.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte den Zustand der Bremsbacken und Bremstrommeln hinten prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare la condizione dei tamburi e delle ganasce dei freni posteriori.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >リア ブレーキ シューおよびドラムの状態をチェックしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique o estado dos calços e dos tambores dos travões traseiros.</tu>
+	<tu xmlns:lang="ptb">Verifique a condição das sapatas de freios e tambores.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте состояние колодок и барабанов задних тормозов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar el estado de las zapatas y los tambores de los frenos traseros.</tu>
+	<tu xmlns:lang="chs">请检查后制动蹄与制动鼓的状况。</tu>
+	<tu xmlns:lang="kor">리어 브레이크 슈와 드럼의 상태를 점검하십시오.</tu>
+</tm>

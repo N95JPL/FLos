@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_ACTIVE_SOURCE_INFO_2">
+	<tu
+    xmlns:lang="eng"
+  >The user may highlight any parameter value from the top section and in doing so will update the second part of the display which will show this selected parameters value for all other car configuration file sources. The user may review any mismatches and make an informed decision as to whether to select an alternate session active car configuration file.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De gebruiker kan een parameterwaarde in de selectie bovenaan selecteren en daarmee het tweede deel van het scherm bijwerken, waarop deze geselecteerde parameterwaarde wordt getoond voor alle andere bronnen van het voertuigconfiguratiebestand. De gebruiker kan eventuele niet-overeenkomende informatie beoordelen en besluiten een andere actieve sessie van het voertuigconfiguratiebestand te selecteren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'utilisateur peut mettre en surbrillance toute valeur de paramètre de la section supérieure et mettre à jour en ce faisant la deuxième partie de l'affichage qui montrera cette valeur de paramètres sélectionnée pour toutes les autres sources de fichier de configuration du véhicule. L'utilisateur peut examiner tous les défauts de concordance et décider s'il convient de sélectionner un fichier de configuration du véhicule actif pour une autre session.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Benutzer kann einen beliebigen Parameterwert aus dem oberen Bildschirmabschnitt markieren und aktualisiert dadurch den unteren Bildschirmabschnitt, wo der Wert dieses ausgewählten Parameters für alle anderen Quellen der Fahrzeug-Konfigurationsdatei angezeigt wird. Der Benutzer kann alle fehlenden Übereinstimmungen überprüfen und eine informierte Entscheidung darüber treffen, ob eine alternative aktive Fahrzeug-Konfigurationsdatei für die Sitzung gewählt werden soll.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'utente può evidenziare il valore di qualsiasi parametro della sezione superiore e, così facendo, aggiornerà la seconda parte del display che mostrerà il valore dei parametri selezionati per tutte le altre sorgenti di file di configurazione veicolo. L'utente può rivedere eventuali discordanze e decidere consapevolmente se selezionare o meno un file di configurazione veicolo attiva di una sessione alternativa.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ユーザーは画面上部セクションのパラメータのいずれかを反転表\示させることによって、他のすべての車両コンフィギュレーション ファイル ソ\ース用の選択されたパラメータ数値を表\示している画面第 2 部分を更新することができます。ユーザーはミスマッチを見直し、この情報を基にして代替セッション アクティブ車両コンフィギュレーション ファイルを選択するかどうかを決めることができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O utilizador pode realçar qualquer valor de parâmetro da secção superior e, ao fazê-lo, actualizará a segunda parte do ecrã, que mostrará o valor destes parâmetros seleccionados para todas as restantes fontes de ficheiros de configuração do veículo. O utilizador pode passar em revista todos os valores não correspondentes e tomar uma decisão informada sobre seleccionar um ficheiro de configuração do veículo activo numa sessão alternativa.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O usuário pode realçar qualquer valor de parâmetro na seção superior, e essa ação atualizará a segunda parte da exibição, que mostrará esse valor de parâmetros selecionados para todas as outras fontes de arquivo de configuração do carro. O usuário pode verificar quaisquer incompatibilidades e tomar uma decisão com base em informações quanto a selecionar ou não um arquivo de configuração do carro ativo de sessão alternativa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Пользователь может выделить значение любого параметра в верхней части, после чего обновится содержимое второй части и появится значение выбранного параметра для всех остальных источников файла конфигурации автомобиля. Пользователь может просмотреть несоответствия и принять обоснованное решение по выбору активного файла конфигурации автомобиля альтернативного сеанса.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El usuario puede resaltar cualquier valor de parámetro desde la sección superior. Al hacerlo, actualizará la segunda parte de la pantalla, que mostrará este valor de parámetro seleccionado para todas las demás fuentes del archivo de configuración del vehículo. El usuario puede revisar las discordancias y decidir con fundamento si desea seleccionar otro archivo de configuración del vehículo en sesión activa.</tu>
+	<tu
+    xmlns:lang="chs"
+  >用户可突出显示来自顶部的任何参数数值，这样做将会更新显示的第二部分，该部分将会为所有其他车辆配置文件来源显示这一选中参数数值。 用户可审核任何失配并对是否选择一个替代程序在用车辆配置文件做出一个基于可靠信息的决定。</tu>
+	<tu
+    xmlns:lang="kor"
+  >사용자는 상단 섹션에서 어떤 매개 변수 값이든 강조 표시할 수 있으며, 그렇게 하면 디스플레이의 두 번째 부분이 업데이트되고 다른 모든 차량 구성 파일 소스에 대해 선택된 이 매개 변수 값이 이 두 번째 부분에 표시됩니다. 사용자는 불일치 사항을 검토하고 대체 세션 활성 차량 구성 파일을 선택할지에 관해 적절한 정보를 바탕으로 결정할 수 있습니다.</tu>
+</tm>

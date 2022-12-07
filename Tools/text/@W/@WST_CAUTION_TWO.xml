@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_CAUTION_TWO">
+	<tu
+    xmlns:lang="eng"
+  >Jack up the vehicle so that it is possible to move the test wheel by hand.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zet het voertuig met een krik omhoog, zodat u het geteste wiel met de hand kunt bewegen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Levez le véhicule jusqu'à ce qu'il soit possible de faire bouger la roue testée à la main.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug so aufbocken, dass es möglich ist, das geprüfte Rad von Hand zu bewegen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sollevare il veicolo in modo che sia possibile girare la ruota in prova a mano.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テストするホイールを手で動かせるよう、車両をジャッキアップしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Eleve o veículo com um macaco de modo a poder movimentar com a mão a roda a ser testada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Eleve o veículo para que seja possível mover a roda em teste com a mão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Поднимите домкратом автомобиль, чтобы можно было вращать проверяемое колесо вручную.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Elevar el vehículo con un gato de modo que se pueda mover la rueda comprobada con la mano.</tu>
+	<tu xmlns:lang="chs">顶起车辆，以便能够用手转动测试车轮。</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트 휠을 손으로 움직일 수 있도록 차량을 잭으로 들어 올리십시오.</tu>
+</tm>

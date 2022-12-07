@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_ENG_CCF_UPLOAD1">
+	<tu
+    xmlns:lang="eng"
+  >The current vehicle configuration has not been uploaded from the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het 'uploaden' van de huidige voertuigconfiguratie vanuit het voertuig is nog niet uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La configuration actuelle du véhicule n'a pas été téléchargée depuis le véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die aktuelle Fahrzeugkonfiguration wurde nicht vom Fahrzeug hochgeladen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La configurazione veicolo corrente non è stata caricata dal veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >現在の車両コンフィギュレーションは車両からアップロードされていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A configuração actual do veículo não foi transferida ('upload') do veículo com sucesso.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A atual configuração do veículo não foi atualizada a partir  do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >С автомобиля не была передана его текущая конфигурация.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha cargado del vehículo la configuración actual del vehículo.</tu>
+	<tu xmlns:lang="chs">未从车辆上传当前车辆配置。</tu>
+	<tu xmlns:lang="kor">차량으로부터 현재 차량 구성이 업로드되지 않았습니다.</tu>
+</tm>

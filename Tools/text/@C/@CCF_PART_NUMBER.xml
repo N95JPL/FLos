@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_PART_NUMBER">
+	<tu xmlns:lang="eng">Car configuration file part number</tu>
+	<tu xmlns:lang="nld">Onderdeelnummer autoconfiguratiebestand</tu>
+	<tu xmlns:lang="fra">Référence du fichier de configuration du véhicule.</tu>
+	<tu xmlns:lang="deu">Teilenummer Fahrzeug-Konfigurationsdatei</tu>
+	<tu xmlns:lang="ita">Numero parte file di configurazione veicolo</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション ファイル パーツ ナンバー</tu>
+	<tu xmlns:lang="ptg">Referência do ficheiro de configuração do veículo.</tu>
+	<tu xmlns:lang="ptb">Número de peça do arquivo de configuração de carro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Номер файла конфигурации автомобиля по каталогу производителя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Número de referencia del archivo de configuración del vehículo</tu>
+	<tu xmlns:lang="chs">轿车配置文件零件号</tu>
+	<tu xmlns:lang="kor">차량 구성 파일 부품 번호</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DTC_P0A1A_87">
+	<tu xmlns:lang="eng">P0A1A-87 - Generator communication loss</tu>
+	<tu xmlns:lang="nld">P0A1A-87 - Communicatieverlies met de dynamo</tu>
+	<tu xmlns:lang="fra">P0A1A-87 - Perte de communication avec l'alternateur</tu>
+	<tu xmlns:lang="deu">P0A1A-87 - Generator - Kommunikationsverlust</tu>
+	<tu xmlns:lang="ita">P0A1A-87 - Perdita di comunicazione del generatore</tu>
+	<tu xmlns:lang="jpn">P0A1A-87 - ジェネレータの通信消失</tu>
+	<tu xmlns:lang="ptg">P0A1A-87 - Perda de comunicação com o alternador</tu>
+	<tu xmlns:lang="ptb">P0A1A-87 - Perda de comunicação do alternador</tu>
+	<tu xmlns:lang="rus">P0A1A-87 - потеря связи с генератором</tu>
+	<tu xmlns:lang="esp">P0A1A-87 - Pérdida de comunicación del alternador</tu>
+	<tu xmlns:lang="chs">P0A1A-87--发电机通信中断</tu>
+	<tu xmlns:lang="kor">P0A1A-87 - 제너레이터 통신 손실</tu>
+</tm>

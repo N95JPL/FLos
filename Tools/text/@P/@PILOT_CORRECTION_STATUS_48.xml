@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_48">
+	<tu xmlns:lang="eng">0x48 : Exited due to vehicle speed above limit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >0x48 : inleren afgesloten omdat de voertuigsnelheid boven de grens ligt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >0x48 : Quitté à cause de la vitesse véhicule au-dessus de la limite.</tu>
+	<tu
+    xmlns:lang="deu"
+  >0x48 : Beendet, da Fahrgeschwindigkeit über dem Grenzwert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >0x48 : Interrotto perché la velocità del veicolo è superiore al limite.</tu>
+	<tu xmlns:lang="jpn">0x48 : 車速が限界以上のため終了。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >0x48 : Saiu devido a velocidade do veículo acima do limite.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >0X48 : Encerrada devido à velocidade do veículo acima do limite.</tu>
+	<tu
+    xmlns:lang="rus"
+  >0x48 : Произведен выход, так как скорость автомобиля выше предела.</tu>
+	<tu
+    xmlns:lang="esp"
+  >0x48: Se cerró por encontrarse por encima del límite la velocidad del vehículo.</tu>
+	<tu xmlns:lang="chs">0x48： 由于车速高于限值而退出运行。</tu>
+	<tu xmlns:lang="kor">0x48 : 차량 속도가 한계를 초과했기 때문에 종료됩니다.</tu>
+</tm>

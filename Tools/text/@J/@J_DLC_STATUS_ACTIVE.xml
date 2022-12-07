@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_STATUS_ACTIVE">
+	<tu xmlns:lang="eng">Active</tu>
+	<tu xmlns:lang="nld">Actief</tu>
+	<tu xmlns:lang="fra">Actif</tu>
+	<tu xmlns:lang="deu">Aktiviert</tu>
+	<tu xmlns:lang="ita">Attivo</tu>
+	<tu xmlns:lang="jpn">アクティブ</tu>
+	<tu xmlns:lang="ptg">Estado activo</tu>
+	<tu xmlns:lang="ptb">Ativa</tu>
+	<tu xmlns:lang="rus">Активно</tu>
+	<tu xmlns:lang="esp">Activo</tu>
+	<tu xmlns:lang="chs">激活</tu>
+	<tu xmlns:lang="kor">작동</tu>
+</tm>

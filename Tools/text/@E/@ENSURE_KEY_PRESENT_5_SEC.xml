@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENSURE_KEY_PRESENT_5_SEC">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the smart key is inside the vehicle and the unlock switch press is completed within 5 seconds after pressing the tick on the Diagnostic Tool screen.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat de Smart Key in de auto aanwezig is en dat op de ontgrendelschakelaar wordt gedrukt binnen 5 seconden nadat op het vinkje op het scherm van het diagnosesysteem is gedrukt.
+</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que la clé intelligente se trouve à l'intérieur du véhicule et que le commutateur de déverrouillage est enfoncé dans un délai de 5 secondes après avoir coché la case sur l'écran de l'outil de diagnostic.
+</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass sich der Smart Key im Fahrzeug befindet und dass das Drücken des Entriegelungsschalters innerhalb von 5 Sekunden nach dem Drücken des Häkchens auf dem Diagnosetool-Bildschirm erfolgt.
+</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che la Smart Key si trovi all'interno del veicolo e che l'interruttore di sblocco venga premuto entro 5 secondi dalla selezione del segno di spunta sullo schermo dello strumento diagnostico.
+</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スマート キーを車内に置き、診断ツール画面のチェックマークを押してから 5 秒以内にアンロック スイッチを押します。
+</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que a chave inteligente está no interior do veículo e que o interruptor de destrancagem é premido no espaço de 5 segundos após clicar no visto no ecrã da ferramenta de diagnóstico.
+</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a chave inteligente esteja no interior do veículo e o interruptor de destravamento não continue sendo pressionado após 5 segundos depois de pressionar o ícone de verificação na tela da Ferramenta de Diagnóstico.
+</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что электронный ключ находится в автомобиле и что кнопка отпирания была нажата в течение 5 секунд после нажатия галочки на экране диагностического устройства.
+</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que la llave inteligente se encuentra dentro del vehículo. Pulse el interruptor de desbloqueo durante los 5 segundos que transcurren después de pulsar la marca de verificación en la pantalla de la herramienta de diagnóstico.
+</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保智能钥匙位于车辆内，并在按下诊断工具屏幕上的勾号后 5 秒钟内按下解锁开关。
+</tu>
+	<tu
+    xmlns:lang="kor"
+  >스마트 키가 차량 내부에 있는지 확인하고 진단 도구 화면에서 체크 표시를 누른 후 5초 이내에 잠금 해제 스위치를 눌러야 합니다.
+</tu>
+</tm>

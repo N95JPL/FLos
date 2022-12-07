@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERV_MODE_DISAB">
+	<tu xmlns:lang="eng">Service mode disabled</tu>
+	<tu xmlns:lang="nld">Onderhoudsfunctie gedeactiveerd</tu>
+	<tu xmlns:lang="fra">Mode maintenance désactivé</tu>
+	<tu xmlns:lang="deu">Servicemodus deaktiviert</tu>
+	<tu xmlns:lang="ita">Modalità di servizio disabilitata</tu>
+	<tu xmlns:lang="jpn">サービス モード作動不可</tu>
+	<tu xmlns:lang="ptg">Modo de serviço desactivado</tu>
+	<tu xmlns:lang="ptb">Modo de serviço desativado</tu>
+	<tu xmlns:lang="rus">Режим обслуживания не включен</tu>
+	<tu xmlns:lang="esp">Modo de servicio inhabilitado</tu>
+	<tu xmlns:lang="chs">维修模式被禁用</tu>
+	<tu xmlns:lang="kor">서비스 모드 비활성화됨</tu>
+</tm>

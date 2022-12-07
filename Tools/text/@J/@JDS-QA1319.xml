@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA1319">
+	<tu xmlns:lang="eng">Doors</tu>
+	<tu xmlns:lang="nld">PORTIEREN</tu>
+	<tu xmlns:lang="fra">PORTES</tu>
+	<tu xmlns:lang="deu">TÜREN</tu>
+	<tu xmlns:lang="ita">PORTE</tu>
+	<tu xmlns:lang="jpn">ﾄﾞア</tu>
+	<tu xmlns:lang="ptg">Portas</tu>
+	<tu xmlns:lang="ptb">Portas</tu>
+	<tu xmlns:lang="rus">Двери</tu>
+	<tu xmlns:lang="esp">PUERTAS</tu>
+	<tu xmlns:lang="chs">车门</tu>
+	<tu xmlns:lang="kor">도어</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_GREECE">
+	<tu xmlns:lang="eng">Greece</tu>
+	<tu xmlns:lang="nld">Griekenland</tu>
+	<tu xmlns:lang="fra">Grèce</tu>
+	<tu xmlns:lang="deu">Griechenland</tu>
+	<tu xmlns:lang="ita">Grecia</tu>
+	<tu xmlns:lang="jpn">ギリシャ</tu>
+	<tu xmlns:lang="ptg">Grécia</tu>
+	<tu xmlns:lang="ptb">Grécia</tu>
+	<tu xmlns:lang="rus">Греция</tu>
+	<tu xmlns:lang="esp">Grecia</tu>
+	<tu xmlns:lang="chs">希腊</tu>
+	<tu xmlns:lang="kor">그리스</tu>
+</tm>

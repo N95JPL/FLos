@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JFailed$I">
+	<tu xmlns:lang="eng">Failed</tu>
+	<tu xmlns:lang="nld">Test zonder resultaat</tu>
+	<tu xmlns:lang="fra">Echoue</tu>
+	<tu xmlns:lang="deu">Erfolglos</tu>
+	<tu xmlns:lang="ita">Non approvato</tu>
+	<tu xmlns:lang="jpn">ﾊﾟｽしませんでした。</tu>
+	<tu xmlns:lang="ptg">Falhou</tu>
+	<tu xmlns:lang="ptb">Reprovado</tu>
+	<tu xmlns:lang="rus">Ошибка</tu>
+	<tu xmlns:lang="esp">No paso la prueba</tu>
+	<tu xmlns:lang="chs">失败</tu>
+	<tu xmlns:lang="kor">불합격</tu>
+</tm>

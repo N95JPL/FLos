@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_HORN_COMPONENT">
+	<tu xmlns:lang="eng">Horn components</tu>
+	<tu xmlns:lang="nld">Claxoncomponenten</tu>
+	<tu xmlns:lang="fra">Composants d'avertisseurs sonores</tu>
+	<tu xmlns:lang="deu">Hupenkomponenten</tu>
+	<tu xmlns:lang="ita">Componenti avvisatore acustico</tu>
+	<tu xmlns:lang="jpn">ホー・ コ・ポーネ・ト</tu>
+	<tu xmlns:lang="ptg">Componentes da buzina</tu>
+	<tu xmlns:lang="ptb">Componentes da buzina</tu>
+	<tu xmlns:lang="rus">Компоненты звукового сигнала</tu>
+	<tu xmlns:lang="esp">Componentes de la bocina</tu>
+	<tu xmlns:lang="chs">喇叭元件</tu>
+	<tu xmlns:lang="kor">경음기 구성 요소</tu>
+</tm>

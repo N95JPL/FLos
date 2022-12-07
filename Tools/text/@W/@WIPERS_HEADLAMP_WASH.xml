@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WIPERS_HEADLAMP_WASH">
+	<tu xmlns:lang="eng">Headlamp wash</tu>
+	<tu xmlns:lang="nld">Koplampsproeier.</tu>
+	<tu xmlns:lang="fra">Lave-phares.</tu>
+	<tu xmlns:lang="deu">Scheinwerferwaschanlage</tu>
+	<tu xmlns:lang="ita">Sistema lavafari</tu>
+	<tu xmlns:lang="jpn">ヘッドランプ ウォッシュ</tu>
+	<tu xmlns:lang="ptg">Lava-faróis</tu>
+	<tu xmlns:lang="ptb">Lavagem do farol</tu>
+	<tu xmlns:lang="rus">Омывание фар</tu>
+	<tu xmlns:lang="esp">Lavafaros</tu>
+	<tu xmlns:lang="chs">前照灯清洗</tu>
+	<tu xmlns:lang="kor">헤드램프 와셔</tu>
+</tm>

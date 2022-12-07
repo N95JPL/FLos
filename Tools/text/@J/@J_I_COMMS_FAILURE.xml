@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMMS_FAILURE">
+	<tu xmlns:lang="eng">Communication failure</tu>
+	<tu xmlns:lang="nld">Communicatiestoring</tu>
+	<tu xmlns:lang="fra">Echec de communication</tu>
+	<tu xmlns:lang="deu">Kommunikationsfehler</tu>
+	<tu xmlns:lang="ita">Guasto di comunicazione</tu>
+	<tu xmlns:lang="jpn">通信不良</tu>
+	<tu xmlns:lang="ptg">Falha de comunicação</tu>
+	<tu xmlns:lang="ptb">Falha de comunicação</tu>
+	<tu xmlns:lang="rus">Сбой связи</tu>
+	<tu xmlns:lang="esp">Fallo de comunicación</tu>
+	<tu xmlns:lang="chs">通信故障</tu>
+	<tu xmlns:lang="kor">통신 고장</tu>
+</tm>

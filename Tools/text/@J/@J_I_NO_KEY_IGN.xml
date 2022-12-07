@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_KEY_IGN">
+	<tu xmlns:lang="eng">No key in the ignition.</tu>
+	<tu xmlns:lang="nld">Er zit geen sleutel in het contact.</tu>
+	<tu xmlns:lang="fra">Pas de clé dans le commutateur d'allumage.</tu>
+	<tu xmlns:lang="deu">Kein Schlüssel in der Zündung.</tu>
+	<tu xmlns:lang="ita">Nessuna chiave inserita nell'accensione.</tu>
+	<tu xmlns:lang="jpn">イグニションにキーがありません。</tu>
+	<tu xmlns:lang="ptg">Não há chave na ignição.</tu>
+	<tu xmlns:lang="ptb">Nenhuma chave na ignição.</tu>
+	<tu xmlns:lang="rus">Ключ отсутствует в замке зажигания.</tu>
+	<tu xmlns:lang="esp">No hay llave puesta en el encendido.</tu>
+	<tu xmlns:lang="chs">点火开关中无钥匙。</tu>
+	<tu xmlns:lang="kor">점화 스위치에 키 없음</tu>
+</tm>

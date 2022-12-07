@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_IGN_IN_RUN_POS">
+	<tu xmlns:lang="eng">Make sure the ignition switch is in position 2</tu>
+	<tu xmlns:lang="nld">Controleer of de contactschakelaar in stand 2 staat</tu>
+	<tu xmlns:lang="fra">Vérifiez que le contact est en position 2</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass der Zündschalter in Stellung 2 steht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controlla che il commutatore di accensione sia in posizione 2</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イグニション スイッチがポジション 2 にあることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Assegure-se de que o interruptor da ignição está na posição 2</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o interruptor de ignição esteja na posição 2</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что выключатель зажигания находится в положении 2</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que la llave de contacto esté en la posición II</tu>
+	<tu xmlns:lang="chs">确保点火开关在位置 2</tu>
+	<tu xmlns:lang="kor">점화 스위치가 위치 2인지 확인하십시오.</tu>
+</tm>

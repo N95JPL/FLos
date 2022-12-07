@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RainSensorInit">
+	<tu
+    xmlns:lang="eng"
+  >This application will reset the rain sensor adaption after the windshield renewal to force the rain sensor to recalibrate.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dit programma zal de instellingen van de regensensor na het vervangen van de voorruit resetten, om de regensensor te dwingen opnieuw te kaliberen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application va remettre à zéro l'adaptation du détecteur de pluie après le remplacement du pare-brise pour forcer le détecteur de pluie à se ré-étalonner.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit diesem Anwendungsprogramm wird nach dem Austausch der Windschutzscheibe die Adaption des Regensensors rückgesetzt, um eine Neukalibrierung des Regensensors zu erzwingen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione reimposterà l'adattamento del sensore pioggia dopo la sostituzione del parabrezza per forzare l'esecuzione di una nuova taratura del sensore pioggia.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ウィンドシールド交換ののち、レイン センサーを強制的に再キャリブレーションさせるため、このアプリケーションはレイン センサーの補正をリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação irá repor os valores de adaptação do sensor de chuva após a substituição do pára-brisas, para forçar uma nova calibragem do sensor de chuva.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo irá redefinir a adaptação do sensor de chuva após a substituição do para-brisa para forçar o sensor de chuva a ser calibrado novamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное приложение сбросит настройки датчика дождя после замены ветрового стекла для принудительной повторной калибровки датчика.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación restablecerá la adaptación del sensor de lluvia tras haberse sustituido el parabrisas para obligar al sensor de lluvia a calibrarse de nuevo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >此应用程序在挡风玻璃更新后，将重置雨量传感器自适应，以强制雨量传感器重新标定。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램은 윈드실드 교체 후 레인 센서 어댑테이션을 재설정하여 레인 센서를 재보정합니다.</tu>
+</tm>

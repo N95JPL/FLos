@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart206">
+	<tu
+    xmlns:lang="eng"
+  >The primary battery negative post must not be used to charge the battery, a suitable ground point must be used.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De negatieve pool van de primaire accu mag niet worden gebruikt om de accu op te laden, er moet een geschikt massapunt worden gebruikt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La borne négative de la batterie principale ne doit pas être utilisée pour charger la batterie, un point de masse approprié doit être utilisé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Minuspol der Hauptbatterie darf nicht zum Laden der Batterie verwendet werden. Stattdessen ist ein geeigneter Massepunkt zu verwenden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il polo negativo della batteria principale non deve essere utilizzato per caricare la batteria, ma è necessario utilizzare un punto di massa idoneo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プライマリ バッテリーのマイナス ポストはバッテリーの充電に使用しないでください。適切なグラウンド ポイントを使用する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O terminal negativo da bateria primária não pode ser utilizado para carregar a bateria; deve ser utilizado um ponto de massa adequado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O polo negativo da bateria primária não deve ser utilizado para carregar a bateria, um ponto de aterramento adequado deve ser utilizado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не используйте отрицательную клемму основной аккумуляторной батареи для зарядки батареи. Для этого должна использоваться подходящая точка массы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se debe utilizar el terminal negativo de la batería principal para cargar la batería, sino un punto de conexión a masa adecuado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >切勿使用主蓄电池负极接线柱对蓄电池充电，必须使用合适的接地点。</tu>
+	<tu
+    xmlns:lang="kor"
+  >기본 배터리의 음극 포스트를 배터리를 충전하는 데 사용해서는 안 됩니다. 적합한 접지 지점을 사용해야 합니다.</tu>
+</tm>

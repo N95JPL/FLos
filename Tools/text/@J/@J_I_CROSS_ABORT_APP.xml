@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CROSS_ABORT_APP">
+	<tu xmlns:lang="eng">Press cross to abort the application</tu>
+	<tu xmlns:lang="nld">Druk op het kruisje om de toepassing te annuleren</tu>
+	<tu xmlns:lang="fra">Cliquer sur la croix pour quitter l'application</tu>
+	<tu xmlns:lang="deu">Das Kreuz antippen, um das Programm zu beenden</tu>
+	<tu xmlns:lang="ita">Premere la crocetta per annullare l'applicazione</tu>
+	<tu xmlns:lang="jpn">×を押してアプリケーションを終了しなさい。</tu>
+	<tu xmlns:lang="ptg">Premir a cruz para cancelar a aplicação</tu>
+	<tu xmlns:lang="ptb">Pressione a cruz para interromper o aplicativo</tu>
+	<tu xmlns:lang="rus">Нажмите на крестик для выхода из программы</tu>
+	<tu xmlns:lang="esp">Pulsar la cruz para cancelar la aplicación</tu>
+	<tu xmlns:lang="chs">按叉键中止该应用程序</tu>
+	<tu xmlns:lang="kor">애플리케이션을 중단하려면 십자 기호를 누르십시오.</tu>
+</tm>

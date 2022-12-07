@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStartInhibitsSecBatt">
+	<tu
+    xmlns:lang="eng"
+  >If the secondary battery is still inhibiting the stop/start system;</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de secundaire accu nog steeds het Stop/Start-systeem blokkeert;</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la batterie secondaire neutralise toujours le système Arrêt/Démarrage ;</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn die Sekundärbatterie immer noch das Stopp/Start-System sperrt;</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la batteria secondaria ancora disabilita il sistema Stop/Start;</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セカンダリ バッテリーがスタート/ストップ システムを禁止続ける場合。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Caso a bateria secundária ainda se encontre a inibir o sistema Stop/Start;</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a bateria secundária ainda está inibindo o sistema Stop/Start;</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если система стоп/старт все еще блокируется вспомогательной аккумуляторной батареей,</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la batería auxiliar sigue impidiendo el funcionamiento del sistema Stop/Start;</tu>
+	<tu xmlns:lang="chs">如果辅助蓄电池仍禁止停止/启动系统。</tu>
+	<tu
+    xmlns:lang="kor"
+  >보조 배터리가 여전히 Stop/Start 시스템을 억제하고 있을 경우</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_LAN_DEP_WAR">
+	<tu xmlns:lang="eng">Without lane departure warning</tu>
+	<tu xmlns:lang="nld">Zonder waarschuwing bij verlaten rijstrook</tu>
+	<tu xmlns:lang="fra">Sans avertissement de changement de file</tu>
+	<tu xmlns:lang="deu">Ohne Spurwechselwarnung</tu>
+	<tu xmlns:lang="ita">Senza avvertenza uscita da corsia</tu>
+	<tu xmlns:lang="jpn">車線逸脱ワーニングなし</tu>
+	<tu xmlns:lang="ptg">Sem aviso de saída de faixa</tu>
+	<tu xmlns:lang="ptb">Sem aviso de afastamento da faixa de rodagem</tu>
+	<tu xmlns:lang="rus">Без предупреждения о перестроении из полосы движения</tu>
+	<tu xmlns:lang="esp">Sin aviso de salida de carril</tu>
+	<tu xmlns:lang="chs">无驶离车道报警</tu>
+	<tu xmlns:lang="kor">차선 이탈 경고 없음</tu>
+</tm>

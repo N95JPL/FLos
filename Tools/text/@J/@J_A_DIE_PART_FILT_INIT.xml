@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_DIE_PART_FILT_INIT">
+	<tu
+    xmlns:lang="eng"
+  >The diesel particulate filter (if fitted) will require initialization, followed by a static regeneration of the filter.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U dient het dieseldeeltjesfilter (indien gemonteerd) te initialiseren, gevolgd door een statische regeneratie van het filter.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le filtre à particules diesel (le cas échéant) doit faire l'objet d'une initialisation suivie d'une régénération statique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Dieselrußfilter muss (sofern eingebaut) initialisiert werden, gefolgt von einer statischen Regenrierung des Filters.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il filtro antiparticolato per diesel (se in dotazione) richiederà l'inizializzazione, seguita da una rigenerazione statica del filtro.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ディーゼル微粒子フィルター (DPF) が装備されている場合は、フィルターの静的再生ののち初期化を行う必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Será necessário inicializar o filtro de partículas do sistema Diesel (caso exista), seguida de uma regeneração estática do filtro.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O filtro de partículas de diesel (se equipado) irá exigir a inicialização, seguido por uma regeneração estática do filtro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Противосажевый фильтр дизельного двигателя (если установлен) потребует инициализации с последующей статической регенерацией фильтра.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El filtro de partículas Diesel (si lo hay) requiere una inicialización, seguida de una regeneración estática.</tu>
+	<tu
+    xmlns:lang="chs"
+  >柴油微粒过滤器（如安装的话）需初始化，然后进行过滤器的静态重建。</tu>
+	<tu
+    xmlns:lang="kor"
+  >디젤 미립자 필터(장착된 경우)를 초기화한 다음 필터의 정적 재생을 수행해야 합니다.</tu>
+</tm>

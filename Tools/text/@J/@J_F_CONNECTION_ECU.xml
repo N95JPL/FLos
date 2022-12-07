@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_CONNECTION_ECU">
+	<tu xmlns:lang="eng">Failed to connect to the required ECU.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het tot stand brengen van een verbinding met de gewenste ECU is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de connexion vers l'ECU demandé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dem benötigten Steuergerät konnte keine Verbindung aufgenommen werden.</tu>
+	<tu xmlns:lang="ita">Collegamento al modulo ECU richiesto non riuscito.</tu>
+	<tu xmlns:lang="jpn">必要な ECU への接続に失敗</tu>
+	<tu xmlns:lang="ptg">A ligação à ECU pretendida falhou.</tu>
+	<tu xmlns:lang="ptb">Falha ao se conectar ao ECU necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не удалось соединиться с требуемым электронным блоком управления.</tu>
+	<tu xmlns:lang="esp">No se pudo conectar a la ECU deseada.</tu>
+	<tu xmlns:lang="chs">未能连接到所需的ECU。</tu>
+	<tu xmlns:lang="kor">필요한 ECU에 연결 실패</tu>
+</tm>

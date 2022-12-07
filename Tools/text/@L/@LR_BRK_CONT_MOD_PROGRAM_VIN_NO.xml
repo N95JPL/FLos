@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_BRK_CONT_MOD_PROGRAM_VIN_NO">
+	<tu xmlns:lang="eng">Body control module programmed VIN number.</tu>
+	<tu xmlns:lang="nld">Geprogrammeerd VIN carrosserieregelmodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Numéro VIN programmé du module de commande de carrosserie.</tu>
+	<tu xmlns:lang="deu">Karosseriesteuergerät - programmierte VIN.</tu>
+	<tu xmlns:lang="ita">Numero VIN programmato modulo comando carrozzeria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ボディ コントロール モジュールによってプログラムされた VIN ナンバー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Número NIV programado no módulo de comando da carroçaria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Número VIN programado do módulo de controle da carroceria.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Код VIN, запрограммированный в блоке управления системами кузова.</tu>
+	<tu
+    xmlns:lang="esp"
+  >VIN programado en el módulo procesador de la carrocería.</tu>
+	<tu xmlns:lang="chs">车身控制模块编程的VIN编号。</tu>
+	<tu xmlns:lang="kor">차체 컨트롤 모듈이 프로그래밍한 VIN 번호</tu>
+</tm>

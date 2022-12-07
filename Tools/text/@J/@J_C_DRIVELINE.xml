@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_DRIVELINE">
+	<tu xmlns:lang="eng">Driveline</tu>
+	<tu xmlns:lang="nld">Aandrijflijn</tu>
+	<tu xmlns:lang="fra">Ensemble de transmission</tu>
+	<tu xmlns:lang="deu">Antriebsstrang</tu>
+	<tu xmlns:lang="ita">Albero di trasmissione</tu>
+	<tu xmlns:lang="jpn">ドライブライ・</tu>
+	<tu xmlns:lang="ptg">Transmissão</tu>
+	<tu xmlns:lang="ptb">Linha de transmissão</tu>
+	<tu xmlns:lang="rus">Карданная передача</tu>
+	<tu xmlns:lang="esp">Sistema de transmisión</tu>
+	<tu xmlns:lang="chs">传动系</tu>
+	<tu xmlns:lang="kor">드라이브라인</tu>
+</tm>

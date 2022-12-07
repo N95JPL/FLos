@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ERR_FAILED_PAF_DATA_ERASE">
+	<tu xmlns:lang="eng">Failure in erasing ECU PAF data</tu>
+	<tu xmlns:lang="nld">Het wissen van de ECU PAF-gegevens is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec d'effacement des données PAF de l'ECU.</tu>
+	<tu xmlns:lang="deu">Steuergerät-PAF-Daten konnten nicht gelöscht werden</tu>
+	<tu xmlns:lang="ita">Errore cancellazione dati PAF ECU</tu>
+	<tu xmlns:lang="jpn">ECU PAF データの消去に失敗</tu>
+	<tu xmlns:lang="ptg">Falha ao apagar os dados PAF da ECU</tu>
+	<tu xmlns:lang="ptb">Falha na exclusão dos dados PAF da ECU</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка при удалении данных PAF из электронного блока управления</tu>
+	<tu xmlns:lang="esp">Fallo al borrar datos PAF de ECU</tu>
+	<tu xmlns:lang="chs">擦除 ECU PAF 数据过程中发生故障</tu>
+	<tu xmlns:lang="kor">ECU PAF 데이터 삭제 실패</tu>
+</tm>

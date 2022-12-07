@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CAL_GEAR_SEL_TCM">
+	<tu
+    xmlns:lang="eng"
+  >This routine is used to calibrate the gear selector position sensor in the transmission control module. The routine needs to be performed with the gear selector in the neutral position.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De toepassing gebruikt deze routine om de sensor voor de transmissiehendelstand in de transmissieregelmodule te kalibreren. De routine moet worden uitgevoerd met de transmissiehendel in de neutraalstand.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme est utilisé pour calibrer le capteur de position du sélecteur de vitesse dans le module de commande de transmission. Ce programme doit être effectué avec le sélecteur de vitesse au point mort.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine wird der Wählhebel-Stellungssensor im Getriebesteuergerät kalibriert. Die Routine muss laufen, während sich der Wählhebel in der Leerlaufstellung befindet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura viene usata per tarare il sensore di posizione del selettore del cambio nel modulo comando cambio. La procedura deve essere eseguita con il selettore del cambio in posizione folle.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、トランスミッション コントロール モジュール内のギア セレクター ポジション センサーをキャリブレーションするために用いられます。ギア セレクターをニュートラル ポジションにしてルーチンを実行する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é utilizada para calibrar o sensor de posição da alavanca selectora no módulo de comando da transmissão. É necessário efectuar a rotina com a alavanca selectora na posição de ponto morto (N).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é usada para calibrar o sensor posição do seletor de marchas no módulo de controle da transmissão. A rotina deve ser feita com o seletor de marchas na posição neutra.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция используется для калибровки датчика положения селектора передач в блоке управления коробкой передач. При выполнении операции селектор передач должен находиться в нейтральном положении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina se usa para calibrar el sensor de posición de la palanca selectora en el módulo de control de transmisión. La rutina debe ejecutarse con la palanca selectora en posición de punto muerto.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本常规程序用于校验变速箱控制模块内的换档杆位置传感器。 本常规程序需要在换档杆处于空档位置时执行。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 변속기 컨트롤 모듈에서 기어 셀렉터 위치 센서를 보정하는 데 사용됩니다. 이 루틴은 기어 셀렉터를 중립 위치에 둔 상태에서 수행해야 합니다.</tu>
+</tm>

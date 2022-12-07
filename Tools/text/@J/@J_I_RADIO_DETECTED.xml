@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RADIO_DETECTED">
+	<tu xmlns:lang="eng">%d : audio unit tampering detected</tu>
+	<tu xmlns:lang="nld">%d : Geknoei aan de radio gedetecteerd</tu>
+	<tu xmlns:lang="fra">%d : Effraction radio détectée</tu>
+	<tu xmlns:lang="deu">%d : Manipulation des Radios ermittelt</tu>
+	<tu xmlns:lang="ita">%d : Rilevata manomissione della radio</tu>
+	<tu xmlns:lang="jpn">%d：ラジオ盗難未遂検出</tu>
+	<tu xmlns:lang="ptg">%d: detectada violação da unidade áudio</tu>
+	<tu xmlns:lang="ptb">%d: amortecimento de áudio detectado</tu>
+	<tu
+    xmlns:lang="rus"
+  >%d : обнаружена попытка несанкционированного доступа к аудиосистеме</tu>
+	<tu xmlns:lang="esp">%d : Detectada manipulación de la radio</tu>
+	<tu xmlns:lang="chs">%d ：检测到音频单元篡改</tu>
+	<tu xmlns:lang="kor">%d: 오디오 장치 무단 개조가 감지됨</tu>
+</tm>

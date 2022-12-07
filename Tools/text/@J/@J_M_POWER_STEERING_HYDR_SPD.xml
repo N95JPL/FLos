@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_POWER_STEERING_HYDR_SPD">
+	<tu xmlns:lang="eng">Hydraulic power steering  -  Speed sensitive</tu>
+	<tu xmlns:lang="nld">Hydraulische stuurbekrachtiging  -  Snelheidsgevoelig</tu>
+	<tu
+    xmlns:lang="fra"
+  >Direction assistée hydraulique  -  Réactif à la vitesse</tu>
+	<tu xmlns:lang="deu">Hydraulische Servolenkung  -  Geschwindigkeitsabhängig</tu>
+	<tu xmlns:lang="ita">Servosterzo idraulico  -  Sensibile alla velocità</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ハイドロリック パワー ステアリング  －  速度に影響されます</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Direcção assistida hidráulica  -  Sensível à velocidade</tu>
+	<tu xmlns:lang="ptb">Direção assistida hidráulica  -  Sensível à velocidade</tu>
+	<tu
+    xmlns:lang="rus"
+  >Гидроусилитель рулевого управления  -  Зависит от скорости</tu>
+	<tu
+    xmlns:lang="esp"
+  >Dirección asistida hidráulica  -  Sensible a la velocidad</tu>
+	<tu xmlns:lang="chs">液压助力转向  -  速度感应式</tu>
+	<tu xmlns:lang="kor">유압 파워 스티어링  -  속도에 민감함</tu>
+</tm>

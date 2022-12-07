@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ApplyHandbrake$M">
+	<tu xmlns:lang="eng">Apply the parking brake.</tu>
+	<tu xmlns:lang="nld">Trek de handrem aan.</tu>
+	<tu xmlns:lang="fra">Actionnez le frein à main</tu>
+	<tu xmlns:lang="deu">Handbremse anziehen</tu>
+	<tu xmlns:lang="ita">Azionare il freno a mano</tu>
+	<tu xmlns:lang="jpn">パーキング ブレーキをかけなさい。</tu>
+	<tu xmlns:lang="ptg">Aplique o travão de mão.</tu>
+	<tu xmlns:lang="ptb">Aplique o freio de estacionamento.</tu>
+	<tu xmlns:lang="rus">Установите автомобиль на стояночный тормоз.</tu>
+	<tu xmlns:lang="esp">Ponga el freno de mano</tu>
+	<tu xmlns:lang="chs">拉上驻车制动器。</tu>
+	<tu xmlns:lang="kor">주차 브레이크를 작동시키십시오.</tu>
+</tm>

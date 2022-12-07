@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@POLICE_SETTINGS_BCM">
+	<tu xmlns:lang="eng">Police settings - body control module</tu>
+	<tu xmlns:lang="nld">Politievoertuig - carrosserieregelmodule</tu>
+	<tu xmlns:lang="fra">Réglages police - module de commande de carrosserie.</tu>
+	<tu xmlns:lang="deu">Einstellungen Polizeifahrzeug - Karosseriesteuergerät</tu>
+	<tu xmlns:lang="ita">Impostazioni polizia - modulo di comando scocca</tu>
+	<tu xmlns:lang="jpn">警察車両設定 - ボディ コントロール モジュール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Definições de polícia - módulo de comando da carroçaria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Configurações para polícia - módulo de controle da carroceria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Настройки для полицейского автомобиля - блок управления системами кузова</tu>
+	<tu
+    xmlns:lang="esp"
+  >Opciones de vehículo policial: módulo de control de la carrocería</tu>
+	<tu xmlns:lang="chs">警车设置 - 车身控制模块</tu>
+	<tu xmlns:lang="kor">경찰 설정 - 차체 컨트롤 모듈</tu>
+</tm>

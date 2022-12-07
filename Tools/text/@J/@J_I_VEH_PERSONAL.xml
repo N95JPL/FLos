@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_PERSONAL">
+	<tu xmlns:lang="eng">Vehicle personalisation</tu>
+	<tu xmlns:lang="nld">Persoonlijke voorkeuren voor het voertuig</tu>
+	<tu xmlns:lang="fra">Personnalisation du véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeugpersonalisierung</tu>
+	<tu xmlns:lang="ita">Personalizzazione del veicolo</tu>
+	<tu xmlns:lang="jpn">車両の個人設定</tu>
+	<tu xmlns:lang="ptg">Personalização do veículo</tu>
+	<tu xmlns:lang="ptb">Personalização veículo</tu>
+	<tu xmlns:lang="rus">Персонализация автомобиля</tu>
+	<tu xmlns:lang="esp">Personalización del vehículo</tu>
+	<tu xmlns:lang="chs">车辆个性化</tu>
+	<tu xmlns:lang="kor">차량 개인화</tu>
+</tm>

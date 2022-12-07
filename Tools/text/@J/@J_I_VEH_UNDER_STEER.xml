@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_UNDER_STEER">
+	<tu xmlns:lang="eng">Vehicle under-steers</tu>
+	<tu xmlns:lang="nld">Er treedt onderstuur op</tu>
+	<tu xmlns:lang="fra">Le véhicule sous-vire</tu>
+	<tu xmlns:lang="deu">Fahrzeug untersteuert</tu>
+	<tu xmlns:lang="ita">Sottosterzata del veicolo</tu>
+	<tu xmlns:lang="jpn">車両のアンダーステア</tu>
+	<tu xmlns:lang="ptg">Veículo com direcção insuficiente</tu>
+	<tu xmlns:lang="ptb">Veículo subesterço</tu>
+	<tu xmlns:lang="rus">Недостаточная поворачиваемость автомобиля</tu>
+	<tu xmlns:lang="esp">El vehículo subvira</tu>
+	<tu xmlns:lang="chs">车辆对方向盘反应迟钝</tu>
+	<tu xmlns:lang="kor">차량 언더스티어링</tu>
+</tm>

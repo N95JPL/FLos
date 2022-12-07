@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BASIC_DISP">
+	<tu xmlns:lang="eng">Basic display</tu>
+	<tu xmlns:lang="nld">Basisdisplay</tu>
+	<tu xmlns:lang="fra">Affichage de base</tu>
+	<tu xmlns:lang="deu">Display in Grundausführung</tu>
+	<tu xmlns:lang="ita">Display di base</tu>
+	<tu xmlns:lang="jpn">基本ディスプレイ</tu>
+	<tu xmlns:lang="ptg">Visor básico</tu>
+	<tu xmlns:lang="ptb">Visor básico</tu>
+	<tu xmlns:lang="rus">Основной дисплей</tu>
+	<tu xmlns:lang="esp">Pantalla básica</tu>
+	<tu xmlns:lang="chs">基本显示器</tu>
+	<tu xmlns:lang="kor">기본 디스플레이</tu>
+</tm>

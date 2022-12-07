@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOCATE_SW_PARTS">
+	<tu
+    xmlns:lang="eng"
+  >Please wait there maybe a short delay - The process is currently locating the required software parts.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Even geduld a.u.b., er kan een korte vertraging zijn. Het proces zoekt op dit moment de vereiste softwareonderdelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez patienter, ceci peut être long - Le processus est en train de localiser les éléments logiciels requis.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte warten, es kann zu einer kurzen Verzögerung kommen - es werden die benötigten Softwareelemente ausfindig gemacht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attendere, potrebbe verificarsi un breve ritardo - Il processo al momento sta individuando le parti di software richieste.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >お待ちください、多少の遅れがあるかも知れません - プロセスは今必要なソ\フトウェアの一部を探しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Favor aguardar um momento - o processo está a localizar o software necessário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aguarde, pode haver um curto atraso - O processo está atualmente localizando as peças necessárias do software.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Пожалуйста, подождите. Система ищет необходимые элементы программного обеспечения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Puede producirse un ligero retraso. El proceso está buscando actualmente los componentes de software requeridos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >可能存在一个短时滞后，请等候--程序目前正在寻找要求的软件组件。</tu>
+	<tu
+    xmlns:lang="kor"
+  >짧은 지연이 발생할 수도 있으므로 기다려 주십시오. 이 프로세스에서는 현재 필수적인 소프트웨어 파트를 찾고 있습니다.</tu>
+</tm>

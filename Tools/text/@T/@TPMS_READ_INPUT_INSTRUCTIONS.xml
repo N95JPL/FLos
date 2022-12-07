@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TPMS_READ_INPUT_INSTRUCTIONS">
+	<tu
+    xmlns:lang="eng"
+  >Read the 8 digit sensor identification from the replacement sensor.  Select, on screen, the position the sensor is to be fitted and enter the identification number.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Lees de 8-cijferige sensoridentificatie van de vervangingssensor.  Selecteer op het scherm de positie waarin de sensor moet worden gemonteerd, en voer het identificatienummer in.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lisez le numéro d'identification du capteur à 8 caractères sur le capteur de rechange.  Sélectionnez sur l'écran la position où l'injecteur doit être monté et saisissez le numéro d'identification.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die 8-stellige Sensorkennung aus dem Ersatzsensor auslesen.  Auf dem Bildschirm die Position für den Einbau des Sensors auswählen und die Kennnummer eingeben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Leggere l'identificativo sensore a 8 cifre del sensore di ricambio.  Selezionare sullo schermo la posizione in cui deve essere montato il sensore e inserire il numero di identificazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >交換用センサーから 8 桁のセンサー ID を読み取ってください。  画面上でセンサーの取り付け位置を選択し、ID ナンバーを入力しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Leia a identificação de 8 dígitos do sensor de substituição.  Seleccione, no ecrã, a posição em que o sensor deve ser montado e introduza o número de identificação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Leia a identificação de 8 dígitos do sensor de reposição.  Selecione, na tela, a posição em o sensor deve ser instalado e insira o número de identificação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Считайте 8-значный идентификатор со сменного датчика.  Выберите на экране положение установки датчика и введите идентификационный номер.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Leer la identificación de 8 dígitos del sensor de recambio.  Seleccionar en pantalla la posición en la que hay que montar el sensor e introducir el número de identificación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >从更换的传感器读取 8 位数字传感器标识。  在屏幕上选择传感器安装位置并输入标识号码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >교체 센서에서 8자리의 센서 식별 번호를 읽으십시오.  화면에서 센서가 장착될 위치를 선택하고 식별 번호를 입력하십시오.</tu>
+</tm>

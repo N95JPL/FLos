@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DriverSeatBeltBuckle">
+	<tu xmlns:lang="eng">Driver seatbelt buckle status</tu>
+	<tu xmlns:lang="nld">Status van gordelslot van bestuurder</tu>
+	<tu xmlns:lang="fra">État de la boucle de ceinture de sécurité conducteur</tu>
+	<tu xmlns:lang="deu">Status Sicherheitsgurtschloss Fahrerseite</tu>
+	<tu xmlns:lang="ita">Stato fibbia della cintura di sicurezza del conducente</tu>
+	<tu xmlns:lang="jpn">運転席シートベルト バックル ステータス</tu>
+	<tu xmlns:lang="ptg">Estado da fivela do cinto de segurança do condutor</tu>
+	<tu xmlns:lang="ptb">Status da fivela do cinto de segurança do motorista</tu>
+	<tu xmlns:lang="rus">Состояние замка ремня безопасности водителя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Estado de la hebilla del cinturón de seguridad del conductor</tu>
+	<tu xmlns:lang="chs">驾驶员座椅安全带锁扣状态</tu>
+	<tu xmlns:lang="kor">운전석 안전 벨트 버클 상태</tu>
+</tm>

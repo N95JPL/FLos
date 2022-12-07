@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DEVICE_NOT_WRITABLE">
+	<tu xmlns:lang="eng">It is not possible to write data to the USB flash drive.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het is niet mogelijk om gegevens naar de USB-stick te schrijven.
+</tu>
+	<tu xmlns:lang="fra">Impossible d'écrire des données sur le lecteur USB.
+</tu>
+	<tu xmlns:lang="deu">Es ist nicht möglich, Daten auf den USB-Stick zu schreiben.
+</tu>
+	<tu xmlns:lang="ita">Non è possibile scrivere i dati sull’unità flash USB.
+</tu>
+	<tu
+    xmlns:lang="jpn"
+  >データを USB フラッシュ ドライブに書き込むことができません。
+</tu>
+	<tu xmlns:lang="ptg">Não é possível escrever dados na unidade flash USB.
+</tu>
+	<tu xmlns:lang="ptb">Não é possível gravar dados no Pen drive USB.
+</tu>
+	<tu xmlns:lang="rus">Невозможно записать данные на накопитель USB.
+</tu>
+	<tu
+    xmlns:lang="esp"
+  >No es posible escribir los datos en la unidad de memoria USB.
+</tu>
+	<tu xmlns:lang="chs">无法将数据写入到 USB 闪存驱动器。
+</tu>
+	<tu xmlns:lang="kor">USB 플래시 드라이브에는 데이터를 쓸 수 없습니다.
+</tu>
+</tm>

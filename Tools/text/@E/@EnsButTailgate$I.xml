@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnsButTailgate$I">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the 3rd button is configured to the tailgate release.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat de 3e toets op het ontgrendelen van de achterklep is ingesteld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que le 3ème bouton est configuré pour l'ouverture du hayon.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die 3. Taste für die Öffnung der Heckklappe konfiguriert ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accertarsi che il terzo pulsante sia configurato per l'apertura del portellone.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >第 3 ボタンがテールゲート リリースにコンフィギュレーションされていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o 3.º botão está configurado para a abertura da porta da retaguarda.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o terceiro botão esteja configurado para a liberação da tampa traseira.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что 3-я кнопка настроена для отпирания двери багажного отделения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse que el tercer botón está configurado para el interruptor de apertura del portón trasero.</tu>
+	<tu xmlns:lang="chs">确保第3个按钮被配置为尾门释放。</tu>
+	<tu
+    xmlns:lang="kor"
+  >3번째 버튼이 테일게이트 해제로 설정되어 있는지 확인하십시오.</tu>
+</tm>

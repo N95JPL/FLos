@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FMH_FRONT_FOG_LAMPS">
+	<tu xmlns:lang="eng">Follow me home with front fog lamps</tu>
+	<tu xmlns:lang="nld">Instapverlichting met voormistlampen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fonction d'accompagnement avec les feux antibrouillard avant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beleuchtungs-Ausschaltverzögerung mit Nebelscheinwerfern</tu>
+	<tu
+    xmlns:lang="ita"
+  >Funzione spegnimento ritardato con fendinebbia anteriori</tu>
+	<tu xmlns:lang="jpn">フロント フォグランプ点灯を伴うリンプホーム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Iluminação temporária ao afastar-se do veículo com faróis de nevoeiro dianteiros</tu>
+	<tu xmlns:lang="ptb">Follow me home com luzes dianteiras de neblina</tu>
+	<tu xmlns:lang="rus">Задержка выключения передних противотуманных фар</tu>
+	<tu xmlns:lang="esp">Retardo de luces al salir con faros antiniebla</tu>
+	<tu xmlns:lang="chs">前雾灯延时熄灭</tu>
+	<tu xmlns:lang="kor">프론트 포그 램프를 이용한 에스코트 램프</tu>
+</tm>

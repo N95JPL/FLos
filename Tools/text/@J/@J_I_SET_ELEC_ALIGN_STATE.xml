@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_ELEC_ALIGN_STATE">
+	<tu xmlns:lang="eng">Set electronic alignment state</tu>
+	<tu xmlns:lang="nld">Status van elektronische uitlijning instellen</tu>
+	<tu xmlns:lang="fra">Réglez l'état d'alignement électronique</tu>
+	<tu xmlns:lang="deu">Status der elektronischen Ausrichtung einstellen.</tu>
+	<tu xmlns:lang="ita">Impostare lo stato di allineamento elettronico</tu>
+	<tu xmlns:lang="jpn">エレクトロニック アライメント ステータスのセット</tu>
+	<tu xmlns:lang="ptg">Definir estado do alinhamento electrónico</tu>
+	<tu xmlns:lang="ptb">Definir estado de alinhamento eletrônico</tu>
+	<tu xmlns:lang="rus">Включить состояние электронной корректировки</tu>
+	<tu xmlns:lang="esp">Establecer estado de alineación electrónica</tu>
+	<tu xmlns:lang="chs">设置电子定位状态</tu>
+	<tu xmlns:lang="kor">전자식 정렬 상태 설정</tu>
+</tm>

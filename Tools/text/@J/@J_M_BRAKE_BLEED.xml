@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_BRAKE_BLEED">
+	<tu xmlns:lang="eng">Brake bleed.</tu>
+	<tu xmlns:lang="nld">Ontluchten remmen.</tu>
+	<tu xmlns:lang="fra">Purge des freins</tu>
+	<tu xmlns:lang="deu">Bremsenentlüftung</tu>
+	<tu xmlns:lang="ita">Spurgo dei freni</tu>
+	<tu xmlns:lang="jpn">ブレーキ・ブリード</tu>
+	<tu xmlns:lang="ptg">Purga dos travões.</tu>
+	<tu xmlns:lang="ptb">Sangria dos freios.</tu>
+	<tu xmlns:lang="rus">Прокачка тормозной системы.</tu>
+	<tu xmlns:lang="esp">Purga de frenos.</tu>
+	<tu xmlns:lang="chs">制动器排气装置。</tu>
+	<tu xmlns:lang="kor">브레이크 블리드</tu>
+</tm>

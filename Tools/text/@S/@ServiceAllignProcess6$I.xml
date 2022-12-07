@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess6$I">
+	<tu xmlns:lang="eng">Choose an inside or outside lane.</tu>
+	<tu xmlns:lang="nld">kies de binnenste of buitenste rijstrook.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Choisissez la voie la plus à droite ou la plus à gauche.</tu>
+	<tu xmlns:lang="deu">Die innere oder die äußere Fahrbahn wählen.</tu>
+	<tu xmlns:lang="ita">Scegliere una corsia interna o esterna.</tu>
+	<tu xmlns:lang="jpn">内側または外側のレーンを選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Escolha uma via da esquerda ou da direita.</tu>
+	<tu xmlns:lang="ptb">Use uma pista interna ou externa.</tu>
+	<tu xmlns:lang="rus">Выберите внутреннюю или внешнюю полосу движения.</tu>
+	<tu xmlns:lang="esp">Elegir un carril interior o exterior.</tu>
+	<tu xmlns:lang="chs">选择内侧或外侧车道。</tu>
+	<tu xmlns:lang="kor">내측 또는 외측 차선을 선택하십시오.</tu>
+</tm>

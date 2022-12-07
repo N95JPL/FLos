@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AirbagPass$I">
+	<tu xmlns:lang="eng">The air bag control module renewal was successful.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het vernieuwen van de airbagregelmodule is met succes uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le renouvellement du module de commande d'airbag a été effectué correctement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Neukonfiguration des Airbag-Steuergeräts war erfolgreich.</tu>
+	<tu xmlns:lang="ita">Sostituzione del modulo di comando airbag riuscita.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エアバッグ コントロール モジュールの交換は正常に完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A substituição do módulo de controlo dos airbags foi bem sucedida.</tu>
+	<tu xmlns:lang="ptb">Troca do módulo de controle do airbag bem sucedida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обновление блока управления подушками безопасности выполнено успешно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La sustitución del módulo de control de los airbags fue satisfactoria.</tu>
+	<tu xmlns:lang="chs">安全气囊控制模块更新成功。</tu>
+	<tu xmlns:lang="kor">에어백 컨트롤 모듈 교체에 성공했습니다.</tu>
+</tm>

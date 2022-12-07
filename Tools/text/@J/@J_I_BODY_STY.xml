@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BODY_STY">
+	<tu xmlns:lang="eng">Body style</tu>
+	<tu xmlns:lang="nld">Carrosseriestijl</tu>
+	<tu xmlns:lang="fra">Style de carrosserie</tu>
+	<tu xmlns:lang="deu">Karosserietyp</tu>
+	<tu xmlns:lang="ita">Stile carrozzeria</tu>
+	<tu xmlns:lang="jpn">ボディ スタイル</tu>
+	<tu xmlns:lang="ptg">Estilo da carroçaria</tu>
+	<tu xmlns:lang="ptb">Estilo da carroceria</tu>
+	<tu xmlns:lang="rus">Тип кузова</tu>
+	<tu xmlns:lang="esp">Estilo de carrocería</tu>
+	<tu xmlns:lang="chs">车身风格</tu>
+	<tu xmlns:lang="kor">차체 스타일</tu>
+</tm>

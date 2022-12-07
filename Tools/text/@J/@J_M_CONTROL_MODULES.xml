@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CONTROL_MODULES">
+	<tu xmlns:lang="eng">Control modules</tu>
+	<tu xmlns:lang="nld">Regelmodules</tu>
+	<tu xmlns:lang="fra">Modules de commande</tu>
+	<tu xmlns:lang="deu">Steuergeräte</tu>
+	<tu xmlns:lang="ita">Moduli di comando</tu>
+	<tu xmlns:lang="jpn">コ・トロールモジュール</tu>
+	<tu xmlns:lang="ptg">Módulos de comando</tu>
+	<tu xmlns:lang="ptb">Módulos de controle</tu>
+	<tu xmlns:lang="rus">Блоки управления</tu>
+	<tu xmlns:lang="esp">Módulos de control</tu>
+	<tu xmlns:lang="chs">控制模块</tu>
+	<tu xmlns:lang="kor">컨트롤 모듈</tu>
+</tm>

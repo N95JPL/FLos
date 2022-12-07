@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineStopConditions">
+	<tu xmlns:lang="eng">Engine stop conditions</tu>
+	<tu xmlns:lang="nld">Stopvoorwaarden motor</tu>
+	<tu xmlns:lang="fra">Conditions d'arrêt du moteur</tu>
+	<tu xmlns:lang="deu">Motor-Stopp-Bedingungen</tu>
+	<tu xmlns:lang="ita">Condizioni di arresto del motore</tu>
+	<tu xmlns:lang="jpn">エンジンの停止条件</tu>
+	<tu xmlns:lang="ptg">Condições de paragem do motor</tu>
+	<tu xmlns:lang="ptb">Condições de parada do motor</tu>
+	<tu xmlns:lang="rus">Условия останова двигателя</tu>
+	<tu xmlns:lang="esp">Condiciones de parada del motor</tu>
+	<tu xmlns:lang="chs">发动机停止条件</tu>
+	<tu xmlns:lang="kor">엔진 정지 상태</tu>
+</tm>

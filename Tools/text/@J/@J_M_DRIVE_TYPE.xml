@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DRIVE_TYPE">
+	<tu xmlns:lang="eng">Drive type</tu>
+	<tu xmlns:lang="nld">Aandrijftype</tu>
+	<tu xmlns:lang="fra">Type de conduite</tu>
+	<tu xmlns:lang="deu">Antriebsart</tu>
+	<tu xmlns:lang="ita">Tipo di trazione</tu>
+	<tu xmlns:lang="jpn">ドライブ タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de condução</tu>
+	<tu xmlns:lang="ptb">Tipo de acionamento</tu>
+	<tu xmlns:lang="rus">Тип привода</tu>
+	<tu xmlns:lang="esp">Tipo de tracción</tu>
+	<tu xmlns:lang="chs">驱动类型</tu>
+	<tu xmlns:lang="kor">주행 유형</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_PRESS_INFO_FOR_DETAILS">
+	<tu
+    xmlns:lang="eng"
+  >Press the information button for a description of the test.</tu>
+	<tu xmlns:lang="nld">Druk op de informatietoets voor een testomschrijving.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur le bouton d'information pour obtenir une description du test.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Für eine Beschreibung des Tests die Info-Schaltfläche antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il pulsante informazioni per una descrizione della prova.</tu>
+	<tu xmlns:lang="jpn">テストの解説が必要な場合は情報ボタンを押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima o botão de informação para obter a descrição do teste.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione o botão de informações para obter uma descrição do teste.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите кнопку справки, чтобы получить описание испытания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de información para que aparezca una descripción de la prueba.</tu>
+	<tu xmlns:lang="chs">按信息按钮获取有关测试的描述。</tu>
+	<tu xmlns:lang="kor">테스트에 대한 설명을 보려면 정보 버튼을 누르십시오.</tu>
+</tm>

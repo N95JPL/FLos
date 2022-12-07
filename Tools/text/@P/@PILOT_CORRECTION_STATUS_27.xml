@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_27">
+	<tu xmlns:lang="eng">0x27 : Not started due to not in a neutral gear.</tu>
+	<tu
+    xmlns:lang="nld"
+  >0x27 : inleren niet gestart omdat de transmissiehendel niet in de neutraalstand staat.</tu>
+	<tu xmlns:lang="fra">0x27 : Non commencé car pas au point mort.</tu>
+	<tu xmlns:lang="deu">0x27 : Nicht angelaufen, da nicht in Neutralstellung.</tu>
+	<tu xmlns:lang="ita">0x27 : Non avviato perché il cambio non è in folle.</tu>
+	<tu xmlns:lang="jpn">0x27 : ギアがニュートラルでないためスタートせず。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >0x27 : Não iniciado por a caixa não estar em ponto morto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >0X27 : Não iniciado devido a não estar em marcha neutra.</tu>
+	<tu
+    xmlns:lang="rus"
+  >0x27 : Запуск не выполнен, так как не включена нейтральная передача.</tu>
+	<tu
+    xmlns:lang="esp"
+  >0x27: No se inició por no estar el cambio en una marcha neutra.</tu>
+	<tu xmlns:lang="chs">0x27： 由于不是处于空档而没有启动。</tu>
+	<tu xmlns:lang="kor">0x27 : 중립 기어가 아니기 때문에 시작되지 않습니다.</tu>
+</tm>

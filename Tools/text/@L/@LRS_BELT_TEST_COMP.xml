@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_BELT_TEST_COMP">
+	<tu xmlns:lang="eng">Belt end test status is set to completed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De status van de riem-eindtest is op uitgevoerd ingesteld.</tu>
+	<tu xmlns:lang="fra">Etat du test  final réglé sur terminé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Status des Montageabschlusstests ist auf abgeschlossen gesetzt.</tu>
+	<tu xmlns:lang="ita">Stato prova lato cinghia impostato su completato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ベルト エンド テスト ステータスは完了にセットされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Estado do teste final da passadeira está definido como concluído.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Status do teste da extremidade da correia é definido como concluído.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние проверки ремня на обрыв установлено в выполненное.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El estado de la prueba del extremo donde va la correa auxiliar está ajustado en 'completado'.</tu>
+	<tu xmlns:lang="chs">安全带端测试状态被设置为已完成。</tu>
+	<tu xmlns:lang="kor">벨트 엔드 테스트 상태가 완료 상태로 설정됩니다.</tu>
+</tm>

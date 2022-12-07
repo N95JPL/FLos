@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TEST_COMP_EXIT_RETRN">
+	<tu
+    xmlns:lang="eng"
+  >Tests have been completed, press the exit button to return.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De test zijn uitgevoerd, druk op de 'exit'-toets om terug te keren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les tests sont terminés, appuyez sur le bouton de sortie pour quitter.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Tests wurden abgeschlossen, zur Rückkehr Schaltfläche Verlassen antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le prove sono state completate; premere il pulsante Exit (esci) per tornare indietro.</tu>
+	<tu xmlns:lang="jpn">テストは完了しました。終了を押して戻りなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os testes foram concluídos; prima o botão 'exit' para voltar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Os testes foram concluídos, pressione a tecla exit (sair) para retornar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверки выполнены, для возвращения нажмите кнопку выхода.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se han realizado las pruebas; pulsar el botón de salida para volver.</tu>
+	<tu xmlns:lang="chs">'测试已完成，按下退出按钮返回。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트가 완료되었습니다. 돌아가려면 종료 버튼을 누르십시오.</tu>
+</tm>

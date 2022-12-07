@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PRO_CAL_STOR_AXLE_POS">
+	<tu
+    xmlns:lang="eng"
+  >The following routine will calibrate and store the axis positions supported for the driver's seat module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De volgende routine zal de asposities kalibreren, die voor de bestuurdersstoelmodule ondersteund worden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le programme suivant permettra d'étalonner et d'enregistrer la position des axes pris en charge par le module du siège conducteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die folgende Routine kalibriert und speichert die unterstützten Achsstellungen für das Fahrersitz-Steuergerät.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La seguente procedura tara e memorizza le posizioni degli assi supportate per il modulo del sedile guidatore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のルーチンで、運転席側シート モジュールの軸方向サポート ポジションがキャリブレーションされ保存されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A rotina seguinte calibra e grava as posições do eixo suportadas pelo módulo do banco do condutor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O procedimento descrito a seguir calibrará as posições do eixo e armazenará as posições dos eixos suportadas para o módulo do assento do motorista.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция позволяет выполнить калибровку и сохранить данные о положениях оси, которые поддерживаются блоком управления в сиденье водителя. </tu>
+	<tu
+    xmlns:lang="esp"
+  >La rutina siguiente calibrará y guardará las posiciones de los ejes admitidos para el módulo del asiento del conductor.</tu>
+	<tu xmlns:lang="chs">下述程序将校准和存储支持驾驶员座椅模块的轴向位置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 루틴에서는 운전석 모듈에 대해 지원되는 축 위치를 보정하고 저장합니다.</tu>
+</tm>

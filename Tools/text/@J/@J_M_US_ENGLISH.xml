@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_US_ENGLISH">
+	<tu xmlns:lang="eng">US English</tu>
+	<tu xmlns:lang="nld">Amerikaans engels</tu>
+	<tu xmlns:lang="fra">Anglais US</tu>
+	<tu xmlns:lang="deu">Amerikanisches Englisch</tu>
+	<tu xmlns:lang="ita">Inglese (USA)</tu>
+	<tu xmlns:lang="jpn">アメリカ英語</tu>
+	<tu xmlns:lang="ptg">Inglês EUA</tu>
+	<tu xmlns:lang="ptb">Inglês EUA</tu>
+	<tu xmlns:lang="rus">Английский (США)</tu>
+	<tu xmlns:lang="esp">Inglés de ee.uu.</tu>
+	<tu xmlns:lang="chs">美国英语</tu>
+	<tu xmlns:lang="kor">미국 영어</tu>
+</tm>

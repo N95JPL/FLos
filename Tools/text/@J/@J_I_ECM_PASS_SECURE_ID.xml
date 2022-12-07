@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ECM_PASS_SECURE_ID">
+	<tu
+    xmlns:lang="eng"
+  >Engine control module programming completed and the secure identification has been successfully stored.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het programmeren van de motorregelmodule is uitgevoerd en het opslaan van de beveiligingsidentificatie is gelukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Programmation du module de gestion du moteur terminée, l'identification sécurisée a été enregistrée avec succès.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Programmierung des Motorsteuergeräts wurde abgeschlossen und die sichere Identifizierung wurde erfolgreich gespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Programmazione modulo di comando motore completata e memorizzazione riuscita del codice identificazione di sicurezza.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジン コントロール モジュールのプログラミングは完了し、確実な ID が保存されました。</tu>
+	<tu xmlns:lang="ptg">Repare a ligação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Programação do módulo de controle do motor concluída e a identificação segura foi armazenada com sucesso.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Программирование блока управления двигателем завершено, защищенная идентификация успешно сохранена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha concluido la programación del módulo de control del motor y guardado la identificación segura.</tu>
+	<tu xmlns:lang="chs">发动机控制模块编程已完成，安全标识已成功存储。</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진 컨트롤 모듈 프로그래밍이 완료되었고 보안 식별 정보가 올바로 저장되었습니다.</tu>
+</tm>

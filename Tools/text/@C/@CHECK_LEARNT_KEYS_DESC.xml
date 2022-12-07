@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CHECK_LEARNT_KEYS_DESC">
+	<tu
+    xmlns:lang="eng"
+  >This routine is used to check if all learned keys can be found inside the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De toepassing gebruikt deze routine om te controleren of alle ingeleerde sleutels in het voertuig aanwezig zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme est utilisé pour vérifier si toutes les clés apprises ont été trouvées à l'intérieur du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine wird überprüft, ob alle angemeldeten Schlüssel im Fahrzeuginnern gefunden werden können.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura viene usata per controllare se tutte le chiavi apprese sono reperibili all'interno del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは学習済みの全キーが車内にあるかチェックするために使用されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é usada para verificar se é possível encontrar todas as chaves programadas dentro do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é usada para verificar se todos as chaves aprendidas podem ser encontradas no interior do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта операция используется для проверки наличия всех запрограммированных ключей в салоне автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina sirve para comprobar si todas las llaves aprendidas se encuentran dentro del vehículo.</tu>
+	<tu xmlns:lang="chs">这一常规程序用于检查所有记忆车匙是否可在车辆内找到。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 차량 내부에서 학습된 키를 전부 찾을 수 있는지 점검하는 데 사용됩니다.</tu>
+</tm>

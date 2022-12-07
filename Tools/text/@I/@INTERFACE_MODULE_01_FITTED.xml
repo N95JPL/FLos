@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INTERFACE_MODULE_01_FITTED">
+	<tu xmlns:lang="eng">Interface module 1 fitted</tu>
+	<tu xmlns:lang="nld">Interfacemodule 1 aangebracht</tu>
+	<tu xmlns:lang="fra">Module interface 1 installé.</tu>
+	<tu xmlns:lang="deu">Schnittstellenmodul 1 eingebaut</tu>
+	<tu xmlns:lang="ita">Modulo interfaccia 1 in dotazione</tu>
+	<tu xmlns:lang="jpn">インターフェース モジュール 1 装着済み</tu>
+	<tu xmlns:lang="ptg">Módulo de interface 1 montado</tu>
+	<tu xmlns:lang="ptb">Módulo de interface 1 instalado</tu>
+	<tu xmlns:lang="rus">Установлен модуль интерфейса 1</tu>
+	<tu xmlns:lang="esp">Módulo de interfaz 1 instalado</tu>
+	<tu xmlns:lang="chs">接口模块 1 已安装</tu>
+	<tu xmlns:lang="kor">인터페이스 모듈 1이 장착됨</tu>
+</tm>

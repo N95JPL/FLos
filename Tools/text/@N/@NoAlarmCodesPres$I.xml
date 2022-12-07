@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NoAlarmCodesPres$I">
+	<tu xmlns:lang="eng">No alarm history is present.</tu>
+	<tu xmlns:lang="nld">Er is geen alarmhistorie aanwezig.</tu>
+	<tu xmlns:lang="fra">Pas d'historique d'alarme présent</tu>
+	<tu xmlns:lang="deu">Keine Alarmvorgeschichte vorhanden</tu>
+	<tu xmlns:lang="ita">Non esistono precedenti di allarme</tu>
+	<tu xmlns:lang="jpn">　ｱラ－ムの過去の記録はありません。</tu>
+	<tu xmlns:lang="ptg">Não há histórico de alarmes.</tu>
+	<tu xmlns:lang="ptb">Nenhum histórico de alarme presente.</tu>
+	<tu xmlns:lang="rus">Журнал срабатывания сигнализации отсутствует.</tu>
+	<tu xmlns:lang="esp">No hay ningún historial de alarmas.</tu>
+	<tu xmlns:lang="chs">未出现报警历史。</tu>
+	<tu xmlns:lang="kor">알람 기록이 없습니다.</tu>
+</tm>

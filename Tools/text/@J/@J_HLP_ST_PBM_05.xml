@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_PBM_05">
+	<tu
+    xmlns:lang="eng"
+  >The electronic parking brake motor must reach engage current within the required distance.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De motor van de elektronische handrem moet de inschakelstroomsterkte binnen de vereiste slag bereiken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le moteur du frein de stationnement électronique doit atteindre le courant d'engagement sur la distance requise.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Motor der elektrisch betätigten Handbremse muss den Anzugsstrom innerhalb der geforderten Distanz erreichen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il motorino del freno di stazionamento elettronico deve raggiungere la corrente di innesto entro la distanza richiesta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック パーキング ブレーキ モーターは必要な距離の間にエンゲージ電流に到達する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O motor do travão de estacionamento electrónico tem de receber corrente de accionamento dentro da distância necessária.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O motor do freio de estacionamento eletrônico deve alcançar a corrente de engate dentro da distância necessária.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электродвигатель электронного стояночного тормоза должен достичь тока включения в пределах необходимого расстояния.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El motor del freno de estacionamiento electrónico debe alcanzar la corriente de activación en la distancia requerida.</tu>
+	<tu xmlns:lang="chs">电子驻车制动电机必须在要求的距离内达到抱合电流。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전자식 주차 브레이크 모터가 필요한 거리 이내에 체결 전류에 도달해야 합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOW_ENG_PER_FAN">
+	<tu xmlns:lang="eng">Low performance fan</tu>
+	<tu xmlns:lang="nld">Ventilator met lage prestaties</tu>
+	<tu xmlns:lang="fra">Ventilateur basses performances</tu>
+	<tu xmlns:lang="deu">Kühlerlüfter mit geringer Leistung</tu>
+	<tu xmlns:lang="ita">Ventola a basse prestazioni</tu>
+	<tu xmlns:lang="jpn">ロー パフォーマンス ファン</tu>
+	<tu xmlns:lang="ptg">Ventoinha de baixo desempenho</tu>
+	<tu xmlns:lang="ptb">Ventilador de baixo desempenho</tu>
+	<tu xmlns:lang="rus">Вентилятор малой производительности</tu>
+	<tu xmlns:lang="esp">Ventilador de bajas prestaciones</tu>
+	<tu xmlns:lang="chs">低性能风扇</tu>
+	<tu xmlns:lang="kor">저성능 팬</tu>
+</tm>

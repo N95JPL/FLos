@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_14">
+	<tu
+    xmlns:lang="eng"
+  >General electrical failure - circuit short to ground or open.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Algemeen elektrisch defect - kortsluiting naar massa of open circuit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Panne électrique générale - court-circuit à la masse ou circuit ouvert.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Allgemeine Elektrikstörung - Masseschluss oder Unterbrechung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto elettrico generale - circuito aperto o in corto a massa.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >一般エレクトリカル故障 － サーキット、アースへショートまたはオープン</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha eléctrica geral - curto-circuito à massa ou circuito aberto neste circuito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha elétrica geral - curto-circuito com o aterramento ou circuito aberto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электрическая неисправность общего характера - разрыв или короткое замыкание цепи на массу.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo eléctrico general: interrupción o cortocircuito a masa.</tu>
+	<tu xmlns:lang="chs">一般电气故障 - 对地短路或断路。</tu>
+	<tu xmlns:lang="kor">일반적인 전기적 고장 - 접지 측 단락 또는 단선</tu>
+</tm>

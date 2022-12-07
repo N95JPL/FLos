@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_ALREADY_PROG_FAIL">
+	<tu
+    xmlns:lang="eng"
+  >A key already programmed to a specific vehicle cannot be re-programmed to a different vehicle, if this is attempted the application will fail.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt een sleutel die reeds op een bepaald voertuig geprogrammeerd is, niet opnieuw op een ander voertuig programmeren. Als u dit probeert zal het systeem de toepassing afsluiten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une clé déjà programmée pour un véhicule spécifique ne peut pas être reprogrammée sur un autre véhicule ; si ceci est essayé l'application échoue.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ein schon für ein spezifisches Fahrzeug programmierter Schlüssel kann nich auf ein anderes Fahrzeug umprogrammiert werden; wird dies versucht, arbeitet das Anwendungsprogramm nicht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una chiave già programmata per un veicolo specifico non può essere riprogrammata per un veicolo diverso; se si cerca di fare ciò, l'applicazione non funzionerà correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >特定の車両にすでにプログラムされたキーを異なる車両に再プログラムすることはできません。これを試行するとアプリケーションは結果不良になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não é possível reprogramar para outro veículo, uma chave que já tenha sido programada para um determinado veículo; se se tentar fazer isto, a aplicação falhará.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma chave que já está programada para um veículo específico não pode ser reprogramada para um veículo diferente, se isso for tentado, o aplicativo falhará.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ключ уже запрограммирован на определенный автомобиль и не может быть перепрограммирован на другой автомобиль. При попытке перепрограммирования приложение завершит работу с ошибкой.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una llave que ya ha sido programada para un vehículo específico no puede volver a ser programada para otro vehículo. Si se intenta hacer esto, se producirá un error de la aplicación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >应用于特定车辆的已编程车钥不可重新编程并应用于不同的车辆，强行编程也不能应用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >특정 차량에 대해 이미 프로그래밍된 키를 다른 차량에 다시 프로그래밍할 수는 없으며, 이를 시도할 경우 애플리케이션이 실패하게 됩니다.</tu>
+</tm>

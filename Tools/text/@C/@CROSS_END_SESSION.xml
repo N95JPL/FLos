@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CROSS_END_SESSION">
+	<tu xmlns:lang="eng">Select the cross to end the current session.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Selecteer het kruisje om de huidige sessie te beëindigen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélectionnez la croix pour terminer la session en cours.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Kreuz antippen, um die aktuelle Sitzung zu beenden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezionare la crocetta per terminare la sessione corrente.</tu>
+	<tu xmlns:lang="jpn">× を選択し、現在のセッションを終了しなさい。</tu>
+	<tu xmlns:lang="ptg">Seleccionar a cruz para concluir a sessão actual.</tu>
+	<tu xmlns:lang="ptb">Selecione o X para encerrar a sessão atual.</tu>
+	<tu xmlns:lang="rus">Для завершения текущего сеанса выберите крестик.</tu>
+	<tu xmlns:lang="esp">Seleccione la cruz para cerrar la sesión actual.</tu>
+	<tu xmlns:lang="chs">选择叉号键结束当前程序。</tu>
+	<tu xmlns:lang="kor">현재 세션을 종료하려면 십자 기호를 선택하십시오.</tu>
+</tm>

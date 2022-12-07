@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VEHICLE_BUILD_DATE_DAY">
+	<tu xmlns:lang="eng">Vehicle build date (day)</tu>
+	<tu xmlns:lang="nld">Voertuigbouwdatum (dag).</tu>
+	<tu xmlns:lang="fra">Date de fabrication du véhicule (jour).</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Fertigungsdatum (Tag)</tu>
+	<tu xmlns:lang="ita">Data fabbricazione veicolo (giorno)</tu>
+	<tu xmlns:lang="jpn">車両生産日(日)</tu>
+	<tu xmlns:lang="ptg">Data de fabrico do veículo (dia)</tu>
+	<tu xmlns:lang="ptb">Data de construção do veículo (dia)</tu>
+	<tu xmlns:lang="rus">Дата сборки автомобиля (день)</tu>
+	<tu xmlns:lang="esp">Fecha de fabricación del vehículo (día)</tu>
+	<tu xmlns:lang="chs">车辆制造日期（日）</tu>
+	<tu xmlns:lang="kor">차량 제조 날짜(일)</tu>
+</tm>

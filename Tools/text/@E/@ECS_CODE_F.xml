@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECS_CODE_F">
+	<tu xmlns:lang="eng">ECS  -  F  -  5.0 NA Euro 2</tu>
+	<tu
+    xmlns:lang="nld"
+  >ECS  -  F  -  zelfaanzuigende 5.0L-motor, Europese emissienorm 2</tu>
+	<tu xmlns:lang="fra">ECS  -  F  -  5.0 atmosph. Euro 2</tu>
+	<tu xmlns:lang="deu">ECS  -  F  -  5.0L Saugmotor Euro 2</tu>
+	<tu xmlns:lang="ita">ECS  -  F  -  5.0 NA Euro 2</tu>
+	<tu xmlns:lang="jpn">ECS  －  F  －  5.0L 自然吸気、ユーロ 2</tu>
+	<tu xmlns:lang="ptg">ECS  -  F  -  5.0 NA Euro 2</tu>
+	<tu xmlns:lang="ptb">ECS  -  F  -  5.0 NA Euro 2</tu>
+	<tu xmlns:lang="rus">ECS  -  F  -  5.0 без наддува - стандарт Euro 2</tu>
+	<tu xmlns:lang="esp">ECS  -  F  -  5.0 NA Euro 2</tu>
+	<tu xmlns:lang="chs">ECS  -  F  -  5.0L、自然进气式、艜 II 排暸标准</tu>
+	<tu xmlns:lang="kor">ECS  -  F  -  5.0 NA Euro 2</tu>
+</tm>

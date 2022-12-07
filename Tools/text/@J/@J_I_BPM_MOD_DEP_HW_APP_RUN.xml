@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BPM_MOD_DEP_HW_APP_RUN">
+	<tu
+    xmlns:lang="eng"
+  >The bluetooth telephone module software is dependant on the version of hardware fitted. The following application will run a network test and display the hardware version fitted to this vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Welke Bluetooth-telefoonmodulesoftware wordt gebruikt, is afhankelijk van de gebruikte hardwareversie. De volgende toepassing voert een netwerktest uit en geeft weer welke hardwareversie op het voertuig is aangebracht.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le logiciel du module de téléphone Bluetooth dépend de la version du matériel installé. L'application suivante permet de lancer un test de réseau et affiche la version du matériel installé sur ce véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Software des Bluetooth-Telefonsteuergeräts hängt von der vorhandenen Hardware ab. Das folgende Anwendungsprogramm führt einen Netzwerktest aus und zeigt die in das Fahrzeug eingebaute Hardwareversion an.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il software del modulo del telefono Bluetooth dipende dalla versione dell'hardware installato. La seguente applicazione eseguirà una prova della rete e visualizzerà la versione hardware installata su questo veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ブルートゥース テレホン モジュール ソ\フトウェアは取り付けられたハードウェアのバージョンによって異なります。次のアプリケーションはネットワーク テストを実行し、この車両に取り付けられたハードウェア バージョンを表\示します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O software do módulo do telefone bluetooth depende da versão do hardware instalado. A aplicação seguinte vai executar um teste de rede e apresentar a versão de hardware instalada neste veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O software do módulo do telefone Bluetooth da porta depende da versão do hardware instalado. A seguinte aplicação irá executar um teste de rede e exibir a versão do hardware instalado neste veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Программное обеспечение модуля телефона с поддержкой Bluetooth зависит от версии установленного аппаратного обеспечения. Следующее приложение выполнит проверку сети и отобразит версию аппаратного обеспечения данного автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El software del módulo de teléfono Bluetooth depende de la versión del hardware instalado. La siguiente aplicación ejecutará una prueba de red y mostrará la versión del hardware instalado en este vehículo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >蓝牙电话模块软件取决于配备的硬件版本。以下应用程序将运行网络测试并显示本车配备的硬件版本。</tu>
+	<tu
+    xmlns:lang="kor"
+  >블루투스 전화 모듈 소프트웨어는 장착된 하드웨어의 버전에 따라 다릅니다. 다음 애플리케이션은 네트워크 테스트를 실행하고 이 차량에 장착된 하드웨어 버전을 표시합니다.</tu>
+</tm>

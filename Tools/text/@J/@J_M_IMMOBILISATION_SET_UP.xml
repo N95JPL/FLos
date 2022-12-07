@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_IMMOBILISATION_SET_UP">
+	<tu xmlns:lang="eng">Immobilization set-up</tu>
+	<tu xmlns:lang="nld">Immobilisatie instelling</tu>
+	<tu xmlns:lang="fra">Programmation immobilisation</tu>
+	<tu xmlns:lang="deu">Wegfahrsperren-einrichtung</tu>
+	<tu xmlns:lang="ita">Setup sistema immobilizzazione</tu>
+	<tu xmlns:lang="jpn">イモビライゼーショ・ セットアップ</tu>
+	<tu xmlns:lang="ptg">Definição da imobilização</tu>
+	<tu xmlns:lang="ptb">Configuração de imobilização</tu>
+	<tu xmlns:lang="rus">Настройка блокировки</tu>
+	<tu xmlns:lang="esp">Puesta a punto de la inmovilización</tu>
+	<tu xmlns:lang="chs">止动设置</tu>
+	<tu xmlns:lang="kor">이모빌라이제이션 설정</tu>
+</tm>

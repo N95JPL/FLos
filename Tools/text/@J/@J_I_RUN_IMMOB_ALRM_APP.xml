@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RUN_IMMOB_ALRM_APP">
+	<tu xmlns:lang="eng">Run the immobilzation and alarm plip applications.</tu>
+	<tu xmlns:lang="nld">Voer de startblokkerings- en alarmtoepassingen uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lancez les applications d'immobilisation et de bouton d'alarme.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anwendungen für Wegfahrsperre und Alarm über Fernbedienung laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Eseguire le applicazioni di immobilizzazione e allarme con il telecomando. </tu>
+	<tu
+    xmlns:lang="jpn"
+  >イモビライゼーションおよびアラーム プリップ アプリケーションを実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Execute as aplicações plip (comando à distância da altura do engate de reboque) de imobilização e alarme.</tu>
+	<tu xmlns:lang="ptb">Execute os aplicativos de imobilização e alarme.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запустите PLIP-процедуры иммобилизации и включения сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ejecutar las aplicaciones de inmovilización y de mando a distancia de alarma.</tu>
+	<tu xmlns:lang="chs">运行防盗锁止与警报声应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이모빌라이제이션 및 알람 플립(Plip) 애플리케이션을 실행하십시오.</tu>
+</tm>

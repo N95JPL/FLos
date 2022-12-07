@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ModInProgMode$I">
+	<tu
+    xmlns:lang="eng"
+  >The electronic diesel control module is in programming mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De elektronische dieselregelmodule staat in de programmeerfunctie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module de commande diesel électronique est en mode programmation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Dieselmotor-Steuergerät befindet sich im Programmiermodus.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo di comando diesel elettronico è in modalità di programmazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック ディーゼル コントロール モジュールはプログラミング モードに入っています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O módulo electrónico de controlo do sistema diesel está em modo de programação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo de controle eletrônico de diesel está no modo de programação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электронный блок управления дизельным двигателем находится в режиме программирования.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo de control electrónico Diesel está en modo de programación.</tu>
+	<tu xmlns:lang="chs">柴油电子控制模块处于编程模式。</tu>
+	<tu xmlns:lang="kor">전자식 디젤 컨트롤 모듈이 프로그래밍 모드에 있습니다.</tu>
+</tm>

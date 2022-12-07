@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FLIGHT_DATA">
+	<tu xmlns:lang="eng">Flight recorder data is stored</tu>
+	<tu
+    xmlns:lang="nld"
+  >Gegevens van de registrerende toestandsmeter zijn opgeslagen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les données de l'enregistreur de bord sont enregistrées</tu>
+	<tu xmlns:lang="deu">Es sind Crash-Aufzeichnungsdaten abgespeichert</tu>
+	<tu xmlns:lang="ita">Sono memorizzati dati del flight recorder</tu>
+	<tu xmlns:lang="jpn">フライト レコーダー データが保存されています。</tu>
+	<tu xmlns:lang="ptg">Dados do registador de viagem foram guardados</tu>
+	<tu xmlns:lang="ptb">Dados do gravador de voo armazenados</tu>
+	<tu xmlns:lang="rus">Данные бортового регистратора сохранены</tu>
+	<tu xmlns:lang="esp">Hay datos guardados en el registro de errores</tu>
+	<tu xmlns:lang="chs">行驶记录器数据已存储</tu>
+	<tu xmlns:lang="kor">블랙박스 데이터가 저장됨</tu>
+</tm>

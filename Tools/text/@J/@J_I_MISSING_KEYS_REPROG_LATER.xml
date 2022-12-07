@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MISSING_KEYS_REPROG_LATER">
+	<tu
+    xmlns:lang="eng"
+  >Missing keys can be reprogrammed at a later date if necessary.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Ontbrekende sleutels kunnen, indien nodig, op een later tijdstip worden geherprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les clés manquantes peuvent être reprogrammées ultérieurement si nécessaire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fehlende Schlüssel können bei Bedarf zu einem späteren Zeitpunkt neu programmiert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le chiavi mancanti possono essere riprogrammate in un secondo momento, se necessario.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >今ないキーを後日必要に応じて再プログラムすることができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É possível reprogramar posteriormente chaves desaparecidas, se necessário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As chaves que estão faltando podem ser reprogramadas em uma data posterior, se necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отсутствующие ключи можно перепрограммировать позднее по необходимости.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las llaves que faltan pueden volver a programarse más adelante si es necesario.</tu>
+	<tu xmlns:lang="chs">如有必要，可在以后对丢失的钥匙重新编程。</tu>
+	<tu
+    xmlns:lang="kor"
+  >필요할 경우 이후에 누락된 키를 다시 프로그래밍할 수 있습니다.</tu>
+</tm>

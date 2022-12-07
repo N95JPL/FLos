@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENG_PER_FAN">
+	<tu xmlns:lang="eng">Engine cooling  fan performance</tu>
+	<tu xmlns:lang="nld">Prestaties van motorkoelventilator</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fonctionnement du ventilateur de refroidissement du moteur</tu>
+	<tu xmlns:lang="deu">Kühlerlüfter-Leistung</tu>
+	<tu xmlns:lang="ita">Prestazioni ventola di raffreddamento motore</tu>
+	<tu xmlns:lang="jpn">エンジン クーリング ファン性能\</tu>
+	<tu xmlns:lang="ptg">Desempenho da ventoinha de arrefecimento do motor</tu>
+	<tu xmlns:lang="ptb">Desempenho do ventilador de arrefecimento do motor</tu>
+	<tu xmlns:lang="rus">Характеристика работы вентилятора охлаждения двигателя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Funcionamiento del ventilador de refrigeración del motor</tu>
+	<tu xmlns:lang="chs">发动机冷却风扇性能</tu>
+	<tu xmlns:lang="kor">엔진 냉각 팬 성능</tu>
+</tm>

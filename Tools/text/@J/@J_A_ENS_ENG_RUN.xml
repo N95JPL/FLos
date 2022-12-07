@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENS_ENG_RUN">
+	<tu xmlns:lang="eng">Make sure the engine is running</tu>
+	<tu xmlns:lang="nld">Zorg ervoor dat de motor loopt</tu>
+	<tu xmlns:lang="fra">Assurez vous que le moteur fonctionne</tu>
+	<tu xmlns:lang="deu">Sicherstellen, dass der Motor läuft</tu>
+	<tu xmlns:lang="ita">Controllare che il motore sia in funzione</tu>
+	<tu xmlns:lang="jpn">エンジンがかかっていることを確認しなさい。</tu>
+	<tu xmlns:lang="ptg">Assegure-se de que o motor está em funcionamento</tu>
+	<tu xmlns:lang="ptb">Verifique se de que o motor esteja ligado</tu>
+	<tu xmlns:lang="rus">Убедитесь, что двигатель работает.</tu>
+	<tu xmlns:lang="esp">Asegurarse de que el motor esté en marcha</tu>
+	<tu xmlns:lang="chs">确保发动机在运转。</tu>
+	<tu xmlns:lang="kor">엔진이 작동 중인지 확인하십시오.</tu>
+</tm>

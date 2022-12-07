@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEYS_VERIFIED_SUCC">
+	<tu xmlns:lang="eng">Keys verified successfully.</tu>
+	<tu xmlns:lang="nld">Sleutels zijn met succes geverifieerd.</tu>
+	<tu xmlns:lang="fra">Vérification des clés réussie</tu>
+	<tu xmlns:lang="deu">Schlüssel konnten erfolgreich verifiziert werden.</tu>
+	<tu xmlns:lang="ita">Verifica chiavi riuscita.</tu>
+	<tu xmlns:lang="jpn">キーの検証が正常に完了しました。</tu>
+	<tu xmlns:lang="ptg">Verificação de chaves bem sucedida.</tu>
+	<tu xmlns:lang="ptb">As chaves são verificadas com êxito.</tu>
+	<tu xmlns:lang="rus">Проверка ключей успешно завершена.</tu>
+	<tu xmlns:lang="esp">Llaves verificadas satisfactoriamente.</tu>
+	<tu xmlns:lang="chs">钥匙成功通过验证。</tu>
+	<tu xmlns:lang="kor">키가 올바르게 확인되었습니다.</tu>
+</tm>

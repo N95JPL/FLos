@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart12">
+	<tu
+    xmlns:lang="eng"
+  >When the value returns to 80% the inhibit condition should clear when read with the engine running.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer de waarde terugkeert naar 80% moet de geblokkeerde toestand verdwijnen wanneer er wordt uitgelezen met draaiende motor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lorsque la valeur atteint de nouveau 80 %, la neutralisation ne doit plus être visible lorsque le moteur tourne.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn der Wert auf 80 % zurückkehrt, sollte die Sperrbedingung bei laufendem Motor beim Lesen aufgehoben werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quando il valore torna all'80%, la condizione di disabilitazione scompare quando viene visualizzato con il motore acceso.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >値が 80% に戻り、エンジンの作動が読み取られると、禁止状態は解除されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando o valor volta aos 80%, a condição de inibição deverá apagar-se durante a leitura com o motor em funcionamento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Quando o valor retornar à 80%, a condição de inibição deverá desaparecer quando lida com o motor ligado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если значение заряда возвращается к 80 %, состояние блокировки должно исчезнуть при считывании во время работы двигателя.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cuando el valor vuelva al 80%, la condición de bloqueo debería desaparecer al leerse con el motor en marcha.</tu>
+	<tu
+    xmlns:lang="chs"
+  >数值恢复至 80% 后，在发动机运转时进行读取的情况下，此禁止状态应清除。</tu>
+	<tu
+    xmlns:lang="kor"
+  >값이 80%로 되돌아가는 경우 엔진 작동 상태에서 읽을 때 억제 상태가 나타나지 않아야 합니다.</tu>
+</tm>

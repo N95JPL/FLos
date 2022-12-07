@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PANIC_ALARM_LIMITED">
+	<tu xmlns:lang="eng">Limited panic alarm</tu>
+	<tu xmlns:lang="nld">Beperkt paniekalarm</tu>
+	<tu xmlns:lang="fra">Alarme anti-agression restreinte</tu>
+	<tu xmlns:lang="deu">Eingeschränkter Panikalarm</tu>
+	<tu xmlns:lang="ita">Allarme antipanico limitato</tu>
+	<tu xmlns:lang="jpn">リミット パニック アラーム</tu>
+	<tu xmlns:lang="ptg">Alarme de emergência limitado</tu>
+	<tu xmlns:lang="ptb">Alarme de pânico limitado</tu>
+	<tu xmlns:lang="rus">Предупредительная сигнализация с ограничениями</tu>
+	<tu xmlns:lang="esp">Alarma de pánico limitada</tu>
+	<tu xmlns:lang="chs">受限制的紧急报警器</tu>
+	<tu xmlns:lang="kor">제한적 패닉 알람</tu>
+</tm>

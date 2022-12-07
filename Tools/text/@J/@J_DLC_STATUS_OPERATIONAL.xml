@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_STATUS_OPERATIONAL">
+	<tu xmlns:lang="eng">Operational mode</tu>
+	<tu xmlns:lang="nld">Bedieningsfunctie</tu>
+	<tu xmlns:lang="fra">Mode fonctionnement</tu>
+	<tu xmlns:lang="deu">Betriebsmodus </tu>
+	<tu xmlns:lang="ita">Modalità operativa</tu>
+	<tu xmlns:lang="jpn">オペレーション モード</tu>
+	<tu xmlns:lang="ptg">Modo de funcionamento</tu>
+	<tu xmlns:lang="ptb">Modo operacional</tu>
+	<tu xmlns:lang="rus">Рабочий режим</tu>
+	<tu xmlns:lang="esp">Modo operativo</tu>
+	<tu xmlns:lang="chs">操作模式</tu>
+	<tu xmlns:lang="kor">작동 모드</tu>
+</tm>

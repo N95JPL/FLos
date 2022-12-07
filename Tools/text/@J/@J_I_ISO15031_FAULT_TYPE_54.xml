@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_54">
+	<tu xmlns:lang="eng">System programming failure - missing calibration.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fout in systeemprogrammering - ontbrekende kalibrering.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaut de programmation du système - étalonnage absent.</tu>
+	<tu xmlns:lang="deu">Systemprogrammierungsfehler - Kalibrierung fehlt.</tu>
+	<tu xmlns:lang="ita">Guasto programmazione sistema - taratura mancante.</tu>
+	<tu xmlns:lang="jpn">システム プログラミング不良 － キャリブレーション消失</tu>
+	<tu xmlns:lang="ptg">Falha de programação do sistema - calibragem em falta.</tu>
+	<tu xmlns:lang="ptb">Falha de programação do sistema - calibração ausente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка программирования системы - калибровка не выполнена.</tu>
+	<tu xmlns:lang="esp">Fallo de programación del sistema: falta calibración.</tu>
+	<tu xmlns:lang="chs">系统编程故障 -校准缺失。</tu>
+	<tu xmlns:lang="kor">시스템 프로그래밍 오류 - 보정 누락</tu>
+</tm>

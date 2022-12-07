@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_OIL_DILUTION_RESET">
+	<tu xmlns:lang="eng">Oil dilution reset</tu>
+	<tu xmlns:lang="nld">Terugstellen van olieverdunning</tu>
+	<tu xmlns:lang="fra">Remise à zéro de la dilution d'huile</tu>
+	<tu xmlns:lang="deu">Rücksetzung Ölverdünnung</tu>
+	<tu xmlns:lang="ita">Reimpostazione diluizione olio</tu>
+	<tu xmlns:lang="jpn">オイル希釈リセット</tu>
+	<tu xmlns:lang="ptg">Reposição da diluição do óleo</tu>
+	<tu xmlns:lang="ptb">Redefinição de diluição de óleo</tu>
+	<tu xmlns:lang="rus">Сброс разбавления масла</tu>
+	<tu xmlns:lang="esp">Puesta a cero del indicador de dilución del aceite</tu>
+	<tu xmlns:lang="chs">机油稀释复位</tu>
+	<tu xmlns:lang="kor">오일 희석 재설정</tu>
+</tm>

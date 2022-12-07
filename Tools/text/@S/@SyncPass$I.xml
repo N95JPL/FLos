@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SyncPass$I">
+	<tu xmlns:lang="eng">Synchronization successful.</tu>
+	<tu xmlns:lang="nld">Synchronisatie is met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Synchronisation réussie.</tu>
+	<tu xmlns:lang="deu">Synchronisierung erfolgreich.</tu>
+	<tu xmlns:lang="ita">Sincronizzazione riuscita.</tu>
+	<tu xmlns:lang="jpn">同期化は正常に終了しました。</tu>
+	<tu xmlns:lang="ptg">Sincronização bem sucedida.</tu>
+	<tu xmlns:lang="ptb">Sincronização bem-sucedida.</tu>
+	<tu xmlns:lang="rus">Синхронизация выполнена успешно.</tu>
+	<tu xmlns:lang="esp">Sincronización satisfactoria.</tu>
+	<tu xmlns:lang="chs">同步成功。</tu>
+	<tu xmlns:lang="kor">동기화 성공</tu>
+</tm>

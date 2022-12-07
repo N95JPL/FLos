@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_INTRO_6">
+	<tu
+    xmlns:lang="eng"
+  >Hydraulic brake assistance sensitivity is stored in the electronic control unit as part of the variant coding.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De gevoeligheid van de hydraulische rembekrachtiging wordt als deel van de variantcodering in de elektronische regelmodule opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La sensibilité de l'assistance au freinage hydraulique est enregistrée dans le module de commande électronique comme élément du codage de variante.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Sensitivität des hydraulischen Bremskraftverstärkers wird im elektronischen Steuergerät als Teil der Variantencodierung abgespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La sensibilità del servofreno idraulico è memorizzata nell'unità di comando elettronica come parte della codifica versione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ハイドロリック ブレーキ アシスト感度はエレクトロニック コントロール ユニットにモデル コードの一部として保存されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A definição de sensibilidade do sistema de assistência à travagem hidráulica está armazenada na unidade electrónica de controlo e faz parte do código de versão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A assistência à sensibilidade do freio hidráulico é armazenada na unidade de controle eletrônico, como parte da codificação variante.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Чувствительность гидравлического усилителя хранится в электронном блоке управления как часть прошивки исполнения автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La sensibilidad de la asistencia hidráulica al freno se guarda en el módulo de control electrónico como parte del código de variante.</tu>
+	<tu
+    xmlns:lang="chs"
+  >液压制动辅助敏感度作为变型车编码的组成部分存储在电子控制单元中。</tu>
+	<tu
+    xmlns:lang="kor"
+  >유압 브레이크 보조 감도는 변종 모델 코딩의 일부로서 전자 컨트롤 유닛에 저장됩니다.</tu>
+</tm>

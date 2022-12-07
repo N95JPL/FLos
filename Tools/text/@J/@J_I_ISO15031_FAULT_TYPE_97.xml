@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_97">
+	<tu
+    xmlns:lang="eng"
+  >Component failure - component or system operation obstructed or blocked.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Component defect - component- of systeemwerking gehinderd of geblokkeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Composant défectueux - composant ou fonctionnement du système entravé ou bloqué.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bauteilstörung - Bauteil- oder Systemfunktion behindert oder blockiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto componente - funzionamento componente o sistema ostruito o bloccato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コンポーネント故障 － コンポーネントまたはシステム オペレーション阻害またはブロック</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha de componente - funcionamento de componente ou sistema obstruído ou bloqueado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha do componente - componente ou operação do sistema obstruído ou bloqueado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отказ элемента - работа элемента или системы затруднена или блокирована.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo de componente: funcionamiento del componente o sistema obstruido o bloqueado.</tu>
+	<tu xmlns:lang="chs">元件故障 - 元件或系统操作受到阻塞</tu>
+	<tu
+    xmlns:lang="kor"
+  >구성 요소 고장 - 구성 요소 또는 시스템 작동 방해 또는 막힘</tu>
+</tm>

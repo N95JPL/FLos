@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_1F">
+	<tu xmlns:lang="eng">0x1F : Not started due to input or output control.</tu>
+	<tu xmlns:lang="nld">0x1F : inleren niet gestart vanwege invoer- of uitvoerregeling.</tu>
+	<tu xmlns:lang="fra">0x1F : Non commencé à cause d'une commande d'entrée ou de sortie.</tu>
+	<tu xmlns:lang="deu">0x1F : Nicht angelaufen aufgrund von Eingangs- oder Ausgangssteuerung.</tu>
+	<tu xmlns:lang="ita">0x1F : Non avviato a causa del controllo di input o output.</tu>
+	<tu xmlns:lang="jpn">0x1F : インプットまたはアウトプット コントロールのためスタートせず。</tu>
+	<tu xmlns:lang="ptg">0x1F : Não iniciado devido a controlo de entrada ou de saída.</tu>
+	<tu xmlns:lang="ptb">0X1F : Não é iniciado devido ao controle de entrada ou de saída.</tu>
+	<tu xmlns:lang="rus">0x1F : Запуск не выполнен из-за состояния управления входом или выходом.</tu>
+	<tu xmlns:lang="esp">0x1F: No se inició debido al control de señales de entrada o salida.</tu>
+	<tu xmlns:lang="chs">0x1F： 由于输入或输出控制而没有启动。</tu>
+	<tu xmlns:lang="kor">0x1F : 입력 또는 출력 컨트롤 때문에 시작되지 않습니다.</tu>
+</tm>

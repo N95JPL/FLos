@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_UPDATE_COMPLETE">
+	<tu xmlns:lang="eng">Configuration update completed</tu>
+	<tu xmlns:lang="nld">Het bijwerken van de configuratie is uitgevoerd</tu>
+	<tu xmlns:lang="fra">Mise à jour de configuration terminée</tu>
+	<tu xmlns:lang="deu">Aktualisierung der Konfiguration abgeschlossen</tu>
+	<tu xmlns:lang="ita">Aggiornamento configurazione completato</tu>
+	<tu xmlns:lang="jpn">コンフィギュレーションの更新が完了しました。</tu>
+	<tu xmlns:lang="ptg">Actualização da configuração concluída</tu>
+	<tu xmlns:lang="ptb">Atualização da configuração concluída</tu>
+	<tu xmlns:lang="rus">Обновление конфигурации завершено</tu>
+	<tu xmlns:lang="esp">Actualización de configuración concluida</tu>
+	<tu xmlns:lang="chs">配置更新已完成</tu>
+	<tu xmlns:lang="kor">구성 업데이트가 완료됨</tu>
+</tm>

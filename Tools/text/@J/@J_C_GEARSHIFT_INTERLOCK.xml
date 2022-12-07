@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_GEARSHIFT_INTERLOCK">
+	<tu xmlns:lang="eng">Gearshift interlock</tu>
+	<tu xmlns:lang="nld">Schakelvergrendeling</tu>
+	<tu xmlns:lang="fra">Inteverrouillage de selecteur de vitesses</tu>
+	<tu xmlns:lang="deu">Schaltsperre</tu>
+	<tu xmlns:lang="ita">Interblocco cambio</tu>
+	<tu xmlns:lang="jpn">ギアシフト イ・ターロック</tu>
+	<tu xmlns:lang="ptg">Mecanismo de bloqueio das mudanças</tu>
+	<tu xmlns:lang="ptb">Intertravamento do câmbio</tu>
+	<tu xmlns:lang="rus">Блокировка переключения передач</tu>
+	<tu xmlns:lang="esp">Enclavamiento del cambio de velocidades</tu>
+	<tu xmlns:lang="chs">换档杆互锁</tu>
+	<tu xmlns:lang="kor">기어 변속 인터록</tu>
+</tm>

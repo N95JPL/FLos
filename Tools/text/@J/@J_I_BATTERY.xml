@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATTERY">
+	<tu xmlns:lang="eng">Battery</tu>
+	<tu xmlns:lang="nld">Accu</tu>
+	<tu xmlns:lang="fra">Batterie</tu>
+	<tu xmlns:lang="deu">Batterie</tu>
+	<tu xmlns:lang="ita">Batteria</tu>
+	<tu xmlns:lang="jpn">ﾊﾞッテリ</tu>
+	<tu xmlns:lang="ptg">Bateria</tu>
+	<tu xmlns:lang="ptb">Bateria</tu>
+	<tu xmlns:lang="rus">Аккумуляторная батарея</tu>
+	<tu xmlns:lang="esp">Bateria</tu>
+	<tu xmlns:lang="chs">蓄电池</tu>
+	<tu xmlns:lang="kor">배터리</tu>
+</tm>

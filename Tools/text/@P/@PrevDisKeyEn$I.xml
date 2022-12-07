@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PrevDisKeyEn$I">
+	<tu xmlns:lang="eng">Previously disabled key re-enabled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De eerder gedeactiveerde sleutel is opnieuw geactiveerd.</tu>
+	<tu xmlns:lang="fra">Réactivation d'une clé désactivée auparavant.</tu>
+	<tu xmlns:lang="deu">Zuvor deaktivierter Schlüssel wieder aktiviert.</tu>
+	<tu xmlns:lang="ita">Attivata chiave precedentemente disattivata.</tu>
+	<tu xmlns:lang="jpn">先に作動不可に設定したキーが作動可になりました。</tu>
+	<tu xmlns:lang="ptg">Chave anteriormente desactivada foi activada de novo.</tu>
+	<tu xmlns:lang="ptb">Anteriormente desativada, chave ativada novamente.</tu>
+	<tu xmlns:lang="rus">Ранее заблокированный ключ вновь разрешен.</tu>
+	<tu xmlns:lang="esp">Llave anteriormente inhabilitada rehabilitada.</tu>
+	<tu xmlns:lang="chs">以前禁用的钥匙重新启用。</tu>
+	<tu xmlns:lang="kor">이전에 비활성화된 키가 다시 활성화됨</tu>
+</tm>

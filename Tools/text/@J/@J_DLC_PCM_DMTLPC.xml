@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_PCM_DMTLPC">
+	<tu xmlns:lang="eng">Diagnostics module tank leakage pump current</tu>
+	<tu xmlns:lang="nld">Pompstroom diagnosemodule tanklekkage.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de diagnostics - courant de pompe de fuite de réservoir.</tu>
+	<tu xmlns:lang="deu">Pumpenstrom, Diagnosemodul - Tankundichtigkeit.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo di diagnostica - perdita serbatoio - corrente pompa. </tu>
+	<tu xmlns:lang="jpn">診断モジュール - タンク リーク ポンプ電流</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Corrente da bomba do módulo de diagnóstico de fugas do depósito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Corrente da bomba de diagnóstico de vazamento do tanque de combustível</tu>
+	<tu xmlns:lang="rus">Диагностический блок - ток насоса, утечка бака</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de diagnosis: corriente de la bomba de detección de fugas del depósito.</tu>
+	<tu xmlns:lang="chs">诊断模块油箱泄漏泵电流</tu>
+	<tu xmlns:lang="kor">진단 모듈 탱크 누출 펌프 전류</tu>
+</tm>

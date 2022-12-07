@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BLUETOOTH_HANDS_AUTO">
+	<tu xmlns:lang="eng">Bluetooth handsfree and autostreaming</tu>
+	<tu xmlns:lang="nld">Bluetooth handsfree en autostreaming</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système Bluetooth mains-libres et flux en temps réel automatique</tu>
+	<tu xmlns:lang="deu">Bluetooth mit Freisprecheinrichtung und Autostreaming</tu>
+	<tu xmlns:lang="ita">Viva voce Bluetooth e autostreaming</tu>
+	<tu xmlns:lang="jpn">ブルートゥース ハンズフリーおよびオートストリーミング</tu>
+	<tu xmlns:lang="ptg">Mãos-livres e autostreaming do Bluetooth</tu>
+	<tu xmlns:lang="ptb">Viva-voz Bluetooth e transmissão automática</tu>
+	<tu
+    xmlns:lang="rus"
+  >Телефонная система с функцией 'handsfree' и автоматическая передача потоков данных по Bluetooth</tu>
+	<tu xmlns:lang="esp">Manos libres y reproducción automática Bluetooth</tu>
+	<tu xmlns:lang="chs">蓝牙免提和自动流媒体播放</tu>
+	<tu xmlns:lang="kor">블루투스 핸즈프리 및 자동 스트리밍</tu>
+</tm>

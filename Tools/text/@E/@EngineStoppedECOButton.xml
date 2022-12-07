@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineStoppedECOButton">
+	<tu xmlns:lang="eng">Engine has stopped via the stop/start system.</tu>
+	<tu xmlns:lang="nld">Motor is gestopt via het Stop/Start-systeem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le moteur s'est arrêté avec le système Arrêt/Démarrage.</tu>
+	<tu xmlns:lang="deu">Motor wurde über das Stopp/Start-System gestoppt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il motore è stato spento tramite il sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンは、スタート/ストップ システムにより停止しました。</tu>
+	<tu xmlns:lang="ptg">Motor parado através do sistema Stop/Start.</tu>
+	<tu xmlns:lang="ptb">O motor foi parado por meio do sistema Stop/Start.</tu>
+	<tu xmlns:lang="rus">Двигатель остановлен с помощью системы стоп/старт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El motor se ha detenido a través del sistema Stop/Start.</tu>
+	<tu xmlns:lang="chs">发动机已通过停止/启动系统停止。</tu>
+	<tu xmlns:lang="kor">Stop/Start 시스템을 통해 엔진이 정지되었습니다.</tu>
+</tm>

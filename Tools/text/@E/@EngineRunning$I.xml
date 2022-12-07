@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineRunning$I">
+	<tu xmlns:lang="eng">Engine is running</tu>
+	<tu xmlns:lang="nld">Motor draait</tu>
+	<tu xmlns:lang="fra">Moteur est en marche</tu>
+	<tu xmlns:lang="deu">Motor läuft</tu>
+	<tu xmlns:lang="ita">Il motore sta girando</tu>
+	<tu xmlns:lang="jpn">ｴﾝｼﾞﾝ回転中です。</tu>
+	<tu xmlns:lang="ptg">Motor está a trabalhar</tu>
+	<tu xmlns:lang="ptb">O motor está em funcionamento</tu>
+	<tu xmlns:lang="rus">Двигатель работает</tu>
+	<tu xmlns:lang="esp">Motor en marcha</tu>
+	<tu xmlns:lang="chs">发动机在运转</tu>
+	<tu xmlns:lang="kor">엔진이 작동합니다</tu>
+</tm>

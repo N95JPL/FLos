@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEAT_LCK_MODE">
+	<tu xmlns:lang="eng">Heater locking mode.</tu>
+	<tu xmlns:lang="nld">Verwarmingsblokkeerfunctie.</tu>
+	<tu xmlns:lang="fra">Mode blocage du chauffage.</tu>
+	<tu xmlns:lang="deu">Heizer-Verriegelungsmodus.</tu>
+	<tu xmlns:lang="ita">Modalità bloccaggio riscaldatore.</tu>
+	<tu xmlns:lang="jpn">ヒーター ロッキング モード</tu>
+	<tu xmlns:lang="ptg">Modo de bloqueio do aquecedor.</tu>
+	<tu xmlns:lang="ptb">Modo de travamento do aquecedor.</tu>
+	<tu xmlns:lang="rus">Режим блокирования нагревателя.</tu>
+	<tu xmlns:lang="esp">Modo de bloqueo de la calefacción.</tu>
+	<tu xmlns:lang="chs">加热器锁定模式。</tu>
+	<tu xmlns:lang="kor">히터 잠금 모드</tu>
+</tm>

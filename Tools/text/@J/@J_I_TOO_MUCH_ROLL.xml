@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TOO_MUCH_ROLL">
+	<tu xmlns:lang="eng">Too much roll</tu>
+	<tu xmlns:lang="nld">Teveel omrollen</tu>
+	<tu xmlns:lang="fra">Trop de roulis</tu>
+	<tu xmlns:lang="deu">Übermäßiges Rollen</tu>
+	<tu xmlns:lang="ita">Rollio eccessivo</tu>
+	<tu xmlns:lang="jpn">ローリング過多</tu>
+	<tu xmlns:lang="ptg">Demasiada oscilação</tu>
+	<tu xmlns:lang="ptb">Muita rolagem</tu>
+	<tu xmlns:lang="rus">Слишком большой крен</tu>
+	<tu xmlns:lang="esp">Balanceo excesivo</tu>
+	<tu xmlns:lang="chs">摇晃太大</tu>
+	<tu xmlns:lang="kor">롤링이 너무 큼</tu>
+</tm>

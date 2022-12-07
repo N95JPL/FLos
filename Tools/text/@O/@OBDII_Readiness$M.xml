@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OBDII_Readiness$M">
+	<tu xmlns:lang="eng">OBDII readiness tests</tu>
+	<tu xmlns:lang="nld">OBDII gereedheid tests</tu>
+	<tu xmlns:lang="fra">Tests de disponibilite de l'obdii</tu>
+	<tu xmlns:lang="deu">OBDII bereitschaftsprüfungen</tu>
+	<tu xmlns:lang="ita">Prove di prontezza obdii</tu>
+	<tu xmlns:lang="jpn">OBDIIレデｨネｽ・ﾃｽﾄ</tu>
+	<tu xmlns:lang="ptg">Testes de prontidão do OBDII</tu>
+	<tu xmlns:lang="ptb">Testes de prontidão de OBDII</tu>
+	<tu xmlns:lang="rus">Проверка готовности OBDII</tu>
+	<tu xmlns:lang="esp">Pruebas de preparación del OBDII</tu>
+	<tu xmlns:lang="chs">OBDII就绪测试</tu>
+	<tu xmlns:lang="kor">OBDII 준비 상태 테스트</tu>
+</tm>

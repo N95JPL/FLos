@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_WARNING_LAMPS">
+	<tu xmlns:lang="eng">Warning lamps</tu>
+	<tu xmlns:lang="nld">Waarschuwingslampen</tu>
+	<tu xmlns:lang="fra">Lampes d'avertissement</tu>
+	<tu xmlns:lang="deu">Warnlichter</tu>
+	<tu xmlns:lang="ita">Lampadine di avvertimento</tu>
+	<tu xmlns:lang="jpn">ｳｫーﾆﾝｸﾞ・ﾗﾝﾌﾟ</tu>
+	<tu xmlns:lang="ptg">Luzes de aviso</tu>
+	<tu xmlns:lang="ptb">Luzes de aviso</tu>
+	<tu xmlns:lang="rus">Сигнальные индикаторы</tu>
+	<tu xmlns:lang="esp">Luces de aviso</tu>
+	<tu xmlns:lang="chs">报警灯</tu>
+	<tu xmlns:lang="kor">경고등</tu>
+</tm>

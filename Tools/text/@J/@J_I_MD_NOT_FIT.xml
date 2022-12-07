@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MD_NOT_FIT">
+	<tu xmlns:lang="eng">A minidisc is not fitted.</tu>
+	<tu xmlns:lang="nld">Er is geen minidisc-speler geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">MiniDisc non installé.</tu>
+	<tu xmlns:lang="deu">Ein Minidisc-Spieler ist nicht eingebaut.</tu>
+	<tu xmlns:lang="ita">MiniDisc non in dotazione.</tu>
+	<tu xmlns:lang="jpn">ミニディスク非装備</tu>
+	<tu xmlns:lang="ptg">Não está instalado um mini-disc.</tu>
+	<tu xmlns:lang="ptb">Minidisc não instalado.</tu>
+	<tu xmlns:lang="rus">Проигрыватель минидисков не установлен.</tu>
+	<tu xmlns:lang="esp">No tiene lector de minidiscos.</tu>
+	<tu xmlns:lang="chs">微型磁盘未安装。</tu>
+	<tu xmlns:lang="kor">미니디스크가 장착되지 않았습니다.</tu>
+</tm>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IVS_RES_LIST_QUESTION">
+	<tu xmlns:lang="eng">Please answer the vehicle setting or state for:</tu>
+	<tu xmlns:lang="nld">Geef de voertuiginstelling of -status aan voor:</tu>
+	<tu xmlns:lang="fra">Indiquez les réglages ou l'état du véhicule pour :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte Fahrzeugeinstellung oder -status beantworten für:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Inserire una risposta per l'impostazione o lo stato del veicolo per:</tu>
+	<tu xmlns:lang="jpn">次の車両のセッティングあるいはステータスを答えなさい：</tu>
+	<tu xmlns:lang="ptg">Responda sobre a definição ou estado do veículo para:</tu>
+	<tu xmlns:lang="ptb">Responda com a configuração do veículo ou estado para:</tu>
+	<tu xmlns:lang="rus">Введите ответ для настройки или состояния автомобиля:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Indicar la configuración o el estado del vehículo para:</tu>
+	<tu xmlns:lang="chs">请回答车辆设置或状态：</tu>
+	<tu xmlns:lang="kor">다음에 대한 차량 설정 또는 상태를 답하십시오.</tu>
+</tm>

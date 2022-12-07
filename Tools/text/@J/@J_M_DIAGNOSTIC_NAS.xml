@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DIAGNOSTIC_NAS">
+	<tu xmlns:lang="eng">North America</tu>
+	<tu xmlns:lang="nld">Noord-Amerika</tu>
+	<tu xmlns:lang="fra">Amérique du Nord</tu>
+	<tu xmlns:lang="deu">Nordamerika</tu>
+	<tu xmlns:lang="ita">Nord America</tu>
+	<tu xmlns:lang="jpn">北米</tu>
+	<tu xmlns:lang="ptg">América do Norte</tu>
+	<tu xmlns:lang="ptb">América do Norte</tu>
+	<tu xmlns:lang="rus">Северная Америка</tu>
+	<tu xmlns:lang="esp">Norteamérica</tu>
+	<tu xmlns:lang="chs">北美</tu>
+	<tu xmlns:lang="kor">북미</tu>
+</tm>

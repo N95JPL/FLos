@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@OCSCalibrationWarn2$I">
+	<tu xmlns:lang="eng">Make sure no objects are placed on the passenger's seat during the calibration.</tu>
+	<tu xmlns:lang="nld">Zorg dat u tijdens de kalibrering geen voorwerpen op de passagiersstoel legt.</tu>
+	<tu xmlns:lang="fra">Aucun objet ne doit être placé sur le siège passager pendant l'étalonnage.</tu>
+	<tu xmlns:lang="deu">Sicherstellen, dass während der Kalibrierung keine Objekte auf den Befahrersitz gelegt werden.</tu>
+	<tu xmlns:lang="ita">Accertarsi che durante la taratura non venga messo nessun oggetto sul sedile del passeggero.</tu>
+	<tu xmlns:lang="jpn">キャリブレーション中、助手席側シートに何も置かれていないことを確認しなさい。</tu>
+	<tu xmlns:lang="ptg">Certifique-se de que não existe qualquer objecto em cima do banco do passageiro durante a calibragem.</tu>
+	<tu xmlns:lang="ptb">Certifique-se de que não haja objetos colocados no assento do passageiro durante a calibragem.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что во время калибровки на сиденье пассажира не находится никаких предметов.</tu>
+	<tu xmlns:lang="esp">Asegurarse de que no se coloque ningún objeto en el asiento del acompañante durante la calibración.</tu>
+	<tu xmlns:lang="chs">确保在标定过程中乘客座椅上没有放置任何物体。</tu>
+	<tu xmlns:lang="kor">보정 시 조수석 위에 물건이 놓여 있지 않아야 합니다.</tu>
+</tm>

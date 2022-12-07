@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_BACKUP_CM">
+	<tu xmlns:lang="eng">Vehicle backup module</tu>
+	<tu xmlns:lang="nld">Back-upmodule van voertuig</tu>
+	<tu xmlns:lang="fra">Module de sauvegarde du véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Sicherungsmodul</tu>
+	<tu xmlns:lang="ita">Modulo backup veicolo</tu>
+	<tu xmlns:lang="jpn">車両バックアップ モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de apoio do veículo</tu>
+	<tu xmlns:lang="ptb">Módulo de backup do veículo</tu>
+	<tu xmlns:lang="rus">Модуль резервного копирования файлов автомобиля</tu>
+	<tu xmlns:lang="esp">Módulo de reserva del vehículo</tu>
+	<tu xmlns:lang="chs">车辆备份模块</tu>
+	<tu xmlns:lang="kor">차량 백업 모듈</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PSP_HOLD_BRK_AND_OBSERVE">
+	<tu
+    xmlns:lang="eng"
+  >Press and hold the brake pedal and observe the change in pressure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Houd het rempedaal ingetrapt en kijk hoe de druk verandert.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Enfoncez et maintenez la pédale de frein et observez les changements de pression.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bremspedal betätigen und durchgetreten halten und die Druckänderung beobachten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tenere premuto il pedale del freno e osservare la variazione di pressione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ブレーキ ペダルを踏み込んだままにし、プレッシャの変化を確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Carregue no pedal do travão e mantenha-o nessa posição e observe a alteração da pressão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione e mantenha pressionado o pedal de freio e observe a alteração na pressão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите и удерживайте педаль тормоза и наблюдайте изменение давления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Mantener pisado el pedal del freno y observar el cambio de presión.</tu>
+	<tu xmlns:lang="chs">踩住制动踏板，观察压力变化。</tu>
+	<tu xmlns:lang="kor">브레이크 페달을 밟은 채로 압력의 변화를 관찰하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_14">
+	<tu xmlns:lang="eng">0x14 : Not started due to related system fault detected.</tu>
+	<tu xmlns:lang="nld">0x14 : inleren niet gestart omdat een fout in een bijbehorend systeem is gedetecteerd.</tu>
+	<tu xmlns:lang="fra">0x14 : Non commencé à cause d'un défaut détecté dans le système associé.</tu>
+	<tu xmlns:lang="deu">0x14 : Nicht angelaufen aufgrund von Ermittlung einer Störung bei einem zugehörigen System.</tu>
+	<tu xmlns:lang="ita">0x14 : Non avviato a causa del rilevamento di un guasto in un sistema associato.</tu>
+	<tu xmlns:lang="jpn">0x14 : 関連システム故障検出のためスタートせず。</tu>
+	<tu xmlns:lang="ptg">0x14 : Não iniciado devido a detecção de avaria no sistema relacionado.</tu>
+	<tu xmlns:lang="ptb">0X14 : Não é iniciado devido à falha detectada no sistema relacionado.</tu>
+	<tu xmlns:lang="rus">0x14 : Запуск не выполнен из-за неисправности смежной системы.</tu>
+	<tu xmlns:lang="esp">0x14: No se inició por detectarse una anomalía de un sistema asociado.</tu>
+	<tu xmlns:lang="chs">0x14： 由于检测到相关系统故障而没有启动。</tu>
+	<tu xmlns:lang="kor">0x14 : 관련 시스템 고장이 감지되었기 때문에 시작되지 않습니다.</tu>
+</tm>

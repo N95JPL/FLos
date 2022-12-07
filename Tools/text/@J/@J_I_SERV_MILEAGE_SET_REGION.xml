@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERV_MILEAGE_SET_REGION">
+	<tu
+    xmlns:lang="eng"
+  >This routine sets the service mileage interval depending on the region</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine stelt de onderhoudsintervalindicatie in afhankelijk van de regio</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme définit la fréquence du kilométrage d'entretien en fonction de la région</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine wird abhängig vom Einsatzland das Wartungsintervall nach Kilometerleistung eingestellt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura imposta l'intervallo chilometrico di manutenzione a seconda della regione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、地域によって異なるサービス走行距離間隔を設定します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina define o intervalo de revisões de acordo com a região</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina define o intervalo de quilometragem de manutenção dependendo da região</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта операция служит для установки пробега, определяющего периодичность технического обслуживания в зависимости от региона</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina programa el intervalo entre revisiones por kilometraje según la región</tu>
+	<tu xmlns:lang="chs">这一常规程序根据所在地区设定维修里程间隔</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 지역에 따라 서비스 마일리지 간격을 설정합니다.</tu>
+</tm>

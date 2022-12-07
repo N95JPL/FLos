@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_AUD_BUT_STEER">
+	<tu xmlns:lang="eng">No audio buttons on steering wheel</tu>
+	<tu xmlns:lang="nld">Geen audiotoetsen op stuurwiel</tu>
+	<tu xmlns:lang="fra">Pas de boutons audio au volant</tu>
+	<tu xmlns:lang="deu">Keine Audiotasten am Lenkrad</tu>
+	<tu xmlns:lang="ita">Senza pulsanti audio su volante</tu>
+	<tu xmlns:lang="jpn">ステアリング ホイールのオーディオ ボタンなし</tu>
+	<tu xmlns:lang="ptg">Sem comandos áudio no volante</tu>
+	<tu xmlns:lang="ptb">Não há botões de áudio no volante</tu>
+	<tu xmlns:lang="rus">Без кнопок управления аудиосистемой на рулевом колесе</tu>
+	<tu xmlns:lang="esp">Sin mandos del sistema de audio en el volante</tu>
+	<tu xmlns:lang="chs">方向盘上无音频按钮</tu>
+	<tu xmlns:lang="kor">스티어링 휠의 오디오 버튼 없음</tu>
+</tm>

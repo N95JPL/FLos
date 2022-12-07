@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STATUS_DIAG_EXE">
+	<tu xmlns:lang="eng">Status diagnostic execution:</tu>
+	<tu xmlns:lang="nld">Status van de diagnoseuitvoering:</tu>
+	<tu xmlns:lang="fra">Exécution du diagnostic d'état :</tu>
+	<tu xmlns:lang="deu">Status der Diagnoseausführung:</tu>
+	<tu xmlns:lang="ita">Esecuzione diagnostica di stato:</tu>
+	<tu xmlns:lang="jpn">ステータス診断実行：</tu>
+	<tu xmlns:lang="ptg">Execução de diagnóstico ao estado:</tu>
+	<tu xmlns:lang="ptb">Execução do diagnóstico de estado:</tu>
+	<tu xmlns:lang="rus">Состояние выполнения диагностики:</tu>
+	<tu xmlns:lang="esp">Ejecución de diagnosis de estado:</tu>
+	<tu xmlns:lang="chs">状态诊断执行：</tu>
+	<tu xmlns:lang="kor">상태 진단 실행:</tu>
+</tm>

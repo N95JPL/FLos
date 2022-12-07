@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart14">
+	<tu
+    xmlns:lang="eng"
+  >Estimated cold cranking voltage at present state of charge</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geschatte spanning bij koude start in actuele laadtoestand</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tension de démarrage à froid estimée à l'état de charge actuel</tu>
+	<tu xmlns:lang="deu">Geschätzte Kaltstartspannung bei aktuellem Ladezustand</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tensione stimata per l'avviamento a freddo allo stato attuale di carica</tu>
+	<tu xmlns:lang="jpn">現在の充電状態における推定コールド クランク電圧</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tensão estimada do arranque a frio no estado de carga actual</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Tensão de partida a frio estimada no estado de carga presente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Расчетное напряжение проворачивания коленвала непрогретого двигателя при текущем уровне зарядки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tensión de arranque en frío estimada en el estado de carga actual</tu>
+	<tu xmlns:lang="chs">估计当前电量状态下的冷机拖转起动电压</tu>
+	<tu xmlns:lang="kor">현재 충전 상태에서의 추정 냉간 크랭킹 전압</tu>
+</tm>

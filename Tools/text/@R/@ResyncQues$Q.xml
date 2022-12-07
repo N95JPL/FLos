@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ResyncQues$Q">
+	<tu
+    xmlns:lang="eng"
+  >Do you wish to re-synchronize the electronic diesel control module?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wilt u de elektronische dieselregelmodule opnieuw synchroniseren?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Voulez-vous re-synchroniser le module de commande diesel électronique ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Möchten Sie das Dieselmotor-Steuergerät neu synchronisieren?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Risincronizzare il modulo di comando diesel elettronico?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック ディーゼル コントロール モジュールを再同期化しますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pretende ressincronizar o módulo electrónico de controlo do sistema diesel ? </tu>
+	<tu
+    xmlns:lang="ptb"
+  >Deseja sincronizar novamente o módulo de controle eletrônico de diesel?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнить повторную синхронизацию электронного блока управления дизельным двигателем?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Desea volver a sincronizar el módulo de control electrónico Diesel?</tu>
+	<tu xmlns:lang="chs">您想重新同步柴油电子控制模块吗？</tu>
+	<tu xmlns:lang="kor">전자식 디젤 컨트롤 모듈을 다시 동기화하시겠습니까?</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NORM_PAU">
+	<tu xmlns:lang="eng">Normal pause.</tu>
+	<tu xmlns:lang="nld">Normale pauze.</tu>
+	<tu xmlns:lang="fra">Pause normale.</tu>
+	<tu xmlns:lang="deu">Normale Pause.</tu>
+	<tu xmlns:lang="ita">Pausa normale.</tu>
+	<tu xmlns:lang="jpn">通常の一時停止</tu>
+	<tu xmlns:lang="ptg">Pausa normal.</tu>
+	<tu xmlns:lang="ptb">Pausa normal.</tu>
+	<tu xmlns:lang="rus">Нормальная пауза.</tu>
+	<tu xmlns:lang="esp">Pausa normal.</tu>
+	<tu xmlns:lang="chs">正常暂停。</tu>
+	<tu xmlns:lang="kor">일반 일시 중지</tu>
+</tm>

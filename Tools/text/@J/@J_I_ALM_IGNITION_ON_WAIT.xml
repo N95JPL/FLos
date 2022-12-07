@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_IGNITION_ON_WAIT">
+	<tu xmlns:lang="eng">Checking for ignition 'on'.</tu>
+	<tu xmlns:lang="nld">Controleren of contact aan staat.</tu>
+	<tu xmlns:lang="fra">Contrôle de la mise du contact.</tu>
+	<tu xmlns:lang="deu">Prüfen, ob Zündung eingeschaltet ist.</tu>
+	<tu xmlns:lang="ita">Verifica dell'accensione inserita.</tu>
+	<tu xmlns:lang="jpn">イグニッションが「オン」になっていることを確認中。</tu>
+	<tu xmlns:lang="ptg">Verificar se a ignição está ligada.</tu>
+	<tu xmlns:lang="ptb">Verificando ignição ativada.</tu>
+	<tu xmlns:lang="rus">Проверка включения зажигания.</tu>
+	<tu xmlns:lang="esp">Comprobando si el sistema de encendido está activado.</tu>
+	<tu xmlns:lang="chs">检查点火开关是否打开。</tu>
+	<tu xmlns:lang="kor">점화 스위치가 'ON' 상태인지 확인하십시오.</tu>
+</tm>

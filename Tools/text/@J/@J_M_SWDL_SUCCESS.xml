@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SWDL_SUCCESS">
+	<tu xmlns:lang="eng">Software download is complete.</tu>
+	<tu xmlns:lang="nld">Het downloaden van de software is uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Le téléchargement du logiciel est terminé.</tu>
+	<tu xmlns:lang="deu">Herunterladen von Software ist abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Scaricamento software completato.</tu>
+	<tu xmlns:lang="jpn">ソ\フトウェア ダウンロード完了</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Descarregamento ('download') de software está concluído.</tu>
+	<tu xmlns:lang="ptb">Download de software concluído.</tu>
+	<tu xmlns:lang="rus">Загрузка программного обеспечения завершена.</tu>
+	<tu xmlns:lang="esp">Se ha concluido la descarga de software.</tu>
+	<tu xmlns:lang="chs">软件下载已完成。</tu>
+	<tu xmlns:lang="kor">소프트웨어 다운로드가 완료되었습니다.</tu>
+</tm>

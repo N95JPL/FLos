@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RearLeftWheel$I">
+	<tu xmlns:lang="eng">Rear left wheel.</tu>
+	<tu xmlns:lang="nld">Linkerachterwiel.</tu>
+	<tu xmlns:lang="fra">Roue arrière gauche.</tu>
+	<tu xmlns:lang="deu">Linkes Hinterrad.</tu>
+	<tu xmlns:lang="ita">Ruota posteriore sinistra.</tu>
+	<tu xmlns:lang="jpn">左リア ホイール</tu>
+	<tu xmlns:lang="ptg">Roda traseira esquerda.</tu>
+	<tu xmlns:lang="ptb">Roda traseira esquerda.</tu>
+	<tu xmlns:lang="rus">Заднее левое колесо.</tu>
+	<tu xmlns:lang="esp">Rueda trasera izquierda.</tu>
+	<tu xmlns:lang="chs">左后车轮。</tu>
+	<tu xmlns:lang="kor">리어 좌측 휠</tu>
+</tm>

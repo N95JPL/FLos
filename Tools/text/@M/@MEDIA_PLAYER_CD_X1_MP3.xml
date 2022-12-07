@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MEDIA_PLAYER_CD_X1_MP3">
+	<tu xmlns:lang="eng">Single CD player with MP3</tu>
+	<tu xmlns:lang="nld">Cd-speler voor één cd met MP3</tu>
+	<tu xmlns:lang="fra">Lecteur CD monodisque avec MP3</tu>
+	<tu xmlns:lang="deu">Einzel-CD-Spieler mit MP3</tu>
+	<tu xmlns:lang="ita">Lettore CD singolo con MP3</tu>
+	<tu xmlns:lang="jpn">MP3 装備シングル CD プレーヤー</tu>
+	<tu xmlns:lang="ptg">Leitor de CD simples com MP3</tu>
+	<tu xmlns:lang="ptb">DVD player para um disco com MP3</tu>
+	<tu xmlns:lang="rus">Проигрыватель на один компакт-диск с функцией MP3</tu>
+	<tu xmlns:lang="esp">Lector de un CD con MP3</tu>
+	<tu xmlns:lang="chs">带MP3的单碟播放器</tu>
+	<tu xmlns:lang="kor">MP3가 있는 싱글 CD 플레이어</tu>
+</tm>

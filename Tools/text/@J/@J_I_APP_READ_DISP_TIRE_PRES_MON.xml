@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_READ_DISP_TIRE_PRES_MON">
+	<tu
+    xmlns:lang="eng"
+  >This application will read and then display the tire pressure monitor sensor identification values for each fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing leest de identificatiewaarden voor alle bandenspanningsbewakingssensors en geeft ze weer.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application lira puis affichera les valeurs d'identification de capteur de contrôle de la pression des pneus pour chaque capteur monté.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung liest die Kennungswerte für jeden eingebauten Sensor des Reifendruck-Überwachungssystems aus und zeigt sie dann an.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quest'applicazione legge e visualizza i valori di identificazione sensore di monitoraggio pressione pneumatici per ciascun sensore installato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、取り付けられたそれぞれのタイヤ プレッシャ モニター センサー ID 値を読み取って表\示します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação irá ler e apresentar os valores de identificação do sensor de monitorização da pressão dos pneus para cada um dos que estiverem montados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo lerá e exibirá os valores de identificação do sensor do monitoramento de pressão dos pneus de cada um colocado no carro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение служит для считывания и отображения идентификационных значений установленных датчиков системы контроля давления в шинах.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación leerá y después mostrará los valores de identificación de los sensores de control de la presión de inflado instalados.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本应用程序将为各个配备了传感器的系统读取然后显示轮胎压力监测传感器标识值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 장착된 각각의 타이어 공기압 모니터 센서에 대해 식별 값을 읽은 다음 표시합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_RELEASED">
+	<tu xmlns:lang="eng">Released</tu>
+	<tu xmlns:lang="nld">Losgelaten</tu>
+	<tu xmlns:lang="fra">Relâché</tu>
+	<tu xmlns:lang="deu">Gelöst</tu>
+	<tu xmlns:lang="ita">Rilasciato</tu>
+	<tu xmlns:lang="jpn">リリース済</tu>
+	<tu xmlns:lang="ptg">Solto</tu>
+	<tu xmlns:lang="ptb">Data de lançamento</tu>
+	<tu xmlns:lang="rus">Отпущено</tu>
+	<tu xmlns:lang="esp">Soltado</tu>
+	<tu xmlns:lang="chs">已释放</tu>
+	<tu xmlns:lang="kor">해제됨</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EntAllVals$I">
+	<tu xmlns:lang="eng">All measurements must be entered before continuing.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voordat u verdergaat, moet u eerst alle meetwaarden invoeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Toutes les mesures doivent être saisies avant de poursuivre.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vor dem Fortfahren müssen alle Messwerte eingegeben werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È necessario immettere tutte le misure prima di continuare.</tu>
+	<tu xmlns:lang="jpn">続行する前にすべての測定値を入力しなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tem de se introduzir todas as medições antes de continuar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todas as medidas devem ser inseridas antes de continuar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перед продолжением работы необходимо ввести все измерения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se deben introducir todas las medidas antes de continuar.</tu>
+	<tu xmlns:lang="chs">在继续之前必须输入所有测量值。</tu>
+	<tu xmlns:lang="kor">진행하기 전에 모든 측정값을 입력해야 합니다.</tu>
+</tm>

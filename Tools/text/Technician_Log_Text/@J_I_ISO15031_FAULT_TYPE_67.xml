@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_67">
+<tu xmlns:lang="eng">Algorithm based failure - signal is incorrect after the event.</tu>
+<tu xmlns:lang="nld">Fout gebaseerd op algoritme - na de gebeurtenis is het signaal onjuist.</tu>
+<tu xmlns:lang="fra">Erreur d&#39;algorithme - signal est incorrect apr&#232;s l&#39;&#233;v&#233;nement.</tu>
+<tu xmlns:lang="deu">Auf Algorithmus basierender Fehler - Signal ist nach Ereignis falsch.</tu>
+<tu xmlns:lang="ita">Guasto algoritmico - segnale errato dopo l&#39;evento.</tu>
+<tu xmlns:lang="jpn">ƒAƒ‹ƒSƒŠƒYƒ€ ƒx[ƒX‚Ì•s‹ï‡ | ƒCƒxƒ“ƒgŒãƒVƒOƒiƒ‹•s³</tu>
+<tu xmlns:lang="ptg">Falha com base no algoritmo - o sinal est&#225; incorrecto ap&#243;s o evento.</tu>
+<tu xmlns:lang="rus">Îøèáêà àëãîðèòìà - íåâåðíûé ñèãíàë ïîñëå ñîáûòèÿ.</tu>
+<tu xmlns:lang="esp">Fallo basado en algoritmos: la se&#241;al es incorrecta tras la aver&#237;a.</tu>
+<tu xmlns:lang="chs">Ëã·¨Ïà¹Ø¹ÊÕÏ - ÊÂ¼þ·¢ÉúºóÐÅºÅ²»ÕýÈ·¡£</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_CHANGE_TOL_STATE">
+	<tu xmlns:lang="eng">Do you wish to change the control tolerance state?</tu>
+	<tu xmlns:lang="nld">Wilt u de regeltolerantiestatus wijzigen?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Voulez-vous modifier l'état des tolérances de contrôle ?</tu>
+	<tu xmlns:lang="deu">Möchten Sie den Status der Steuerungstoleranz ändern?</tu>
+	<tu xmlns:lang="ita">Cambiare lo stato tolleranza di comando?</tu>
+	<tu xmlns:lang="jpn">コントロール許容範囲ステータスを変更しますか？</tu>
+	<tu xmlns:lang="ptg">Deseja alterar o estado de tolerância de controlo?</tu>
+	<tu xmlns:lang="ptb">Deseja alterar o estado do controle da tolerância?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вы хотите изменить характеристику допуска системы управления?</tu>
+	<tu xmlns:lang="esp">¿Desea cambiar el estado de la tolerancia de control?</tu>
+	<tu xmlns:lang="chs">是否改变控制公差状态？</tu>
+	<tu xmlns:lang="kor">컨트롤 공차 상태를 변경하시겠습니까?</tu>
+</tm>

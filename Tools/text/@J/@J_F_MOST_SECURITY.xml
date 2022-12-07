@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_MOST_SECURITY">
+	<tu xmlns:lang="eng">Security on MOST configuration failed.</tu>
+	<tu xmlns:lang="nld">De beveiliging van de MOST-configuratie is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de sécurité sur la configuration MOST.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Konfiguration - MOST-Sicherheitseinschaltung nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Sicurezza su configurazione MOST non riuscita.</tu>
+	<tu xmlns:lang="jpn">MOST セキュリティのコンフィギュレーションに失敗</tu>
+	<tu xmlns:lang="ptg">A segurança na configuração do MOST falhou.</tu>
+	<tu xmlns:lang="ptb">Falha na segurança da configuração MOST.</tu>
+	<tu xmlns:lang="rus">Сбой защиты конфигурации сети MOST.</tu>
+	<tu xmlns:lang="esp">Falló la seguridad en la configuración del MOST.</tu>
+	<tu xmlns:lang="chs">MOST安全配置失败。</tu>
+	<tu xmlns:lang="kor">MOST 보안 구성 실패</tu>
+</tm>

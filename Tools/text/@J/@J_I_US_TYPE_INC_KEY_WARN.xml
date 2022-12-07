@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_US_TYPE_INC_KEY_WARN">
+	<tu xmlns:lang="eng">USA  type including key warning</tu>
+	<tu xmlns:lang="nld">VS-type inclusief sleutelwaarschuwing</tu>
+	<tu xmlns:lang="fra">Type USA y compris avertissement clé</tu>
+	<tu xmlns:lang="deu">USA  Typ einschließlich Schlüsselwarnung</tu>
+	<tu xmlns:lang="ita">Tipo USA inclusa avvertenza chiave</tu>
+	<tu xmlns:lang="jpn">キー ワーニングを含む米国タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo EUA incluindo aviso de chave</tu>
+	<tu xmlns:lang="ptb">Tipo dos EUA, incluindo aviso da chave</tu>
+	<tu
+    xmlns:lang="rus"
+  >Тип для США, включая предупреждение об оставленном в замке зажигания ключе</tu>
+	<tu xmlns:lang="esp">Tipo Estados Unidos que incluye aviso de llave</tu>
+	<tu xmlns:lang="chs">包括钥匙报警的美国型</tu>
+	<tu xmlns:lang="kor">키 경고를 포함한 미국 유형</tu>
+</tm>

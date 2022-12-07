@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_TURN_WHEEL_CLOCKWISE">
+	<tu xmlns:lang="eng">Turn steering fully clockwise and hold.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Draai het stuurwiel volledig rechtsom en houd het in die stand</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tourner le volant à fond dans le sens horaire et le maintenir</tu>
+	<tu
+    xmlns:lang="deu"
+  >Lenkrad im Uhrzeigersinn bis zum Anschlag drehen und halten</tu>
+	<tu
+    xmlns:lang="ita"
+  >Girare il volante completamente in senso orario e tenerlo in questa posizione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリングを時計方向にいっぱいに回しそのまま保持しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Rodar a direcção completamente no sentido dos ponteiros do relógio e mantê-la nesta posição.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Vire a direção totalmente no sentido horário e mantenha-a nessa posição.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверните рулевое колесо по часовой стрелке до упора и удерживайте.</tu>
+	<tu xmlns:lang="esp">Girar del todo el volante a la derecha y sostenerlo</tu>
+	<tu xmlns:lang="chs">沿顺时针方向转动转向器到最大位置并保持。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스티어링 휠을 시계 방향으로 끝까지 돌리고 이 위치를 유지하십시오.</tu>
+</tm>

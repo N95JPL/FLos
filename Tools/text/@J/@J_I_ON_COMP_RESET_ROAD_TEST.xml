@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ON_COMP_RESET_ROAD_TEST">
+	<tu
+    xmlns:lang="eng"
+  >On completion, this application must be entered and the selection to return normal mode must be chosen before the vehicle can be road tested.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Na voltooiing moet deze toepassing worden opgestart en moet de normale functie worden geselecteerd, voordat er een proefrit met het voertuig kan worden uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois terminé, cette application doit être exécutée et le retour au mode normal doit être sélectionné avant que le véhicule puisse subir un essai sur route.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach dem Abschluss muss dieses Anwendungsprogramm aufgerufen werden und Rückversetzung in die normale Betriebsart muss ausgewählt werden, ehe mit dem Fahrzeug eine Probefahrt durchgeführt werden kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al termine, occorre accedere a questa applicazione e scegliere l'opzione di ritorno alla modalità normale, prima di poter eseguire la prova su strada del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >完了時に、車両のロードテストを行う前に、このアプリケーションに入って通常モードへ戻る選択を行う必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Depois da conclusão, deve entrar-se nesta aplicação e seleccionar-se a opção de reposição no modo normal antes de efectuar uma prova de estrada com o veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Na conclusão, este aplicativo deve ser inserido e a seleção para retornar ao modo normal deve ser escolhida para que o veículo possa ter um teste de rodagem.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По завершении, прежде чем проводить дорожное испытание автомобиля, нужно войти в это приложение и выбрать возврат в обычный режим.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez concluido, se debe entrar en esta aplicación y se debe elegir volver al modo normal antes de probar el vehículo en carretera.</tu>
+	<tu
+    xmlns:lang="chs"
+  >完成后，必须进入此应用程序，并选择返回到正常模式，之后才能对车辆进行路试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >완료되면 이 애플리케이션으로 들어가서 정상 모드로 돌아가기 위한 선택을 해야 차량 도로 주행 테스트를 실시할 수 있습니다.</tu>
+</tm>

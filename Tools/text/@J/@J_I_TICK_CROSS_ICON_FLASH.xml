@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TICK_CROSS_ICON_FLASH">
+	<tu
+    xmlns:lang="eng"
+  >Press tick to continue if the instument pack 'follow icon' is flashing. Press 'x' to abort if the instrument pack 'follow icon' is not flashing.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op de afvinktoets om verder te gaan als het 'volgsymbool' in de instrumentengroep knippert. Druk op het kruisje om af te breken als het 'volgsymbool' in de instrumentengroep niet knippert.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyer sur la coche pour continuer si l'icône 'mode convoi' clignote sur le tableau de bord. Appuyer sur 'x' pour abandonner si l'icône 'mode convoi' ne clignote pas sur le tableau de bord.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Häkchen antippen, um fortzufahren, wenn das ?Nachfolgesymbol? im Kombiinstrument blinkt. Das 'x' antippen, um abzubrechen, wenn das Nachfolgesymbol im Kombiinstrument nicht blinkt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il segno di spunta per proseguire se l'icona della modalità di accodamento della strumentazione lampeggia. Premere 'x' per interrompere se l'icona della modalità di accodamento della strumentazione non lampeggia.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インストルメント パックの「フォロー アイコン」が点滅している場合、ティックを押して続行しなさい。インストルメント パックの「フォロー アイコン」が点滅していない場合、「×」を押して終了しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima o sinal de visto para continuar se o ícone 'acompanhar' do grupo de instrumentos se apresentar intermitente. Prima o 'x' para abortar se o ícone 'acompanhar' do grupo de instrumentos não se apresentar intermitente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione OK para continuar se ícone seguir no conjunto do painel de instrumentos estiver piscando. Pressione 'x' para cancelar, se o ícone seguir no conjunto do painel de instrumentos estiver piscando.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если на панели приборов мигает значок 'поддержание дистанции', нажмите галочку для продолжения работы. Если этот значок на панели приборов не мигает, нажмите 'x' для выхода из программы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar la marca de verificación para continuar si el icono de seguimiento del cuadro de instrumentos parpadea. Pulsar x para salir si el icono de seguimiento del cuadro de instrumentos no parpadea.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果仪表盘的 ‘车间距控制图标’ 闪烁，请按勾选键继续。 如果仪表盘的 ‘车间距控制图标’ 没有闪烁，请按‘X（叉键）’中止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >계기판 '추종 아이콘'이 깜박이는 경우 계속하려면 체크 표시를 누르십시오. 계기판 '추종 아이콘'이 깜박이지 않는 경우 중단하려면 'x'를 누르십시오.</tu>
+</tm>

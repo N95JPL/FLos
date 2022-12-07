@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENSURE_NO_FAULT_CODES">
+	<tu
+    xmlns:lang="eng"
+  >Before performing this procedure, make sure the normal diagnostic procedure has been performed and the engine control module has no stored fault codes.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer voordat u deze procedure uitvoert eerst dat de normale diagnoseprocedure is uitgevoerd en er in de motorregelmodule geen foutcodes zijn opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Avant de suivre cette procédure, vérifiez que la procédure de diagnostic normale a été effectuée et que le module de commande du moteur n'a pas enregistré de défauts.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vor Durchführung dieses Arbeitsgangs sicherstellen, dass das normale Diagnoseverfahren durchgeführt wurde und dass im Motorsteuergerät keine Fehlercodes abgespeichert sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prima di eseguire questa procedura, accertarsi che sia stata eseguita la procedura diagnostica normale e che sul modulo di comando motore non siano memorizzati codici di guasto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順を実施する前に、通常の診断手順が実施され、エンジン コントロール モジュールにフォルトコードが保存されていないことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nota: Nos veículos sem distribuidor de antena, ou seja, veículos equipados apenas com uma vareta eléctrica, é registado um código de avaria, independentemente de a ligação à vareta estar correcta.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Antes de executar este procedimento, certifique-se de que o procedimento de diagnóstico normal foi feito e o módulo de controle do motor não tem códigos de erro armazenados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перед выполнением данной процедуры убедитесь, что была выполнена стандартная диагностическая проверка, и в блоке управления двигателем не сохранены коды неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Antes de llevar a cabo este procedimiento, verificar que se haya realizado el procedimiento de diagnosis normal y que el módulo de control del motor no tenga guardado ningún código de avería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'执行该程序前，确保已执行常规诊断程序，且发动机控制模块没有已存储的故障代码。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차를 수행하기 전, 정상적인 진단 절차가 수행되었고 엔진 컨트롤 모듈에 저장된 고장 코드가 없는지 확인하십시오.</tu>
+</tm>

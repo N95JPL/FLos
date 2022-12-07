@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PWR_16_WAY_DRI_SEAT_ADJ">
+	<tu xmlns:lang="eng">Power 16-way driver's seat adjust</tu>
+	<tu
+    xmlns:lang="nld"
+  >Elektrisch bekrachtigde 16-wegafstelling van bestuurdersstoel</tu>
+	<tu xmlns:lang="fra">Siège conducteur électrique à réglage 16 voies</tu>
+	<tu xmlns:lang="deu">16-fach elektrisch verstellbarer Fahrersitz</tu>
+	<tu xmlns:lang="ita">Regolazione elettrica sedile guidatore a 16 vie</tu>
+	<tu xmlns:lang="jpn">電動 16 ウェイ運転席側シート調整</tu>
+	<tu xmlns:lang="ptg">Ajuste eléctrico de 16 vias do banco do condutor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ajuste elétrico do assento do motorista com 16 direções</tu>
+	<tu
+    xmlns:lang="rus"
+  >16-позиционная система регулировки сиденья водителя с электроприводом</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ajuste eléctrico en 16 sentidos del asiento del conductor</tu>
+	<tu xmlns:lang="chs">电动 16 向驾驶员座椅调节</tu>
+	<tu xmlns:lang="kor">전동식 16방향 운전석 시트 조정</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_PASSIVE_RESTRAINT">
+	<tu xmlns:lang="eng">Passive restraint</tu>
+	<tu xmlns:lang="nld">Passieve beveiliging</tu>
+	<tu xmlns:lang="fra">Retenue passive</tu>
+	<tu xmlns:lang="deu">Passives rückhaltesystem</tu>
+	<tu xmlns:lang="ita">Dispositivo di sicurezza di tipo passivo</tu>
+	<tu xmlns:lang="jpn">パッシブ拘束</tu>
+	<tu xmlns:lang="ptg">Segurança passiva</tu>
+	<tu xmlns:lang="ptb">Apoio passivo</tu>
+	<tu xmlns:lang="rus">Устройство пассивной безопасности</tu>
+	<tu xmlns:lang="esp">Dispositivo de seguridad pasivo</tu>
+	<tu xmlns:lang="chs">被动约束</tu>
+	<tu xmlns:lang="kor">수동형 에어백</tu>
+</tm>

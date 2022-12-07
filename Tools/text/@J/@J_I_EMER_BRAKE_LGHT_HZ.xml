@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EMER_BRAKE_LGHT_HZ">
+	<tu xmlns:lang="eng">Emergency brake lamp  -  Hazard warning</tu>
+	<tu xmlns:lang="nld">Noodstop-remlicht.  -  Alarmknipperlichten</tu>
+	<tu xmlns:lang="fra">Feu de frein de secours.  -  Feux de détresse</tu>
+	<tu xmlns:lang="deu">Notfallbremsleuchte  -  Warnblinkanlage</tu>
+	<tu xmlns:lang="ita">Luce freno di emergenza  -  Lampeggio di emergenza</tu>
+	<tu xmlns:lang="jpn">緊急ブレーキ ランプ  －  ハザード ワーニング</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Luz de travagem de emergência  -  Sinalização de emergência</tu>
+	<tu xmlns:lang="ptb">Luz de frenagem de emergência  -  Pisca-alerta</tu>
+	<tu
+    xmlns:lang="rus"
+  >Индикатор экстренного торможения  -  Аварийная сигнализация</tu>
+	<tu
+    xmlns:lang="esp"
+  >Luz de freno de emergencia  -  Intermitentes de emergencia</tu>
+	<tu xmlns:lang="chs">紧急制动灯  -  危险报警灯</tu>
+	<tu xmlns:lang="kor">비상 브레이크 등  -  위험 경고</tu>
+</tm>

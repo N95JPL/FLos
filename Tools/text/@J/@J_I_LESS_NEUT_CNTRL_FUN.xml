@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_NEUT_CNTRL_FUN">
+	<tu xmlns:lang="eng">Without neutral control function</tu>
+	<tu xmlns:lang="nld">Zonder regelfunctie in de neutraalstand</tu>
+	<tu xmlns:lang="fra">Sans fonction de commande de point mort</tu>
+	<tu xmlns:lang="deu">Ohne neutrale Kontrollfunktion</tu>
+	<tu xmlns:lang="ita">Senza funzione comando folle</tu>
+	<tu xmlns:lang="jpn">ニュートラル コントロール機能\なし</tu>
+	<tu xmlns:lang="ptg">Sem função de comando do ponto morto</tu>
+	<tu xmlns:lang="ptb">Sem função de controle do neutro</tu>
+	<tu xmlns:lang="rus">Без функции контроля нейтрального положения </tu>
+	<tu xmlns:lang="esp">Sin función de control de punto muerto</tu>
+	<tu xmlns:lang="chs">无空档控制功能</tu>
+	<tu xmlns:lang="kor">중립 컨트롤 기능 불포함</tu>
+</tm>

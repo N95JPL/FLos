@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERV_INT_4_12000_KM">
+	<tu xmlns:lang="eng">Service interval 4  -  12000 km</tu>
+	<tu xmlns:lang="nld">Onderhoudsinterval 4  -  12.000 km</tu>
+	<tu xmlns:lang="fra">Périodicité d'entretien 4  -  12000 km</tu>
+	<tu xmlns:lang="deu">Wartungsintervall 4  -  12000 km</tu>
+	<tu xmlns:lang="ita">Intervallo di servizio (tagliando) 4  -  12000 km</tu>
+	<tu xmlns:lang="jpn">サービス インターバル 4  －  12000 km</tu>
+	<tu xmlns:lang="ptg">Intervalo de revisão 4  -  12000 km</tu>
+	<tu xmlns:lang="ptb">Intervalo de Manutenção 4  -  12000 km</tu>
+	<tu xmlns:lang="rus">Интервал периодичности обслуживания 4  -  12000 км</tu>
+	<tu xmlns:lang="esp">Intervalo de servicio 4  -  12000 km</tu>
+	<tu xmlns:lang="chs">维护间隔时间 4  -  12000 公里</tu>
+	<tu xmlns:lang="kor">서비스 주기 4  -  12000km</tu>
+</tm>

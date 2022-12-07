@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TICK_RESET_DPF_SERV_COUNT">
+	<tu
+    xmlns:lang="eng"
+  >Selecting the tick will reset the Diesel particulate filter oil service counters</tu>
+	<tu
+    xmlns:lang="nld"
+  >Door het vinkje te selecteren wordt de onderhoudsintervalmelder voor het dieseldeeltjesfilter teruggesteld</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cliquez sur la coche si vous désirez réinitialiser le compteur de vidanges d'huile du filtre à particules diesel</tu>
+	<tu
+    xmlns:lang="deu"
+  >Antippen des Häkchens setzt die Ölwechselanzeigen - Dieselrußfilter zurück</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezionando il segno di spunta, verranno azzerati i contatori del cambio olio del filtro antiparticolato per diesel</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ティックを選択するとディーゼル微粒子フィルター (DPF)／オイル サービス カウンターがリセットされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccionar o visto reinicia os contadores de mudança de óleo do filtro de partículas do Diesel</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Selecionar a marca de verificação redefinirá os contadores de manutenção de óleo do filtro de partículas de diesel</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выбирая 'галочку', будет сброшен счетчик сервиса противосажевого фильтра</tu>
+	<tu
+    xmlns:lang="esp"
+  >Al seleccionar la marca de verificación se reinicializarán los contadores de revisiones del aceite del filtro de partículas Diesel</tu>
+	<tu xmlns:lang="chs">选择勾选键将会让柴油微粒过滤器机油维护计数器复位</tu>
+	<tu
+    xmlns:lang="kor"
+  >체크 표시를 선택하면 디젤 미립자 필터 오일 서비스 카운터가 재설정됩니다.</tu>
+</tm>

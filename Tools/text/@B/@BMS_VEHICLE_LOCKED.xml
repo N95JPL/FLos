@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_VEHICLE_LOCKED">
+	<tu xmlns:lang="eng">The vehicle must then be locked</tu>
+	<tu xmlns:lang="nld">Het voertuig moet daarna worden vergrendeld</tu>
+	<tu xmlns:lang="fra">Le véhicule doit alors être verrouillé</tu>
+	<tu xmlns:lang="deu">Das Fahrzeug muss dann verriegelt werden.</tu>
+	<tu xmlns:lang="ita">Si deve quindi bloccare la vettura</tu>
+	<tu xmlns:lang="jpn">その後車両をロックしなければなりません</tu>
+	<tu xmlns:lang="ptg">O veículo deve então ser trancado</tu>
+	<tu xmlns:lang="ptb">O veículo deve, então, ser travado</tu>
+	<tu xmlns:lang="rus">Затем автомобиль следует запереть</tu>
+	<tu xmlns:lang="esp">Hay que bloquear el vehículo</tu>
+	<tu xmlns:lang="chs">之后必须锁闭车辆</tu>
+	<tu xmlns:lang="kor">차량을 잠가야 합니다.</tu>
+</tm>

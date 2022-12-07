@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DDOOR_DETECTED">
+	<tu xmlns:lang="eng">%d : driver's door open detected</tu>
+	<tu xmlns:lang="nld">%d : Bestuurdersportier open gedetecteerd</tu>
+	<tu xmlns:lang="fra">%d : Porte conducteur ouverte détectée</tu>
+	<tu xmlns:lang="deu">%d : Geöffnete Fahrertür ermittelt</tu>
+	<tu xmlns:lang="ita">%d : Rilevata portiera guidatore aperta</tu>
+	<tu xmlns:lang="jpn">%d：ドライバー ドア開検知。</tu>
+	<tu xmlns:lang="ptg">%d: detectada porta do condutor aberta</tu>
+	<tu xmlns:lang="ptb">%d : porta do motorista aberta detectada</tu>
+	<tu xmlns:lang="rus">%d : обнаружено, что дверь водителя открыта</tu>
+	<tu xmlns:lang="esp">%d : Detectada puerta del conductor abierta</tu>
+	<tu xmlns:lang="chs">%d：检测到驾驶员一侧车门开启</tu>
+	<tu xmlns:lang="kor">%d: 운전석 도어 열림이 감지됨</tu>
+</tm>

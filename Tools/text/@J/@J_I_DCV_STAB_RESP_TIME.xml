@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DCV_STAB_RESP_TIME">
+	<tu xmlns:lang="eng">Pressure control valve - stable off response time</tu>
+	<tu xmlns:lang="nld">Drukregelklep - stabiel op de reactietijd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Régulateur de pression - temps de réponse d'activation stable.</tu>
+	<tu xmlns:lang="deu">Druckregelventil - stabil in Ansprechzeit</tu>
+	<tu
+    xmlns:lang="ita"
+  >Valvola controllo pressione - tempo di risposta attivazione stabile</tu>
+	<tu xmlns:lang="jpn">プレッシャ コントロール バルブ - オン応答時間安定</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Válvula de controlo da pressão - tempo de resposta para ligar estável</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Válvula do controle de pressão - tempo de resposta estável do sistema desligado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Клапан регулировки давления - стабильное время срабатывания на выключение</tu>
+	<tu
+    xmlns:lang="esp"
+  >Válvula reguladora de presión: tiempo de respuesta de activación estable</tu>
+	<tu xmlns:lang="chs">压力控制阀 - 稳定关闭响应时间</tu>
+	<tu xmlns:lang="kor">압력 컨트롤 밸브 - 안정적 Off 응답 시간</tu>
+</tm>

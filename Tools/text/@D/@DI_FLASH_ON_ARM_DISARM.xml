@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DI_FLASH_ON_ARM_DISARM">
+	<tu xmlns:lang="eng">Turn signal flash on arm/disarm.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Knippering van richtingaanwijzers ingeschakeld/uitgeschakeld</tu>
+	<tu xmlns:lang="fra">Clignotement DI armement/désarmement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Blinkfunktion der blinkleuchten beim schärfen/entschärfen der alarmanlage</tu>
+	<tu
+    xmlns:lang="ita"
+  >Indicatori di direzione intermittenti su inserimento/disinserimento</tu>
+	<tu
+    xmlns:lang="jpn"
+  >方向指示灯フラッシュ・オン　アーム／ﾃﾞィスアーム・ウォーニンｸﾞ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Piscar dos indicadores de mudança de direcção ao armar/desarmar.</tu>
+	<tu xmlns:lang="ptb">Ativação/desativação do sinal da luz da seta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Мигание указателей поворота при включении/отключении охранной системы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Iluminación intermitentes de los indicadores de dirección de aviso de armado / desarmado</tu>
+	<tu xmlns:lang="chs">布设/解除安全系统时转向信号灯闪烁。</tu>
+	<tu xmlns:lang="kor">알람 설정/해제 시 방향 지시등이 깜박임</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_TRN_IGN_POS_II">
+	<tu xmlns:lang="eng">Turn ignition to position II after cable connection.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Draai het contact naar stand II nadat u de kabel hebt vastgekoppeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tournez le commutateur d'allumage en position II après avoir connecté le câble.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach dem Kabelanschluss die Zündung in Stellung II bringen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dopo aver collegato il cavo, girare il commutatore di accensione sulla posizione II.</tu>
+	<tu xmlns:lang="jpn">ケーブル接続後、イグニションをオンにしなさい。</tu>
+	<tu xmlns:lang="ptg">Coloque a ignição na posição II após ligar o cabo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Gire a ignição para a posição II após a conexão do cabo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После подсоединения кабеля переведите ключ зажигания в положение II.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Gire la llave de contacto a la posición II después de haber conectado el cable.</tu>
+	<tu xmlns:lang="chs">电缆连接后将点火转至位置 II 。</tu>
+	<tu xmlns:lang="kor">케이블을 연결한 후 점화 스위치를 위치 II로 바꾸십시오.</tu>
+</tm>

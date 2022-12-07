@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_IGN_SWITCHED_SUPPLIES">
+	<tu xmlns:lang="eng">Ignition supplies</tu>
+	<tu xmlns:lang="nld">Contact voedingsbronnen</tu>
+	<tu xmlns:lang="fra">Alimentations allumage</tu>
+	<tu xmlns:lang="deu">Zündgeschaltete versorgungsleitungen</tu>
+	<tu xmlns:lang="ita">Alimentazioni accensione</tu>
+	<tu xmlns:lang="jpn">イグニショ・ サプライ</tu>
+	<tu xmlns:lang="ptg">Alimentação da ignição</tu>
+	<tu xmlns:lang="ptb">Fontes da ignição</tu>
+	<tu xmlns:lang="rus">Линии питания зажигания</tu>
+	<tu xmlns:lang="esp">Alimentaciones del encendido</tu>
+	<tu xmlns:lang="chs">点火电源</tu>
+	<tu xmlns:lang="kor">점화 전원 공급</tu>
+</tm>

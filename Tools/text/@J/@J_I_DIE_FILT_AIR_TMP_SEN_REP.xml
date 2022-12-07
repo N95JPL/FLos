@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIE_FILT_AIR_TMP_SEN_REP">
+	<tu
+    xmlns:lang="eng"
+  >Diesel particulate filter air temperature sensor replacement</tu>
+	<tu
+    xmlns:lang="nld"
+  >Vervanging van luchttemperatuursensor van dieselroetfilter</tu>
+	<tu
+    xmlns:lang="fra"
+  >Remplacement du capteur de température d'air du filtre à particules diesel</tu>
+	<tu xmlns:lang="deu">Austausch Lufttemperatursensor - Diesel-Partikelfilter</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sostituzione sensore temperatura aria filtro antiparticolato per diesel</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ディーゼル微粒子フィルター (DPF) エア温度センサーの交換</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que todas as chaves se encontram a mais de 3 metros do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Substituição do sensor de temperatura do ar do filtro de partículas diesel</tu>
+	<tu
+    xmlns:lang="rus"
+  >Замена датчика температуры воздуха противосажевого фильтра для дизельного топлива</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sustitución del sensor de temperatura del aire del filtro de partículas Diesel</tu>
+	<tu xmlns:lang="chs">柴油微粒过滤器空气温度传感器更换</tu>
+	<tu xmlns:lang="kor">디젤 미립자 필터 에어 온도 센서 교체</tu>
+</tm>

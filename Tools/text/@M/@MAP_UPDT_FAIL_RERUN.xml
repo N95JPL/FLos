@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAP_UPDT_FAIL_RERUN">
+	<tu
+    xmlns:lang="eng"
+  >If the on screen prompts have indicated the update has failed in anyway and advises you to retry, re-run this application again.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer de instructies op het scherm aangeven dat het bijwerken is mislukt en aanbevelen om het opnieuw te proberen, voert u deze toepassing nogmaals uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si les instructions à l'écran indiquent que la mise à jour a échoué et que vous êtes invité à réessayer, exécutez de nouveau l'application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wurde auf dem Bildschirm gemeldet, dass die Anwendung fehlgeschlagen ist und der Vorgang erneut durchgeführt werden sollte, die Anwendung erneut ausführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se le istruzioni visualizzate sullo schermo segnalano che l'aggiornamento non è riuscito e suggeriscono di riprovare, eseguire nuovamente questa applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >画面のプロンプトが更新の失敗を表示し、再試行を通知した場合は、アプリケーションを再実行すること。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se as instruções no ecrã indicarem que a atualização falhou e recomendarem tentar novamente, volte a executar esta aplicação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Caso as mensagens na tela indiquem ter havido alguma falha na atualização e o aconselharem a tentar novamente, execute mais uma vez este aplicativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если инструкции на экране указывают на то, что обновление не удалось выполнить, и предлагают повторить попытку, запустите данное приложение еще раз.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si los mensajes en pantalla han indicado que la actualización ha fallado y le aconsejan que vuelva a intentarlo, ejecute esta aplicación de nuevo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果屏幕上的提示指示更新失败并建议您重试，则再次重新运行此应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >화면에 업데이트에 실패했다는 내용의 메시지가 표시되고 재시도하라는 메시지가 표시될 경우 이 응용 프로그램을 다시 실행하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LIFT_GATE">
+	<tu xmlns:lang="eng">Liftgate</tu>
+	<tu xmlns:lang="nld">Achterklep</tu>
+	<tu xmlns:lang="fra">Hayon</tu>
+	<tu xmlns:lang="deu">Heckklappe</tu>
+	<tu xmlns:lang="ita">Portellone</tu>
+	<tu xmlns:lang="jpn">リフトゲート</tu>
+	<tu xmlns:lang="ptg">Porta do compartimento de bagagem</tu>
+	<tu xmlns:lang="ptb">Plataforma elevatória</tu>
+	<tu xmlns:lang="rus">Дверь багажного отделения</tu>
+	<tu xmlns:lang="esp">Portón trasero</tu>
+	<tu xmlns:lang="chs">提升门</tu>
+	<tu xmlns:lang="kor">리프트게이트</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess16$I">
+	<tu
+    xmlns:lang="eng"
+  >Once complete, reconnect the tester and clear the alignment diagnostic trouble codes, which will be set during the fitment of the module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zodra dit is uitgevoerd, sluit u het testapparaat weer aan en wist u de diagnosefoutcodes van het uitlijnen, die tijdens de installatie van de module zijn ingesteld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois terminé, rebranchez le contrôleur et effacez les codes d'anomalie qui seront enregistrés pendant le montage du module.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss den Tester wieder anschließen und die ausrichtungsbezogenen Fehlercodes löschen, die beim Einbau des Steuergeräts abgespeichert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta completata la procedura, ricollegare l'apparecchio di prova e azzerare i codici dei problemi di diagnostica di allineamento, impostati durante il montaggio del modulo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >完了後、テスターを再接続し、モジュール取り付け時に設定されたアライメント診断トラブル コードをクリアします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Uma vez concluído, volte a ligar o equipamento de teste e apague os códigos de avaria de alinhamento, estabelecidos durante a montagem do módulo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma vez concluído, reconecte o dispositivo de teste e limpe os códigos de problema de diagnóstico, que será registrado durante a instalação do módulo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По окончании повторно подключите тестер и удалите диагностические коды неисправностей корректировки, которые появятся во время установки блока.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez concluido, volver a conectar el comprobador y borrar los códigos de avería de alineación que se habrán registrado durante el montaje del módulo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'一旦完成，重新连接测试仪并清除校准的故障诊断码，该故障码将在安装该模块时设置。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >완료된 후 테스터를 다시 연결하고 정렬 고장 진단 코드를 삭제하십시오. 이 코드는 모듈 장착 시 설정됩니다.</tu>
+</tm>

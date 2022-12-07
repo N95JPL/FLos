@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart303">
+	<tu xmlns:lang="eng">Conditions met</tu>
+	<tu xmlns:lang="nld">Aan de voorwaarden is voldaan</tu>
+	<tu xmlns:lang="fra">Conditions remplies</tu>
+	<tu xmlns:lang="deu">Bedingungen erfüllt</tu>
+	<tu xmlns:lang="ita">Condizioni soddisfatte</tu>
+	<tu xmlns:lang="jpn">適合条件</tu>
+	<tu xmlns:lang="ptg">Condições reunidas</tu>
+	<tu xmlns:lang="ptb">Condições atendidas</tu>
+	<tu xmlns:lang="rus">Условия соблюдены</tu>
+	<tu xmlns:lang="esp">Se cumplen las condiciones</tu>
+	<tu xmlns:lang="chs">条件满足</tu>
+	<tu xmlns:lang="kor">조건이 충족됨</tu>
+</tm>

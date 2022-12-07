@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ELECTRO_INT_MIRR">
+	<tu xmlns:lang="eng">Electrochromic interior mirror</tu>
+	<tu xmlns:lang="nld">Automatisch dimmende binnenspiegel</tu>
+	<tu xmlns:lang="fra">Rétroviseur intérieur électrochromique</tu>
+	<tu xmlns:lang="deu">Selbstabblendender Innenrückspiegel</tu>
+	<tu xmlns:lang="ita">Specchietto retrovisore interno elettrocromatico</tu>
+	<tu xmlns:lang="jpn">エレクトロクローミック インテリア ミラー</tu>
+	<tu xmlns:lang="ptg">Retrovisor interior electrocromático</tu>
+	<tu xmlns:lang="ptb">Retrovisor eletrocrômico interior</tu>
+	<tu xmlns:lang="rus">Электрохромное внутреннее зеркало</tu>
+	<tu xmlns:lang="esp">Retrovisor interior sensible a la luz</tu>
+	<tu xmlns:lang="chs">电致变色内后视镜</tu>
+	<tu xmlns:lang="kor">전자크롬 내부 미러</tu>
+</tm>

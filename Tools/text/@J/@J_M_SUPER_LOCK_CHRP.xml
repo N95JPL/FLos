@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SUPER_LOCK_CHRP">
+	<tu xmlns:lang="eng">Superlock chirp</tu>
+	<tu xmlns:lang="nld">Claxongeluid bij supervergrendelen</tu>
+	<tu xmlns:lang="fra">Pépiement de superverrouillage</tu>
+	<tu xmlns:lang="deu">Signalton bei Doppelverriegelung</tu>
+	<tu xmlns:lang="ita">Segnale acustico bloccaggio superlock</tu>
+	<tu xmlns:lang="jpn">スーパーロック チャープ (ロック確認音)</tu>
+	<tu xmlns:lang="ptg">Aviso sonoro de supertrancagem</tu>
+	<tu xmlns:lang="ptb">Aviso sonoro de supertravamento</tu>
+	<tu xmlns:lang="rus">Короткий звуковой сигнал функции Superlock</tu>
+	<tu xmlns:lang="esp">Chirrido de cierre con enclavamiento</tu>
+	<tu xmlns:lang="chs">超锁鸣音</tu>
+	<tu xmlns:lang="kor">슈퍼록 작동음</tu>
+</tm>

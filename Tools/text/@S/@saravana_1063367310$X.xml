@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@saravana_1063367310$X">
+	<tu xmlns:lang="eng">Press and hold the %s.</tu>
+	<tu xmlns:lang="nld">Houd de %s ingedrukt.</tu>
+	<tu xmlns:lang="fra">Appuyez sur le %s sans relâcher.</tu>
+	<tu xmlns:lang="deu">%s drücken und gedrückt halten.</tu>
+	<tu xmlns:lang="ita">Premere e tenere premuto %s.</tu>
+	<tu xmlns:lang="jpn">%s を押したままにしなさい。</tu>
+	<tu xmlns:lang="ptg">Premir e manter premido o %s.</tu>
+	<tu xmlns:lang="ptb">Pressione e segure o %s.</tu>
+	<tu xmlns:lang="rus">Нажмите и удерживайте %s.</tu>
+	<tu xmlns:lang="esp">Mantener pulsado el %s.</tu>
+	<tu xmlns:lang="chs">按住%s。</tu>
+	<tu xmlns:lang="kor">%s을(를) 길게 누르십시오.</tu>
+</tm>

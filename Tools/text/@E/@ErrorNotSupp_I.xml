@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ErrorNotSupp_I">
+	<tu xmlns:lang="eng">Not supported</tu>
+	<tu xmlns:lang="nld">Niet ondersteund</tu>
+	<tu xmlns:lang="fra">Non pris en charge</tu>
+	<tu xmlns:lang="deu">Nicht unterstützt</tu>
+	<tu xmlns:lang="ita">Non supportato</tu>
+	<tu xmlns:lang="jpn">サポートされていない</tu>
+	<tu xmlns:lang="ptg">Não suportado</tu>
+	<tu xmlns:lang="ptb">Não suportado</tu>
+	<tu xmlns:lang="rus">Не поддерживается</tu>
+	<tu xmlns:lang="esp">No soportado</tu>
+	<tu xmlns:lang="chs">不支持</tu>
+	<tu xmlns:lang="kor">지원 안 됨</tu>
+</tm>

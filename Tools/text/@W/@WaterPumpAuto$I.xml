@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WaterPumpAuto$I">
+	<tu xmlns:lang="eng">Water pump automatic control.</tu>
+	<tu xmlns:lang="nld">Automatische regeling van de waterpomp.</tu>
+	<tu xmlns:lang="fra">Commande automatique de la pompe à eau.</tu>
+	<tu xmlns:lang="deu">Automatiksteuerung Kühlmittelpumpe.</tu>
+	<tu xmlns:lang="ita">Comando automatico pompa acqua.</tu>
+	<tu xmlns:lang="jpn">ウォーターポンプ オートマチック コントロール</tu>
+	<tu xmlns:lang="ptg">Comando automático da bomba de água.</tu>
+	<tu xmlns:lang="ptb">Controle automático da bomba de água.</tu>
+	<tu xmlns:lang="rus">Автоматическое управление водяным насосом.</tu>
+	<tu xmlns:lang="esp">Control automático de la bomba de agua.</tu>
+	<tu xmlns:lang="chs">水泵自动控制。</tu>
+	<tu xmlns:lang="kor">워터 펌프 자동 컨트롤</tu>
+</tm>

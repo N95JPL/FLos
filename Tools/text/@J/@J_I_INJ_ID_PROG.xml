@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INJ_ID_PROG">
+	<tu xmlns:lang="eng">The injector identifications will require programming.</tu>
+	<tu xmlns:lang="nld">U zult de injectoridentificaties moeten programmeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous devrez programmer l'identification de l'injecteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Einspritzventil-Identifizierungsnummern müssen programmiert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Gli identificativi degli iniettori devono essere programmati.</tu>
+	<tu xmlns:lang="jpn">インジェクタ ID はプログラミングが必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É necessário programar as identificações dos injectores.</tu>
+	<tu xmlns:lang="ptb">As identificações do injetor requerem programação.</tu>
+	<tu xmlns:lang="rus">Идентификация форсунок потребует программирования.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se necesitará programar las identificaciones de inyector.</tu>
+	<tu xmlns:lang="chs">喷油器标识将需要编程。</tu>
+	<tu xmlns:lang="kor">인젝터 식별 정보를 프로그래밍해야 합니다.</tu>
+</tm>

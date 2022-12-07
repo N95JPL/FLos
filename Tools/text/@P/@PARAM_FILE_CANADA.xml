@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PARAM_FILE_CANADA">
+	<tu xmlns:lang="eng">Parameter file for Canada</tu>
+	<tu xmlns:lang="nld">Parameterbestand voor Canada</tu>
+	<tu xmlns:lang="fra">Fichier de configuration destiné au Canada</tu>
+	<tu xmlns:lang="deu">Parameterdatei für Kanada</tu>
+	<tu xmlns:lang="ita">File parametri per il Canada</tu>
+	<tu xmlns:lang="jpn">カナダ用パラメータ ファイル</tu>
+	<tu xmlns:lang="ptg">Ficheiro de parâmetros para Canadá</tu>
+	<tu xmlns:lang="ptb">Arquivo de parâmetros para o Canadá</tu>
+	<tu xmlns:lang="rus">Файл параметров для Канады</tu>
+	<tu xmlns:lang="esp">Archivo de parámetros para Canadá</tu>
+	<tu xmlns:lang="chs">用于加拿大的参数文件</tu>
+	<tu xmlns:lang="kor">매개 변수 파일(캐나다)</tu>
+</tm>

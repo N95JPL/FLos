@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_VALUE_OUT_OF_RANGE">
+	<tu xmlns:lang="eng">The value specified is out of range.</tu>
+	<tu xmlns:lang="nld">De gespecificeerde waarde is buiten het bereik.</tu>
+	<tu xmlns:lang="fra">La valeur spécifiée est hors tolérances.</tu>
+	<tu xmlns:lang="deu">Der angegebene Wert liegt außerhalb des Bereichs.</tu>
+	<tu xmlns:lang="ita">Il valore specificato è fuori campo.</tu>
+	<tu xmlns:lang="jpn">特定された数値は規定範囲外です。</tu>
+	<tu xmlns:lang="ptg">Macedónia</tu>
+	<tu xmlns:lang="ptb">O valor especificado está fora da faixa operacional.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Указанное значение находится вне допустимого диапазона.</tu>
+	<tu xmlns:lang="esp">El valor especificado está fuera de límites.</tu>
+	<tu xmlns:lang="chs">给定的值超出范围。</tu>
+	<tu xmlns:lang="kor">지정된 값이 범위를 벗어납니다.</tu>
+</tm>

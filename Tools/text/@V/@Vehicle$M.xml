@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Vehicle$M">
+	<tu xmlns:lang="eng">Vehicle</tu>
+	<tu xmlns:lang="nld">Voertuig</tu>
+	<tu xmlns:lang="fra">Véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeug</tu>
+	<tu xmlns:lang="ita">Veicolo</tu>
+	<tu xmlns:lang="jpn">車両</tu>
+	<tu xmlns:lang="ptg">Veículo</tu>
+	<tu xmlns:lang="ptb">Veículo</tu>
+	<tu xmlns:lang="rus">Автомобиль</tu>
+	<tu xmlns:lang="esp">Vehículo</tu>
+	<tu xmlns:lang="chs">车辆</tu>
+	<tu xmlns:lang="kor">차량</tu>
+</tm>

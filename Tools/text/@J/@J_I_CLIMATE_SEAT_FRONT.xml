@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CLIMATE_SEAT_FRONT">
+	<tu xmlns:lang="eng">Cooled/heated front seats</tu>
+	<tu xmlns:lang="nld">Voorstoelkoeling/-verwarming</tu>
+	<tu xmlns:lang="fra">Sièges avant climatisés/chauffés</tu>
+	<tu xmlns:lang="deu">Gekühlte/beheizte Vordersitze</tu>
+	<tu xmlns:lang="ita">Sedili anteriori raffreddati/riscaldati</tu>
+	<tu xmlns:lang="jpn">フロント シート クーラー／ヒーター</tu>
+	<tu xmlns:lang="ptg">Bancos dianteiros arrefecidos/aquecidos</tu>
+	<tu xmlns:lang="ptb">Bancos dianteiros aquecidos/resfriados</tu>
+	<tu xmlns:lang="rus">Передние сиденья с подогревом/охлаждением</tu>
+	<tu xmlns:lang="esp">Asientos delanteros calefactados y refrigerados</tu>
+	<tu xmlns:lang="chs">已冷却/加热的前座椅</tu>
+	<tu xmlns:lang="kor">냉각/열선내장 프론트 시트</tu>
+</tm>

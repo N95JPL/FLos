@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StartSelLo$I">
+	<tu xmlns:lang="eng">Start the engine and select low range.</tu>
+	<tu xmlns:lang="nld">Start de motor en kies het lage bereik.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mettez le moteur en marche et sélectionnez la gamme basse.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Motor starten und den niedrigen Übersetzungsbereich wählen.</tu>
+	<tu xmlns:lang="ita">Avviare il motore e selezionare la gamma bassa.</tu>
+	<tu xmlns:lang="jpn">エンジンを始動し、ロー レンジを選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Ponha o motor a trabalhar e seleccione a gama baixa.</tu>
+	<tu xmlns:lang="ptb">Ligue o motor e selecione o intervalo baixo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запустите двигатель и переключитесь в диапазон низших передаточных чисел.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Poner el motor en marcha y seleccionar una marcha corta.</tu>
+	<tu xmlns:lang="chs">起动发动机并选择低档范围。</tu>
+	<tu xmlns:lang="kor">엔진에 시동을 걸고 로우 레인지를 선택하십시오.</tu>
+</tm>

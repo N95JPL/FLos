@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SMS_READ_LIST">
+	<tu xmlns:lang="eng">Short message service read list</tu>
+	<tu xmlns:lang="nld">Sms-lijst</tu>
+	<tu xmlns:lang="fra">Liste de lecture de service de messages courts</tu>
+	<tu xmlns:lang="deu">SMS-Leseliste (Short Message Service)</tu>
+	<tu xmlns:lang="ita">Elenco messaggi SMS letti</tu>
+	<tu xmlns:lang="jpn">ショート メッセージ サービス読み取りリスト</tu>
+	<tu xmlns:lang="ptg">Lista de leitura do serviço de mensagens curtas</tu>
+	<tu xmlns:lang="ptb">Lista de leitura do serviço de mensagens SMS</tu>
+	<tu xmlns:lang="rus">Список сообщений SMS</tu>
+	<tu xmlns:lang="esp">Lista de lectura del servicio de mensajes cortos</tu>
+	<tu xmlns:lang="chs">短信服务已阅列表</tu>
+	<tu xmlns:lang="kor">단문 메시지 서비스 읽기 목록</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_EX_GAL_COMP_START">
+	<tu xmlns:lang="eng">Exhaust the gallery to allow compressor to start.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Laat de druk in het kanaal ontsnappen, zodat de compressor kan starten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ouvrir la tuyauterie pour permettre au compresseur de démarrer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Druckluftkanal entlüften, um den Kompressor anlaufen zu lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Scaricare il condotto per consentire l'avvio del compressore.</tu>
+	<tu xmlns:lang="jpn">コンプレッサが始動するよう、ギャラリーを排気しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esvazie a galeria para permitir o arranque do compressor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esvazie a galeria para permitir que o compressor se inicie.</tu>
+	<tu xmlns:lang="rus">Выполните продувку магистрали для запуска компрессора.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Descargar el conducto para que el compresor pueda ponerse en marcha.</tu>
+	<tu xmlns:lang="chs">排空流道以使压缩机启动。</tu>
+	<tu xmlns:lang="kor">갤러리를 배출하여 컴프레서가 가동되도록 하십시오.</tu>
+</tm>

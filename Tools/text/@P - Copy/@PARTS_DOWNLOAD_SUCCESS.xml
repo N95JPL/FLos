@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PARTS_DOWNLOAD_SUCCESS">
+	<tu xmlns:lang="eng">All parts were successfully downloaded</tu>
+	<tu xmlns:lang="nld">Het downloaden van alle onderdelen is met succes uitgevoerd</tu>
+	<tu xmlns:lang="fra">Tous les éléments ont été téléchargés avec succès</tu>
+	<tu xmlns:lang="deu">Alle Teile wurden erfolgreich heruntergeladen.</tu>
+	<tu xmlns:lang="ita">Tutte le parti sono state scaricate correttamente</tu>
+	<tu xmlns:lang="jpn">全部分を正常にダウンロードしました。</tu>
+	<tu xmlns:lang="ptg">Todas as peças foram descarregadas com êxito</tu>
+	<tu xmlns:lang="ptb">Todas as peças foram baixadas com sucesso</tu>
+	<tu xmlns:lang="rus">Загрузка всех модулей выполнена удачно</tu>
+	<tu xmlns:lang="esp">Todas las piezas se descargaron satisfactoriamente</tu>
+	<tu xmlns:lang="chs">所有软件部件均已成功下载</tu>
+	<tu xmlns:lang="kor">모든 파트가 올바로 다운로드되었습니다.</tu>
+</tm>

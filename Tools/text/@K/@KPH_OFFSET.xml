@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KPH_OFFSET">
+	<tu xmlns:lang="eng">KPH off-set</tu>
+	<tu xmlns:lang="nld">Afwijking in km/uur</tu>
+	<tu xmlns:lang="fra">Décalage km/h.</tu>
+	<tu xmlns:lang="deu">KPH Versatz</tu>
+	<tu xmlns:lang="ita">Offset KPH</tu>
+	<tu xmlns:lang="jpn">km/h オフセット</tu>
+	<tu xmlns:lang="ptg">Desvio KPH</tu>
+	<tu xmlns:lang="ptb">Compensação km/h</tu>
+	<tu xmlns:lang="rus">Поправка в км/ч</tu>
+	<tu xmlns:lang="esp">Decalaje de km/h</tu>
+	<tu xmlns:lang="chs">KPH补偿</tu>
+	<tu xmlns:lang="kor">KPH 오프셋</tu>
+</tm>

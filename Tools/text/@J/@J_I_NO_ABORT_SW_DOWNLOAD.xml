@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_ABORT_SW_DOWNLOAD">
+	<tu
+    xmlns:lang="eng"
+  >The process must not be aborted once the software download has started.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure mag niet worden afgebroken wanneer de software wordt gedownload.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure ne doit pas être interrompue une fois que le téléchargement du logiciel a débuté.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Vorgang darf nicht abgebrochen werden, nachdem mit dem Herunterladen der Software begonnen wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non si deve interrompere il processo una volta che è iniziato lo scaricamento del software.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ソ\フトウェアのダウンロードをいったん開始するとプロセスを中断することはできません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O processo não deve ser cancelado, depois de iniciada transferência do software.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O processo não deve ser anulado uma vez que o download de software for iniciado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После начала загрузки программного обеспечения процесс прерывать нельзя.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez iniciada la descarga del software, no se puede cancelar el proceso.</tu>
+	<tu xmlns:lang="chs">软件下载一旦开始，即不得中止该程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >소프트웨어 다운로드가 시작된 후에는 이 프로세스를 중단하면 안 됩니다.</tu>
+</tm>

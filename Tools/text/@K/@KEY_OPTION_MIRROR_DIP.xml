@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KEY_OPTION_MIRROR_DIP">
+	<tu xmlns:lang="eng">Reverse mirror dipping only.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alleen omlaag kantelen van spiegel bij achteruitrijden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Inclinaison des rétroviseurs en marche arrière seulement.</tu>
+	<tu xmlns:lang="deu">Nur Spiegelabsenkung bei Rückwärtsfahrt.</tu>
+	<tu xmlns:lang="ita">Solo oscurazione specchietti in retromarcia.</tu>
+	<tu xmlns:lang="jpn">リバース ミラー下向きのみ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Apenas retrovisores com função de inclinação em marcha atrás.</tu>
+	<tu xmlns:lang="ptb">Somente rebaixamento do retrovisor.</tu>
+	<tu xmlns:lang="rus">Наклон зеркала только при движении задним ходом.</tu>
+	<tu xmlns:lang="esp">Inclinación de retrovisores en marcha atrás solamente.</tu>
+	<tu xmlns:lang="chs">仅倒车后视镜下降。</tu>
+	<tu xmlns:lang="kor">리버스 미러 디핑만 해당됨.</tu>
+</tm>

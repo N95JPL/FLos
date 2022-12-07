@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TV_TUNER_DIG">
+	<tu xmlns:lang="eng">Television digital DVB-T</tu>
+	<tu xmlns:lang="nld">Digitale televisie DVB-T</tu>
+	<tu xmlns:lang="fra">Télévision numérique DVB-T</tu>
+	<tu xmlns:lang="deu">Digital-DVB-T, TV</tu>
+	<tu xmlns:lang="ita">Televisione digitale DVB-T</tu>
+	<tu xmlns:lang="jpn">TV デジタル DVB-T</tu>
+	<tu xmlns:lang="ptg">Televisão digital DVB-T</tu>
+	<tu xmlns:lang="ptb">TV digital DVB-T</tu>
+	<tu xmlns:lang="rus">Цифровое телевидение DVB-T</tu>
+	<tu xmlns:lang="esp">Televisión digital DVB-T</tu>
+	<tu xmlns:lang="chs">电视数字 DVB-T</tu>
+	<tu xmlns:lang="kor">텔레비전 디지털 DVB-T</tu>
+</tm>

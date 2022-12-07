@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INC_SPEED_AND_HOLD">
+	<tu
+    xmlns:lang="eng"
+  >Slowly increase the engine speed to an indicated %i RPM and hold for %i seconds.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verhoog het motortoerental langzaam tot de aangegeven %i omw/min en houd de motor %i seconden op dit toerental.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Augmentez lentement le régime moteur jusqu'à l'indication de %i tr/min et maintenez-le pendant %i secondes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Motordrehzahl langsam auf einen Anzeigewert von %i U/min anheben und für %i Sekunden dort halten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Aumentare lentamente il regime del motore fino ad un regime di giri/min %i indicato e mantenerlo per %i secondi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジン スピードを指示された %i RPM までゆっくりと上昇させ %i 秒間保持しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aumentar lentamente a velocidade do motor até um nível de %i RPM indicado e mantê-lo durante %i segundos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aumente lentamente a rotação do motor até uma indicação %i RPM e segure por %i segundos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Медленно увеличьте обороты двигателя до указанного значения %i об/мин и удерживайте их в течение %i секунд.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aumentar lentamente el régimen del motor a unas %i rpm indicadas de y mantenerlas durante %i segundos.</tu>
+	<tu xmlns:lang="chs">缓慢提高发动机转速至建议的 %i RPM 并保持 %i 秒钟。</tu>
+	<tu
+    xmlns:lang="kor"
+  >표시된 %i RPM까지 엔진 속도를 천천히 높이고 %i초 동안 유지하십시오.</tu>
+</tm>

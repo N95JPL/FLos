@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMP_DOCK_STATION">
+	<tu xmlns:lang="eng">Companion docking station.</tu>
+	<tu xmlns:lang="nld">Bijbehorend koppelstation.</tu>
+	<tu xmlns:lang="fra">Station d'accueil.</tu>
+	<tu xmlns:lang="deu">Zusatz-Andockstation.</tu>
+	<tu xmlns:lang="ita">Stazione aggancio complemento.</tu>
+	<tu xmlns:lang="jpn">コンパニオン ドッキング ステーション</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Docking station (estação de acoplamento) com câmara de auxílio ao condutor.</tu>
+	<tu xmlns:lang="ptb">Estação de encaixe para o acompanhante.</tu>
+	<tu xmlns:lang="rus">Вспомогательная док-станция.</tu>
+	<tu xmlns:lang="esp">Estación base de la cámara.</tu>
+	<tu xmlns:lang="chs">配套系泊部位。</tu>
+	<tu xmlns:lang="kor">컴패니언 도킹 스테이션</tu>
+</tm>

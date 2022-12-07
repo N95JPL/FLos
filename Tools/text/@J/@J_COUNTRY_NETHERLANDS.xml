@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_NETHERLANDS">
+	<tu xmlns:lang="eng">Netherlands</tu>
+	<tu xmlns:lang="nld">Nederland</tu>
+	<tu xmlns:lang="fra">Pays-Bas</tu>
+	<tu xmlns:lang="deu">Niederlande</tu>
+	<tu xmlns:lang="ita">Paesi Bassi</tu>
+	<tu xmlns:lang="jpn">オランダ</tu>
+	<tu xmlns:lang="ptg">Países Baixos</tu>
+	<tu xmlns:lang="ptb">Holanda</tu>
+	<tu xmlns:lang="rus">Нидерланды</tu>
+	<tu xmlns:lang="esp">Países Bajos</tu>
+	<tu xmlns:lang="chs">荷兰</tu>
+	<tu xmlns:lang="kor">네덜란드</tu>
+</tm>

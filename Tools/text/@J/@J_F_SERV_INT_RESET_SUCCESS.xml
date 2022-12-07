@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SERV_INT_RESET_SUCCESS">
+	<tu xmlns:lang="eng">Service interval reset completed.</tu>
+	<tu xmlns:lang="nld">Terugstellen van onderhoudsinterval afgerond.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Remise à zéro de l'intervalle jusqu'à la prochaine révision terminée.</tu>
+	<tu xmlns:lang="deu">Rücksetzung Wartungsintervall abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Completato azzeramento intervallo di servizio.</tu>
+	<tu xmlns:lang="jpn">サービス インターバル リセットが完了しました。</tu>
+	<tu xmlns:lang="ptg">Concluída a reiniciação do intervalo entre revisões.</tu>
+	<tu xmlns:lang="ptb">Reinicialização do intervalo dos serviços concluída.</tu>
+	<tu xmlns:lang="rus">Сброс счетчика периодичности обслуживания выполнен.</tu>
+	<tu xmlns:lang="esp">Reinicio del intervalo entre revisiones concluido.</tu>
+	<tu xmlns:lang="chs">维护时间间隔复位已完成。</tu>
+	<tu xmlns:lang="kor">서비스 주기 재설정 완료됨</tu>
+</tm>

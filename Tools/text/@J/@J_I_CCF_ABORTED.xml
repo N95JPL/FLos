@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CCF_ABORTED">
+	<tu xmlns:lang="eng">Vehicle configuration download aborted by the user.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Downloaden van voertuigconfiguratiebestand door gebruiker afgebroken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Téléchargement de configuration du véhicule abandonné par l'utilisateur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Herunterladen der Fahrzeugkonfiguration vom Benutzer abgebrochen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Download della configurazione veicolo interrotto dall'utente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ユーザーによって車両コンフィギュレーション ダウンロードが中止されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Transferência ('download') da configuração do veículo cancelado pelo utilizador.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Download de configuração do veículo abortado pelo usuário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Загрузка конфигурации автомобиля прервана пользователем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Descarga de la configuración del vehículo cancelada por el usuario.</tu>
+	<tu xmlns:lang="chs">车辆配置下载被用户中止。</tu>
+	<tu xmlns:lang="kor">사용자가 차량 구성 다운로드를 중단했습니다.</tu>
+</tm>

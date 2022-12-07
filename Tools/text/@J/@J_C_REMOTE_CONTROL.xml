@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_REMOTE_CONTROL">
+	<tu xmlns:lang="eng">Remote control switches</tu>
+	<tu xmlns:lang="nld">Schakelaars afstandsbediening</tu>
+	<tu xmlns:lang="fra">Commutateurs de telecommande</tu>
+	<tu xmlns:lang="deu">Fernbedienungsschalter</tu>
+	<tu xmlns:lang="ita">Interruttori di comando a distanza</tu>
+	<tu xmlns:lang="jpn">リモート コントロール スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptores do comando à distância</tu>
+	<tu xmlns:lang="ptb">Interruptores do controle remoto</tu>
+	<tu xmlns:lang="rus">Выключатели дистанционного управления</tu>
+	<tu xmlns:lang="esp">Interruptores telemando</tu>
+	<tu xmlns:lang="chs">遥控开关</tu>
+	<tu xmlns:lang="kor">리모컨 스위치</tu>
+</tm>

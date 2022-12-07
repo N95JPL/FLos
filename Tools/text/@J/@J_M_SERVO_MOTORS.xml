@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SERVO_MOTORS">
+	<tu xmlns:lang="eng">Servo motors</tu>
+	<tu xmlns:lang="nld">Stelmotoren</tu>
+	<tu xmlns:lang="fra">Servomoteurs</tu>
+	<tu xmlns:lang="deu">Stellmotoren</tu>
+	<tu xmlns:lang="ita">Servomotori</tu>
+	<tu xmlns:lang="jpn">サーボ モーター</tu>
+	<tu xmlns:lang="ptg">Motores servo</tu>
+	<tu xmlns:lang="ptb">Servomotores</tu>
+	<tu xmlns:lang="rus">Сервомоторы</tu>
+	<tu xmlns:lang="esp">Servomotores</tu>
+	<tu xmlns:lang="chs">伺服电机</tu>
+	<tu xmlns:lang="kor">서보 모터</tu>
+</tm>

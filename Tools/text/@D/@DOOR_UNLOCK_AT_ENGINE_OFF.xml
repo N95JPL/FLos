@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DOOR_UNLOCK_AT_ENGINE_OFF">
+	<tu xmlns:lang="eng">Door unlock at engine off</tu>
+	<tu xmlns:lang="nld">Portier ontgrendelen bij motor afzetten</tu>
+	<tu xmlns:lang="fra">Déverrouillage des portes à la coupure du moteur.</tu>
+	<tu xmlns:lang="deu">Türentriegelung bei Abstellen des Motors</tu>
+	<tu xmlns:lang="ita">Sbloccaggio portiere a spegnimento motore</tu>
+	<tu xmlns:lang="jpn">エンジン オフ時のドア アンロック</tu>
+	<tu xmlns:lang="ptg">Destrancagem das portas com o motor desligado</tu>
+	<tu xmlns:lang="ptb">Destravar porta com motor desligado</tu>
+	<tu xmlns:lang="rus">Отпирание двери при выключенном двигателе</tu>
+	<tu xmlns:lang="esp">Desbloqueo de puertas al pararse el motor</tu>
+	<tu xmlns:lang="chs">发动机关闭时的车门解锁</tu>
+	<tu xmlns:lang="kor">엔진 정지 시 도어 잠금 해제</tu>
+</tm>

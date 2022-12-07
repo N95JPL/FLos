@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ClearTCodes_Q_L">
+	<tu xmlns:lang="eng">Clear trouble codes.
+
+Confirm to continue.
+Cancel to abort.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wis foutcodes\\n\\nBevestigen om door te gaan\\nAnnuleren om af te breken</tu>
+	<tu
+    xmlns:lang="fra"
+  >Supprimez les codes déanomalie enregistrés\\n\\nAppuyez sur confirmer pour continuer\\Appuyez sur annuler pour abandonner</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fehlercodes löschen\\n\\nBestätigen zum Fortfahren\\nAbbrechen für Abbruch</tu>
+	<tu
+    xmlns:lang="ita"
+  >Cancella i codici di guasto\\n\\nConferma per continuare\\nAnnulla per abbandonare</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トラブル コードをクリアしなさい\\n\\n確認を押して続行\\nキャンセルを押して中断</tu>
+	<tu xmlns:lang="ptg">Apagar os códigos de avaria.
+
+Premir 'Confirm' para continuar.
+Premir 'Cancel' para cancelar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Apague os códigos de problema.  Confirme para continuar. Cancelar para abortar.</tu>
+	<tu xmlns:lang="rus">Сбросьте коды неисправности.
+
+Выберите 'Confirm' (Подтвердить) для продолжения проверки.
+Выберите 'Cancel' (Отменить), чтобы прервать проверку.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Borrar códigos de avería\\n\\nConfirmar para continuar\\nCancelar para anular</tu>
+	<tu xmlns:lang="chs">‘清除故障代码。
+
+按‘确认’继续。
+按‘取消’中止。’</tu>
+	<tu
+    xmlns:lang="kor"
+  >고장 코드를 삭제하십시오.  계속하려면 확인하십시오. 중단하려면 취소하십시오.</tu>
+</tm>

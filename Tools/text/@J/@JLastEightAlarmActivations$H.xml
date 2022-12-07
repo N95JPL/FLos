@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JLastEightAlarmActivations$H">
+	<tu
+    xmlns:lang="eng"
+  >The causes of the last eight alarm activations are listed with the most recent activation at the top</tu>
+	<tu xmlns:lang="nld">De oorzaken van het activeren van de laatste
+acht alarmen zijn aangegeven met de meest recentelijke activatie bovenaan</tu>
+	<tu xmlns:lang="fra">Les causes des huit dernières activations
+d'alarmes sont listées avec l'activation la plus récente en tête</tu>
+	<tu xmlns:lang="deu">Die Ursachen der letzten Alarmmeldungen
+werden aufgelistet, wobei die jüngste an erster Stelle erscheint</tu>
+	<tu xmlns:lang="ita">Le cause delle ultime otto attivazioni di
+allarme vengono elencate con l'attivazione più recente in cima</tu>
+	<tu
+    xmlns:lang="jpn"
+  >過去 8 回のｱﾗーﾑが作動した原因です。最新のものをﾄｯﾌﾟに示しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As causas das últimas oito activações do alarme são listadas com a activação mais recente no topo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As causas das últimas oito ativações de alarme são listadas com a ativação mais recente na parte superior</tu>
+	<tu
+    xmlns:lang="rus"
+  >Причины последних восьми срабатываний указаны в верхней части списка последних срабатываний</tu>
+	<tu xmlns:lang="esp">Las causas de las últimas ocho activaciones
+de alarma vienen enumeradas con la activación más reciente encima</tu>
+	<tu
+    xmlns:lang="chs"
+  >列出最近八次报警启动的原因，其中最近一次启动的原因列在最前端</tu>
+	<tu
+    xmlns:lang="kor"
+  >마지막 8회 경보 작동의 원인이 나열되며, 가장 최근에 작동된 내용이 가장 위에 기재됩니다.</tu>
+</tm>

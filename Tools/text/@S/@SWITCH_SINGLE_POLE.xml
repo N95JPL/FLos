@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SWITCH_SINGLE_POLE">
+	<tu xmlns:lang="eng">Single pole switch</tu>
+	<tu xmlns:lang="nld">Eenpolige schakelaar.</tu>
+	<tu xmlns:lang="fra">Contacteur unipolaire.</tu>
+	<tu xmlns:lang="deu">Einpoliger Schalter</tu>
+	<tu xmlns:lang="ita">Interruttore unipolare</tu>
+	<tu xmlns:lang="jpn">シングル ポール スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptor de um pólo</tu>
+	<tu xmlns:lang="ptb">Interruptor de polo único</tu>
+	<tu xmlns:lang="rus">Однополюсный переключатель</tu>
+	<tu xmlns:lang="esp">Interruptor unipolar</tu>
+	<tu xmlns:lang="chs">单极开关</tu>
+	<tu xmlns:lang="kor">단극 스위치</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QU8947">
+	<tu xmlns:lang="eng">Is the vehicle fitted with a manual transmission?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuig uitgerust met een met de hand te bedienen transmissie</tu>
+	<tu xmlns:lang="fra">Le véhicule est-il équipé d'une transmission MANUELLE</tu>
+	<tu xmlns:lang="deu">Hat Fahrzeug Manuellgetriebe</tu>
+	<tu xmlns:lang="ita">E dotato il veicolo di trasmisione MANUALE</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両にマニュアル・トランスミッションが搭載されていますか。</tu>
+	<tu xmlns:lang="ptg">O veículo está equipado com uma transmissão manual?</tu>
+	<tu xmlns:lang="ptb">O veículo está equipado com uma transmissão manual?</tu>
+	<tu xmlns:lang="rus">Автомобиль оснащен механической коробкой передач?</tu>
+	<tu xmlns:lang="esp">Está dotado el coche de transmisión MANUAL</tu>
+	<tu xmlns:lang="chs">车辆安装了手动变速器了吗？</tu>
+	<tu xmlns:lang="kor">차량에 수동 변속기가 장착되어 있습니까?</tu>
+</tm>

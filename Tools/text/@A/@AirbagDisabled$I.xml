@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AirbagDisabled$I">
+	<tu xmlns:lang="eng">The air bag control module has not been enabled.</tu>
+	<tu xmlns:lang="nld">De airbagregelmodule is niet ingeschakeld.</tu>
+	<tu xmlns:lang="fra">Le module de commande d'airbag n'a pas été activé.</tu>
+	<tu xmlns:lang="deu">Das Airbag-Steuergerät wurde nicht aktiviert.</tu>
+	<tu xmlns:lang="ita">Modulo di comando airbag non attivato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エアバッグコントロール モジュールが動作可能\になっていません。</tu>
+	<tu xmlns:lang="ptg">O módulo de controlo dos airbags não foi activado.</tu>
+	<tu xmlns:lang="ptb">O módulo de controle do airbag não foi ativado.</tu>
+	<tu xmlns:lang="rus">Блок управления подушками безопасности не включен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha habilitado el módulo de control de los airbags.</tu>
+	<tu xmlns:lang="chs">未启用安全气囊控制模块。</tu>
+	<tu xmlns:lang="kor">에어백 컨트롤 모듈이 활성화되지 않았습니다.</tu>
+</tm>

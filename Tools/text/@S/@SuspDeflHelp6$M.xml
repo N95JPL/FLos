@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspDeflHelp6$M">
+	<tu
+    xmlns:lang="eng"
+  >Caution should be used when working on the system, after the deflation routine has been executed, be aware that the suspension height will change during this routine.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als u aan het systeem werkt en de routine voor het leeg laten lopen heeft uitgevoerd, moet u voorzichtig zijn en erop bedacht zijn dat de luchtvering tijdens deze routine naar een lagere rijhoogte zakt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédez avec prudence en travaillant sur le système, après l'exécution du programme de dégonflage, et rappelez-vous que la hauteur de la suspension changera pendant ce programme.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei Arbeiten am System muss vorsichtig vorgegangen werden, nachdem die Entlüftungsroutine laufen gelassen wurde - beachten, dass die Fahrhöhe sich beim Ablaufen dieser Routine ändert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È necessario esercitare una certa cautela quando si interviene sul sistema, dopo aver eseguito la procedura di sgonfiaggio, tenendo presente che durante questa procedura l'altezza della sospensione cambierà. </tu>
+	<tu
+    xmlns:lang="jpn"
+  >エア減圧ルーチン実行後、このシステムに対し作業を行う場合、注意が必要です。このルーチン中にサスペンション ハイトが変化します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ter atenção quando trabalhar no sistema, após a execução da rotina de retirada de ar, dado que a altura da suspensão será alterada durante esta rotina.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Cuidado ao trabalhar no sistema após a rotina de esvaziamento ter sido executada, esteja ciente de que a altura da suspensão será alterada durante essa rotina.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После выполнения процедуры выпуска воздуха при работе с системой следует соблюдать осторожность, имейте в виду, что при стравливании воздуха высота подвески изменяется.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Deben extremarse las precauciones al trabajar con el sistema después de haberse realizado la rutina de desinflado; hay que tener en cuenta que la altura de la suspensión cambiará durante esta rutina.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'操作系统时务必小心，在执行了放气常规程序后，要注意在执行此常规程序过程中，悬架高度会改变。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >시스템 작업 시 주의해야 하며 감압 절차를 실행한 후 이 절차 중에 서스펜션 높이가 변하므로 유의하십시오.</tu>
+</tm>

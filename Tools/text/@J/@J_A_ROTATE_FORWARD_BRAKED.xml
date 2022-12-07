@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ROTATE_FORWARD_BRAKED">
+	<tu
+    xmlns:lang="eng"
+  >Attempt to rock/rotate the %s wheel in a forward direction.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Probeer het wiel van %s in voorwaartse richting te verdraaien/heen en weer te schommelen.</tu>
+	<tu xmlns:lang="fra">Essayez de secouer/tourner la roue %s vers l'avant.</tu>
+	<tu xmlns:lang="deu">Versuchen, das %s-Rad vorwärts zu drehen/bewegen.</tu>
+	<tu xmlns:lang="ita">Tentare di muovere/ruotare il volante %s in avanti.</tu>
+	<tu xmlns:lang="jpn">%s ホイールを前方向へ揺するか、回転させてみなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tentar balançar/rodar a roda %s numa direcção para a frente.</tu>
+	<tu xmlns:lang="ptb">Tentativa de balançar/virar a roda %s para a frente.</tu>
+	<tu xmlns:lang="rus">Попробовать качать/вращать %s колесо вперед.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Intentar girar ligeramente/por completo la rueda %s hacia delante.</tu>
+	<tu xmlns:lang="chs">尝试向前进方向滚动/旋转%s轮。</tu>
+	<tu xmlns:lang="kor">%s 휠을 전진 방향으로 흔들거나 회전해 보십시오.</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SBELT_AUD_WARN">
+	<tu xmlns:lang="eng">Safety belt audible warning</tu>
+	<tu xmlns:lang="nld">Hoorbare waarschuwing voor veiligheidsriem</tu>
+	<tu xmlns:lang="fra">Avertissement sonore ceintures de sécurité</tu>
+	<tu xmlns:lang="deu">Sicherheitsgurt-warnsignal</tu>
+	<tu xmlns:lang="ita">Segnale acustico cintura di sicurezza</tu>
+	<tu xmlns:lang="jpn">シートﾍﾞルト警告音</tu>
+	<tu xmlns:lang="ptg">Aviso sonoro do cinto de segurança</tu>
+	<tu xmlns:lang="ptb">Aviso sonoro do cinto de segurança</tu>
+	<tu
+    xmlns:lang="rus"
+  >Звуковое напоминание о непристегнутом ремне безопасности</tu>
+	<tu xmlns:lang="esp">Alarma audible de los cinturones de seguridad</tu>
+	<tu xmlns:lang="chs">安全带音频报警</tu>
+	<tu xmlns:lang="kor">안전벨트 경고음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WIPERS_DRIP_WIPE">
+	<tu xmlns:lang="eng">Drip wipe feature</tu>
+	<tu xmlns:lang="nld">Functie voor intervalwissen.</tu>
+	<tu xmlns:lang="fra">Balayage intermittent.</tu>
+	<tu xmlns:lang="deu">Nachwischfunktion</tu>
+	<tu xmlns:lang="ita">Funzione passata unica</tu>
+	<tu xmlns:lang="jpn">ドリップ ワイプ機能\</tu>
+	<tu xmlns:lang="ptg">Função de limpeza de gotas</tu>
+	<tu xmlns:lang="ptb">Recurso de varredura de gotas</tu>
+	<tu xmlns:lang="rus">Функция устранения подтеков на ветровом стекле</tu>
+	<tu xmlns:lang="esp">Función de barrido de gotas</tu>
+	<tu xmlns:lang="chs">滴水刮水功能</tu>
+	<tu xmlns:lang="kor">드립 와이퍼 기능</tu>
+</tm>

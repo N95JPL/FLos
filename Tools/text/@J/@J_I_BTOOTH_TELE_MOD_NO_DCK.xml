@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BTOOTH_TELE_MOD_NO_DCK">
+	<tu
+    xmlns:lang="eng"
+  >Bluetooth cellular telephone module (without docking station).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Module van mobiele telefoon voor bluetooth (zonder koppelstation).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de téléphone cellulaire Bluetooth (sans station d'accueil).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bluetooth-Mobiltelefon-Steuergerät (ohne Andockstation).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo telefono cellulare Bluetooth (senza stazione di aggancio).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >Bluetooth セルラー ホン モジュール (ドッキング ステーションなし)</tu>
+	<tu xmlns:lang="ptg">Módulo do telemóvel com Bluetooth (sem estação-base).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo de telefone celular bluetooth (sem estação de base).</tu>
+	<tu xmlns:lang="rus">Bluetooth блок сотового телефона (с базой).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de teléfono móvil Bluetooth (sin estación base).</tu>
+	<tu xmlns:lang="chs">蓝牙蜂窝电话模块（无系泊部位）。</tu>
+	<tu xmlns:lang="kor">블루투스 휴대 전화 모듈(도킹 스테이션 없음)</tu>
+</tm>

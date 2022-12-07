@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUDIO_PLAYER">
+	<tu xmlns:lang="eng">Audio player</tu>
+	<tu xmlns:lang="nld">Geluidsinstallatie</tu>
+	<tu xmlns:lang="fra">Lecteur audio</tu>
+	<tu xmlns:lang="deu">Audio-Spieler</tu>
+	<tu xmlns:lang="ita">Lettore audio</tu>
+	<tu xmlns:lang="jpn">オーディオ プレーヤー</tu>
+	<tu xmlns:lang="ptg">Leitor áudio</tu>
+	<tu xmlns:lang="ptb">Áudio player</tu>
+	<tu xmlns:lang="rus">Аудиопроигрыватель</tu>
+	<tu xmlns:lang="esp">Reproductor de audio</tu>
+	<tu xmlns:lang="chs">音频播放器</tu>
+	<tu xmlns:lang="kor">오디오 플레이어</tu>
+</tm>

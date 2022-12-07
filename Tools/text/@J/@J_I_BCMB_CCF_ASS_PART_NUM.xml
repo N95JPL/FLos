@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BCMB_CCF_ASS_PART_NUM">
+	<tu
+    xmlns:lang="eng"
+  >Body control module B car configuration assembly part number 01</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onderdeelnummer 01 van voertuigconfiguratie voor carrosserieregelmodule B</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de commande de carrosserie 'B' - configuration du véhicule - réf. 01</tu>
+	<tu
+    xmlns:lang="deu"
+  >Karosseriesteuergerät 'B' - Fahrzeugkonfiguration - Montageteil Nummer 01</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo comando carrozzeria 'B', configurazione veicolo, numero parte complessivo 01</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ボディ コントロール モジュール B 車両コンフィギュレーション アッセンブリ パーツ ナンバー 01</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Número de peça 02 de configuração do veículo do módulo de comando da carroçaria 'B'</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conjunto da configuração do carro B do módulo de controle da carroceria - número de peça 01</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок управления кузовными системами 'B', конфигурация автомобиля, монтажный номер детали 01</tu>
+	<tu
+    xmlns:lang="esp"
+  >Número de pieza de conjunto 01 de configuración del vehículo del módulo de control B de la carrocería</tu>
+	<tu xmlns:lang="chs">车身控制模块'B'车辆配置组件零件号 01</tu>
+	<tu xmlns:lang="kor">차체 컨트롤 모듈 B 차량 구성 어셈블리 부품 번호 01</tu>
+</tm>

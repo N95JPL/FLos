@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_5SPEED_TRANSV_AUTO_TRANS">
+	<tu xmlns:lang="eng">5 speed transverse automatic transmission</tu>
+	<tu xmlns:lang="nld">5 traps dwarsgeplaatste automatische transmissie</tu>
+	<tu xmlns:lang="fra">Transmission automatique transversale ... 5 rapports</tu>
+	<tu xmlns:lang="deu">Quer eingebautes 5-Gang-Automatikgetriebe</tu>
+	<tu xmlns:lang="ita">Cambio automatico trasversale a 5 rapporti</tu>
+	<tu xmlns:lang="jpn">5 速トランスバース オートマチック トランスミッション</tu>
+	<tu xmlns:lang="ptg">Transmissão automática transversal de 5 velocidades</tu>
+	<tu xmlns:lang="ptb">Transmissão automática transversal de 5 velocidades </tu>
+	<tu xmlns:lang="rus">5-скоростная поперечная автоматическая коробка передач</tu>
+	<tu
+    xmlns:lang="esp"
+  >Caja de cambios automática transversal de 5 velocidades</tu>
+	<tu xmlns:lang="chs">5 速横向自动变速器</tu>
+	<tu xmlns:lang="kor">5단 'QuickShift' 자동 변속기</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_OVERVIEW_WHEN_TO_USE">
+	<tu
+    xmlns:lang="eng"
+  >The power supply system diagnostic procedure should be utilized in response to the following actual or suspected faults:</tu>
+	<tu
+    xmlns:lang="nld"
+  >De diagnoseprocedure van de stroomvoorziening moet worden gebruikt voor het verhelpen van de volgende werkelijke of vermoedde storingen:</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure de diagnostic du circuit d'alimentation doit être utilisée en réponse aux défauts observés ou suspectés suivants :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Diagnoseverfahren für das elektrische Versorgungssystem ist in Antwort auf die folgenden aktuell vorliegenden oder angenommenen Störungen zu nutzen:</tu>
+	<tu
+    xmlns:lang="ita"
+  >La procedura diagnostica del sistema di alimentazione deve essere utilizzata in risposta ai seguenti guasti effettivi o sospetti:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の実際の故障あるいは故障の疑いに応じて、電源供給システム診断手順を実施しなさい：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O procedimento de diagnóstico do sistema de alimentação deve ser utilizado em resposta às seguintes avarias, reais ou prováveis:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O procedimento de diagnóstico do sistema de fornecimento de energia deve ser utilizado em resposta às seguintes falhas em potencial ou reais:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура диагностики системы электропитания выполняется при следующих фактических или предполагаемых неисправностях:</tu>
+	<tu
+    xmlns:lang="esp"
+  >El procedimiento de diagnóstico del sistema de alimentación debe utilizarse en respuesta a las siguientes anomalías reales o posibles:</tu>
+	<tu
+    xmlns:lang="chs"
+  >对于以下实际故障或疑似故障，应该使用供电系统诊断程序进行检查：</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음과 같은 실제 고장이나 의심되는 고장에 대응하기 위해 전원 공급 시스템 진단 절차를 활용해야 합니다.</tu>
+</tm>

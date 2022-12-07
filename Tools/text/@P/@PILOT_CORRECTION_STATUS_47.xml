@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_47">
+	<tu
+    xmlns:lang="eng"
+  >0x47 : Exited due to accelerator pedal position out of range.</tu>
+	<tu
+    xmlns:lang="nld"
+  >0x47 : inleren afgesloten vanwege het feit dat de gaspedaalstand buiten bereik is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >0x47 : Quitté à cause de la position de pédale d'accélération hors limites.</tu>
+	<tu
+    xmlns:lang="deu"
+  >0x47 : Beendet, da Gaspedalstellung außerhalb des Bereichs.</tu>
+	<tu
+    xmlns:lang="ita"
+  >0x47 : Interrotto a causa della posizione del pedale dell'acceleratore fuori gamma.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >0x47 : アクセル ペダル ポジションが規定範囲外のため終了。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >0x47 : Saiu devido a posição do pedal do acelerador fora da gama.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >0X47 : Encerrada devido à posição do pedal do acelerador fora da faixa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >0x47 : Произведен выход, так как положение педали акселератора за пределами допустимого диапазона.</tu>
+	<tu
+    xmlns:lang="esp"
+  >0x47: Se cerró por encontrarse fuera de límites la posición del pedal del acelerador.</tu>
+	<tu xmlns:lang="chs">0x47： 由于加速踏板位置超出范围而退出运行。</tu>
+	<tu
+    xmlns:lang="kor"
+  >0x47 : 가속 페달 위치가 범위를 벗어났기 때문에 종료됩니다.</tu>
+</tm>

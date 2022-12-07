@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BRK_DISC_SIZE">
+	<tu xmlns:lang="eng">Brake disc size</tu>
+	<tu xmlns:lang="nld">Remschijfafmetingen</tu>
+	<tu xmlns:lang="fra">Taille des disques de frein</tu>
+	<tu xmlns:lang="deu">Bremsscheibengröße</tu>
+	<tu xmlns:lang="ita">Dimensioni dischi dei freni</tu>
+	<tu xmlns:lang="jpn">ブレーキ ディスク サイズ</tu>
+	<tu xmlns:lang="ptg">Tamanho dos discos de travão</tu>
+	<tu xmlns:lang="ptb">Tamanho do disco de freio</tu>
+	<tu xmlns:lang="rus">Размер тормозного диска</tu>
+	<tu xmlns:lang="esp">Tamaño de disco de freno</tu>
+	<tu xmlns:lang="chs">刹车片尺寸</tu>
+	<tu xmlns:lang="kor">브레이크 디스크 크기</tu>
+</tm>

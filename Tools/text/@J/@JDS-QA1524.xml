@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA1524">
+	<tu xmlns:lang="eng">Heating and ventilation</tu>
+	<tu xmlns:lang="nld">Verwarming en ventilatie </tu>
+	<tu xmlns:lang="fra">Chauffage et ventilation </tu>
+	<tu xmlns:lang="deu">Heizung und belüftung</tu>
+	<tu xmlns:lang="ita">Riscaldamento e ventilazione </tu>
+	<tu xmlns:lang="jpn">：ヒーターとﾍﾞンチレーション</tu>
+	<tu xmlns:lang="ptg">Aquecimento e ventilação</tu>
+	<tu xmlns:lang="ptb">Aquecimento e ventilação</tu>
+	<tu xmlns:lang="rus">Обогрев и вентиляция</tu>
+	<tu xmlns:lang="esp">Calefacción y ventilación </tu>
+	<tu xmlns:lang="chs">加热和通风</tu>
+	<tu xmlns:lang="kor">난방 및 환기</tu>
+</tm>

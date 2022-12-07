@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TERR_OPT_WINT">
+	<tu xmlns:lang="eng">Terrain optimisation  -  Winter reset</tu>
+	<tu
+    xmlns:lang="nld"
+  >Optimalisering van terrein  -  Terugstelling van winterfunctie</tu>
+	<tu xmlns:lang="fra">Optimisation du terrain  -  Réinitialisation hiver</tu>
+	<tu xmlns:lang="deu">Terrain Response-Optimierung  -  Winter-Rücksetzung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ottimizzazione terreno  -  Ripristino modalità invernale</tu>
+	<tu xmlns:lang="jpn">地形最適化  －  ウィンター リセット</tu>
+	<tu xmlns:lang="ptg">Optimização do terreno  -  Reposição do modo Inverno</tu>
+	<tu xmlns:lang="ptb">Otimização do terreno  -  Reinicialização de inverno</tu>
+	<tu xmlns:lang="rus">Адаптацмя к дорожным условиям  -  Сброс зимнего режима</tu>
+	<tu
+    xmlns:lang="esp"
+  >Optimización para el terreno  -  Reinicialización del modo invierno</tu>
+	<tu xmlns:lang="chs">地形优化  -  冬季重置</tu>
+	<tu xmlns:lang="kor">터레인 최적화  -  동절기 재설정</tu>
+</tm>

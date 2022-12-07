@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VINDECODE_MISMATCH_VIN">
+	<tu
+    xmlns:lang="eng"
+  >The session vehicle identification number does not match the vehicle identification number read from vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voertuigidentificatienummer voor deze sessie komt niet overeen met het voertuigidentificatienummer dat uit het voertuig werd ingelezen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le numéro d'identification du véhicule indiqué dans la session ne correspond pas au numéro d'identification relevé dans le véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die für die Sitzung gewählte Fahrzeug-Identifizierungsnummer stimmt nicht mit der aus dem Fahrzeug ausgelesenen Fahrzeug-Identifizierungsnummer überein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il numero di identificazione veicolo della sessione non corrisponde al numero di identificazione veicolo letto dalla vettura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セッション車両 ID ナンバーが車両から読み取られた車両 ID ナンバーと適合しません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número de identificação do veículo da sessão não corresponde ao número de identificação do veículo lido a partir do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O número de Identificação do Veículo da sessão não coincide com o número de identificação do veículo lido a partir do carro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Идентификационный номер автомобиля в сеансе не соответствует считанному с автомобиля идентификационному номеру.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El número de identificación del vehículo de la sesión no coincide con el número de identificación del vehículo que se ha leído en el vehículo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >测试进程中的车辆标识代码与从车辆上读取的车辆标识代码不匹配。</tu>
+	<tu
+    xmlns:lang="kor"
+  >세션 차량 식별 번호가 차량에서 읽은 차량 식별 번호와 일치하지 않습니다.</tu>
+</tm>

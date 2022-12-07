@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_OCCUPANT_SEN">
+	<tu xmlns:lang="eng">Without occupant weight sensor</tu>
+	<tu xmlns:lang="nld">Zonder inzittendengewichtsensor</tu>
+	<tu xmlns:lang="fra">Sans capteur de poids d'occupant</tu>
+	<tu xmlns:lang="deu">Ohne Gewichtssensor</tu>
+	<tu xmlns:lang="ita">Senza sensore peso occupanti</tu>
+	<tu xmlns:lang="jpn">乗員重量センサーなし</tu>
+	<tu xmlns:lang="ptg">Sem sensor de peso dos ocupantes</tu>
+	<tu xmlns:lang="ptb">Sem sensor de peso do ocupante</tu>
+	<tu xmlns:lang="rus">Без датчика веса на сиденье</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sin sensor de peso de ocupación del asiento del acompañante</tu>
+	<tu xmlns:lang="chs">无乘载重量传感器</tu>
+	<tu xmlns:lang="kor">승객 체중 센서 불포함</tu>
+</tm>

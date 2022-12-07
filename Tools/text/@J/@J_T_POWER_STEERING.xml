@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_POWER_STEERING">
+	<tu xmlns:lang="eng">211-02 Power steering</tu>
+	<tu xmlns:lang="nld">211-02 Stuurbekrachtiging</tu>
+	<tu xmlns:lang="fra">211-02 Direction assistée</tu>
+	<tu xmlns:lang="deu">211-02 Servolenkung</tu>
+	<tu xmlns:lang="ita">211-02 Servosterzo</tu>
+	<tu xmlns:lang="jpn">206-07 パワー ステアリング</tu>
+	<tu xmlns:lang="ptg">211-02 Direcção assistida</tu>
+	<tu xmlns:lang="ptb">211-02 Direção assistida</tu>
+	<tu xmlns:lang="rus">211-02 Гидроусилитель рулевого управления</tu>
+	<tu xmlns:lang="esp">211-02 Servodirección</tu>
+	<tu xmlns:lang="chs">211-02动力转向</tu>
+	<tu xmlns:lang="kor">211-02 파워 스티어링</tu>
+</tm>

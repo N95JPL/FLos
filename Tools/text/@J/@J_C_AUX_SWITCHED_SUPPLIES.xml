@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_AUX_SWITCHED_SUPPLIES">
+	<tu xmlns:lang="eng">Auxiliary supplies</tu>
+	<tu xmlns:lang="nld">Hulpvoedingsbronnen</tu>
+	<tu xmlns:lang="fra">Alimentations auxiliaires</tu>
+	<tu xmlns:lang="deu">Nebenstromkreis-versorgungsleitungen</tu>
+	<tu xmlns:lang="ita">Alimentazioni ausiliarie</tu>
+	<tu xmlns:lang="jpn">アクセサリ サプライ</tu>
+	<tu xmlns:lang="ptg">Alimentação dos acessórios</tu>
+	<tu xmlns:lang="ptb">Fontes auxiliares</tu>
+	<tu xmlns:lang="rus">Вспомогательные линии питания</tu>
+	<tu xmlns:lang="esp">Alimentaciones auxiliares</tu>
+	<tu xmlns:lang="chs">辅助电源</tu>
+	<tu xmlns:lang="kor">보조 전원 공급</tu>
+</tm>

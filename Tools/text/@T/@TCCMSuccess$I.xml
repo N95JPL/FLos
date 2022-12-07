@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TCCMSuccess$I">
+	<tu xmlns:lang="eng">Transfer case control module calibration successful.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De kalibrering van de regelmodule van tussenbak is met succes uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Etalonnage du module de commande de boîte de transfert réussi.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kalibrierung Verteilergetriebe-Steuergerät erfolgreich.</tu>
+	<tu xmlns:lang="ita">Taratura modulo di comando scatola di rinvio riuscita.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスファー ケース コントロール モジュール キャリブレーションが正常に完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Calibragem do módulo de controlo da caixa de transferência efectuada com êxito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Calibração do módulo de controle da caixa de transferência bem sucedida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Калибровка блока управления раздаточной коробкой выполнена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La calibración del módulo de control del transfer fue satisfactoria.</tu>
+	<tu xmlns:lang="chs">分动箱控制模块标定成功。</tu>
+	<tu
+    xmlns:lang="kor"
+  >트랜스퍼 케이스 컨트롤 모듈 보정이 성공적으로 완료되었습니다.</tu>
+</tm>

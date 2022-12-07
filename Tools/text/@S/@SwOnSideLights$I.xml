@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SwOnSideLights$I">
+	<tu xmlns:lang="eng">Switch on the side lamps.</tu>
+	<tu xmlns:lang="nld">Zet de parkeerlichten aan.</tu>
+	<tu xmlns:lang="fra">Allumez les feux de position.</tu>
+	<tu xmlns:lang="deu">Begrenzungsleuchten einschalten.</tu>
+	<tu xmlns:lang="ita">Accendere le luci di posizione.</tu>
+	<tu xmlns:lang="jpn">サイドランプをスイッチ オンしなさい。</tu>
+	<tu xmlns:lang="ptg">Ligue as luzes de presença.</tu>
+	<tu xmlns:lang="ptb">Ligue as luzes laterais.</tu>
+	<tu xmlns:lang="rus">Включение габаритных фонарей.</tu>
+	<tu xmlns:lang="esp">Encender las luces de posición.</tu>
+	<tu xmlns:lang="chs">打开侧灯。</tu>
+	<tu xmlns:lang="kor">차폭등을 켜십시오.</tu>
+</tm>

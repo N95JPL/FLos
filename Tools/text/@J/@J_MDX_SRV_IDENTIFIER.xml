@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_MDX_SRV_IDENTIFIER">
+	<tu xmlns:lang="eng">Read or write the identifiers for the module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Lees of schrijf de identificatornummers voor de module.</tu>
+	<tu xmlns:lang="fra">Lire ou écrire les identificateurs pour le module.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Identifizierungen für das Steuergerät lesen oder schreiben.</tu>
+	<tu xmlns:lang="ita">Leggere o scrivere gli identificativi del modulo.</tu>
+	<tu xmlns:lang="jpn">モジュールの ID 機能\の読み取りまたは書き込み</tu>
+	<tu xmlns:lang="ptg">Ler ou escrever os identificadores do módulo.</tu>
+	<tu xmlns:lang="ptb">Ler ou gravar os identificadores para o módulo.</tu>
+	<tu xmlns:lang="rus">Чтение или запись идентификаторов для блока.</tu>
+	<tu xmlns:lang="esp">Leer o escribir los identificadores para el módulo.</tu>
+	<tu xmlns:lang="chs">模块读取或写入标识符。</tu>
+	<tu xmlns:lang="kor">모듈의 식별자를 읽거나 쓰십시오.</tu>
+</tm>

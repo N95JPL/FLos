@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_XX">
+	<tu xmlns:lang="eng">Pilot correction learning result status:</tu>
+	<tu xmlns:lang="nld">Status, resultaten voor inleren van pilot-correctie:</tu>
+	<tu xmlns:lang="fra">Etat du résultat d'apprentissage de la correction pilote :</tu>
+	<tu xmlns:lang="deu">Lernverfahren Voreinspritzungskorrektur - Ergebnisstatus:</tu>
+	<tu xmlns:lang="ita">Stato del risultato di apprendimento correzione pilota:</tu>
+	<tu xmlns:lang="jpn">パイロット補正学習結果ステータス：</tu>
+	<tu xmlns:lang="ptg">Estado do resultado da programação da correcção piloto:</tu>
+	<tu xmlns:lang="ptb">Status do resultado da aprendizagem de correção do piloto:</tu>
+	<tu xmlns:lang="rus">Состояние результатов контрольной корректировки:</tu>
+	<tu xmlns:lang="esp">Estado del resultado del aprendizaje de corrección piloto:</tu>
+	<tu xmlns:lang="chs">试验性校正记忆结果的状态：</tu>
+	<tu xmlns:lang="kor">파일럿 보정 학습 결과 상태:</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_LANG_RUSSIAN">
+	<tu
+    xmlns:lang="eng"
+  >This application will set the language in the instrument cluster to Russian</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing stelt de taal van de instrumentengroep in op Russisch</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application permet de paramétrer le russe comme langue du tableau de bord</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung stellt die Sprache der Anzeige im Kombiinstrument auf Russisch ein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione imposta la lingua per il gruppo strumenti su russo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションはインストルメント クラスタの言語をロシア語に設定します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação define o idioma no grupo de instrumentos para Russo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo definirá o idioma no painel de instrumentos para russo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение позволит установить русский язык для сообщений панели приборов</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación cambia el idioma del cuadro de instrumentos a ruso</tu>
+	<tu xmlns:lang="chs">这一应用程序将把组合仪表中的语言选项设置为俄语</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션에서는 계기판의 언어를 러시아어로 설정합니다.</tu>
+</tm>

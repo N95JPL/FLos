@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FlameInter$I">
+	<tu xmlns:lang="eng">Flame interrogation.</tu>
+	<tu xmlns:lang="nld">Ondervraging van de vlam.</tu>
+	<tu xmlns:lang="fra">Interrogation de flamme.</tu>
+	<tu xmlns:lang="deu">Flammenabfrage.</tu>
+	<tu xmlns:lang="ita">Prova fiamma.</tu>
+	<tu xmlns:lang="jpn">炎の疑問</tu>
+	<tu xmlns:lang="ptg">Pedido de chama.</tu>
+	<tu xmlns:lang="ptb">Interrogação de chama.</tu>
+	<tu xmlns:lang="rus">Мониторинг параметров пламени.</tu>
+	<tu xmlns:lang="esp">Comprobación de la llama.</tu>
+	<tu xmlns:lang="chs">火焰检查。</tu>
+	<tu xmlns:lang="kor">불꽃 검사</tu>
+</tm>

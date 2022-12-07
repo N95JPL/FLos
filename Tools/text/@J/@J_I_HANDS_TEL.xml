@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HANDS_TEL">
+	<tu xmlns:lang="eng">Handsfree telephone mute function</tu>
+	<tu xmlns:lang="nld">Onderdrukkingsfunctie van hands-free telefoon</tu>
+	<tu xmlns:lang="fra">Fonction sourdine du téléphone mains libres</tu>
+	<tu
+    xmlns:lang="deu"
+  >Stummschaltungsfunktion für Telefon mit Freisprecheinrichtung</tu>
+	<tu xmlns:lang="ita">Funzione esclusione audio telefono viva voce</tu>
+	<tu xmlns:lang="jpn">ハンズフリー テレフォン ミュート機能\</tu>
+	<tu xmlns:lang="ptg">Função de silenciamento do telefone mãos-livres</tu>
+	<tu xmlns:lang="ptb">Função mudo de telefone com viva-voz</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция отключения звука телефона с гарнитурой громкой связи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Función de silenciamiento de sistema manos libres de teléfono</tu>
+	<tu xmlns:lang="chs">免提电话静音功能</tu>
+	<tu xmlns:lang="kor">핸즈프리 전화 음소거 기능</tu>
+</tm>

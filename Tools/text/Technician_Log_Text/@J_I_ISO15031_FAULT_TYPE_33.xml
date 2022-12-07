@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_33">
+<tu xmlns:lang="eng">Frequency modulation/pulse width modulation failure - signal low time&gt;maximum.</tu>
+<tu xmlns:lang="nld">Fout in frequentiemodulatie / pulsbreedtemodulatie - lage tijd van signaal &gt; maximum.</tu>
+<tu xmlns:lang="fra">D&#233;faut de modulation de fr&#233;quence / modulation de largeur d&#39;impulsions - dur&#233;e de signal bas&gt;maximum.</tu>
+<tu xmlns:lang="deu">St&#246;rung Frequenzmodulation/Impulsbreitenmodulation - Tiefpegelzeit des Signals &gt; Maximum.</tu>
+<tu xmlns:lang="ita">Guasto di modulazione frequenza/modulazione durata impulsi - durata segnale basso maggiore del massimo.</tu>
+<tu xmlns:lang="jpn">Žü”g”•Ï’²^ƒpƒ‹ƒX••Ï’²•s—Ç | ƒVƒOƒiƒ‹ ƒ[ ƒ^ƒCƒ€AÅ‘åˆÈã</tu>
+<tu xmlns:lang="ptg">Falha na modula&#231;&#227;o da frequ&#234;ncia/modula&#231;&#227;o por largura de impulso - tempo de sinal fraco &gt; m&#225;ximo.</tu>
+<tu xmlns:lang="rus">Îøèáêà ÷àñòîòíîé ìîäóëÿöèè/ØÈÌ - âðåìÿ ñèãíàëà íèçêîãî óðîâíÿ &gt; ìàêñèìàëüíî äîïóñòèìîãî.</tu>
+<tu xmlns:lang="esp">Fallo de modulaci&#243;n de frecuencia/modulaci&#243;n de anchura de impulsos: duraci&#243;n de se&#241;al baja (l&#243;gica 0) &gt; m&#225;xima.</tu>
+<tu xmlns:lang="chs">ÆµÂÊµ÷ÖÆ/Âö¿íµ÷ÖÆ¹ÊÕÏ - ÐÅºÅµÍÎ»Ê±¼ä´óÓÚ×î´óÖµ¡£</tu>
+</tm>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_SIDE_REP">
+	<tu xmlns:lang="eng">Is the vehicle fitted with turn signal repeaters?</tu>
+	<tu xmlns:lang="nld">Is het voertuig uitgerust met zijrichtingaanwijzers?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule est-il équipé de répétiteurs d'indicateurs de direction?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist das Fahrzeug mit seitlichen Blinkleuchten ausgerüstet?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo è dotato di ripetitori degli indicatori di direzione?</tu>
+	<tu xmlns:lang="jpn">車両には、方向指示器リピータは装備されているか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo está equipado com indicadores de mudança de direcção?</tu>
+	<tu xmlns:lang="ptb">O veículo está equipado com repetidores de seta?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Оснащен ли автомобиль повторителями указателей поворота?</tu>
+	<tu xmlns:lang="esp">¿Tiene este coche intermitentes laterales?</tu>
+	<tu xmlns:lang="chs">车辆上是否安装了转向信号灯复示器？</tu>
+	<tu xmlns:lang="kor">차량에 방향 지시 리피터가 장착되어 있습니까?</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WIN_SUCCES_LEARN">
+	<tu
+    xmlns:lang="eng"
+  >Learns the top position of the door window glass, which enables pinch protection and one touch up function.  This procedure is normally started directly after a successful in-plant learning routine.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hiermee leert het systeem de bovenste positie van de portierruit, zodat de inklembeveiliging en de comfortbediening worden ingeschakeld.  Deze procedure wordt meestal direct opgestart na een met succes uitgevoerde inleerroutine bij de fabricage.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Enregistre la position supérieure de la vitre de porte, ce qui permet l'activation des fonctions anti-pincement et de fermeture à impulsion des lève-vitres.  Cette procédure doit intervenir directement après un programme d'apprentissage concluant en usine.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Erlernt die ganz nach oben verfahrene Stellung der Türfensterscheibe, die für den Einklemmschutz und die Tippfunktion Schließen benötigt wird.  Dieser Vorgang läuft normalerweise nach einer erfolgreichen Lernroutine im Werk an.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Apprende la posizione superiore dell'alzacristallo, che attiva la protezione anti-intrappolamento e la funzione di chiusura a tocco singolo.  Questa procedura viene normalmente avviata direttamente dopo una corretta procedura di apprendimento in fabbrica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ドア ウィンドウ ガラスの上端位置を学習し、挟み込み保護とワンタッチ アップ機能\を作動可に設定します。  この手順は、通常、インプラント学習ルーチンの正常完了後ただちに起動します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Programa a posição superior do vidro da porta, que permite a protecção antientalamento e a função de abertura/fecho com um toque.  Geralmente, este procedimento é iniciado directamente após uma rotina de programação bem-sucedida na fábrica.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aprende a posição superior do vidro da janela da porta, que permite a função de proteção contra esmagamento e de um toque para cima.  Este procedimento é normalmente iniciado diretamente após uma rotina de aprendizado de fábrica bem-sucedida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сохраняет в памяти верхнее положение стекла двери, обеспечивая защиту от защемления и функцию ускоренного доступа к средствам управления.  Данная процедура обычно выполняется сразу же после успешного сохранения данных в память блока на заводе.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aprende la posición superior de la ventanilla, habilitando las funciones de mecanismo retráctil y cierre con una sola pulsación.  Este procedimiento se suele iniciar inmediatamente después de realizada en la planta una rutina de aprendizaje satisfactoria.</tu>
+	<tu
+    xmlns:lang="chs"
+  >了解车门玻璃窗的顶端位置，它可启动防夹保护和一触式升起功能。  本步骤通常在成功进行工厂学习程序后直接开始。</tu>
+	<tu
+    xmlns:lang="kor"
+  >도어 윈도우 글라스의 상단 위치를 학습하여 끼임 방지 보호와 원 터치 업 기능을 활성화합니다.  이 절차는 일반적으로 성공적인 플랜트 내 학습 루틴 직후에 시작됩니다.</tu>
+</tm>

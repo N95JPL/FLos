@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart246">
+	<tu
+    xmlns:lang="eng"
+  >The auto stop/start switch/ECO switch requests engine running.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De automatische Stop/Start-schakelaar/ECO-schakelaar verzoekt om het draaien van de motor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le commutateur Arrêt/Démarrage auto/commutateur ECO requiert que le moteur tourne.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Auto-Stopp-Start-Schalter/die ECO-Taste fordert Motorlauf an.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per il corretto azionamento dell'interruttore Stop/Start automatico/interruttore ECO è necessario che il motore sia in funzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >自動ストップ/スタート スイッチ/ECO スイッチがエンジンの運転を要求しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O interruptor do sistema Stop/Star automático/interruptor ECO exige o funcionamento do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Solicitação de funcionamento do motor pelo interruptor de stop/start automático/ECO.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для работы переключателя ECO / автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт двигатель должен работать.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El interruptor Stop/Start automático/ECO solicita que el motor esté en marcha.</tu>
+	<tu xmlns:lang="chs">自动停止/启动开关/ECO 开关请求发动机运转。</tu>
+	<tu
+    xmlns:lang="kor"
+  >자동 Stop/Start 스위치/ECO 스위치가 엔진 작동을 요청합니다.</tu>
+</tm>

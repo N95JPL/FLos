@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRI_CYC_TIRE_PRES_CONF_APP">
+	<tu
+    xmlns:lang="eng"
+  >On completion of the drive cycle, carry out the tire pressure monitor system confirmation application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Na het afronden van de rijcyclus, voert u de toepassing voor het bevestigen van het bandenspanningsbewakingssysteem uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >A la fin du cycle de conduite, exécutez l'application de confirmation du système de contrôle de pression des pneus.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss des Fahrzyklus das Anwendungsprogramm zur Bestätigung der Reifendrucküberwachung laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al termine del ciclo di guida, eseguire l'applicazione di conferma sistema di monitoraggio pressione pneumatici.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ドライブ サイクル完了後、タイヤ プレッシャ モニター システム確認アプリケーションを実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Após a conclusão do ciclo de condução, execute a aplicação de confirmação do sistema de monitorização da pressão dos pneus.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após a conclusão do ciclo de condução, execute o aplicativo de confirmação do sistema de monitoramento de pressão dos pneus.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По завершении ездового цикла выполните приложение подтверждения системы контроля давления в шинах.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cuando concluya el ciclo de conducción, ejecute la aplicación de confirmación del sistema de control de la presión de los neumáticos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'在完成行驶循环后，执行轮胎压力监测器系统确认应用程序。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >주행 사이클 완료 후 타이어 공기압 모니터 시스템 확인 응용 프로그램을 실행하십시오.</tu>
+</tm>

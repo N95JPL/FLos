@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIMM_DIP_HLAMP">
+	<tu xmlns:lang="eng">Dimmed dipped headlights</tu>
+	<tu xmlns:lang="nld">Gedimde koplampen</tu>
+	<tu xmlns:lang="fra">Feux de croisement atténués</tu>
+	<tu xmlns:lang="deu">Verdunkelte Abblendlichtscheinwerfer</tu>
+	<tu xmlns:lang="ita">Fari anabbaglianti</tu>
+	<tu xmlns:lang="jpn">減光／下向きロービーム ヘッドランプ</tu>
+	<tu xmlns:lang="ptg">Médios com regulador de intensidade</tu>
+	<tu xmlns:lang="ptb">Faróis baixos dimerizados</tu>
+	<tu xmlns:lang="rus">Снижение яркости ближнего света фар</tu>
+	<tu xmlns:lang="esp">Luces de cruce atenuadas</tu>
+	<tu xmlns:lang="chs">近光前照灯</tu>
+	<tu xmlns:lang="kor">조광 하향 전조등</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_NO_KEYS_PROGRAMMED">
+	<tu
+    xmlns:lang="eng"
+  >No smart keys have been programmed  Exiting now will leave the vehicle with zero programmed smart keys.  Are you sure you want to exit?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er zijn geen smart-keys geprogrammeerd  Als er nu wordt uitgestapt zijn er nul smart-keys geprogrammeerd voor de auto.  Weet u zeker dat u wilt STOPPEN?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Aucune clé intelligente n'a été programmée.  Si vous quittez l'application maintenant, aucune clé intelligente ne sera programmée à bord du véhicule.  Etes-vous sûr que vous voulez QUITTER ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wurden keine Smart Keys programmiert  Bei Abbruch gibt es für das Fahrzeug keine programmierten Smart Keys.  Programm wirklich beenden?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nessuna chiave Smart programmata  Se si esce ora, il veicolo verrà lasciato senza chiavi Smart programmate.  EXIT?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プログラムされたスマート キーなし  すぐに終了すると、車両はスマート キーが 1 つもプログラムされていない状態のままになる。  終了しますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não foram programadas quaisquer chaves inteligentes  Sair agora deixará o veículo sem nenhuma chave inteligente programada.  Tem a certeza de que pretende sair?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não há chaves inteligentes programadas  Sair agora deixará o veículo com zero chaves inteligentes programadas.  Tem certeza de que deseja sair?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не запрограммирован ни один электронный ключ  Если выйти сейчас, ни один электронный ключ автомобиля не будет запрограммирован.  Выйти из программы?</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha programado ninguna llave inteligente  Si sale ahora, no quedará ninguna llave inteligente programada en el vehículo.  ¿Está seguro de que quiere SALIR?</tu>
+	<tu
+    xmlns:lang="chs"
+  >未编程设置任何智能钥匙  现在退出将使车辆没有任何编程设置的智能钥匙.  您确定要退出吗？</tu>
+	<tu
+    xmlns:lang="kor"
+  >스마트 키가 프로그래밍되지 않았습니다.  종료하면 차량의 스마트 키가 제로 프로그래밍된 상태로 남습니다.  정말 종료하시겠습니까?</tu>
+</tm>

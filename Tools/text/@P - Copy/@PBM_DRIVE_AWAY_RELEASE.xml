@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PBM_DRIVE_AWAY_RELEASE">
+	<tu xmlns:lang="eng">Drive-away release</tu>
+	<tu xmlns:lang="nld">Wegrij-ontgrendeling</tu>
+	<tu xmlns:lang="fra">Relâche automatique du frein au démarrage.</tu>
+	<tu xmlns:lang="deu">Lösen beim Anfahren</tu>
+	<tu xmlns:lang="ita">Sblocco alla partenza</tu>
+	<tu xmlns:lang="jpn">ドライブアウェイ リリース</tu>
+	<tu xmlns:lang="ptg">Abertura ao arrancar</tu>
+	<tu xmlns:lang="ptb">Liberação por velocidade</tu>
+	<tu xmlns:lang="rus">Разблокировка при трогании с места</tu>
+	<tu xmlns:lang="esp">Desactivación al emprender la marcha</tu>
+	<tu xmlns:lang="chs">驶离释放</tu>
+	<tu xmlns:lang="kor">자동 해제</tu>
+</tm>

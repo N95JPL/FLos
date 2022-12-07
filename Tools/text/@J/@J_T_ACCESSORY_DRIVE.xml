@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_ACCESSORY_DRIVE">
+	<tu xmlns:lang="eng">303-05 Accessory drive</tu>
+	<tu xmlns:lang="nld">303-05 Accessoire-aandrijving</tu>
+	<tu xmlns:lang="fra">303-05 Commande des accessoires</tu>
+	<tu xmlns:lang="deu">303-05 Antrieb für Zusatzaggregate</tu>
+	<tu xmlns:lang="ita">303-05 Comando accessori</tu>
+	<tu xmlns:lang="jpn">303-05 アクセサリ ドライブ</tu>
+	<tu xmlns:lang="ptg">303-05 Accionamento dos acessórios</tu>
+	<tu xmlns:lang="ptb">303-05 Transmissão de acessórios</tu>
+	<tu xmlns:lang="rus">303-05 Привод дополнительного оборудования</tu>
+	<tu xmlns:lang="esp">303-05 Accionamiento de accesorios</tu>
+	<tu xmlns:lang="chs">303-05附件驱动</tu>
+	<tu xmlns:lang="kor">303-05 액세서리 드라이브</tu>
+</tm>

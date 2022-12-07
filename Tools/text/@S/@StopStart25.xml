@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart25">
+	<tu
+    xmlns:lang="eng"
+  >A short drive cycle will be required for the inhibit to clear, use the hover over function on the inhibit for more details.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om deze blokkering te wissen is een korte rijcyclus vereist. Beweeg de muis over de blokkering voor meer details.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un court cycle de conduite sera nécessaire pour annuler la neutralisation, placez le pointeur sur le libellé de la neutralisation pour plus de détails.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ein kurzer Fahrzyklus ist erforderlich, um die Sperre aufzuheben; den Mauszeiger über die Sperre bewegen, um weitere Details anzuzeigen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per eliminare la condizione di disabilitazione è necessario un breve ciclo di guida, per maggiori dettagli utilizzare la funzione di passaggio del puntatore del mouse sulla disabilitazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >禁止状態を解除するにはショート ドライブ サイクルが必要です。詳細については、禁止に関する機能の上にカーソルを置いてください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É necessário um ciclo de condução curto para que a inibição se apague. Utilize a função de passar o cursor sobre a inibição para obter mais informações.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Um ciclo de condução curto será necessário para que a inibição seja apagada, utilize a função de passar o mouse na inibição para obter mais detalhes.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для снятия блокировки потребуется выполнить короткий ездовой цикл. Для получения подробных сведений о блокировке используйте функцию наведения курсора.</tu>
+	<tu
+    xmlns:lang="esp"
+  >será necesario realizar un ciclo de conducción corto para que se desbloquee. Pase el cursor por encima del bloqueo para obtener más información.</tu>
+	<tu
+    xmlns:lang="chs"
+  >需要进行一个短行驶周期才能清除禁止，在禁用上使用鼠标悬停功能可以了解更多的详细信息。</tu>
+	<tu
+    xmlns:lang="kor"
+  >억제 상태를 해소하려면 짧은 주행 사이클을 수행해야 합니다. 자세한 내용은 마우스로 억제 기능을 가리키면 표시됩니다.</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EPASRequestsEngineRunning">
+	<tu xmlns:lang="eng">Electric power steering requests engine running.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Elektrische stuurbekrachtiging vraagt om draaiende motor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La direction assistée électrique requiert que le moteur soit en marche.</tu>
+	<tu xmlns:lang="deu">Elektrische Servolenkung fordert Motorlauf an.</tu>
+	<tu xmlns:lang="ita">Il servosterzo richiede il motore in funzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >電動パワー ステアリングが作動するためには、エンジンがかかっている必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A direção assistida elétrica requer o funcionamento do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A direção assistida elétrica requer motor em funcionamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для работы электрического усилителя рулевого управления двигатель должен работать.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La dirección asistida eléctrica solicita que el motor esté en marcha.</tu>
+	<tu xmlns:lang="chs">电子动力转向请求发动机运转。</tu>
+	<tu xmlns:lang="kor">전자식 파워 스티어링에서 엔진 작동을 요청합니다.</tu>
+</tm>

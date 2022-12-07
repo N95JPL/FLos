@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart77">
+	<tu
+    xmlns:lang="eng"
+  >All fault conditions must be repaired before any auto stop/start system investigations are carried out.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alle storingen moeten worden gerepareerd voordat het automatische Stop/Start-systeem wordt onderzocht.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tous les défauts doivent être résolus avant d'entreprendre l'examen du système Arrêt/Démarrage auto.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle Fehlerbedingungen müssen behoben werden, bevor Untersuchungen am Auto-Stopp-Start-System durchgeführt werden können.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tutte le condizioni di guasto devono essere rettificate prima di analizzare il sistema Stop/Start automatico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オート ストップ/スタート システムの調査を実施する前に、すべての故障を修理する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todas as condições de avaria devem ser reparadas antes de serem efetuadas quaisquer investigações no sistema Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todas as condições de falha devem ser corrigidas antes que quaisquer investigações do sistema stop/start automático sejam realizadas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >До выполнения диагностики неисправностей автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт необходимо устранить все неисправности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Todas las condiciones de avería deben solucionarse antes de que se lleve a cabo cualquier investigación del sistema Stop/Start automático.</tu>
+	<tu
+    xmlns:lang="chs"
+  >进行任何自动停止/启动系统调查前，必须维修所有故障状况。</tu>
+	<tu
+    xmlns:lang="kor"
+  >자동 Stop/Start 시스템 조사를 수행하기 전에 반드시 모든 고장 상태를 수리해야 합니다.</tu>
+</tm>

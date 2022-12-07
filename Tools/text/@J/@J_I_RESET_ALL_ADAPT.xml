@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RESET_ALL_ADAPT">
+	<tu xmlns:lang="eng">Reset all adaptions.</tu>
+	<tu xmlns:lang="nld">Alle aanpassingen terugstellen.</tu>
+	<tu xmlns:lang="fra">Remettre à zéro toutes les adaptations.</tu>
+	<tu xmlns:lang="deu">Alle Anpassungen rücksetzen.</tu>
+	<tu xmlns:lang="ita">Reimpostare tutti gli adattamenti.</tu>
+	<tu xmlns:lang="jpn">すべての補正をリセットしなさい。</tu>
+	<tu xmlns:lang="ptg">Reiniciar todas as adaptações.</tu>
+	<tu xmlns:lang="ptb">Restaure todas as adaptações.</tu>
+	<tu xmlns:lang="rus">Сбросьте все настройки адаптации.</tu>
+	<tu xmlns:lang="esp">Poner a cero todas las adaptaciones.</tu>
+	<tu xmlns:lang="chs">重置所有自适应。</tu>
+	<tu xmlns:lang="kor">모든 어댑테이션을 재설정하십시오.</tu>
+</tm>

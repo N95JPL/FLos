@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DYNAMIC_RESP_SYMP_FLT">
+	<tu xmlns:lang="eng">Dynamic response symptom faults</tu>
+	<tu xmlns:lang="nld">Fouten, symptoom, 'dynamic response'-systeem</tu>
+	<tu xmlns:lang="fra">Défauts de symptôme de réponse dynamique</tu>
+	<tu xmlns:lang="deu">Dynamic-Response-Symptom - Störungen</tu>
+	<tu xmlns:lang="ita">Guasti dei sintomi della risposta dinamica</tu>
+	<tu xmlns:lang="jpn">動的応答症状故障</tu>
+	<tu xmlns:lang="ptg">Avarias nos sintomas de resposta dinâmica</tu>
+	<tu xmlns:lang="ptb">Falhas nos sintomas de resposta dinâmica</tu>
+	<tu xmlns:lang="rus">Неисправности признака динамического реагирования</tu>
+	<tu xmlns:lang="esp">Anomalías del sistema de Respuesta dinámica</tu>
+	<tu xmlns:lang="chs">动态响应症状故障</tu>
+	<tu xmlns:lang="kor">다이내믹 리스폰스 증상 고장</tu>
+</tm>

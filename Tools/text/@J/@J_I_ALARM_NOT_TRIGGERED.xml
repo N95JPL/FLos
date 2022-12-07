@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALARM_NOT_TRIGGERED">
+	<tu
+    xmlns:lang="eng"
+  >The alarm has not been triggered since the electronic control unit was fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het alarm is niet geactiveerd sinds de elektronische regeleenheid is gemonteerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'alarme n'a pas été déclenchée puisque le module de commande électronique était monté.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Alarm wurde nicht ausgelöst, seit das elektronische Steuergerät eingebaut wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'allarme non è scattato perché era installata l'unità di comando elettronica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック コントロール ユニットの取り付け以来、アラームはトリガーされていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O alarme não foi accionado desde que a unidade electrónica de controlo foi instalada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O alarme não foi acionado desde que a unidade de controle eletrônico foi instalada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сигнал тревоги не активирован, так как установлен электронный блок управления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La alarma no se ha activado desde que se montó la unidad de control electrónico.</tu>
+	<tu xmlns:lang="chs">自从装配了电子控制单元时以来，报警器还从未触发过。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전자 컨트롤 유닛이 장착된 이후로 알람이 트리거되지 않았습니다.</tu>
+</tm>

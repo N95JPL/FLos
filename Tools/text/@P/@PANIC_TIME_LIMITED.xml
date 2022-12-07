@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PANIC_TIME_LIMITED">
+	<tu xmlns:lang="eng">Time limited panic</tu>
+	<tu xmlns:lang="nld">Tijdbegrensde paniek</tu>
+	<tu xmlns:lang="fra">Fonction panique limitée dans le temps.</tu>
+	<tu xmlns:lang="deu">Zeitbegrenzter Panikalarm</tu>
+	<tu xmlns:lang="ita">Allarme antiaggressione limitato</tu>
+	<tu xmlns:lang="jpn">タイムリミット パニック</tu>
+	<tu xmlns:lang="ptg">Modo de emergência com limite de tempo</tu>
+	<tu xmlns:lang="ptb">Limitação de tempo do pânico</tu>
+	<tu xmlns:lang="rus">Ограничение времени работы тревожной сигнализации</tu>
+	<tu xmlns:lang="esp">Pánico con límite de tiempo</tu>
+	<tu xmlns:lang="chs">限时紧急报警</tu>
+	<tu xmlns:lang="kor">시간 제한 패닉</tu>
+</tm>

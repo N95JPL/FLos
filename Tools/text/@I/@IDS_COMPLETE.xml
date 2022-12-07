@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDS_COMPLETE">
+	<tu xmlns:lang="eng">Complete</tu>
+	<tu xmlns:lang="nld">Voltooien</tu>
+	<tu xmlns:lang="fra">Terminé</tu>
+	<tu xmlns:lang="deu">Fertig</tu>
+	<tu xmlns:lang="ita">Completo</tu>
+	<tu xmlns:lang="jpn">完了</tu>
+	<tu xmlns:lang="ptg">Completo</tu>
+	<tu xmlns:lang="ptb">Concluir</tu>
+	<tu xmlns:lang="rus">Завершено</tu>
+	<tu xmlns:lang="esp">Terminar</tu>
+	<tu xmlns:lang="chs">完成</tu>
+	<tu xmlns:lang="kor">DA 펌웨어 소프트웨어 버전</tu>
+</tm>

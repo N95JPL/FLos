@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SPEED_LIMIT_TYRE_L316_2458_82">
+	<tu xmlns:lang="eng">Tyre 235/85R16 - Speed limit 82 MPH (131 KPH)</tu>
+	<tu xmlns:lang="nld">Band 235/85R16 - snelheidsgrens 82 mijl/h (131 km/h)</tu>
+	<tu xmlns:lang="fra">Pneu 235/85R16 - Limite de vitesse 82 MI/H (131 KM/H)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Reifen 235/85R16 - Geschwindigkeitsbegrenzung 82 mph (131 km/h)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pneumatico 235/85R16 - Limite di velocità 82 mph (131 km/h)</tu>
+	<tu xmlns:lang="jpn">タイヤ 235/85R16 - スピード リミット 131 km/h (82 mph)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pneu 235/85R16 - Limite de velocidade de 82 mph (131 km/h)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pneu 235/85R16 - limite de velocidade 82 mph (131 km/h)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Шина 235/85R16 - ограничение скорости движения 82 миль/ч (131 км/ч)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Neumáticos 235/85R16: límite de velocidad 82 millas/h (131 km/h)</tu>
+	<tu xmlns:lang="chs">轮胎235/85R16--车速限值82英里/小时（131千米/小时）</tu>
+	<tu xmlns:lang="kor">타이어 235/85R16 - 속도 제한 131KPH(82MPH)</tu>
+</tm>

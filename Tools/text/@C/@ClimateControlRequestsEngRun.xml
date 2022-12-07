@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ClimateControlRequestsEngRun">
+	<tu xmlns:lang="eng">The climate control system requests engine running.</tu>
+	<tu xmlns:lang="nld">De klimaatregeling vraagt om draaiende motor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le système de climatisation requiert que le moteur soit en marche.</tu>
+	<tu xmlns:lang="deu">Das Klimaregelungssystem fordert Motorlauf an.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sistema di comando della climatizzazione richiede il motore in funzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >クライメート コントロール システムが作動するには、エンジンがかかっている必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema de controlo da climatização requer o funcionamento do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema de controle de temperatura requer o motor em funcionamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для работы системы климат-контроля двигатель должен работать.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema de climatización solicita que el motor esté en marcha.</tu>
+	<tu xmlns:lang="chs">气候控制系统请求发动机运转。</tu>
+	<tu xmlns:lang="kor">실내 온도 조절 시스템에서 엔진 작동을 요청합니다.</tu>
+</tm>

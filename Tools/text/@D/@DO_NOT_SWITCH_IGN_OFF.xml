@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DO_NOT_SWITCH_IGN_OFF">
+	<tu
+    xmlns:lang="eng"
+  >Please do not switch the ignition off during this procedure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U mag het contact tijdens deze procedure niet uitschakelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez ne pas couper le contact pendant cette procédure.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Zündung während dieses Verfahrens bitte nicht ausschalten.</tu>
+	<tu xmlns:lang="ita">Non disinserire l'accensione durante questa procedura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順を実行中はイグニションをオフにしないでください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não desligue o interruptor da ignição durante este procedimento.</tu>
+	<tu xmlns:lang="ptb">Não desligue a ignição durante este procedimento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не выключайте зажигание в процессе выполнения данной процедуры.</tu>
+	<tu xmlns:lang="esp">No cortar el contacto durante este procedimiento.</tu>
+	<tu xmlns:lang="chs">在执行此程序的过程中请不要关闭点火开关。</tu>
+	<tu xmlns:lang="kor">이 절차 중에 점화 스위치를 끄지 마십시오.</tu>
+</tm>

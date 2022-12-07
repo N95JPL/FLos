@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FIRST_TRIGGER_EVENT">
+	<tu
+    xmlns:lang="eng"
+  >The first entry in the list is the latest trigger event and the last entry is the oldest event.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De eerste invoer in de lijst is de laatste triggergebeurtenis en de laatste invoer is de oudste gebeurtenis.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La première entrée dans la liste est l'événement déclencheur le plus récent et la dernière entrée est l'événement le plus ancien.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der erste Eintrag in der Liste ist das neueste Triggerereignis und der letzte Eintrag ist das am weitesten zurückliegende Ereignis.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La prima voce della lista è l'evento di scatto più recente, mentre l'ultima voce è l'evento più vecchio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >リストの最初の入力はもっとも新しいトリガー イベントを表\わし、最後の入力はもっとも古いイベントを表\わします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A primeira entrada da lista é o evento desencadeador mais recente e a última entrada é o evento mais antigo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A primeira entrada na lista é o último evento de gatilho e a última entrada é o evento mais antigo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Первая запись в списке - последнее начатое событие, последняя запись - самое старое событие.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La primera entrada de la lista corresponde al último evento de activación y la última entrada corresponde al evento más antiguo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >列表中的第一个记录的为最近触发的事件，最后一个记录的为最早的事件。</tu>
+	<tu
+    xmlns:lang="kor"
+  >목록에서 첫 번째 항목은 최신 트리거 이벤트이고 마지막 항목은 가장 오래된 이벤트입니다.</tu>
+</tm>

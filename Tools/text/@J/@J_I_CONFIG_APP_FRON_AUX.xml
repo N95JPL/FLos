@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_APP_FRON_AUX">
+	<tu xmlns:lang="eng">Car configuration application front auxiliary</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voertuigconfiguratietoepassing van hulprijlichten, voor</tu>
+	<tu
+    xmlns:lang="fra"
+  >Application de configuration du véhicule - auxiliaire avant</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anwendung Fahrzeugkonfiguration - Zusatzscheinwerfer vorn</tu>
+	<tu
+    xmlns:lang="ita"
+  >Applicazione configurazione veicolo - ausiliaria anteriore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション アプリケーション フロント補助機能\</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aplicação de configuração do veículo - entrada auxiliar dianteira</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aplicativo de configuração do carro - auxiliar dianteiro</tu>
+	<tu xmlns:lang="rus">Приложение конфигурации автомобиля - передн. дополнит.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aplicación de configuración del vehículo: módulo auxiliar delantero</tu>
+	<tu xmlns:lang="chs">车辆配置应用程序 - 前辅助功能</tu>
+	<tu xmlns:lang="kor">차량 구성 애플리케이션 전방 보조</tu>
+</tm>

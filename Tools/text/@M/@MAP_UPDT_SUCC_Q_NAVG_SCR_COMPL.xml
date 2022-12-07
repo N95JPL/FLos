@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAP_UPDT_SUCC_Q_NAVG_SCR_COMPL">
+	<tu
+    xmlns:lang="eng"
+  >1. The navigation screen is shown, and will indicate that the map install/update is complete.</tu>
+	<tu
+    xmlns:lang="nld"
+  >1. Het navigatiescherm wordt weergegeven en geeft aan dat het installeren/bijwerken van de kaart is voltooid.</tu>
+	<tu
+    xmlns:lang="fra"
+  >1. L'écran de navigation s'affiche et indique que l'installation/la mise à jour de la carte est terminée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >1. Der Navigationsbildschirm erscheint mit der Meldung, dass die Karteninstallation/-aktualisierung vollständig abgeschlossen wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >1. Viene visualizzata la schermata di navigazione che indica che l'aggiornamento/installazione della mappa è completato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >1. ナビゲーション画面が表示され、マップのインストール/更新が完了したことを示す。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >1. O ecrã de navegação é apresentado e indica que a instalação/atualização do mapa está concluída.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >1. A tela de navegação será exibida e isso indicará a conclusão da instalação/atualização do mapa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >1. Отображается экран навигационной системы, и он содержит указание на то, что установка/обновление выполнено.</tu>
+	<tu
+    xmlns:lang="esp"
+  >1. Aparece la pantalla de navegación y se indicará que la instalación/actualización de mapas se ha realizado.</tu>
+	<tu xmlns:lang="chs">1. 显示导航屏幕，并将指示地图安装/更新完成。</tu>
+	<tu
+    xmlns:lang="kor"
+  >1. 내비게이션 화면이 표시되고, 화면에 지도 설치/업데이트가 완료되었음을 표시합니다.</tu>
+</tm>

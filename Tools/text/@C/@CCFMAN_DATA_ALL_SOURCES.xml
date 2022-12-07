@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_DATA_ALL_SOURCES">
+	<tu xmlns:lang="eng">Car configuration data from all configuration sources</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voertuigconfiguratiegegevens van alle configuratiebronnen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Données de configuration du véhicule à partir de toutes les sources de configuration</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeug-Konfigurationsdaten aus allen Konfigurationsquellen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dati di configurazione veicolo da tutte le fonti di configurazione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >全コンフィギュレーション ソ\ースからの車両コンフィギュレーション データ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Dados de configuração do veículo de todas as fontes de configuração</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Dados de configuração do carro de todas as origens de configuração</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данные конфигурации автомобиля из всех источников конфигурации</tu>
+	<tu
+    xmlns:lang="esp"
+  >Datos de configuración del vehículo de todas las fuentes de configuración</tu>
+	<tu xmlns:lang="chs">来自所有配置源的车辆配置数据</tu>
+	<tu xmlns:lang="kor">모든 구성 소스의 차량 구성 데이터</tu>
+</tm>

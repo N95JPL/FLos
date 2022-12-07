@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@COLD_COUNTRY">
+	<tu xmlns:lang="eng">Cold country</tu>
+	<tu xmlns:lang="nld">Koud land</tu>
+	<tu xmlns:lang="fra">Pays froid.</tu>
+	<tu xmlns:lang="deu">Kaltes Land</tu>
+	<tu xmlns:lang="ita">Paese freddo</tu>
+	<tu xmlns:lang="jpn">寒冷地</tu>
+	<tu xmlns:lang="ptg">País frio</tu>
+	<tu xmlns:lang="ptb">Países frios</tu>
+	<tu xmlns:lang="rus">Холодная страна</tu>
+	<tu xmlns:lang="esp">País frío</tu>
+	<tu xmlns:lang="chs">寒冷国家</tu>
+	<tu xmlns:lang="kor">한랭 기후 국가</tu>
+</tm>

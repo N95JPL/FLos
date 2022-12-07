@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TickContinuation$H">
+	<tu xmlns:lang="eng">Press TICK to continue when the task is completed.</tu>
+	<tu xmlns:lang="nld">TICK indrukken om verder te gaan wanneer taak voltooid
+is.</tu>
+	<tu xmlns:lang="fra">Appuyer sur TICK pour continuer une fois la tâche
+achevée.</tu>
+	<tu xmlns:lang="deu">Drücken Sie das Bestätigungs-Symbol, um nach Abschluß
+der Aufgabe fortzufahren.</tu>
+	<tu xmlns:lang="ita">Premere il tasto TICK per continuare quando il compito
+è completato</tu>
+	<tu xmlns:lang="jpn">ﾀｽｸが終了したらﾃｨｯｸを押して続行してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Premir o visto para continuar quando a tarefa estiver concluída.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione a MARCA para continuar quando a tarefa estiver concluída.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После выполнения задачи нажмите галочку для продолжения работы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Apriete TICK para continuar cuando la labor sea completada</tu>
+	<tu xmlns:lang="chs">当任务完成时，按勾号（TICK）继续。</tu>
+	<tu xmlns:lang="kor">작업이 완료되면 체크 표시를 눌러 계속 진행하십시오.</tu>
+</tm>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SWDL_ABORTED">
+	<tu xmlns:lang="eng">Software download aborted by the user.</tu>
+	<tu xmlns:lang="nld">Downloaden van software door gebruiker afgebroken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Téléchargement du logiciel abandonné par l'utilisateur.</tu>
+	<tu xmlns:lang="deu">Herunterladen von Software vom Benutzer abgebrochen.</tu>
+	<tu xmlns:lang="ita">Download del software interrotto dall'utente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ユーザーによってソ\フトウェアのダウンロードが中止されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Transferência ('download') do software cancelado pelo utilizador.</tu>
+	<tu xmlns:lang="ptb">Download de software abortado pelo usuário.</tu>
+	<tu xmlns:lang="rus">Загрузка программы прервана пользователем.</tu>
+	<tu xmlns:lang="esp">Descarga de software cancelada por el usuario.</tu>
+	<tu xmlns:lang="chs">软件下载被用户中止。</tu>
+	<tu xmlns:lang="kor">사용자가 소프트웨어 다운로드를 중단했습니다.</tu>
+</tm>

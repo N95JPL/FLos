@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_DAB_INSTRUCT2">
+	<tu
+    xmlns:lang="eng"
+  >Applicable car configuration parameters will be updated</tu>
+	<tu
+    xmlns:lang="nld"
+  >Betreffende voertuigconfiguratieparameters worden bijgewerkt</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les paramètres de configuration du véhicule applicables seront mis à jour</tu>
+	<tu
+    xmlns:lang="deu"
+  >In Frage kommende Fahrzeugkonfigurationsparameter werden aktualisiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >I parametri di configurazione del veicolo interessati verranno aggiornati</tu>
+	<tu
+    xmlns:lang="jpn"
+  >該当車両コンフィギュレーション パラメータはアップデートされる</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os parâmetros de configuração do veículo aplicáveis serão actualizados</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Os parâmetros aplicáveis de configuração do carro serão atualizados</tu>
+	<tu
+    xmlns:lang="rus"
+  >Будут обновлены соответствующие конфигурационные параметры автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los parámetros de configuración del vehículo aplicables se actualizarán</tu>
+	<tu xmlns:lang="chs">将更新适用的车型配置参数</tu>
+	<tu xmlns:lang="kor">적용 가능한 차량 구성 매개 변수는 이후 업데이트됩니다.</tu>
+</tm>

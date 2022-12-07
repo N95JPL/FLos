@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_GERMANY">
+	<tu xmlns:lang="eng">Germany</tu>
+	<tu xmlns:lang="nld">Duitsland</tu>
+	<tu xmlns:lang="fra">Allemagne</tu>
+	<tu xmlns:lang="deu">Deutschland</tu>
+	<tu xmlns:lang="ita">Germania</tu>
+	<tu xmlns:lang="jpn">ドイツ</tu>
+	<tu xmlns:lang="ptg">Alemanha</tu>
+	<tu xmlns:lang="ptb">Alemanha</tu>
+	<tu xmlns:lang="rus">Германия</tu>
+	<tu xmlns:lang="esp">Alemania</tu>
+	<tu xmlns:lang="chs">德国</tu>
+	<tu xmlns:lang="kor">Germany</tu>
+</tm>

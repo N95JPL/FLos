@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LEAD_MARK">
+	<tu xmlns:lang="eng">Leaded market</tu>
+	<tu xmlns:lang="nld">Gelode markt</tu>
+	<tu xmlns:lang="fra">Marché avec plomb</tu>
+	<tu xmlns:lang="deu">Markt mit verbleitem Benzin</tu>
+	<tu xmlns:lang="ita">Mercato con piombo</tu>
+	<tu xmlns:lang="jpn">有鉛市場</tu>
+	<tu xmlns:lang="ptg">Mercado de gasolina com chumbo</tu>
+	<tu xmlns:lang="ptb">Mercado com chumbo</tu>
+	<tu xmlns:lang="rus">Для рынков с этилированным топливом</tu>
+	<tu xmlns:lang="esp">Mercado de gasolina con plomo</tu>
+	<tu xmlns:lang="chs">含铅燃油市场</tu>
+	<tu xmlns:lang="kor">유연 연료 시장</tu>
+</tm>

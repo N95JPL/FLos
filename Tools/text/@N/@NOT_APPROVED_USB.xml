@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NOT_APPROVED_USB">
+	<tu xmlns:lang="eng">Non Approved USB Flash Drive detected</tu>
+	<tu xmlns:lang="nld">Niet-goedgekeurde USB-stick gedetecteerd</tu>
+	<tu xmlns:lang="fra">Clé USB non approuvée détectée</tu>
+	<tu xmlns:lang="deu">Nicht zugelassener USB-Stick erkannt</tu>
+	<tu xmlns:lang="ita">Rilevata unità flash USB non approvata</tu>
+	<tu xmlns:lang="jpn">未承認の USB フラッシュ ドライブが検知されました</tu>
+	<tu xmlns:lang="ptg">Detetada unidade flash USB não aprovada</tu>
+	<tu xmlns:lang="ptb">Pen Drive USB Não Aprovado detectado</tu>
+	<tu xmlns:lang="rus">Обнаружен неодобренный накопитель USB</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha detectado una unidad de memoria USB no homologada</tu>
+	<tu xmlns:lang="chs">检测到非认可的 USB 闪存驱动器</tu>
+	<tu xmlns:lang="kor">승인된 USB 플래시 드라이브가 감지되지 않음</tu>
+</tm>

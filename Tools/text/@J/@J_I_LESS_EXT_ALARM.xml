@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_EXT_ALARM">
+	<tu xmlns:lang="eng">Without external alarm unit</tu>
+	<tu xmlns:lang="nld">Zonder externe alarmeenheid</tu>
+	<tu xmlns:lang="fra">Sans alimentation d'alarme externe</tu>
+	<tu xmlns:lang="deu">Ohne externe Alarmeinheit</tu>
+	<tu xmlns:lang="ita">Senza unità allarme esterna</tu>
+	<tu xmlns:lang="jpn">外部アラーム ユニットなし</tu>
+	<tu xmlns:lang="ptg">Sem unidade externa de alarme</tu>
+	<tu xmlns:lang="ptb">Sem unidade de alarme externo</tu>
+	<tu xmlns:lang="rus">Без внешнего блока охранной системы</tu>
+	<tu xmlns:lang="esp">Sin unidad de alarma externa</tu>
+	<tu xmlns:lang="chs">无外部报警单元</tu>
+	<tu xmlns:lang="kor">외부 알람 유닛 불포함</tu>
+</tm>

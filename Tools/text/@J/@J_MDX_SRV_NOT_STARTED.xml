@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_MDX_SRV_NOT_STARTED">
+	<tu xmlns:lang="eng">Routine has not started.</tu>
+	<tu xmlns:lang="nld">Routine is niet gestart.</tu>
+	<tu xmlns:lang="fra">La procédure n'a pas démarré.</tu>
+	<tu xmlns:lang="deu">Routine ist nicht angelaufen.</tu>
+	<tu xmlns:lang="ita">La procedura non è iniziata.</tu>
+	<tu xmlns:lang="jpn">ルーチンは開始されていません。</tu>
+	<tu xmlns:lang="ptg">A rotina não começou.</tu>
+	<tu xmlns:lang="ptb">A rotina não foi iniciada.</tu>
+	<tu xmlns:lang="rus">Запуск процедуры не выполнен.</tu>
+	<tu xmlns:lang="esp">La rutina no se ha iniciado.</tu>
+	<tu xmlns:lang="chs">例程尚未开始。</tu>
+	<tu xmlns:lang="kor">루틴이 시작되지 않았습니다.</tu>
+</tm>

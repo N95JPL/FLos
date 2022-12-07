@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AML_DTC_U2197">
+	<tu xmlns:lang="eng">Invalid data for vehicle speed.</tu>
+	<tu xmlns:lang="nld">Ongeldige gegevens voor rijsnelheid.</tu>
+	<tu xmlns:lang="fra">Données invalides pour vitesse du véhicule</tu>
+	<tu xmlns:lang="deu">Ungültige Daten für Fahrzeuggeschwindigkeit</tu>
+	<tu xmlns:lang="ita">Dati di velocità del motore non validi</tu>
+	<tu xmlns:lang="jpn">車速の無効データ</tu>
+	<tu xmlns:lang="ptg">Dados inválidos para velocidade do veículo.</tu>
+	<tu xmlns:lang="ptb">Dados inválidos quanto à velocidade do veículo.</tu>
+	<tu xmlns:lang="rus">Недействительные данные о скорости автомобиля.</tu>
+	<tu xmlns:lang="esp">Datos no válidos para la velocidad del vehículo.</tu>
+	<tu xmlns:lang="chs">无数的车速数据。</tu>
+	<tu xmlns:lang="kor">차량 속도에 대해 잘못된 데이터</tu>
+</tm>

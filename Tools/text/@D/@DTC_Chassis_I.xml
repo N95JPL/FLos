@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DTC_Chassis_I">
+	<tu xmlns:lang="eng">Chassis</tu>
+	<tu xmlns:lang="nld">Chassis</tu>
+	<tu xmlns:lang="fra">Châssis</tu>
+	<tu xmlns:lang="deu">Fahrwerk</tu>
+	<tu xmlns:lang="ita">Telaio</tu>
+	<tu xmlns:lang="jpn">シャーシ</tu>
+	<tu xmlns:lang="ptg">Chassis</tu>
+	<tu xmlns:lang="ptb">Chassi</tu>
+	<tu xmlns:lang="rus">Шасси</tu>
+	<tu xmlns:lang="esp">Chasis</tu>
+	<tu xmlns:lang="chs">底盘</tu>
+	<tu xmlns:lang="kor">섀시</tu>
+</tm>

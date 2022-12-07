@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERV_INT_5_5000_KM">
+	<tu xmlns:lang="eng">Service interval 5  -  5000 km</tu>
+	<tu xmlns:lang="nld">Onderhoudsinterval 5  -  5.000 km</tu>
+	<tu xmlns:lang="fra">Périodicité d'entretien 5  -  5000 km</tu>
+	<tu xmlns:lang="deu">Wartungsintervall 5  -  5000 km</tu>
+	<tu xmlns:lang="ita">Intervallo di servizio (tagliando) 5  -  5000 km</tu>
+	<tu xmlns:lang="jpn">サービス インターバル 5  －  5000 km</tu>
+	<tu xmlns:lang="ptg">Intervalo de revisão 5  -  5000 km</tu>
+	<tu xmlns:lang="ptb">Intervalo de Manutenção 5  -  5000 km</tu>
+	<tu xmlns:lang="rus">Интервал периодичности обслуживания 5  -  5000 км</tu>
+	<tu xmlns:lang="esp">Intervalo de servicio 5  -  5000 km</tu>
+	<tu xmlns:lang="chs">维护间隔时间 5  -  5000 公里</tu>
+	<tu xmlns:lang="kor">서비스 주기 5  -  5000km</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-ME2114">
+	<tu xmlns:lang="eng">System tests</tu>
+	<tu xmlns:lang="nld">Testen van het Systeem</tu>
+	<tu xmlns:lang="fra">Essais du système</tu>
+	<tu xmlns:lang="deu">Systemprüfungen</tu>
+	<tu xmlns:lang="ita">Prove del sistema</tu>
+	<tu xmlns:lang="jpn">システムのテスト</tu>
+	<tu xmlns:lang="ptg">Testes do sistema</tu>
+	<tu xmlns:lang="ptb">Testes do sistema</tu>
+	<tu xmlns:lang="rus">Проверки системы</tu>
+	<tu xmlns:lang="esp">Pruebas sistemas</tu>
+	<tu xmlns:lang="chs">系统测试</tu>
+	<tu xmlns:lang="kor">시스템 테스트</tu>
+</tm>

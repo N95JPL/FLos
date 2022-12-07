@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JLR_INHIB_S12V_BATT_NOT_CIRC">
+	<tu
+    xmlns:lang="eng"
+  >Inhibit due to secondary 12 volt battery not in circuit</tu>
+	<tu
+    xmlns:lang="nld"
+  >Blokkering doordat secundaire 12 V-accu niet in circuit zit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Neutralisations due à la batterie secondaire 12 V non incluse dans le circuit</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sperre aufgrund einer fehlenden 12-Volt-Sekundärbatterie im Stromkreis</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitazione a causa dell'assenza dal circuito della batteria secondaria a 12 volt</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セカンダリ 12 ボルト バッテリーが回路内にないことによる禁止</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Inibição causada por bateria secundária de 12 volts fora do circuito</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Inibição devido à bateria secundária de 12 volts não estar em circuito</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блокировка, связанная с отсутствием вспомогательной 12-вольтовой АКБ в цепи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Bloqueo debido a que la batería secundaria de 12 voltios no está en el circuito</tu>
+	<tu xmlns:lang="chs">由于辅助 12 伏蓄电池不在电路中而禁用</tu>
+	<tu xmlns:lang="kor">회로에 없는 보조 12V 배터리로 인한 억제</tu>
+</tm>

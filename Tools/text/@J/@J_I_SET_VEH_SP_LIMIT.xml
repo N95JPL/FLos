@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_VEH_SP_LIMIT">
+	<tu
+    xmlns:lang="eng"
+  >This routine will set the vehicle speed limiter. The vehicle will then be restricted to 25 MPH / 40 KPH.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine zal de voertuigsnelheidsbegrenzer instellen. De voertuigsnelheid zal dan tot 40 km/h (25 mijl/h) begrensd worden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de régler le limiteur de vitesse du véhicule. La vitesse du véhicule sera alors limitée à 40 km/h (25 mi/h).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine wird der Fahrgeschwindigkeitsbegrenzer zurückgesetzt. Die Fahrgeschwindigkeit wird auf 25 mph/40 km/h begrenzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura imposta il limitatore di velocità del veicolo. La velocità del veicolo sarà quindi limitata a 25 mph / 40 km/h.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは車両スピード リミッターをセットします。設定後、車両速度は 40 km/h (25 mph) に制限されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina vai definir o limitador de velocidade do veículo. A velocidade do veículo ficará restringida a 40 km/h (25 mph).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina irá definir o limitador de velocidade do veículo. O veículo será então limitado a 25 MPH / 40 km/h.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта процедура служит для установки ограничителя скорости автомобиля. Скорость движения будет ограничена до 40 км/ч (25 миль/ч).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina establece el limitador de velocidad del vehículo. La velocidad del vehículo se restringe a 40 km/h (25 millas/h).</tu>
+	<tu
+    xmlns:lang="chs"
+  >本例行程序将设置车速限速器。 车辆速度将被限制在 25 英里/小时（40 千米/小时）以内。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴에서는 차량 속도 제한 장치를 설정합니다. 그러면 차량이 40KPH/25MPH로 제한됩니다.</tu>
+</tm>

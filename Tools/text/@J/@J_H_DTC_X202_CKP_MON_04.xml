@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_DTC_X202_CKP_MON_04">
+	<tu xmlns:lang="eng">Idle engine for 1 minute.</tu>
+	<tu xmlns:lang="nld">Laat de motor 1 minuut stationair draaien.</tu>
+	<tu xmlns:lang="fra">Laisser tourner au ralenti pendant 1 minute.</tu>
+	<tu xmlns:lang="deu">Motor 1 Minute lang im Leerlauf laufen lassen.</tu>
+	<tu xmlns:lang="ita">Motore a regime minimo per 1 minuto.</tu>
+	<tu xmlns:lang="jpn">エンジンを 1 分間アイドリングさせなさい。</tu>
+	<tu xmlns:lang="ptg">Deixar o motor trabalhar ao ralenti durante 1 minuto.</tu>
+	<tu xmlns:lang="ptb">Motor em marcha lenta por 1 minuto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Оставьте работать двигатель на холостом ходу в течение 1 минуты.</tu>
+	<tu xmlns:lang="esp">Hacer funcionar el motor en ralentí durante 1 minuto.</tu>
+	<tu xmlns:lang="chs">发动机怠速 1 分钟。</tu>
+	<tu xmlns:lang="kor">엔진을 1분간 공회전하십시오.</tu>
+</tm>

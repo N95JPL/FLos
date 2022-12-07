@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DESC_2_OTHER_RELATED_INFO">
+	<tu xmlns:lang="eng">Assembly part number</tu>
+	<tu xmlns:lang="nld">Onderdeelnummer van eenheid</tu>
+	<tu xmlns:lang="fra">Référence d'ensemble</tu>
+	<tu xmlns:lang="deu">Baugruppen-Teilenummer</tu>
+	<tu xmlns:lang="ita">Numero parte del gruppo</tu>
+	<tu xmlns:lang="jpn">アッセンブリ パーツ ナンバー</tu>
+	<tu xmlns:lang="ptg">Número de peça do conjunto</tu>
+	<tu xmlns:lang="ptb">Número da peça do conjunto</tu>
+	<tu xmlns:lang="rus">Монтажный номер детали </tu>
+	<tu xmlns:lang="esp">Número de pieza de conjunto</tu>
+	<tu xmlns:lang="chs">组件零件号</tu>
+	<tu xmlns:lang="kor">어셈블리 부품 번호</tu>
+</tm>

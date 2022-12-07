@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MISLOCK_AUD_OPTION">
+	<tu xmlns:lang="eng">Mislock noise</tu>
+	<tu xmlns:lang="nld">Geluidssignaal voor niet goed vergrendelen</tu>
+	<tu xmlns:lang="fra">Bruit de verrouillage mal effectué</tu>
+	<tu xmlns:lang="deu">Fehlverriegelungston</tu>
+	<tu xmlns:lang="ita">Rumore bloccaggio errato</tu>
+	<tu xmlns:lang="jpn">ミスロック ノイズ</tu>
+	<tu xmlns:lang="ptg">Ruído de trancagem mal efectuada</tu>
+	<tu xmlns:lang="ptb">Ruído de travamento incorreto</tu>
+	<tu xmlns:lang="rus">Шум, вызванный неправильным закрытием замка</tu>
+	<tu xmlns:lang="esp">Ruido de bloqueo incorrecto</tu>
+	<tu xmlns:lang="chs">未锁闭噪音</tu>
+	<tu xmlns:lang="kor">잠금 오류 소음</tu>
+</tm>

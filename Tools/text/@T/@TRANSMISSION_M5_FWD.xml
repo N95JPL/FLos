@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRANSMISSION_M5_FWD">
+	<tu xmlns:lang="eng">Manual 5 speed transmission  -  Front wheel drive</tu>
+	<tu
+    xmlns:lang="nld"
+  >Handmatige versnellingsbak met 5 versnellingen  -  Voorwielaandrijving</tu>
+	<tu xmlns:lang="fra">Transmission manuelle 5 vitesses  -  Traction avant</tu>
+	<tu xmlns:lang="deu">5-Gang-Schaltgetriebe  -  Vorderradantrieb</tu>
+	<tu xmlns:lang="ita">Cambio manuale a 5 rapporti  -  Trazione anteriore</tu>
+	<tu xmlns:lang="jpn">マニュアル 5 速トランスミッション  －  前輪駆動</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Transmissão manual de 5 velocidades  -  Tracção às rodas dianteiras</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Transmissão manjual de 5 velocidades  -  Tração dianteira</tu>
+	<tu
+    xmlns:lang="rus"
+  >Механическая 5-ступенчатая коробка передач  -  Передний привод</tu>
+	<tu xmlns:lang="esp">Cambio manual de 5 velocidades  -  Tracción delantera</tu>
+	<tu xmlns:lang="chs">5速手动变速器  -  前轮驱动</tu>
+	<tu xmlns:lang="kor">수동 5단 변속기  -  전륜구동</tu>
+</tm>

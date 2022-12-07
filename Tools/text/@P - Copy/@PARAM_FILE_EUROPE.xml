@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PARAM_FILE_EUROPE">
+	<tu xmlns:lang="eng">Parameter file for Europe</tu>
+	<tu xmlns:lang="nld">Parameterbestand voor Europa</tu>
+	<tu xmlns:lang="fra">Fichier de configuration destiné aux pays d'Europe</tu>
+	<tu xmlns:lang="deu">Parameterdatei für Europa</tu>
+	<tu xmlns:lang="ita">File parametri per l'Europa</tu>
+	<tu xmlns:lang="jpn">欧州用パラメータ ファイル</tu>
+	<tu xmlns:lang="ptg">Ficheiro de parâmetros para Europa</tu>
+	<tu xmlns:lang="ptb">Arquivo de parâmetros para a Europa,</tu>
+	<tu xmlns:lang="rus">Файл параметров для Европы</tu>
+	<tu xmlns:lang="esp">Archivo de parámetros para Europa</tu>
+	<tu xmlns:lang="chs">用于欧洲的参数文件</tu>
+	<tu xmlns:lang="kor">매개 변수 파일(유럽)</tu>
+</tm>

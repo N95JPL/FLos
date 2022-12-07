@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_REST_MOD_IN_OUT_BUILD">
+	<tu
+    xmlns:lang="eng"
+  >This application provides the ability to place the restraints module in and out of of build mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze toepassing kunt u de regelmodule van beveiligingssysteem voor inzittenden in en uit de fabricagefunctie zetten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application permet de placer le module de commande des dispositifs de retenue en mode construction ou de l'en sortir.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit diesem Anwendungsprogramm kann das Rückhaltesystem-Steuergerät in den Konfigurationsmodus gebracht werden und dieser kann wieder verlassen werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione consente di attivare e disattivare la modalità di produzione del modulo di sicurezza occupanti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは拘束モジュールの再生モードのオン／オフ切り替え機能\を可能\にします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação possibilita colocar e retirar o módulo do sistema de segurança em modo de fabrico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esse aplicativo permite a capacidade de colocar e retirar o módulo de retenção do modo de construção.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная программа позволяет включить режим установки блока системы пассивной безопасности и выйти из него.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación ofrece la capacidad de activar y desactivar el modo de fabricación del módulo de sistemas de retención.</tu>
+	<tu xmlns:lang="chs">此应用程序可使抑制模块进入和退出建立模式。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션을 통해 에어백 모듈을 빌드 모드로 전환하거나 이 모드에서 나올 수 있습니다.</tu>
+</tm>

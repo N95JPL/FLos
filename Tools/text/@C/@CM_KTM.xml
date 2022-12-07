@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_KTM">
+	<tu xmlns:lang="eng">Is the vehicle fitted with a key transponder module?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuig uitgerust met een sleutel transponder module?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule est-il équipé d'un module émetteur-répondeur de clé ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist das Fahrzeug mit einem Steuergerät Fahrzeugschlüssel-Transponder ausgerüstet?</tu>
+	<tu xmlns:lang="ita">Il veicolo è dotato del modulo risponditore chiave?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両にはキー トランスポンダ モジュールが取り付けられていますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo está equipado com um módulo do emissor-receptor da chave?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo está equipado com um módulo transmissor da chave?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Оборудован ли автомобиль блоком приемопередатчика ключа?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Tiene instalado el coche un módulo transpondedor de la llave?</tu>
+	<tu xmlns:lang="chs">车辆是否安装了钥匙收发器模块？</tu>
+	<tu xmlns:lang="kor">차량에 키 트랜스폰더 모듈이 장착되어 있습니까?</tu>
+</tm>

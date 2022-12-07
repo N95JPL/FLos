@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BusIndex$I">
+	<tu xmlns:lang="eng">Bus index</tu>
+	<tu xmlns:lang="nld">Bus-index</tu>
+	<tu xmlns:lang="fra">Index de bus</tu>
+	<tu xmlns:lang="deu">Datenbus-Index</tu>
+	<tu xmlns:lang="ita">Indice bus</tu>
+	<tu xmlns:lang="jpn">バス インデックス</tu>
+	<tu xmlns:lang="ptg">Índice do condutor de dados</tu>
+	<tu xmlns:lang="ptb">Índice do barramento</tu>
+	<tu xmlns:lang="rus">Индекс шины</tu>
+	<tu xmlns:lang="esp">Índice del bus</tu>
+	<tu xmlns:lang="chs">总线索引</tu>
+	<tu xmlns:lang="kor">버스 색인</tu>
+</tm>

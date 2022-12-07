@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REV_CHIM">
+	<tu xmlns:lang="eng">Reverse gear chime</tu>
+	<tu xmlns:lang="nld">Geluidssignaal van achteruitrijversnelling</tu>
+	<tu xmlns:lang="fra">Signal sonore de marche arrière</tu>
+	<tu xmlns:lang="deu">Rückwärtsgang-Signalton</tu>
+	<tu xmlns:lang="ita">Segnale acustico retromarcia</tu>
+	<tu xmlns:lang="jpn">リバース ギア チャイム</tu>
+	<tu xmlns:lang="ptg">Carrilhão de marcha-atrás</tu>
+	<tu xmlns:lang="ptb">Aviso sonoro de marcha à ré</tu>
+	<tu xmlns:lang="rus">Звуковой сигнал включения задней передачи</tu>
+	<tu xmlns:lang="esp">Aviso acústico de marcha atrás</tu>
+	<tu xmlns:lang="chs">倒车挡蜂鸣声</tu>
+	<tu xmlns:lang="kor">후진 기어 차임벨</tu>
+</tm>

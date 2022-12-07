@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_VBF_FILE">
+	<tu xmlns:lang="eng">Versatile binary file</tu>
+	<tu xmlns:lang="nld">Veelzijdig binair bestand</tu>
+	<tu xmlns:lang="fra">Fichier binaire polyvalent</tu>
+	<tu xmlns:lang="deu">Vielseitige Binärdatei</tu>
+	<tu xmlns:lang="ita">File binario versatile</tu>
+	<tu xmlns:lang="jpn">VBF (多用途バイナリ ファイル)</tu>
+	<tu xmlns:lang="ptg">Ficheiro binário versátil</tu>
+	<tu xmlns:lang="ptb">Arquivo binário versátil</tu>
+	<tu xmlns:lang="rus">Универсальный двоичный файл</tu>
+	<tu xmlns:lang="esp">Archivo binario versátil</tu>
+	<tu xmlns:lang="chs">通用二进制文件</tu>
+	<tu xmlns:lang="kor">다용도 이진수 파일</tu>
+</tm>

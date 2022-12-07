@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JReleaseParkbrake$A">
+	<tu xmlns:lang="eng">Release the parking brake</tu>
+	<tu xmlns:lang="nld">Parkeerrem loszetten</tu>
+	<tu xmlns:lang="fra">Désactivez le frein de stationnement</tu>
+	<tu xmlns:lang="deu">Lösen Sie die Feststellbremse</tu>
+	<tu xmlns:lang="ita">Rilasciare il freno a mano</tu>
+	<tu xmlns:lang="jpn">ﾊﾟーｸﾌﾞﾚーｷを解除してください。</tu>
+	<tu xmlns:lang="ptg">Soltar o travão de mão</tu>
+	<tu xmlns:lang="ptb">Solte o freio de estacionamento</tu>
+	<tu xmlns:lang="rus">Отпустите стояночный тормоз</tu>
+	<tu xmlns:lang="esp">Desenganche el Freno de Mano</tu>
+	<tu xmlns:lang="chs">释放驻车制动器</tu>
+	<tu xmlns:lang="kor">주차 브레이크를 해제하십시오.</tu>
+</tm>

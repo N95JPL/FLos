@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart37">
+	<tu
+    xmlns:lang="eng"
+  >Transmission control module auto stop/start system request status</tu>
+	<tu
+    xmlns:lang="nld"
+  >Status van het verzoek van de transmissieregelmodule aan het automatische Stop/Start-systeem</tu>
+	<tu
+    xmlns:lang="fra"
+  >État de la demande du système Arrêt/Démarrage auto du module de commande de transmission</tu>
+	<tu
+    xmlns:lang="deu"
+  >Status der Anforderung an das Auto-Stopp-Start-System durch das Getriebesteuergerät</tu>
+	<tu
+    xmlns:lang="ita"
+  >Stato della richiesta del sistema Stop/Start automatico del modulo di comando cambio</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスミッション コントロール モジュール オート ストップ/スタート システム要求ステータス</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Estado do pedido do sistema Stop/Start automático do módulo de controlo da transmissão</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Status de solicitação do sistema stop/start automático do módulo de controle da transmissão</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние запроса блока управления коробкой передач на включение автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт</tu>
+	<tu
+    xmlns:lang="esp"
+  >Estado de solicitud del sistema Stop/Start automático del módulo de control de la transmisión</tu>
+	<tu xmlns:lang="chs">变速器控制模块自动停止/启动系统请求状态</tu>
+	<tu xmlns:lang="kor">변속기 컨트롤 모듈 자동 Stop/Start 시스템 요청 상태</tu>
+</tm>

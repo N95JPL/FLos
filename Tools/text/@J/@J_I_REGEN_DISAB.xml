@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REGEN_DISAB">
+	<tu xmlns:lang="eng">Regeneration disablement</tu>
+	<tu xmlns:lang="nld">Uitschakeling van regeneratie</tu>
+	<tu xmlns:lang="fra">Désactivation de la régénération</tu>
+	<tu xmlns:lang="deu">Regenerierungsdeaktivierung</tu>
+	<tu xmlns:lang="ita">Disattivazione della rigenerazione</tu>
+	<tu xmlns:lang="jpn">再生不可設定</tu>
+	<tu xmlns:lang="ptg">Desativação da regeneração</tu>
+	<tu xmlns:lang="ptb">Desativação da regeneração</tu>
+	<tu xmlns:lang="rus">Неисправность регенерации</tu>
+	<tu xmlns:lang="esp">Inhabilitación de la regeneración</tu>
+	<tu xmlns:lang="chs">再生禁用</tu>
+	<tu xmlns:lang="kor">재생 비활성화</tu>
+</tm>

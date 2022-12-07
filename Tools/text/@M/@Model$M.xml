@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Model$M">
+	<tu xmlns:lang="eng">MODEL</tu>
+	<tu xmlns:lang="nld">MODEL</tu>
+	<tu xmlns:lang="fra">MODEL</tu>
+	<tu xmlns:lang="deu">MODEL</tu>
+	<tu xmlns:lang="ita">MODEL</tu>
+	<tu xmlns:lang="jpn">MODEL</tu>
+	<tu xmlns:lang="ptg">MODEL</tu>
+	<tu xmlns:lang="ptb">MODEL</tu>
+	<tu xmlns:lang="rus">MODEL</tu>
+	<tu xmlns:lang="esp">MODEL</tu>
+	<tu xmlns:lang="chs">MODEL</tu>
+	<tu xmlns:lang="kor">MODEL</tu>
+</tm>

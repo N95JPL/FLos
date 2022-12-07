@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DEFENDER_MODE_DIS">
+	<tu xmlns:lang="eng">Defender mode is disabled</tu>
+	<tu xmlns:lang="nld">De Defender-functie is uitgeschakeld</tu>
+	<tu xmlns:lang="fra">Mode Defender désactivé</tu>
+	<tu xmlns:lang="deu">Defender-Modus ist deaktiviert.</tu>
+	<tu xmlns:lang="ita">Modalità Defender disattivata</tu>
+	<tu xmlns:lang="jpn">ディフェンダー モードが作動不可に設定されました。</tu>
+	<tu xmlns:lang="ptg">Modo Defender desactivado</tu>
+	<tu xmlns:lang="ptb">Modo Defender está desativado</tu>
+	<tu xmlns:lang="rus">Режим Defender отключен</tu>
+	<tu xmlns:lang="esp">El modo Defender está inhabilitado</tu>
+	<tu xmlns:lang="chs">卫士（Defender）模式禁用</tu>
+	<tu xmlns:lang="kor">Defender 모드가 비활성화됨</tu>
+</tm>

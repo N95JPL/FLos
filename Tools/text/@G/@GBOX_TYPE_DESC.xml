@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@GBOX_TYPE_DESC">
+	<tu xmlns:lang="eng">Gearbox type description</tu>
+	<tu xmlns:lang="nld">Beschrijving van versnellingsbaktype</tu>
+	<tu xmlns:lang="fra">Description du type de boîte de vitesses</tu>
+	<tu xmlns:lang="deu">Getriebeart ? Beschreibung</tu>
+	<tu xmlns:lang="ita">Descrizione tipo cambio</tu>
+	<tu xmlns:lang="jpn">ギアボックス タイプの記述</tu>
+	<tu xmlns:lang="ptg">Descrição do tipo de caixa de velocidades</tu>
+	<tu xmlns:lang="ptb">Descrição do tipo de caixa de câmbio</tu>
+	<tu xmlns:lang="rus">Описание типа коробки передач</tu>
+	<tu xmlns:lang="esp">Descripción del tipo de transmisión</tu>
+	<tu xmlns:lang="chs">变速器类型描述</tu>
+	<tu xmlns:lang="kor">기어박스 유형 설명</tu>
+</tm>

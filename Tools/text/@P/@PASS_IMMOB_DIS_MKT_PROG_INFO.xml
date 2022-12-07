@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PASS_IMMOB_DIS_MKT_PROG_INFO">
+	<tu
+    xmlns:lang="eng"
+  >If the vehicle has no Passive Immobilization requirement or components (Alarm Remotes &amp; passive coil) then from the selection screen on Market Programming select Passive Immobilization Disable. Failure to deselect option will lead to the vehicle passively arming and immobilizing vehicle if no components are fitted, if this occurs to turn off passive immobilization you will be required to program a slave remote to turn off passive, then reprogramme Market settings disabling the passive immobilization for the setting to program vehicle correctly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Indien het voertuig niet beschikt over passieve startblokkering of onderdelen daarvan (afstandsbediening voor alarm en passieve spoel), moet u op het selectiescherm voor de marktprogrammering de passieve startblokkering deselecteren. Indien deze optie niet wordt gedeselecteerd en er geen onderdelen gemonteerd zijn, wordt het passieve alarm geactiveerd en de startblokkering ingeschakeld. Als dit gebeurt zult u een hulpafstandsbediening moeten programmeren om het passieve alarm uit te schakelen, en vervolgens de marktprogrammering opnieuw uitvoeren en de passieve startblokkering deselecteren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si le véhicule ne présente ni option ni composant d'immobilisation passive (télécommande d'alarme &amp; bobine passive), sélectionnez alors l'option de neutralisation de l'immobilisation passive sur l'écran de programmation des marchés. Si cette option n'est pas neutralisée, l'armement et l'immobilisation passifs du véhicule se produiront si aucun composant n'est posé ; dans ce cas, pour neutraliser la fonction d'immobilisation passive, vous devrez alors programmer une télécommande asservie pour la neutralisation, puis reprogrammer les réglages du marché approprié en neutralisant la fonction d'immobilisation passive dans les réglages pour obtenir une programmation correcte du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls das Fahrzeug nicht mit Bauteilen einer passiven Wegfahrsperre (Alarmanlage, Fernbedienungen und Ringantenne) ausgestattet ist oder hierfür kein Erfordernis besteht, dann aus dem Auswahlbildschirm für die Absatzmarktprogrammierung den Eintrag ?Passive Immobilization Disable? (passive Wegfahrsperre deaktivieren) auswählen. Falls dies nicht erfolgt, führt dies zur Schärfung der passiven Wegfahrsperre und Immobilisierung des Fahrzeugs, ohne dass die entsprechenden Bauteile eingebaut sind. In diesem Fall muss zur Entschärfung der passiven Wegfahrsperre eine Hilfsfernbedienung programmiert werden; und anschließend müssen die Absatzmarkteinstellungen neu programmiert werden, um die passive Wegfahrsperre zu deaktivieren und das Fahrzeug korrekt zu programmieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se il veicolo non presenta requisiti né componenti (telecomandi antifurto e bobina passiva) dell'immobilizzazione passiva, dalla schermata di selezione Market Programming (Programmazione mercato) selezionare Passive Immobilization Disable (Disabilitazione Immobilizzazione Passiva). Non deselezionando l'opzione, se non vi sono componenti installati, il veicolo verrà armato e immobilizzato in modo passivo. In tal caso, per disattivare l'immobilizzazione passiva e programmare il veicolo correttamente, sarà necessario programmare un telecomando asservito e quindi riprogrammare le impostazioni del mercato disabilitando l'immobilizzazione passiva per l'impostazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両にパッシブ イモビライゼーション要件またはそのコンポーネント (アラーム リモートおよびパッシブ コイル) がない場合、市場プログラミングの選択画面でパッシブ イモビライゼーション作動不可を選択しなさい。このオプションを選択解除しないと、コンポーネントが取り付けられていない場合に車両がパッシブ アーミングされ動かなくなります。この事態が発生すると、パッシブ イモビライゼーションをオフにするためには、パッシブ解除のためにスレーブ リモートをプログラムし、市場設定を再プログラムしてパッシブ イモビライゼーションを作動不可に設定し直さなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o veículo não possuir requisitos nem componentes do Sistema de Imobilização Passivo (Alarmes remotos e bobina passiva), seleccione Desactivar Sistema de Imobilização Passivo no ecrã de selecção em Programação do Mercado. Se esta opção não for desseleccionada, o sistema passivo do veículo é armado e imobiliza o veículo se não forem montados quaisquer componentes; se tal acontecer, para desligar o sistema de imobilização passivo, terá de programar-se um comando à distância secundário para desligar o sistema passivo e depois reprogramar as definições de Mercado desactivando o sistema de imobilização passivo para que a definição programe o veículo correctamente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o veículo não tiver solicitação ou requisitos de Imobilização passiva (Alarme remotos e bobina passiva), na tela de seleção em Programação de mercado, selecione Desativação da imobilização passiva. A falha da opção Cancelar seleção levará à ativação passivamente e imobilização do veículo se nenhum componente for instalado. Se isso ocorrer, para desligar a imobilização passiva será necessário programar um escravo remoto para desativar o passivo, em seguida, reprograme as configurações de mercado desativando a imobilização passiva da configuração para programar o veículo corretamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если автомобиль не оснащен пассивной системой блокировки запуска двигателя или отдельными компонентами (пульты управления сигнализацией и пассивной катушкой), в меню программирования для конкретных рынков выберите Отключить пассивную систему блокировки запуска двигателя. Если эту опцию не отключить, при отсутствии компонентов системы, будет включаться пассивный режим охранной системы и иммобилайзер. В этом случае выключить пассивный иммобилайзер вы можете выбрав программу синхронизации брелка, а затем перепрограммируйте функции для конкретных рынков, отключив пассивный иммобилайзер, для установки на правильное программирование автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el vehículo no requiere o no tiene componentes de inmovilización pasiva (receptor de alarma y bobina de inmovilización pasiva), en la pantalla de selección de Market Programming (programación para el mercado), seleccione Passive Immobilization Disable (deshabilitar inmovilización pasiva). Si no se cancela la selección de esta opción, la inmovilización pasiva del vehículo se activará si no hay componentes instalados. En este caso, para desactivar la inmovilización pasiva, tendrá que programar un receptor esclavo para desactivar la inmovilización pasiva y, a continuación, vuelva a programar la configuración de mercado desactivando la inmovilización pasiva para la configuración para programar el vehículo de forma correcta.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果车辆没有任何被动防盗锁止要求或元件（报警遥控装置与无源线圈），那么，请从Market Programming（市场编程）上的选择屏中选取Passive Immobilization Disable（被动防盗锁止禁用）。 未能取消选择选项将导致车辆在没有配备相应元件的情况下处于被动警戒状态并锁止车辆；如果出现这种情况，为关闭被动防盗锁止，需要您编程设置一个从属遥控器以关闭被动防盗锁止，然后重新编程设置市场设定，禁用被动防盗锁止，以对车辆进行正确的编程设置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에 수동적 이모빌라이제이션 요구 사항이나 구성 요소(알람 리모컨 및 수동형 코일)가 없는 경우에는 시장 프로그래밍의 선택 화면에서 수동적 이모빌라이제이션 비활성화를 선택하십시오. 아무런 구성 요소도 장착되지 않은 경우 옵션을 선택 취소하지 않으면 차량 수동 설정과 차량이 고정되는 결과로 이어집니다. 수동적 이모빌라이제이션을 끄기 위해 이런 상황이 발생하는 경우 수동 모드를 해제하도록 슬레이브 리모컨을 프로그래밍해야 하며, 그런 다음 차량을 올바로 프로그래밍하도록 설정하기 위해 수동적 이모빌라이제이션을 비활성화하는 시장 설정을 다시 프로그래밍하십시오.</tu>
+</tm>

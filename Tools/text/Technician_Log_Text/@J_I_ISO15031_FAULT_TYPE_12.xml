@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_12">
+<tu xmlns:lang="eng">General electrical failure - circuit short to battery.</tu>
+<tu xmlns:lang="nld">Algemeen elektrisch defect - kortsluiting naar accu.</tu>
+<tu xmlns:lang="fra">Panne &#233;lectrique g&#233;n&#233;rale - court-circuit &#224; la batterie.</tu>
+<tu xmlns:lang="deu">Allgemeine Elektrikst&#246;rung - Kurzschluss an Batterie.</tu>
+<tu xmlns:lang="ita">Guasto elettrico generale - cortocircuito con batteria.</tu>
+<tu xmlns:lang="jpn">ˆê”ÊƒGƒŒƒNƒgƒŠƒJƒ‹ŒÌá | ƒT[ƒLƒbƒgAƒoƒbƒeƒŠ‚ÖƒVƒ‡[ƒg</tu>
+<tu xmlns:lang="ptg">Falha el&#233;ctrica geral - curto-circuito &#224; bateria neste circuito.</tu>
+<tu xmlns:lang="rus">Ýëåêòðè÷åñêàÿ íåèñïðàâíîñòü îáùåãî õàðàêòåðà - êîðîòêîå çàìûêàíèå öåïè íà àêêóìóëÿòîðíóþ áàòàðåþ.</tu>
+<tu xmlns:lang="esp">Fallo el&#233;ctrico general: cortocircuito a bater&#237;a.</tu>
+<tu xmlns:lang="chs">Ò»°ãµçÆø¹ÊÕÏ - ¶ÔÐîµç³Ø¶ÌÂ·¡£</tu>
+</tm>

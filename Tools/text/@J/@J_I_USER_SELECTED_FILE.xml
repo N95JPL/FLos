@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_USER_SELECTED_FILE">
+	<tu xmlns:lang="eng">User selected file</tu>
+	<tu xmlns:lang="nld">Door de gebruiker geselecteerd bestand</tu>
+	<tu xmlns:lang="fra">Fichier utilisateur sélectionné</tu>
+	<tu xmlns:lang="deu">Vom Benutzer ausgewählte Datei</tu>
+	<tu xmlns:lang="ita">File selezionato dall'utente</tu>
+	<tu xmlns:lang="jpn">ユーザー選択によるファイル</tu>
+	<tu xmlns:lang="ptg">Ficheiro a seleccionar pelo utilizador</tu>
+	<tu xmlns:lang="ptb">Arquivo selecionado pelo usuário</tu>
+	<tu xmlns:lang="rus">Выбранный пользователем файл</tu>
+	<tu xmlns:lang="esp">Fichero seleccionado por usuario</tu>
+	<tu xmlns:lang="chs">用户选择的文件</tu>
+	<tu xmlns:lang="kor">사용자가 선택한 파일</tu>
+</tm>

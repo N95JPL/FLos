@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NAV_REG">
+	<tu xmlns:lang="eng">Navigation region</tu>
+	<tu xmlns:lang="nld">Regio van navigatiesysteem.</tu>
+	<tu xmlns:lang="fra">Région de navigation</tu>
+	<tu xmlns:lang="deu">Gebiet für Navigation</tu>
+	<tu xmlns:lang="ita">Regione di navigazione</tu>
+	<tu xmlns:lang="jpn">ナビゲーション領域</tu>
+	<tu xmlns:lang="ptg">Região da navegação</tu>
+	<tu xmlns:lang="ptb">Região de navegação</tu>
+	<tu xmlns:lang="rus">Навигационный регион</tu>
+	<tu xmlns:lang="esp">Región de navegación</tu>
+	<tu xmlns:lang="chs">导航地区</tu>
+	<tu xmlns:lang="kor">내비게이션 지역</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-ME7314">
+	<tu xmlns:lang="eng">Waiting for system to stabilise</tu>
+	<tu xmlns:lang="nld">Wacht totdat het systeem zich stabiliseert</tu>
+	<tu xmlns:lang="fra">Attendre jusqu'à ce que le système se stabilise</tu>
+	<tu xmlns:lang="deu">Warten, daß sich das System stabilisiert</tu>
+	<tu xmlns:lang="ita">Si aspetta finché si stabilizzi il sistema</tu>
+	<tu xmlns:lang="jpn">シｽﾃムが安定するまで待つこと。</tu>
+	<tu xmlns:lang="ptg">A aguardar a estabilização do sistema</tu>
+	<tu xmlns:lang="ptb">Aguardando o sistema estabilizar</tu>
+	<tu xmlns:lang="rus">Ожидание стабилизации системы</tu>
+	<tu xmlns:lang="esp">Se espera hasta que se estabilice el sistema</tu>
+	<tu xmlns:lang="chs">等待系统趋于稳定</tu>
+	<tu xmlns:lang="kor">시스템이 안정화될 때까지 기다리는 중</tu>
+</tm>

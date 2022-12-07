@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VINDECODE_MISMATCH_MODEL_YEAR">
+	<tu
+    xmlns:lang="eng"
+  >The session model year does not match that specified in the vehicle identification number read from the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het modeljaar voor deze sessie komt niet overeen met het modeljaar vermeld in het voertuigidentificatienummer dat uit het voertuig werd ingelezen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'année-modèle indiquée dans la session ne correspond pas à l'année-modèle indiquée sur le numéro d'identification relevé dans le véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das für die Sitzung gewählte Modelljahr stimmt nicht mit dem überein, das in der aus dem Fahrzeug ausgelesenen Fahrzeug-Identifizierungsnummer spezifiziert ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'anno modello della sessione non corrisponde a quello specificato nel numero di identificazione veicolo letto dalla vettura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セッション モデル イヤー (MY) が車両から読み取られた車両 ID ナンバーで指定されるものと適合しません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O ano de modelo da sessão não corresponde ao especificado no número de identificação do veículo lido a partir do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O ano-modelo da sessão não corresponde ao especificado no número de identificação do veículo lido a partir do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Модельный год в сеансе не соответствует считанному с автомобиля идентификационному номеру.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El modelo año de la sesión no coincide con el especificado por el número de identificación del vehículo que se ha leído en el vehículo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >测试进程中的车型年份与从车辆上读取的车辆标识代码所规定的年份不匹配。</tu>
+	<tu
+    xmlns:lang="kor"
+  >세션 연식(MY)이 차량에서 읽은 차량 식별 번호에 지정된 유형과 일치하지 않습니다.</tu>
+</tm>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PRESS_TICK_ALARM_LED">
+	<tu xmlns:lang="eng">Press tick when the alarm LED is flashing slowly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op de afvinktoets zodra de LED van het alarmsysteem langzaam knippert.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la coche lorsque la diode d'alarme clignote doucement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Häkchen antippen, wenn die Alarm-LED langsam blinkt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il tasto di conferma quando il LED del sistema di allarme lampeggia lentamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アラーム LED がゆっくり点滅しているときにティックを押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Premir o sinal de visto quando o LED de alarme estiver a piscar lentamente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione a marca quando o LED de alarme estiver piscando lentamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите галочку, когда светодиод сигнализации будет мигать медленно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de continuar cuando el LED de la alarma parpadee despacio.</tu>
+	<tu xmlns:lang="chs">当报警器 LED 缓慢闪亮时，按勾选键。</tu>
+	<tu xmlns:lang="kor">알람 LED가 천천히 깜박일 때 체크 표시를 누르십시오.</tu>
+</tm>

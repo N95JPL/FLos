@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CC_DISPLAY_FULL_PLUS_PRIORITY">
+	<tu
+    xmlns:lang="eng"
+  >Standard speed control full display plus priority messages</tu>
+	<tu
+    xmlns:lang="nld"
+  >Volledige weergave standaard snelheidsregeling plus prioriteitsberichten</tu>
+	<tu
+    xmlns:lang="fra"
+  >Régulateur de vitesse standard, affichage complet plus messages prioritaires.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Standard-Geschwindigkeitsregelung - Vollanzeige mit Prioritätsmeldungen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Display completo controllo di velocità standard e messaggi di priorità</tu>
+	<tu
+    xmlns:lang="jpn"
+  >標準スピード コントロール フル ディスプレイ + 優先メッセージ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Controlo da velocidade normal, visor completo mais mensagens de prioridade</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Tela cheia do controle de velocidade padrão com mensagens de prioridade</tu>
+	<tu
+    xmlns:lang="rus"
+  >Полнофункциональный дисплей стандартной системы круиз-контроля плюс приоритетные сообщения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Visualización completa del control de velocidad estándar con mensajes prioritarios</tu>
+	<tu xmlns:lang="chs">标准速度控制完整显示＋优先信息</tu>
+	<tu xmlns:lang="kor">표준 스피드 컨트롤 전체 디스플레이  우선 순위 메시지</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOAD_FUEL_ADAPT_FILE">
+	<tu
+    xmlns:lang="eng"
+  >Press tick to upload fuel adaption data from the vehicle.  To load a previously stored fuel adaption file press cross.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op het vinkje om de brandstofaanpassingsgegevens vanuit het voertuig te uploaden.  Om een eerder opgeslagen brandstofaanpassingsbestand te laden, drukt u op het kruisje.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la coche pour télécharger du véhicule des données d'adaptation d'alimentation.  Pour charger un fichier d'adaptation d'alimentation préalablement enregistré, appuyez sur la croix.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Häkchen antippen, um Gemischanpassungsdaten vom Fahrzeug hochzuladen.  Um eine zuvor gespeicherte Gemischanpassungsdatei zu laden, das Kreuz antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il segno di spunta per caricare i dati di adattamento carburante dal veicolo.  Per caricare un file di adattamento carburante precedentemente memorizzato, premere la crocetta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ティックを押し、車両からフューエル補正データをアップロードしなさい。  先に保存してあったフューエル補正ファイルをロードするには×を押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Premir o sinal de visto para carregar os dados de adaptação de combustível do veículo.  Para carregar um ficheiro de adaptação de combustível anteriormente gravado, premir a cruz.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione a marca para carregar os dados da adaptação do combustível do veículo.  Para carregar um arquivo de adaptação do combustível armazenado anteriormente pressione X.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для выгрузки из автомобиля данных о модификации топлива нажмите 'галочку'.  Для загрузки сохраненного ранее файла данных о модификации топлива нажмите значок креста.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar la marca de verificación para cargar los datos de adaptación del combustible del vehículo.  Para cargar un archivo de adaptación del combustible almacenado anteriormente, pulsar la cruz.</tu>
+	<tu
+    xmlns:lang="chs"
+  >按勾选键从车辆上载燃料调适数据。  要载入先前保存的燃料调适文件，请按叉键。</tu>
+	<tu
+    xmlns:lang="kor"
+  >체크 표시를 눌러 차량에서 연료 어댑테이션 데이터를 업로드하십시오.  이전에 저장된 연료 어댑테이션 파일을 로드하려면 십자 기호를 누르십시오.</tu>
+</tm>

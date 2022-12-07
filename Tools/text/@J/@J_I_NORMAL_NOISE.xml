@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NORMAL_NOISE">
+	<tu xmlns:lang="eng">Normal noises</tu>
+	<tu xmlns:lang="nld">Normale geluiden</tu>
+	<tu xmlns:lang="fra">Bruits normaux</tu>
+	<tu xmlns:lang="deu">Normale Geräusche</tu>
+	<tu xmlns:lang="ita">Rumori normali</tu>
+	<tu xmlns:lang="jpn">ノーマル ノイズ</tu>
+	<tu xmlns:lang="ptg">Ruídos normais</tu>
+	<tu xmlns:lang="ptb">Ruídos normais</tu>
+	<tu xmlns:lang="rus">Нормальные шумы</tu>
+	<tu xmlns:lang="esp">Ruidos normales</tu>
+	<tu xmlns:lang="chs">正常噪音</tu>
+	<tu xmlns:lang="kor">정상적인 소음</tu>
+</tm>

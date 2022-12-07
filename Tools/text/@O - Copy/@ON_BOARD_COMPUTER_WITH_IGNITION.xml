@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@ON_BOARD_COMPUTER_WITH_IGNITION">
+	<tu xmlns:lang="eng">On-board computer with ignition</tu>
+	<tu xmlns:lang="nld">Boordcomputer met contact</tu>
+	<tu xmlns:lang="fra">Ordinateur de bord avec allumage.</tu>
+	<tu xmlns:lang="deu">On-board-Rechner mit Zündung</tu>
+	<tu xmlns:lang="ita">Computer di bordo con accensione</tu>
+	<tu xmlns:lang="jpn">イグニション経由のオンボード コンピュータ</tu>
+	<tu xmlns:lang="ptg">Computador de bordo com ignição</tu>
+	<tu xmlns:lang="ptb">Computador de bordo com ignição</tu>
+	<tu xmlns:lang="rus">Бортовой компьютер с функцией управления зажиганием</tu>
+	<tu xmlns:lang="esp">Ordenador de a bordo con encendido</tu>
+	<tu xmlns:lang="chs">带点火的车载电脑</tu>
+	<tu xmlns:lang="kor">점화 시스템을 포함한 온보드 컴퓨터</tu>
+</tm>

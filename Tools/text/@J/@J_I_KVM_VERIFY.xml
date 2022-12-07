@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KVM_VERIFY">
+	<tu xmlns:lang="eng">Keyless vehicle module verify</tu>
+	<tu xmlns:lang="nld">Verificatie van module voor instappen zonder sleutel</tu>
+	<tu xmlns:lang="fra">Vérification du module d'accès sans clé du véhicule</tu>
+	<tu xmlns:lang="deu">Verifikation schlüsselloses Fahrzeug-Steuergerät</tu>
+	<tu xmlns:lang="ita">Verifica del modulo veicolo senza chiavi</tu>
+	<tu xmlns:lang="jpn">キーレス車両モジュールの正当性確認</tu>
+	<tu xmlns:lang="ptg">Verificar o módulo de entrada sem chave do veículo</tu>
+	<tu xmlns:lang="ptb">Verificação do módulo de veículo sem chave</tu>
+	<tu xmlns:lang="rus">Проверка модуля доступа без ключа</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobación del módulo de apertura a distancia del vehículo</tu>
+	<tu xmlns:lang="chs">遥控车钥模块验证</tu>
+	<tu xmlns:lang="kor">키리스 차량 모듈 확인</tu>
+</tm>

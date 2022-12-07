@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PWR_10_WAY_PAS_SEAT_ADJUST">
+	<tu xmlns:lang="eng">Power 10-way passenger's seat adjustment</tu>
+	<tu xmlns:lang="nld">Voeding, 10-weg-instelling van de passagiersstoel</tu>
+	<tu xmlns:lang="fra">Siège passager à réglage électrique 10 voies</tu>
+	<tu xmlns:lang="deu">Elektrische 10-Wege-Beifahrersitzverstellung</tu>
+	<tu xmlns:lang="ita">Regolazione elettrica sedile passeggero a 10 vie</tu>
+	<tu xmlns:lang="jpn">電動 10-ウェイ助手席側シート調整</tu>
+	<tu xmlns:lang="ptg">Ajuste eléctrico de 10 vias do banco do passageiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ajuste elétrico do assento do motorista com 10 direções</tu>
+	<tu
+    xmlns:lang="rus"
+  >10-позиционная система регулировки сиденья пассажира с электроприводом</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ajuste eléctrico en 10 sentidos del asiento del acompañante</tu>
+	<tu xmlns:lang="chs">电动 10 向乘客座椅调节</tu>
+	<tu xmlns:lang="kor">전동식 10방향 조수석 시트 조정</tu>
+</tm>

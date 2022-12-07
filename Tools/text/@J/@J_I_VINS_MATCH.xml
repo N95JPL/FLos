@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VINS_MATCH">
+	<tu xmlns:lang="eng">All VIN's match</tu>
+	<tu xmlns:lang="nld">Alle VIN's komen overeen</tu>
+	<tu xmlns:lang="fra">Tous les VIN correspondent</tu>
+	<tu xmlns:lang="deu">Alle VIN's stimmen überein</tu>
+	<tu xmlns:lang="ita">Tutti i VIN corrispondono</tu>
+	<tu xmlns:lang="jpn">すべての VIN が該当</tu>
+	<tu xmlns:lang="ptg">Todos os NIV estão correctos</tu>
+	<tu xmlns:lang="ptb">Todos os VINs correspondem</tu>
+	<tu xmlns:lang="rus">Соответствие всех VIN-кодов</tu>
+	<tu xmlns:lang="esp">Todos los VIN's concuerdan</tu>
+	<tu xmlns:lang="chs">所有 VIN 均匹配</tu>
+	<tu xmlns:lang="kor">모든 VIN 일치</tu>
+</tm>

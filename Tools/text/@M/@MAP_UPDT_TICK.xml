@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAP_UPDT_TICK">
+	<tu
+    xmlns:lang="eng"
+  >After you have completed the on screen map update prompts, or the screen advises that there is no update, press the tick to continue.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer u de instructies op het scherm over het bijwerken van de kaart hebt uitgevoerd of wanneer het scherm aangeeft dat er geen update aanwezig is, klikt u op het vinkje om verder te gaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois la procédure de mise à jour de la carte terminée, ou si l'écran indique qu'aucune mise à jour n'est requise, appuyez sur la coche pour continuer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Ausführung der Bildschirmanweisungen zur Kartenaktualisierung oder wenn gemeldet wird, dass keine Aktualisierung verfügbar ist, das Häkchen antippen, um fortzufahren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta completate le istruzioni di aggiornamento della mappa sullo schermo, o se sulla schermata viene visualizzato che non sono disponibili aggiornamenti, premere il segno di spunta per continuare.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >画面に表示されるマップ更新の指示を完了した場合、または更新が無いことを通知された場合は、チェック マークを付けて続行する。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Após concluir a atualização do mapa e o ecrã indicar que não existe nenhuma atualização, prima o visto para continuar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após conclusão das mensagens de atualização de mapa na tela, ou depois de ser informado na tela de que não há atualizações, clique no ícone de verificação para continuar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После выполнения инструкций на экране по обновлению карты, либо если на экране отображается сообщение об отсутствии обновлений, нажмите галочку, чтобы продолжить.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tras haber completado todas las pantallas emergentes de actualización de los mapas, o si en la pantalla se indica que no hay ninguna actualización, pulse la marca de verificación para continuar.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在完成屏幕上的地图更新提示后，或屏幕提示无更新后，按下勾选键继续。</tu>
+	<tu
+    xmlns:lang="kor"
+  >화면에 표시되는 지도 업데이트 지침을 완료했거나 화면에 업데이트가 없다는 내용이 표시된 후 체크 표시를 눌러 계속하십시오.</tu>
+</tm>

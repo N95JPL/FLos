@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IVS_RES_ANSWER_INCORRECT">
+	<tu xmlns:lang="eng">No correct answer is available</tu>
+	<tu xmlns:lang="nld">Er is geen correct antwoord beschikbaar.</tu>
+	<tu xmlns:lang="fra">Aucune réponse correcte disponible</tu>
+	<tu xmlns:lang="deu">Es ist keine korrekte Antwort verfügbar</tu>
+	<tu xmlns:lang="ita">Non ci sono risposte corrette disponibili</tu>
+	<tu xmlns:lang="jpn">正しい答えはありません。</tu>
+	<tu xmlns:lang="ptg">Não existe uma resposta correcta disponível</tu>
+	<tu xmlns:lang="ptb">Não há resposta correta disponível</tu>
+	<tu xmlns:lang="rus">Правильный ответ отсутствует</tu>
+	<tu xmlns:lang="esp">No hay ninguna respuesta correcta disponible</tu>
+	<tu xmlns:lang="chs">不能获得任何正确的应答</tu>
+	<tu xmlns:lang="kor">정답을 확인할 수 없음</tu>
+</tm>

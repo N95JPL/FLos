@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SERV_INT_DEF">
+	<tu xmlns:lang="eng">User defined service interval</tu>
+	<tu xmlns:lang="nld">Door gebruiker opgegeven onderhoudsinterval</tu>
+	<tu xmlns:lang="fra">Périodicité d'entretien définie par l'utilisateur</tu>
+	<tu xmlns:lang="deu">Benutzerdefiniertes Wartungsintervall</tu>
+	<tu
+    xmlns:lang="ita"
+  >Intervallo di servizio (tagliando) definito dall'utente</tu>
+	<tu xmlns:lang="jpn">ユーザー規定によるサービス インターバル</tu>
+	<tu xmlns:lang="ptg">Intervalo de revisão definido pelo utilizador</tu>
+	<tu xmlns:lang="ptb">Intervalo de serviço definido pelo usuário</tu>
+	<tu
+    xmlns:lang="rus"
+  >Интервал периодичности обслуживания, определенный клиентом</tu>
+	<tu xmlns:lang="esp">Intervalo de servicio definido por usuario</tu>
+	<tu xmlns:lang="chs">用户定义的维护间隔时间</tu>
+	<tu xmlns:lang="kor">사용자 정의 서비스 주기</tu>
+</tm>

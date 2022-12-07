@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MODIFY_ENG">
+	<tu xmlns:lang="eng">Modify the engineering display.</tu>
+	<tu xmlns:lang="nld">Wijzig het engineeringdisplay.</tu>
+	<tu xmlns:lang="fra">Modifiez l'affichage technique.</tu>
+	<tu xmlns:lang="deu">Technische Anzeige ändern.</tu>
+	<tu xmlns:lang="ita">Modificare il display tecnica.</tu>
+	<tu xmlns:lang="jpn">エンジニアリング表\示を変更しなさい。</tu>
+	<tu xmlns:lang="ptg">Modificar a visualização para departamento técnico.</tu>
+	<tu xmlns:lang="ptb">Modifique a vista de engenharia.</tu>
+	<tu xmlns:lang="rus">Изменить отображение технических единиц.</tu>
+	<tu xmlns:lang="esp">Modificar la pantalla de información técnica.</tu>
+	<tu xmlns:lang="chs">修改工程显示。</tu>
+	<tu xmlns:lang="kor">엔지니어링 디스플레이를 수정하십시오.</tu>
+</tm>

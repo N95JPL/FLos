@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AppFault$I">
+	<tu
+    xmlns:lang="eng"
+  >As the application should only be conducted on a fault free vehicle positioned on a flat surface, the main possible causes for failure will be either a mechanical vehicle fault or human measurement error.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Aangezien de toepassing alleen op een foutvrij voertuig dat op een vlakke ondergrond geplaatst is, zou moeten worden uitgevoerd, liggen de mogelijke hoofdoorzaken van het mislukken óf bij een mechanische fout in het voertuig óf een menselijke meetfout.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Comme l'application doit être exécutée uniquement sur un véhicule exempt de défauts, garé sur une surface plane, les principales causes possibles de défaillance seront soit un défaut mécanique du véhicule, soit une erreur humaine de mesure.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Da dieses Anwendungsprogramm nur bei einem fehlerfrei arbeitenden, auf ebenem Untergrund abgestellten Fahrzeug eingesetzt werden sollte, handelt es sich bei den möglichen Hauptursachen für ein Versagen entweder um eine mechanische Fahrzeugstörung oder um einen menschlichen Messfehler.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Poiché l'applicazione deve essere condotta solo su un veicolo privo di guasti posizionato su una superficie piana, le principali cause possibili del problema sono un guasto meccanico del veicolo o un errore di misura umano.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >平面に置かれた故障のない車両に対してのみ、このアプリケーションを実行すること。アプリケーションの失敗は、主に車両の機械的故障または人的な測定間違いによります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Como a aplicação só deveria ser utilizada num veículo sem avarias posicionado numa superfície plana, as causas principais possíveis da avaria serão uma avaria mecânica do veículo ou erro humano na medição.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Tendo em conta que o aplicativo deve ser executada apenas em um veículo sem falhas posicionado sobre uma superfície plana, as possíveis principais causas da falha serão uma falha mecânica do veículo ou erro de medição humana.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Поскольку это приложение следует выполнять на исправном автомобиле, стоящем на плоской поверхности, основными возможными причинами отказа будут либо механическая неисправность автомобиля, либо ошибка оператора при измерении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Debido a que la aplicación sólo debe ejecutarse en un vehículo sin averías colocado sobre una superficie plana, las principales posibles causas de avería serán una avería mecánica o un error humano de medición.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'由于该应用程序只应用在停放在平整表面的无故障车辆上，所以造成故障的可能原因将是车辆的机械故障或人为测量错误。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >응용 프로그램은 고장이 없고 평지에 주차된 차량에서만 실행되므로 고장의 주요 가능 원인은 차량의 기계적 결함이나 작업자의 측정 오류일 것입니다.</tu>
+</tm>

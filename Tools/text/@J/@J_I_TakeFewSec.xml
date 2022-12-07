@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TakeFewSec">
+	<tu xmlns:lang="eng">This may take a few seconds.</tu>
+	<tu xmlns:lang="nld">Dit kan een paar seconden duren.</tu>
+	<tu xmlns:lang="fra">Ceci peut prendre quelques secondes.</tu>
+	<tu xmlns:lang="deu">Dies kann einige Sekunden dauern.</tu>
+	<tu xmlns:lang="ita">Possono essere necessari alcuni secondi.</tu>
+	<tu xmlns:lang="jpn">これには数秒かかることがあります。</tu>
+	<tu xmlns:lang="ptg">Isto pode demorar alguns segundos.</tu>
+	<tu xmlns:lang="ptb">Isso pode demorar alguns instantes.</tu>
+	<tu xmlns:lang="rus">Этот процесс может занять несколько секунд.</tu>
+	<tu xmlns:lang="esp">Puede tardar unos segundos.</tu>
+	<tu xmlns:lang="chs">这可能需要几秒钟。</tu>
+	<tu xmlns:lang="kor">이 작업에 몇 초가 소요될 수 있습니다.</tu>
+</tm>

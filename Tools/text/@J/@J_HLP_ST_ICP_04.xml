@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_ICP_04">
+	<tu
+    xmlns:lang="eng"
+  >3)  Routine result is pass if no button push detected during execution, fails if any button is pushed during execution.</tu>
+	<tu
+    xmlns:lang="nld"
+  >3)  Het routineresultaat heeft de test gehaald als er tijdens de uitvoering geen knop wordt ingedrukt, maar heeft hem niet gehaald als er tijdens de uitvoering wél een knop wordt ingedrukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >3)  Le résultat du programme est un succès si aucune pression sur un bouton n'est détectée pendant l'exécution, un échec si un bouton est pressé pendant l'exécution.</tu>
+	<tu
+    xmlns:lang="deu"
+  >3)  Routinemäßiges Ergebnis lautet Bestanden, wenn keine Tastenbetätigung während der Ausführung ermittelt wurde, und Nicht Bestanden, wenn eine Taste während der Ausführung betätigt wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >3)  Il risultato della procedura è 'superata' se non si rileva alcun pulsante premuto durante l'esecuzione, 'non superata' se viene premuto qualunque pulsante durante l'esecuzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >3)  実行中にボタン プッシュが検出されなかった場合、ルーチンの結果は合格です。実行中にいずれかのボタンが押された場合は不合格です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >3)  O resultado da rotina é bom se não for detectado qualquer botão premido durante a execução ou mau se um botão tiver sido premido durante a execução.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >3)  O resultado da rotina é passou se não houver nenhum botão pressionado detectado durante a execução e é falhou se nenhuma botão for pressionado durante a execução.</tu>
+	<tu
+    xmlns:lang="rus"
+  >3)  Результат процедуры нормален, если при ее выполнении нажатия кнопок обнаружено не было; выдается ошибка, если при выполнении нажата какая-либо кнопка.</tu>
+	<tu
+    xmlns:lang="esp"
+  >3)  El resultado de la rutina es 'aprobado' si no se detectó ninguna pulsación de botón durante su ejecución, o 'no aprobado' si se pulsa cualquiera de los botones durante su ejecución.</tu>
+	<tu
+    xmlns:lang="chs"
+  >3)  '如果在执行期间没有检测到按钮的按动，则程序结果为通过；如果在执行期间按动了任一按钮，则结果为失败。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >3)  루틴 결과는 실행 중에 버튼 누름이 감지되지 않는 경우 합격이고 실행 중에 어떤 버튼이라도 누르면 불합격입니다.</tu>
+</tm>

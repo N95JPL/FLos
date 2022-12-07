@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_PBM_02">
+	<tu
+    xmlns:lang="eng"
+  >The on demand self-test occurs when prompted by the tester.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De opvraagbare zelftest vindt plaats zodra het testapparaat hierom vraagt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'autodiagnostic à la demande a lieu lorsqu'il est demandé par le testeur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Selbsttest auf Abruf läuft nach Anforderung durch den Tester.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'autodiagnosi su richiesta ha luogo quando richiesta dal tester.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ユーザーが意図して行ったときにオンデマンド セルフテストが実行されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O autoteste a pedido é realizado quando solicitado pelo aparelho de diagnóstico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O autoteste sob demanda ocorre quando solicitado pelo equipamento de teste.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Самопроверка по запросу выполняется при выведении сообщения на тестере.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La autocomprobación solicitada se lleva a cabo cuando lo solicita el comprobador.</tu>
+	<tu xmlns:lang="chs">测试者提示时才执行按需自检。</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스터에서 메시지가 표시될 때 온디맨드 자체 테스트가 수행됩니다.</tu>
+</tm>

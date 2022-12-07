@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_EMISSION_A">
+	<tu xmlns:lang="eng">What emission system is the vehicle fitted with?</tu>
+	<tu xmlns:lang="nld">Met welk emissiesysteem is het voertuig uitgerust?</tu>
+	<tu
+    xmlns:lang="fra"
+  >De quel système antipollution le véhicule est-il équipé ?</tu>
+	<tu xmlns:lang="deu">Mit welchem Abgassystem ist das Fahrzeug ausgerüstet?</tu>
+	<tu xmlns:lang="ita">Di quale sistema di emissioni è dotato il veicolo?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両にはどの種類のエミッション システムが装備されていますか？</tu>
+	<tu xmlns:lang="ptg">O veículo está equipado com que sistema de emissões?</tu>
+	<tu xmlns:lang="ptb">Qual sistema de emissão está instalado no veículo?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Какая система контроля отработавших газов установлена на автомобиле?</tu>
+	<tu xmlns:lang="esp">¿Qué sistema de emisiones tiene instalado el coche?</tu>
+	<tu xmlns:lang="chs">车辆上安装的是什么排放系统？</tu>
+	<tu xmlns:lang="kor">어떤 배기 가스 배출 시스템이 차량에 장착됩니까?</tu>
+</tm>

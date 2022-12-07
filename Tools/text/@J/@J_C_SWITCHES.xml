@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_SWITCHES">
+	<tu xmlns:lang="eng">Switches</tu>
+	<tu xmlns:lang="nld">schakelaars</tu>
+	<tu xmlns:lang="fra">contacteurs</tu>
+	<tu xmlns:lang="deu">Schaltungen</tu>
+	<tu xmlns:lang="ita">interruttori</tu>
+	<tu xmlns:lang="jpn">スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptores</tu>
+	<tu xmlns:lang="ptb">Interruptores</tu>
+	<tu xmlns:lang="rus">Выключатели</tu>
+	<tu xmlns:lang="esp">interruptores</tu>
+	<tu xmlns:lang="chs">开关</tu>
+	<tu xmlns:lang="kor">스위치</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DAYLIGHT_RUN_MODE">
+	<tu xmlns:lang="eng">Daylight running lamps mode</tu>
+	<tu xmlns:lang="nld">Voertuigverlichting overdag functie</tu>
+	<tu xmlns:lang="fra">Mode lampes fonctionnement diurne</tu>
+	<tu xmlns:lang="deu">Tageslicht-modus</tu>
+	<tu xmlns:lang="ita">Modalità luci per guida diurna</tu>
+	<tu xmlns:lang="jpn">昼間走行ラ・プ モード</tu>
+	<tu xmlns:lang="ptg">Modo das luzes de circulação diurna</tu>
+	<tu xmlns:lang="ptb">Modo de luzes de funcionamento diurno</tu>
+	<tu xmlns:lang="rus">Режим работы дневных габаритных фонарей</tu>
+	<tu xmlns:lang="esp">Modo alumbrado diurno</tu>
+	<tu xmlns:lang="chs">日间行驶灯模式</tu>
+	<tu xmlns:lang="kor">주간 주행등 모드</tu>
+</tm>

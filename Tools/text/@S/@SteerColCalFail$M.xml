@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SteerColCalFail$M">
+	<tu xmlns:lang="eng">Steering column calibration failed.</tu>
+	<tu xmlns:lang="nld">De kalibrering van de stuurkolom is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de l'étalonnage de la colonne de direction.</tu>
+	<tu xmlns:lang="deu">Lenksäulenkalibrierung nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Taratura piantone sterzo non riuscita.</tu>
+	<tu xmlns:lang="jpn">ステアリング コラム キャリブレーションに失敗</tu>
+	<tu xmlns:lang="ptg">Calibragem da coluna da direcção falhou.</tu>
+	<tu xmlns:lang="ptb">Falha na calibragem da coluna de direção.</tu>
+	<tu xmlns:lang="rus">Выполнить калибровку рулевой колонки не удалось.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudo realizar la calibración de la columna de la dirección.</tu>
+	<tu xmlns:lang="chs">转向柱标定失败。</tu>
+	<tu xmlns:lang="kor">스티어링 칼럼 보정 실패</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIR_SET_DTC_MON_LOG">
+	<tu
+    xmlns:lang="eng"
+  >Tire pressure monitor system set-up procedure completed with diagnostic trouble codes logged.  Refer to the diagnostic trouble code monitor.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instelprocedure voor het bandenspanningsbewakingssysteem is uitgevoerd, waarbij er diagnosefoutcodes zijn gelogd.  Raadpleeg de diagnosefoutcodebewaking.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédure de configuration du système de contrôle de pression des pneus terminée avec enregistrement de codes de diagnostic.  Reportez-vous au contrôleur de codes de diagnostic.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einrichtverfahren Reifendrucküberwachungssystem wurde abgeschlossen; Fehlercodes wurden abgespeichert.  Siehe Fehlercode-Monitor.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Procedura di impostazione sistema monitoraggio pressione pneumatici completata con registrazione di codici di guasto diagnostici.  Vedere monitoraggio dei codici di guasto diagnostici.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >診断トラブル コードが記録されたままで、タイヤ プレッシャ モニター システム セットアップ手順が正常に完了しました。  診断トラブル コード モニターを参照のこと。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Procedimento de configuração do sistema de monitorização da pressão dos pneus concluído com códigos de avaria para diagnóstico registados.  Consulte o monitor de códigos de avaria para diagnóstico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Procedimento de configuração do sistema de monitoramento de pressão dos pneus concluído com os códigos de problema de diagnóstico registrados.  Consulte o monitor de código de problema de diagnóstico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура настройки системы контроля давления в шинах завершена с регистрацией диагностических кодов неисправностей.  См. контроль диагностических кодов неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Procedimiento de configuración del sistema de control de la presión de los neumáticos concluido con códigos de avería registrados.  Consulte el lector de códigos de avería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >轮胎压力监测器系统设置程序完成，故障诊断码已记录。  参见故障诊断码监测器。</tu>
+	<tu
+    xmlns:lang="kor"
+  >타이어 공기압 모니터 시스템 설정 절차가 완료되고 고장 진단 코드가 기록됨  고장 진단 코드 모니터를 참조하십시오.</tu>
+</tm>

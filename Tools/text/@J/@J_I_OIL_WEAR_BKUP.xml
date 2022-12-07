@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OIL_WEAR_BKUP">
+	<tu xmlns:lang="eng">Oil wear back-up</tu>
+	<tu xmlns:lang="nld">Back-up van olieverslechtering</tu>
+	<tu xmlns:lang="fra">Dispositif de secours d'huile usagée</tu>
+	<tu xmlns:lang="deu">Sicherungskopie - Ölalterung</tu>
+	<tu xmlns:lang="ita">Back-up usura olio</tu>
+	<tu xmlns:lang="jpn">オイル消耗バックアップ</tu>
+	<tu xmlns:lang="ptg">Reserva, desgaste do óleo</tu>
+	<tu xmlns:lang="ptb">Backup de desgaste do óleo</tu>
+	<tu xmlns:lang="rus">Резервное копирование данных об износе масла</tu>
+	<tu xmlns:lang="esp">Copia de seguridad del desgaste del aceite</tu>
+	<tu xmlns:lang="chs">润滑油磨损备份</tu>
+	<tu xmlns:lang="kor">오일 마모 백업</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EU_TYPE_ALL_SEATS">
+	<tu xmlns:lang="eng">EU type  -  All seats generation 4 logic</tu>
+	<tu xmlns:lang="nld">EU-type  -  Alle stoelen van generatie 4 logic</tu>
+	<tu xmlns:lang="fra">Type EU  -  Logique tous sièges génération 4</tu>
+	<tu xmlns:lang="deu">EU Typ  -  Alle Sitze Logik 4. Generation</tu>
+	<tu xmlns:lang="ita">Tipo EU  -  Tutti i sedili logica generazione 4</tu>
+	<tu xmlns:lang="jpn">EU タイプ  －  全シート第 4 世代ロジック</tu>
+	<tu xmlns:lang="ptg">Tipo UE  -  Todos os bancos com lógica de 4ª geração</tu>
+	<tu xmlns:lang="ptb">Tipo da UE  -  Todos os assentos, geração 4 Logic</tu>
+	<tu xmlns:lang="rus">Тип ЕС  -  Все сиденья с логикой 4 поколения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tipo EU  -  Generación de lógica 4 de todos los asientos</tu>
+	<tu xmlns:lang="chs">欧盟类型  -  所有座椅生成 4 逻辑</tu>
+	<tu xmlns:lang="kor">EU 유형  -  모든 시트 세대 4 논리</tu>
+</tm>

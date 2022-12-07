@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JGSMPhone$Q">
+	<tu xmlns:lang="eng">Is there a GSM telephone fitted?</tu>
+	<tu xmlns:lang="nld">Is een GSM-telefoon aangebracht?</tu>
+	<tu xmlns:lang="fra">Il y a-t-il un téléphone GSM installé ?</tu>
+	<tu xmlns:lang="deu">Ist GSM Telefone montiert?</tu>
+	<tu xmlns:lang="ita">C'è montato un telefono GSM ?</tu>
+	<tu xmlns:lang="jpn">GSM ﾃﾚﾌｫﾝが装着されていますか？</tu>
+	<tu xmlns:lang="ptg">Está montado um telefone GSM?</tu>
+	<tu xmlns:lang="ptb">Há um telefone GSM instalado?</tu>
+	<tu xmlns:lang="rus">Оборудован ли автомобиль телефоном GSM?</tu>
+	<tu xmlns:lang="esp">¿Está instalado un teléfono GSM ?</tu>
+	<tu xmlns:lang="chs">是否安装了GSM电话？</tu>
+	<tu xmlns:lang="kor">GSM 전화기가 장착되어 있습니까?</tu>
+</tm>

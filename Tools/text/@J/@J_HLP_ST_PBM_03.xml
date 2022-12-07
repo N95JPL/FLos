@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_PBM_03">
+	<tu
+    xmlns:lang="eng"
+  >The electronic parking brake module will release for 250ms (if not calibrated) then fully apply and fully release the parking brake.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De elektronische handremregelmodule zal de handrem eerst 250 milliseconden (als hij niet gekalibreerd is) loszetten en daarna volledig aantrekken en weer volledig loszetten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module du frein de stationnement électronique desserrera pendant 250 ms (s'il n'est pas étalonné) puis serrera complètement et desserrera complètement le frein de stationnement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Steuergerät der elektronischen Handbremse gibt die elektronische Handbremse für 250 ms frei (sofern nicht kalibriert), legt sie dann vollständig an und gibt sie wieder vollständig frei.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo del freno di stazionamento elettronico disinserirà il freno di stazionamento per 250 ms (se non tarato), quindi lo inserirà e disinserirà completamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック パーキング ブレーキ モジュールは 250 ミリ秒間リリースされ (キャリブレーションされていない場合)、そののち完全にパーキング ブレーキをオンにし続いてオフにします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O módulo do travão de estacionamento electrónico desactiva o travão de estacionamento durante 250 ms (se não estiver calibrado) e depois activa-o e desactiva-o por completo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo do freio de estacionamento eletrônico irá liberar para 250ms (se não for calibrado) e, em seguida, aplique totalmente e libere totalmente o freio de estacionamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок электронного стояночного тормоза выключит его на 250 мсек (если не откалиброван), затем полностью включит и полностью отключит стояночный тормоз.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo del freno de estacionamiento electrónico desactivará el freno durante 250 ms (si está sin calibrar) y luego activará del todo y desactivará del todo el freno de estacionamiento.</tu>
+	<tu
+    xmlns:lang="chs"
+  >电子驻车制动模块将释放 250 毫秒（如果没有校准的话），然后完全施加及完全释放驻车制动器。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전자식 주차 브레이크 모듈이 250ms간 해제된 다음(보정되지 않은 경우) 주차 브레이크를 완전히 작동하고 완전히 해제합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JTransSelector$M">
+	<tu xmlns:lang="eng">Transmission selector</tu>
+	<tu xmlns:lang="nld">Transmissie selector</tu>
+	<tu xmlns:lang="fra">Selecteur de transmission</tu>
+	<tu xmlns:lang="deu">Wählhebel</tu>
+	<tu xmlns:lang="ita">Selettore marce</tu>
+	<tu xmlns:lang="jpn">ﾄﾗﾝｽﾐｯｼｮﾝ・ｾﾚｸﾀ</tu>
+	<tu xmlns:lang="ptg">Selector da transmissão</tu>
+	<tu xmlns:lang="ptb">Seletor da transmissão</tu>
+	<tu xmlns:lang="rus">Переключатель коробки передач</tu>
+	<tu xmlns:lang="esp">Selector de la transmisión</tu>
+	<tu xmlns:lang="chs">变速杆</tu>
+	<tu xmlns:lang="kor">변속기 셀렉터</tu>
+</tm>

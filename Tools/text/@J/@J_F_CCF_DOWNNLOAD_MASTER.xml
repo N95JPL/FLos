@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_CCF_DOWNNLOAD_MASTER">
+	<tu
+    xmlns:lang="eng"
+  >Unable to download vehicle configuration file master, aborting download.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Kan het hoofd-voertuigconfiguratiebestand niet downloaden. Het downloaden wordt afgebroken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Impossible de télécharger le fichier maître de configuration du véhicule, téléchargement annulé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hauptdatei Fahrzeugkonfiguration kann nicht heruntergeladen werden, das Herunterladen wird abgebrochen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impossibile scaricare il file master di configurazione veicolo, interruzione download interrotto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション ファイル マスターをダウンロードできません。ダウンロードを中断します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Vá à área dos utilitários do sistema - página de informação dos concessionários e introduza os seus dados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Impossível baixar o arquivo principal de configuração de veículo, abortando o download.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Невозможно загрузить мастер файла конфигурации автомобиля, загрузка прервана.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se puede descargar el archivo maestro de configuración del vehículo; se está suspendiendo la descarga.</tu>
+	<tu xmlns:lang="chs">'不能下载车辆配置原版文件，正中止下载。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 구성 파일 마스터를 다운로드할 수 없어 다운로드를 중단합니다.</tu>
+</tm>

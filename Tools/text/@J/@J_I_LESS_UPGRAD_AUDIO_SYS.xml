@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_UPGRAD_AUDIO_SYS">
+	<tu xmlns:lang="eng">Base audio system</tu>
+	<tu xmlns:lang="nld">Basisaudioinstallatie</tu>
+	<tu xmlns:lang="fra">Système audio de base</tu>
+	<tu xmlns:lang="deu">Audiosystem in Standardausführung</tu>
+	<tu xmlns:lang="ita">Impianto audio di base </tu>
+	<tu xmlns:lang="jpn">ベース オーディオ システム</tu>
+	<tu xmlns:lang="ptg">Sistema áudio Base</tu>
+	<tu xmlns:lang="ptb">Sistema de áudio de base</tu>
+	<tu xmlns:lang="rus">Аудиосистема в базовой комплектации</tu>
+	<tu xmlns:lang="esp">Sistema de audio básico</tu>
+	<tu xmlns:lang="chs">基础音频系统</tu>
+	<tu xmlns:lang="kor">기본 오디오 시스템</tu>
+</tm>

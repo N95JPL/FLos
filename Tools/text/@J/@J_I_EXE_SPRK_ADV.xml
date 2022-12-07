@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EXE_SPRK_ADV">
+	<tu xmlns:lang="eng">Execution spark advance</tu>
+	<tu xmlns:lang="nld">Uitvoeren vonk vervroegen</tu>
+	<tu xmlns:lang="fra">Exécution de l'avance à l'allumage.</tu>
+	<tu xmlns:lang="deu">Ausführung Vorverlegung Zündzeitpunkt</tu>
+	<tu xmlns:lang="ita">Esecuzione anticipo accensione</tu>
+	<tu xmlns:lang="jpn">点火進角の実行</tu>
+	<tu xmlns:lang="ptg">Execução, avanço à faísca</tu>
+	<tu xmlns:lang="ptb">Execução do avanço de ignição</tu>
+	<tu xmlns:lang="rus">Установка опережения зажигания</tu>
+	<tu xmlns:lang="esp">Ejecución de avance de la chispa</tu>
+	<tu xmlns:lang="chs">实施火花提前</tu>
+	<tu xmlns:lang="kor">실행 스파크 진각</tu>
+</tm>

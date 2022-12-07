@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SEAT_CONFIG_PROGRESS">
+	<tu xmlns:lang="eng">Seat configuration in progress</tu>
+	<tu xmlns:lang="nld">De stoelconfiguratie wordt uitgevoerd</tu>
+	<tu xmlns:lang="fra">Configuration des sièges en cours</tu>
+	<tu xmlns:lang="deu">Sitzkonfiguration wird durchgeführt.</tu>
+	<tu xmlns:lang="ita">Configurazione sedile in corso</tu>
+	<tu xmlns:lang="jpn">シートのコンフィギュレーションが進行中</tu>
+	<tu xmlns:lang="ptg">Configuração dos bancos em curso</tu>
+	<tu xmlns:lang="ptb">Configuração do assento em andamento</tu>
+	<tu xmlns:lang="rus">Выполняется конфигурирование сидений</tu>
+	<tu xmlns:lang="esp">Configuración de asiento en curso</tu>
+	<tu xmlns:lang="chs">正在执行座椅配置</tu>
+	<tu xmlns:lang="kor">시트 구성 진행 중</tu>
+</tm>

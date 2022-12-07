@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ClutchPedalSwitches">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the clutch pedal is fully released when testing the stop/start system stop function.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat het koppelingspedaal volledig is losgelaten wanneer u de stopfunctie van het Stop-/Startsysteem test.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veillez à ce que la pédale d'embrayage soit entièrement relâchée lors du test de la fonction d'arrêt du système Arrêt/Démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beim Testen der Stopp-Funktion des Stopp/Start-Systems sicherstellen, dass das Kupplungspedal vollständig gelöst ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che il pedale della frizione venga rilasciato completamente durante il collaudo della funzione di arresto del sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スタート/ストップ システムのストップ機能をテストする場合は、クラッチ ペダルが完全に解放されているか確認すること。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o pedal da embraiagem é totalmente libertado ao testar a função de paragem do sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o pedal da embreagem esteja completamente liberado ao testar a função de parada do sistema stop/start.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При тестировании функции остановки системы Стоп/Старт убедитесь, что педаль сцепления полностью отпущена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que el pedal de embrague no esté pisado al probar la función de parada del sistema Stop/Start.</tu>
+	<tu xmlns:lang="chs">确保在测试停止/启动系统停止功能时完全松开离合器踏板。</tu>
+	<tu
+    xmlns:lang="kor"
+  >Stop/Start 시스템의 Stop 기능을 테스트할 때 클러치 페달이 완전히 해제되었는지 확인하십시오.</tu>
+</tm>

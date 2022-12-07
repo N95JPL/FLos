@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_CODE">
+	<tu xmlns:lang="eng">Key code</tu>
+	<tu xmlns:lang="nld">Sleutelcode</tu>
+	<tu xmlns:lang="fra">Code de clé</tu>
+	<tu xmlns:lang="deu">Schlüsselcode</tu>
+	<tu xmlns:lang="ita">Codice chiave</tu>
+	<tu xmlns:lang="jpn">キー コード</tu>
+	<tu xmlns:lang="ptg">Código da chave</tu>
+	<tu xmlns:lang="ptb">Código da chave</tu>
+	<tu xmlns:lang="rus">Код ключа</tu>
+	<tu xmlns:lang="esp">Código de llave</tu>
+	<tu xmlns:lang="chs">钥匙代码</tu>
+	<tu xmlns:lang="kor">키 코드</tu>
+</tm>

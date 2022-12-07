@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_OIL_CHG_VAL_DIL">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required when the engine oil is changed, the routine resets the value of oil mass due to oil dilution.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig wanneer u de motorolie ververst, de routine stelt de waarde van het oliegewicht als gevolg van vervuiling terug.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé lors d'une vidange d'huile moteur ; il permet de réinitialiser la valeur du volume d'huile en raison de la dilution d'huile.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, wenn das Motoröl gewechselt wird; durch die Routine wird der Wert für die Ölmenge aufgrund von Verdünnung zurückgesetzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta quando si cambia l'olio motore, per azzerare il valore della massa olio dovuta alla diluizione dell'olio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンはエンジン オイルが交換されたときに必要であり、オイルの希釈によるオイル マス数値をリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária quando se substitui o óleo do motor; a rotina reinicializa o valor da massa de óleo devido à diluição do óleo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária quando o óleo do motor for trocado, a rotina irá zerar o valor da massa de óleo devido à diluição do óleo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция необходима при замене моторного масла, она позволяет выполнить сброс значения вязкости масла в результате разжижения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse al cambiar el aceite del motor; la rutina repone el valor de la masa de aceite que se debe a la dilución del aceite.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如更换发动机油，则需执行本程序，该程序重置发动机油稀释后的油值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 엔진 오일을 교환할 때 필요하고, 오일 희석으로 인한 오일 질량 값을 재설정합니다.</tu>
+</tm>

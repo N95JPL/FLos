@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VIEW_VEH_CONFIG_DATA">
+	<tu xmlns:lang="eng">Viewing vehicle configuration data from: %s</tu>
+	<tu xmlns:lang="nld">Voertuigconfiguratiegegevens bekijken vanuit: %s</tu>
+	<tu
+    xmlns:lang="fra"
+  >Voir les données de configuration du véhicule à partir de : %s</tu>
+	<tu xmlns:lang="deu">Fahrzeugkonfigurationsdaten werden eingesehen von: %s</tu>
+	<tu
+    xmlns:lang="ita"
+  >Visualizzazione dei dati di configurazione veicolo da: %s</tu>
+	<tu xmlns:lang="jpn">%s からの車両コンフィギュレーション データの表\示</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se, para facilitar a montagem, for necessário utilizar lubrificante, utilize apenas o fluido dos travões especificado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Visualização dos dados de configuração do veículo de: %s</tu>
+	<tu xmlns:lang="rus">Просмотр данных конфигурации автомобиля из: %s</tu>
+	<tu
+    xmlns:lang="esp"
+  >Visualizando datos de configuración del vehículo de: %s</tu>
+	<tu xmlns:lang="chs">查看来自下列元件的车辆配置数据：%s</tu>
+	<tu xmlns:lang="kor">차량 구성 데이터 보기 위치: %s</tu>
+</tm>

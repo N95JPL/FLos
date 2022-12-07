@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Timestamp">
+	<tu xmlns:lang="eng">Time stamp</tu>
+	<tu xmlns:lang="nld">Tijdstempel</tu>
+	<tu xmlns:lang="fra">Heure</tu>
+	<tu xmlns:lang="deu">Zeitstempel</tu>
+	<tu xmlns:lang="ita">Timbro orario</tu>
+	<tu xmlns:lang="jpn">タイム スタンプ</tu>
+	<tu xmlns:lang="ptg">Marca de tempo</tu>
+	<tu xmlns:lang="ptb">Carimbo de tempo</tu>
+	<tu xmlns:lang="rus">Отметка времени</tu>
+	<tu xmlns:lang="esp">Hora marcada</tu>
+	<tu xmlns:lang="chs">时间标志</tu>
+	<tu xmlns:lang="kor">타임스탬프</tu>
+</tm>

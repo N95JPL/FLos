@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart231">
+	<tu xmlns:lang="eng">Primary 12 volt battery capacity too low</tu>
+	<tu xmlns:lang="nld">Capaciteit van primaire 12 V-accu te laag</tu>
+	<tu xmlns:lang="fra">Capacité de la batterie principale 12 volts trop basse</tu>
+	<tu xmlns:lang="deu">Kapazität der 12-Volt-Hauptbatterie zu niedrig</tu>
+	<tu
+    xmlns:lang="ita"
+  >Capacità della batteria principale da 12 V troppo bassa</tu>
+	<tu xmlns:lang="jpn">プライマリ 12 ボルト バッテリー容量が低すぎる</tu>
+	<tu xmlns:lang="ptg">Capacidade da bateria primária de 12 V demasiado baixa</tu>
+	<tu xmlns:lang="ptb">Capacidade da bateria primária de 12 V muito baixa</tu>
+	<tu
+    xmlns:lang="rus"
+  >Слишком малая емкость основной 12-вольтовой аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Bajo rendimiento de la batería principal de 12 voltios</tu>
+	<tu xmlns:lang="chs">12 伏主蓄电池容量过低</tu>
+	<tu xmlns:lang="kor">기본 12V 배터리 용량이 너무 낮음</tu>
+</tm>

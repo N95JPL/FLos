@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STEP_MOTOR_INIT">
+	<tu xmlns:lang="eng">Stepper motor initialisation</tu>
+	<tu xmlns:lang="nld">Initialisatie stappenmotor</tu>
+	<tu xmlns:lang="fra">Initialisation du moteur pas à pas</tu>
+	<tu xmlns:lang="deu">Initialisierung Schrittmotor</tu>
+	<tu xmlns:lang="ita">Inizializzazione motorino passo-passo</tu>
+	<tu xmlns:lang="jpn">ステッパ モーターの初期化</tu>
+	<tu xmlns:lang="ptg">Inicialização do motor passo-a-passo</tu>
+	<tu xmlns:lang="ptb">Inicialização motor de partida</tu>
+	<tu xmlns:lang="rus">Инициализация шагового электромотора</tu>
+	<tu xmlns:lang="esp">Inicialización de motor paso a paso</tu>
+	<tu xmlns:lang="chs">步进电机初始化</tu>
+	<tu xmlns:lang="kor">스테퍼 모터 초기화</tu>
+</tm>

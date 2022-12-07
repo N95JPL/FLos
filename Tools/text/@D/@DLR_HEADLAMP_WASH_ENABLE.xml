@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DLR_HEADLAMP_WASH_ENABLE">
+	<tu xmlns:lang="eng">Headlamp wash with daytime running lamps enable</tu>
+	<tu xmlns:lang="nld">Koplampsproeier met dimlichten overdag inschakelen</tu>
+	<tu xmlns:lang="fra">Lavage de phare avec les feux de jour activés.</tu>
+	<tu xmlns:lang="deu">Scheinwerferwaschanlage mit Tagfahrlicht - Aktivierung</tu>
+	<tu xmlns:lang="ita">Attivazione lavafari con luci diurne</tu>
+	<tu xmlns:lang="jpn">昼間走行ランプ付きヘッドランプ ウォッシュ作動可</tu>
+	<tu xmlns:lang="ptg">Activar lava-faróis com luzes de condução diurna</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Habilitar lavador dos faróis com luzes de funcionamento diurno</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включить режим омывания фар при включенных дневных габаритных огней</tu>
+	<tu
+    xmlns:lang="esp"
+  >Habilitación de lavafaros con luces de conducción diurna</tu>
+	<tu xmlns:lang="chs">白昼行驶灯启用时的前照灯清洗</tu>
+	<tu xmlns:lang="kor">주간 주행등 활성화를 포함한 헤드램프 와셔 기능</tu>
+</tm>

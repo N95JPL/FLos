@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNIT_SET_16">
+	<tu
+    xmlns:lang="eng"
+  >Temperature:  °C  -  Clock:  12 hour  -  Distance:  miles  -  Fuel:  mpg (UK)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Temperatuur:  °C   -  Klok:  12 uur   -  Afstand:  mijl   -  Brandstof:  mijl/gallon (VK)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Température :  °C   -  Horloge :  12 heures   -  Distance :  miles   -  Carburant :  mi/g (R.-U.)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Temperatur:  °C   -  Uhr:  12 Stunden   -  Distanz:  Meilen   -  Kraftstoff:  mpg (GB)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Temperatura:  °C  -  Orologio:  12 ore  -  Distanza:  miglia  -  Carburante:  miglia/gallone (Regno Unito)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >温度：  °C  －  時計：  12 時間  －  距離：  マイル  －  燃費：  mpg (英国)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temperatura:  °C  -  Relógio:  12 horas  -  Distância:  milhas  -  Combustível:  mpg (GB)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Temperatura: °C  -  Relógio: 12 horas  -  Distância: milhas  -  Combustível: mpg (Reino Unido)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Температура:  °C   -  Часы: 12-час. формат   -  Пробег:  миль   -  Расход топлива:  миль/галлон (Великобритания)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Temperatura:  °C  -  Reloj:  12 horas  -  Distancia:  millas  -  Combustible:  millas/galón (Reino Unido)</tu>
+	<tu
+    xmlns:lang="chs"
+  >温度：  °C   -  时钟：  12 小时  -  距离：  英里  -  燃油：  英里/加仑（英国）</tu>
+	<tu
+    xmlns:lang="kor"
+  >온도: °C  -  시계: 12시간  -  거리: 마일  -  연료: mpg(영국)</tu>
+</tm>

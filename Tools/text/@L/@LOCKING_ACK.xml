@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LOCKING_ACK">
+	<tu xmlns:lang="eng">Locking acknowledgement</tu>
+	<tu xmlns:lang="nld">Bevestiging van vergrendeling</tu>
+	<tu xmlns:lang="fra">Confirmation de verrouillage</tu>
+	<tu xmlns:lang="deu">Verriegelungsbestätigung</tu>
+	<tu xmlns:lang="ita">Conferma bloccaggio</tu>
+	<tu xmlns:lang="jpn">ロッキングの確認</tu>
+	<tu xmlns:lang="ptg">Confirmação de trancagem</tu>
+	<tu xmlns:lang="ptb">Reconhecimento do travamento</tu>
+	<tu xmlns:lang="rus">Подтверждение запирания</tu>
+	<tu xmlns:lang="esp">Reconocimiento del bloqueo</tu>
+	<tu xmlns:lang="chs">锁闭确认</tu>
+	<tu xmlns:lang="kor">잠금 확인</tu>
+</tm>

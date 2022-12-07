@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VIN_CHECK_SUCCESS">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle identification number check completed successfully.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De controle van het voertuigidentificatienummer is met succes uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôle du numéro d'identification du véhicule réussi.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Prüfung der Fahrzeug-Identifizierungsnummer erfolgreich abgeschlossen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllo del numero di identificazione veicolo completato con successo.</tu>
+	<tu xmlns:lang="jpn">車両 ID ナンバー チェックが正常に完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificação do número de identificação do veículo concluída com êxito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verificação do número de identificação do veículo foi concluída com êxito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка идентификационных номеров автомобиля успешно завершена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La comprobación del número de identificación del vehículo se concluyó satisfactoriamente.</tu>
+	<tu xmlns:lang="chs">车辆识别号码检查已成功完成。</tu>
+	<tu xmlns:lang="kor">차량 식별 번호 확인이 올바로 완료되었습니다.</tu>
+</tm>

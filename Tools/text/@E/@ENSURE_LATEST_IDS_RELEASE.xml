@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENSURE_LATEST_IDS_RELEASE">
+	<tu xmlns:lang="eng">Make sure the latest Diagnostic Tool release is loaded</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat de laatste versie van het diagnosesysteem is geladen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que la dernière version de l'outil de diagnostic est chargée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die aktuelle Diagnosesystem-Version geladen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che sia stata caricata la versione dello strumento diagnostico più recente</tu>
+	<tu
+    xmlns:lang="jpn"
+  >最新の診断ツール リリースがロードされていることを確認します</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que a última edição da ferramenta de diagnóstico se encontra carregada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a versão mais recente da Ferramenta de Diagnóstico esteja carregada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что загружена последняя версия диагностического устройства</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de cargar la versión de la herramienta de diagnóstico más reciente.</tu>
+	<tu xmlns:lang="chs">确保已加载最新发布的诊断工具</tu>
+	<tu xmlns:lang="kor">최신 진단 도구 릴리스가 로드되는지 확인하십시오.</tu>
+</tm>

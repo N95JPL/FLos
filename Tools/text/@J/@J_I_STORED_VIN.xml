@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STORED_VIN">
+	<tu xmlns:lang="eng">Stored VIN</tu>
+	<tu xmlns:lang="nld">Opgeslagen VIN</tu>
+	<tu xmlns:lang="fra">VIN mémorisé</tu>
+	<tu xmlns:lang="deu">VIN gespeichert</tu>
+	<tu xmlns:lang="ita">VIN memorizzato</tu>
+	<tu xmlns:lang="jpn">保存された VIN</tu>
+	<tu xmlns:lang="ptg">NIV guardado</tu>
+	<tu xmlns:lang="ptb">VIN armazenado</tu>
+	<tu xmlns:lang="rus">Записанный VIN-код</tu>
+	<tu xmlns:lang="esp">VIN almacenado</tu>
+	<tu xmlns:lang="chs">已存储的 VIN</tu>
+	<tu xmlns:lang="kor">저장된 VIN</tu>
+</tm>

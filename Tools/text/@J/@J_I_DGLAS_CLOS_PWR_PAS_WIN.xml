@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DGLAS_CLOS_PWR_PAS_WIN">
+	<tu
+    xmlns:lang="eng"
+  >Make sure all door window glasses are fully closed.  The next routine will power the passenger's door window glasses for calibration.  Make sure there are no objects that may interfere with the door window glass calibration.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat alle portierruiten volledig gesloten zijn.  De nu volgende routine zal de passagiersportierruiten voor kalibrering bedienen.  Zorg dat er geen obstakels zijn die de kalibrering van de portierruit kunnen belemmeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que toutes les vitres de portes sont complètement fermées.  Le programme suivant activera le fonctionnement de la vitre de porte passager en vue d'un étalonnage.  Assurez-vous qu'aucun objet ne peut faire obstacle à l'étalonnage des vitres.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass alle Scheiben vollständig geschlossen sind.  Im nächsten Schritt wird für die Kalibrierung der Fensterhebermotor - Beifahrertür betätigt.  Sicherstellen, dass keine Objekte die Kalibrierung der Türfenster behindern.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che tutti i cristalli delle portiere siano completamente chiusi.  La procedura successiva attiva l'alzacristallo portiera passeggero per la taratura.  Assicurarsi che non ci siano oggetti che possano interferire con la taratura dei finestrini delle portiere.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >すべてのドア ガラスが全閉であることを確認しなさい。  次のルーチンで、キャリブレーションのため助手席側ドア ウィンドウ ガラスが電動で作動します。  ドア ウィンドウ ガラスのキャリブレーションの障害となる物がないことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Assegure-se de que os vidros de todas as portas estão totalmente fechados.  A rotina seguinte activa os vidros da porta do passageiro para proceder à calibragem.  Certifique-se de que não há objectos que possam interferir com a calibragem do vidro da porta.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que todos os vidros da janela da porta estejam totalmente fechados.  A próxima rotina energizará o vidros da porta do passageiro para a calibração.  Assegure-se de que não haja objetos que possam interferir na calibração do vidro da janela da porta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что стекла всех дверей полностью закрыты.  При выполнении следующей операции включатся электростеклоподъемники двери пассажира для последующей калибровки.  Убедиться в отсутствии препятствий перемещению стекол при калибровке стеклоподъемников.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que todas las ventanillas estén bien cerradas.  La rutina siguiente activará las ventanillas del acompañante para fines de calibración.  Asegurarse de que no haya objetos que puedan interferir con la calibración de las ventanillas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保所有的车门窗玻璃完全关闭。  下一程序将给乘员侧车门玻璃窗通电校准。  确保没有可能影响车门玻璃窗校准的物品。</tu>
+	<tu
+    xmlns:lang="kor"
+  >모든 도어 윈도우 글라스가 완전히 닫혀 있는지 확인하십시오.  다름 루틴에서는 보정을 위해 조수석 도어 윈도우 글라스에 전력을 공급합니다.  도어 윈도우 글라스 보정에 방해될 수 있는 물체가 없는지 확인하십시오.</tu>
+</tm>

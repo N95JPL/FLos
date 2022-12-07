@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SPD_WARN_DEV">
+	<tu xmlns:lang="eng">Speed warning device</tu>
+	<tu xmlns:lang="nld">Waarschuwing voor te hoge snelheid</tu>
+	<tu xmlns:lang="fra">Avertisseur de vitesse</tu>
+	<tu xmlns:lang="deu">Geschwindigkeits-Warneinrichtung</tu>
+	<tu xmlns:lang="ita">Dispositivo di avvertenza velocità</tu>
+	<tu xmlns:lang="jpn">速度警告デバイス</tu>
+	<tu xmlns:lang="ptg">Dispositivo de aviso de velocidade</tu>
+	<tu xmlns:lang="ptb">Dispositivo de aviso de velocidade</tu>
+	<tu xmlns:lang="rus">Устройство предупреждения о превышении скорости</tu>
+	<tu xmlns:lang="esp">Dispositivo de aviso de velocidad</tu>
+	<tu xmlns:lang="chs">速度警告装置</tu>
+	<tu xmlns:lang="kor">속도 경고 장치</tu>
+</tm>

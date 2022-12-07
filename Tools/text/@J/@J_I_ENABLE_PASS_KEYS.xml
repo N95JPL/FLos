@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENABLE_PASS_KEYS">
+	<tu xmlns:lang="eng">Enable passive keys</tu>
+	<tu xmlns:lang="nld">Passieve sleutels activeren</tu>
+	<tu xmlns:lang="fra">Activer clés passives</tu>
+	<tu
+    xmlns:lang="deu"
+  >Schlüssel für das passive Diebstahlschutzsystem aktivieren</tu>
+	<tu xmlns:lang="ita">Abilita tasti passivi</tu>
+	<tu xmlns:lang="jpn">パッシブ キー作動可設定</tu>
+	<tu xmlns:lang="ptg">Activar teclas passivas</tu>
+	<tu xmlns:lang="ptb">Habilitar chaves passivas</tu>
+	<tu xmlns:lang="rus">Включить пассивные ключи</tu>
+	<tu xmlns:lang="esp">Habilitar llaves pasivas</tu>
+	<tu xmlns:lang="chs">启用无源车匙</tu>
+	<tu xmlns:lang="kor">패시브 키 활성화</tu>
+</tm>

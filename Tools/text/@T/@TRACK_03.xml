@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRACK_03">
+	<tu xmlns:lang="eng">Track 3</tu>
+	<tu xmlns:lang="nld">Track 3</tu>
+	<tu xmlns:lang="fra">Piste 3.</tu>
+	<tu xmlns:lang="deu">Spur 3</tu>
+	<tu xmlns:lang="ita">Brano 3</tu>
+	<tu xmlns:lang="jpn">トラック 3</tu>
+	<tu xmlns:lang="ptg">Faixa 3</tu>
+	<tu xmlns:lang="ptb">Faixa 3</tu>
+	<tu xmlns:lang="rus">Дорожка 3</tu>
+	<tu xmlns:lang="esp">Pista 3</tu>
+	<tu xmlns:lang="chs">轨迹 3</tu>
+	<tu xmlns:lang="kor">트랙 3</tu>
+</tm>

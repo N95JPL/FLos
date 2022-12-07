@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RESTORE_INT_BATTERY_DATA">
+	<tu
+    xmlns:lang="eng"
+  >This routine will reset stored internal battery monitoring data. This is required when a battery is replaced</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine zal de opgeslagen interne controlegegevens van de accu resetten. Dit is nodig wanneer een accu vervangen is</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de réinitialiser les données de contrôle interne de la batterie. Ceci est indispensable si la batterie est remplacée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine werden die gespeicherten internen Batterieüberwachungsdaten zurückgesetzt. Dies ist erforderlich, wenn eine Batterie ausgetauscht wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura reimposta i dati di monitoraggio interno della batteria memorizzati. Questo è necessario se si sostituisce la batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、保存された内部バッテリ モニタリング データをリセットします。バッテリ交換時にこれが必要になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina vai repor a zero os dados de monitorização interna da bateria guardados. Esta acção é necessária quando a bateria é substituída</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina restabelecerá os dados armazenados de monitoramento da bateria interna. Isso é necessário quando uma bateria é substituída.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта процедура служит для сброса сохраненных внутренних данных мониторинга аккумуляторной батареи. Процедура выполняется в случае замены аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina restaura los datos de control internos de la batería memorizados. Esto es necesario cuando se sustituye una batería</tu>
+	<tu
+    xmlns:lang="chs"
+  >本例行程序将让所保存的蓄电池内部监测数据复位。 更换了蓄电池后要求运行该程序</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴에서는 저장된 내부 배터리 모니터링 데이터를 재설정합니다. 배터리 교체 시 이 루틴이 필요합니다.</tu>
+</tm>

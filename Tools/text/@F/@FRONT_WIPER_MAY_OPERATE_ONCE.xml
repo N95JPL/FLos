@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FRONT_WIPER_MAY_OPERATE_ONCE">
+	<tu
+    xmlns:lang="eng"
+  >During this procedure the windshield wipers may operate once.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens deze procedure kunnen de ruitenwissers van de voorruit één keer wissen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pendant cette procédure, les essuie-glaces de pare-brise pourront fonctionner une fois.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Während dieses Arbeitsgangs können die Frontscheibenwischer einmal arbeiten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Durante questa procedura il tergicristallo potrà azionarsi una volta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順中、ウィンドシールド ワイパーが 1 回作動する可能\性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Durante este procedimento os limpa-pára-brisas podem funcionar uma vez.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Durante esse procedimento, a os limpadores de para-brisa podem operar uma vez.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Во время выполнения этой процедуры стеклоочистители ветрового стекла могут сработать один раз.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Durante este procedimiento es posible que los limpiaparabrisas funcionen una vez.</tu>
+	<tu xmlns:lang="chs">在这一过程中，挡风玻璃刮水器可以操作一次。</tu>
+	<tu xmlns:lang="kor">이 절차 중에 윈드실드 와이퍼가 1회 작동할 수 있습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_SEAT_TARCK_SEN">
+	<tu xmlns:lang="eng">Without seat track sensors</tu>
+	<tu xmlns:lang="nld">Zonder stoelrailsensors</tu>
+	<tu xmlns:lang="fra">Sans capteurs de glissière de siège</tu>
+	<tu xmlns:lang="deu">Ohne Sitzschienensensoren</tu>
+	<tu xmlns:lang="ita">Senza sensori guide sedili</tu>
+	<tu xmlns:lang="jpn">シート トラック センサーなし</tu>
+	<tu xmlns:lang="ptg">Sem sensores da calha do banco</tu>
+	<tu xmlns:lang="ptb">Sem sensores de acompanhamento do assento</tu>
+	<tu xmlns:lang="rus">Без датчиков положения сидений</tu>
+	<tu xmlns:lang="esp">Sin sensores de posición del asiento</tu>
+	<tu xmlns:lang="chs">无座椅滑轨传感器</tu>
+	<tu xmlns:lang="kor">시트 트랙 센서 불포함</tu>
+</tm>

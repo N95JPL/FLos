@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AllKeyReqAsDisable$M">
+	<tu
+    xmlns:lang="eng"
+  >All keys required for use must be available as they will be disabled as part of this routine.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U heeft hierbij alle sleutels nodig die gebruikt worden, aangezien zij als onderdeel van deze procedure gedeactiveerd zullen worden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Toutes les clés dont l'utilisation est requise doivent être disponibles car elles seront rendues non valides dans le cadre de ce programme.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle für die Verwendung benötigten Schlüssel müssen zugänglich sein, da diese im Zuge dieser Routine deaktiviert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Devono essere disponibili tutte le chiavi necessarie per l'uso in quanto questa procedura ne comporta la disabilitazione. </tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンの一部として表\示されるため、使用のためのすべてのキーが用意されていなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todas as chaves necessárias devem estar disponíveis, uma vez que serão desactivadas como parte desta rotina.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todas as chaves necessárias para uso devem estar disponíveis, pois elas podem ser desativadas como parte desta rotina.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Необходимо наличие всех ключей, которые планируется использовать, так как в ходе данной процедуры отсутствующие ключи будут заблокированы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se debe disponer de todas las llaves que se necesiten para el uso, ya que esta rutina las desactivará.</tu>
+	<tu
+    xmlns:lang="chs"
+  >使用所需的所有钥匙都必须可用，因为作为本常规程序的一部分，这些钥匙将被禁用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >사용에 필요한 모든 키는 제공되어야 하며, 이 절차 도중에 비활성화됩니다.</tu>
+</tm>

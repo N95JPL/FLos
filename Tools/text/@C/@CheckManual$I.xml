@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckManual$I">
+	<tu xmlns:lang="eng">These are all detailed within the workshop manual.</tu>
+	<tu xmlns:lang="nld">Deze staan allemaal in het werkplaatshandboek vermeld.</tu>
+	<tu xmlns:lang="fra">Ils sont tous détaillés dans le Manuel d'atelier.</tu>
+	<tu xmlns:lang="deu">Diese werden alle im Werkstatthandbuch angegeben.</tu>
+	<tu xmlns:lang="ita">Sono tutti descritti nel manuale d'officina.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これらについては、ワークショップ マニュアルに詳解されています。</tu>
+	<tu xmlns:lang="ptg">Estes são todos indicados no manual de oficina.</tu>
+	<tu xmlns:lang="ptb">Todos estes estão detalhados no manual de oficina.</tu>
+	<tu xmlns:lang="rus">Все они подробно описаны в руководстве по ремонту.</tu>
+	<tu xmlns:lang="esp">Estos se detallan todos en el manual de taller.</tu>
+	<tu xmlns:lang="chs">这些在出厂手册中都有详述。</tu>
+	<tu xmlns:lang="kor">작업장 매뉴얼에 모든 세부 사항이 기록되어 있습니다.</tu>
+</tm>

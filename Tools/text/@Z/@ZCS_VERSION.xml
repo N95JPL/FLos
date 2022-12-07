@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ZCS_VERSION">
+	<tu xmlns:lang="eng">Land Rover coding system - version number</tu>
+	<tu xmlns:lang="nld">Land Rover-codeersysteem - versienummer.</tu>
+	<tu xmlns:lang="fra">Système de codage Land Rover - numéro de version.</tu>
+	<tu xmlns:lang="deu">Land Rover Codierungssystem - Versionsnummer</tu>
+	<tu xmlns:lang="ita">Sistema di codifica Land Rover - numero versione</tu>
+	<tu xmlns:lang="jpn">Land Rover コーディング システム - バージョン ナンバー</tu>
+	<tu xmlns:lang="ptg">Sistema de codificação Land Rover - número de versão</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de codificação da Land Rover - número da versão</tu>
+	<tu xmlns:lang="rus">Система кодировки Land Rover - номер версии</tu>
+	<tu xmlns:lang="esp">Sistema de codificación Land Rover: número de versión</tu>
+	<tu xmlns:lang="chs">Land Rover 编码系统 - 版本号</tu>
+	<tu xmlns:lang="kor">Land Rover 코딩 시스템 - 버전 번호</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_HL_LEVEL">
+	<tu xmlns:lang="eng">Headlamp levelling.</tu>
+	<tu xmlns:lang="nld">Koplampnivellering</tu>
+	<tu xmlns:lang="fra">Reglage de site des phares</tu>
+	<tu xmlns:lang="deu">Leuchtweiteneinstellung</tu>
+	<tu xmlns:lang="ita">Livellamento fari</tu>
+	<tu xmlns:lang="jpn">ヘッドラ・プ レベリ・グ</tu>
+	<tu xmlns:lang="ptg">Sistema de nivelamento dos faróis.</tu>
+	<tu xmlns:lang="ptb">Nivelamento dos faróis.</tu>
+	<tu xmlns:lang="rus">Коррекция положения фар.</tu>
+	<tu xmlns:lang="esp">Nivelación de faros</tu>
+	<tu xmlns:lang="chs">前照灯变光。</tu>
+	<tu xmlns:lang="kor">헤드램프 레벨링.</tu>
+</tm>

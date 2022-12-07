@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_INTRO_2">
+	<tu
+    xmlns:lang="eng"
+  >This assistance is normally set to its maximum value to minimise the effort required on the pedal to achieve the desired braking effect.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze bekrachtiging is meestal op de maximumwaarde ingesteld om de kracht waarmee het pedaal het gewenste remeffect bereikt, zo klein mogelijk te maken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette assistance est normalement réglée sur la valeur maximale pour réduire l'effort requis sur la pédale pour obtenir l'effet de freinage voulu.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Unterstützung ist normalerweise auf den Maximalwert eingestellt, damit der gewünschte Bremseffekt mit geringst möglicher Kraftausübung bei der Pedalbetätigung erzielt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La servoassistenza è normalmente impostata sul valore massimo per minimizzare la forza richiesta sul pedale per ottenere l'effetto frenante desiderato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >最小限のペダル踏力で要求される制動効果を得るために、このアシストは通常最大数値に設定されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta função de assistência está normalmente definida para o valor máximo, de forma a minimizar o esforço necessário sobre o pedal para obter o efeito de travagem pretendido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esta assistência é normalmente definida para seu valor máximo para minimizar o esforço necessário no pedal para atingir o desejado efeito de frenagem.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Помощь при торможении, как правило, устанавливается на максимальное значение, для сокращения усилий, необходимых для того, чтобы педаль тормоза произвела нужный тормозной эффект.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta asistencia normalmente está ajustada al valor máximo para reducir el esfuerzo que debe ejercerse sobre el pedal para obtener el efecto de frenado deseado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一辅助功能通常设置为其最大值，以最小化施加在制动踏板上的力，从而实现期望的制动效果。</tu>
+	<tu
+    xmlns:lang="kor"
+  >필요한 제동 효과를 달성하기 위해 페달에 가해야 할 힘을 최소화하기 위해 이 보조 기능은 보통 최대값으로 설정됩니다.</tu>
+</tm>

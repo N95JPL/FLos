@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FAIL_RSET_FLIG_REC_DATA">
+	<tu xmlns:lang="eng">Failed to reset the flight recorder data.</tu>
+	<tu xmlns:lang="nld">Terugstellen van ritrecordergegevens mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec de remise à zéro des données de l'enregistreur de bord.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Daten der Crash-Aufzeichnung konnten nicht rückgesetzt werden.</tu>
+	<tu xmlns:lang="ita">Impossibile azzerare dati flight recorder.</tu>
+	<tu xmlns:lang="jpn">フライト レコーダー データのリセットに失敗しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não foi possível repor os dados do registador de viagem (caixa negra).</tu>
+	<tu xmlns:lang="ptb">Falha ao redefinir os dados do gravador de voo.</tu>
+	<tu xmlns:lang="rus">Не удалось сбросить данные бортового регистратора.</tu>
+	<tu xmlns:lang="esp">No se borraron los datos de la caja negra.</tu>
+	<tu xmlns:lang="chs">未能重置飞行记录器数据。</tu>
+	<tu xmlns:lang="kor">블랙박스 데이터 재설정 실패</tu>
+</tm>

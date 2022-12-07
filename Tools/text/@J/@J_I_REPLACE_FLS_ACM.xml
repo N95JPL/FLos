@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REPLACE_FLS_ACM">
+	<tu
+    xmlns:lang="eng"
+  >Replace either the forward looking sensor (front distance range sensor) or adaptive speed control module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Vervang de naar voren gerichte sensor (voorste afstandssensor) of de regelmodule voor adaptieve cruise control.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Remplacez soit le capteur tourné vers l'avant (capteur de distance à l'avant) soit le module de commande du régulateur de vitesse adaptatif.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Entweder den vorwärts gerichteten Sensor (Abstandssensor vorn) oder das Steuergerät der adaptiven Geschwindigkeitsregelung ersetzen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sostituire il sensore radar puntato in avanti (sensore di distanza anteriore) o il modulo di comando velocità adattativo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >前方監視センサー (フロント距離センサー) またはアダプティブ スピード コントロール モジュールのどちらかを交換しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Substitua o sensor dianteiro (sensor de distância dianteiro) ou o módulo do controlo da velocidade adaptável.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Substitua o sensor de verificação da estrada à frente (sensor de distância da dianteira) ou o módulo de controle de velocidade adaptável.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Замените направленный вперед датчик (передний датчик дистанции) или блок адаптивного круиз-контроля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sustituya el sensor delantero (sensor delantero de alcance) o el módulo de control de velocidad adaptativo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >更换前视传感器（前距离范围传感器）或自适应速度控制模块。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전방 주시 센서(전방 거리 센서) 또는 어댑티브 스피드 컨트롤 모듈을 교체하십시오.</tu>
+</tm>

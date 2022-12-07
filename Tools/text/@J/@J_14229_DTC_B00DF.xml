@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DTC_B00DF">
+	<tu xmlns:lang="eng">Passenger restraints disable switch</tu>
+	<tu
+    xmlns:lang="nld"
+  >Schakelaar voor uitschakelen van beveiligingssysteem voor inzittenden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Commutateur de désactivation du dispositif de retenue passager.</tu>
+	<tu xmlns:lang="deu">Deaktivierungsschalter Rückhaltesystem Beifahrerseite.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Interruttore disattivazione sistema di sicurezza occupanti lato passeggero.</tu>
+	<tu xmlns:lang="jpn">助手席側拘束非作動スイッチ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Interruptor de desactivação do sistema de segurança do passageiro.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Interruptor de desativação de restrições de passageiros</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выключатель отключения устройств пассивной безопасности пассажира</tu>
+	<tu
+    xmlns:lang="esp"
+  >Interruptor de desactivación del sistema de retención del acompañante.</tu>
+	<tu xmlns:lang="chs">乘客约束禁用开关</tu>
+	<tu xmlns:lang="kor">조수석 에어백 비활성화 스위치</tu>
+</tm>

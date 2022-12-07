@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JFuelTankLevel$M">
+	<tu xmlns:lang="eng">Fuel tank level</tu>
+	<tu xmlns:lang="nld">BRANDSTOFPEIL</tu>
+	<tu xmlns:lang="fra">NIVEAU DE RESERVOIR A ESSENCE</tu>
+	<tu xmlns:lang="deu">KRAFTSTOFFTANK INHALT</tu>
+	<tu xmlns:lang="ita">LIVELLO SERBATOIO CARBURANTE</tu>
+	<tu xmlns:lang="jpn">フュエル・タンク・レﾍﾞル</tu>
+	<tu xmlns:lang="ptg">Nível do depósito de combustível</tu>
+	<tu xmlns:lang="ptb">Nível do tanque de combustível</tu>
+	<tu xmlns:lang="rus">Уровень топлива в топливном баке</tu>
+	<tu xmlns:lang="esp">NIVEL DEL TAMQUE DE COMBUSTIBLE</tu>
+	<tu xmlns:lang="chs">燃油箱液位</tu>
+	<tu xmlns:lang="kor">연료 탱크 레벨</tu>
+</tm>

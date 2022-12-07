@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VehicleECOStopCheckEngRun">
+	<tu xmlns:lang="eng">Vehicle currently in stop/start system stop mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Auto staat momenteel in stop-modus van Stop/Start-systeem, zorg voor draaiende motor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Véhicule actuellement en mode arrêt du système Arrêt/Démarrage, s'assurer que le moteur est en marche.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug befindet sich im Stopp-Modus des Stopp/Start-Systems – sicherstellen, dass der Motor läuft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Veicolo attualmente in modalità di arresto del sistema Stop/Start, accertarsi che il motore sia in funzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両は現在、スタート/ストップ システム停止モードになっています。エンジンがかかっていることを確認してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Veículo atualmente no modo de paragem do sistema Stop/Start, certifique-se de que o motor está a trabalhar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Veículo atualmente em modo de parada do sistema stop/start, certifique-se de que o motor está em funcionamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В настоящее время автомобиль находится в режиме останова системы стоп/старт. Убедитесь, что двигатель работает.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El vehículo se encuentra en el modo de parada del sistema Stop/Start en este momento; asegúrese de que el motor está en marcha.</tu>
+	<tu
+    xmlns:lang="chs"
+  >车辆当前处于停止/启动系统停止模式，确保发动机正在运转。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량이 현재 Stop/Start 시스템 Stop 모드에 있습니다. 엔진이 작동 중인지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EXIST_PARTS_DETAILS">
+	<tu xmlns:lang="eng">Existing programmed software part details</tu>
+	<tu
+    xmlns:lang="nld"
+  >Gegevens over momenteel geprogrammeerde software-onderdelen</tu>
+	<tu xmlns:lang="fra">Détails des éléments logiciels programmés existants</tu>
+	<tu xmlns:lang="deu">Bestehende programmierte Softwareteile - Details</tu>
+	<tu xmlns:lang="ita">Dettagli attuale numero parte software programmato</tu>
+	<tu xmlns:lang="jpn">現存のプログラムされたソ\フトウェアの部分詳細</tu>
+	<tu xmlns:lang="ptg">Dados existentes da peça do software programado</tu>
+	<tu xmlns:lang="ptb">Detalhes da peça do software programado existente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сведения о существующем запрограммированном программном модуле</tu>
+	<tu xmlns:lang="esp">Datos de partes de software programadas existentes</tu>
+	<tu xmlns:lang="chs">现有已编程软件部件详细信息</tu>
+	<tu xmlns:lang="kor">기존의 프로그래밍된 소프트웨어 파트 세부 정보</tu>
+</tm>

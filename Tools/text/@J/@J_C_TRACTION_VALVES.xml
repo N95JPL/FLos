@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_TRACTION_VALVES">
+	<tu xmlns:lang="eng">Traction control valves</tu>
+	<tu xmlns:lang="nld">Tractieregeling kleppen</tu>
+	<tu xmlns:lang="fra">Soupapes de commande de traction</tu>
+	<tu xmlns:lang="deu">Traktionskontroll-ventile</tu>
+	<tu xmlns:lang="ita">Valvole controllo trazione</tu>
+	<tu xmlns:lang="jpn">トラクショ・ コ・トロール バルブ</tu>
+	<tu xmlns:lang="ptg">Válvulas do controlo da tracção</tu>
+	<tu xmlns:lang="ptb">Válvulas de controle de tração</tu>
+	<tu xmlns:lang="rus">Клапаны противобуксовочной системы</tu>
+	<tu xmlns:lang="esp">Valvulas del control de traccion</tu>
+	<tu xmlns:lang="chs">牵引控制阀</tu>
+	<tu xmlns:lang="kor">트랙션 컨트롤 밸브</tu>
+</tm>

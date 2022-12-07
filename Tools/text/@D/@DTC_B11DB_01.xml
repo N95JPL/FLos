@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DTC_B11DB_01">
+	<tu xmlns:lang="eng">B11DB-01 - Battery monitoring system hardware failure</tu>
+	<tu xmlns:lang="nld">B11DB-01 - Defecte hardware van accucontrolesysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >B11DB-01 - Anomalie matérielle du système de surveillance de la batterie</tu>
+	<tu xmlns:lang="deu">B11DB-01 - Batterieüberwachungssystem - Hardwarefehler</tu>
+	<tu
+    xmlns:lang="ita"
+  >B11DB-01 - Guasto hardware del sistema di monitoraggio della batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >B11DB-01 - バッテリ モニタリング システム ハードウェアの故障</tu>
+	<tu
+    xmlns:lang="ptg"
+  >B11DB-01 - Avaria no equipamento do sistema de monitorização da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >B11DB-01 - Falha do hardware do sistema de monitoramento da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >B11DB-01 - аппаратный сбой системы контроля аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >B11DB-01 - Fallo de hardware del sistema de control de la batería</tu>
+	<tu xmlns:lang="chs">B11DB-01--蓄电池监测系统硬件故障</tu>
+	<tu xmlns:lang="kor">B11DB-01 - 배터리 모니터링 시스템 하드웨어 고장</tu>
+</tm>

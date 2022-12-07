@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BRAKE_PAD_WEAR">
+	<tu xmlns:lang="eng">Brake pad wear.</tu>
+	<tu xmlns:lang="nld">Remblokslijtage.</tu>
+	<tu xmlns:lang="fra">Usure des plaquettes de freins.</tu>
+	<tu xmlns:lang="deu">Bremsklotzverschleiß.</tu>
+	<tu xmlns:lang="ita">Usura pastiglie freni.</tu>
+	<tu xmlns:lang="jpn">ブレーキ パッド磨耗</tu>
+	<tu xmlns:lang="ptg">Desgaste das pastilhas dos travões.</tu>
+	<tu xmlns:lang="ptb">Desgaste da pastilha de freio.</tu>
+	<tu xmlns:lang="rus">Износ тормозной колодки.</tu>
+	<tu xmlns:lang="esp">Desgaste de las pastillas de freno.</tu>
+	<tu xmlns:lang="chs">刹车片磨损。</tu>
+	<tu xmlns:lang="kor">브레이크 패드 마모</tu>
+</tm>

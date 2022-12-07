@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_FOLL_INST_ABS_DIAG">
+	<tu
+    xmlns:lang="eng"
+  >Follow the on screen instructions and navigate to 'ABS diagnostics' and select 'vehicle maintenance'.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Volg de aanwijzingen op het scherm op, ga naar 'ABS diagnostics' (ABS-diagnose) en kies 'vehicle maintenance' (voertuigonderhoud).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Suivez les instructions à l'écran et naviguez vers 'ABS diagnostics' (diagnostic ABS), puis sélectionnez 'vehicle maintenance' (entretien du véhicule).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den Bildschirmanleitungen folgen, zur 'ABS diagnostics' (ABS-Diagnose) navigieren und 'Vehicle maintenance' (Fahrzeugwartung) auswählen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Seguire le istruzioni visualizzate sullo schermo e passare ad 'ABS diagnostics' (diagnostica ABS), quindi selezionare 'vehicle maintenance' (manutenzione veicolo).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >画面の指示に従い「ABS diagnostics (ABS 診断)」を開いて「vehicle maintenance (車両のメンテナンス)」を選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Bósnia-Herzegovina</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Siga as instruções na tela e navegue até diagnósticos ABS e selecione manutenção do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следуйте инструкциям на экране и перейдите к 'диагностике системы ABS', затем выберите 'техническое обслуживание автомобиля'.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seguir las instrucciones en pantalla, ir a la función 'ABS diagnostics' (diagnosis del ABS) y seleccionar 'Vehicle maintenance' (mantenimiento del vehículo).</tu>
+	<tu xmlns:lang="chs">遵循屏显指示，浏览至'ABS 诊断系统'并选择'车辆维护'。</tu>
+	<tu
+    xmlns:lang="kor"
+  >화면의 지침에 따라 'ABS 진단'을 탐색하고 '차량 유지 관리'를 선택하십시오.</tu>
+</tm>

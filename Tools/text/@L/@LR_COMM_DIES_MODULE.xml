@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_COMM_DIES_MODULE">
+	<tu
+    xmlns:lang="eng"
+  >Communication with the Diesel control module cannot be established to inhale or exhale the particulate filter information</tu>
+	<tu
+    xmlns:lang="nld"
+  >Communicatie met dieselmotorregelmodule kan niet tot stand worden gebracht om informatie over de ingaande en uitgaande lucht van het dieseldeeltjesfilter te ontvangen</tu>
+	<tu
+    xmlns:lang="fra"
+  >La communication avec le module de commande diesel n'a pas pu être établie pour intégrer ou extraire les informations du filtre à particules</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kommunikation mit dem Dieselmotor-Steuergerät zum Ein- oder Auslesen der Rußpartikelfilter-Informationen kann nicht hergestellt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impossibile stabilire la comunicazione con il modulo di comando motore diesel per ricevere le informazioni di immissione o emissione dal filtro antiparticolato</tu>
+	<tu
+    xmlns:lang="jpn"
+  >微粒子フィルター情報の吸引または吐出を行うための、ディーゼル コントロール モジュールとの通信を確立できません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não é possível estabelecer a comunicação com o módulo de controlo do motor Diesel para receber ou emitir dados do filtro de partículas</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A comunicação com o módulo de controle Diesel não pôde ser estabelecida para as informações do filtro de partículas de inalação ou expiração</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не удается установить связь с блоком управления дизельным двигателем для передачи или приема данных о противосажевом фильтре</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se puede establecer la comunicación con el módulo de control Diesel para inhalar o exhalar la información del filtro de partículas</tu>
+	<tu
+    xmlns:lang="chs"
+  >不能建立与柴油机控制模块的通信，以接收或发出微粒过滤器信息</tu>
+	<tu
+    xmlns:lang="kor"
+  >미립자 필터 정보를 주고받기 위한 디젤 컨트롤 모듈과의 통신을 설정할 수 없습니다.</tu>
+</tm>

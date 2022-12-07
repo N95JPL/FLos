@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_READ_TIRE_SENS_IDS">
+	<tu
+    xmlns:lang="eng"
+  >Read the 8 digit sensor identification number from the tire pressure sensor to be replaced.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Lees het 8-cijferige sensoridentificatienummer van de te vervangen bandenspanningssensor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lisez le numéro d'identification du capteur de 8 chiffres pour le capteur de pression des pneumatiques à remplacer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die 8-stellige Sensor-Identifizierungsnummer vom zu ersetzenden Reifendrucksensor auslesen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Leggere il numero a 8 cifre di identificazione del sensore dal sensore di pressione pneumatico da sostituire.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >交換するタイヤ プレッシャ センサーから 8 桁のセンサー ID ナンバーを読み取りなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ler o número de identificação do sensor com 8 dígitos no sensor de pressão dos pneus a substituir.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ler o número de identificação de 8 dígitos do sensor no sensor de pressão dos pneus a ser substituídos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Считайте 8-значный идентификационный номер датчика с устанавливаемого датчика давления в шине.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Leer el número de identificación de 8 dígitos del sensor de presión del neumático que se va a sustituir.</tu>
+	<tu xmlns:lang="chs">读取将要更换的轮轮胎压力力传感器的8位标识号码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >교체할 타이어 공기압 센서에서 8자리 센서 식별 번호를 읽으십시오.</tu>
+</tm>

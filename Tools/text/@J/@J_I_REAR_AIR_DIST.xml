@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_AIR_DIST">
+	<tu xmlns:lang="eng">Rear air distribution.</tu>
+	<tu xmlns:lang="nld">Achterste luchtverdeling</tu>
+	<tu xmlns:lang="fra">Distribution d'air arrière</tu>
+	<tu xmlns:lang="deu">Luftverteilung hinten</tu>
+	<tu xmlns:lang="ita">Distribuzione aria posteriore</tu>
+	<tu xmlns:lang="jpn">リア エアディストリビューション</tu>
+	<tu xmlns:lang="ptg">Distribuição do ar na parte traseira.</tu>
+	<tu xmlns:lang="ptb">Distribuição do ar traseira.</tu>
+	<tu xmlns:lang="rus">Распределение воздуха в задней части салона.</tu>
+	<tu xmlns:lang="esp">Distribución de aire trasera</tu>
+	<tu xmlns:lang="chs">后空气分配。</tu>
+	<tu xmlns:lang="kor">리어 공기 분배</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_VIN_RD_PWR_TRN_CONT_MOD_STR">
+	<tu xmlns:lang="eng">VIN read from the powertrain control module store.</tu>
+	<tu
+    xmlns:lang="nld"
+  >VIN uitgelezen uit geheugen van regelmodule aandrijflijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >VIN lu dans la mémoire du module de commande du groupe motopropulseur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Aus dem Speicher des Antriebsstrang-Steuergeräts ausgelesene VIN.</tu>
+	<tu xmlns:lang="ita">VIN letto da memoria modulo comando catena cinematica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パワートレーン コントロール モジュールの保存場所から読み取られた VIN</tu>
+	<tu
+    xmlns:lang="ptg"
+  >NIV lido do arquivo do módulo de comando do grupo motopropulsor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Leitura VIN do armazenamento do módulo de controle do powertrain.</tu>
+	<tu
+    xmlns:lang="rus"
+  >VIN, считанный из ЗУ блока управления силовым агрегатом.</tu>
+	<tu
+    xmlns:lang="esp"
+  >VIN leído en la memoria del módulo de control del grupo motor y transmisión.</tu>
+	<tu xmlns:lang="chs">从动力传动系统控制模块中读取VIN。</tu>
+	<tu xmlns:lang="kor">파워트레인 컨트롤 모듈 저장 장치에서 판독한 VIN</tu>
+</tm>

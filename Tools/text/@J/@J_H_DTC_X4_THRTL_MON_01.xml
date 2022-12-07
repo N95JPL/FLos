@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_DTC_X4_THRTL_MON_01">
+	<tu xmlns:lang="eng">Idle engine.</tu>
+	<tu xmlns:lang="nld">Motor stationair laten lopen</tu>
+	<tu xmlns:lang="fra">Faire tourner au ralenti</tu>
+	<tu xmlns:lang="deu">Motor im Leerlauf laufen lassen</tu>
+	<tu xmlns:lang="ita">Far girare al minimo il motore</tu>
+	<tu xmlns:lang="jpn">アイドリングする</tu>
+	<tu xmlns:lang="ptg">Colocar o motor em ralenti.</tu>
+	<tu xmlns:lang="ptb">Motor em marcha lenta.</tu>
+	<tu xmlns:lang="rus">Переведите двигатель в режим холостого хода.</tu>
+	<tu xmlns:lang="esp">Motor en ralentí</tu>
+	<tu xmlns:lang="chs">让发动机怠速。</tu>
+	<tu xmlns:lang="kor">엔진을 공회전하십시오.</tu>
+</tm>

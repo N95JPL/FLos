@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUTOLIGHTS">
+	<tu xmlns:lang="eng">Autolamps</tu>
+	<tu xmlns:lang="nld">Automatische lampen</tu>
+	<tu xmlns:lang="fra">Eclairage automatique.</tu>
+	<tu xmlns:lang="deu">Scheinwerferautomatik</tu>
+	<tu xmlns:lang="ita">Funzione automatica fari</tu>
+	<tu xmlns:lang="jpn">オートライト</tu>
+	<tu xmlns:lang="ptg">Luzes automáticas</tu>
+	<tu xmlns:lang="ptb">Luzes automáticas</tu>
+	<tu xmlns:lang="rus">Система автоматического включения освещения</tu>
+	<tu xmlns:lang="esp">Faros automáticos</tu>
+	<tu xmlns:lang="chs">自动灯</tu>
+	<tu xmlns:lang="kor">자동 램프</tu>
+</tm>

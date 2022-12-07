@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_TELEMATICS">
+	<tu xmlns:lang="eng">419-05 Telematics</tu>
+	<tu xmlns:lang="nld">419-05 Telematica</tu>
+	<tu xmlns:lang="fra">419-05 Télématique</tu>
+	<tu xmlns:lang="deu">419-05 Telematik</tu>
+	<tu xmlns:lang="ita">419-05 Telematica</tu>
+	<tu xmlns:lang="jpn">419-05 テレマティックス</tu>
+	<tu xmlns:lang="ptg">419-05 Sistema telemático</tu>
+	<tu xmlns:lang="ptb">419-05 Telemática</tu>
+	<tu xmlns:lang="rus">419-05 Телематика</tu>
+	<tu xmlns:lang="esp">419-05 Telemática</tu>
+	<tu xmlns:lang="chs">419-05远程信息处理</tu>
+	<tu xmlns:lang="kor">419-05 텔레매틱스</tu>
+</tm>

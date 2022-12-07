@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RETRY_APP_ECU_TEMP">
+	<tu
+    xmlns:lang="eng"
+  >Retry the application when the module internal temperature is below 80°C.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Probeer de toepassing nogmaals uit te voeren wanneer de inwendige temperatuur van de module onder de 80 °C ligt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Relancez l'application lorsque la température interne du module sera retombée sous 80 °C.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anwendung erneut ausführen, wenn die interne Steuergerätetemperatur unter 80 °C liegt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ritentare l'applicazione quando la temperatura interna del modulo è sotto 80°C.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュールのインターナル温度が 80°C 以下のときにアプリケーションを再試行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tentar novamente a aplicação quando a temperatura interna do módulo for inferior a 80 °C.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Tente novamente o aplicativo quando a temperatura interna do módulo estiver abaixo de 80 °C.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Повторно запустите приложение, если внутренняя температура блока ниже 80°C.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Reintentar la aplicación cuando la temperatura interna del módulo sea inferior a 80 °C.</tu>
+	<tu xmlns:lang="chs">当模块内部温度低于80℃时，请重试该应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >모듈 내부 온도가 80°C 미만일 때 애플리케이션을 다시 시도하십시오.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WIN_FUNS_LEARN">
+	<tu
+    xmlns:lang="eng"
+  >Learns the top position of the door window glass, which enables pinch protection and one touch up function.  The door window glass position can be learned by executing this routine.  If power rear door window glasses are fitted, then this routine will drive both the front and rear door window glasses.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hiermee leert het systeem de bovenste positie van de portierruit, zodat de inklembeveiliging en de comfortbediening worden ingeschakeld.  Door het uitvoeren van deze routine kunt u de portierruitpositie inleren.  Als er elektrisch bediende achterportierruiten zijn geïnstalleerd, zal deze routine zowel de voor- als achterportierruiten aandrijven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Enregistre la position supérieure de la vitre de porte, ce qui permet l'activation des fonctions anti-pincement et de fermeture à impulsion des lève-vitres.  Ce programme permet d'enregistrer la position de la vitre de porte.  Si des vitres de porte arrière électriques sont installées, ce programme activera le fonctionnement des vitres avant et arrière.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Erlernt die ganz nach oben verfahrene Stellung der Türfensterscheibe, die für den Einklemmschutz und die Tippfunktion Schließen benötigt wird.  Durch Ausführen dieser Routine kann die Stellung der Türfensterscheibe erlernt werden.  Wenn elektrische Fensterheber hinten eingebaut sind, werden über diese Routine die Fensterhebermotoren vorne und hinten betätigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Apprende la posizione superiore dell'alzacristallo, che attiva la protezione anti-intrappolamento e la funzione di chiusura a tocco singolo.  La posizione dell'alzacristallo può essere appresa eseguendo questa procedura.  Se le portiere posteriori sono dotate di alzacristalli elettrici, questa procedura aziona sia gli alzacristalli anteriori che posteriori.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ドア ウィンドウ ガラスの上端位置を学習し、挟み込み保護とワンタッチ アップ機能\を作動可に設定します。  このルーチンを実行することによってドア ウィンドウ ガラス ポジションが学習されます。  電動リア ドア ウィンドウ ガラスが装備されている場合、このルーチンはフロントおよびリア ドア ウィンドウ ガラスの両方を駆動します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Programa a posição superior do vidro da porta, que permite a protecção antientalamento e a função de abertura/fecho com um toque.  A posição do vidro da porta pode ser programada executando esta rotina.  Se o veículo estiver equipado com vidros eléctricos nas portas traseiras, esta rotina activará tanto os vidros dianteiros como os traseiros.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aprende a posição superior do vidro da janela da porta, que permite a função de proteção contra esmagamento e de um toque para cima.  A posição do vidro da janela da porta pode ser adquirida por meio da execução desta rotina.  Se a energia dos vidros das janelas da porta traseira estiver instalada, essa rotina acionará os vidros das janelas da porta dianteira e traseira.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сохраняет в памяти верхнее положение стекла двери, обеспечивая защиту от защемления и функцию ускоренного доступа к средствам управления.  Данная операция позволяет сохранить данные о положении стекла двери.  Если автомобиль оснащен системой электрического управления стеклоподъемниками задних дверей, эта операция приводит в действие стеклоподъемники передних и задних дверей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aprende la posición superior de la ventanilla, habilitando las funciones de mecanismo retráctil y cierre con una sola pulsación.  La posición de la ventanilla puede aprenderse mediante la ejecución de esta rutina.  Si los elevalunas traseros son eléctricos, esta rutina accionará tanto las ventanillas delanteras como las traseras.</tu>
+	<tu
+    xmlns:lang="chs"
+  >了解车门玻璃窗的顶端位置，它可启动防夹保护和一触式升起功能。  通过执行本程序可了解车门玻璃窗位置。  如果安装了后车门电动玻璃窗，则本程序将同时驱动前后车门玻璃窗。</tu>
+	<tu
+    xmlns:lang="kor"
+  >도어 윈도우 글라스의 상단 위치를 학습하여 끼임 방지 보호와 원 터치 업 기능을 활성화합니다.  이 루틴을 실행하여 도어 윈도우 글라스 위치를 학습할 수 있습니다.  파워 리어 도어 윈도우 글라스가 장착된 경우에는 이 루틴 실행 시 프론트 및 리어 도어 윈도우 글라스가 모두 구동됩니다.</tu>
+</tm>

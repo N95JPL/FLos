@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DUAL_POW_HEAT_MEM_MIR_PUDD">
+	<tu xmlns:lang="eng">Dual power/heated/memory mirrors and puddle lamps.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dubbel vermogen/geheugen/verwarmde spiegels en trottoirlichten</tu>
+	<tu
+    xmlns:lang="fra"
+  >Doubles rétroviseurs électriques/chauffés/à mémoire et lampes de bas de portes</tu>
+	<tu
+    xmlns:lang="deu"
+  >Elektrisch verstellbare/beheizbare Außenspiegel mit Positionsspeicher und Türeinstiegsleuchten</tu>
+	<tu
+    xmlns:lang="ita"
+  >Doppi specchietti elettrici/riscaldati/con memoria e luci ingombro portiere</tu>
+	<tu
+    xmlns:lang="jpn"
+  >デュアル電動／ヒーター付き／メモリ ミラーおよびパドル ランプ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retrovisores exteriores de corrente dupla/com desembaciamento/com memória e luzes de estribo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Retrovisores elétricos/aquecidos/memória duplos e luzes de cortesia.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обогреваемые зеркала с двусторонним электропитанием и памятью положения, а также лампы подсветки при входе/выходе.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Dos retrovisores térmicos de ajuste eléctrico con memoria y luces de estribo</tu>
+	<tu xmlns:lang="chs">双电源/加热/记忆后视镜和脚底灯。</tu>
+	<tu xmlns:lang="kor">듀얼 파워/열선내장/메모리 미러 및 퍼들 램프</tu>
+</tm>

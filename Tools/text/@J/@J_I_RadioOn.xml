@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RadioOn">
+	<tu xmlns:lang="eng">Audio unit on.</tu>
+	<tu xmlns:lang="nld">Radio AAN</tu>
+	<tu xmlns:lang="fra">Mise en route de la radio</tu>
+	<tu xmlns:lang="deu">Radio EIN</tu>
+	<tu xmlns:lang="ita">Radio ACCESA</tu>
+	<tu xmlns:lang="jpn">ﾗｼﾞｵ・ｵﾝ</tu>
+	<tu xmlns:lang="ptg">Unidade áudio ligada.</tu>
+	<tu xmlns:lang="ptb">Unidade de áudio ligada.</tu>
+	<tu xmlns:lang="rus">Аудиосистема включена.</tu>
+	<tu xmlns:lang="esp">Radio encendida</tu>
+	<tu xmlns:lang="chs">音频单元打开。</tu>
+	<tu xmlns:lang="kor">오디오 장치 ON</tu>
+</tm>

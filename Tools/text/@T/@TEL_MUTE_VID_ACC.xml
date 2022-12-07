@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TEL_MUTE_VID_ACC">
+	<tu xmlns:lang="eng">Telephone mute and video function  -  Accessory only</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onderdrukkingsfunctie van telefoon en video  -  Alleen accessoire</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fonction assourdissement et vidéo du téléphone  -  Accessoire uniquement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Telefon-Stummschaltungs- und Videofunktion  -  Nur Zubehör</tu>
+	<tu
+    xmlns:lang="ita"
+  >Funzione video ed esclusione audio telefono  -  Solo accessori</tu>
+	<tu xmlns:lang="jpn">電話ミュートおよびビデオ機能\  －  アクセサリのみ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Silenciamento do telefone e função de vídeo  -  Apenas acessório</tu>
+	<tu xmlns:lang="ptb">Telefone mudo e função de vídeo  -  Apenas acessórios</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выключение звука телефона и функция видеосистемы  -  Только для вспомогательного оборудования</tu>
+	<tu
+    xmlns:lang="esp"
+  >Función de silenciamiento del teléfono y vídeo  -  Sólo accesorio</tu>
+	<tu xmlns:lang="chs">电话静音和视频功能  -  仅限附件</tu>
+	<tu xmlns:lang="kor">전화 음소거 및 비디오 기능  -  액세서리만 해당</tu>
+</tm>

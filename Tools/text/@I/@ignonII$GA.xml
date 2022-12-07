@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ignonII$GA">
+	<tu xmlns:lang="eng">Set the ignition switch to on (position 2).</tu>
+	<tu xmlns:lang="nld">Zet de contactschakelaar in de rijstand (stand 2).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Amener le commutateur de démarrage en position ON (Position II).</tu>
+	<tu xmlns:lang="deu">Zündung EINSCHALTEN (Stellung II)</tu>
+	<tu xmlns:lang="ita">Inserire l'interruttore d'accensione (Posizione II).</tu>
+	<tu xmlns:lang="jpn">ｲｸﾞﾆｼｮﾝ・ｽｲｯﾁを ｵﾝ (IIの位置)に設定。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Definir o interruptor de ignição para ligado (posição 2).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Coloque o interruptor da ignição na posição ligada (posição 2).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перевести выключатель зажигания в положение 'вкл.' (положение '2').</tu>
+	<tu xmlns:lang="esp">Poner la llave de contacto en la posición 2.</tu>
+	<tu xmlns:lang="chs">将点火开关打开（位置 2）。</tu>
+	<tu xmlns:lang="kor">점화 스위치를 ON(위치 2)으로 설정하십시오.</tu>
+</tm>

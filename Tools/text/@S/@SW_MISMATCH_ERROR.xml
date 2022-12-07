@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SW_MISMATCH_ERROR">
+	<tu
+    xmlns:lang="eng"
+  >The software part number read from the control module does not match the part number of the software programmed. This may be due to a programming error or may be the result of the module not reporting the part number in an expected format.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het softwareonderdeelnummer dat is uitgelezen uit de regelmodule komt niet overeen met het onderdeelnummer van de geprogrammeerde software. Dit kan het gevolg zijn van een programmeerfout of zijn veroorzaakt doordat de module het onderdeelnummer rapporteert in een onbekend formaat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La référence du logiciel indiquée par le module de commande ne correspond pas à la référence du logiciel programmé. Cela peut être dû à une erreur de programmation ou au format erroné utilisé par le module pour communiquer la référence.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die aus dem Steuergerät ausgelesene Software-Teilenummer stimmt nicht mit der Teilenummer der programmierten Software überein. Dies kann auf einen Programmierfehler zurückzuführen oder eine Konsequenz davon sein, dass das Steuergerät die Teilenummer nicht in einem erwarteten Format berichtet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il numero di parte del software letto dal modulo di comando non corrisponde al numero di parte programmato del software. Ciò potrebbe essere dovuto a un errore di programmazione o potrebbe darsi che il modulo non comunica il numero di parte nel formato previsto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コントロール モジュールから読み取られたソ\フトウェア パーツ ナンバーがプログラムされたソ\フトウェアのパーツ ナンバーと適合しません。これはプログラム エラーであるか、あるいはモジュールが規定のフォーマットでパーツ ナンバーを報告していないことに原因のある可能\性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número de peça do software referido no módulo de controlo não corresponde ao número de peça do software programado. Tal poderá dever-se a um erro de programação ou resultar do facto de o módulo não comunicar o número de peça num formato previsto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A leitura do número de peça do software no módulo de controle não coincide com o número de peça do software programado. Isso pode ser devido a um erro de programação ou pode ser o resultado do módulo não relatar o número de peça em um formato esperado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Каталожный номер программного обеспечения, считанный с блока управления, не соответствует номеру введенной программы. Причиной может быть ошибка при программировании или неверный формат отображения номера модулем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El número de pieza del software obtenido del módulo de control no coincide con el número de pieza del software que está programado. Puede tratarse de un error de programación o puede ser que el módulo no indique el número de pieza en el formato esperado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >从控制模块上读取的软件编号与编程的软件编号不匹配。 这可能是由于编程错误，或者是由于模块不是以预期的格式报告编号而导致的结果。</tu>
+	<tu
+    xmlns:lang="kor"
+  >컨트롤 모듈에서 읽은 소프트웨어 부품 번호가 소프트웨어 프로그래밍의 부품 번호와 일치하지 않습니다. 이는 프로그래밍 오류 때문이거나 예상했던 양식의 부품 번호를 보고하지 않는 모듈의 결과일 수 있습니다.</tu>
+</tm>

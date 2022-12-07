@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DCV2_UPPER_LAT_ACC">
+	<tu
+    xmlns:lang="eng"
+  >Direction control valve 2 - ramp-up upper lateral accelerometer.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Richtingsregelklep 2 - bovenste laterale acceleratiemeter,  helling-op.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Electrovanne de commande directionnelle 2 - montée en température de l'accéléromètre latéral supérieur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Richtungssteuerventil 2 - steigende Flanke oberer Querbeschleunigungsaufnehmer.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Valvola controllo direzione 2 - aumento graduale temperatura accelerometro laterale superiore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >方向コントロール バルブ 2 - ランプアップ アッパー横方向加速度センサー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Válvula de controlo da direcção 2 - acelerómetro lateral superior, aumento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Válvula de controle de direção 2 ? acelerômetro lateral superior de reforço.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Распределитель 2 - верхний линейный акселерометр поперечного ускорения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Válvula de control de dirección 2: aumento de acelerómetro lateral superior</tu>
+	<tu xmlns:lang="chs">方向控制阀2 - 上坡上横向加速计。</tu>
+	<tu xmlns:lang="kor">방향 컨트롤 밸브 2 - 상부 횡방향 가속도계 증가</tu>
+</tm>

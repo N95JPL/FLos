@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_HT_DURING_HLAMP_ADJ">
+	<tu
+    xmlns:lang="eng"
+  >This application accurately controls the air suspension height when performing a headlamp beam-alignment.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing regelt op nauwkeurige wijze de luchtveringshoogte wanneer de koplampstraal wordt afgesteld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application commande avec précision la hauteur de suspension pneumatique lors du réglage des phares.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Anwendungsprogramm steuert genau die Höhe der Luftfederung bei der Durchführung einer Scheinwerfereinstellung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quest'applicazione controlla accuratamente l'altezza delle sospensioni pneumatiche nel corso della procedura di allineamento dei fari.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、ヘッドランプ光軸調整実施中に、エア サスペンション ハイトを正確に制御します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação controla com exactidão a altura da suspensão pneumática ao efectuar o alinhamento dos faróis.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo controla precisamente a altura da suspensão a ar durante a realização de um alinhamento de farol.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение обеспечивает точное регулирование высоты положения пневматической подвески в процессе регулировки направления свет фар.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación controla con precisión la altura de la suspensión neumática al realizar una alineación de faros.</tu>
+	<tu xmlns:lang="chs">此应用程序准确控制进行前照灯对光时的空气悬挂高度。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 헤드램프 빔 얼라인먼트 수행 시 에어 서스펜션 높이를 정확하게 제어합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_LUMBAR">
+	<tu xmlns:lang="eng">Power lumbar.</tu>
+	<tu xmlns:lang="nld">Elektrische lendensteun</tu>
+	<tu xmlns:lang="fra">Support lombaire électrique</tu>
+	<tu xmlns:lang="deu">Elektrische Lendenstützenverstellung</tu>
+	<tu xmlns:lang="ita">Regolazione lombare motorizzata</tu>
+	<tu xmlns:lang="jpn">電動ランバー</tu>
+	<tu xmlns:lang="ptg">Apoio lombar com regulação eléctrica.</tu>
+	<tu xmlns:lang="ptb">Apoio lombar elétrico.</tu>
+	<tu xmlns:lang="rus">Поясничная опора с электроприводом.</tu>
+	<tu xmlns:lang="esp">Apoyo lumbar de ajuste eléctrico</tu>
+	<tu xmlns:lang="chs">电动腰靠。</tu>
+	<tu xmlns:lang="kor">전동식 허리 지지대</tu>
+</tm>

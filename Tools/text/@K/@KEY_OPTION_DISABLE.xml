@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KEY_OPTION_DISABLE">
+	<tu xmlns:lang="eng">Disable personalisation options.</tu>
+	<tu xmlns:lang="nld">Schakel de persoonlijke voorkeuren uit.</tu>
+	<tu xmlns:lang="fra">Désactivez les options de personnalisation.</tu>
+	<tu xmlns:lang="deu">Personalisierungsoptionen deaktivieren.</tu>
+	<tu xmlns:lang="ita">Disattivare opzioni di personalizzazione.</tu>
+	<tu xmlns:lang="jpn">個人設定オプション作動不可</tu>
+	<tu xmlns:lang="ptg">Desactive as opções de personalização.</tu>
+	<tu xmlns:lang="ptb">Desative as opções de personalização.</tu>
+	<tu xmlns:lang="rus">Отключить опции персонализации.</tu>
+	<tu xmlns:lang="esp">Desactivar opciones de personalización.</tu>
+	<tu xmlns:lang="chs">禁用个性化选项。</tu>
+	<tu xmlns:lang="kor">개인화 옵션을 비활성화하십시오.</tu>
+</tm>

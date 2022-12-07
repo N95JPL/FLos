@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RETRY_PROC_SP_CTRL">
+	<tu
+    xmlns:lang="eng"
+  >Once the issue is resolved the procedure can be re-tried using the standalone application speed control alignment within the set up and configuration menu</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zodra het probleem verholpen is kunt u de procedure opnieuw proberen uit te voeren m.b.v. de op zichzelf staande toepassing voor de uitlijning van de snelheidsregeling, die zich in het menu voor instellingen en configuratie bevindt</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois le problème résolu, lancer à nouveau la procédure à l'aide de l'application autonome d'alignement du régulateur de vitesse dans le menu de réglage et de configuration</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nachdem dieses Problem behoben wurde, kann diese Maßnahme mit der eigenständigen Anwendung für die Anpassung der Geschwindigkeitsregelung im Setup- und Konfigurationsmenü erneut ausgeführt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta risolto il problema, la procedura può essere ritentata utilizzando l'allineamento del controllo velocità dell'applicazione autonoma nel menu di impostazione e configurazione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >問題が解決した後、セットアップおよびコンフィギュレーション メニューのスタンドアローン アプリケーション スピード コントロール アライメントを使用し、手順を再試行することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Resolvido o problema, o procedimento pode ser tentado novamente, usando a aplicação independente de alinhamento do controlo de velocidade, incluída no menu de configuração</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma vez que o problema seja resolvido, o procedimento pode tentar novamente usar o alinhamento de controle de velocidade do aplicativo dentro do menu de instalação e configuração.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После устранения проблемы можно выполнить процедуру повторно с помощью отдельного приложения для подстройки системы круиз-контроля, которое запускается из меню настройки и конфигурации</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez resuelto el problema, se puede volver a intentar el procedimiento con la aplicación independiente de alineación de control de la velocidad en el menú de ajuste y configuración</tu>
+	<tu
+    xmlns:lang="chs"
+  >问题得到解决后，还可利用设置与配置菜单中单独的速度控制校准应用程序重试该步骤</tu>
+	<tu
+    xmlns:lang="kor"
+  >문제가 해결되면 설정 및 구성 메뉴 내에서 독립 실행형 애플리케이션 스피드 컨트롤 얼라인먼트를 사용하여 이 절차를 다시 시도할 수 있습니다.</tu>
+</tm>

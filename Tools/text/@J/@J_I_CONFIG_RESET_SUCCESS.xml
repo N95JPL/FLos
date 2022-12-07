@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_RESET_SUCCESS">
+	<tu xmlns:lang="eng">Configuration reset successfully</tu>
+	<tu xmlns:lang="nld">Configuratie met succes gereset</tu>
+	<tu xmlns:lang="fra">Reconfiguration réussie</tu>
+	<tu xmlns:lang="deu">Konfiguration erfolgreich zurückgesetzt.</tu>
+	<tu xmlns:lang="ita">Resettaggio configurazione eseguito con successo</tu>
+	<tu xmlns:lang="jpn">設定のリセットが無事終了。</tu>
+	<tu xmlns:lang="ptg">Configuração reiniciada com êxito</tu>
+	<tu xmlns:lang="ptb">Redefinição da configuração bem sucedida</tu>
+	<tu xmlns:lang="rus">Сброс данных конфигурации выполнен успешно</tu>
+	<tu xmlns:lang="esp">Realizada la reposición de configuración.</tu>
+	<tu xmlns:lang="chs">配置重置成功</tu>
+	<tu xmlns:lang="kor">구성 재설정 성공</tu>
+</tm>

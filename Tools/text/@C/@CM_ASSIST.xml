@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_ASSIST">
+	<tu xmlns:lang="eng">Emergency messaging.</tu>
+	<tu xmlns:lang="nld">Berichten in noodgevallen</tu>
+	<tu xmlns:lang="fra">Messages de secours</tu>
+	<tu xmlns:lang="deu">Notfallmeldesystem</tu>
+	<tu xmlns:lang="ita">Messaggi di emergenza</tu>
+	<tu xmlns:lang="jpn">緊急メッセージ</tu>
+	<tu xmlns:lang="ptg">Mensagens de emergência.</tu>
+	<tu xmlns:lang="ptb">Mensagens de emergência.</tu>
+	<tu xmlns:lang="rus">Передача аварийных сообщений.</tu>
+	<tu xmlns:lang="esp">Mensajes de emergencia</tu>
+	<tu xmlns:lang="chs">紧急通话。</tu>
+	<tu xmlns:lang="kor">비상 메시징</tu>
+</tm>

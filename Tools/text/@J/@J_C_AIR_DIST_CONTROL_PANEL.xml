@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_AIR_DIST_CONTROL_PANEL">
+	<tu xmlns:lang="eng">Air distribution control panel</tu>
+	<tu xmlns:lang="nld">Regelpaneel van de luchtverdeling</tu>
+	<tu xmlns:lang="fra">Panneau de commande de distribution d'air</tu>
+	<tu xmlns:lang="deu">Bedienfeld - Luftverteilung</tu>
+	<tu xmlns:lang="ita">Quadro comandi distribuzione aria</tu>
+	<tu xmlns:lang="jpn">エア ディストリビューション コントロール パネル</tu>
+	<tu xmlns:lang="ptg">Painel de controlo da distribuição do ar</tu>
+	<tu xmlns:lang="ptb">Painel de controle de distribuição de ar</tu>
+	<tu xmlns:lang="rus">Панель управления распределением воздуха</tu>
+	<tu xmlns:lang="esp">Panel de control de la distribución de aire</tu>
+	<tu xmlns:lang="chs">空气分配控制面板</tu>
+	<tu xmlns:lang="kor">공기 분배 컨트롤 패널</tu>
+</tm>

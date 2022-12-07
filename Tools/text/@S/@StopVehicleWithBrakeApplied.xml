@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopVehicleWithBrakeApplied">
+	<tu
+    xmlns:lang="eng"
+  >Stop the vehicle and keep the foot brake fully applied.</tu>
+	<tu xmlns:lang="nld">Stop de auto en houd de voetrem volledig ingetrapt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Arrêter le véhicule et maintenir la pédale de frein enfoncée complètement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug anhalten und die Fußbremse vollständig betätigt lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Arrestare il veicolo e tenere il freno a pedale completamente abbassato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両を停止させ、フット ブレーキを一杯まで踏み込みます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pare o veículo e mantenha o pedal do travão totalmente aplicado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pare o veículo e mantenha o pedal do freio totalmente pisado.</tu>
+	<tu xmlns:lang="rus">Остановите автомобиль и не отпускайте педаль тормоза.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Detenga el vehículo y mantenga el pedal de freno pisado hasta el tope.</tu>
+	<tu xmlns:lang="chs">停止车辆，并保持脚制动器完全踩下。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량을 정지하고 풋 브레이크를 끝까지 밟은 채로 유지하십시오.</tu>
+</tm>

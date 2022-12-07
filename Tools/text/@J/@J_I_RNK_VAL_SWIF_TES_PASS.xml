@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RNK_VAL_SWIF_TES_PASS">
+	<tu xmlns:lang="eng">Ranking value from swift test of purge has passed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De classificatiewaarde uit de snelle test voor spoelen voldoet.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le classement de la valeur du test de purge rapide a réussi.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Rangwert gemäß Kurztest Behälterspülung zufriedenstellend.</tu>
+	<tu xmlns:lang="ita">Valore posizione del test rapido di spurgo superato.</tu>
+	<tu xmlns:lang="jpn">パージ クィック テストのランキング数値は合格です。</tu>
+	<tu xmlns:lang="ptg">Classificação do valor teste rápido de purga passou.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O valor de classificação do teste rápido de purga foi aprovado.</tu>
+	<tu xmlns:lang="rus">Быстрая проверка системы продувки пройдена успешно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Valor de clasificación de prueba rápida de purga aprobado.</tu>
+	<tu xmlns:lang="chs">清污快速测试评价值通过。</tu>
+	<tu xmlns:lang="kor">퍼지의 스위프트 테스트에서 얻은 랭킹값이 통과했습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GAUGE_SWEEP">
+	<tu xmlns:lang="eng">Gauge sweep</tu>
+	<tu xmlns:lang="nld">Meteruitslag</tu>
+	<tu xmlns:lang="fra">Balayage de jauge</tu>
+	<tu xmlns:lang="deu">Anzeigeausschlag</tu>
+	<tu xmlns:lang="ita">Corsa indicatori</tu>
+	<tu xmlns:lang="jpn">ゲージ スィープ</tu>
+	<tu xmlns:lang="ptg">Passagem do indicador</tu>
+	<tu xmlns:lang="ptb">Varredura do medidor</tu>
+	<tu xmlns:lang="rus">Колебания указателя</tu>
+	<tu xmlns:lang="esp">Recorrido de la aguja</tu>
+	<tu xmlns:lang="chs">仪表扫描</tu>
+	<tu xmlns:lang="kor">게이지 스윕</tu>
+</tm>

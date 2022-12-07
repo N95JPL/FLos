@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_MDX_IDENTIFIER_SEQ">
+	<tu xmlns:lang="eng">Identifier sequence</tu>
+	<tu xmlns:lang="nld">Identificatievolgorde</tu>
+	<tu xmlns:lang="fra">Séquence d'identifiant</tu>
+	<tu xmlns:lang="deu">Kennungssequenz</tu>
+	<tu xmlns:lang="ita">Sequenza identificativo</tu>
+	<tu xmlns:lang="jpn">ID 機能\シーケンス</tu>
+	<tu xmlns:lang="ptg">Sequência do identificador</tu>
+	<tu xmlns:lang="ptb">Sequência de identificador</tu>
+	<tu xmlns:lang="rus">Последовательность идентификатора</tu>
+	<tu xmlns:lang="esp">Secuencia de identificador</tu>
+	<tu xmlns:lang="chs">标识符顺序</tu>
+	<tu xmlns:lang="kor">식별자 시퀀스</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_BOOST_PRES_CAL">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required when a boost pressure actuator is replaced to allow the offset learn to be calculated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig wanneer u een vuldrukactuator vervangt, zodat het systeem de afwijking voor het inleren kan berekenen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé lorsqu'un actionneur de pression de suralimentation est remplacé pour permettre le calcul du déport.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, wenn ein Ladedruck-Stellglied ersetzt wird, damit die Versatzerlernung berechnet werden kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta quando si sostituisce un attuatore pressione di sovralimentazione per consentire il calcolo di apprendimento offset.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、ブースト プレッシャ アクチュエータが交換されたとき、オフセット学習を計算するために必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária quando se substitui um actuador da pressão de sobrealimentação para permitir o cálculo do valor de compensação a ser aplicado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária quando um atuador de pressão do turbo é substituído para permitir que a compensação aprenda a ser calculada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнение данной процедуры необходимо при замене привода управления давлением наддува для расчета значения поправки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse al sustituir un actuador de presión de sobrealimentación para que pueda calcularse la corrección necesaria.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果更换了增压启动器，则需要执行本程序以计算补偿学习值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >오프셋 학습을 계산할 수 있도록 하기 위해 부스트 압력 액추에이터를 교체할 때 이 루틴이 필요합니다.</tu>
+</tm>

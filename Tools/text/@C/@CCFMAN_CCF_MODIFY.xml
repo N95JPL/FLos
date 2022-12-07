@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_CCF_MODIFY">
+	<tu xmlns:lang="eng">Current vehicle car configuration modification</tu>
+	<tu xmlns:lang="nld">Voertuigconfiguratiewijzigingen voor huidig voertuig</tu>
+	<tu
+    xmlns:lang="fra"
+  >Modification de la configuration du véhicule en réparation</tu>
+	<tu
+    xmlns:lang="deu"
+  >Aktuelles Fahrzeug - Modifikation der Fahrzeugkonfiguration</tu>
+	<tu xmlns:lang="ita">Modifica configurazione veicolo corrente</tu>
+	<tu xmlns:lang="jpn">現在の車両コンフィギュレーション改善変更</tu>
+	<tu xmlns:lang="ptg">Alteração da configuração do veículo - veículo actual</tu>
+	<tu xmlns:lang="ptb">Modificação da configuração atual do veículo</tu>
+	<tu xmlns:lang="rus">Изменение текущей конфигурации автомобиля</tu>
+	<tu xmlns:lang="esp">Modificación de la configuración actual del vehículo</tu>
+	<tu xmlns:lang="chs">当前车辆配置调整</tu>
+	<tu xmlns:lang="kor">현재 차량 구성 수정</tu>
+</tm>

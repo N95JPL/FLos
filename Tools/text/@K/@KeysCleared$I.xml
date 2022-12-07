@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KeysCleared$I">
+	<tu xmlns:lang="eng">The stored keys were successfully cleared.</tu>
+	<tu xmlns:lang="nld">De opgeslagen sleutels zijn met succes gewist.</tu>
+	<tu xmlns:lang="fra">Les clés enregistrées ont bien été effacées</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die gespeicherten Schlüssel wurden erfolgreich gelöscht</tu>
+	<tu
+    xmlns:lang="ita"
+  >I tasti memorizzati sono stati rimessi a zero con successo</tu>
+	<tu xmlns:lang="jpn">保存キーは順調にクリアされました。</tu>
+	<tu xmlns:lang="ptg">As chaves gravadas foram apagadas com êxito.</tu>
+	<tu xmlns:lang="ptb">As teclas armazenadas foram apagadas com sucesso.</tu>
+	<tu xmlns:lang="rus">Сохраненные ключи успешно удалены.</tu>
+	<tu xmlns:lang="esp">Se borraron las llaves programadas.</tu>
+	<tu xmlns:lang="chs">存储的钥匙已被成功清除。</tu>
+	<tu xmlns:lang="kor">저장된 키가 성공적으로 삭제되었습니다.</tu>
+</tm>

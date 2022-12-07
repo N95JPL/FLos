@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECOStopCheckEngineRunning">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle currently in stop mode, make sure engine is running.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voertuig momenteel in stop-modus, zorg voor draaiende motor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Véhicule actuellement en mode arrêt, s'assurer que le moteur est en marche.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeug befindet sich im Stopp-Modus, sicherstellen, dass der Motor läuft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Veicolo attualmente in modalità di arresto, accertarsi che il motore sia in funzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両は現在停止モードになっています。エンジンがかかっていることを確認してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Veículo atualmente no modo de paragem, certifique-se de que o motor está a trabalhar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Veículo atualmente no modo stop, certifique-se de que o motor está em funcionamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В настоящее время автомобиль находится в режиме останова. Убедитесь, что двигатель работает.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El vehículo está en modo de parada en ese momento; asegúrese de que el motor está en marcha.</tu>
+	<tu xmlns:lang="chs">车辆目前处于停止模式，确保发动机正在运转。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량이 현재 Stop 모드에 있습니다. 엔진이 작동 중인지 확인하십시오.</tu>
+</tm>

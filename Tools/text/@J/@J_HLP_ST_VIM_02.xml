@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_VIM_02">
+	<tu
+    xmlns:lang="eng"
+  >Check random access memory, read only memory and electronically erasable programmable read only memory and check the current lock status against status in electronically erasable programmable read only memory.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer zowel het RAM-, ROM-geheugen als de EEPROM en controleer de huidige vergrendelstatus ten opzichte van de status in de EEPROM.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez la mémoire vive, la mémoire morte et la mémoire morte programmable effaçable électroniquement et vérifiez l'état de verrouillage actuel par rapport à l'état dans la mémoire morte programmable effaçable électroniquement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Überprüfung des Direktzugriffsspeichers, des Nur-Lese-Speichers und des elektrisch löschbaren programmierbaren Nur-Lese-Speichers und Überprüfung des aktuellen Verriegelungsstatus gegen den Status im elektrisch löschbaren programmierbaren Nur-Lese-Speicher.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllo memoria ad accesso casuale, memoria di sola lettura e memoria programmabile di sola lettura cancellabile elettronicamente e controllo dello stato di bloccaggio corrente rispetto allo stato nella memoria programmabile di sola lettura cancellabile elettronicamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ランダム アクセス メモリ、ROM、電気的に消去可能\なプログラム可能\ ROM をチェックします。電気的に消去可能\なプログラム可能\ ROM 内のステータスに対する現在のロック ステータスをチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique a memória de acesso aleatório, a memória só de leitura e a EEPROM e verifique o estado de bloqueio actual comparando com o estado guardado na EEPROM.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verificar memória de acesso aleatório, memória somente leitura e memória exclusiva de leitura programável e eletronicamente eliminável; verifique o status de travamento atual com relação ao status na memória somente leitura programável e eletronicamente eliminável.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте оперативное ЗУ, ПЗУ и электронно стираемое программируемое ПЗУ, и проверьте текущее состояние блокировки, сравнив его с состоянием электронно стираемого программируемого ПЗУ.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar la memoria de acceso directo (RAM), la memoria de solo lectura (ROM) y la memoria de solo lectura programable y borrable eléctricamente (EEPROM) y comprobar el estado actual de bloqueo con el estado en la memoria EEPROM.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'检查随机存储存储器、只读存储器和电子可擦除可编程只读存储器，并根据电子可擦除可编程只读存储器中的状态检查当前锁定状态。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >RAM, ROM 및 전기적 소거 및 프로그램 가능 읽기 전용 메모리를 점검하고 전기적 소거 및 프로그램 가능 읽기 전용 메모리의 상태에 대해 현재 잠금 상태를 점검하십시오.</tu>
+</tm>

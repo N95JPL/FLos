@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CURRENT_CLAMP_CHECKS">
+	<tu
+    xmlns:lang="eng"
+  >If condition persists, use a current clamp to verify the battery monitoring system current reading</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het probleem blijft optreden, gebruikt u een stroomklem om de waarde van de stroomsterkte van het accucontrolesysteem te controleren</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si les conditions persistent, utilisez une pince de courant électrique pour contrôler la tension du système de surveillance de la batterie</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bleibt der Zustand weiterhin bestehen, mit einer Strommesszange die Stromablesung des Batterieüberwachungssystems bestätigen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la condizione persiste, utilizzare un morsetto elettrico per verificare il valore della corrente del sistema di monitoraggio della batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >症状が持続する場合、電流クランプを使用してバッテリ モニタリング システムの電流の読み取り値が正しいことを確認しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a situação se mantiver, utilizar um grampo de corrente para verificar a leitura da corrente do sistema de monitorização da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a condição persistir, use um alicate de corrente para verificar a leitura da corrente do sistema de monitoramento da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если неисправность не устранена, проверьте показание тока системы контроля аккумуляторной батареи, используя  токоизмерительные клещи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el problema persiste, usar una pinza amperimétrica para comprobar la lectura de corriente del sistema de control de la batería</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果情况依然如故，请利用一个电流测量卡钳验证蓄电池监测系统的电流读数</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 상태가 지속되면 전류 클램프를 사용하여 배터리 모니터링 시스템 전류 측정값을 확인하십시오.</tu>
+</tm>

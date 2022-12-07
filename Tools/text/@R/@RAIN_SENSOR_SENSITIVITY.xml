@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RAIN_SENSOR_SENSITIVITY">
+	<tu xmlns:lang="eng">Rain sensor sensitivity</tu>
+	<tu xmlns:lang="nld">Gevoeligheid van regensensor</tu>
+	<tu xmlns:lang="fra">Sensibilité du détecteur de pluie.</tu>
+	<tu xmlns:lang="deu">Regensensor-Empfindlichkeit</tu>
+	<tu xmlns:lang="ita">Sensibilità sensore pioggia</tu>
+	<tu xmlns:lang="jpn">レイン センサー感度</tu>
+	<tu xmlns:lang="ptg">Sensibilidade do sensor de chuva</tu>
+	<tu xmlns:lang="ptb">Sensibilidade do sensor de chuva</tu>
+	<tu xmlns:lang="rus">Чувствительность датчика дождя</tu>
+	<tu xmlns:lang="esp">Sensibilidad del sensor de lluvia</tu>
+	<tu xmlns:lang="chs">雨水传感器灵敏度</tu>
+	<tu xmlns:lang="kor">레인 센서 감도</tu>
+</tm>

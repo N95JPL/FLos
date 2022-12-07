@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BTOOTH_DISABLE">
+	<tu xmlns:lang="eng">Bluetooth disabled</tu>
+	<tu xmlns:lang="nld">Bluetooth niet geactiveerd</tu>
+	<tu xmlns:lang="fra">Bluetooth désactivé</tu>
+	<tu xmlns:lang="deu">Bluetooth deaktiviert</tu>
+	<tu xmlns:lang="ita">Bluetooth disattivato</tu>
+	<tu xmlns:lang="jpn">Bluetooth 非作動</tu>
+	<tu xmlns:lang="ptg">Bluetooth desactivado</tu>
+	<tu xmlns:lang="ptb">Bluetooth desativado</tu>
+	<tu xmlns:lang="rus">Bluetooth отключен</tu>
+	<tu xmlns:lang="esp">Bluetooth inhabilitado</tu>
+	<tu xmlns:lang="chs">已禁用蓝牙</tu>
+	<tu xmlns:lang="kor">블루투스 비활성화</tu>
+</tm>

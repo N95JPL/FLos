@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PLS_WAIT_MOD_INIT">
+	<tu xmlns:lang="eng">Please wait while the module initializes.</tu>
+	<tu xmlns:lang="nld">Even geduld a.u.b. terwijl de module opstart.</tu>
+	<tu xmlns:lang="fra">Patientez pendant l'initialisation du module.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte warten, während das Steuergerät initialisiert wird.</tu>
+	<tu xmlns:lang="ita">Attendere l'inizializzazione del modulo.</tu>
+	<tu xmlns:lang="jpn">モジュールが初期化されるまでお待ちください。</tu>
+	<tu xmlns:lang="ptg">Aguardar enquanto o módulo inicializa.</tu>
+	<tu xmlns:lang="ptb">Aguarde enquanto o módulo inicializa.</tu>
+	<tu xmlns:lang="rus">Подождать окончания инициализации блока.</tu>
+	<tu xmlns:lang="esp">Esperar mientras se inicializa el módulo.</tu>
+	<tu xmlns:lang="chs">模块在初始化，请稍候。</tu>
+	<tu xmlns:lang="kor">모듈이 초기화되는 동안 기다리십시오.</tu>
+</tm>

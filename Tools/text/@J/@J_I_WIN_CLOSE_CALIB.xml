@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WIN_CLOSE_CALIB">
+	<tu
+    xmlns:lang="eng"
+  >Make sure all of the door glass windows are fully closed as the next routine will power the door glass windows.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer dat alle portierruiten helemaal dicht zijn, aangezien de volgende routine de stroom naar de portierruiten zal inschakelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que toutes les vitres de portes sont complètement fermées car le programme suivant actionnera les vitres de portes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass alle Türfenster vollständig geschlossen sind, da bei der nächsten Routine die Türfenster angesteuert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che tutti i cristalli delle portiere siano completamente chiusi poiché saranno azionati dalla prossima procedura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のルーチンではドア ガラス ウィンドウに通電が行われるため、全ドア ガラス ウィンドウが全閉状態であることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que todos vidros das portas estão completamente fechados pois a rotina seguinte fará accionar os vidros.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que todas as janelas das portas estejam totalmente fechadas, pois a próxima rotina ligará as janelas das portas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что все стекла дверей полностью закрыты; при выполнении следующей операции включатся электростеклоподъемники.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cerciorarse de que todas las ventanillas estén bien cerradas, ya que la rutina siguiente acciona las ventanillas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保所有车门玻璃窗完全关闭，因为下一程序将通电起动车门玻璃窗。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 루틴에서 도어 글라스 윈도우에 전력을 공급할 때 모든 도어 글라스 윈도우가 완전히 닫히는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CAU_CARE_USE_APP">
+	<tu xmlns:lang="eng">Caution! Take great care when using the application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Let op! Wees bij het gebruik van de toepassing erg voorzichtig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attention ! Soyez très prudent quand vous utilisez l'application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vorsicht! Bei Verwendung dieses Anwendungsprogramms mit Vorsicht vorgehen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attenzione! Prestare la massima attenzione durante l'utilizzo dell'applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >注意！ このアプリケーションは、細心の注意を払って使用しなさい。</tu>
+	<tu xmlns:lang="ptg">Cuidado! Tenha muito cuidado ao usar a aplicação.</tu>
+	<tu xmlns:lang="ptb">Cuidado Tome muito cuidado ao usar o aplicativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Предостережение! При выполнении приложения будьте предельно осторожны!</tu>
+	<tu
+    xmlns:lang="esp"
+  >¡Atención! Tener sumo cuidado al utilizar la aplicación.</tu>
+	<tu xmlns:lang="chs">注意！在使用该应用程序时要格外小心。</tu>
+	<tu
+    xmlns:lang="kor"
+  >주의! 이 응용 프로그램을 사용할 때는 각별히 주의를 기울이십시오.</tu>
+</tm>

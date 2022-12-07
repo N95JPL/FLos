@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ERR_PAF_FILE_INVALID_MALFORMED">
+	<tu xmlns:lang="eng">PAF file contents are invalid or malformed</tu>
+	<tu xmlns:lang="nld">De PAF-bestandsinhoud is ongeldig of vervormd.</tu>
+	<tu xmlns:lang="fra">Le contenu du fichier PAF est invalide ou déformé.</tu>
+	<tu xmlns:lang="deu">PAF-Dateiinhalte sind ungültig oder beschädigt</tu>
+	<tu xmlns:lang="ita">Contenuto file PAF non valido o malformato</tu>
+	<tu xmlns:lang="jpn">PAF ファイル コンテンツが無効または変形しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Conteúdo do ficheiro PAF não é válido ou está mal formado</tu>
+	<tu xmlns:lang="ptb">Conteúdo do arquivo PAF inválido ou mal-formado</tu>
+	<tu xmlns:lang="rus">Недопустимое или искаженное содержимое файла PAF</tu>
+	<tu
+    xmlns:lang="esp"
+  >El contenido del archivo PAF no es válido o está deformado</tu>
+	<tu xmlns:lang="chs">PAF 文件内容无效或残缺</tu>
+	<tu xmlns:lang="kor">PAF 파일 내용이 잘못되었거나 형식이 잘못됨</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRAFF_INFO">
+	<tu xmlns:lang="eng">Road traffic information</tu>
+	<tu xmlns:lang="nld">Verkeersinformatie</tu>
+	<tu xmlns:lang="fra">Informations routières</tu>
+	<tu xmlns:lang="deu">Verkehrsmeldungen</tu>
+	<tu xmlns:lang="ita">Informazioni traffico</tu>
+	<tu xmlns:lang="jpn">交通情報</tu>
+	<tu xmlns:lang="ptg">Informação de trânsito</tu>
+	<tu xmlns:lang="ptb">Informações de trânsito rodoviário</tu>
+	<tu xmlns:lang="rus">Информация о дорожном движении</tu>
+	<tu xmlns:lang="esp">Información de tráfico</tu>
+	<tu xmlns:lang="chs">道路交通信息</tu>
+	<tu xmlns:lang="kor">도로 교통 정보</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RETURN_TO_NORMAL">
+	<tu
+    xmlns:lang="eng"
+  >This application returns the ride level control module back to normal operating conditions.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze toepassing schakelt u de normale functie van de regelmodule van de rijhoogte weer in.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application ramène le module de commande de régulateur d'assiette aux conditions de fonctionnement normales.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Anwendungsprogamm setzt das Niveauausgleichs-Steuergerät wieder in den normalen Betriebszustand zurück.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione riporta il modulo di comando altezza di marcia alle normali condizioni operative.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションはライド レベリング コントロール モジュールを通常作動状態に戻します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação repõe o módulo de comando do nível de condução nas condições normais de funcionamento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo retorna o módulo de controle do nível de percurso de volta às condições normais de operação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение возвращает блок регулирования ездовой высоты подвески в обычный режим работы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación restaura el estado de funcionamiento normal del módulo de control de la altura de la carrocería.</tu>
+	<tu xmlns:lang="chs">此应用程序令行驶高度控制模块返回到正常工作状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 지상고 컨트롤 모듈을 다시 정상 작동 상태로 되돌립니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_AAM_03">
+	<tu
+    xmlns:lang="eng"
+  >If this test is initiated while the audio unit is playing then there may be a small audio output.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het systeem deze test initieert terwijl de audioinstallatie in werking is, zult u misschien een zacht geluid kunnen horen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si ce test est lancé pendant que le système audio est en marche, il peut y avoir une petite sortie audio.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wird dieser Test aufgerufen, während das Audiogerät spielt, kann es zu einer geringfügigen Audioausgabe kommen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se questa prova viene iniziata mentre l'unità audio è in funzione, è possibile che venga emesso un piccolo suono.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オーディオ ユニットのプレイ中にこのテストが始まると僅かなオーディオ アウトプットの出る可能\性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se este teste for iniciado com a unidade do sistema áudio ligado, poderá ouvir-se um ligeiro sinal áudio.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se este teste for iniciado enquanto a unidade de áudio estiver tocando, pode haver uma pequena saída de áudio.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если проверка инициируется в момент, когда работает аудиосистема, мощность аудиосистемы может быть низкой.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se inicia esta prueba mientras está funcionando el aparato de audio, es posible que se oiga un sonido a bajo volumen.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果在音频单元播放时启动了此测试，则可能存在较小的音频输出。</tu>
+	<tu
+    xmlns:lang="kor"
+  >오디오 유닛이 재생 중인 동안 이 테스트가 시작되는 경우에는 작은 오디오 출력이 있을 수 있습니다.</tu>
+</tm>

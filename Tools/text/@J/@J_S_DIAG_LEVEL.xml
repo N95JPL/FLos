@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_S_DIAG_LEVEL">
+	<tu xmlns:lang="eng">Diagnostic level</tu>
+	<tu xmlns:lang="nld">Diagnoseniveau</tu>
+	<tu xmlns:lang="fra">Niveau de diagnostic</tu>
+	<tu xmlns:lang="deu">Diagnosetiefe</tu>
+	<tu xmlns:lang="ita">Livello diagnostico</tu>
+	<tu xmlns:lang="jpn">診断レベル</tu>
+	<tu xmlns:lang="ptg">Nível de diagnóstico</tu>
+	<tu xmlns:lang="ptb">Nível de diagnóstico</tu>
+	<tu xmlns:lang="rus">Уровень диагностической проверки</tu>
+	<tu xmlns:lang="esp">Nivel de diagnóstico</tu>
+	<tu xmlns:lang="chs">诊断水平</tu>
+	<tu xmlns:lang="kor">진단 레벨</tu>
+</tm>

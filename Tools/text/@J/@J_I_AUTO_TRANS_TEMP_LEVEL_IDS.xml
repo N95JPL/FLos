@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUTO_TRANS_TEMP_LEVEL_IDS">
+	<tu
+    xmlns:lang="eng"
+  >Please note - For the above items the automatic transmission temperature must be at a certain level.  The Diagnostic Tool will check this and allow the technician to proceed once this level has been reached.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Let op: voor de bovenstaande items moet de automatische-transmissietemperatuur een bepaald niveau hebben bereikt. Het diagnosesysteem zal dit controleren en de monteur toestaan verder te gaan nadat dit niveau is bereikt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attention – Pour les points ci-dessus, la température de la transmission automatique doit être à un certain niveau. L'outil de diagnostic va contrôler ceci et permettre au technicien de poursuivre une fois ce niveau atteint.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hinweis: Für die obigen Punkte muss die Temperatur des Automatikgetriebes ein bestimmtes Niveau erreicht haben. Das Diagnosesystem wird dies überprüfen und dem Techniker ein Fortfahren ermöglichen, wenn dieses Niveau erreicht wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nota: per le voci sopra la temperatura del cambio automatico deve essere a un determinato livello. Lo strumento diagnostico eseguirà il controllo e consentirà al tecnico di proseguire una volta raggiunto questo livello.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >注記：上記項目のために、オートマチック トランスミッションの温度があるレベルに到達していなければなりません。 診断ツールによってこれを点検し、このレベルに達した時点でテクニシャンは続行することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Atenção - Realtivamente aos itens em cima, a temperatura da transmissão automática deve estar a um determinado nível. A ferramenta de diagnóstico verifica a situação e permite que o técnico prossiga, depois de atingido este nível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Observação - Para os itens acima, a temperatura da transmissão automática deve estar em um determinado nível. A Ferramenta de Diagnóstico verificará isso e permitirá que o técnico prossiga depois que esse nível for alcançado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обратите внимание, что для вышеуказанных пунктов температура автоматической коробки передач должна быть на определенном уровне. Диагностическое устройство выполнит его проверку. Технический специалист сможет продолжить при достижении данного уровня.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Nota: para los elementos anteriores, la temperatura del cambio automático debe estar a un nivel determinado. La herramienta de diagnóstico lo comprobará y permitirá al técnico continuar una vez que se alcance este nivel.</tu>
+	<tu
+    xmlns:lang="chs"
+  >请注意——对于上述各项，自动变速箱温度必须处于一定水平。 诊断工具将会对其进行检查，并在达到这一水平时，让技师能够继续操作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >참고 - 위 항목의 경우 자동 변속기 온도가 특정 수준에 맞춰져야 합니다. 진단 도구는 이를 점검하고 이 레벨에 도달하고 나면 정비사가 계속 진행하도록 허용합니다.</tu>
+</tm>

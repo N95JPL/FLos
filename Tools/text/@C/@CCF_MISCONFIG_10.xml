@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_MISCONFIG_10">
+	<tu
+    xmlns:lang="eng"
+  >Select the 'tick' box (see above) to view all parameters.  'Byte' relates to parameter number (see above).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Selecteer het vinkje (zie hierboven) om alle parameters te bekijken.  'Byte' heeft betrekking op het parameternummer (zie hierboven).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélectionnez la case 'coche' (voir ci-dessus) pour voir tous les paramètres.  'Octet' se réfère au numéro du paramètre (voir plus haut).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kästchen mit dem 'Häkchen' (siehe oben) anklicken, um alle Parameter einzusehen.  'Byte' bezieht sich auf die Parameternummer (siehe oben).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezionare la casella con il simbolo di spunta (vedere sopra) per visualizzare tutti i parametri.  'Byte' si riferisce al numero di parametro (vedere sopra).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >「ティック」ボックス (上記参照) を選択し全パラメータを表\示させなさい。  「バイト」はパラメータ ナンバーに関係します (上記参照)。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccionar a caixa do 'visto' (ver acima) para ver todos os parâmetros.  'Byte' diz respeito ao número de parâmetro (ver acima).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Selecione a caixa de marca (ver acima) para exibir todos os parâmetros.  Byte está relacionado ao número de parâmetro (ver acima).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите на галочку в поле (см. выше), чтобы просмотреть все параметры.  'Байт' относится к номеру параметра (см. выше).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Active la casilla (véase arriba) para ver todos los parámetros.  'Byte' está relacionado con el número de parámetro (véase arriba).</tu>
+	<tu
+    xmlns:lang="chs"
+  >选择勾号方块（参见上文）以查看所有参数。  ‘字节’指的是参数数值（参见上文）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >모든 매개 변수를 보려면 '확인란'(위 참조)을 선택하십시오.  '바이트'는 매개 변수 번호와 관련됩니다(위 참조).</tu>
+</tm>

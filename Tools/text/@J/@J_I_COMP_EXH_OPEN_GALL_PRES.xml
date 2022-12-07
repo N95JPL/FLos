@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMP_EXH_OPEN_GALL_PRES">
+	<tu
+    xmlns:lang="eng"
+  >Note: The compressor will only start after the exhaust is opened to release the gallery pressure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Opmerking: de compressor start alleen nadat de uitlaat is geopend, om de kanaaldruk weg te nemen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Note : Le compresseur ne démarrera qu'une fois l'échappement ouvert pour relâcher la pression dans le conduit.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hinweis: Der Kompressor läuft nur an, wenn das Abluftventil geöffnet ist, um Druck im Druckluftkanal abzubauen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nota: il compressore viene avviato solo dopo l'apertura dello scarico per rilasciare la pressione del condotto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >注記：エキゾーストが開かれギャラリー プレッシャがリリースされたのちに限って、コンプレッサは作動を開始します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nota: O compressor só entrará em funcionamento depois do escape ser aberto para libertar a pressão da galeria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Observação: o compressor só será iniciado após o escape ser aberto para liberar a pressão da galeria.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Примечание: компрессор запустится только после того, как будет открыт выпускной клапан для сброса давления в канале.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Nota: el compresor solo se pone en marcha después de haberse abierto el escape para descargar la presión del conducto.</tu>
+	<tu xmlns:lang="chs">注：压缩机将只在打开排气管释放流道压力后才起动。</tu>
+	<tu
+    xmlns:lang="kor"
+  >참고: 컴프레서는 배기 장치가 열려서 갤러리 압력이 해제된 이후에만 작동됩니다.</tu>
+</tm>

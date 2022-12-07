@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SPEECH_CNTRL">
+	<tu xmlns:lang="eng">Speech control language</tu>
+	<tu xmlns:lang="nld">Taal van spraakactivering.</tu>
+	<tu xmlns:lang="fra">Langue de la commande vocale.</tu>
+	<tu xmlns:lang="deu">Sprache - Sprachsteuerung</tu>
+	<tu xmlns:lang="ita">Lingua comando viva voce</tu>
+	<tu xmlns:lang="jpn">スピーチ コントロール言語</tu>
+	<tu xmlns:lang="ptg">Idioma de controlo das informações</tu>
+	<tu xmlns:lang="ptb">Idioma do controle de reconhecimento de voz</tu>
+	<tu xmlns:lang="rus">Язык системы голосового управления</tu>
+	<tu xmlns:lang="esp">Idioma del control por voz</tu>
+	<tu xmlns:lang="chs">语音控制语言</tu>
+	<tu xmlns:lang="kor">음성 컨트롤 언어</tu>
+</tm>

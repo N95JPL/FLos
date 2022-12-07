@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_CREATE_MOVEMENT">
+	<tu
+    xmlns:lang="eng"
+  >Create movement in the vehicle to trigger the volumetric sensor and observe the alarm LED.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Maak een beweging in het voertuig om de volumetrische sensor af te laten gaan en houd de LED van het alarmsysteem in de gaten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Créez un mouvement dans le véhicule pour déclencher le capteur volumétrique et observez la diode d'alarme.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bewegung im Fahrzeug erzeugen, um den Innenraumüberwachungs-Sensor auszulösen, und die Alarm-LED beobachten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Creare movimento nel veicolo per far scattare il sensore volumetrico e osservare il LED del sistema di allarme.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車内で動いてボリメトリック センサーをトリガーし、アラーム LED を確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Criar movimento no veículo para fazer disparar o sensor volumétrico e observar o LED de alarme.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Crie o movimento no veículo para disparar o sensor volumétrico e observe o LED de alarme.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подвигайтесь внутри салона, чтобы сработал объемный датчик и понаблюдайте за светодиодом аварийной сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Crear movimiento en el vehículo para disparar el sensor volumétrico y observar el LED de la alarma.</tu>
+	<tu xmlns:lang="chs">在车内制造动静，以触发容积传感器并观察报警器 LED。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에서 움직임을 일으켜 형체 감지 센서를 트리거하고 알람 LED를 관찰하십시오.</tu>
+</tm>

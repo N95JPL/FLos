@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_IGN_OFF_KEY_IN">
+	<tu
+    xmlns:lang="eng"
+  >Switch the ignition off, leaving the key in the ignition switch.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Schakel het contact uit en laat de sleutel in de contactschakelaar zitten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mettez le contact, laissez la clé dans le commutateur d'allumage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zündung ausschalten, Schlüssel im Zündschloss stecken lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disinserire l'accensione, lasciando la chiave nel commutatore di accensione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イグニションをオフにし、キーをイグニション スイッチに残しておきなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Desligar a ignição, deixando a chave no interruptor da ignição.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Desligue a ignição, deixando a chave no interruptor de ignição.</tu>
+	<tu xmlns:lang="rus">Выключите зажигание и оставьте ключ в замке зажигания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cortar el contacto y dejar la llave de contacto puesta.</tu>
+	<tu xmlns:lang="chs">关闭点火，让钥匙留在点火开关中。</tu>
+	<tu xmlns:lang="kor">키를 점화 스위치에 둔 채로 점화 스위치를 끄십시오.</tu>
+</tm>

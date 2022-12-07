@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_Event">
+	<tu xmlns:lang="eng">Event</tu>
+	<tu xmlns:lang="nld">Gebeurtenis</tu>
+	<tu xmlns:lang="fra">Evénement.</tu>
+	<tu xmlns:lang="deu">Ereignis</tu>
+	<tu xmlns:lang="ita">Evento</tu>
+	<tu xmlns:lang="jpn">イベント</tu>
+	<tu xmlns:lang="ptg">Acontecimento</tu>
+	<tu xmlns:lang="ptb">Evento</tu>
+	<tu xmlns:lang="rus">Событие</tu>
+	<tu xmlns:lang="esp">Incidente</tu>
+	<tu xmlns:lang="chs">事件</tu>
+	<tu xmlns:lang="kor">행사</tu>
+</tm>

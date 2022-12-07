@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HazDoorClosed$M">
+	<tu
+    xmlns:lang="eng"
+  >Note: The hazard warning lamps need to be activated and all doors closed before the remote can be used for air suspension.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Opmerking: de alarmknipperlichten moeten aan zijn en alle portieren dicht zijn, voordat u de luchtvering met de sleutelzender kunt bedienen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Note : Les feux de détresse doivent être activés et toutes les portes fermées avant que la télécommande puisse être utilisée pour la suspension pneumatique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hinweis: Die Warnblinkleuchten müssen eingeschaltet und alle Türen geschlossen sein, ehe die Fernbedienung zur Betätigung der Luftfederung verwendet werden kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nota: prima di poter usare il telecomando per la sospensione pneumatica, si devono attivare gli indicatori di emergenza e chiudere tutte le portiere. </tu>
+	<tu
+    xmlns:lang="jpn"
+  >注記：エア サスペンション リモート コントロールを使用する前に、ハザード警告灯を作動させ、すべてのドアを閉じる必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nota: As lâmpadas de emergência devem ser activadas e todas as portas fechadas antes que o comando à distância possa ser utilizado para a suspensão automática.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Observação: as luzes do pisca-alerta devem ser ativadas e todas as portas fechadas para que o controle remoto pode ser usado pela suspensão a ar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Примечание: Прежде чем использовать пульт дистанционного управления для включения пневматической подвески, необходимо включить все лампы аварийной сигнализации и закрыть все двери.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Nota: antes de poder utilizarse el mando a distancia para la suspensión neumática se deben activar las luces de emergencia y cerrar todas las puertas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >注：在遥控可用于空气悬架之前，危险警告灯需要启动而且所有车门都关闭。</tu>
+	<tu
+    xmlns:lang="kor"
+  >참고: 에어 서스펜션에 원격을 사용하기 전에 위험 경고등이 작동하고 모든 도어를 닫아야 합니다.</tu>
+</tm>

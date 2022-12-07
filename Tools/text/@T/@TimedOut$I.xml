@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TimedOut$I">
+	<tu xmlns:lang="eng">Test timed out.</tu>
+	<tu xmlns:lang="nld">De testtijd is verlopen.</tu>
+	<tu xmlns:lang="fra">Délai du contrôle expiré.</tu>
+	<tu xmlns:lang="deu">Test über Zeitgeber abgelaufen.</tu>
+	<tu xmlns:lang="ita">Time out della prova.</tu>
+	<tu xmlns:lang="jpn">テストがタイム アウトです。 </tu>
+	<tu xmlns:lang="ptg">Tempo do teste expirou.</tu>
+	<tu xmlns:lang="ptb">O tempo do teste expirou.</tu>
+	<tu xmlns:lang="rus">Таймаут проверки.</tu>
+	<tu xmlns:lang="esp">Acabó el tiempo de espera de la prueba.</tu>
+	<tu xmlns:lang="chs">测试已超时。</tu>
+	<tu xmlns:lang="kor">테스트 시간 초과</tu>
+</tm>

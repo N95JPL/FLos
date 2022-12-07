@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DeflateReservoir$M">
+	<tu xmlns:lang="eng">Deflate reservoir.</tu>
+	<tu xmlns:lang="nld">Laat de luchttank leeglopen.</tu>
+	<tu xmlns:lang="fra">Dégonflez le réservoir.</tu>
+	<tu xmlns:lang="deu">Druckluftspeicher entlüften.</tu>
+	<tu xmlns:lang="ita">Sgonfiare il serbatoio.</tu>
+	<tu xmlns:lang="jpn">リザーバをエア減圧させなさい。</tu>
+	<tu xmlns:lang="ptg">Retire o ar do depósito.</tu>
+	<tu xmlns:lang="ptb">Esvazie o reservatório.</tu>
+	<tu xmlns:lang="rus">Выпустить воздух из баллона.</tu>
+	<tu xmlns:lang="esp">Desinflar el depósito.</tu>
+	<tu xmlns:lang="chs">将储气罐放气。</tu>
+	<tu xmlns:lang="kor">탱크에서 공기 배출</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_MISCONFIG_8">
+	<tu
+    xmlns:lang="eng"
+  >The following screen will display an example of the car configuration display showing which portions of the screen relate to the parameter number (byte).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Op het volgende scherm wordt een voorbeeld van het voertuigconfiguratiescherm weergegeven, met de eigenschappen van het scherm die betrekking hebben op het parameternummer (byte).</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'écran suivant montre un exemple d'affichage de configuration de véhicule en indiquant quelles parties de l'écran se réfèrent au numéro du paramètre (octet).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf dem folgenden Bildschirm wird ein Beispiel für die Anzeige der Fahrzeugkonfiguration dargestellt und gezeigt, welche Abschnitte des Bildschirms sich auf die Parameternummer (Byte) beziehen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La schermata seguente visualizza un esempio di display di configurazione veicolo indicante quali parti della schermata si riferiscono al numero di parametro (byte).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の画面で、画面のどの部分がパラメータ ナンバー (バイト) に対応するかを示す車両コンフィギュレーション表\示の例が表\示されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O ecrã seguinte apresentará um exemplo da indicação da configuração do veículo, mostrando quais as partes do ecrã relacionadas com o número do parâmetro (byte).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A seguinte tela mostrará um exemplo do visor de configuração do carro que mostra quais partes da tela estão relacionadas ao número (byte) de parâmetro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На следующем экране показан пример отображения конфигурации автомобиля с указанием участков экрана, соответствующих номерам параметров (байт).</tu>
+	<tu
+    xmlns:lang="esp"
+  >La pantalla siguiente muestra un ejemplo de pantalla de configuración del vehículo en el que se pueden ver las partes de la pantalla que están relacionadas con el número de parámetro (byte).</tu>
+	<tu
+    xmlns:lang="chs"
+  >下列屏幕将显示车辆配置显示屏的实例，其中显示与参数数值（字节）相关的界面部分。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 화면이 차량 구성 디스플레이의 예로 표시되어 표시되어 화면의 어느 부분이 매개 변수 번호(바이트)와 관련되는지 보여줍니다.</tu>
+</tm>

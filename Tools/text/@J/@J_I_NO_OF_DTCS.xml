@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_OF_DTCS">
+	<tu xmlns:lang="eng">Number of diagnostic trouble code's is : %d</tu>
+	<tu xmlns:lang="nld">Aantal DTC's is : %d</tu>
+	<tu xmlns:lang="fra">Nombre de codes DTC : %d</tu>
+	<tu xmlns:lang="deu">Zahl der Fehlercodes ist : %d</tu>
+	<tu xmlns:lang="ita">Il numero di DTC è : %d</tu>
+	<tu xmlns:lang="jpn">DTCの数: %d</tu>
+	<tu xmlns:lang="ptg">O número de códigos de avaria é de: %d</tu>
+	<tu xmlns:lang="ptb">O número de códigos de trabalho de diagnóstico é: %d</tu>
+	<tu xmlns:lang="rus">Количество диагностических кодов неисправностей: %d</tu>
+	<tu xmlns:lang="esp">El número de DTCs es : %d</tu>
+	<tu xmlns:lang="chs">故障诊断代码数量是：%d</tu>
+	<tu xmlns:lang="kor">고장 진단 코드의 수: %d</tu>
+</tm>

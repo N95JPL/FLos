@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDS_DETAILSTATIC">
+	<tu xmlns:lang="eng">File details</tu>
+	<tu xmlns:lang="nld">Bestandsgegevens</tu>
+	<tu xmlns:lang="fra">Détails du fichier</tu>
+	<tu xmlns:lang="deu">Datei-Einzelheiten</tu>
+	<tu xmlns:lang="ita">Particolari del file</tu>
+	<tu xmlns:lang="jpn">ファイル詳細</tu>
+	<tu xmlns:lang="ptg">Detalhes do ficheiro</tu>
+	<tu xmlns:lang="ptb">Detalhes do arquivo</tu>
+	<tu xmlns:lang="rus">Данные файла</tu>
+	<tu xmlns:lang="esp">Datos del fichero</tu>
+	<tu xmlns:lang="chs">文件细节</tu>
+	<tu xmlns:lang="kor">파일 세부 정보</tu>
+</tm>

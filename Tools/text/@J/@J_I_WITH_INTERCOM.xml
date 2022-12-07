@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WITH_INTERCOM">
+	<tu xmlns:lang="eng">Fitted with intercom.</tu>
+	<tu xmlns:lang="nld">Uitgerust met intercom.</tu>
+	<tu xmlns:lang="fra">Equipé d'un intercom.</tu>
+	<tu xmlns:lang="deu">Mit Gegensprechanlage ausgestattet.</tu>
+	<tu xmlns:lang="ita">Intercom in dotazione.</tu>
+	<tu xmlns:lang="jpn">インターコム装備</tu>
+	<tu xmlns:lang="ptg">Equipado com Intercom.</tu>
+	<tu xmlns:lang="ptb">Equipado com intercomunicação.</tu>
+	<tu xmlns:lang="rus">Снабжен системой внутренней связи.</tu>
+	<tu xmlns:lang="esp">Instalado con intercomunicador.</tu>
+	<tu xmlns:lang="chs">安装了内部通讯系统。</tu>
+	<tu xmlns:lang="kor">인터컴이 장착됨</tu>
+</tm>

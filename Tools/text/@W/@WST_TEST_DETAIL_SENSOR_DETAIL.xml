@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_TEST_DETAIL_SENSOR_DETAIL">
+	<tu
+    xmlns:lang="eng"
+  >The 3 wheels not under test are braked and the user is instructed to 'rotate/rock' the selected wheel.  The wheel should be rotated if possible, or rocked backwards and forwards if not, until a wheel speed of at least 3.0 kmh is detected.  If a sensor output is detected from any of the other wheels, the test will fail with an assignment error.  If no wheel movement is detected within 15 seconds, the test will time out to protect the ABS pump and  valves.  The test can be also be failed by pressing tick.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met de 3 wielen die niet getest worden, wordt nu geremd en de gebruiker wordt gevraagd het geselecteerde wiel te 'verdraaien/ ermee te schommelen'.  U moet het wiel zo mogelijk proberen te verdraaien of van achteren naar voren te schommelen, totdat het systeem een snelheid van minstens 3,0 km/uur detecteert.  Als er van een van de overige wielen een sensoruitvoer wordt gedetecteerd, zal de test niet gehaald worden, met een opdrachtfout.  Als het systeem binnen 15 seconden geen beweging van het wiel detecteert, zal de test verlopen om de ABS-pomp en -kleppen te beveiligen.  U kunt de test ook laten mislukken door op de afvinktoets te drukken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les 3 roues non soumises au test sont bloquées et l'utilisateur est invité à 'faire tourner/bouger' la roue sélectionnée.  La roue doit être tournée si possible, ou sinon balancée d'avant en arrière jusqu'à ce qu'une vitesse de roue d'au moins 3 km/h soit détectée.  Si une sortie de capteur est détectée en provenance de n'importe laquelle des autres roues, le test échouera avec une erreur d'affectation.  Si aucun mouvement de roue n'est détecté dans les 15 secondes, le test expire pour protéger la pompe et les clapets ABS.  Le test peut également être interrompu en pressant la coche.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die 3 nicht getesteten Räder werden abgebremst und der Bediener wird aufgefordert, das gewählte Rad zu drehen/zu bewegen.  Das Rad sollte, wenn möglich, gedreht werden oder, wenn dies nicht möglich ist, vorwärts und rückwärts bewegt werden, bis eine Radgeschwindigkeit von mindestens 3,0 km/h ermittelt wird.  Wird ein Sensor-Ausgangssignal von einem der anderen Räder ermittelt, dann wird der Test mit einem Zuweisungsfehler nicht erfolgreich abgeschlossen.  Wird innerhalb von 15 Sekunden keine Raddrehung ermittelt, dann wird der Test wegen Zeitüberschreitung beendet, um ABS-Pumpe und Ventile zu schützen.  Das nicht erfolgreiche Abschließen des Tests kann auch durch Antippen des Häkchens hervorgerufen werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le 3 ruote non in prova sono frenate e viene richiesto di ruotare/muovere avanti e indietro la ruota selezionata.  La ruota deve essere ruotata se possibile, o mossa avanti e indietro se non è possibile, finché non si rileva una velocità della ruota di almeno 3,0 km/h.  Se viene rilevato l'output di un sensore di una delle altre ruote, la prova non viene superata con un errore di assegnazione.  Se non viene rilevato alcun movimento della ruota entro 15 secondi, la prova viene interrotta per proteggere la pompa e le valvole ABS.  La prova può non essere superata anche se si preme il tasto di spunta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テストしない 3 つのホイールに制動が行われ、ユーザーは選択されたホイールを回転させる／揺するよう指示されます。  可能\であればホイールを回転させ、可能\でない場合は前後に揺すって、少なくとも 3.0 km/h のホイール スピードを検出させる必要があります。  他のいずれかのホイールからセンサー アウトプットが検出されると、テストは割り当てエラーで失敗となります。  15 秒以内にホイールの動きが検出されない場合、ABS ポンプおよびバルブを保護するためテストはタイムアウトになります。  このテストはティックを押すことによっても失敗になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As 3 rodas que não estão a ser testadas são travadas e o utilizador deverá 'rodar/abanar' a roda seleccionada.  Se possível, a roda deverá ser rodada ou então, não sendo possível, deverá ser abanada para a frente e para trás, até ser detectada uma velocidade da roda de, pelo menos, 3,0 km/h.  Se for detectado um sinal de saída de um sensor proveniente de qualquer uma das outras rodas, o teste não é bem sucedido e é emitido um erro de identificação.  Se não for detectado movimento em nenhuma das rodas no espaço de 15 segundos, o teste é interrompido para proteger a bomba e as válvulas do ABS.  O teste também pode falhar se premir o visto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As 3 rodas que não estão sob teste estão travadas e o usuário será instruído a rodar/balançar a roda selecionada.  A roda deve ser girada se possível, ou balançada para trás e para frente, até que uma velocidade de roda de pelo menos 3,0 km/h seja detectada.  Se uma saída do sensor for detectada em qualquer uma das outras rodas, o teste irá falhar com um erro de atribuição.  Se nenhum movimento das rodas for detectado dentro de 15 segundos, o teste será encerrado para proteger a bomba de ABS e as válvulas.  O teste pode ser também falho pressionando ok.</tu>
+	<tu
+    xmlns:lang="rus"
+  >3 не проверяемых колеса заторможены, и пользователя просят вращать/покачивать выбранное колесо.  Колесо должно при возможности вращаться, если это невозможно - покачиваться назад и вперед, пока не определится скорость колеса как минимум 3,0 км/ч.  Если выходной сигнал датчика определяется от любого другого колеса, проверка не сможет быть выполнена, будет выдана ошибка.  Если движение колеса не определяется в течение 15 секунд, проверка прекращается для защиты насоса системы ABS и клапанов.  Проверку можно также прекратить, нажав галочку.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se frenan las tres ruedas que no se someten a prueba y se indica al usuario girar completamente la rueda seleccionada o girarla un poco en un sentido y otro.  Si es posible, se debe hacer girar completamente la rueda, o de no serlo, girarla un poco en un sentido y otro, hasta que se detecte una velocidad mínima de la rueda de 3,0 km/h.  Si se detecta una señal de salida de cualquiera de las otras ruedas, la prueba fallará con un error de asignación.  Si no se detecta ningún movimiento de la rueda en un plazo de 15 segundos, la prueba se terminará en el tiempo programado a fin de proteger la bomba y las válvulas del ABS.  También se puede suspender la prueba pulsando la marca de verificación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >3 个未处于测试中的车轮被施加制动且用户接到指令'转动/摇晃'选定的车轮。  '可能的话应转动车轮，不能转动的话应前后晃动，直到检测到一个不小于 3.0 kmh 的车轮速度。'  '如果检测到一个来自任何其他车轮的传感器输出，测试将出现分配错误而失败。'  '如果在 15 秒内没有检测到任何车轮运动，测试将超时退出，以保护 ABS 泵和阀。'  测试还可通过按勾号而令其失败。</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트 대상이 아닌 3개의 휠이 제동되고 사용자는 선택한 휠을 '회전하고 흔들어 보라는' 지시를 받습니다.  가능하면 휠을 회전해야 하며, 가능하지 않으면 휠을 앞뒤로 흔들어야 하는데, 휠 속도가 3.0kmh 이상으로 감지될 때까지 그렇게 해야 합니다.  다른 휠에서 센서 출력이 감지되면 할당 오류가 발생하면서 테스트가 실패하게 됩니다.  15초 내에 아무런 휠 동작도 감지되지 않으면 ABS 펌프와 밸브를 보호하기 위해 테스트가 시간 초과됩니다.  체크 표시를 눌러 테스트가 실패하도록 할 수도 있습니다.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ACC_DISPLAY_FULL_PLUS_PRIORITY">
+	<tu
+    xmlns:lang="eng"
+  >Adaptive speed control full display plus priority messages</tu>
+	<tu
+    xmlns:lang="nld"
+  >Volledige weergave adaptieve snelheidsregeling plus prioriteitsberichten</tu>
+	<tu
+    xmlns:lang="fra"
+  >Régulateur de vitesse adaptatif, affichage complet plus messages prioritaires.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Adaptive Geschwindigkeitsregelung - Vollanzeige mit Prioritätsmeldungen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Display completo controllo di velocità adattativo e messaggi di priorità</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アダプティブ スピード コントロール フル ディスプレイ + 優先メッセージ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Controlo da velocidade adaptável, visor completo mais mensagens de prioridade</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Tela cheia do controle de velocidade adaptável com mensagens de prioridade</tu>
+	<tu
+    xmlns:lang="rus"
+  >Полнофункциональный дисплей адаптивной системы круиз-контроля плюс приоритетные сообщения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Visualización completa del control de velocidad adaptativo con mensajes prioritarios</tu>
+	<tu xmlns:lang="chs">自适应速度控制完整显示＋优先消息</tu>
+	<tu
+    xmlns:lang="kor"
+  >어댑티브 스피드 컨트롤 전체 디스플레이  우선 순위 메시지</tu>
+</tm>

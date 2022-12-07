@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CHECK_CHARGING_CIRCUIT">
+	<tu
+    xmlns:lang="eng"
+  >Check charging circuit (generator, starter, battery cable)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer het laadcircuit (dynamo, startmotor, accukabel)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôlez le circuit de charge (alternateur, démarreur, câbles de batterie)</tu>
+	<tu xmlns:lang="deu">Ladekreis prüfen (Generator, Anlasser, Batteriekabel)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare il circuito di carica (generatore, motorino di avviamento, cavo batteria)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >チャージング サーキット (ジェネレータ、スターター、バッテリ ケーブル) をチェックしなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar o circuito de carga (alternador, motor de arranque, cabo da bateria)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique o circuito de carga (alternador, motor de partida, cabo da bateria)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте цепь зарядки (генератор, стартер и кабель аккумуляторной батареи)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar el circuito de carga (alternador, motor de arranque, cable de la batería)</tu>
+	<tu xmlns:lang="chs">检查充电电路（发电机、起动机、蓄电池电缆）</tu>
+	<tu
+    xmlns:lang="kor"
+  >충전 회로(제너레이터, 스타터, 배터리 케이블)를 점검하십시오.</tu>
+</tm>

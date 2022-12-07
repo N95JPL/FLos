@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AftBurnProc$I">
+	<tu xmlns:lang="eng">Afterburning shutdown procedure.</tu>
+	<tu xmlns:lang="nld">Uitschakelprocedure voor naverbranding.</tu>
+	<tu xmlns:lang="fra">Procédure de coupure de la post-combustion.</tu>
+	<tu xmlns:lang="deu">Abschaltvorgang Nachverbrennung.</tu>
+	<tu xmlns:lang="ita">Procedura di spegnimento post-combustione.</tu>
+	<tu xmlns:lang="jpn">アフターバーナー シャットダウン手順</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Continuação irregular da combustão após explosão - procedimento de paragem.</tu>
+	<tu xmlns:lang="ptb">Procedimento de desligamento após combustão.</tu>
+	<tu xmlns:lang="rus">Процедура остановки дожигания топлива.</tu>
+	<tu xmlns:lang="esp">Procedimiento de parada tras combustión residual.</tu>
+	<tu xmlns:lang="chs">后燃关闭程序。</tu>
+	<tu xmlns:lang="kor">애프터버닝 종료 절차</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_HCM_09">
+	<tu
+    xmlns:lang="eng"
+  >Battery voltage condition :  10.5 volts &lt; battery voltage &lt; 16 volts.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voorwaarde van accuspanning:  10,5 V &lt; accuspanning &lt; 16 V.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Etat de charge de la batterie :  10,5 V &lt; Tension batterie &lt; 16 V.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Batteriespannungszustand:  10,5 Volt &lt; Batteriespannung &lt; 16 Volt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Condizione di tensione batteria:  10,5 volt &lt; tensione batteria &lt; 16 volt.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリ電圧コンディション：10.5 V &lt; バッテリ電圧 &lt; 16 V</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Situação da tensão da bateria:  10,5 volts &lt; tensão da bateria &lt; 16 volts.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Condição de tensão da bateria: 10,5 volts &lt; tensão da bateria &lt; 16 volts.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние напряжения аккумуляторной батареи: 10,5 вольт &lt; напряжение аккумуляторной батареи &lt; 16 вольт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Estado de tensión de la batería:  10,5 voltios &lt; tensión de la batería &lt; 16 voltios.</tu>
+	<tu xmlns:lang="chs">蓄电池电压状况：10.5V &lt; 蓄电池电压 &lt; 16V。</tu>
+	<tu xmlns:lang="kor">배터리 전압 조건: 10.5V &lt; 배터리 전압 &lt; 16V.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUEL_LEAK_ACTIONS">
+	<tu
+    xmlns:lang="eng"
+  >The test will run for 5 minutes, if any failures are reported, there may be a fuel leak, key off and resolve the problems.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze test zal 5 minuten duren. Indien er fouten worden gerapporteerd, kan er een brandstoflek aanwezig zijn. Schakel het contact uit en verhelp de problemen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le test va se poursuivre pendant 5 minutes ; si des défaillances sont constatées, c'est qu'il y a peut-être une fuite de carburant. Coupez le contact et éliminez les problèmes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Test läuft 5 Minuten lang. Wird eine Störung gemeldet, kann ein Kraftstoffleck vorliegen. Zündung ausschalten und die Ursachen der Probleme beseitigen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La prova viene svolta per 5 minuti; se vengono riportate delle avarie, potrebbe essere presente una perdita di carburante. Portare la chiave su OFF e risolvere i guasti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストは 5 分間続きます。 何らかの故障が報告される場合、フューエル リークのある可能性があります。 キーをオフにして問題を修復しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O teste é executado durante 5 minutos. Se for indicada alguma avaria, pode existir uma fuga de combustível. Desligar a ignição resolve os problemas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O teste durará 5 minutos; caso alguma falha seja reportada, poderá haver um vazamento de combustível. Desligue a chave e solucione os problemas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка продолжается в течение 5 минут, в случае сообщения о неисправности возможна утечка топлива. Выключите зажигание и устраните неисправности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La prueba se ejecutará durante 5 minutos. Si se notifica algún fallo, es posible que haya una fuga de combustible; quitar el contacto y resolver los problemas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >测试将运行5分钟，如果报告了任何故障，则可能存在燃油泄漏，请关闭测试并解决问题。</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트는 5분 동안 수행됩니다. 고장이 보고될 경우 연료 누출이 있을 수 있습니다. 키 OFF를 하고 문제를 해결하십시오.</tu>
+</tm>

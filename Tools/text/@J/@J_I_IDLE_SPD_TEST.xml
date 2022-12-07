@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IDLE_SPD_TEST">
+	<tu xmlns:lang="eng">Idle speed test.</tu>
+	<tu xmlns:lang="nld">Test van stationair toerental.</tu>
+	<tu xmlns:lang="fra">Essai de régime de ralenti.</tu>
+	<tu xmlns:lang="deu">Leerlaufdrehzahl-Test.</tu>
+	<tu xmlns:lang="ita">Prova regime minimo.</tu>
+	<tu xmlns:lang="jpn">アイドル スピード テスト</tu>
+	<tu xmlns:lang="ptg">Teste do ralenti.</tu>
+	<tu xmlns:lang="ptb">Teste de marcha lenta.</tu>
+	<tu xmlns:lang="rus">Проверка холостого хода.</tu>
+	<tu xmlns:lang="esp">Prueba de la velocidad de ralentí.</tu>
+	<tu xmlns:lang="chs">怠速测试。</tu>
+	<tu xmlns:lang="kor">공회전 속도 테스트</tu>
+</tm>

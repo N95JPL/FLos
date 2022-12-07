@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart16">
+	<tu
+    xmlns:lang="eng"
+  >Following any external battery charging the battery monitoring system control module requires an 8 hour full power down period with the vehicle locked to perform a primary battery calibration.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Na dat de accu met behulp van een externe accu is opgeladen, vereist de regelmodule van het accucontrolesysteem een periode van 8 uur van volledige uitschakeling met de auto vergrendeld, zodat een kalibratie van de primaire accu kan worden uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Après toute charge externe de la batterie, le module de commande du système de surveillance de la batterie nécessite une période de mise hors service complète de 8 heures, véhicule verrouillé, pour effectuer un étalonnage de la batterie principale.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach dem externen Laden der Batterie benötigt das Batterieüberwachungssystem-Steuergerät eine 8-stündige Periode mit vollständig ausgeschalteter Stromversorgung und verriegeltem Fahrzeug, um eine Kalibrierung der Hauptbatterie durchführen zu können.</tu>
+	<tu
+    xmlns:lang="ita"
+  >A seguito di una eventuale ricarica esterna della batteria, per eseguire la taratura della batteria principale il modulo di comando del sistema di monitoraggio batteria richiede che il veicolo sia bloccato e spento completamento per 8 ore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >外部バッテリーの充電後、車両をロックしてバッテリー モニタリング システム コントロール モジュールの電源を 8 時間完全に切って、プライマリ バッテリーのキャリブレーションを実行する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Após qualquer carregamento externo da bateria, o módulo de controlo do sistema de monitorização da bateria precisa de um período de desativação total de 8 horas com o veículo trancado para efetuar uma calibração da bateria primária.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após qualquer carga de bateria externa, o módulo de controle do sistema de monitoramento da bateria exige um período de 8 horas completas sem energia, com o veículo bloqueado, para realizar uma calibração da bateria primária.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После зарядки аккумуляторной батареи от внешнего источника питания блок системы контроля аккумуляторной батареи требует, чтобы на протяжении 8 часов электропитание было полностью выключено и автомобиль заперт. Это необходимо для калибровки основной аккумуляторной батареи.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tras cualquier carga de baterías externas, el módulo del sistema de control de la batería necesita un período de desactivación total de 8 horas con el vehículo bloqueado para calibrar la batería principal.</tu>
+	<tu
+    xmlns:lang="chs"
+  >进行任何外部蓄电池充电后，蓄电池监测系统控制模块需要一个完整的 8 小时断电期并同时锁闭车辆，以执行主蓄电池校准。</tu>
+	<tu
+    xmlns:lang="kor"
+  >외부 배터리 충전에 이어 기본 배터리 보정을 수행하려면 차량을 잠근 상태에서 배터리 모니터링 시스템 컨트롤 모듈에 8시간의 최대 전원 차단 시간이 필요합니다.</tu>
+</tm>

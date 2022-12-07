@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ELEC_HEAT_TIMER">
+	<tu xmlns:lang="eng">Electric vehicle heater with timer  -  Accessory only</tu>
+	<tu
+    xmlns:lang="nld"
+  >Elektrische verwarming van voertuig met timer  -  Alleen accessoire</tu>
+	<tu
+    xmlns:lang="fra"
+  >Chauffage électrique du véhicule avec minuterie  -  Accessoire uniquement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Elektrische Fahrzeugheizung mit Zeitgeber  -  Nur Zubehör</tu>
+	<tu
+    xmlns:lang="ita"
+  >Riscaldatore elettrico veicolo con timer  -  Solo accessori</tu>
+	<tu
+    xmlns:lang="jpn"
+  >タイマー付きエレクトリック車両ヒーター  －  アクセサリのみ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aquecedor eléctrico do veículo com temporizador  -  Apenas acessório</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aquecedor elétrico do veículo com temporizador  -  Apenas acessórios</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электрический обогреватель автомобиля с таймером  -  Только для вспомогательного оборудования</tu>
+	<tu
+    xmlns:lang="esp"
+  >Calefactor eléctrico de vehículo con temporizador  -  Sólo accesorio</tu>
+	<tu xmlns:lang="chs">带计时器的车辆电动加热器  -  仅限附件</tu>
+	<tu xmlns:lang="kor">전기 자동차 히터(타이머 포함)  -  액세서리만 해당</tu>
+</tm>

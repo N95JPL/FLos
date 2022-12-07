@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FORC_REGEN_LIM_2">
+	<tu
+    xmlns:lang="eng"
+  >The application will determine the soot mass and if it is above the upper limit this application will terminate and you will be instructed to replace the particulate filter.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De toepassing bepaalt de roetmassa. Als deze hoger is dan de bovengrens, wordt deze toepassing afgesloten en ontvangt u het bericht dat het roetfilter moet worden vervangen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'application déterminera la masse de suie et, si elle est au-dessus de la limite supérieure, cette application se terminera et vous serez invité à remplacer le filtre à particules.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Anwendungsprogramm ermittelt die Rußmasse; liegt diese über dem oberen Grenzwert, stoppt das Programm und Sie werden aufgefordert, den Dieselrußfilter zu ersetzen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'applicazione stabilisce la massa di fuliggine, e se risulta superiore al limite massimo, quest'applicazione viene interrotta e viene chiesto all'operatore di sostituire il filtro antiparticolato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アプリケーションは煤の質量を判定し、これが許容上限以上であると、このアプリケーションは終了し、オペレータに微粒子フィルターの交換を指示します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A aplicação irá determinar a fuligem e se esta for superior ao limite máximo, esta aplicação irá fechar e será dada a instrução no sentido de substituir o filtro de partículas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O aplicativo vai determinar a massa de fuligem e se ela está acima do limite superior. O aplicativo será interrompido e você será instruído a substituir o filtro de partículas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение определяет массу сажи и если она превышает верхний предел, приложение прекращает работу и появляется указание заменить противосажевый фильтр.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La aplicación determinará la masa de carbonilla y, si está por encima del límite superior, esta aplicación finalizará y se le indicará que debe sustituir el filtro de partículas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >该应用程序将确定烟尘质量，如果该质量高于上限，本应用程序将会中止，同时指示您更换微粒过滤器。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 그을음 질량을 확인하는데, 질량이 상한을 초과하는 경우 애플리케이션이 종료되며 미립자 필터를 교체하라는 지시를 받게 됩니다.</tu>
+</tm>

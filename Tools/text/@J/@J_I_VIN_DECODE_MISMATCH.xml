@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VIN_DECODE_MISMATCH">
+	<tu
+    xmlns:lang="eng"
+  >A mismatch has been found with the current vehicle selection.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dit komt niet overeen met het huidige gekozen voertuig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une incompatibilité a été détectée avec la sélection de véhicule actuelle.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wurde keine Übereinstimmung mit der aktuellen Fahrzeugauswahl gefunden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È stata individuata una discordanza nella selezione corrente del veicolo.</tu>
+	<tu xmlns:lang="jpn">現在の車両の選択にミスマッチが検出されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Foi identificada uma incompatibilidade com a presente selecção de veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma divergência foi encontrada na atual seleção do veículo.</tu>
+	<tu xmlns:lang="rus">Обнаружено несоответствие с выбранным автомобилем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha encontrado una discordancia con la selección de vehículo actual.</tu>
+	<tu xmlns:lang="chs">当前车辆选择发现一个不匹配问题。</tu>
+	<tu xmlns:lang="kor">현재 차량 선택에서 불일치 사항을 찾았습니다.</tu>
+</tm>

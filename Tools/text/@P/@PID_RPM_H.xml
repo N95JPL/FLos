@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PID_RPM_H">
+	<tu xmlns:lang="eng">Engine RPM</tu>
+	<tu xmlns:lang="nld">Motortoerental</tu>
+	<tu xmlns:lang="fra">tr/min moteur</tu>
+	<tu xmlns:lang="deu">Motordrehzahl</tu>
+	<tu xmlns:lang="ita">Giri motore al minuto</tu>
+	<tu xmlns:lang="jpn">Engine RPM</tu>
+	<tu xmlns:lang="ptg">RPM do motor</tu>
+	<tu xmlns:lang="ptb">RPM do Motor</tu>
+	<tu xmlns:lang="rus">Обороты двигателя</tu>
+	<tu xmlns:lang="esp">rpm del motor</tu>
+	<tu xmlns:lang="chs">发动机转速 (RPM)</tu>
+	<tu xmlns:lang="kor">엔진 rpm</tu>
+</tm>

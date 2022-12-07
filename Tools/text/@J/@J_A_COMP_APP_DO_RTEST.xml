@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_COMP_APP_DO_RTEST">
+	<tu
+    xmlns:lang="eng"
+  >On completion of this application, carry out a standard road test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Maak na het beëindigen van deze toepassing een standaard proefrit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >A la fin de cette application, effectuez un essai sur route standard.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Beendigung dieses Anwendungsprogramms eine normale Probefahrt durchführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al termine di questa applicazione, eseguire una normale prova su strada.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションが完了したのち標準的なロードテストを実施しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Após a conclusão desta aplicação, realizar um teste em estrada normal.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após a conclusão deste aplicativo, execute um teste de rodagem padrão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Провести стандартные дорожные испытания по окончании данной программы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Al terminar esta aplicación, realizar una prueba de conducción normal.</tu>
+	<tu xmlns:lang="chs">完成此应用后，执行标准路试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션이 완료되면 표준 도로 주행 테스트를 수행하십시오.</tu>
+</tm>

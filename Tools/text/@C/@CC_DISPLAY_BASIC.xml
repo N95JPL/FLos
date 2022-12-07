@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CC_DISPLAY_BASIC">
+	<tu xmlns:lang="eng">Standard speed control basic display</tu>
+	<tu xmlns:lang="nld">Standaardweergave standaard snelheidsregeling</tu>
+	<tu xmlns:lang="fra">Affichage de base de régulateur de vitesse standard.</tu>
+	<tu xmlns:lang="deu">Standard-Geschwindigkeitsregelung - Grundanzeige</tu>
+	<tu xmlns:lang="ita">Display di base controllo di velocità standard</tu>
+	<tu xmlns:lang="jpn">標準スピード コントロール基本ディスプレイ</tu>
+	<tu xmlns:lang="ptg">Controlo da velocidade normal, visor básico</tu>
+	<tu xmlns:lang="ptb">Tela básica do controle de velocidade padrão</tu>
+	<tu xmlns:lang="rus">Основной дисплей стандартной системы круиз-контроля</tu>
+	<tu xmlns:lang="esp">Visualización básica del control de velocidad estándar</tu>
+	<tu xmlns:lang="chs">标准速度控制基本显示</tu>
+	<tu xmlns:lang="kor">표준 스피드 컨트롤 기본 디스플레이</tu>
+</tm>

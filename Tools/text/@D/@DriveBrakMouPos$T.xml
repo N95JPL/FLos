@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DriveBrakMouPos$T">
+	<tu xmlns:lang="eng">Drive the parking brake to the mounting position.</tu>
+	<tu xmlns:lang="nld">Zet de handrem in de montagestand.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Amenez le frein de stationnement à la position de montage.</tu>
+	<tu xmlns:lang="deu">Handbremse in die Montagestellung bringen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Porre il freno di stazionamento nella posizione di montaggio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パーキング ブレーキをマウンティング ポジションまで駆動しなさい。</tu>
+	<tu xmlns:lang="ptg">Coloque o travão de mão na posição de desengate.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Coloque o freio de estacionamento na posição de montagem.</tu>
+	<tu xmlns:lang="rus">Перевести стояночный тормоз в установочное положение.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Obligar el freno de estacionamiento a adoptar la posición de montaje.</tu>
+	<tu xmlns:lang="chs">将驻车制动器驱动至安装位置。</tu>
+	<tu xmlns:lang="kor">주차 브레이크를 장착 위치로 설정</tu>
+</tm>

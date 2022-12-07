@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WARN_PERF_OP_VEH_CHG_HEIG">
+	<tu
+    xmlns:lang="eng"
+  >Warning! This program allows the user to perform operations that can result in the vehicle changing height.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Waarschuwing! Met dit programma kan de gebruiker handelingen uitvoeren waardoor de rijhoogte van het voertuig kan veranderen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attention ! Ce programme permet à l'utilisateur de faire des opérations qui peuvent provoquer une modification de la hauteur du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vorsicht! Dieses Programm ermöglicht es dem Benutzer, Schritte durchzuführen, die dazu führen können, dass das Fahrzeug die Fahrhöhe ändert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attenzione! Questo programma consente all'utente di eseguire operazioni che possono modificare l'altezza della vettura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >警告！ このプログラムは、ユーザーに車両の高さを変更する作業を行わせます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aviso! Este programa permite ao utilizador efectuar operações que podem resultar em alterações da altura da suspensão do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aviso Este programa permite que o usuário execute operações que podem resultar na mudança de altura do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Внимание! Эта программа позволяет пользователю выполнять операции, результатом которых может стать изменение высоты автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Advertencia: este programa permite al usuario realizar operaciones que pueden cambiar la altura del vehículo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >警告!此程序可允许使用者执行可能导致车辆改变高度的操作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >경고! 이 프로그램을 사용하여 작업을 수행할 경우 차량 높이가 변경될 수 있습니다.</tu>
+</tm>

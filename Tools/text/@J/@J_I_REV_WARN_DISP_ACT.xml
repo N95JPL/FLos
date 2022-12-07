@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REV_WARN_DISP_ACT">
+	<tu xmlns:lang="eng">Reverse warning display - active.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Weergave van waarschuwing voor achteruitrijstand - actief.</tu>
+	<tu xmlns:lang="fra">Affichage d'avertissement de marche arrière - activé.</tu>
+	<tu xmlns:lang="deu">Display Rückfahrwarnung - aktiv.</tu>
+	<tu xmlns:lang="ita">Visualizzazione avvertenza retromarcia - attiva.</tu>
+	<tu xmlns:lang="jpn">リバース警告ディスプレイ - アクティブ</tu>
+	<tu xmlns:lang="ptg">Visor de aviso para marcha atrás - activo.</tu>
+	<tu xmlns:lang="ptb">Visor do alerta de ré - ativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отображение предупреждения о включении передачи заднего хода - активно.</tu>
+	<tu xmlns:lang="esp">Visualización del aviso de marcha atrás: activa.</tu>
+	<tu xmlns:lang="chs">倒档警告显示 - 已激活。</tu>
+	<tu xmlns:lang="kor">후진 경고 디스플레이 - 작동</tu>
+</tm>

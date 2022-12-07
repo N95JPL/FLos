@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AML_A_SEL_NTRL_PBRAKE_ON">
+	<tu
+    xmlns:lang="eng"
+  >Make sure neutral is selected and the parking brake is on.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer eerst of de schakelhendel in de neutraalstand staat en de handrem is aangetrokken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifier que point-mort est sélectionné et que le frein à main est engagé</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass neutral gewählt wird und Feststellbremse angestellt ist</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che sia selezionato il folle e applicato il freno a mano</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ニュートラルが選択され、パークブレーキがONであることを確認して下さい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que está seleccionado o ponto morto e de que o travão de mão está aplicado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o ponto morto esteja selecionado e o freio de estacionamento ligado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что выбрана нейтральная передача и включен стояночный тормоз.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que esté seleccionado punto muerto y puesto el freno de mano.</tu>
+	<tu xmlns:lang="chs">确保选择空档，且驻车制动器已拉上。</tu>
+	<tu
+    xmlns:lang="kor"
+  >중립 위치가 선택되어 있고 주차 브레이크가 작동 상태인지 확인하십시오.</tu>
+</tm>

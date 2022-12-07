@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_ADD_AUX_AUDIO_INPUT">
+	<tu xmlns:lang="eng">Adding auxiliary audio input</tu>
+	<tu xmlns:lang="nld">Ingang voor aanvullende geluidsapparatuur toevoegen</tu>
+	<tu xmlns:lang="fra">Ajout d'une entrée audio auxiliaire</tu>
+	<tu xmlns:lang="deu">Audio-Zusatzeingang hinzufügen</tu>
+	<tu xmlns:lang="ita">Aggiunta di dispositivo di ingresso audio ausiliario</tu>
+	<tu xmlns:lang="jpn">補助オーディオ インプットの追加</tu>
+	<tu xmlns:lang="ptg">Acréscimo de entrada auxiliar de áudio</tu>
+	<tu xmlns:lang="ptb">Adicionar entrada de áudio auxiliar</tu>
+	<tu xmlns:lang="rus">Добавление дополнительного входа для аудиоустройства</tu>
+	<tu xmlns:lang="esp">Añadir entrada de audio auxiliar</tu>
+	<tu xmlns:lang="chs">增加辅助音频输入</tu>
+	<tu xmlns:lang="kor">보조 오디오 입력 추가</tu>
+</tm>

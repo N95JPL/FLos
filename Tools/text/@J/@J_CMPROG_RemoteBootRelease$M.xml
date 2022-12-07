@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CMPROG_RemoteBootRelease$M">
+	<tu xmlns:lang="eng">Remote luggage compartment lid release.</tu>
+	<tu xmlns:lang="nld">Opening van kofferdeksel op afstand</tu>
+	<tu xmlns:lang="fra">Liberation a distance du coffre</tu>
+	<tu xmlns:lang="deu">Entfernte lösung der kofferraumsperre</tu>
+	<tu xmlns:lang="ita">Apertura del bagagliaio a distanza</tu>
+	<tu xmlns:lang="jpn">　ﾘﾓ－ﾄ・ﾄﾗﾝｸ・ﾘﾘ－ｽ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Abertura da porta da bagageira com o comando à distância.</tu>
+	<tu xmlns:lang="ptb">Liberação remota da tampa do porta-malas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отпирание крышки багажного отделения с дистанционного пульта.</tu>
+	<tu xmlns:lang="esp">Abertura del maletero a distancia</tu>
+	<tu xmlns:lang="chs">遥控行李箱盖释放。</tu>
+	<tu xmlns:lang="kor">원격 러기지 컴파트먼트 리드 해제.</tu>
+</tm>

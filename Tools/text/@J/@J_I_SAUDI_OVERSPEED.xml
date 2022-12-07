@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SAUDI_OVERSPEED">
+	<tu xmlns:lang="eng">Saudi Arabia overspeed</tu>
+	<tu xmlns:lang="nld">Te hoge snelheid, Saoedi-Arabië</tu>
+	<tu
+    xmlns:lang="fra"
+  >Avertissement de vitesse excessive pour l'Arabie saoudite</tu>
+	<tu xmlns:lang="deu">Geschwindigkeitswarnung Saudi-Arabien</tu>
+	<tu xmlns:lang="ita">Eccessiva velocità per Arabia Saudita</tu>
+	<tu xmlns:lang="jpn">サウジアラビア向けオーバースピード</tu>
+	<tu xmlns:lang="ptg">Aviso de velocidade excessiva - Arábia Saudita</tu>
+	<tu xmlns:lang="ptb">Excesso de velocidade - Arábia Saudita</tu>
+	<tu
+    xmlns:lang="rus"
+  >Функция контроля превышения скорости (для рынка Саудовской Аравии)</tu>
+	<tu xmlns:lang="esp">Exceso de velocidad habilitado para Arabia Saudí</tu>
+	<tu xmlns:lang="chs">沙特阿拉伯超速</tu>
+	<tu xmlns:lang="kor">사우디아라비아 과속</tu>
+</tm>

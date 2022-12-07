@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart19">
+	<tu
+    xmlns:lang="eng"
+  >This condition will always be accompanied by the power supply auto stop/start system engine run request status as an additional inhibit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toestand gaat altijd gepaard met de status van het verzoek van het voedingssysteem aan het automatische Stop/Start-systeem om de motor te laten draaien, dit is een extra blokkering.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette condition est toujours accompagnée de l'état de la demande de fonctionnement du moteur du système Arrêt/Démarrage auto de l'alimentation électrique comme neutralisation supplémentaire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Zustand wird stets von dem Status der Motorlaufanforderung an das Auto-Stopp-Start-Systems durch die Spannungsversorgung als zusätzliche Sperre begleitet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa condizione sarà accompagnata, come ulteriore disabilitazione, da una richiesta di alimentazione per l'avviamento del motore del sistema Stop/Start automatico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この状態では常に、電源のオート ストップ/スタート システムのエンジン作動要求ステータスが追加禁止状態になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta condição é sempre acompanhada pelo estado do pedido de funcionamento do motor do sistema Stop/Start automático da fonte de alimentação como uma inibição adicional.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa condição estará sempre acompanhada do status de solicitação de operação do motor do sistema stop/start automático da fonte de alimentação como uma inibição adicional.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное состояние всегда сопровождается дополнительной блокировкой — состояние запроса на запуск двигателя автоматической интеллектуальной системой запуска/остановки двигателя стоп/старт от системы питания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta condición siempre irá acompañada del estado de solicitud de funcionamiento del motor del sistema Stop/Start automático de la fuente de alimentación como un bloqueo adicional.</tu>
+	<tu
+    xmlns:lang="chs"
+  >作为一种附加禁用，这种情况将始终伴随着电源自动停止/启动系统发动机运行请求状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 조건에서는 추가적인 억제로서 항상 전원 공급 자동 Stop/Start 시스템 엔진 작동 요청 상태가 수반됩니다.</tu>
+</tm>

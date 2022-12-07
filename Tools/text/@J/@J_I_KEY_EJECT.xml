@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_EJECT">
+	<tu
+    xmlns:lang="eng"
+  >If the key is currently disabled or not programmed it will be ejected from the starter control unit slot during the programming routine, however the key will be successfully programmed on completion of the full process.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de sleutel momenteel is gedeactiveerd of niet geprogrammeerd is, zal hij tijdens de programmeerroutine uit de sleuf van de regeleenheid voor sleutelloos starten (docking station)worden uitgeworpen. Als de procedure echter helemaal wordt uitgevoerd, zal de sleutel met succes geprogrammeerd zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la clé est actuellement désactivée ou non programmée, elle sera éjectée de la fente de l'unité de commande du démarreur pendant la procédure de programmation, cependant la clé sera programmée normalement à la fin du processus complet.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls der Schlüssel aktuell deaktiviert oder nicht programmiert ist, wird er während des Programmiervorgangs aus dem Schlitz der Startsteuereinheit ausgeworfen, wird jedoch nach Abschluss des gesamten Prozesses mit Erfolg programmiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la chiave è correntemente disabilitata o non programmata, verrà espulsa dalla fessura dell'unità di comando del motorino di avviamento durante la procedura di programmazione, tuttavia, la chiave verrà programmata correttamente al termine dell'intero processo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >キーが現在作動不可設定されている、あるいはプログラムされていない場合、プログラミングのルーチン中にスターター コントロール ユニットのスロットからイジェクトされます。しかし全プロセス完了時には、そのキーは正常にプログラムされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a chave estiver actualmente desactivada ou não programada, será ejectada da ranhura da unidade de controlo do motor de arranque durante a rotina de programação; contudo, a chave será programada com êxito aquando da conclusão de todo o processo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a chave estiver desativada ou não programada no momento, ela será ejetada do slot da unidade de controle de partida durante a rotina de programação; no entanto, a chave será programada com sucesso na conclusão de todo o processo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если ключ в настоящее время заблокирован или не запрограммирован, он будет выброшен из гнезда блока управления стартером во время выполнения процедуры программирования. Тем не менее, ключ будет успешно запрограммирован по завершении всей процедуры.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la llave está desactivada o no está programada actualmente, será expulsada de la ranura del módulo de control de arranque durante la rutina de programación. Sin embargo, se programará correctamente cuando finalice el proceso completo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >若车钥被禁用或未编程，例行编程时车钥将从起动机控制单元的插槽中弹出。但完成所有步骤后车钥仍可被成功编程。</tu>
+	<tu
+    xmlns:lang="kor"
+  >키가 현재 비활성화되거나 프로그래밍되지 않은 경우 프로그래밍 루틴 중에 스타터 컨트롤 유닛 슬롯에서 키가 배출되지만, 전체 프로세스 완료 시 키가 올바로 프로그래밍됩니다.</tu>
+</tm>

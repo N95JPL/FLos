@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALL_RHD">
+	<tu xmlns:lang="eng">All right hand drive</tu>
+	<tu xmlns:lang="nld">Alle met stuur rechts</tu>
+	<tu xmlns:lang="fra">Toutes les conduites ... droite</tu>
+	<tu xmlns:lang="deu">Alle Rechtslenker</tu>
+	<tu xmlns:lang="ita">Tutti i modelli con guida a destra</tu>
+	<tu xmlns:lang="jpn">すべて右ハンドル</tu>
+	<tu xmlns:lang="ptg">Todos com volante à direita</tu>
+	<tu xmlns:lang="ptb">Toda condução à direita</tu>
+	<tu xmlns:lang="rus">Полностью правостороннее управление</tu>
+	<tu xmlns:lang="esp">Todos los coches con volante a la derecha</tu>
+	<tu xmlns:lang="chs">所有右驾车辆</tu>
+	<tu xmlns:lang="kor">모든 우측 핸들</tu>
+</tm>

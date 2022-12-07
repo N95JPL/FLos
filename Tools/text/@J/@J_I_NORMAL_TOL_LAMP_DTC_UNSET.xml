@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NORMAL_TOL_LAMP_DTC_UNSET">
+	<tu
+    xmlns:lang="eng"
+  >When the system is returned to normal tolerances, the lamp will extinguish and the diagnostic trouble code will no longer be current.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer het systeem tot binnen normale toleranties is teruggekeerd, gaat het lampje uit en is de diagnosefoutcode niet meer van toepassing.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lorsque le système sera ramené aux tolérances normales, le témoin s'éteindra et le code d'anomalie ne sera plus actuel.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist das System zur Betriebsart normale Toleranzen zurückgekehr, erlischt die Leuchte und der Fehlercode ist nicht mehr aktuell.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quando il sistema viene riportato alle tolleranze normali, la spia si spegne e il codice di guasto diagnostico non sarà più corrente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >システムが通常の許容誤差に戻ったとき、ランプは消灯し診断トラブル コードはなくなります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando o sistema é reposto nas tolerâncias normais, a luz apaga e o código de avaria deixa de ser apresentado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Quando o sistema retornar para as tolerâncias normais, a lâmpada será apagada, e o código de problema de diagnóstico não será mais atual</tu>
+	<tu
+    xmlns:lang="rus"
+  >При возврате системы к обычным допускам лампа гаснет, а данный диагностический код неисправности больше не является текущим.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cuando el sistema vuelva a las tolerancias normales, la luz se apagará y el código de avería dejará de estar activo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >当系统回到正常允差时，该指示灯将熄灭，且不再显示该故障诊断码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >시스템이 정상 공차로 돌아올 때, 램프가 꺼지고 고장 진단 코드가 더 이상 존재하지 않게 됩니다.</tu>
+</tm>

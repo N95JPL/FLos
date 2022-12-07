@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_QV_LHD">
+	<tu xmlns:lang="eng">Left hand drive</tu>
+	<tu xmlns:lang="nld">Links stuur</tu>
+	<tu xmlns:lang="fra">Gauche</tu>
+	<tu xmlns:lang="deu">Linkslenker</tu>
+	<tu xmlns:lang="ita">Sinistro</tu>
+	<tu xmlns:lang="jpn">LHD</tu>
+	<tu xmlns:lang="ptg">Volante à esquerda</tu>
+	<tu xmlns:lang="ptb">Condução à esquerda</tu>
+	<tu xmlns:lang="rus">Левостороннее управление</tu>
+	<tu xmlns:lang="esp">LHD</tu>
+	<tu xmlns:lang="chs">左驾</tu>
+	<tu xmlns:lang="kor">좌측 핸들 차량</tu>
+</tm>

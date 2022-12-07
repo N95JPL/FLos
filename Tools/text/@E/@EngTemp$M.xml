@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngTemp$M">
+	<tu xmlns:lang="eng">Engine coolant temperature: %d</tu>
+	<tu xmlns:lang="nld">ECT: %D</tu>
+	<tu xmlns:lang="fra">ECT : %D</tu>
+	<tu xmlns:lang="deu">ECT : %D</tu>
+	<tu xmlns:lang="ita">ECT : %D</tu>
+	<tu xmlns:lang="jpn">ECT：%D</tu>
+	<tu xmlns:lang="ptg">Temperatura do líquido de arrefecimento do motor: %d</tu>
+	<tu xmlns:lang="ptb">Temperatura do fluido de arrefecimento do motor: %d</tu>
+	<tu xmlns:lang="rus">Температура охлаждающей жидкости: %d</tu>
+	<tu xmlns:lang="esp">ECT : %D</tu>
+	<tu xmlns:lang="chs">发动机冷却液温度：%d</tu>
+	<tu xmlns:lang="kor">엔진 냉각수 온도: %d</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart15">
+	<tu
+    xmlns:lang="eng"
+  >The inhibit value of this parameter indicates that a full 8 hour service charge should be applied to the primary battery.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De blokkeerwaarde van deze parameter geeft aan dat de primaire accu een volledige onderhoudslading van 8 uur moet krijgen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La valeur de neutralisation de ce paramètre indique que la batterie principale doit faire l'objet d'une charge d'entretien complète de 8 heures.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Sperrwert für diesen Parameter zeigt an, dass eine vollständige 8-Stunden-Serviceladung für die Hauptbatterie angewendet werden sollte.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il valore di disabilitazione di questo parametro indica che per la batteria principale è necessaria una carica completa in assistenza di 8 ore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パラメータの禁止値は、プライマリ バッテリーに 8 時間のサービス充電を完全に行う必要があることを示しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O valor de inibição deste parâmetro indica que deve ser aplicada uma carga completa de 8 horas à bateria primária.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O valor de inibição desse parâmetro indica que uma carga de serviço completa de 8 horas deve ser aplicada na bateria primária.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние блокировки данного параметра указывает на то, что основную аккумуляторную батарею необходимо полностью зарядить в течение 8 часов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El valor de bloqueo de este parámetro indica que debería aplicarse una carga de servicio completa de 8 horas a la batería principal.</tu>
+	<tu
+    xmlns:lang="chs"
+  >此参数的禁止值表明主蓄电池应执行一次完整的 8 小时保养充电。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 매개 변수의 억제 값은 기본 배터리에 전체 8시간의 서비스 충전이 적용되어야 함을 나타냅니다.</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SERVICE_INTERVAL">
+	<tu xmlns:lang="eng">Service interval reset.</tu>
+	<tu xmlns:lang="nld">Terugstellen van onderhoudsinterval.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Remise à zéro de l'intervalle jusqu'à la prochaine révision.</tu>
+	<tu xmlns:lang="deu">Rücksetzung Wartungsintervall.</tu>
+	<tu xmlns:lang="ita">Intervallo di servizio azzerato.</tu>
+	<tu xmlns:lang="jpn">サービス インターバル リセット</tu>
+	<tu xmlns:lang="ptg">Reiniciação do intervalo de revisão.</tu>
+	<tu xmlns:lang="ptb">Reiniciar intervalo de serviço.</tu>
+	<tu xmlns:lang="rus">Сброс счетчика периодичности обслуживания.</tu>
+	<tu xmlns:lang="esp">Reinicio del intervalo entre revisiones.</tu>
+	<tu xmlns:lang="chs">维护时间间隔复位。</tu>
+	<tu xmlns:lang="kor">서비스 주기 재설정</tu>
+</tm>

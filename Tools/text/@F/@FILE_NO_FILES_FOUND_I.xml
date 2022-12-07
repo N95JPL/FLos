@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FILE_NO_FILES_FOUND_I">
+	<tu xmlns:lang="eng">No files found</tu>
+	<tu xmlns:lang="nld">Geen bestanden gevonden</tu>
+	<tu xmlns:lang="fra">Pas de fichier trouvé</tu>
+	<tu xmlns:lang="deu">Keine Dateien gefunden</tu>
+	<tu xmlns:lang="ita">Non è stato trovato nessun file</tu>
+	<tu xmlns:lang="jpn">ファイルが見つかりません。</tu>
+	<tu xmlns:lang="ptg">Não foram encontrados ficheiros</tu>
+	<tu xmlns:lang="ptb">Nenhum arquivo encontrado</tu>
+	<tu xmlns:lang="rus">Файлы не найдены</tu>
+	<tu xmlns:lang="esp">No se encontró ningún fichero</tu>
+	<tu xmlns:lang="chs">没有找到文件</tu>
+	<tu xmlns:lang="kor">파일을 찾을 수 없음</tu>
+</tm>

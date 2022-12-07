@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EMISS_STAND">
+	<tu xmlns:lang="eng">Emission standard</tu>
+	<tu xmlns:lang="nld">Emissienorm</tu>
+	<tu xmlns:lang="fra">Norme antipollution</tu>
+	<tu xmlns:lang="deu">Abgasnorm</tu>
+	<tu xmlns:lang="ita">Standard emissioni</tu>
+	<tu xmlns:lang="jpn">排出ガス基準</tu>
+	<tu xmlns:lang="ptg">Norma de emissões</tu>
+	<tu xmlns:lang="ptb">Padrão de emissão</tu>
+	<tu xmlns:lang="rus">Стандарт по выбросам вредных веществ</tu>
+	<tu xmlns:lang="esp">Estándar de emisiones</tu>
+	<tu xmlns:lang="chs">排放标准</tu>
+	<tu xmlns:lang="kor">배기 가스 배출 표준</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ModCalModeResFail$M">
+	<tu xmlns:lang="eng">Failed to reset module calibration mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het resetten van de kalibreringsfunctie voor de module is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de remise à zéro du mode étalonnage du module.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Steuergerät-Kalibrierungsmodus konnte nicht rückgestellt werden.</tu>
+	<tu xmlns:lang="ita">Mancato azzeramento modalità taratura modulo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュール キャリブレーション モードのリセットに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Falha em reiniciar o modo de calibragem do módulo.</tu>
+	<tu xmlns:lang="ptb">Falha ao redefinir o modo de calibragem do módulo.</tu>
+	<tu xmlns:lang="rus">Ошибка при сбросе режима калибровки блока.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudo restaurar el modo de calibración del módulo.</tu>
+	<tu xmlns:lang="chs">重置模块标定模式失败。</tu>
+	<tu xmlns:lang="kor">모듈 보정 모드 재설정에 실패했습니다.</tu>
+</tm>

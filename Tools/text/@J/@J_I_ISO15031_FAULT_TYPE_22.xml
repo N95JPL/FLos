@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_22">
+	<tu xmlns:lang="eng">General signal failure - signal amplitude&gt;maximum.</tu>
+	<tu xmlns:lang="nld">Algemene signaalfout - signaalamplitude &gt; maximum.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Panne de signalisation générale - amplitude du signal&gt;maximum.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Allgemeine Signalstörung - Amplitude des Signals &gt; Maximum.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto generale di segnale - ampiezza segnale maggiore del massimo.</tu>
+	<tu xmlns:lang="jpn">一般シグナル不良 － シグナル振幅、最大値以上</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha geral do sinal - amplitude do sinal &gt; máximo.               </tu>
+	<tu xmlns:lang="ptb">Falha geral do sinal - amplitude de sinal&gt;máxima.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Общая ошибка сигнала - амплитуда сигнала &gt; максимально допустимой.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo general de señal: amplitud de señales &gt; máxima.</tu>
+	<tu xmlns:lang="chs">一般信号故障 - 信号幅值大于最大值。</tu>
+	<tu xmlns:lang="kor">일반적인 신호 오류 - 신호 진폭 &gt; 최대</tu>
+</tm>

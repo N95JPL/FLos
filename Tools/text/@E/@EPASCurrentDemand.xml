@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EPASCurrentDemand">
+	<tu
+    xmlns:lang="eng"
+  >The electric power steering will only inhibit the stop/start system if the electric power steering motor is demanding greater than 20 amps.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De elektrische stuurbekrachtiging blokkeert het Stop/Start-systeem alleen als de motor van de elektrische stuurbekrachtiging meer vraagt dan 20 ampère.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La direction assistée électrique neutralisera uniquement le système Arrêt/Démarrage si le moteur de direction assistée électrique nécessite plus de 20 ampères.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die elektrische Servolenkung sperrt das Stopp/Start-System, wenn der Motor der elektrischen Servolenkung mehr als 20 A benötigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il servosterzo elettrico disattiva il sistema Stop/Start solo quando il motorino elettrico del servosterzo assorbe più di 20 ampere.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >電動パワー ステアリング モータが 20 アンペアを上回る電流を要求している場合に限り、電動パワー ステアリングはスタート/ストップ システムを禁止します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A direção assistida elétrica apenas irá inibir o sistema Stop/Start se o motor da direção assistida elétrica requerer mais de 20 amperes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A direção assistida elétrica só irá inibir o sistema Stop/Start se o motor da direção assistida elétrica demandar mais do que 20 A.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электрический усилитель рулевого управления заблокирует систему стоп/старт только в случае, если для работы электродвигателя усилителя требуется сила тока более 20 А.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La dirección asistida eléctrica solo bloqueará el sistema Stop/Start si el motor de la dirección asistida eléctrica necesita más de 20 amperios.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果电子动力转向电机正在请求 20 安培以上的电流，则电子动力转向将只禁止停止/启动系统。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전자식 파워 스티어링 모터가 20A보다 높은 전류를 요구하고 있는 경우 전자식 파워 스티어링은 Stop/Start 시스템을 억제만 하게 됩니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_SEL_PN_TYPE">
+	<tu
+    xmlns:lang="eng"
+  >Select park for vehicles with automatic transmission and for vehicles with manual transmission select neutral.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij voertuigen met een automatische transmissie zet u de hendel in de parkeerstand en bij een handgeschakelde versnellingsbak in de neutraalstand.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélectionnez stationnement pour les véhicules à boîte automatique et point mort pour les véhicules à boîte manuelle.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Parkstellung bei Fahrzeugen mit Automatikgetriebe und Leerlaufstellung bei Fahrzeugen mit Schaltgetriebe wählen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezionare parcheggio per le vetture con cambio automatico e folle per le vetture con cambio manuale.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オートマチック トランスミッション車両ではパークを、マニュアル トランスミッション車両ではニュートラルを選択しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccione 'Park' nos veículos com transmissão automática e seleccione ponto morto nos veículos com transmissão manual.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Selecione park para veículos com transmissão automática e para os veículos com transmissão manual, selecione a posição neutra.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выберите положение селектора 'стоянка' в автомобилях с автоматической коробкой передач, а в автомобилях с механической коробкой передач - 'нейтраль'.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccionar P (vehículos con cambio automático) o punto muerto (vehículos con cambio manual).</tu>
+	<tu
+    xmlns:lang="chs"
+  >为配备自动变速器的车辆选择驻车档，为配备手动变速器的车辆选择空档。</tu>
+	<tu
+    xmlns:lang="kor"
+  >자동 변속기 차량의 경우 주차를 선택하고 수동 변속기 차량의 경우 중립을 선택하십시오.</tu>
+</tm>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FuelLevelFifteenPer$M">
+	<tu xmlns:lang="eng">The fuel level must be greater than 15% to continue.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om verder te kunnen gaan, moet het brandstofpeil hoger dan 15% zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le niveau de carburant doit être supérieur à 15 % pour continuer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zum Fortfahren muss der Kraftstoff-Füllstand mehr als 15 % betragen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per continuare, il livello del carburante deve essere superiore al 15%.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >続行するためには、フューエル レベルが 15% 以上でなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O nível de combustível deve ser superior a 15% para continuar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O nível de combustível deve ser maior do que 15% para continuar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для продолжения проверки уровень топлива должен быть не менее 15%.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El nivel de combustible debe ser superior al 15 % para poder continuar.</tu>
+	<tu xmlns:lang="chs">燃油液位必须大于15%才能继续。</tu>
+	<tu xmlns:lang="kor">계속하려면 연료 레벨이 15% 이상이어야 합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOB_OFF">
+	<tu xmlns:lang="eng">Mobile office</tu>
+	<tu xmlns:lang="nld">Mobiel kantoor</tu>
+	<tu xmlns:lang="fra">Bureau mobile</tu>
+	<tu xmlns:lang="deu">Mobiles Büro</tu>
+	<tu xmlns:lang="ita">Ufficio mobile</tu>
+	<tu xmlns:lang="jpn">モバイル オフィス</tu>
+	<tu xmlns:lang="ptg">Escritório móvel</tu>
+	<tu xmlns:lang="ptb">Escritório móvel</tu>
+	<tu xmlns:lang="rus">Мобильный офис</tu>
+	<tu xmlns:lang="esp">Oficina móvil</tu>
+	<tu xmlns:lang="chs">移动办公室</tu>
+	<tu xmlns:lang="kor">모바일 오피스</tu>
+</tm>

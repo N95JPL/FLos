@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FINAL_DRIVE_RATIO">
+	<tu xmlns:lang="eng">Final drive ratio</tu>
+	<tu xmlns:lang="nld">Overbrengingsverhouding eindaandrijving</tu>
+	<tu xmlns:lang="fra">Rapport du couple final.</tu>
+	<tu xmlns:lang="deu">Achsantriebsübersetzung</tu>
+	<tu xmlns:lang="ita">Rapporto trasmissione finale</tu>
+	<tu xmlns:lang="jpn">ファイナル ドライブ レシオ</tu>
+	<tu xmlns:lang="ptg">Relação de transmissão final</tu>
+	<tu xmlns:lang="ptb">Taxa do comando final</tu>
+	<tu xmlns:lang="rus">Передаточное число конечной передачи</tu>
+	<tu xmlns:lang="esp">Relación del diferencial</tu>
+	<tu xmlns:lang="chs">最终传动比</tu>
+	<tu xmlns:lang="kor">최종 기어비</tu>
+</tm>

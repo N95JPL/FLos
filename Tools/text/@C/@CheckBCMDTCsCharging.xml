@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckBCMDTCsCharging">
+	<tu
+    xmlns:lang="eng"
+  >Check for body control module DTCs associated to the smart charging system or voltage quality module/stabilisation system and rectify accordingly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer op DTC's voor de carrosserieregelmodule die verband houden met het slimme laadsysteem of spanningskwaliteitmodule/stabilisatiesysteem en voer de benodigde reparaties uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Rechercher les DTC du module de commande de carrosserie associés au système de charge intelligent ou au module de qualité de tension/système de stabilisation et corriger en conséquence.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf Karosseriesteuergerät-DTCs prüfen, die im Zusammenhang mit dem Spannungsqualitätsmodul/Stabilisierungssystem stehen, und nach Bedarf instand setzen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare l'eventuale presenza di DTC del modulo di comando carrozzeria associati al sistema di carica intelligente o al modulo per la qualità della tensione/sistema di stabilizzazione e rettificarli.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スマート チャージング システムまたは電圧クオリティ モジュール/スタビライザ システムに関連するボディ コントロール モジュールの DTC がないか確認し、必要に応じて修理します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique se existem códigos de avaria (DTC) do módulo de controlo da carroçaria associados ao sistema de carga inteligente ou ao módulo de qualidade de tensão/sistema de estabilização e retifique conforme necessário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se há DTCs do módulo de controle da carroceria associados ao sistema de carregamento inteligente ou ao sistema de módulo de qualidade da tensão/estabilização e corrija adequadamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте наличие кодов DTC блока управления системами кузова, относящихся к интеллектуальной системе зарядки или блоку контроля качества напряжения/системе стабилизации, и устраните неисправность.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Compruebe si hay DTC del módulo de control de la carrocería asociados con el sistema de carga inteligente o el módulo de calidad de la tensión/sistema de estabilización, y rectifíquelos según corresponda.</tu>
+	<tu
+    xmlns:lang="chs"
+  >检查是否存在智能充电系统或电压质量模块/稳定系统相关的车身控制模块 DTC，并相应地予以校正。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스마트 충전 시스템 또는 전압 품질 모듈/안정화 시스템과 관련된 차체 컨트롤 모듈 DTC가 있는지 확인하고 적절히 수리하십시오.</tu>
+</tm>

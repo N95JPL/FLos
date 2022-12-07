@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FRONT_LIGHTING">
+	<tu xmlns:lang="eng">Front lighting</tu>
+	<tu xmlns:lang="nld">Verlichting voorzijde</tu>
+	<tu xmlns:lang="fra">Eclairage avant.</tu>
+	<tu xmlns:lang="deu">Außenbeleuchtung vorne</tu>
+	<tu xmlns:lang="ita">Luci anteriori</tu>
+	<tu xmlns:lang="jpn">フロント ライティング</tu>
+	<tu xmlns:lang="ptg">Luzes dianteiras</tu>
+	<tu xmlns:lang="ptb">Iluminação dianteira</tu>
+	<tu xmlns:lang="rus">Переднее освещение</tu>
+	<tu xmlns:lang="esp">Alumbrado delantero</tu>
+	<tu xmlns:lang="chs">前部照明</tu>
+	<tu xmlns:lang="kor">프론트 조명</tu>
+</tm>

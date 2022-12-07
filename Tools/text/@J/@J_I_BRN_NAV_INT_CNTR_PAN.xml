@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BRN_NAV_INT_CNTR_PAN">
+	<tu xmlns:lang="eng">Branded navigation integrated control panel</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geïntegreerd bedieningspaneel van navigatiesysteem met merknaam</tu>
+	<tu xmlns:lang="fra">Panneau de commande intégré de navigation de marque</tu>
+	<tu xmlns:lang="deu">Integriertes Navigationsbedienfeld mit Markenkennung</tu>
+	<tu xmlns:lang="ita">Quadro comandi integrato navigazione di marca</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ブランドのナビゲーション インテグレート コントロール パネル</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Painel de controlo integrado do sistema de navegação de marca</tu>
+	<tu xmlns:lang="ptb">Painel de controle integrado de navegação da marca</tu>
+	<tu
+    xmlns:lang="rus"
+  >Фирменная интегрированная панель управления навигационной системой</tu>
+	<tu
+    xmlns:lang="esp"
+  >Panel de mandos integrado del sistema de navegación de marca</tu>
+	<tu xmlns:lang="chs">带商标的导航集成控制面板</tu>
+	<tu xmlns:lang="kor">타사 내비게이션 통합 제어판</tu>
+</tm>

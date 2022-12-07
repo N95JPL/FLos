@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LED_COM_LAMPS">
+	<tu xmlns:lang="eng">LED rear combination lamp</tu>
+	<tu xmlns:lang="nld">LED-combinatielicht achter</tu>
+	<tu xmlns:lang="fra">Diode de feu combiné arrière</tu>
+	<tu xmlns:lang="deu">LED-Kombileuchte hinten</tu>
+	<tu xmlns:lang="ita">Gruppo luci posteriori a LED</tu>
+	<tu xmlns:lang="jpn">LED リア コンビネーション ランプ</tu>
+	<tu xmlns:lang="ptg">LED - grupo óptico traseiro</tu>
+	<tu xmlns:lang="ptb">Lâmpada de combinação traseira de LED</tu>
+	<tu xmlns:lang="rus">Задний светодиодный фонарь комбинированного типа</tu>
+	<tu xmlns:lang="esp">Luz combinada trasera de LED</tu>
+	<tu xmlns:lang="chs">LED 后组合灯</tu>
+	<tu xmlns:lang="kor">LED 후방 콤비네이션 램프</tu>
+</tm>

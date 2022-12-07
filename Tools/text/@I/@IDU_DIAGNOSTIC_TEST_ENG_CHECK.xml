@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDU_DIAGNOSTIC_TEST_ENG_CHECK">
+	<tu xmlns:lang="eng">IDU2 and NVH Oil Condition Monitoring application</tu>
+	<tu xmlns:lang="nld">IDU2 en NVH, bewakingstoepassing voor olietoestand</tu>
+	<tu xmlns:lang="fra">IDU2 et NVH, surveillance de l'état de l'huile</tu>
+	<tu xmlns:lang="deu">IDU2 und NVH-Ölzustand-Überwachungsanwendung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Applicazione di monitoraggio delle condizioni dell'olio IDU2 e NVH</tu>
+	<tu
+    xmlns:lang="jpn"
+  >IDU2 および NVH オイル コンディション モニタリング アプリケーション</tu>
+	<tu
+    xmlns:lang="ptg"
+  >IDU2 e NVH - Aplicação de monitorização do estado do óleo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aplicativo de Monitoramento da Condição do Óleo IDU2 e NVH</tu>
+	<tu xmlns:lang="rus">IDU2 и NVH – приложение для контроля состояния масла</tu>
+	<tu
+    xmlns:lang="esp"
+  >IDU2 y NVH, aplicación de supervisión del estado del aceite</tu>
+	<tu xmlns:lang="chs">IDU2 和 NVH 机油状况监测应用程序</tu>
+	<tu xmlns:lang="kor">IDU2 및 NVH 오일 상태 모니터링 응용 프로그램</tu>
+</tm>

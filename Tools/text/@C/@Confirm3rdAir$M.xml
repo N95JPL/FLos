@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Confirm3rdAir$M">
+	<tu
+    xmlns:lang="eng"
+  >Operate the 3rd button to ensure that it operates the air suspension correctly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk de derde toets in om te controleren of hij de luchtvering goed bedient.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Actionnez le 3ème bouton pour vous assurer qu'il commande correctement la suspension pneumatique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dritte Taste betätigen um sicherzustellen, dass hierdurch die Luftfederung korrekt betätigt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il terzo pulsante per assicurarsi che azioni correttamente la sospensione pneumatica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >第 3 ボタンを操作し、このボタンがエア サスペンションを正しく作動させることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Accione o terceiro botão para se certificar de que a suspensão pneumática é correctamente accionada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Opere o terceiro botão para garantir que ele opere a suspensão a ar corretamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажать 3-ю кнопку, чтобы убедиться, что при нажатии пневматическая подвеска срабатывает правильно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Accionar el tercer botón para verificar que active correctamente la suspensión neumática.</tu>
+	<tu xmlns:lang="chs">操作第3个按钮，以确保其正确操作空气悬架。</tu>
+	<tu
+    xmlns:lang="kor"
+  >세 번째 버튼을 작동하여 에어 서스펜션이 올바르게 작동하는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CONNECT_USB">
+	<tu xmlns:lang="eng">Connect the USB Flash drive</tu>
+	<tu xmlns:lang="nld">Sluit de USB-stick aan</tu>
+	<tu xmlns:lang="fra">Branchez la clé USB</tu>
+	<tu xmlns:lang="deu">Den USB-Stick anschließen</tu>
+	<tu xmlns:lang="ita">Collegare l'unità flash USB</tu>
+	<tu xmlns:lang="jpn">USB フラッシュ ドライブを接続します</tu>
+	<tu xmlns:lang="ptg">Ligue a unidade flash USB</tu>
+	<tu xmlns:lang="ptb">Conecte o Pen drive USB</tu>
+	<tu xmlns:lang="rus">Подсоедините накопитель USB</tu>
+	<tu xmlns:lang="esp">Conecte la unidad de memoria USB</tu>
+	<tu xmlns:lang="chs">连接 USB 闪存驱动器</tu>
+	<tu xmlns:lang="kor">USB 플래시 드라이브를 연결하십시오.</tu>
+</tm>

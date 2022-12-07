@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Comprehensive">
+	<tu xmlns:lang="eng">Comprehensive component.</tu>
+	<tu xmlns:lang="nld">Allesomvattend onderdeel</tu>
+	<tu xmlns:lang="fra">Composant compréhensif</tu>
+	<tu xmlns:lang="deu">Vollbauteil</tu>
+	<tu xmlns:lang="ita">Componente completo</tu>
+	<tu xmlns:lang="jpn">包括的コンポーネント</tu>
+	<tu xmlns:lang="ptg">Componente abrangente.</tu>
+	<tu xmlns:lang="ptb">Componente abrangente.</tu>
+	<tu xmlns:lang="rus">Комплексный компонент.</tu>
+	<tu xmlns:lang="esp">Componente completo</tu>
+	<tu xmlns:lang="chs">综合性元件。</tu>
+	<tu xmlns:lang="kor">포괄적 구성 요소</tu>
+</tm>

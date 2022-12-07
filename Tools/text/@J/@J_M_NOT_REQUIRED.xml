@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_NOT_REQUIRED">
+	<tu xmlns:lang="eng">Not required</tu>
+	<tu xmlns:lang="nld">Niet nodig</tu>
+	<tu xmlns:lang="fra">Pas necessaire</tu>
+	<tu xmlns:lang="deu">Nicht benötigt</tu>
+	<tu xmlns:lang="ita">Non richiesto</tu>
+	<tu xmlns:lang="jpn">不要</tu>
+	<tu xmlns:lang="ptg">Não é necessário</tu>
+	<tu xmlns:lang="ptb">Não necessário</tu>
+	<tu xmlns:lang="rus">Не требуется</tu>
+	<tu xmlns:lang="esp">No se necesita</tu>
+	<tu xmlns:lang="chs">不需要</tu>
+	<tu xmlns:lang="kor">필요하지 않음</tu>
+</tm>

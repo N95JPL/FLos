@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_MOD_BUILD_MODE">
+	<tu xmlns:lang="eng">This procedure will set the module into build mode</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal de module in de fabricagefunctie zetten</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de mettre le module en mode construction</tu>
+	<tu
+    xmlns:lang="deu"
+  >Durch diese Maßnahme wird das Steuergerät in den Konfigurationsmodus geschaltet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura imposta il modulo nella modalità di produzione</tu>
+	<tu xmlns:lang="jpn">この手順はモジュールを生産モードにセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento vai colocar o módulo no modo de fabrico</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento colocará o módulo no modo de construção</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная процедура служит для переключения блока в режим установки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento establece el módulo en modo de fabricación</tu>
+	<tu xmlns:lang="chs">本程序将令模块进入构建模式</tu>
+	<tu xmlns:lang="kor">이 절차에서는 모듈을 빌드 모드로 설정합니다.</tu>
+</tm>

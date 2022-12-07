@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WBASE_EXT_LEN_OPT">
+	<tu xmlns:lang="eng">Wheelbase series and extended length option</tu>
+	<tu xmlns:lang="nld">Wielbasisserie en verlengoptie</tu>
+	<tu xmlns:lang="fra">Série d'empattement et option longueur prolongée</tu>
+	<tu xmlns:lang="deu">Radstand serienmäßig und wahlweise Verlängerung</tu>
+	<tu xmlns:lang="ita">Serie passo e opzione lunghezza estesa</tu>
+	<tu xmlns:lang="jpn">ホイールベース シリーズと延長オプション</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Distância entre os eixos de série e opção de comprimento alargado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Série de distância entre eixos e opção de comprimento estendido</tu>
+	<tu xmlns:lang="rus">Серии колесных баз и вариант с удлиненной базой</tu>
+	<tu xmlns:lang="esp">Serie de batalla y opción de extensión de longitud</tu>
+	<tu xmlns:lang="chs">轴距系列和加长选项</tu>
+	<tu xmlns:lang="kor">휠베이스 시리즈 및 확장 길이 옵션</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_RESET_PART_FILT">
+	<tu
+    xmlns:lang="eng"
+  >This applicaton will reset the stored particulate filter values.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing zal de opgeslagen waarden van het deeltjesfilter terugstellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application va remettre à zéro les valeurs du filtre à particules diesel enregistrées.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Programm setzt die gespeicherten Werte für den Dieselrußfilter zurück.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione ripristina i valori memorizzati del filtro antiparticolato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは保存された微粒子フィルター数値をリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação irá reiniciar os valores do filtro de partículas gravados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo reiniciará os valores armazenados do filtro de partículas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение производит сброс сохраненных значений для противосажевого фильтра.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación restaura los valores memorizados del filtro de partículas Diesel.</tu>
+	<tu xmlns:lang="chs">此应用程序将让柴油颗粒过滤器保存的值复位。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 저장된 미립자 필터 값을 재설정합니다.</tu>
+</tm>

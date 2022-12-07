@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@XENON_LIGHTS">
+	<tu xmlns:lang="eng">Xenon lamps</tu>
+	<tu xmlns:lang="nld">Xenonlampen.</tu>
+	<tu xmlns:lang="fra">Phares au xénon.</tu>
+	<tu xmlns:lang="deu">Xenonlampen</tu>
+	<tu xmlns:lang="ita">Luci allo xeno</tu>
+	<tu xmlns:lang="jpn">キセノン ライト</tu>
+	<tu xmlns:lang="ptg">Luzes de xénon</tu>
+	<tu xmlns:lang="ptb">Lâmpadas de xênon</tu>
+	<tu xmlns:lang="rus">Ксеноновые фары</tu>
+	<tu xmlns:lang="esp">Faros de xenón</tu>
+	<tu xmlns:lang="chs">氙气灯</tu>
+	<tu xmlns:lang="kor">제논 램프</tu>
+</tm>

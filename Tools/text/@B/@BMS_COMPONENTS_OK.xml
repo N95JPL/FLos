@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_COMPONENTS_OK">
+	<tu
+    xmlns:lang="eng"
+  >All components of the battery monitoring systems are operating correctly</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alle onderdelen van het accucontrolesysteem werken correct</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tous les composants du système de surveillance de la batterie fonctionnent correctement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle Bauteile des Batterieüberwachungssystems arbeiten korrekt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tutti i componenti dei sistemi di monitoraggio della batteria funzionano correttamente</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリ モニタリング システムの全コンポーネントが正常に作動しています</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todos os componentes dos sistemas de monitorização da bateria estão a funcionar correctamente</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todos os componentes dos sistemas de monitoramento da bateria estão funcionando corretamente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Все компоненты системы контроля аккумуляторной батареи работают правильно</tu>
+	<tu
+    xmlns:lang="esp"
+  >Todos los componentes del sistema de control de la batería funcionan correctamente</tu>
+	<tu xmlns:lang="chs">蓄电池监测系统中的所有元件均正常运行</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리 모니터링 시스템의 모든 구성 요소가 올바로 작동 중입니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_FOR_COLL_WAR">
+	<tu xmlns:lang="eng">Without forward collision warning</tu>
+	<tu xmlns:lang="nld">Zonder aanrijdingswaarschuwing voorkant</tu>
+	<tu xmlns:lang="fra">Sans avertissement de collision avant</tu>
+	<tu xmlns:lang="deu">Ohne Auffahrunfallwarnung</tu>
+	<tu xmlns:lang="ita">Senza avvertenza collisioni frontali</tu>
+	<tu xmlns:lang="jpn">前方衝突ワーニングなし</tu>
+	<tu xmlns:lang="ptg">Sem aviso de colisão frontal</tu>
+	<tu xmlns:lang="ptb">Sem aviso de colisão à frente</tu>
+	<tu xmlns:lang="rus">Без предупреждения о возможном лобовом столкновении</tu>
+	<tu xmlns:lang="esp">Sin aviso de colisión frontal</tu>
+	<tu xmlns:lang="chs">无前碰撞报警</tu>
+	<tu xmlns:lang="kor">전방 충돌 경고 없음</tu>
+</tm>

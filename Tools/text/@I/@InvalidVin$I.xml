@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@InvalidVin$I">
+	<tu xmlns:lang="eng">Invalid vehicle identification number.</tu>
+	<tu xmlns:lang="nld">Ongeldig voertuigidentificatienummer.</tu>
+	<tu xmlns:lang="fra">Numéro d'identification du véhicule non valide.</tu>
+	<tu xmlns:lang="deu">Ungültige Fahrzeug-Identifizierungsnummer.</tu>
+	<tu xmlns:lang="ita">Numero identificazione veicolo non valido.</tu>
+	<tu xmlns:lang="jpn">無効な車両 ID ナンバー</tu>
+	<tu xmlns:lang="ptg">Número de identificação do veículo inválido.</tu>
+	<tu xmlns:lang="ptb">Número de identificação do veículo inválido.</tu>
+	<tu xmlns:lang="rus">Неверный идентификационный номер автомобиля.</tu>
+	<tu xmlns:lang="esp">Número de identificación del vehículo no válido.</tu>
+	<tu xmlns:lang="chs">无效车辆标识号。</tu>
+	<tu xmlns:lang="kor">잘못된 차량 식별 번호(VIN)</tu>
+</tm>

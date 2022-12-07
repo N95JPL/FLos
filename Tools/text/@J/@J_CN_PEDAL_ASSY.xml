@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CN_PEDAL_ASSY">
+	<tu xmlns:lang="eng">Pedal assembly</tu>
+	<tu xmlns:lang="nld">Pedaal montage</tu>
+	<tu xmlns:lang="fra">Ensemble de pédale</tu>
+	<tu xmlns:lang="deu">Pedalbaugruppe</tu>
+	<tu xmlns:lang="ita">Gruppo pedali</tu>
+	<tu xmlns:lang="jpn">ペダル アセンブリ</tu>
+	<tu xmlns:lang="ptg">Pedal</tu>
+	<tu xmlns:lang="ptb">Conjunto do pedal</tu>
+	<tu xmlns:lang="rus">Узел педали</tu>
+	<tu xmlns:lang="esp">Conjunto del pedal</tu>
+	<tu xmlns:lang="chs">踏板总成</tu>
+	<tu xmlns:lang="kor">페달 어셈블리</tu>
+</tm>

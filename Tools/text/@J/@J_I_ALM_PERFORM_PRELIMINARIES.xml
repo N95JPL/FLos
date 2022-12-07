@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_PERFORM_PRELIMINARIES">
+	<tu
+    xmlns:lang="eng"
+  >Performing smart key programming preliminary checks and actions.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controles en acties voorafgaand aan het programmeren van smart-keys uitvoeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifications et actions avant la programmation d'une clé intelligente.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Durchführung von vorbereitenden Überprüfungen und Maßnahmen vor der Smart Key-Programmierung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Esecuzione delle operazioni e dei controlli preliminari per la programmazione della chiave Smart.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スマート キーのプログラミングの事前点検および処置を実行中。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Executar acções e verificações preliminares de programação de chaves inteligentes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Executando verificações e ações preliminares de programação de chave inteligente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнение предварительных проверок и действий перед программированием электронных ключей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Realizando acciones y comprobaciones preliminares sobre la programación de llaves inteligentes.</tu>
+	<tu xmlns:lang="chs">执行智能钥匙编程设置初步检查和操作。</tu>
+	<tu xmlns:lang="kor">스마트 키 프로그래밍 예비 점검 및 조치를 수행하십시오.</tu>
+</tm>

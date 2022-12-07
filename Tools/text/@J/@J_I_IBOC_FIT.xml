@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IBOC_FIT">
+	<tu xmlns:lang="eng">In-band on channel (IBOC) receiver fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Ontvanger met 'in-band on channel' (IBOC) is geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Récepteur IBOC installé.</tu>
+	<tu xmlns:lang="deu">In-Band-On-Channel-Empfänger (IBOC) eingebaut.</tu>
+	<tu xmlns:lang="ita">Ricevitore IBOC (In-band On Channel) in dotazione.</tu>
+	<tu xmlns:lang="jpn">インバンド-オン-チャンネル (IBOC) レシーバ装備</tu>
+	<tu xmlns:lang="ptg">Receptor IBOC (In-band on channel) montado.</tu>
+	<tu xmlns:lang="ptb">Receptor de banda no canal (IBOC) instalado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлен приемник цифрового вещания по технологии IBOC (в полосе совмещенного канала).</tu>
+	<tu xmlns:lang="esp">Tiene receptor IBOC (en banda/en canal).</tu>
+	<tu xmlns:lang="chs">带内同频（IBOC）接收器已安装。</tu>
+	<tu xmlns:lang="kor">인밴드 온채널(IBOC) 수신기가 장착됨</tu>
+</tm>

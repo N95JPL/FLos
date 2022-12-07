@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_D_USA">
+	<tu xmlns:lang="eng">D-USA</tu>
+	<tu xmlns:lang="nld">D-VS</tu>
+	<tu xmlns:lang="fra">D-USA</tu>
+	<tu xmlns:lang="deu">D - USA</tu>
+	<tu xmlns:lang="ita">D-USA</tu>
+	<tu xmlns:lang="jpn">D-米国</tu>
+	<tu xmlns:lang="ptg">D - EUA</tu>
+	<tu xmlns:lang="ptb">D - EUA</tu>
+	<tu xmlns:lang="rus">D - США</tu>
+	<tu xmlns:lang="esp">D-EE. UU.</tu>
+	<tu xmlns:lang="chs">D - 美国</tu>
+	<tu xmlns:lang="kor">D-미국</tu>
+</tm>

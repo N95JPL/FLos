@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckParkingAssistDTCs">
+	<tu xmlns:lang="eng">Check for parking assist associated DTCs.</tu>
+	<tu xmlns:lang="nld">Controleer op DTC's met betrekking tot de parkeerhulp.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Rechercher les DTC associés au système d'aide au stationnement.</tu>
+	<tu xmlns:lang="deu">Auf Einparkassistent-DTCs prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare la presenza di eventuali DTC associati al sistema Park Assist.</tu>
+	<tu xmlns:lang="jpn">パーキング アシストに関連する DTC がないか確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique se existem códigos de avaria (DTC) associados à assistência ao estacionamento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se há DTCs associados à assistência para estacionar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте наличие кодов DTC, относящихся к системе Park Assist.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Compruebe si hay DTC asociados con la asistencia al estacionamiento</tu>
+	<tu xmlns:lang="chs">检查是否存在与驻车辅助系统相关的 DTC。</tu>
+	<tu xmlns:lang="kor">파크 어시스트 관련 DTC가 있는지 확인하십시오.</tu>
+</tm>

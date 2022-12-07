@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart40">
+	<tu
+    xmlns:lang="eng"
+  >This condition may be due to the use of the paddle switch being used during the current drive cycle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toestand kan worden veroorzaakt doordat de schakelhendel wordt gebruikt tijdens de huidige rijcyclus.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette condition peut être due à l'utilisation du commutateur à palette pendant le cycle de conduite en cours.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Zustand ist möglicherweise auf die Verwendung der Schaltwippe während des aktuellen Fahrzyklus zurückzuführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa condizione può essere causata dall'uso dell'interruttore di selezione marcia durante il ciclo di guida corrente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この状態は、現在のドライブ サイクル中にパドル スイッチが使用された結果発生することもあります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta condição pode ser provocada pela utilização do interruptor de patilha durante o ciclo de condução atual.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa condição pode ocorrer devido ao uso do interruptor chato durante ciclo de condução atual.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное состояние может быть обусловлено использованием подрулевых лепестков переключения передач в текущем ездовом цикле.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta condición puede deberse al uso del interruptor tipo leva durante el ciclo de conducción actual.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这种情况的原因可能是在当前行驶周期过程中使用了拨杆开关。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 상태는 현재 주행 사이클 중에 사용되는 패들 스위치의 사용 때문일 수 있습니다.</tu>
+</tm>

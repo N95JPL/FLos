@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DLC_SED_3B55">
+	<tu xmlns:lang="eng">Movement inhibit status.</tu>
+	<tu xmlns:lang="nld">Status van bewegingsblokkering.</tu>
+	<tu xmlns:lang="fra">Etat de neutralisation du mouvement.</tu>
+	<tu xmlns:lang="deu">Status Bewegungssperre.</tu>
+	<tu xmlns:lang="ita">Stato di inibizione movimento.</tu>
+	<tu xmlns:lang="jpn">移動インヒビット ステータス</tu>
+	<tu xmlns:lang="ptg">Estado da inibição de movimentos.</tu>
+	<tu xmlns:lang="ptb">Estado de inibição de movimento.</tu>
+	<tu xmlns:lang="rus">Состояние запрета перемещения.</tu>
+	<tu xmlns:lang="esp">Estado de inhibición de movimiento.</tu>
+	<tu xmlns:lang="chs">运动抑制状态。</tu>
+	<tu xmlns:lang="kor">동작 금지 상태</tu>
+</tm>

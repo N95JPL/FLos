@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FRONT_SEATS_POWERED">
+	<tu xmlns:lang="eng">Powered front seats</tu>
+	<tu xmlns:lang="nld">Elektrisch verstelbare voorstoelen</tu>
+	<tu xmlns:lang="fra">Sièges avant alimentés.</tu>
+	<tu xmlns:lang="deu">Vordersitze mit elektrischer Verstellung</tu>
+	<tu xmlns:lang="ita">Sedili anteriori elettrici</tu>
+	<tu xmlns:lang="jpn">電動フロント シート</tu>
+	<tu xmlns:lang="ptg">Bancos dianteiros eléctricos</tu>
+	<tu xmlns:lang="ptb">Assentos dianteiros elétricos</tu>
+	<tu xmlns:lang="rus">Передние сиденья с электроприводом</tu>
+	<tu xmlns:lang="esp">Asientos delanteros eléctricos</tu>
+	<tu xmlns:lang="chs">动力驱动前座椅</tu>
+	<tu xmlns:lang="kor">전동식 앞좌석</tu>
+</tm>

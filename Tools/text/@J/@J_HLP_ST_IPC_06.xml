@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_IPC_06">
+	<tu xmlns:lang="eng">Passive anti-theft system key read not in progress.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De sleutel van het passieve anti-diefstalsysteem wordt momenteel niet gelezen.</tu>
+	<tu xmlns:lang="fra">Lecture de clé de système antivol passif pas en cours</tu>
+	<tu
+    xmlns:lang="deu"
+  >Passives Diebstahlschutzsystem - Schlüssellesung läuft nicht.</tu>
+	<tu xmlns:lang="ita">Lettura chiave sistema antifurto passivo non in corso.</tu>
+	<tu xmlns:lang="jpn">受動盗難防止システム キーの読み取りが進行しません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Leitura da chave do sistema passivo anti-roubo não está a decorrer.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema de leitura de chave antifurto passivo não está em andamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не выполняется определение ключа пассивной противоугонной системы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No está en curso la lectura de la llave del sistema antirrobo pasivo.</tu>
+	<tu xmlns:lang="chs">无源防盗系统钥匙读取没有运行。</tu>
+	<tu xmlns:lang="kor">패시브 도난 방지 시스템 키 읽기가 진행 중이지 않음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ESTABLISH_COMMS">
+	<tu xmlns:lang="eng">Establishing communications :</tu>
+	<tu xmlns:lang="nld">Opzetten van de communicatie :</tu>
+	<tu xmlns:lang="fra">Etablissement des communications :</tu>
+	<tu xmlns:lang="deu">Kommunikation wird aufgenommen :</tu>
+	<tu xmlns:lang="ita">Instaurazione in corso di comunicazione:</tu>
+	<tu xmlns:lang="jpn">通信の確立中：</tu>
+	<tu xmlns:lang="ptg">Estabelecimento de comunicações:</tu>
+	<tu xmlns:lang="ptb">Estabelecendo comunicações:</tu>
+	<tu xmlns:lang="rus">Установление связи:</tu>
+	<tu xmlns:lang="esp">Estableciendo comunicaciones:</tu>
+	<tu xmlns:lang="chs">建立通讯：</tu>
+	<tu xmlns:lang="kor">통신 설정:</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KeyUnknown$I">
+	<tu xmlns:lang="eng">Key invalid - unknown identification.</tu>
+	<tu xmlns:lang="nld">Sleutel ongeldig - onbekende identificatie.</tu>
+	<tu xmlns:lang="fra">Clé non valide - identification inconnue.</tu>
+	<tu xmlns:lang="deu">Schlüssel ungültig - unbekannte Identifikation.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Chiave non valida - codice identificazione sconosciuto.</tu>
+	<tu xmlns:lang="jpn">無効キー - ID 不明</tu>
+	<tu xmlns:lang="ptg">Chave inválida - identificação desconhecida.</tu>
+	<tu xmlns:lang="ptb">Chave inválida - identificação desconhecida.</tu>
+	<tu xmlns:lang="rus">Недопустимый ключ - неизвестный идентификатор.</tu>
+	<tu xmlns:lang="esp">Llave no válida: identificación desconocida.</tu>
+	<tu xmlns:lang="chs">钥匙无效 - 未知标识。</tu>
+	<tu xmlns:lang="kor">키가 유효하지 않음 - 알 수 없는 식별 정보</tu>
+</tm>

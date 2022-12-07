@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ARMOUR_VEH">
+	<tu xmlns:lang="eng">Armoured vehicle</tu>
+	<tu xmlns:lang="nld">Gepantserd voertuig</tu>
+	<tu xmlns:lang="fra">Véhicule blindé</tu>
+	<tu xmlns:lang="deu">Gepanzertes Fahrzeug</tu>
+	<tu xmlns:lang="ita">Vettura blindata</tu>
+	<tu xmlns:lang="jpn">装甲車両</tu>
+	<tu xmlns:lang="ptg">Veículo blindado</tu>
+	<tu xmlns:lang="ptb">Veículo blindado</tu>
+	<tu xmlns:lang="rus">Бронированный автомобиль</tu>
+	<tu xmlns:lang="esp">Vehículo blindado</tu>
+	<tu xmlns:lang="chs">安装防弹的车辆</tu>
+	<tu xmlns:lang="kor">장갑 차량</tu>
+</tm>

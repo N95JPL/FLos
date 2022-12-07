@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_VEHICLE_EMERGENCY_SYS">
+	<tu xmlns:lang="eng">Vehicle emergency messaging system</tu>
+	<tu xmlns:lang="nld">Voertuignoodsysteem</tu>
+	<tu xmlns:lang="fra">Systeme d'D'urgence du vehicule</tu>
+	<tu xmlns:lang="deu">Notfallhilfe-system</tu>
+	<tu xmlns:lang="ita">Sistema di emergenza veicolo</tu>
+	<tu xmlns:lang="jpn">車両緊急システム</tu>
+	<tu xmlns:lang="ptg">Sistema de mensagens de emergência do veículo</tu>
+	<tu xmlns:lang="ptb">Sistema de mensagens de emergência do veículo</tu>
+	<tu xmlns:lang="rus">Система передачи аварийных сообщений автомобиля</tu>
+	<tu xmlns:lang="esp">Sistema de emergencia del vehículo</tu>
+	<tu xmlns:lang="chs">车辆紧急通话系统</tu>
+	<tu xmlns:lang="kor">차량 비상 메시지 시스템</tu>
+</tm>

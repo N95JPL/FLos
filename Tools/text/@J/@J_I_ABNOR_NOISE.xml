@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABNOR_NOISE">
+	<tu xmlns:lang="eng">Abnormal noise</tu>
+	<tu xmlns:lang="nld">Abnormaal geluid</tu>
+	<tu xmlns:lang="fra">Bruit anormal</tu>
+	<tu xmlns:lang="deu">Ungewöhnliches Geräusch</tu>
+	<tu xmlns:lang="ita">Rumore insolito</tu>
+	<tu xmlns:lang="jpn">異常なノイズ</tu>
+	<tu xmlns:lang="ptg">Ruído anormal</tu>
+	<tu xmlns:lang="ptb">Ruído anormal</tu>
+	<tu xmlns:lang="rus">Ненормальный шум</tu>
+	<tu xmlns:lang="esp">Ruido anormal</tu>
+	<tu xmlns:lang="chs">异常噪音</tu>
+	<tu xmlns:lang="kor">비정상적인 소음</tu>
+</tm>

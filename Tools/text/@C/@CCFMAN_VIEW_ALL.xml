@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_VIEW_ALL">
+	<tu xmlns:lang="eng">View all parameters</tu>
+	<tu xmlns:lang="nld">Alle parameters bekijken</tu>
+	<tu xmlns:lang="fra">Visualiser tous les paramètres</tu>
+	<tu xmlns:lang="deu">Alle Parameter einsehen</tu>
+	<tu xmlns:lang="ita">Visualizzare tutti i parametri</tu>
+	<tu xmlns:lang="jpn">全パラメータの表\示</tu>
+	<tu xmlns:lang="ptg">Visualizar todos os parâmetros</tu>
+	<tu xmlns:lang="ptb">Ver todos os parâmetros</tu>
+	<tu xmlns:lang="rus">Просмотр всех параметров</tu>
+	<tu xmlns:lang="esp">Ver todos los parámetros</tu>
+	<tu xmlns:lang="chs">查看所有参数</tu>
+	<tu xmlns:lang="kor">모든 매개 변수 보기</tu>
+</tm>

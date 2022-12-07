@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NoFailReasonAvailable$I">
+	<tu xmlns:lang="eng">No fail reason available or unspecified fail reason.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geen reden voor het niet halen van de test beschikbaar of reden niet gespecificeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Aucune cause d'échec disponible ou cause d'échec non spécifiée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kein Ausfallgrund verfügbar oder unbestimmter Ausfallgrund.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non è disponibile nessuna ragione di guasto o ragione di guasto indeterminata.</tu>
+	<tu xmlns:lang="jpn">不具合理由または不特定不具合理由がありません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A razão da avaria não está disponível ou não está especificada.</tu>
+	<tu xmlns:lang="ptb">Sem razão da falha disponível ou não especificada.</tu>
+	<tu xmlns:lang="rus">Причина неисправности отсутствует или не указана.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se dispone del motivo de no haber superado la prueba, o el motivo no se especifica.</tu>
+	<tu xmlns:lang="chs">没有故障原因或未规定故障原因。</tu>
+	<tu xmlns:lang="kor">실패 원인이 없거나 확실하지 않음</tu>
+</tm>

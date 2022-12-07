@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RDAR_NOT_FIT">
+	<tu xmlns:lang="eng">Remote digital audio receiver not fitted</tu>
+	<tu
+    xmlns:lang="nld"
+  >Digitale geluidsinstallatie met afstandsbediening niet aangebracht</tu>
+	<tu xmlns:lang="fra">Récepteur audio numérique à distance non monté</tu>
+	<tu xmlns:lang="deu">Abgesetzter digitaler Audioempfänger nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Ricevitore audio digitale remoto non in dotazione</tu>
+	<tu xmlns:lang="jpn">リモート デジタル オーディオ レシーバー非装備</tu>
+	<tu xmlns:lang="ptg">Receptor áudio digital à distância não instalado</tu>
+	<tu xmlns:lang="ptb">Receptor de áudio digital remoto não instalado</tu>
+	<tu xmlns:lang="rus">Цифровой аудиоприемник (RDAR) не установлен</tu>
+	<tu xmlns:lang="esp">No tiene receptor de audio digital remoto</tu>
+	<tu xmlns:lang="chs">遥控数字音频接收器未安装</tu>
+	<tu xmlns:lang="kor">원격 디지털 오디오 수신기가 장착되지 않음</tu>
+</tm>

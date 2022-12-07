@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_RUNING_ODST">
+	<tu
+    xmlns:lang="eng"
+  >Executing the on demand self test will cause the associated control module to run a pre-defined test which will cause any associated trouble codes to be logged if present.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Uitvoeren van de Op Verzoek Zelftest zorgt dat de bijbehorende regelmodule een vastgelegde test uitvoert die alle bijbehorende foutcodes logt indien aanwezig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'exécution de l'auto-diagnostic à la demande fait effectuer, par le module de commande concerné, un test pré-défini qui fera enregistrer les codes déanomalies correspondants éventuellement présents.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Laufenlassen des Selbsttests auf Abruf bewirkt, daß das betreffende Steuergerät eine festgelegte Testroutine durchläuft, was bewirkt, daß zugehörige Fehlercodes bei Vorhandensein abgespeichert werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'esecuzione della prova automatica a richiesta provoca l'esecuzione di una prova predefinita del relativo modulo di comando e, di conseguenza, la registrazione di qualsiasi codice di guasto associato, se presente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >「オンデマンド セルフ テスト」を実行すると、関連するコントロール モジュールに予\め定義されているテストが実行され、関連する故障診断コードがある場合はそれが記録されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A execução do autoteste sob pedido fará com que o módulo de comando associado execute um teste predefinido que accionará o registo de quaisquer códigos de avaria associados, se estiverem presentes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Executar o autoteste sob demanda fará com que o módulo de controle associado execute um teste predefinido que fará com que qualquer código de problema associado seja registrado se estiver presente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнение самотестирования по запросу приведет к выполнению соответствующим блоком управления предварительно определенной проверки, в результате чего будут зарегистрированы соответствующие коды неисправностей (при их наличии).</tu>
+	<tu
+    xmlns:lang="esp"
+  >La ejecución de la petición de autoverificación hace que el módulo de control correspondiente efectúe una comprobación predefinida que hace que cualquier código de avería correspondiente quede memorizado si está presente</tu>
+	<tu
+    xmlns:lang="chs"
+  >执行随需自检将会使相关控制模块执行预定义的测试，这将导致任何相关的故障代码被记录（如果存在故障）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >온디맨드 자체 테스트를 실행하면 관련 컨트롤 모듈이 사전 정의된 테스트를 실행합니다. 그러면 존재할 경우 관련된 고장 코드가 모두 기록됩니다.</tu>
+</tm>

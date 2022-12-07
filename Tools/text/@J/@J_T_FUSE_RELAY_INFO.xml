@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_FUSE_RELAY_INFO">
+	<tu xmlns:lang="eng">700-01 Fuse and relay information</tu>
+	<tu xmlns:lang="nld">700-01 Informatie over zekeringen en relais</tu>
+	<tu xmlns:lang="fra">700-01 Informations sur les fusibles et les relais</tu>
+	<tu xmlns:lang="deu">700-01 Sicherungen und Relais</tu>
+	<tu xmlns:lang="ita">700-01 Informazioni su fusibili e relè</tu>
+	<tu xmlns:lang="jpn">700-01 ヒューズおよびリレー情報</tu>
+	<tu xmlns:lang="ptg">700-01 Informações sobre fusíveis e relés</tu>
+	<tu xmlns:lang="ptb">700-01 Informações de fusíveis e relés</tu>
+	<tu xmlns:lang="rus">700-01 Информация о предохранителях и реле</tu>
+	<tu xmlns:lang="esp">700-01 Información de fusibles y relés</tu>
+	<tu xmlns:lang="chs">700-01保险丝与继电器信息</tu>
+	<tu xmlns:lang="kor">700-01 퓨즈 및 릴레이 정보</tu>
+</tm>

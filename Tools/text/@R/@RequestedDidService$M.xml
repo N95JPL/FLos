@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RequestedDidService$M">
+	<tu xmlns:lang="eng">Service identifier : 0x%x (data identifier : 0x%x)</tu>
+	<tu xmlns:lang="nld">Service-id: 0x%x (gegevens-id: 0x%x)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Identifiant de service : 0x%x (identificateur de données : 0x%x)</tu>
+	<tu xmlns:lang="deu">Servicekennung: 0x%x (Datenkennung: 0x%x)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Identificatore di assistenza: 0x%x (identificatore di dati: 0x%x)</tu>
+	<tu xmlns:lang="jpn">サービス ID: 0x%x (データ ID: 0x%x)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Identificador de serviço: 0x%x (identificador de dados: 0x%x)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Identificador de serviços: 0x%x (identificador de dados: 0x%x)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Идентификатор службы: 0x%x (идентификатор данных: 0x%x)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Identificador del servicio: 0x%x (identificador de datos: 0x%x)</tu>
+	<tu xmlns:lang="chs">维修标识符：0x%x（数据标识符：0x%x）</tu>
+	<tu xmlns:lang="kor">서비스 식별자: 0x%x(데이터 식별자: 0x%x)</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ENG_ELEC_SENSORS">
+	<tu xmlns:lang="eng">Engine control sensors</tu>
+	<tu xmlns:lang="nld">Sensors van de motorregeling</tu>
+	<tu xmlns:lang="fra">Capteurs de commande du moteur</tu>
+	<tu xmlns:lang="deu">Sensoren motorregelung</tu>
+	<tu xmlns:lang="ita">Sensori di comando motore</tu>
+	<tu xmlns:lang="jpn">エンジン コントロール センサ</tu>
+	<tu xmlns:lang="ptg">Sensores de controlo do motor</tu>
+	<tu xmlns:lang="ptb">Sensores de controle do motor</tu>
+	<tu xmlns:lang="rus">Датчики системы управления двигателем</tu>
+	<tu xmlns:lang="esp">Sensores de control del motor</tu>
+	<tu xmlns:lang="chs">发动机控制传感器</tu>
+	<tu xmlns:lang="kor">엔진 컨트롤 센서</tu>
+</tm>

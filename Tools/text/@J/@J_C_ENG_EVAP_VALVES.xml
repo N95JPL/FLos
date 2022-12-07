@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ENG_EVAP_VALVES">
+	<tu xmlns:lang="eng">Evaporative emission valves</tu>
+	<tu xmlns:lang="nld">Kleppen van het benzinedampafzuigsysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vannes de commande de récupération des vapeurs de carburant</tu>
+	<tu xmlns:lang="deu">Ventile - Kraftstoffverdunstungs-Auffangsystem</tu>
+	<tu xmlns:lang="ita">Valvole emissioni evaporative</tu>
+	<tu xmlns:lang="jpn">エバポレーティブ エミッション バルブ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Válvulas do sistema de controlo de emissões de vapor de combustível</tu>
+	<tu xmlns:lang="ptb">Válvulas de emissões evaporativas</tu>
+	<tu xmlns:lang="rus">Клапаны выпуска топливных паров</tu>
+	<tu xmlns:lang="esp">Válvulas de emisiones por evaporación</tu>
+	<tu xmlns:lang="chs">蒸发排放阀</tu>
+	<tu xmlns:lang="kor">증발 가스 밸브</tu>
+</tm>

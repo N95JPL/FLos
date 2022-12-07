@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NoRLMCodes$M">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle height calibration should not be attempted if there are any current or historic fault codes stored in the air suspension module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U mag de voertuighoogte niet proberen te kalibreren als er in de luchtveringsmodule huidige of eerdere foutcodes zijn opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'étalonnage de hauteur du véhicule ne doit pas être tenté si des codes de défauts actuels ou historiques sont enregistrés dans le module de suspension pneumatique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es darf nicht versucht werden, die Fahrhöhe zu kalibrieren, während aktuelle oder historische Fehlercodes im Luftfederungs-Steuergerät abgespeichert sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non si deve cercare di tarare l'altezza del veicolo se nel modulo della sospensione pneumatica sono memorizzati codici di guasto correnti o vecchi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エア サスペンション モジュールに現存または履歴フォルトコードがある状態で車両ハイト キャリブレーションを行ってはなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não se deve tentar fazer a calibragem da altura do veículo se existirem códigos de avarias actuais ou anteriores armazenados no módulo da suspensão pneumática.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A calibragem da altura do veículo não deve ser feita se houver qualquer código de falha atual ou histórico armazenado no módulo da suspensão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не пытайтесь выполнять калибровку высоты автомобиля, если в блоке пневматической подвески сохранены текущие или накопленные коды неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se debe intentar realizar la calibración de altura del vehículo si el módulo de la suspensión neumática tiene memorizado algún código de avería actual o histórico.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果空气悬架模块中存储有任何当前或历史故障码，则不要尝试进行车辆高度标定。</tu>
+	<tu
+    xmlns:lang="kor"
+  >에어 서스펜션 모듈에 저장된 현재 또는 과거 고장 코드가 있는 경우 차고 보정을 시도하면 안 됩니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_COLUMN_SWITCH">
+	<tu xmlns:lang="eng">Column switches</tu>
+	<tu xmlns:lang="nld">Kolomschakelaars</tu>
+	<tu xmlns:lang="fra">Contacteurs de colonne</tu>
+	<tu xmlns:lang="deu">Lenksäulenschalter</tu>
+	<tu xmlns:lang="ita">Interruttori su piantone sterzo</tu>
+	<tu xmlns:lang="jpn">コラム スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptores da coluna da direcção</tu>
+	<tu xmlns:lang="ptb">Interruptores da coluna</tu>
+	<tu xmlns:lang="rus">Подрулевые переключатели на колонке</tu>
+	<tu xmlns:lang="esp">Interruptores de la columna</tu>
+	<tu xmlns:lang="chs">柱形开关</tu>
+	<tu xmlns:lang="kor">칼럼 스위치</tu>
+</tm>

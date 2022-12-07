@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AML_ENTER_TR_MODE">
+	<tu xmlns:lang="eng">Enter transportation mode.</tu>
+	<tu xmlns:lang="nld">Schakel over op de transportfunctie.</tu>
+	<tu xmlns:lang="fra">Entrer en mode transport.</tu>
+	<tu xmlns:lang="deu">In den Transportmodus eintreten.</tu>
+	<tu xmlns:lang="ita">Immettere modalità di trasporto.</tu>
+	<tu xmlns:lang="jpn">輸送モードに入りなさい。</tu>
+	<tu xmlns:lang="ptg">Entre no modo de transporte.</tu>
+	<tu xmlns:lang="ptb">Informe o modo de transporte.</tu>
+	<tu xmlns:lang="rus">Введите режим транспортировки.</tu>
+	<tu xmlns:lang="esp">Pasar a modo de transporte.</tu>
+	<tu xmlns:lang="chs">进入传输模式。</tu>
+	<tu xmlns:lang="kor">운송 모드를 시작합니다.</tu>
+</tm>

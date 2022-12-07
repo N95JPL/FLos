@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DI_FLASH_ON_ERROR">
+	<tu xmlns:lang="eng">Turn signal flash on error.</tu>
+	<tu xmlns:lang="nld">Bij een fout knipperen de richtingaanwijzers.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Clignotement des indicateurs de direction en cas d'erreur.</tu>
+	<tu xmlns:lang="deu">Blinkleuchten-Blinken bei Fehler.</tu>
+	<tu xmlns:lang="ita">Lampeggio indicatori direzione in presenza di errore.</tu>
+	<tu xmlns:lang="jpn">エラー発生時方向指示灯点滅</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Erro na activação do piscar dos indicadores de mudança de direcção.</tu>
+	<tu xmlns:lang="ptb">Luz da seta em erro.</tu>
+	<tu xmlns:lang="rus">Ошибка включения мигания сигнала поворота.</tu>
+	<tu xmlns:lang="esp">Error de destello de intermitentes.</tu>
+	<tu xmlns:lang="chs">出错时转向信号灯闪烁。</tu>
+	<tu xmlns:lang="kor">방향 지시등 점등 오류</tu>
+</tm>

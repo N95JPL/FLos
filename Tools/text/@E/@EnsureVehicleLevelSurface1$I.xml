@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnsureVehicleLevelSurface1$I">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the vehicle is placed on a level surface and that it remains stationary throughout the whole procedure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat het voertuig op een horizontale ondergrond staat en het gedurende de hele procedure stil blijft staan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule doit être placé sur une surface plane et rester immobile pendant toute la procédure.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass das Fahrzeug auf ebenem Untergrund abgestellt wurde und dass es während des gesamten Vorgangs stationär bleibt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che il veicolo si trovi su una superficie piana e rimanga fermo per tutta la procedura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >全手順実施中、車両を水平面に置いたままにし、停止状態を維持しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o veículo está colocado numa superfície nivelada e de que permanece parado durante todo o procedimento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se o veículo está em superfície plana e se permanece parado durante todo o procedimento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что в течение всего времени выполнения процедуры автомобиль неподвижно стоит на ровной поверхности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que el vehículo esté situado en una superficie nivelada y que permanezca inmóvil durante todo el procedimiento.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保车辆停放在水平平面上，并在整个程序执行过程中保持静止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량을 평지에 세우고 전체 절차 중에 정지 상태를 유지하는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_CCF_UPLOAD_FAIL">
+	<tu xmlns:lang="eng">Failed to upload the vehicle configuration file.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het 'uploaden' van het voertuigconfiguratiebestand is mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec du téléchargement du fichier de configuration du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Fahrzeug-Konfigurationsdatei konnte nicht hochgeladen werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Caricamento del file di configurazione veicolo non riuscito.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション ファイルのアップロードに失敗</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O envio, por transferência ('upload'), do ficheiro de configuração do veículo falhou.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha ao carregar o arquivo de configuração de veículo.</tu>
+	<tu xmlns:lang="rus">Ошибка выгрузки файла конфигурации автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudo cargar el archivo de configuración del vehículo.</tu>
+	<tu xmlns:lang="chs">上传车辆配置文件失败。</tu>
+	<tu xmlns:lang="kor">차량 구성 파일 업로드 실패</tu>
+</tm>

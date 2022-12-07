@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_SWDL_ERROR_END_SDD_SESSION">
+	<tu xmlns:lang="eng">End the current Diagnostic Tool session</tu>
+	<tu xmlns:lang="nld">Einde van de huidige sessie van het diagnosesysteem</tu>
+	<tu xmlns:lang="fra">Terminez la session de l'outil de diagnostic en cours</tu>
+	<tu xmlns:lang="deu">Die aktuelle Diagnosetool-Sitzung beenden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Terminare la sessione corrente dello strumento diagnostico</tu>
+	<tu xmlns:lang="jpn">現在の診断ツール セッションを終了します</tu>
+	<tu xmlns:lang="ptg">Termine a sessão atual da ferramenta de diagnóstico</tu>
+	<tu xmlns:lang="ptb">Finalize a sessão atual da Ferramenta de Diagnóstico</tu>
+	<tu
+    xmlns:lang="rus"
+  >Завершите текущий сеанс работы диагностического устройства</tu>
+	<tu
+    xmlns:lang="esp"
+  >Finalice la sesión actual de la herramienta de diagnóstico.</tu>
+	<tu xmlns:lang="chs">结束当前的诊断工具会话</tu>
+	<tu xmlns:lang="kor">현재 진단 도구 세션을 종료합니다.</tu>
+</tm>

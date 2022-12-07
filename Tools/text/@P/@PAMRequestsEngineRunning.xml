@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PAMRequestsEngineRunning">
+	<tu xmlns:lang="eng">Parking aid control module requests engine running.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Regelmodule van de parkeerhulp verzoekt om draaiende motor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module de commande du système d'aide au stationnement requiert que le moteur soit en marche.</tu>
+	<tu xmlns:lang="deu">Steuergerät der Einparkhilfe fordert Motorlauf an.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo di comando dei sensori di parcheggio richiede il motore in funzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パーキング エイド コントロール モジュールが作動するためには、エンジンがかかっている必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O módulo de controlo do sistema auxiliar de estacionamento requer o funcionamento do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo de controle do auxílio de estacionamento requer motor em funcionamento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для работы блока управления системы помощи при парковке двигатель должен работать.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo de control de asistencia al estacionamiento solicita que el motor esté en marcha.</tu>
+	<tu xmlns:lang="chs">驻车辅助控制模块请求发动机运转。</tu>
+	<tu
+    xmlns:lang="kor"
+  >주차 보조 시스템 컨트롤 모듈에서 엔진 작동을 요청합니다.</tu>
+</tm>

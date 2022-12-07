@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_ACT_TEST_CONT">
+	<tu
+    xmlns:lang="eng"
+  >The next screen will activate the test, do you wish to continue?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Op het volgende scherm wordt de test gestart. Wilt u doorgaan?</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'écran suivant activera le contrôle, souhaitez-vous continuer ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Über den nächsten Bildschirm wird der Test laufen gelassen, möchten Sie fortfahren?</tu>
+	<tu xmlns:lang="ita">La prossima schermata attiverà la prova, continuare?</tu>
+	<tu xmlns:lang="jpn">次の画面でテストが起動します。続行しますか？</tu>
+	<tu xmlns:lang="ptg">O ecrã seguinte activa o teste; deseja continuar?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A próxima tela vai ativar o teste, você quer continuar?</tu>
+	<tu
+    xmlns:lang="rus"
+  >На следующем экране произойдет запуск теста. Продолжить?</tu>
+	<tu
+    xmlns:lang="esp"
+  >La siguiente pantalla activará la prueba. ¿Desea continuar?</tu>
+	<tu xmlns:lang="chs">下一显示屏将启动此项测试，您想继续吗？</tu>
+	<tu xmlns:lang="kor">다음 화면에서 테스트가 활성화되는데, 계속하시겠습니까?</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_INJ_PROG_FAIL">
+	<tu xmlns:lang="eng">One or more of the injectors failed to program.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Een of meerdere injectors kon niet worden geprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec de programmation d'un ou de plusieurs des injecteurs.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ein oder mehrere Einspritzventile konnten nicht programmiert werden.</tu>
+	<tu xmlns:lang="ita">Uno o più iniettori non sono stati programmati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >1 つまたはそれ以上のインジェクタのプログラムに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Um ou mais injectores falharam na programação.</tu>
+	<tu xmlns:lang="ptb">Um ou mais dos injetores falharam ao programar.</tu>
+	<tu xmlns:lang="rus">Сбой программирования одной или нескольких форсунок.</tu>
+	<tu xmlns:lang="esp">No se pudieron programar uno o más inyectores.</tu>
+	<tu xmlns:lang="chs">一个或多个喷油器未能编程。</tu>
+	<tu xmlns:lang="kor">인젝터 중 하나 이상을 프로그래밍하지 못했습니다.</tu>
+</tm>

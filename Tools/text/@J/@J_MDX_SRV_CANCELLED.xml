@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_MDX_SRV_CANCELLED">
+	<tu xmlns:lang="eng">Cancelled...</tu>
+	<tu xmlns:lang="nld">Geannuleerd...</tu>
+	<tu xmlns:lang="fra">Annulé...</tu>
+	<tu xmlns:lang="deu">Abgebrochen...</tu>
+	<tu xmlns:lang="ita">Annullato...</tu>
+	<tu xmlns:lang="jpn">キャンセルされました...</tu>
+	<tu xmlns:lang="ptg">Cancelado...</tu>
+	<tu xmlns:lang="ptb">Cancelado...</tu>
+	<tu xmlns:lang="rus">Отменено...</tu>
+	<tu xmlns:lang="esp">Operación cancelada...</tu>
+	<tu xmlns:lang="chs">已取消......</tu>
+	<tu xmlns:lang="kor">취소됨...</tu>
+</tm>

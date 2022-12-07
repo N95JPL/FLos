@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_ADAPT_MODE_GR_SHFT">
+	<tu
+    xmlns:lang="eng"
+  >This routine is used to set the adaptation mode.  This allows the dynamic gear shift control learning to take place.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine wordt gebruikt om de adaptatiefunctie in te stellen.  Hierdoor kan het inleren van de dynamische transmissiestandregeling plaatsvinden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme est utilisé pour régler le mode d'adaptation.  Ceci permet à la commande de passage des rapports dynamiques d'agir.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine dient dazu, den Anpassungsmodus einzustellen.  Dies ermöglicht, das Erlernen der dynamischen Schaltsteuerung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura serve ad impostare la modalità di adattamento.  Ciò consente lo svolgimento dell'apprendimento del controllo selettore cambio dinamico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンを使用し、補正モードをセットします。  これにより、ダイナミック ギア シフト コントロール学習が行われます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é utilizada para definir o modo de adaptação.  Isto permite que a programação do comando dinâmico das mudanças ocorra.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é usada para definir o modo adaptação.  Isso permite que o aprendizado do controle de mudança de marcha dinâmica ocorra.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция используется для включения режима адаптации.  Это позволит произвести самонастройку динамичного управления переключением передач.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina se usa para establecer el modo de adaptación.  Esto permite el aprendizaje dinámico del módulo de control de la palanca de cambios.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一常规程序用于设置自适应模式。  这使得动态换档控制记忆得以发挥作用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 어댑테이션 모드를 설정하는 데 사용됩니다.  이를 통해 동적 기어 변속 컨트롤 학습이 이루어질 수 있습니다.</tu>
+</tm>

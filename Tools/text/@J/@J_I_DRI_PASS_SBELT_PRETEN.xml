@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRI_PASS_SBELT_PRETEN">
+	<tu xmlns:lang="eng">Driver and passenger safety belt pretensioners</tu>
+	<tu
+    xmlns:lang="nld"
+  >Veiligheidsgordelvoorspanners voor bestuurder en passagier</tu>
+	<tu
+    xmlns:lang="fra"
+  >Prétensionneurs de ceintures de sécurité conducteur et passager</tu>
+	<tu xmlns:lang="deu">Gurtstraffer Fahrer- und Beifahrerseite</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pretensionatori cinture di sicurezza lato guidatore e lato passeggero </tu>
+	<tu xmlns:lang="jpn">運転席側／助手席側シートベルト プリテンショナ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pré-tensores dos cintos de segurança do condutor e passageiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pré-tensionadores do cinto de segurança do passageiro e do motorista</tu>
+	<tu
+    xmlns:lang="rus"
+  >Преднатяжители ремней безопасности водителя и пассажира</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pretensores del cinturón de seguridad de conductor y acompañante</tu>
+	<tu xmlns:lang="chs">驾驶员和乘客安全带预紧器</tu>
+	<tu xmlns:lang="kor">운전석 및 조수석 안전벨트 프리텐셔너</tu>
+</tm>

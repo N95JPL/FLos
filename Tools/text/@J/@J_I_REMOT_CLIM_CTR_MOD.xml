@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REMOT_CLIM_CTR_MOD">
+	<tu xmlns:lang="eng">Remote climate control module.</tu>
+	<tu xmlns:lang="nld">Module climate control op afstand</tu>
+	<tu xmlns:lang="fra">Module à distance de climatisation</tu>
+	<tu xmlns:lang="deu">Abgesetztes Klimaregelungsmodul</tu>
+	<tu xmlns:lang="ita">Modulo comando climatizzazione a distanza</tu>
+	<tu xmlns:lang="jpn">リモート エア コンディショニング モジュール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo de comando do controlo da climatização à distância.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle de temperatura remoto.</tu>
+	<tu xmlns:lang="rus">Блок дистанционного управления климат-контролем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control de la climatización montado a distancia</tu>
+	<tu xmlns:lang="chs">遥控气候控制模块。</tu>
+	<tu xmlns:lang="kor">원격 실내 온도 조절 장치 모듈</tu>
+</tm>

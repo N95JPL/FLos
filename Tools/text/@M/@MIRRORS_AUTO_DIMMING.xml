@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MIRRORS_AUTO_DIMMING">
+	<tu xmlns:lang="eng">Auto dimming mirrors</tu>
+	<tu xmlns:lang="nld">Automatisch dimmende spiegels</tu>
+	<tu xmlns:lang="fra">Rétroviseurs anti-éblouissement.</tu>
+	<tu xmlns:lang="deu">Spiegel mit Abblendautomatik</tu>
+	<tu xmlns:lang="ita">Specchietti retrovisori ad oscuramento automatico</tu>
+	<tu xmlns:lang="jpn">自動防眩ミラー</tu>
+	<tu xmlns:lang="ptg">Retrovisores com anti-encandeamento</tu>
+	<tu xmlns:lang="ptb">Retrovisores com antiofuscamento automático</tu>
+	<tu xmlns:lang="rus">Зеркала с автоматическим затемнением</tu>
+	<tu xmlns:lang="esp">Retrovisores de oscurecimiento automático</tu>
+	<tu xmlns:lang="chs">自动变光后视镜</tu>
+	<tu xmlns:lang="kor">자동 조광 미러</tu>
+</tm>

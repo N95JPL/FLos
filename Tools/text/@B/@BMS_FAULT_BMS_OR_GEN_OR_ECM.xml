@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_FAULT_BMS_OR_GEN_OR_ECM">
+	<tu
+    xmlns:lang="eng"
+  >If condition persists, then suspect possible battery monitoring system fault, or generator fault, or engine control module fault</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het probleem blijft optreden, is er mogelijk een storing opgetreden in het accucontrolesysteem, de dynamo of de motorregelmodule</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si les conditions persistent, suspectez alors une défaillance possible du système de surveillance de la batterie, de l'alternateur, ou du module de commande du moteur</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bleibt der Zustand weiterhin bestehen, von einer möglichen Störung am Batterieüberwachungssystem, am Generator oder am Motorsteuergerät ausgehen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la condizione persiste, sospettare un possibile guasto al sistema di monitoraggio della batteria, o un guasto al generatore, o un guasto al modulo di comando motore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >症状が持続する場合、バッテリ モニタリング システムの故障、ジェネレータの故障またはエンジン コントロール モジュールの故障が疑われます</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a situação se mantiver, deve suspeitar-se da possibilidade de avaria no sistema de monitorização da bateria, no alternador ou no módulo de comando do motor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a condição persistir, suspeite de uma possível falha no sistema de monitoramento de bateria, no alternador ou no módulo de controle do motor</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если неисправность не устранена, причиной может быть неисправность системы контроля аккумуляторной батареи, генератора или блока управления двигателем</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el problema persiste, puede tratarse de una anomalía del sistema de control de la batería, del alternador o del módulo de control del motor</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果情况依然如故，那么可怀疑存在以下某个故障：蓄电池监测系统故障；或发电机故障，或发动机控制模块故障</tu>
+	<tu
+    xmlns:lang="kor"
+  >상태가 지속될 경우 배터리 모니터링 시스템 고장, 제너레이터 고장 또는 엔진 컨트롤 모듈 고장의 가능성을 의심하십시오.</tu>
+</tm>

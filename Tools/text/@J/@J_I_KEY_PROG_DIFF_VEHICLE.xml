@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_PROG_DIFF_VEHICLE">
+	<tu xmlns:lang="eng">The key may be pre-programmed to another vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De sleutel kan van tevoren op een ander voertuig geprogrammeerd zijn.</tu>
+	<tu xmlns:lang="fra">La clé peut être reprogrammée sur un autre véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Schlüssel kann schon für ein anderes Fahrzeug programmiert worden sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La chiave potrebbe essere preprogrammata per un altro veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >他の車両にあらかじめプログラムされたキーでもかまいません。</tu>
+	<tu xmlns:lang="ptg">A chave pode estar pré-programada para outro veículo.</tu>
+	<tu xmlns:lang="ptb">A chave pode ser pré-programada para outro veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Возможно, ключ был предварительно запрограммирован для другого автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Es posible que la llave ya esté programada para otro vehículo.</tu>
+	<tu xmlns:lang="chs">可对车钥进行预编程，以应用于另外车辆。</tu>
+	<tu xmlns:lang="kor">키를 다른 차량에 미리 프로그래밍할 수 있습니다.</tu>
+</tm>

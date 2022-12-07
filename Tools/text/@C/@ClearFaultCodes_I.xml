@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ClearFaultCodes_I">
+	<tu xmlns:lang="eng">Clear the fault codes.</tu>
+	<tu xmlns:lang="nld">Wis foutcodes</tu>
+	<tu xmlns:lang="fra">Supprimer les codes déanomalie</tu>
+	<tu xmlns:lang="deu">Fehlercodes löschen</tu>
+	<tu xmlns:lang="ita">Cancella i codici di guasto</tu>
+	<tu xmlns:lang="jpn">フォルトコードをクリアしなさい。</tu>
+	<tu xmlns:lang="ptg">Apagar os códigos de avaria.</tu>
+	<tu xmlns:lang="ptb">Apague os códigos de falha.</tu>
+	<tu xmlns:lang="rus">Сбросьте сохраненные коды неисправностей.</tu>
+	<tu xmlns:lang="esp">Borrar códigos de avería</tu>
+	<tu xmlns:lang="chs">清除所有故障代码。</tu>
+	<tu xmlns:lang="kor">고장 코드를 삭제하십시오.</tu>
+</tm>

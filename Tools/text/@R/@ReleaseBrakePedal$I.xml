@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ReleaseBrakePedal$I">
+	<tu xmlns:lang="eng">Release brake pedal</tu>
+	<tu xmlns:lang="nld">Rempedaal loslaten</tu>
+	<tu xmlns:lang="fra">Relâchez la pédale de frein</tu>
+	<tu xmlns:lang="deu">Bremspedal freigeben</tu>
+	<tu xmlns:lang="ita">Rilasciare il pedale del freno</tu>
+	<tu xmlns:lang="jpn">ブレーキ ペダルを離しなさい。</tu>
+	<tu xmlns:lang="ptg">Soltar o pedal do travão</tu>
+	<tu xmlns:lang="ptb">Solte o pedal do freio</tu>
+	<tu xmlns:lang="rus">Отпустите педаль тормоза</tu>
+	<tu xmlns:lang="esp">Soltar el pedal del freno</tu>
+	<tu xmlns:lang="chs">释放制动踏板</tu>
+	<tu xmlns:lang="kor">브레이크 페달을 놓으십시오.</tu>
+</tm>

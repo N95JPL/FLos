@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FOOT_PBM_CAL_SDSC">
+	<tu
+    xmlns:lang="eng"
+  >Foot operated parking brake with 'drum in hat' caliper  -  Solid disc</tu>
+	<tu
+    xmlns:lang="nld"
+  >Handrem met voetbediening, voorzien van 'drum in hat'-remklauw   -  Massieve schijf</tu>
+	<tu
+    xmlns:lang="fra"
+  >Frein de stationnement commandé au pied avec étrier de disque-tambour   -  Disque plein</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bremssattel, fußbetätigte Parkbremse mit in die Bremsscheibe integrierter Trommelbremse   -  Massivscheibe</tu>
+	<tu
+    xmlns:lang="ita"
+  >Freno di stazionamento a pedale con pinze 'drum in hat' (tamburo interno ai freni stessi)  -  Disco pieno</tu>
+	<tu
+    xmlns:lang="jpn"
+  >「ドラム・イン･ハット」型キャリパの付いた足踏み式パーキング ブレーキ  －  ソ\リッド ディスク</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Travão de mão accionado com o pé com pinça 'drum in hat' (tambor integrado)  -  Disco maciço</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Freio de estacionamento operado com o pé com pinça de tambor em HAT  -  Disco sólido</tu>
+	<tu
+    xmlns:lang="rus"
+  >Педальный стояночный тормоз (суппорт с барабаном, встроенным в тормозной диск)   -  Не вентилируемый диск</tu>
+	<tu
+    xmlns:lang="esp"
+  >Freno de estacionamiento accionado por pedal con tambor de freno incorporado en el disco de freno  -  Disco macizo</tu>
+	<tu
+    xmlns:lang="chs"
+  >带‘drum in hat’（后盘带鼓式）制动钳的脚控制动器  -  实心制动盘</tu>
+	<tu
+    xmlns:lang="kor"
+  >'드럼 인 햇' 캘리퍼가 있는 발 작동식 주차 브레이크  -  솔리드 디스크</tu>
+</tm>

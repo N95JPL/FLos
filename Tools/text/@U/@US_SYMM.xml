@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@US_SYMM">
+	<tu xmlns:lang="eng">USA symmetry</tu>
+	<tu xmlns:lang="nld">USA-symmetrie</tu>
+	<tu xmlns:lang="fra">Symétrie USA</tu>
+	<tu xmlns:lang="deu">USA-Symmetrie</tu>
+	<tu xmlns:lang="ita">Simmetria USA</tu>
+	<tu xmlns:lang="jpn">米国のシンメトリー</tu>
+	<tu xmlns:lang="ptg">Simetria - EUA
+&lt;!--TrixieTag content=remove type=valack value=198?1?Translation is identical to source text.??? --&gt;</tu>
+	<tu xmlns:lang="ptb">Simetria nos EUA</tu>
+	<tu xmlns:lang="rus">Симметричность для США</tu>
+	<tu xmlns:lang="esp">Simetría EE. UU.</tu>
+	<tu xmlns:lang="chs">美国标准对称性</tu>
+	<tu xmlns:lang="kor">미국 대칭</tu>
+</tm>

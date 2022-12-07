@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PWR_12_WAY_PASS_SEAT">
+	<tu xmlns:lang="eng">Power 12-way passenger's seat.</tu>
+	<tu xmlns:lang="nld">Bekrachtigde twaalfwegverstelling van passagiersstoel.</tu>
+	<tu xmlns:lang="fra">Siège passager électrique 12 directions.</tu>
+	<tu xmlns:lang="deu">12-fach elektrisch verstellbarer Beifahrersitz.</tu>
+	<tu xmlns:lang="ita">Sedile passeggero regolabile elettricamente a 12 vie.</tu>
+	<tu xmlns:lang="jpn">電動 12-ウェイ助手席側シート</tu>
+	<tu xmlns:lang="ptg">Banco do passageiro com ajuste eléctrico de 12 vias</tu>
+	<tu xmlns:lang="ptb">Assento elétrico do passageiro com 12 direções.</tu>
+	<tu
+    xmlns:lang="rus"
+  >12-позиционная система регулировки сиденья пассажира с электроприводом.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asiento del acompañante de ajuste eléctrico en 12 sentidos.</tu>
+	<tu xmlns:lang="chs">电动 12 向乘客座椅。</tu>
+	<tu xmlns:lang="kor">전동식 12방향 조수석 시트</tu>
+</tm>

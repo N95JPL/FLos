@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INTERFACE_MODULE">
+	<tu xmlns:lang="eng">Interface module</tu>
+	<tu xmlns:lang="nld">Interfacemodule</tu>
+	<tu xmlns:lang="fra">Module interface.</tu>
+	<tu xmlns:lang="deu">Schnittstellenmodul</tu>
+	<tu xmlns:lang="ita">Modulo interfaccia</tu>
+	<tu xmlns:lang="jpn">インターフェース モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de interface</tu>
+	<tu xmlns:lang="ptb">Módulo de interface</tu>
+	<tu xmlns:lang="rus">Модуль интерфейса</tu>
+	<tu xmlns:lang="esp">Módulo de interfaz</tu>
+	<tu xmlns:lang="chs">接口模块</tu>
+	<tu xmlns:lang="kor">인터페이스 모듈</tu>
+</tm>

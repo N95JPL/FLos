@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIGHT_TOL_SET_LAMP_DTC_SET">
+	<tu
+    xmlns:lang="eng"
+  >While tight tolerance mode is set, the air suspension lamp will be illuminated and diagnostic trouble code C1A0054 will be set.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Terwijl de nauwe-tolerantiefunctie is ingeschakeld, brandt de lamp van de luchtvering en wordt diagnosefoutcode C1A0054 opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pendant que le mode tolérances serrées est sélectionné, le témoin de suspension pneumatique est allumé et le code d'anomalie C1A0054 est enregistré.</tu>
+	<tu
+    xmlns:lang="deu"
+  >In der Betriebsart enge Toleranzen ist die Luftfederungsleuchte eingeschaltet und Fehlercode C1A0054 abgelegt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Mentre è impostata la modalità di tolleranza ridotta, si accende la spia della sospensione pneumatica e viene memorizzato il codice di guasto diagnostico C1A0054.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >僅少許容誤差モード設定されている間は、エア サスペンション ランプが点灯し診断トラブル コード C1A0054 がセットされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Enquanto o modo de tolerância limitada é definido, a luz da suspensão pneumática acende-se e é registado o código de avaria C1A0054.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Enquanto o modo de menor tolerância estiver definido, a luz de suspensão de ar permanecerá acesa, e o DTC C1A0054 será definido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При включении режима жестких допусков загорается лампа пневматической подвески и появляется диагностический код неисправности C1A0054.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Mientras el modo de tolerancia estricta esté activado, la luz de suspensión neumática estará encendida y el código de avería C1A0054 estará activado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在设置为精密允差模式期间内，空气悬挂指示灯将亮起，并显示故障诊断码C1A0054。</tu>
+	<tu
+    xmlns:lang="kor"
+  >엄격한 공차 모드가 설정되어 있을 때 에어 서스펜션 램프가 켜지고 고장 진단 코드 C1A0054가 설정됩니다.</tu>
+</tm>

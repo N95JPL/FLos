@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FolCompSixtySec$M">
+	<tu
+    xmlns:lang="eng"
+  >The follow operations must be completed within 60 seconds.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De volgbewerkingen moeten binnen 60 seconden zijn uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les opérations suivantes doivent être entièrement exécutées en 60 secondes maximum.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die folgenden Schritte müssen innerhalb von 60 Sekunden durchgeführt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le seguenti operazioni devono essere portate a termine entro 60 secondi.</tu>
+	<tu xmlns:lang="jpn">次の操作は 60 秒以内に行わなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As seguintes operações devem ser efectuadas em 60 segundos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As seguintes operações devem ser encerradas dentro de 60 segundos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующие действия должны быть выполнены в течение 60 секунд.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las operaciones siguientes se deberán completar en un plazo de 60 segundos.</tu>
+	<tu xmlns:lang="chs">下列操作必须在 60 秒 内完成。</tu>
+	<tu xmlns:lang="kor">다음 작동을 60초 이내에 완료해야 합니다.</tu>
+</tm>

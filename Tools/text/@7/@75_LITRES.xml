@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@75_LITRES">
+	<tu xmlns:lang="eng">75 litres</tu>
+	<tu xmlns:lang="nld">75 liter</tu>
+	<tu xmlns:lang="fra">75 litres</tu>
+	<tu xmlns:lang="deu">75 Liter</tu>
+	<tu xmlns:lang="ita">75 litri</tu>
+	<tu xmlns:lang="jpn">75 リッター</tu>
+	<tu xmlns:lang="ptg">75 litros</tu>
+	<tu xmlns:lang="ptb">75 litros</tu>
+	<tu xmlns:lang="rus">75 л</tu>
+	<tu xmlns:lang="esp">75 litros</tu>
+	<tu xmlns:lang="chs">75升</tu>
+	<tu xmlns:lang="kor">75리터</tu>
+</tm>

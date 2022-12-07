@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_TRANSPONDER_ERROR">
+	<tu xmlns:lang="eng">Transponder not fitted.</tu>
+	<tu xmlns:lang="nld">Transponder niet gemonteerd.</tu>
+	<tu xmlns:lang="fra">Transpondeur non installé.</tu>
+	<tu xmlns:lang="deu">Kein Transponder vorhanden.</tu>
+	<tu xmlns:lang="ita">Risponditore non montato.</tu>
+	<tu xmlns:lang="jpn">トランスポンダが取り付けられていない</tu>
+	<tu xmlns:lang="ptg">Emissor-receptor inexistente.</tu>
+	<tu xmlns:lang="ptb">Transponder não instalado.</tu>
+	<tu xmlns:lang="rus">Приемопередатчик не установлен.</tu>
+	<tu xmlns:lang="esp">No se ha instalado ningún transpondedor.</tu>
+	<tu xmlns:lang="chs">未安装转发器。</tu>
+	<tu xmlns:lang="kor">트랜스폰더가 장착되지 않았습니다.</tu>
+</tm>

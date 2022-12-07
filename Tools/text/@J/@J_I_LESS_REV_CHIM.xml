@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_REV_CHIM">
+	<tu xmlns:lang="eng">Less reverse gear chime</tu>
+	<tu xmlns:lang="nld">Zonder geluidssignaal van achteruitrijversnelling</tu>
+	<tu xmlns:lang="fra">Sans signal sonore de marche arrière</tu>
+	<tu xmlns:lang="deu">Ohne Rückwärtsgang-Signalton</tu>
+	<tu xmlns:lang="ita">Senza segnale acustico retromarcia</tu>
+	<tu xmlns:lang="jpn">リバース ギア チャイムなし</tu>
+	<tu xmlns:lang="ptg">Sem carrilhão de marcha-atrás</tu>
+	<tu xmlns:lang="ptb">Aviso sonoro de marcha à ré inferior</tu>
+	<tu xmlns:lang="rus">Без звукового сигнала включения задней передачи</tu>
+	<tu xmlns:lang="esp">Sin aviso acústico de marcha atrás</tu>
+	<tu xmlns:lang="chs">无倒车挡蜂鸣声</tu>
+	<tu xmlns:lang="kor">작은 후진 기어 차임벨</tu>
+</tm>

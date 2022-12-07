@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BRK_PAD_WEAR_IND_ENAB">
+	<tu xmlns:lang="eng">Brake pad wear indication enabled.</tu>
+	<tu xmlns:lang="nld">Aanduiding van remblokslijtage geactiveerd.</tu>
+	<tu xmlns:lang="fra">Témoin d'usure des plaquettes de freins activé.</tu>
+	<tu xmlns:lang="deu">Bremsbelag-Verschleißanzeige aktiviert.</tu>
+	<tu xmlns:lang="ita">Indicazione di usura pastiglie freni attivata.</tu>
+	<tu xmlns:lang="jpn">ブレーキ パッド磨耗インジケータ、作動可</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Indicação do desgaste das pastilhas dos travões activada.</tu>
+	<tu xmlns:lang="ptb">Indicador de desgaste da pastilha do freio ativado.</tu>
+	<tu xmlns:lang="rus">Включена индикация износа тормозных накладок.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Indicación del desgaste de las pastillas de freno habilitada.</tu>
+	<tu xmlns:lang="chs">制动垫磨损指示已启用。</tu>
+	<tu xmlns:lang="kor">브레이크 패드 마모 표시 활성화</tu>
+</tm>

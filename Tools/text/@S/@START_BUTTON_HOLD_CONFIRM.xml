@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@START_BUTTON_HOLD_CONFIRM">
+	<tu
+    xmlns:lang="eng"
+  >Confirm that the start button has been pressed by selecting tick and continue to hold the start button.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bevestig dat de startknop is ingedrukt door op de afvinktoets te drukken en de startknop ingedrukt te blijven houden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Confirmez que le bouton de démarrage a été enfoncé en sélectionnant la coche et maintenez le bouton de démarrage toujours enfoncé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Durch Antippen des Häkchens bestätigen, dass der Startknopf gedrückt wurde, und den Startknopf weiter gedrückt halten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Confermare che il pulsante di avviamento è stato premuto selezionando il segno di spunta e continuando a tenere premuto il pulsante di avviamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ティックを選択してスタート ボタンが押されたことを確認し、スタート ボタンを押したままにしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Confirme que o botão de arranque foi premido seleccionando o visto e continue a manter o botão de arranque premido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Confirme se o botão de partida foipressionado pela seleção da marca e continue a segurar o botão de partida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выбором 'галочки' подтвердите, что кнопка запуска нажата, и продолжайте удерживать кнопку запуска.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccionar el botón de continuar para confirmar que se ha pulsado el botón de arranque y mantener pulsado el botón de arranque.</tu>
+	<tu
+    xmlns:lang="chs"
+  >通过选择勾选键来确认启动按钮已按下，并继续按住启动按钮。</tu>
+	<tu
+    xmlns:lang="kor"
+  >체크 표시를 선택하여 시동 버튼을 눌렀음을 확인하고 시동 버튼을 계속 길게 누르십시오.</tu>
+</tm>

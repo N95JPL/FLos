@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CLEARED_OPTION">
+	<tu xmlns:lang="eng">Cleared</tu>
+	<tu xmlns:lang="nld">Gewist</tu>
+	<tu xmlns:lang="fra">Effacé</tu>
+	<tu xmlns:lang="deu">Gelöscht</tu>
+	<tu xmlns:lang="ita">Cancellato</tu>
+	<tu xmlns:lang="jpn">クリアされました。</tu>
+	<tu xmlns:lang="ptg">Apagado</tu>
+	<tu xmlns:lang="ptb">Limpo</tu>
+	<tu xmlns:lang="rus">Удалено</tu>
+	<tu xmlns:lang="esp">Borrado</tu>
+	<tu xmlns:lang="chs">已清除</tu>
+	<tu xmlns:lang="kor">삭제됨</tu>
+</tm>

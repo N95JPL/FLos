@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WOUT_TMC">
+	<tu xmlns:lang="eng">Without traffic message channel.</tu>
+	<tu xmlns:lang="nld">Zonder verkeersinformatiekanaal.</tu>
+	<tu xmlns:lang="fra">Sans canal d'informations routières.</tu>
+	<tu xmlns:lang="deu">Ohne Verkehrsmeldungskanal.</tu>
+	<tu xmlns:lang="ita">Senza trasmissione messaggi sul traffico.</tu>
+	<tu xmlns:lang="jpn">トラフィック メッセージ チャンネルなし</tu>
+	<tu xmlns:lang="ptg">Sem canal de mensagens de tráfego.</tu>
+	<tu xmlns:lang="ptb">Sem canal de mensagens de trânsito.</tu>
+	<tu xmlns:lang="rus">Без канала дорожных сообщений.</tu>
+	<tu xmlns:lang="esp">Sin canal de mensajes de tráfico.</tu>
+	<tu xmlns:lang="chs">没有交通消息频道。</tu>
+	<tu xmlns:lang="kor">교통 정보 채널 미장착</tu>
+</tm>

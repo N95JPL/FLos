@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_DISP_WARN_IPK">
+	<tu
+    xmlns:lang="eng"
+  >Note: The vehicle may display a warning lamp or a warning message on the instrument panel when using this interface.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Opmerking: bij het gebruik van deze interface kan het voertuig een waarschuwingslampje laten branden of kan er op het instrumentenpaneel een waarschuwingsboodschap verschijnen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Note : Un témoin ou un message d'avertissement peuvent apparaître sur le tableau de bord du véhicule pendant l'utilisation de cette interface.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hinweis: Bei Nutzung dieser Schnittstelle kann eine Warnleuchte im Fahrzeug aufleuchten oder eine Warnmeldung im Informationsdisplay angezeigt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nota: se si utilizza questa interfaccia, il veicolo può visualizzare una spia o un messaggio di avviso sul gruppo strumenti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >注記：このインターフェースを使用すると、車両のインストルメント パネルに警告灯または警告メッセージが表\示されることもあります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nota: O veículo pode apresentar uma luz avisadora ou uma mensagem de aviso no painel de instrumentos ao utilizar esta interface.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Observação: o veículo poderá exibir uma lâmpada de aviso ou uma mensagem de aviso no painel de instrumentos durante o uso dessa interface.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Примечание: при использовании этого интерфейса на панели приборов может загораться лампочка предупредительной сигнализации или отображаться предупредительное сообщение.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Nota: cuando se utiliza esta interfaz puede encenderse un testigo o presentarse un mensaje de aviso en el tablero de instrumentos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >注：在使用此接口时，车辆可能会在仪表板上显示警告灯或警告消息。</tu>
+	<tu
+    xmlns:lang="kor"
+  >참고: 이 인터페이스를 사용하면 차량 계기판에 경고등이나 경고 메시지가 표시될 수 있습니다.</tu>
+</tm>

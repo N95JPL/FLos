@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AIR_SUS_LEV_PROG">
+	<tu xmlns:lang="eng">Air suspension levelling in progress.</tu>
+	<tu xmlns:lang="nld">Nivellering van luchtvering in uitvoering.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Réglage de niveau de la suspension pneumatique en cours.</tu>
+	<tu xmlns:lang="deu">Höheneinstellung der Luftfederung läuft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >In corso regolazione livellamento sospensioni pneumatiche.</tu>
+	<tu xmlns:lang="jpn">エア サスペンション レベリング進行中</tu>
+	<tu xmlns:lang="ptg">Nivelamento da suspensão pneumática em curso.</tu>
+	<tu xmlns:lang="ptb">Nivelamento da suspensão a ar em andamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполняется регулировка уровня пневматической подвески.</tu>
+	<tu xmlns:lang="esp">Nivelación de la suspensión neumática en curso.</tu>
+	<tu xmlns:lang="chs">空气悬挂自动调平正在进行。</tu>
+	<tu xmlns:lang="kor">에어 서스펜션 레벨링 진행 중</tu>
+</tm>

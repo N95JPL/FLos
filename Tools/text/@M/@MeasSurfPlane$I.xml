@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MeasSurfPlane$I">
+	<tu
+    xmlns:lang="eng"
+  >The calibration floor area must be in a plane with less than 3 degrees slope when viewed left to right or front to rear.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De helling van de vloer waar u de kalibrering gaat uitvoeren moet kleiner dan 3 graden zijn, zowel van links naar rechts als van voren naar achteren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La surface d'étalonnage doit être plane avec une pente inférieure à 3 degrés de droite à gauche ou d'avant en arrière.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Boden, auf dem die Kalibrierung durchgeführt wird, darf sich von links nach rechts und von vorne nach hinten um nicht mehr als 3 Grad neigen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'area della pedana di taratura deve essere in posizione piana con una pendenza inferiore a 3 gradi se vista da sinistra a destra o dalla parte anteriore a quella posteriore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >キャリブレーションを行うフロア エリアは平らで、かつ左から右を見て、また前方から後方を見て、傾斜が 3 度以内でなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A zona de piso usada para a calibragem tem de ser plana, com uma inclinação inferior a 3 graus quando vista da esquerda para a direita ou da frente para trás.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A área do piso na calibração deve estar em um plano com menos de 3 graus de inclinação quando vista da esquerda para a direita ou da dianteira para a traseira.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Продольный и поперечный уклон поверхности калибровочной площадки не должен превышать 3 градусов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La calibración se debe realizar sobre un suelo plano con menos de 3 grados de inclinación visto de izquierda a derecha o de delante hacia atrás.</tu>
+	<tu
+    xmlns:lang="chs"
+  >标定用的地板区域必须是一个水平面，无论从左向右看或从前向后看，其坡度均不得超过3度。</tu>
+	<tu
+    xmlns:lang="kor"
+  >보정 구역이 좌측에서 우측으로 또는 전방에서 후방으로 보았을 때 경사도 3° 미만의 평면이어야 합니다.</tu>
+</tm>

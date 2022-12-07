@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WRITE_CONFIG_DATA_PBRK">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will write default configuration data to the park brake module</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal de standaardconfiguratiegegevens naar de handremmodule schrijven</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de consigner les données de configuration par défaut dans le module de frein de stationnement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Maßnahme werden Standardkonfigurationsdaten in das Steuergerät der Handbremse geschrieben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura scrive i dati di configurazione predefiniti sul modulo freno di stazionamento</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順はパーキング ブレーキ モジュールにデフォルトのコンフィギュレーション データを書き込みます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento vai gravar os dados de configuração predefinida no módulo do travão de estacionamento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esse procedimento irá gravar os dados da configuração padrão para o módulo do freio de estacionamento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта процедура служит для записи стандартных данных конфигурации в блок стояночного тормоза</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento escribe los datos de la configuración predeterminada en el módulo del freno de estacionamiento</tu>
+	<tu xmlns:lang="chs">本程序将把默认配置数据写入驻车制动模块</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 주차 브레이크 모듈에 기본 구성 데이터를 씁니다.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MODULE_SW_LATEST_NOT_ON_DVD">
+	<tu
+    xmlns:lang="eng"
+  >Please be advised that the control module software included on this DVD release is not the latest level.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wij maken u erop attent dat de software van de regelmodule die op deze dvd-uitgave staat, niet van het meest recente niveau is. </tu>
+	<tu
+    xmlns:lang="fra"
+  >Prenez note du fait que le logiciel du module de commande inclus dans ce DVD n'est pas la version la plus à jour.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte beachten, dass es sich bei der auf dieser DVD enthaltenen Steuergerätesoftware nicht um die aktuellste Version handelt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il software del modulo di comando incluso su questo DVD non è la versione più recente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この DVD リリースに含まれるコントロール モジュール ソ\フトウェアは最新レベルのものではありません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Chamamos a atenção para o facto de o software do módulo de comando incluído neste DVD não ser a versão mais recente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esteja ciente de que o software do módulo de controle incluído neste DVD não é o mais recente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Учтите, что на этом DVD-диске содержится не последняя версия программного обеспечения блока управления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Téngase en cuenta que la versión del software del módulo de control que se incluye en este DVD no es la más reciente.</tu>
+	<tu xmlns:lang="chs">请注意：本DVD所包含的控制模块软件版本并不是最新的。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 DVD 릴리스에 포함되어 있는 컨트롤 모듈 소프트웨어는 최신 버전이 아닙니다.</tu>
+</tm>

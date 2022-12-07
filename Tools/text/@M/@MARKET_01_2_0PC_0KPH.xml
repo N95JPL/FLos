@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MARKET_01_2_0PC_0KPH">
+	<tu xmlns:lang="eng">Market 1 : 2.0% + 0kph</tu>
+	<tu xmlns:lang="nld">Markt 1 : 2,0%  0 km/uur</tu>
+	<tu xmlns:lang="fra">Marché 1 : 2,0 %  0 km/h.</tu>
+	<tu xmlns:lang="deu">Markt 1 : 2,0 %  0 km/h</tu>
+	<tu xmlns:lang="ita">Mercato 1 : 2,0%  0 kph</tu>
+	<tu xmlns:lang="jpn">市場 1：2.0% + 0km/h</tu>
+	<tu xmlns:lang="ptg">Mercado 1 : 2,0%  0 km/h</tu>
+	<tu xmlns:lang="ptb">Mercado 1 : 2,0%  0 km/h</tu>
+	<tu xmlns:lang="rus">Рынок 1: 2,0% + 0 км/ч</tu>
+	<tu xmlns:lang="esp">Mercado 1: 2,0%  0 km/h</tu>
+	<tu xmlns:lang="chs">市场 1：2.0% + 0kph</tu>
+	<tu xmlns:lang="kor">시장 1 : 2.0%  0kph</tu>
+</tm>

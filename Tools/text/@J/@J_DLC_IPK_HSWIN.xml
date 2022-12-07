@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_IPK_HSWIN">
+	<tu xmlns:lang="eng">Headlamp switch</tu>
+	<tu xmlns:lang="nld">Status invoer koplampschakelaar.</tu>
+	<tu xmlns:lang="fra">Statut entrée contacteur phare.</tu>
+	<tu xmlns:lang="deu">Eingangssignalstatus Scheinwerferschalter.</tu>
+	<tu xmlns:lang="ita">Stato ingresso interruttore fari.</tu>
+	<tu xmlns:lang="jpn">ヘッドランプ スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptor dos faróis</tu>
+	<tu xmlns:lang="ptb">Interruptor dos faróis</tu>
+	<tu xmlns:lang="rus">Выключатель фар</tu>
+	<tu xmlns:lang="esp">Estado de entrada del interruptor de los faros</tu>
+	<tu xmlns:lang="chs">前照灯开关</tu>
+	<tu xmlns:lang="kor">헤드램프 스위치</tu>
+</tm>

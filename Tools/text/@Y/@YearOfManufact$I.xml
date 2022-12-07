@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@YearOfManufact$I">
+	<tu xmlns:lang="eng">Year of manufacture.</tu>
+	<tu xmlns:lang="nld">Fabricagejaar.</tu>
+	<tu xmlns:lang="fra">Année de fabrication.</tu>
+	<tu xmlns:lang="deu">Herstellungsjahr.</tu>
+	<tu xmlns:lang="ita">Anno di fabbricazione.</tu>
+	<tu xmlns:lang="jpn">製造年</tu>
+	<tu xmlns:lang="ptg">Ano de fabrico.</tu>
+	<tu xmlns:lang="ptb">Ano de fabricação</tu>
+	<tu xmlns:lang="rus">Год выпуска автомобиля.</tu>
+	<tu xmlns:lang="esp">Año de fabricación.</tu>
+	<tu xmlns:lang="chs">制造年份。</tu>
+	<tu xmlns:lang="kor">제조 연도</tu>
+</tm>

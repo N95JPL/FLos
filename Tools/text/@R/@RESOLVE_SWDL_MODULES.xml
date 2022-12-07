@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RESOLVE_SWDL_MODULES">
+	<tu xmlns:lang="eng">Resolving software download modules found in menu</tu>
+	<tu xmlns:lang="nld">Softwaredownloadmodules gevonden in menu oplossen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Correction des modules de téléchargement de logiciel trouvés dans le menu</tu>
+	<tu
+    xmlns:lang="deu"
+  >Geklärte Software-Download-Steuergeräte im Menü gefunden</tu>
+	<tu
+    xmlns:lang="ita"
+  >Risoluzione in corso scaricamento software moduli trovati nel menu</tu>
+	<tu
+    xmlns:lang="jpn"
+  >メニューにあるソ\フトウェア ダウンロード モジュールを解析・特定しています</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A rectificar módulos de transferência de software encontrados no menu</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Resolver módulos de download de software encontrados no menu</tu>
+	<tu
+    xmlns:lang="rus"
+  >Найденое в меню программное обеспечение модулей загружено</tu>
+	<tu
+    xmlns:lang="esp"
+  >Corrigiendo módulos de descarga de software encontrados en el menú</tu>
+	<tu xmlns:lang="chs">正在解决菜单中找到的软件下载模块</tu>
+	<tu xmlns:lang="kor">메뉴에서 발견된 소프트웨어 다운로드 모듈 해결</tu>
+</tm>

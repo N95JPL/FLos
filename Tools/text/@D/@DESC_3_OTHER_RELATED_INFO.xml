@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DESC_3_OTHER_RELATED_INFO">
+	<tu xmlns:lang="eng">Hardware part number</tu>
+	<tu xmlns:lang="nld">Onderdeelnummer van hardware</tu>
+	<tu xmlns:lang="fra">Référence du matériel</tu>
+	<tu xmlns:lang="deu">Hardware-Teilenummer</tu>
+	<tu xmlns:lang="ita">Numero parte dell'hardware</tu>
+	<tu xmlns:lang="jpn">ハードウェア パーツ ナンバー</tu>
+	<tu xmlns:lang="ptg">Número de peça do hardware</tu>
+	<tu xmlns:lang="ptb">Número da peça de hardware</tu>
+	<tu xmlns:lang="rus">Номер аппаратного обеспечения </tu>
+	<tu xmlns:lang="esp">Número de pieza de hardware</tu>
+	<tu xmlns:lang="chs">硬件零件号</tu>
+	<tu xmlns:lang="kor">하드웨어 부품 번호</tu>
+</tm>

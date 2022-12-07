@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LongAccCal$I">
+	<tu xmlns:lang="eng">Longitudinal accelerometer calibration.</tu>
+	<tu xmlns:lang="nld">Kalibrering van acceleratiemeter in langsrichting.</tu>
+	<tu xmlns:lang="fra">Etalonnage de l'accéléromètre longitudinal.</tu>
+	<tu xmlns:lang="deu">Kalibration Längsbeschleunigungsaufnehmer.</tu>
+	<tu xmlns:lang="ita">Taratura accelerometro longitudinale.</tu>
+	<tu xmlns:lang="jpn">縦方向加速度センサー キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem longitudinal do acelerómetro.</tu>
+	<tu xmlns:lang="ptb">Calibração de acelerômetro longitudinal.</tu>
+	<tu xmlns:lang="rus">Калибровка датчика продольного ускорения.</tu>
+	<tu xmlns:lang="esp">Calibración del acelerómetro longitudinal.</tu>
+	<tu xmlns:lang="chs">纵向加速计标定。</tu>
+	<tu xmlns:lang="kor">종방향 가속도계 보정</tu>
+</tm>

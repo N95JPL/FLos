@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ECU_REPROG2">
+	<tu xmlns:lang="eng">Module reprogramming</tu>
+	<tu xmlns:lang="nld">Opnieuw programmeren van module</tu>
+	<tu xmlns:lang="fra">Reprogrammation du module</tu>
+	<tu xmlns:lang="deu">Steuergerät-Neuprogrammierung</tu>
+	<tu xmlns:lang="ita">Riprogrammazione del modulo</tu>
+	<tu xmlns:lang="jpn">モジュールの再プログラミング</tu>
+	<tu xmlns:lang="ptg">Reprogramação do módulo</tu>
+	<tu xmlns:lang="ptb">Reprogramação do módulo</tu>
+	<tu xmlns:lang="rus">Перепрограммирование блока</tu>
+	<tu xmlns:lang="esp">Reprogramación del módulo</tu>
+	<tu xmlns:lang="chs">模块重新编程</tu>
+	<tu xmlns:lang="kor">모듈 재프로그래밍</tu>
+</tm>

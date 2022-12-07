@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@COLD_COUNTRY_NOT">
+	<tu xmlns:lang="eng">Not cold country</tu>
+	<tu xmlns:lang="nld">Niet koud land</tu>
+	<tu xmlns:lang="fra">Pays non froid.</tu>
+	<tu xmlns:lang="deu">Nicht kaltes Land</tu>
+	<tu xmlns:lang="ita">Paese caldo</tu>
+	<tu xmlns:lang="jpn">寒冷地以外</tu>
+	<tu xmlns:lang="ptg">País não frio</tu>
+	<tu xmlns:lang="ptb">Não destinado a países frios</tu>
+	<tu xmlns:lang="rus">Страна с теплым климатом</tu>
+	<tu xmlns:lang="esp">País templado o cálido</tu>
+	<tu xmlns:lang="chs">非寒冷国家</tu>
+	<tu xmlns:lang="kor">한랭 기후 국가 아님</tu>
+</tm>

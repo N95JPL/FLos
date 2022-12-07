@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NAV_SYSTEM_USA_CANADA">
+	<tu xmlns:lang="eng">Navigation system for USA and Canada</tu>
+	<tu xmlns:lang="nld">Navigatiesysteem voor de VS en Canada</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système de navigation destiné aux Etats-Unis et au Canada</tu>
+	<tu xmlns:lang="deu">Navigationssystem für USA und Kanada</tu>
+	<tu xmlns:lang="ita">Sistema di navigazione per Stati Uniti e Canada</tu>
+	<tu xmlns:lang="jpn">米国およびカナダ向けナビゲーション システム</tu>
+	<tu xmlns:lang="ptg">Sistema de navegação para EUA e Canadá</tu>
+	<tu xmlns:lang="ptb">Sistema de navegação para os Estados Unidos e Canadá</tu>
+	<tu xmlns:lang="rus">Навигационная система для рынка США и Канады</tu>
+	<tu xmlns:lang="esp">Sistema de navegación para EE. UU. y Canadá</tu>
+	<tu xmlns:lang="chs">美国与加拿大导航系统</tu>
+	<tu xmlns:lang="kor">미국 및 캐나다용 내비게이션 시스템</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SYS_FAU_FREE">
+	<tu
+    xmlns:lang="eng"
+  >The system must be fault free before continuing with the following application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem moet storingsvrij zijn, voordat u met de volgende toepassing verdergaat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La poursuite de l'application suivante nécessite que le système soit exempt de toute erreur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das System muss störungsfrei sein, ehe mit dem folgenden Anwendungsprogramm fortgefahren wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sistema deve essere privo di guasti prima di continuare con la seguente applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のアプリケーションを続行する前に、システムに故障のないことが必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Antes de continuar com a aplicação seguinte, o sistema tem de estar sem quaisquer avarias.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema deve estar totalmente livre antes de continuar com o seguinte aplicativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система должна находиться в исправном состоянии перед продолжением выполнения данной программы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema debe estar libre de toda anomalía antes de continuar con la aplicación siguiente.</tu>
+	<tu xmlns:lang="chs">在执行下述应用前，该系统必须无故障。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 애플리케이션으로 계속 진행하기 전까지는 시스템에 오류가 없어야 합니다.</tu>
+</tm>

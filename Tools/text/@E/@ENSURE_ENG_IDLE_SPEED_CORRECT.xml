@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ENSURE_ENG_IDLE_SPEED_CORRECT">
+	<tu xmlns:lang="eng">Ensure engine idle speed correct</tu>
+	<tu xmlns:lang="nld">Zorg dat het stationaire toerental correct is</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que le régime de ralenti du moteur est correct</tu>
+	<tu xmlns:lang="deu">Korrekte Leerlaufdrehzahl des Motors sicherstellen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che il regime di minimo del motore sia corretto</tu>
+	<tu xmlns:lang="jpn">エンジン アイドル スピードが正しいことを確認しなさい</tu>
+	<tu xmlns:lang="ptg">Verificar se a velocidade de ralenti é correcta</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o motor fique em marcha lenta corretamente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что обороты холостого хода двигателя в норме</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que el régimen de ralentí del motor es el correcto</tu>
+	<tu xmlns:lang="chs">确保发动机怠速速度正确</tu>
+	<tu xmlns:lang="kor">엔진 공회전 속도가 적당한지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@USB_FAILED_APPLICATION">
+	<tu
+    xmlns:lang="eng"
+  >The software parts validation application on the USB storage device has failed to start.  This could be for one of the following reasons:</tu>
+	<tu
+    xmlns:lang="nld"
+  >De validatietoepassing van de software-onderdelen op het USB-opslagapparaat is niet opgestart.  Dit kan om een van de volgende redenen het geval zijn:</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'application de validation des éléments de logiciel sur le périphérique de stockage USB n'a pas pu démarrer.  Cela peut être dû à l'une des raisons suivantes :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Anwendung zur Validierung der Softwareteile auf dem USB-Datenträger ist nicht angelaufen.  Dies könnte einen der folgenden Gründe haben:</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'applicazione di convalida delle parti del software sul dispositivo di memorizzazione USB non si è avviata.   Ciò potrebbe essere dovuto a una delle seguenti ragioni:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >USB 保存デバイス上のソ\フトウェア パーツ検証アプリケーションを開始できませんでした。  これは次の理由のいずれかによる可能\性があります：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A aplicação de validação das partes do software no dispositivo de armazenamento USB não conseguiu iniciar.  Isto pode dever-se a uma das seguintes razões:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O aplicativo de validação dos softwares no dispositivo de armazenamento USB falhou ao iniciar.  Isso pode ter ocorrido por um dos seguintes motivos:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Приложение проверки достоверности элементов ПО на накопителе USB не запустилось.  Это может быть вызвано одной из следующих причин:</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudo iniciar la aplicación de validación de los componentes de software en el dispositivo de almacenamiento USB.  Puede deberse a una de las siguientes razones:</tu>
+	<tu
+    xmlns:lang="chs"
+  >USB 存储设备上的软件组件验证应用程序未能启动。  这可能是由于以下原因之一：</tu>
+	<tu
+    xmlns:lang="kor"
+  >USB 저장 장치의 소프트웨어 부품 확인 응용 프로그램을 시작하지 못했습니다.  다음 중 하나가 원인일 수 있습니다.</tu>
+</tm>

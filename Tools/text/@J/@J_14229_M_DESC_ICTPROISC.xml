@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_ICTPROISC">
+	<tu xmlns:lang="eng">InControl Touch Pro infotainment slave controller</tu>
+	<tu xmlns:lang="nld">InControl Touch Pro infotainmentslavecontroller</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôleur esclave d'infodivertissement InControl Touch Pro</tu>
+	<tu xmlns:lang="deu">InControl Touch Pro Infotainment-Nebensteuerung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controller secondario Infotainment (ISC) InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="jpn"
+  >InControl Touch Pro インフォテイメント スレーブ コントローラ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Controlador secundário do sistema de informação e entretenimento InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >InControl Touch Pro: controlador escravo do infoentretenimento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подчиненный контроллер информационно-развлекательной системы InControl Touch Pro</tu>
+	<tu
+    xmlns:lang="esp"
+  >Controlador secundario del sistema de información y entretenimiento de InControl Touch Pro</tu>
+	<tu xmlns:lang="chs">InControl 智能驭享信息娱乐从控制器</tu>
+	<tu xmlns:lang="kor">InControl Touch Pro 인포테인먼트 슬레이브 컨트롤러</tu>
+</tm>

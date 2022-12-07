@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_9">
+	<tu xmlns:lang="eng">General failure information - component failure.</tu>
+	<tu xmlns:lang="nld">Informatie over algemeen defect - component defect.</tu>
+	<tu xmlns:lang="fra">Panne générale - composant défectueux.</tu>
+	<tu xmlns:lang="deu">Allgemeine Störungsinformation - Bauteilstörung.</tu>
+	<tu xmlns:lang="ita">Informazioni guasti generali - guasto componente.</tu>
+	<tu xmlns:lang="jpn">一般故障情報 － コンポーネント故障</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Informações gerais sobre a falha - falha de componente.</tu>
+	<tu xmlns:lang="ptb">Informações de falha geral - falha do componente.</tu>
+	<tu xmlns:lang="rus">Общие сведения об отказах - отказ элемента.</tu>
+	<tu xmlns:lang="esp">Información de fallo general: fallo de componente.</tu>
+	<tu xmlns:lang="chs">普通故障信息 - 元件故障。</tu>
+	<tu xmlns:lang="kor">일반 고장 정보 - 구성 요소 고장</tu>
+</tm>

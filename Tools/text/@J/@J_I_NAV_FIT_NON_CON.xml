@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NAV_FIT_NON_CON">
+	<tu xmlns:lang="eng">Navigator fitted (non configurable)</tu>
+	<tu xmlns:lang="nld">Navigator gemonteerd (niet-configureerbaar)</tu>
+	<tu xmlns:lang="fra">Navigateur monté (non configurable)</tu>
+	<tu xmlns:lang="deu">Navigator eingebaut (nicht konfigurierbar)</tu>
+	<tu xmlns:lang="ita">Navigatore installato (non configurabile)</tu>
+	<tu xmlns:lang="jpn">ナビゲーション装備 (コンフィギュレーション不可能\)</tu>
+	<tu xmlns:lang="ptg">Navegador instalado (não configurável)</tu>
+	<tu xmlns:lang="ptb">Navegador instalado (não configurável)</tu>
+	<tu xmlns:lang="rus">Установлен навигатор (не настраиваемый)</tu>
+	<tu xmlns:lang="esp">Con navegador montado (no configurable)</tu>
+	<tu xmlns:lang="chs">安装了导航器（不可配置）</tu>
+	<tu xmlns:lang="kor">내비게이션 장치가 장착됨(구성 불가능)</tu>
+</tm>

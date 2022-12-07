@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RideHeighNorm$M">
+	<tu
+    xmlns:lang="eng"
+  >Set the ride height to normal and wait until the system stops adjusting.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zet de rijhoogte in de normaalstand en wacht totdat het systeem met verstellen stopt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Réglez l'assiette à la hauteur normale et attendez que le système termine le réglage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Normale Fahrhöhe einstellen und warten, bis das System seine Einstellungen beendet hat.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Regolare l'altezza di marcia su normale e attendere che il sistema finisca la regolazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ライド ハイトをノーマルに設定し、システムが調整を停止するまで待ちなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Coloque a altura de andamento para normal e aguarde até que o sistema pare de ajustar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ajuste a altura do automóvel para a altura normal e espere até que o sistema tenha terminado o ajuste.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установите нормальную высоту кузова и подождите, пока система закончит регулировку.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccionar la altura de marcha normal y esperar hasta que el sistema se haya estabilizado.</tu>
+	<tu xmlns:lang="chs">将行驶高度设置为正常，然后等待系统停止调整为止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >지상고를 정상 높이로 설정하고 시스템이 조정을 멈출 때까지 기다립니다.</tu>
+</tm>

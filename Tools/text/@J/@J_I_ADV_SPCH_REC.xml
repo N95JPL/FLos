@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ADV_SPCH_REC">
+	<tu xmlns:lang="eng">Advanced speech recognition</tu>
+	<tu xmlns:lang="nld">Geavanceerde spraakherkenning </tu>
+	<tu xmlns:lang="fra">Reconnaissance vocale avancée </tu>
+	<tu xmlns:lang="deu">Fortschrittliche Spracherkennung </tu>
+	<tu xmlns:lang="ita">Riconoscimento vocale avanzato</tu>
+	<tu xmlns:lang="jpn">アドバンス スピーチ レコグニション (先進音声認識)</tu>
+	<tu xmlns:lang="ptg">Reconhecimento de voz avançado</tu>
+	<tu xmlns:lang="ptb">Reconhecimento de voz avançado</tu>
+	<tu xmlns:lang="rus">Усовершенствованная система распознавания речи </tu>
+	<tu xmlns:lang="esp">Reconocimiento de voz avanzado</tu>
+	<tu xmlns:lang="chs">高级语音识别</tu>
+	<tu xmlns:lang="kor">고급 음성 인식</tu>
+</tm>

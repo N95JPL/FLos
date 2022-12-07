@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_ASBUILT_INVALID">
+	<tu xmlns:lang="eng">As built invalid</tu>
+	<tu xmlns:lang="nld">Af fabriek ongeldig</tu>
+	<tu xmlns:lang="fra">Conforme à l'exécution - Non valide</tu>
+	<tu xmlns:lang="deu">Werkseitige Baudaten ungültig</tu>
+	<tu xmlns:lang="ita">Di fabbricazione non valido</tu>
+	<tu xmlns:lang="jpn">アズ ビルト無効</tu>
+	<tu xmlns:lang="ptg">Dados de fábrica inválidos</tu>
+	<tu xmlns:lang="ptb">Como construído inválido</tu>
+	<tu xmlns:lang="rus">Недействительные заводские параметры</tu>
+	<tu xmlns:lang="esp">Configuración de fábrica no válida</tu>
+	<tu xmlns:lang="chs">出厂状态值无效</tu>
+	<tu xmlns:lang="kor">애즈-빌트(As-Built)가 잘못됨</tu>
+</tm>

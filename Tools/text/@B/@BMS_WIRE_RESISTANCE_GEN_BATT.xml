@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_WIRE_RESISTANCE_GEN_BATT">
+	<tu xmlns:lang="eng">Check wiring resistance between generator and battery</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer de weerstand van de bedrading tussen de dynamo en de accu</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôlez la résistance du câblage entre l'alternateur et la batterie</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kabelwiderstand zwischen Generator und Batterie messen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare la resistenza del cablaggio tra generatore e batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ジェネレータとバッテリの間のワイヤリング抵抗値をチェックしなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar a resistência da cablagem entre o alternador e a bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique a resistência da fiação entre o alternador e a bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте сопротивление проводки между генератором и аккумуляторной батареей</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar la resistencia de los cables entre el alternador y la batería</tu>
+	<tu xmlns:lang="chs">检查发电机与蓄电池之间的接线电阻</tu>
+	<tu xmlns:lang="kor">제너레이터와 배터리 사이의 배선 저항을 점검하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SOUNDER_UK_NOT">
+	<tu xmlns:lang="eng">Not a UK sounder</tu>
+	<tu xmlns:lang="nld">Sirene, geen VK.</tu>
+	<tu xmlns:lang="fra">Pas de signal sonore R.-U..</tu>
+	<tu xmlns:lang="deu">Signaltongeber - nicht GB</tu>
+	<tu xmlns:lang="ita">Segnale acustico non Regno Unito</tu>
+	<tu xmlns:lang="jpn">英国向け以外のサウンダー</tu>
+	<tu xmlns:lang="ptg">Não é uma unidade sonora para Reino Unido</tu>
+	<tu xmlns:lang="ptb">Sonda não destinada para o Reino Unido</tu>
+	<tu xmlns:lang="rus">Динамик не предназначен для Великобритании</tu>
+	<tu xmlns:lang="esp">No es una sirena para el Reino Unido</tu>
+	<tu xmlns:lang="chs">非英国用发声器</tu>
+	<tu xmlns:lang="kor">영국용 경보 발생기 아님</tu>
+</tm>

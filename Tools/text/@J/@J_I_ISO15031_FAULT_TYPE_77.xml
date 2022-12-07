@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_77">
+	<tu
+    xmlns:lang="eng"
+  >Mechanical failure - commanded position is not reachable.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Mechanisch defect - opgegeven stand kan niet bereikt worden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaillance mécanique - impossible d'atteindre position commandée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mechanische Störung - befohlene Stellung kann nicht erreicht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto meccanico - posizione comandata non raggiungibile.</tu>
+	<tu xmlns:lang="jpn">機械的故障 － コマンド ポジションに到達できず</tu>
+	<tu xmlns:lang="ptg">Falha mecânica - posição comandada não é atingível.</tu>
+	<tu xmlns:lang="ptb">Falha mecânica - posição de instrução não alcançável.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Механическая неисправность - невозможно привести в заданное положение.</tu>
+	<tu xmlns:lang="esp">Fallo mecánico: posición ordenada inalcanzable.</tu>
+	<tu xmlns:lang="chs">机械故障 - 命令要求的位置不能到达。</tu>
+	<tu xmlns:lang="kor">기계적 고장 - 명령된 위치에 도달할 수 없음</tu>
+</tm>

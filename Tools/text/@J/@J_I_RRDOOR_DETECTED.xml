@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RRDOOR_DETECTED">
+	<tu xmlns:lang="eng">%d : rear right door open detected</tu>
+	<tu xmlns:lang="nld">%d : rechterachterportier open gedetecteerd</tu>
+	<tu xmlns:lang="fra">%d : porte arrière droite ouverte détectée</tu>
+	<tu xmlns:lang="deu">%d : Öffnung Hintertür rechts ermittelt</tu>
+	<tu xmlns:lang="ita">%d : rilevata portiera posteriore destra aperta</tu>
+	<tu xmlns:lang="jpn">%d : 右リア ドア オープンを検出</tu>
+	<tu xmlns:lang="ptg">%d: detectada porta traseira direita aberta</tu>
+	<tu xmlns:lang="ptb">%d : detectada porta direita traseira aberta</tu>
+	<tu xmlns:lang="rus">%d : открыта задняя правая дверь</tu>
+	<tu
+    xmlns:lang="esp"
+  >%d : se ha detectado que la puerta trasera derecha está abierta</tu>
+	<tu xmlns:lang="chs">%d : 检测到右后车门打开</tu>
+	<tu xmlns:lang="kor">%d : 리어 우측 도어 열림이 감지됨</tu>
+</tm>

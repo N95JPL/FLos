@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_TIRE_PRESSURE_MON">
+	<tu xmlns:lang="eng">Tire pressure monitoring</tu>
+	<tu xmlns:lang="nld">Bewaking van bandenspanning</tu>
+	<tu xmlns:lang="fra">Contrôle de la pression de gonflage des pneus</tu>
+	<tu xmlns:lang="deu">Reifendrucküberwachung</tu>
+	<tu xmlns:lang="ita">Controllo pressione pneumatici</tu>
+	<tu xmlns:lang="jpn">タイヤ プレッシャ モニタリング</tu>
+	<tu xmlns:lang="ptg">Monitorização da pressão dos pneus</tu>
+	<tu xmlns:lang="ptb">Monitoramento da pressão dos pneus</tu>
+	<tu xmlns:lang="rus">Контроль давления в шинах</tu>
+	<tu xmlns:lang="esp">Control de la presión de los neumáticos</tu>
+	<tu xmlns:lang="chs">轮胎压力监测</tu>
+	<tu xmlns:lang="kor">타이어 공기압 모니터링</tu>
+</tm>

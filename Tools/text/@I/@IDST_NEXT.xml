@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDST_NEXT">
+	<tu xmlns:lang="eng">Next</tu>
+	<tu xmlns:lang="nld">Volgende</tu>
+	<tu xmlns:lang="fra">Elément suivant</tu>
+	<tu xmlns:lang="deu">Weiter</tu>
+	<tu xmlns:lang="ita">Avanti</tu>
+	<tu xmlns:lang="jpn">次へ</tu>
+	<tu xmlns:lang="ptg">Seguinte</tu>
+	<tu xmlns:lang="ptb">Avançar</tu>
+	<tu xmlns:lang="rus">Далее</tu>
+	<tu xmlns:lang="esp">Siguiente</tu>
+	<tu xmlns:lang="chs">下一步</tu>
+	<tu xmlns:lang="kor">다음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@O_TXU_ECU_CALIB">
+	<tu xmlns:lang="eng">Control module calibration</tu>
+	<tu xmlns:lang="nld">Kalibrering van regelmodule</tu>
+	<tu xmlns:lang="fra">Etalonnage du module de commande.</tu>
+	<tu xmlns:lang="deu">Steuergerätekalibrierung</tu>
+	<tu xmlns:lang="ita">Taratura modulo di comando</tu>
+	<tu xmlns:lang="jpn">コントロール モジュールのキャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibração do módulo de comando.</tu>
+	<tu xmlns:lang="ptb">Calibração do módulo de controle</tu>
+	<tu xmlns:lang="rus">Калибровка блока управления</tu>
+	<tu xmlns:lang="esp">Calibración del módulo de control</tu>
+	<tu xmlns:lang="chs">控制模块校准</tu>
+	<tu xmlns:lang="kor">컨트롤 모듈 보정</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SWITCH_DOUBLE_POLE">
+	<tu xmlns:lang="eng">Double pole switch</tu>
+	<tu xmlns:lang="nld">Tweepolige schakelaar.</tu>
+	<tu xmlns:lang="fra">Contacteur bipolaire.</tu>
+	<tu xmlns:lang="deu">Zweipoliger Schalter</tu>
+	<tu xmlns:lang="ita">Interruttore bipolare</tu>
+	<tu xmlns:lang="jpn">ダブル ポール スイッチ</tu>
+	<tu xmlns:lang="ptg">Interruptor de dois pólos</tu>
+	<tu xmlns:lang="ptb">Interruptor de polo duplo</tu>
+	<tu xmlns:lang="rus">Двухполюсный переключатель</tu>
+	<tu xmlns:lang="esp">Interruptor bipolar</tu>
+	<tu xmlns:lang="chs">双极开关</tu>
+	<tu xmlns:lang="kor">쌍극 스위치</tu>
+</tm>

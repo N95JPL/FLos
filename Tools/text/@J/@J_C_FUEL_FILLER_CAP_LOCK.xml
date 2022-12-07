@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_FUEL_FILLER_CAP_LOCK">
+	<tu xmlns:lang="eng">Fuel filler door locking.</tu>
+	<tu xmlns:lang="nld">Vergrendeling van de brandstofvulklep</tu>
+	<tu xmlns:lang="fra">Verrouillage de trappe de remplissage de carburant</tu>
+	<tu xmlns:lang="deu">Verriegelung klappe kraftstoffeinfüllstutzen</tu>
+	<tu xmlns:lang="ita">Bloccaggio sportellino serbatoio carburante</tu>
+	<tu xmlns:lang="jpn">R料フィラー フラップ ロッキャO</tu>
+	<tu xmlns:lang="ptg">Trancagem do tampão do depósito de combustível.</tu>
+	<tu xmlns:lang="ptb">Trava da porta de enchimento de combustível.</tu>
+	<tu xmlns:lang="rus">Запирание лючка топливоналивной горловины.</tu>
+	<tu xmlns:lang="esp">Bloqueo de la tapa del deposito</tu>
+	<tu xmlns:lang="chs">燃油加注口盖锁定。</tu>
+	<tu xmlns:lang="kor">연료 주입구 도어 잠금</tu>
+</tm>

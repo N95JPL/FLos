@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IN_PLANT_TEST">
+	<tu xmlns:lang="eng">In-plant testing</tu>
+	<tu xmlns:lang="nld">Testen in fabriek</tu>
+	<tu xmlns:lang="fra">Test en usine</tu>
+	<tu xmlns:lang="deu">Prüfung bei Fertigung</tu>
+	<tu xmlns:lang="ita">Collaudo in loco</tu>
+	<tu xmlns:lang="jpn">インプラント テスト</tu>
+	<tu xmlns:lang="ptg">Teste na fábrica</tu>
+	<tu xmlns:lang="ptb">Teste na fábrica</tu>
+	<tu xmlns:lang="rus">Тестирование на заводе</tu>
+	<tu xmlns:lang="esp">Pruebas en planta</tu>
+	<tu xmlns:lang="chs">出厂前测试</tu>
+	<tu xmlns:lang="kor">공장 내 테스트</tu>
+</tm>

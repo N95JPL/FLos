@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAP_UPDT_INS_USB">
+	<tu
+    xmlns:lang="eng"
+  >Select 'navigation' from the touch screen and then insert your USB flash drive containing the map update software, into one of the front USB ports.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Selecteer 'navigatie' op het touchscreen en steek de USB-stick met de software voor het bijwerken van de kaarten in een van de voorste USB-poorten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélectionnez 'navigation' sur l'écran tactile, puis insérez la clé USB contenant le logiciel de mise à jour de la carte dans l'un des ports USB à l'avant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf dem Touchscreen „Navigation“ auswählen und dann den USB-Stick mit der Kartenaktualisierungs-Software in einen der vorderen USB-Anschlüsse einstecken.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dallo schermo a sfioramento selezionare Navigazione, quindi inserire la propria unità flash USB contenente il software di aggiornamento della mappa in una delle porte USB anteriori.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >タッチ スクリーンから「ナビゲーション」を選択し、前面の USB ポートのいずれかに、マップ更新ソフトウェアが入った USB フラッシュ ドライブを挿入する。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Selecione 'Navegação' a partir do ecrã de toque e, em seguida, introduza a unidade flash USB com o software de atualização de mapas numa das portas USB dianteiras.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Selecione navegação na touchscreen e, depois, insira seu pen drive USB contendo o software de atualização do mapa em uma das portas USB dianteiras.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выберите Навигационная система на сенсорном экране и вставьте носитель USB, содержащий ПО для обновления карт, в один из передних портов USB.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccione Navegador en la pantalla táctil e inserte la unidad USB que contenga el software de actualización de mapas en uno de los puertos USB.</tu>
+	<tu
+    xmlns:lang="chs"
+  >从触摸屏上选择“导航”，然后将含有地图更新软件的 USB 闪存驱动器插入其中一个前 USB 端口中。</tu>
+	<tu
+    xmlns:lang="kor"
+  >터치 스크린에서 '내비게이션'을 선택한 다음, 지도 업데이트 소프트웨어가 들어 있는 USB 플래시 드라이브를 프론트 USB 포트 중 하나에 삽입하십시오.</tu>
+</tm>

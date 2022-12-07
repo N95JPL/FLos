@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ConnToVCMLost$I">
+	<tu
+    xmlns:lang="eng"
+  >The connection to the vehicle communications module has been lost.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De verbinding met de communicatiemodule van de auto is weggevallen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La connexion au module de communications du véhicule a été perdue.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Verbindung zum Fahrzeug-Kommunikationsmodul wurde unterbrochen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il collegamento al modulo comunicazioni veicolo è stato perduto.</tu>
+	<tu xmlns:lang="jpn">車両通信モジュールへの接続が消失しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A ligação ao módulo de comunicações do veículo perdeu-se.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A conexão com o módulo de comunicação do veículo foi perdida.</tu>
+	<tu xmlns:lang="rus">Соединение с блоком связи автомобиля прервано.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha perdido la conexión al módulo de comunicaciones del vehículo.</tu>
+	<tu xmlns:lang="chs">至车辆通讯模块的连接已丢失。</tu>
+	<tu xmlns:lang="kor">차량 통신 모듈에 대한 연결이 손실되었습니다.</tu>
+</tm>

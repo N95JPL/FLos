@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_NUM_CYCLES">
+	<tu xmlns:lang="eng">Pilot correction learning may not be able to go immediately to the appropriate values - it may take several engine cycles to reach the correct values.</tu>
+	<tu xmlns:lang="nld">De routine 'inleren van pilot-correctie' kan misschien niet direct naar de betreffende waarden gaan. Er kunnen diverse motorcycli nodig zijn voordat de juiste waarden bereikt zijn.</tu>
+	<tu xmlns:lang="fra">L'apprentissage de la correction pilote peut ne pas être en mesure de prendre immédiatement les valeurs appropriées - plusieurs cycles moteurs peuvent être nécessaires avant d'atteindre les valeurs correctes.</tu>
+	<tu xmlns:lang="deu">Das Lernverfahren Voreinspritzungskorrektur kann möglicherweise nicht direkt zum angemessenen Wert gehen - Erreichen der korrekten Werte kann mehrere Ein-/Ausschaltzyklen des Motors in Anspruch nehmen.</tu>
+	<tu xmlns:lang="ita">L'apprendimento correzione pilota potrebbe non essere in grado di andare immediatamente ai valori appropriati; potrebbero essere necessari parecchi cicli del motore per raggiungere i valori corretti.</tu>
+	<tu xmlns:lang="jpn">パイロット補正学習が即、適切な数値へ進まないことがあります - 正しい数値へ到達するまで数回のエンジン サイクルが必要な場合があります。</tu>
+	<tu xmlns:lang="ptg">A programação da correcção piloto pode não ir imediatamente para os valores adequados - poderão ser necessários vários ciclos do motor para atingir os valores correctos.</tu>
+	<tu xmlns:lang="ptb">A aprendizagem de correção do piloto pode não ser capaz de ir imediatamente para os valores apropriados - pode levar vários ciclos do motor para alcançar os valores corretos.</tu>
+	<tu xmlns:lang="rus">Требуемые значения контрольной корректировки могут установиться не сразу, для этого может потребоваться несколько тактов работы двигателя.</tu>
+	<tu xmlns:lang="esp">Es posible que el aprendizaje de corrección piloto no pueda pasar inmediatamente a los valores apropiados, pudiendo tardarse varios ciclos del motor en alcanzar los valores correctos.</tu>
+	<tu xmlns:lang="chs">试验性校正记忆可能不能立即达到适当的值--可能需要数个发动机循环才能达到正确值。</tu>
+	<tu xmlns:lang="kor">파일럿 보정 학습이 적당한 값으로 즉시 이동할 수 없는 경우도 있습니다. 적당한 값에 도달하기까지 여러 차례의 엔진 사이클을 거칠 수 있습니다.</tu>
+</tm>

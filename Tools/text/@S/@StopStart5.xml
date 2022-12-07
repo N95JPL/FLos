@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart5">
+	<tu
+    xmlns:lang="eng"
+  >Additional inhibits may be in place that relate to this condition, use the hover over function for more detail.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er kunnen extra blokkeringen aanwezig zijn die betrekking hebben op deze toestand, gebruik de functie 'met de muis ergens overheen bewegen' voor meer details.</tu>
+	<tu
+    xmlns:lang="fra"
+  >D'autres neutralisations liées à ce problème peuvent survenir. Placez le pointeur sur un élément pour obtenir plus d'informations le concernant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zusätzliche Sperren im Zusammenhang mit dieser Bedingung können vorhanden sein; den Mauszeiger verwenden, um zusätzliche Informationen zu erhalten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >In relazione a questa condizione si possono verificare ulteriori disabilitazioni, per maggiori dettagli utilizzare la funzione di passaggio del puntatore del mouse.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この状態に関連した禁止状態がさらに発生する可能性があります。詳細については、機能の上にカーソルを置いてください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Podem existir outras inibições relacionadas com esta condição. Utilize a função de passar o cursor para obter mais informações.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Inibições adicionais podem ocorrer em relação a essa condição, utilize a função de passar o mouse para obter mais detalhes.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Могут присутствовать дополнительные блокировки, имеющие отношение к данному состоянию. Для получения подробных сведений используйте функцию наведения курсора.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se pueden producir algunos bloqueos adicionales relacionados con esta condición. Pase el cursor por encima para obtener más información.</tu>
+	<tu
+    xmlns:lang="chs"
+  >可能存在与这种情况相关的更多禁止，使用鼠标悬停功能可以了解更多的详细信息。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 상태와 관련하여 추가적인 억제가 발생할 수 있는데, 자세한 내용은 마우스로 가리키면 표시됩니다.</tu>
+</tm>

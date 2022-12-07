@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_SLM_INCALM">
+	<tu xmlns:lang="eng">Inclination alarm</tu>
+	<tu xmlns:lang="nld">Hellingshoekalarm</tu>
+	<tu xmlns:lang="fra">Alarme d'inclinaison</tu>
+	<tu xmlns:lang="deu">Fahrzeugneigungs-Alarm</tu>
+	<tu xmlns:lang="ita">Allarme inclinazione</tu>
+	<tu xmlns:lang="jpn">傾斜アラーム</tu>
+	<tu xmlns:lang="ptg">Alarme do sistema de detecção de inclinação</tu>
+	<tu xmlns:lang="ptb">Alarme de inclinação</tu>
+	<tu xmlns:lang="rus">Сигнализация наклона</tu>
+	<tu xmlns:lang="esp">Alarma de inclinación</tu>
+	<tu xmlns:lang="chs">倾斜报警</tu>
+	<tu xmlns:lang="kor">기울기 알람</tu>
+</tm>

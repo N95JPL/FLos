@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NA_MARKET_ABORT">
+	<tu
+    xmlns:lang="eng"
+  >If the vehicle isn't built to one of the above markets, press cross to abort.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het voertuig niet overeenkomstig een van de bovenstaande markten gefabriceerd is, drukt u op het kruisje om af te breken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si le véhicule n'est pas construit selon les spécifications de l'un des marchés ci-dessus, cliquer sur la croix pour abandonner.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist das Fahrzeug nicht gemäß einer der oben genannten Märkte gebaut, das Kreuz antippen, um abzubrechen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se il veicolo non è stato costruito secondo le specifiche di uno dei mercati suddetti, premere la croce per interrompere la procedura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両が上記市場のいずれの仕様にも該当しない場合、×を押して終了しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o veículo não for fabricado para um dos mercados acima referidos, prima a cruz para abortar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o veículo não for construído para um dos mercados acima, pressione a cruz para interromper.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если автомобиль не предназначен для одного из указанных выше рынков, нажмите крестик для прекращения процедуры.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el vehículo no ha sido fabricado para uno de los mercados anteriores, pulsar la cruz para salir.</tu>
+	<tu xmlns:lang="chs">如果车辆不是按上述市场之一的规范制造，请按叉键中止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량이 위 시장 중 하나에 맞춰 제작된 차량이 아닌 경우에는 십자 기호를 눌러 중단하십시오.</tu>
+</tm>

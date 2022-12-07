@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PARK_AID_DISPLAY">
+	<tu xmlns:lang="eng">Parking aid display</tu>
+	<tu xmlns:lang="nld">Parkeerhulpdisplay</tu>
+	<tu xmlns:lang="fra">Affichage de l'aide au stationnement.</tu>
+	<tu xmlns:lang="deu">Einparkhilfedisplay</tu>
+	<tu xmlns:lang="ita">Display assistenza parcheggio</tu>
+	<tu xmlns:lang="jpn">パーキング エイド ディスプレイ</tu>
+	<tu xmlns:lang="ptg">Visor do sistema auxiliar de estacionamento</tu>
+	<tu xmlns:lang="ptb">Monitor do sensor de estacionamento</tu>
+	<tu xmlns:lang="rus">Дисплей системы помощи при парковке</tu>
+	<tu xmlns:lang="esp">Visualización de la ayuda al aparcamiento</tu>
+	<tu xmlns:lang="chs">驻车助力显示</tu>
+	<tu xmlns:lang="kor">주차 보조 디스플레이</tu>
+</tm>

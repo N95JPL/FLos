@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_FAULTY_SYSTEM">
+	<tu xmlns:lang="eng">Faulty  -  Battery monitoring system</tu>
+	<tu xmlns:lang="nld">Defect  -  Accucontrolesysteem</tu>
+	<tu xmlns:lang="fra">Défectueux  -  Système de surveillance de la batterie</tu>
+	<tu xmlns:lang="deu">Schadhaft  -  Batterieüberwachungssystem</tu>
+	<tu xmlns:lang="ita">Difettoso  -  Sistema di monitoraggio batteria</tu>
+	<tu xmlns:lang="jpn">故障  －  バッテリ モニタリング システム</tu>
+	<tu xmlns:lang="ptg">Com avaria  -  Sistema de monitorização da bateria</tu>
+	<tu xmlns:lang="ptb">Com defeito  -  Sistema de monitoramento de bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Неисправность  -  Система контроля аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Defectuoso  -  Sistema de control de la batería</tu>
+	<tu xmlns:lang="chs">存在故障  -  蓄电池监控系统</tu>
+	<tu xmlns:lang="kor">결함 있음  -  배터리 모니터링 시스템</tu>
+</tm>

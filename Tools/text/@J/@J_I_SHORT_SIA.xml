@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SHORT_SIA">
+	<tu xmlns:lang="eng">Short service interval announcer</tu>
+	<tu xmlns:lang="nld">Aankondiging kort onderhoudsinterval</tu>
+	<tu xmlns:lang="fra">Annonce de périodicité d'entretien à terme</tu>
+	<tu xmlns:lang="deu">Kurze Wartungsintervallanzeige</tu>
+	<tu xmlns:lang="ita">Segnalazione intervallo di manutenzione breve</tu>
+	<tu xmlns:lang="jpn">短期サービス インターバル告知</tu>
+	<tu xmlns:lang="ptg">Avisador de revisões breves</tu>
+	<tu xmlns:lang="ptb">Anunciador de intervalo de serviço curto</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сигнализатор короткого цикла предстоящего вскоре обслуживания</tu>
+	<tu xmlns:lang="esp">Anunciador breve del intervalo entre revisiones</tu>
+	<tu xmlns:lang="chs">短期维修间隔发布器</tu>
+	<tu xmlns:lang="kor">단문 서비스 주기 알림</tu>
+</tm>

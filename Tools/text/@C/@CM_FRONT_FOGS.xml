@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_FRONT_FOGS">
+	<tu xmlns:lang="eng">Front fog lamps</tu>
+	<tu xmlns:lang="nld">Mistlampen voor</tu>
+	<tu xmlns:lang="fra">Projecteurs antibrouillard</tu>
+	<tu xmlns:lang="deu">Nebelscheinwerfer</tu>
+	<tu xmlns:lang="ita">Fendinebbia anteriori</tu>
+	<tu xmlns:lang="jpn">フロント フォグランプ</tu>
+	<tu xmlns:lang="ptg">Luzes de nevoeiro dianteiras</tu>
+	<tu xmlns:lang="ptb">Faróis de neblina dianteiros</tu>
+	<tu xmlns:lang="rus">Передние противотуманные фары</tu>
+	<tu xmlns:lang="esp">Faros antiniebla</tu>
+	<tu xmlns:lang="chs">前雾灯</tu>
+	<tu xmlns:lang="kor">프론트 포그 램프</tu>
+</tm>

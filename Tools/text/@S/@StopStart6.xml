@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart6">
+	<tu
+    xmlns:lang="eng"
+  >If the condition persists follow the information in TOPIx for charging and testing batteries.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de toestand aanhoudt volgt u de informatie in TOPIx om accu's op te laden en te testen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si le problème persiste, suivez les informations de TOPIx relatives à la charge et au test des batteries.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn dieser Zustand bestehen bleibt, die Informationen in TOPIx zum Aufladen und Prüfen von Batterien beachten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la condizione persiste, seguire le informazioni riportate in TOPIx relative alla carica e alla prova delle batterie.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この状態が続く場合は、TOPIx のバッテリーの充電とテストに関する情報に従ってください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a condição se mantiver, siga as informações no TOPIx sobre os procedimentos de carregamento e teste das baterias.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a condição persistir, siga as informações no TOPIx para carga e teste das baterias.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если состояние не устраняется, следуйте указаниям в TOPIx по зарядке и проверке аккумуляторных батарей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la condición persiste, siga la información que se puede encontrar en TOPIx para cargar y comprobar las baterías.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果这种情况依然存在，按照 TOPIx 中的信息对蓄电池进行充电和测试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 상태가 지속될 경우 TOPIx의 정보를 참조하여 배터리를 충전하고 테스트하십시오.</tu>
+</tm>

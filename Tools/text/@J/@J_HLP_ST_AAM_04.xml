@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_AAM_04">
+	<tu
+    xmlns:lang="eng"
+  >On demand self test  -  Signal is outputted to each channel from the digital signal processing chip.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zelftest op verzoek  -  Het signaal wordt uitgevoerd naar elk kanaal van de chip voor digitale signaalverwerking.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Auto-diagnostic à la demande  -  Le signal est fourni à chaque canal par la puce de traitement numérique du signal.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Selbsttest auf Abruf  -  Das Signal wird vom digitalen Signalverarbeitungschip an jeden Kanal ausgegeben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prova di autodiagnosi a richiesta  -  Segnale inviato a ciascun canale dal chip processore segnali digitali.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オンデマンド セルフ テスト  －  シグナルはデジタル シグナル プロセッサ チップから各チャンネルへ出力されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Autoteste sob pedido  -  Sinal enviado a cada um dos canais a partir do chip de processamento de sinais digitais.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Autoteste sob demanda  -  O sinal é enviado para cada canal do chip de processamento do sinal digital.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Самотестирование по запросу  -  Сигнал выводится в каждый канал из микросхемы обработки цифровых сигналов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Autocomprobación solicitada  -  Se envía una señal a cada canal desde el chip procesador de señales digitales.</tu>
+	<tu
+    xmlns:lang="chs"
+  >随需自检  -  信号是从数字信号处理芯片输出到每一通道的。</tu>
+	<tu
+    xmlns:lang="kor"
+  >자체 테스트 실행  -  디지털 신호 처리 칩에서 각 채널로 신호가 출력됩니다.</tu>
+</tm>

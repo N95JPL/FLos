@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_CARRIED_OUT">
+	<tu xmlns:lang="eng">Has this been carried out?</tu>
+	<tu xmlns:lang="nld">Werd dit uitgevoerd?</tu>
+	<tu xmlns:lang="fra">A-t-il été effectué ?</tu>
+	<tu xmlns:lang="deu">Wurde dies durchgeführt?</tu>
+	<tu xmlns:lang="ita">Eseguito?</tu>
+	<tu xmlns:lang="jpn">これはすでに実施されましたか？</tu>
+	<tu xmlns:lang="ptg">Foi efectuado?</tu>
+	<tu xmlns:lang="ptb">Isso foi realizado?</tu>
+	<tu xmlns:lang="rus">Это было выполнено?</tu>
+	<tu xmlns:lang="esp">¿Se ha realizado esto?</tu>
+	<tu xmlns:lang="chs">是否已执行这一操作？</tu>
+	<tu xmlns:lang="kor">이 절차가 수행되었습니까?</tu>
+</tm>

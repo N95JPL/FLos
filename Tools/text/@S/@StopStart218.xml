@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart218">
+	<tu
+    xmlns:lang="eng"
+  >Fasten and unfasten the drivers seatbelt and check that the status changes.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Maak de veiligheidsgordel van de bestuurder vast en los en controleer of de status verandert.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attachez et détachez la ceinture de sécurité du conducteur et vérifiez le changement de l'état.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherheitsgurt des Fahrers anlegen und lösen und prüfen, ob sich der Status ändert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Allacciare e slacciare la cintura di sicurezza del conducente e controllare il verificarsi dei cambiamenti di stato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >運転席シートベルトをいったん締めてから緩め、ステータスが変化しないことを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aperte e desaperte o cinto de segurança do condutor e verifique se o estado se altera.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Afivele e solte o cinto de segurança do motorista e verifique se o status muda.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Пристегните и отстегните ремень безопасности водителя и проверьте, изменилось ли состояние.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Abroche y desabroche el cinturón de seguridad del conductor y compruebe que el estado cambia.</tu>
+	<tu xmlns:lang="chs">系上然后解开驾驶员安全带，检查状态已发生变化。</tu>
+	<tu
+    xmlns:lang="kor"
+  >운전석 안전 벨트를 채우고 풀 때 상태가 바뀌는지 점검하십시오.</tu>
+</tm>

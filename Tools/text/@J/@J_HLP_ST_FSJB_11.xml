@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FSJB_11">
+	<tu xmlns:lang="eng">Windshield wiper is in the park position</tu>
+	<tu xmlns:lang="nld">Voorruitwisser staat in de parkeerstand</tu>
+	<tu xmlns:lang="fra">Essuie-glace en position de repos</tu>
+	<tu xmlns:lang="deu">Windschutzscheibenwischer ist in Parkstellung</tu>
+	<tu xmlns:lang="ita">Tergicristallo in posizione di stazionamento</tu>
+	<tu xmlns:lang="jpn">ウィンドシールド ワイパー － パーク ポジション</tu>
+	<tu xmlns:lang="ptg">Limpa pára-brisas na posição de descanso</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O limpador de para-brisa está na posição de estacionamento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Щетки стеклоочистителя ветрового стекла в положении парковки.</tu>
+	<tu xmlns:lang="esp">El limpiaparabrisas está en la posición de reposo</tu>
+	<tu xmlns:lang="chs">挡风玻璃刮水器位于停泊位置</tu>
+	<tu xmlns:lang="kor">윈드실드 와이퍼가 주차 위치임</tu>
+</tm>

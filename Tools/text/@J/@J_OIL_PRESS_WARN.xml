@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_OIL_PRESS_WARN">
+	<tu xmlns:lang="eng">Oil pressure warning</tu>
+	<tu xmlns:lang="nld">Oliedrukwaarschuwing</tu>
+	<tu xmlns:lang="fra">Avertissement relatif à la pression d'huile</tu>
+	<tu xmlns:lang="deu">Öldruckwarnung</tu>
+	<tu xmlns:lang="ita">Avvertenza pressione olio</tu>
+	<tu xmlns:lang="jpn">オイル プレッシャ ワーニング</tu>
+	<tu xmlns:lang="ptg">Aviso da pressão do óleo</tu>
+	<tu xmlns:lang="ptb">Aviso da pressão do óleo</tu>
+	<tu xmlns:lang="rus">Предупреждение по давлению масла</tu>
+	<tu xmlns:lang="esp">Aviso de presión de aceite</tu>
+	<tu xmlns:lang="chs">机油压力警告</tu>
+	<tu xmlns:lang="kor">오일 압력 경고</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ModProgramNoImmobReqd$I">
+	<tu
+    xmlns:lang="eng"
+  >The module will be delivered with the correct secure identification pre-programmed, therefore, no immobilisation is required.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De module wordt afgeleverd met de juiste voorgeprogrammeerde beveiligingsidentificatie, er is derhalve geen startblokkering nodig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module sera livré avec l'identification sécurisée correcte pré-programmée, donc aucune immobilisation n'est requise.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Steuergerät wird mit korrekt vorprogrammierter sicherer Identifizierung geliefert, folglich wird keine Immobilisierung benötigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo sarà consegnato con il codice giusto di identificazione di sicurezza già programmato, per cui non è necessaria nessuna immobilizzazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュールは正しいセキュリティ ID が前もってプログラムされた状態で提供されます。このためイモビライゼーションは不要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O módulo será entregue com a identificação segura correcta pré-programada, por isso não é necessária imobilização.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo será entregue com a correta identificação segura pré-programada, portanto, nenhuma imobilização é necessária.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок поставляется с действующим предварительно запрограммированным идентификатором системы безопасности, поэтому блокировка не требуется.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo se entregará con la identificación segura correcta ya programada, po lo cual no se necesitará ninguna inmovilización.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'该模块供货时将预先编程正确的安全标识，因此不需要锁止过程。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 모듈은 올바른 보안 식별 정보가 사전 프로그래밍되어 제공되므로 이모빌라이제이션이 필요 없습니다.</tu>
+</tm>

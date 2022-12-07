@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_HEATED_REAR_SCREEN">
+	<tu xmlns:lang="eng">Rear window defogger</tu>
+	<tu xmlns:lang="nld">Achterruitverwarming</tu>
+	<tu xmlns:lang="fra">Fenetre arriere chauffee</tu>
+	<tu xmlns:lang="deu">Beheizte heckscheibe</tu>
+	<tu xmlns:lang="ita">Lunotto posteriore riscaldato</tu>
+	<tu xmlns:lang="jpn">熱線ﾘｱ・ｳｨﾝﾄﾞｳ</tu>
+	<tu xmlns:lang="ptg">Desembaciador do vidro traseiro</tu>
+	<tu xmlns:lang="ptb">Desembaçador da janela traseira</tu>
+	<tu xmlns:lang="rus">Обогреватель заднего окна</tu>
+	<tu xmlns:lang="esp">Luneta térmica trasera</tu>
+	<tu xmlns:lang="chs">后窗除雾器</tu>
+	<tu xmlns:lang="kor">리어 윈도우 디포거</tu>
+</tm>

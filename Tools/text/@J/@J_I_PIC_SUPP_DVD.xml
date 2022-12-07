@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PIC_SUPP_DVD">
+	<tu xmlns:lang="eng">Picture support with DVD</tu>
+	<tu xmlns:lang="nld">Beeldondersteuning bij DVD </tu>
+	<tu xmlns:lang="fra">Prise en charge des images avec DVD </tu>
+	<tu xmlns:lang="deu">Bildunterstützung mit DVD </tu>
+	<tu xmlns:lang="ita">Supporto immagini con DVD</tu>
+	<tu xmlns:lang="jpn">DVD を使用するピクチャー サポート</tu>
+	<tu xmlns:lang="ptg">Suporte de imagens com DVD</tu>
+	<tu xmlns:lang="ptb">Suporte de imagens com o DVD</tu>
+	<tu xmlns:lang="rus">Поддержка вывода изображений с DVD</tu>
+	<tu xmlns:lang="esp">Compatibilidad con imágenes para DVD</tu>
+	<tu xmlns:lang="chs">带 DVD 的图片支持</tu>
+	<tu xmlns:lang="kor">DVD로 사진 지원</tu>
+</tm>

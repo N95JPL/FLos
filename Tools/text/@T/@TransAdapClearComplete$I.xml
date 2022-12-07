@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TransAdapClearComplete$I">
+	<tu xmlns:lang="eng">Transmission adaption clear is complete.</tu>
+	<tu xmlns:lang="nld">Het wissen van de transmissieaanpassing is uitgevoerd.</tu>
+	<tu xmlns:lang="fra">L'effacement d'adaptation de transmission est terminé.</tu>
+	<tu xmlns:lang="deu">Löschung der Getriebeanpassungen ist abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Azzeramento adattamento cambio completato.</tu>
+	<tu xmlns:lang="jpn">トランスミッション補正のクリアが完了しました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Eliminação dos parâmetros de adaptação da transmissão está concluída.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O apagamento da adaptação da transmissão foi concluída.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Удаление значений корректировки коробки передач завершено.</tu>
+	<tu xmlns:lang="esp">Borrado de adaptaciones de la caja de cambios.</tu>
+	<tu xmlns:lang="chs">变速器自适应清除完成。</tu>
+	<tu xmlns:lang="kor">변속기 어댑테이션 삭제가 완료되었습니다.</tu>
+</tm>

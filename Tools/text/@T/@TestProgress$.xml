@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TestProgress$">
+	<tu xmlns:lang="eng">Test progress</tu>
+	<tu xmlns:lang="nld">Test voortgang</tu>
+	<tu xmlns:lang="fra">Progression du test</tu>
+	<tu xmlns:lang="deu">Test-Fortschritt</tu>
+	<tu xmlns:lang="ita">Progresso della prova</tu>
+	<tu xmlns:lang="jpn">テスト進行</tu>
+	<tu xmlns:lang="ptg">Progresso do teste</tu>
+	<tu xmlns:lang="ptb">Progresso do teste</tu>
+	<tu xmlns:lang="rus">Ход выполнения проверки</tu>
+	<tu xmlns:lang="esp">Estado de la prueba</tu>
+	<tu xmlns:lang="chs">测试进程</tu>
+	<tu xmlns:lang="kor">테스트 진행률</tu>
+</tm>

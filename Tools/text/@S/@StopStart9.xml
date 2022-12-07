@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart9">
+	<tu
+    xmlns:lang="eng"
+  >This will cause a auto stop/start system inhibit condition only if accompanied by the power supply auto stop/start system engine run request.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dit leidt alleen tot een geblokkeerde toestand van het automatische Stop/Start-systeem indien het vergezeld gaat van een verzoek van het voedingssysteem aan het automatische Stop/Start-systeem om de motor te laten draaien.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cela provoque une neutralisation du système Arrêt/Démarrage auto uniquement en présence d'une demande de fonctionnement du moteur du système Arrêt/Démarrage auto de l'alimentation électrique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dies führt nur dann zu einer Sperrbedingung des Auto-Stopp-Start-Systems, wenn es durch eine Motorlaufanforderungen an das Auto-Stopp-Start-System durch die Spannungsversorgung begleitet wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questo causa una condizione di disabilitazione del sistema Stop/Start automatico solo se accompagnata dalla richiesta di alimentazione per l'avviamento del motore del sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オート ストップ/スタート システムの禁止状態が発生するのは、電源によるオート ストップ/スタート システム エンジン作動要求を伴った場合だけです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta situação provoca uma condição de inibição do sistema Stop/Start automático, mas apenas se existir também um pedido de funcionamento do motor do sistema Stop/Start automático da fonte de alimentação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso causará uma condição de inibição no sistema stop/start automático somente se acompanhado de uma solicitação de operação do motor do sistema stop/start automático da fonte de alimentação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блокировка автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт возникнет только при наличии сопутствующего запроса на запуск двигателя автоматической интеллектуальной системой запуска/остановки двигателя стоп/старт от системы питания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta situación solo provocará una condición de bloqueo del sistema Stop/Start automático si va acompañada por una solicitud de funcionamiento del motor del sistema Stop/Start automático de la fuente de alimentación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >仅在伴有电源自动停止/启动系统发动机运行请求时，这才会导致自动停止/启动系统禁止状况。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전원 공급 자동 Stop/Start 시스템 엔진 작동 요청이 수반될 경우에만 자동 Stop/Start 시스템 억제 상태가 발생합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DELIVERY_MODE_BATTERY">
+	<tu xmlns:lang="eng">Battery delivery mode.</tu>
+	<tu xmlns:lang="nld">Accufunctie.</tu>
+	<tu xmlns:lang="fra">Mode livraison de la batterie.</tu>
+	<tu xmlns:lang="deu">Batterie - Auslieferungsmodus.</tu>
+	<tu xmlns:lang="ita">Modalità consegna batteria.</tu>
+	<tu xmlns:lang="jpn">バッテリ デリバリ モード</tu>
+	<tu xmlns:lang="ptg">Modo de descarga da bateria.</tu>
+	<tu xmlns:lang="ptb">Modo de fornecimento da bateria.</tu>
+	<tu xmlns:lang="rus">Режим доставки аккумуляторной батареи.</tu>
+	<tu xmlns:lang="esp">Modo de entrega de la batería.</tu>
+	<tu xmlns:lang="chs">蓄电池发车模式。</tu>
+	<tu xmlns:lang="kor">배터리 배송 모드</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RUNN_ON_BOARD">
+	<tu xmlns:lang="eng">Running losses onboard refuelling vapour recovery</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bedrijfsverliezen van dampopvang bij brandstoftoevoer aan boord</tu>
+	<tu
+    xmlns:lang="fra"
+  >Gestion embarquée des pertes de fonctionnement ? récupération des vapeurs de carburant</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrverlustemissionen bei Dampfaustritt aus dem Kraftstoffsystem</tu>
+	<tu xmlns:lang="ita">Perdite correnti recupero vapori carburante a bordo</tu>
+	<tu xmlns:lang="jpn">給油時に流出する蒸発燃料の回収</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Recuperação de vapores de combustível e reencaminhamento para o depósito de perdas durante o funcionamento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Recuperação de vapor de reabastecimento no interior do veículo de perdas em funcionamento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Контроль системой отвода топливных паров потерь при заправке </tu>
+	<tu
+    xmlns:lang="esp"
+  >Fugas del sistema de retención de vapores de combustible con el vehículo en marcha</tu>
+	<tu xmlns:lang="chs">运行损失 - 车载燃油蒸气回收系统</tu>
+	<tu xmlns:lang="kor">내장형 연료 재급유 증기 복구 부족</tu>
+</tm>

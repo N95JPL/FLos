@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_CENTRAL_LOCKING">
+	<tu xmlns:lang="eng">Central locking.</tu>
+	<tu xmlns:lang="nld">Centrale portiervergrendeling</tu>
+	<tu xmlns:lang="fra">Blocage central</tu>
+	<tu xmlns:lang="deu">Zentralverriegelung</tu>
+	<tu xmlns:lang="ita">Chiusura centrale</tu>
+	<tu xmlns:lang="jpn">ｾﾝﾄﾗﾙ・ﾛｯｷﾝｸﾞ</tu>
+	<tu xmlns:lang="ptg">Fecho centralizado.</tu>
+	<tu xmlns:lang="ptb">Travamento central.</tu>
+	<tu xmlns:lang="rus">Центральное запирание.</tu>
+	<tu xmlns:lang="esp">Cierre centralizado</tu>
+	<tu xmlns:lang="chs">中央门锁。</tu>
+	<tu xmlns:lang="kor">중앙 잠금</tu>
+</tm>

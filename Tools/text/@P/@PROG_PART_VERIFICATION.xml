@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PROG_PART_VERIFICATION">
+	<tu xmlns:lang="eng">Programmed part verification</tu>
+	<tu xmlns:lang="nld">Verificatie van geprogrammeerd onderdeel</tu>
+	<tu xmlns:lang="fra">Vérification des éléments programmés</tu>
+	<tu xmlns:lang="deu">Programmierte Teile - Überprüfung</tu>
+	<tu xmlns:lang="ita">Verifica numero di parte programmato</tu>
+	<tu xmlns:lang="jpn">プログラムされた部分の正当性確認</tu>
+	<tu xmlns:lang="ptg">Verificação da peça programada</tu>
+	<tu xmlns:lang="ptb">Verificação de peça programada</tu>
+	<tu xmlns:lang="rus">Проверка запрограммированного модуля</tu>
+	<tu xmlns:lang="esp">Verificación de piezas programadas</tu>
+	<tu xmlns:lang="chs">已编程部件验证</tu>
+	<tu xmlns:lang="kor">프로그래밍된 파트 확인</tu>
+</tm>

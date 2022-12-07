@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IN_PROG_READ_TRANS_TEMP">
+	<tu
+    xmlns:lang="eng"
+  >In progress  -  Reading current transmission temperature.</tu>
+	<tu
+    xmlns:lang="nld"
+  >In behandeling  -  Bezig met uitlezen van huidige transmissietemperatuur.</tu>
+	<tu
+    xmlns:lang="fra"
+  >En cours  -  Lecture de la température actuelle de la transmission.</tu>
+	<tu xmlns:lang="deu">Läuft  -  Aktuelle Getriebetemperatur wird gemessen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >In corso di esecuzione  -  Lettura della temperatura corrente del cambio.</tu>
+	<tu xmlns:lang="jpn">進行中  －  現在のトランスミッション温度の読み取り中。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >2 Pinças: 7 ml  -  Ler a temperatura actual da transmissão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Em andamento  -  Leitura atual da temperatura da transmissão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполняется  -  Считывание текущей температуры трансмиссионного масла.</tu>
+	<tu
+    xmlns:lang="esp"
+  >En curso  -  Leyendo la temperatura actual de la caja de cambios.</tu>
+	<tu xmlns:lang="chs">正在进行  -  读取当前变速箱温度数值。</tu>
+	<tu xmlns:lang="kor">진행 중  -  현재 변속기 온도를 읽는 중입니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CAL_KPH">
+	<tu xmlns:lang="eng">Km/h</tu>
+	<tu xmlns:lang="nld">km/h</tu>
+	<tu xmlns:lang="fra">km/h</tu>
+	<tu xmlns:lang="deu">km/h</tu>
+	<tu xmlns:lang="ita">km/h</tu>
+	<tu xmlns:lang="jpn">km/h</tu>
+	<tu xmlns:lang="ptg">Km/h</tu>
+	<tu xmlns:lang="ptb">Km/h</tu>
+	<tu xmlns:lang="rus">Km/h</tu>
+	<tu xmlns:lang="esp">km/h</tu>
+	<tu xmlns:lang="chs">Km/h</tu>
+	<tu xmlns:lang="kor">Km/h</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IDLE_SPD_CTR_VALV_TEST">
+	<tu xmlns:lang="eng">Idle speed control valve test</tu>
+	<tu xmlns:lang="nld">Kleppentest van de stationaire toerentalregeling</tu>
+	<tu xmlns:lang="fra">Contrôle d'électrovanne de régime de ralenti</tu>
+	<tu xmlns:lang="deu">Test - Leerlaufdrehzahl-Regelventil</tu>
+	<tu xmlns:lang="ita">Prova valvola controllo velocità di minimo</tu>
+	<tu xmlns:lang="jpn">アイドル スピード コントロール バルブ テスト</tu>
+	<tu xmlns:lang="ptg">Teste à válvula de controlo do ralenti</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Teste da válvula de controle de velocidade em marcha lenta</tu>
+	<tu xmlns:lang="rus">Проверка клапана регулировки холостого хода</tu>
+	<tu xmlns:lang="esp">Prueba de la válvula de control de ralentí</tu>
+	<tu xmlns:lang="chs">怠速控制阀测试</tu>
+	<tu xmlns:lang="kor">공회전 속도 컨트롤 밸브 테스트</tu>
+</tm>

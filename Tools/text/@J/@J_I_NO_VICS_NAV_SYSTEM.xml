@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_VICS_NAV_SYSTEM">
+	<tu
+    xmlns:lang="eng"
+  >No vehicle information and communication system navigation</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geen voertuiginformatie of communicatiesysteemnavigatie</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pas d'information du véhicule ni de navigation avec système de communication</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kein Fahrzeuginformations- und Kommunikationssystem mit Navigation</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nessun sistema di comunicazione e informazioni veicolo - navigazione</tu>
+	<tu xmlns:lang="jpn">車両情報通信システム (VICS) ナビゲーションなし</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sem navegação do sistema de informação e comunicação do veículo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sem navegação do sistema de informações e comunicações do veículo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Без навигации с системой обмена данными и связи автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >No hay navegación del sistema de información y comunicación del vehículo</tu>
+	<tu xmlns:lang="chs">无车辆信息与通讯系统导航</tu>
+	<tu xmlns:lang="kor">차량 정보 및 통신 시스템 내비게이션 없음</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_TYPE_09">
+	<tu xmlns:lang="eng">T5 52Ah 500 cold cranking ampere</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stroomsterkte bij aanslaan van motor bij koude start 500 A, T5 52Ah </tu>
+	<tu xmlns:lang="fra">T5 52 Ah 500 ampères au lancement à froid </tu>
+	<tu xmlns:lang="deu">T5 52 Ah 500 Kaltstartampere </tu>
+	<tu xmlns:lang="ita">Amperaggio avviamento a freddo T5 52Ah 500</tu>
+	<tu xmlns:lang="jpn">T5 52Ah 500 コールド クランキング アンペア</tu>
+	<tu xmlns:lang="ptg">T5 52Ah 500 amperagem de arranque a frio</tu>
+	<tu xmlns:lang="ptb">Amperagem de partida a frio T5 52Ah 500</tu>
+	<tu xmlns:lang="rus">T5 52 Ач, ток холодного пуска двигателя 500 А </tu>
+	<tu xmlns:lang="esp">T5 52Ah con 500 A de capacidad de arranque en frío</tu>
+	<tu xmlns:lang="chs">T5 52Ah 500 冷起动电流</tu>
+	<tu xmlns:lang="kor">T5 52Ah 500 냉간 크랭킹 암페어</tu>
+</tm>

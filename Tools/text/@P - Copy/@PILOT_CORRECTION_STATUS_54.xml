@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_54">
+	<tu xmlns:lang="eng">0x54 : Exited due to rail pressure instability.</tu>
+	<tu xmlns:lang="nld">0x54 : inleren afgesloten vanwege instabiliteit van de druk in de common rail.</tu>
+	<tu xmlns:lang="fra">0x54 : Quitté à cause d'une instabilité de la pression de rampe.</tu>
+	<tu xmlns:lang="deu">0x54 : Beendet aufgrund von mangelnder Verteilerrohr-Druckstabilität.</tu>
+	<tu xmlns:lang="ita">0x54 : Interrotto a causa di instabilità della pressione del collettore.</tu>
+	<tu xmlns:lang="jpn">0x54 : レール プレッシャ不安定のため終了。</tu>
+	<tu xmlns:lang="ptg">0x54 : Saiu devido a instabilidade na pressão da régua distribuidora de combustível.</tu>
+	<tu xmlns:lang="ptb">0X54 : Encerrada devido à instabilidade da pressão do trilho.</tu>
+	<tu xmlns:lang="rus">0x54 : Произведен выход из-за нестабильности давления в топливной магистрали.</tu>
+	<tu xmlns:lang="esp">0x54: Se cerró por inestabilidad de la presión en la rampa de combustible.</tu>
+	<tu xmlns:lang="chs">0x54： 由于油轨压力的不稳定性而退出运行。</tu>
+	<tu xmlns:lang="kor">0x54 : 레일 압력 불안정성 때문에 종료됩니다.</tu>
+</tm>

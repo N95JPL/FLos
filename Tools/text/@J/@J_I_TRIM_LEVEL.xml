@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRIM_LEVEL">
+	<tu xmlns:lang="eng">Trim level</tu>
+	<tu xmlns:lang="nld">Bekledingsniveau </tu>
+	<tu xmlns:lang="fra">Niveau d'équipement des garnitures </tu>
+	<tu xmlns:lang="deu">Ausstattungsniveau </tu>
+	<tu xmlns:lang="ita">Livello rivestimenti</tu>
+	<tu xmlns:lang="jpn">トリム レベル</tu>
+	<tu xmlns:lang="ptg">Nível de acabamentos</tu>
+	<tu xmlns:lang="ptb">Nível do acabamento</tu>
+	<tu xmlns:lang="rus">Тип комплектации </tu>
+	<tu xmlns:lang="esp">Nivel de tapicería</tu>
+	<tu xmlns:lang="chs">内饰等级</tu>
+	<tu xmlns:lang="kor">트림 레벨</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_GEN_OR_ECM_POSSIBLE_FAULT">
+	<tu
+    xmlns:lang="eng"
+  >Either generator or engine control module may be faulty if code persists</tu>
+	<tu
+    xmlns:lang="nld"
+  >De dynamo of de motorregelmodule kan defect zijn als de foutcode aanhoudt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si le code persiste, l'alternateur ou le module de commande du moteur peuvent être défectueux</tu>
+	<tu
+    xmlns:lang="deu"
+  >Liegt der Fehlercode weiterhin vor, kann entweder der Generator oder das Motorsteuergerät schadhaft sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se il codice persiste, il generatore o il modulo di comando motore potrebbero essere guasti</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コードが再記録される場合、ジェネレータまたはエンジン コントロール モジュールのいずれかに故障のある可能\性があります</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pode existir avaria no alternador ou no módulo de comando do motor, se o código persistir</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O alternador ou o módulo de controle do motor podem estar com defeito se o código persistir</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если код не устраняется, причиной может быть неисправность генератора или блока управления двигателя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el código persiste, puede tratarse de una anomalía del alternador o el módulo de control del motor</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果代码依然存在，那么发电机或发动机控制模块可能存在故障</tu>
+	<tu
+    xmlns:lang="kor"
+  >코드가 지속되면 제너레이터 또는 엔진 컨트롤 모듈이 고장일 수 있습니다.</tu>
+</tm>

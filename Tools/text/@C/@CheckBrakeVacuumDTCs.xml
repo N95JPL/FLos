@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckBrakeVacuumDTCs">
+	<tu xmlns:lang="eng">Check for brake vacuum sensor associated DTCs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer op DTC's met betrekking tot de remvacuümsensor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Rechercher les DTC liés au capteur de dépression de frein.</tu>
+	<tu xmlns:lang="deu">Auf Bremsunterdrucksensor-DTCs prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare l'eventuale presenza di DTC associati al sensore di depressione freni.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ブレーキ バキューム センサに関連する DTC がないか確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique se existem códigos de avaria (DTC) associados ao sensor de vácuo dos travões.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se há DTCs associados ao sensor de vácuo do freio.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте наличие кодов DTC, относящихся к вакуумному датчику тормозной системы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Compruebe si hay DTC asociados con el sensor de vacío del sistema de frenos</tu>
+	<tu xmlns:lang="chs">检查是否存在制动真空传感器相关 DTC。</tu>
+	<tu xmlns:lang="kor">브레이크 진공 센서 관련 DTC가 있는지 확인하십시오.</tu>
+</tm>

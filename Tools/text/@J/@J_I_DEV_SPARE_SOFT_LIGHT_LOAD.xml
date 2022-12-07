@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DEV_SPARE_SOFT_LIGHT_LOAD">
+	<tu xmlns:lang="eng">Deviation spare soft light load</tu>
+	<tu xmlns:lang="nld">Afwijking bij lichte belasting reserve - zacht</tu>
+	<tu xmlns:lang="fra">Déviation garde molle charge légère</tu>
+	<tu xmlns:lang="deu">Abweichung Ersatzrad, weiche Kennlinie, leichte Last</tu>
+	<tu xmlns:lang="ita">Deviazione scorta morbida carico leggero</tu>
+	<tu xmlns:lang="jpn">スペア ソ\フト軽負荷偏差</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deflexão sobresselente - amortecimento suave, carga leve</tu>
+	<tu xmlns:lang="ptb">Desvio sobressalente suave de carga leve</tu>
+	<tu xmlns:lang="rus">Отклонение, запасное - незначительная нагрузка</tu>
+	<tu
+    xmlns:lang="esp"
+  >Desviación con neumático de repuesto blando - carga ligera</tu>
+	<tu xmlns:lang="chs">偏差 - 备用、软减震、轻负荷</tu>
+	<tu xmlns:lang="kor">편차 스페어 소프트 경부하</tu>
+</tm>

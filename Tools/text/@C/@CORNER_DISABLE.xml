@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CORNER_DISABLE">
+	<tu xmlns:lang="eng">Corner disable</tu>
+	<tu xmlns:lang="nld">Uitschakeling punt</tu>
+	<tu xmlns:lang="fra">Désactivation de l'angle.</tu>
+	<tu xmlns:lang="deu">Kurvenlicht - Deaktivierung</tu>
+	<tu xmlns:lang="ita">Disattivazione lampada angolo</tu>
+	<tu xmlns:lang="jpn">コーナー作動不可</tu>
+	<tu xmlns:lang="ptg">Luzes de canto, desactivar</tu>
+	<tu xmlns:lang="ptb">Desativação cantos</tu>
+	<tu xmlns:lang="rus">Отключение функции помощи прохождения поворотов</tu>
+	<tu xmlns:lang="esp">Inhabilitación de esquina</tu>
+	<tu xmlns:lang="chs">角落禁用</tu>
+	<tu xmlns:lang="kor">코너 비활성화</tu>
+</tm>

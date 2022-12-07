@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONN_NEW_DIAG_CABLE">
+	<tu
+    xmlns:lang="eng"
+  >Connect the new (B-280) diagnostic cable to the tester in port B and to the vehicle.  The existing (B-203) diagnostic cable is not capable of supporting the requested action on this particular vehicle and should not therefore be connected in this case.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Sluit nieuwe diagnosekabel (B-280) aan op zowel poort B van testapparaat als op auto.  De bestaande diagnosekabel (B-203) kan gevraagde actie op dit specifieke voertuig niet ondersteunen. U mag deze derhalve in dit geval niet aansluiten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Connectez le nouveau câble de diagnostic (B-280) au port B du contrôleur et au véhicule.  Le câble de diagnostic existant (B-203) n'est pas capable d'assurer l'action demandée sur ce véhicule en particulier et ne doit pas être raccordé dans le cas présent.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Neues Diagnosekabel (B-280) am Prüfgerät an Anschluss B und am Fahrzeug anschließen.  Das vorhandene Diagnosekabel (B-203) unterstützt bei diesem spezifischen Fahrzeug die geforderte Maßnahme nicht und sollte deshalb in diesem Fall nicht angeschlossen werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Collegare il nuovo cavo diagnostico (B-280) alla presa B del tester e al veicolo.  L'attuale cavo diagnostico (B-203) non è in grado di supportare l'azione richiesta su questo particolare veicolo e quindi non deve essere collegato in questo caso.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >新品の (B-280) 診断ケーブルをテスターのポート B および車両に接続しなさい。  現存の (B-203) 診断ケーブルは、この特定の車両に必要なアクションをサポートすることができません。従ってこのような場合には接続しないでください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligue o novo (B-280) cabo de diagnóstico ao dispositivo de teste na porta B e ao veículo.  O cabo de diagnóstico existente (B-203) não tem capacidade para suportar a acção solicitada neste veículo específico, não devendo, por isso, ser ligado neste caso.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conecte o novo cabo de diagnóstico (B-280) ao testador na porta B e ao veículo.  O cabo de diagnóstico (B-203) atual não é capaz de suportar a ação solicitada nesse veículo em particular e, portanto, não deve ser conectado neste caso.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подключите новый диагностический провод (B-280) к каналу В тестера и к автомобилю.  Существующий диагностический провод (B-203) не может поддерживать запрашиваемое действие в данном автомобиле, и поэтому в данном случае он не должен подключаться.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Enchufar el nuevo cable de diagnosis (B-280) al puerto B del comprobador y al vehículo.  El cable de diagnosis existente (B-203) no es compatible con la acción solicitada en este vehículo en particular, por tanto no debe conectarse en este caso.</tu>
+	<tu
+    xmlns:lang="chs"
+  >将新的 (B-280) 诊断电缆连接到测试仪端口 B 和车辆。  现有 (B-203) 诊断电缆不能支持本特定车辆上请求的操作，因而在这种情况下不应连接。</tu>
+	<tu
+    xmlns:lang="kor"
+  >포트 B의 테스터와 차량에 새(B-280) 진단 케이블을 연결하십시오.  기존(B-203) 진단 케이블이 이 특정 차량에서 요청되는 작업을 지원할 수 없으므로 이 경우에는 연결되면 안 됩니다.</tu>
+</tm>

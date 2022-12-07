@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_46">
+<tu xmlns:lang="eng">System internal failure - calibration/parameter memory failure.</tu>
+<tu xmlns:lang="nld">Intern defect in systeem - fout in kalibrering / parametergeheugen.</tu>
+<tu xmlns:lang="fra">D&#233;faillance interne du syst&#232;me - d&#233;faut de m&#233;moire d&#39;&#233;talonnage / de param&#233;trage.</tu>
+<tu xmlns:lang="deu">Interne Systemst&#246;rung - Kalibrierungs-/Parameterspeicherfehler.</tu>
+<tu xmlns:lang="ita">Guasto interno sistema - guasto di memoria di taratura/parametri.</tu>
+<tu xmlns:lang="jpn">ƒVƒXƒeƒ€“à•”ŒÌá | ƒLƒƒƒŠƒuƒŒ[ƒVƒ‡ƒ“^ƒpƒ‰ƒ[ƒ^ ƒƒ‚ƒŠ•s—Ç</tu>
+<tu xmlns:lang="ptg">Falha interna no sistema - falha de mem&#243;ria de calibragem/par&#226;metros.</tu>
+<tu xmlns:lang="rus">Âíóòðåííèé îòêàç ñèñòåìû - îøèáêà ïàìÿòè êàëèáðîâîâ/ïàðàìåòðîâ.</tu>
+<tu xmlns:lang="esp">Fallo interno del sistema: fallo de memoria de par&#225;metros/calibraci&#243;n.</tu>
+<tu xmlns:lang="chs">ÏµÍ³ÄÚ²¿¹ÊÕÏ - Ð£×¼/²ÎÊý´æ´¢Æ÷¹ÊÕÏ¡£</tu>
+</tm>

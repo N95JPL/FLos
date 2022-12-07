@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_DSP">
+	<tu xmlns:lang="eng">No audio digital signal processing module</tu>
+	<tu xmlns:lang="nld">Geen module voor digitale signaalverwerking van audio</tu>
+	<tu xmlns:lang="fra">Pas de module de traitement du signal numérique audio</tu>
+	<tu xmlns:lang="deu">Kein digitales Signalverarbeitungsmodul - Audiosystem</tu>
+	<tu xmlns:lang="ita">Nessun modulo processore segnali audio digitali</tu>
+	<tu xmlns:lang="jpn">オーディオ デジタル シグナル プロセッサ モジュールなし</tu>
+	<tu xmlns:lang="ptg">Sem módulo de processamento do sinal digital de áudio</tu>
+	<tu xmlns:lang="ptb">Sem módulo de processamento do sinal digital de áudio</tu>
+	<tu xmlns:lang="rus">Без блока цифровой обработки аудиосигнала</tu>
+	<tu
+    xmlns:lang="esp"
+  >No tiene módulo procesador de señales digitales de audio</tu>
+	<tu xmlns:lang="chs">无音频数字信号处理模块</tu>
+	<tu xmlns:lang="kor">오디오 디지털 신호 처리 모듈 없음</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUD_HIGH_8_SPEAK_JAP">
+	<tu
+    xmlns:lang="eng"
+  >Audio 'high performance' 4 x 40 watts, 8 speakers, Japan</tu>
+	<tu
+    xmlns:lang="nld"
+  >'High performance'-geluidsinstallatie, 4 x 40 W, 8 luidsprekers, Japan</tu>
+	<tu
+    xmlns:lang="fra"
+  >Audio 'performances élevées' 4 x 40 watts, 8 haut-parleurs, Japon</tu>
+	<tu
+    xmlns:lang="deu"
+  >Audio 'Gehobene Ausführung' 4 x 40 Watt, 8 Lautsprecher, Japan</tu>
+	<tu
+    xmlns:lang="ita"
+  >'Prestazioni elevate' audio 4 x 40 W, 8 altoparlanti, Giappone</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オーディオ「ハイ パフォーマンス」4 x 40 ワット、8 スピーカー、日本向け</tu>
+	<tu
+    xmlns:lang="ptg"
+  >'Desempenho elevado' áudio 4 x 40 watts, 8 altifalantes, Japão</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Desempenho alto de áudio - 4 x 40 watts, 8 alto-falantes, Japão</tu>
+	<tu
+    xmlns:lang="rus"
+  >Аудиосистема высшего класса, 4 x 40 Вт, 8 динамиков, Япония</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de audio de 'alta potencia': 4 x 40 vatios, 8 altavoces, Japón</tu>
+	<tu xmlns:lang="chs">音频'高性能'4 x 40 W，8 个扬声器，日本</tu>
+	<tu xmlns:lang="kor">오디오 '고성능' 4 x 40W, 스피커 8개, 일본</tu>
+</tm>

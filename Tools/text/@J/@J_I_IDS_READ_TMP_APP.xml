@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IDS_READ_TMP_APP">
+	<tu
+    xmlns:lang="eng"
+  >The Diagnostic Tool will read the temperature before allowing application to proceed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het diagnosesysteem zal eerst de temperatuur uitlezen en geeft de toepassing dan toestemming om verder te gaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'outil de diagnostic va lire la température avant d'autoriser la poursuite de l'application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Diagnosesystem misst die Temperatur, ehe mit der Anwendung fortgefahren werden kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lo strumento diagnostico leggerà la temperatura prima di consentire all'applicazione di procedere.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アプリケーションの続行を許可する前に、診断ツールは温度を読み取ります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A ferramenta de diagnóstico lê a temperatura antes de permitir que a aplicação prossiga.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A Ferramenta de Diagnóstico lerá a temperatura antes de permitir que o aplicativo prossiga.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прежде чем разрешить продолжение работы приложения, диагностическое устройство считает показания температуры.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La herramienta de diagnóstico leerá la temperatura antes de permitir que la aplicación continúe.</tu>
+	<tu xmlns:lang="chs">让应用程序继续运行之前，诊断工具将会读取温度数据。</tu>
+	<tu
+    xmlns:lang="kor"
+  >진단 도구는 온도를 판독한 후 응용 프로그램이 계속 진행하도록 허용합니다.</tu>
+</tm>

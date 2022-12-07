@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EstablishComms$T">
+	<tu xmlns:lang="eng">Establishing connection to control module</tu>
+	<tu
+    xmlns:lang="nld"
+  >Aansluiting naar besturingsmoduul wordt tot stand gebracht</tu>
+	<tu xmlns:lang="fra">Etablissement de connexion avec module de commande</tu>
+	<tu xmlns:lang="deu">Verbindung zu steuermodul wird hergestellt</tu>
+	<tu xmlns:lang="ita">Stabilendo il collegamento al modulo di controllo</tu>
+	<tu xmlns:lang="jpn">ｺﾝﾄﾛーﾙ・ﾓｼﾞｭーﾙとの接続中</tu>
+	<tu xmlns:lang="ptg">Estabelecimento de ligação ao módulo de comando</tu>
+	<tu xmlns:lang="ptb">Estabelecendo conexão com o módulo de controle</tu>
+	<tu xmlns:lang="rus">Устанавливается связь с блоком управления</tu>
+	<tu xmlns:lang="esp">Estableciendo la conexión al módulo de control</tu>
+	<tu xmlns:lang="chs">建立到控制模块的连接</tu>
+	<tu xmlns:lang="kor">컨트롤 모듈에 대한 연결 설정</tu>
+</tm>

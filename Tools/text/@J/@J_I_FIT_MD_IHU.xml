@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FIT_MD_IHU">
+	<tu xmlns:lang="eng">Fitted with a minidisc (audio control module).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Uitgerust met een minidisc-speler( geïntegreerde hoofdunit).</tu>
+	<tu xmlns:lang="fra">Equipé d'un MiniDisc (autoradio intégré).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit Minidisc-Spieler ausgestattet (integriertes Bedienteil).</tu>
+	<tu xmlns:lang="ita">MiniDisc in dotazione (unità audio integrata).</tu>
+	<tu xmlns:lang="jpn">ミニディスク装備 (統合ヘッド ユニット)</tu>
+	<tu xmlns:lang="ptg">Equipado com mini-disc (unidade principal integrada).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Equipado com um minidisc (módulo de controle de áudio).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлен проигрыватель минидисков (интегрированное головное устройство).</tu>
+	<tu xmlns:lang="esp">Tiene minidisco (aparato central integral).</tu>
+	<tu xmlns:lang="chs">安装了微型磁盘（集成主机单元）。</tu>
+	<tu xmlns:lang="kor">미니디스크가 장착됨(오디오 컨트롤 모듈)</tu>
+</tm>

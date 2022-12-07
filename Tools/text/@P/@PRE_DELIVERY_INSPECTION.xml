@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PRE_DELIVERY_INSPECTION">
+	<tu xmlns:lang="eng">Pre-delivery inspection.</tu>
+	<tu xmlns:lang="nld">Afleveringsinspectie.</tu>
+	<tu xmlns:lang="fra">Inspection avant livraison.</tu>
+	<tu xmlns:lang="deu">Inspektion vor Auslieferung.</tu>
+	<tu xmlns:lang="ita">Ispezione di preconsegna.</tu>
+	<tu xmlns:lang="jpn">納車前点検 (PDI)</tu>
+	<tu xmlns:lang="ptg">Inspecção pré-entrega.</tu>
+	<tu xmlns:lang="ptb">Inspeção pré-entrega.</tu>
+	<tu xmlns:lang="rus">Предпродажная подготовка.</tu>
+	<tu xmlns:lang="esp">Inspección preentrega.</tu>
+	<tu xmlns:lang="chs">发车前检查。</tu>
+	<tu xmlns:lang="kor">납품 전 점검</tu>
+</tm>

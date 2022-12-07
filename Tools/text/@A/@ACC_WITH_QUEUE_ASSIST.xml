@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ACC_WITH_QUEUE_ASSIST">
+	<tu xmlns:lang="eng">Adaptive speed control with queue assist</tu>
+	<tu xmlns:lang="nld">Adaptieve snelheidsregeling met filehulp</tu>
+	<tu
+    xmlns:lang="fra"
+  >Régulateur de vitesse adaptatif avec assistance de suivi.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Adaptive Geschwindigkeitsregelung mit Abstandsassistenz</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllo di velocità adattativo con assistenza accodamento</tu>
+	<tu xmlns:lang="jpn">列補助付きアダプティブ スピード コントロール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Controlo da velocidade adaptável com sistema de auxílio em situações de filas de trânsito</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Controle de velocidade adaptável com a assistência à fila</tu>
+	<tu
+    xmlns:lang="rus"
+  >Адаптивный круиз-контроль с функцией автоматического поддержания дистанции</tu>
+	<tu xmlns:lang="esp">Control de velocidad adaptativo con asistencia de cola</tu>
+	<tu xmlns:lang="chs">带队列辅助的自适应速度控制</tu>
+	<tu xmlns:lang="kor">큐 어시스트 기능을 이용한 어댑티브 스피드 컨트롤</tu>
+</tm>

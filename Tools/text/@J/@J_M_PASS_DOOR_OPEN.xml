@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_PASS_DOOR_OPEN">
+	<tu xmlns:lang="eng">Passenger's door open</tu>
+	<tu xmlns:lang="nld">Passagiersportier open</tu>
+	<tu xmlns:lang="fra">Porte passager ouverte</tu>
+	<tu xmlns:lang="deu">Beifahrertür offen</tu>
+	<tu xmlns:lang="ita">Portiera passeggero aperta</tu>
+	<tu xmlns:lang="jpn">パッセ・ジャー ドア オープ・</tu>
+	<tu xmlns:lang="ptg">Abertura da porta do passageiro</tu>
+	<tu xmlns:lang="ptb">Porta do passageiro aberta</tu>
+	<tu xmlns:lang="rus">Открыта дверь пассажира</tu>
+	<tu xmlns:lang="esp">Puerta acompañante abierta</tu>
+	<tu xmlns:lang="chs">乘客一侧车门开启</tu>
+	<tu xmlns:lang="kor">조수석 도어 열림</tu>
+</tm>

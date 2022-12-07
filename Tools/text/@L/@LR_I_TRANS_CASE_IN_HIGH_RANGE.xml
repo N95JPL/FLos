@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_I_TRANS_CASE_IN_HIGH_RANGE">
+	<tu xmlns:lang="eng">The transfer case is now in the high range.</tu>
+	<tu xmlns:lang="nld">De tussenbak staat nu in het hoge bereik.</tu>
+	<tu xmlns:lang="fra">La boîte de transfert est maintenant en gamme haute.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Verteilergetriebe befindet sich jetzt im hohen Übersetzungsbereich.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La scatola di rinvio si trova ora nella gamma operativa alta.</tu>
+	<tu xmlns:lang="jpn">トランスファー ケースは現在ハイ レンジになっています。</tu>
+	<tu xmlns:lang="ptg">A caixa de transferência está na gama alta.</tu>
+	<tu xmlns:lang="ptb">A caixa de transferência está agora no intervalo alto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Раздаточная коробка теперь работает в диапазоне высокой скорости движения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La caja de transferencia se encuentra ahora en la gama de marchas largas.</tu>
+	<tu xmlns:lang="chs">分动箱现在处于高档范围。</tu>
+	<tu xmlns:lang="kor">트랜스퍼 케이스가 현재 하이 레인지에 있습니다.</tu>
+</tm>

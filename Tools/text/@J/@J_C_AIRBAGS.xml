@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_AIRBAGS">
+	<tu xmlns:lang="eng">Air bags</tu>
+	<tu xmlns:lang="nld">Airbags</tu>
+	<tu xmlns:lang="fra">Airbags</tu>
+	<tu xmlns:lang="deu">Airbags</tu>
+	<tu xmlns:lang="ita">Airbag</tu>
+	<tu xmlns:lang="jpn">エアバッグ</tu>
+	<tu xmlns:lang="ptg">Airbags</tu>
+	<tu xmlns:lang="ptb">Airbags</tu>
+	<tu xmlns:lang="rus">Подушки безопасности</tu>
+	<tu xmlns:lang="esp">Airbags</tu>
+	<tu xmlns:lang="chs">安全气囊</tu>
+	<tu xmlns:lang="kor">에어백</tu>
+</tm>

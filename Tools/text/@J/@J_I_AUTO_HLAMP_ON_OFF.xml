@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUTO_HLAMP_ON_OFF">
+	<tu xmlns:lang="eng">Automatic headlamp on/off</tu>
+	<tu xmlns:lang="nld">Automatische koplamp aan/uit</tu>
+	<tu xmlns:lang="fra">Marche/arrêt de phares automatiques</tu>
+	<tu xmlns:lang="deu">Scheinwerferautomatik</tu>
+	<tu xmlns:lang="ita">Funzionamento automatico dei fari</tu>
+	<tu xmlns:lang="jpn">オートマチック ヘッドランプ オン／オフ</tu>
+	<tu xmlns:lang="ptg">Ligar/desligar faróis automáticos</tu>
+	<tu xmlns:lang="ptb">Farol automático ligado/desligado</tu>
+	<tu xmlns:lang="rus">Автоматическое включение/выключение фар</tu>
+	<tu xmlns:lang="esp">Encendido/apagado automático de los faros</tu>
+	<tu xmlns:lang="chs">前照灯自动打开/关闭</tu>
+	<tu xmlns:lang="kor">자동 헤드램프 켜기/끄기</tu>
+</tm>

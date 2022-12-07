@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RESET_OIL_DEGRAD_COUNT">
+	<tu
+    xmlns:lang="eng"
+  >This routine is used to reset the oil degradation counter.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine wordt gebruikt om de olieverslechteringsteller terug te stellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme est utilisé pour réinitialiser le compteur de dégradation d'huile.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine wird der Zähler der Ölzustandsverschlechterung zurückgesetzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura viene usata per azzerare il contatore di degrado olio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンを使用してオイル劣化カウンターをリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é utilizada para repor o contador de degradação do óleo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é usada para reajustar o contador de degradação do óleo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция используется для обнуления счетчика старения масла.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina se usa para reinicializar el contador de deterioro del aceite.</tu>
+	<tu xmlns:lang="chs">这一常规程序用于给机油退化计数器复位。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 오일 품질 저하 카운터를 재설정하는 데 사용됩니다.</tu>
+</tm>

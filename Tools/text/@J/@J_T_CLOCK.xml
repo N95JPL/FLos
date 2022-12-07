@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_CLOCK">
+	<tu xmlns:lang="eng">413-07 Clock</tu>
+	<tu xmlns:lang="nld">413-07 Klok</tu>
+	<tu xmlns:lang="fra">413-07 Montre</tu>
+	<tu xmlns:lang="deu">413-07 Zeituhr</tu>
+	<tu xmlns:lang="ita">413-07 Orologio</tu>
+	<tu xmlns:lang="jpn">413-07 クロック</tu>
+	<tu xmlns:lang="ptg">413-07 Relógio</tu>
+	<tu xmlns:lang="ptb">413-07 Relógio</tu>
+	<tu xmlns:lang="rus">413-07 Часы</tu>
+	<tu xmlns:lang="esp">413-07 Reloj</tu>
+	<tu xmlns:lang="chs">413-07时钟</tu>
+	<tu xmlns:lang="kor">413-07 시계</tu>
+</tm>

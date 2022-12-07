@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PARAM_FILE_OVERSEAS">
+	<tu xmlns:lang="eng">Parameter file for Overseas</tu>
+	<tu xmlns:lang="nld">Parameterbestand voor buitenland</tu>
+	<tu xmlns:lang="fra">Fichier de configuration destiné à l'étranger</tu>
+	<tu xmlns:lang="deu">Parameterdatei für Übersee</tu>
+	<tu xmlns:lang="ita">File parametri per l'estero</tu>
+	<tu xmlns:lang="jpn">海外用パラメータ ファイル</tu>
+	<tu xmlns:lang="ptg">Ficheiro de parâmetros para Estrangeiro</tu>
+	<tu xmlns:lang="ptb">Arquivo de parâmetro para o exterior</tu>
+	<tu xmlns:lang="rus">Файл параметров для других стран</tu>
+	<tu xmlns:lang="esp">Archivo de parámetros para territorios de ultramar</tu>
+	<tu xmlns:lang="chs">用于海外的参数文件</tu>
+	<tu xmlns:lang="kor">매개 변수 파일(해외)</tu>
+</tm>

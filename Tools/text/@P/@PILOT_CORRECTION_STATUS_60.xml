@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_60">
+	<tu xmlns:lang="eng">0x60 : Exited due to stop request from external tool.</tu>
+	<tu
+    xmlns:lang="nld"
+  >0x60 : inleren afgesloten vanwege stopverzoek vanuit externe apparatuur.</tu>
+	<tu
+    xmlns:lang="fra"
+  >0x60 : Quitté à cause d'une demande d'arrêt par un outil externe.</tu>
+	<tu
+    xmlns:lang="deu"
+  >0x60 : Beendet aufgrund einer Stoppanforderung von einem externen Werkzeug.</tu>
+	<tu
+    xmlns:lang="ita"
+  >0x60 : Interrotto a causa di una richiesta di arresto dallo strumento esterno.</tu>
+	<tu xmlns:lang="jpn">0x60 : 外部ツールからの停止要求により終了。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >0x60 : Saiu devido a pedido de interrupção proveniente de ferramenta externa.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >0X60 : Encerrada devido à solicitação de aprendizagem interrupção da ferramenta externa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >0x60 : Произведен выход из-за запроса на останов с внешнего прибора.</tu>
+	<tu
+    xmlns:lang="esp"
+  >0x60: Se cerró debido a una solicitud de detención de una herramienta externa.</tu>
+	<tu xmlns:lang="chs">0x60： 因来自外部工具的停止请求而退出运行。</tu>
+	<tu xmlns:lang="kor">0x60 : 외부 도구의 중지 요청 때문에 종료됩니다.</tu>
+</tm>

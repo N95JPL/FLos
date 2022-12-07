@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_4">
+	<tu xmlns:lang="eng">General failure information - system internal failure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Informatie over algemeen defect -defect in inwendig systeem.</tu>
+	<tu xmlns:lang="fra">Panne générale - défaillance interne du système.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Allgemeine Störungsinformation - interne Systemstörung.</tu>
+	<tu xmlns:lang="ita">Informazioni guasti generali - guasto interno sistema.</tu>
+	<tu xmlns:lang="jpn">一般故障情報 － システム内部故障</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Informações gerais sobre a falha - falha interna no sistema.</tu>
+	<tu xmlns:lang="ptb">Informações de falha geral - falha interna do sistema.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сведения об общей неисправности - внутренний отказ системы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Información de fallo general: fallo interno del sistema.</tu>
+	<tu xmlns:lang="chs">一般故障信息 - 系统内部故障。</tu>
+	<tu xmlns:lang="kor">일반 고장 정보 - 시스템 내부 고장</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MONITOR_WHEEL_TRANSP">
+	<tu
+    xmlns:lang="eng"
+  >This self-test provides the ability to monitor each individual wheel transponder.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze zelftest kan iedere wielantwoordzender apart worden gecontroleerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cet autodiagnostic offre la possibilité de surveiller chaque transpondeur de roue individuel.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit diesem Selbsttest kann der Transponder jedes einzelnen Rades überwacht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa prova automatica consente di monitorare ogni singolo risponditore ruota.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このセルフ テストは、個々のホイール トランスポンダを個別にモニターする機能\を提供します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este autoteste oferece a possibilidade de monitorizar cada emissor-receptor das rodas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este auto-teste oferece a capacidade de monitorar cada um dos transmissores das rodas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это самотестирование обеспечивает возможность индивидуального контроля передатчика каждого колеса.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta autocomprobación proporciona la opción de controlar cada transpondedor de rueda por separado.</tu>
+	<tu xmlns:lang="chs">此自测程序具有监测每个车轮发射机应答器的功能。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 자체 테스트에서는 개별 휠 트랜스폰더를 각각 모니터링할 수 있습니다.</tu>
+</tm>

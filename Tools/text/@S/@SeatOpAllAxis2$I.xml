@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SeatOpAllAxis2$I">
+	<tu xmlns:lang="eng">If not, rectify before continuing.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als dit niet het geval is, verhelpt u dit eerst, voordat u verdergaat.</tu>
+	<tu xmlns:lang="fra">Dans la négative, corrigez avant de poursuivre.</tu>
+	<tu xmlns:lang="deu">Andernfalls vor dem Fortfahren richtigstellen.</tu>
+	<tu xmlns:lang="ita">In caso contrario, rettificare prima di continuare.</tu>
+	<tu xmlns:lang="jpn">作動しない場合、続行前に修復しなさい。</tu>
+	<tu xmlns:lang="ptg">Caso contrário, rectifique antes de continuar.</tu>
+	<tu xmlns:lang="ptb">Se não, conserte antes de continuar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если нет, устраните неисправности, прежде чем продолжить.</tu>
+	<tu
+    xmlns:lang="esp"
+  >De no ser así, rectificar el problema antes de continuar.</tu>
+	<tu xmlns:lang="chs">'如果没有，在继续之前要修正。'</tu>
+	<tu xmlns:lang="kor">작동하지 않으면 계속하기 전에 수리하십시오.</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_NO_KEYS_REPLACED">
+	<tu xmlns:lang="eng">No smart keys have been added or replaced.</tu>
+	<tu xmlns:lang="nld">Er zijn geen smart-keys toegevoegd of vervangen.</tu>
+	<tu xmlns:lang="fra">Aucune clé intelligente n'a été ajoutée ou remplacée.</tu>
+	<tu xmlns:lang="deu">Es wurden keine Smart Keys hinzugefügt oder ersetzt.</tu>
+	<tu xmlns:lang="ita">Nessuna chiave Smart aggiunta o sostituita.</tu>
+	<tu xmlns:lang="jpn">追加または交換したスマート キーなし。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não foram adicionadas nem substituídas quaisquer chaves inteligentes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Nenhuma chave inteligente foi adicionada ou substituída.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не было добавлено или заменено ни одного электронного ключа.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha añadido ni sustituido ninguna llave inteligente.</tu>
+	<tu xmlns:lang="chs">未添加或更换任何智能钥匙。</tu>
+	<tu xmlns:lang="kor">스마트 키가 추가되거나 교체되지 않았습니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart35">
+	<tu
+    xmlns:lang="eng"
+  >Where no fault conditions are present this inhibit can be caused by a low battery state of charge.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Indien er geen storingen aanwezig zijn, kan deze blokkering worden veroorzaakt door een lage laadtoestand van de accu.</tu>
+	<tu
+    xmlns:lang="fra"
+  >En l'absence de tout défaut, cette neutralisation peut être due à un état de charge faible de la batterie.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn kein Fehlerzustand vorliegt, kann diese Sperre durch einen niedrigen Ladezustand der Batterie verursacht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >In assenza di condizioni di guasto, questa disabilitazione può essere causata da un basso stato di carica della batteria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >故障が見つからない場合、この禁止状態はバッテリーの充電状態の低下によって発生している可能性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nos casos em que não existem condições de avaria, esta inibição pode ser provocada por um estado de carga baixo da bateria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa inibição pode ser causada por um estado de carga baixo da bateria quando nenhuma condição de falha estiver presente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если неисправности отсутствуют, блокировка может быть вызвана низким уровнем заряда аккумуляторной батареи.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si no hay condiciones de avería, este bloqueo puede deberse a un estado de carga bajo de la batería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >不存在故障的情况下，此禁止可能由蓄电池电荷状态过低造成。</tu>
+	<tu
+    xmlns:lang="kor"
+  >아무런 고장 상태도 존재하지 않을 경우 이 억제 상태는 배터리 충전 부족 상태 때문일 수 있습니다.</tu>
+</tm>

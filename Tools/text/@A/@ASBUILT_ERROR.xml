@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ASBUILT_ERROR">
+	<tu xmlns:lang="eng">As-Built error.</tu>
+	<tu xmlns:lang="nld">Af-fabriekfout.</tu>
+	<tu xmlns:lang="fra">Erreur du fichier d'origine.</tu>
+	<tu xmlns:lang="deu">Werkseiter Baudatenfehler.</tu>
+	<tu xmlns:lang="ita">Errore dati di fabbricazione.</tu>
+	<tu xmlns:lang="jpn">アズビルトのエラー。</tu>
+	<tu xmlns:lang="ptg">Erro de fábrica.</tu>
+	<tu xmlns:lang="ptb">Erro de Fábrica.</tu>
+	<tu xmlns:lang="rus">Ошибка файла заводских настроек.</tu>
+	<tu xmlns:lang="esp">Error de los datos de configuración de fábrica.</tu>
+	<tu xmlns:lang="chs">出厂错误。</tu>
+	<tu xmlns:lang="kor">애즈-빌트(As-Built) 오류입니다.</tu>
+</tm>

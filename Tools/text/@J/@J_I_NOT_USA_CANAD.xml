@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NOT_USA_CANAD">
+	<tu xmlns:lang="eng">Not America/Canada</tu>
+	<tu xmlns:lang="nld">Niet in Amerika / Canada</tu>
+	<tu xmlns:lang="fra">Sauf Amérique/Canada</tu>
+	<tu xmlns:lang="deu">Nicht Amerika/Kanada</tu>
+	<tu xmlns:lang="ita">Eccetto America/Canada</tu>
+	<tu xmlns:lang="jpn">米国／カナダを除く。</tu>
+	<tu xmlns:lang="ptg">Excepto Estados Unidos da América/Canadá</tu>
+	<tu xmlns:lang="ptb">Não para os EUA/Canadá</tu>
+	<tu xmlns:lang="rus">Не Америка/Канада</tu>
+	<tu xmlns:lang="esp">Salvo Estados Unidos/Canadá</tu>
+	<tu xmlns:lang="chs">美国/加拿大除外</tu>
+	<tu xmlns:lang="kor">아메리카/캐나다 아님</tu>
+</tm>

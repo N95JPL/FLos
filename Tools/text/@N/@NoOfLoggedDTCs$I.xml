@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NoOfLoggedDTCs$I">
+	<tu xmlns:lang="eng">Logged diagnostic trouble codes : %d</tu>
+	<tu xmlns:lang="nld">Logged DTCs : %d</tu>
+	<tu xmlns:lang="fra">Codes de défaut enregistrés : %d</tu>
+	<tu xmlns:lang="deu">Aufgezeichnete DTCs : %d</tu>
+	<tu xmlns:lang="ita">DTC registrati : %d</tu>
+	<tu xmlns:lang="jpn">ﾛグしたDTCs : %d</tu>
+	<tu xmlns:lang="ptg">Códigos de avaria registados: %d</tu>
+	<tu xmlns:lang="ptb">Códigos de problema de diagnóstico registrados : %d</tu>
+	<tu
+    xmlns:lang="rus"
+  >Зарегистрированные диагностические коды неисправностей : %d</tu>
+	<tu xmlns:lang="esp">Códigos de avería registrados: %d</tu>
+	<tu xmlns:lang="chs">已记录的故障诊断码：%d</tu>
+	<tu xmlns:lang="kor">기록된 고장 진단 코드: %d</tu>
+</tm>

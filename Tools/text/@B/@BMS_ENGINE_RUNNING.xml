@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_ENGINE_RUNNING">
+	<tu
+    xmlns:lang="eng"
+  >The functionality should only be executed if the engine is running</tu>
+	<tu
+    xmlns:lang="nld"
+  >De functie mag alleen worden uitgevoerd terwijl de motor draait</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette fonction ne doit être lancée que si le moteur tourne</tu>
+	<tu xmlns:lang="deu">Die Funktion nur aufrufen, wenn der Motor läuft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La funzione deve essere eseguita soltanto con il motore avviato</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この機能\はエンジンがかかっているときに実行しなければなりません</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A funcionalidade apenas deve ser executada se o motor estiver a trabalhar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A funcionalidade só deve ser executada se o motor estiver em funcionamento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данную операцию следует выполнять, только на работающем двигателе</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta funcionalidad sólo se debe ejecutar si el motor está en marcha</tu>
+	<tu xmlns:lang="chs">只有在发动机运转时，才能运行该功能</tu>
+	<tu xmlns:lang="kor">엔진이 작동 중인 경우에만 이 기능을 실행해야 합니다.</tu>
+</tm>

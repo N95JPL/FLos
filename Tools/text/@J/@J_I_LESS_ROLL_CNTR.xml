@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_ROLL_CNTR">
+	<tu xmlns:lang="eng">Without roll stability control</tu>
+	<tu xmlns:lang="nld">Zonder stabiliteitsregeling tegen rollen </tu>
+	<tu xmlns:lang="fra">Sans contrôle de stabilité antiroulis </tu>
+	<tu xmlns:lang="deu">Ohne Wankstabilitätskontrolle </tu>
+	<tu xmlns:lang="ita">Senza controllo attivo della stabilità</tu>
+	<tu xmlns:lang="jpn">ロール スタビリティ コントロールなし</tu>
+	<tu xmlns:lang="ptg">Sem controlo de estabilidade anti-capotamento</tu>
+	<tu xmlns:lang="ptb">Sem controle de estabilidade antirrolagem</tu>
+	<tu xmlns:lang="rus">Без системы предотвращения опрокидывания </tu>
+	<tu xmlns:lang="esp">Sin control de estabilidad antivuelco</tu>
+	<tu xmlns:lang="chs">无侧倾稳定性控制</tu>
+	<tu xmlns:lang="kor">RSC(Roll Stability Control) 없음</tu>
+</tm>

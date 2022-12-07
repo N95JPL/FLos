@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRANS_KEY_PROG">
+	<tu xmlns:lang="eng">Transponder key programming</tu>
+	<tu xmlns:lang="nld">Programmeren van sleutelzender</tu>
+	<tu xmlns:lang="fra">Programmation des clés à transpondeur</tu>
+	<tu xmlns:lang="deu">Fernbedienungsschlüssel-Programmierung</tu>
+	<tu xmlns:lang="ita">Programmazione chiave risponditore</tu>
+	<tu xmlns:lang="jpn">トランスポンダ キーのプログラミング</tu>
+	<tu xmlns:lang="ptg">Programação de chave com emissor-receptor</tu>
+	<tu xmlns:lang="ptb">Programação da chave do transmissor</tu>
+	<tu xmlns:lang="rus">Программирование ключа приемопередатчика</tu>
+	<tu xmlns:lang="esp">Programación de llaves con transpondedor</tu>
+	<tu xmlns:lang="chs">收发器钥匙编程</tu>
+	<tu xmlns:lang="kor">트랜스폰더 키 프로그래밍</tu>
+</tm>

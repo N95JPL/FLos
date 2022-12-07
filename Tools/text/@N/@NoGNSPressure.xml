@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NoGNSPressure">
+	<tu
+    xmlns:lang="eng"
+  >Please note - Make sure no pressure is applied to the selector lever while checking the stop/start feature, this will prevent correct operation.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Let op - Zorg ervoor dat er geen druk wordt uitgeoefend op de keuzehendel wanneer u de Stop/Start-functie test. Dit voorkomt een juiste werking.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Remarque : veillez à ce qu'aucune pression ne soit appliquée sur le levier sélecteur lors du contrôle de la fonction arrêt/démarrage, cela permet d'éviter tout dysfonctionnement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hinweis: Sicherstellen, dass beim Prüfen der Stopp/Start-Funktion kein Druck auf den Wählhebel ausgeübt wird, da dies die Funktion beeinträchtigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nota - Assicurarsi che non venga applicata pressione alla leva del selettore durante il controllo della funzione del sistema Stop/Start; poiché questo può impedirne il funzionamento corretto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >注意 - 正常な作動を妨げる恐れがあるため、スタート/ストップ機能を点検しながら、セレクタ レバーに圧力が加えられていないことを確認すること。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nota - Certifique-se de que não é aplicada pressão na alavanca seletora durante a verificação da função de paragem/arranque, pois impede o bom funcionamento da mesma.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Observe - Certifique-se de que nenhuma pressão seja aplicada à alavanca seletora ao verificar o recurso stop/start. Isso impedirá a operação correta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Примите во внимание: убедитесь, что при проверке функции Стоп/Старт отсутствует давление на рычаг селектора – оно препятствует правильной работе.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tenga en cuenta que debe asegurarse de que no se aplica presión a la palanca selectora mientras se comprueba la función Stop/Start, ya que impedirá que funcione correctamente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >请注意 - 确保在检查停止/启动功能时未向换档杆施加压力，这会阻碍正常运行。</tu>
+	<tu
+    xmlns:lang="kor"
+  >참고 - Stop/Start 기능을 점검하는 동안 셀렉터 레버에 압력을 가하면 올바르게 작동하지 않으므로 압력을 가하지 마십시오.</tu>
+</tm>

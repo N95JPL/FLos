@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_28">
+<tu xmlns:lang="eng">General signal failure - signal bias level is out of range/zero adjustment failure.</tu>
+<tu xmlns:lang="nld">Algemene signaalfout - biasniveau buiten het bereik/fout in nulinstelling.</tu>
+<tu xmlns:lang="fra">Panne de signalisation g&#233;n&#233;rale - niveau de polarisation du signal est hors limite / d&#233;faut de r&#233;glage du z&#233;ro.</tu>
+<tu xmlns:lang="deu">Allgemeine Signalst&#246;rung - Pegel Signalabgleich au&#223;erhalb des Bereichs/St&#246;rung Nulleinstellung.</tu>
+<tu xmlns:lang="ita">Guasto generale di segnale - livello polarizzazione segnale fuori campo/guasto di azzeramento.</tu>
+<tu xmlns:lang="jpn">ˆê”ÊƒVƒOƒiƒ‹•s—Ç | ƒVƒOƒiƒ‹ ƒoƒCƒAƒX ƒŒƒxƒ‹A”ÍˆÍŠO^ƒ[ƒ’²®•s—Ç</tu>
+<tu xmlns:lang="ptg">Falha geral no sinal - o n&#237;vel de aumento ou diminui&#231;&#227;o do sinal est&#225; fora da gama/falha de regula&#231;&#227;o a zero.</tu>
+<tu xmlns:lang="rus">Îáùàÿ îøèáêà ñèãíàëà - óðîâåíü ñìåùåíèÿ ñèãíàëà íàõîäèòñÿ âíå ïðåäåëîâ äèàïàçîíà/îøèáêè ðåãóëèðîâêè íóëÿ.</tu>
+<tu xmlns:lang="esp">Fallo el&#233;ctrico general: nivel de polarizaci&#243;n de la se&#241;al fuera de l&#237;mites/fallo de ajuste cero.</tu>
+<tu xmlns:lang="chs">Ò»°ãÐÅºÅ¹ÊÕÏ - ÐÅºÅÆ«ÒÆÁ¿³¬³ö·¶Î§/Áãµãµ÷Õû¹ÊÕÏ¡£</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUD_BUTT_MFD">
+	<tu
+    xmlns:lang="eng"
+  >Audio buttons and multi function display remote controller in steering wheel</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bedieningselementen van geluidsinstallatie en afstandsbediening van multifunctioneel scherm op stuurwiel</tu>
+	<tu
+    xmlns:lang="fra"
+  >Boutons audio et commande à distance d'affichage multifonction au volant</tu>
+	<tu
+    xmlns:lang="deu"
+  >Audiotasten und Multifunktionsdisplay-Fernbedienung im Lenkrad</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pulsanti audio e comandi display multifunzione su volante</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング ホイールのオーディオ ボタンおよびマルチファンクション ディスプレイ リモート コントローラ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Comandos áudio e comando à distância do visor multifunções no volante</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Botões de áudio e controlador remoto do display multifunções no volante</tu>
+	<tu
+    xmlns:lang="rus"
+  >Кнопки на рулевом колесе для управления аудиосистемой и многофункциональным дисплеем</tu>
+	<tu
+    xmlns:lang="esp"
+  >Botones de audio y mando a distancia de la pantalla multifuncional en el volante</tu>
+	<tu xmlns:lang="chs">方向盘中的音频按钮和多功能显示屏遥控器</tu>
+	<tu xmlns:lang="kor">스티어링 휠 내 오디오 버튼 및 다기능 디스플레이 리모컨</tu>
+</tm>

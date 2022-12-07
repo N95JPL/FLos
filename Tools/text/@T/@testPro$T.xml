@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@testPro$T">
+	<tu xmlns:lang="eng">Test in progress</tu>
+	<tu xmlns:lang="nld">Test in uitvoering</tu>
+	<tu xmlns:lang="fra">Test en cours</tu>
+	<tu xmlns:lang="deu">Test fortschreitend</tu>
+	<tu xmlns:lang="ita">Sotto prova</tu>
+	<tu xmlns:lang="jpn">ﾃｽﾄ進行中</tu>
+	<tu xmlns:lang="ptg">Teste em curso</tu>
+	<tu xmlns:lang="ptb">Teste em andamento</tu>
+	<tu xmlns:lang="rus">Проверка выполняется</tu>
+	<tu xmlns:lang="esp">Prueba en marcha</tu>
+	<tu xmlns:lang="chs">测试正在进行</tu>
+	<tu xmlns:lang="kor">테스트 진행 중</tu>
+</tm>

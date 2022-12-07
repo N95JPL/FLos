@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRANSMISSION_M6_AWD">
+	<tu xmlns:lang="eng">Manual 6 speed transmission  -  All wheel drive</tu>
+	<tu
+    xmlns:lang="nld"
+  >Handmatige versnellingsbak met 6 versnellingen  -  Vierwielaandrijving</tu>
+	<tu xmlns:lang="fra">Transmission manuelle 6 vitesses  -  4 roues motrices</tu>
+	<tu xmlns:lang="deu">6-Gang-Schaltgetriebe  -  Allradantrieb</tu>
+	<tu xmlns:lang="ita">Cambio manuale a 6 rapporti  -  Trazione integrale</tu>
+	<tu
+    xmlns:lang="jpn"
+  >マニュアル 6 速トランスミッション  －  フォーホイール ドライブ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Transmissão manual de 6 velocidades  -  Tracção às 4 rodas</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Transmissão manual de 6 velocidades  -  Tração nas quatro rodas</tu>
+	<tu
+    xmlns:lang="rus"
+  >Механическая 6-ступенчатая коробка передач  -  Полноприводной автомобиль</tu>
+	<tu xmlns:lang="esp">Cambio manual de 6 velocidades  -  Tracción total</tu>
+	<tu xmlns:lang="chs">6速手动变速器  -  全轮驱动</tu>
+	<tu xmlns:lang="kor">수동 6단 변속기  -  4륜 구동</tu>
+</tm>

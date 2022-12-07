@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENS_VEH_STAT_LEV_GND">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the vehicle is stationary, on level ground and that the brake pedal is not depressed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat het voertuig op een vlakke ondergrond stilstaat en dat u het rempedaal niet intrapt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que le véhicule est immobilisé sur une surface plane et que la pédale de frein n'est pas enfoncée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass das Fahrzeug still steht, sich auf ebenem Untergrund befindet und dass das Bremspedal nicht durchgetreten wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che il veicolo sia fermo, su una superficie piana, e che il pedale del freno non sia premuto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両が静止状態であり、水平路面上にあること、ブレーキ ペダルが踏み込まれていないことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o veículo está parado em terreno plano e que o pedal do travão não está premido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o veículo está parado, em solo nivelado e que o pedal de freio não esteja pressionado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедиться, что автомобиль стоит неподвижно на ровной площадке, а педаль тормоза не нажата.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que el vehículo esté parado sobre en una superficie nivelada y que el pedal del freno no esté pisado.</tu>
+	<tu xmlns:lang="chs">确保车辆在水平地面上处于静止状态，刹车踏板未踏下。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량이 평평한 지면에 정지해 있는지, 브레이크 페달을 밟지 않은 상태인지 확인하십시오.</tu>
+</tm>

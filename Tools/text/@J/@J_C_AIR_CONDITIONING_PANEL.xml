@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_AIR_CONDITIONING_PANEL">
+	<tu xmlns:lang="eng">Air conditioning panel</tu>
+	<tu xmlns:lang="nld">Klimaatregelingspaneel</tu>
+	<tu xmlns:lang="fra">Panneau climatisation</tu>
+	<tu xmlns:lang="deu">Klimaanlagenbedienteil</tu>
+	<tu xmlns:lang="ita">Quadro di comando dell'aria condizionata</tu>
+	<tu xmlns:lang="jpn">ｴｱ・ｺﾝﾃﾞｨｼｮﾆﾝｸﾞ・ﾊﾟﾈﾙ</tu>
+	<tu xmlns:lang="ptg">Painel do ar condicionado</tu>
+	<tu xmlns:lang="ptb">Painel de ar-condicionado</tu>
+	<tu xmlns:lang="rus">Панель кондиционера</tu>
+	<tu xmlns:lang="esp">Panel del aire acondicionado</tu>
+	<tu xmlns:lang="chs">空调面板</tu>
+	<tu xmlns:lang="kor">에어컨 패널</tu>
+</tm>

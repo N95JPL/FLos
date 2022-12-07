@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRANSMISSION_A6_AISIN_F21">
+	<tu xmlns:lang="eng">Automatic 6 speed transmission  (Aisin F21)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Automatische transmissie met 6 versnellingen  (Aisin F21)</tu>
+	<tu xmlns:lang="fra">Transmission automatique 6 vitesses  (Aisin F21)</tu>
+	<tu xmlns:lang="deu">6-Gang-Automatikgetriebe  (Aisin F21)</tu>
+	<tu xmlns:lang="ita">Cambio automatico a 6 rapporti  (Aisin F21)</tu>
+	<tu xmlns:lang="jpn">オートマチック 6 速トランスミッション  (Aisin F21)</tu>
+	<tu xmlns:lang="ptg">Transmissão automática de 6 velocidades  (Aisin F21)</tu>
+	<tu xmlns:lang="ptb">Transmissão de 6 velocidades automática  (Aisin F21)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автоматическая 6-ступенчатая коробка передач  (Aisin F21)</tu>
+	<tu xmlns:lang="esp">Cambio automático de 6 velocidades  (Aisin F21)</tu>
+	<tu xmlns:lang="chs">6速自动变速器  (Aisin F21)</tu>
+	<tu xmlns:lang="kor">자동 6단 변속기  (Aisin F21)</tu>
+</tm>

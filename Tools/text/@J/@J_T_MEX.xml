@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_MEX">
+	<tu xmlns:lang="eng">T-Mexico</tu>
+	<tu xmlns:lang="nld">T-Mexico</tu>
+	<tu xmlns:lang="fra">T-Mexique</tu>
+	<tu xmlns:lang="deu">T - Mexiko</tu>
+	<tu xmlns:lang="ita">T-Messico</tu>
+	<tu xmlns:lang="jpn">T-メキシコ</tu>
+	<tu xmlns:lang="ptg">T - México</tu>
+	<tu xmlns:lang="ptb">T - México</tu>
+	<tu xmlns:lang="rus">Т - Мексика</tu>
+	<tu xmlns:lang="esp">T-México</tu>
+	<tu xmlns:lang="chs">T - 墨西哥</tu>
+	<tu xmlns:lang="kor">T-멕시코</tu>
+</tm>

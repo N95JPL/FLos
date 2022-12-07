@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TiltFuncPowerAxis$I">
+	<tu xmlns:lang="eng">The tilt function will now be powered along its axis.</tu>
+	<tu xmlns:lang="nld">De kantelfunctie wordt nu langs zijn as gestuurd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La fonction d'inclinaison du siège sera maintenant activée électriquement le long de son axe.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Sitzneigung wird jetzt entlang ihrer Achse verstellt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La funzione di inclinazione adesso verrà azionata lungo il suo asse.	</tu>
+	<tu xmlns:lang="jpn">チルト機能\がその軸上で電動駆動されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A função de inclinação será agora accionada ao longo do eixo respectivo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A função de inclinação será acionada junto com seu eixo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сейчас будет включена функция регулировки наклона в прямом направлении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La función de inclinación de la banqueta se accionará ahora en su eje.</tu>
+	<tu xmlns:lang="chs">倾斜功能现在将沿其坐标轴操纵。</tu>
+	<tu xmlns:lang="kor">이제 틸트 기능이 해당 축을 따라 작동할 것입니다.</tu>
+</tm>

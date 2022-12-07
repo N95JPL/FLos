@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REF_DTC_MON">
+	<tu xmlns:lang="eng">Refer to the diagnostic trouble code monitor.</tu>
+	<tu xmlns:lang="nld">Raadpleeg de diagnosefoutcodebewaking.</tu>
+	<tu xmlns:lang="fra">Reportez-vous au contrôleur de codes de diagnostic.</tu>
+	<tu xmlns:lang="deu">Siehe Fehlercode-Monitor.</tu>
+	<tu xmlns:lang="ita">Vedere monitoraggio dei codici di guasto diagnostici.</tu>
+	<tu xmlns:lang="jpn">診断トラブル コード モニターを参照のこと。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Consulte o monitor de códigos de avaria para diagnóstico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Consulte o monitor de código de problema de diagnóstico.</tu>
+	<tu xmlns:lang="rus">См. контроль диагностических кодов неисправностей.</tu>
+	<tu xmlns:lang="esp">Consulte el lector de códigos de avería.</tu>
+	<tu xmlns:lang="chs">参见故障诊断码监测器。</tu>
+	<tu xmlns:lang="kor">고장 진단 코드 모니터를 참조하십시오.</tu>
+</tm>

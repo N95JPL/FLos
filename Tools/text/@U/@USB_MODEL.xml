@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@USB_MODEL">
+	<tu xmlns:lang="eng">USB model</tu>
+	<tu xmlns:lang="nld">USB-model</tu>
+	<tu xmlns:lang="fra">Modèle USB</tu>
+	<tu xmlns:lang="deu">USB-Modell</tu>
+	<tu xmlns:lang="ita">Modello USB</tu>
+	<tu xmlns:lang="jpn">USB モデル</tu>
+	<tu xmlns:lang="ptg">Modelo USB</tu>
+	<tu xmlns:lang="ptb">Modelo USB</tu>
+	<tu xmlns:lang="rus">Модель USB</tu>
+	<tu xmlns:lang="esp">Modelo de USB</tu>
+	<tu xmlns:lang="chs">USB 型号</tu>
+	<tu xmlns:lang="kor">USB 모델</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PRO_SET_HEI_SEN_CAL">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will reset the height sensor calibration.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal de kalibrering van de hoogtesensor opnieuw instellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure lancera la réinitialisation de l'étalonnage du capteur de hauteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit diesem Verfahren wird die Kalibrierung des Höhensensors rückgesetzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura azzera la taratura del sensore di altezza.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順はハイト センサー キャリブレーションをリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento repõe a calibragem do sensor de altura.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento reiniciará a calibração do sensor de altura.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При этом выполняется сброс настроек калибровки датчика высоты.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento repondrá la calibración del sensor de altura.</tu>
+	<tu xmlns:lang="chs">本步骤将重置高度传感器校准。</tu>
+	<tu xmlns:lang="kor">이 절차에서는 차고 센서 보정을 재설정합니다.</tu>
+</tm>

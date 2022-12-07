@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspMeas$I">
+	<tu xmlns:lang="eng">Suspension measurements.</tu>
+	<tu xmlns:lang="nld">Luchtveringsmetingen.</tu>
+	<tu xmlns:lang="fra">Mesures de la suspension.</tu>
+	<tu xmlns:lang="deu">Fahrhöhenmessungen.</tu>
+	<tu xmlns:lang="ita">Misure delle sospensioni.</tu>
+	<tu xmlns:lang="jpn">サスペンション測定値</tu>
+	<tu xmlns:lang="ptg">Medições da suspensão.</tu>
+	<tu xmlns:lang="ptb">Medições da suspensão.</tu>
+	<tu xmlns:lang="rus">Измерения подвески.</tu>
+	<tu xmlns:lang="esp">Medidas de la suspensión.</tu>
+	<tu xmlns:lang="chs">悬架测量。</tu>
+	<tu xmlns:lang="kor">서스펜션 측정</tu>
+</tm>

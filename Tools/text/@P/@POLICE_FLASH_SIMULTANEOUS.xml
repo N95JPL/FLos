@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@POLICE_FLASH_SIMULTANEOUS">
+	<tu xmlns:lang="eng">Simultaneous</tu>
+	<tu xmlns:lang="nld">Tegelijkertijd</tu>
+	<tu xmlns:lang="fra">En simultané.</tu>
+	<tu xmlns:lang="deu">Gleichzeitig</tu>
+	<tu xmlns:lang="ita">Simultaneo</tu>
+	<tu xmlns:lang="jpn">同時</tu>
+	<tu xmlns:lang="ptg">Simultâneo</tu>
+	<tu xmlns:lang="ptb">Simultâneo</tu>
+	<tu xmlns:lang="rus">Одновременно</tu>
+	<tu xmlns:lang="esp">Simultáneo</tu>
+	<tu xmlns:lang="chs">同时发生</tu>
+	<tu xmlns:lang="kor">동시</tu>
+</tm>

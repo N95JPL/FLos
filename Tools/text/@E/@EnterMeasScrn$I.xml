@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnterMeasScrn$I">
+	<tu
+    xmlns:lang="eng"
+  >Use the following screen to enter suspension height measurements.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer op het nu volgende scherm de meetwaarden van de luchtveringshoogte in.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Utilisez l'écran suivant pour saisir les mesures de hauteur de la suspension.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf dem folgenden Bildschirm Fahrhöhenmesswerte eingeben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Usare la schermata seguente per immettere l'altezza delle sospensioni.</tu>
+	<tu xmlns:lang="jpn">次の画面でサスペンション ハイト測定値を入力しなさい。 </tu>
+	<tu
+    xmlns:lang="ptg"
+  >Use o ecrã que se segue para introduzir as medições da altura da suspensão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Use a seguinte tela para inserir medidas de altura de suspensão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для ввода измерений высоты подвески используйте следующий экран.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Utilizar la pantalla siguiente para introducir las medidas de altura de la suspensión.</tu>
+	<tu xmlns:lang="chs">使用下述屏幕来输入悬架高度测量值。</tu>
+	<tu xmlns:lang="kor">다음 화면에서 서스펜션 높이 측정치를 입력하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_MODULE_COMMS_NETWORK">
+	<tu xmlns:lang="eng">Module communications network</tu>
+	<tu xmlns:lang="nld">Module communicatienetwerk</tu>
+	<tu xmlns:lang="fra">Reseau de communications des modules</tu>
+	<tu xmlns:lang="deu">Modulkommunikationsnetz</tu>
+	<tu xmlns:lang="ita">Rete comunicazioni modulo</tu>
+	<tu xmlns:lang="jpn">モジュール通信ネットワーク</tu>
+	<tu xmlns:lang="ptg">Rede de comunicações dos módulos</tu>
+	<tu xmlns:lang="ptb">Rede de comunicação de módulos</tu>
+	<tu xmlns:lang="rus">Сеть передачи данных модулей</tu>
+	<tu xmlns:lang="esp">Interconexian de módulos</tu>
+	<tu xmlns:lang="chs">模块通讯网络</tu>
+	<tu xmlns:lang="kor">모듈 통신 네트워크</tu>
+</tm>

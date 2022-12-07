@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PLACE_DT_SAFE">
+	<tu
+    xmlns:lang="eng"
+  >To avoid possible serious injury or death: ensure the diagnostic tester is placed in the vehicle so it does not interfere with the safe operation of the vehicle, e.g. do not place the diagnostic tester in the deployment path of any air bag.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om ernstig letsel te vermijden: zorg dat u de diagnosetester zodanig in het voertuig zet dat hij het veilig besturen van het voertuig niet in gevaar kan brengen, zet de diagnosetester bijvoorbeeld buiten het bereik van een airbag.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour éviter les risques de blessures graves ou mortelles : placez le contrôleur de diagnostic dans le véhicule de telle sorte qu'il ne compromette pas la sécurité de conduite du véhicule, par ex. ne placez pas le contrôleur dans la trajectoire de déploiement d'un airbag.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zur Vermeidung schwerer Verletzungen oder von Todesfällen: Sicherstellen, dass der Diagnosetester im Fahrzeug so abgestellt wird, dass er den sicheren Betrieb des Fahrzeugs nicht behindert, d. h. den Diagnosetester nicht im Entfaltungsbereich eines Airbags abstellen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per evitare possibili lesioni gravi o mortali: assicurare che l'apparecchiatura di prova diagnostica sia posizionata in modo da non intralciare il funzionamento sicuro della vettura, per esempio, non posizionarla sulla traiettoria di attivazione di un airbag.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >重大な負傷または死亡事故を避けるため、車両の安全運行の妨げにならない場所に診断テスターを置くこと。例：診断テスターをいずれのエアバッグの展開通路にもおいてはなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para evitar possíveis ferimentos graves ou até fatais: certifique-se de que o aparelho de diagnóstico é colocado no veículo de forma a não interferir na utilização segura do veículo; por ex. não coloque o aparelho de diagnóstico no trajecto de insuflação de qualquer airbag.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para evitar possíveis lesões graves ou morte: verifique se o dispositivo de teste de diagnóstico está colocado no veículo de forma que não interfira no funcionamento seguro do veículo, por exemplo, não coloque o dispositivo de teste no caminho do acionamento dos airbags.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Во избежание возможных серьезных травм или смерти: обеспечьте размещение диагностического устройства в автомобиле таким образом, чтобы он не мешал безопасному вождению автомобиля: например, не устанавливайте диагностическое устройство перед любой изподушек безопасности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para evitar posibles lesiones graves o mortales: asegurarse de que el comprobador de diagnosis se coloque en el vehículo de tal modo que no interfiera con el funcionamiento seguro del vehículo. Por ejemplo, no se debe poner el comprobar en el trayecto de despliegue de un airbag.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'为避免可能发生的严重人身伤害甚至死亡：确保诊断测试仪放于车内时不干扰车辆的安全运行，比如，不要将诊断测试仪置于任何安全气囊弹出通道中。’</tu>
+	<tu
+    xmlns:lang="kor"
+  >심각한 부상 또는 사망을 방지하려면 진단 테스터를 차량 내에 배치할 때 진단 테스터가 차량의 안전한 작동을 방해하지 않도록 해야 합니다. 예를 들어, 진단 테스터를 에어백의 전개 경로에 배치하지 마십시오.</tu>
+</tm>

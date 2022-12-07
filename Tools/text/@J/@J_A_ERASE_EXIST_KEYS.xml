@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ERASE_EXIST_KEYS">
+	<tu xmlns:lang="eng">Erase all existing keys.</tu>
+	<tu xmlns:lang="nld">Wis alle bestaande sleutels.</tu>
+	<tu xmlns:lang="fra">Effacez toutes les clés existantes.</tu>
+	<tu xmlns:lang="deu">Alle vorhandenen Schlüssel löschen.</tu>
+	<tu xmlns:lang="ita">Cancellare tutte le chiavi esistenti.</tu>
+	<tu xmlns:lang="jpn">現存のキーをすべて消去しなさい。</tu>
+	<tu xmlns:lang="ptg">Apagar todas as chaves existentes.</tu>
+	<tu xmlns:lang="ptb">Apagar todas as chaves existentes.</tu>
+	<tu xmlns:lang="rus">Удалить все имеющиеся ключи.</tu>
+	<tu xmlns:lang="esp">Borrar todas las llaves existentes.</tu>
+	<tu xmlns:lang="chs">擦除所有现存钥匙。</tu>
+	<tu xmlns:lang="kor">기존의 모든 키를 삭제하십시오.</tu>
+</tm>

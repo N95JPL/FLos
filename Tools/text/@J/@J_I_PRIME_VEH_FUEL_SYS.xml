@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PRIME_VEH_FUEL_SYS">
+	<tu xmlns:lang="eng">This routine will prime the vehicle fuel system</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met deze routine start u de toevoer van het brandstofsysteem van het voertuig</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet d'amorcer le circuit d'alimentation du véhicule</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Routine wird das Kraftstoffsystem des Fahrzeugs vorbefüllt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura esegue l'adescamento del sistema di alimentazione del veicolo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは車両のフューエル システムをプライミングします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A operação seguinte vai purgar o sistema de combustível do veículo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina escorvará o sistema de combustível do veículo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная процедура служит для подкачки топлива в топливную систему автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina ceba el sistema de combustible del vehículo</tu>
+	<tu xmlns:lang="chs">本例行程序将准备启动车辆燃油系统。</tu>
+	<tu xmlns:lang="kor">이 루틴에서는 차량 연료 시스템을 프라이밍합니다.</tu>
+</tm>

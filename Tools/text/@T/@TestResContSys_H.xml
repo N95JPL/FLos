@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TestResContSys_H">
+	<tu xmlns:lang="eng">Test results for continuously monitored systems</tu>
+	<tu xmlns:lang="nld">Testresultaten van voortdurend bewaakte systemen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Testez les résultats des systèmes surveillés en continu</tu>
+	<tu xmlns:lang="deu">Testergebnisse für kontinuierlich überwachte Systeme</tu>
+	<tu
+    xmlns:lang="ita"
+  >Risultati delle prove di sistemi monitorati continuamente</tu>
+	<tu xmlns:lang="jpn">連続モニター システムのテスト結果</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Resultados de teste para sistemas monitorizados de forma contínua</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Resultados do teste para sistemas monitorados continuamente</tu>
+	<tu xmlns:lang="rus">Результаты проверки систем постоянного мониторинга</tu>
+	<tu
+    xmlns:lang="esp"
+  >Resultados de pruebas para sistemas de control continuo</tu>
+	<tu xmlns:lang="chs">连续监测系统的测试结果</tu>
+	<tu xmlns:lang="kor">지속적으로 모니터링되는 시스템의 테스트 결과</tu>
+</tm>

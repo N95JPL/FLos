@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Evaporative">
+	<tu xmlns:lang="eng">Evaporative system leak check</tu>
+	<tu xmlns:lang="nld">Lekkagecontrole van benzinedampsysteem</tu>
+	<tu xmlns:lang="fra">Verification de fuite du circuit des vapeurs</tu>
+	<tu xmlns:lang="deu">Kraftstoffdampfsystem leckprüfung</tu>
+	<tu xmlns:lang="ita">Controllo di perdite dell'impianto di evaporazione</tu>
+	<tu xmlns:lang="jpn">ｴバポレ－ﾃｨブ・シｽﾃムのガｽ漏れ点検</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificação de fugas no sistema de controlo das emissões de vapor de combustível</tu>
+	<tu xmlns:lang="ptb">Verificação de vazamento do sistema evaporativo</tu>
+	<tu xmlns:lang="rus">Проверка герметичности системы отвода топливных паров</tu>
+	<tu xmlns:lang="esp">Comprobacion de derrame de sistema evaporativo</tu>
+	<tu xmlns:lang="chs">蒸发系统泄漏检查</tu>
+	<tu xmlns:lang="kor">EVAP 시스템 누출 점검</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_INTERLOCK">
+	<tu xmlns:lang="eng">Key interlock</tu>
+	<tu xmlns:lang="nld">Sleutelvergrendeling</tu>
+	<tu xmlns:lang="fra">Verrouillage de clé</tu>
+	<tu xmlns:lang="deu">Schlüsselsperre</tu>
+	<tu xmlns:lang="ita">Interblocco chiave</tu>
+	<tu xmlns:lang="jpn">キー インターロック</tu>
+	<tu xmlns:lang="ptg">Interbloqueio da chave</tu>
+	<tu xmlns:lang="ptb">Intertravamento da chave</tu>
+	<tu xmlns:lang="rus">Блокировка ключа</tu>
+	<tu xmlns:lang="esp">Función de enclavamiento con llave</tu>
+	<tu xmlns:lang="chs">钥匙联锁</tu>
+	<tu xmlns:lang="kor">키 인터록</tu>
+</tm>

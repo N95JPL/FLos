@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DUAL_FRNT_CAM">
+	<tu xmlns:lang="eng">Dual front parking cameras</tu>
+	<tu
+    xmlns:lang="nld"
+  >Twee camera's van vooruit- en achteruitrijbeveiliging aan voorkant</tu>
+	<tu xmlns:lang="fra">Deux caméras de stationnement avant</tu>
+	<tu xmlns:lang="deu">Zwei Einparkkameras vorn</tu>
+	<tu xmlns:lang="ita">Doppia telecamera sistema di parcheggio anteriore</tu>
+	<tu xmlns:lang="jpn">デュアル フロント パーキング カメラ</tu>
+	<tu xmlns:lang="ptg">Câmaras auxiliares de estacionamento dianteiras duplas</tu>
+	<tu xmlns:lang="ptb">Câmeras de estacionamento dianteiras duplas</tu>
+	<tu xmlns:lang="rus">Две передние камеры системы помощи при парковке</tu>
+	<tu xmlns:lang="esp">Cámaras duales de aparcamiento delanteras</tu>
+	<tu xmlns:lang="chs">前驻车双摄像头</tu>
+	<tu xmlns:lang="kor">이중 전방 주차 카메라</tu>
+</tm>

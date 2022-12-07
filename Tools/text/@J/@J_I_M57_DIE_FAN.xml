@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_M57_DIE_FAN">
+	<tu xmlns:lang="eng">M57 diesel ebox fan</tu>
+	<tu xmlns:lang="nld">M57 diesel ebox-ventilator</tu>
+	<tu xmlns:lang="fra">M57 ventilateur boîtier électronique diesel</tu>
+	<tu xmlns:lang="deu">M57 Diesel - Lüfter Elektronik-Anschlusskasten</tu>
+	<tu xmlns:lang="ita">M57 ventola ebox diesel</tu>
+	<tu xmlns:lang="jpn">M57 ディーゼル エレクトロニック ボックス ファン</tu>
+	<tu xmlns:lang="ptg">M57 ventoinha da e-box, motor Diesel</tu>
+	<tu xmlns:lang="ptb">M57, diesel, ventilador do E-box</tu>
+	<tu xmlns:lang="rus">M57 вентилятор охлаждения модуля дизельного двигателя</tu>
+	<tu
+    xmlns:lang="esp"
+  >M57 Diesel - Ventilador de la caja de módulos de control</tu>
+	<tu xmlns:lang="chs">M57 柴油机 Ebox 风扇</tu>
+	<tu xmlns:lang="kor">M57 디젤 E-box 팬</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_CCF_ROLE">
+	<tu xmlns:lang="eng">Car configuration role</tu>
+	<tu xmlns:lang="nld">Voertuigconfiguratierol</tu>
+	<tu xmlns:lang="fra">Rôle de la configuration du véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeugkonfiguration - Rolle</tu>
+	<tu xmlns:lang="ita">Ruolo configurazione veicolo</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション ロール</tu>
+	<tu xmlns:lang="ptg">Função de configuração do veículo</tu>
+	<tu xmlns:lang="ptb">Função de configuração do carro</tu>
+	<tu xmlns:lang="rus">Роль конфигурации автомобиля</tu>
+	<tu xmlns:lang="esp">Función de configuración del vehículo</tu>
+	<tu xmlns:lang="chs">车辆配置功能</tu>
+	<tu xmlns:lang="kor">차량 구성 역할</tu>
+</tm>

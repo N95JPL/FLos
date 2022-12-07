@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Retry$Q">
+	<tu xmlns:lang="eng">Would you like to retry?</tu>
+	<tu xmlns:lang="nld">Wilt u het nog eens proberen?</tu>
+	<tu xmlns:lang="fra">Souhaitez-vous essayer à nouveau ?</tu>
+	<tu xmlns:lang="deu">Soll Vorgang wiederholt werden?</tu>
+	<tu xmlns:lang="ita">Riprovare?</tu>
+	<tu xmlns:lang="jpn">もう一度試したいですか？</tu>
+	<tu xmlns:lang="ptg">Quer tentar novamente?</tu>
+	<tu xmlns:lang="ptb">Deseja tentar novamente?</tu>
+	<tu xmlns:lang="rus">Повторить попытку?</tu>
+	<tu xmlns:lang="esp">¿Se desea intentarlo de nuevo?</tu>
+	<tu xmlns:lang="chs">您想再试一次吗？</tu>
+	<tu xmlns:lang="kor">다시 시도하시겠습니까?</tu>
+</tm>

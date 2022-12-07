@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_2A">
+	<tu xmlns:lang="eng">0x2A : Not started due to clutch engaged.</tu>
+	<tu xmlns:lang="nld">0x2A : inleren niet gestart omdat de koppeling is ingetrapt.</tu>
+	<tu xmlns:lang="fra">0x2A : Non commencé à cause d'un rapport engagé.</tu>
+	<tu xmlns:lang="deu">0x2A : Nicht angelaufen, da Kupplung eingekuppelt.</tu>
+	<tu xmlns:lang="ita">0x2A : Non avviato perché la frizione è innestata.</tu>
+	<tu xmlns:lang="jpn">0x2A : クラッチがエンゲージしているためスタートせず。</tu>
+	<tu xmlns:lang="ptg">0x2A : Não iniciado devido a embraiagem engatada.</tu>
+	<tu xmlns:lang="ptb">0X2A : Não iniciado devido à embreagem engatada.</tu>
+	<tu xmlns:lang="rus">0x2A : Запуск не выполнен из-за включения сцепления.</tu>
+	<tu xmlns:lang="esp">0x2A: No se inició por estar embragado el motor.</tu>
+	<tu xmlns:lang="chs">0x2A： 由于离合器已啮合而没有启动。</tu>
+	<tu xmlns:lang="kor">0x2A : 클러치가 체결되어 있기 때문에 시작되지 않습니다.</tu>
+</tm>

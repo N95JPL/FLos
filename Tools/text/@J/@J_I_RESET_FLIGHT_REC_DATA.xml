@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RESET_FLIGHT_REC_DATA">
+	<tu xmlns:lang="eng">Reset stored flight recorder data</tu>
+	<tu xmlns:lang="nld">De opgeslagen ritrecordergegevens resetten</tu>
+	<tu xmlns:lang="fra">Réinitialiser les données de l'enregistreur de bord</tu>
+	<tu xmlns:lang="deu">Gespeicherte Flugschreiberdaten zurücksetzen</tu>
+	<tu xmlns:lang="ita">Reimpostazione dei dati flight recorder memorizzati</tu>
+	<tu xmlns:lang="jpn">保存されたフライト レコーダー データのリセット</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Repor a zero os dados do registador de viagem guardados</tu>
+	<tu xmlns:lang="ptb">Redefinir dados armazenados do gravador de voo</tu>
+	<tu xmlns:lang="rus">Сбросить сохраненные данные бортового регистратора</tu>
+	<tu xmlns:lang="esp">Restaurar datos memorizados en la caja negra</tu>
+	<tu xmlns:lang="chs">让保存的行驶记录器数据复位</tu>
+	<tu xmlns:lang="kor">저장된 블랙박스 데이터 재설정</tu>
+</tm>

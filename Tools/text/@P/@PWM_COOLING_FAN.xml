@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PWM_COOLING_FAN">
+	<tu xmlns:lang="eng">Pulse width modulated cooling fan</tu>
+	<tu xmlns:lang="nld">pulsbreedtegemoduleerde koelventilator</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ventilateur de refroidissement à modulation de largeur d'impulsion.</tu>
+	<tu xmlns:lang="deu">Pulsweitenmodulierter Kühlerlüfter</tu>
+	<tu
+    xmlns:lang="ita"
+  >Ventola di raffreddamento con modulazione durata impulsi</tu>
+	<tu xmlns:lang="jpn">パルス幅変調クーリング ファン</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ventoinha de arrefecimento, modulação da largura de impulso</tu>
+	<tu xmlns:lang="ptb">Ventilador da modulação da largura de pulso</tu>
+	<tu
+    xmlns:lang="rus"
+  >Широтно-импульсная модуляция режимов работы вентилятора системы охлаждения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ventilador de refrigeración modulado por anchura de impulsos</tu>
+	<tu xmlns:lang="chs">脉宽调制冷却风扇</tu>
+	<tu xmlns:lang="kor">펄스 폭 변조된 냉각 팬</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SEAT_TYPE">
+	<tu xmlns:lang="eng">Seat type</tu>
+	<tu xmlns:lang="nld">Stoeltype</tu>
+	<tu xmlns:lang="fra">Type de siège</tu>
+	<tu xmlns:lang="deu">Sitztyp</tu>
+	<tu xmlns:lang="ita">Tipo sedile</tu>
+	<tu xmlns:lang="jpn">シート タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de banco</tu>
+	<tu xmlns:lang="ptb">Tipo de assento</tu>
+	<tu xmlns:lang="rus">Тип сиденья</tu>
+	<tu xmlns:lang="esp">Tipo de asiento</tu>
+	<tu xmlns:lang="chs">座椅类型</tu>
+	<tu xmlns:lang="kor">시트 유형</tu>
+</tm>

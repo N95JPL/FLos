@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TOOL_NOT_AVAI_DRI_CYC_REQ">
+	<tu
+    xmlns:lang="eng"
+  >If the identification read tool is not available then a specific drive cycle will be required, which includes 2 separate road tests.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het programma voor het lezen van de identificatie niet beschikbaar is, moet u een specifieke rijcyclus uitvoeren, die twee afzonderlijke proefritten bevat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si l'outil de lecture de l'identification n'est pas disponible, un cycle de conduite spécifique sera requis, comprenant 2 tests sur route spécifiques.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn ein Auslesewerkzeug für die Kennung nicht vorhanden ist, dann ist ein spezifischer Fahrzyklus erforderlich, zu dem 2 getrennte Probefahrten gehören.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se lo strumento di lettura identificativi non è disponibile, sarà necessario un ciclo di guida specifico, che include due prove su strada separate.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ID 読み取りツールが使用可能\でない場合、2 つの個別ロード テストを含む特定ドライブ サイクルが必要になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a ferramenta de leitura de identificações não estiver disponível será necessário um ciclo de condução específico, que inclui 2 testes em estrada independentes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a ferramenta de leitura de identificação não estiver disponível, um ciclo de condução específico será necessário, o que inclui 2 testes de rodagem separados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если инструмента для считывания индикаторов нет в наличии, тогда потребуется определенный ездовой цикл, включающий в себя 2 отдельных дорожных испытания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si no está disponible la herramienta de lectura de identificaciones, será necesario realizar un ciclo de conducción específico, que incluya dos pruebas de conducción diferentes.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'如果没有标识码读取工具，则需要执行指定的行驶循环，其中包括两次单独的道路测试。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >식별 정보 읽기 도구를 사용할 수 없는 경우 특정 주행 사이클이 요구되며 여기에는 2회의 도로 주행 테스트가 포함됩니다.</tu>
+</tm>

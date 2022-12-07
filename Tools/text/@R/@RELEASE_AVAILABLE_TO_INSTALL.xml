@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RELEASE_AVAILABLE_TO_INSTALL">
+	<tu xmlns:lang="eng">Release available to install:</tu>
+	<tu xmlns:lang="nld">Versie die beschikbaar is voor installatie:</tu>
+	<tu xmlns:lang="fra">Version disponible pour installation :</tu>
+	<tu xmlns:lang="deu">Zur Installation verfügbares Release:</tu>
+	<tu xmlns:lang="ita">Versione disponibile per l'installazione:</tu>
+	<tu xmlns:lang="jpn">インストール可能なリリース:</tu>
+	<tu xmlns:lang="ptg">Versão disponível para instalar:</tu>
+	<tu xmlns:lang="ptb">Versão disponível para instalação:</tu>
+	<tu xmlns:lang="rus">Доступная версия для установки:</tu>
+	<tu xmlns:lang="esp">Versiones disponibles para instalar:</tu>
+	<tu xmlns:lang="chs">可用于安装的版本：</tu>
+	<tu xmlns:lang="kor">설치할 수 있는 릴리스:</tu>
+</tm>

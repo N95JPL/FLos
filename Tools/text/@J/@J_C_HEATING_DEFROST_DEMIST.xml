@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_HEATING_DEFROST_DEMIST">
+	<tu xmlns:lang="eng">Heating/defrosting/demisting</tu>
+	<tu xmlns:lang="nld">Verwarming/ontdooien/ontwasemen</tu>
+	<tu xmlns:lang="fra">Chauffage/degivrage/desembuage</tu>
+	<tu xmlns:lang="deu">Heizung/entfrostung/belüftung</tu>
+	<tu xmlns:lang="ita">Riscaldamento/sbrinamento/disappannamento</tu>
+	<tu xmlns:lang="jpn">ヒーター／デフロスト／デミスト</tu>
+	<tu xmlns:lang="ptg">Aquecimento/descongelamento/desembaciamento</tu>
+	<tu xmlns:lang="ptb">Aquecer/descongelar/desembaçar</tu>
+	<tu xmlns:lang="rus">Подогрев/оттаивание/обдув</tu>
+	<tu xmlns:lang="esp">Calefacción/deshielo/desempañado</tu>
+	<tu xmlns:lang="chs">加热/除霜/除雾</tu>
+	<tu xmlns:lang="kor">난방/성에 제거/서리 제거</tu>
+</tm>

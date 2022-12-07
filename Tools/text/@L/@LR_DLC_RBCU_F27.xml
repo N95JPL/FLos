@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_DLC_RBCU_F27">
+	<tu xmlns:lang="eng">Alarm siren</tu>
+	<tu xmlns:lang="nld">Alarmsirene</tu>
+	<tu xmlns:lang="fra">Sirène d'alarme.</tu>
+	<tu xmlns:lang="deu">Alarmhorn</tu>
+	<tu xmlns:lang="ita">Sirena allarme</tu>
+	<tu xmlns:lang="jpn">アラーム サイレン</tu>
+	<tu xmlns:lang="ptg">Alarme sonoro</tu>
+	<tu xmlns:lang="ptb">Sirene do alarme</tu>
+	<tu xmlns:lang="rus">Тревожная сирена</tu>
+	<tu xmlns:lang="esp">Sirena de la alarma</tu>
+	<tu xmlns:lang="chs">报警警报器</tu>
+	<tu xmlns:lang="kor">알람 사이렌</tu>
+</tm>

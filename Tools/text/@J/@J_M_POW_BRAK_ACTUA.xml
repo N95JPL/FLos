@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_POW_BRAK_ACTUA">
+	<tu xmlns:lang="eng">Power brake actuation</tu>
+	<tu xmlns:lang="nld">In werking stellen van de rembekrachtiging</tu>
+	<tu xmlns:lang="fra">Actionnement du servofrein</tu>
+	<tu xmlns:lang="deu">Servobremsbetätigung</tu>
+	<tu xmlns:lang="ita">Azionamento del servofreno</tu>
+	<tu xmlns:lang="jpn">パワー ブレーキ アクチュエーション</tu>
+	<tu xmlns:lang="ptg">Accionamento do travão eléctrico</tu>
+	<tu xmlns:lang="ptb">Atuação do freio elétrico</tu>
+	<tu xmlns:lang="rus">Включение тормоза с усилителем</tu>
+	<tu xmlns:lang="esp">Actuación de frenos asistidos</tu>
+	<tu xmlns:lang="chs">动力制动启动</tu>
+	<tu xmlns:lang="kor">파워 브레이크 작동</tu>
+</tm>

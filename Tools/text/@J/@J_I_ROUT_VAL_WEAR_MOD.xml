@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_VAL_WEAR_MOD">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required to reset the value of accumulated wear times and accumulated damage within the modules memory store and will reset the adaption settings.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig om de waarde van de geaccumuleerde verslechteringstijden en geaccumuleerde schade in de geheugenopslag van de modules terug te stellen en zal tevens de aanpassingsinstellingen terugstellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé pour réinitialiser les valeurs relatives aux durées d'usure et de détérioration accumulées inscrites dans les mémoires de modules ainsi que les réglages d'adaptation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, um die Werte für kumulative Verschleißzeiten und kumulativen Schaden in den Speicherbereichen der Steuergeräte zurückzusetzen, was auch die Anpassungseinstellungen zurücksetzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta per azzerare il valore dei tempi di usura accumulati e dei danni accumulati all'interno della memoria dei moduli e azzera le impostazioni di adattamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、モジュール メモリ保存場所内の蓄積磨耗時間および蓄積損傷数値をリセットするために必要であり、また補正セッティングをリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária para repor o valor dos tempos de desgaste acumulados e danos acumulados na memória dos módulos e irá repor as definições de adaptação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária para redefinir o valor do tempo de desgaste acumulado e dos danos acumulados dentro dos módulos armazenados na memória e irá zerar a adaptação às configurações.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнение данной операции требуется для сброса значений накопленного времени износа и накопленных повреждений в блоках памяти, а также для сброса значений адаптации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse para restaurar los parámetros cuando se monta una nueva bomba de inyección de alta presión.</tu>
+	<tu
+    xmlns:lang="chs"
+  >需要执行本程序以重置模块存储器内的累计磨损次数和累计损坏，并将重置适应值设置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 모듈 메모리 저장소 내에서 누적된 마모 시간과 누적된 손상의 값을 재설정하는 데 필요하고, 어댑테이션 설정을 재설정합니다.</tu>
+</tm>

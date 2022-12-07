@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart204">
+	<tu
+    xmlns:lang="eng"
+  >Make sure that air conditioning is set to off and the temperature controls are set to the ambient air temperature.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat de airconditioning is uitgeschakeld en dat de bedieningselementen voor de temperatuur zijn ingesteld op de omgevingsluchttemperatuur.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que la climatisation est désactivée et que les contrôles de la température sont réglés à la température de l'air ambiant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Klimaanlage ausgeschaltet und über die Bedienelemente der Klimaanlage auf die Außentemperatur eingestellt ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che l'aria condizionata non sia inserita e che i controlli della temperatura siano impostati sulla temperatura dell'aria ambiente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エアコンがオフに設定されていること、および温度コントロールが外気温に設定されていることを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o ar condicionado está desligado e de que os controlos da temperatura estão definidos para a temperatura de ar ambiente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o ar-condicionado está desligado e de que os controles de temperatura estão ajustados para a temperatura do ar ambiente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что система кондиционирования воздуха выключена и органы управления температурой установлены на температуру окружающей среды.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que el aire acondicionado está apagado y los mandos de temperatura están ajustados a la temperatura ambiente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保空调设置为关闭，并且温度控制装置设置为环境空气温度。</tu>
+	<tu
+    xmlns:lang="kor"
+  >에어컨이 꺼짐으로 설정되어 있고 온도 컨트롤이 외기 온도로 설정되어 있는지 확인하십시오.</tu>
+</tm>

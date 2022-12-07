@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LOCKING_SPEED_AUTO">
+	<tu xmlns:lang="eng">Automatic locking at speed</tu>
+	<tu xmlns:lang="nld">Automatische snelheidsafhankelijke vergrendeling</tu>
+	<tu xmlns:lang="fra">Verrouillage automatique en roulant</tu>
+	<tu xmlns:lang="deu">Automatische Verriegelung bei Geschwindigkeit</tu>
+	<tu xmlns:lang="ita">Bloccaggio automatico a velocità</tu>
+	<tu xmlns:lang="jpn">速度による自動ロッキング</tu>
+	<tu xmlns:lang="ptg">Trancagem automática em velocidade</tu>
+	<tu xmlns:lang="ptb">Travamento automático da velocidade</tu>
+	<tu xmlns:lang="rus">Автоматическое запирание на скорости</tu>
+	<tu xmlns:lang="esp">Bloqueo automático a velocidad</tu>
+	<tu xmlns:lang="chs">根据速度自动锁闭</tu>
+	<tu xmlns:lang="kor">속도에서 자동 잠금</tu>
+</tm>

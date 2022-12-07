@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_REAR_WINDSHIELD_WASHER">
+	<tu xmlns:lang="eng">Rear window washer</tu>
+	<tu xmlns:lang="nld">Ruitensproeier van achterruit</tu>
+	<tu xmlns:lang="fra">Lave-vitre arrière</tu>
+	<tu xmlns:lang="deu">Heckscheibenwaschanlage</tu>
+	<tu xmlns:lang="ita">Lavavetro lunotto</tu>
+	<tu xmlns:lang="jpn">リア ウィンドウ ウォッシャ</tu>
+	<tu xmlns:lang="ptg">Lava pára-brisas traseiro</tu>
+	<tu xmlns:lang="ptb">Lavador do vidro traseiro</tu>
+	<tu xmlns:lang="rus">Омыватель заднего стекла</tu>
+	<tu xmlns:lang="esp">Lavaluneta</tu>
+	<tu xmlns:lang="chs">后窗洗涤器</tu>
+	<tu xmlns:lang="kor">리어 윈도우 와셔</tu>
+</tm>

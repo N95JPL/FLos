@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAP_UPDT_ERR_INFO">
+	<tu xmlns:lang="eng">Map update error information:</tu>
+	<tu xmlns:lang="nld">Foutinformatie kaart bijwerken:</tu>
+	<tu xmlns:lang="fra">Informations sur l'erreur de mise à jour de la carte :</tu>
+	<tu xmlns:lang="deu">Fehlerinformation Kartenaktualisierung:</tu>
+	<tu xmlns:lang="ita">Informazioni sull'errore di aggiornamento della mappa:</tu>
+	<tu xmlns:lang="jpn">マップ更新エラー情報:</tu>
+	<tu xmlns:lang="ptg">Informação de erro da atualização de mapas:</tu>
+	<tu xmlns:lang="ptb">Informações de erro de atualização de mapa:</tu>
+	<tu xmlns:lang="rus">Информация об ошибке обновления карты:</tu>
+	<tu xmlns:lang="esp">Información del error de actualización de los mapas:</tu>
+	<tu xmlns:lang="chs">地图更新错误信息：</tu>
+	<tu xmlns:lang="kor">지도 업데이트 오류 정보:</tu>
+</tm>

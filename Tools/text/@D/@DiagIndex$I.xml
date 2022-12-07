@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DiagIndex$I">
+	<tu xmlns:lang="eng">Diagnostic index</tu>
+	<tu xmlns:lang="nld">Diagnose-index</tu>
+	<tu xmlns:lang="fra">Index de diagnostic</tu>
+	<tu xmlns:lang="deu">Diagnose-Index</tu>
+	<tu xmlns:lang="ita">Indice diagnostica</tu>
+	<tu xmlns:lang="jpn">診断インデックス</tu>
+	<tu xmlns:lang="ptg">Índice de diagnóstico</tu>
+	<tu xmlns:lang="ptb">Índice de diagnóstico</tu>
+	<tu xmlns:lang="rus">Индекс диагностирования</tu>
+	<tu xmlns:lang="esp">Índice de diagnosis</tu>
+	<tu xmlns:lang="chs">诊断索引</tu>
+	<tu xmlns:lang="kor">진단 색인</tu>
+</tm>

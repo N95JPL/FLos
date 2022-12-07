@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CTR_STEERING_WHEEL">
+	<tu xmlns:lang="eng">Steering wheel</tu>
+	<tu xmlns:lang="nld">Stuurwiel</tu>
+	<tu xmlns:lang="fra">Volant de direction</tu>
+	<tu xmlns:lang="deu">Lenkrad.</tu>
+	<tu xmlns:lang="ita">Volante</tu>
+	<tu xmlns:lang="jpn">ステアリング ホイール</tu>
+	<tu xmlns:lang="ptg">Volante</tu>
+	<tu xmlns:lang="ptb">Volante</tu>
+	<tu xmlns:lang="rus">Рулевое колесо</tu>
+	<tu xmlns:lang="esp">Volante</tu>
+	<tu xmlns:lang="chs">方向盘</tu>
+	<tu xmlns:lang="kor">스티어링 휠</tu>
+</tm>

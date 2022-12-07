@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CfgExistModule">
+	<tu xmlns:lang="eng">Configure existing module.</tu>
+	<tu xmlns:lang="nld">Configureer bestaande module</tu>
+	<tu xmlns:lang="fra">Configurer le module existant</tu>
+	<tu xmlns:lang="deu">Vorhandene Module konfigurieren</tu>
+	<tu xmlns:lang="ita">Configura il modulo esistente</tu>
+	<tu xmlns:lang="jpn">現在のモジュールのコンフィギュレーション</tu>
+	<tu xmlns:lang="ptg">Configurar o módulo existente.</tu>
+	<tu xmlns:lang="ptb">Configure o módulo existente.</tu>
+	<tu xmlns:lang="rus">Настроить имеющийся блок.</tu>
+	<tu xmlns:lang="esp">Configurar módulo existente</tu>
+	<tu xmlns:lang="chs">配置现有模块。</tu>
+	<tu xmlns:lang="kor">기존 모듈을 구성하십시오.</tu>
+</tm>

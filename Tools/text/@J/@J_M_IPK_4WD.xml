@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_IPK_4WD">
+	<tu xmlns:lang="eng">4 wheel drive vehicle</tu>
+	<tu xmlns:lang="nld">Voertuig met vierwielaandrijving</tu>
+	<tu xmlns:lang="fra">Véhicule à 4 roues motrices</tu>
+	<tu xmlns:lang="deu">Fahrzeug mit Allradantrieb</tu>
+	<tu xmlns:lang="ita">Veicolo con trazione integrale</tu>
+	<tu xmlns:lang="jpn">4 輪駆動車両</tu>
+	<tu xmlns:lang="ptg">Veículo com tracção a 4 rodas</tu>
+	<tu xmlns:lang="ptb">Veículo de tração nas quatro rodas</tu>
+	<tu xmlns:lang="rus">Автомобиль с приводом на обе оси</tu>
+	<tu xmlns:lang="esp">Vehículo de tracción total</tu>
+	<tu xmlns:lang="chs">4 轮驱动车辆</tu>
+	<tu xmlns:lang="kor">4륜 구동 차량</tu>
+</tm>

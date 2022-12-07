@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_COMPASS">
+	<tu xmlns:lang="eng">Compass.</tu>
+	<tu xmlns:lang="nld">Kompas</tu>
+	<tu xmlns:lang="fra">Boussole</tu>
+	<tu xmlns:lang="deu">Kompass</tu>
+	<tu xmlns:lang="ita">Bussola</tu>
+	<tu xmlns:lang="jpn">コンパス</tu>
+	<tu xmlns:lang="ptg">Bússola.</tu>
+	<tu xmlns:lang="ptb">Bússola.</tu>
+	<tu xmlns:lang="rus">Компас.</tu>
+	<tu xmlns:lang="esp">Brújula</tu>
+	<tu xmlns:lang="chs">罗盘。</tu>
+	<tu xmlns:lang="kor">나침반</tu>
+</tm>

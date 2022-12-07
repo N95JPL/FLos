@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ELEC_LOCK_POL">
+	<tu xmlns:lang="eng">Electrical lockout e.g. for police vehicles</tu>
+	<tu xmlns:lang="nld">Elektrische uitsluiting, bijv. voor politievoertuigen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Verrouillage électrique, par ex. pour véhicules de police</tu>
+	<tu xmlns:lang="deu">Elektrische Sperre, z. B. für Polizeifahrzeuge</tu>
+	<tu
+    xmlns:lang="ita"
+  >Esclusione elettrica, ad esempio per i veicoli destinati alla Polizia</tu>
+	<tu xmlns:lang="jpn">電気的ロックアウト (例：警察車両用など)</tu>
+	<tu xmlns:lang="ptg">Bloqueio eléctrico, por ex., para veículos da polícia</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Bloqueio elétrico, por exemplo, para veículos policiais</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электрическая блокировка, например, для полицейских автомобилей</tu>
+	<tu xmlns:lang="esp">Cierre eléctrico, p.ej. para vehículos policiales</tu>
+	<tu xmlns:lang="chs">电动锁闭（例如，用于警车）</tu>
+	<tu xmlns:lang="kor">전기 로크업(예: 경찰 차량)</tu>
+</tm>

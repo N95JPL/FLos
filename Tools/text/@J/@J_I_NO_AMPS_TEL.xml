@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_AMPS_TEL">
+	<tu xmlns:lang="eng">No AMPS telephone</tu>
+	<tu xmlns:lang="nld">Geen AMPS-telefoon</tu>
+	<tu xmlns:lang="fra">Pas de téléphone AMPS</tu>
+	<tu xmlns:lang="deu">Kein AMPS-Telefon</tu>
+	<tu xmlns:lang="ita">Nessun telefono AMPS</tu>
+	<tu xmlns:lang="jpn">AMPS テレホンなし</tu>
+	<tu xmlns:lang="ptg">Sem telefone AMPS </tu>
+	<tu xmlns:lang="ptb">Sem telefone AMPS</tu>
+	<tu xmlns:lang="rus">Без телефона стандарта AMPS</tu>
+	<tu xmlns:lang="esp">No tiene teléfono AMPS</tu>
+	<tu xmlns:lang="chs">无 AMPS 电话</tu>
+	<tu xmlns:lang="kor">AMPS 전화 없음</tu>
+</tm>

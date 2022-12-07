@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FILES_STILL_MISS_TESTER">
+	<tu
+    xmlns:lang="eng"
+  >There are still files missing from the tester for resolved parts.  The software download associated with these parts will not be conducted if these files are missing.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er ontbreken nog steeds bestanden op de tester voor opgeloste onderdelen.  De softwaredownload die betrekking heeft op deze onderdelen zal niet worden uitgevoerd als deze onderdelen ontbreken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Il reste des fichiers manquants dans le testeur pour les éléments corrigés.  Le téléchargement de logiciel associé à ces éléments ne sera pas effectué si ces fichiers sont manquants.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es fehlen nach wie vor Dateien im Prüfgerät für geklärte Teile.  Der Software-Download für diese Teile wird nicht durchgeführt, wenn die Dateien fehlen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sul tester mancano ancora alcuni file per parti risolte.  Lo scaricamento di software associato a queste parti non sarà eseguito se questi file sono mancanti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >特定されたパーツに対して、まだ足りないファイルがテスターにあります。  これらのファイルがない場合、そのパーツに関連したソ\フトウェアのダウンロードは実行されません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Continuam a existir ficheiros em falta do equipamento de teste para os componentes rectificados.  A transferência de software associada a estes componentes não será efectuada se estes ficheiros estiverem em falta.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ainda há arquivos ausentes do testador para partes resolvidas.  O download de software associado a estas partes não será realizado se esses arquivos estiverem ausentes.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для полученных компонентов по-прежнему не хватает файлов с прибора.  Загрузка программного обеспечения для данных компонентов не будет выполнена, если данные файлы отсутствуют.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aún faltan archivos en el comprobador de componentes corregidos.  La descarga de software asociada con estos componentes no se realizará si faltan estos archivos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >已解决零部件的测试仪中仍有缺失的文件。  如果这些文件缺失，将不会执行与这些零部件相关的软件下载。</tu>
+	<tu
+    xmlns:lang="kor"
+  >해결된 부품에 대한 테스터에 누락된 파일이 여전히 있습니다.  이 파일이 누락되면 이 부품과 연관된 소프트웨어 다운로드가 수행되지 않습니다.</tu>
+</tm>

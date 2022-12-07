@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUD_PREM_12_SPEAK">
+	<tu xmlns:lang="eng">Audio 'premium sound' 5 x 130 watts, 12 speakers</tu>
+	<tu
+    xmlns:lang="nld"
+  >'Premium sound'-geluidsinstallatie, 5 x 130 W, 12 luidsprekers</tu>
+	<tu
+    xmlns:lang="fra"
+  >Audio 'performances haut de gamme' 5 x 130 watts, 12 haut-parleurs</tu>
+	<tu xmlns:lang="deu">Audio 'Premium Sound' 5 x 130 Watt, 12 Lautsprecher</tu>
+	<tu xmlns:lang="ita">'Audio Premium' 5 x 130 W, 12 altoparlanti</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オーディオ「プレミアム サウンド」5 x 130 ワット、12 スピーカー</tu>
+	<tu xmlns:lang="ptg">'Som Premium' áudio 5 x 130 watts, 12 altifalantes</tu>
+	<tu xmlns:lang="ptb">Som premium de áudio - 5 x 130 watts, 12 alto-falantes</tu>
+	<tu
+    xmlns:lang="rus"
+  >Аудиосистема класса 'премиум', 5 x 130 Вт, 12 динамиков</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de audio de 'sonido Premium': 5 x 130 vatios, 12 altavoces</tu>
+	<tu xmlns:lang="chs">音频'高级音效'5 x 130 W，12 个扬声器</tu>
+	<tu xmlns:lang="kor">오디오 '프리미엄 사운드' 5 x 130W, 스피커 12개</tu>
+</tm>

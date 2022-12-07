@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_75">
+	<tu
+    xmlns:lang="eng"
+  >Mechanical failure - emergency position is not reachable.</tu>
+	<tu xmlns:lang="nld">Mechanisch defect - noodstand kan niet bereikt worden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaillance mécanique - impossible d'atteindre position d'urgence.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mechanische Störung - Notfallstellung kann nicht erreicht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto meccanico - posizione emergenza non raggiungibile.</tu>
+	<tu xmlns:lang="jpn">機械的故障 － 緊急ポジションに到達できず</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha mecânica - posição de emergência não é atingível.</tu>
+	<tu xmlns:lang="ptb">Falha mecânica - posição de emergência não acessível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Механический отказ - невозможно достигнуть аварийного положения.</tu>
+	<tu xmlns:lang="esp">Fallo mecánico: posición de emergencia inalcanzable.</tu>
+	<tu xmlns:lang="chs">机械故障 - 紧急位置不能到达。</tu>
+	<tu xmlns:lang="kor">기계적 고장 - 비상 위치에 도달할 수 없음</tu>
+</tm>

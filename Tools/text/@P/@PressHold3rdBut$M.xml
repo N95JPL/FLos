@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PressHold3rdBut$M">
+	<tu
+    xmlns:lang="eng"
+  >Press and hold the 3rd button on the key to be programmed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Houd de derde toets op de sleutelzender die u wilt programmeren ingedrukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sans relâcher sur le 3ème bouton de la clé à programmer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dritte Taste des zu programmierenden Schlüssels drücken und gedrückt halten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tenere premuto il terzo pulsante della chiave da programmare.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プログラムするキーの第 3 ボタンを押したままにしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Mantenha premido o terceiro botão na chave a ser programada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione e segure o terceiro botão da chave a ser programado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажать и удерживать 3-ю кнопку на программируемом ключе.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Mantener pulsado el tercer botón de la llave que se va a programar.</tu>
+	<tu xmlns:lang="chs">按住要编程的钥匙上的第3按钮。</tu>
+	<tu xmlns:lang="kor">프로그래밍할 키의 세 번째 버튼을 길게 누르십시오.</tu>
+</tm>

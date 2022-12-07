@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LearnSecCode$Q">
+	<tu xmlns:lang="eng">Do you wish to permanently learn the security code?</tu>
+	<tu xmlns:lang="nld">Wilt u de beveiligingscode permanent laten inleren?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Voulez-vous apprendre en permanence le code de sécurité ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Soll Dauererlernung des Sicherheitscodes durchgeführt werden?</tu>
+	<tu xmlns:lang="ita">Apprendere in modo permanente il codice di sicurezza?</tu>
+	<tu xmlns:lang="jpn">セキュリティ コードの永久学習をしますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pretende programar definitivamente o código de segurança?</tu>
+	<tu xmlns:lang="ptb">Deseja aprender permanentemente o código de segurança?</tu>
+	<tu xmlns:lang="rus">Запомнить защитный код для постоянного использования?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Desea que se aprenda el código de seguridad de forma permanente?</tu>
+	<tu xmlns:lang="chs">您想永久记忆该安全码吗？</tu>
+	<tu xmlns:lang="kor">보안 코드를 영구적으로 학습하시겠습니까?</tu>
+</tm>

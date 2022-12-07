@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_SRM_05">
+	<tu
+    xmlns:lang="eng"
+  >Optical network lamp on and operating voltage level 9 &lt; volts &lt; 16.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het controlelampje van het glasvezelnetwerk brandt en het bedrijfsspanningsniveau 9 &lt; V &lt;16.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Témoin de réseau optique allumé et niveau de tension de fonctionnement compris entre 9 et 16 V.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Faseroptisches Netzwerk: Licht ein und Betriebsspannungspegel zwischen 9 und 16 Volt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Spia rete ottica accesa e livello tensione di funzionamento 9 &lt; volt &lt; 16.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オプチカル ネットワーク ライト オンおよび作動電圧レベル 9 &lt; V &lt; 16</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Luz da rede óptica acesa e tensão de funcionamento de grau 9 &lt; volts &lt; 16.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Lâmpada da rede óptica acesa e a tensão de serviço nível 9 &lt; volts &lt; 16.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Загорается индикатор оптической сети, уровень рабочего напряжения составляет 9 &lt; Вольт &lt; 16.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Luz de la red óptica encendida y nivel de tensión de funcionamiento entre 9 y 16 voltios.</tu>
+	<tu xmlns:lang="chs">光网络灯点亮及工作电压电平大于 9V 小于 16V。</tu>
+	<tu
+    xmlns:lang="kor"
+  >광학 네트워크 램프가 켜지고 작동 전압 레벨이 9V &lt; 전압 &lt; 16V입니다.</tu>
+</tm>

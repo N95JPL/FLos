@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_RESET_EXCHANGE_ITEM">
+	<tu
+    xmlns:lang="eng"
+  >This application will reset adaptive values for %s exchange</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing stelt de adaptieve waarden terug voor het vervangen van de %s</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application permet de réinitialiser les valeurs adaptatives en cas de remplacement des %s</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung setzt Anpassungswerte nach dem Austausch von %s zurück.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione azzera i valori adattativi per la sostituzione di %s</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは %s 交換のため補正数値をリセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação repõe os valores adaptativos na substituição de %s</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo irá redefinir valores adaptativos para troca %s</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение обнулит адаптивные значения для замены %s</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación repone los valores de adaptación al sustituirse %s</tu>
+	<tu xmlns:lang="chs">这一应用程序将为%s的更换重置自适应值</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 %s 교환을 위한 어댑테이션 값을 재설정합니다.</tu>
+</tm>

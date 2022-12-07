@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PR_START_BUTTON">
+	<tu xmlns:lang="eng">Press start button and check cluster operation.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op de startschakelaar en controleer de werking van de instrumentengroep.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyer sur le bouton de démarrage et contrôler le fonctionnement du tableau de bord.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Startknopf drücken und Funktion des Kombiinstruments überprüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il pulsante di avvio e controllare il funzionamento del gruppo strumenti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スタート ボタンを押し、クラスタの作動をチェックしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima o botão de arranque e verifique o funcionamento do grupo de instrumentos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione o botão Start e verifique a operação do conjunto.</tu>
+	<tu xmlns:lang="rus">Нажмите кнопку пуска и проверьте работу панели.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de arranque y comprobar el funcionamiento del cuadro.</tu>
+	<tu xmlns:lang="chs">按启动按钮，检查组合仪表的工作情况。</tu>
+	<tu xmlns:lang="kor">시동 버튼을 누르고 계기판 작동을 점검하십시오.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart61">
+	<tu
+    xmlns:lang="eng"
+  >Confirm if the vehicle is fitted with a  voltage quality module or a secondary battery.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer of de auto is uitgerust met een spanningskwaliteitmodule of een secundaire accu.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Confirmez si le véhicule est équipé d'un module de qualité de tension ou d'une batterie secondaire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Prüfen, ob das Fahrzeug über ein Spannungsqualitätsmodul oder eine Sekundärbatterie verfügt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare se il veicolo è dotato di un modulo per la qualità della tensione o di una batteria secondaria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両が電圧クオリティ モジュールまたはセカンダリ バッテリーを搭載していることを確認してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Confirme se o veículo está equipado com um módulo de qualidade de tensão ou com uma bateria secundária.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Confirme se o veículo possui um módulo de qualidade de tensão ou uma bateria secundária instalada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что автомобиль оснащен блоком контроля качества напряжения или вспомогательной аккумуляторной батареей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Confirme si el vehículo está equipado con un módulo de calidad de la tensión o con una batería auxiliar.</tu>
+	<tu xmlns:lang="chs">确认车辆是否配备电压质量模块或辅助蓄电池。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에 전압 품질 모듈이나 보조 배터리가 장착되어 있는지 확인하십시오.</tu>
+</tm>

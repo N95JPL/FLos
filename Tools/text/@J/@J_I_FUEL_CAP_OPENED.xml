@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUEL_CAP_OPENED">
+	<tu xmlns:lang="eng">Fuel filler cap has been opened.</tu>
+	<tu xmlns:lang="nld">De brandstofdop is geopend.</tu>
+	<tu xmlns:lang="fra">Le bouchon de remplissage du carburant a été ouvert.</tu>
+	<tu xmlns:lang="deu">Der Tankdeckel wurde geöffnet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È stato aperto il tappo del bocchettone di rifornimento carburante.</tu>
+	<tu xmlns:lang="jpn">フューエル フィラー キャップが開かれました。</tu>
+	<tu xmlns:lang="ptg">O tampão do depósito de combustível foi aberto.</tu>
+	<tu xmlns:lang="ptb">A tampa de abastecimento de combustível foi aberta.</tu>
+	<tu xmlns:lang="rus">Открыта крышка топливоналивной горловины.</tu>
+	<tu xmlns:lang="esp">Se ha abierto el tapón del depósito de combustible.</tu>
+	<tu xmlns:lang="chs">燃油加注口盖被打开。</tu>
+	<tu xmlns:lang="kor">연료 주입구 캡이 열림</tu>
+</tm>

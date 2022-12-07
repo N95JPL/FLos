@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENS_ALL_DOORS_UNLOCKED">
+	<tu xmlns:lang="eng">Make sure all doors are unlocked</tu>
+	<tu xmlns:lang="nld">Controleer dat de deuren niet op slot zijn</tu>
+	<tu xmlns:lang="fra">S'assurer que toutes les portes sont DEVERROUILLEES</tu>
+	<tu xmlns:lang="deu">Alle Türen müssen ENTRIEGELT sein</tu>
+	<tu xmlns:lang="ita">Assicurare che NESSUNA porta SIA CHIUSA A CHIAVE</tu>
+	<tu
+    xmlns:lang="jpn"
+  >すべてのﾄﾞアがアンロックされていることを確認してください</tu>
+	<tu xmlns:lang="ptg">Assegure-se de que todas as portas estão destrancadas</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que todas as portas estejam destravadas</tu>
+	<tu xmlns:lang="rus">Убедитесь, что все двери разблокированы.</tu>
+	<tu xmlns:lang="esp">Asegúrese que NINGUNA puerta ESTE CERRADA CON LLAVE</tu>
+	<tu xmlns:lang="chs">确保所有的车门未锁。</tu>
+	<tu xmlns:lang="kor">모든 도어가 잠금 해제되었는지 확인하십시오.</tu>
+</tm>

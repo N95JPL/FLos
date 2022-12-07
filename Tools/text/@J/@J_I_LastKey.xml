@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LastKey">
+	<tu xmlns:lang="eng">The last key used to unlock the vehicle was key:</tu>
+	<tu
+    xmlns:lang="nld"
+  >De sleutel waarmee de auto het laatst is ontgrendeld, was sleutel:</tu>
+	<tu
+    xmlns:lang="fra"
+  >La dernière clé utilisée pour déverrouiller le véhicule était la clé :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der zuletzt für die Fahrzeugentriegelung genutzte Schlüssel war:</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'ultima chiave utilizzata per sbloccare il veicolo è stata:</tu>
+	<tu xmlns:lang="jpn">前回車両のアンロックに使用されたキー：</tu>
+	<tu xmlns:lang="ptg">A última chave usada para destrancar o veículo foi:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A última chave usada para destravar o veículo foi a chave:</tu>
+	<tu xmlns:lang="rus">Последний ключ, которым отпирали автомобиль:</tu>
+	<tu
+    xmlns:lang="esp"
+  >La última llave utilizada para desbloquear el vehículo fue la llave:</tu>
+	<tu xmlns:lang="chs">用来解锁车辆的最后一把钥匙是：</tu>
+	<tu xmlns:lang="kor">차량 잠금 해제에 사용된 마지막 키:</tu>
+</tm>

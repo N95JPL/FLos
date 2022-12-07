@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IdentNotStored$I">
+	<tu xmlns:lang="eng">Secure identification not stored.</tu>
+	<tu xmlns:lang="nld">Beveiligingsidentificatie niet opgeslagen.</tu>
+	<tu xmlns:lang="fra">Identification sécurisée non enregistrée.</tu>
+	<tu xmlns:lang="deu">Sichere Identifizierung nicht gespeichert.</tu>
+	<tu xmlns:lang="ita">Identificazione di sicurezza non memorizzata.</tu>
+	<tu xmlns:lang="jpn">セキュリティ ID が保存されていません。</tu>
+	<tu xmlns:lang="ptg">Identificação segura não memorizada.</tu>
+	<tu xmlns:lang="ptb">Identificação de segurança não armazenada.</tu>
+	<tu xmlns:lang="rus">Идентификатор охранной системы не сохранен.</tu>
+	<tu xmlns:lang="esp">Identificación segura no guardada.</tu>
+	<tu xmlns:lang="chs">安全标识未存储。</tu>
+	<tu xmlns:lang="kor">보안 식별 정보가 저장되지 않음</tu>
+</tm>

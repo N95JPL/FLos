@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NOSH_CLIM_SEAT">
+	<tu xmlns:lang="eng">Not fitted or front climate control seat fitted</tu>
+	<tu
+    xmlns:lang="nld"
+  >Niet gemonteerd of voorstoel met climate control gemonteerd</tu>
+	<tu
+    xmlns:lang="fra"
+  >Siège à commande de climatisation avant installé ou non</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nicht eingebaut oder klimageregelter Vordersitz eingebaut</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non installato o sedile con sistema di climatizzazione anteriore installato</tu>
+	<tu
+    xmlns:lang="jpn"
+  >非装備、あるいはフロント クライメート コントロール シート装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não instalado ou instalado banco dianteiro com controlo da climatização</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não instalado ou assento com controle de temperatura dianteiro instalado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не установлено или установлено переднее сиденье с климат-контролем</tu>
+	<tu xmlns:lang="esp">No tiene, o tiene asiento delantero climatizado</tu>
+	<tu xmlns:lang="chs">未配备或者前气候控制座椅已配备</tu>
+	<tu
+    xmlns:lang="kor"
+  >장착되어 있지 않거나 앞좌석 온도 조절 장치가 장착되어 있음</tu>
+</tm>

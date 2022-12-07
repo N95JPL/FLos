@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CLEAR_SELF_LEARN_DATA">
+	<tu xmlns:lang="eng">Clear self-learning data</tu>
+	<tu xmlns:lang="nld">Wis de zelfgeleerde gegevens</tu>
+	<tu xmlns:lang="fra">Supprimer les données d'auto-apprentissage</tu>
+	<tu xmlns:lang="deu">Anpassungsdaten löschen.</tu>
+	<tu xmlns:lang="ita">Cancellare i dati di auto-apprendimento</tu>
+	<tu xmlns:lang="jpn">自己学習データをクリアします</tu>
+	<tu xmlns:lang="ptg">Apagar dados de autoprogramação</tu>
+	<tu xmlns:lang="ptb">Apagar dados de autoaprendizagem.</tu>
+	<tu xmlns:lang="rus">Выполнить сброс данных самонастройки</tu>
+	<tu xmlns:lang="esp">Borrar datos de autoaprendizaje</tu>
+	<tu xmlns:lang="chs">清除自动记忆数据</tu>
+	<tu xmlns:lang="kor">자체 학습 데이터 삭제</tu>
+</tm>

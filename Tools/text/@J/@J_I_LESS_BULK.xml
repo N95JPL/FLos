@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_BULK">
+	<tu xmlns:lang="eng">Without bulkhead</tu>
+	<tu xmlns:lang="nld">Zonder schutbord</tu>
+	<tu xmlns:lang="fra">Sans cloison</tu>
+	<tu xmlns:lang="deu">Ohne Spritzwand</tu>
+	<tu xmlns:lang="ita">Senza paratia</tu>
+	<tu xmlns:lang="jpn">バルクヘッドなし</tu>
+	<tu xmlns:lang="ptg">Sem antepara</tu>
+	<tu xmlns:lang="ptb">Sem anteparo</tu>
+	<tu xmlns:lang="rus">Без перегородки</tu>
+	<tu xmlns:lang="esp">Sin panel de separación</tu>
+	<tu xmlns:lang="chs">无隔板</tu>
+	<tu xmlns:lang="kor">벌크헤드 불포함</tu>
+</tm>

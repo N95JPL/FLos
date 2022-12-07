@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HLDF">
+	<tu xmlns:lang="eng">High level display front (touchscreen)</tu>
+	<tu xmlns:lang="nld">Hoogwaardig display voorin (touch screen)</tu>
+	<tu xmlns:lang="fra">Affichage avant haut de gamme (écran tactile)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Display vorne in gehobener Ausführung (Touchscreen-Display)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Display anteriore di gamma alta (schermo a sfioramento)</tu>
+	<tu xmlns:lang="jpn">ハイ レベル ディスプレイ フロント (タッチスクリーン)</tu>
+	<tu xmlns:lang="ptg">Ecrã dianteiro de alto nível (ecrã de toque)</tu>
+	<tu xmlns:lang="ptb">Parte dianteira de alto nível (tela sensível ao toque)</tu>
+	<tu xmlns:lang="rus">Панель дисплея высокой контрастности (сенсорный экран)</tu>
+	<tu xmlns:lang="esp">Pantalla delantera de gama alta (pantalla táctil)</tu>
+	<tu xmlns:lang="chs">前部高水平显示器（触摸屏）</tu>
+	<tu xmlns:lang="kor">고급 전방 디스플레이(터치 스크린)</tu>
+</tm>

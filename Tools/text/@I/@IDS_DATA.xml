@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDS_DATA">
+	<tu xmlns:lang="eng">Data</tu>
+	<tu xmlns:lang="nld">Gegevens</tu>
+	<tu xmlns:lang="fra">Données</tu>
+	<tu xmlns:lang="deu">Daten</tu>
+	<tu xmlns:lang="ita">Dati</tu>
+	<tu xmlns:lang="jpn">データ</tu>
+	<tu xmlns:lang="ptg">Dados</tu>
+	<tu xmlns:lang="ptb">Dados</tu>
+	<tu xmlns:lang="rus">Данные</tu>
+	<tu xmlns:lang="esp">Datos</tu>
+	<tu xmlns:lang="chs">数据</tu>
+	<tu xmlns:lang="kor">데이터</tu>
+</tm>

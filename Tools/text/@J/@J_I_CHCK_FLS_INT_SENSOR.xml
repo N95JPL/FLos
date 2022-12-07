@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHCK_FLS_INT_SENSOR">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will check the FLS (forward looking sensor) internal status. The results will then be displayed</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal de interne status van de FLS (naar voren gerichte sensor) controleren. Het systeem zal daarna de resultaten weergeven</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de contrôler le statut interne du FLS (capteur orienté vers l'avant). Les résultats seront alors affichés</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Maßnahme wird der interne Status des Abstandssensor vorn überprüft. Anschließend werden die Ergebnisse angezeigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura verificherà lo stato interno dell'FLS (sensore di distanza frontale). Verranno quindi visualizzati i risultati</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順は FLS (前方監視センサー) の内部ステータスをチェックします。その後、結果が表\示されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento verificará o estado interno do FLS (sensor dianteiro). Os resultados serão então visualizados</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento irá verificar o FLS (forward looking sensor). Os resultados serão exibidos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе данной процедуры проверяется внутреннее состояние FLS (передний датчик дистанции). По окончании результаты выводятся на дисплей</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento comprueba el estado interno del sensor delantero de alcance (FLS). A continuación se muestran los resultados</tu>
+	<tu xmlns:lang="chs">该程序将检查FLS（前视传感器）内部状态。 然后显示结果</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 FLS(전방 주시 센서) 내부 상태를 점검합니다. 그런 다음, 결과가 표시됩니다.</tu>
+</tm>

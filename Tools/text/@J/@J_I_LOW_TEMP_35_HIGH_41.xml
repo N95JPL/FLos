@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOW_TEMP_35_HIGH_41">
+	<tu xmlns:lang="eng">Low temperature 35°C  -  High temperature 41°C</tu>
+	<tu xmlns:lang="nld">Lage temperatuur 35°C  -  Hoge temperatuur 41°C</tu>
+	<tu xmlns:lang="fra">Basse température 35°C  -  Température élevée 41°C</tu>
+	<tu xmlns:lang="deu">Niedrige Temperatur 35°C  -  Hohe Temperatur 41°C</tu>
+	<tu xmlns:lang="ita">Bassa temperatura 35°C  -  Alta temperatura 41°C</tu>
+	<tu xmlns:lang="jpn">低温 35°C  －  高温 41°C</tu>
+	<tu xmlns:lang="ptg">Temperatura baixa 35°C  -  Temperatura elevada 41°C</tu>
+	<tu xmlns:lang="ptb">Baixa temperatura 35°C  -  Alta temperatura 41°C</tu>
+	<tu xmlns:lang="rus">Низкая температура 35°C  -  Высокая температура 41°C</tu>
+	<tu xmlns:lang="esp">Temperatura baja 35°C  -  Temperatura alta 41°C</tu>
+	<tu xmlns:lang="chs">低温 35℃  -  高温 41°C</tu>
+	<tu xmlns:lang="kor">저온 35°C  -  고온 41°C</tu>
+</tm>

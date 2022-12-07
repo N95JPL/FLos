@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_REM_INSERTED_KEY">
+	<tu
+    xmlns:lang="eng"
+  >Remove the currently inserted key, allowing the starter control unit to power down.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verwijder de sleutel die momenteel in de regeleenheid voor sleutelloos starten (docking station)zit, zodat de regeleenheid voor sleutelloos starten (docking station)zichzelf kan uitschakelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Retirez la clé actuellement insérée pour couper le module de commande de démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Aktuell eingesteckten Schlüssel abziehen und Startsteuereinheit abschalten lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Togliere la chiave attualmente inserita, lasciando che l'unità di comando del motorino di avviamento si spenga.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >現在挿入されているキーを取り外し、スターター コントロール ユニットをパワーダウンさせなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retirar a chave que está introduzida no momento, deixando a unidade de controlo do motor de arranque desligar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Remova a chave inserida no momento, permitindo que a unidade de controle de partida desligue.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Извлеките ключ, находящийся сейчас в замке зажигания, для отключения блока управления стартером.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Retirar la llave insertada actualmente, permitiendo que se desactive el módulo de control de arranque.</tu>
+	<tu xmlns:lang="chs">取下当前插入的车钥，使起动机控制单元停止运行。</tu>
+	<tu
+    xmlns:lang="kor"
+  >현재 삽입된 키를 제거하여 스타터 컨트롤 유닛의 전원을 끌 수 있도록 하십시오.</tu>
+</tm>

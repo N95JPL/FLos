@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineNotStarted">
+	<tu xmlns:lang="eng">Engine was not started, press 'tick' to exit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Motor werd niet gestart, druk op 'vinkje' om te verlaten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le moteur n'a pas démarré, appuyer sur la coche pour quitter.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Motor wurde nicht gestartet, das Häkchen anklicken, um den Vorgang zu beenden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il motore non è stato avviato, selezionare il segno di spunta per uscire.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンが始動しませんでした。「チェックマーク」を押して終了します。</tu>
+	<tu xmlns:lang="ptg">O motor não arrancou, prima o visto para sair.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A partida do motor não foi dada, pressione o tique para sair.</tu>
+	<tu xmlns:lang="rus">Двигатель не запущен. Нажмите на галочку, чтобы выйти.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El motor no ha arrancado; pulse la marca de verificación para salir.</tu>
+	<tu xmlns:lang="chs">发动机未启动，请按勾选键以退出。</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진이 시동되지 않았습니다. 종료하려면 '체크 표시'를 누르십시오.</tu>
+</tm>

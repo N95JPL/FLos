@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DTRL_STANDARD_DIP">
+	<tu xmlns:lang="eng">Standard dipped lighting (non daytime running light)</tu>
+	<tu xmlns:lang="nld">Standaard dimlicht (geen dagverlichting)</tu>
+	<tu xmlns:lang="fra">Eclairage en code standard (pas d'éclairage de jour)</tu>
+	<tu xmlns:lang="deu">Standard-Abblendlicht (kein Tagfahrlicht)</tu>
+	<tu xmlns:lang="ita">Luci anabbaglianti standard (non luci diurne)</tu>
+	<tu xmlns:lang="jpn">標準ロー ビーム (昼間走行ライトなし)</tu>
+	<tu xmlns:lang="ptg">Médios normais (não luzes de circulação diurna)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Iluminação padrão (luzes de iluminação diurna apagadas)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Стандартное переключение на ближний свет (не дневное габаритное освещение)</tu>
+	<tu xmlns:lang="esp">Luces bajas estándar (no luces de conducción diurna)</tu>
+	<tu xmlns:lang="chs">标准近光照明（非白天行驶灯）</tu>
+	<tu xmlns:lang="kor">표준 하향 조명(주간 주행등 아님)</tu>
+</tm>

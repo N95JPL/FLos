@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NormIndicate$M">
+	<tu
+    xmlns:lang="eng"
+  >This is indicated by the normal height symbol on the air suspension switch being illuminated and all other symbols extinguished.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem geeft dit aan door het normale hoogtesymbool op de luchtveringsschakelaar te laten branden en alle andere symbolen uit te doen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cela est indiqué par l'allumage du symbole de hauteur normale sur le commutateur de suspension pneumatique et l'extinction de tous les autres symboles.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dies wird dadurch angezeigt, dass das Symbol für die normale Fahrhöhe am Luftfederungsschalter aufleuchtet und alle anderen Symbole erlöschen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È indicato dal simbolo illuminato di altezza normale sull'interruttore della sospensione pneumatica, con tutti gli altri simboli spenti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これは、エア サスペンション スイッチ上のノーマル ハイト記号点灯およびその他すべての記号消灯により表\わされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Isto é indicado pelo símbolo normal de altura no interruptor da suspensão pneumática que está aceso e todos os outros símbolos apagados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso é indicado pelo acendimento do símbolo de altura normal no interruptor da suspensão a ar e pelo apagamento de todos os demais símbolos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При завершении символ нормальной высоты на выключателе пневматической подвески загорается, все остальные индикаторы гаснут.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esto se indica al encenderse el símbolo de altura normal del interruptor de la suspensión neumática y apagarse todos los demás símbolos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这由空气悬架开关上的正常高度符号表示，此时该符号点亮而所有其它符号都已熄灭。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량이 정상 높이에 도달하면 에어 서스펜션 스위치의 정상 높이 기호가 켜지고 다른 모든 기호는 꺼집니다.</tu>
+</tm>

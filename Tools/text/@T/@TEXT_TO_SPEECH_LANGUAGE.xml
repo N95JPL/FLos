@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TEXT_TO_SPEECH_LANGUAGE">
+	<tu xmlns:lang="eng">Text to speech language</tu>
+	<tu xmlns:lang="nld">Tekst naar gesproken taal.</tu>
+	<tu xmlns:lang="fra">Texte, langue de commande vocale.</tu>
+	<tu xmlns:lang="deu">Sprache Text-zu-Sprache </tu>
+	<tu xmlns:lang="ita">Lingua del testo per invio comandi</tu>
+	<tu xmlns:lang="jpn">テキスト読み上げ言語</tu>
+	<tu xmlns:lang="ptg">Texto para idioma de comunicação</tu>
+	<tu xmlns:lang="ptb">Idioma do texto para reconhecimento de voz</tu>
+	<tu xmlns:lang="rus">Язык функции чтения текста</tu>
+	<tu xmlns:lang="esp">Idioma de texto a voz</tu>
+	<tu xmlns:lang="chs">文本向语音转换语言</tu>
+	<tu xmlns:lang="kor">TTS 언어</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BCU_NoKeyLearn">
+	<tu xmlns:lang="eng">The body controller has not learned any keys.</tu>
+	<tu
+    xmlns:lang="nld"
+  >In de carrosserieregelmodule zijn geen nieuwe sleutels geprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module de commande de carrosserie n'a pas encore appris de clé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vom Karosseriesteuergerät wurden noch keine Schlüssel erlernt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il controllore della carrozzeria non ha appreso alcuna chiave.</tu>
+	<tu xmlns:lang="jpn">ボディ コントローラはまだどのキーも認識していません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O controlador da carroçaria não foi programado com quaisquer chaves.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O controlador da carroceria não memorizou nenhuma chave.</tu>
+	<tu xmlns:lang="rus">В процессоре кузова нет данных о ключах.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo de control de la carrocería no ha aprendido ninguna llave.</tu>
+	<tu xmlns:lang="chs">车身控制器未记忆任何钥匙。</tu>
+	<tu xmlns:lang="kor">차체 컨트롤러가 아무 키도 학습하지 못했습니다.</tu>
+</tm>

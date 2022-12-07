@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABS_PRES_SEN_PMP_TEST">
+	<tu xmlns:lang="eng">ABS pressure sensor and pre-charge pump test</tu>
+	<tu xmlns:lang="nld">Test van ABS-druksensor en voorladingspomp</tu>
+	<tu
+    xmlns:lang="fra"
+  >Essai de pompe de précharge et de capteur de pression ABS</tu>
+	<tu xmlns:lang="deu">Test ABS-Drucksensor und Vorbefüllpumpe</tu>
+	<tu xmlns:lang="ita">Prova pompa di precarica e sensore pressione ABS</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ABS プレッシャ センサーおよびプリチャージ ポンプ テスト</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccione o seu país na lista ou seleccione 'Outro' se não constar da lista.</tu>
+	<tu xmlns:lang="ptb">Teste da bomba de pré-carga e sensor de pressão de ABS</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка датчика давления и подпиточного насоса системы ABS</tu>
+	<tu
+    xmlns:lang="esp"
+  >Prueba de la bomba de precarga y sensor de presión del ABS</tu>
+	<tu xmlns:lang="chs">ABS 压力传感器与预充压泵测试</tu>
+	<tu xmlns:lang="kor">ABS 압력 센서 및 사전 충전 펌프 테스트</tu>
+</tm>

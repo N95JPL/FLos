@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DTC_B10EA">
+	<tu xmlns:lang="eng">Positive temperature coefficient heater</tu>
+	<tu xmlns:lang="nld">Positieve temperatuurcoëfficiënt (PTC)-verwarming.</tu>
+	<tu xmlns:lang="fra">Chauffage à coefficient de température positif.</tu>
+	<tu xmlns:lang="deu">PTC-Heizung</tu>
+	<tu xmlns:lang="ita">Riscaldatore coefficiente di temperatura positivo</tu>
+	<tu xmlns:lang="jpn">ポジティブ温度係数ヒーター </tu>
+	<tu xmlns:lang="ptg">Aquecedor de coeficiente de temperatura positivo</tu>
+	<tu xmlns:lang="ptb">Aquecedor com coeficiente de temperatura positivo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нагреватель с положительным температурным коэффициентом</tu>
+	<tu xmlns:lang="esp">Calefactor de coeficiente de temperatura positivo</tu>
+	<tu xmlns:lang="chs">正温度系数加热器</tu>
+	<tu xmlns:lang="kor">정온도계수 히터</tu>
+</tm>

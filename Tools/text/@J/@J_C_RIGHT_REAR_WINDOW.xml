@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_RIGHT_REAR_WINDOW">
+	<tu xmlns:lang="eng">Rear right passenger's door window glass</tu>
+	<tu xmlns:lang="nld">Passagiersruit rechtsachter</tu>
+	<tu xmlns:lang="fra">Fenetre passager arriere droite</tu>
+	<tu xmlns:lang="deu">Fondfenster rechts</tu>
+	<tu xmlns:lang="ita">Finestra posteriore destra</tu>
+	<tu xmlns:lang="jpn">右側ﾘｱ・ｳｲﾝﾄﾞｳ</tu>
+	<tu xmlns:lang="ptg">Vidro da porta do passageiro traseiro do lado direito</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Vidro da janela da porta do passageiro traseiro direito</tu>
+	<tu xmlns:lang="rus">Стекло задней правой двери</tu>
+	<tu xmlns:lang="esp">Ventanilla del pasajero trasero derecho</tu>
+	<tu xmlns:lang="chs">右后乘客一侧车门窗玻璃</tu>
+	<tu xmlns:lang="kor">리어 우측 조수석 도어 윈도우 글라스</tu>
+</tm>

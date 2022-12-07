@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PARK_ASSIST_REAR_FRONT">
+	<tu xmlns:lang="eng">Front and rear parking assistance</tu>
+	<tu xmlns:lang="nld">Vooruit- en achteruitrijbeveiliging</tu>
+	<tu xmlns:lang="fra">Aide aux manoeuvres de stationnement avant et arrière</tu>
+	<tu xmlns:lang="deu">Einparkhilfe vorne und hinten</tu>
+	<tu xmlns:lang="ita">Assistenza parcheggio anteriore e posteriore</tu>
+	<tu xmlns:lang="jpn">フロントおよびリア パーキング エイド</tu>
+	<tu xmlns:lang="ptg">Assistência ao estacionamento dianteira e traseira</tu>
+	<tu xmlns:lang="ptb">Assistência de estacionamento dianteira e traseira</tu>
+	<tu xmlns:lang="rus">Система помощи при парковке на передачах переднего и заднего хода</tu>
+	<tu xmlns:lang="esp">Ayuda al aparcamiento delantera y trasera</tu>
+	<tu xmlns:lang="chs">前部与后部驻车辅助功能</tu>
+	<tu xmlns:lang="kor">전방 및 후방 주차 지원</tu>
+</tm>

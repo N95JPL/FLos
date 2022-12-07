@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@X200APP_ReadingVIN_I">
+	<tu xmlns:lang="eng">Reading VIN.</tu>
+	<tu xmlns:lang="nld">Lezen van VIN.</tu>
+	<tu xmlns:lang="fra">Lecture du VIN en cours</tu>
+	<tu xmlns:lang="deu">VIN wird ausgelesen.</tu>
+	<tu xmlns:lang="ita">Lettura del VIN in corso.</tu>
+	<tu xmlns:lang="jpn">VIN 読み取り中</tu>
+	<tu xmlns:lang="ptg">A ler o NIV.</tu>
+	<tu xmlns:lang="ptb">Lendo VIN.</tu>
+	<tu xmlns:lang="rus">Считывание VIN.</tu>
+	<tu xmlns:lang="esp">Leyendo el VIN.</tu>
+	<tu xmlns:lang="chs">正在读取车辆标识代码（VIN）。</tu>
+	<tu xmlns:lang="kor">VIN을 읽는 중입니다.</tu>
+</tm>

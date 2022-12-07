@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JNotTested$I">
+	<tu xmlns:lang="eng">Not tested</tu>
+	<tu xmlns:lang="nld">NIET GETEST</tu>
+	<tu xmlns:lang="fra">PAS TESTE</tu>
+	<tu xmlns:lang="deu">NICHT GEPRÜFT</tu>
+	<tu xmlns:lang="ita">NON PROVATO</tu>
+	<tu xmlns:lang="jpn">テストされていません。</tu>
+	<tu xmlns:lang="ptg">Não testado</tu>
+	<tu xmlns:lang="ptb">Não testado</tu>
+	<tu xmlns:lang="rus">Не проверяется</tu>
+	<tu xmlns:lang="esp">SIN PROBAR</tu>
+	<tu xmlns:lang="chs">未测试</tu>
+	<tu xmlns:lang="kor">테스트되지 않음</tu>
+</tm>

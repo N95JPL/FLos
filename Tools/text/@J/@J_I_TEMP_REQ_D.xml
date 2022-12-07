@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TEMP_REQ_D">
+	<tu
+    xmlns:lang="eng"
+  >To run this test, engine coolant temperature must be greater than : %d</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om deze test te kunnen uitvoeren, moet de motorkoelvloeistoftemperatuur hoger zijn dan: %d</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour effectuer ce test, la température de liquide de refroidissement du moteur doit être supérieure à : %d</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um diesen Test laufen zu lassen, muss die Kühlmitteltemperatur höher sein als: %d</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per eseguire questa prova, la temperatura del refrigerante motore deve essere superiore a : %d</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストを実施するには、エンジン クーラント温度が次の数値以上でなければなりません：%d</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para correr este teste, a temperatura do líquido de arrefecimento do motor deve ser superior a: %d</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para executar o teste, a temperatura do líquido de arrefecimento do motor deve ser maior que: %d</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для запуска данной проверки температура охлаждающей жидкости двигателя должна быть выше  %d</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para ejecutar esta prueba, la temperatura del refrigerante del motor debe superar: %d</tu>
+	<tu xmlns:lang="chs">要运行本测试，发动机冷却液温度必须大于：%d</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 테스트를 실행하려면 엔진 냉각수 온도가 %d 이상이어야 합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIGHT_FAU_FREE">
+	<tu xmlns:lang="eng">Tight system, fault free.</tu>
+	<tu xmlns:lang="nld">Gesloten systeem, storingsvrij.</tu>
+	<tu xmlns:lang="fra">Système étanche, pas de défaut.</tu>
+	<tu xmlns:lang="deu">Dichtes System, störungsfrei.</tu>
+	<tu xmlns:lang="ita">Sistema stagno, esente da guasti.</tu>
+	<tu xmlns:lang="jpn">システムはしっかりしています、故障はありません。</tu>
+	<tu xmlns:lang="ptg">Sistema estanque, sem avarias.</tu>
+	<tu xmlns:lang="ptb">Sistema bem ajustado, isento de falhas.</tu>
+	<tu xmlns:lang="rus">Система герметична, неисправностей нет.</tu>
+	<tu xmlns:lang="esp">Sistema hermético sin defectos.</tu>
+	<tu xmlns:lang="chs">‘拧紧系统，免除故障。’</tu>
+	<tu xmlns:lang="kor">시스템이 완벽함, 고장 없음</tu>
+</tm>

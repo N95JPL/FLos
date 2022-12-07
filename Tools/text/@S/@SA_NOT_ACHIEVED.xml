@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SA_NOT_ACHIEVED">
+	<tu xmlns:lang="eng">Secure access not achieved.</tu>
+	<tu xmlns:lang="nld">De beveiligde toegang werd niet verkregen.</tu>
+	<tu xmlns:lang="fra">Accès sécurisé non obtenu.</tu>
+	<tu xmlns:lang="deu">Gesicherter Zugriff wurde nicht hergestellt.</tu>
+	<tu xmlns:lang="ita">Accesso sicuro non riuscito.</tu>
+	<tu xmlns:lang="jpn">セキュリティ アクセスが達成されていません。</tu>
+	<tu xmlns:lang="ptg">Acesso seguro não conseguido.</tu>
+	<tu xmlns:lang="ptb">Não foi possível realizar o acesso seguro.</tu>
+	<tu xmlns:lang="rus">Защищенный доступ не обеспечен.</tu>
+	<tu xmlns:lang="esp">No se logró el acceso seguro.</tu>
+	<tu xmlns:lang="chs">安全访问未能实现。</tu>
+	<tu xmlns:lang="kor">보안 액세스를 획득하지 못함</tu>
+</tm>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_16">
+	<tu
+    xmlns:lang="eng"
+  >General electrical failure - circuit voltage below threshold.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Algemeen elektrisch defect - circuitspanning onder de drempel.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Panne électrique générale - tension de circuit inférieure au seuil.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Allgemeine Elektrikstörung - Spannung im Stromkreis unter Grenzwert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto elettrico generale - tensione circuito inferiore a valore soglia.</tu>
+	<tu xmlns:lang="jpn">一般エレクトリカル故障 － サーキット電圧が規定値以下</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha eléctrica geral - tensão do circuito abaixo do limiar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha elétrica geral - tensão do circuito abaixo do limite.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электрическая неисправность общего характера - напряжение в цепи ниже порогового значения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo eléctrico general: tensión del circuito por debajo del valor umbral.</tu>
+	<tu xmlns:lang="chs">一般电气故障 - 电路电压低于门限值。</tu>
+	<tu xmlns:lang="kor">일반적인 전기적 고장 - 회로 전압이 임계값 미만임</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_BRAK_VACU_PUMP_SYS">
+	<tu xmlns:lang="eng">Brake vacuum pump system</tu>
+	<tu xmlns:lang="nld">Remvacuümpompsysteem</tu>
+	<tu xmlns:lang="fra">Système de pompe à vide de freinage</tu>
+	<tu xmlns:lang="deu">Unterdruckpumpen-System - Bremse</tu>
+	<tu xmlns:lang="ita">Sistema pompa vuoto freni</tu>
+	<tu xmlns:lang="jpn">ブレーキ バキューム ポンプ システム</tu>
+	<tu xmlns:lang="ptg">Sistema da bomba de vácuo dos travões</tu>
+	<tu xmlns:lang="ptb">Sistema da bomba a vácuo do freio</tu>
+	<tu xmlns:lang="rus">Система тормозных вакуумных насосов</tu>
+	<tu xmlns:lang="esp">Sistema de la bomba de vacío de los frenos</tu>
+	<tu xmlns:lang="chs">制动器真空泵系统</tu>
+	<tu xmlns:lang="kor">브레이크 진공 펌프 시스템</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CommsFailure">
+	<tu xmlns:lang="eng">Communications failure</tu>
+	<tu xmlns:lang="nld">Communicatiestoring</tu>
+	<tu xmlns:lang="fra">Panne de communications</tu>
+	<tu xmlns:lang="deu">Kommunikation ausgefallen</tu>
+	<tu xmlns:lang="ita">Guasto delle comunicazioni</tu>
+	<tu xmlns:lang="jpn">通信の不良</tu>
+	<tu xmlns:lang="ptg">Falha nas comunicações</tu>
+	<tu xmlns:lang="ptb">Falha de comunicação</tu>
+	<tu xmlns:lang="rus">Ошибка обмена данными</tu>
+	<tu xmlns:lang="esp">Fallo de comunicaciones</tu>
+	<tu xmlns:lang="chs">通讯故障</tu>
+	<tu xmlns:lang="kor">통신 오류</tu>
+</tm>

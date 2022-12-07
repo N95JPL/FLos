@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_XML_CREATE_ERROR">
+	<tu xmlns:lang="eng">Application failed to create the log file.</tu>
+	<tu xmlns:lang="nld">Toepassing kon het logbestand niet aanmaken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'application n'a pas réussi à créer le fichier journal.</tu>
+	<tu xmlns:lang="deu">Anwendung konnte keine Protokolldatei erstellen.</tu>
+	<tu xmlns:lang="ita">L'applicazione non ha generato il file di registro.</tu>
+	<tu xmlns:lang="jpn">アプリケーションがログ ファイルの作成に失敗。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A aplicação foi incapaz de criar o ficheiro de registo.</tu>
+	<tu xmlns:lang="ptb">Falha do aplicativo ao criar o arquivo de registro.</tu>
+	<tu xmlns:lang="rus">Приложением не создан файл журнала.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La aplicación no ha logrado crear el archivo de registros.</tu>
+	<tu xmlns:lang="chs">应用程序未能创建日志文件。</tu>
+	<tu xmlns:lang="kor">응용 프로그램에서 로그 파일을 만들지 못했습니다.</tu>
+</tm>

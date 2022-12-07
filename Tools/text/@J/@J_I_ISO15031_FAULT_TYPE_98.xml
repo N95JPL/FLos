@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_98">
+	<tu
+    xmlns:lang="eng"
+  >Component failure - component or system is over temperature.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Component defect - overtemperatuur in component of systeem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Composant défectueux - composant ou système en surchauffe.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bauteilstörung - Bauteil oder System hat Übertemperatur.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto componente - eccessiva temperatura componente o sistema.</tu>
+	<tu xmlns:lang="jpn">コンポーネント故障 － コンポーネントまたはシステム過熱</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha de componente - componente ou sistema apresenta temperatura excessiva.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha do componente - componente ou sistema com temperatura excessiva.</tu>
+	<tu xmlns:lang="rus">Отказ элемента - перегрев компонента или системы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo de componente: recalentamiento del componente o sistema.</tu>
+	<tu xmlns:lang="chs">元件故障 - 元件或系统温度过高。</tu>
+	<tu xmlns:lang="kor">구성 요소 고장 - 구성 요소 또는 시스템 과열</tu>
+</tm>

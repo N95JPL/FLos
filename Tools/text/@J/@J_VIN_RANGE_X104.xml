@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_VIN_RANGE_X104">
+	<tu
+    xmlns:lang="eng"
+  >Is the vehicle identification number greater than A40265?</tu>
+	<tu xmlns:lang="nld">Is het voertuigidentificatienummer hoger dan A40265?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le numéro d'identification du véhicule est-il supérieur à A40265 ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist die Fahrzeugidentifizierungsnummer größer als A40265?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il numero di identificazione del veicolo è superiore ad A40265?</tu>
+	<tu xmlns:lang="jpn">車両 ID ナンバーは A40265 より大きいですか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número de identificação do veículo é superior a A40265?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O número de identificação do veículo é maior que A40265?</tu>
+	<tu xmlns:lang="rus">Идентификационный номер автомобиля больше A40265?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Es el número de identificación del vehículo superior a A40265?</tu>
+	<tu xmlns:lang="chs">车辆标识代码是否大于A40265？</tu>
+	<tu xmlns:lang="kor">차량 식별 번호가 A40265보다 큽니까?</tu>
+</tm>

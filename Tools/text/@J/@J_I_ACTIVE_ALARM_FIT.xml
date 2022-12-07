@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ACTIVE_ALARM_FIT">
+	<tu xmlns:lang="eng">The vehicle is fitted with an active alarm system.</tu>
+	<tu xmlns:lang="nld">Het voertuig is uitgerust met een actief alarmsysteem.</tu>
+	<tu xmlns:lang="fra">Ce véhicule est équipé d'un système d'alarme actif.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug ist mit einer aktiven Alarmanlage ausgestattet.</tu>
+	<tu xmlns:lang="ita">Il veicolo è dotato di sistema di allarme attivo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両にはアクティブ アラーム システムが装備されています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo está equipado com um sistema de alarme activo.</tu>
+	<tu xmlns:lang="ptb">O veículo é equipado com um sistema de alarme ativo.</tu>
+	<tu xmlns:lang="rus">Автомобиль оснащен системой активной сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El vehículo tiene instalado un sistema de alarma activa.</tu>
+	<tu xmlns:lang="chs">车辆配备了一个主动报警系统。</tu>
+	<tu xmlns:lang="kor">차량에 활성 알람 시스템이 장착되어 있습니다.</tu>
+</tm>

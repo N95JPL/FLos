@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_THRESHOLD_1">
+	<tu xmlns:lang="eng">Threshold  1</tu>
+	<tu xmlns:lang="nld">Drempelwaarde  1</tu>
+	<tu xmlns:lang="fra">Seuil  1</tu>
+	<tu xmlns:lang="deu">Grenzwert  1</tu>
+	<tu xmlns:lang="ita">Soglia  1</tu>
+	<tu xmlns:lang="jpn">規定値  1</tu>
+	<tu xmlns:lang="ptg">Limiar  1</tu>
+	<tu xmlns:lang="ptb">Limite  1</tu>
+	<tu xmlns:lang="rus">Пороговое значение  1</tu>
+	<tu xmlns:lang="esp">Valor umbral  1</tu>
+	<tu xmlns:lang="chs">门限值  1</tu>
+	<tu xmlns:lang="kor">임계값  1</tu>
+</tm>

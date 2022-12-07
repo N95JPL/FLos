@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MAP_UPDT_SUCCESS_Q1">
+	<tu xmlns:lang="eng">Was the map update carried out successfully?</tu>
+	<tu xmlns:lang="nld">Is de kaart succesvol bijgewerkt?</tu>
+	<tu
+    xmlns:lang="fra"
+  >La mise à jour de la carte s'est-elle effectuée correctement ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wurde die Kartenaktualisierung erfolgreich durchgeführt?</tu>
+	<tu xmlns:lang="ita">L'aggiornamento della mappa è avvenuto correttamente?</tu>
+	<tu xmlns:lang="jpn">マップ更新は正常に完了したか？</tu>
+	<tu xmlns:lang="ptg">A atualização do mapa foi bem-sucedida?</tu>
+	<tu xmlns:lang="ptb">A atualização do mapa foi realizada com sucesso?</tu>
+	<tu xmlns:lang="rus">Обновление карт выполнено успешно?</tu>
+	<tu xmlns:lang="esp">¿Se han actualizado los mapas correctamente?</tu>
+	<tu xmlns:lang="chs">是否成功执行了地图更新？</tu>
+	<tu xmlns:lang="kor">지도 업데이트가 올바로 수행되었습니까?</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_51">
+	<tu xmlns:lang="eng">System programming failure - not programmed.</tu>
+	<tu xmlns:lang="nld">Fout in systeemprogrammering - niet geprogrammeerd.</tu>
+	<tu xmlns:lang="fra">Défaut de programmation du système - non programmé.</tu>
+	<tu xmlns:lang="deu">Systemprogrammierungsfehler - nicht programmiert.</tu>
+	<tu xmlns:lang="ita">Guasto programmazione sistema - non programmato.</tu>
+	<tu xmlns:lang="jpn">システム プログラミング不良 － プログラムされず</tu>
+	<tu xmlns:lang="ptg">Falha de programação do sistema - não programado.</tu>
+	<tu xmlns:lang="ptb">Falha de programação do sistema - não programada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка программирования системы - не запрограммирована.</tu>
+	<tu xmlns:lang="esp">Fallo de programación del sistema: sin programar.</tu>
+	<tu xmlns:lang="chs">系统编程故障 - 未编程。</tu>
+	<tu xmlns:lang="kor">시스템 프로그래밍 오류 - 프로그래밍되지 않음</tu>
+</tm>

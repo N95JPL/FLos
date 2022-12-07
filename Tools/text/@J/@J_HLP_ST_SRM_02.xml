@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_SRM_02">
+	<tu
+    xmlns:lang="eng"
+  >The micro-controller, flash, memory, sirius northstar chipset and the power supply will be tested.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De microregelaar, flits, geheugen, 'sirius northstar chipset' en de elektrische voeding zullen getest worden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le microprocesseur, la mémoire Flash, le jeu de puces Sirius Northstar et l'alimentation seront vérifiés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es werden der Mikrocontroller, der Flashspeicher, der Sirius Northstar Chipsatz und die Versorgung geprüft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Vengono provati il microcontrollore, il file flash, la memoria, il chipset Sirius Northstar e l'alimentazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >マイクロコントローラ、フラッシュ、メモリ、Sirius Northstar チップセットおよび電源供給がテストされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >São testados o microcontrolador, a memória 'flash', a memória, o grupo de chips 'sirius northstar' e a alimentação de tensão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O micro-controlador, flash, a memória, o chipset Sirius northstar e o fornecimento de energia serão testados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Будет выполнена проверка микроконтроллера, флэш-памяти, памяти, чипсета sirius northstar и источника питания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se comprobarán el microcontrolador, la memoria flash, la memoria, el chipset Sirius Northstar y la alimentación eléctrica.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'将对微型控制器、闪存、存储器、天狼星北极星芯片组以及电源进行测试。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >마이크로컨트롤러, 플래시, 메모리, Sirius Northstar 칩셋 및 전원 공급 장치가 테스트됩니다.</tu>
+</tm>

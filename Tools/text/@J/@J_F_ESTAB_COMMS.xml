@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_ESTAB_COMMS">
+	<tu xmlns:lang="eng">Failed to establish communications.</tu>
+	<tu xmlns:lang="nld">Het tot stand brengen van communicatie is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec d'établissement des communications.</tu>
+	<tu xmlns:lang="deu">Kommunikation konnte nicht hergestellt werden.</tu>
+	<tu xmlns:lang="ita">Instaurazione comunicazioni non riuscita.</tu>
+	<tu xmlns:lang="jpn">通信確立に失敗</tu>
+	<tu xmlns:lang="ptg">Estabelecimento de comunicações falhou.</tu>
+	<tu xmlns:lang="ptb">Falha em estabelecer as comunicações.</tu>
+	<tu xmlns:lang="rus">Не удалось установить связь.</tu>
+	<tu xmlns:lang="esp">No se pudo establecer la comunicación.</tu>
+	<tu xmlns:lang="chs">建立通讯失败。</tu>
+	<tu xmlns:lang="kor">통신 설정 실패</tu>
+</tm>

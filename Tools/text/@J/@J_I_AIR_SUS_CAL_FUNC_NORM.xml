@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AIR_SUS_CAL_FUNC_NORM">
+	<tu
+    xmlns:lang="eng"
+  >The air suspension unit must already be calibrated and functioning normally.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De luchtvering moet reeds gekalibreerd zijn en normaal functioneren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'unité de suspension pneumatique doit déjà être calibrée et fonctionner normalement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Luftfederungs-Steuergerät muss schon kalibriert sein und normal arbeiten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'unità delle sospensioni pneumatiche deve essere già tarata e funzionante normalmente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エア サスペンション ユニットはすでにキャリブレーションされ正常に機能\していなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A unidade da suspensão pneumática já tem de estar calibrada e a funcionar normalmente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A suspensão a ar já deve estar calibrada e funcionando normalmente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок пневматической подвески должен быть уже откалиброван и нормально функционировать.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La unidad de la suspensión neumática ya debe de estar calibrada y funcionando correctamente.</tu>
+	<tu xmlns:lang="chs">空气悬架单元必须完成标定、而且工作正常。</tu>
+	<tu
+    xmlns:lang="kor"
+  >에어 서스펜션 유닛이 이미 보정되어 정상적으로 작동하고 있어야 합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ETHAN_FUEL_CAP">
+	<tu xmlns:lang="eng">Ethanol fuel capability</tu>
+	<tu xmlns:lang="nld">Vermogen om ethanolbrandstof te gebruiken</tu>
+	<tu xmlns:lang="fra">Alimentation carburant éthanol</tu>
+	<tu xmlns:lang="deu">Kann mit Ethanol betrieben werden</tu>
+	<tu xmlns:lang="ita">Capacità di funzionamento a metanolo</tu>
+	<tu xmlns:lang="jpn">エタノール燃料性能\</tu>
+	<tu xmlns:lang="ptg">Capacidade para combustível com etanol</tu>
+	<tu xmlns:lang="ptb">Capacidade de combustível etanol</tu>
+	<tu xmlns:lang="rus">Комплектация для работы на топливе Е-85 (этанол)</tu>
+	<tu xmlns:lang="esp">Motor de etanol</tu>
+	<tu xmlns:lang="chs">乙醇燃料容量</tu>
+	<tu xmlns:lang="kor">에탄올 연료 기능</tu>
+</tm>

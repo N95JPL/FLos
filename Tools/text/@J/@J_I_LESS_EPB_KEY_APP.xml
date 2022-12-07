@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_EPB_KEY_APP">
+	<tu xmlns:lang="eng">Without key out apply</tu>
+	<tu xmlns:lang="nld">Zonder handrem aantrekken bij sleutel uit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sans serrage du frein de stationnement avec la clé retirée</tu>
+	<tu xmlns:lang="deu">Ohne Anlegen bei Abziehen des Schlüssels</tu>
+	<tu
+    xmlns:lang="ita"
+  >Senza attivazione freno di stazionamento all'estrazione della chiave</tu>
+	<tu xmlns:lang="jpn">キー アウト オンなし</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sem aplicação do travão de mão quando a chave é retirada</tu>
+	<tu xmlns:lang="ptb">Sem aplicação de chave ausente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Без функции включения стояночного тормоза при извлечении ключа из замка зажигания</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sin activar el freno de estacionamiento al retirar la llave</tu>
+	<tu xmlns:lang="chs">无钥匙拔出实施</tu>
+	<tu xmlns:lang="kor">키 아웃 작동 불포함</tu>
+</tm>

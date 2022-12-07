@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ReferTOPIX414">
+	<tu
+    xmlns:lang="eng"
+  >Run 'battery - power supply service mode diagnostic' and follow the instructions.  If no fault is present refer to TOPIx section 414-01, diagnosis and testing, battery.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer 'Accu - Diagnose voedingsservicemodus' uit en volg de instructies. Als er geen storing aanwezig is, raadpleeg dan TOPIx sectie 414-01, Diagnose en testen, Accu.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Exécuter Batterie - mode Entretien du service d'alimentation et suivre les instructions. Si aucun défaut n'est détecté, se reporter à la section TOPIx 414-01, Diagnostics et tests, batterie.</tu>
+	<tu
+    xmlns:lang="deu"
+  >„Batterie – Versorgung, Servicemodus Diagnose“ ausführen und den Anweisungen folgen. Wenn kein Fehler vorhanden ist, siehe TOPIx, Abschnitt 414-01, Diagnose und Prüfung, Batterie.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Eseguire Diagnostica Service Mode alimentazione-batteria e seguire le istruzioni. In assenza di guasti, fare riferimento alla sezione 414-01 di TOPIx, Diagnosi e prove, batteria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >「バッテリー - 電源サービス モード診断」を実行して、指示に従います。 不具合がない場合は、TOPIx セクション 414-01 「診断およびテスト、バッテリー」を参照してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Execute o diagnóstico do modo de assistência da bateria/fonte de alimentação e siga as instruções. Se não se encontrar nenhuma avaria presente, consulte a secção 414-01 do TOPIx, diagnóstico e teste, bateria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Execute battery - power supply service mode diagnostic (Bateria - Diagnóstico do modo de serviço da fonte de alimentação) e siga as instruções. Se nenhuma falha estiver presente consulte o TOPIx, seção 414-01, Diagnóstico e Testes, bateria.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запустите Аккумуляторная батарея – Диагностика режима обслуживания системы электропитания и следуйте указаниям. Если исправность устранена, обратитесь к разделу TOPIx 414-01 Диагностика и проверка аккумуляторной батареи.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ejecute Batería - Diagnóstico de modo de servicio del sistema de alimentación y siga las instrucciones. Si no hay fallos presentes, consulte en TOPIx la sección 414-01: Diagnóstico y comprobación de la batería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >运行“蓄电池 - 电源服务模式诊断”，并遵照说明操作。 如果不存在故障，请参阅 TOPIx 第 414-01 节：诊断和测试 - 蓄电池。</tu>
+	<tu
+    xmlns:lang="kor"
+  >'배터리 - 전원 공급 장치 서비스 모드 진단'을 실행하고 지침을 따르십시오. 아무런 고장도 없을 경우 TOPIx 섹션 414-01, 진단 및 테스트, 배터리를 참조하십시오.</tu>
+</tm>

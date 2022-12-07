@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@POLICE_MAIN_BEAM_ACTIVE">
+	<tu xmlns:lang="eng">Police vehicle - activate high beam</tu>
+	<tu xmlns:lang="nld">Politievoertuig - grootlicht inschakelen.</tu>
+	<tu xmlns:lang="fra">Véhicule de police - activation des feux de route.</tu>
+	<tu xmlns:lang="deu">Polizeifahrzeug - Fernlicht aktivieren</tu>
+	<tu xmlns:lang="ita">Veicolo polizia - attivare faro abbagliante</tu>
+	<tu xmlns:lang="jpn">警察車両 - ハイビーム作動</tu>
+	<tu xmlns:lang="ptg">Veículo de polícia - activar faróis de máximos</tu>
+	<tu xmlns:lang="ptb">Veículo policial - ativar farol alto</tu>
+	<tu xmlns:lang="rus">Полицейский автомобиль - включить дальний свет</tu>
+	<tu xmlns:lang="esp">Vehículo policial: activar luz larga</tu>
+	<tu xmlns:lang="chs">警车 - 开启远光灯</tu>
+	<tu xmlns:lang="kor">경찰차 - 하이 빔 작동</tu>
+</tm>

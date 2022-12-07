@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SwitchIgnitionOn$A">
+	<tu xmlns:lang="eng">Switch the ignition on.</tu>
+	<tu xmlns:lang="nld">Zet het contact aan</tu>
+	<tu xmlns:lang="fra">Mettez le contact</tu>
+	<tu xmlns:lang="deu">Zündung einschalten</tu>
+	<tu xmlns:lang="ita">Inserisci l'accensione</tu>
+	<tu xmlns:lang="jpn">イグニションをオンにしなさい。</tu>
+	<tu xmlns:lang="ptg">Ligar a ignição.</tu>
+	<tu xmlns:lang="ptb">Ligue a ignição.</tu>
+	<tu xmlns:lang="rus">Включить зажигание.</tu>
+	<tu xmlns:lang="esp">Dar el contacto</tu>
+	<tu xmlns:lang="chs">打开点火开关。</tu>
+	<tu xmlns:lang="kor">점화 스위치를 켜십시오.</tu>
+</tm>

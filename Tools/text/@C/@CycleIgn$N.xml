@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CycleIgn$N">
+	<tu xmlns:lang="eng">Cycle the ignition.</tu>
+	<tu xmlns:lang="nld">Zet het contact aan en uit.</tu>
+	<tu xmlns:lang="fra">Effectuez un cycle d'allumage</tu>
+	<tu xmlns:lang="deu">Zündung</tu>
+	<tu xmlns:lang="ita">Eseguire un ciclo di accensione</tu>
+	<tu xmlns:lang="jpn">イグニションを反復して下さい。</tu>
+	<tu xmlns:lang="ptg">Efectuar o ciclo da ignição.</tu>
+	<tu xmlns:lang="ptb">Complete o ciclo de ignição.</tu>
+	<tu xmlns:lang="rus">Выполните цикл включения зажигания.</tu>
+	<tu xmlns:lang="esp">Dar y cortar el contacto.</tu>
+	<tu xmlns:lang="chs">进入点火循环。</tu>
+	<tu xmlns:lang="kor">점화 스위치 사이클을 수행합니다.</tu>
+</tm>

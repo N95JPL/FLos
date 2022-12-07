@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SlideRoofFailed">
+	<tu xmlns:lang="eng">Sliding roof initialization failed.</tu>
+	<tu xmlns:lang="nld">De initialisatie van het schuifdak is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec d'initialisation du toit ouvrant.</tu>
+	<tu xmlns:lang="deu">Schiebedach-Initialisierung nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Inizializzazione tettuccio scorrevole non riuscita.</tu>
+	<tu xmlns:lang="jpn">スライディング ルーフの初期化に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Inicialização do tecto de abrir falhou.</tu>
+	<tu xmlns:lang="ptb">Falha na inicialização do teto deslizante.</tu>
+	<tu xmlns:lang="rus">Не удалось выполнить инициализацию сдвижного верха.</tu>
+	<tu xmlns:lang="esp">Falló la inicialización del techo deslizante.</tu>
+	<tu xmlns:lang="chs">活动顶蓬初始化失败。</tu>
+	<tu xmlns:lang="kor">슬라이딩 루프 초기화 실패</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_FIT_CORR_PART">
+	<tu xmlns:lang="eng">Please fit the correct specification part.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Monteer a.u.b. het onderdeel met de juiste specificaties.</tu>
+	<tu xmlns:lang="fra">Veuillez monter la pièce conforme aux spécifications.</tu>
+	<tu xmlns:lang="deu">Bitte das spezifikationsgemäß korrekte Teil einbauen.</tu>
+	<tu xmlns:lang="ita">Montare il componente con specifica corretta.</tu>
+	<tu xmlns:lang="jpn">正しい仕様のパーツを取り付けなさい。</tu>
+	<tu xmlns:lang="ptg">Favor montar a peça com a especificação correcta.</tu>
+	<tu xmlns:lang="ptb">Encaixe a peça de especificação correta.</tu>
+	<tu xmlns:lang="rus">Установите надлежащие детали.</tu>
+	<tu xmlns:lang="esp">Monte una pieza con la especificación correcta.</tu>
+	<tu xmlns:lang="chs">请安装正确规格的零件。</tu>
+	<tu xmlns:lang="kor">올바른 사양의 부품을 장착하십시오.</tu>
+</tm>

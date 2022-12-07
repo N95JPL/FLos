@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_APP_FORCE_DIES_PART_FLTR">
+	<tu
+    xmlns:lang="eng"
+  >This application carries out a forced diesel particulate filter dynamic regeneration.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing voert een gedwongen dynamische regeneratie van het dieseldeeltjesfilter uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application exécute une régénération dynamique forcée du filtre à particules diesel.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Programm führt eine erzwungene dynamische Regenerierung des Dieselrußfilters durch.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione esegue una rigenerazione dinamica forzata del filtro antiparticolato per diesel.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは強制ディーゼル微粒子フィルター (DPF) ダイナミック再生を実行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação realiza uma regeneração dinâmica forçada do filtro de partículas do sistema Diesel.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo executa uma regeneração dinâmica do filtro de partículas de diesel forçado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение производит принудительную динамическую регенерацию противосажевого фильтра.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación realiza una regeneración dinámica forzada del filtro de partículas Diesel.</tu>
+	<tu xmlns:lang="chs">此应用程序执行柴油微粒过滤器强制动态再生。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 강제 디젤 미립자 필터 동적 재생을 수행합니다.</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_SIA_INTER">
+	<tu xmlns:lang="eng">No service interval announcer interval</tu>
+	<tu xmlns:lang="nld">Geen aankondiging van onderhoudsinterval</tu>
+	<tu xmlns:lang="fra">Pas d'annonce de périodicité d'entretien</tu>
+	<tu xmlns:lang="deu">Kein Intervall - Wartungsintervallanzeige</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nessun intervallo segnalazione intervallo di manutenzione</tu>
+	<tu xmlns:lang="jpn">サービス インターバル告知インターバルなし</tu>
+	<tu xmlns:lang="ptg">Sem intervalo do avisador de revisões</tu>
+	<tu xmlns:lang="ptb">Sem intervalo de serviço, intervalo do anunciador</tu>
+	<tu xmlns:lang="rus">Без сигнализатора интервала периодичности обслуживания</tu>
+	<tu xmlns:lang="esp">No tiene anunciador del intervalo entre revisiones</tu>
+	<tu xmlns:lang="chs">无维修间隔发布器间隔</tu>
+	<tu xmlns:lang="kor">서비스 주기 알림 주기 없음</tu>
+</tm>

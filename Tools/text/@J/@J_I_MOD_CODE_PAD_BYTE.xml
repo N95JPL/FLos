@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOD_CODE_PAD_BYTE">
+	<tu xmlns:lang="eng">Module code padding bytes</tu>
+	<tu xmlns:lang="nld">Padding bytes van modulecode</tu>
+	<tu xmlns:lang="fra">Octets de remplissage du code du module</tu>
+	<tu xmlns:lang="deu">Modulcode-Füllbytes</tu>
+	<tu xmlns:lang="ita">Digitazione da tastiera del codice modulo, byte</tu>
+	<tu xmlns:lang="jpn">モジュール コード付加バイト</tu>
+	<tu xmlns:lang="ptg">Bytes de preenchimento do código do módulo</tu>
+	<tu xmlns:lang="ptb">Bytes de enchimento do código do módulo</tu>
+	<tu xmlns:lang="rus">Заполняющие байты кода блока</tu>
+	<tu xmlns:lang="esp">Bytes de relleno del código del módulo</tu>
+	<tu xmlns:lang="chs">模块代码填充字节</tu>
+	<tu xmlns:lang="kor">모듈 코드 패딩 바이트</tu>
+</tm>

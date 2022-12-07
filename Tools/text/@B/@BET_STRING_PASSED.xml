@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BET_STRING_PASSED">
+	<tu
+    xmlns:lang="eng"
+  >Variant coding and characteristics have been programmed to the electronic control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De variantcodering en karakteristieken zijn nu in de elektronische regelmodule geprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le codage de variante et les caractéristiques ont été programmés dans le module de commande électronique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Variantencodierung und Ansprechverhalten wurden in das elektronische Steuergerät einprogrammiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La codifica e le caratteristiche versione sono state programmate nell'unità di comando elettronica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モデル コードおよび特性がエレクトロニック コントロール ユニットにプログラムされました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O código e as características de versão foram programados na unidade electrónica de controlo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Codificação variante e características foram programadas para a unidade de controle eletrônico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Характеристики и кодирование варианта были запрограммированы в электронном блоке управления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se han programado en el módulo de control electrónico las características y el código de variante.</tu>
+	<tu xmlns:lang="chs">变型车编码与特性已设置到了电子控制单元。</tu>
+	<tu
+    xmlns:lang="kor"
+  >변종 모델 코딩과 특성이 전자 컨트롤 유닛에 프로그래밍되었습니다.</tu>
+</tm>

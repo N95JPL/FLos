@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RIGHT_OB_DETECT_DATA">
+	<tu xmlns:lang="eng">Right side object detection system history data</tu>
+	<tu
+    xmlns:lang="nld"
+  >Historische gegevens van voorwerpdetectiesysteem aan rechterkant</tu>
+	<tu
+    xmlns:lang="fra"
+  >Données sur l'historique du système de détection d'objets côté droit</tu>
+	<tu xmlns:lang="deu">Objekterfassungssystem rechts - Verlaufsdaten</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dati cronologici sistema di rilevamento oggetto lato destro</tu>
+	<tu xmlns:lang="jpn">右側障害物検出システム履歴データ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Dados históricos do sistema de detecção de objectos do lado direito</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Dados do histórico do sistema de detecção objetos no lado direito</tu>
+	<tu xmlns:lang="rus">Журнал данных системы обнаружения объектов справа</tu>
+	<tu
+    xmlns:lang="esp"
+  >Datos del historial del sistema de detección de objetos del lado derecho</tu>
+	<tu xmlns:lang="chs">右侧物体探测系统历史数据</tu>
+	<tu xmlns:lang="kor">우측 측면 장애물 감지 시스템 기록 데이터</tu>
+</tm>

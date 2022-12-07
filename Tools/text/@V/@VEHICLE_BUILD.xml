@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VEHICLE_BUILD">
+	<tu xmlns:lang="eng">Vehicle build</tu>
+	<tu xmlns:lang="nld">Voertuigfabricage.</tu>
+	<tu xmlns:lang="fra">Fabrication du véhicule.</tu>
+	<tu xmlns:lang="deu">Fahrzeugfertigung</tu>
+	<tu xmlns:lang="ita">Fabbricazione veicolo</tu>
+	<tu xmlns:lang="jpn">車両生産</tu>
+	<tu xmlns:lang="ptg">Fabrico do veículo</tu>
+	<tu xmlns:lang="ptb">Incorporado ao veículo</tu>
+	<tu xmlns:lang="rus">Сборка автомобиля</tu>
+	<tu xmlns:lang="esp">Fabricación del vehículo</tu>
+	<tu xmlns:lang="chs">车辆制造</tu>
+	<tu xmlns:lang="kor">차량 제조</tu>
+</tm>

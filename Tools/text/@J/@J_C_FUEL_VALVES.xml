@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_FUEL_VALVES">
+	<tu xmlns:lang="eng">Fuel valves</tu>
+	<tu xmlns:lang="nld">Brandstofkleppen</tu>
+	<tu xmlns:lang="fra">Vannes de carburant</tu>
+	<tu xmlns:lang="deu">Kraftstoffventile</tu>
+	<tu xmlns:lang="ita">Valvole carburante</tu>
+	<tu xmlns:lang="jpn">フュエル バルブ</tu>
+	<tu xmlns:lang="ptg">Válvulas de combustível</tu>
+	<tu xmlns:lang="ptb">Válvulas de combustível</tu>
+	<tu xmlns:lang="rus">Топливные клапаны</tu>
+	<tu xmlns:lang="esp">Válvulas de combustible</tu>
+	<tu xmlns:lang="chs">燃油阀</tu>
+	<tu xmlns:lang="kor">연료 밸브</tu>
+</tm>

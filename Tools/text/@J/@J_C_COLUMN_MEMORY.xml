@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_COLUMN_MEMORY">
+	<tu xmlns:lang="eng">Steering column memory</tu>
+	<tu xmlns:lang="nld">Stuurkolomgeheugen</tu>
+	<tu xmlns:lang="fra">Mémoire de colonne de direction</tu>
+	<tu xmlns:lang="deu">Positionsspeicher - Lenksäule</tu>
+	<tu xmlns:lang="ita">Memoria piantone sterzo</tu>
+	<tu xmlns:lang="jpn">ステアリング コラム メモリ</tu>
+	<tu xmlns:lang="ptg">Memória da coluna da direcção</tu>
+	<tu xmlns:lang="ptb">Memória da coluna de direção</tu>
+	<tu xmlns:lang="rus">ЗУ рулевой колонки</tu>
+	<tu xmlns:lang="esp">Memoria de la columna de la dirección</tu>
+	<tu xmlns:lang="chs">转向柱存储器</tu>
+	<tu xmlns:lang="kor">스티어링 칼럼 메모리</tu>
+</tm>

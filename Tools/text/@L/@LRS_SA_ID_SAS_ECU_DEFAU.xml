@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_SA_ID_SAS_ECU_DEFAU">
+	<tu
+    xmlns:lang="eng"
+  >If the steering angle identification cannot be read from the steering angle sensor electronic control unit it will be read from the ABS electronic control unit, or a random or default value will be used.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het systeem de identificatie van de stuuruitslag niet uit de elektronische regelmodule van de stuuruitslagsensor kan uitlezen, zal het de identificatie uit de elektronische ABS-regelmodule lezen, of zal het systeem een willekeurige of standaard waarde gebruiken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si l'identification d'angle de direction ne peut pas être lue par le module de commande électronique de capteur d'angle de direction, elle sera lue par le module de commande électronique ABS, ou bien une valeur par défaut ou aléatoire sera utilisée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kann die Lenkwinkelidentifikation nicht aus dem elektronischen Lenkwinkelsensor-Steuergerät ausgelesen werden, wird sie aus dem elektronischen ABS-Steuergerät ausgelesen oder es wird ein beliebiger oder Vorgabewert herangezogen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se non è possibile leggere l'identificativo dell'angolo di sterzata dall'unità di comando elettronica sensore angolo di sterzata, esso verrà letto dall'unità di comando elettronica ABS oppure verrà usato un valore casuale o di default.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング アングル センサー エレクトロニック コントロール ユニットからステアリング アングル ID を読み取れない場合、ID は ABS エレクトロニック コントロール ユニットから読み取られるか、あるいはランダム数値またはデフォルト数値が使用されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se não for possível efectuar a leitura da identificação do ângulo da direcção a partir da unidade electrónica de controlo do sensor do ângulo da direcção, essa leitura será efectuada a partir da unidade electrónica de controlo do ABS, ou então será usado um valor aleatório ou pré-definido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a identificação do ângulo de direção não puder ser lida a partir da unidade de controle eletrônico do sensor de ângulo da direção, ele será lido na unidade de controle eletrônico do ABS, ou um valor aleatório ou padrão será usado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если идентификация угла поворота не считывается из электронного блока управления датчиком угла поворота, она будет считана из электронного блока управления ABS, или будет использовано случайное значение или значение по умолчанию.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si no se puede leer la identificación del ángulo de la dirección en el módulo de control electrónico del sensor del ángulo de la dirección, se leerá en el módulo de control electrónico del ABS o se utilizará un valor aleatorio o prefijado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'如果不能从转向角传感器电子控制单元读取转向角标识，将从 ABS 电子控制单元读取，或者采用一个随机或默认值。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >스티어링 각도 센서 전자 컨트롤 유닛에서 스티어링 각도 식별 정보를 읽을 수 없는 경우, ABS 전자 컨트롤 유닛에서 읽거나 무작위 값 또는 기본값이 사용됩니다.</tu>
+</tm>

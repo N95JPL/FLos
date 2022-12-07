@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CENT_SPEAK_DASH">
+	<tu xmlns:lang="eng">Center speaker, dashboard</tu>
+	<tu xmlns:lang="nld">Middenluidspreker, dashboard</tu>
+	<tu xmlns:lang="fra">Haut-parleur central, planche de bord</tu>
+	<tu xmlns:lang="deu">Mittlerer Lautsprecher, Armaturenbrett</tu>
+	<tu xmlns:lang="ita">Altoparlante centrale, plancia</tu>
+	<tu xmlns:lang="jpn">センター スピーカー、ダッシュボード</tu>
+	<tu xmlns:lang="ptg">Altifalante central, painel de instrumentos</tu>
+	<tu xmlns:lang="ptb">Alto-falante central, painel</tu>
+	<tu xmlns:lang="rus">Центральный динамик, панель приборов</tu>
+	<tu xmlns:lang="esp">Altavoz central, tablero de instrumentos</tu>
+	<tu xmlns:lang="chs">仪表板中央扬声器</tu>
+	<tu xmlns:lang="kor">중앙 스피커, 대시보드</tu>
+</tm>

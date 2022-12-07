@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_POW_SUP_SERV_MODE_DIAG">
+	<tu xmlns:lang="eng">Power supply service mode diagnostic</tu>
+	<tu xmlns:lang="nld">Diagnose van voedingservicemodus</tu>
+	<tu xmlns:lang="fra">Diagnostic du mode service d'alimentation</tu>
+	<tu xmlns:lang="deu">Versorgung, Servicemodus - Diagnose</tu>
+	<tu
+    xmlns:lang="ita"
+  >Diagnostica modalità servizio di alimentazione elettrica</tu>
+	<tu xmlns:lang="jpn">電源供給サービス モード診断</tu>
+	<tu xmlns:lang="ptg">Alimentação modo de assistência - diagnóstico</tu>
+	<tu xmlns:lang="ptb">Diagnóstico do modo de serviço da fonte de alimentação</tu>
+	<tu xmlns:lang="rus">Диагностика режима обслуживания системы электропитания</tu>
+	<tu
+    xmlns:lang="esp"
+  >Diagnosis de modo de servicio del sistema de alimentación</tu>
+	<tu xmlns:lang="chs">电源供电维修模式诊断</tu>
+	<tu xmlns:lang="kor">전원 공급 장치 서비스 모드 진단</tu>
+</tm>

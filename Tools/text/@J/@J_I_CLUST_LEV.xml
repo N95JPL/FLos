@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CLUST_LEV">
+	<tu xmlns:lang="eng">Cluster level</tu>
+	<tu xmlns:lang="nld">Clusterniveau</tu>
+	<tu xmlns:lang="fra">Niveau tableau de bord</tu>
+	<tu xmlns:lang="deu">Niveau Kombiinstrument</tu>
+	<tu xmlns:lang="ita">Livello gruppo strumenti</tu>
+	<tu xmlns:lang="jpn">クラスタ レベル</tu>
+	<tu xmlns:lang="ptg">Versão do grupo de instrumentos</tu>
+	<tu xmlns:lang="ptb">Nível do conjunto</tu>
+	<tu xmlns:lang="rus">Исполнение панели приборов</tu>
+	<tu xmlns:lang="esp">Nivel del cuadro</tu>
+	<tu xmlns:lang="chs">组合级别</tu>
+	<tu xmlns:lang="kor">클러스터 레벨</tu>
+</tm>

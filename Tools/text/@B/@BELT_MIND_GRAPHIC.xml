@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BELT_MIND_GRAPHIC">
+	<tu xmlns:lang="eng">Safety belt minder seat graphics</tu>
+	<tu
+    xmlns:lang="nld"
+  >Symbolen voor waarschuwing dat een veiligheidsgordel niet is omgedaan</tu>
+	<tu xmlns:lang="fra">Symboles de siège de rappel de ceinture de sécurité</tu>
+	<tu xmlns:lang="deu">Sicherheitsgurtwarnung ? Sitzsymbol</tu>
+	<tu xmlns:lang="ita">Simbolo sedile avvertenza cintura di sicurezza</tu>
+	<tu xmlns:lang="jpn">シートベルト マインダー シート表\示灯</tu>
+	<tu xmlns:lang="ptg">Símbolo do aviso do cinto de segurança</tu>
+	<tu xmlns:lang="ptb">Gráficos de lembrete do cinto de segurança</tu>
+	<tu
+    xmlns:lang="rus"
+  >Графическое изображение сигнализатора не пристёгнутого ремня безопасности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Símbolo de aviso del cinturón de seguridad en el asiento</tu>
+	<tu xmlns:lang="chs">座椅安全带提醒器图片</tu>
+	<tu xmlns:lang="kor">안전 벨트 마인더 시트 그래픽</tu>
+</tm>

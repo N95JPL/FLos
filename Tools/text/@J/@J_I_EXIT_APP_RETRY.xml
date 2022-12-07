@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EXIT_APP_RETRY">
+	<tu xmlns:lang="eng">Exit application and retry.</tu>
+	<tu xmlns:lang="nld">Verlaat de toepassing en probeer het opnieuw.</tu>
+	<tu xmlns:lang="fra">Quittez l'application et réessayez.</tu>
+	<tu xmlns:lang="deu">Anwendung verlassen und erneut versuchen.</tu>
+	<tu xmlns:lang="ita">Uscire dall'applicazione e riprovare.</tu>
+	<tu xmlns:lang="jpn">アプリケーションを終了し再試行しなさい。</tu>
+	<tu xmlns:lang="ptg">Saia da aplicação e tente executá-la de novo.</tu>
+	<tu xmlns:lang="ptb">Saia do aplicativo e tente novamente.</tu>
+	<tu xmlns:lang="rus">Выйдите из приложения и повторите еще раз.</tu>
+	<tu xmlns:lang="esp">Salir de la aplicación e intentarlo otra vez.</tu>
+	<tu xmlns:lang="chs">退出应用程序并再试。</tu>
+	<tu xmlns:lang="kor">애플리케이션을 종료했다가 다시 시도하십시오.</tu>
+</tm>

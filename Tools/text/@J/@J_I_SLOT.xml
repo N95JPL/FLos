@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SLOT">
+	<tu xmlns:lang="eng">Slot %i</tu>
+	<tu xmlns:lang="nld">Gleuf %i</tu>
+	<tu xmlns:lang="fra">Fente %i</tu>
+	<tu xmlns:lang="deu">Platz %i</tu>
+	<tu xmlns:lang="ita">Slot %i</tu>
+	<tu xmlns:lang="jpn">スロット %i</tu>
+	<tu xmlns:lang="ptg">Ranhura %i</tu>
+	<tu xmlns:lang="ptb">Encaixe %i</tu>
+	<tu xmlns:lang="rus">Слот %i</tu>
+	<tu xmlns:lang="esp">Ranura %i</tu>
+	<tu xmlns:lang="chs">槽口%i</tu>
+	<tu xmlns:lang="kor">슬롯 %i</tu>
+</tm>

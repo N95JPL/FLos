@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ELEC_ALIGN_STATE">
+	<tu xmlns:lang="eng">Electronic alignment state</tu>
+	<tu xmlns:lang="nld">Status van elektronische uitlijning</tu>
+	<tu xmlns:lang="fra">Etat de l'alignement électronique</tu>
+	<tu xmlns:lang="deu">Status der elektronischen Ausrichtung</tu>
+	<tu xmlns:lang="ita">Stato di allineamento elettronico</tu>
+	<tu xmlns:lang="jpn">エレクトロニック アライメント ステータス</tu>
+	<tu xmlns:lang="ptg">Estado do alinhamento electrónico</tu>
+	<tu xmlns:lang="ptb">Estado do alinhamento eletrônico</tu>
+	<tu xmlns:lang="rus">Состояние электронной подстройки</tu>
+	<tu xmlns:lang="esp">Estado de alineación electrónica</tu>
+	<tu xmlns:lang="chs">电子校准状态</tu>
+	<tu xmlns:lang="kor">전자식 정렬 상태</tu>
+</tm>

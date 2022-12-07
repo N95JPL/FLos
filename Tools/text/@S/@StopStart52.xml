@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart52">
+	<tu
+    xmlns:lang="eng"
+  >The primary battery temperature must be between minus 3°C  (27°F) and plus 50°C (122°F).</tu>
+	<tu
+    xmlns:lang="nld"
+  >De temperatuur van de primaire accu moet tussen min 3°C (27°F) en plus 50°C (122°F) liggen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La température de la batterie principale doit se situer entre -3 °C et +50 °C.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Temperatur der Hauptbatterie muss zwischen -3 °C und 50 °C liegen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La temperatura della batteria principale deve essere compresa tra 3 °C e oltre 50 °C.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プライマリ バッテリーの温度はマイナス 3ﾟC (27ﾟF) からプラス 50ﾟC (122ﾟF) の間でなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A temperatura da bateria primária deve situar-se entre 3 °C (27 °F) negativos e 50 °C (122 °F) positivos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A temperatura da bateria primária deve estar entre menos 3°C (27°F) e mais 50°C (122°F).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Температура основной аккумуляторной батареи должна находиться в диапазоне: от минус 3 °C (27 °F) до плюс 50 °C (122 °F).</tu>
+	<tu
+    xmlns:lang="esp"
+  >La temperatura de la batería principal debe estar comprendida entre -3 °C (27 °F) y 50 °C (122 °F).</tu>
+	<tu
+    xmlns:lang="chs"
+  >主蓄电池温度必须在负 3°C (27°F) 和正 50°C (122°F) 之间。</tu>
+	<tu
+    xmlns:lang="kor"
+  >기본 배터리 온도는 -3°C (27°F)에서 +50°C(122°F) 사이여야 합니다.</tu>
+</tm>

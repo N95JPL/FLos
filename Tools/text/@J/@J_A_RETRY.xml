@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_RETRY">
+	<tu xmlns:lang="eng">Please retry.</tu>
+	<tu xmlns:lang="nld">Nogmaals proberen</tu>
+	<tu xmlns:lang="fra">Veuillez réessayer</tu>
+	<tu xmlns:lang="deu">Bitte wiederholen</tu>
+	<tu xmlns:lang="ita">Riprovare</tu>
+	<tu xmlns:lang="jpn">再度トライしてください。</tu>
+	<tu xmlns:lang="ptg">Voltar a tentar.</tu>
+	<tu xmlns:lang="ptb">Tente novamente.</tu>
+	<tu xmlns:lang="rus">Попробуйте еще раз.</tu>
+	<tu xmlns:lang="esp">Probar de nuevo</tu>
+	<tu xmlns:lang="chs">请再试一次。</tu>
+	<tu xmlns:lang="kor">다시 시도하십시오.</tu>
+</tm>

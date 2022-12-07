@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_PSS_SERVICE_MODE_RESULTS">
+	<tu
+    xmlns:lang="eng"
+  >Battery monitoring system  -  Power supply system service mode results</tu>
+	<tu
+    xmlns:lang="nld"
+  >Accucontrolesysteem  -  Uitkomsten van de onderhoudsfunctie van de stroomvoorziening</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système de surveillance de la batterie  -  Résultats du mode service du système d'alimentation</tu>
+	<tu
+    xmlns:lang="deu"
+  >Batterieüberwachungssystem  -  Versorgungssystem - Ergebnisse Servicemodus</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema di monitoraggio batteria  -  Risultati della modalità servizio sistema di alimentazione elettrica</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリ モニタリング システム  －  電源供給システム サービス モードの結果</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de monitorização da bateria  -  Resultados do modo de assistência do sistema de alimentação</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de monitoramento de bateria  -  Resultados do modo de serviço do sistema da fonte de alimentação</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система контроля аккумуляторной батареи  -  Результаты режима обслуживания системы электропитания</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistema de control de la batería  -  Resultados del modo de servicio del sistema de alimentación</tu>
+	<tu xmlns:lang="chs">蓄电池监控系统  -  电源供电系统维修模式结果</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리 모니터링 시스템  -  전원 공급 시스템 서비스 모드 결과</tu>
+</tm>

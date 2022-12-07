@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_UNLOCK_SIX">
+	<tu xmlns:lang="eng">Configurable unlocking  -  Configuration six</tu>
+	<tu xmlns:lang="nld">Configureerbaar ontgrendelen  -  Configuratie zes</tu>
+	<tu xmlns:lang="fra">Déverrouillage configurable  -  Configuration six</tu>
+	<tu xmlns:lang="deu">Konfigurierbare Entriegelung  -  Konfiguration sechs</tu>
+	<tu xmlns:lang="ita">Sbloccaggio configurabile  -  Configurazione sei</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コンフィギュレーション可能\なアンロッキング  －  コンフィギュレーション 6</tu>
+	<tu xmlns:lang="ptg">Destrancagem configurável  -  Configuração seis</tu>
+	<tu xmlns:lang="ptb">Destravamento configurável  -  Configuração 6</tu>
+	<tu xmlns:lang="rus">Настраиваемое отпирание  -  Конфигурация 6</tu>
+	<tu xmlns:lang="esp">Desbloqueo configurable  -  Configuración seis</tu>
+	<tu xmlns:lang="chs">可配置的解锁  -  配置六</tu>
+	<tu xmlns:lang="kor">구성 가능한 잠금 해제  -  구성 6</tu>
+</tm>

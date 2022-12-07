@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckConditionsOnLeft">
+	<tu
+    xmlns:lang="eng"
+  >Make sure that all the conditions on the left side are green (except vehicle speed).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verzeker u ervan dat alle voorwaarden aan de linkerkant op groen staan (behalve de voertuigsnelheid).</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'assurer que tous les voyants d'état côté gauche sont de couleur verte (à l'exception de la vitesse du véhicule).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass alle Bedingungen auf der linken Seite grün sind (außer der Fahrzeuggeschwindigkeit).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che tutti gli stati sul lato sinistro siano di colore verde (tranne la velocità del veicolo).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >左側のすべての条件 (車速以外) が緑色になっていることを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que todas as condições no lado esquerdo são apresentadas a verde (exceto a velocidade do veículo).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que todas as condições no lado esquerdo fiquem verdes (exceto, a velocidade do veículo).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что все условия на левой стороне помечены зеленым цветом (кроме скорости автомобиля).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que todas las condiciones del lado izquierdo están en color verde (excepto la velocidad del vehículo).</tu>
+	<tu xmlns:lang="chs">确保左侧的所有条件为绿色（车速除外）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >(차량 속도를 제외하고) 좌측의 모든 상태가 녹색인지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart7">
+	<tu
+    xmlns:lang="eng"
+  >Incorrectly connecting either the battery support unit or a battery charger to the primary battery will cause an incorrect state of charge value.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het verkeerd aansluiten van de acculader of het aansluiten van een acculader op de primaire accu, veroorzaakt een onjuiste status van de ladingswaarde.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le branchement incorrect de l'unité de support de batterie ou d'un chargeur de batterie à la batterie principale provoque une valeur d'état de charge incorrecte.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falsches Anschließen der Batterieunterstützungseinheit oder eines Batterieladegeräts an der Hauptbatterie führt zu einem inkorrekten Ladezustandswert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Un collegamento non corretto dell'unità di supporto della batteria e del caricabatteria alla batteria principale può causare un valore non corretto dello stato di carica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリー サポート ユニットまたはバッテリー充電器とプライマリ バッテリーが正しく接続されていないと、正しい充電状態値が表示されません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligar incorretamente a unidade de suporte da bateria ou um carregador da bateria à bateria primária resulta num valor incorreto do estado de carga.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conectar incorretamente a unidade de suporte da bateria ou um carregador de bateria na bateria primária resultará em um valor de estado de carga incorreto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Неправильное подсоединение устройства поддержания заряда либо зарядного устройства к основной аккумуляторной батарее вызовет неверное отображение значения заряда.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La conexión incorrecta tanto del acondicionador de batería como del cargador de la batería en la batería principal provocará un valor incorrecto de estado de carga.</tu>
+	<tu
+    xmlns:lang="chs"
+  >将蓄电池支持单元或蓄电池充电器错误地连接至主蓄电池将导致错误的电荷状态值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리 지원 장치나 배터리 충전기를 기본 배터리에 잘못 연결하면 잘못된 충전 상태 값이 표시됩니다.</tu>
+</tm>

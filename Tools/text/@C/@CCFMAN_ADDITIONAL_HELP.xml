@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_ADDITIONAL_HELP">
+	<tu
+    xmlns:lang="eng"
+  >Additional car configuration file, tool help information can be accessed via the information icon on the toolbar.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Aanvullend voertuigconfiguratiebestand, helpinformatie programma bereikbaar via het informatiepictogram op de werkbalk.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fichier de configuration du véhicule supplémentaire, vous pouvez accéder aux informations d'aide sur l'outil par l'intermédiaire de l'icône d'information sur la barre d'outils.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zusätzliche Fahrzeug-Konfigurationsdatei, auf Hilfeinformationen zum Werkzeug kann über das Info-Symbol in der Werkzeugleiste zugegriffen werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per accedere ad altre informazioni di guida sugli strumenti e sul file di configurazione veicolo, usare l'icona Informazioni sulla barra degli strumenti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >追加の車両コンフィギュレーション ファイル、ツールのヘルプ情報には、ツールバーにある情報アイコンを使用してアクセスできます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ficheiro de configuração do veículo adicional; é possível aceder às informações de ajuda sobre ferramentas através do ícone de informação na barra de ferramentas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Arquivo adicional de configuração do carro, ferramenta informações de ajuda, pode ser acessado através do ícone de informações na barra de ferramentas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дополнительный файл конфигурации автомобиля, для получения справочной информации нужно нажать значок справки на панели инструментов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se puede acceder a información adicional de ayuda sobre herramientas y archivos de configuración del vehículo a través del icono de información de la barra de herramientas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >附加的车辆配置文件、工具帮助信息可通过工具条上的信息图标访问。</tu>
+	<tu
+    xmlns:lang="kor"
+  >도구 모음의 정보 아이콘을 통해 추가적인 차량 구성 파일, 도구 도움말 정보에 액세스할 수 있습니다.</tu>
+</tm>

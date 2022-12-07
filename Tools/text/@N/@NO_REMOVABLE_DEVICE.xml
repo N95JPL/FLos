@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NO_REMOVABLE_DEVICE">
+	<tu xmlns:lang="eng">There is no USB flash drive detected.
+</tu>
+	<tu xmlns:lang="nld">Er is geen USB-stick gedetecteerd.
+</tu>
+	<tu xmlns:lang="fra">Il n'y a pas de lecteur USB présent.
+</tu>
+	<tu xmlns:lang="deu">Es wurde kein USB-Stick erkannt.
+</tu>
+	<tu xmlns:lang="ita">Non vi è alcuna unità flash USB presente.
+</tu>
+	<tu xmlns:lang="jpn">検出された USB フラッシュ ドライブはありません。
+</tu>
+	<tu xmlns:lang="ptg">Não foi detetada nenhuma unidade flash USB.
+</tu>
+	<tu xmlns:lang="ptb">Nenhum Pen drive USB detectado.
+</tu>
+	<tu xmlns:lang="rus">Накопитель USB не обнаружен.
+</tu>
+	<tu xmlns:lang="esp">No se ha detectado ninguna unidad de memoria USB.
+</tu>
+	<tu xmlns:lang="chs">未检测到 USB 闪存驱动器。
+</tu>
+	<tu xmlns:lang="kor">감지된 USB 플래시 드라이브가 없습니다.
+</tu>
+</tm>

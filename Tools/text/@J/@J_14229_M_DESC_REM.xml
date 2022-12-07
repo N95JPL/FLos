@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_REM">
+	<tu xmlns:lang="eng">Rear entertainment control module</tu>
+	<tu xmlns:lang="nld">Regelmodule van het rear entertainment-systeem</tu>
+	<tu xmlns:lang="fra">Module de commande de système audio arrière</tu>
+	<tu xmlns:lang="deu">Audiosystem-Modul hinten</tu>
+	<tu xmlns:lang="ita">Modulo comando impianto audio posteriore</tu>
+	<tu xmlns:lang="jpn">リア エンターテイメント コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando do entretenimento traseiro</tu>
+	<tu xmlns:lang="ptb">Módulo de controle de entretenimento traseiro</tu>
+	<tu xmlns:lang="rus">Блок управления задней мультимедийной системой</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control del sistema de entretenimiento audiovisual trasero</tu>
+	<tu xmlns:lang="chs">后娱乐控制模块</tu>
+	<tu xmlns:lang="kor">리어 엔터테인먼트 컨트롤 모듈</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@UndefinedApp">
+	<tu xmlns:lang="eng">Undefined</tu>
+	<tu xmlns:lang="nld">Niet gedefinieerd</tu>
+	<tu xmlns:lang="fra">Indéfini</tu>
+	<tu xmlns:lang="deu">Unbenannt</tu>
+	<tu xmlns:lang="ita">Indefinito</tu>
+	<tu xmlns:lang="jpn">不確定</tu>
+	<tu xmlns:lang="ptg">Indefinido</tu>
+	<tu xmlns:lang="ptb">Indefinida</tu>
+	<tu xmlns:lang="rus">Не определено</tu>
+	<tu xmlns:lang="esp">Indefinido</tu>
+	<tu xmlns:lang="chs">未定义</tu>
+	<tu xmlns:lang="kor">정의되지 않음</tu>
+</tm>

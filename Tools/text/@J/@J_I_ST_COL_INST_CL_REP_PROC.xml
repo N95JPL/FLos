@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ST_COL_INST_CL_REP_PROC">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required if the steering column or the instrument cluster are replaced or the instrument cluster software is updated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is vereist wanneer de stuurkolom of de instrumentengroep vervangen is, of wanneer de software voor de instrumentengroep is bijgewerkt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure est indispensable si la colonne de direction ou le tableau de bord sont remplacés ou si le logiciel du tableau de bord est mis à jour.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine ist erforderlich, wenn die Lenksäule oder die Instrumentengruppe ausgetauscht oder die Software der Instrumentengruppe aktualisiert wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è necessaria se vengono sostituiti il piantone di sterzo o il gruppo strumenti, oppure se il software del gruppo strumenti viene aggiornato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング コラムまたはインストルメント クラスタが交換された場合、あるいはインストルメント クラスタ ソ\フトウェアが更新された場合、このルーチンが必要になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária se houver substituição da coluna da direcção ou do grupo de instrumentos ou se o software do grupo de instrumentos for actualizado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária se a coluna de direção ou o painel de instrumentos forem substituídos ou o software do conjunto do painel de instrumentos for atualizado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнение этой процедуры необходимо только в том случае, если была заменена рулевая колонка или панель приборов или проведено обновление программного обеспечения панели приборов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina es necesaria si se sustituyen la columna de la dirección o el cuadro de instrumentos, o si se actualiza el software del cuadro de instrumentos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果更换了转向柱或仪表盘，或者仪表盘软件已更新，则需要运行本例行程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스티어링 칼럼 또는 계기판을 교체하거나 계기판 소프트웨어를 업데이트할 경우 이 루틴이 필요합니다.</tu>
+</tm>

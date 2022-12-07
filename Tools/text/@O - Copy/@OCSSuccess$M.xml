@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@OCSSuccess$M">
+	<tu xmlns:lang="eng">Occupancy sensor calibration was successful.</tu>
+	<tu xmlns:lang="nld">De kalibrering van de inzittendensensor is met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Etalonnage du capteur d'occupation réussi.</tu>
+	<tu xmlns:lang="deu">Kalibrierung des Sitzbelegungssensors erfolgreich abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Taratura sensore occupanti riuscita.</tu>
+	<tu xmlns:lang="jpn">乗員センサー キャリブレーションが正常に完了しました。</tu>
+	<tu xmlns:lang="ptg">A calibragem do sensor de ocupação foi bem sucedida.</tu>
+	<tu xmlns:lang="ptb">Calibração do sensor de ocupação bem sucedida.</tu>
+	<tu xmlns:lang="rus">Калибровка датчика присутствия в салоне выполнена успешно.</tu>
+	<tu xmlns:lang="esp">La calibración del sensor de ocupación fue satisfactoria.</tu>
+	<tu xmlns:lang="chs">乘载传感器标定成功。</tu>
+	<tu xmlns:lang="kor">승객 감지 센서 보정에 성공했습니다.</tu>
+</tm>

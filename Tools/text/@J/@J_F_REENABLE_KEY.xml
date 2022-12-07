@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_REENABLE_KEY">
+	<tu
+    xmlns:lang="eng"
+  >Failed to re-enable inserted key, will now attempt to program this key which will involve the removal and re-insertion of the same key.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het opnieuw activeren van de ingestoken sleutel is mislukt. Het systeem zal nu deze sleutel proberen te programmeren, waarbij u de sleutel moet verwijderen en weer in moet steken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec de réactivation de la clé insérée, va maintenant essayer de programmer cette clé, ce qui implique le retrait et la réinsertion de la même clé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Eingesteckter Schlüssel konnte nicht neu aktiviert werden; es wird nun versucht, diesen Schlüssel zu programmieren, wozu derselbe Schlüssel abgezogen und neu eingesteckt werden muss.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Mancata riabilitazione della chiave inserita, verrà ora tentata la programmazione di questa chiave che comporta la rimozione e il reinserimento della stessa chiave.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >挿入されたキーの作動可再設定に失敗しました。このキーのプログラムを試行します。同じキーの取り外しと再挿入が必要になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não foi possível reactivar a chave introduzida; tentar-se-á agora programar esta chave, o que implicará retirar e voltar a introduzir a mesma chave.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha ao reativar a chave inserida, tentará agora programar esta chave, o que envolve a remoção e a reinserção da mesma chave.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не удалось разблокировать вставленный ключ. Сейчас будет произведена попытка программирования данного ключа. Операция потребует извлечения и повторной установки этого ключа.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudo reactivar la llave insertada. Se va a intentar programar esta llave. Para ello, debe retirarla e insertarla de nuevo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >不能恢复所插入车钥的功能，应准备对此车钥进行编程（包括拔下并重新插入同一把车钥等步骤）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >삽입된 키를 다시 활성화하지 못하여 이 키의 프로그래밍을 시도하며, 이때 같은 키를 제거했다가 다시 삽입하게 됩니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMP_NOT_FIT">
+	<tu xmlns:lang="eng">Companion not fitted.</tu>
+	<tu xmlns:lang="nld">Bijbehorend apparaat niet geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Module assistant non installé.</tu>
+	<tu xmlns:lang="deu">Hilfsmodul nicht eingebaut.</tu>
+	<tu xmlns:lang="ita">Complemento non in dotazione.</tu>
+	<tu xmlns:lang="jpn">コンパニオン非装備</tu>
+	<tu xmlns:lang="ptg">Câmara de auxílio ao condutor não montada.</tu>
+	<tu xmlns:lang="ptb">Acompanhante não instalado.</tu>
+	<tu xmlns:lang="rus">Вспомогательный блок не установлен.</tu>
+	<tu xmlns:lang="esp">No tiene acompañamiento.</tu>
+	<tu xmlns:lang="chs">配套装置未安装。</tu>
+	<tu xmlns:lang="kor">컴패니언이 장착되지 않음</tu>
+</tm>

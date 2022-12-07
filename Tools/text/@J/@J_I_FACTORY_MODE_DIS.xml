@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FACTORY_MODE_DIS">
+	<tu xmlns:lang="eng">Factory mode has been cleared</tu>
+	<tu xmlns:lang="nld">De fabrieksfunctie is gewist</tu>
+	<tu xmlns:lang="fra">Le mode usine a été effacé</tu>
+	<tu xmlns:lang="deu">Werksmodus wurde gelöscht.</tu>
+	<tu xmlns:lang="ita">La modalità di fabbrica è stata cancellata</tu>
+	<tu xmlns:lang="jpn">メーカー モードはクリアされました。</tu>
+	<tu xmlns:lang="ptg">O modo de fábrica foi apagado</tu>
+	<tu xmlns:lang="ptb">Modo de fábrica foi excluído</tu>
+	<tu xmlns:lang="rus">Заводской режим удален</tu>
+	<tu xmlns:lang="esp">Se ha borrado el modo de fábrica</tu>
+	<tu xmlns:lang="chs">工厂模式已清除</tu>
+	<tu xmlns:lang="kor">공장 모드가 삭제됨</tu>
+</tm>

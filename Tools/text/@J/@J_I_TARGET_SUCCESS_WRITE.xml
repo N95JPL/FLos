@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TARGET_SUCCESS_WRITE">
+	<tu xmlns:lang="eng">Target identifier written successfully.</tu>
+	<tu xmlns:lang="nld">Gewenste identificatie is met succes geschreven.</tu>
+	<tu xmlns:lang="fra">Identificateur cible écrit avec succès</tu>
+	<tu xmlns:lang="deu">Zielkennung erfolgreich geschrieben.</tu>
+	<tu xmlns:lang="ita">Scrittura identificativo target riuscita.</tu>
+	<tu xmlns:lang="jpn">目標 ID 機能\の書き込みに成功しました。</tu>
+	<tu xmlns:lang="ptg">Identificador de alvo gravado com êxito.</tu>
+	<tu xmlns:lang="ptb">Identificador alvo gravado com êxito.</tu>
+	<tu xmlns:lang="rus">Запись целевого идентификатора выполнена успешно.</tu>
+	<tu xmlns:lang="esp">Se escribió el identificador del objetivo.</tu>
+	<tu xmlns:lang="chs">目标标识符成功写入。</tu>
+	<tu xmlns:lang="kor">대상 식별자가 올바르게 기록되었습니다.</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TYRE_RADIUS_L316_2483_395">
+	<tu
+    xmlns:lang="eng"
+  >Tyre rolling circumference - 2483mm (rolling radius 395mm)</tu>
+	<tu xmlns:lang="nld">Rolomtrek van band: 2483 mm (rolradius 395 mm)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Circonférence de roulement - 2 483 mm (rayon de roulement 395 mm)</tu>
+	<tu xmlns:lang="deu">Reifen-Abrollumfang - 2.483 mm (Abrollradius 395 mm)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Circonferenza di rotolamento pneumatico - 2483 mm (raggio di rotolamento 395 mm)</tu>
+	<tu xmlns:lang="jpn">タイヤの回転円周 - 2483mm (回転半径 395mm)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Circunferência de rodagem do pneu - 2483 mm (raio de rodagem de 395 mm)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Circunferência de rolamento do pneu - 2483mm (raio de rolagem 395mm)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Длина окружности качения шины - 2483 мм (радиус качения 395 мм)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Circunferencia de rodadura del neumático: 2483 mm (radio de rodadura 395 mm)</tu>
+	<tu xmlns:lang="chs">轮胎滚动周长--2483毫米（滚动半径395毫米）</tu>
+	<tu xmlns:lang="kor">타이어 회전 원주 - 2483mm(구름 반경 395mm)</tu>
+</tm>

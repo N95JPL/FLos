@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IDS_TEST_DETECT">
+	<tu
+    xmlns:lang="eng"
+  >The Diagnostic Tool will automatically test and detect this situation. If this does occur the Diagnostic Tool will instruct the technican in the correct procedure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het diagnosesysteem zal deze situatie automatisch testen en detecteren. Als dit gebeurt, zal het diagnosesysteem de monteur aanwijzingen geven voor de juiste procedure.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'outil de diagnostic contrôlera et identifiera automatiquement cette situation. Dans ce cas précis, l'outil de diagnostic indiquera au technicien la procédure à suivre.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Diagnosetool prüft und ermittelt diese Situation automatisch. Sollte dies nicht der Fall sein, gibt das Diagnosetool dem Techniker Anleitungen für die korrekte Vorgehensweise.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lo strumento diagnostico eseguirà automaticamente il test e rileverà questa situazione. In questo caso, lo strumento diagnostico indicherà al tecnico la corretta procedura da seguire.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >診断ツールは自動的にテストし、この状態を検出します。 発生時には、診断ツールがテクニシャンに正しい手順を示します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A ferramenta de diagnóstico verifica e deteta automaticamente esta situação. Se tal se verificar, a ferramenta de diagnóstico indica ao técnico o procedimento correto a seguir.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A Ferramenta de Diagnóstico testará e detectará automaticamente essa situação. Se isso ocorrer, a Ferramenta de Diagnóstico instruirá o técnico no procedimento correto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Диагностическое устройство автоматически проверит и определит наличие такой ситуации. Если она присутствует, диагностическое устройство выведет на экран необходимые инструкции для технического специалиста для продолжения работы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La herramienta de diagnóstico comprobará y detectará automáticamente esta situación. Si esto ocurre, la herramienta de diagnóstico indicará al técnico el procedimiento correcto.</tu>
+	<tu
+    xmlns:lang="chs"
+  >诊断工具将自动测试并检测这一情况。 如果确实出现这一情况，诊断工具将向技师发出指令，让其执行正确的程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >진단 도구는 이 상황을 자동으로 테스트하고 감지합니다. 이러한 상황이 발생하는 경우 진단 도구를 통해 정비사에게 올바른 절차를 지시합니다.</tu>
+</tm>

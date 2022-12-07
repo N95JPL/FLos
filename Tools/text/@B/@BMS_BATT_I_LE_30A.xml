@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_BATT_I_LE_30A">
+	<tu
+    xmlns:lang="eng"
+  >Generator current  -  Battery current should be less than or equal to required limit</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dynamostroom  -  De accustroom moet minder zijn dan of gelijk zijn aan de vereiste grenswaarde</tu>
+	<tu
+    xmlns:lang="fra"
+  >Courant de l'alternateur  -  L'alimentation de la batterie doit être inférieure ou égale à la limite requise</tu>
+	<tu
+    xmlns:lang="deu"
+  >Generatorstrom  -  Batteriestrom muss kleiner als oder gleich dem geforderten Grenzwert sein</tu>
+	<tu
+    xmlns:lang="ita"
+  >Corrente del generatore  -  La corrente della batteria deve essere inferiore o uguale al limite richiesto</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ジェネレータ電流  －  バッテリ電流は必要制限値に等しいか、またはそれ以下でなければなりません</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Corrente do alternador  -  A corrente da bateria deve ser inferior ou igual ao limite estabelecido</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Corrente do alternador  -  A corrente da bateria deve ser menor ou igual ao limite necessário</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ток генератора  -  Ток аккумуляторной батареи не должен превышать установленный предел</tu>
+	<tu
+    xmlns:lang="esp"
+  >Corriente del alternador  -  La corriente de la batería debe ser menor o igual que el límite requerido</tu>
+	<tu xmlns:lang="chs">发电机电流  -  蓄电池电流应小于或等于要求的限制</tu>
+	<tu
+    xmlns:lang="kor"
+  >제너레이터 전류  -  배터리 전류는 필수 한계와 같거나 그 미만이어야 합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INTERIOR_LIGHTS_01">
+	<tu xmlns:lang="eng">Interior lamps - 1</tu>
+	<tu xmlns:lang="nld">Interieurlampen - 1</tu>
+	<tu xmlns:lang="fra">Eclairage intérieur - 1.</tu>
+	<tu xmlns:lang="deu">Innenleuchten - 1</tu>
+	<tu xmlns:lang="ita">Luci abitacolo - 1</tu>
+	<tu xmlns:lang="jpn">インテリア ランプ - 1</tu>
+	<tu xmlns:lang="ptg">Luzes interiores - 1</tu>
+	<tu xmlns:lang="ptb">Lâmpadas internas - 1</tu>
+	<tu xmlns:lang="rus">Внутреннее освещение - 1</tu>
+	<tu xmlns:lang="esp">Luces del habitáculo: 1</tu>
+	<tu xmlns:lang="chs">内部照明灯  - 1</tu>
+	<tu xmlns:lang="kor">실내등 - 1</tu>
+</tm>

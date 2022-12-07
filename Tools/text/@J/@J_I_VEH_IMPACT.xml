@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_IMPACT">
+	<tu xmlns:lang="eng">Vehicle impact</tu>
+	<tu xmlns:lang="nld">Voertuigbotsing</tu>
+	<tu xmlns:lang="fra">Impact véhicule.</tu>
+	<tu xmlns:lang="deu">Fahrzeugaufprall</tu>
+	<tu xmlns:lang="ita">Impatto veicolo</tu>
+	<tu xmlns:lang="jpn">車両インパクト</tu>
+	<tu xmlns:lang="ptg">Impacto do veículo</tu>
+	<tu xmlns:lang="ptb">Colisão do veículo</tu>
+	<tu xmlns:lang="rus">Столкновение</tu>
+	<tu xmlns:lang="esp">Impacto del vehículo</tu>
+	<tu xmlns:lang="chs">车辆撞击</tu>
+	<tu xmlns:lang="kor">차량 충격</tu>
+</tm>

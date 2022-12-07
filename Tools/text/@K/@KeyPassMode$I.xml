@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KeyPassMode$I">
+	<tu xmlns:lang="eng">Key in password mode.</tu>
+	<tu xmlns:lang="nld">Wachtwoordfunctie van sleutel-in.</tu>
+	<tu xmlns:lang="fra">Clé en mode mot de passe.</tu>
+	<tu xmlns:lang="deu">Schlüssel in Passwortmodus.</tu>
+	<tu xmlns:lang="ita">Modalità password chiave inserita.</tu>
+	<tu xmlns:lang="jpn">キーがパスワード モードです。</tu>
+	<tu xmlns:lang="ptg">Chave em modo de palavra-passe.</tu>
+	<tu xmlns:lang="ptb">Chave no modo de senha.</tu>
+	<tu xmlns:lang="rus">Ключ в режиме пароля.</tu>
+	<tu xmlns:lang="esp">Llave en modo contraseña.</tu>
+	<tu xmlns:lang="chs">键入密码模式。</tu>
+	<tu xmlns:lang="kor">키 삽입 비밀번호 모드</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_POWERTRAIN_MOD_UPDATE">
+	<tu xmlns:lang="eng">Powertrain control module configuration update</tu>
+	<tu xmlns:lang="nld">Configuratie-update voor aandrijflijnregelmodule</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mise à jour de la configuration du module de commande du groupe motopropulseur</tu>
+	<tu
+    xmlns:lang="deu"
+  >Antriebsstrang-Steuergerät, Konfigurations-Aktualisierung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Aggiornamento configurazione modulo gestione catena cinematica</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パワートレーン コントロール モジュール コンフィギュレーションの更新</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Actualização da configuração do módulo de comando do grupo motopropulsor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Atualização de configuração do módulo de controle de Powertrain</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обновление конфигурации блока управления силовым агрегатом</tu>
+	<tu
+    xmlns:lang="esp"
+  >Actualización de la configuración del módulo de control del grupo motor y transmisión</tu>
+	<tu xmlns:lang="chs">传动系控制模块配置更新</tu>
+	<tu xmlns:lang="kor">파워트레인 컨트롤 모듈 구성 업데이트</tu>
+</tm>

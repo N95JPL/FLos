@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_PROG_PROCEDURE">
+	<tu
+    xmlns:lang="eng"
+  >Once the confirmation tick below is pressed the inserted key must be removed and the next key to be programmed must be inserted, all during the 15 second progress bar.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zodra u ter bevestiging de afvinktoets hieronder hebt ingedrukt, moet u de ingestoken sleutel verwijderen en de volgende sleutel die u wilt programmeren insteken. Dit moet gebeuren tijdens het weergeven van de voortgangsbalk van 15 seconden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lorsque la coche de confirmation ci-dessous a été enfoncée, la clé insérée doit être retirée et la clé suivante à programmer doit être insérée, le tout pendant les 15 secondes de la barre de progression.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nachdem das Häkchen unten angetippt wurde, muss der eingesteckte Schlüssel abgezogen und der nächste zu programmierende Schlüssel eingesteckt werden; all dies hat während der 15 Sekunden dauernden Anzeige des Fortschrittsbalkens zu erfolgen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dopo aver premuto il tasto di spunta di conferma in basso, la chiave inserita deve essere rimossa e deve essere inserita la chiave successiva da programmare; l'operazione deve avvenire entro 15 secondi della barra di avanzamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >下の確認のティックが押されたのち、15 秒の進行バーが動いているうちに、挿入されたキーを取り外し、プログラムする次のキーを挿入しなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Uma vez premido o sinal de confirmação abaixo, tem de se retirar a chave introduzida e introduzir a chave seguinte a ser programada, enquanto a barra de progresso de 15 segundos estiver visível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após a marca de confirmação abaixo estar pressionada, a chave inserida deve ser removida e a próxima chave a ser programada deve ser inserida, todas durante a barra de progresso de 15 segundos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После нажатия на расположенную ниже подтверждающую галочку необходимо в течение 15 секунд, пока отображается индикатор выполнения, удалить вставленный ключ и вставить следующий подлежащий программированию ключ.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Al pulsar el botón de confirmación de abajo, retirar la llave insertada e insertar la siguiente llave que se va a programar mientras esté visible la barra de progreso de 15 segundos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >一旦打勾确认，必须取出插入的车钥，然后插入下一把待编程的车钥，这些都必须在 15 秒内完成。</tu>
+	<tu
+    xmlns:lang="kor"
+  >아래의 확인 체크 표시를 누른 후 삽입된 키를 제거하고 다음으로 프로그래밍할 키를 삽입해야 하는데, 이 모든 과정을 15초간 진행 표시줄이 표시되는 동안 완료해야 합니다.</tu>
+</tm>

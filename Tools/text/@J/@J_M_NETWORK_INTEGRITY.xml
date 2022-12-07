@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_NETWORK_INTEGRITY">
+	<tu xmlns:lang="eng">Network integrity test</tu>
+	<tu xmlns:lang="nld">Netwerkintegriteitstest</tu>
+	<tu xmlns:lang="fra">Controle d'integrite du reseau</tu>
+	<tu xmlns:lang="deu">Integritätstest netzwerk</tu>
+	<tu xmlns:lang="ita">Prova integrità rete</tu>
+	<tu xmlns:lang="jpn">ネットワーク整合性テスト</tu>
+	<tu xmlns:lang="ptg">Teste de integridade da rede</tu>
+	<tu xmlns:lang="ptb">Teste de integridade de rede</tu>
+	<tu xmlns:lang="rus">Проверка целостности сети</tu>
+	<tu xmlns:lang="esp">Prueba de integridad de la red</tu>
+	<tu xmlns:lang="chs">网络完整性测试</tu>
+	<tu xmlns:lang="kor">네트워크 무결성 테스트</tu>
+</tm>

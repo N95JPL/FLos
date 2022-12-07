@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_SODR">
+	<tu xmlns:lang="eng">Side object detection control module  -  Right</tu>
+	<tu
+    xmlns:lang="nld"
+  >Regelmodule voor detectie van voorwerpen aan zijkant  -  Rechts</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de commande de détection d'objet sur le côté  -  Droite</tu>
+	<tu xmlns:lang="deu">Steuergerät seitliche Objekterfassung  -  Rechts</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo di comando rilevamento oggetto laterale  -  Destro</tu>
+	<tu xmlns:lang="jpn">サイド物体検出コントロール モジュール  －  右</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo de controlo de detecção de objecto lateral  -  Direito</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo de controle de detecção de objeto lateral  -  Direita</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок управления боковым датчиком распознавания объектов  -  Правый</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control de detección de objetos laterales  -  Derecha</tu>
+	<tu xmlns:lang="chs">侧面物体探测控制模块  -  右</tu>
+	<tu xmlns:lang="kor">측면 장애물 탐지 컨트롤 모듈  -  우측</tu>
+</tm>

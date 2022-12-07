@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart79">
+	<tu
+    xmlns:lang="eng"
+  >Stop inhibited - Engine stop is not allowed during calibratable time after first start.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stop geblokkeerd - de motor stoppen is niet toegestaan tijdens de kalibratieperiode na de eerste start.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Arrêt neutralisé - L'arrêt du moteur n'est pas autorisé pendant une durée paramétrable après le premier démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Stopp gesperrt – Motorabschaltung ist während eines kalibrierbaren Zeitraums nach dem ersten Start nicht zulässig.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitazione dell'arresto - L'arresto del motore non è consentito durante il tempo di taratura dopo il primo avviamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ストップ機能禁止 - 最初の始動後のキャリブレーション中はエンジンを停止できません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Paragem inibida - A paragem do motor não é permitida durante o tempo calibrável após o primeiro arranque.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Parada inibida - A parada do motor não é permitida durante o período de calibração após a primeira partida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Остановка заблокирована — остановка двигателя невозможна в течение откалиброванного промежутка времени после первого запуска.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Parada bloqueada: la parada del motor no está permitida durante el periodo de calibración tras el primer arranque.</tu>
+	<tu
+    xmlns:lang="chs"
+  >停止被禁止 - 首次启动后，校准时间过程中不允许发动机停止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >Stop 억제 - 첫 번째 시동 후 보정 가능한 시간 동안 엔진 정지가 허용되지 않습니다.</tu>
+</tm>

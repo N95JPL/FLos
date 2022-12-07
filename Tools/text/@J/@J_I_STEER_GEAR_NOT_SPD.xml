@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STEER_GEAR_NOT_SPD">
+	<tu xmlns:lang="eng">Steering gear  -  Not speed sensitive</tu>
+	<tu xmlns:lang="nld">Stuurinrichting  -  Niet snelheidsgevoelig</tu>
+	<tu xmlns:lang="fra">Boîtier de direction  -  Pas sensible à la vitesse</tu>
+	<tu xmlns:lang="deu">Lenkgetriebe  -  Nicht geschwindigkeitsabhängig</tu>
+	<tu xmlns:lang="ita">Organi dello sterzo  -  Non sensibile alla velocità</tu>
+	<tu xmlns:lang="jpn">ステアリング ギア  －  非速度感応式</tu>
+	<tu xmlns:lang="ptg">Caixa da direcção  -  Não sensível à velocidade</tu>
+	<tu xmlns:lang="ptb">Sistema de direção  -  Não sensível à velocidade</tu>
+	<tu xmlns:lang="rus">Рулевой механизм  -  Не зависит от скорости</tu>
+	<tu
+    xmlns:lang="esp"
+  >Engranaje de dirección  -  No es sensible a la velocidad</tu>
+	<tu xmlns:lang="chs">转向齿轮  -  非速度感应式</tu>
+	<tu xmlns:lang="kor">스티어링 기어  -  속도에 민감하지 않음</tu>
+</tm>

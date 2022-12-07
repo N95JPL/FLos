@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HYD_SYS_SEL">
+	<tu xmlns:lang="eng">Hydraulic system self test.</tu>
+	<tu xmlns:lang="nld">Zelftest van hydraulisch systeem.</tu>
+	<tu xmlns:lang="fra">Auto-test du circuit hydraulique.</tu>
+	<tu xmlns:lang="deu">Selbsttest Hydrauliksystem.</tu>
+	<tu xmlns:lang="ita">Prova automatica sistema idraulico.</tu>
+	<tu xmlns:lang="jpn">ハイドロリック システム セルフ テスト</tu>
+	<tu xmlns:lang="ptg">Autoteste do sistema hidráulico.</tu>
+	<tu xmlns:lang="ptb">Autoteste do sistema hidráulico.</tu>
+	<tu xmlns:lang="rus">Самотестирование гидравлической системы.</tu>
+	<tu xmlns:lang="esp">Autocomprobación del sistema hidráulico.</tu>
+	<tu xmlns:lang="chs">液压系统自检。</tu>
+	<tu xmlns:lang="kor">유압 시스템 자체 테스트</tu>
+</tm>

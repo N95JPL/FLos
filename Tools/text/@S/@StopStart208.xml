@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart208">
+	<tu
+    xmlns:lang="eng"
+  >If below 70%, the primary battery may not support the auto stop/start feature. This is an inhibit condition generally due to the way the vehicle is used and not a fault condition.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Indien lager dan 70 %, ondersteunt de primaire accu de automatische Stop/Start-functie mogelijk niet. Dit is een geblokkeerde toestand die over het algemeen wordt veroorzaakt door de manier waarop de auto wordt gebruikt en niet door een storing.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si elle est inférieure à 70 %, la batterie principale peut ne pas prendre en charge la fonction Arrêt/Démarrage auto. Il s'agit d'une neutralisation généralement due à la façon dont le véhicule est utilisé et non d'un défaut.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist die Hauptbatterie zu weniger als 70 % geladen, unterstützt sie die Auto-Stopp-Start-Funktion möglicherweise nicht. Hierbei handelt es sich um eine Sperrbedingung, die in der Regel auf die Art der Fahrzeugnutzung zurückzuführen ist und keinen Fehlerzustand darstellt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se è inferiore al 70%, la batteria principale potrebbe non supportare la funzione Stop/Start automatico. Si tratta di una condizione di disabilitazione e non di guasto, generalmente dovuta al modo di utilizzo del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >70% 未満の場合、プライマリ バッテリーは自動ストップ/スタート スイッチ機能をサポートできません。 これは、車両の使用方法による一般的な禁止条件であり、故障条件ではありません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se abaixo de 70%, a bateria primária pode não suportar a função de arranque/paragem automático. Trata-se de uma condição de inibição geralmente resultante da forma como o veículo é utilizado e não de um estado de avaria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a carga estiver abaixo de 70%, a bateria primária pode não suportar o recurso stop/start automático. Esta é uma condição de inibição, geralmente devida ao modo pelo qual o veículo é utilizado, e não uma condição de falha.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если уровень заряда менее 70 %, основная аккумуляторная батарея не сможет поддерживать работу автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт. Эта блокировка обычно возникает из-за особенностей эксплуатации автомобиля и не является неисправностью.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se encuentra por debajo del 70 %, puede que la batería principal no admita el sistema Stop/Start. Esta condición de bloqueo se debe normalmente a la forma de uso del vehículo y no a una avería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果低于 70%，则主蓄电池可能不支持自动停止/启动功能。 这通常是因车辆使用方式导致的禁用状态，而非故障状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >70% 미만인 경우 기본 배터리가 자동 Stop/Start 기능을 지원하지 않을 수 있습니다. 이것은 일반적으로 차량이 사용되는 방식으로 인한 억제 조건이며 고장 상태가 아닙니다.</tu>
+</tm>

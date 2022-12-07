@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SECS">
+	<tu xmlns:lang="eng">Seconds</tu>
+	<tu xmlns:lang="nld">Seconden</tu>
+	<tu xmlns:lang="fra">Secondes</tu>
+	<tu xmlns:lang="deu">Sekunden</tu>
+	<tu xmlns:lang="ita">Secondi</tu>
+	<tu xmlns:lang="jpn">秒</tu>
+	<tu xmlns:lang="ptg">Segundos</tu>
+	<tu xmlns:lang="ptb">Segundos</tu>
+	<tu xmlns:lang="rus">Секунды</tu>
+	<tu xmlns:lang="esp">Segundos</tu>
+	<tu xmlns:lang="chs">秒</tu>
+	<tu xmlns:lang="kor">초</tu>
+</tm>

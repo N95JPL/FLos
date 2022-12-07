@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart34">
+	<tu
+    xmlns:lang="eng"
+  >The power supply system is requesting the engine running due to an inhibit or fault condition.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voedingssysteem vraagt om de motor te laten draaien als gevolg van een toestand met een blokkering of storing.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le système d'alimentation électrique demande le fonctionnement du moteur en raison d'une neutralisation ou d'un défaut.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Stromversorgungssystem fordert aufgrund einer Sperre oder eines Fehlerzustands einen laufenden Motor an.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sistema di alimentazione richiede che il motore sia in funzione a causa di una condizione di guasto o di disabilitazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >電源システムが、禁止状態または故障状態によりエンジンの作動を要求しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema da fonte de alimentação está a solicitar o funcionamento do motor devido a uma inibição ou condição de avaria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema da fonte de alimentação está solicitando a operação do motor devido a uma condição de inibição ou falha.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система питания запрашивает работу двигателя вследствие блокировки или неисправности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema de alimentación solicita el funcionamiento del motor debido a una condición de bloqueo o avería.</tu>
+	<tu xmlns:lang="chs">由于禁止或故障状态，电源系统正在请求发动机运行。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전원 공급 시스템에서 억제 또는 고장 상태로 인해 엔진 작동을 요청 중입니다.</tu>
+</tm>

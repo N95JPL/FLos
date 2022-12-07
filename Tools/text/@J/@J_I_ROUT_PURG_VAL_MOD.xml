@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_PURG_VAL_MOD">
+	<tu
+    xmlns:lang="eng"
+  >This routine is required to reset the purge time and update the corresponding value within the modules memory store.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine is nodig voor het terugstellen van de spoeltijd en de bijbehorende opgeslagen waarden in het modulegeheugen bij te werken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme doit être utilisé pour réinitialiser la programmation des purges et mettre à jour les valeurs correspondantes dans les mémoires de modules.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine muss durchlaufen werden, um die Spülzeit rückzusetzen und den entsprechenden Wert im Speicher des Steuergeräts zu aktualisieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura è richiesta per azzerare il tempo di spurgo e aggiornare il valore corrispondente memorizzato nei moduli.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンはパージ時間をリセットし、モジュール メモリ保存場所内の呼応数値を更新するために必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é necessária para reinicializar o tempo de purga e actualizar o valor correspondente na memória dos módulos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é necessária para reiniciar o tempo de purga e atualizar o valor correspondente dentro dos módulos armazenados na memória.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция необходима для сброса значений времени продувки и обновления соответствующего значения в памяти блоков.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina debe ejecutarse para reponer el tiempo de purga y actualizar el valor correspondiente en la memoria del módulo.</tu>
+	<tu xmlns:lang="chs">需执行本程序来重置清除时间并更新模块储存器中的相应值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >퍼지 시간을 재설정하고 모듈 메모리 저장소 내에서 그에 해당하는 값을 업데이트하려면 이 루틴이 필요합니다.</tu>
+</tm>

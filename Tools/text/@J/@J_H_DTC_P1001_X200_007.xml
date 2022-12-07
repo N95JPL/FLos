@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_DTC_P1001_X200_007">
+	<tu xmlns:lang="eng">Engine running.</tu>
+	<tu xmlns:lang="nld">Lopende motor.</tu>
+	<tu xmlns:lang="fra">Le moteur tourne.</tu>
+	<tu xmlns:lang="deu">Motor läuft.</tu>
+	<tu xmlns:lang="ita">Motore acceso.</tu>
+	<tu xmlns:lang="jpn">エンジン作動中。</tu>
+	<tu xmlns:lang="ptg">Motor em funcionamento.</tu>
+	<tu xmlns:lang="ptb">Motor em funcionamento.</tu>
+	<tu xmlns:lang="rus">Двигатель работает.</tu>
+	<tu xmlns:lang="esp">Motor en marcha.</tu>
+	<tu xmlns:lang="chs">发动机处于运转中。</tu>
+	<tu xmlns:lang="kor">엔진 작동.</tu>
+</tm>

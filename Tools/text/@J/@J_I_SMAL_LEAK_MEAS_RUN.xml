@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SMAL_LEAK_MEAS_RUN">
+	<tu xmlns:lang="eng">Small leak measurement is running.</tu>
+	<tu xmlns:lang="nld">De meting voor kleine lekken wordt uitgevoerd.</tu>
+	<tu xmlns:lang="fra">La mesure de la petite fuite est en cours.</tu>
+	<tu xmlns:lang="deu">Messung geringfügiger Undichtigkeit läuft.</tu>
+	<tu xmlns:lang="ita">In corso misurazione piccole perdite.</tu>
+	<tu xmlns:lang="jpn">小リーク測定実行中</tu>
+	<tu xmlns:lang="ptg">Está a ser realizada uma medição de fuga pequena.</tu>
+	<tu xmlns:lang="ptb">A medição de vazamento pequeno está sendo executada.</tu>
+	<tu xmlns:lang="rus">Выполняется измерение незначительной течи.</tu>
+	<tu xmlns:lang="esp">Está en curso la medición de fugas pequeñas.</tu>
+	<tu xmlns:lang="chs">较小泄漏测量正在运行。</tu>
+	<tu xmlns:lang="kor">소량 누출 측정이 실행됩니다.</tu>
+</tm>

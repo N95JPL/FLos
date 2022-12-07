@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BOTH_SIDE_CAM">
+	<tu xmlns:lang="eng">Both left and right side cameras</tu>
+	<tu xmlns:lang="nld">Zowel de linker- als rechtercamera. </tu>
+	<tu xmlns:lang="fra">Caméras des côtés gauche et droit </tu>
+	<tu xmlns:lang="deu">Linke und rechte Seitenkamera </tu>
+	<tu xmlns:lang="ita">Telecamere laterali destra e sinistra</tu>
+	<tu xmlns:lang="jpn">左右両方のサイド カメラ</tu>
+	<tu xmlns:lang="ptg">Câmaras direita e esquerda</tu>
+	<tu xmlns:lang="ptb">Câmeras laterais esquerda e direita</tu>
+	<tu xmlns:lang="rus">Обе камеры - левая и правая </tu>
+	<tu xmlns:lang="esp">Cámaras del lado izquierdo y del lado derecho</tu>
+	<tu xmlns:lang="chs">左右两侧摄像头</tu>
+	<tu xmlns:lang="kor">좌측 및 우측의 양쪽 카메라</tu>
+</tm>

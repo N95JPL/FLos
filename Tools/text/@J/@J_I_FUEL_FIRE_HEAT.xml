@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUEL_FIRE_HEAT">
+	<tu xmlns:lang="eng">Fuel fired heater (FFH)</tu>
+	<tu xmlns:lang="nld">Op brandstof werkende verwarming (FFH)</tu>
+	<tu xmlns:lang="fra">Chauffage à combustion de carburant (FFH)</tu>
+	<tu xmlns:lang="deu">Kraftstoffbetriebene Zusatzheizung (FFH)</tu>
+	<tu xmlns:lang="ita">Riscaldatore alimentato a carburante (FFH)</tu>
+	<tu xmlns:lang="jpn">フューエル燃焼ヒーター (FFH)</tu>
+	<tu xmlns:lang="ptg">Aquecedor a combustível (FFH)</tu>
+	<tu xmlns:lang="ptb">Aquecedor por queima de combustível (FFH)</tu>
+	<tu xmlns:lang="rus">Подогреватель, работающий на топливе (FFH)</tu>
+	<tu xmlns:lang="esp">Calefactor por quemado de combustible (FFH)</tu>
+	<tu xmlns:lang="chs">燃油燃烧式加热器（FFH）</tu>
+	<tu xmlns:lang="kor">연료 연소식 히터(FFH)</tu>
+</tm>

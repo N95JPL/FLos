@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DUAL_REAR_WASH_WIPE">
+	<tu xmlns:lang="eng">Dual intermittent rear wash wipe</tu>
+	<tu
+    xmlns:lang="nld"
+  >Dubbele achterruitensproeiers/-wissers met intervalwissen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Essuie-glace et lave-glace arrière intermittents jumelés</tu>
+	<tu xmlns:lang="deu">Doppelintervall, Waschanlage/Scheibenwischer hinten</tu>
+	<tu xmlns:lang="ita">Lava/tergilunotto intermittente doppio</tu>
+	<tu xmlns:lang="jpn">デュアル間欠リア ウォッシャ ワイパー</tu>
+	<tu xmlns:lang="ptg">Lava/limpa-vidros traseiro de intermitência dupla</tu>
+	<tu xmlns:lang="ptb">Limpador/lavador traseiro intermitente duplo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Два режима прерывистой работы заднего стеклоочистителя/омывателя</tu>
+	<tu xmlns:lang="esp">Limpia/lavaluneta doble con barrido intermitente</tu>
+	<tu xmlns:lang="chs">双间歇性后清洗刮水</tu>
+	<tu xmlns:lang="kor">간헐적 이중 후방 워셔 와이퍼 작동</tu>
+</tm>

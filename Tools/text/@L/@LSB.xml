@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LSB">
+	<tu xmlns:lang="eng">Least significant byte</tu>
+	<tu xmlns:lang="nld">Minst significante byte</tu>
+	<tu xmlns:lang="fra">Octet de plus faible poids.</tu>
+	<tu xmlns:lang="deu">Niederwertigstes Byte</tu>
+	<tu xmlns:lang="ita">Byte meno significativo</tu>
+	<tu xmlns:lang="jpn">最下位バイト</tu>
+	<tu xmlns:lang="ptg">Byte menos significativo</tu>
+	<tu xmlns:lang="ptb">Byte menos significativo</tu>
+	<tu xmlns:lang="rus">Младший значащий байт</tu>
+	<tu xmlns:lang="esp">Byte menos significativo</tu>
+	<tu xmlns:lang="chs">最低有效字节</tu>
+	<tu xmlns:lang="kor">최하위 바이트</tu>
+</tm>

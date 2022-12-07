@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PCM_DIE_03">
+	<tu xmlns:lang="eng">Powertrain control module  -  Diesel level 03</tu>
+	<tu xmlns:lang="nld">Regelmodule van de aandrijflijn  -  Dieselniveau 03</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de commande du groupe motopropulseur  -  Diesel niveau 03</tu>
+	<tu xmlns:lang="deu">Antriebsstrang-Steuermodul  -  Diesel Abgasnorm 03</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo di comando catena cinematica  -  Diesel livello 03</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パワートレーン コントロール モジュール  －  ディーゼル レベル 03</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo de comando do grupo motopropulsor.  -  Nível de Diesel 03</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo de controle do powertrain  -  Nível de diesel 03</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок управления силовым агрегатом  -  Уровень дизельного топлива 03</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control del grupo motor y transmisión  -  Nivel Diesel 03</tu>
+	<tu xmlns:lang="chs">传动系控制模块  -  柴油03级</tu>
+	<tu xmlns:lang="kor">파워트레인 컨트롤 모듈  -  디젤 레벨 03</tu>
+</tm>

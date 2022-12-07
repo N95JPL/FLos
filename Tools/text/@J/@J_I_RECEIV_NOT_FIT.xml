@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RECEIV_NOT_FIT">
+	<tu xmlns:lang="eng">Receiver not fitted.</tu>
+	<tu xmlns:lang="nld">Er is geen ontvanger geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Récepteur non installé.</tu>
+	<tu xmlns:lang="deu">Empfänger nicht eingebaut.</tu>
+	<tu xmlns:lang="ita">Ricevitore non in dotazione.</tu>
+	<tu xmlns:lang="jpn">レシーバ非装備</tu>
+	<tu xmlns:lang="ptg">Receptor não montado.</tu>
+	<tu xmlns:lang="ptb">Receptor não instalado.</tu>
+	<tu xmlns:lang="rus">Приемник не установлен.</tu>
+	<tu xmlns:lang="esp">No tiene receptor.</tu>
+	<tu xmlns:lang="chs">接收器未安装。</tu>
+	<tu xmlns:lang="kor">수신기가 장착되지 않음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_EXTERIOR_LIGHTING">
+	<tu xmlns:lang="eng">Exterior lighting</tu>
+	<tu xmlns:lang="nld">Buitenverlichting</tu>
+	<tu xmlns:lang="fra">Eclairage exterieur</tu>
+	<tu xmlns:lang="deu">Aussenbeleuchtung</tu>
+	<tu xmlns:lang="ita">Illuminazione esterna</tu>
+	<tu xmlns:lang="jpn">車外火類</tu>
+	<tu xmlns:lang="ptg">Luzes exteriores</tu>
+	<tu xmlns:lang="ptb">Iluminação externa</tu>
+	<tu xmlns:lang="rus">Наружное освещение</tu>
+	<tu xmlns:lang="esp">Iluminación exterior</tu>
+	<tu xmlns:lang="chs">外部照明设备</tu>
+	<tu xmlns:lang="kor">외부 조명</tu>
+</tm>

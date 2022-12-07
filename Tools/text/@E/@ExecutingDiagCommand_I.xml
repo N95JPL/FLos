@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ExecutingDiagCommand_I">
+	<tu xmlns:lang="eng">Executing diagnostic command.</tu>
+	<tu xmlns:lang="nld">Diagnoseopdracht wordt uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Commande de diagnostic en cours d'exécution.</tu>
+	<tu xmlns:lang="deu">Diagnosebefehl wird ausgeführt.</tu>
+	<tu xmlns:lang="ita">Esecuzione in corso di comando diagnostico.</tu>
+	<tu xmlns:lang="jpn">診断コマンド実行中。</tu>
+	<tu xmlns:lang="ptg">Execução do comando de diagnóstico.</tu>
+	<tu xmlns:lang="ptb">Executando o comando de diagnóstico.</tu>
+	<tu xmlns:lang="rus">Выполнение команды системы диагностики.</tu>
+	<tu xmlns:lang="esp">Ejecutando comando de diagnosis.</tu>
+	<tu xmlns:lang="chs">执行诊断命令。</tu>
+	<tu xmlns:lang="kor">진단 명령 실행</tu>
+</tm>

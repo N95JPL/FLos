@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RUN_THIRD_BUTTON">
+	<tu
+    xmlns:lang="eng"
+  >On completion of this application, use the program 'third button application' within the set-up and configuration section to program each individual 3rd button.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Na het uitvoeren van deze toepassing programmeert u met het programma 'third button application' (toepassing derde toets) in het onderdeel 'set-up and configuration' (instellingen en configuratie) elke afzonderlijke derde toets.</tu>
+	<tu
+    xmlns:lang="fra"
+  >A la fin de cette application, utilisez le programme 'third button application' (application du troisième bouton) dans la section configuration pour programmer chaque 3e bouton individuellement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Beendigung dieses Anwendungsprogramms das Programm 'Third button application' (Zuordnung dritte Taste) im Einstellungs- und Konfigurationsabschnitt nutzen, um jede einzelne dritte Taste zu programmieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al termine di questa applicazione, utilizzare il programma 'third button application' (applicazione terzo tasto) nell'ambito della sezione di installazione e configurazione per programmare ciascun terzo tasto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションの完了時には、セットアップおよびコンフィギュレーション セクションの中の「third button application (第 3 ボタン アプリケーション)」を使用し、個別の第 3 ボタンをプログラムしなさい。</tu>
+	<tu xmlns:lang="ptg">Visualização de dados instantâneos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após a conclusão deste aplicativo, use o programa aplicativo do terceiro botão na seção de configuração e set-up para programar cada terceiro botão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По окончании данной программы используйте программу 'приложение третьей кнопки' в разделе программы установки и конфигурации для программирования каждой отдельной третьей кнопки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Al concluir la aplicación, utilizar el programa 'Third button application' (aplicación del tercer botón) en la sección de preparación y configuración para programar cada tercer botón individual.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'完成这一应用程序后，利用设置与配置一节内的'第 3 按钮应用程序'给每一个第 3 按钮进行编程。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션이 완료되면 설정 및 구성 섹션 내에 있는 '세 번째 버튼 사용' 프로그램을 사용하여 세 번째 버튼을 개별적으로 프로그래밍하십시오.</tu>
+</tm>

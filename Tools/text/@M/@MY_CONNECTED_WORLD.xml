@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MY_CONNECTED_WORLD">
+	<tu xmlns:lang="eng">My connected world</tu>
+	<tu xmlns:lang="nld">Aangesloten multimedia apparaten</tu>
+	<tu xmlns:lang="fra">Systèmes embarqués et de télécommunications.</tu>
+	<tu xmlns:lang="deu">Meine angeschlossene Welt</tu>
+	<tu xmlns:lang="ita">Connessioni</tu>
+	<tu xmlns:lang="jpn">マイ ネットワーク</tu>
+	<tu xmlns:lang="ptg">My connected world</tu>
+	<tu xmlns:lang="ptb">Meu mundo conectado</tu>
+	<tu xmlns:lang="rus">Мои ссылки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sistemas de a bordo, teléfono móvil y accesorios multimedia portátiles integrados</tu>
+	<tu xmlns:lang="chs">我的连通世界</tu>
+	<tu xmlns:lang="kor">내 커넥티드 월드</tu>
+</tm>

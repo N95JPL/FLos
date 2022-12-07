@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NEUT_CNTRL_FUN">
+	<tu xmlns:lang="eng">Neutral control function</tu>
+	<tu xmlns:lang="nld">Regelfunctie in de neutraalstand</tu>
+	<tu xmlns:lang="fra">Fonction de commande de point mort</tu>
+	<tu xmlns:lang="deu">Neutrale Steuerfunktion</tu>
+	<tu xmlns:lang="ita">Funzione comando folle</tu>
+	<tu xmlns:lang="jpn">ニュートラル コントロール機能\</tu>
+	<tu xmlns:lang="ptg">Função de comando do ponto morto</tu>
+	<tu xmlns:lang="ptb">Função de controle do neutro</tu>
+	<tu xmlns:lang="rus">Функция контроля нейтрального положения </tu>
+	<tu xmlns:lang="esp">Función de control de punto muerto</tu>
+	<tu xmlns:lang="chs">空档控制功能</tu>
+	<tu xmlns:lang="kor">중립 컨트롤 기능</tu>
+</tm>

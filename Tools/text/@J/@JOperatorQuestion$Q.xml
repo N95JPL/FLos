@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JOperatorQuestion$Q">
+	<tu xmlns:lang="eng">Operator question</tu>
+	<tu xmlns:lang="nld">OPERATOR VRAAG</tu>
+	<tu xmlns:lang="fra">QUESTION DE L'OPERATEUR</tu>
+	<tu xmlns:lang="deu">BEDIENERFRAGE</tu>
+	<tu xmlns:lang="ita">DOMANDA DELL'OPERATORE</tu>
+	<tu xmlns:lang="jpn">ｵﾍﾟﾚーﾀへの質問</tu>
+	<tu xmlns:lang="ptg">Pergunta ao operador</tu>
+	<tu xmlns:lang="ptb">Questão do operador</tu>
+	<tu xmlns:lang="rus">Вопрос оператора</tu>
+	<tu xmlns:lang="esp">PREGUNTA DEL OPERARIO</tu>
+	<tu xmlns:lang="chs">操作人员问题</tu>
+	<tu xmlns:lang="kor">작업자 질문</tu>
+</tm>

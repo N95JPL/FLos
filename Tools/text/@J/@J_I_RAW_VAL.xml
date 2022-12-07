@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RAW_VAL">
+	<tu xmlns:lang="eng">Raw value</tu>
+	<tu xmlns:lang="nld">Onbewerkte waarde</tu>
+	<tu xmlns:lang="fra">Valeur brute</tu>
+	<tu xmlns:lang="deu">Rohwert</tu>
+	<tu xmlns:lang="ita">Valore grezzo</tu>
+	<tu xmlns:lang="jpn">実数値</tu>
+	<tu xmlns:lang="ptg">Valor bruto</tu>
+	<tu xmlns:lang="ptb">Valor bruto</tu>
+	<tu xmlns:lang="rus">Предварительное значение</tu>
+	<tu xmlns:lang="esp">Valor sin procesar</tu>
+	<tu xmlns:lang="chs">原始值</tu>
+	<tu xmlns:lang="kor">원시 값</tu>
+</tm>

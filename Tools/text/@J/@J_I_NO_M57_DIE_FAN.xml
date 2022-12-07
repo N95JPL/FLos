@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_M57_DIE_FAN">
+	<tu xmlns:lang="eng">No M57 diesel ebox fan</tu>
+	<tu xmlns:lang="nld">Geen M57 diesel ebox-ventilator</tu>
+	<tu xmlns:lang="fra">Pas de ventilateur boîtier électronique diesel M57</tu>
+	<tu xmlns:lang="deu">Kein M57 Diesel - Lüfter Elektronik-Anschlusskasten</tu>
+	<tu xmlns:lang="ita">Nessuna M57 ventola ebox diesel</tu>
+	<tu xmlns:lang="jpn">M57 ディーゼル エレクトロニック ボックス ファンなし</tu>
+	<tu xmlns:lang="ptg">Sem M57 ventoinha da e-box, motor Diesel</tu>
+	<tu xmlns:lang="ptb">Sem M57, diesel, ventilador do E-box</tu>
+	<tu
+    xmlns:lang="rus"
+  >Без вентилятора охлаждения модуля дизельного двигателя M57</tu>
+	<tu
+    xmlns:lang="esp"
+  >No tiene ventilador de la caja de módulos de control para M57 Diesel</tu>
+	<tu xmlns:lang="chs">无 M57 柴油机 Ebox 风扇</tu>
+	<tu xmlns:lang="kor">M57 디젤 E-box 팬 없음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineStopStartFault">
+	<tu xmlns:lang="eng">Engine stop/start system fault</tu>
+	<tu xmlns:lang="nld">Storing in Stop/Start-systeem</tu>
+	<tu xmlns:lang="fra">Défaillance du système Arrêt/Démarrage du moteur</tu>
+	<tu xmlns:lang="deu">Motor-Stopp/Start-System – Fehler</tu>
+	<tu xmlns:lang="ita">Guasto del sistema Stop/Start del motore</tu>
+	<tu xmlns:lang="jpn">スタート/ストップ システムの不具合</tu>
+	<tu xmlns:lang="ptg">Avaria do sistema Stop/Start do motor</tu>
+	<tu xmlns:lang="ptb">Falha do sistema Stop/Start do motor</tu>
+	<tu xmlns:lang="rus">Неисправность системы стоп/старт </tu>
+	<tu xmlns:lang="esp">Fallo del sistema Stop/Start del motor</tu>
+	<tu xmlns:lang="chs">发动机停止/启动系统故障</tu>
+	<tu xmlns:lang="kor">엔진 Stop/Start 시스템 고장</tu>
+</tm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_POW_18_WAY_PASS_SEAT_ADJ">
+	<tu xmlns:lang="eng">Power 18-way  -  Passenger's seat adjustment</tu>
+	<tu
+    xmlns:lang="nld"
+  >18-voudig elektrisch verstelbaar  -  Verstelling van passagiersstoel</tu>
+	<tu xmlns:lang="fra">Alimentation 18 voies  -  Réglage de siège passager</tu>
+	<tu
+    xmlns:lang="deu"
+  >Versorgung, 18-polig  -  Sitzverstellung Beifahrerseite</tu>
+	<tu xmlns:lang="ita">Alimentazione 18 vie  -  Regolazione sedile passeggero</tu>
+	<tu xmlns:lang="jpn">18 ウェイ電源供給  －  助手席側シート調整</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Alimentação, 18 vias  -  Regulação do banco do passageiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ajuste de 18 posições da alimentação  -  Ajuste do assento do passageiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >18-контактный разъем питания  -  Регулировка сиденья пассажира</tu>
+	<tu
+    xmlns:lang="esp"
+  >Eléctrico de ajuste en 18 sentidos  -  Ajuste del asiento del acompañante</tu>
+	<tu xmlns:lang="chs">18 路电源  -  乘客一侧座椅调节器</tu>
+	<tu xmlns:lang="kor">전원 18웨이  -  조수석 시트 조정</tu>
+</tm>

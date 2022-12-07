@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ConnDiagCable$A">
+	<tu
+    xmlns:lang="eng"
+  >Connect the diagnostic cable to the tester in port B and to the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Sluit de diagnosekabel aan op de tester in poort B en op het voertuig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Connectez le câble de diagnostic au testeur dans le port B et au véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diagnosekabel am Testgerät an Anschluss B und am Fahrzeug anschließen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Collegare il cavo di diagnostica alla porta B dell'apparecchio di prova e al veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >診断ケーブルをポート B のテスターと車両に接続しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligar o cabo de diagnóstico ao aparelho de diagnóstico no ponto A e ao veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conecte o cabo de diagnóstico ao testador na porta B e ao veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подключите диагностический провод к каналу В тестера и к автомобилю.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Enchufar el cable de diagnosis al comprobador del puerto B y al vehículo.</tu>
+	<tu xmlns:lang="chs">将诊断电缆连至测试仪端口 B，并连接至车辆。</tu>
+	<tu xmlns:lang="kor">포트 B의 테스터와 차량에 진단 케이블을 연결하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SEL_SERV_INT_OPT">
+	<tu xmlns:lang="eng">Please select service interval option</tu>
+	<tu xmlns:lang="nld">Selecteer de optie voor het onderhoudsinterval</tu>
+	<tu xmlns:lang="fra">Sélectionner l'option de périodicité d'entretien</tu>
+	<tu xmlns:lang="deu">Bitte Option für das Wartungsintervall wählen</tu>
+	<tu xmlns:lang="ita">Selezionare un'opzione per l'indicatore dei tagliandi</tu>
+	<tu xmlns:lang="jpn">サービス間隔オプションを選択する</tu>
+	<tu xmlns:lang="ptg">Seleccione uma opção de revisão</tu>
+	<tu xmlns:lang="ptb">Selecione a opção intervalo de manutenção</tu>
+	<tu xmlns:lang="rus">Выберите вариант интервала обслуживания</tu>
+	<tu xmlns:lang="esp">Seleccione una opción de intervalo entre revisiones</tu>
+	<tu xmlns:lang="chs">请选择保养间隔选项</tu>
+	<tu xmlns:lang="kor">서비스 주기 옵션을 선택하십시오.</tu>
+</tm>

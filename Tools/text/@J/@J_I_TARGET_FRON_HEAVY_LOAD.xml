@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TARGET_FRON_HEAVY_LOAD">
+	<tu xmlns:lang="eng">Target front heavy load</tu>
+	<tu xmlns:lang="nld">Zware belasting doel, voor</tu>
+	<tu xmlns:lang="fra">Cible avant charge lourde</tu>
+	<tu xmlns:lang="deu">Sollwert vorn, schwere Last</tu>
+	<tu xmlns:lang="ita">Target anteriore carico pesante</tu>
+	<tu xmlns:lang="jpn">フロント重負荷目標</tu>
+	<tu xmlns:lang="ptg">Valor alvo - eixo dianteiro, carga pesada</tu>
+	<tu xmlns:lang="ptb">Destino dianteiro de carga pesada</tu>
+	<tu xmlns:lang="rus">Заданная величина, спереди - большая нагрузка</tu>
+	<tu
+    xmlns:lang="esp"
+  >Valor previsto para el neumático delantero - carga pesada</tu>
+	<tu xmlns:lang="chs">目标值 - 前部重负荷</tu>
+	<tu xmlns:lang="kor">대상 프론트 중부하</tu>
+</tm>

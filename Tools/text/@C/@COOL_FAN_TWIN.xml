@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@COOL_FAN_TWIN">
+	<tu xmlns:lang="eng">Twin speed cooling fan</tu>
+	<tu xmlns:lang="nld">Koelventilator met twee snelheden</tu>
+	<tu xmlns:lang="fra">Ventilateur de refroidissement à deux vitesses</tu>
+	<tu xmlns:lang="deu">Kühlerlüfter mit zwei Drehzahlen</tu>
+	<tu xmlns:lang="ita">Ventola di raffreddamento due velocità</tu>
+	<tu xmlns:lang="jpn">ツイン スピード クーリング ファン</tu>
+	<tu xmlns:lang="ptg">Ventoinha de arrefecimento de velocidade dupla</tu>
+	<tu xmlns:lang="ptb">Ventoinha de arrefecimento de velocidade dupla</tu>
+	<tu xmlns:lang="rus">Двухскоростной вентилятор системы охлаждения</tu>
+	<tu xmlns:lang="esp">Ventilador de refrigeración de dos velocidades</tu>
+	<tu xmlns:lang="chs">双速冷却风扇</tu>
+	<tu xmlns:lang="kor">2단 냉각 팬</tu>
+</tm>

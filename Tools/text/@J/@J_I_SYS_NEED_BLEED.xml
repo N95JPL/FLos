@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SYS_NEED_BLEED">
+	<tu xmlns:lang="eng">System needs bleeding</tu>
+	<tu xmlns:lang="nld">Het systeem moet onlucht worden</tu>
+	<tu xmlns:lang="fra">Le système doit être purgé.</tu>
+	<tu xmlns:lang="deu">Das System muss entlüftet werden.</tu>
+	<tu xmlns:lang="ita">Il sistema deve essere spurgato</tu>
+	<tu xmlns:lang="jpn">システムにはエア抜きが必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O fluido é corrosivo e danifica áreas fora do sistema de travões.</tu>
+	<tu xmlns:lang="ptb">O sistema precisa de sangria</tu>
+	<tu xmlns:lang="rus">Необходима прокачка системы</tu>
+	<tu xmlns:lang="esp">Se necesita purgar el sistema</tu>
+	<tu xmlns:lang="chs">系统需要排放</tu>
+	<tu xmlns:lang="kor">시스템 블리딩 필요</tu>
+</tm>

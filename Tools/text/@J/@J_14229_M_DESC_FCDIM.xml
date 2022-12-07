@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_FCDIM">
+	<tu
+    xmlns:lang="eng"
+  >Front control/display interface module (high level display front)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bediening/display interface-module voorin (hoog display voorin).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module d'interface d'affichage/de commande avant (affichage avant haut de gamme)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Steuergerät vorne/Display-Schnittstellenmodul (Display vorne in gehobener Ausführung)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo interfaccia display/comando anteriore (display anteriore di gamma alta)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フロント コントロール／ディスプレイ インターフェース モジュール (ハイ レベル ディスプレイ フロント)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo da interface de comando/visor dianteiro (ecrã dianteiro de alto nível)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo de interface de controle/tela frontal (tela dianteira em nível alto)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Передний интерфейсный блок управления/отображения (передний дисплей высокого уровня)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de interfaz de mandos/pantalla delantera (pantalla delantera de gama alta)</tu>
+	<tu xmlns:lang="chs">前控制/显示界面模块（高水平显示正面）</tu>
+	<tu
+    xmlns:lang="kor"
+  >프론트 컨트롤/디스플레이 인터페이스 모듈(고급 전방 디스플레이)</tu>
+</tm>

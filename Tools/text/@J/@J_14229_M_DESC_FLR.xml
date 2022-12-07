@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_FLR">
+	<tu xmlns:lang="eng">Forward looking radar</tu>
+	<tu xmlns:lang="nld">Naar voren gerichte radar</tu>
+	<tu xmlns:lang="fra">Radar à détection avant</tu>
+	<tu xmlns:lang="deu">Abstandssensor vorn</tu>
+	<tu xmlns:lang="ita">Radar distanza frontale</tu>
+	<tu xmlns:lang="jpn">前方監視レーダー</tu>
+	<tu xmlns:lang="ptg">Radar dianteiro</tu>
+	<tu xmlns:lang="ptb">Radar de estrada à frente</tu>
+	<tu xmlns:lang="rus">Передний радар</tu>
+	<tu xmlns:lang="esp">Radar delantero de avance</tu>
+	<tu xmlns:lang="chs">前向观察雷达</tu>
+	<tu xmlns:lang="kor">전방 주시 레이더</tu>
+</tm>

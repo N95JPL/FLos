@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RUSS_LANG_WARN">
+	<tu
+    xmlns:lang="eng"
+  >You may be required to perform a module replacement and software updates.  In that case this will be a lenghty process.  You will be offered the chance to abort before these actions, if you require.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Mogelijk moet u de module vervangen en software bijwerken.  Dit neemt geruime tijd in beslag.  U krijgt voorafgaand aan deze handelingen de kans om de procedure af te breken, als u dat wenst.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous pouvez être amené à procéder au remplacement du module et à une série de mises à jour du logiciel.  Si tel est le cas, préparez-vous à lancer une procédure assez longue.  Vous avez la possibilité d’abandonner prématurément les actions en cours à tout moment.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sie müssen u. U. das Modul erneuern und die Software aktualisieren.  In diesem Fall wird es eine längere Zeit dauern.  Sie haben die Möglichkeit, den Vorgang ggf. vorher abzubrechen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Possono essere richiesti la sostituzione del modulo e l'aggiornamento del software.  In questo caso la procedura avrà tempi lunghi.  Viene offerta la possibilità di interrompere la procedura prima di queste operazioni, se necessario.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >???????????????????????????????????????  ??????????????????????  ???????????????????????????????????????</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Poderá ser-lhe pedido que substitua o módulo e actualize o software.  Neste caso, o processo será demorado.  Terá a opção de cancelar antes destas acções, se necessário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Você pode ser solicitado a realizar uma substituição do módulo e atualizações de software.  Nesse caso, esse processo será um pouco mais demorado.  Você terá a oportunidade de abortar antes de realizar essas ações, se você desejar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Возможно, потребуется заменить модуль и обновить программное обеспечение.  В этом случае процедура займет много времени.  Вам будет предложено выйти из программы до выполнения этих действий при необходимости прервать процесс.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Es posible que deba realizar la sustitución del módulo y actualizaciones de software.  En ese caso, el proceso llevará más tiempo.  Si lo prefiere, podrá optar por cancelar el proceso antes de llevar a cabo estas acciones.</tu>
+	<tu
+    xmlns:lang="chs"
+  >??????????????????????  ??????,?????????  ??????????????????????,????????</tu>
+	<tu
+    xmlns:lang="kor"
+  >모듈 교체 및 소프트웨어 업데이트를 수행해야 할 수도 있습니다.  그런 경우, 이는 긴 프로세스가 될 것입니다.  필요하다면 이런 조치 이전에 중단할 기회가 주어질 것입니다.</tu>
+</tm>

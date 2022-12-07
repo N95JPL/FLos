@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@UTILMENU_Imperial_I">
+	<tu xmlns:lang="eng">Imperial</tu>
+	<tu xmlns:lang="nld">Brits</tu>
+	<tu xmlns:lang="fra">Système anglo-saxon</tu>
+	<tu xmlns:lang="deu">Britisch</tu>
+	<tu xmlns:lang="ita">Unità inglesi</tu>
+	<tu xmlns:lang="jpn">インペリアル</tu>
+	<tu xmlns:lang="ptg">Imperial</tu>
+	<tu xmlns:lang="ptb">Imperial</tu>
+	<tu xmlns:lang="rus">Британские</tu>
+	<tu xmlns:lang="esp">Inglesas</tu>
+	<tu xmlns:lang="chs">英制</tu>
+	<tu xmlns:lang="kor">임페리얼</tu>
+</tm>

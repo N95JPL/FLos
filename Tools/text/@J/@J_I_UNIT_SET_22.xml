@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNIT_SET_22">
+	<tu
+    xmlns:lang="eng"
+  >Temperature:  °F  -  Clock:  24 hour  -  Distance:  miles  -  Fuel:  km/liter</tu>
+	<tu
+    xmlns:lang="nld"
+  >Temperatuur:  °F   -  Klok:  24 uur   -  Afstand:  mijl   -  Brandstof:  km/liter</tu>
+	<tu
+    xmlns:lang="fra"
+  >Température :  °F   -  Horloge :  24 heures   -  Distance :  miles   -  Carburant :  km/litre</tu>
+	<tu
+    xmlns:lang="deu"
+  >Temperatur:  °F   -  Uhr:  24 Stunden   -  Distanz:  Meilen   -  Kraftstoff:  km/Liter</tu>
+	<tu
+    xmlns:lang="ita"
+  >Temperatura:  °F  -  Orologio:  24 ore  -  Distanza:  miglia  -  Carburante:  km/litro</tu>
+	<tu
+    xmlns:lang="jpn"
+  >温度：  °F  －  時計：  24 時間  －  距離：  マイル  －  燃費：  km／L</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temperatura:  °F  -  Relógio:  24 horas  -  Distância:  milhas  -  Combustível:  km/litro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Temperatura: °F  -  Relógio: 24 horas  -  Distância: milhas  -  Combustível: km/litro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Температура:  °F   -  Часы: 24-час. формат   -  Пробег:  миль   -  Расход топлива:  км/л</tu>
+	<tu
+    xmlns:lang="esp"
+  >Temperatura:  °F  -  Reloj:  24 horas  -  Distancia:  millas  -  Combustible:  Km/litro</tu>
+	<tu
+    xmlns:lang="chs"
+  >温度：  °F   -  时钟：  24 小时  -  距离：  英里  -  燃油：  公里/升</tu>
+	<tu
+    xmlns:lang="kor"
+  >온도: °F  -  시계: 24시간  -  거리: 마일  -  연료: km/리터</tu>
+</tm>

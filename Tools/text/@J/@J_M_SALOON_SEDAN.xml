@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_SALOON_SEDAN">
+	<tu xmlns:lang="eng">Saloon/sedan</tu>
+	<tu xmlns:lang="nld">Saloon / sedan</tu>
+	<tu xmlns:lang="fra">Berline</tu>
+	<tu xmlns:lang="deu">Limousine</tu>
+	<tu xmlns:lang="ita">Berlina</tu>
+	<tu xmlns:lang="jpn">サルーン／セダン</tu>
+	<tu xmlns:lang="ptg">Saloon/sedan</tu>
+	<tu xmlns:lang="ptb">Sedan</tu>
+	<tu xmlns:lang="rus">Седан</tu>
+	<tu xmlns:lang="esp">Berlina</tu>
+	<tu xmlns:lang="chs">轿车</tu>
+	<tu xmlns:lang="kor">세단</tu>
+</tm>

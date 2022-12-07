@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WRIT_SEN_ID_VALUE">
+	<tu xmlns:lang="eng">Writing sensor identification values.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bezig met het schrijven van sensoridentificatiewaarden.</tu>
+	<tu xmlns:lang="fra">Valeurs d'identification du capteur d'écriture.</tu>
+	<tu xmlns:lang="deu">Sensor-Kennungswerte werden geschrieben.</tu>
+	<tu xmlns:lang="ita">Scrittura in corso valori identificazione sensore.</tu>
+	<tu xmlns:lang="jpn">センサー ID 数値を書き込み中</tu>
+	<tu xmlns:lang="ptg">A escrever valores de identificação dos sensores.</tu>
+	<tu xmlns:lang="ptb">Valores de identificação do sensor de gravação.</tu>
+	<tu xmlns:lang="rus">Запись значений идентификаторов датчиков.</tu>
+	<tu xmlns:lang="esp">Valores de identificación del sensor de escritura.</tu>
+	<tu xmlns:lang="chs">写入传感器标识值。</tu>
+	<tu xmlns:lang="kor">센서 식별 정보값 기록 중</tu>
+</tm>

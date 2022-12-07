@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CORRECT_PRESS_TICK">
+	<tu xmlns:lang="eng">If this is correct press tick to continue.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als dit klopt, drukt u op de afvinktoets om verder te gaan.</tu>
+	<tu xmlns:lang="fra">Si correct, cliquer sur la coche pour continuer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn dies korrekt ist, das Häkchen zum Fortfahren antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se ciò è corretto, premere il segno di spunta per continuare.</tu>
+	<tu xmlns:lang="jpn">これが正しければティックを押して続行しなさい。</tu>
+	<tu xmlns:lang="ptg">Se estiver correcto, prima o visto para continuar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se este estiver correto, pressione a marca de escala para continuar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если правильно, нажмите галочку для продолжения работы.</tu>
+	<tu xmlns:lang="esp">Si es correcto, pulsar el botón para continuar.</tu>
+	<tu xmlns:lang="chs">如果这一性能正确，请按勾选键继续。</tu>
+	<tu xmlns:lang="kor">이것이 올바르면 체크 표시를 눌러 계속 진행하십시오.</tu>
+</tm>

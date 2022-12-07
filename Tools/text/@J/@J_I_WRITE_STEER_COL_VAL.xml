@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WRITE_STEER_COL_VAL">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will write the steering column calibration values</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal de kalibratiewaarden van de stuurkolom schrijven</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de consigner les valeurs d'étalonnage de la colonne de direction</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Maßnahme werden die Werte für die Lenksäulenkalibrierung geschrieben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura scrive i valori di taratura del piantone di sterzo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順はステアリング コラム キャリブレーション数値を書き込みます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento vai gravar os valores de calibragem da coluna da direcção</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento irá gravar os valores de calibração da coluna de direção</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная процедура служит для записи калибровочных значений рулевой колонки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento escribe los valores de calibración de la columna de dirección</tu>
+	<tu xmlns:lang="chs">本程序将写入转向柱校验值</tu>
+	<tu xmlns:lang="kor">이 절차에서는 스티어링 칼럼 보정 값을 씁니다.</tu>
+</tm>

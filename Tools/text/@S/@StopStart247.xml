@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart247">
+	<tu xmlns:lang="eng">Throttle flow adaptations not in range</tu>
+	<tu xmlns:lang="nld">Gasklepstroomaanpassingen niet binnen bereik</tu>
+	<tu xmlns:lang="fra">Adaptation du débit du papillon hors limites</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anpassungen des Drosselklappen-Durchsatzes nicht innerhalb des zulässigen Bereichs</tu>
+	<tu xmlns:lang="ita">Adattamenti della portata della farfalla fuori gamma</tu>
+	<tu xmlns:lang="jpn">スロットルのフロー補正が範囲外</tu>
+	<tu xmlns:lang="ptg">Adaptações do fluxo do acelerador fora da gama</tu>
+	<tu xmlns:lang="ptb">Adaptações do fluxo de aceleração fora da faixa</tu>
+	<tu
+    xmlns:lang="rus"
+  >Корректировка потока дроссельной заслонки вне диапазона</tu>
+	<tu xmlns:lang="esp">Adaptaciones de caudal de la mariposa fuera de rango</tu>
+	<tu xmlns:lang="chs">节气门气流自适应不在范围内</tu>
+	<tu xmlns:lang="kor">스로틀 흐름 어댑테이션이 범위를 벗어남</tu>
+</tm>

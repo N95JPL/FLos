@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_59">
+	<tu
+    xmlns:lang="eng"
+  >0x59 : Exited due to alternate learn request from external tool.</tu>
+	<tu
+    xmlns:lang="nld"
+  >0x59 : inleren afgesloten vanwege afzonderlijk inleerverzoek vanuit externe apparatuur.</tu>
+	<tu
+    xmlns:lang="fra"
+  >0x59 : Quitté à cause d'une autre demande d'apprentissage par un outil externe.</tu>
+	<tu
+    xmlns:lang="deu"
+  >0x59 : Beendet aufgrund einer anderen Lernanforderung von einem externen Werkzeug.</tu>
+	<tu
+    xmlns:lang="ita"
+  >0x59 : Interrotto a causa di una richiesta di apprendimento alternativa dallo strumento esterno.</tu>
+	<tu xmlns:lang="jpn">0x59 : 外部ツールからの代替学習要求により終了。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >0x59 : Saiu devido a pedido de programação alternativa proveniente de ferramenta externa.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >0X59 : Encerrada devido à solicitação de aprendizagem alternativa da ferramenta externa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >0x59 : Произведен выход из-за альтернативного запроса на программирование с внешнего прибора.</tu>
+	<tu
+    xmlns:lang="esp"
+  >0x59: Se cerró debido a otra solicitud de aprendizaje de una herramienta externa.</tu>
+	<tu xmlns:lang="chs">0x59： 因来自外部工具的替代记忆请求而退出运行。</tu>
+	<tu xmlns:lang="kor">0x59 : 외부 도구의 다른 학습 요청 때문에 종료됩니다.</tu>
+</tm>

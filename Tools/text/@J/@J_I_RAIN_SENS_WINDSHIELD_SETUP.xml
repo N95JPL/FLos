@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RAIN_SENS_WINDSHIELD_SETUP">
+	<tu xmlns:lang="eng">Rain sensor windshield setup</tu>
+	<tu xmlns:lang="nld">Voorruitinstelling van regensensor</tu>
+	<tu
+    xmlns:lang="fra"
+  >Configuration du détecteur de pluie en fonction du pare-brise</tu>
+	<tu xmlns:lang="deu">Regensensor-Einrichtung mit Windschutzscheibentyp</tu>
+	<tu xmlns:lang="ita">Impostazione parabrezza per il sensore pioggia</tu>
+	<tu xmlns:lang="jpn">レイン センサー ウィンドシールド セットアップ</tu>
+	<tu xmlns:lang="ptg">Configuração do sensor de chuva no pára-brisas</tu>
+	<tu xmlns:lang="ptb">Instalação de para-brisa/sensor de chuva</tu>
+	<tu xmlns:lang="rus">Настройка типа ветрового стекла для датчика дождя</tu>
+	<tu xmlns:lang="esp">Configuración del parabrisas para el sensor de lluvia</tu>
+	<tu xmlns:lang="chs">雨量传感器挡风玻璃设置</tu>
+	<tu xmlns:lang="kor">레인 센서 윈드실드 설정</tu>
+</tm>

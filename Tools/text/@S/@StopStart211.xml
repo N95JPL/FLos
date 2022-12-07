@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart211">
+	<tu
+    xmlns:lang="eng"
+  >Charge the primary battery following the recharge procedure set out in TOPIx, an estimated battery state of charge of 80% must be obtained before re-running the auto stop/start application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Laad de primaire accu op volgens de procedure voor opnieuw opladen in TOPIx. Er moet een geschatte laadtoestand van de accu van 80% worden verkregen voordat u de toepassing voor automatische Stop/Start opnieuw uitvoert.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Chargez la batterie principale en respectant la procédure de recharge définie dans TOPIx, un état de charge de la batterie estimé à 80 % doit être obtenu avant de relancer l'application Arrêt/Démarrage auto.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Hauptbatterie gemäß Beschreibung des Wiederaufladeverfahrens in TOPIx aufladen; vor einer erneuten Ausführung der Auto-Stopp-Start-Anwendung muss ein Ladezustand der Batterie von 80 % erreicht sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Caricare la batteria principale dopo aver eseguito la procedura di ricarica descritta in TOPIx; è necessario raggiungere uno stato di carica della batteria stimato dell'80% affinché l'applicazione Stop/Start automatico possa essere riutilizzata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >TOPIx で規定されている充電手順に従って、プライマリ バッテリーを充電します。自動ストップ/スタート スイッチ アプリケーションを再実行する前に予想バッテリー充電状態 80% を達成する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Carregue a bateria primária seguindo o procedimento de recarregamento definido no TOPIx. Deve obter-se um estado de carga estimado da bateria de 80% antes de voltar a executar a aplicação de paragem/arranque automático.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Carregue a bateria primária seguindo o procedimento de recarga estabelecido no TOPIx, um estado de carga da bateria estimado em 80% deve ser obtido antes de executar novamente o aplicativo de stop/start automático.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Зарядите основную аккумуляторную батарею, следуя указанным в TOPIx процедурам. Перед повторным запуском приложения Автоматическая интеллектуальная система запуска/остановки двигателя стоп/старт расчетный уровень заряда аккумуляторной батареи должен составлять 80 %.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cargue la batería principal siguiendo el procedimiento de recarga establecido en TOPIx. Se debe alcanzar un estado de carga aproximado del 80 % antes de volver a poner en marcha la aplicación del sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="chs"
+  >按照 TOPIx 中陈述的重新充电程序对主蓄电池进行充电，必须在达到 80% 的估计荷电状态后，才可重新运行自动停止/启动程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >TOPIx에 제시된 재충전 절차에 따라 기본 배터리를 충전하십시오. 자동 Stop/Start 응용 프로그램을 다시 실행하려면 배터리 충전 상태 추정치가 80% 이상이어야 합니다.</tu>
+</tm>

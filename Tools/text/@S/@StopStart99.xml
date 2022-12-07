@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart99">
+	<tu
+    xmlns:lang="eng"
+  >Vehicles equipped with automatic demist may see this inhibit condition with the air conditioning set to off.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij auto's met automatische ontwaseming kan deze geblokkeerde toestand optreden wanneer de airconditioning is ingesteld op uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Dans les véhicules équipés de la fonction de désembuage automatique, cette neutralisation peut survenir lorsque la climatisation est désactivée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei Fahrzeugen mit automatischer Entfeuchtung kann es zu dieser Sperrbedingung kommen, wenn die Klimaanlage ausgeschaltet ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >I veicoli dotati di sbrinamento automatico possono presentare questa condizione di disabilitazione quando l'aria condizionata è spenta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >自動デミスタ搭載車両は、エアコンをオフに設定すると、この禁止状態が発生する可能性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta condição de inibição pode ser apresentada com o ar condicionado definido para o estado desligado em veículos equipados com desembaciamento automático.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Veículos equipados com desembaçamento automático podem ver essa condição de inibição com o ar condicionado desligado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В автомобилях с автоматическим обдувом стекол данная блокировка может появляться при выключении кондиционера.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta condición de bloqueo puede aparecer en los vehículos equipados con un sistema de desempañado automático con el aire acondicionado desactivado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >将空调设为关闭时，配备自动除雾功能的车辆可能会出现此禁止状况。</tu>
+	<tu
+    xmlns:lang="kor"
+  >자동 서리 제거 장치가 장착된 차량에서는 에어컨을 꺼짐으로 설정한 상태에서 이 억제 상태를 확인할 수 있습니다.</tu>
+</tm>

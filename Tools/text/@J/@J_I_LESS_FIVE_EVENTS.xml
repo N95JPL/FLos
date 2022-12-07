@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_FIVE_EVENTS">
+	<tu
+    xmlns:lang="eng"
+  >If there are less than five events then these are the only triggers since the electronic control unit was fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer er minder dan vijf gebeurtenissen zijn, zijn dit de enige triggers sinds de elektronische regelmodule werd gemonteerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'il y a moins de cinq événements, ceux-ci sont alors les seuls déclencheurs puisque le module de commande électronique était monté.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Finden sich weniger als fünf Ereignisse, handelt es sich um die einzigen Auslöseereignisse seit Einbau des elektronischen Steuergeräts.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se ci sono meno di cinque eventi, allora questi sono le uniche attivazioni da quando è stata montata l'unità di comando elettronica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イベントが 5 件以下の場合、これらはエレクトロニック コントロール ユニットが取り付けられたあとのトリガーだけです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se existirem menos de cinco eventos, estes serão os únicos desencadeadores, desde que a unidade electrónica de comando foi montada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Caso haja menos de cinco eventos, então, estes são os únicos disparos, uma vez que a unidade de controle eletrônico foi instalada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если количество событий менее пяти, то они являются единственными триггерами после установки электронного блока управления.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si hay menos de cinco eventos, son los únicos eventos de activación desde que se instaló la unidad de control electrónico.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果事件数少于5个，那么这些就是电子控制单元安装以来仅有的触发事件。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이벤트 수가 5개 미만인 경우 이런 이벤트가 전자 컨트롤 유닛이 장착된 이후의 유일한 트리거입니다.</tu>
+</tm>

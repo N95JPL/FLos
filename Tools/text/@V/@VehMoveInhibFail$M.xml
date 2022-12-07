@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VehMoveInhibFail$M">
+	<tu xmlns:lang="eng">Failed to inhibit vehicle movement.</tu>
+	<tu xmlns:lang="nld">Het blokkeren van de voertuigbeweging is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de neutralisation du mouvement du véhicule.</tu>
+	<tu xmlns:lang="deu">Fahrzeugbewegung konnte nicht gesperrt werden.</tu>
+	<tu xmlns:lang="ita">Mancata inibizione movimento veicolo.</tu>
+	<tu xmlns:lang="jpn">車両の動作の停止に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Falha em impedir o movimento do veículo.</tu>
+	<tu xmlns:lang="ptb">Falha ao inibir o movimento do veículo.</tu>
+	<tu xmlns:lang="rus">Ошибка блокировки перемещения автомобиля.</tu>
+	<tu xmlns:lang="esp">No se pudo inhibir el movimiento del vehículo.</tu>
+	<tu xmlns:lang="chs">抑制车辆运动失败。</tu>
+	<tu xmlns:lang="kor">차량 움직임 억제에 실패했습니다.</tu>
+</tm>

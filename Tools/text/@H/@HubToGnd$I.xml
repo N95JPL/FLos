@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HubToGnd$I">
+	<tu xmlns:lang="eng">Hub center to ground.</tu>
+	<tu xmlns:lang="nld">Afstand tussen het naafmiddelpunt en de grond.</tu>
+	<tu xmlns:lang="fra">Centre du moyeu à la masse.</tu>
+	<tu xmlns:lang="deu">Nabenmitte zu Boden.</tu>
+	<tu xmlns:lang="ita">Centro mozzo a terra.</tu>
+	<tu xmlns:lang="jpn">ハブ センターがアースへ落ちています。</tu>
+	<tu xmlns:lang="ptg">Centro do cubo à massa.</tu>
+	<tu xmlns:lang="ptb">Centro do cubo com o aterramento.</tu>
+	<tu xmlns:lang="rus">Расстояние от центра ступицы до земли.</tu>
+	<tu xmlns:lang="esp">Centro del cubo al suelo.</tu>
+	<tu xmlns:lang="chs">轮毂中心至地面。</tu>
+	<tu xmlns:lang="kor">허브 중앙에서 지면까지</tu>
+</tm>

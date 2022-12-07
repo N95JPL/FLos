@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_BRAKE_FLUID_PR">
+	<tu xmlns:lang="eng">Brake fluid hydraulic pressure</tu>
+	<tu xmlns:lang="nld">Hydraulische druk van de remvloeistof</tu>
+	<tu xmlns:lang="fra">Pression hydraulique de liquide de frein</tu>
+	<tu xmlns:lang="deu">Bremsflüssigkeitshydraulikdruck</tu>
+	<tu xmlns:lang="ita">Pressione idraulica liquido freni</tu>
+	<tu xmlns:lang="jpn">ブレーキ フルード ハイドロリック プレッシャ</tu>
+	<tu xmlns:lang="ptg">Pressão hidráulica do fluido dos travões</tu>
+	<tu xmlns:lang="ptb">Pressão hidráulica do fluido de freio</tu>
+	<tu xmlns:lang="rus">Гидравлическое давление тормозной жидкости</tu>
+	<tu xmlns:lang="esp">Presión hidráulica del líquido de frenos</tu>
+	<tu xmlns:lang="chs">制动液液压</tu>
+	<tu xmlns:lang="kor">브레이크 용액 유압</tu>
+</tm>

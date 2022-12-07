@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_REAR_SEAT_RECLIN">
+	<tu xmlns:lang="eng">Rear seat recliner not fitted</tu>
+	<tu xmlns:lang="nld">Rugleuningversteller van achterstoel niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Banquette arrière inclinable non montée</tu>
+	<tu xmlns:lang="deu">Rücksitz-Lehnenverstellung nicht eingebaut</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dispositivo inclinazione sedile posteriore non in dotazione</tu>
+	<tu xmlns:lang="jpn">リア シート リクライン非装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema de reclinação dos bancos traseiros não está instalado</tu>
+	<tu xmlns:lang="ptb">Reclinador do assento traseiro não instalado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Механизм изменения наклона заднего сиденья не установлен</tu>
+	<tu xmlns:lang="esp">No hay mecanismo de inclinación del asiento trasero</tu>
+	<tu xmlns:lang="chs">后座椅倾斜装置未安装</tu>
+	<tu xmlns:lang="kor">리어 시트 리클라이너가 장착되지 않음</tu>
+</tm>

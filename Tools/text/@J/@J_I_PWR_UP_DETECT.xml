@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PWR_UP_DETECT">
+	<tu xmlns:lang="eng">%d : power up detected.</tu>
+	<tu xmlns:lang="nld">%d : start gedetecteerd.</tu>
+	<tu xmlns:lang="fra">%d : mise sous tension détectée.</tu>
+	<tu xmlns:lang="deu">%d : Einschaltung festgestellt.</tu>
+	<tu xmlns:lang="ita">%d : rilevato aumento di potenza.</tu>
+	<tu xmlns:lang="jpn">%d : パワーアップ検出 </tu>
+	<tu xmlns:lang="ptg">%d: detectado arranque com corrente</tu>
+	<tu xmlns:lang="ptb">%d : ligamento detectado.</tu>
+	<tu xmlns:lang="rus">%d : обнаружено включение.</tu>
+	<tu xmlns:lang="esp">%d : puesta en marcha detectada.</tu>
+	<tu xmlns:lang="chs">%d ：已检测到电源启动。</tu>
+	<tu xmlns:lang="kor">%d: 출력 증대가 감지됨</tu>
+</tm>

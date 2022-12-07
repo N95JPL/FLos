@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HORN_SOUNDED">
+	<tu
+    xmlns:lang="eng"
+  >The horn/sounder should have sounded briefly if self test mode was enabled successfully.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De claxon/sirene behoorde kort een geluidssignaal te geven, als de zelftestfunctie met succes werd ingeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La sirène/l'avertisseur doivent retentir brièvement si le mode auto-test a été activé correctement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hupe/Signalhorn hätte bei erfolgreicher Aktivierung des Selbsttestmodus kurz ertönen sollen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'avvisatore acustico/la sirena dovrebbe aver suonato brevemente se la modalità di autodiagnosi è stata attivata correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セルフテスト モードが正常に作動可に設定されたとき、ホーン／サウンダーが短く鳴るはずです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A buzina/unidade sonora devia ter soado por breves instantes se o modo de autoteste tiver sido activado com êxito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A buzina/sirene deve ter soado rapidamente se o modo de auto teste foi ativado com êxito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Звуковой сигнал/оповещатель должен был включиться на короткое время, если был успешно включен режим самотестирования.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La bocina/avisador debería haber sonado momentáneamente si se logró habilitar el modo de autocomprobación.</tu>
+	<tu xmlns:lang="chs">如果自检模式成功启动，喇叭/发声器应该只是简短地鸣响。</tu>
+	<tu
+    xmlns:lang="kor"
+  >자체 테스트 모드가 올바로 사용되었을 경우 경음기/경보 발생기가 짧게 울렸어야 합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EAST_EUR_DVD">
+	<tu xmlns:lang="eng">Eastern Europe for DVD</tu>
+	<tu xmlns:lang="nld">Oost-Europa voor DVD </tu>
+	<tu xmlns:lang="fra">Europe de l'Est pour DVD </tu>
+	<tu xmlns:lang="deu">Osteuropa für DVD </tu>
+	<tu xmlns:lang="ita">Europa dell'Est per DVD</tu>
+	<tu xmlns:lang="jpn">東欧 - DVD</tu>
+	<tu xmlns:lang="ptg">Europa Ocidental para DVD</tu>
+	<tu xmlns:lang="ptb">Europa Oriental para DVD</tu>
+	<tu xmlns:lang="rus">Восточная Европа для DVD </tu>
+	<tu xmlns:lang="esp">Región de DVD: este de Europa</tu>
+	<tu xmlns:lang="chs">DVD 的东欧设置</tu>
+	<tu xmlns:lang="kor">DVD 동유럽</tu>
+</tm>

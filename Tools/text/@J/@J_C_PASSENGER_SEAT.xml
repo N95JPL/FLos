@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_PASSENGER_SEAT">
+	<tu xmlns:lang="eng">Passenger's seat.</tu>
+	<tu xmlns:lang="nld">Passagierszitting</tu>
+	<tu xmlns:lang="fra">Siege passager</tu>
+	<tu xmlns:lang="deu">Beifahrersitz</tu>
+	<tu xmlns:lang="ita">Sedile del passeggero</tu>
+	<tu xmlns:lang="jpn">ﾊﾟｯｾﾝｼﾞｬー・ｼーﾄ</tu>
+	<tu xmlns:lang="ptg">Banco do passageiro.</tu>
+	<tu xmlns:lang="ptb">Assento do passageiro.</tu>
+	<tu xmlns:lang="rus">Сиденье пассажира</tu>
+	<tu xmlns:lang="esp">Asiento del pasajero</tu>
+	<tu xmlns:lang="chs">乘客一侧座椅</tu>
+	<tu xmlns:lang="kor">조수석 시트.</tu>
+</tm>

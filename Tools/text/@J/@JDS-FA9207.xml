@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-FA9207">
+	<tu xmlns:lang="eng">Engine coolant temperature out of range</tu>
+	<tu xmlns:lang="nld">Temp. v. koelvloeistof buiten meetgebied</tu>
+	<tu xmlns:lang="fra">Températur réfrigérant moteur hors gamme</tu>
+	<tu xmlns:lang="deu">Motorkühlmitteltemp. außer Bereich</tu>
+	<tu xmlns:lang="ita">Temp.liqu.raffreddam.motore fuori limiti</tu>
+	<tu xmlns:lang="jpn">エンｼﾞン・クーラント・テンﾊﾟラチャ　基準範囲外</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temperatura do líquido de arrefecimento do motor fora da gama</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Temperatura do líquido de arrefecimento do motor fora da faixa</tu>
+	<tu
+    xmlns:lang="rus"
+  >Температура охлаждающей жидкости за пределами допустимого диапазона</tu>
+	<tu xmlns:lang="esp">Temp.líqu.enfriament.motor fuera límites</tu>
+	<tu xmlns:lang="chs">发动机冷却液温度超出范围</tu>
+	<tu xmlns:lang="kor">엔진 냉각수 온도가 범위를 벗어남</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEADER_ASSEMBLY">
+	<tu xmlns:lang="eng">Assembly/part</tu>
+	<tu xmlns:lang="nld">Samenstelling/onderdeel</tu>
+	<tu xmlns:lang="fra">Ensemble/élément</tu>
+	<tu xmlns:lang="deu">Baugruppe/Bauteil</tu>
+	<tu xmlns:lang="ita">Gruppo/componente.</tu>
+	<tu xmlns:lang="jpn">アセンブリ／パーツ</tu>
+	<tu xmlns:lang="ptg">Conjunto/peça</tu>
+	<tu xmlns:lang="ptb">Montagem/peça</tu>
+	<tu xmlns:lang="rus">Узел/деталь</tu>
+	<tu xmlns:lang="esp">Conjunto/pieza</tu>
+	<tu xmlns:lang="chs">总成/零件</tu>
+	<tu xmlns:lang="kor">어셈블리/부품</tu>
+</tm>

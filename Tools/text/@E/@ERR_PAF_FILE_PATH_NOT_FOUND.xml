@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ERR_PAF_FILE_PATH_NOT_FOUND">
+	<tu xmlns:lang="eng">Cannot find the path for specified PAF file</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het syteem kan het pad voor het gespecificeerde PAF-bestand niet vinden.</tu>
+	<tu xmlns:lang="fra">Chemin du fichier PAF spécifié introuvable.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Pfad zur angegebenen PAF-Datei kann nicht gefunden werden</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impossibile trovare il percorso del file PAF specificato</tu>
+	<tu xmlns:lang="jpn">特定 PAF ファイルのパスが見つかりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não é possível encontrar o caminho para o ficheiro PAF especificado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não é possível encontrar o caminho para o arquivo PAF especificado</tu>
+	<tu xmlns:lang="rus">Не удается найти путь к заданному файлу PAF</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se puede encontrar la ruta para el archivo PAF especificado</tu>
+	<tu xmlns:lang="chs">找不到指定的 PAF 文件路径</tu>
+	<tu xmlns:lang="kor">지정된 PAF 파일의 경로를 찾을 수 없음</tu>
+</tm>

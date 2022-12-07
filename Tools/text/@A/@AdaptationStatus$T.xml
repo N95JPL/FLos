@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AdaptationStatus$T">
+	<tu xmlns:lang="eng">Adaptation status.</tu>
+	<tu xmlns:lang="nld">Aanpassingsstatus.</tu>
+	<tu xmlns:lang="fra">Etat d'adaptation.</tu>
+	<tu xmlns:lang="deu">Anpassungsstatus.</tu>
+	<tu xmlns:lang="ita">Stato adattamento.</tu>
+	<tu xmlns:lang="jpn">補正ステータス</tu>
+	<tu xmlns:lang="ptg">Estado da adaptação.</tu>
+	<tu xmlns:lang="ptb">Status da adaptação.</tu>
+	<tu xmlns:lang="rus">Состояние адаптации</tu>
+	<tu xmlns:lang="esp">Estado de adaptación.</tu>
+	<tu xmlns:lang="chs">自适应状态。</tu>
+	<tu xmlns:lang="kor">어댑테이션 상태</tu>
+</tm>

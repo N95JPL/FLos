@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_SEAT_CAL">
+	<tu
+    xmlns:lang="eng"
+  >The following routines will conduct a seat calibration, the seat may move during this operation.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De volgende routines zullen een stoelkalibrering uitvoeren, tijdens deze bewerking kan de stoel bewegen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les programmes suivants permettent d'effectuer l'étalonnage des sièges ; ces derniers peuvent se déplacer pendant cette opération.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit der folgenden Routine wird eine Sitzkalibrierung durchgeführt; während dieses Ablaufs kann sich der Sitz bewegen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le seguenti procedure eseguono la taratura di un sedile; è possibile che il sedile si muova durante questa operazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のルーチンはシートのキャリブレーションを実行します。この動作中、シートが動くことがあります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As rotinas seguintes realizam a calibragem do banco; o banco pode deslocar-se durante esta operação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As seguintes rotinas realizarão uma calibração do assento, o assento pode mover-se durante esta operação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При помощи следующих операций выполняется калибровка сидений, во время которой может происходить перемещение сиденья.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las rutinas siguientes realizarán una calibración del asiento; es posible que el asiento se mueva durante esta operación.</tu>
+	<tu xmlns:lang="chs">下述程序将执行座椅校准，在此操作过程中座椅可能会移动。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 루틴에서는 시트 보정을 수행하는데, 이 작업 중에 시트가 움직일 수 있습니다.</tu>
+</tm>

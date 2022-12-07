@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspDeflFail">
+	<tu xmlns:lang="eng">Suspension deflate failure.</tu>
+	<tu xmlns:lang="nld">Het leeg laten lopen van de luchtvering is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de dégonflage de la suspension.</tu>
+	<tu xmlns:lang="deu">Entlüftung Luftfederung - Fehler.</tu>
+	<tu xmlns:lang="ita">Mancato sgonfiaggio delle sospensioni.</tu>
+	<tu xmlns:lang="jpn">サスペンション減圧に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Falha na retirada do ar da suspensão.</tu>
+	<tu xmlns:lang="ptb">Falha no esvaziamento de suspensão.</tu>
+	<tu xmlns:lang="rus">Выпуск воздуха из системы подвески невозможен.</tu>
+	<tu xmlns:lang="esp">Fallo del desinflado de la suspensión.</tu>
+	<tu xmlns:lang="chs">悬架放气失败。</tu>
+	<tu xmlns:lang="kor">서스펜션 감압 오류</tu>
+</tm>

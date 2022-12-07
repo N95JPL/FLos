@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SWDL_DET_JOB">
+	<tu xmlns:lang="eng">Unable to determine job(s):</tu>
+	<tu xmlns:lang="nld">Het systeem kan de bewerking(en) niet vaststellen:</tu>
+	<tu xmlns:lang="fra">Impossible de déterminer la (les) tâche(s) :</tu>
+	<tu xmlns:lang="deu">Aufgaben(n) konnte(n) nicht bestimmt werden:</tu>
+	<tu xmlns:lang="ita">Impossibile determinare le operazioni:</tu>
+	<tu xmlns:lang="jpn">作業を特定できません：</tu>
+	<tu xmlns:lang="ptg">Não é possível determinar tarefa(s):</tu>
+	<tu xmlns:lang="ptb">Não foi possível determinar o(s) processo(s):</tu>
+	<tu xmlns:lang="rus">Невозможно определить задание (задания):</tu>
+	<tu xmlns:lang="esp">No se pudieron determinar los trabajos:</tu>
+	<tu xmlns:lang="chs">无法确定工作。</tu>
+	<tu xmlns:lang="kor">작업을 결정할 수 없음:</tu>
+</tm>

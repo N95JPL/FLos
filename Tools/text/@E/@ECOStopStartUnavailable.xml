@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECOStopStartUnavailable">
+	<tu
+    xmlns:lang="eng"
+  >Stop/start system unavailable. A terrain mode is selected that does not allow stop/start system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stop/Start-systeem is niet beschikbaar. Er is een terreinfunctie geselecteerd die werking van het Stop/Start-systeem onmogelijk maakt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Système Arrêt/Démarrage indisponible. Le mode Terrain sélectionné ne permet pas d'arrêter/de démarrer le système.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Stopp/Start-System nicht verfügbar. Es ist ein Untergrund-Modus aktiviert, der das Stopp/Start-System nicht zulässt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sistema Stop/Start non disponibile. È stata selezionata una modalità Terrain che impedisce l'uso del sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スタート/ストップ システムが使用できません。 地形モードが選択されており、スタート/ストップ システムが使用できません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sistema Stop/Start não disponível. Está selecionado um modo Terrain que não permite a utilização do sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema Stop/Start indisponível. Um modo de terreno que não permite Sistema Stop/Start é selecionado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система стоп/старт недоступна. Выбран режим местности, препятствующий работе системы стоп/старт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema Stop/Start no está disponible. Se ha seleccionado un modo de Terrain Response que no es compatible con el sistema Stop/Start.</tu>
+	<tu
+    xmlns:lang="chs"
+  >停止/启动系统不可用。 选择了不允许停止/启动系统的全地形模式。</tu>
+	<tu
+    xmlns:lang="kor"
+  >Stop/Start 시스템을 사용할 수 없습니다. Stop/Start 시스템을 허용하지 않는 터레인 모드가 선택되어 있습니다.</tu>
+</tm>

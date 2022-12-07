@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_REV_PROX_SENS">
+	<tu xmlns:lang="eng">Reverse proximity sensor not fitted</tu>
+	<tu xmlns:lang="nld">Naderingssensor voor achteruitparkeren niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Capteur de distance de marche arrière non monté</tu>
+	<tu xmlns:lang="deu">Einparkhilfe-Näherungssensor nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Sensore di prossimità in retromarcia non in dotazione</tu>
+	<tu xmlns:lang="jpn">リバース接近センサ非装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sensor de proximidade em marcha-atrás não está instalado</tu>
+	<tu xmlns:lang="ptb">Sensor de proximidade à ré não instalado</tu>
+	<tu xmlns:lang="rus">Бесконтактный датчик заднего хода не установлен</tu>
+	<tu xmlns:lang="esp">No hay sensor de proximidad para la marcha atrás</tu>
+	<tu xmlns:lang="chs">倒车接近传感器未安装</tu>
+	<tu xmlns:lang="kor">후진 근접 센서가 장착되지 않음</tu>
+</tm>

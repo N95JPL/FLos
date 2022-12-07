@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart226">
+	<tu
+    xmlns:lang="eng"
+  >The instrument cluster will also display the following information:</tu>
+	<tu
+    xmlns:lang="nld"
+  >De instrumentengroep geeft ook de volgende informatie weer:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le combiné d'instruments affiche également les informations suivantes :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zudem werden in der Instrumentengruppe die folgenden Informationen angezeigt:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il quadro strumenti visualizzerà anche le seguenti informazioni:</tu>
+	<tu xmlns:lang="jpn">インストルメント クラスタには次の情報も表示されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O grupo de instrumentos também apresentará as seguintes informações:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O painel de instrumentos pode também exibir as seguintes informações:</tu>
+	<tu
+    xmlns:lang="rus"
+  >На щитке приборов также может быть отображена следующая информация:</tu>
+	<tu
+    xmlns:lang="esp"
+  >El cuadro de instrumentos también mostrará la siguiente información:</tu>
+	<tu xmlns:lang="chs">仪表盘还将显示以下信息：</tu>
+	<tu xmlns:lang="kor">또한 계기판에 다음 정보가 표시됩니다.</tu>
+</tm>

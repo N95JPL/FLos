@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TICK_RETRY_CROSS_EXIT">
+	<tu xmlns:lang="eng">Press tick to try again in a while or cross to return.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk na een tijdje nogmaals op de afvinktoets om het nogmaals te proberen of op het kruisje om terug te gaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la coche pour réessayer dans un moment ou la croix pour revenir.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Für erneuten Versuch nach einiger Zeit das Häkchen bzw. um zurückzukehren das Kreuz antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il tasto di spunta per riprovare dopo poco oppure la croce per uscire.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >しばらく待ってティックを押し再試行するか、または×を押して戻りなさい。</tu>
+	<tu xmlns:lang="ptg">Bomba de elevação do combustível</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione OK para tentar novamente ou na cruzeta para retornar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите галочку для повторной попытки или крестик для возврата.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de continuar para intentarlo otra vez dentro de un rato o pulsar la cruz para volver a la pantalla anterior.</tu>
+	<tu xmlns:lang="chs">过一会按勾号再试或按叉号返回。</tu>
+	<tu
+    xmlns:lang="kor"
+  >잠시 후 다시 시도하려면 체크 표시를 누르고, 돌아가려면 십자 기호를 누르십시오.</tu>
+</tm>

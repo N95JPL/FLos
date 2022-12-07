@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@O_GEN_IN_NEUTRAL">
+	<tu xmlns:lang="eng">Make sure the vehicle is in neutral.</tu>
+	<tu xmlns:lang="nld">Controleer dat het voertuig in de neutraalstand staat.</tu>
+	<tu xmlns:lang="fra">Assurez-vous que le véhicule est au point mort.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass sich das Fahrzeug in Neutral befindet.</tu>
+	<tu xmlns:lang="ita">Verificare che il veicolo sia in folle.</tu>
+	<tu xmlns:lang="jpn">車両がニュートラルになっていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certificar-se de que o veículo se encontra em ponto morto.</tu>
+	<tu xmlns:lang="ptb">Certifique-se de que o veículo esteja em ponto morto.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что в автомобиле выбрана нейтраль.</tu>
+	<tu xmlns:lang="esp">Asegurarse de que el cambio esté en punto muerto.</tu>
+	<tu xmlns:lang="chs">确保车辆处于空档。</tu>
+	<tu xmlns:lang="kor">차량이 중립 상태에 있는지 확인하십시오.</tu>
+</tm>

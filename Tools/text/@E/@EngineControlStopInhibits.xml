@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineControlStopInhibits">
+	<tu xmlns:lang="eng">Engine stop inhibits</tu>
+	<tu xmlns:lang="nld">Motorstop blokkeert</tu>
+	<tu xmlns:lang="fra">Neutralisations de l'arrêt moteur</tu>
+	<tu xmlns:lang="deu">Motor-Stopp verhindert</tu>
+	<tu xmlns:lang="ita">Disattivazioni arresto motore</tu>
+	<tu xmlns:lang="jpn">エンジン停止禁止</tu>
+	<tu xmlns:lang="ptg">Inibições da paragem do motor</tu>
+	<tu xmlns:lang="ptb">Inibições de parada do motor</tu>
+	<tu xmlns:lang="rus">Блокировка останова двигателя</tu>
+	<tu xmlns:lang="esp">La parada del motor se bloquea</tu>
+	<tu xmlns:lang="chs">发动机停止禁止</tu>
+	<tu xmlns:lang="kor">엔진 정지 억제</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OIL_LEVEL_DISPLAY">
+	<tu xmlns:lang="eng">Oil level top up  -  Display</tu>
+	<tu xmlns:lang="nld">Oliepeil bijvullen  -  Scherm</tu>
+	<tu xmlns:lang="fra">Faites l'appoint d'huile  -  Affichage</tu>
+	<tu xmlns:lang="deu">Ölstand auffüllen  -  Anzeige</tu>
+	<tu xmlns:lang="ita">Rabbocco livello olio  -  Display</tu>
+	<tu xmlns:lang="jpn">オイルの補充  －  ディスプレイ</tu>
+	<tu xmlns:lang="ptg">Atestar o nível do óleo  -  Visor</tu>
+	<tu xmlns:lang="ptb">Enchimento do nível de óleo  -  Exibição</tu>
+	<tu xmlns:lang="rus">Доливка масла  -  Дисплей</tu>
+	<tu xmlns:lang="esp">Reponer el nivel de aceite  -  Pantalla</tu>
+	<tu xmlns:lang="chs">机油加注  -  显示</tu>
+	<tu xmlns:lang="kor">오일 레벨 보충  -  디스플레이</tu>
+</tm>

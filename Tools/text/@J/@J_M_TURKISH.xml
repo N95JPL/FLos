@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_TURKISH">
+	<tu xmlns:lang="eng">Turkish</tu>
+	<tu xmlns:lang="nld">Turkse</tu>
+	<tu xmlns:lang="fra">Turc.</tu>
+	<tu xmlns:lang="deu">Türkisch</tu>
+	<tu xmlns:lang="ita">Turco</tu>
+	<tu xmlns:lang="jpn">トルコ語</tu>
+	<tu xmlns:lang="ptg">Turquia</tu>
+	<tu xmlns:lang="ptb">Turco</tu>
+	<tu xmlns:lang="rus">Турецкий</tu>
+	<tu xmlns:lang="esp">Turco</tu>
+	<tu xmlns:lang="chs">土耳其</tu>
+	<tu xmlns:lang="kor">터키어</tu>
+</tm>

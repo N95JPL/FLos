@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TyrePresSensRep$M">
+	<tu xmlns:lang="eng">Tire pressure sensor replacement.</tu>
+	<tu xmlns:lang="nld">Vervanging van de bandenspanningssensor.</tu>
+	<tu xmlns:lang="fra">Remplacement du capteur de pression des pneus.</tu>
+	<tu xmlns:lang="deu">Austausch Reifendrucksensor.</tu>
+	<tu xmlns:lang="ita">Sostituzione sensore pressione pneumatici.</tu>
+	<tu xmlns:lang="jpn">タイヤ プレッシャ センサーの交換</tu>
+	<tu xmlns:lang="ptg">Substituição do sensor de pressão dos pneus.</tu>
+	<tu xmlns:lang="ptb">Substituição do sensor de pressão de pneus.</tu>
+	<tu xmlns:lang="rus">Замена датчика давления в шине.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sustitución del sensor de la presión de los neumáticos.</tu>
+	<tu xmlns:lang="chs">轮胎压力传感器更换。</tu>
+	<tu xmlns:lang="kor">타이어 공기압 센서 교체</tu>
+</tm>

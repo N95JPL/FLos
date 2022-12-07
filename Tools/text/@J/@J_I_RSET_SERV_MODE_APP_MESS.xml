@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RSET_SERV_MODE_APP_MESS">
+	<tu
+    xmlns:lang="eng"
+  >Resetting service mode should appear on the message display.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Op het message centre behoort 'resetting service mode' (onderhoudsfunctie terugstellen) te verschijnen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Resetting service mode (réinitialisation du mode service) doit apparaître à l'écran.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf dem Informationsdisplay sollte Rücksetzung Servicemodus angezeigt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il ripristino della modalità di servizio deve comparire sul display messaggi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >メッセージ ディスプレイに「resetting service mode (サービス モードのリセット中)」が表\示されるはずです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Avaria no sensor da temperatura do aquecedor do assento do passageiro dianteiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Redefinindo modo de serviço deverá aparecer no visor de mensagens.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сообщение 'сброс режима обслуживания' должно появиться на дисплее.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Debería aparecer en la pantalla el mensaje 'resetting service mode', que indica que se está restaurando el modo de servicio.</tu>
+	<tu xmlns:lang="chs">维修模式复位应出现于消息显示屏上。</tu>
+	<tu
+    xmlns:lang="kor"
+  >메시지 디스플레이에 재설정 서비스 모드가 나타나야 합니다.</tu>
+</tm>

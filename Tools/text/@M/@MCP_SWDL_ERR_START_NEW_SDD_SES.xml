@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_SWDL_ERR_START_NEW_SDD_SES">
+	<tu xmlns:lang="eng">Start a new Diagnostic Tool session</tu>
+	<tu xmlns:lang="nld">Start een nieuwe sessie van het diagnosesysteem</tu>
+	<tu xmlns:lang="fra">Ouvrez une nouvelle session sur l'outil de diagnostic</tu>
+	<tu xmlns:lang="deu">Eine neue Diagnosetool-Sitzung starten.</tu>
+	<tu xmlns:lang="ita">Avviare una nuova sessione dello strumento diagnostico</tu>
+	<tu xmlns:lang="jpn">新しい診断ツール セッションを開始します</tu>
+	<tu xmlns:lang="ptg">Inicie uma nova sessão da ferramenta de diagnóstico</tu>
+	<tu xmlns:lang="ptb">Inicie uma nova sessão da Ferramenta de Diagnóstico</tu>
+	<tu xmlns:lang="rus">Начните новый сеанс работы диагностического устройства</tu>
+	<tu
+    xmlns:lang="esp"
+  >Inicie una nueva sesión de la herramienta de diagnóstico.</tu>
+	<tu xmlns:lang="chs">开始一个新的诊断工具会话</tu>
+	<tu xmlns:lang="kor">새 진단 도구 세션을 시작합니다.</tu>
+</tm>

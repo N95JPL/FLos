@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FAIL_STAND_RIDE_HGHT">
+	<tu xmlns:lang="eng">Failed to obtain standard ride height.</tu>
+	<tu xmlns:lang="nld">De standaard rijhoogte is niet verkregen.</tu>
+	<tu xmlns:lang="fra">Impossible d'obtenir la hauteur d'assiette standard.</tu>
+	<tu xmlns:lang="deu">Normale Fahrhöhe konnte nicht erhalten werden.</tu>
+	<tu xmlns:lang="ita">Impossibile ottenere altezza di marcia standard.</tu>
+	<tu xmlns:lang="jpn">標準ライド ハイトの取得に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Não foi possível obter a altura normal da suspensão.</tu>
+	<tu xmlns:lang="ptb">Falha ao obter a altura de condução padrão.</tu>
+	<tu xmlns:lang="rus">Не удалось определить стандартный клиренс.</tu>
+	<tu xmlns:lang="esp">No se alcanzó la altura de marcha normal del vehículo.</tu>
+	<tu xmlns:lang="chs">无法获得标准行驶高度。</tu>
+	<tu xmlns:lang="kor">표준 지상고를 획득하지 못했습니다.</tu>
+</tm>

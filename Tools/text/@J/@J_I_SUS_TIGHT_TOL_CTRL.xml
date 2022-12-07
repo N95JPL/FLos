@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SUS_TIGHT_TOL_CTRL">
+	<tu xmlns:lang="eng">Suspension tight tolerance control</tu>
+	<tu xmlns:lang="nld">Regeling, nauwe tolerantie wielophanging</tu>
+	<tu xmlns:lang="fra">Contrôle de tolérance serrée de suspension</tu>
+	<tu xmlns:lang="deu">Aufhängungssteuerung innerhalb enger Toleranzen</tu>
+	<tu xmlns:lang="ita">Controllo tolleranza stretta sospensioni</tu>
+	<tu xmlns:lang="jpn">サスペンション タイト許容誤差コントロール</tu>
+	<tu xmlns:lang="ptg">Comando de tolerância da restrição da suspensão</tu>
+	<tu xmlns:lang="ptb">Controle de baixa tolerância de suspensão</tu>
+	<tu xmlns:lang="rus">Регулятор жесткости подвески</tu>
+	<tu xmlns:lang="esp">Regulación de tolerancia estrecha de la suspensión</tu>
+	<tu xmlns:lang="chs">悬挂系统精密公差控制</tu>
+	<tu xmlns:lang="kor">서스펜션의 엄격한 공차 제어</tu>
+</tm>

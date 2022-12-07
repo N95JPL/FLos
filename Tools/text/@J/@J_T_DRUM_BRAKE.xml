@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_DRUM_BRAKE">
+	<tu xmlns:lang="eng">206-02 Drum brake</tu>
+	<tu xmlns:lang="nld">206-02 Trommelrem</tu>
+	<tu xmlns:lang="fra">206-02 Frein à tambour</tu>
+	<tu xmlns:lang="deu">206-02 Trommelbremsen</tu>
+	<tu xmlns:lang="ita">206-02 Freno a tamburo</tu>
+	<tu xmlns:lang="jpn">206-02 ドラム ブレーキ</tu>
+	<tu xmlns:lang="ptg">206-02 Travões de tambor</tu>
+	<tu xmlns:lang="ptb">206-02 Freio a tambor</tu>
+	<tu xmlns:lang="rus">206-02 Барабанный тормоз</tu>
+	<tu xmlns:lang="esp">206-02 Freno de tambor</tu>
+	<tu xmlns:lang="chs">206-02转鼓制动器</tu>
+	<tu xmlns:lang="kor">206-02 드럼 브레이크</tu>
+</tm>

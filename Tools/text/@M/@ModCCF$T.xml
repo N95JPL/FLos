@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ModCCF$T">
+	<tu xmlns:lang="eng">Modify the vehicle configuration file.</tu>
+	<tu xmlns:lang="nld">Wijzig het voertuigconfiguratiebestand.</tu>
+	<tu xmlns:lang="fra">Modifiez le fichier de configuration du véhicule.</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Konfigurationsdatei modifizieren.</tu>
+	<tu xmlns:lang="ita">Modificare il file di configurazione veicolo.</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション ファイルを変更します。</tu>
+	<tu xmlns:lang="ptg">Modificar o ficheiro de configuração do veículo.</tu>
+	<tu xmlns:lang="ptb">Modifique o arquivo de configuração de veículo.</tu>
+	<tu xmlns:lang="rus">Изменить файл конфигурации автомобиля.</tu>
+	<tu xmlns:lang="esp">Modificar el archivo de configuración del vehículo.</tu>
+	<tu xmlns:lang="chs">修改车辆配置文件。</tu>
+	<tu xmlns:lang="kor">차량 구성 파일을 수정하십시오.</tu>
+</tm>

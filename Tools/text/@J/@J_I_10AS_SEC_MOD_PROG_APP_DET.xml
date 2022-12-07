@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_10AS_SEC_MOD_PROG_APP_DET">
+	<tu xmlns:lang="eng">10AS security module programming-application details</tu>
+	<tu
+    xmlns:lang="nld"
+  >Programmering van 10AS-beveiligingsmodule: toepassingsgegevens</tu>
+	<tu
+    xmlns:lang="fra"
+  >10AS caractéristiques de l'application de programmation du module de sécurité</tu>
+	<tu
+    xmlns:lang="deu"
+  >10AS Fahrzeugschutz-Steuergerät - Einzelheiten Programmieranwendung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Programmazione modulo di sicurezza-dettagli dell'applicazione 10AS </tu>
+	<tu
+    xmlns:lang="jpn"
+  >10AS セキュリティ モジュール プログラミング - アプリケーションの詳細</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Programação do módulo de segurança 10AS - pormenores sobre a aplicação</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Detalhes do aplicativo de programação do módulo de segurança 10AS</tu>
+	<tu
+    xmlns:lang="rus"
+  >Программирование блока защиты 10AS - сведения о приложении</tu>
+	<tu
+    xmlns:lang="esp"
+  >Detalles de la aplicación de programación del módulo de seguridad 10AS</tu>
+	<tu xmlns:lang="chs">10AS防盗模块编程--应用程序详细信息</tu>
+	<tu xmlns:lang="kor">10AS 보안 모듈 프로그래밍-애플리케이션 세부 정보</tu>
+</tm>

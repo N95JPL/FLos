@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TAPE_PLAY">
+	<tu xmlns:lang="eng">Audio cassette player.</tu>
+	<tu xmlns:lang="nld">Cassettespeler van geluidsinstallatie.</tu>
+	<tu xmlns:lang="fra">Lecteur de cassettes audio.</tu>
+	<tu xmlns:lang="deu">Audiocassettenspieler.</tu>
+	<tu xmlns:lang="ita">Lettore nastri.</tu>
+	<tu xmlns:lang="jpn">オーディオ カセット プレーヤー</tu>
+	<tu xmlns:lang="ptg">Leitor de cassetes.</tu>
+	<tu xmlns:lang="ptb">Reprodutor de fita cassete de áudio.</tu>
+	<tu xmlns:lang="rus">Проигрыватель аудиокассет.</tu>
+	<tu xmlns:lang="esp">Reproductor de casetes.</tu>
+	<tu xmlns:lang="chs">磁带播放机。</tu>
+	<tu xmlns:lang="kor">오디오 카세트 플레이어</tu>
+</tm>

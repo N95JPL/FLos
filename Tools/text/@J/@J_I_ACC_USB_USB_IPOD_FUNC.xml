@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ACC_USB_USB_IPOD_FUNC">
+	<tu xmlns:lang="eng">Accessory USB unit with USB and iPod function</tu>
+	<tu
+    xmlns:lang="nld"
+  >USB-aansluitpunt voor accessoires met USB- en iPod-functie</tu>
+	<tu xmlns:lang="fra">Module USB accessoire avec fonctions USB et iPod</tu>
+	<tu
+    xmlns:lang="deu"
+  >USB-Einheit mit USB- und iPod-Funktion für Zusatzgeräte</tu>
+	<tu xmlns:lang="ita">Unità USB accessoria con funzione USB e iPod</tu>
+	<tu
+    xmlns:lang="jpn"
+  >USB 機能\と iPod 機能\を装備したアクセサリ USB ユニット</tu>
+	<tu xmlns:lang="ptg">Unidade USB acessória com função USB e iPod</tu>
+	<tu xmlns:lang="ptb">Unidade USB acessória com função USB e iPod</tu>
+	<tu xmlns:lang="rus">Дополнительный блок USB с поддержкой USB и iPod</tu>
+	<tu xmlns:lang="esp">Unidad USB de accesorio con función iPod y USB</tu>
+	<tu xmlns:lang="chs">具备 USB 和 iPod 功能的 USB 附件单元</tu>
+	<tu xmlns:lang="kor">USB 및 iPod 기능이 있는 액세서리 USB 유닛</tu>
+</tm>

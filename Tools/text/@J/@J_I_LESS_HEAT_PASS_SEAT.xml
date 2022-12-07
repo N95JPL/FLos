@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_HEAT_PASS_SEAT">
+	<tu xmlns:lang="eng">Heated passenger's seat not fitted</tu>
+	<tu xmlns:lang="nld">Verwarming van passagiersstoel niet gemonteerd</tu>
+	<tu xmlns:lang="fra">Siège chauffant passager non monté</tu>
+	<tu xmlns:lang="deu">Beheizbarer Beifahrersitz nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Sedile riscaldato passeggero non in dotazione</tu>
+	<tu xmlns:lang="jpn">助手席側シート ヒーター非装備</tu>
+	<tu xmlns:lang="ptg">Banco aquecido do passageiro não está instalado</tu>
+	<tu xmlns:lang="ptb">Assento aquecido do passageiro não instalado</tu>
+	<tu xmlns:lang="rus">Подогрев сиденья пассажира не установлен</tu>
+	<tu xmlns:lang="esp">No hay asiento térmico del acompañante</tu>
+	<tu xmlns:lang="chs">乘客一侧座椅加热系统未安装</tu>
+	<tu xmlns:lang="kor">열선내장 조수석 시트가 장착되지 않음</tu>
+</tm>

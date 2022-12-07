@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CALL_PARK_HEAT">
+	<tu xmlns:lang="eng">Callstart of parking heater</tu>
+	<tu xmlns:lang="nld">Oproepstart van parkeerverwarming</tu>
+	<tu xmlns:lang="fra">Callstart du chauffage de stationnement</tu>
+	<tu xmlns:lang="deu">Telefonstart der Standheizung</tu>
+	<tu xmlns:lang="ita">Avvio chiamata riscaldatore parcheggio</tu>
+	<tu xmlns:lang="jpn">パーキング ヒーターのコールスタート</tu>
+	<tu xmlns:lang="ptg">Activação do pré-aquecimento do veículo</tu>
+	<tu xmlns:lang="ptb">Solicitação de início do aquecedor ao estacionar</tu>
+	<tu xmlns:lang="rus">Запуск стояночного обогревателя по команде</tu>
+	<tu xmlns:lang="esp">Llamada de arranque de calefactor de estacionamiento</tu>
+	<tu xmlns:lang="chs">驻车加热器的遥控启动</tu>
+	<tu xmlns:lang="kor">주차 히터의 콜드 스타트</tu>
+</tm>

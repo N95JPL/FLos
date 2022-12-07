@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SW_DOWNLOAD_50MINS">
+	<tu
+    xmlns:lang="eng"
+  >Be advised that this software download can take up to 50 minutes to complete.</tu>
+	<tu xmlns:lang="nld">Het downloaden van deze software kan 50 minuten duren!</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le téléchargement complet de ce logiciel peut prendre jusqu'à 50 minutes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wird darauf hingewiesen, dass das Herunterladen dieser Software bis zu 50 Minuten dauern kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Si tenga presente che lo scaricamento di questo software potrebbe richiedere fino a 50 minuti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このソ\フトウェアのダウンロード完了には最大 50 分かかります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tenha em conta que esta transferência de software pode demorar até 50 minutos a concluir.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esteja ciente de que esse download de software pode levar até 50 minutos para ser concluído.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обратите внимание, что загрузка этого программного обеспечения может занять до 50 минут.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tenga en cuenta que la descarga de este software puede tardar hasta 50 minutos.</tu>
+	<tu xmlns:lang="chs">请注意：本软件下载可能需要50分钟才能下载完毕。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 소프트웨어 다운로드가 완료되기까지 최대 50분까지 걸릴 수 있습니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FollOpDrvPrkBrkLatch$I">
+	<tu
+    xmlns:lang="eng"
+  >The following operation will drive the parking brake to the latching position, which may be necessary if the parking brake emergency release was operated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De volgende bewerking zal de handrem naar de vergrendelstand sturen, wat misschien nodig is als het loszetten voor noodsituaties in werking is getreden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'opération suivante mettra le frein de stationnement en position de verrouillage, ce qui pourra être nécessaire si le déblocage de secours du frein de stationnement a été utilisé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der folgende Schritt verfährt die Handbremse in die Raststellung, was erforderlich sein kann, wenn die Handbremsen-Notfreigabe betätigt wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La seguente operazione azionerà il freno di stazionamento alla posizione di bloccaggio, che può essere necessario se è stato azionato il disinserimento d'emergenza del freno di stazionamento. </tu>
+	<tu
+    xmlns:lang="jpn"
+  >パーキング ブレーキ緊急リリースが操作されていた場合に必要なため、次の操作でパーキング ブレーキがラッチング ポジションへ駆動されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A operação que se segue colocará o travão de mão na posição de engate, que pode ser necessário se o desengate de emergência do travão de mão tiver sido activado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A seguinte operação acionará o freio de estacionamento até a posição de travamento, que pode ser necessária se a liberação do freio de emergência for operada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Во время следующей операции стояночный тормоз переместится в положение фиксации, в чем может появиться необходимость, если было использовано аварийное отключение стояночного тормоза.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La siguiente operación obligará al freno de estacionamiento a adoptar la posición de enganche, lo cual puede ser necesario si se accionó el mando de desactivación de emergencia del freno de estacionamiento.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'下述操作将驻车制动器驱动至锁闭位置，如果操作了驻车制动器应急释放，则驱动至锁闭位置可能是必需的。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 작업에서는 주차 브레이크가 잠금 위치로 설정됩니다. 이 작업은 주차 브레이크 비상 해제 기능이 작동될 경우에 필요합니다.</tu>
+</tm>

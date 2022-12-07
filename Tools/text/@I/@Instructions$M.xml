@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Instructions$M">
+	<tu xmlns:lang="eng">Instructions</tu>
+	<tu xmlns:lang="nld">Instructies</tu>
+	<tu xmlns:lang="fra">Instructions</tu>
+	<tu xmlns:lang="deu">Anleitungen</tu>
+	<tu xmlns:lang="ita">Istruzioni</tu>
+	<tu xmlns:lang="jpn">指示事項</tu>
+	<tu xmlns:lang="ptg">Instruções</tu>
+	<tu xmlns:lang="ptb">Instruções</tu>
+	<tu xmlns:lang="rus">Инструкции</tu>
+	<tu xmlns:lang="esp">Instrucciones</tu>
+	<tu xmlns:lang="chs">说明</tu>
+	<tu xmlns:lang="kor">지침</tu>
+</tm>

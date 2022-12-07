@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_SIDE_CAM">
+	<tu xmlns:lang="eng">Without side camera</tu>
+	<tu xmlns:lang="nld">Zonder zijcamera </tu>
+	<tu xmlns:lang="fra">Sans caméra latérale </tu>
+	<tu xmlns:lang="deu">Ohne Seitenkamera </tu>
+	<tu xmlns:lang="ita">Senza telecamera laterale</tu>
+	<tu xmlns:lang="jpn">サイド カメラなし</tu>
+	<tu xmlns:lang="ptg">Sem câmara lateral</tu>
+	<tu xmlns:lang="ptb">Sem câmera lateral</tu>
+	<tu xmlns:lang="rus">Без боковой камеры </tu>
+	<tu xmlns:lang="esp">Sin cámara lateral</tu>
+	<tu xmlns:lang="chs">无车侧摄像头</tu>
+	<tu xmlns:lang="kor">측면 카메라 없음</tu>
+</tm>

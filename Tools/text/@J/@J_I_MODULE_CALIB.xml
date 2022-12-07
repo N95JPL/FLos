@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MODULE_CALIB">
+	<tu xmlns:lang="eng">Module calibration.</tu>
+	<tu xmlns:lang="nld">Modulekalibrering.</tu>
+	<tu xmlns:lang="fra">Etalonnage du module.</tu>
+	<tu xmlns:lang="deu">Steuergerätkalibrierung.</tu>
+	<tu xmlns:lang="ita">Taratura del modulo.</tu>
+	<tu xmlns:lang="jpn">モジュール キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem do módulo.</tu>
+	<tu xmlns:lang="ptb">Calibração do módulo.</tu>
+	<tu xmlns:lang="rus">Калибровка блока.</tu>
+	<tu xmlns:lang="esp">Calibración del módulo.</tu>
+	<tu xmlns:lang="chs">模块标定。</tu>
+	<tu xmlns:lang="kor">모듈 보정</tu>
+</tm>

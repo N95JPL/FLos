@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TestAbort$M">
+	<tu xmlns:lang="eng">Test aborted</tu>
+	<tu xmlns:lang="nld">Test afgebroken</tu>
+	<tu xmlns:lang="fra">Essai abandonne</tu>
+	<tu xmlns:lang="deu">Prüfung abgebrochen</tu>
+	<tu xmlns:lang="ita">Prova abbandonata</tu>
+	<tu xmlns:lang="jpn">ﾃｽﾄは中止されました。</tu>
+	<tu xmlns:lang="ptg">Teste cancelado</tu>
+	<tu xmlns:lang="ptb">Teste cancelado</tu>
+	<tu xmlns:lang="rus">Проверка прервана</tu>
+	<tu xmlns:lang="esp">Prueba abandonada</tu>
+	<tu xmlns:lang="chs">测试中止</tu>
+	<tu xmlns:lang="kor">테스트가 중단됨</tu>
+</tm>

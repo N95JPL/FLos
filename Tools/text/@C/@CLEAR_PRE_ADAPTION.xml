@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CLEAR_PRE_ADAPTION">
+	<tu xmlns:lang="eng">Clear pre-adaption</tu>
+	<tu xmlns:lang="nld">Wis voor-aanpassing</tu>
+	<tu xmlns:lang="fra">Effacez la pré-adaptation</tu>
+	<tu xmlns:lang="deu">Voranpassung löschen</tu>
+	<tu xmlns:lang="ita">Cancellare preadattamento</tu>
+	<tu xmlns:lang="jpn">予\備補正のクリア</tu>
+	<tu xmlns:lang="ptg">Apague a pré-adaptação</tu>
+	<tu xmlns:lang="ptb">Excluir pré-adaptação</tu>
+	<tu xmlns:lang="rus">Очистить данные предварительной адаптации</tu>
+	<tu xmlns:lang="esp">Borrar valores de preadaptación</tu>
+	<tu xmlns:lang="chs">清除预调适值</tu>
+	<tu xmlns:lang="kor">프리어댑테이션 삭제</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ClearAdaptData$M">
+	<tu xmlns:lang="eng">Clear adaptive data.</tu>
+	<tu xmlns:lang="nld">Adaptieve gegevens wissen.</tu>
+	<tu xmlns:lang="fra">Effacez les données d'adaptation.</tu>
+	<tu xmlns:lang="deu">Anpassungsdaten löschen.</tu>
+	<tu xmlns:lang="ita">Cancellare dati adattativi.</tu>
+	<tu xmlns:lang="jpn">補正データをクリアしなさい。</tu>
+	<tu xmlns:lang="ptg">Apagar dados de adaptação.</tu>
+	<tu xmlns:lang="ptb">Apagar dados adaptáveis.</tu>
+	<tu xmlns:lang="rus">Удалить данные самонастройки.</tu>
+	<tu xmlns:lang="esp">Borrar datos del control adaptativo.</tu>
+	<tu xmlns:lang="chs">清除自适应数据。</tu>
+	<tu xmlns:lang="kor">어댑테이션 데이터 삭제</tu>
+</tm>

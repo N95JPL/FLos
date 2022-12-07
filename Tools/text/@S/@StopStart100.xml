@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart100">
+	<tu
+    xmlns:lang="eng"
+  >This inhibit condition will clear once the demist requirement has been completed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze geblokkeerde toestand verdwijnt zodra aan de vereiste voor ontwaseming is voldaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette neutralisation s'effacera une fois le désembuage nécessaire effectué.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Sperrbedingung wird gelöscht, sobald die Entfeuchtungsanforderung abgeschlossen wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa condizione di disabilitazione scompare una volta completata la richiesta dello sbrinatore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この禁止状態は、デミスタ要件が満たされると解除されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta condição de inibição apaga-se assim que o requisito do desembaciamento tiver sido cumprido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa condição de inibição irá desaparecer assim que a solicitação do desembaçador for concluída.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная блокировка снимается сразу же после устранения запотевания стекол.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta condición de bloqueo desaparecerá una vez que se haya completado el desempañado.</tu>
+	<tu xmlns:lang="chs">除雾要求完成后，此禁止状态将会清除。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 억제 상태는 서리 제거 요구 사항이 완전히 충족되면 해소됩니다.</tu>
+</tm>

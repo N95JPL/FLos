@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JSeats$M">
+	<tu xmlns:lang="eng">Seats</tu>
+	<tu xmlns:lang="nld">Stoelen</tu>
+	<tu xmlns:lang="fra">Sieges</tu>
+	<tu xmlns:lang="deu">Sitze</tu>
+	<tu xmlns:lang="ita">Sedili</tu>
+	<tu xmlns:lang="jpn">ｼーﾄ</tu>
+	<tu xmlns:lang="ptg">Bancos</tu>
+	<tu xmlns:lang="ptb">Assentos</tu>
+	<tu xmlns:lang="rus">Сиденья</tu>
+	<tu xmlns:lang="esp">Asientos</tu>
+	<tu xmlns:lang="chs">座椅</tu>
+	<tu xmlns:lang="kor">시트</tu>
+</tm>

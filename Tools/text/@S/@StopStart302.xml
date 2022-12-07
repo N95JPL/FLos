@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart302">
+	<tu xmlns:lang="eng">Stop in progress</tu>
+	<tu xmlns:lang="nld">Stop wordt uitgevoerd</tu>
+	<tu xmlns:lang="fra">Arrêt en cours</tu>
+	<tu xmlns:lang="deu">Stopp läuft</tu>
+	<tu xmlns:lang="ita">Arresto in corso</tu>
+	<tu xmlns:lang="jpn">ストップ進行中</tu>
+	<tu xmlns:lang="ptg">Paragem em progresso</tu>
+	<tu xmlns:lang="ptb">Parada em andamento</tu>
+	<tu xmlns:lang="rus">Выполняется остановка</tu>
+	<tu xmlns:lang="esp">Parada en curso</tu>
+	<tu xmlns:lang="chs">停车正在进行</tu>
+	<tu xmlns:lang="kor">Stop 진행 중</tu>
+</tm>

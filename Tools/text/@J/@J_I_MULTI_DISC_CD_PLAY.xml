@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MULTI_DISC_CD_PLAY">
+	<tu xmlns:lang="eng">Multi-disc CD player.</tu>
+	<tu xmlns:lang="nld">CD-speler voor meerdere cd's.</tu>
+	<tu xmlns:lang="fra">Lecteur CD multi-disques.</tu>
+	<tu xmlns:lang="deu">Mehrfach-CD-Spieler.</tu>
+	<tu xmlns:lang="ita">Multilettore CD.</tu>
+	<tu xmlns:lang="jpn">マルチディスク CD プレーヤー</tu>
+	<tu xmlns:lang="ptg">Leitor de CD de discos múltiplos.</tu>
+	<tu xmlns:lang="ptb">CD player para discos múltiplos.</tu>
+	<tu xmlns:lang="rus">Проигрыватель минидисков.</tu>
+	<tu xmlns:lang="esp">Lector de CD multidisco.</tu>
+	<tu xmlns:lang="chs">多碟CD播放器。</tu>
+	<tu xmlns:lang="kor">멀티디스크 CD 플레이어</tu>
+</tm>

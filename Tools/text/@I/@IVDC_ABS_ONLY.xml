@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IVDC_ABS_ONLY">
+	<tu xmlns:lang="eng">ABS only</tu>
+	<tu xmlns:lang="nld">Alleen ABS</tu>
+	<tu xmlns:lang="fra">ABS uniquement</tu>
+	<tu xmlns:lang="deu">Nur ABS</tu>
+	<tu xmlns:lang="ita">Solo ABS</tu>
+	<tu xmlns:lang="jpn">ABS のみ</tu>
+	<tu xmlns:lang="ptg">Apenas ABS</tu>
+	<tu xmlns:lang="ptb">Somente ABS</tu>
+	<tu xmlns:lang="rus">Только ABS</tu>
+	<tu xmlns:lang="esp">Sólo ABS</tu>
+	<tu xmlns:lang="chs">仅限ABS</tu>
+	<tu xmlns:lang="kor">ABS만 해당</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WRITE_CONFIG_DATA_RES">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will write configuration data to the restraints control module</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure zal de configuratiegegevens naar de regelmodule van het beveiligingssysteem voor inzittenden schrijven</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de consigner les données de configuration dans le module de commande des dispositifs de retenue</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Maßnahme werden Konfigurationsdaten in das Rückhaltesystem-Steuergerät geschrieben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura scrive i dati di configurazione sul modulo di comando sicurezza occupanti</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順は拘束コントロール モジュールにコンフィギュレーション データを書き込みます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento vai gravar os dados de configuração no módulo de controlo do sistema de segurança</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento irá gravar os dados de configuração para o módulo de controle de restrições</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта процедура служит для записи данных конфигурации в блок управления системой пассивной безопасности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento escribe los datos de configuración en el módulo de control de sistemas de retención</tu>
+	<tu xmlns:lang="chs">本程序将把配置数据写入约束控制模块</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 에어백 컨트롤 모듈에 구성 데이터를 씁니다.</tu>
+</tm>

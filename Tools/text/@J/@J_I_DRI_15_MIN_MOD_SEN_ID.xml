@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRI_15_MIN_MOD_SEN_ID">
+	<tu
+    xmlns:lang="eng"
+  >The vehicle must be driven for at least 15 minutes at a speed greater than 20 kph to ensure the module has learnt the sensor identifications and positions.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U moet ten minste 15 minuten met een snelheid boven de 20 km/uur met het voertuig rijden, om te waarborgen dat de module de sensoridentificaties en -posities heeft ingeleerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule doit être conduit pendant un minimum de 15 minutes à une vitesse supérieure à 20 km/h pour s'assurer que le module a appris les identifications et positions du capteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um sicherzustellen, dass das Steuergerät die Sensorkennungen und Sensorpositionen erlernt hat, muss das Fahrzeug mindestens 15 Minuten lang mit einer Geschwindigkeit von mehr als 20 km/h gefahren werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo deve essere guidato per un minimo di 15 minuti a una velocità maggiore di 20 km/h per assicurarsi che il modulo abbia appreso gli identificativi e le posizioni dei sensori.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュールがセンサー ID およびポジションを学習できるよう、車両を 20 km/h より上で少なくとも 15 分間走行させる必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo tem de ser conduzido por um mínimo de 15 minutos a uma velocidade superior a 20 km/h para garantir que o módulo aprendeu as identificações e as posições dos sensores.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo deve ser dirigido por, pelo menos, 15 minutos a uma velocidade superior a 20 km/h para garantir que o módulo memorizou as identificações e posições do sensor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Чтобы блок управления определил идентификаторы и положения датчиков, скорость автомобиля должна быть более 20 км/ч в течение по меньшей мере 15 минут.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El vehículo debe conducirse durante al menos 15 minutos a una velocidad superior a 20 km/h para garantizar que el módulo ha memorizado las posiciones e identificaciones del sensor.</tu>
+	<tu
+    xmlns:lang="chs"
+  >车辆必须以大于20kph的速度行驶至少15分钟，以确保模块已记忆了传感器标识码和位置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >모듈이 센서 식별 정보와 위치를 학습하려면 차량을 20kph 이상의 속도로 최소 15분 동안 운전해야 합니다.</tu>
+</tm>

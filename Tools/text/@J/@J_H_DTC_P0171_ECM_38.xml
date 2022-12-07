@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_DTC_P0171_ECM_38">
+	<tu xmlns:lang="eng">Start the engine and run at idle speed.</tu>
+	<tu xmlns:lang="nld">Start de motor en laat deze stationair draaien.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mettre le moteur en marche, en restant au régime de ralenti.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den Motor einschalten und mit Leerlaufdrehzahl laufen lassen.</tu>
+	<tu xmlns:lang="ita">Avviare il motore e farlo girare del minimo.</tu>
+	<tu xmlns:lang="jpn">エンジンを始動してアイドリングさせます。</tu>
+	<tu xmlns:lang="ptg">Pôr o motor a trabalhar e deixar trabalhar ao ralenti.</tu>
+	<tu xmlns:lang="ptb">Ligue o motor e deixe funcionar em marcha lenta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Заведите двигатель и оставьте работать на холостых оборотах.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Arranque el motor y hágalo funcionar a la velocidad del ralentí.</tu>
+	<tu xmlns:lang="chs">启动发动机并怠速运转。</tu>
+	<tu xmlns:lang="kor">엔진을 시동하고 공회전하십시오.</tu>
+</tm>

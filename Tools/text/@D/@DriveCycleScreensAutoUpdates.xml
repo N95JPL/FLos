@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DriveCycleScreensAutoUpdates">
+	<tu xmlns:lang="eng">The drive cycle screens will update automatically</tu>
+	<tu xmlns:lang="nld">De rijcyclusschermen worden automatisch ververst</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les écrans du cycle de conduite se mettent à jour automatiquement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Fahrzyklus-Bildschirme werden automatisch aktualisiert</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le schermate del ciclo di guida si aggiornano automaticamente</tu>
+	<tu xmlns:lang="jpn">ドライブ サイクル画面は自動的に更新されます</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os ecrãs do ciclo de condução irão atualizar automaticamente</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As telas do ciclo de condução serão atualizadas automaticamente</tu>
+	<tu xmlns:lang="rus">Экраны ездового цикла обновятся автоматически</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las pantallas del ciclo de conducción se actualizarán automáticamente</tu>
+	<tu xmlns:lang="chs">行驶周期屏幕将自动更新</tu>
+	<tu xmlns:lang="kor">주행 사이클 화면이 자동으로 업데이트됩니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMP_FREQ_433">
+	<tu xmlns:lang="eng">Companion frequency 433.</tu>
+	<tu xmlns:lang="nld">Frequentie 433 van bijbehorend apparaat</tu>
+	<tu xmlns:lang="fra">Fréquence 433 du module assistant.</tu>
+	<tu xmlns:lang="deu">Hilfsmodulfrequenz 433.</tu>
+	<tu xmlns:lang="ita">Frequenza complemento 433.</tu>
+	<tu xmlns:lang="jpn">コンパニオン周波数 433</tu>
+	<tu xmlns:lang="ptg">Frequência 433 da câmara de auxílio ao condutor.</tu>
+	<tu xmlns:lang="ptb">Frequência 433 de acompanhante.</tu>
+	<tu xmlns:lang="rus">Частота вспомогательного блока 433.</tu>
+	<tu xmlns:lang="esp">Frecuencia de acompañamiento 433.</tu>
+	<tu xmlns:lang="chs">配套装置频率 433。</tu>
+	<tu xmlns:lang="kor">컴패니언 주파수 433</tu>
+</tm>

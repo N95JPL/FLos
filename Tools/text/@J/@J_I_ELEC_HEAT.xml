@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ELEC_HEAT">
+	<tu xmlns:lang="eng">Electric vehicle heater</tu>
+	<tu xmlns:lang="nld">Elektrische verwarming van voertuig</tu>
+	<tu xmlns:lang="fra">Chauffage électrique du véhicule</tu>
+	<tu xmlns:lang="deu">Elektrische Fahrzeugheizung</tu>
+	<tu xmlns:lang="ita">Riscaldatore elettrico veicolo</tu>
+	<tu xmlns:lang="jpn">エレクトリック車両ヒーター</tu>
+	<tu xmlns:lang="ptg">Aquecedor eléctrico do veículo</tu>
+	<tu xmlns:lang="ptb">Aquecedor elétrico do veículo</tu>
+	<tu xmlns:lang="rus">Электрический обогреватель автомобиля</tu>
+	<tu xmlns:lang="esp">Calefactor eléctrico de vehículo</tu>
+	<tu xmlns:lang="chs">车辆电动加热器</tu>
+	<tu xmlns:lang="kor">전기 자동차 히터</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_TYPE_12">
+	<tu xmlns:lang="eng">80Ah 800 cold cranking ampere</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stroomsterkte bij aanslaan van motor bij koude start 800 A, 80 Ah</tu>
+	<tu xmlns:lang="fra">80 Ah 800 ampères au démarrage à froid</tu>
+	<tu xmlns:lang="deu">80 Ah 800 Kaltstartampere</tu>
+	<tu xmlns:lang="ita">Amperaggio avviamento a freddo 80 Ah 800</tu>
+	<tu xmlns:lang="jpn">80Ah 800 コールド クランキング アンペア</tu>
+	<tu xmlns:lang="ptg">80 Ah 800 A arranque a frio</tu>
+	<tu xmlns:lang="ptb">Amperagem de partida a frio 80 Ah 800</tu>
+	<tu xmlns:lang="rus">80 А/ч, ток холодного пуска двигателя 800 А</tu>
+	<tu xmlns:lang="esp">80 Ah con 800 A de capacidad de arranque en frío</tu>
+	<tu xmlns:lang="chs">80Ah 800 冷机拖转起动电流</tu>
+	<tu xmlns:lang="kor">80Ah 800 냉간 시동 전류</tu>
+</tm>

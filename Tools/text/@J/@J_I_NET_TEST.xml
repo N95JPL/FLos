@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NET_TEST">
+	<tu xmlns:lang="eng">Network test results.</tu>
+	<tu xmlns:lang="nld">Netwerktestresultaten.</tu>
+	<tu xmlns:lang="fra">Résultats du test de réseau.</tu>
+	<tu xmlns:lang="deu">Ergebnisse des Netzwerktests.</tu>
+	<tu xmlns:lang="ita">Risultati prova della rete.</tu>
+	<tu xmlns:lang="jpn">ネットワーク テスト結果</tu>
+	<tu xmlns:lang="ptg">Resultados do teste da rede.</tu>
+	<tu xmlns:lang="ptb">Resultados do teste de rede.</tu>
+	<tu xmlns:lang="rus">Результаты проверки сети.</tu>
+	<tu xmlns:lang="esp">Resultados de la prueba de red.</tu>
+	<tu xmlns:lang="chs">网络测试结果。</tu>
+	<tu xmlns:lang="kor">네트워크 테스트 결과</tu>
+</tm>

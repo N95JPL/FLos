@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_DTC_X4_B1231_001">
+	<tu xmlns:lang="eng">Replace restraints control module.</tu>
+	<tu xmlns:lang="nld">RCM vervangen</tu>
+	<tu xmlns:lang="fra">Remplacez le module RCM</tu>
+	<tu xmlns:lang="deu">RCM ersetzen</tu>
+	<tu xmlns:lang="ita">Sostituire RCM</tu>
+	<tu xmlns:lang="jpn">RCM を交換</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Substituir o módulo de comando do sistema de segurança.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Substitua o módulo de controle do sistema de segurança.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Замените модуль управления пассивной системой безопасности.</tu>
+	<tu xmlns:lang="esp">Sustituir el RCM</tu>
+	<tu xmlns:lang="chs">更换约束控制模块。</tu>
+	<tu xmlns:lang="kor">에어백 컨트롤 모듈을 교체하십시오.</tu>
+</tm>

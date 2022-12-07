@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NoKeyValid$M">
+	<tu xmlns:lang="eng">None of the keys inserted were valid for this vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geen van de ingestoken sleutels was voor dit voertuig geldig.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Aucune des clés insérées n'était valide pour ce véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Keiner der eingesteckten Schlüssel war für dieses Fahrzeug gültig.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nessuna delle chiavi inserite era valida per questo veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >挿入されたキーのすべてが、この車両に対して有効ではありませんでした。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nenhuma das chaves introduzidas eram válidas para este veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Nenhuma das teclas inseridas é válida para este veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ни один из вставленных ключей не соответствует данному автомобилю.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ninguna de las llaves que se introdujeron era válida para este vehículo.</tu>
+	<tu xmlns:lang="chs">插入的所有钥匙对此车都无效。</tu>
+	<tu xmlns:lang="kor">삽입된 키 중 이 차량에 유효한 키가 없습니다.</tu>
+</tm>

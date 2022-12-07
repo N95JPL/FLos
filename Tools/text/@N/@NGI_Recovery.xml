@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NGI_Recovery">
+	<tu
+    xmlns:lang="eng"
+  >This application is only to be run after a General 01 error message has been presented during an InControl Touch Pro reprogramming action.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing moet alleen worden uitgevoerd nadat een Algemene 01-foutmelding aanwezig was tijdens actie voor het opnieuw programmeren van InControl Touch Pro.
+</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application ne doit être exécutée qu'après l'affichage d'un message d'erreur générale 01 lors d'une reprogrammation d'InControl Touch Pro.
+</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung darf nur ausgeführt werden, nachdem eine Fehlermeldung „General 01“ während eines InControl Touch Pro-Neuprogrammierungs-Vorgangs aufgetreten ist.
+</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione deve essere eseguita soltanto dopo la comparsa di un messaggio di errore generale 01 durante un’azione di riprogrammazione InControl Touch Pro.
+</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションが実行されるのは、InControl Touch Pro リプログラミング アクションの間に一般的な 01 エラー メッセージが発生したときだけです。
+</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação apenas deve ser executada após a exibição de uma mensagem de erro geral 01 durante uma ação de reprogramação do InControl Touch Pro.
+</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo só deve ser executado depois que uma mensagem de erro Geral 01 for apresentada durante uma ação de reprogramação do InControl Touch Pro.
+</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запуск данного приложения осуществляется только после отображения сообщения '01-Общая ошибка' в ходе перепрограммирования системы InControl Touch Pro.
+</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación solo se puede ejecutar después de que se muestre el mensaje de error general 01 durante una acción de reprogramación de InControl Touch Pro.
+</tu>
+	<tu
+    xmlns:lang="chs"
+  >仅当在 InControl 智能驭领 尊享触控重新编程操作过程中出现“一般 01”错误消息后才运行此应用程序。
+</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램은 InControl Touch Pro 재프로그래밍 작업 중에 일반 01 오류 메시지가 표시된 후에만 실행됩니다.
+</tu>
+</tm>

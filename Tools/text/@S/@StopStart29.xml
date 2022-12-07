@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart29">
+	<tu
+    xmlns:lang="eng"
+  >If climate control is still causing a system inhibit make sure the fan speed control is set below 50%.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de airconditioning nog steeds een blokkering van het systeem veroorzaakt, zorg er dan voor dat de ventilatorsnelheidsregeling op minder dan 50% wordt ingesteld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la climatisation continue de provoquer la neutralisation du système, assurez-vous que la commande de vitesse du ventilateur est réglée sur une valeur inférieure à 50 %.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn die Klimaregelung weiterhin eine Systemsperre verursacht, sicherstellen, dass die Lüfterdrehzahl auf unter 50 % eingestellt ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se il comando della climatizzazione è ancora la causa della disabilitazione del sistema, assicurarsi che il controllo velocità della ventola sia impostato a un valore inferiore al 50%.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >クライメート コントロールによって依然としてシステムが禁止状態になっている場合は、ファンのスピード コントロールが 50% 未満に設定されていることを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o controlo da climatização continuar a provocar uma inibição do sistema, certifique-se de que o controlo de velocidade da ventoinha está definido para um valor inferior a 50%.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o controle climático ainda estiver causando uma inibição no sistema, certifique-se de que o controle da velocidade do ventilador está definido abaixo de 50%.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если климат-контроль по-прежнему вызывает блокировку системы, отрегулируйте скорость вращения вентилятора, задав значение ниже 50 %.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el control de climatización sigue bloqueando el sistema, asegúrese de que el control de velocidad del ventilador está establecido por debajo del 50%.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果气候控制仍造成系统禁止，则确保将风扇转速控制设置为 50% 以下。</tu>
+	<tu
+    xmlns:lang="kor"
+  >실내 온도 조절 시스템이 계속 시스템 억제의 원인이 되고 있다면, 팬 속도 컨트롤이 50% 미만으로 설정되어 있는지 확인하십시오.</tu>
+</tm>

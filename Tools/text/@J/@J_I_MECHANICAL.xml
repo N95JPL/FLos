@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MECHANICAL">
+	<tu xmlns:lang="eng">Mechanical</tu>
+	<tu xmlns:lang="nld">Mechanisch</tu>
+	<tu xmlns:lang="fra">Mécanique</tu>
+	<tu xmlns:lang="deu">Mechanisch</tu>
+	<tu xmlns:lang="ita">Meccanico</tu>
+	<tu xmlns:lang="jpn">メカニカル</tu>
+	<tu xmlns:lang="ptg">Componentes mecânicos</tu>
+	<tu xmlns:lang="ptb">Mecânica</tu>
+	<tu xmlns:lang="rus">Механический</tu>
+	<tu xmlns:lang="esp">Mecánico</tu>
+	<tu xmlns:lang="chs">机械</tu>
+	<tu xmlns:lang="kor">기계식</tu>
+</tm>

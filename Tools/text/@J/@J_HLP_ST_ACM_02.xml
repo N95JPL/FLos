@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_ACM_02">
+	<tu
+    xmlns:lang="eng"
+  >1)  Audio front control module clears the memory diagnostic trouble code area.</tu>
+	<tu
+    xmlns:lang="nld"
+  >1)  De regelmodule van de audioinstallatie voorin wist de ruimte voor diagnosefoutcodes in het geheugen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >1)  Le module de commande audio avant efface la zone de codes de diagnostic de la mémoire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >1)  Das Audio-Steuergerät vorne löscht den Ablagebereich für Fehlercodes im Speicher.</tu>
+	<tu
+    xmlns:lang="ita"
+  >1)  Il modulo di comando anteriore audio azzera l'area dei codici di guasto diagnostici in memoria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >1)  オーディオ フロント コントロール モジュールはメモリ診断トラブル コード エリアをクリアします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >1)  O módulo de controlo do sistema áudio dianteiro limpa a área dos códigos de avaria na memória.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >1)  O módulo de controle de áudio dianteiro limpa a memória da área do código de problemas de diagnóstico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >1)  Передний блок управления аудиосистемой очищает область памяти диагностических кодов неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >1)  El módulo de control delantero del sistema de audio borra la zona de códigos de avería de la memoria.</tu>
+	<tu xmlns:lang="chs">1)  前音频控制模块清空存储器故障诊断代码区。</tu>
+	<tu
+    xmlns:lang="kor"
+  >1)  오디오 프론트 컨트롤 모듈이 메모리 고장 진단 코드 영역을 삭제합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@OIL_CHANGE_RESET">
+	<tu xmlns:lang="eng">Oil change reset procedure</tu>
+	<tu xmlns:lang="nld">Procedure voor terugstellen van olieverversingssignaal</tu>
+	<tu xmlns:lang="fra">Procédure de réinitialisation du changement d'huile</tu>
+	<tu xmlns:lang="deu">Rücksetzungsverfahren Ölwechsel</tu>
+	<tu xmlns:lang="ita">Procedura di reset cambio dell'olio</tu>
+	<tu xmlns:lang="jpn">オイル チェンジ リセット手順</tu>
+	<tu xmlns:lang="ptg">Procedimento de reposição da mudança de óleo</tu>
+	<tu xmlns:lang="ptb">Procedimento de redefinição da troca de óleo</tu>
+	<tu xmlns:lang="rus">Процедура сброса данных при замене масла</tu>
+	<tu xmlns:lang="esp">Procedimiento de puesta a cero del indicador de cambio de aceite</tu>
+	<tu xmlns:lang="chs">机油更换复位程序</tu>
+	<tu xmlns:lang="kor">오일 교환 재설정 절차</tu>
+</tm>

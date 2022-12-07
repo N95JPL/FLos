@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@GEAR_SELECT_ELEC">
+	<tu xmlns:lang="eng">Electronic gear selector</tu>
+	<tu xmlns:lang="nld">Elektronische transmissieselectie</tu>
+	<tu xmlns:lang="fra">Sélecteur de vitesse électronique</tu>
+	<tu xmlns:lang="deu">Elektronischer Wählhebel</tu>
+	<tu xmlns:lang="ita">Selettore cambio elettronico</tu>
+	<tu xmlns:lang="jpn">エレクトロニック ギア セレクター</tu>
+	<tu xmlns:lang="ptg">Alavanca selectora electrónica</tu>
+	<tu xmlns:lang="ptb">Seletor de marchas eletrônico.</tu>
+	<tu xmlns:lang="rus">Электронный селектор коробки передач</tu>
+	<tu xmlns:lang="esp">Palanca de cambios electrónica</tu>
+	<tu xmlns:lang="chs">电子换档杆</tu>
+	<tu xmlns:lang="kor">전자식 기어 셀렉터</tu>
+</tm>

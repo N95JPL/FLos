@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_CM_PWR_SUPPLIES">
+	<tu xmlns:lang="eng">Supplies</tu>
+	<tu xmlns:lang="nld">Voedingen</tu>
+	<tu xmlns:lang="fra">Alimentations</tu>
+	<tu xmlns:lang="deu">Signaleingänge</tu>
+	<tu xmlns:lang="ita">Alimentazioni</tu>
+	<tu xmlns:lang="jpn">供給</tu>
+	<tu xmlns:lang="ptg">Alimentações</tu>
+	<tu xmlns:lang="ptb">Fontes</tu>
+	<tu xmlns:lang="rus">Источники питания</tu>
+	<tu xmlns:lang="esp">Alimentaciones</tu>
+	<tu xmlns:lang="chs">电源</tu>
+	<tu xmlns:lang="kor">전원 공급</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EXT_INT_CNTR_PAN">
+	<tu xmlns:lang="eng">Extended integrated control panel</tu>
+	<tu xmlns:lang="nld">Uitgebreid geïntegreerd bedieningspaneel </tu>
+	<tu xmlns:lang="fra">Panneau de commande intégré étendu </tu>
+	<tu xmlns:lang="deu">Erweitertes integriertes Bedienfeld </tu>
+	<tu xmlns:lang="ita">Quadro comandi integrato esteso</tu>
+	<tu xmlns:lang="jpn">延長インテグレート コントロール パネル</tu>
+	<tu xmlns:lang="ptg">Painel de controlo integrado alargado</tu>
+	<tu xmlns:lang="ptb">Painel de controle integrado estendido</tu>
+	<tu xmlns:lang="rus">Усовершенствованная интегрированная панель управления </tu>
+	<tu xmlns:lang="esp">Panel de mandos integrado ampliado</tu>
+	<tu xmlns:lang="chs">扩展集成控制面板</tu>
+	<tu xmlns:lang="kor">확장 통합 컨트롤 패널</tu>
+</tm>

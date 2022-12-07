@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_SPEED_SENSORS">
+	<tu xmlns:lang="eng">Speed control sensors</tu>
+	<tu xmlns:lang="nld">Voertuigsnelheidregelsensors</tu>
+	<tu xmlns:lang="fra">Capteurs de regulateur de vitesse du vehicule</tu>
+	<tu xmlns:lang="deu">Sensor geschwindigkeitsregler</tu>
+	<tu xmlns:lang="ita">Sensori comando velocità veicolo</tu>
+	<tu xmlns:lang="jpn">車巣R・トロール セ・サ</tu>
+	<tu xmlns:lang="ptg">Sensores do controlo da velocidade</tu>
+	<tu xmlns:lang="ptb">Sensores de controle de velocidade</tu>
+	<tu xmlns:lang="rus">Датчики системы управления скоростью движения</tu>
+	<tu xmlns:lang="esp">Sensores de control de la velocidad del vehículo</tu>
+	<tu xmlns:lang="chs">速度控制传感器</tu>
+	<tu xmlns:lang="kor">스피드 컨트롤 센서</tu>
+</tm>

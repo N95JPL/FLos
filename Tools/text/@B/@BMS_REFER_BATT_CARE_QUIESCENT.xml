@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_REFER_BATT_CARE_QUIESCENT">
+	<tu
+    xmlns:lang="eng"
+  >Refer to battery care manual and perform quiescent current measurements as detailed for investigating possible quiescent current faults</tu>
+	<tu
+    xmlns:lang="nld"
+  >Raadpleeg de Handleiding voor het verzorgen van de accu en voer metingen van de ruststroom uit zoals aangegeven om mogelijke problemen met de ruststroom te onderzoeken</tu>
+	<tu
+    xmlns:lang="fra"
+  >Consultez le manuel d'entretien de la batterie et mesurez le courant de repos absorbé comme indiqué pour repérer certains problèmes éventuels</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf das Batteriepflege-Handbuch Bezug nehmen und Ruhestrommessungen entsprechend der Angaben für die Untersuchung möglicher Ruhestromstörungen durchführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Consultare il manuale di manutenzione della batteria ed eseguire misurazioni della corrente a riposo come descritto, per esaminare i possibili guasti della corrente a riposo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >バッテリ ケア マニュアルを参照し、暗電流不良を点検するための記述に従って、暗電流の計測を実施しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Consultar o manual de manutenção da bateria e efectuar medições da corrente de repouso, conforme indicado para investigar possíveis falhas na corrente de repouso</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Consulte o manual de cuidados com a bateria e execute as medições de corrente em inatividade conforme descrito, a fim de investigar possíveis falhas de corrente em inatividade</tu>
+	<tu
+    xmlns:lang="rus"
+  >Используя руководство по уходу за аккумуляторной батареей, измерьте ток покоя, чтобы определить наличие связанных с ним неисправностей</tu>
+	<tu
+    xmlns:lang="esp"
+  >Consultar el manual de cuidado de la batería y realizar medidas de corriente remanente (como se ha detallado) para investigar posibles anomalías relacionadas con la corriente remanente</tu>
+	<tu
+    xmlns:lang="chs"
+  >参考蓄电池保养手册，根据其详细描述的程序进行静态电流测量，以调查可能存在的静态电流故障</tu>
+	<tu
+    xmlns:lang="kor"
+  >배터리 관리 매뉴얼을 참조하여 발생 가능한 대기 전류 결함 조사를 위해 상세히 설명되어 있는 대기 전류 측정을 수행하십시오.</tu>
+</tm>

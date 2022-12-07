@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@jboote2_1143102021$X">
+	<tu xmlns:lang="eng">Start the engine and run at idle.</tu>
+	<tu xmlns:lang="nld">Start de motor en laat hem stationair lopen.</tu>
+	<tu xmlns:lang="fra">Démarrez le moteur et faites-le tourner au ralenti.</tu>
+	<tu xmlns:lang="deu">Motor anlassen und mit Leerlaufdrehzahl laufen lassen.</tu>
+	<tu xmlns:lang="ita">Avviare il motore e lasciarlo girare al minimo.</tu>
+	<tu xmlns:lang="jpn">エンジンを始動しアイドリングさせなさい。</tu>
+	<tu xmlns:lang="ptg">Pôr o motor a trabalhar e deixar funcionar ao ralenti.</tu>
+	<tu xmlns:lang="ptb">Ligue o motor e acione em marcha lenta</tu>
+	<tu
+    xmlns:lang="rus"
+  >Заведите двигатель и оставьте работать на холостых оборотах.</tu>
+	<tu xmlns:lang="esp">Arrancar el motor y dejarlo funcionar en ralentí.</tu>
+	<tu xmlns:lang="chs">启动发动机并怠速运转。</tu>
+	<tu xmlns:lang="kor">엔진을 시동하고 공회전으로 작동하십시오.</tu>
+</tm>

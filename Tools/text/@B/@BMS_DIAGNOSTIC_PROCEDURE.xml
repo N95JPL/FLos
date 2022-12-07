@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_DIAGNOSTIC_PROCEDURE">
+	<tu xmlns:lang="eng">Battery monitoring system diagnostic procedure</tu>
+	<tu xmlns:lang="nld">Diagnoseprocedure van accucontrolesysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Procédure de diagnostic du système de surveillance de la batterie</tu>
+	<tu xmlns:lang="deu">Batterieüberwachungssystem - Diagnoseverfahren</tu>
+	<tu
+    xmlns:lang="ita"
+  >Procedura diagnostica del sistema di monitoraggio della batteria</tu>
+	<tu xmlns:lang="jpn">バッテリ モニタリング システム診断手順</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Procedimento de diagnóstico do sistema de monitorização da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Procedimento de diagnóstico do sistema de monitoramento de bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура диагностики системы контроля аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Procedimiento de diagnóstico del sistema de control de la batería</tu>
+	<tu xmlns:lang="chs">蓄电池监测系统诊断程序</tu>
+	<tu xmlns:lang="kor">배터리 모니터링 시스템 진단 절차</tu>
+</tm>

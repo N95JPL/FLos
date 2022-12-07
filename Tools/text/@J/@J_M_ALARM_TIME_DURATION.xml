@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ALARM_TIME_DURATION">
+	<tu xmlns:lang="eng">Alarm duration</tu>
+	<tu xmlns:lang="nld">Duur van het alarm</tu>
+	<tu xmlns:lang="fra">Durée d'alarme</tu>
+	<tu xmlns:lang="deu">Alarmdauer</tu>
+	<tu xmlns:lang="ita">Durata allarme</tu>
+	<tu xmlns:lang="jpn">アラーム持続時間</tu>
+	<tu xmlns:lang="ptg">Duração do alarme</tu>
+	<tu xmlns:lang="ptb">Duração do alarme</tu>
+	<tu xmlns:lang="rus">Длительность сигнала тревоги</tu>
+	<tu xmlns:lang="esp">Duración de la alarma</tu>
+	<tu xmlns:lang="chs">报警持续时间</tu>
+	<tu xmlns:lang="kor">알람 지속 시간</tu>
+</tm>

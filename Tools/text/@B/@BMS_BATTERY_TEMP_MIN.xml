@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_BATTERY_TEMP_MIN">
+	<tu xmlns:lang="eng">Ensure battery temperature is above minimum level</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat de accutemperatuur boven de minimumwaarde ligt</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que la température de la batterie est supérieure au seuil minimum</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass Batterietemperatur über Mindestwert liegt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che la temperatura batteria sia al di sopra del livello minimo</tu>
+	<tu xmlns:lang="jpn">バッテリ温度が最低レベル以上であることを確認しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Garantir que a temperatura da bateria está acima do nível mínimo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a temperatura da bateria esteja acima do nível mínimo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что температура аккумуляторной батареи выше минимального уровня</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que la temperatura de la batería está por encima del nivel mínimo</tu>
+	<tu xmlns:lang="chs">确保蓄电池温度高于最低水平</tu>
+	<tu xmlns:lang="kor">배터리 온도가 최소 레벨 이상인지 확인하십시오.</tu>
+</tm>

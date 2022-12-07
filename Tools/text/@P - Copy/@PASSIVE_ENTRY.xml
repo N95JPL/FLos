@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PASSIVE_ENTRY">
+	<tu xmlns:lang="eng">Passive entry</tu>
+	<tu xmlns:lang="nld">Toegang zonder sleutel</tu>
+	<tu xmlns:lang="fra">Entrée passive.</tu>
+	<tu xmlns:lang="deu">Passiver Zugang</tu>
+	<tu xmlns:lang="ita">Accesso passivo</tu>
+	<tu xmlns:lang="jpn">パッシブ エントリー</tu>
+	<tu xmlns:lang="ptg">Entrada passiva</tu>
+	<tu xmlns:lang="ptb">Entrada passiva</tu>
+	<tu xmlns:lang="rus">Пассивный ввод</tu>
+	<tu xmlns:lang="esp">Apertura a distancia</tu>
+	<tu xmlns:lang="chs">被动进入</tu>
+	<tu xmlns:lang="kor">패시브 엔트리</tu>
+</tm>

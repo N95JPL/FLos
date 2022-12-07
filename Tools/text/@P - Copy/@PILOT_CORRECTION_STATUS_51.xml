@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_51">
+	<tu xmlns:lang="eng">0x51 : Exited due to pilot correction timeout.</tu>
+	<tu xmlns:lang="nld">0x51 : inleren afgesloten omdat de pilot-correctie verstreken is.</tu>
+	<tu xmlns:lang="fra">0x51 : Quitté à cause de l'expiration de la correction pilote.</tu>
+	<tu xmlns:lang="deu">0x51 : Beendet aufgrund von Zeitüberschreitung Voreinspritzungskorrektur.</tu>
+	<tu xmlns:lang="ita">0x51 : Interrotto a causa del timeout della correzione pilota.</tu>
+	<tu xmlns:lang="jpn">0x51 : パイロット補正タイムアウトのため終了。</tu>
+	<tu xmlns:lang="ptg">0x51 : Saiu devido a tempo limite de correcção piloto excedido.</tu>
+	<tu xmlns:lang="ptb">0X51 : Encerrada devido ao tempo limite da correção do piloto.</tu>
+	<tu xmlns:lang="rus">0x51 : Произведен выход, так как произошел таймаут сохранения значений контрольной корректировки.</tu>
+	<tu xmlns:lang="esp">0x51: Se cerró por agotarse el tiempo programado para la corrección piloto.</tu>
+	<tu xmlns:lang="chs">0x51： 由于试验性校正超时而退出运行。</tu>
+	<tu xmlns:lang="kor">0x51 : 파일럿 보정 시간 초과 때문에 종료됩니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart38">
+	<tu
+    xmlns:lang="eng"
+  >If present on the auto stop/start system stop screen, the transmission control module is requesting the engine running due to an inhibit or fault condition.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Indien aanwezig op het scherm van het automatische Stop/Start-systeem, vraagt de transmissieregelmodule om de motor te laten draaien als gevolg van een toestand met een blokkering of storing.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'il est présent sur l'écran d'arrêt du système Arrêt/Démarrage auto, le module de commande de transmission demande le fonctionnement du moteur en raison d'une neutralisation ou d'un défaut.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls auf dem Bildschirm des Auto-Stopp-Start-Systems vorhanden, fordert das Getriebesteuergerät aufgrund einer Sperre oder eines Fehlerzustands einen laufenden Motor an.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se presente sulla schermata di arresto del sistema Stop/Start automatico, il modulo di comando cambio richiede che il motore sia in funzione a causa di una condizione di guasto o di disabilitazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オート ストップ/スタート システムのストップ画面に表示される場合、トランスミッション コントロール モジュールが禁止または故障状態であることを理由としてエンジンの作動を要求しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se estiver presente no ecrã de paragem do sistema Stop/Start automático, o módulo de controlo da transmissão solicita o funcionamento do motor devido a uma inibição ou condição de avaria.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se presente na tela de parada do sistema stop/start automático, o módulo de controle da transmissão está solicitando a operação do motor devido a uma condição de inibição ou falha.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В случае наличия на экране автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт блок управления коробкой передач запрашивает работу двигателя вследствие блокировки или неисправности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se presenta en la pantalla de parada del sistema Stop/Start automático, el módulo de control de la transmisión solicitará el funcionamiento del motor debido a una condición de bloqueo o de avería.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果出现在自动停止/启动系统停止屏幕上，由于禁用或故障情况，变速器控制模块会请求发动机运行。</tu>
+	<tu
+    xmlns:lang="kor"
+  >자동 Stop/Start 시스템 중지 화면에 이 상태가 나타날 경우 억제 또는 고장 상태로 인해 변속기 컨트롤 모듈이 엔진 작동을 요청하고 있는 것입니다.</tu>
+</tm>

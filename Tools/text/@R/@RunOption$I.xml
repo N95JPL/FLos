@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RunOption$I">
+	<tu
+    xmlns:lang="eng"
+  >Before continuing, it is necessary to run the vehicle maintenance menu option in the engine management diagnostics via T4 software.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voordat u verdergaat, moet u eerst de auto-onderhoudsmenukeuze uit de motormanagementdiagnose via de T4-software uitvoeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Avant de continuer, il est nécessaire de lancer l'option de menu maintenance du véhicule dans le diagnostic de gestion moteur via le logiciel T4.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ehe fortgefahren wird, muss über die Software des T4 die Menüoption Fahrzeugwartung in der Motormanagement-Diagnose laufen gelassen werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prima di continuare, è necessario eseguire l'opzione di menu di manutenzione veicolo nella diagnostica di gestione del motore tramite il software T4.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >続行する前に、T4 ソ\フトウェアを介し、エンジン マネジメント診断の車両メンテナンス メニュー オプションを実行する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Antes de continuar, é necessário correr a opção do menu de manutenção do veículo no diagnóstico da gestão do motor, com o software do T4.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Antes de continuar, é necessário executar a opção de menu da manutenção do veículo no diagnóstico de gerenciamento do motor através do software T4.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перед тем, как продолжить, необходимо запустить функцию меню 'vehicle maintenance' (техническое обслуживание автомобиля) в диагностике системы управления двигателем через программу Т4.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Antes de continuar es necesario ejecutar la opción de menú Mantenimiento del vehículo, en la función de diagnosis de gestión del motor, usando el software del T4.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'在继续之前，有必要通过T4软件运行发动机管理诊断系统中的车辆维护菜单选项。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >계속하기 전에 T4 소프트웨어를 통해 엔진 관리 진단의 차량 유지 관리 메뉴 옵션을 실행해야 합니다.</tu>
+</tm>

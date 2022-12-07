@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_SEAT_CLIM_CTR">
+	<tu xmlns:lang="eng">Rear seat climate control</tu>
+	<tu xmlns:lang="nld">Met klimaatregeling voor achterstoel</tu>
+	<tu xmlns:lang="fra">Commande de climatisation de siège arrière</tu>
+	<tu xmlns:lang="deu">Rücksitz-Klimaanlage</tu>
+	<tu xmlns:lang="ita">Comando climatizzazione sedili posteriori</tu>
+	<tu xmlns:lang="jpn">リア シート エア コンディショニング</tu>
+	<tu xmlns:lang="ptg">Controlo da climatização do banco traseiro</tu>
+	<tu xmlns:lang="ptb">Controle da temperatura do assento traseiro</tu>
+	<tu xmlns:lang="rus">Климат-контроль заднего сиденья</tu>
+	<tu xmlns:lang="esp">Climatización para los pasajeros traseros</tu>
+	<tu xmlns:lang="chs">后座椅气候控制</tu>
+	<tu xmlns:lang="kor">리어 시트 온도 조절 장치</tu>
+</tm>

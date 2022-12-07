@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_93">
+<tu xmlns:lang="eng">Component failure - no operation.</tu>
+<tu xmlns:lang="nld">Component defect - werkt niet.</tu>
+<tu xmlns:lang="fra">Composant d&#233;fectueux - pas de fonctionnement.</tu>
+<tu xmlns:lang="deu">Bauteilst&#246;rung - funktionslos.</tu>
+<tu xmlns:lang="ita">Guasto componente - mancato funzionamento.</tu>
+<tu xmlns:lang="jpn">ƒRƒ“ƒ|[ƒlƒ“ƒgŒÌá | ƒIƒyƒŒ[ƒVƒ‡ƒ“‚È‚µ</tu>
+<tu xmlns:lang="ptg">Falha de componente - n&#227;o funciona.</tu>
+<tu xmlns:lang="rus">Îòêàç ýëåìåíòà - íå ðàáîòàåò.</tu>
+<tu xmlns:lang="esp">Fallo de componente: no funciona.</tu>
+<tu xmlns:lang="chs">Ôª¼þ¹ÊÕÏ - ²»¹¤×÷¡£</tu>
+</tm>

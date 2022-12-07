@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KFOB_REMOTE_FUNC">
+	<tu xmlns:lang="eng">Keyfob remote functionality</tu>
+	<tu xmlns:lang="nld">Werking van sleutelzender</tu>
+	<tu xmlns:lang="fra">Fonctionnalité à distance par la tête de clé</tu>
+	<tu xmlns:lang="deu">Funktionalität der Fernbedienung</tu>
+	<tu xmlns:lang="ita">Funzionalità a distanza chiave telecomando</tu>
+	<tu xmlns:lang="jpn">キーフォブ リモート機能\</tu>
+	<tu xmlns:lang="ptg">Funcionamento remoto do comando à distância</tu>
+	<tu xmlns:lang="ptb">Funcionalidade do controle remoto da chave</tu>
+	<tu xmlns:lang="rus">Работа пульта дистанционного управления</tu>
+	<tu xmlns:lang="esp">Funcionamiento a distancia del transmisor</tu>
+	<tu xmlns:lang="chs">遥控钥匙牌遥控功能</tu>
+	<tu xmlns:lang="kor">키 리모컨 기능</tu>
+</tm>

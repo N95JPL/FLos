@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_WAIT_30_SEC">
+	<tu
+    xmlns:lang="eng"
+  >Wait for the vehicle to immobilise (approximately 30 seconds).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wacht totdat de startblokkering in werking is gesteld (ongeveer 30 seconden).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attendez que le véhicule s'immobilise (environ 30 secondes).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf Aktivierung der Wegfahrsperre des Fahrzeugs warten (ca. 30 Sekunden).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attendere che il veicolo sia immobilizzato (circa 30 secondi).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両がイモビライゼーションされるのを待ちなさい (約 30 秒)。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aguardar que o veículo fique imobilizado (cerca de 30 segundos).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aguarde até que o veículo esteja imobilizado (aproximadamente 30 segundos).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подождите пока автомобиль заблокируется (приблизительно 30 секунд).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esperar a que el vehículo se inmovilice (unos 30 segundos).</tu>
+	<tu xmlns:lang="chs">等待车辆停下静止（约30秒钟）。</tu>
+	<tu xmlns:lang="kor">차량이 고정될 때까지 기다리십시오(약 30초).</tu>
+</tm>

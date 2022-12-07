@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_FRANCE">
+	<tu xmlns:lang="eng">France</tu>
+	<tu xmlns:lang="nld">Frankrijk</tu>
+	<tu xmlns:lang="fra">France</tu>
+	<tu xmlns:lang="deu">Frankreich</tu>
+	<tu xmlns:lang="ita">Francia</tu>
+	<tu xmlns:lang="jpn">フランス</tu>
+	<tu xmlns:lang="ptg">França</tu>
+	<tu xmlns:lang="ptb">França</tu>
+	<tu xmlns:lang="rus">Франция</tu>
+	<tu xmlns:lang="esp">Francia</tu>
+	<tu xmlns:lang="chs">法国</tu>
+	<tu xmlns:lang="kor">프랑스</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SOFTWARE_BOOTLOADER">
+	<tu xmlns:lang="eng">Software bootloader part number</tu>
+	<tu xmlns:lang="nld">Onderdeelnummer van softwarebootloader</tu>
+	<tu xmlns:lang="fra">Référence du chargeur d'amorçage de logiciel</tu>
+	<tu xmlns:lang="deu">Software-Bootloader, Teilenummer</tu>
+	<tu xmlns:lang="ita">Numero parte boot loader del software</tu>
+	<tu xmlns:lang="jpn">ソ\フトウェア ブートローダー パーツ ナンバー</tu>
+	<tu xmlns:lang="ptg">Número de peça do programa de arranque do software</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Número da peça do carregador de inicialização do software</tu>
+	<tu xmlns:lang="rus">Каталожный номер загрузчика программного обеспечения</tu>
+	<tu xmlns:lang="esp">Número de pieza del cargador de arranque del software</tu>
+	<tu xmlns:lang="chs">软件引导加载程序零件号</tu>
+	<tu xmlns:lang="kor">소프트웨어 부트로더 부품 번호</tu>
+</tm>

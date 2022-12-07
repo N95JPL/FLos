@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SeatAreaNoObj3$I">
+	<tu xmlns:lang="eng">Do not sit in the seat during the operation.</tu>
+	<tu xmlns:lang="nld">Tijdens deze bewerking mag u niet in de stoel zitten.</tu>
+	<tu xmlns:lang="fra">Ne vous asseyez pas sur le siège pendant l'opération.</tu>
+	<tu xmlns:lang="deu">Während dieses Schrittes nicht auf dem Sitz sitzen.</tu>
+	<tu xmlns:lang="ita">Non sedersi sul sedile durante l'operazione.</tu>
+	<tu xmlns:lang="jpn">このオペレーション中、シートに腰掛けてはなりません。</tu>
+	<tu xmlns:lang="ptg">Não se sente no banco durante a operação.</tu>
+	<tu xmlns:lang="ptb">Não sente-se no assento durante a operação.</tu>
+	<tu xmlns:lang="rus">Во время этой операции нельзя садиться на сиденье.</tu>
+	<tu xmlns:lang="esp">No sentarse en el asiento durante la operación.</tu>
+	<tu xmlns:lang="chs">在操作过程中不要坐在座椅上。</tu>
+	<tu xmlns:lang="kor">작동 중에는 시트에 앉지 마십시오.</tu>
+</tm>

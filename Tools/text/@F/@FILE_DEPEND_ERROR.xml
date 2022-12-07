@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FILE_DEPEND_ERROR">
+	<tu xmlns:lang="eng">File dependency failure</tu>
+	<tu xmlns:lang="nld">Fout bij bestandsafhankelijkheid</tu>
+	<tu xmlns:lang="fra">Erreur de dépendance de fichiers</tu>
+	<tu xmlns:lang="deu">Fehler bei der Dateizugehörigkeit</tu>
+	<tu xmlns:lang="ita">Errore di dipendenza del file</tu>
+	<tu xmlns:lang="jpn">ファイル依存エラー</tu>
+	<tu xmlns:lang="ptg">Falha de dependência de ficheiro</tu>
+	<tu xmlns:lang="ptb">Falha de dependência do arquivo</tu>
+	<tu xmlns:lang="rus">Сбой в зависимости от типа файла</tu>
+	<tu xmlns:lang="esp">Fallo de dependencia de archivo</tu>
+	<tu xmlns:lang="chs">文件依赖项故障</tu>
+	<tu xmlns:lang="kor">파일 종속성 오류</tu>
+</tm>

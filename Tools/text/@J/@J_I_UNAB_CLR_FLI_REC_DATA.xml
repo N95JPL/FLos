@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNAB_CLR_FLI_REC_DATA">
+	<tu xmlns:lang="eng">Unable to clear flight recorder data</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem heeft de gegevens in de flight-recorder niet kunnen wissen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Impossible d'effacer les données de l'enregistreur de bord</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Daten der Crash-Aufzeichnung konnten nicht gelöscht werden</tu>
+	<tu xmlns:lang="ita">Impossibile azzerare i dati di flight recorder</tu>
+	<tu xmlns:lang="jpn">フライト レコーダー データをクリアできません。</tu>
+	<tu xmlns:lang="ptg">Impossível limpar os dados do registador de viagem</tu>
+	<tu xmlns:lang="ptb">Não é possível excluir os dados do registrador de voo</tu>
+	<tu xmlns:lang="rus">Невозможно удалить данные бортового регистратора</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudieron borrar los datos del registro de errores</tu>
+	<tu xmlns:lang="chs">无法清除记录器数据</tu>
+	<tu xmlns:lang="kor">블랙박스 데이터를 삭제할 수 없음</tu>
+</tm>

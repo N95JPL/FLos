@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_ACM_06">
+	<tu
+    xmlns:lang="eng"
+  >5)  Audio front control module checks the memory works correctly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >5)  De regelmodule van audioinstallatie voorin controleert of het geheugen goed werkt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >5)  Le module de commande audio avant vérifie si la mémoire fonctionne correctement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >5)  Das Audio-Steuergerät vorne überprüft, ob der Speicher korrekt arbeitet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >5)  Il modulo di comando anteriore audio controlla che la memoria funzioni correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >5)  オーディオ フロント コントロール モジュールはメモリが正しく機能\するかチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >5)  O módulo de controlo do sistema áudio dianteiro verifica se a memória está a funcionar correctamente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >5)  O módulo de controle de áudio dianteiro verifica a se memória funciona corretamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >5)  Передний блок управления аудиосистемой проверяет правильность работы памяти.</tu>
+	<tu
+    xmlns:lang="esp"
+  >5)  El módulo de control delantero del sistema de audio comprueba que la memoria funcione correctamente.</tu>
+	<tu xmlns:lang="chs">5)  前音频控制模块检查存储器是否正常工作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >5)  오디오 프론트 컨트롤 모듈이 메모리가 올바르게 작동하는지 점검합니다.</tu>
+</tm>

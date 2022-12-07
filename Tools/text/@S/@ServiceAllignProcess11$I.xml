@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess11$I">
+	<tu
+    xmlns:lang="eng"
+  >To be fully functional the following process needs to be carried out:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Om ervoor te zorgen dat dit goed werkt, moet u de volgende procedure uitvoeren:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour assurer la fonctionnalité complète, la procédure suivante doit être exécutée :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Für vollständige Funktionalität muss der folgende Arbeitsvorgang durchgeführt werden:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per totale funzionalità, è necessario eseguire la seguente procedura:</tu>
+	<tu xmlns:lang="jpn">機能\を完全にするには、次のプロセスの実行が必要です：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para ficar totalmente funcional, tem de se levar a cabo o seguinte processo:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para ser totalmente funcional, o processo a seguir deve ser realizado:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Чтобы обеспечить полную функциональность системы, необходимо выполнить следующее.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para que el sistema disponga de todas sus funciones se debe llevar a cabo el proceso siguiente:</tu>
+	<tu xmlns:lang="chs">若要实现完全功能，需执行下述过程：</tu>
+	<tu
+    xmlns:lang="kor"
+  >시스템이 제 기능을 발휘하려면 다음 과정을 수행해야 합니다.</tu>
+</tm>

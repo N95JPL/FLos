@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VerCorrectKeySet$M">
+	<tu
+    xmlns:lang="eng"
+  >Please verify that you are using the correct set of keys and re-run the application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer a.u.b. of u inderdaad de juiste set sleutels gebruikt en voer de toepassing opnieuw uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez vérifier que vous utilisez le jeu de clés correct et exécutez de nouveau l'application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte bestätigen, dass Sie den korrekten Schlüsselsatz verwenden, und das Anwendungsprogramm erneut laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accertarsi di stare usando la serie di chiavi giusta e rieseguire l'applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >正しいキー セットの使用を確認しアプリケーションを再実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique se está a utilizar o conjunto correcto de chaves e volte a executar a aplicação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se está utilizando o conjunto de chaves correto e execute novamente o aplicativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что вы используете нужный комплект ключей и перезапустите приложение.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que se esté utilizando el juego de llaves correcto y volver a ejecutar la aplicación.</tu>
+	<tu
+    xmlns:lang="chs"
+  >请验证您是否在使用一套正确的钥匙，并重新运行该应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >올바른 키 세트를 사용하고 있는지 확인하고 애플리케이션을 다시 실행하십시오.</tu>
+</tm>

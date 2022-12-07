@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_VIN_RANGE_X202_ARM">
+	<tu
+    xmlns:lang="eng"
+  >Is the vehicle identification number greater than M44998 but less than M62935?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuigidentificatienummer hoger dan M44998 maar lager dan M62935?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le numéro d'identification du véhicule est-il supérieur à M44998 mais inférieur à M62935 ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist die Fahrzeug-Identifikationsnummer größer als M44998 aber kleiner als M62935?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il numero di identificazione del veicolo è maggiore di M44998 ma minore di M62935?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両 ID ナンバーは M44998 より大きく、M62935 未満ですか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número de identificação do veículo é superior a M44998 mas inferior a M62935?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O número de identificação do veículo é maior do que M44998 mas menor do que M62935?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Идентификационный номер автомобиля больше M44998, но меньше M62935?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Es el número de identificación del vehículo superior a M44998 pero inferior a M62935?</tu>
+	<tu xmlns:lang="chs">车辆标识代码是否大于 M44998 但小于 M62935？</tu>
+	<tu xmlns:lang="kor">차량 식별 번호가 M44998보다 높고 M62935보다 낮습니까?</tu>
+</tm>

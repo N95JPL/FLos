@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_BATT_I_GT_N10A">
+	<tu xmlns:lang="eng">Battery current too high</tu>
+	<tu xmlns:lang="nld">Accustroom te hoog</tu>
+	<tu xmlns:lang="fra">Courant de batterie trop élevé</tu>
+	<tu xmlns:lang="deu">Batteriestrom zu hoch</tu>
+	<tu xmlns:lang="ita">Corrente batteria troppo alta</tu>
+	<tu xmlns:lang="jpn">バッテリ電流が高過ぎ</tu>
+	<tu xmlns:lang="ptg">Corrente da beteria demasiado elevada</tu>
+	<tu xmlns:lang="ptb">Corrente da bateria muito alta</tu>
+	<tu xmlns:lang="rus">Слишком высокий ток аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Corriente de la batería demasiado alta</tu>
+	<tu xmlns:lang="chs">蓄电池电流过高</tu>
+	<tu xmlns:lang="kor">배터리 전류가 너무 높음</tu>
+</tm>

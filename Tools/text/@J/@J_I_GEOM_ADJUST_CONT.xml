@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GEOM_ADJUST_CONT">
+	<tu xmlns:lang="eng">Geometry checking/adjustment can now be carried out.</tu>
+	<tu xmlns:lang="nld">De geometrie kan nu worden gecontroleerd/afgesteld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le contrôle/réglage de la géométrie peut maintenant être effectué.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Geometrieprüfung/-einstellung kann jetzt durchgeführt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >È ora possibile eseguire la regolazione/il controllo della geometria.</tu>
+	<tu xmlns:lang="jpn">ジオメトリのチェック／調整をここで行うことができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A verificação/regulação da geometria pode ser agora efectuada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verificação/ajuste da geometria pode agora ser executada.</tu>
+	<tu xmlns:lang="rus">Теперь можно проводить проверку/регулировку геометрии.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ahora se puede realizar la comprobación o el ajuste de la geometría.</tu>
+	<tu xmlns:lang="chs">现在可以进行几何检查/调节。</tu>
+	<tu xmlns:lang="kor">형상 점검/조정을 수행할 수 있습니다.</tu>
+</tm>

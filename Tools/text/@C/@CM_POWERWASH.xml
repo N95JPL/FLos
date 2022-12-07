@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_POWERWASH">
+	<tu xmlns:lang="eng">Powerwash</tu>
+	<tu xmlns:lang="nld">Ruitesproeiers</tu>
+	<tu xmlns:lang="fra">Lavage a pression</tu>
+	<tu xmlns:lang="deu">Elektr. Waschanalage</tu>
+	<tu xmlns:lang="ita">Lavaggio elettrico</tu>
+	<tu xmlns:lang="jpn">ﾊﾟﾜーｳｫｯｼｭ</tu>
+	<tu xmlns:lang="ptg">Lava-faróis eléctrico</tu>
+	<tu xmlns:lang="ptb">Sistema de lavagem</tu>
+	<tu xmlns:lang="rus">Омыватель</tu>
+	<tu xmlns:lang="esp">Lavado a presion</tu>
+	<tu xmlns:lang="chs">强力清洗</tu>
+	<tu xmlns:lang="kor">파워워시</tu>
+</tm>

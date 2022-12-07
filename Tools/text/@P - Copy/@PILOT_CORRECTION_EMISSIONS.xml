@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_EMISSIONS">
+	<tu xmlns:lang="eng">This will adversely affect emissions.</tu>
+	<tu xmlns:lang="nld">Dit zal de emissies nadelig beïnvloeden.</tu>
+	<tu xmlns:lang="fra">Ceci aura un impact important sur les émissions.</tu>
+	<tu xmlns:lang="deu">Dies beeinflusst die Emissionen nachteilig.</tu>
+	<tu xmlns:lang="ita">Ciò influirà negativamente sulle emissioni.</tu>
+	<tu xmlns:lang="jpn">これはエミッションに逆の影響を与えます。</tu>
+	<tu xmlns:lang="ptg">Isto afectará as emissões negativamente.</tu>
+	<tu xmlns:lang="ptb">Isso afetará adversamente as emissões.</tu>
+	<tu xmlns:lang="rus">Это негативно повлияет на токсичность отработавших газов.</tu>
+	<tu xmlns:lang="esp">Esto perjudica el nivel de emisiones.</tu>
+	<tu xmlns:lang="chs">这将对排放产生不利影响。</tu>
+	<tu xmlns:lang="kor">이는 배기 가스 배출에 악영향을 미칩니다.</tu>
+</tm>

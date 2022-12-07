@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INJECTOR_CODE_10_DIGIT_SOURCE">
+	<tu
+    xmlns:lang="eng"
+  >The unique injector 10 digit code can be accessed from the following sources:</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt de unieke 10-cijferige code van de injector op de volgende plaatsen vinden:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le code à 10 caractères unique d'injecteur est accessible aux endroits suivants :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der unverwechselbare 10-stellige Einspritzventilcode ist an folgenden Stellen angegeben:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il codice numerico univoco a 10 cifre può essere reperito dalle seguenti fonti:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >独自のインジェクタ 10 桁コードは以下のソ\ースからもアクセスできます：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pode aceder-se ao código único de 10 dígitos do injector da seguinte forma:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O código de 10 dígitos exclusivo do injetor pode ser acessado pelas seguintes fontes:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Уникальный 10-значный код форсунки можно получить из следующих источников:</tu>
+	<tu
+    xmlns:lang="esp"
+  >El código exclusivo de 10 dígitos del inyector se puede obtener de las siguientes fuentes:</tu>
+	<tu xmlns:lang="chs">可于下列来源取得喷油器独有的10位代码：</tu>
+	<tu
+    xmlns:lang="kor"
+  >인젝터의 고유한 10자리 코드는 다음 소스에서 확인할 수 있습니다.</tu>
+</tm>

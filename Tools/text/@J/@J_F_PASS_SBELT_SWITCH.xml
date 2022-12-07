@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_PASS_SBELT_SWITCH">
+	<tu xmlns:lang="eng">Passenger's safety belt buckle switch</tu>
+	<tu xmlns:lang="nld">Passagiersstoel autogordel gespschakelaar</tu>
+	<tu xmlns:lang="fra">Contacteur de boucle de ceinture de sécurité passager</tu>
+	<tu xmlns:lang="deu">Gurtschloßschalter Beifahrersitz</tu>
+	<tu xmlns:lang="ita">Interruttore fibbia cintura sicurezza passeggero</tu>
+	<tu xmlns:lang="jpn">パッセンジャー シートベルト バックル スイッチ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Interruptor do trinco do cinto de segurança do passageiro.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Interruptor da fivela do cinto de segurança do passageiro</tu>
+	<tu xmlns:lang="rus">Выключатель замка ремня безопасности пассажира.</tu>
+	<tu xmlns:lang="esp">Interruptor de la hebilla del cinturón del acompañante</tu>
+	<tu xmlns:lang="chs">乘客安全带锁扣开关。</tu>
+	<tu xmlns:lang="kor">조수석 안전벨트 버클 스위치</tu>
+</tm>

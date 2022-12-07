@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CHECK_GEN_CONNECTOR_OK">
+	<tu xmlns:lang="eng">Check generator connector is plugged in</tu>
+	<tu xmlns:lang="nld">Controleer of de dynamostekker is ingestoken</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que le connecteur de l'alternateur est branché</tu>
+	<tu
+    xmlns:lang="deu"
+  >Prüfen, ob Steckverbinder des Generators angeschlossen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che il connettore del generatore sia collegato</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ジェネレータ コネクターが接続されているかチェックしなさい</tu>
+	<tu xmlns:lang="ptg">Verificar se o conector do alternador está ligado</tu>
+	<tu xmlns:lang="ptb">Verifique se o conector do alternador está conectado</tu>
+	<tu xmlns:lang="rus">Убедитесь, что разъем генератора подсоединен</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar que el conector del alternador está enchufado</tu>
+	<tu xmlns:lang="chs">检查确保发电机连接器已插接好</tu>
+	<tu xmlns:lang="kor">제너레이터 커넥터가 꽂혀져 있는지 점검하십시오.</tu>
+</tm>

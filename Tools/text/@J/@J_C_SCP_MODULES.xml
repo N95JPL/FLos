@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_SCP_MODULES">
+	<tu xmlns:lang="eng">SCP modules</tu>
+	<tu xmlns:lang="nld">SCP-modules</tu>
+	<tu xmlns:lang="fra">Modules SCP</tu>
+	<tu xmlns:lang="deu">SCP-Module</tu>
+	<tu xmlns:lang="ita">Moduli SCP</tu>
+	<tu xmlns:lang="jpn">SCP モジュール</tu>
+	<tu xmlns:lang="ptg">Módulos - SCP</tu>
+	<tu xmlns:lang="ptb">Módulos SCP</tu>
+	<tu xmlns:lang="rus">Модули SCP</tu>
+	<tu xmlns:lang="esp">Módulos SCP</tu>
+	<tu xmlns:lang="chs">SCP 模块</tu>
+	<tu xmlns:lang="kor">SCP 모듈</tu>
+</tm>

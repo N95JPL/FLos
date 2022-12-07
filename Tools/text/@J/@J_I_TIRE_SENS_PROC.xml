@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIRE_SENS_PROC">
+	<tu
+    xmlns:lang="eng"
+  >This application will proceed to confirm if the tire pressure monitor system set-up has been successful.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing zal een bevestiging geven wanneer het is gelukt de bandenspanningsbewaking in te stellen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application entreprend de confirmer si la configuration du système de contrôle de pression des pneumatiques a réussi.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Anwendungsprogramm bestätigt im nächsten Schritt, ob das Setup des Reifendrucküberwachungssystems erfolgreich war.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione procederà a confermare se l'impostazione del sistema di monitoraggio pressione pneumatici è stata eseguita correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、タイヤ プレッシャ モニタリング システムのセットアップが正常に完了したか確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação avança para confirmar se a definição do sistema de monitorização da pressão dos pneus foi bem-sucedida.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo irá prosseguir para confirmar se a configuração do sistema de monitoração da pressão dos pneus foi bem-sucedida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение проверит правильность настройки системы контроля давления в шинах.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación procederá a confirmar si la configuración del sistema de control de la presión de los neumáticos se ha realizado correctamente.</tu>
+	<tu xmlns:lang="chs">此应用程序将确认轮胎压力监测系统的设置是否成功。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션이 계속 진행되어 타이어 공기압 모니터 시스템 설정에 성공했는지 확인합니다.</tu>
+</tm>

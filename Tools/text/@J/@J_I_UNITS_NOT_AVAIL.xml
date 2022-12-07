@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNITS_NOT_AVAIL">
+	<tu
+    xmlns:lang="eng"
+  >Miles per liter units not available for selection by driver</tu>
+	<tu
+    xmlns:lang="nld"
+  >Eenheid mijl per liter is niet instelbaar door bestuurder</tu>
+	<tu
+    xmlns:lang="fra"
+  >Unités miles par litre non disponibles à la sélection pour le conducteur</tu>
+	<tu xmlns:lang="deu">Meilen pro Liter vom Fahrer nicht auswählbar</tu>
+	<tu
+    xmlns:lang="ita"
+  >Unità miglia per litro non disponibili per selezione da parte del guidatore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >リッターあたりマイルの単位がドライバーの選択によって利用不可</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Unidades de milhas por litro não disponíveis para selecção pelo condutor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Unidades de milhas por litro não disponíveis para seleção pelo motorista</tu>
+	<tu xmlns:lang="rus">Водитель не может выбрать единицы 'миль на литр'</tu>
+	<tu xmlns:lang="esp">El conductor no puede elegir millas por litro</tu>
+	<tu xmlns:lang="chs">驾驶员不可选择每升里程数作为单位</tu>
+	<tu xmlns:lang="kor">리터 당 마일 단위 운전자 선택 불가능</tu>
+</tm>

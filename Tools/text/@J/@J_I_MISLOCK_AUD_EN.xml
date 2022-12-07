@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MISLOCK_AUD_EN">
+	<tu xmlns:lang="eng">Mislock audible warning is enabled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het geluidssignaal voor niet goed vergrendelen is ingeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'avertissement sonore de verrouillage mal effectué est activé.</tu>
+	<tu xmlns:lang="deu">Signaltongabe bei Fehlverriegelung ist aktiviert.</tu>
+	<tu xmlns:lang="ita">Segnale acustico bloccaggio errato attivato</tu>
+	<tu xmlns:lang="jpn">ミスロック警告音は作動可に設定されています。</tu>
+	<tu xmlns:lang="ptg">Aviso sonoro de trancagem mal efectuada está activado.</tu>
+	<tu xmlns:lang="ptb">Aviso sonoro de travamento incorreto está ativado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Звуковое предупреждение о неправильном закрытии замка включено</tu>
+	<tu xmlns:lang="esp">El aviso audible de bloqueo incorrecto está habilitado</tu>
+	<tu xmlns:lang="chs">未锁闭音频报警启用</tu>
+	<tu xmlns:lang="kor">잠금 오류 경고음이 활성화됨.</tu>
+</tm>

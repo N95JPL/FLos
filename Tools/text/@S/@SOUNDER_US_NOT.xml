@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SOUNDER_US_NOT">
+	<tu xmlns:lang="eng">Not a US sounder</tu>
+	<tu xmlns:lang="nld">Sirene, geen VS.</tu>
+	<tu xmlns:lang="fra">Pas de signal sonore Etats-Unis.</tu>
+	<tu xmlns:lang="deu">Signaltongeber - nicht US</tu>
+	<tu xmlns:lang="ita">Segnale acustico non USA</tu>
+	<tu xmlns:lang="jpn">米国向け以外のサウンダー</tu>
+	<tu xmlns:lang="ptg">Não é uma unidade sonora para os EUA</tu>
+	<tu xmlns:lang="ptb">Sonda não destinada para os EUA</tu>
+	<tu xmlns:lang="rus">Динамик не предназначен для США</tu>
+	<tu xmlns:lang="esp">No es una sirena para EE. UU.</tu>
+	<tu xmlns:lang="chs">非美国用发声器</tu>
+	<tu xmlns:lang="kor">미국용 경보 발생기 아님</tu>
+</tm>

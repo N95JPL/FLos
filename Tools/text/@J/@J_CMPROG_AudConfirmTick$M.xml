@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CMPROG_AudConfirmTick$M">
+	<tu xmlns:lang="eng">Audible confirm (tick)</tu>
+	<tu xmlns:lang="nld">Hoorbare bevestiging (tik)</tu>
+	<tu xmlns:lang="fra">Confirmation audible (tic-tac)</tu>
+	<tu xmlns:lang="deu">Hörbare bestätigung (ticken)</tu>
+	<tu xmlns:lang="ita">Conferma acustica (tictac)</tu>
+	<tu xmlns:lang="jpn">　可聴確認(ﾃｨｯｸ)</tu>
+	<tu xmlns:lang="ptg">Confirmação sonora (sinal de visto)</tu>
+	<tu xmlns:lang="ptb">Confirmação sonora (tique)</tu>
+	<tu xmlns:lang="rus">Звуковой сигнал подтверждения (щелчки)</tu>
+	<tu xmlns:lang="esp">Confirmacion acustica (tictac)</tu>
+	<tu xmlns:lang="chs">音频确认（滴答声）</tu>
+	<tu xmlns:lang="kor">청각적 확인(체크 표시)</tu>
+</tm>

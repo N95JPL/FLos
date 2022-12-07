@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INT_VEH_DYNAMIC_CTRL">
+	<tu xmlns:lang="eng">Integrated vehicle dynamic control</tu>
+	<tu xmlns:lang="nld">Geïntegreerde regeling van voertuigdynamica</tu>
+	<tu xmlns:lang="fra">Commande de stabilité dynamique intégrée du véhicule</tu>
+	<tu xmlns:lang="deu">Integrierte Fahrzeugdynamikregelung</tu>
+	<tu xmlns:lang="ita">Controllo dinamico integrato del veicolo</tu>
+	<tu xmlns:lang="jpn">統合車両ダイナミック コントロール</tu>
+	<tu xmlns:lang="ptg">Controlo dinâmico do veículo integrado</tu>
+	<tu xmlns:lang="ptb">Controle dinâmico integrado do veículo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Встроенный блок управления динамической стабилизацией автомобиля</tu>
+	<tu xmlns:lang="esp">Control de dinámica del vehículo integrado</tu>
+	<tu xmlns:lang="chs">集成车辆动态控制</tu>
+	<tu xmlns:lang="kor">통합 차량 다이내믹 컨트롤</tu>
+</tm>

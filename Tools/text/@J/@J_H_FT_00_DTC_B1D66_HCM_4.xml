@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_H_FT_00_DTC_B1D66_HCM_4">
+	<tu xmlns:lang="eng">No levelling functionality</tu>
+	<tu xmlns:lang="nld">De rijhoogte-instelling werkt niet</tu>
+	<tu xmlns:lang="fra">Réglage de site inopérant</tu>
+	<tu xmlns:lang="deu">Keine Leuchtweitenregulierungs-Funktionalität</tu>
+	<tu xmlns:lang="ita">Il livellamento non funziona</tu>
+	<tu xmlns:lang="jpn">レベリング機能\なし</tu>
+	<tu xmlns:lang="ptg">Função de nivelamento não funciona</tu>
+	<tu xmlns:lang="ptb">Não há funcionalidade no nivelamento</tu>
+	<tu xmlns:lang="rus">Выравнивание не работает</tu>
+	<tu xmlns:lang="esp">No funciona la nivelación</tu>
+	<tu xmlns:lang="chs">无调平功能</tu>
+	<tu xmlns:lang="kor">레벨링 기능 없음</tu>
+</tm>

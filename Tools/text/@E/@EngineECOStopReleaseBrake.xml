@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineECOStopReleaseBrake">
+	<tu
+    xmlns:lang="eng"
+  >Engine will remain in stop/start system stop mode until the foot brake pedal is released.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Motor blijft in stop-modus van Stop/Start-systeem totdat de voet van het rempedaal is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le moteur demeure en mode arrêt du système Arrêt/Démarrage jusqu'à ce que la pédale de frein soit relâchée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Motor bleibt im Stoppmodus des Stopp/Start-Systems, bis das Fußbremspedal freigegeben wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il motore resta in modalità di arresto del sistema Stop/Start fintanto che il pedale del freno non viene rilasciato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フット ブレーキ ペダルを放すまで、エンジンはスタート/ストップ システム停止モードを維持します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O motor permanecerá no modo de paragem do sistema Stop/Start até que o pedal do travão seja libertado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O motor permanecerá no modo de parada do sistema stop/start até que o pedal do freio seja liberado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Двигатель будет оставаться в режиме останова системы стоп/старт до тех пор, пока не будет отпущена педаль тормоза.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El motor permanecerá en el modo de parada del sistema Stop/Start hasta que se levante el pie del pedal de freno.</tu>
+	<tu
+    xmlns:lang="chs"
+  >松开脚制动器之前，发动机将保持在停止/启动系统停止模式下。</tu>
+	<tu
+    xmlns:lang="kor"
+  >풋 브레이크 페달을 해제할 때까지 엔진이 Stop/Start 시스템 Stop 모드로 유지됩니다.</tu>
+</tm>

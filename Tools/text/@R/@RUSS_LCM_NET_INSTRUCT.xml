@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RUSS_LCM_NET_INSTRUCT">
+	<tu
+    xmlns:lang="eng"
+  >You must record the lamp check module (LCM) BMW part number displayed after the test has finished.  This will be needed to correctly select the next required action.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U moet het BMW-onderdeelnummer van de module voor de controle van de lampjes (LCM) noteren, dat wordt afgebeeld na beëindiging van de test.  Dit is nodig om de juiste volgende handeling te selecteren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous devez noter la référence BMW du module de contrôle des ampoules (LCM) qui s’affiche à la fin du test.  Elle vous permettra de sélectionner correctement l’action requise suivante.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss des Tests müssen Sie die angezeigte BMW Teilenummer des Leuchtenprüfmoduls (LCM) notieren.   Dies ist zur Bestimmung der nächsten erforderlichen Maßnahme erforderlich.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Annotare il numero di parte BMW del modulo di controllo luci (LCM) visualizzato al termine della prova.   Questa operazione è necessaria per selezionare correttamente la successiva azione richiesta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >??????????????? ???? ????? (LCM) BMW ??? ??????????????  ??????????????????????????????</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Terá de anotar o número de peça BMW do módulo de verificação das lâmpadas (LCM) indicado após a conclusão do teste.  Este será necessário para seleccionar correctamente a acção necessária seguinte.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Você deve registrar o número de peça BMW do módulo de verificação da lâmpada (LCM) exibido após a conclusão do teste.  Isso será necessário para selecionar corretamente a próxima ação solicitada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запишите номер модуля проверки сигнализаторов (LCM) по каталогу запчастей BMW, который будет выведен на экран по окончании теста.   Это необходимо для правильного выбора следующего действия.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Deberá registrar el número de referencia BMW del módulo de comprobación de luces (LCM) mostrado una vez finalice la prueba.  Lo necesitará para seleccionar correctamente la siguiente acción.</tu>
+	<tu
+    xmlns:lang="chs"
+  >???????????????????(LCM)BMW ????  ???????????????????????</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트를 마친 후 표시되는 램프 점검 모듈(LCM) BMW 부품 번호를 기록해야 합니다.  다음으로 필요한 조치를 올바로 선택하려면 이것이 필요합니다.</tu>
+</tm>

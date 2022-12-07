@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_IPK_LOWCOOL">
+	<tu xmlns:lang="eng">Coolant level low warning</tu>
+	<tu xmlns:lang="nld">Waarschuwing laag koelvloeistofniveau</tu>
+	<tu xmlns:lang="fra">Avertissement bas niveau de liquide de refroidissement</tu>
+	<tu xmlns:lang="deu">Warnung niedriger Kühlmittelfüllstand</tu>
+	<tu xmlns:lang="ita">Segnalazione basso livello refrigerante</tu>
+	<tu xmlns:lang="jpn">冷却水レベル低警告</tu>
+	<tu xmlns:lang="ptg">Aviso de nível baixo do líquido de arrefecimento</tu>
+	<tu xmlns:lang="ptb">Aviso de nível baixo de fluido de arrefecimento</tu>
+	<tu xmlns:lang="rus">Предупреждение о низком уровне охлаждающей жидкости</tu>
+	<tu xmlns:lang="esp">Aviso de nivel bajo de líquido refrigerante</tu>
+	<tu xmlns:lang="chs">冷却液液位低警告</tu>
+	<tu xmlns:lang="kor">냉각수 레벨 부족 경고</tu>
+</tm>

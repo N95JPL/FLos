@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_OPEN_DRI_DOOR">
+	<tu xmlns:lang="eng">Open the driver's door</tu>
+	<tu xmlns:lang="nld">Open het Bestuurdersportier</tu>
+	<tu xmlns:lang="fra">Ouvrir la porte du conducteur</tu>
+	<tu xmlns:lang="deu">Fahrertür öffnen</tu>
+	<tu xmlns:lang="ita">Aprire la porta del guidatore</tu>
+	<tu xmlns:lang="jpn">ﾄﾞライﾊﾞー・ﾄﾞアを開けてください。</tu>
+	<tu xmlns:lang="ptg">Abrir a porta do condutor</tu>
+	<tu xmlns:lang="ptb">Abra a porta do motorista</tu>
+	<tu xmlns:lang="rus">Откройте дверь водителя</tu>
+	<tu xmlns:lang="esp">Abrir la puerta del conductor</tu>
+	<tu xmlns:lang="chs">打开驾驶员一侧车门</tu>
+	<tu xmlns:lang="kor">운전석 도어를 여십시오.</tu>
+</tm>

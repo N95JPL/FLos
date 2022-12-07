@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_INTRO_5_2">
+	<tu xmlns:lang="eng">Threshold 3 (default - maximum sensitivity)</tu>
+	<tu xmlns:lang="nld">drempelwaarde 3 (standaard - maximum gevoeligheid)</tu>
+	<tu xmlns:lang="fra">Seuil 3 (par défaut - sensibilité maximale)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Schwellenwert 3 (Standardeinstellung - maximale Sensitivität)</tu>
+	<tu xmlns:lang="ita">Soglia 3 (default - sensibilità massima)</tu>
+	<tu xmlns:lang="jpn">規定値 3 (デフォルト - 最高感度)</tu>
+	<tu xmlns:lang="ptg">Limiar 3 (valor de origem - sensibilidade máxima)</tu>
+	<tu xmlns:lang="ptb">Limite 3 (padrão - sensibilidade máxima)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Пороговое значение 3 (по умолчанию - максимальная чувствительность)</tu>
+	<tu xmlns:lang="esp">Umbral 3 (valor prefijado, sensibilidad máxima)</tu>
+	<tu xmlns:lang="chs">门限值 3（默认值 - 最大敏感度）</tu>
+	<tu xmlns:lang="kor">임계값 3(기본값 - 최대 감도)</tu>
+</tm>

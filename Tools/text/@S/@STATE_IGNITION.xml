@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@STATE_IGNITION">
+	<tu xmlns:lang="eng">Ignition state</tu>
+	<tu xmlns:lang="nld">Contactstatus</tu>
+	<tu xmlns:lang="fra">Etat de l'allumage</tu>
+	<tu xmlns:lang="deu">Zündungsstatus</tu>
+	<tu xmlns:lang="ita">Stato di accensione</tu>
+	<tu xmlns:lang="jpn">イグニション ステータス</tu>
+	<tu xmlns:lang="ptg">Estado da ignição</tu>
+	<tu xmlns:lang="ptb">Estado da ignição</tu>
+	<tu xmlns:lang="rus">Состояние зажигания</tu>
+	<tu xmlns:lang="esp">Estado del encendido</tu>
+	<tu xmlns:lang="chs">点火状态</tu>
+	<tu xmlns:lang="kor">점화 상태</tu>
+</tm>

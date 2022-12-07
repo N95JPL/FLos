@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_RUN_APP_MOD_CCF">
+	<tu
+    xmlns:lang="eng"
+  >This application needs to be ran to modify the car configuration file (CCF), this will enable the AUX feature so that additional audio devices can be added.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U moet deze toepassing uitvoeren om het voertuigconfiguratiebestand (CCF) te modificeren. Hiermee activeert u de AUX-functie, zodat u extra geluidsapparatuur kunt toevoegen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application doit être exécutée pour modifier le fichier de configuration du véhicule (CCF) ; la fonction AUX sera activée pour permettre l'ajout de dispositifs audio supplémentaires.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung muss zur Änderung der Fahrzeugkonfigurationsdatei (CCF) ausgeführt werden; dabei wird die AUX-Funktion aktiviert, so dass, weitere Audiogeräte hinzugefügt werden können.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione deve essere eseguita per modificare il file di configurazione veicolo (CCF); in questo modo verrà abilitata la funzione AUX cosicché si possono aggiungere dispositivi audio aggiuntivi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション ファイル (CCF) を変更する場合には、このアプリケーションを実行する必要があります。これにより AUX 機能\を作動可にして、オーディオ デバイスを追加することができます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É necessário executar esta aplicação para modificar o ficheiros de configuração do veículo (CCF); esta acção vai activar a função AUX de modo a que possam ser acrescentados dispositivos áudio adicionais.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo precisa ser executado para modificar o arquivo de configuração de carro (CCF), isso irá ativar o recurso AUX adicional para que os dispositivos de áudio possam ser adicionados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение выполняется для изменения файла конфигурации автомобиля (CCF). При этом активируется функция AUX, позволяющая подключать дополнительные аудиоустройства.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación debe ejecutarse para modificar el archivo de configuración del vehículo (CCF). Habilita la función AUX para poder añadir dispositivos de audio adicionales.</tu>
+	<tu
+    xmlns:lang="chs"
+  >需要运行本应用程序以修正车辆配置文件（CCF），这将会启用辅助设备（AUX）功能，以便能够添加另外的音频装置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션을 실행하여 차량 구성 파일(CCF)을 수정해야 합니다. 이를 통해 오디오 장치를 더 추가할 수 있도록 AUX 기능을 활성화합니다.</tu>
+</tm>

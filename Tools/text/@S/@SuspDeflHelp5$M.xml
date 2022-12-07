@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspDeflHelp5$M">
+	<tu
+    xmlns:lang="eng"
+  >Just because this routine has completed successfully, this does not necessarily mean that the system has been vented to a safe pressure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het feit dat deze routine met succes is uitgevoerd, wil nog niet zeggen dat het systeem inderdaad tot een veilige druk is ontlucht.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le simple fait que ce programme a été exécuté avec succès ne signifie pas forcément que la pression du système est abaissée à un niveau sûr.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auch wenn diese Routine erfolgreich abgeschlossen wurde, heißt dies nicht notwendigerweise, dass das System auf einen sicheren Druck entlüftet wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il fatto che questa procedura sia stata eseguita con successo non significa necessariamente che il sistema sia stato sgonfiato ad una pressione sicura.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンが正常に完了したことが、システムが安全なプレッシャにまで減圧されたことを意味するものではありません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Mesmo que esta rotina tenha sido concluída com sucesso, isto não significa necessariamente que o sistema tenha sido ventilado para uma pressão segura.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O fato de essa rotina ter sido concluída com êxito não significa necessariamente que o sistema foi esvaziado com uma pressão segura.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Успешное завершение процедуры еще не означает, что давление в системе сброшено до безопасного уровня.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El mero hecho de que esta rutina se ha realizado satisfactoriamente no significa necesariamente que el sistema se ha vaciado hasta alcanzar una presión que no presente ningún riesgo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'成功完成此常规程序并不一定表明该系统已经排放至安全压力。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차가 성공적으로 완료되었다고 해서 반드시 시스템이 안전한 압력으로 방출된 것은 아닙니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_VEH_SCAN">
+	<tu xmlns:lang="eng">Vehicle scan.</tu>
+	<tu xmlns:lang="nld">Voertuigscan.</tu>
+	<tu xmlns:lang="fra">Exploration du véhicule.</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Scan.</tu>
+	<tu xmlns:lang="ita">Scansione vettura.</tu>
+	<tu xmlns:lang="jpn">車両スキャン</tu>
+	<tu xmlns:lang="ptg">Verificação - veículo.</tu>
+	<tu xmlns:lang="ptb">Varredura do veículo.</tu>
+	<tu xmlns:lang="rus">Сканирование автомобиля.</tu>
+	<tu xmlns:lang="esp">Exploración del vehículo.</tu>
+	<tu xmlns:lang="chs">车辆扫描。</tu>
+	<tu xmlns:lang="kor">차량 스캔</tu>
+</tm>

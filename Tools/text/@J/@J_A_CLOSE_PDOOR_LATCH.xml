@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_CLOSE_PDOOR_LATCH">
+	<tu xmlns:lang="eng">Close the passenger's door latch.</tu>
+	<tu xmlns:lang="nld">SLUIT de vergrendeling van het passagiersportier</tu>
+	<tu xmlns:lang="fra">FERMEZ la serrure de porte passager</tu>
+	<tu xmlns:lang="deu">Beifahrertürschloß VERRIEGELN</tu>
+	<tu xmlns:lang="ita">CHIUDERE il meccanismo della portiera del passeggero</tu>
+	<tu xmlns:lang="jpn">パッセンジャー ドア ロック ラッチを閉じなさい</tu>
+	<tu xmlns:lang="ptg">Fechar o trinco da porta do passageiro.</tu>
+	<tu xmlns:lang="ptb">Feche a trava da porta do passageiro.</tu>
+	<tu xmlns:lang="rus">Закройте защелку двери пассажира.</tu>
+	<tu xmlns:lang="esp">CERRAR el pestillo de la puerta del acompañante</tu>
+	<tu xmlns:lang="chs">合上乘客一侧车门门锁。</tu>
+	<tu xmlns:lang="kor">조수석 도어 래치를 닫으십시오.</tu>
+</tm>

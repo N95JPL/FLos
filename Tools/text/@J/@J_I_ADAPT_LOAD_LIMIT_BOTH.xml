@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ADAPT_LOAD_LIMIT_BOTH">
+	<tu
+    xmlns:lang="eng"
+  >Adaptive load limiter front  -  Driver and front passenger seats</tu>
+	<tu
+    xmlns:lang="nld"
+  >Adaptieve belastingsbegrenzer voor  -  Bestuurders- en voorpassagiersstoelen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Limiteur de charge adaptatif avant  -  Sièges conducteur et passager avant</tu>
+	<tu
+    xmlns:lang="deu"
+  >Adaptiver Lastbegrenzer vorn  -  Fahrer- und Beifahrersitz</tu>
+	<tu
+    xmlns:lang="ita"
+  >Limitatore di carico adattativo anteriore  -  Sedili guidatore e passeggero anteriore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アダプティブ ロード リミッター フロント  －  運転席側およびフロント助手席側シート</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Limitador de carga dianteiro adaptável  -  Bancos do cindutor e do passageiro dianteiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Parte dianteira do limitador de carga adaptativo  -  Assentos do motorista e passageiro dianteiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Адаптивный ограничитель усилия передний  -  Сиденья водителя и переднего пассажира</tu>
+	<tu
+    xmlns:lang="esp"
+  >Limitador de carga adaptativo delantero  -  Asientos del conductor y el acompañante</tu>
+	<tu xmlns:lang="chs">自适应前部负载限制器  -  驾驶员座椅和前乘客座椅</tu>
+	<tu xmlns:lang="kor">어댑티브 부하 제한 장치 전방  -  운전석 및 조수석</tu>
+</tm>

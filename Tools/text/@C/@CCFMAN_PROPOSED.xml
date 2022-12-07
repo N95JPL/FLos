@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_PROPOSED">
+	<tu xmlns:lang="eng">Proposed value</tu>
+	<tu xmlns:lang="nld">Voorgestelde waarde</tu>
+	<tu xmlns:lang="fra">Valeur proposée</tu>
+	<tu xmlns:lang="deu">Vorgeschlagener Wert</tu>
+	<tu xmlns:lang="ita">Valore proposto</tu>
+	<tu xmlns:lang="jpn">提示数値</tu>
+	<tu xmlns:lang="ptg">Valor proposto</tu>
+	<tu xmlns:lang="ptb">Valor proposto</tu>
+	<tu xmlns:lang="rus">Предложенное значение</tu>
+	<tu xmlns:lang="esp">Valor propuesto</tu>
+	<tu xmlns:lang="chs">建议数值</tu>
+	<tu xmlns:lang="kor">제안되는 값</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIME_SINCE_ACTIV">
+	<tu xmlns:lang="eng">Time since activation</tu>
+	<tu xmlns:lang="nld">Verstreken tijd sinds activering</tu>
+	<tu xmlns:lang="fra">Temps écoulé depuis l'activation.</tu>
+	<tu xmlns:lang="deu">Zeit seit Aktivierung</tu>
+	<tu xmlns:lang="ita">Tempo trascorso dall'attivazione</tu>
+	<tu xmlns:lang="jpn">作動開始後の経過時間</tu>
+	<tu xmlns:lang="ptg">Tempo decorrido desde a activação</tu>
+	<tu xmlns:lang="ptb">Tempo de ativação</tu>
+	<tu xmlns:lang="rus">Время с момента активации</tu>
+	<tu xmlns:lang="esp">Tiempo transcurrido desde la activación</tu>
+	<tu xmlns:lang="chs">自激活时的时间</tu>
+	<tu xmlns:lang="kor">작동 이후의 시간</tu>
+</tm>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HAZ_FLASH_ARM_EN">
+	<tu xmlns:lang="eng">Hazard lamps flash when alarm is armed or disarmed</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer het alarm wordt in- of uitgeschakeld, gaan de alarmknipperlichten knipperen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les feux de détresse clignotent quand l'alarme est activée ou désactivée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Warnblinkleuchten blinken bei Schärfung oder Entschärfung der Alarmanlage.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Gli indicatori di emergenza lampeggiano quando l'allarme viene inserito o disinserito</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アラームがアーミング／ディスアーミングされたときにハザード ランプが点滅します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os intermitentes de perigo piscam quando o alarme é activado ou desactivado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As luzes do pisca-alerta piscam quando o alarme estiver armado ou desarmado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Лампы аварийной сигнализации загораются при включении или отключении сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las luces de emergencia destellan cuando se activa o desactiva la alarma</tu>
+	<tu xmlns:lang="chs">报警器启用或解除时，危险指示灯闪烁</tu>
+	<tu xmlns:lang="kor">알람이 설정되거나 해제될 때 비상등이 깜박임</tu>
+</tm>

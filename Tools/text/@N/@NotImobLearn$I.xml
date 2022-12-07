@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NotImobLearn$I">
+	<tu xmlns:lang="eng">The security learn operation cannot be carried out.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De inleerbewerking van het beveiligingssysteem kan niet worden uitgevoerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'opération d'apprentissage de sécurité ne peut pas être effectuée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Vorgang Erlernung des Sicherheitsfunktionen kann nicht durchgeführt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impossibile eseguire l'operazione di apprendimento sicurezza.</tu>
+	<tu xmlns:lang="jpn">セキュリティ認識オペレーションを実行できません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A operação de programação de segurança não pode ser levada a cabo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A operação de memorização de segurança não pode ser executada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнить операцию обучения охранной системы невозможно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se puede llevar a cabo la operación de aprendizaje del sistema de seguridad.</tu>
+	<tu xmlns:lang="chs">无法执行安全记忆操作。</tu>
+	<tu xmlns:lang="kor">보안 학습 작업을 수행할 수 없습니다.</tu>
+</tm>

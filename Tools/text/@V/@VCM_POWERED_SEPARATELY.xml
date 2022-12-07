@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VCM_POWERED_SEPARATELY">
+	<tu
+    xmlns:lang="eng"
+  >Make sure that the vehicle communications module is powered separately.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer dat de voertuigcommunicatiemodule afzonderlijk van stroom wordt voorzien.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que le module de communication du véhicule est alimenté séparément.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass das Fahrzeug-Kommunikationsmodul separat versorgt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accertarsi che il modulo comunicazioni veicolo sia alimentato separatamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両通信モジュールが個別に電源供給されていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Assegure-se que o módulo de comunicações do veículo tem alimentação separada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o módulo de comunicação do veículo é acionado separadamente.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что блок связи автомобиля запитан отдельно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que el módulo de comunicaciones del vehículo reciba una alimentación eléctrica independiente.</tu>
+	<tu xmlns:lang="chs">确保给车辆通信模块单独提供电源。</tu>
+	<tu xmlns:lang="kor">차량 통신 모듈에 따로 전력이 공급되는지 확인하십시오.</tu>
+</tm>

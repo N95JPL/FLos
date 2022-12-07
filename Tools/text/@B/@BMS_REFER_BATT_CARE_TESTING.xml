@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_REFER_BATT_CARE_TESTING">
+	<tu
+    xmlns:lang="eng"
+  >If condition persists, then refer to battery care manual and follow directions for evaluating if battery charge or replacement is required</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het probleem blijft optreden, raadpleegt u de Handleiding voor het verzorgen van de accu en volgt u de aanwijzingen om te bepalen of de accu moet worden opgeladen of vervangen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si ces conditions persistent, consultez alors le manuel d'entretien de la batterie et suivez les instructions pour déterminer si la batterie doit être rechargée ou remplacée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bleibt der Zustand weiterhin bestehen, auf das Batteriepflege-Handbuch Bezug nehmen und den Anleitungen für die Entscheidung darüber folgen, ob ein Laden der Batterie oder ein Austausch der Batterie erforderlich ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la condizione persiste, consultare il manuale di manutenzione della batteria e seguire le istruzioni per valutare se sia necessaria una carica o la sostituzione della batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >症状が持続する場合、バッテリ ケア マニュアルを参照し、指示に従ってバッテリの充電あるいは交換が必要か判定しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a situação se mantiver, consultar o manual de manutenção da bateria e seguir as instruções para determinar se é necessário carregar ou substituir a bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a condição persistir, consulte o manual de cuidados com a bateria e siga as instruções para avaliar a necessidade de carga ou de substituição da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если неисправность не устранена, проверьте, требуется ли зарядка аккумуляторной батареи или необходима её замена - см. указания в руководстве по уходу за аккумуляторной батареей</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el problema persiste, consultar el manual de cuidado de la batería y seguir las instrucciones para determinar si hay que cargar o sustituir la batería</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果情况依然如故，那么请参考蓄电池保养手册，并遵照其说明评估是否需要对蓄电池进行充电或更换</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 상태가 지속될 경우 배터리 관리 매뉴얼을 참조하고 배터리 충전 또는 교체가 필요한지 평가하기 위한 지시 사항을 따르십시오.</tu>
+</tm>

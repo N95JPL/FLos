@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FSJB_10">
+	<tu xmlns:lang="eng">Master lamp switch is not pressed.</tu>
+	<tu xmlns:lang="nld">De hoofdverlichtingsschakelaar is niet ingedrukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le commutateur d'éclairage principal n'est pas actionné.</tu>
+	<tu xmlns:lang="deu">Hauptbeleuchtungsschalter wird nicht betätigt.</tu>
+	<tu xmlns:lang="ita">L'interruttore luci principale non è premuto.</tu>
+	<tu xmlns:lang="jpn">マスター ライト スイッチが押されていない。</tu>
+	<tu xmlns:lang="ptg">Interruptor principal das luzes não premido.</tu>
+	<tu xmlns:lang="ptb">O interruptor da luz mestre não está pressionado.</tu>
+	<tu xmlns:lang="rus">Основной выключатель освещения не нажат.</tu>
+	<tu xmlns:lang="esp">El interruptor general del alumbrado no está pulsado.</tu>
+	<tu xmlns:lang="chs">主灯开关未按下。</tu>
+	<tu xmlns:lang="kor">마스터 램프 스위치를 누르지 않은 상태입니다.</tu>
+</tm>

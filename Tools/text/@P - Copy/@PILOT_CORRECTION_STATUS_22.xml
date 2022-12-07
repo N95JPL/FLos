@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_22">
+	<tu xmlns:lang="eng">0x22 : Not started due to fuel quantity stability / limits.</tu>
+	<tu xmlns:lang="nld">0x22 : inleren niet gestart vanwege de stabiliteit/grenzen van de brandstofkwaliteit.</tu>
+	<tu xmlns:lang="fra">0x22 : Non commencé à cause de la stabilité/des limites de la quantité de carburant.</tu>
+	<tu xmlns:lang="deu">0x22 : Nicht angelaufen aufgrund von Kraftstoffmengenstabilität / Grenzwerten.</tu>
+	<tu xmlns:lang="ita">0x22 : Non avviato a causa di limiti/stabilità di quantità del carburante.</tu>
+	<tu xmlns:lang="jpn">0x22 : フューエル量の安定性／限界のためスタートせず。</tu>
+	<tu xmlns:lang="ptg">0x22 : Não iniciado devido a estabilidade / limites da quantidade de combustível.</tu>
+	<tu xmlns:lang="ptb">0X22 : Não iniciado devido a estabilidade/limites da quantidade de combustível.</tu>
+	<tu xmlns:lang="rus">0x22 : Запуск не выполнен из-за нестабильности /п ределов количества топлива.</tu>
+	<tu xmlns:lang="esp">0x22: No se inició debido a la estabilidad / límites de la cantidad de combustible.</tu>
+	<tu xmlns:lang="chs">0x22： 由于燃油量稳定性/限值原因而没有启动。</tu>
+	<tu xmlns:lang="kor">0x22 : 연료 품질 안정성/한계 때문에 시작되지 않습니다.</tu>
+</tm>

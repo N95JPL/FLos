@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CHECK_GEN_BELT_TENSION">
+	<tu xmlns:lang="eng">Check tension of generator drive belt</tu>
+	<tu xmlns:lang="nld">Controleer de spanning van de dynamoaandrijfriem</tu>
+	<tu xmlns:lang="fra">Contrôlez la tension de la courroie d'alternateur</tu>
+	<tu xmlns:lang="deu">Spannung des Generator-Antriebsriemens prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare la tensione della cinghia dentata del generatore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ジェネレータ ドライブ ベルトのテンションをチェックしなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar a tensão da correia de accionamento do alternador</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique a tensão da correia de acionamento do alternador</tu>
+	<tu xmlns:lang="rus">Проверьте натяжение приводного ремня генератора</tu>
+	<tu xmlns:lang="esp">Comprobar la tensión de la correa del alternador</tu>
+	<tu xmlns:lang="chs">检查发电机传动带的张力</tu>
+	<tu xmlns:lang="kor">제너레이터 구동 벨트의 장력을 점검하십시오.</tu>
+</tm>

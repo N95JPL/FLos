@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ACTION_REQUIRED">
+	<tu xmlns:lang="eng">Action Required</tu>
+	<tu xmlns:lang="nld">Actie vereist</tu>
+	<tu xmlns:lang="fra">Action nécessaire</tu>
+	<tu xmlns:lang="deu">Erforderliche Maßnahme</tu>
+	<tu xmlns:lang="ita">Intervento richiesto</tu>
+	<tu xmlns:lang="jpn">処置が必要です</tu>
+	<tu xmlns:lang="ptg">Ação necessária</tu>
+	<tu xmlns:lang="ptb">Ação Necessária</tu>
+	<tu xmlns:lang="rus">Необходимые действия</tu>
+	<tu xmlns:lang="esp">Acción requerida</tu>
+	<tu xmlns:lang="chs">需要采取措施</tu>
+	<tu xmlns:lang="kor">필요한 조치</tu>
+</tm>

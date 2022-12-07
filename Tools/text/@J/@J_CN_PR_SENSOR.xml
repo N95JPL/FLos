@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CN_PR_SENSOR">
+	<tu xmlns:lang="eng">Pressure sensor</tu>
+	<tu xmlns:lang="nld">Druksensor</tu>
+	<tu xmlns:lang="fra">Capteur de pression</tu>
+	<tu xmlns:lang="deu">Drucksensor</tu>
+	<tu xmlns:lang="ita">Sensore pressione</tu>
+	<tu xmlns:lang="jpn">プレッシャ センサ</tu>
+	<tu xmlns:lang="ptg">Sensor de pressão</tu>
+	<tu xmlns:lang="ptb">Sensor de pressão</tu>
+	<tu xmlns:lang="rus">Датчик давления</tu>
+	<tu xmlns:lang="esp">Sensor de presión</tu>
+	<tu xmlns:lang="chs">压力传感器</tu>
+	<tu xmlns:lang="kor">압력 센서</tu>
+</tm>

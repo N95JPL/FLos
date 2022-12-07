@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REPEAT_TEST_IF_FAIL">
+	<tu
+    xmlns:lang="eng"
+  >If any failures occur, carry out further test cycles to determine if any failures are repeatable.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Treden er storingen op, voer dan verdere tests uit om na te gaan of deze storingen kunnen worden herhaald.</tu>
+	<tu
+    xmlns:lang="fra"
+  >En cas de défaillances, lancer plusieurs cycles de tests pour déterminer si les défaillances sont récurrentes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei Störungen weitere Testzyklen durchführen, um festzustellen, ob Störungen wiederholt auftreten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se si verificano errori, eseguire ulteriori cicli di prova per stabilire se gli errori si ripetono.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >何らかの故障が発生した場合、さらにテスト サイクルを実行し故障が再発するかチェックしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se ocorrer uma avaria, efetue mais ciclos de teste para determinar se algumas avarias podem vir a repetir-se.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Caso ocorra alguma falha, execute mais ciclos de teste para determinar se alguma falha pode se repetir.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В случае каких-либо неисправностей проведите дальнейшие проверки на предмет повторяемости отказов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se produce algún error, realice más ciclos de pruebas para determinar si hay errores repetibles.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果出现任何故障，请执行进一步测试循环，以确定是否存在重复出现的故障。</tu>
+	<tu
+    xmlns:lang="kor"
+  >고장이 발생하면 테스트 사이클을 추가로 수행하여 반복할 수 있는 고장이 있는지 결정하십시오.</tu>
+</tm>

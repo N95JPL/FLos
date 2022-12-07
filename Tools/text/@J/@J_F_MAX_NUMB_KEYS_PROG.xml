@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_MAX_NUMB_KEYS_PROG">
+	<tu xmlns:lang="eng">Maximum number of keys have already been programmed.</tu>
+	<tu xmlns:lang="nld">Maximum aantal sleutels is reeds geprogrammeerd.</tu>
+	<tu xmlns:lang="fra">Le nombre maximal de clés a déjà été programmé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Höchstzahl von Schlüsseln wurde bereits programmiert.</tu>
+	<tu xmlns:lang="ita">E stato già programmato il numero massimo di chiavi.</tu>
+	<tu xmlns:lang="jpn">すでに最大数のキーがプログラムされています。</tu>
+	<tu xmlns:lang="ptg">Já foi programado o número máximo de chaves.</tu>
+	<tu xmlns:lang="ptb">O número máximo de chaves já foi programado.</tu>
+	<tu xmlns:lang="rus">Уже запрограммировано максимальное количество ключей.</tu>
+	<tu xmlns:lang="esp">Ya se ha programado el número máximo de llaves.</tu>
+	<tu xmlns:lang="chs">车匙已编程数量已达最大。</tu>
+	<tu xmlns:lang="kor">이미 최대 수의 키가 프로그래밍되었습니다.</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_LAT_LEV_GND">
+	<tu xmlns:lang="eng">The vehicle must be on flat, level ground.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voertuig moet op een vlakke, horizontale ondergrond staan.</tu>
+	<tu xmlns:lang="fra">Le véhicule doit être sur un sol plat et horizontal.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug muss sich auf flachem, ebenem Untergrund befinden.</tu>
+	<tu xmlns:lang="ita">Il veicolo deve trovarsi perfettamente in piano.</tu>
+	<tu xmlns:lang="jpn">車両を水平かつ平らな地面に置かなければなりません。</tu>
+	<tu xmlns:lang="ptg">O veículo tem de estar em terreno plano e nivelado.</tu>
+	<tu xmlns:lang="ptb">O veículo deve estar em um piso nivelado e plano.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль должен стоять на ровной горизонтальной поверхности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El vehículo debe estar sobre un suelo plano y nivelado.</tu>
+	<tu xmlns:lang="chs">'车辆必须停放在平坦、水平的地面上。'</tu>
+	<tu xmlns:lang="kor">차량이 평평한 지면 상에 있어야 합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_VIM_05">
+	<tu xmlns:lang="eng">Engine speed &lt;= 400 rpm.</tu>
+	<tu xmlns:lang="nld">Motortoerental &lt;= 400 omw/min.</tu>
+	<tu xmlns:lang="fra">Régime moteur &lt;= 400 tr/min</tu>
+	<tu xmlns:lang="deu">Motordrehzahl &lt;/=400 U/min.</tu>
+	<tu xmlns:lang="ita">Regime motore &lt;= 400 giri/min.</tu>
+	<tu xmlns:lang="jpn">エンジン スピード &lt;= 400 rpm</tu>
+	<tu xmlns:lang="ptg">Rotação do motor &lt;= 400 r.p.m.</tu>
+	<tu xmlns:lang="ptb">Rotação do motor (rpm)</tu>
+	<tu xmlns:lang="rus">Обороты двигателя &lt;= 400 об/мин.</tu>
+	<tu xmlns:lang="esp">Régimen del motor &lt;=  400 rpm.</tu>
+	<tu xmlns:lang="chs">发动机转速 &lt;= 400rpm。</tu>
+	<tu xmlns:lang="kor">엔진 속도 &lt;= 400rpm</tu>
+</tm>

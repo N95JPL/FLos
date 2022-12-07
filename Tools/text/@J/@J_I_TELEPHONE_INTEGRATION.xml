@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TELEPHONE_INTEGRATION">
+	<tu xmlns:lang="eng">Personal cellular telephone integration.</tu>
+	<tu xmlns:lang="nld">Individuele mobiele telefoon-integratie.</tu>
+	<tu xmlns:lang="fra">Intégration du téléphone cellulaire personnel.</tu>
+	<tu xmlns:lang="deu">Integration - persönliches Mobiltelefon.</tu>
+	<tu xmlns:lang="ita">Integrazione di telefono cellulare personale.</tu>
+	<tu xmlns:lang="jpn">パーソ\ナル セルラー ホン統合</tu>
+	<tu xmlns:lang="ptg">Integração do telemóvel pessoal.</tu>
+	<tu xmlns:lang="ptb">Integração do telefone celular pessoal.</tu>
+	<tu xmlns:lang="rus">Интеграция персонального сотового телефона.</tu>
+	<tu xmlns:lang="esp">Integración del teléfono móvil personal.</tu>
+	<tu xmlns:lang="chs">个人蜂窝电话集成。</tu>
+	<tu xmlns:lang="kor">개인 휴대 전화 통합</tu>
+</tm>

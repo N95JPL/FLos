@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CALIBRATION_LEARN">
+	<tu xmlns:lang="eng">Calibration learn</tu>
+	<tu xmlns:lang="nld">Kalibratieleerprocedure</tu>
+	<tu xmlns:lang="fra">Apprentissage d'étalonnage</tu>
+	<tu xmlns:lang="deu">Kalibrierungserlernung</tu>
+	<tu xmlns:lang="ita">Apprendimento taratura</tu>
+	<tu xmlns:lang="jpn">キャリブレーション学習</tu>
+	<tu xmlns:lang="ptg">Programação de calibragem</tu>
+	<tu xmlns:lang="ptb">Aprendizagem de calibração</tu>
+	<tu xmlns:lang="rus">Самонастройка калибровки</tu>
+	<tu xmlns:lang="esp">Memorización de calibración</tu>
+	<tu xmlns:lang="chs">校准获取</tu>
+	<tu xmlns:lang="kor">보정 학습</tu>
+</tm>

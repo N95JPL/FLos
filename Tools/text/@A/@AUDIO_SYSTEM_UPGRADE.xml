@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUDIO_SYSTEM_UPGRADE">
+	<tu xmlns:lang="eng">Audio system upgrade</tu>
+	<tu xmlns:lang="nld">Verbeterde audioinstallatie.</tu>
+	<tu xmlns:lang="fra">Mise à jour du système audio.</tu>
+	<tu xmlns:lang="deu">Audiosystem-Aufrüstung</tu>
+	<tu xmlns:lang="ita">Aggiornamento sistema audio</tu>
+	<tu xmlns:lang="jpn">オーディオ システム アップグレード</tu>
+	<tu xmlns:lang="ptg">Actualização do sistema áudio</tu>
+	<tu xmlns:lang="ptb">Atualização do sistema de áudio</tu>
+	<tu xmlns:lang="rus">Модернизация аудиосистемы</tu>
+	<tu xmlns:lang="esp">Actualización del sistema de audio</tu>
+	<tu xmlns:lang="chs">音频系统升级</tu>
+	<tu xmlns:lang="kor">오디오 시스템 업그레이드</tu>
+</tm>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_THUD_STAT_STRAI_LINE">
+	<tu xmlns:lang="eng">Thud when stationary or in a straight line</tu>
+	<tu xmlns:lang="nld">Stoot bij stilstand of een rechte lijn</tu>
+	<tu xmlns:lang="fra">Bruit sourd à l'arrêt ou en ligne droite</tu>
+	<tu xmlns:lang="deu">Dumpfer Schlag im Stillstand oder bei Geradeausfahrt</tu>
+	<tu
+    xmlns:lang="ita"
+  >Rumore sordo a veicolo fermo o in movimento in linea retta</tu>
+	<tu xmlns:lang="jpn">静止時または直進線上でのドシンという音</tu>
+	<tu xmlns:lang="ptg">Ruído surdo quando parado ou avançando em linha recta</tu>
+	<tu xmlns:lang="ptb">Baque quando parado ou em uma linha reta</tu>
+	<tu
+    xmlns:lang="rus"
+  >Стук, когда автомобиль неподвижен или движется по прямой</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ruido sordo estando detenido o en posición de marcha en recta</tu>
+	<tu xmlns:lang="chs">静止不动或笔直行驶时发出砰击声</tu>
+	<tu xmlns:lang="kor">정지해 있거나 직진 주행 시 쿵 하는 소리</tu>
+</tm>

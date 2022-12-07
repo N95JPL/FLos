@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_VICS_MODULE">
+	<tu xmlns:lang="eng">Vehicle information and communications system</tu>
+	<tu xmlns:lang="nld">Voertuiginformatie en -communicatiesysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Systeme d'informations et de communications du vehicule</tu>
+	<tu xmlns:lang="deu">Fahrzeug-informations- und kommunikationssystem </tu>
+	<tu xmlns:lang="ita">Sistema comunicazioni e informazioni veicolo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両イ・フォメーショ・およびコミュニケーショ・ システム</tu>
+	<tu xmlns:lang="ptg">Sistema de informação e comunicação com o veículo</tu>
+	<tu xmlns:lang="ptb">Sistema de comunicação e informações do veículo</tu>
+	<tu xmlns:lang="rus">Система связи и передачи информации автомобиля</tu>
+	<tu xmlns:lang="esp">Sistema de información y comunicaciones del vehículo</tu>
+	<tu xmlns:lang="chs">车辆信息和通讯系统</tu>
+	<tu xmlns:lang="kor">차량 정보 및 통신 시스템</tu>
+</tm>

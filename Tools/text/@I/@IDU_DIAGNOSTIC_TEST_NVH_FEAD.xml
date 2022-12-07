@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDU_DIAGNOSTIC_TEST_NVH_FEAD">
+	<tu
+    xmlns:lang="eng"
+  >Noise, vibration and harshness sensor diagnostic test - Accessory drive belt</tu>
+	<tu
+    xmlns:lang="nld"
+  >Diagnosetest voor sensor geluid, trillingen en stugheid - Hulpaandrijfriem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Test de diagnostic du capteur de bruit, vibrations et rudesse - Courroie d'entraînement des accessoires</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diagnoseprüfung des Sensors für Geräusche, Vibrationen, Rauheit – Zusatzantriebsriemen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prova diagnostica del sensore rumorosità, vibrazioni e ruvidità - Cinghia di comando accessori</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ノイズ、振動およびハーシュネス センサ診断テスト - アクセサリ ドライブ ベルト</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Teste de diagnóstico de ruído, vibração e aspereza - Correia de acionamento dos acessórios</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Teste de diagnóstico do sensor de ruído, vibração e aspereza - Correia de acionamento de acessórios</tu>
+	<tu
+    xmlns:lang="rus"
+  >Диагностическая проверка датчика шума, вибрации и жесткости — приводной ремень вспомогательного оборудования</tu>
+	<tu
+    xmlns:lang="esp"
+  >Prueba de diagnóstico del sensor de ruido, vibraciones y asperezas - Correa auxiliar</tu>
+	<tu xmlns:lang="chs">噪音、振动和不平顺性传感器诊断测试 - 附件传动带</tu>
+	<tu
+    xmlns:lang="kor"
+  >NVH(Noise, Vibration and Harshness) 센서 진단 테스트 - 액세서리 구동 벨트</tu>
+</tm>

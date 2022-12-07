@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DRIV_SEAT_ADJUST">
+	<tu xmlns:lang="eng">Driver's seat adjustment</tu>
+	<tu xmlns:lang="nld">Verstelling van bestuurdersstoel</tu>
+	<tu xmlns:lang="fra">Réglage de siège conducteur</tu>
+	<tu xmlns:lang="deu">Sitzverstellung Fahrerseite</tu>
+	<tu xmlns:lang="ita">Regolazione sedile guidatore</tu>
+	<tu xmlns:lang="jpn">運転席側シート調整</tu>
+	<tu xmlns:lang="ptg">Regulação do banco do condutor</tu>
+	<tu xmlns:lang="ptb">Ajuste do assento do motorista</tu>
+	<tu xmlns:lang="rus">Регулировка сиденья водителя</tu>
+	<tu xmlns:lang="esp">Ajuste del asiento del conductor</tu>
+	<tu xmlns:lang="chs">驾驶员一侧座椅调节装置</tu>
+	<tu xmlns:lang="kor">운전석 시트 조정</tu>
+</tm>

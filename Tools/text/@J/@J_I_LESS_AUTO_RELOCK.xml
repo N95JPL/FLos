@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_AUTO_RELOCK">
+	<tu xmlns:lang="eng">Without automatic re-locking</tu>
+	<tu xmlns:lang="nld">Zonder automatisch opnieuw vergrendelen</tu>
+	<tu xmlns:lang="fra">Avec reverrouillage automatique</tu>
+	<tu xmlns:lang="deu">Ohne automatische Wiederverriegelung</tu>
+	<tu xmlns:lang="ita">Senza ribloccaggio automatico</tu>
+	<tu xmlns:lang="jpn">オートマチック リロックなし</tu>
+	<tu xmlns:lang="ptg">Sem retrancagem automática</tu>
+	<tu xmlns:lang="ptb">Sem retravamento automático</tu>
+	<tu xmlns:lang="rus">Без автоматического повторного запирания</tu>
+	<tu xmlns:lang="esp">Sin bloqueo automático de seguridad</tu>
+	<tu xmlns:lang="chs">无自动再锁定</tu>
+	<tu xmlns:lang="kor">자동 재잠금 불포함</tu>
+</tm>

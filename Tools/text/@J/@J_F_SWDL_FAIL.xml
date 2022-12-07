@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SWDL_FAIL">
+	<tu xmlns:lang="eng">Software download failed.</tu>
+	<tu xmlns:lang="nld">Het downloaden van de software is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de téléchargement du logiciel.</tu>
+	<tu xmlns:lang="deu">Herunterladen von Software nicht erfolgreich.</tu>
+	<tu xmlns:lang="ita">Scaricamento software non riuscito.</tu>
+	<tu xmlns:lang="jpn">ソ\フトウェア ダウンロードに失敗</tu>
+	<tu xmlns:lang="ptg">Descarregamento de software falhou.</tu>
+	<tu xmlns:lang="ptb">Falha ao baixar o software.</tu>
+	<tu xmlns:lang="rus">Не удалось загрузить программное обеспечение.</tu>
+	<tu xmlns:lang="esp">Falló la descarga de software.</tu>
+	<tu xmlns:lang="chs">软件下载失败。</tu>
+	<tu xmlns:lang="kor">소프트웨어 다운로드 실패</tu>
+</tm>

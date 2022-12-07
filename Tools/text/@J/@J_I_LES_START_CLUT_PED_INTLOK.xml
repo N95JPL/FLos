@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LES_START_CLUT_PED_INTLOK">
+	<tu xmlns:lang="eng">Start/clutch pedal interlock not fitted</tu>
+	<tu
+    xmlns:lang="nld"
+  >Blokkeervoorziening van start-/koppelingspedaal niet gemonteerd</tu>
+	<tu
+    xmlns:lang="fra"
+  >Interverrouillage de démarrage/pédale d'embrayage non monté</tu>
+	<tu xmlns:lang="deu">Startsperre Starter/Kupplungspedal nicht eingebaut</tu>
+	<tu
+    xmlns:lang="ita"
+  >Interblocco avviamento/pedale frizione non in dotazione</tu>
+	<tu xmlns:lang="jpn">始動／クラッチ ペダル インターロック非装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Bloqueio do arranque/pedal da embraiagem não está instalado</tu>
+	<tu xmlns:lang="ptb">Travamento do pedal de partida/embreagem não instalado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блокировка стартера при нажатии педали сцепления не установлена</tu>
+	<tu
+    xmlns:lang="esp"
+  >No hay enclavamiento del motor de arranque/pedal de embrague</tu>
+	<tu xmlns:lang="chs">起动/离合器踏板互锁系统未安装</tu>
+	<tu xmlns:lang="kor">시동/클러치 페달 인터록이 장착되지 않음</tu>
+</tm>

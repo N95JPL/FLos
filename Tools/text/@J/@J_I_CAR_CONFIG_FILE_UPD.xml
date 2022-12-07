@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CAR_CONFIG_FILE_UPD">
+	<tu xmlns:lang="eng">Car configuration file (CCF) update</tu>
+	<tu xmlns:lang="nld">Bijwerken van voertuigconfiguratiebestand (CCF)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Mise à jour du fichier de configuration du véhicule (CCF)</tu>
+	<tu xmlns:lang="deu">Aktualisierung der Fahrzeugkonfigurationsdatei (CCF)</tu>
+	<tu xmlns:lang="ita">Aggiornamento del file di configurazione veicolo (CCF)</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション ファイル (CCF) の更新</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Actualização do ficheiro de configuração do veículo (CCF)</tu>
+	<tu xmlns:lang="ptb">Atualização do Arquivo de configuração de carro (CCF)</tu>
+	<tu xmlns:lang="rus">Обновление файла конфигурации автомобиля (CCF)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Actualización del archivo de configuración del vehículo (CCF)</tu>
+	<tu xmlns:lang="chs">车辆配置文件（CCF）更新</tu>
+	<tu xmlns:lang="kor">차량 구성 파일(CCF) 업데이트</tu>
+</tm>

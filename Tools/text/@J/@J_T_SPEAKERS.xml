@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_SPEAKERS">
+	<tu xmlns:lang="eng">415-03 Speakers</tu>
+	<tu xmlns:lang="nld">415-03 Luidsprekers</tu>
+	<tu xmlns:lang="fra">415-03 Haut-parleurs</tu>
+	<tu xmlns:lang="deu">415-03 Lautsprecher</tu>
+	<tu xmlns:lang="ita">415-03 Altoparlanti</tu>
+	<tu xmlns:lang="jpn">415-03 スピーカー</tu>
+	<tu xmlns:lang="ptg">415-03 Altifalantes</tu>
+	<tu xmlns:lang="ptb">415-03 Alto-falantes</tu>
+	<tu xmlns:lang="rus">415-03 Динамики</tu>
+	<tu xmlns:lang="esp">415-03 Altavoces</tu>
+	<tu xmlns:lang="chs">415-03扬声器</tu>
+	<tu xmlns:lang="kor">415-03 스피커</tu>
+</tm>

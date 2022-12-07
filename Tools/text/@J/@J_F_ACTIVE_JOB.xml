@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_ACTIVE_JOB">
+	<tu xmlns:lang="eng">A software download job is still active.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem is nog steeds bezig met het 'downloaden' van software.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une tâche de téléchargement logiciel est encore active.</tu>
+	<tu xmlns:lang="deu">Ein Herunterladen von Software ist noch im Gange.</tu>
+	<tu xmlns:lang="ita">Operazione di scaricamento software ancora attiva.</tu>
+	<tu xmlns:lang="jpn">ソ\フトウェア ダウンロード作業がまだアクティブです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Continua activa uma tarefa de transferência de software.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Há um processo de download de software ainda está ativo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Все еще выполняется операция загрузки программного обеспечения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Todavía está activo un trabajo de descarga de software.</tu>
+	<tu xmlns:lang="chs">一项软件下载活动仍在进行。</tu>
+	<tu xmlns:lang="kor">소프트웨어 다운로드 작업이 여전히 진행 중입니다.</tu>
+</tm>

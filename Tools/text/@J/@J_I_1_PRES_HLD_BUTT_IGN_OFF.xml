@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_1_PRES_HLD_BUTT_IGN_OFF">
+	<tu
+    xmlns:lang="eng"
+  >1)  Press and hold 'clear/reset' button (with the ignition off).</tu>
+	<tu
+    xmlns:lang="nld"
+  >1)  Houd de 'clear/reset'-toets ingedrukt (met het contact uitgeschakeld).</tu>
+	<tu
+    xmlns:lang="fra"
+  >1)  Appuyez sans relâcher sur le bouton 'clear/reset' (remise à zéro/réinitialisation) (contact coupé).</tu>
+	<tu
+    xmlns:lang="deu"
+  >1)  Die Taste 'Clear/Reset' (Löschen/Rückstellen) drücken und gedrückt halten (bei ausgeschalteter Zündung).</tu>
+	<tu
+    xmlns:lang="ita"
+  >1)  Tenere premuto il tasto 'CLEAR/RESET' (con l'accensione disinserita).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >1)  「clear/reset (クリア／リセット)」ボタンを押し続けなさい (イグニション オフの状態で)。</tu>
+	<tu xmlns:lang="ptg">1)  Costa Rica</tu>
+	<tu
+    xmlns:lang="ptb"
+  >1)  Pressione e mantenha pressionado o botão excluir/redefinir (com a ignição desligada).</tu>
+	<tu
+    xmlns:lang="rus"
+  >1)  Нажмите и удерживайте кнопку 'сброс/удаление' (при выключенном зажигании).</tu>
+	<tu
+    xmlns:lang="esp"
+  >1)  Mantener pulsado el botón 'clear/reset' (con el contacto cortado).</tu>
+	<tu xmlns:lang="chs">1)  按住'清除/复位'按钮（点火关闭）。</tu>
+	<tu
+    xmlns:lang="kor"
+  >1)  (점화 스위치를 끈 상태에서) '지우기/재설정' 버튼을 길게 누르십시오.</tu>
+</tm>

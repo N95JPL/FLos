@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart63">
+	<tu
+    xmlns:lang="eng"
+  >Check the secondary battery state of charge - Estimated (secondary battery) using a data logger function.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer met behulp van een dataloggerfunctie de Laadtoestand van secundaire accu - Schatting (secundaire accu).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôlez l'état de charge de la batterie secondaire - Estimation (batterie secondaire) à l'aide d'un enregistreur de données.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den Ladezustand der Sekundärbatterie – Geschätzt (Sekundärbatterie) mit einer Datalogger-Funktion prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare lo stato di carica della batteria secondaria - Stimato (batteria secondaria) utilizzando la funzione datalogger.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >データ ロガー機能を使用して、「セカンダリ バッテリーの充電状態 - 予測値 (セカンダリ バッテリー)」を確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique o estado de carga da bateria secundária - Estimado (bateria secundária) utilizando uma função do registador de dados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique o estado de carga da bateria secundária - Estimado (bateria secundária) utilizando uma função de data logger.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте состояние заряда вспомогательной аккумуляторной батареи (расчетное, вспомогательная аккумуляторная батарея), используя функцию регистратора данных.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Compruebe el estado de carga de la batería auxiliar Estimado (batería auxiliar) utilizando el Datalogger.</tu>
+	<tu xmlns:lang="chs">使用数据记录器功能来检查辅助蓄电池电荷状态估计值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >Datalogger 기능을 사용하여 '보조 배터리 충전 상태 - 추정치(보조 배터리)'를 점검하십시오.</tu>
+</tm>

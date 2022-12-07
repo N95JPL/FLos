@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUTINE_PERFORM_FOLLOWING">
+	<tu xmlns:lang="eng">This routine will perform the following tasks:</tu>
+	<tu xmlns:lang="nld">De routine zal de onderstaande taken uitvoeren:</tu>
+	<tu xmlns:lang="fra">Cette fonction va effectuer les tâches suivantes :</tu>
+	<tu xmlns:lang="deu">Mit dieser Routine werden folgende Aufgaben erledigt:</tu>
+	<tu xmlns:lang="ita">Questa procedura esegue le seguenti operazioni:</tu>
+	<tu xmlns:lang="jpn">このルーチンは次の作業を行います：</tu>
+	<tu xmlns:lang="ptg">Esta rotina realizará as tarefas seguintes:</tu>
+	<tu xmlns:lang="ptb">Essa rotina executará as seguintes tarefas:</tu>
+	<tu xmlns:lang="rus">Эта программа выполняет следующие задачи:</tu>
+	<tu xmlns:lang="esp">En esta rutina se ejecutarán las tareas siguientes:</tu>
+	<tu xmlns:lang="chs">这一常规程序将执行下列任务：</tu>
+	<tu xmlns:lang="kor">이 루틴에서는 다음 작업을 수행합니다.</tu>
+</tm>

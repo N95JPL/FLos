@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_78">
+	<tu
+    xmlns:lang="eng"
+  >Mechanical failure - alignment or adjustment is incorrect.</tu>
+	<tu xmlns:lang="nld">Mechanisch defect - onjuiste uitlijning of afstelling.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaillance mécanique - alignement ou réglage incorrect.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mechanische Störung - Ausrichtung oder Einstellung ist falsch.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto meccanico - errore di allineamento o regolazione.</tu>
+	<tu xmlns:lang="jpn">機械的故障 － アライメントまたは調整不良</tu>
+	<tu xmlns:lang="ptg">Falha mecânica - alinhamento ou regulação incorrecta.</tu>
+	<tu xmlns:lang="ptb">Falha mecânica - alinhamento ou ajuste incorreto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Механическая неисправность - неверная корректировка или регулировка положения.</tu>
+	<tu xmlns:lang="esp">Fallo mecánico: alineación o ajuste incorrectos.</tu>
+	<tu xmlns:lang="chs">机械故障 - 校准或调整不正确。</tu>
+	<tu xmlns:lang="kor">기계적 고장 - 정렬 또는 조정이 잘못됨</tu>
+</tm>

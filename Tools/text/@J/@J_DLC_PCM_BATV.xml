@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_PCM_BATV">
+	<tu xmlns:lang="eng">Battery monitor</tu>
+	<tu xmlns:lang="nld">Accubewaking</tu>
+	<tu xmlns:lang="fra">Contrôleur de batterie</tu>
+	<tu xmlns:lang="deu">Batterie-Monitor</tu>
+	<tu xmlns:lang="ita">Monitor batteria</tu>
+	<tu xmlns:lang="jpn">バッテリ モニター</tu>
+	<tu xmlns:lang="ptg">Monitor da bateria</tu>
+	<tu xmlns:lang="ptb">Monitor da bateria</tu>
+	<tu xmlns:lang="rus">Проверка аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Monitor de batería</tu>
+	<tu xmlns:lang="chs">蓄电池监测器</tu>
+	<tu xmlns:lang="kor">배터리 모니터</tu>
+</tm>

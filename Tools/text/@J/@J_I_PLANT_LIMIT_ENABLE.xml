@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PLANT_LIMIT_ENABLE">
+	<tu xmlns:lang="eng">Plant limiter enabled</tu>
+	<tu xmlns:lang="nld">Fabrieks-ID ingeschakeld</tu>
+	<tu xmlns:lang="fra">Limiteur de motrice activé</tu>
+	<tu xmlns:lang="deu">Werksbegrenzer aktiviert</tu>
+	<tu xmlns:lang="ita">Limitatore stabilimento abilitato</tu>
+	<tu xmlns:lang="jpn">プラント リミッター作動可設定済み</tu>
+	<tu xmlns:lang="ptg">Limitador de fábrica activado</tu>
+	<tu xmlns:lang="ptb">Limitador da planta habilitado</tu>
+	<tu xmlns:lang="rus">Включен заводской ограничитель</tu>
+	<tu xmlns:lang="esp">Limitador de fábrica activado</tu>
+	<tu xmlns:lang="chs">工厂限制器已启用</tu>
+	<tu xmlns:lang="kor">플랜트 제한 장치가 활성화됨</tu>
+</tm>

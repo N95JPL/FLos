@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABS_SER_NO">
+	<tu xmlns:lang="eng">ABS serial number</tu>
+	<tu xmlns:lang="nld">ABS-serienummer</tu>
+	<tu xmlns:lang="fra">Numéro de série de l'ABS</tu>
+	<tu xmlns:lang="deu">ABS-Seriennummer</tu>
+	<tu xmlns:lang="ita">Numero di serie ABS</tu>
+	<tu xmlns:lang="jpn">ABS シリアル ナンバー</tu>
+	<tu xmlns:lang="ptg">Número de série do ABS</tu>
+	<tu xmlns:lang="ptb">Número de série do ABS</tu>
+	<tu xmlns:lang="rus">Серийный номер ABS</tu>
+	<tu xmlns:lang="esp">Número de serie del ABS</tu>
+	<tu xmlns:lang="chs">ABS 防抱死刹车系统序号</tu>
+	<tu xmlns:lang="kor">ABS 일련 번호</tu>
+</tm>

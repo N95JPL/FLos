@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineNotECOStopHoverInhibits">
+	<tu
+    xmlns:lang="eng"
+  >The engine is not in stop/start system stop mode.  Hover over any dynamic inhibits for more information. To continue, the engine must be in stop/start system stop mode. Resolve any inhibit conditions and re-run the application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De motor staat niet in de stop-modus van het Stop/Start-systeem. Beweeg over een dynamische blokkering voor meer informatie. Om verder te gaan moet de motor in de stop-modus van het Stop/Start-systeem staan. Om een stop-modus van het Stop/Start-systeem in te voeren, gelieve sneller dan 16 km/h (10 mph) met de auto vooruit te rijden, vervolgens de auto uit te zetten en de volgende taken uit te voeren:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le moteur n'est pas en mode arrêt du système Arrêt/Démarrage. Passer la souris sur n'importe quelle neutralisation dynamique pour plus d'informations. Pour continuer, le moteur doit être en mode arrêt du système Arrêt/Démarrage. Pour entrer en mode arrêt du système Arrêt/Démarrage, faire rouler le véhicule à plus de 16 km/h (10 mi/h), puis arrêter le véhicule et effectuer les tâches suivantes :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Motor befindet sich nicht im Stoppmodus des Stopp/Start-Systems. Für weitere Informationen den Mauszeiger über die dynamischen Sperren bewegen. Zum Fortfahren muss sich der Motor im Stoppmodus des Stopp/Start-Systems befinden. Um in den Stoppmodus des Stopp/Start-Systems zu schalten, das Fahrzeug mit mehr als 10 mph vorwärts fahren, dann Fahrzeug anhalten und die folgenden Aufgaben durchführen:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il motore non è in modalità di arresto del sistema Stop/Start. Passare il cursore su disabilitazioni Dynamic per ulteriori informazioni. Per continuare, il motore deve trovarsi in modalità di arresto del sistema Stop/Start. Per impostare una modalità di arresto del sistema Stop/Start, guidare il veicolo in marcia avanti a una velocità superiore a 10 mph, quindi arrestare il veicolo ed eseguire le seguenti operazioni:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンはスタート/ストップ システム停止モードになっていません。 詳細を表示するには、動的禁止にカーソルを合わせてください。 続行するには、エンジンがスタート/ストップ システム停止モードでなければなりません。 スタート/ストップ システム停止モードになるためには、車両を 10 mph 以上で前進させてから停止し、次のタスクを実行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O motor não se encontra no modo de paragem do sistema Stop/Start. Passe o cursor sobre quaisquer inibições dinâmicas para obter mais informações. Para continuar, o motor deve estar no modo de paragem do sistema Stop/Start. Para entrar num modo do sistema Stop/Start, conduza o veículo para a frente a mais de 16 km/h e, em seguida, pare o veículo e realize as seguintes tarefas:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O motor não está em modo de parada do sistema stop/start. Passe o mouse sobre quaisquer inibições dinâmicas para mais informações. Para continuar, o motor deve estar no modo de parada do sistema stop/start. Para entrar em um modo de parada do sistema stop/start conduza o veículo para frente acima de 16 km/h (10 mph), então, pare o veículo e execute as seguintes tarefas:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Двигатель не находится в режиме останова системы стоп/старт. Для получения дополнительной информации наведите курсор на любую динамическую блокировку. Чтобы продолжить, необходимо включить режим останова системы стоп/старт. Чтобы перейти в режим останова системы стоп/старт, двигайтесь на автомобиле вперед со скоростью более 10 миль/ч, а затем остановитесь и выполните следующие действия:</tu>
+	<tu
+    xmlns:lang="esp"
+  >El motor no está en el modo de parada del sistema Stop/Start. Pase el cursor sobre cualquier bloqueo dinámico para obtener más información. Para continuar, el motor debe estar en el modo de parada del sistema Stop/Start. Para entrar en el modo de parada del sistema Stop/Start, conduzca el vehículo hacia delante a más de 16 km/h (10 mph) y, a continuación, detenga el vehículo y lleve a cabo las siguientes tareas:</tu>
+	<tu
+    xmlns:lang="chs"
+  >发动机未处于停止/启动系统停止模式下。 关于更多信息，请将鼠标悬停在任何动态禁止条件上。 发动机必须处于停止/启动系统停止模式下才能继续。 为了进入停止/启动系统停止模式，请以高于 10 英里/小时的速度驾驶车辆前行，然后停止车辆并执行以下任务：</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진이 Stop/Start 시스템 Stop 모드에 있지 않습니다. 자세한 정보를 보려면 동적 억제를 가리키십시오. 계속하려면 엔진이 Stop/Start 시스템 Stop 모드에 있어야 합니다. Stop/Start 시스템 Stop 모드로 들어가려면 차량을 16km/h(10mph) 이상의 속도로 전진 주행한 후 정지하고, 다음 작업을 수행하십시오.</tu>
+</tm>

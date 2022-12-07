@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart13">
+	<tu xmlns:lang="eng">Primary battery state of charge - Target</tu>
+	<tu xmlns:lang="nld">Laadtoestand primaire accu - Doel</tu>
+	<tu xmlns:lang="fra">État de charge de la batterie principale - Cible</tu>
+	<tu xmlns:lang="deu">Ladezustand der Hauptbatterie – Sollwert</tu>
+	<tu xmlns:lang="ita">Stato di carica della batteria principale - Target</tu>
+	<tu xmlns:lang="jpn">プライマリ バッテリーの充電状態 - 目標値</tu>
+	<tu xmlns:lang="ptg">Estado de carga da bateria primária - Alvo</tu>
+	<tu xmlns:lang="ptb">Estado de carga da bateria primária - Alvo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние заряда основной аккумуляторной батареи — заданное</tu>
+	<tu xmlns:lang="esp">Estado de carga de la batería principal: objetivo</tu>
+	<tu xmlns:lang="chs">主蓄电池电荷状态 - 目标值</tu>
+	<tu xmlns:lang="kor">기본 배터리 충전 상태 - 목표</tu>
+</tm>

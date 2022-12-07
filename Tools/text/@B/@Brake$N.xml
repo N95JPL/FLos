@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Brake$N">
+	<tu xmlns:lang="eng">Brake</tu>
+	<tu xmlns:lang="nld">Rem</tu>
+	<tu xmlns:lang="fra">Frein</tu>
+	<tu xmlns:lang="deu">Bremse</tu>
+	<tu xmlns:lang="ita">Freno</tu>
+	<tu xmlns:lang="jpn">Brake</tu>
+	<tu xmlns:lang="ptg">Travão</tu>
+	<tu xmlns:lang="ptb">Freio</tu>
+	<tu xmlns:lang="rus">Тормозная система</tu>
+	<tu xmlns:lang="esp">Freno</tu>
+	<tu xmlns:lang="chs">制动器</tu>
+	<tu xmlns:lang="kor">브레이크</tu>
+</tm>

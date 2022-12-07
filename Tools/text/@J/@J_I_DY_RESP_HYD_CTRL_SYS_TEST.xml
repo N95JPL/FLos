@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DY_RESP_HYD_CTRL_SYS_TEST">
+	<tu xmlns:lang="eng">Dynamic response hydraulic control – system test</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hydraulische regeling van dynamic response-systeem - systeemtest</tu>
+	<tu
+    xmlns:lang="fra"
+  >Commande hydraulique Dynamic Response - Contrôle du système</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hydrauliksteuerung Dynamic-Response-System - Systemtest</tu>
+	<tu xmlns:lang="ita">Controllo idraulico Dynamic Response - prova sistema</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ダイナミック レスポンス ハイドロリック コントロール - システム テスト</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Controlo hidráulico de resposta dinâmica - teste de sistema</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Controle hidráulico de resposta dinâmica - teste do sistema</tu>
+	<tu
+    xmlns:lang="rus"
+  >Гидропривод системы динамического реагирования - проверка системы</tu>
+	<tu
+    xmlns:lang="esp"
+  >Control hidráulico de respuesta dinámica: prueba del sistema</tu>
+	<tu xmlns:lang="chs">动态响应液压控制 - 系统测试</tu>
+	<tu xmlns:lang="kor">다이내믹 리스폰스 유압 컨트롤 - 시스템 테스트</tu>
+</tm>

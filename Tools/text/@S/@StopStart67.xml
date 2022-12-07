@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart67">
+	<tu
+    xmlns:lang="eng"
+  >If this condition is present on the auto stop/start system stop screen check for powertrain control module related DTCs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als deze toestand aanwezig is op het stopscherm van het automatische Stop/Start-systeem, controleer dan op DTC's met betrekking tot de aandrijflijnregelmodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si cette condition est présente sur l'écran d'arrêt du système Arrêt/Démarrage auto, vérifiez la présence de DTC liés au module de commande du groupe motopropulseur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn dieser Zustand auf dem Bildschirm des Auto-Stopp-Start-Systems angezeigt wird, auf Fehlercodes im Zusammenhang mit dem Antriebsstrang-Steuergerät prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se questa condizione viene ancora visualizzata sulla schermata di arresto del sistema Stop/Start automatico, verificare l'eventuale presenza di DTC relativi al modulo di comando catena cinematica (PCM).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >オート ストップ/スタート システムのストップ画面でこの状態が発生する場合は、パワートレーン コントロール モジュール関連の DTC を確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se esta condição estiver presente no ecrã de paragem do sistema Stop/Start automático, verifique se existem códigos de avaria (DTC) relacionados com o módulo de controlo do grupo motopropulsor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se essa condição estiver presente na tela de parada do sistema stop/start automático, verifique os DTCs relacionados ao módulo de controle do grupo motopropulsor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если данное состояние присутствует на экране остановки автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт, проверьте наличие диагностических кодов неисправностей, имеющих отношение к блоку управления силовым агрегатом.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si esta condición se presenta en la pantalla de parada del sistema Stop/Start automático, compruebe si hay DTC asociados con el módulo de control del grupo motriz.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果在自动停止/启动系统停止屏幕上出现这种情况，则检查是否存在动力传动系统控制模块相关的 DTC。</tu>
+	<tu
+    xmlns:lang="kor"
+  >자동 Stop/Start 시스템 중지 화면에 이 상태가 나타날 경우 파워트레인 컨트롤 모듈 관련 DTC가 있는지 점검하십시오.</tu>
+</tm>

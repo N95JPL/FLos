@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_VERIFY_WIRE_INTO_ECM_GEN">
+	<tu
+    xmlns:lang="eng"
+  >Verify good connection of the wires into the engine control module and generator connectors</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer of de draden goed zijn aangesloten in de stekkers van de motorregelmodule en de dynamo</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôlez la fixation des câbles sur les connecteurs du module de commande du moteur et de l'alternateur</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Kabel der Steckverbinder von Motorsteuergerät und Generator gut angeschlossen sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare la buona connessione dei fili nei connettori del modulo di comando motore e del generatore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジン コントロール モジュールおよびジェネレータ コネクターへのワイヤの接続が良好であることを確認しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar se os cabos nos conectores do módulo de comando do motor e do alternador estão bem ligados</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique a boa conexão dos fios no módulo de controle do motor e nos conectores do alternador</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте надежность подсоединения проводов к разъемам блока управления двигателем и генератора</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar que los cables están bien conectados en los conectores del módulo de control del motor y el alternador</tu>
+	<tu xmlns:lang="chs">验证至发动机控制模块和发电机连接器的接线的连接完好情况</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진 컨트롤 모듈 및 제너레이터 커넥터에 와이어가 올바로 연결되어 있는지 확인하십시오.</tu>
+</tm>

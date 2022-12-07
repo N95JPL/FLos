@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VIDEO">
+	<tu xmlns:lang="eng">Video</tu>
+	<tu xmlns:lang="nld">Video</tu>
+	<tu xmlns:lang="fra">Vidéo.</tu>
+	<tu xmlns:lang="deu">Video</tu>
+	<tu xmlns:lang="ita">Video</tu>
+	<tu xmlns:lang="jpn">ビデオ</tu>
+	<tu xmlns:lang="ptg">Vídeo</tu>
+	<tu xmlns:lang="ptb">Vídeo</tu>
+	<tu xmlns:lang="rus">Видео</tu>
+	<tu xmlns:lang="esp">Vídeo</tu>
+	<tu xmlns:lang="chs">视频</tu>
+	<tu xmlns:lang="kor">비디오</tu>
+</tm>

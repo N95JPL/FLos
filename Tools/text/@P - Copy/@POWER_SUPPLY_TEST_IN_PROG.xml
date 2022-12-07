@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@POWER_SUPPLY_TEST_IN_PROG">
+	<tu xmlns:lang="eng">Power supply test in progress</tu>
+	<tu xmlns:lang="nld">Test van stroomvoorziening in uitvoering</tu>
+	<tu xmlns:lang="fra">Test d'alimentation en cours</tu>
+	<tu xmlns:lang="deu">Versorgungstest läuft</tu>
+	<tu xmlns:lang="ita">Prova alimentazione in corso</tu>
+	<tu xmlns:lang="jpn">電源供給テスト進行中</tu>
+	<tu xmlns:lang="ptg">Teste à alimentação em curso</tu>
+	<tu xmlns:lang="ptb">Teste de alimentação em andamento</tu>
+	<tu xmlns:lang="rus">Выполняется проверка электропитания</tu>
+	<tu xmlns:lang="esp">Prueba de alimentación en curso</tu>
+	<tu xmlns:lang="chs">电源供电测试在进行中</tu>
+	<tu xmlns:lang="kor">전원 공급 테스트가 진행 중입니다.</tu>
+</tm>

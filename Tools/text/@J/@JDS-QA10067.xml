@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA10067">
+	<tu xmlns:lang="eng">Security system - no valet switch fitted</tu>
+	<tu xmlns:lang="nld">BEVEILIGINGSSYSTEEM - GEEN VALETSCHAKELAAR GEMONTEERD</tu>
+	<tu xmlns:lang="fra">SYSTEME SECURITE-COMMUTATEUR VALET NON INSTALLE</tu>
+	<tu xmlns:lang="deu">SICHERHEITSSYSTEM - KEIN VALET-SCHALTER MONTIERT</tu>
+	<tu xmlns:lang="ita">SIST.SICUREZZA: INTERRUTT.MODO SICUREZZ.NON PROVVISTO</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セｷュリﾃｨ・シｽﾃム -バレｯﾄ・ｽｲｯチは取り付けられていません。</tu>
+	<tu xmlns:lang="ptg">Sistema de segurança - sem interruptor de segurança</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de segurança - sem interruptor de estacionamento instalado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Охранная система - выключатель служебного режима не установлен</tu>
+	<tu xmlns:lang="esp">SIST.SEGURIDAD: INTERRUPT.MODO SEGURIDAD NO PROVISTO</tu>
+	<tu xmlns:lang="chs">安全系统 - 未安装随动开关</tu>
+	<tu xmlns:lang="kor">보안 시스템 - 발렛 스위치가 장착되지 않음</tu>
+</tm>

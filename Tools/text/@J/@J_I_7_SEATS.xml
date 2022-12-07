@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_7_SEATS">
+	<tu xmlns:lang="eng">7 seats</tu>
+	<tu xmlns:lang="nld">7 stoelen</tu>
+	<tu xmlns:lang="fra">7 sièges</tu>
+	<tu xmlns:lang="deu">7-Sitzer</tu>
+	<tu xmlns:lang="ita">7 posti</tu>
+	<tu xmlns:lang="jpn">7 シート</tu>
+	<tu xmlns:lang="ptg">7 assentos</tu>
+	<tu xmlns:lang="ptb">7 assentos</tu>
+	<tu xmlns:lang="rus">7-местный</tu>
+	<tu xmlns:lang="esp">7 asientos</tu>
+	<tu xmlns:lang="chs">7 座椅</tu>
+	<tu xmlns:lang="kor">7인승</tu>
+</tm>

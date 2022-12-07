@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AfterSixRunFollow$M">
+	<tu xmlns:lang="eng">After 6 minutes please perform the following:</tu>
+	<tu xmlns:lang="nld">Doe na 6 minuten a.u.b. het volgende:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Après 6 minutes, veuillez prendre les mesures suivantes :</tu>
+	<tu xmlns:lang="deu">Nach 6 Minuten bitte Folgendes durchführen:</tu>
+	<tu xmlns:lang="ita">Dopo 6 minuti, effettuare quanto segue:</tu>
+	<tu xmlns:lang="jpn">6 分経過後、以下のことを実行しなさい：</tu>
+	<tu xmlns:lang="ptg">Após 6 minutos, efectue o seguinte:</tu>
+	<tu xmlns:lang="ptb">Após 6 minutos, execute o seguinte:</tu>
+	<tu xmlns:lang="rus">Через 6 минут выполните следующее:</tu>
+	<tu xmlns:lang="esp">Al cabo de 6 minutos, realizar el proceso siguiente:</tu>
+	<tu xmlns:lang="chs">在6分钟之后，请执行下列操作：</tu>
+	<tu xmlns:lang="kor">6분 후 다음 작업을 수행하십시오.</tu>
+</tm>

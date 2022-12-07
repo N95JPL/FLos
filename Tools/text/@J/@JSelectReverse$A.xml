@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JSelectReverse$A">
+	<tu xmlns:lang="eng">Select reverse</tu>
+	<tu xmlns:lang="nld">Kies de stand ACHTERUIT (R)</tu>
+	<tu xmlns:lang="fra">Choisir la MARCHE ARRIERE (R)</tu>
+	<tu xmlns:lang="deu">'R' wählen</tu>
+	<tu xmlns:lang="ita">Selezionare la RETROMARCIA (R)</tu>
+	<tu xmlns:lang="jpn">リﾊﾞースにシフトしてください。</tu>
+	<tu xmlns:lang="ptg">Seleccionar marcha-atrás</tu>
+	<tu xmlns:lang="ptb">Selecione marcha à ré</tu>
+	<tu xmlns:lang="rus">Включите заднюю передачу</tu>
+	<tu xmlns:lang="esp">Poner palanca cambio en MARCHA ATRAS (R)</tu>
+	<tu xmlns:lang="chs">选择倒档</tu>
+	<tu xmlns:lang="kor">R을 선택합니다.</tu>
+</tm>

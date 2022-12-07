@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RF_LAST_BUTTON">
+	<tu xmlns:lang="eng">Radio frequency activity  -  Last button</tu>
+	<tu xmlns:lang="nld">Activiteiten radiofrequentie  -  Laatste toets</tu>
+	<tu xmlns:lang="fra">Activité radiofréquence  -  Dernier bouton</tu>
+	<tu xmlns:lang="deu">Hochfrequenzaktivität  -  Letzte Taste</tu>
+	<tu xmlns:lang="ita">Attività radiofrequenza  -  Ultimo pulsante</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ラジオ フレキュンシー アクティビィティー無線周波数活動  －  最後のボタン</tu>
+	<tu xmlns:lang="ptg">Actividade de radiofrequência  -  Último botão</tu>
+	<tu xmlns:lang="ptb">Atividade de frequência de rádio  -  Ultimo botão</tu>
+	<tu xmlns:lang="rus">Передача радиосигнала  -  Последняя кнопка</tu>
+	<tu xmlns:lang="esp">Actividad de radiofrecuencia  -  Último botón</tu>
+	<tu xmlns:lang="chs">射频活动  -  上一个按钮</tu>
+	<tu xmlns:lang="kor">RF 활동  -  마지막 버튼</tu>
+</tm>

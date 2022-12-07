@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BLUE_VOICE_CNTRL_NAV">
+	<tu
+    xmlns:lang="eng"
+  >Bluetooth/voice control plus information and navigation</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bluetooth/spraakactivering plus informatie- en navigatiesysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Commande vocale/Bluetooth plus informations et navigation</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bluetooth/Sprachsteuerung plus Informations- und Navigationssystem</tu>
+	<tu
+    xmlns:lang="ita"
+  >Informazioni e navigazione Bluetooth/comando vocale più</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ブルートゥース／音声コントロール + 情報およびナビゲーション</tu>
+	<tu xmlns:lang="ptg">Bluetooth/comando de voz e informação e navegação</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Controle via Bluetooth / por voz mais informações e navegação</tu>
+	<tu
+    xmlns:lang="rus"
+  >Bluetooth/голосовое управление плюс информация и навигация</tu>
+	<tu
+    xmlns:lang="esp"
+  >Activación por voz/Bluetooth más sistema de información y navegación</tu>
+	<tu xmlns:lang="chs">蓝牙／语音控制与信息和导航</tu>
+	<tu xmlns:lang="kor">블루투스/음성 컨트롤  정보 및 내비게이션</tu>
+</tm>

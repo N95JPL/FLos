@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STATE_1">
+	<tu xmlns:lang="eng">State 1</tu>
+	<tu xmlns:lang="nld">Toestand 1</tu>
+	<tu xmlns:lang="fra">Etat 1</tu>
+	<tu xmlns:lang="deu">Wert 1</tu>
+	<tu xmlns:lang="ita">Stato 1</tu>
+	<tu xmlns:lang="jpn">ステータス 1</tu>
+	<tu xmlns:lang="ptg">Estado 1</tu>
+	<tu xmlns:lang="ptb">Estado 1</tu>
+	<tu xmlns:lang="rus">Состояние 1</tu>
+	<tu xmlns:lang="esp">Estado 1</tu>
+	<tu xmlns:lang="chs">状态 1</tu>
+	<tu xmlns:lang="kor">상태 1</tu>
+</tm>

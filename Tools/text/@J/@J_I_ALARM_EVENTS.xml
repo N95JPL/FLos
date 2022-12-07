@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALARM_EVENTS">
+	<tu
+    xmlns:lang="eng"
+  >The alarm electronic control unit stores the last five events which triggered the alarm.  Viewing these events may help to diagnose situations where a vehicle is experiencing repeated alarms.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De elektronische regeleenheid van het alarm slaat de laatste vijf gebeurtenissen waardoor het alarm is afgegaan op.  Door het bekijken van deze gebeurtenissen wordt het stellen van een diagnose in situaties waarbij het alarm in het voertuig herhaaldelijk afgaat mogelijk vergemakkelijkt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module de commande électronique d'alarme enregistre les cinq derniers événements qui ont déclenché l'alarme.  La visualisation de ces événements peut être utile pour le diagnostic de situations où un véhicule subit des alarmes répétées.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das elektronische Steuergerät der Diebstahlwarnanlage speichert die letzten fünf Ereignisse, die zu einer Alarmauslösung führten.  Einsehen dieser Ereignisse kann für die Diagnose von Situationen helfen, bei denen es bei einem Fahrzeug zu wiederholter Alarmauslösung kommt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'unità di comando elettronica del sistema di allarme memorizza gli ultimi cinque eventi che hanno fatto scattare l'allarme.  La visualizzazione di questi eventi può essere di aiuto per diagnosticare situazioni in cui il veicolo è soggetto a ripetuti allarmi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アラーム エレクトロニック コントロール ユニットはアラームをトリガーした最新の 5 回のイベントを保存します。  車両のアラームが繰り返し作動しているとき、これらのイベントを見ることによって状況の診断に役立つことがあります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A unidade electrónica de controlo do alarme grava os últimos cinco eventos que fizeram disparar o alarme.  Visualizar estes acontecimentos pode ajudar a diagnosticar situações em que um veículo regista alarmes repetidos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A unidade de controle eletrônico do alarme armazena os últimos cinco eventos do alarme.  Exibir esses eventos pode ajudar a diagnosticar situações em que um veículo está apresentando alarmes repetidos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электронный блок управления системой сигнализации сохраняет пять последних событий, вызвавших сигнал тревоги.  Просмотр этих событий может помочь при диагностике ситуаций, когда аварийные сигналы повторяются.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La unidad de control electrónico del sistema de alarma guarda los cinco últimos incidentes que dispararon la alarma.  La visualización de estos incidentes puede ayudar a diagnosticar situaciones en las que un vehículo experimenta disparos reiterados de la alarma.</tu>
+	<tu
+    xmlns:lang="chs"
+  >报警器电子控制单元保存最后五次报警器触发事件。  查看这些事件可能有助于诊断车辆反复出现报警的情形。</tu>
+	<tu
+    xmlns:lang="kor"
+  >알람 전자 컨트롤 유닛은 알람을 마지막으로 트리거한 5개의 이벤트를 저장합니다.  이런 이벤트를 보면 차량에서 알람이 반복적으로 발생하는 상황을 진단하는 데 도움이 될 수 있습니다.</tu>
+</tm>

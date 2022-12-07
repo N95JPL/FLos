@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RequestedService$M">
+	<tu xmlns:lang="eng">Requested service identifier : 0x%x</tu>
+	<tu xmlns:lang="nld">Aangevraagde service-id: 0x%x</tu>
+	<tu xmlns:lang="fra">Identifiant de service demandé : 0x%x</tu>
+	<tu xmlns:lang="deu">Angeforderte Servicekennung: 0x%x</tu>
+	<tu xmlns:lang="ita">Identificatore di assistenza richiesto: 0x%x</tu>
+	<tu xmlns:lang="jpn">要求されたサービス ID: 0x%x</tu>
+	<tu xmlns:lang="ptg">Identificador de serviço solicitado: 0x%x</tu>
+	<tu xmlns:lang="ptb">Identificador do Serviço solicitado: 0x%x</tu>
+	<tu xmlns:lang="rus">Запрашиваемый идентификатор данных: 0x%x</tu>
+	<tu xmlns:lang="esp">Identificador del servicio solicitado: 0x%x</tu>
+	<tu xmlns:lang="chs">已请求的维修标识符：0x%x</tu>
+	<tu xmlns:lang="kor">요청된 서비스 식별자: 0x%x</tu>
+</tm>

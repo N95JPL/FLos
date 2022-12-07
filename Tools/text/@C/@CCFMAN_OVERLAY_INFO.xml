@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_OVERLAY_INFO">
+	<tu
+    xmlns:lang="eng"
+  >On the next screen, you will be notified of any personalisation options recorded on entry into the session, that may be overwritten by the newly chosen session active car configuration file. The default will be to keep all of the original personalisation parameters. However, the user can choose to take any of the new session active source parameter values as required. At the end of this process you will be given the option to download these changes, or to abort the test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Op het volgende scherm zult u worden geïnformeerd over eventuele opties voor persoonlijke voorkeuren die bij het openen van de sessie werden geregistreerd, en die overschreven kunnen worden door de nieuwe, geselecteerde actieve sessie van het voertuigconfiguratiebestand. De standaardinstelling zal zijn om alle oorspronkelijke parameters van de persoonlijke voorkeuren te behouden. De gebruiker kan er echter voor kiezen om naar wens ieder van de parameterwaarden van de nieuwe sessie van de actieve bron te accepteren. Aan het eind van deze procedure krijgt u de gelegenheid deze wijzigingen te downloaden, of om de test te annuleren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'écran suivant vous informera de toutes les options de personnalisation enregistrées lors de l'entrée dans la session, et pouvant être effacées par le fichier de configuration du véhicule qui vient d'être choisi pour la session active. Tous les paramètres de personnalisation d'origine seront gardés par défaut. Cependant, l'utilisateur peut choisir de prendre des nouvelles valeurs de paramètres sources pour la session active si nécessaire. A la fin de ce processus, vous aurez l'option de télécharger ces changements ou d'abandonner l'essai.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf dem nächsten Bildschirm werden Sie über alle Personalisierungsoptionen informiert, die beim Eintritt in die Sitzung aufgezeichnet wurden und die durch die neu gewählte aktive Fahrzeug-Konfigurationsdatei für die Sitzung überschrieben werden können. Die Standardeinstellung ist es, alle ursprünglichen Personalisierungsparameter beizubehalten. Der Benutzer kann sich allerdings nach Bedarf dafür entscheiden, einen beliebigen der neuen aktiven Quellparameterwerte für die Sitzung zu wählen. Am Ende dieses Prozesses erhalten Sie die Option, diese Änderungen herunterzuladen oder den Test abzubrechen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nella schermata successiva, verranno comunicate eventuali opzioni di personalizzazione registrate al momento dell'accesso alla sessione, che potrebbero essere sovrascritte dal file di configurazione veicolo attiva della sessione appena scelta. L'azione predefinita sarà quella di mantenere tutti i parametri di personalizzazione originali. Tuttavia, l'utente può scegliere di prendere il valore di un qualsiasi parametro sorgente attivo della nuova sessione, secondo necessità. Al termine di questo processo, viene offerta la possibilità di scaricare queste modifiche o di interrompere la prova.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の画面では、セッションに入ったときに記録された個人設定オプションがあれば、それが通知されます。これは新しく選択されたセッション アクティブ車両コンフィギュレーション ファイルによって上書きされていることもあります。デフォルトでは、元の個人設定パラメータすべてを保持することになっていますが、ユーザーは、必要に応じて、新しいセッション アクティブ ソ\ース パラメータの取得を選択することもできます。このプロセスの最後にこれらの変更をダウンロードするか、あるいはテストを中止するかの選択肢が与えられます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >No ecrã seguinte, será informado de quaisquer opções de personalização registadas ao entrar na sessão, que podem ser rescritas pelo ficheiro de configuração do veículo activo da sessão recentemente escolhida. Por defeito, serão mantidos todos os parâmetros de personalização originais. Contudo, o utilizador pode optar por adoptar qualquer dos valores de parâmetros da fonte activa da sessão nova, conforme necessário. No final deste processo poderá optar por transferir estas alterações ou cancelar o teste.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Na tela seguinte, você será notificado de todas as opções de personalização registradas quando se entra na sessão, que podem ser substituídas pelo arquivo escolhido de configuração do carro ativo da sessão. O padrão será manter todos os parâmetros de personalização originais. Contudo, o usuário pode optar por obter qual um dos novos valores de parâmetro de fonte ativa de sessão conforme necessário. No final desse processo, você terá a opção de baixar essas alterações ou cancelar o teste.</tu>
+	<tu
+    xmlns:lang="rus"
+  >На следующем экране вы будете уведомлены об опциях персонализации, зарегистрированных при входе в данный сеанс, которые могут быть перезаписаны при выборе нового активного файла конфигурации автомобиля. По умолчанию сохраняются все исходные параметры персонализации. Но пользователь может выбрать любые новые значения параметров активного источника сеанса. В конце этого процесса вы сможете выбрать загрузку этих изменений или отмену данного теста.</tu>
+	<tu
+    xmlns:lang="esp"
+  >En la siguiente pantalla se le notificarán las opciones de personalización registradas al iniciar la sesión que el archivo de configuración del vehículo en sesión activa recién elegido podría sobrescribir. De manera predeterminada se conservarán los parámetros de personalización predeterminados. Sin embargo, el usuario puede elegir utilizar cualquiera de los nuevos valores de los parámetros de fuente en sesión activa si es necesario. Al final de este proceso se le dará la opción de descargar los cambios o cancelar la prueba.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在下一屏幕上，将会告诉您哪些该程序记录在案的个性化选项，将被新选中的程序在用车辆配置文件覆盖。 默认设置是保留所有原始个性化参数。 然而，用户可根据需要选择采纳新程序在用来源参数数值。 在这一过程的末尾，将会让您选择下载这些更改还是中止该测试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 화면에는 세션으로 들어갈 때 기록되는 모든 개인화 옵션이 표시되며, 새로 선택한 세션 활성 차량 구성 파일이 이를 덮어쓸 수 있습니다. 원래 개인화 매개 변수를 전부 유지하는 것이 기본 설정입니다. 하지만, 사용자는 필요에 따라 새 세션 활성 소스 매개 변수 값 중 어떤 값이든 선택할 수 있습니다. 이 프로세스가 종료될 때 이런 변경 내용을 다운로드하거나 테스트를 중단하기 위한 옵션이 제공됩니다.</tu>
+</tm>

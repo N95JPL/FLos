@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LH_SIDE_CAM">
+	<tu xmlns:lang="eng">Left side camera</tu>
+	<tu xmlns:lang="nld">Linkercamera </tu>
+	<tu xmlns:lang="fra">Caméra latérale gauche </tu>
+	<tu xmlns:lang="deu">Linke Seitenkamera </tu>
+	<tu xmlns:lang="ita">Telecamera laterale sinistra</tu>
+	<tu xmlns:lang="jpn">左サイド カメラ</tu>
+	<tu xmlns:lang="ptg">Câmara esquerda</tu>
+	<tu xmlns:lang="ptb">Câmera lateral esquerda</tu>
+	<tu xmlns:lang="rus">Левая камера </tu>
+	<tu xmlns:lang="esp">Cámara del lado izquierdo</tu>
+	<tu xmlns:lang="chs">左侧摄像头</tu>
+	<tu xmlns:lang="kor">좌측 카메라</tu>
+</tm>

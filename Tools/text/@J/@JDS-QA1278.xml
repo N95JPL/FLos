@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA1278">
+	<tu xmlns:lang="eng">Range</tu>
+	<tu xmlns:lang="nld">ACTIE RADIUS</tu>
+	<tu xmlns:lang="fra">PLAGE</tu>
+	<tu xmlns:lang="deu">REICHWEITE</tu>
+	<tu xmlns:lang="ita">GAMMA</tu>
+	<tu xmlns:lang="jpn">レンｼﾞ</tu>
+	<tu xmlns:lang="ptg">Gama</tu>
+	<tu xmlns:lang="ptb">Intervalo</tu>
+	<tu xmlns:lang="rus">Диапазон:</tu>
+	<tu xmlns:lang="esp">ALCANCE</tu>
+	<tu xmlns:lang="chs">范围</tu>
+	<tu xmlns:lang="kor">범위</tu>
+</tm>

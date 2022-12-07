@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SAUDI_OVERSPEED_SELECT_TICK">
+	<tu
+    xmlns:lang="eng"
+  >Enable or disable Saudi Arabia overspeed warning, then press tick to continue</tu>
+	<tu
+    xmlns:lang="nld"
+  >Schakel de waarschuwing voor een te hoge snelheid (Saudi-Arabië) in of uit en druk daarna op de afvinktoets om verder te gaan</tu>
+	<tu
+    xmlns:lang="fra"
+  >Activez ou désactivez l'avertissement de vitesse excessive Arabie saoudite et appuyez sur la coche pour continuer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Geschwindigkeitswarnung Saudi-Arabien aktivieren oder deaktivieren und zum Fortfahren das Häkchen antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attivare o disattivare l'avvertenza velocità eccessiva per l'Arabia Saudita, quindi premere il tasto di spunta per continuare</tu>
+	<tu
+    xmlns:lang="jpn"
+  >サウジアラビア用オーバースピード警告を作動可または作動不可に設定し、そののちティックを押して続行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Active ou desactive o aviso de excesso de velocidade para Arábia Saudita e prima o visto para continuar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ative ou desative alerta de rotação excessiva da Arábia Saudita, em seguida pressione a marca para continuar</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включите или отключите предупреждение о превышении скорости для Саудовской Аравии, затем нажмите 'галочку' для продолжения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Habilitar o inhabilitar el aviso de exceso de velocidad para Arabia Saudí y pulsar el botón de continuar</tu>
+	<tu xmlns:lang="chs">启用或禁用沙特阿拉伯超速警告，然后按勾选键继续</tu>
+	<tu
+    xmlns:lang="kor"
+  >사우디아라비아 과속 경고를 활성화하거나 비활성화한 다음, 계속하려면 체크 표시를 누르십시오.</tu>
+</tm>

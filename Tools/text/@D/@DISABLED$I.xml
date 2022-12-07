@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DISABLED$I">
+	<tu xmlns:lang="eng">Disabled</tu>
+	<tu xmlns:lang="nld">Uitgeschakeld</tu>
+	<tu xmlns:lang="fra">Désactivé</tu>
+	<tu xmlns:lang="deu">Deaktiviert</tu>
+	<tu xmlns:lang="ita">Disabilitato</tu>
+	<tu xmlns:lang="jpn">作動不可</tu>
+	<tu xmlns:lang="ptg">Desactivado</tu>
+	<tu xmlns:lang="ptb">Desativado</tu>
+	<tu xmlns:lang="rus">Выключено</tu>
+	<tu xmlns:lang="esp">Desactivado</tu>
+	<tu xmlns:lang="chs">已禁用</tu>
+	<tu xmlns:lang="kor">사용 안 함</tu>
+</tm>

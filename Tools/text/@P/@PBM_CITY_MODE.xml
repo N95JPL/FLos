@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PBM_CITY_MODE">
+	<tu xmlns:lang="eng">City mode</tu>
+	<tu xmlns:lang="nld">Stadsfunctie</tu>
+	<tu xmlns:lang="fra">Mode ville.</tu>
+	<tu xmlns:lang="deu">Stadtmodus</tu>
+	<tu xmlns:lang="ita">Modalità guida urbana</tu>
+	<tu xmlns:lang="jpn">市街地モード</tu>
+	<tu xmlns:lang="ptg">Modo de cidade</tu>
+	<tu xmlns:lang="ptb">Modo cidade</tu>
+	<tu xmlns:lang="rus">Городской режим</tu>
+	<tu xmlns:lang="esp">Modo urbano</tu>
+	<tu xmlns:lang="chs">城市模式</tu>
+	<tu xmlns:lang="kor">도시 모드</tu>
+</tm>

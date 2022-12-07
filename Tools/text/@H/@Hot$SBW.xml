@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Hot$SBW">
+	<tu xmlns:lang="eng">Safety belt warning</tu>
+	<tu xmlns:lang="nld">Seatbelt warning</tu>
+	<tu xmlns:lang="fra">Seatbelt warning</tu>
+	<tu xmlns:lang="deu">Seatbelt warning</tu>
+	<tu xmlns:lang="ita">Seatbelt warning</tu>
+	<tu xmlns:lang="jpn">SEATBELT WARNING</tu>
+	<tu xmlns:lang="ptg">Aviso do cinto de segurança</tu>
+	<tu xmlns:lang="ptb">Aviso de cinto de segurança</tu>
+	<tu xmlns:lang="rus">Предупреждение о непристегнутом ремне безопасности</tu>
+	<tu xmlns:lang="esp">Seatbelt warning</tu>
+	<tu xmlns:lang="chs">安全带警告</tu>
+	<tu xmlns:lang="kor">안전벨트 경고</tu>
+</tm>

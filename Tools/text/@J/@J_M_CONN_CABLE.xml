@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CONN_CABLE">
+	<tu
+    xmlns:lang="eng"
+  >Connect the diagnostic cable to the vehicle diagnostic connector.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Sluit de diagnosekabel aan op de voertuigdiagnose-aansluiting.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Branchez le câble de diagnostic sur le connecteur de diagnostic du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Diagnosekabel am Diagnosestecker des Fahrzeugs anschließen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Collegare il cavo diagnostico al connettore diagnostico del veicolo.</tu>
+	<tu xmlns:lang="jpn">診断ケーブルを車両診断コネクターに接続しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligue o cabo de diagnóstico à ficha de diagnóstico do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conecte o cabo de diagnóstico no conector de diagnóstico do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подключите диагностический кабель к диагностическому разъему автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Conectar el cable de diagnosis al conector de diagnosis del vehículo.</tu>
+	<tu xmlns:lang="chs">将诊断电缆连接到车辆诊断接头上。</tu>
+	<tu xmlns:lang="kor">진단 케이블을 차량 진단 커넥터에 연결하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_TYP_08">
+	<tu xmlns:lang="eng">Battery type 08</tu>
+	<tu xmlns:lang="nld">Accutype 08</tu>
+	<tu xmlns:lang="fra">Type de batterie 08</tu>
+	<tu xmlns:lang="deu">Batterietyp 08</tu>
+	<tu xmlns:lang="ita">Batteria tipo 08</tu>
+	<tu xmlns:lang="jpn">バッテリ タイプ 08</tu>
+	<tu xmlns:lang="ptg">Tipo de bateria 08</tu>
+	<tu xmlns:lang="ptb">Tipo de bateria 08</tu>
+	<tu xmlns:lang="rus">Тип аккумуляторной батареи 08</tu>
+	<tu xmlns:lang="esp">Batería de tipo 08</tu>
+	<tu xmlns:lang="chs">蓄电池类型 08</tu>
+	<tu xmlns:lang="kor">배터리 유형 08</tu>
+</tm>

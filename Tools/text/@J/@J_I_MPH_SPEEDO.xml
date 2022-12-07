@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MPH_SPEEDO">
+	<tu xmlns:lang="eng">Mph speedometer.</tu>
+	<tu xmlns:lang="nld">Snelheidsmeter voor mijl/uur.</tu>
+	<tu xmlns:lang="fra">Compteur de vitesse en miles/heure.</tu>
+	<tu xmlns:lang="deu">Geschwindigkeitsmesser in Meilen/h.</tu>
+	<tu xmlns:lang="ita">Tachimetro in miglia all'ora.</tu>
+	<tu xmlns:lang="jpn">Mph スピードメータ</tu>
+	<tu xmlns:lang="ptg">Velocímetro em MPH.</tu>
+	<tu xmlns:lang="ptb">Velocímetro de MPH.</tu>
+	<tu xmlns:lang="rus">Спидометр со шкалой в милях/ч.</tu>
+	<tu xmlns:lang="esp">Velocímetro en millas/h.</tu>
+	<tu xmlns:lang="chs">Mph速度表。</tu>
+	<tu xmlns:lang="kor">Mph 속도계</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REL_ACC_PED_COAST">
+	<tu
+    xmlns:lang="eng"
+  >Then release the accelerator pedal and then coast the vehicle to a stop within 60 seconds</tu>
+	<tu
+    xmlns:lang="nld"
+  >Haal uw voet daarna van het gaspedaal en laat het voertuig vervolgens binnen 60 seconden tot stilstand uitrollen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Puis relâchez la pédale d'accélérateur et garez le véhicule dans les 60 secondes</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anschließend das Gaspedal freigeben und innerhalb von 60 Sekunden das Fahrzeug bis zum Stillstand ausrollen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Rilasciare quindi il pedale dell'acceleratore e lasciare che il veicolo deceleri fino a fermarsi entro 60 secondi</tu>
+	<tu
+    xmlns:lang="jpn"
+  >その後アクセル ペダルを放し、60 秒以内に停止するよう車両を惰性で走行させなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Em seguida, solte o pedal do acelerador e deixe o motor desacelerar até parar, no espaço de 60 segundos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Em seguida, solte o pedal de acelerador e avance até parar dentro de 60 segundos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отпустите педаль акселератора и двигайтесь накатом в течение 60 секунд до полной остановки автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >A continuación, soltar el pedal acelerador y desacelerar el vehículo hasta pararlo en 60 segundos</tu>
+	<tu xmlns:lang="chs">然后释放加速踏板，接着在60秒钟内让车辆滑行停车</tu>
+	<tu
+    xmlns:lang="kor"
+  >그런 다음 가속 페달을 놓고 60초 내에 멈출 때까지 차량을 타력 주행하십시오.</tu>
+</tm>

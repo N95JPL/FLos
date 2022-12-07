@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENS_IGN_OFF_KEY_REM">
+	<tu
+    xmlns:lang="eng"
+  >Please make sure the ignition is set to off and the key is removed</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg er s.v.p. voor dat het contactslot UIT staat en de sleutel eruit gehaald is</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez vérifier que le contact est sur OFF et que la clé est retirée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte vergewissern Sie sich, daß die Zündung AUS und der Schlüssel abgezogen ist</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accertare che l'accensione è disinserita e che la chiave è tolta</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ｲｸﾞﾆｼｮﾝ・ｽｲｯﾁがｵﾌになっており、ｷーが抜いてあることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É favor assegurar-se de que a ignição está na posição desligada e de que a chave foi retirada da ignição</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a ignição esteja desligada e que a chave esteja removida</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что зажигание выключено и ключ вынут из замка зажигания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Por favor asegúrese de que el encendido (OFF) está desconectado y la llave quitada</tu>
+	<tu xmlns:lang="chs">请确保点火设置为关，钥匙已取下。</tu>
+	<tu
+    xmlns:lang="kor"
+  >점화 스위치가 OFF이고 키가 분리되어 있는지 확인하십시오.</tu>
+</tm>

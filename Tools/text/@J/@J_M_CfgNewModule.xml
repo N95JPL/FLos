@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CfgNewModule">
+	<tu xmlns:lang="eng">Configure new modules.</tu>
+	<tu xmlns:lang="nld">Configureer nieuwe modules</tu>
+	<tu xmlns:lang="fra">Configurer les nouveaux modules</tu>
+	<tu xmlns:lang="deu">Neue Module konfigurieren</tu>
+	<tu xmlns:lang="ita">Configura nuovi moduli</tu>
+	<tu xmlns:lang="jpn">新しいモジュールのコンフィギュレーション</tu>
+	<tu xmlns:lang="ptg">Configurar módulos novos.</tu>
+	<tu xmlns:lang="ptb">Configure novos módulos.</tu>
+	<tu xmlns:lang="rus">Настроить новые блоки.</tu>
+	<tu xmlns:lang="esp">Configurar módulos nuevos</tu>
+	<tu xmlns:lang="chs">配置新模块。</tu>
+	<tu xmlns:lang="kor">새 모듈을 구성하십시오.</tu>
+</tm>

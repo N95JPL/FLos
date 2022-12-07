@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRIVESHAFT_TOOLBOX_MENU">
+	<tu xmlns:lang="eng">Driveshaft balancing has moved to the toolbox menu.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het balanceren van de aandrijfas is naar het menu van de 'toolbox' (werkset) verplaatst.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'équilibrage de l'arbre de transmission a été déplacé dans le menu boîte à outils.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Gelenkwellenauswuchtung ist jetzt unter dem Menü Toolbox zu finden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'equilibratura dell'albero motore è stata spostata al menu ToolBox.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ドライブシャフト バランスはツールボックス メニューへ移動しました。</tu>
+	<tu xmlns:lang="ptg">Repare ou substitua a antena.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O balanceamento do semieixo foi movido para o menu Caixa de ferramentas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Балансировка карданного вала перемещена в меню набора инструментов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La función de equilibrado del árbol de transmisión ha pasado al menú de la caja de herramientas (Toolbox menu).</tu>
+	<tu xmlns:lang="chs">驱动轴平衡已转移到工具箱菜单。</tu>
+	<tu xmlns:lang="kor">구동축 밸런싱이 도구 상자 메뉴로 이동했습니다.</tu>
+</tm>

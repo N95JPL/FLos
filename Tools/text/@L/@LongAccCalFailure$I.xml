@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LongAccCalFailure$I">
+	<tu xmlns:lang="eng">Longitudinal accelerometer calibration failure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Kalibrering van acceleratiemeter in langsrichting mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de l'étalonnage de l'accéléromètre longitudinal.</tu>
+	<tu xmlns:lang="deu">Kalibration Längsbeschleunigungsaufnehmer - Störung.</tu>
+	<tu xmlns:lang="ita">Errore taratura accelerometro longitudinale.</tu>
+	<tu xmlns:lang="jpn">縦方向加速度センサー キャリブレーション失敗</tu>
+	<tu xmlns:lang="ptg">Falha na calibragem longitudinal do acelerómetro.</tu>
+	<tu xmlns:lang="ptb">Falha na calibragem do acelerômetro longitudinal.</tu>
+	<tu xmlns:lang="rus">Ошибка калибровки датчика продольного ускорения.</tu>
+	<tu xmlns:lang="esp">Fallo de calibración del acelerómetro longitudinal.</tu>
+	<tu xmlns:lang="chs">纵向加速计标定故障。</tu>
+	<tu xmlns:lang="kor">종방향 가속도계 보정 실패</tu>
+</tm>

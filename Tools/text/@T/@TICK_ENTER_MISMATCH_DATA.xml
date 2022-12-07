@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TICK_ENTER_MISMATCH_DATA">
+	<tu
+    xmlns:lang="eng"
+  >Select the tick to re-enter the mismatched vehicle data.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Selecteer het vinkje om de niet-overeenkomende voertuiggegevens opnieuw in te voeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cliquez sur la coche pour saisir à nouveau les données incompatibles du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Häkchen antippen, um die Fahrzeugdaten mit fehlender Übereinstimmung neu einzugeben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezionare il segno di spunta per inserire nuovamente i dati della vettura incongruenti.</tu>
+	<tu xmlns:lang="jpn">ティックを選択し、不適合の車両データを再入力します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccionar o sinal de confirmação (visto) para voltar a introduzir os dados do veículo não coincidentes.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Selecione o sinal de confirmação para reinserir os dados incompatíveis do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выберите галочку, чтобы снова ввести несовпадающие данные автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccionar la marca de verificación para volver a introducir los datos discordantes del vehículo.</tu>
+	<tu xmlns:lang="chs">选择勾选键，重新输入不匹配的车辆数据。</tu>
+	<tu
+    xmlns:lang="kor"
+  >체크 표시를 선택하여 일치하지 않는 차량 데이터를 다시 입력하십시오.</tu>
+</tm>

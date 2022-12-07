@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IMMOB_LED_FLASH">
+	<tu
+    xmlns:lang="eng"
+  >Immobilisation is indicated by the alarm LED flashing slowly (1 flash per second)</tu>
+	<tu
+    xmlns:lang="nld"
+  >De startblokkering wordt aangegeven doordat de LED van het alarmsysteem langzaam knippert (1 keer per seconde).</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'immobilisation est indiquée par le clignotement lent de la diode d'alarme (1 clignotement par seconde)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Wegfahrsperre wird dadurch angezeigt, dass die Alarm-LED langsam blinkt (1 Blinken pro Sekunde).</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'immobilizzazione è indicata dal lampeggio lento (1 lampeggio al secondo) del LED del sistema di allarme</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アラーム LED がゆっくり点滅 (1 秒に 1 回) してイモビライゼーションが設定されていることを示します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A imobilização é indicada pelo piscar lento do LED do alarme (pisca 1 vez por segundo)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A imobilização é indicada pelo LED de alarme piscando lentamente (1 piscada por segundo)</tu>
+	<tu
+    xmlns:lang="rus"
+  >При включении блокировки аварийный светодиод мигает медленно (1 вспышка в секунду)</tu>
+	<tu
+    xmlns:lang="esp"
+  >La inmovilización se indica mediante el parpadeo lento (1 vez por segundo) del LED de la alarma</tu>
+	<tu xmlns:lang="chs">防盗锁止系统由缓慢闪烁（每秒闪一次）的报警器 LED 指示</tu>
+	<tu
+    xmlns:lang="kor"
+  >알람 LED가 느리게 깜박이면서 이모빌라이제이션이 표시됩니다(초당 1회 깜박임)</tu>
+</tm>

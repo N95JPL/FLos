@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOCK_BUTTON_2ND_PRESS">
+	<tu xmlns:lang="eng">Lock button (second press)</tu>
+	<tu xmlns:lang="nld">Vergrendeltoets (tweede keer drukken)</tu>
+	<tu xmlns:lang="fra">Bouton de verrouillage (deuxième pression)</tu>
+	<tu xmlns:lang="deu">Verriegelungstaste (zweites Drücken)</tu>
+	<tu xmlns:lang="ita">Pulsante di bloccaggio (seconda pressione)</tu>
+	<tu xmlns:lang="jpn">ロック ボタン (2 回目の押し)</tu>
+	<tu xmlns:lang="ptg">Botão de trancagem (premir duas vezes)</tu>
+	<tu xmlns:lang="ptb">Botão de travamento (pressionar pela segunda vez)</tu>
+	<tu xmlns:lang="rus">Кнопка запирания (второе нажатие)</tu>
+	<tu xmlns:lang="esp">Botón de bloqueo (segunda pulsación)</tu>
+	<tu xmlns:lang="chs">锁定按钮（第二次按动）</tu>
+	<tu xmlns:lang="kor">잠금 버튼(두 번째로 누를 때 잠김)</tu>
+</tm>

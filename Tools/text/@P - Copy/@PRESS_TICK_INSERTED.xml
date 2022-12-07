@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PRESS_TICK_INSERTED">
+	<tu xmlns:lang="eng">Press tick if the key remains inserted.</tu>
+	<tu xmlns:lang="nld">Druk op het vinkje als de sleutel ingestoken blijft</tu>
+	<tu xmlns:lang="fra">Appuyez sur la coche si la clé reste insérée.</tu>
+	<tu xmlns:lang="deu">Das Häkchen antippen, wenn der Schlüssel weiterhin eingeschoben bleibt.</tu>
+	<tu xmlns:lang="ita">Premere il segno di spunta se la chiave rimane inserita.</tu>
+	<tu xmlns:lang="jpn">キーがイジェクトされなければ、ティックを押しなさい。</tu>
+	<tu xmlns:lang="ptg">Prima o sinal de visto, se a chave permanecer introduzida.</tu>
+	<tu xmlns:lang="ptb">Pressione a marca se a chave continuar inserida.</tu>
+	<tu xmlns:lang="rus">Нажмите на галочку, если ключ остался вставленным.</tu>
+	<tu xmlns:lang="esp">Pulsar la marca de verificación si la llave permanece insertada.</tu>
+	<tu xmlns:lang="chs">如果钥匙一直插入，请按勾号。</tu>
+	<tu xmlns:lang="kor">키가 계속 삽입되어 있는 경우 체크 표시를 누르십시오.</tu>
+</tm>

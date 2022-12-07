@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DTRL_ALWAYS_DIP_EXCEPT_P">
+	<tu xmlns:lang="eng">Always dipped lighting except in position 'P'</tu>
+	<tu
+    xmlns:lang="nld"
+  >Altijd dimlicht, behalve als de schakelhendel in stand P staat</tu>
+	<tu xmlns:lang="fra">Eclairage toujours en code sauf en position ?P?</tu>
+	<tu xmlns:lang="deu">Immer Abblendlicht außer in Stellung 'P'</tu>
+	<tu xmlns:lang="ita">Sempre luci anabbaglianti escluso in posizione 'P'</tu>
+	<tu xmlns:lang="jpn">ポジション「P」以外では常にロー ビーム</tu>
+	<tu xmlns:lang="ptg">Sempre médios excepto na posição 'P'</tu>
+	<tu xmlns:lang="ptb">Sempre farol baixo, exceto na posição 'P'</tu>
+	<tu xmlns:lang="rus">Фары переключены на ближний свет, кроме положения 'P'</tu>
+	<tu xmlns:lang="esp">Luces siempre bajas excepto en la posición P</tu>
+	<tu xmlns:lang="chs">除处于‘P’位置外，总是采用近光照明</tu>
+	<tu xmlns:lang="kor">'P' 위치에 있을 때를 제외하고 항상 하향 조명</tu>
+</tm>

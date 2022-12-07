@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BRAN_INT_CNTR_PAN">
+	<tu xmlns:lang="eng">Branded integrated control panel</tu>
+	<tu xmlns:lang="nld">Geïntegreerd bedieningspaneel van bepaald merk </tu>
+	<tu xmlns:lang="fra">Panneau de commande intégré de marque </tu>
+	<tu xmlns:lang="deu">Integriertes Bedienfeld mit Markenkennung </tu>
+	<tu xmlns:lang="ita">Quadro comandi integrato di marca</tu>
+	<tu xmlns:lang="jpn">ロゴ付きインテグレート コントロール パネル</tu>
+	<tu xmlns:lang="ptg">Painel de controlo integrado de marca</tu>
+	<tu xmlns:lang="ptb">Painel de controle integrado da marca</tu>
+	<tu xmlns:lang="rus">Фирменная интегрированная панель управления </tu>
+	<tu xmlns:lang="esp">Panel de mandos integrado de marca</tu>
+	<tu xmlns:lang="chs">带商标的集成控制面板</tu>
+	<tu xmlns:lang="kor">브랜드 통합 컨트롤 패널</tu>
+</tm>

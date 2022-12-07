@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FMH_FRONT_POSITION_LAMPS">
+	<tu xmlns:lang="eng">Follow me home with front position lamps</tu>
+	<tu xmlns:lang="nld">Instapverlichting met parkeerlampen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fonction d'accompagnement avec les feux de position avant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beleuchtungs-Ausschaltverzögerung mit Begrenzungsleuchten vorne</tu>
+	<tu
+    xmlns:lang="ita"
+  >Funzione spegnimento ritardato con luci di parcheggio anteriori</tu>
+	<tu xmlns:lang="jpn">フロント ポジショニング ランプ点灯を伴うリンプホーム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Iluminação temporária ao afastar-se do veículo com luzes de estacionamento dianteiras</tu>
+	<tu xmlns:lang="ptb">Follow me home com luzes de posição dianteiras</tu>
+	<tu xmlns:lang="rus">Задержка выключения передних габаритных фонарей</tu>
+	<tu
+    xmlns:lang="esp"
+  >Retardo de luces al salir con luces de posición delanteras</tu>
+	<tu xmlns:lang="chs">前定位灯延时熄灭</tu>
+	<tu xmlns:lang="kor">프론트 포지션 램프를 이용한 에스코트 램프</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ConfirmData$T">
+	<tu xmlns:lang="eng">Confirm the data.</tu>
+	<tu xmlns:lang="nld">Bevestig de gegevens.</tu>
+	<tu xmlns:lang="fra">Confirmez les données</tu>
+	<tu xmlns:lang="deu">Daten bestätigen</tu>
+	<tu xmlns:lang="ita">Confermare i dati</tu>
+	<tu xmlns:lang="jpn">　デ－タを確認して下さい。</tu>
+	<tu xmlns:lang="ptg">Confirmar os dados.</tu>
+	<tu xmlns:lang="ptb">Confirme os dados.</tu>
+	<tu xmlns:lang="rus">Подтвердите данные.</tu>
+	<tu xmlns:lang="esp">Confirmar los datos.</tu>
+	<tu xmlns:lang="chs">确定数据。</tu>
+	<tu xmlns:lang="kor">데이터를 확인하십시오.</tu>
+</tm>

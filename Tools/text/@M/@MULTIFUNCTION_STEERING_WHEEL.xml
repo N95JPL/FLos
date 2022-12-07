@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MULTIFUNCTION_STEERING_WHEEL">
+	<tu xmlns:lang="eng">Multi-function steering wheel</tu>
+	<tu xmlns:lang="nld">Multifunctioneel stuurwiel</tu>
+	<tu xmlns:lang="fra">Volant multifonctions.</tu>
+	<tu xmlns:lang="deu">Mehrfunktionslenkrad</tu>
+	<tu xmlns:lang="ita">Volante multifunzionale</tu>
+	<tu xmlns:lang="jpn">マルチファンクション ステアリング ホイール</tu>
+	<tu xmlns:lang="ptg">Volante multifunções</tu>
+	<tu xmlns:lang="ptb">Volante multifuncional</tu>
+	<tu xmlns:lang="rus">Многофункциональное рулевое колесо</tu>
+	<tu xmlns:lang="esp">Volante multifuncional</tu>
+	<tu xmlns:lang="chs">多功能方向盘</tu>
+	<tu xmlns:lang="kor">다기능 스티어링 휠</tu>
+</tm>

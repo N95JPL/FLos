@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_STATUS_ENABLED">
+	<tu xmlns:lang="eng">Enabled</tu>
+	<tu xmlns:lang="nld">Ingeschakeld</tu>
+	<tu xmlns:lang="fra">Activé</tu>
+	<tu xmlns:lang="deu">Aktiviert</tu>
+	<tu xmlns:lang="ita">Abilitato</tu>
+	<tu xmlns:lang="jpn">作動可</tu>
+	<tu xmlns:lang="ptg">Activado</tu>
+	<tu xmlns:lang="ptb">Ativado</tu>
+	<tu xmlns:lang="rus">Включен</tu>
+	<tu xmlns:lang="esp">Activado</tu>
+	<tu xmlns:lang="chs">已启用</tu>
+	<tu xmlns:lang="kor">사용</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_TEST_BRK_APP_FAILURE_DETAIL">
+	<tu
+    xmlns:lang="eng"
+  >Wheel speed signal was detected while ABS braking should have locked it.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er werd een wielsnelheidssignaal gedetecteerd, terwijl het ABS-remmen deze vergrendeld had moeten hebben.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un signal de vitesse de roue a été détecté alors que le freinage ABS aurait dû la bloquer.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Raddrehzahlsignal wurde ermittelt, während die ABS-Bremsung das Rad hätte stillsetzen sollen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Rilevato segnale di velocità ruota mentre il sistema ABS avrebbe dovuto bloccarla.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ABS ブレーキがシグナルをロックしているはずのときにホイール スピード シグナルが検出されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Foi detectado um sinal de velocidade da roda, embora a travagem com o ABS o devesse ter bloqueado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sinal de velocidade da roda foi detectado quando a frenagem ABS deveria tê-la travado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Определен сигнал скорости вращения колеса во время его блокировки системой ABS.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se detectó una señal de velocidad de la rueda mientras el frenado con ABS debería haberla inmovilizado.</tu>
+	<tu xmlns:lang="chs">在 ABS 制动本应锁定车轮时，检测到车轮转速信号。</tu>
+	<tu
+    xmlns:lang="kor"
+  >ABS 제동으로 휠 속도 신호가 잠겼어야 하지만, 휠 속도 신호가 감지되었습니다.</tu>
+</tm>

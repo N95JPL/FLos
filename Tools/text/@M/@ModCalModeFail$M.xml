@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ModCalModeFail$M">
+	<tu xmlns:lang="eng">Failed to set module calibration mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het instellen van de kalibreringsfunctie voor de module is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec de mise à un du mode étalonnage du module.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Steuergerät-Kalibrierungsmodus konnte nicht eingestellt werden.</tu>
+	<tu xmlns:lang="ita">Mancata impostazione modalità taratura modulo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュール キャリブレーション モードのセットに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Falha em definir o modo de calibragem do módulo.</tu>
+	<tu xmlns:lang="ptb">Falha ao definir o modo de calibragem do módulo.</tu>
+	<tu xmlns:lang="rus">Ошибка при установке режима калибровки блока.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se pudo establecer el modo de calibración del módulo.</tu>
+	<tu xmlns:lang="chs">设置模块标定模式失败。</tu>
+	<tu xmlns:lang="kor">모듈 보정 모드 설정에 실패했습니다.</tu>
+</tm>

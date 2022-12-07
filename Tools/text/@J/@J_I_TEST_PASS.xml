@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TEST_PASS">
+	<tu xmlns:lang="eng">Test passed</tu>
+	<tu xmlns:lang="nld">Test geslaagd</tu>
+	<tu xmlns:lang="fra">Essai réussi</tu>
+	<tu xmlns:lang="deu">Prüfung erfolgreich</tu>
+	<tu xmlns:lang="ita">Prova superata</tu>
+	<tu xmlns:lang="jpn">ﾃｽﾄにﾊﾟｽしました。</tu>
+	<tu xmlns:lang="ptg">Passou teste</tu>
+	<tu xmlns:lang="ptb">Aprovação no teste</tu>
+	<tu xmlns:lang="rus">Проверка пройдена</tu>
+	<tu xmlns:lang="esp">Prueba bien</tu>
+	<tu xmlns:lang="chs">测试通过。</tu>
+	<tu xmlns:lang="kor">테스트 통과</tu>
+</tm>

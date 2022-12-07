@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_RUSSIAN">
+	<tu xmlns:lang="eng">Russian</tu>
+	<tu xmlns:lang="nld">Russisch</tu>
+	<tu xmlns:lang="fra">Russe</tu>
+	<tu xmlns:lang="deu">Russisch</tu>
+	<tu xmlns:lang="ita">Russo</tu>
+	<tu xmlns:lang="jpn">ロシア語</tu>
+	<tu xmlns:lang="ptg">Russo</tu>
+	<tu xmlns:lang="ptb">Russo</tu>
+	<tu xmlns:lang="rus">Русский</tu>
+	<tu xmlns:lang="esp">Ruso</tu>
+	<tu xmlns:lang="chs">俄语</tu>
+	<tu xmlns:lang="kor">러시아어</tu>
+</tm>

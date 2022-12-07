@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_BATT_DISC_INST_4">
+	<tu xmlns:lang="eng">Please disconnect the VCI from the vehicle</tu>
+	<tu xmlns:lang="nld">Koppel de VCI los van de auto</tu>
+	<tu xmlns:lang="fra">Veuillez déconnecter la VCI du véhicule</tu>
+	<tu xmlns:lang="deu">Das VCI vom Fahrzeug trennen.</tu>
+	<tu xmlns:lang="ita">Scollegare il VCI dal veicolo</tu>
+	<tu xmlns:lang="jpn">車両から VCI の接続を外してください</tu>
+	<tu xmlns:lang="ptg">Desligue o VCI do veículo</tu>
+	<tu xmlns:lang="ptb">Desconecte a VCI do veículo</tu>
+	<tu xmlns:lang="rus">Отсоедините VCI от автомобиля</tu>
+	<tu xmlns:lang="esp">Desconecte la VCI del vehículo</tu>
+	<tu xmlns:lang="chs">请从车辆断开 VCI</tu>
+	<tu xmlns:lang="kor">차량에서 VCI를 분리하십시오.</tu>
+</tm>

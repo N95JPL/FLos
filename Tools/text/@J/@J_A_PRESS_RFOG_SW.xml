@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PRESS_RFOG_SW">
+	<tu xmlns:lang="eng">Press and hold the rear fog lamp switch.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De schakelaar van de mistlamp achter indrukken en vasthouden</tu>
+	<tu
+    xmlns:lang="fra"
+  >Actionnez et maintenez le commutateur de feux arrière de brouillard</tu>
+	<tu xmlns:lang="deu">Nebelschlußleuchtenschalter drücken und halten</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere e tenere premuto l'interruttore fendinebbia posteriori</tu>
+	<tu xmlns:lang="jpn">リア フォグランプ スイッチを押したままにしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Premir o interruptor da luz de nevoeiro traseira e mantê-lo premido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Mantenha pressionado o interruptor do farol de neblina traseiro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите и удерживайте выключатель задней противотуманной фары.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Presionar y sostener el interruptor de los pilotos antiniebla</tu>
+	<tu xmlns:lang="chs">按住后雾灯开关。</tu>
+	<tu xmlns:lang="kor">리어 포그 램프 스위치를 길게 누르십시오.</tu>
+</tm>

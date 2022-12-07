@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FSJB_01">
+	<tu
+    xmlns:lang="eng"
+  >The purpose of this routine is to detect and identify all possible input/output faults in the module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine heeft als doel alle mogelijke in- en uitvoerfouten in de module te detecteren en te identificeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme a pour but de détecter et d'identifier tous les défauts d'entrée/sortie dans le module.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zweck dieser Routine ist es, alle möglichen Eingangs-/Ausgangsstörungen des Steuergeräts zu ermitteln und zu identifizieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lo scopo di questa procedura è quello di rilevare e identificare tutti i possibili guasti di input/output del modulo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンの目的はモジュール内のすべての発生可能\なインプット／アウトプット故障を検出／特定することにあります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O objectivo desta rotina é detectar e identificar todas as eventuais falhas nos sinais de entrada/saída do módulo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O objetivo desta rotina é detectar e identificar todas as possíveis falhas de entrada/saída no módulo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Целью данной процедуры является определение и идентификация всех возможных неисправностей входных/выходных сигналов модуля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina tiene por finalidad detectar e identificar todas las posibles anomalías de señales de entrada/salida del módulo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一常规程序的目的是检测并找出模块中所有可能存在的输入/输出故障。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴의 목적은 모듈에서 발생 가능한 모든 입/출력 고장을 감지하고 식별하는 것입니다.</tu>
+</tm>

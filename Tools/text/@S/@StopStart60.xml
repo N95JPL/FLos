@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart60">
+	<tu
+    xmlns:lang="eng"
+  >The system is reporting an inhibit due to dual battery car configuration data fault.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem meldt een blokkering als gevolg van een fout in de voertuigconfiguratiegegevens voor dubbele accu.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le système signale une neutralisation due à un problème de dualité des données de configuration du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das System meldet eine Sperre aufgrund eines Datenfehlers bei der Fahrzeugkonfiguration mit zwei Batterien.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sistema segnala la disabilitazione causata da un errore dei dati di configurazione del veicolo della doppia batteria.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >システムは、デュアル バッテリー車両設定ファイル データの不具合による禁止状態を報告しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema está a comunicar uma inibição devido a um problema com os dados de configuração do veículo relativos ao módulo de duas baterias.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema está reportando uma inibição devido à falha de dados de configuração de carro com bateria dupla.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Система сообщает о блокировке вследствие ошибки данных конфигурации системы с двумя аккумуляторными батареями.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema informa de un bloqueo debido a un error de datos de configuración de vehículos con baterías dobles.</tu>
+	<tu xmlns:lang="chs">系统因双蓄电池车辆配置数据故障而报告一个禁止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >시스템에서 이중 배터리 차량 구성 데이터 오류로 인한 억제 상태임을 알려주고 있습니다.</tu>
+</tm>

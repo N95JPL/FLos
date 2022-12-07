@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@UNLOCK_SETTING">
+	<tu xmlns:lang="eng">Unlock setting</tu>
+	<tu xmlns:lang="nld">Instelling van ontgrendelen</tu>
+	<tu xmlns:lang="fra">Réglage du déverrouillage</tu>
+	<tu xmlns:lang="deu">Entriegelungseinstellung</tu>
+	<tu xmlns:lang="ita">Impostazione sbloccaggio</tu>
+	<tu xmlns:lang="jpn">アンロック設定</tu>
+	<tu xmlns:lang="ptg">Definição da destrancagem</tu>
+	<tu xmlns:lang="ptb">Destravar configuração</tu>
+	<tu xmlns:lang="rus">Разблокировать настройку</tu>
+	<tu xmlns:lang="esp">Ajuste del desbloqueo</tu>
+	<tu xmlns:lang="chs">解锁设置</tu>
+	<tu xmlns:lang="kor">잠금 해제 설정</tu>
+</tm>

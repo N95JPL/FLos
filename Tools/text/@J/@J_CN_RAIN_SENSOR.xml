@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CN_RAIN_SENSOR">
+	<tu xmlns:lang="eng">Rain sensor</tu>
+	<tu xmlns:lang="nld">Regensensor</tu>
+	<tu xmlns:lang="fra">Détecteur de pluie</tu>
+	<tu xmlns:lang="deu">Regensensor</tu>
+	<tu xmlns:lang="ita">Sensore pioggia</tu>
+	<tu xmlns:lang="jpn">レイン センサ</tu>
+	<tu xmlns:lang="ptg">Sensor de chuva</tu>
+	<tu xmlns:lang="ptb">Sensor de chuva</tu>
+	<tu xmlns:lang="rus">Датчик дождя</tu>
+	<tu xmlns:lang="esp">Sensor de lluvia</tu>
+	<tu xmlns:lang="chs">雨水传感器</tu>
+	<tu xmlns:lang="kor">레인 센서</tu>
+</tm>

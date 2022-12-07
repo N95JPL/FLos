@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@W_DISP_N_TOUCH_B_W">
+	<tu xmlns:lang="eng">With display  -  No touchscreen  -  Monochrome</tu>
+	<tu xmlns:lang="nld">Met scherm  -  Geen touch screen  -  Monochroom</tu>
+	<tu xmlns:lang="fra">Avec affichage  -  Pas d'écran tactile  -  Monochrome</tu>
+	<tu xmlns:lang="deu">Mit Display  -  Kein Touchscreen  -  Schwarz-Weiß</tu>
+	<tu
+    xmlns:lang="ita"
+  >Con display  -  Nessuno schermo a sfioramento  -  Bianco e nero</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ディスプレイ装備  －  タッチスクリーンなし  －  モノクローム</tu>
+	<tu xmlns:lang="ptg">Com ecrã  -  Sem ecrã de toque  -  Monocromático</tu>
+	<tu xmlns:lang="ptb">Com display  -  Sem tela touchscreen  -  Monocromático</tu>
+	<tu
+    xmlns:lang="rus"
+  >С дисплеем  -  Сенсорный экран отсутствует  -  Монохромный</tu>
+	<tu xmlns:lang="esp">Con pantalla  -  No hay pantalla táctil  -  Monocromo</tu>
+	<tu xmlns:lang="chs">带显示器  -  无触摸屏  -  单色</tu>
+	<tu xmlns:lang="kor">디스플레이 장착  -  터치 스크린 없음  -  단색</tu>
+</tm>

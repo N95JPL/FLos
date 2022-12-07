@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Parameter">
+	<tu xmlns:lang="eng">Parameter</tu>
+	<tu xmlns:lang="nld">Parameter</tu>
+	<tu xmlns:lang="fra">Paramètre</tu>
+	<tu xmlns:lang="deu">Parameter</tu>
+	<tu xmlns:lang="ita">Parametro</tu>
+	<tu xmlns:lang="jpn">パラメータ</tu>
+	<tu xmlns:lang="ptg">Parâmetro</tu>
+	<tu xmlns:lang="ptb">Parâmetro</tu>
+	<tu xmlns:lang="rus">Параметр</tu>
+	<tu xmlns:lang="esp">Parámetro</tu>
+	<tu xmlns:lang="chs">参数</tu>
+	<tu xmlns:lang="kor">매개 변수</tu>
+</tm>

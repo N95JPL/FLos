@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA1024">
+	<tu xmlns:lang="eng">Brake failure</tu>
+	<tu xmlns:lang="nld">REMSTORING</tu>
+	<tu xmlns:lang="fra">PANNE DE FREIN</tu>
+	<tu xmlns:lang="deu">BREMSAUSFALL</tu>
+	<tu xmlns:lang="ita">GUASTO DEI FRENI</tu>
+	<tu xmlns:lang="jpn">ﾌﾞレーキ故障</tu>
+	<tu xmlns:lang="ptg">Avaria nos travões</tu>
+	<tu xmlns:lang="ptb">Falha do freio</tu>
+	<tu xmlns:lang="rus">Отказ тормоза</tu>
+	<tu xmlns:lang="esp">FALLO DEL FRENO</tu>
+	<tu xmlns:lang="chs">制动器故障</tu>
+	<tu xmlns:lang="kor">브레이크 고장</tu>
+</tm>

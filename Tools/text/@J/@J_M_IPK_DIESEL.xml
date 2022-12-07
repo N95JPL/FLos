@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_IPK_DIESEL">
+	<tu xmlns:lang="eng">Diesel engine</tu>
+	<tu xmlns:lang="nld">Dieselmotor</tu>
+	<tu xmlns:lang="fra">Moteur diesel</tu>
+	<tu xmlns:lang="deu">Dieselmotor</tu>
+	<tu xmlns:lang="ita">Motore diesel</tu>
+	<tu xmlns:lang="jpn">ディーゼル エンジン</tu>
+	<tu xmlns:lang="ptg">Motor diesel</tu>
+	<tu xmlns:lang="ptb">Motor diesel</tu>
+	<tu xmlns:lang="rus">Дизельный двигатель</tu>
+	<tu xmlns:lang="esp">Motor Diesel</tu>
+	<tu xmlns:lang="chs">柴油发动机</tu>
+	<tu xmlns:lang="kor">디젤 엔진</tu>
+</tm>

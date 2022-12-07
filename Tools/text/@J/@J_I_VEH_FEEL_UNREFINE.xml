@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_FEEL_UNREFINE">
+	<tu xmlns:lang="eng">Vehicle feels unrefined</tu>
+	<tu xmlns:lang="nld">Het voertuig voelt niet verfijnd aan</tu>
+	<tu xmlns:lang="fra">Le véhicule a un comportement grossier</tu>
+	<tu xmlns:lang="deu">Fahrverhalten fühlt sich wenig komfortabel an</tu>
+	<tu xmlns:lang="ita">Sensazione di un comportamento impreciso del veicolo</tu>
+	<tu xmlns:lang="jpn">車両の洗練性が損なわれている</tu>
+	<tu xmlns:lang="ptg">Veículo apresenta uma condução áspera</tu>
+	<tu xmlns:lang="ptb">Veículo parece não estar refinado</tu>
+	<tu xmlns:lang="rus">Ощущение неотлаженности</tu>
+	<tu
+    xmlns:lang="esp"
+  >El funcionamiento del vehículo da una sensación de falta de refinamiento</tu>
+	<tu xmlns:lang="chs">车辆没有得到正确处置</tu>
+	<tu xmlns:lang="kor">차량 승차감이 나쁨</tu>
+</tm>

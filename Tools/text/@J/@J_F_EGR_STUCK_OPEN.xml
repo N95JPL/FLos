@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_EGR_STUCK_OPEN">
+	<tu xmlns:lang="eng">The exhaust gas recirculation valve is stuck open.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De uitlaatgasrecirculatieklep zit vast in de geopende stand.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le clapet de recyclage des gaz d'échappement est bloqué en position ouverte.</tu>
+	<tu xmlns:lang="deu">Das Abgasrückführungsventil hängt offen fest.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Valvola ricircolo gas di scarico inceppata in posizione aperta.</tu>
+	<tu xmlns:lang="jpn">EGR バルブが開いたまま固着しています。</tu>
+	<tu xmlns:lang="ptg">Guatemala</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Válvula de recirculação do gás do escapamento travada na posição aberta</tu>
+	<tu
+    xmlns:lang="rus"
+  >Клапан системы рециркуляции отработавших газов заклинен в открытом положении.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La válvula de recirculación de gases de escape está atascada en posición abierta.</tu>
+	<tu xmlns:lang="chs">废气再循环阀卡在打开位置。</tu>
+	<tu xmlns:lang="kor">배기 가스 재순환 밸브가 개방 상태로 고착되었습니다.</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FMH_REAR_FOG_LAMOS">
+	<tu xmlns:lang="eng">Follow me home with rear fog lamps</tu>
+	<tu xmlns:lang="nld">Instapverlichting met achtermistlampen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fonction d'accompagnement avec les feux antibrouillard arrière.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beleuchtungs-Ausschaltverzögerung mit Nebelschlussleuchten</tu>
+	<tu
+    xmlns:lang="ita"
+  >Funzione spegnimento ritardato con fendinebbia posteriori</tu>
+	<tu xmlns:lang="jpn">リア フォグランプ点灯を伴うリンプホーム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Iluminação temporária ao afastar-se do veículo com luzes de nevoeiro traseiras</tu>
+	<tu xmlns:lang="ptb">Follow me home com lanternas traseiras de neblina</tu>
+	<tu xmlns:lang="rus">Задержка выключения задних противотуманных фар</tu>
+	<tu xmlns:lang="esp">Retardo de luces al salir con pilotos antiniebla</tu>
+	<tu xmlns:lang="chs">后雾灯延时熄灭</tu>
+	<tu xmlns:lang="kor">리어 포그 램프를 이용한 에스코트 램프</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Logic1Type_01">
+	<tu xmlns:lang="eng">True</tu>
+	<tu xmlns:lang="nld">Waar</tu>
+	<tu xmlns:lang="fra">Vrai</tu>
+	<tu xmlns:lang="deu">Wahr</tu>
+	<tu xmlns:lang="ita">Vero</tu>
+	<tu xmlns:lang="jpn">正</tu>
+	<tu xmlns:lang="ptg">Verdadeiro</tu>
+	<tu xmlns:lang="ptb">Verdadeiro</tu>
+	<tu xmlns:lang="rus">Верный</tu>
+	<tu xmlns:lang="esp">Verdadero</tu>
+	<tu xmlns:lang="chs">真</tu>
+	<tu xmlns:lang="kor">참</tu>
+</tm>

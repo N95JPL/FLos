@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENGM_TYPE">
+	<tu xmlns:lang="eng">Type</tu>
+	<tu xmlns:lang="nld">Type</tu>
+	<tu xmlns:lang="fra">Type</tu>
+	<tu xmlns:lang="deu">Typ</tu>
+	<tu xmlns:lang="ita">Tipo</tu>
+	<tu xmlns:lang="jpn">タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo</tu>
+	<tu xmlns:lang="ptb">Tipo</tu>
+	<tu xmlns:lang="rus">Тип</tu>
+	<tu xmlns:lang="esp">Tipo</tu>
+	<tu xmlns:lang="chs">类型</tu>
+	<tu xmlns:lang="kor">유형</tu>
+</tm>

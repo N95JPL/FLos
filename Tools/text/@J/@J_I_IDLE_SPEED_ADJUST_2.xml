@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IDLE_SPEED_ADJUST_2">
+	<tu xmlns:lang="eng">The adjustment can be between -20 RPM and 70 RPM.</tu>
+	<tu xmlns:lang="nld">De afstelling kan tussen de -20 en  omw/min liggen.</tu>
+	<tu xmlns:lang="fra">Le réglage peut se faire entre -20 tr/min et  tr/min.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Einstellung kann zwischen -20 U/min und  U/min betragen.</tu>
+	<tu xmlns:lang="ita">La regolazione rientra tra -20 giri/min e  giri/min.</tu>
+	<tu xmlns:lang="jpn">調整は -20 RPM ～ +70 RPM の間で行われます。</tu>
+	<tu xmlns:lang="ptg">A duração da saída para cada canal é de 1 segundo</tu>
+	<tu xmlns:lang="ptb">O ajuste deve estar entre -20 e 70 RPM</tu>
+	<tu
+    xmlns:lang="rus"
+  >Регулировка может выполнятся в диапазоне между -20 об/мин и +70 об/мин.</tu>
+	<tu xmlns:lang="esp">El ajuste puede efectuarse entre -20 rpm y  rpm.</tu>
+	<tu xmlns:lang="chs">调整量可位于 -20 RPM ~ +70 RPM 之间。</tu>
+	<tu xmlns:lang="kor">조정 가능한 범위는 -20~70rpm입니다.</tu>
+</tm>

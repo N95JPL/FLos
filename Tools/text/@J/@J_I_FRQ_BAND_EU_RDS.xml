@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FRQ_BAND_EU_RDS">
+	<tu xmlns:lang="eng">Frequency band and step for EU without RDS</tu>
+	<tu xmlns:lang="nld">Frequentiebereik en -stap voor EU-landen zonder RDS</tu>
+	<tu xmlns:lang="fra">Bande et palier de fréquences pour UE sans RDS</tu>
+	<tu xmlns:lang="deu">Frequenzband und Schritt für EU ohne RDS</tu>
+	<tu xmlns:lang="ita">Banda di frequenza e scalino per l'UE senza RDS</tu>
+	<tu xmlns:lang="jpn">RDS なしの EU 用周波数帯およびステップ</tu>
+	<tu xmlns:lang="ptg">Banda de frequência e incremento para a Europa sem RDS</tu>
+	<tu xmlns:lang="ptb">Banda de frequência e etapa para a UE sem RDS</tu>
+	<tu xmlns:lang="rus">Частотный диапазон и шаг для стран ЕС без RDS</tu>
+	<tu xmlns:lang="esp">Banda e incremento de frecuencia para la UE sin RDS</tu>
+	<tu xmlns:lang="chs">用于欧盟而不含 RDS 的频段与频级</tu>
+	<tu xmlns:lang="kor">EU의 주파수 밴드 및 단계(RDS 제외)</tu>
+</tm>

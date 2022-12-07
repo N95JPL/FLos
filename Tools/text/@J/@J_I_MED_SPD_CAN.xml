@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MED_SPD_CAN">
+	<tu xmlns:lang="eng">Medium speed CAN</tu>
+	<tu xmlns:lang="nld">CAN met mediumsnelheid</tu>
+	<tu xmlns:lang="fra">CAN à vitesse moyenne </tu>
+	<tu xmlns:lang="deu">Mittelgeschwindigkeits-CAN</tu>
+	<tu xmlns:lang="ita">CAN a media velocità</tu>
+	<tu xmlns:lang="jpn">ミディアム スピード CAN</tu>
+	<tu xmlns:lang="ptg">CAN de velocidade média</tu>
+	<tu xmlns:lang="ptb">CAN de média velocidade</tu>
+	<tu xmlns:lang="rus">Среднескоростная CAN</tu>
+	<tu xmlns:lang="esp">CAN de velocidad intermedia</tu>
+	<tu xmlns:lang="chs">中速CAN</tu>
+	<tu xmlns:lang="kor">중속 CAN</tu>
+</tm>

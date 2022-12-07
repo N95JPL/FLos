@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart49">
+	<tu
+    xmlns:lang="eng"
+  >The vehicle load current is too high for the primary battery to be able to support auto stop/start and reliably crank the engine.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De laststroom van de auto is te hoog, zodat de primaire accu automatische Stop/Start niet kan ondersteunen en de motor niet op betrouwbare wijze kan starten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le courant de charge du véhicule est trop élevé pour que la batterie principale puisse supporter l'arrêt/démarrage automatique et démarrer le moteur de façon fiable.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Fahrzeugladestrom ist zu hoch, sodass die Hauptbatterie das Auto-Stopp-Start-System nicht unterstützen und den Motor auch nicht zuverlässig starten kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La corrente di carico del veicolo è troppo alta perché la batteria principale sia in grado di supportare il sistema Stop/Start automatico e garantire l'avviamento in modo affidabile del motore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両の負荷電流がプライマリ バッテリーには高すぎるため、オート ストップ/スタートをサポートして、エンジンを安全にクランキングすることができません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A corrente da carga do veículo é demasiado elevada para que a bateria primária seja capaz de suportar o sistema Stop/Start automático e de proceder ao arranque do motor de forma fiável.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A corrente de carga do veículo está muito alta para a bateria primária para ser capaz de dar suporte ao stop/start automático e dar a partida no motor de maneira confiável.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Высокий ток нагрузки электрической системы автомобиля не позволяет основной аккумуляторной батарее поддерживать работу автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт и надежно запускать двигатель.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La corriente de carga del vehículo es demasiado alta para que la batería principal pueda admitir el sistema Stop/Start automático y arrancar el motor de forma fiable.</tu>
+	<tu
+    xmlns:lang="chs"
+  >车辆负载电流过高，以致主蓄电池无法支持自动停止/启动并可靠地拖转起动发动机。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 부하 전류가 너무 높아 기본 배터리가 자동 Stop/Start를 지원하고 엔진 크랭킹을 안정적으로 수행할 수 없습니다.</tu>
+</tm>

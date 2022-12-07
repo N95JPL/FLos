@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NAS_LMP_FIT">
+	<tu xmlns:lang="eng">North American specification lamps are fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er zijn lampen volgens de Noord-Amerikaanse specificatie geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Feux NAS installés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Leuchten nordamerikanischer Spezifikation (NAS) sind eingebaut.</tu>
+	<tu xmlns:lang="ita">Luci con specifiche America del Nord in dotazione.</tu>
+	<tu xmlns:lang="jpn">北米仕様ランプ装備</tu>
+	<tu xmlns:lang="ptg">Estão montadas luzes de especificação norte-americana.</tu>
+	<tu xmlns:lang="ptb">Lâmpadas de especificação norte-americana instaladas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлены лампы, удовлетворяющие североамериканским нормам.</tu>
+	<tu xmlns:lang="esp">Tiene luces de especificación norteamericana.</tu>
+	<tu xmlns:lang="chs">北美规格灯已安装。</tu>
+	<tu xmlns:lang="kor">북미 사양 램프가 장착되었습니다.</tu>
+</tm>

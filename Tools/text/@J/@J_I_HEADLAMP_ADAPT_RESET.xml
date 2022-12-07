@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEADLAMP_ADAPT_RESET">
+	<tu xmlns:lang="eng">Headlamp adaptive reset</tu>
+	<tu xmlns:lang="nld">Adaptief resetten van koplampen</tu>
+	<tu xmlns:lang="fra">Réinitialiser les phares adaptatifs</tu>
+	<tu xmlns:lang="deu">Adaptives Scheinwerfersystem - Rücksetzung</tu>
+	<tu xmlns:lang="ita">Reimpostazione adattativa fari</tu>
+	<tu xmlns:lang="jpn">ヘッドランプ アダプティブ リセット</tu>
+	<tu xmlns:lang="ptg">Reposição dos faróis adaptativos</tu>
+	<tu xmlns:lang="ptb">Redefinição do farol adaptável</tu>
+	<tu xmlns:lang="rus">Сброс адаптивной коррекции положения фар</tu>
+	<tu xmlns:lang="esp">Restauración de valores de adaptación del faro</tu>
+	<tu xmlns:lang="chs">前照灯自适应复位</tu>
+	<tu xmlns:lang="kor">헤드램프 어댑티브 재설정</tu>
+</tm>

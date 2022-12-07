@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_SELECT_THE_CORRECT_VIN">
+	<tu xmlns:lang="eng">Select the correct VIN</tu>
+	<tu xmlns:lang="nld">Selecteer het correcte VIN</tu>
+	<tu xmlns:lang="fra">Sélectionnez le numéro VIN correct</tu>
+	<tu xmlns:lang="deu">Korrekte VIN auswählen</tu>
+	<tu xmlns:lang="ita">Seleziona il VIN giusto</tu>
+	<tu xmlns:lang="jpn">正しい VIN を選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Seleccionar o NIV correcto</tu>
+	<tu xmlns:lang="ptb">Selecione a VIN correta</tu>
+	<tu xmlns:lang="rus">Выберите правильный VIN-код</tu>
+	<tu xmlns:lang="esp">Seleccionar el VIN correcto</tu>
+	<tu xmlns:lang="chs">选择正确的 VIN</tu>
+	<tu xmlns:lang="kor">올바른 VIN을 선택하십시오.</tu>
+</tm>

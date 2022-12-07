@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIRE_DYN_ROLL_RAD">
+	<tu xmlns:lang="eng">Tire dynamic rolling radius</tu>
+	<tu xmlns:lang="nld">Dynamische rolradius band.</tu>
+	<tu xmlns:lang="fra">Rayon dynamique de pneu</tu>
+	<tu xmlns:lang="deu">Dynamischer Reifen-Abrollradius</tu>
+	<tu xmlns:lang="ita">Raggio rollio dinamico pneumatico</tu>
+	<tu xmlns:lang="jpn">タイヤ ダイナミック ローリング半径</tu>
+	<tu xmlns:lang="ptg">Raio de rolamento dinâmico do pneu</tu>
+	<tu xmlns:lang="ptb">Raio de rolagem dinâmico dos pneus</tu>
+	<tu xmlns:lang="rus">Радиус качения шины под динамической нагрузкой</tu>
+	<tu xmlns:lang="esp">Radio de rodadura dinámico de los neumáticos</tu>
+	<tu xmlns:lang="chs">轮胎动态滚转半径</tu>
+	<tu xmlns:lang="kor">타이어 동적 구름 반경</tu>
+</tm>

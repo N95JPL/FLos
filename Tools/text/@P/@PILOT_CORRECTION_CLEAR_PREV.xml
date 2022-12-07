@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_CLEAR_PREV">
+	<tu
+    xmlns:lang="eng"
+  >This routine is used to clear previously-learned values.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem gebruikt deze routine om eerder ingeleerde waarden te wissen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme permet d'effacer les valeurs apprises précédemment.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine werden zuvor erlernte Werte gelöscht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura viene usata per cancellare i valori appresi precedentemente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは以前学習した数値をクリアするために使用されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina é usada para apagar os valores programados anteriormente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina é utilizada para limpar os valores previamente gravados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция используется для очистки ранее сохраненных значений.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina se utiliza para borrar los valores previamente aprendidos.</tu>
+	<tu xmlns:lang="chs">本常规程序用于给前面记忆的值清零。</tu>
+	<tu xmlns:lang="kor">이 루틴은 이전에 학습한 값을 지우는 데 사용됩니다.</tu>
+</tm>

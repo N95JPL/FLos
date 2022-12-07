@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STOPPED">
+	<tu xmlns:lang="eng">Stopped</tu>
+	<tu xmlns:lang="nld">Gestopt</tu>
+	<tu xmlns:lang="fra">Arrêté</tu>
+	<tu xmlns:lang="deu">Gestoppt</tu>
+	<tu xmlns:lang="ita">Fermato</tu>
+	<tu xmlns:lang="jpn">停止</tu>
+	<tu xmlns:lang="ptg">Parado</tu>
+	<tu xmlns:lang="ptb">Parado</tu>
+	<tu xmlns:lang="rus">Остановлено</tu>
+	<tu xmlns:lang="esp">Parado</tu>
+	<tu xmlns:lang="chs">已停止</tu>
+	<tu xmlns:lang="kor">중지됨</tu>
+</tm>

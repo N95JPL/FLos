@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SecondaryBatteryReqEngRun">
+	<tu xmlns:lang="eng">The secondary battery system requests engine running.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het secundaire accusysteem verzoekt om draaiende motor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le système de batterie secondaire requiert que le moteur soit en marche.</tu>
+	<tu xmlns:lang="deu">Das Sekundärbatteriesystem fordert Motorlauf.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sistema della batteria secondaria richiede il motore in funzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セカンダリ バッテリー システムが作動するためには、エンジンがかかっている必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O sistema da bateria secundária requer o funcionamento do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O sistema da bateria secundária requer o motor em funcionamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для работы системы вспомогательной аккумуляторной батареи двигатель должен работать.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema de la batería auxiliar solicita que el motor esté en marcha.</tu>
+	<tu xmlns:lang="chs">辅助蓄电池系统请求发动机运转。</tu>
+	<tu xmlns:lang="kor">보조 배터리 시스템에서 엔진 작동을 요청합니다.</tu>
+</tm>

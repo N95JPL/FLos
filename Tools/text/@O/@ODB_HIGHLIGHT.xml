@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ODB_HIGHLIGHT">
+	<tu
+    xmlns:lang="eng"
+  >This application will display all the supported on-board diagnostic monitors and their respective status.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing zal alle ondersteunde bewakingssystemen van de boorddiagnose en hun respectievelijke status laten zien.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application affichera tous les contrôleurs de diagnostic embarqués pris en charge et leur état respectif.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung zeigt alle unterstützten On-Board-Diagnosemonitore und deren jeweiligen Status an.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione visualizzerà tutti i monitoraggi diagnostici di bordo supportati e i loro rispettivi stati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションによりサポートされるすべてのオンボード診断モニターおよびそれぞれのステータスが表\示されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação mostra todas as funções de monitorização suportadas do diagnóstico de bordo e respectivo estado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo vai exibir todos os monitores de diagnóstico de bordo suportados e seus respectivos status.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное приложение отображает все поддерживаемое оборудование бортовой диагностической системы и его соответствующее состояние.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación muestra todos los controles de diagnosis de a bordo compatibles y el estado de cada uno.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一应用程序将显示所有受支持的车载诊断监测器以及各自的状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션에서는 지원되는 모든 자기진단장치(on-board diagnostic) 모니터와 그 각각의 상태를 표시합니다.</tu>
+</tm>

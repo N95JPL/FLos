@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CCF_EDIT2">
+	<tu xmlns:lang="eng">Vehicle configuration file display</tu>
+	<tu xmlns:lang="nld">Weergave van voertuigconfiguratiebestand.</tu>
+	<tu xmlns:lang="fra">Affichage du fichier de configuration du véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Konfigurationsdatei anzeigen</tu>
+	<tu xmlns:lang="ita">Visualizzazione file di configurazione veicolo</tu>
+	<tu xmlns:lang="jpn">車両コンフィギュレーション ファイル表\示</tu>
+	<tu xmlns:lang="ptg">Visualização do ficheiro de configuração do veículo
+</tu>
+	<tu xmlns:lang="ptb">Visor do arquivo de configuração do veículo</tu>
+	<tu xmlns:lang="rus">Отображение файла конфигурации автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Visualización del archivo de configuración del vehículo</tu>
+	<tu xmlns:lang="chs">车辆配置文件显示</tu>
+	<tu xmlns:lang="kor">차량 구성 파일 표시</tu>
+</tm>

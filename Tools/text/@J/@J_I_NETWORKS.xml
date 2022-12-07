@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NETWORKS">
+	<tu xmlns:lang="eng">Network.</tu>
+	<tu xmlns:lang="nld">Netwerk</tu>
+	<tu xmlns:lang="fra">Réseau</tu>
+	<tu xmlns:lang="deu">Netzwerk</tu>
+	<tu xmlns:lang="ita">Rete</tu>
+	<tu xmlns:lang="jpn">ネットワーク</tu>
+	<tu xmlns:lang="ptg">Rede.</tu>
+	<tu xmlns:lang="ptb">Rede</tu>
+	<tu xmlns:lang="rus">Сеть.</tu>
+	<tu xmlns:lang="esp">Red</tu>
+	<tu xmlns:lang="chs">网络。</tu>
+	<tu xmlns:lang="kor">네트워크.</tu>
+</tm>

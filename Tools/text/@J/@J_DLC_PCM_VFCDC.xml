@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_PCM_VFCDC">
+	<tu xmlns:lang="eng">Viscous fan control duty cycle.</tu>
+	<tu xmlns:lang="nld">Inschakelduur viscose-ventilatorregeling.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cycle de fonctionnement de commande de ventilateur à viscocoupleur.</tu>
+	<tu xmlns:lang="deu">Arbeitszyklus, Lüfter-Viskokupplung.</tu>
+	<tu xmlns:lang="ita">Ventola a giunto viscoso - ciclo di funzionamento.</tu>
+	<tu xmlns:lang="jpn">ビスカス ファン コントロール デューティサイクル</tu>
+	<tu xmlns:lang="ptg">Ciclo de trabalho do controlo da ventoinha viscosa.</tu>
+	<tu xmlns:lang="ptb">Ciclo de trabalho do controle do ventilador viscoso.</tu>
+	<tu xmlns:lang="rus">Рабочий цикл регулировки вязкостного вентилятора.</tu>
+	<tu xmlns:lang="esp">Ciclo de trabajo de control del ventilador viscoso.</tu>
+	<tu xmlns:lang="chs">硅油风扇控制占空比。</tu>
+	<tu xmlns:lang="kor">비스코스 팬 컨트롤 듀티 사이클</tu>
+</tm>

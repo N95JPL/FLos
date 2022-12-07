@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AUDIO_PLAYER_NA">
+	<tu xmlns:lang="eng">Without audio player</tu>
+	<tu xmlns:lang="nld">Zonder geluidsinstallatie</tu>
+	<tu xmlns:lang="fra">Sans lecteur audio</tu>
+	<tu xmlns:lang="deu">Ohne Audio-Spieler</tu>
+	<tu xmlns:lang="ita">Senza lettore audio</tu>
+	<tu xmlns:lang="jpn">オーディオ プレーヤー非装備</tu>
+	<tu xmlns:lang="ptg">Sem leitor áudio</tu>
+	<tu xmlns:lang="ptb">Sem áudio player</tu>
+	<tu xmlns:lang="rus">Без аудиопроигрывателя</tu>
+	<tu xmlns:lang="esp">Sin reproductor de audio</tu>
+	<tu xmlns:lang="chs">不带音频播放器</tu>
+	<tu xmlns:lang="kor">오디오 플레이어 없음</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@START_BUTTON_HOLD">
+	<tu xmlns:lang="eng">Press and hold the start button.</tu>
+	<tu xmlns:lang="nld">Houd de startknop ingedrukt.</tu>
+	<tu xmlns:lang="fra">Appuyez sur le bouton de démarrage sans relâcher.</tu>
+	<tu xmlns:lang="deu">Startknopf gedrückt halten.</tu>
+	<tu xmlns:lang="ita">Tenere premuto il pulsante di avviamento.</tu>
+	<tu xmlns:lang="jpn">スタート ボタンを押したままにしなさい。</tu>
+	<tu xmlns:lang="ptg">Prima o botão de arranque e mantenha-o premido.</tu>
+	<tu xmlns:lang="ptb">Mantenha o botão de partida pressionado.</tu>
+	<tu xmlns:lang="rus">Нажмите и удерживайте кнопку запуска.</tu>
+	<tu xmlns:lang="esp">Mantener pulsado el botón de arranque.</tu>
+	<tu xmlns:lang="chs">按下并保持按住启动按钮。</tu>
+	<tu xmlns:lang="kor">시동 버튼을 길게 누르십시오.</tu>
+</tm>

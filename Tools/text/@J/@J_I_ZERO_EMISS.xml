@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ZERO_EMISS">
+	<tu xmlns:lang="eng">Partial zero emission vehicle evaporation</tu>
+	<tu xmlns:lang="nld">Gedeeltelijke verdamping van voertuig zonder emissie</tu>
+	<tu xmlns:lang="fra">Evaporation partielle véhicule zéro émission</tu>
+	<tu xmlns:lang="deu">Teilverdampfung, emmissionsloses Fahrzeug</tu>
+	<tu xmlns:lang="ita">Evaporazione veicolo ad emissioni quasi zero </tu>
+	<tu xmlns:lang="jpn">部分的ゼロ エミッション車両のエバポレーション</tu>
+	<tu xmlns:lang="ptg">Evaporação de veículo de emissão parcial zero</tu>
+	<tu xmlns:lang="ptb">Evaporação parcial do veículo de emissões zero</tu>
+	<tu xmlns:lang="rus">Автомобиль с частично нулевыми выбросами</tu>
+	<tu
+    xmlns:lang="esp"
+  >Evaporación en vehículo con sistema de emisiones contaminantes nulas</tu>
+	<tu xmlns:lang="chs">部分零排放车辆蒸发</tu>
+	<tu xmlns:lang="kor">부분 무배출 차량 증발</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_ACM">
+	<tu xmlns:lang="eng">Audio front control module</tu>
+	<tu xmlns:lang="nld">Regelmodule van audioinstallatie voorin</tu>
+	<tu xmlns:lang="fra">Module de commande audio avant</tu>
+	<tu xmlns:lang="deu">Audio-Steuermodul vorne</tu>
+	<tu xmlns:lang="ita">Modulo comando anteriore impianto audio</tu>
+	<tu xmlns:lang="jpn">オーディオ フロント コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de controlo dianteiro do áudio</tu>
+	<tu xmlns:lang="ptb">Módulo de controle de áudio frontal</tu>
+	<tu xmlns:lang="rus">Передний блок управления аудиосистемой</tu>
+	<tu xmlns:lang="esp">Módulo de control del sistema de audio delantero</tu>
+	<tu xmlns:lang="chs">音频前控制模块</tu>
+	<tu xmlns:lang="kor">프론트 오디오 컨트롤 모듈</tu>
+</tm>

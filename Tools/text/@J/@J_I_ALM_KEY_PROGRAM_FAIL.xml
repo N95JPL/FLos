@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_KEY_PROGRAM_FAIL">
+	<tu xmlns:lang="eng">The smart key has failed to program.</tu>
+	<tu xmlns:lang="nld">De smart-key is niet succesvol geprogrammeerd.</tu>
+	<tu xmlns:lang="fra">La clé intelligente n'a pas été programmée.</tu>
+	<tu xmlns:lang="deu">Der Smart Key konnte nicht programmiert werden.</tu>
+	<tu xmlns:lang="ita">La chiave Smart non è stata programmata correttamente.</tu>
+	<tu xmlns:lang="jpn">スマート キーのプログラミングに失敗。</tu>
+	<tu xmlns:lang="ptg">A chave inteligente não programou.</tu>
+	<tu xmlns:lang="ptb">Falha da chave inteligente ao programar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не удалось выполнить программирование электронного ключа.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La llave inteligente no se ha programado correctamente.</tu>
+	<tu xmlns:lang="chs">未能对智能钥匙进行编程设置。</tu>
+	<tu xmlns:lang="kor">스마트 키 프로그래밍에 실패했습니다.</tu>
+</tm>

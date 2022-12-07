@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ALL_PARTS_RESOLVED">
+	<tu xmlns:lang="eng">All parts found in menu tests have been resolved</tu>
+	<tu xmlns:lang="nld">Alle onderdelen gevonden in menutests zijn opgelost</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tous les éléments trouvés dans les tests de menu ont été corrigés.</tu>
+	<tu xmlns:lang="deu">Alle in Menütests gefundenen Teile wurden geklärt</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tutte le parti trovate nelle prove elencate sono state risolte</tu>
+	<tu xmlns:lang="jpn">メニュー テストにある全パーツが特定されました</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todos os componentes incluídos nos testes do menu foram rectificados</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todas as partes encontradas nos testes do menu foram resolvidas</tu>
+	<tu xmlns:lang="rus">Получены все компоненты в меню тестов</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se han corregido todos los componentes encontrados en las pruebas del menú</tu>
+	<tu xmlns:lang="chs">菜单测试中找到的所有零部件已解决</tu>
+	<tu xmlns:lang="kor">메뉴 테스트에서 발견된 모든 부품이 해결되었습니다.</tu>
+</tm>

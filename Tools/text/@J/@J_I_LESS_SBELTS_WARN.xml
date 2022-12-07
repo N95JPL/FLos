@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_SBELTS_WARN">
+	<tu xmlns:lang="eng">Without safety belt warning device</tu>
+	<tu xmlns:lang="nld">Zonder veiligheidsgordelwaarschuwing</tu>
+	<tu xmlns:lang="fra">Sans système d'avertissement de ceinture de sécurité</tu>
+	<tu xmlns:lang="deu">Ohne Sicherheitsgurtwarnung</tu>
+	<tu xmlns:lang="ita">Senza dispositivo avvertenza cintura di sicurezza</tu>
+	<tu xmlns:lang="jpn">シートベルト ワーニング デバイスなし</tu>
+	<tu xmlns:lang="ptg">Sem dispositivo de aviso do cinto de segurança</tu>
+	<tu xmlns:lang="ptb">Sem dispositivo de aviso de cinto de segurança</tu>
+	<tu
+    xmlns:lang="rus"
+  >Без устройства предупреждения о необходимости пристегнуть ремень безопасности</tu>
+	<tu xmlns:lang="esp">Sin dispositivo de aviso de cinturón de seguridad</tu>
+	<tu xmlns:lang="chs">无安全带警告装置</tu>
+	<tu xmlns:lang="kor">안전 벨트 경고 장치 불포함</tu>
+</tm>

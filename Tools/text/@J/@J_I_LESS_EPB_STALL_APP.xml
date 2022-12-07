@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_EPB_STALL_APP">
+	<tu xmlns:lang="eng">Without stall apply</tu>
+	<tu xmlns:lang="nld">Zonder handrem aantrekken bij motor uit</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sans serrage du frein de stationnement lors d'un calage</tu>
+	<tu xmlns:lang="deu">Ohne Anlegen bei Motorstillstand</tu>
+	<tu
+    xmlns:lang="ita"
+  >Senza attivazione freno di stazionamento all'arresto del motore</tu>
+	<tu xmlns:lang="jpn">ストール オンなし</tu>
+	<tu xmlns:lang="ptg">Sem aplicação do travão de mão em paragem do motor</tu>
+	<tu xmlns:lang="ptb">Sem aplicação de parada</tu>
+	<tu
+    xmlns:lang="rus"
+  >Без функции включения стояночного тормоза при выключении двигателя</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sin activar el freno de estacionamiento al calarse el motor</tu>
+	<tu xmlns:lang="chs">无失速实施</tu>
+	<tu xmlns:lang="kor">멈춤 작동 불포함</tu>
+</tm>

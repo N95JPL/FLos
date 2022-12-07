@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_AIR_SUS_MAN_MODE">
+	<tu xmlns:lang="eng">Air suspension manufacturing mode.</tu>
+	<tu xmlns:lang="nld">Fabricagefunctie van luchtvering.</tu>
+	<tu xmlns:lang="fra">Mode fabrication de la suspension pneumatique.</tu>
+	<tu xmlns:lang="deu">Fertigungsmodus Luftfederung.</tu>
+	<tu xmlns:lang="ita">Modalità di produzione sospensione pneumatica.</tu>
+	<tu xmlns:lang="jpn">エア サスペンション メーカー モード</tu>
+	<tu xmlns:lang="ptg">Modo de fabrico da suspensão pneumática.</tu>
+	<tu xmlns:lang="ptb">Modo de fabricação da suspensão a ar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Режим работы пневматической подвески, настроенный изготовителем.</tu>
+	<tu xmlns:lang="esp">Modo de fabricación de la suspensión neumática.</tu>
+	<tu xmlns:lang="chs">空气悬挂制造模式。</tu>
+	<tu xmlns:lang="kor">에어 서스펜션 제조 모드</tu>
+</tm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_COLMEM">
+	<tu xmlns:lang="eng">Is the vehicle fitted with memory column movement?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuig uitgerust met een stuurkolom met geheugen?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule est-il équipé du réglage de colonne à mémoire ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist das Fahrzeug mit Lenksäulen-Positionsspeicher ausgerüstet ?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo è dotato di regolazione del piantone sterzo con memoria?</tu>
+	<tu xmlns:lang="jpn">本車両にメモリ コラム調整は装備されていますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo está equipado com memória do movimento da coluna da direcção?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo está equipado com um movimento da coluna da memória?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Оборудован ли автомобиль системой перемещения рулевой колонки в сохраненное в памяти положение?</tu>
+	<tu xmlns:lang="esp">¿Tiene el coche memoria de movimiento de la columna?</tu>
+	<tu xmlns:lang="chs">车辆上安装存储器列运动了吗？</tu>
+	<tu xmlns:lang="kor">차량에 메모리 칼럼 이동 기능이 탑재되어 있습니까?</tu>
+</tm>

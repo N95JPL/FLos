@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STEP_1_5_COMP_3_SECS">
+	<tu
+    xmlns:lang="eng"
+  >The following steps (1-5) must be completed within 3 seconds or the reset procedure will not start:</tu>
+	<tu
+    xmlns:lang="nld"
+  >U dient de volgende stappen (1 - 5) binnen 3 seconden uit te voeren, anders zal de terugstelprocedure niet starten:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les étapes suivantes (1 à 5) doivent être terminées dans les 3 secondes, sinon la procédure de réinitialisation ne démarrera pas :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die folgenden Schritte (1-5) müssen innerhalb von 3 Sekunden ausgeführt werden, da anderenfalls die Rücksetzungsroutine nicht beginnt:</tu>
+	<tu
+    xmlns:lang="ita"
+  >I passi seguenti (1-5) devono essere eseguiti entro 3 secondi altrimenti la procedura di resettaggio non si avvia:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のステップ (1 ～ 5) を 3 秒以内に完了しないとリセット手順がスタートしません：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As etapas seguintes (1-5) devem ser efectuadas num espaço de 3 segundos, caso contrário o procedimento de reposição não se iniciará:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As etapas a seguir (1-5) devem ser concluídas em 3 segundos ou o procedimento de reinicialização não dá a partida:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующие шаги (1-5) должны быть выполнены в течение 3 секунд, или процедура сброса памяти не начнется.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los siguientes pasos (1-5) deben realizarse en un plazo de 3 segundos, o no se iniciará el procedimiento de restauración:</tu>
+	<tu
+    xmlns:lang="chs"
+  >下列步骤 (1 - 5) 必须在 3 秒钟内完成，否则复位程序将不会启动：</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 단계(1-5)는 3초 내에 완료되어야 하며, 그렇지 않으면 재설정 절차가 시작되지 않습니다.</tu>
+</tm>

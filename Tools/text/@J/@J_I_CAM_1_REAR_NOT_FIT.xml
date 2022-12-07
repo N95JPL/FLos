@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CAM_1_REAR_NOT_FIT">
+	<tu xmlns:lang="eng">Camera 1 (rear) not fitted.</tu>
+	<tu xmlns:lang="nld">Videocamera 1 (achter) niet geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Caméra 1 (arrière) non installée.</tu>
+	<tu xmlns:lang="deu">Kamera 1 (hinten) nicht eingebaut.</tu>
+	<tu xmlns:lang="ita">Telecamera 1 (posteriore) non in dotazione.</tu>
+	<tu xmlns:lang="jpn">カメラ 1 (リア) 非装備</tu>
+	<tu xmlns:lang="ptg">Câmara 1 (traseira) não montada.</tu>
+	<tu xmlns:lang="ptb">Câmera 1 (traseira) não instalada.</tu>
+	<tu xmlns:lang="rus">Камера 1 (сзади) не установлена.</tu>
+	<tu xmlns:lang="esp">No tiene cámara 1 (trasera).</tu>
+	<tu xmlns:lang="chs">照相机1（后部）未安装。</tu>
+	<tu xmlns:lang="kor">카메라 1(리어)이 장착되지 않음</tu>
+</tm>

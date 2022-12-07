@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_ENTER_NUM_KEYS">
+	<tu
+    xmlns:lang="eng"
+  >Enter the total amount of keys you would like to have programmed to the vehicle.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer het totaal aantal sleutels in, dat u op het voertuig wilt laten programmeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Entrez le nombre de clés que vous voulez programmer pour ce véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Gesamtzahl an Schlüsseln eingeben, die dem Fahrzeug einprogrammiert werden sollen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Inserisci l'importo totale delle chiavi che si desidera vengano programmati per il veicolo.</tu>
+	<tu xmlns:lang="jpn">車両にプログラムしたいキーの総数を入力しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Introduzir o número total de chaves que deseja programar para o veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Insira a quantidade total de chaves que você gostaria de ter programada para o veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Введите общее количество ключей, которое вы хотели бы запрограммировать.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Poner la cantitad total de lleves que desea tener programadas para el vehículo</tu>
+	<tu xmlns:lang="chs">输入您想给车辆编程设置的钥匙总数。</tu>
+	<tu xmlns:lang="kor">차량에 프로그래밍하도록 할 키의 총량을 입력하십시오.</tu>
+</tm>

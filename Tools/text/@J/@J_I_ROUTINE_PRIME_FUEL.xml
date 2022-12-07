@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUTINE_PRIME_FUEL">
+	<tu
+    xmlns:lang="eng"
+  >This application will prime the system with fuel.  This routine operates by operating the fuel pump and opening the injectors in turn for a given time period.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing start de toevoer van brandstof door het systeem.  Bij deze procedure wordt de brandstofpomp bediend en worden de injectors om de buurt gedurende een bepaalde tijd geopend.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application amorcera le circuit de carburant.  Ce programme fonctionne en faisant fonctionner la pompe à carburant et en ouvrant les injecteurs tour à tour pendant une durée donnée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung vorbefüllt das System mit Kraftstoff.  Dieser Arbeitsschritt läuft dergestalt ab, dass die Kraftstoffpumpe betätigt wird und die Einspritzventile der Reihe nach für eine gegebene Zeitspanne geöffnet werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quest'applicazione innesca il sistema con carburante.  Questa procedura funzione azionando la pompa di alimentazione e aprendo gli iniettori a turno per un determinato periodo di tempo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションは、フューエル システムのプライミングを行います。  フューエル ポンプを作動させ、インジェクタをある一定時間、順に開くことによって、このルーチンは実施されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação irá encher o sistema com combustível.  Esta rotina funciona accionando a bomba de combustível e abrindo os injectores, à vez, durante um determinado período de tempo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo irá encher o sistema de combustível.  Essa rotina funciona pela operação da bomba de combustível e abrindo os injetores, por sua vez, por um determinado período.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение служит для подкачки топлива в систему.  При выполнении данной процедуры работает топливный насос и открываются форсунки в течение заданного промежутка времени.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación cebará el sistema de combustible.  Esta rutina funciona activando la bomba de combustible y abriendo los inyectores durante un período de tiempo determinado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >本应用程序将给系统提供启动燃油。  通过运行燃油泵并让喷油器喷射一段预设时间来运行本例行程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션은 시스템을 연료로 프라이밍합니다.  이 루틴에서는 연료 펌프를 작동하고 주어진 시간 동안 인젝터를 차례로 엽니다.</tu>
+</tm>

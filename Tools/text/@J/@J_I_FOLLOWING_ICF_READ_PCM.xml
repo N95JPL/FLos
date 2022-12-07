@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FOLLOWING_ICF_READ_PCM">
+	<tu
+    xmlns:lang="eng"
+  >The following injector correction factors were read from the powertrain control module:</tu>
+	<tu
+    xmlns:lang="nld"
+  >De onderstaande correctiefactoren van de injector werden uit de regelmodule van de aandrijflijn gelezen:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les facteurs de correction d'injecteur suivants ont été lus par le module de commande du groupe motopropulseur :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die folgenden Einspritzventil-Korrekturfaktoren wurden aus dem Antriebsstrang-Steuergerät ausgelesen:</tu>
+	<tu
+    xmlns:lang="ita"
+  >I seguenti fattori di correzione iniettori sono stati letti dal modulo di comando catena cinematica:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パワートレーン コントロール モジュールから次のインジェクタ補正要因が読み取られました：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os factores de correcção dos injectores seguintes foram lidos no módulo de comando do grupo motopropulsor:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Os seguintes fatores de correção do injetor foram lidos no módulo de controle de powertrain:</tu>
+	<tu
+    xmlns:lang="rus"
+  >С блока управления силовым агрегатом были считаны следующие коэффициенты форсунки:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los siguientes factores de corrección de los inyectores se obtuvieron del módulo de control del grupo motor y transmisión:</tu>
+	<tu xmlns:lang="chs">下列喷油器修正系数是从动力传动系统控制模块上读取的：</tu>
+	<tu
+    xmlns:lang="kor"
+  >파워트레인 컨트롤 모듈에서 다음 인젝터 보정 계수를 읽었습니다.</tu>
+</tm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HORN_ALARM_CONT">
+	<tu xmlns:lang="eng">Horn sounds continuously when alarm is triggered.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De claxon geeft continu een geluidssignaal wanneer het alarm afgaat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La sirène retentit continuellement quand l'alarme est déclenchée.</tu>
+	<tu xmlns:lang="deu">Hupe ertönt bei Alarmauslösung dauernd.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'avvisatore acustico suona costantemente quando scatta l'allarme</tu>
+	<tu xmlns:lang="jpn">アラームがトリガーされたときホーンが継続的に鳴ります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A buzina soa continuamente quando o alarme é disparado.</tu>
+	<tu xmlns:lang="ptb">A buzina soa continuamente quando o alarme é acionado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Звуковой сигнал работает постоянно при срабатывании сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La bocina suena de forma ininterrumpida cuando se dispara la alarma.</tu>
+	<tu xmlns:lang="chs">报警器触发时，喇叭持续鸣响。</tu>
+	<tu xmlns:lang="kor">알람이 트리거될 때 경음기가 계속 울립니다.</tu>
+</tm>

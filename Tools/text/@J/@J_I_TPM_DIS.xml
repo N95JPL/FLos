@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TPM_DIS">
+	<tu xmlns:lang="eng">Tyre pressure monitoring display (X150 Job1 only)</tu>
+	<tu xmlns:lang="nld">Scherm bandenspanningbewaking (alleen X150 Job1)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Affichage du contrôle de pression des pneus (X150 Job1 seulement)</tu>
+	<tu xmlns:lang="deu">Anzeige Reifendrucküberwachung (nur X150 Job1)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Display monitoraggio pressione pneumatici (solo X150 Job1)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >タイヤ プレッシャ モニタリング ディスプレイ (X150 ジョブ 1 のみ)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ecrã de monitorização da pressão dos pneus (X150 Tarefa 1 apenas)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Exibição do monitoramento da pressão do pneu (X150, apenas tarefa1)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дисплей системы контроля давления в шинах (только для X150  Работа1)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pantalla del sistema de monitorización de la presión de los neumáticos (sólo X150 de inicio de producción)</tu>
+	<tu xmlns:lang="chs">轮胎压力监测显示（仅限 X150 Job1）</tu>
+	<tu xmlns:lang="kor">타이어 공기압 모니터링 디스플레이(X150 작업1만 해당)</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INJECTOR_EOL_LABEL_INCORRECT">
+	<tu
+    xmlns:lang="eng"
+  >Information on this label is no longer correct and could be misleading for other service technicians.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De informatie op dit label is niet meer juist en kan voor andere monteurs misleidend zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les informations sur cette étiquette ne sont plus valables et peuvent induire d'autres techniciens en erreur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Informationen auf diesem Schild sind nicht mehr korrekt und könnten andere Techniker zu einem späteren Zeitpunkt in die Irre führen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le informazioni presenti sull'etichetta non sono più corrette e potrebbero essere fuorvianti per gli altri tecnici di servizio.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このラベルの情報は間違っており、他のサービス テクニシャンの誤解を招くおそれがあります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As informações contidas nesta etiqueta estão desactualizadas e podem induzir outros técnicos em erro.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As informações sobre esta etiqueta não estão mais corretas e podem ser enganosas para outros técnicos de manutenção.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Указанная на бирке информация уже недействительна и может ввести в заблуждение других специалистов по обслуживанию.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los datos de esta etiqueta ya no son correctos y podrían inducir a error por parte de otros técnicos de servicio.</tu>
+	<tu
+    xmlns:lang="chs"
+  >该标签上的信息不再正确，且可能对其他维修技术员产生误导作用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 레이블의 정보는 더 이상 정확하지 않으므로, 다른 서비스 기술자에게 오해를 일으킬 수 있습니다.</tu>
+</tm>

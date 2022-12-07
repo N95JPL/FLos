@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EN_SELFTEST">
+	<tu
+    xmlns:lang="eng"
+  >To enable self-test mode complete the following sequence within 10 seconds:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voor het inschakelen van de zelftestfunctie dient u de onderstaande cyclus binnen 10 seconden uit te voeren:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour activer le mode auto-test, effectuez la séquence suivante dans les 10 secondes :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zur Aktivierung des Selbsttestmodus die folgenden Schritte innerhalb von 10 Sekunden abschließen:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per attivare la modalità di autodiagnosi, completare la seguente sequenza entro 10 secondi:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セルフテスト モードを作動可にするには、次のシーケンスを 10 秒以内に完了します：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para activar o modo de autoteste, concluir a sequência seguinte em 10 segundos:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para habilitar modo de teste automático, complete a sequência a seguir dentro de 10 segundos:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Чтобы включить режим самотестирования, выполните следующую операцию в течение 10 секунд:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Para habilitar el modo de autocomprobación, complete la secuencia siguiente en un plazo de 10 segundos:</tu>
+	<tu xmlns:lang="chs">为启动自检模式，请在10秒钟内完成下列程序：</tu>
+	<tu
+    xmlns:lang="kor"
+  >자체 테스트 모드를 사용하려면 10초 내에 다음 시퀀스를 완료하십시오.</tu>
+</tm>

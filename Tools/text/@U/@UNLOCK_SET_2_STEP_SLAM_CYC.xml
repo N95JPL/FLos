@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@UNLOCK_SET_2_STEP_SLAM_CYC">
+	<tu xmlns:lang="eng">Two step opening with cargo slam lock </tu>
+	<tu
+    xmlns:lang="nld"
+  >Openen in twee stappen met vergrendeling door dichtslaan van het kofferdeksel</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ouverture en deux étapes avec serrure à ressort d'espace de chargement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zweistufiges Öffnen mit Gepäckraum-Zuschlagverriegelung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Apertura in due fasi con bloccaggio vano carico a scatto</tu>
+	<tu xmlns:lang="jpn">カーゴ スラム ロック付きツーステップ オープニング</tu>
+	<tu xmlns:lang="ptg">Abertura em dois passos com trancagem ao bater a porta</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Abertura em duas etapas com trava da porta de carga do tipo bater para fechar  </tu>
+	<tu xmlns:lang="rus">Двухэтапное открытие с английским замком</tu>
+	<tu
+    xmlns:lang="esp"
+  >Apertura en dos pasos con bloqueo de portazo del compartimento de carga</tu>
+	<tu xmlns:lang="chs">带撞击式货舱门锁的两步式开启</tu>
+	<tu xmlns:lang="kor">카고 슬램 록을 사용한 2단계 열림 </tu>
+</tm>

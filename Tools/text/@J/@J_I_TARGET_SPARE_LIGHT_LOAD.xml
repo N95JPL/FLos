@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TARGET_SPARE_LIGHT_LOAD">
+	<tu xmlns:lang="eng">Target spare light load</tu>
+	<tu xmlns:lang="nld">Lichte belasting doel, reserve</tu>
+	<tu xmlns:lang="fra">Cible garde charge légère</tu>
+	<tu xmlns:lang="deu">Sollwert Ersatzrad, leichte Last</tu>
+	<tu xmlns:lang="ita">Target scorta carico leggero</tu>
+	<tu xmlns:lang="jpn">スペア軽負荷目標</tu>
+	<tu xmlns:lang="ptg">Valor alvo - sobresselente, carga leve</tu>
+	<tu xmlns:lang="ptb">Destino sobressalente de carga leve</tu>
+	<tu xmlns:lang="rus">Заданная величина, запасное - малая нагрузка</tu>
+	<tu
+    xmlns:lang="esp"
+  >Valor previsto para el neumático de repuesto - carga ligera</tu>
+	<tu xmlns:lang="chs">目标值 - 备用、轻负荷</tu>
+	<tu xmlns:lang="kor">대상 스페어 경부하</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SM_ELEC_CAL_VDSC">
+	<tu
+    xmlns:lang="eng"
+  >Small electrical parking brake caliper  -  Ventilated disc</tu>
+	<tu
+    xmlns:lang="nld"
+  >Kleine remklauw van elektrische handrem   -  Geventileerde schijf</tu>
+	<tu
+    xmlns:lang="fra"
+  >Petit étrier de frein de stationnement électrique   -  Disque ventilé</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kleiner Bremssattel, elektrisch betätigte Handbremse   -  Belüftete Scheibe</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pinza freno di stazionamento elettrico piccola  -  Disco ventilato</tu>
+	<tu
+    xmlns:lang="jpn"
+  >小型エレクトリック パーキング ブレーキ キャリパ  －  ベンチレーテッド ディスク</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pinça pequena de travão de mão eléctrico  -  Disco ventilado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pinça pequena de freio de estacionamento elétrico  -  Disco ventilado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Малый суппорт электрического стояночного тормоза   -  Вентилируемый диск</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pinza de freno de estacionamiento eléctrico pequeña  -  Disco ventilado</tu>
+	<tu xmlns:lang="chs">小型电动驻车制动钳  -  通风型制动盘</tu>
+	<tu xmlns:lang="kor">소형 전자식 주차 브레이크 캘리퍼  -  환기 디스크</tu>
+</tm>

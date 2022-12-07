@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LOGIN_FAILED">
+	<tu
+    xmlns:lang="eng"
+  >Login failed, please re-enter login details and try again</tu>
+	<tu
+    xmlns:lang="nld"
+  >Aanmelden mislukt, voer aanmeldgegevens nog een keer in en probeer opnieuw</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec de connexion, veuillez entrer à nouveau les coordonnées et réessayer</tu>
+	<tu
+    xmlns:lang="deu"
+  >Login war nicht erfolgreich, bitte Login-Details erneut eingeben und neu versuchen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Login non riuscito, inserire nuovamente i dati per il login e riprovare</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ログインに失敗しました。ログイン詳細をもう一度入力し、再試行しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Login falhou; por favor, volte a introduzir os dados de login e tente novamente</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha de login, digite os detalhes de login e tente novamente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вход в систему не выполнен, снова введите данные для входа и попробуйте еще раз</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha podido acceder al sistema. Vuelva a escribir los datos de acceso al sistema e inténtelo de nuevo</tu>
+	<tu xmlns:lang="chs">登录失败，请重新输入登录详细信息并重试</tu>
+	<tu
+    xmlns:lang="kor"
+  >로그인에 실패했습니다. 로그인 세부 정보를 다시 입력하고 다시 시도하십시오.</tu>
+</tm>

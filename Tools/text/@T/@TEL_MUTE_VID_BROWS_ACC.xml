@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TEL_MUTE_VID_BROWS_ACC">
+	<tu
+    xmlns:lang="eng"
+  >Telephone mute and video function including browser  -  Accessory only</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onderdrukkingsfunctie van telefoon en video, inclusief browser  -  Alleen accessoire</tu>
+	<tu
+    xmlns:lang="fra"
+  >Fonction assourdissement et vidéo du téléphone avec navigateur  -  Accessoire uniquement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Telefon-Stummschaltungs- und Videofunktion einschließlich Browser  -  Nur Zubehör</tu>
+	<tu
+    xmlns:lang="ita"
+  >Funzione video ed esclusione audio telefono, incluso browser  -  Solo accessori</tu>
+	<tu
+    xmlns:lang="jpn"
+  >電話ミュートおよびブラウザを含むビデオ機能\  －  アクセサリのみ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Silenciamento do telefone e função de vídeo incluindo browser  -  Apenas acessório</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Telefone mudo e função de vídeo, incluindo navegador  -  Apenas acessórios</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выключение звука телефона и функция видеосистемы, включая просмотр  -  Только для вспомогательного оборудования</tu>
+	<tu
+    xmlns:lang="esp"
+  >Función de silenciamiento del teléfono y vídeo con explorador  -  Sólo accesorio</tu>
+	<tu xmlns:lang="chs">电话静音和视频功能（含浏览器）  -  仅限附件</tu>
+	<tu
+    xmlns:lang="kor"
+  >브라우저 포함 전화 음소거 및 비디오 기능  -  액세서리만 해당</tu>
+</tm>

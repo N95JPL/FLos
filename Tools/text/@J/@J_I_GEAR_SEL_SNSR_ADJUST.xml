@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GEAR_SEL_SNSR_ADJUST">
+	<tu xmlns:lang="eng">Gear selector sensor adjustment</tu>
+	<tu xmlns:lang="nld">Afstellen van sensor van transmissiehendel</tu>
+	<tu xmlns:lang="fra">Réglage du capteur du sélecteur de vitesse</tu>
+	<tu xmlns:lang="deu">Wählhebel-Stellungssensor - Einstellung</tu>
+	<tu xmlns:lang="ita">Regolazione del sensore selettore cambio</tu>
+	<tu xmlns:lang="jpn">ギア セレクター センサー調整</tu>
+	<tu xmlns:lang="ptg">Regulação do sensor da alavanca selectora</tu>
+	<tu xmlns:lang="ptb">Ajuste do sensor do seletor de marchas</tu>
+	<tu xmlns:lang="rus">Регулировка датчика селектора передач</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ajuste del sensor de la palanca selectora de la caja de cambios</tu>
+	<tu xmlns:lang="chs">换档杆传感器调节</tu>
+	<tu xmlns:lang="kor">기어 레버 센서 조정</tu>
+</tm>

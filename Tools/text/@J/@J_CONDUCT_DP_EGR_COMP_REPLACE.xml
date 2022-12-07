@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CONDUCT_DP_EGR_COMP_REPLACE">
+	<tu
+    xmlns:lang="eng"
+  >This function should only be conducted when either a diesel particulate or exhaust gas recirculation related component is replaced.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U mag deze functie alleen uitvoeren wanneer u een onderdeel van het dieseldeeltjesfilter of de uitlaatgasrecirculatie verwisselt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette fonction ne doit être exécutée que si un composant en relation avec les particules diesel ou le recyclage des gaz d'échappement a été remplacé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Verfahren nur durchführen, ein Bauteil ausgetauscht wird, das mit dem Dieselrußfilter oder der Abgasrückführung im Zusammenhang steht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa funzione deve essere eseguita soltanto quando viene sostituito un componente relativo al ricircolo dei gas di scarico o al particolato diesel.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この機能\は、ディーゼル微粒子または EGR 関連のコンポーネントが交換されたときにのみ行いなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta função deve apenas ser levada a cabo quando se substitui um componente relacionado com o filtro de partículas do Diesel ou com a recirculação dos gases de escape.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esta função só deve ser realizada quando qualquer uma partículas de diesel ou recirculação de gás de escape relacionadas com componentes for substituída.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эту функцию следует применять только в случае замены компонента, связанного с противосажевым фильтром или системой рециркуляции отработавших газов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta función solo se debe llevar a cabo al sustituirse un componente asociado con el filtro de partículas Diesel o con la recirculación de los gases de escape.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一功能只应在更换了柴油微粒或废气再循环相关部件时才加以执行。</tu>
+	<tu
+    xmlns:lang="kor"
+  >디젤 미립자 또는 배기 가스 재순환 관련 구성 요소 교체 시에만 이 기능을 수행해야 합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SPEEDO_CALIBRATION_JAGUAR">
+	<tu xmlns:lang="eng">Jaguar speedometer calibration</tu>
+	<tu xmlns:lang="nld">Kalibrering van Jaguar-snelheidsmeter.</tu>
+	<tu xmlns:lang="fra">Etalonnage du compteur de vitesse Jaguar.</tu>
+	<tu xmlns:lang="deu">Jaguar Tachometerkalibrierung</tu>
+	<tu xmlns:lang="ita">Taratura tachimetro Jaguar</tu>
+	<tu xmlns:lang="jpn">Jaguar スピードメータ較正</tu>
+	<tu xmlns:lang="ptg">Calibragem do velocímetro Jaguar</tu>
+	<tu xmlns:lang="ptb">Calibração do velocímetro Jaguar</tu>
+	<tu xmlns:lang="rus">Калибровка спидометра Jaguar</tu>
+	<tu xmlns:lang="esp">Calibración del velocímetro Jaguar</tu>
+	<tu xmlns:lang="chs">Jaguar速度表标定</tu>
+	<tu xmlns:lang="kor">Jaguar 속도계 보정</tu>
+</tm>

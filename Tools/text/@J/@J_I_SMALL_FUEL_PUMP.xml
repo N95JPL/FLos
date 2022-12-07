@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SMALL_FUEL_PUMP">
+	<tu xmlns:lang="eng">Small fuel pump for 'clean' markets</tu>
+	<tu xmlns:lang="nld">Kleine brandstofpomp voor 'schone' markten</tu>
+	<tu xmlns:lang="fra">Petite pompe à carburant pour marchés 'verts'</tu>
+	<tu xmlns:lang="deu">Kleine Kraftstoffpumpe für 'saubere' Märkte</tu>
+	<tu xmlns:lang="ita">Pompa carburante piccola per mercati 'puliti'</tu>
+	<tu xmlns:lang="jpn">「クリーン」市場向け小型フューエル ポンプ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Bomba de combustível de pequenas dimensões para mercados 'limpos'</tu>
+	<tu xmlns:lang="ptb">Bomba de combustível pequena para mercados limpos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Топливный насос малой производительности для 'чистых' рынков</tu>
+	<tu xmlns:lang="esp">Bomba de combustible pequeña para mercados 'limpios'</tu>
+	<tu xmlns:lang="chs">针对‘清洁’市场的小型燃油泵</tu>
+	<tu xmlns:lang="kor">'청정' 시장용 소형 연료 펌프</tu>
+</tm>

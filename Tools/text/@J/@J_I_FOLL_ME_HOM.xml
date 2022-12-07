@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FOLL_ME_HOM">
+	<tu xmlns:lang="eng">Follow me home</tu>
+	<tu xmlns:lang="nld">Instapverlichting</tu>
+	<tu xmlns:lang="fra">Fonction d'accompagnement</tu>
+	<tu xmlns:lang="deu">Beleuchtungs-Ausschaltverzögerung</tu>
+	<tu xmlns:lang="ita">Modalità 'accodamento'</tu>
+	<tu xmlns:lang="jpn">リンプホーム</tu>
+	<tu xmlns:lang="ptg">Iluminação temporária ao afastar-se do veículo</tu>
+	<tu xmlns:lang="ptb">Follow me home</tu>
+	<tu xmlns:lang="rus">Задержка выключения фар после выхода из автомобиля</tu>
+	<tu xmlns:lang="esp">Retardo de luces al salir</tu>
+	<tu xmlns:lang="chs">延时熄灭</tu>
+	<tu xmlns:lang="kor">팔로 미 홈</tu>
+</tm>

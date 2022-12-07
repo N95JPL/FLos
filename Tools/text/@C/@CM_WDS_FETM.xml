@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_WDS_FETM">
+	<tu xmlns:lang="eng">Audio unit.</tu>
+	<tu xmlns:lang="nld">Geluidssysteem</tu>
+	<tu xmlns:lang="fra">Groupe audio</tu>
+	<tu xmlns:lang="deu">Audioeinheit</tu>
+	<tu xmlns:lang="ita">Unitè audio</tu>
+	<tu xmlns:lang="jpn">オーディオ ユニット</tu>
+	<tu xmlns:lang="ptg">Unidade áudio.</tu>
+	<tu xmlns:lang="ptb">Unidade de áudio.</tu>
+	<tu xmlns:lang="rus">Аудиосистема.</tu>
+	<tu xmlns:lang="esp">Unidad de audio</tu>
+	<tu xmlns:lang="chs">音频单元。</tu>
+	<tu xmlns:lang="kor">오디오 유닛</tu>
+</tm>

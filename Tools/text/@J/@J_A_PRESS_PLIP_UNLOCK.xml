@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PRESS_PLIP_UNLOCK">
+	<tu
+    xmlns:lang="eng"
+  >Press the unlock button on the plip to initialise the volumetric sensor test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op de ontgrendeltoets op de afstandsbediening om de test van de volumetrische sensor te starten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur le bouton de déverrouillage de la télécommande pour initialiser le test du capteur volumétrique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fernbedienungstaste Entriegeln drücken, um den Test des Innenraumüberwachungs-Sensors aufzurufen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il pulsante di sbloccaggio del telecomando per inizializzare la prova del sensore volumetrico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プリップのアンロック ボタンを押してボリメトリック センサー テストを開始しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Premir o botão de destrancagem no plip (comando à distância da altura do engate de reboque) para inicializar o teste do sensor volumétrico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione o botão de destravamento no flip para inicializar o teste do sensor volumétrico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите кнопку открывания на пульте, чтобы включить проверку объемного датчика.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de desbloqueo del mando a distancia para iniciar la prueba del sensor volumétrico.</tu>
+	<tu xmlns:lang="chs">按手持遥控器上的解锁按钮，初始化容积传感器测试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >플립의 잠금 해제 버튼을 눌러 형체 감지 센서 테스트를 초기화하십시오.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NewModuleMes2$I">
+	<tu
+    xmlns:lang="eng"
+  >The operation will permanently link together the electronic diesel control module and the immobilization control module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De bewerking zal de elektronische dieselregelmodule en regelmodule van startblokkering permanent met elkaar verbinden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'opération va établir une liaison permanente entre le module de commande diesel électronique et le module de commande antidémarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Vorgang stellt die permanente Verbindung von Dieselmotor-Steuergerät und Wegfahrsperren-Steuergerät her.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'operazione collegherà in modo permanente il modulo di comando diesel elettronico e il modulo di comando immobilizzazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このオペレーションは、エレクトロニック ディーゼル コントロール モジュールおよびイモビライゼーション コントロール モジュールを恒久的にリンクします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A operação ligará de forma permanente o módulo electrónico de controlo do sistema diesel e o módulo de controlo do sistema de imobilização.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A operação será permanentemente conectada com o módulo de controle eletrônico de diesel e com o módulo de controle de imobilização.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В результате выполнения данной операции будет установлена постоянная связь между электронным блоком управления дизельным двигателем и блоком управления иммобилайзером.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La operación vinculará entre sí y de modo permanente el módulo de control electrónico Diesel y el módulo de control de inmovilización.</tu>
+	<tu
+    xmlns:lang="chs"
+  >该操作将永久地把柴油电子控制模块和防盗锁止控制模块链接在一起。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 작업을 통해 전자식 디젤 컨트롤 모듈과 이모빌라이제이션 컨트롤 모듈이 영구적으로 연결됩니다.</tu>
+</tm>

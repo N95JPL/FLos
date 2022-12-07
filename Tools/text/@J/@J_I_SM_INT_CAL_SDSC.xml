@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SM_INT_CAL_SDSC">
+	<tu xmlns:lang="eng">Small integrated brake caliper  -  Solid disc</tu>
+	<tu xmlns:lang="nld">Kleine geïntegreerde remklauw   -  Massieve schijf</tu>
+	<tu xmlns:lang="fra">Petit étrier de frein intégré   -  Disque plein</tu>
+	<tu xmlns:lang="deu">Kleiner integrierter Bremssattel   -  Massivscheibe</tu>
+	<tu xmlns:lang="ita">Pinza freno integrata piccola  -  Disco pieno</tu>
+	<tu
+    xmlns:lang="jpn"
+  >小型インテグレート ブレーキ キャリパ  －  ソ\リッド ディスク</tu>
+	<tu xmlns:lang="ptg">Pinça pequena de travão integrado  -  Disco maciço</tu>
+	<tu xmlns:lang="ptb">Pinça de freio pequena integrada  -  Disco sólido</tu>
+	<tu
+    xmlns:lang="rus"
+  >Малый встроенный суппорт тормоза   -  Не вентилируемый диск</tu>
+	<tu xmlns:lang="esp">Pinza de freno integrada pequeña  -  Disco macizo</tu>
+	<tu xmlns:lang="chs">小型集成制动器制动钳  -  实心制动盘</tu>
+	<tu xmlns:lang="kor">소형 통합 브레이크 캘리퍼  -  솔리드 디스크</tu>
+</tm>

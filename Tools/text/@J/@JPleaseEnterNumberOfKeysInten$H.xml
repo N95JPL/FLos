@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JPleaseEnterNumberOfKeysInten$H">
+	<tu
+    xmlns:lang="eng"
+  >Please enter the number of keys you intend to program and have them ready.</tu>
+	<tu xmlns:lang="nld">Voer s.v.p. het aantal te programmeren
+sleutels in en houd ze klaar.</tu>
+	<tu xmlns:lang="fra">Veuillez entrer le nombre de clés que
+vous souhaitez programmer et les tenir prêtes</tu>
+	<tu xmlns:lang="deu">Geben Sie bitte die Anzahl der zu programmierenden
+Schlüssel ein und halten Sie diese bereit.</tu>
+	<tu xmlns:lang="ita">Si prega d'inserire il numero di chiavi
+che si vuole programmare e di tenerle pronte</tu>
+	<tu
+    xmlns:lang="jpn"
+  >あなたがﾌﾟﾛｸﾞﾗﾑしたいﾊﾝﾄﾞｾｯﾄをとりそろえて、その数を入力しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Introduzir o número de chaves que pretende programar e tê-las prontas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Informe o número de chaves que pretende programar e deixe-as preparadas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Введите число ключей, которое необходимо запрограммировать, и приготовьте их.</tu>
+	<tu xmlns:lang="esp">Por favor introduzca el número de llaves
+que Vd. intenta programar y téngalas programadas</tu>
+	<tu xmlns:lang="chs">请输入您准备编程的钥匙数量，并将其准备好。</tu>
+	<tu xmlns:lang="kor">프로그래밍하려는 키의 수를 입력하고 키를 준비하십시오.</tu>
+</tm>

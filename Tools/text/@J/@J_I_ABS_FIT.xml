@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABS_FIT">
+	<tu xmlns:lang="eng">ABS is fitted.</tu>
+	<tu xmlns:lang="nld">ABS is gemonteerd.</tu>
+	<tu xmlns:lang="fra">ABS installé.</tu>
+	<tu xmlns:lang="deu">ABS ist eingebaut.</tu>
+	<tu xmlns:lang="ita">ABS in dotazione.</tu>
+	<tu xmlns:lang="jpn">ABS 装備</tu>
+	<tu xmlns:lang="ptg">ABS, caso exista.</tu>
+	<tu xmlns:lang="ptb">ABS instalado.</tu>
+	<tu xmlns:lang="rus">Установлена система ABS.</tu>
+	<tu xmlns:lang="esp">Tiene ABS.</tu>
+	<tu xmlns:lang="chs">安装了ABS。</tu>
+	<tu xmlns:lang="kor">ABS가 장착되었습니다.</tu>
+</tm>

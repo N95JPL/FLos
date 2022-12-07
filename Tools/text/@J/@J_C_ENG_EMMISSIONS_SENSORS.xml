@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ENG_EMMISSIONS_SENSORS">
+	<tu xmlns:lang="eng">Engine emission sensors</tu>
+	<tu xmlns:lang="nld">Sensors van de motoremissie</tu>
+	<tu xmlns:lang="fra">Capteurs d'émissions du moteur</tu>
+	<tu xmlns:lang="deu">Sensoren - Abgasregelung</tu>
+	<tu xmlns:lang="ita">Sensori emissioni motore</tu>
+	<tu xmlns:lang="jpn">エンジン エミッション センサ</tu>
+	<tu xmlns:lang="ptg">Sensores de emissões do motor</tu>
+	<tu xmlns:lang="ptb">Sensores de emissão do motor</tu>
+	<tu xmlns:lang="rus">Датчики отработавших газов в двигателе</tu>
+	<tu xmlns:lang="esp">Sensores de emisiones del motor</tu>
+	<tu xmlns:lang="chs">发动机排放传感器</tu>
+	<tu xmlns:lang="kor">엔진 배기 센서</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RunningDiagRoutine_I">
+	<tu xmlns:lang="eng">Running diagnostic routine.</tu>
+	<tu xmlns:lang="nld">Diagnoseroutine wordt uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Programme de diagnostic en cours d'exécution.</tu>
+	<tu xmlns:lang="deu">Diagnoseroutine wird abgearbeitet.</tu>
+	<tu xmlns:lang="ita">Esecuzione in corso di procedura diagnostica.</tu>
+	<tu xmlns:lang="jpn">診断ルーチン実行中</tu>
+	<tu xmlns:lang="ptg">A correr rotina de diagnóstico.</tu>
+	<tu xmlns:lang="ptb">Executar rotina de diagnóstico.</tu>
+	<tu xmlns:lang="rus">Выполняется программа диагностики.</tu>
+	<tu xmlns:lang="esp">Ejecutando rutina de diagnosis.</tu>
+	<tu xmlns:lang="chs">诊断常规程序的运行。</tu>
+	<tu xmlns:lang="kor">진단 절차를 실행 중입니다.</tu>
+</tm>

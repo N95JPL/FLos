@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MPG_USA">
+	<tu xmlns:lang="eng">Miles/gallon (USA)</tu>
+	<tu xmlns:lang="nld">Mijl/gallon (VS)</tu>
+	<tu xmlns:lang="fra">Miles/gallon (USA)</tu>
+	<tu xmlns:lang="deu">Meilen/Gallonen (USA)</tu>
+	<tu xmlns:lang="ita">Miglia/galloni (USA)</tu>
+	<tu xmlns:lang="jpn">マイル／ガロン (米国)</tu>
+	<tu xmlns:lang="ptg">Milhas/galão (EUA)</tu>
+	<tu xmlns:lang="ptb">Milhas/galão (EUA)</tu>
+	<tu xmlns:lang="rus">Мили/галлоны (США)</tu>
+	<tu xmlns:lang="esp">Millas/galón (EE. UU.)</tu>
+	<tu xmlns:lang="chs">英里/加仑（美国）</tu>
+	<tu xmlns:lang="kor">마일/갤런(미국)</tu>
+</tm>

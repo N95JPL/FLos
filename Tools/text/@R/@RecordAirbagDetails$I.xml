@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RecordAirbagDetails$I">
+	<tu
+    xmlns:lang="eng"
+  >Please record the air bag control unit identification and configuration details on the following screen.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Noteer a.u.b. de gegevens over de identificatie en configuratie van de airbagregelmodule op het volgende scherm.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez consigner l'identification du module de commande d'airbag et les détails de configuration dans l'écran suivant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte auf dem folgenden Bildschirm die Identifikation und Konfigurationsdetails des Airbag-Steuergeräts eingeben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Registrare i dettagli della configurazione e dell'identificazione dell'unità di comando airbag nella schermata seguente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の画面のエアバッグ コントロール ユニット ID およびコンフィギュレーション詳細を記録しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Registe os dados de configuração e identificação da unidade de controlo dos airbags no ecrã que se segue.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Registre os detalhes de identificação e configuração da unidade de controle do airbag na tela a seguir.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запишите сведения об идентификации и конфигурации блока управления подушками безопасности на следующем экране.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Escribir en la pantalla siguiente los datos de configuración e identificación del módulo de control de los airbags.</tu>
+	<tu xmlns:lang="chs">请在下列屏幕上记录安全气囊控制单元标识和配置细节。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 화면에 에어백 컨트롤 유닛 식별 정보와 구성 세부 사항을 기록하십시오.</tu>
+</tm>

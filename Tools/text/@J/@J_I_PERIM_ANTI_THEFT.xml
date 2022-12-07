@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PERIM_ANTI_THEFT">
+	<tu xmlns:lang="eng">Perimeter anti-theft</tu>
+	<tu xmlns:lang="nld">Anti-diefstal, buitenomtrek</tu>
+	<tu xmlns:lang="fra">Antivol périmétrique</tu>
+	<tu xmlns:lang="deu">Diebstahlschutz mit Perimeterüberwachung</tu>
+	<tu xmlns:lang="ita">Antifurto perimetrale</tu>
+	<tu xmlns:lang="jpn">周辺防犯</tu>
+	<tu xmlns:lang="ptg">Perímetro anti-roubo</tu>
+	<tu xmlns:lang="ptb">Antifurto do perímetro</tu>
+	<tu xmlns:lang="rus">Функция охраны периметра</tu>
+	<tu xmlns:lang="esp">Antirrobo perimétrico</tu>
+	<tu xmlns:lang="chs">周边防盗</tu>
+	<tu xmlns:lang="kor">주변 도난 방지</tu>
+</tm>

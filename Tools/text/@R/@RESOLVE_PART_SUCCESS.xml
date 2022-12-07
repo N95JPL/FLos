@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RESOLVE_PART_SUCCESS">
+	<tu xmlns:lang="eng">Successfully resolved part</tu>
+	<tu xmlns:lang="nld">Onderdeel met succes opgelost</tu>
+	<tu xmlns:lang="fra">Elément corrigé avec succès</tu>
+	<tu xmlns:lang="deu">Teil erfolgreich geklärt</tu>
+	<tu xmlns:lang="ita">Parte risolta correttamente</tu>
+	<tu xmlns:lang="jpn">特定が完了したパーツ</tu>
+	<tu xmlns:lang="ptg">Componente rectificado com êxito</tu>
+	<tu xmlns:lang="ptb">Parte resolvida com êxito</tu>
+	<tu xmlns:lang="rus">Компонент успешно получен</tu>
+	<tu xmlns:lang="esp">Componente corregido correctamente</tu>
+	<tu xmlns:lang="chs">已成功解决零部件</tu>
+	<tu xmlns:lang="kor">성공적으로 해결된 부품</tu>
+</tm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SUCCESS_PROG_MORE_PLIPS">
+	<tu xmlns:lang="eng">When successful, program further plips.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als dit geslaagd is, programmeert u nog meer afstandsbedieningen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si correctement effectué, programmez les autres télécommandes.</tu>
+	<tu xmlns:lang="deu">Bei Erfolg weitere Fernbedienungen programmieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta eseguito correttamente, programmare altri telecomandi.</tu>
+	<tu xmlns:lang="jpn">正常に完了したのち、次のプリップをプログラムしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando é bem sucedido, programar outros 'plips' (comando à distância da altura do engate de reboque).</tu>
+	<tu xmlns:lang="ptb">Quando for bem-sucedida, programar mais plips.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В случае успешного сохранения продолжайте программирование</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez terminado satisfactoriamente, programar más mandos a distancia.</tu>
+	<tu xmlns:lang="chs">成功后，编程设置其它手持遥控器。</tu>
+	<tu xmlns:lang="kor">이에 성공하면 추가 플립을 프로그래밍하십시오.</tu>
+</tm>

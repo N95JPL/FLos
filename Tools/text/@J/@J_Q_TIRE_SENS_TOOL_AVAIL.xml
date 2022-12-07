@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_TIRE_SENS_TOOL_AVAIL">
+	<tu
+    xmlns:lang="eng"
+  >Is a sensor identification number read tool available or are all wheel identification numbers known?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is er een leesgereedschap voor sensoridentificatie beschikbaar of zijn alle wielidentifcatienummers bekend?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un outil de lecture de numéro d'identification des capteurs est-il disponible, ou tous les numéros d'identification des roues sont-ils connus ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Steht ein Auslesewerkzeug für die Sensor-Identifizierungsnummer zur Verfügung oder sind die Identifizierungsnummern aller Räder bekannt?</tu>
+	<tu
+    xmlns:lang="ita"
+  >È disponibile uno strumento di lettura identificativi o sono noti tutti i numeri di identificazione delle ruote?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >センサー ID ナンバー読み取りツールが利用可能\ですか、あるいは全ホイールの ID ナンバーが判明していますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Está disponível uma ferramenta de leitura do número de identificação dos sensores ou todos os números de identificação das rodas são conhecidos?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma ferramenta de leitura do número de identificação do está disponível ou todos os das números de identificação rodas são conhecidos?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Имеется ли инструмент для считывания идентификационных номером датчиков или идентификационные номера колес известны?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Está disponible una herramienta de lectura de números de identificación de sensores o se conocen los números de identificación de todas las ruedas?</tu>
+	<tu
+    xmlns:lang="chs"
+  >是否有传感器标识号码读取工具可用，或者是否知道所有车轮标识号码？</tu>
+	<tu
+    xmlns:lang="kor"
+  >센서 식별 번호 읽기 도구를 사용할 수 있거나 모든 휠 식별 번호가 알려져 있습니까?</tu>
+</tm>

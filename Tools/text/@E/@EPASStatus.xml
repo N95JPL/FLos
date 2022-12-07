@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EPASStatus">
+	<tu xmlns:lang="eng">Electric power steering status</tu>
+	<tu xmlns:lang="nld">Status van elektrische stuurbekrachtiging</tu>
+	<tu xmlns:lang="fra">État de la direction assistée électrique</tu>
+	<tu xmlns:lang="deu">Elektrische Servolenkung – Status</tu>
+	<tu xmlns:lang="ita">Stato del servosterzo</tu>
+	<tu xmlns:lang="jpn">電動パワー ステアリングのステータス</tu>
+	<tu xmlns:lang="ptg">Estado da direção assistida elétrica</tu>
+	<tu xmlns:lang="ptb">Status da direção assistida elétrica</tu>
+	<tu xmlns:lang="rus">Состояние электрического усилителя рулевого управления</tu>
+	<tu xmlns:lang="esp">Estado de la dirección asistida eléctrica</tu>
+	<tu xmlns:lang="chs">电子动力转向状态</tu>
+	<tu xmlns:lang="kor">전자식 파워 스티어링 상태</tu>
+</tm>

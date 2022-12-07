@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_58">
+	<tu xmlns:lang="eng">0x58 : Failed due to excessive correction values.</tu>
+	<tu xmlns:lang="nld">0x58 : inleren afgesloten vanwege te hoge correctiewaarden.</tu>
+	<tu xmlns:lang="fra">0x58 : Echec à cause de valeurs de correction excessives.</tu>
+	<tu xmlns:lang="deu">0x58 : Versagen aufgrund überhoher Korrekturwerte.</tu>
+	<tu xmlns:lang="ita">0x58 : Fallito a causa di valori di correzione eccessivi.</tu>
+	<tu xmlns:lang="jpn">0x58 : 過度の補正数値のため失敗。</tu>
+	<tu xmlns:lang="ptg">0x58 : Falhou devido a valores de correcção excessivos.</tu>
+	<tu xmlns:lang="ptb">0X58 : Falha devido aos valores excessivos de correção.</tu>
+	<tu xmlns:lang="rus">0x58 : Сбой из-за чрезмерных значений корректировки.</tu>
+	<tu xmlns:lang="esp">0x58: Falló por ser excesivos los valores de corrección.</tu>
+	<tu xmlns:lang="chs">0x58： 由于校正值过大而运行失败。</tu>
+	<tu xmlns:lang="kor">0x58 : 과도한 보정 값 때문에 실패했습니다.</tu>
+</tm>

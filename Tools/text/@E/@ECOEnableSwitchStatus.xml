@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECOEnableSwitchStatus">
+	<tu xmlns:lang="eng">ECO/auto stop/start switch enable status</tu>
+	<tu
+    xmlns:lang="nld"
+  >Status inschakeling van schakelaar ECO/automatische Stop/Start</tu>
+	<tu
+    xmlns:lang="fra"
+  >État d'activation du commutateur ECO/Arrêt/Démarrage auto</tu>
+	<tu xmlns:lang="deu">Aktivierungsstatus ECO-/Auto-Stopp-Start-Schalter</tu>
+	<tu
+    xmlns:lang="ita"
+  >Stato di attivazione interruttore Stop/Start automatico</tu>
+	<tu xmlns:lang="jpn">ECO/自動ストップ/スタート スイッチ有効ステータス</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Estado de ativação do interruptor ECO / Stop/Start automático</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Status de ativação do interruptor de stop/start automático/ECO</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние переключателя ECO/автоматической системы стоп/старт</tu>
+	<tu
+    xmlns:lang="esp"
+  >Estado de activación del interruptor Stop/Start automático/ECO</tu>
+	<tu xmlns:lang="chs">ECO/自动停止/启动开关启用状态</tu>
+	<tu xmlns:lang="kor">ECO/자동 Stop/Start 스위치 활성화 상태</tu>
+</tm>

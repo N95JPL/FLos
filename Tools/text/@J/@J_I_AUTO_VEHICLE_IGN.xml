@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUTO_VEHICLE_IGN">
+	<tu
+    xmlns:lang="eng"
+  >The following application will automatically control the vehicle ignition.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De nu volgende toepassing zal het voertuigcontact automatisch regelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'application suivante va automatiquement commander l'allumage du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das folgende Anwendungsprogramm steuert automatisch die Fahrzeugzündung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'applicazione seguente controllerà automaticamente l'accensione del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のアプリケーションは車両イグニションを自動的にコントロールします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A aplicação seguinte controlará automaticamente a ignição do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O seguinte aplicativo controlará automaticamente a ignição do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующее приложение автоматически управляет зажиганием автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La siguiente aplicación controlará automáticamente el encendido del vehículo.</tu>
+	<tu xmlns:lang="chs">下列应用程序将自动控制车辆点火。</tu>
+	<tu xmlns:lang="kor">다음 애플리케이션이 차량 점화를 자동으로 제어합니다.</tu>
+</tm>

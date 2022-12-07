@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FUEL_LIFT_PUMP_RESET_DONE">
+	<tu xmlns:lang="eng">The protection mode of the fuel lift pump is reset</tu>
+	<tu
+    xmlns:lang="nld"
+  >De beveiligingsfunctie van de brandstofopvoerpomp is teruggesteld</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le mode de protection de la pompe d'alimentation en carburant est réinitialisé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Schutzmodus der Kraftstoff-Vorförderpumpe wurde zurückgesetzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La modalità di protezione della pompa aspirante del carburante viene ripristinata</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フューエル リフト ポンプのプロテクション モードがリセットされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O modo de protecção da bomba de elevação do combustível é reiniciado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O modo de proteção da bomba elevatória de combustível é redefinido</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнен сброс режима защиты топливоподкачивающего насоса</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha restaurado el modo de protección de la bomba de alimentación de combustible</tu>
+	<tu xmlns:lang="chs">燃油提升泵保护模式已复位</tu>
+	<tu xmlns:lang="kor">연료 리프트 펌프의 보호 모드가 재설정됩니다.</tu>
+</tm>

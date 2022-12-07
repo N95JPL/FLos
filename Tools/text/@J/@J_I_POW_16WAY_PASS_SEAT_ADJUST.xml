@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_POW_16WAY_PASS_SEAT_ADJUST">
+	<tu xmlns:lang="eng">Power 16-way passenger's seat adjust</tu>
+	<tu xmlns:lang="nld">Bekrachtigde 16-weg-afstelling van de passagiersstoel</tu>
+	<tu xmlns:lang="fra">Réglage électrique 16 directions du siège passager</tu>
+	<tu xmlns:lang="deu">16-fach elektrisch verstellbarer Beifahrersitz</tu>
+	<tu
+    xmlns:lang="ita"
+  >Regolazione elettrica a 16 vie del sedile del passeggero </tu>
+	<tu xmlns:lang="jpn">電動 16 ウェイ助手席側シート調整</tu>
+	<tu xmlns:lang="ptg">Ajuste eléctrico de 16 vias do banco do passageiro</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ajuste elétrico do assento do motorista com 16 direções</tu>
+	<tu
+    xmlns:lang="rus"
+  >16-позиционная система регулировки сиденья пассажира с электроприводом</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ajuste eléctrico en 16 sentidos del asiento del acompañante</tu>
+	<tu xmlns:lang="chs">电动 16 向乘客座椅调节</tu>
+	<tu xmlns:lang="kor">전동식 16방향 조수석 시트 조정</tu>
+</tm>

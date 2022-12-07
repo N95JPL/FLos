@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDoWishTryAgain$Q">
+	<tu xmlns:lang="eng">Do you wish to try again?</tu>
+	<tu xmlns:lang="nld">Wilt u dit opnieuw proberen?</tu>
+	<tu xmlns:lang="fra">Essayer à nouveau ?</tu>
+	<tu xmlns:lang="deu">Wollen Sie es noch einmal versuchen ?</tu>
+	<tu xmlns:lang="ita">Volete provare ancora?</tu>
+	<tu xmlns:lang="jpn">もう一度実行しますか？</tu>
+	<tu xmlns:lang="ptg">Pretende tentar novamente?</tu>
+	<tu xmlns:lang="ptb">Deseja tentar novamente?</tu>
+	<tu xmlns:lang="rus">Попробовать еще раз?</tu>
+	<tu xmlns:lang="esp">¿Desea probar de nuevo?</tu>
+	<tu xmlns:lang="chs">您想再试一次吗？</tu>
+	<tu xmlns:lang="kor">다시 시도해 보시겠습니까?</tu>
+</tm>

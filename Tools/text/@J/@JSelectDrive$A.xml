@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JSelectDrive$A">
+	<tu xmlns:lang="eng">Select drive</tu>
+	<tu xmlns:lang="nld">Kies de stand NORMAAL RIJDEN (D)</tu>
+	<tu xmlns:lang="fra">Choisir la position de CONDUITE (D)</tu>
+	<tu xmlns:lang="deu">'D' wählen</tu>
+	<tu xmlns:lang="ita">Selezionare la posizione di GUIDA (D)</tu>
+	<tu xmlns:lang="jpn">ﾄﾞライﾌﾞにシフトしてください。</tu>
+	<tu xmlns:lang="ptg">Seleccionar D (condução)</tu>
+	<tu xmlns:lang="ptb">Selecione dirigir</tu>
+	<tu xmlns:lang="rus">Выберите передачу</tu>
+	<tu xmlns:lang="esp">Poner palanca cambio en CONDUCCION (D)</tu>
+	<tu xmlns:lang="chs">选择行驶档</tu>
+	<tu xmlns:lang="kor">D를 선택합니다.</tu>
+</tm>

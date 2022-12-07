@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JIsVehicleFittedWithAirCon$Q">
+	<tu xmlns:lang="eng">Is the vehicle fitted with air conditioning?</tu>
+	<tu xmlns:lang="nld">Is de auto uitgerust met airconditioning ?</tu>
+	<tu xmlns:lang="fra">Le véhicule est-il équipé d'un climatiseur d'air ?</tu>
+	<tu xmlns:lang="deu">Ist das Fahrzeug mit Klimaanlage ausgerüstet ?</tu>
+	<tu xmlns:lang="ita">Il veicolo è dotato d'impianto di climatizzazione ?</tu>
+	<tu xmlns:lang="jpn">この車両にはエアコンが装備されていますか？</tu>
+	<tu xmlns:lang="ptg">O veículo está equipado com ar condicionado?</tu>
+	<tu xmlns:lang="ptb">O veículo está equipado com ar-condicionado?</tu>
+	<tu xmlns:lang="rus">Автомобиль оснащен кондиционером?</tu>
+	<tu xmlns:lang="esp">¿Está equipado el coche de aire acondicionado ?</tu>
+	<tu xmlns:lang="chs">车辆安装空调了吗？</tu>
+	<tu xmlns:lang="kor">차량에 에어컨이 장착되어 있습니까?</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_ADAPT_LOAD_LIMIT">
+	<tu xmlns:lang="eng">Without adaptive load limiter front</tu>
+	<tu xmlns:lang="nld">Zonder adaptieve belastingsbegrenzer voor</tu>
+	<tu xmlns:lang="fra">Sans limiteur de charge adaptatif avant</tu>
+	<tu xmlns:lang="deu">Ohne adaptiven Lastbegrenzer vorn</tu>
+	<tu xmlns:lang="ita">Senza limitatore di carico adattativo anteriore</tu>
+	<tu xmlns:lang="jpn">アダプティブ ロード リミッター フロントなし</tu>
+	<tu xmlns:lang="ptg">Sem limitador de carga dianteiro adaptável dianteiro</tu>
+	<tu xmlns:lang="ptb">Sem parte dianteira do limitador de carga adaptativo</tu>
+	<tu xmlns:lang="rus">Без переднего адаптивного ограничителя усилия</tu>
+	<tu xmlns:lang="esp">Sin limitador de carga adaptativo delantero</tu>
+	<tu xmlns:lang="chs">无自适应前部负载限制器</tu>
+	<tu xmlns:lang="kor">어댑티브 부하 제한 장치 전방 불포함</tu>
+</tm>

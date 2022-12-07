@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JTripComputer$M_NOT">
+	<tu xmlns:lang="eng">Without trip computer</tu>
+	<tu xmlns:lang="nld">Zonder boordcomputer</tu>
+	<tu xmlns:lang="fra">Sans ordinateur de bord</tu>
+	<tu xmlns:lang="deu">Ohne Bordcomputer</tu>
+	<tu xmlns:lang="ita">Senza computer di bordo</tu>
+	<tu xmlns:lang="jpn">トリップ コンピュータなし</tu>
+	<tu xmlns:lang="ptg">Sem computador de bordo</tu>
+	<tu xmlns:lang="ptb">Sem computador de bordo</tu>
+	<tu xmlns:lang="rus">Без маршрутного компьютера</tu>
+	<tu xmlns:lang="esp">Sin ordenador de viaje</tu>
+	<tu xmlns:lang="chs">无行车计算机</tu>
+	<tu xmlns:lang="kor">트립 컴퓨터 없음</tu>
+</tm>

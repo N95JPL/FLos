@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REM_DIGITAL_AUDIO_RX">
+	<tu xmlns:lang="eng">Remote digital audio receiver</tu>
+	<tu xmlns:lang="nld">Digitale geluidsinstallatie met afstandsbediening</tu>
+	<tu xmlns:lang="fra">Récepteur audio numérique à distance</tu>
+	<tu xmlns:lang="deu">Abgesetzter digitaler Audioempfänger</tu>
+	<tu xmlns:lang="ita">Ricevitore audio digitale remoto</tu>
+	<tu xmlns:lang="jpn">リモート デジタル オーディオ レシーバー</tu>
+	<tu xmlns:lang="ptg">Receptor áudio digital à distância</tu>
+	<tu xmlns:lang="ptb">Receptor de áudio digital remoto</tu>
+	<tu xmlns:lang="rus">Цифровой аудиоприемник (RDAR)</tu>
+	<tu xmlns:lang="esp">Receptor de audio digital remoto</tu>
+	<tu xmlns:lang="chs">遥控数字音频接收机</tu>
+	<tu xmlns:lang="kor">원격 디지털 오디오 수신기</tu>
+</tm>

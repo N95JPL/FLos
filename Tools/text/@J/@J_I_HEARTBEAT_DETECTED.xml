@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEARTBEAT_DETECTED">
+	<tu xmlns:lang="eng">Heartbeat detected</tu>
+	<tu xmlns:lang="nld">Hartslag gedetecteerd</tu>
+	<tu xmlns:lang="fra">Battement de coeur détecté</tu>
+	<tu xmlns:lang="deu">Dauersignal ermittelt</tu>
+	<tu xmlns:lang="ita">Rilevato segnale impulso</tu>
+	<tu xmlns:lang="jpn">鼓動を検出しました</tu>
+	<tu xmlns:lang="ptg">Detectou batimento</tu>
+	<tu xmlns:lang="ptb">Pulso detectado</tu>
+	<tu xmlns:lang="rus">Обнаружен сигнал синхронизации</tu>
+	<tu xmlns:lang="esp">Funcionamiento detectado</tu>
+	<tu xmlns:lang="chs">检测到心跳信号</tu>
+	<tu xmlns:lang="kor">하트비트가 감지됨</tu>
+</tm>

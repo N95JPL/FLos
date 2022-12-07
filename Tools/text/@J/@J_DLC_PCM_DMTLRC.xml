@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_PCM_DMTLRC">
+	<tu xmlns:lang="eng">Diagnostics module tank leakage reference current.</tu>
+	<tu xmlns:lang="nld">Referentiestroom diagnosemodule tanklekkage.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de diagnostics - courant de référence de fuite de réservoir.</tu>
+	<tu xmlns:lang="deu">Bezugsstrom, Diagnosemodul - Tankundichtigkeit.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo di diagnostica - perdita serbatoio - corrente riferimento.</tu>
+	<tu xmlns:lang="jpn">診断モジュール - タンク リーク参照電流</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Corrente de referência do módulo de diagnóstico de fugas do depósito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Corrente de referência de diagnóstico de vazamento do tanque de combustível</tu>
+	<tu xmlns:lang="rus">Диагностический блок - опорный ток утечки бака.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de diagnosis: corriente de referencia para detección de fugas del depósito.</tu>
+	<tu xmlns:lang="chs">诊断模块油箱泄漏参考电流。</tu>
+	<tu xmlns:lang="kor">진단 모듈 탱크 누출 기준 전류</tu>
+</tm>

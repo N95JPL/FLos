@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FOG_LIGHT_NO_REST">
+	<tu xmlns:lang="eng">Foglight without restrictions</tu>
+	<tu xmlns:lang="nld">Mistlichten zonder beperkingen</tu>
+	<tu xmlns:lang="fra">Feu anti-brouillard sans restrictions</tu>
+	<tu xmlns:lang="deu">Nebelscheinwerfer ohne Einschränkungen</tu>
+	<tu xmlns:lang="ita">Fendinebbia senza limitazioni</tu>
+	<tu xmlns:lang="jpn">作動制限なしのフォグライト</tu>
+	<tu xmlns:lang="ptg">Farol de nevoeiro sem restrições</tu>
+	<tu xmlns:lang="ptb">Farol de neblina sem restrições</tu>
+	<tu xmlns:lang="rus">Противотуманные фары без ограничений</tu>
+	<tu xmlns:lang="esp">Luz antiniebla sin restricciones</tu>
+	<tu xmlns:lang="chs">无限制的雾灯</tu>
+	<tu xmlns:lang="kor">포그 램프(제한 없음)</tu>
+</tm>

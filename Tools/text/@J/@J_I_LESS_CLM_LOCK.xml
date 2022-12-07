@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_CLM_LOCK">
+	<tu xmlns:lang="eng">Without steering column lock</tu>
+	<tu xmlns:lang="nld">Zonder stuurkolomslot</tu>
+	<tu xmlns:lang="fra">Sans verrouillage de la colonne de direction</tu>
+	<tu xmlns:lang="deu">Ohne elektronische Lenksäulenverriegelung</tu>
+	<tu xmlns:lang="ita">Senza bloccasterzo</tu>
+	<tu xmlns:lang="jpn">ステアリング コラム ロックなし</tu>
+	<tu xmlns:lang="ptg">Sem bloqueio da coluna da direcção</tu>
+	<tu xmlns:lang="ptb">Sem trava da coluna de direção</tu>
+	<tu xmlns:lang="rus">Без замка рулевой колонки</tu>
+	<tu xmlns:lang="esp">Sin enclavamiento de la columna de la dirección</tu>
+	<tu xmlns:lang="chs">无转向柱锁</tu>
+	<tu xmlns:lang="kor">스티어링 칼럼 잠금 장치 불포함</tu>
+</tm>

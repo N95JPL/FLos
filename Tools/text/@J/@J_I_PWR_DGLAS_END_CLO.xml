@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PWR_DGLAS_END_CLO">
+	<tu
+    xmlns:lang="eng"
+  >The following routine will power the door window glasses without the pinch protection enabled.  Make sure the door window glasses close fully without any 'bounce-back' occurring.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De volgende routine zal de portierruiten zonder de inschakeling van de inklembeveiliging bedienen.  Controleer of de portierruiten dichtgaan zonder 'terug te kaatsen'.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le programme suivant activera le fonctionnement des vitres de porte en neutralisant la protection anti-pincement.  Assurez-vous que les vitres de porte se ferment parfaitement sans 'rebond'.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit der folgenden Routine wird der Türfensterheber ohne aktivierten Einklemmschutz betätigt.  Sicherstellen, dass die Türfenster vollständig ohne 'Rückprellen' schließen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La seguente procedura attiva gli alzacristalli senza la protezione anti-intrappolamento attivata.  Assicurarsi che i finestrini delle portiere si chiudano completamente senza rimbalzi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のルーチンで、挟み込み保護の作動可設定なしにドア ウィンドウ ガラスが電動で作動します。  「リバウンド」することなくドア ウィンドウ ガラスが全閉となることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A rotina seguinte activa os vidros das portas sem a protecção antientalamento activada.  Certifique-se de que os vidros das janelas fecham completamente sem fazer 'ricochete'.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O procedimento descrito a seguir energizará o vidro da porta sem a proteção contra obstrução habilitada.  Certifique-se de que os vidros da janela da fecham totalmente sem saltar de volta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При выполнении следующей операции включатся электростеклоподъемники при отключенной защите от защемления.  Убедиться, что стекла дверей полностью закрываются без 'отскакивания'.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La rutina siguiente activará las ventanillas sin que esté habilitada la función de mecanismo retráctil.  Verificar que las ventanillas se cierren del todo sin que se produzca ningún 'rebote'.</tu>
+	<tu
+    xmlns:lang="chs"
+  >下述程序将给车门玻璃窗通电，但不启动防夹保护。  确保车门玻璃窗完全关闭，未发生任何‘回弹’。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 루틴에서는 끼임 방지 보호를 활성화하지 않고 도어 윈도우 글라스에 전력을 공급합니다.  도어 윈도우 글라스가 '원래 위치로 되돌아가지' 않고 완전히 닫히는지 확인하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRIG_CAUSE">
+	<tu xmlns:lang="eng">Trigger cause</tu>
+	<tu xmlns:lang="nld">Oorzaak voor het laten afgaan van het alarm</tu>
+	<tu xmlns:lang="fra">Cause du déclenchement.</tu>
+	<tu xmlns:lang="deu">Triggerursache</tu>
+	<tu xmlns:lang="ita">Causa dell'attivazione</tu>
+	<tu xmlns:lang="jpn">起こった原因</tu>
+	<tu xmlns:lang="ptg">Causa do disparo</tu>
+	<tu xmlns:lang="ptb">Causa do acionamento</tu>
+	<tu xmlns:lang="rus">Причина триггера</tu>
+	<tu xmlns:lang="esp">Causa del disparo</tu>
+	<tu xmlns:lang="chs">触发器诱因</tu>
+	<tu xmlns:lang="kor">트리거 원인</tu>
+</tm>

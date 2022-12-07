@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_IHU_INT_CD">
+	<tu xmlns:lang="eng">Audio control module internal CD.</tu>
+	<tu xmlns:lang="nld">Interne cd-speler van geïntegreerde hoofdunit.</tu>
+	<tu xmlns:lang="fra">CD interne à l'autoradio intégré.</tu>
+	<tu xmlns:lang="deu">Integriertes Audiosystem - interner CD-Spieler.</tu>
+	<tu xmlns:lang="ita">CD interno unità audio integrata.</tu>
+	<tu xmlns:lang="jpn">統合ヘッド ユニット内部 CD</tu>
+	<tu xmlns:lang="ptg">CD interno da unidade principal integrada.</tu>
+	<tu xmlns:lang="ptb">CD interno do módulo de controle de áudio.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Встроенный проигрыватель компакт-дисков интегрированного головного устройства.</tu>
+	<tu xmlns:lang="esp">CD interno del aparato central integral.</tu>
+	<tu xmlns:lang="chs">集成主机单元内部CD。</tu>
+	<tu xmlns:lang="kor">오디오 컨트롤 모듈 내부 CD</tu>
+</tm>

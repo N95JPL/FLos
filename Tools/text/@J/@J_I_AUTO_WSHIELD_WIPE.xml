@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUTO_WSHIELD_WIPE">
+	<tu xmlns:lang="eng">Automatic windshield wiper</tu>
+	<tu xmlns:lang="nld">Automatische ruitenwisser</tu>
+	<tu xmlns:lang="fra">Essuie-glace automatique</tu>
+	<tu xmlns:lang="deu">Scheibenwischerautomatik</tu>
+	<tu xmlns:lang="ita">Tergicristalli automatici</tu>
+	<tu xmlns:lang="jpn">オートマチック ウィンドシールド ワイパー</tu>
+	<tu xmlns:lang="ptg">Limpa pára-brisas automático</tu>
+	<tu xmlns:lang="ptb">Limpador automático do para-brisa</tu>
+	<tu xmlns:lang="rus">Автоматический стеклоочиститель ветрового стекла</tu>
+	<tu xmlns:lang="esp">Limpiaparabrisas automático</tu>
+	<tu xmlns:lang="chs">挡风玻璃自动刮水器</tu>
+	<tu xmlns:lang="kor">자동 윈드실드 와이퍼</tu>
+</tm>

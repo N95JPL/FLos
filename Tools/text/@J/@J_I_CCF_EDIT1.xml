@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CCF_EDIT1">
+	<tu
+    xmlns:lang="eng"
+  >Display and/or modify the vehicle configuration file data</tu>
+	<tu
+    xmlns:lang="nld"
+  >Geef weer en/of wijzig de gegevens van het voertuigconfiguratiebestand.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Affichez et/ou modifiez les données du fichier de configuration du véhicule</tu>
+	<tu
+    xmlns:lang="deu"
+  >Daten der Fahrzeug-Konfigurationsdatei anzeigen und/oder abändern</tu>
+	<tu
+    xmlns:lang="ita"
+  >Visualizzare e/o modificare i dati del file di configurazione veicolo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション ファイル データを表\示および／または変更しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Visualizar e/ou alterar os dados do ficheiro de configuração do veículo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Visualize e/ou modifique os dados do arquivo de configuração do veículo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отобразить и/или изменить данные файла конфигурации автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Mostrar y/o modificar los datos del archivo de configuración del vehículo</tu>
+	<tu xmlns:lang="chs">显示和/或修改车辆配置文件数据</tu>
+	<tu xmlns:lang="kor">차량 구성 파일 데이터를 표시 및/또는 수정</tu>
+</tm>

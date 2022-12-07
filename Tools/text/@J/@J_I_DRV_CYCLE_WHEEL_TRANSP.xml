@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRV_CYCLE_WHEEL_TRANSP">
+	<tu
+    xmlns:lang="eng"
+  >Once the drive cycle has been completed and the vehicle has come to rest the wheel unit transponders will remain in test mode for 12 minutes.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zodra de rijcyclus is voltooid en het voertuig tot stilstand is gekomen, blijven de wielantwoordzenders nog 12 minuten in de testfunctie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois le cycle de conduite terminé et le véhicule à l'arrêt, les transpondeurs de roues restent en mode contrôle pendant 12 minutes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss des Fahrzyklus, wenn das Fahrzeug zum Stillstand gekommen ist, verbleiben die Transponder der Radmodule 12 Minuten lang im Testzustand.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dopo che il ciclo di guida è stato completato e il veicolo si è fermato, i risponditori delle ruote rimarranno nella modalità di prova per 12 minuti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ドライブ サイクルが完了し車両が休止状態になると、ホイール ユニット トランスポンダは 12 分間テスト モードを維持します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Depois de concluir o ciclo de condução e de deixar descansar o veículo, os emissores-receptores da unidade das rodas continuam em modo de teste durante 12 minutos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma vez que o ciclo de acionamento tenha sido concluído e o veículo estiver com as roda apoiadas, os transmissores permanecerão no modo de teste por 12 minutos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После завершения дорожного испытания и остановки автомобиля передатчики остаются в режиме тестирования в течение 12 минут.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez completado el ciclo de conducción y con el vehículo en reposo, los transpondedores del sensor-transmisor del neumático deben permanecer en modo de prueba durante 12 minutos.</tu>
+	<tu
+    xmlns:lang="chs"
+  >行驶循环完成且车辆停下后，车轮单元发射机应答器将在12分钟的期间内保持在测试模式。</tu>
+	<tu
+    xmlns:lang="kor"
+  >주행 사이클이 완료되고 차량이 정지 상태에 이르면 휠 유닛 트랜스폰더가 12분간 테스트 모드로 그대로 남을 것입니다.</tu>
+</tm>

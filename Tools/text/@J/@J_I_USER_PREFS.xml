@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_USER_PREFS">
+	<tu xmlns:lang="eng">User preferences</tu>
+	<tu xmlns:lang="nld">Gebruikersvoorkeuren</tu>
+	<tu xmlns:lang="fra">Préférences utilisateur</tu>
+	<tu xmlns:lang="deu">Benutzerpräferenzen</tu>
+	<tu xmlns:lang="ita">Preferenze utente</tu>
+	<tu xmlns:lang="jpn">ユーザーによる優先</tu>
+	<tu xmlns:lang="ptg">Preferências do utilizador</tu>
+	<tu xmlns:lang="ptb">Preferências do usuário</tu>
+	<tu xmlns:lang="rus">Пользовательские предпочтения</tu>
+	<tu xmlns:lang="esp">Preferencias de usuario</tu>
+	<tu xmlns:lang="chs">用户偏好</tu>
+	<tu xmlns:lang="kor">사용자 기본 설정</tu>
+</tm>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@UNLOCK_SETTING_2_STEP_SLAM">
+	<tu xmlns:lang="eng">Two step opening with slam lock</tu>
+	<tu
+    xmlns:lang="nld"
+  >Openen in twee stappen met vergrendeling door dichtslaan</tu>
+	<tu xmlns:lang="fra">Ouverture en deux étapes avec serrure à ressort</tu>
+	<tu xmlns:lang="deu">Zweistufiges Öffnen mit Zuschlagverriegelung</tu>
+	<tu xmlns:lang="ita">Apertura in due fasi con bloccaggio a scatto </tu>
+	<tu xmlns:lang="jpn">スラム ロック付きツーステップ オープニング</tu>
+	<tu xmlns:lang="ptg">Abertura de dois toques com trancagem ao bater a porta</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Abertura em duas etapas com trava da porta do tipo bater para fechar</tu>
+	<tu
+    xmlns:lang="rus"
+  >Двушаговое открывание с использованием английского замка</tu>
+	<tu xmlns:lang="esp">Apertura en dos pasos con bloqueo de portazo</tu>
+	<tu xmlns:lang="chs">带撞击式门锁的两步打开</tu>
+	<tu xmlns:lang="kor">슬램 록(Slam Lock)을 이용한 2단계 개방</tu>
+</tm>

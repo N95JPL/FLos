@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_ABORT_BEF_COMP">
+	<tu xmlns:lang="eng">Routine aborted before completion.</tu>
+	<tu xmlns:lang="nld">Routine afgebroken vóór afronding.</tu>
+	<tu xmlns:lang="fra">Programme abandonné avant la fin.</tu>
+	<tu xmlns:lang="deu">Routine vor Beendigung abgebrochen.</tu>
+	<tu xmlns:lang="ita">Procedura interrotta prima del completamento.</tu>
+	<tu xmlns:lang="jpn">完了前にルーチン中断</tu>
+	<tu xmlns:lang="ptg">Rotina abortada antes da conclusão.</tu>
+	<tu xmlns:lang="ptb">Rotina abortada antes da conclusão.</tu>
+	<tu xmlns:lang="rus">Программа прервана до завершения.</tu>
+	<tu xmlns:lang="esp">Rutina cancelada antes de su conclusión.</tu>
+	<tu xmlns:lang="chs">完成之前中止常规程序。</tu>
+	<tu xmlns:lang="kor">완료 전에 절차가 중단됨</tu>
+</tm>

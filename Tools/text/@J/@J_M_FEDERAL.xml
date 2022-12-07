@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_FEDERAL">
+	<tu xmlns:lang="eng">Federal</tu>
+	<tu xmlns:lang="nld">Federaal</tu>
+	<tu xmlns:lang="fra">Fédéral</tu>
+	<tu xmlns:lang="deu">US-Spezifikation</tu>
+	<tu xmlns:lang="ita">Federale</tu>
+	<tu xmlns:lang="jpn">連邦（米国）</tu>
+	<tu xmlns:lang="ptg">Federal</tu>
+	<tu xmlns:lang="ptb">Federal</tu>
+	<tu xmlns:lang="rus">Федеральный</tu>
+	<tu xmlns:lang="esp">Federal</tu>
+	<tu xmlns:lang="chs">联邦</tu>
+	<tu xmlns:lang="kor">연방</tu>
+</tm>

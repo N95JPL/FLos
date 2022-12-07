@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HubOutRange$I">
+	<tu xmlns:lang="eng">Hub height value out of range.</tu>
+	<tu xmlns:lang="nld">Naafhoogtewaarde is buiten het bereik.</tu>
+	<tu xmlns:lang="fra">Valeur de hauteur du moyeu hors limites.</tu>
+	<tu xmlns:lang="deu">Naben-Höhenwert außerhalb des Bereichs.</tu>
+	<tu xmlns:lang="ita">Altezza mozzo - valore fuori campo.</tu>
+	<tu xmlns:lang="jpn">ハブ ハイト数値、規定範囲外</tu>
+	<tu xmlns:lang="ptg">Valor da altura do cubo fora da gama.</tu>
+	<tu xmlns:lang="ptb">Valor da altura do cubo fora do intervalo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Значение высоты ступицы выходит за пределы допустимого диапазона.</tu>
+	<tu xmlns:lang="esp">Valor de altura del cubo fuera de límites.</tu>
+	<tu xmlns:lang="chs">轮毂高度值超出范围。</tu>
+	<tu xmlns:lang="kor">허브 높이값이 범위를 벗어남</tu>
+</tm>

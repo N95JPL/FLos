@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PROCEDURE_COMPLETED_FAILED">
+	<tu xmlns:lang="eng">The procedure failed to complete.</tu>
+	<tu xmlns:lang="nld">De procedure kon niet worden afgerond.</tu>
+	<tu xmlns:lang="fra">La procédure n'a pas pu aboutir.</tu>
+	<tu xmlns:lang="deu">Das Verfahren wurde nicht abgeschlossen.</tu>
+	<tu xmlns:lang="ita">La procedura non è stata completata.</tu>
+	<tu xmlns:lang="jpn">手順の完了に失敗しました。</tu>
+	<tu xmlns:lang="ptg">O procedimento não foi concluído.</tu>
+	<tu xmlns:lang="ptb">A falha do procedimento para ser concluído.</tu>
+	<tu xmlns:lang="rus">Не удалось завершить процедуру.</tu>
+	<tu xmlns:lang="esp">No se completó el procedimiento.</tu>
+	<tu xmlns:lang="chs">程序未能完成。</tu>
+	<tu xmlns:lang="kor">절차를 완료하지 못했습니다.</tu>
+</tm>

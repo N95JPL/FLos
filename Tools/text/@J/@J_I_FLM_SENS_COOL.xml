@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FLM_SENS_COOL">
+	<tu xmlns:lang="eng">Flame sensor cooling.</tu>
+	<tu xmlns:lang="nld">Vlamsensor koelt af.</tu>
+	<tu xmlns:lang="fra">Refroidissement du détecteur de flamme.</tu>
+	<tu xmlns:lang="deu">Flammensensor-Abkühlung.</tu>
+	<tu xmlns:lang="ita">Raffreddamento in corso del sensore fiamma.</tu>
+	<tu xmlns:lang="jpn">炎センサー冷却中</tu>
+	<tu xmlns:lang="ptg">Arrefecimento do sensor de chama.</tu>
+	<tu xmlns:lang="ptb">Resfriamento do sensor de chama.</tu>
+	<tu xmlns:lang="rus">Охлаждение датчика пламени.</tu>
+	<tu xmlns:lang="esp">El sensor de llamas se está enfriando.</tu>
+	<tu xmlns:lang="chs">火焰传感器冷却。</tu>
+	<tu xmlns:lang="kor">불꽃 센서 냉각</tu>
+</tm>

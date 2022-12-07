@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_DVD">
+	<tu xmlns:lang="eng">DVD reader.</tu>
+	<tu xmlns:lang="nld">DVD-lezer</tu>
+	<tu xmlns:lang="fra">Lecteur de dvd</tu>
+	<tu xmlns:lang="deu">DVD-lesegerät</tu>
+	<tu xmlns:lang="ita">Lettore DVD</tu>
+	<tu xmlns:lang="jpn">DVD リーダー</tu>
+	<tu xmlns:lang="ptg">Leitor de DVD.</tu>
+	<tu xmlns:lang="ptb">Leitor de DVD.</tu>
+	<tu xmlns:lang="rus">Устройство чтения DVD.</tu>
+	<tu xmlns:lang="esp">Lector DVD</tu>
+	<tu xmlns:lang="chs">DVD 阅读器。</tu>
+	<tu xmlns:lang="kor">DVD 리더.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROC_INIT_SAS_ABS_ECU">
+	<tu
+    xmlns:lang="eng"
+  >This procedure initialises the steering angle sensor for use with the ABS electronic control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure initialiseert de stuuruitslagsensor voor gebruik met de elektronische ABS-regelmodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure initialise le capteur d'angle de direction pour être utilisé avec le module de commande électronique ABS.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Durch dieses Verfahren wird der Lenkwinkelsensor zur Verwendung zusammen mit dem elektronischen ABS-Steuergerät initialisiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura inizializza il sensore angolo di sterzata per l'uso con l'unità di comando elettronica ABS.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順は、ABS エレクトロニック コントロール ユニットで使用できるようステアリング アングル センサーを初期化します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta operação desencadeia a inicialização do sensor do ângulo da direcção que serve a unidade electrónica de controlo do ABS.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento inicializa o sensor de ângulo da direção para uso com a unidade de controle eletrônico do ABS.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная процедура инициализирует датчик угла поворота для использования с электронным блоком управления ABS.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento inicializa el sensor del ángulo de la dirección para uso con el módulo de control electrónico del ABS.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一程序初始化转向角传感器，以便同 ABS 电子控制单元一道使用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 ABS 전자 컨트롤 유닛과 함께 사용할 스티어링 각도 센서를 초기화합니다.</tu>
+</tm>

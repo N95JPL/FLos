@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart47">
+	<tu
+    xmlns:lang="eng"
+  >If the primary battery is too cold or too hot then the auto stop/start system will be inhibited.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de primaire accu is te koud of te warm is, wordt het automatische Stop/Start-systeem geblokkeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une température trop basse ou trop élevée de la batterie principale entraîne la neutralisation du système Arrêt/Démarrage auto.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn die Hauptbatterie zu kalt oder zu heiß ist, wird das Auto-Stopp-Start-System gesperrt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la batteria principale è troppo fredda o troppo calda, il sistema Stop/Start automatico sarà disabilitato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プライマリ バッテリーの温度が低すぎるか、または高すぎる場合、オート ストップ/スタート システムは禁止状態になります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a bateria primária estiver demasiado fria ou demasiado quente, o sistema Stop/Start automático é inibido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a bateria primária estiver muito fria ou muito quente, então, o sistema stop/start automático será inibido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Чрезмерно высокая или низкая температура основной аккумуляторной батареи приводит к блокировке автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema Stop/Start automático se bloqueará si la batería principal está demasiado fría o demasiado caliente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果主蓄电池温度过低或过热，则将禁止自动停止/启动系统。</tu>
+	<tu
+    xmlns:lang="kor"
+  >기본 배터리가 너무 차갑거나 뜨거울 경우에는 자동 Stop/Start 시스템이 억제됩니다.</tu>
+</tm>

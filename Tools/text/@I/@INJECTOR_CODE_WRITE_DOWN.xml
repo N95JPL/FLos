@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INJECTOR_CODE_WRITE_DOWN">
+	<tu
+    xmlns:lang="eng"
+  >For each injector, record the code written on the top of the injector.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Noteer van elke injector de code die op de bovenkant van de injector staat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Pour chaque d'injecteur, notez le code inscrit au sommet de l'injecteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Für jedes Einspritzventil den Code aufzeichnen, der oben auf dem Einspritzventil angegeben ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per ciascun iniettore, annotare il codice impresso sulla sommità dell'iniettore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >個々のインジェクタについて、インジェクタ上端部に書かれたコードを記録しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Para cada injector, registar o código constante da parte superior do injector.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Para cada injetor, registre o código escrito no topo do injetor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для каждой форсунки запишите коды, указанные на ее верхней части.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Anotar el código que lleva escrito cada inyector en la parte de arriba.</tu>
+	<tu xmlns:lang="chs">对于每一喷油器，请记录印于喷油器顶部的代码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >각 인젝터에 대해 인젝터 상단에 적힌 코드를 기록하십시오.</tu>
+</tm>

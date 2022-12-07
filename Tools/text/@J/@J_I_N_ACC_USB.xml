@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_N_ACC_USB">
+	<tu xmlns:lang="eng">Without accessory USB unit</tu>
+	<tu xmlns:lang="nld">Zonder USB-aansluitpunt voor accessoires</tu>
+	<tu xmlns:lang="fra">Sans module USB accessoire</tu>
+	<tu xmlns:lang="deu">Ohne USB-Einheit für Zusatzgeräte</tu>
+	<tu xmlns:lang="ita">Senza unità USB accessoria</tu>
+	<tu xmlns:lang="jpn">アクセサリ USB ユニットなし</tu>
+	<tu xmlns:lang="ptg">Sem unidade USB acessória</tu>
+	<tu xmlns:lang="ptb">Sem unidade USB acessória</tu>
+	<tu xmlns:lang="rus">Без дополнительного блока USB</tu>
+	<tu xmlns:lang="esp">Sin unidad USB de accesorio</tu>
+	<tu xmlns:lang="chs">无 USB 附件单元</tu>
+	<tu xmlns:lang="kor">액세서리 USB 유닛 제외</tu>
+</tm>

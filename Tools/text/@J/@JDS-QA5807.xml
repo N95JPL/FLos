@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA5807">
+	<tu xmlns:lang="eng">Mode button</tu>
+	<tu xmlns:lang="nld">STANDKNOP</tu>
+	<tu xmlns:lang="fra">BOUTON DE MODE</tu>
+	<tu xmlns:lang="deu">MODUS-TASTE</tu>
+	<tu xmlns:lang="ita">BOTTONE DI MODO</tu>
+	<tu xmlns:lang="jpn">モーﾄﾞ・ﾎﾞタン</tu>
+	<tu xmlns:lang="ptg">Botão de modo</tu>
+	<tu xmlns:lang="ptb">Botão de modo</tu>
+	<tu xmlns:lang="rus">Кнопка выбора режима</tu>
+	<tu xmlns:lang="esp">BOTON DE MODO</tu>
+	<tu xmlns:lang="chs">模式按钮</tu>
+	<tu xmlns:lang="kor">모드 버튼</tu>
+</tm>

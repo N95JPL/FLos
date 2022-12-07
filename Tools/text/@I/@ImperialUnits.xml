@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ImperialUnits">
+	<tu xmlns:lang="eng">Units: imperial</tu>
+	<tu xmlns:lang="nld">Eenheden: Brits</tu>
+	<tu xmlns:lang="fra">Unités : anglo-saxonne</tu>
+	<tu xmlns:lang="deu">Einheiten: britisch</tu>
+	<tu xmlns:lang="ita">Unità: inglesi</tu>
+	<tu xmlns:lang="jpn">単位：インペリアル</tu>
+	<tu xmlns:lang="ptg">Unidades: imperiais</tu>
+	<tu xmlns:lang="ptb">Unidades: imperiais</tu>
+	<tu xmlns:lang="rus">Единицы измерения: британские</tu>
+	<tu xmlns:lang="esp">Unidades: inglesas</tu>
+	<tu xmlns:lang="chs">单位：英制</tu>
+	<tu xmlns:lang="kor">단위: 영국 단위계</tu>
+</tm>

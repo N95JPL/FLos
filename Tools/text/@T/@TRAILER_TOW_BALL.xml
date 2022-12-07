@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TRAILER_TOW_BALL">
+	<tu xmlns:lang="eng">Trailer towing ball.</tu>
+	<tu xmlns:lang="nld">Trekkogel van aanhanger.</tu>
+	<tu xmlns:lang="fra">Boule de remorquage.</tu>
+	<tu xmlns:lang="deu">Anhängerkupplung.</tu>
+	<tu xmlns:lang="ita">Sfera di traino per rimorchio.</tu>
+	<tu xmlns:lang="jpn">トレーラー牽引球</tu>
+	<tu xmlns:lang="ptg">Esfera do reboque.</tu>
+	<tu xmlns:lang="ptb">Engate para reboque.</tu>
+	<tu xmlns:lang="rus">Шаровая опора тягово-сцепного устройства прицепа.</tu>
+	<tu xmlns:lang="esp">Bola de remolque.</tu>
+	<tu xmlns:lang="chs">拖车牵引球。</tu>
+	<tu xmlns:lang="kor">트레일러 견인 볼</tu>
+</tm>

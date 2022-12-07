@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_MASTER_CM">
+	<tu xmlns:lang="eng">Vehicle master module</tu>
+	<tu xmlns:lang="nld">Hoofdmodule van voertuig</tu>
+	<tu xmlns:lang="fra">Module principal du véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Hauptmodul</tu>
+	<tu xmlns:lang="ita">Modulo principale veicolo</tu>
+	<tu xmlns:lang="jpn">車両マスター モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo principal do veículo</tu>
+	<tu xmlns:lang="ptb">Módulo principal do veículo</tu>
+	<tu xmlns:lang="rus">Главный блок автомобиля</tu>
+	<tu xmlns:lang="esp">Módulo maestro del vehículo</tu>
+	<tu xmlns:lang="chs">车辆主模块</tu>
+	<tu xmlns:lang="kor">차량 마스터 모듈</tu>
+</tm>

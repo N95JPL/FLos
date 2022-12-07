@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ENG_ASCII">
+	<tu xmlns:lang="eng">ASCII</tu>
+	<tu xmlns:lang="nld">ASCII</tu>
+	<tu xmlns:lang="fra">ASCII</tu>
+	<tu xmlns:lang="deu">ASCII</tu>
+	<tu xmlns:lang="ita">ASCII</tu>
+	<tu xmlns:lang="jpn">ASCII</tu>
+	<tu xmlns:lang="ptg">ASCII</tu>
+	<tu xmlns:lang="ptb">ASCII</tu>
+	<tu xmlns:lang="rus">ASCII</tu>
+	<tu xmlns:lang="esp">ASCII</tu>
+	<tu xmlns:lang="chs">ASCII</tu>
+	<tu xmlns:lang="kor">ASCII</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_PASS_SEAT_ADJUST">
+	<tu xmlns:lang="eng">Passenger's seat adjustment</tu>
+	<tu xmlns:lang="nld">Verstelling van passagiersstoel</tu>
+	<tu xmlns:lang="fra">Réglage de siège passager</tu>
+	<tu xmlns:lang="deu">Sitzverstellung Beifahrerseite</tu>
+	<tu xmlns:lang="ita">Regolazione sedile passeggero</tu>
+	<tu xmlns:lang="jpn">助手席側シート調整</tu>
+	<tu xmlns:lang="ptg">Regulação do banco do passageiro</tu>
+	<tu xmlns:lang="ptb">Ajuste do assento do passageiro</tu>
+	<tu xmlns:lang="rus">Регулировка сиденья пассажира</tu>
+	<tu xmlns:lang="esp">Ajuste del asiento del acompañante</tu>
+	<tu xmlns:lang="chs">乘客一侧座椅调节器</tu>
+	<tu xmlns:lang="kor">조수석 시트 조정</tu>
+</tm>

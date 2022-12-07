@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-QA10063">
+	<tu xmlns:lang="eng">Security system - valet switch fitted</tu>
+	<tu xmlns:lang="nld">BEVEILIGINGSSYSTEEM - VALETSCHAKELAAR GEMONTEERD</tu>
+	<tu xmlns:lang="fra">SYSTEME DE SECURITE-COMMUTATEUR VALET INSTALLE</tu>
+	<tu xmlns:lang="deu">SICHERHEITSSYSTEM - VALET-SCHALTER MONTIERT</tu>
+	<tu xmlns:lang="ita">SIST.SICUREZZA: INTERRUTTORE MODO SICUREZZA PROVVISTO</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セｷュリﾃｨ・シｽﾃム -バレｯﾄ・ｽｲｯチは取り付けられています。</tu>
+	<tu xmlns:lang="ptg">Sistema de segurança - com interruptor de segurança</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Sistema de segurança - com interruptor de estacionamento instalado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Охранная система - выключатель служебного режима установлен</tu>
+	<tu xmlns:lang="esp">SIST.SEGURIDAD - INTERRUPTOR MODO SEGURIDAD PROVISTO</tu>
+	<tu xmlns:lang="chs">安全系统 - 随动开关已安装</tu>
+	<tu xmlns:lang="kor">보안 시스템 - 발렛 스위치가 장착됨</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_VALET_MODE">
+	<tu xmlns:lang="eng">Valet mode</tu>
+	<tu xmlns:lang="nld">Hulpfunctie</tu>
+	<tu xmlns:lang="fra">Mode Valet</tu>
+	<tu xmlns:lang="deu">Einparkmodus</tu>
+	<tu xmlns:lang="ita">Modo Valet</tu>
+	<tu xmlns:lang="jpn">ｳ゛ｧﾚー・ﾓーﾄﾞ</tu>
+	<tu xmlns:lang="ptg">Modo de limpeza</tu>
+	<tu xmlns:lang="ptb">Modo de estacionamento</tu>
+	<tu xmlns:lang="rus">Служебный режим</tu>
+	<tu xmlns:lang="esp">Modo Valet</tu>
+	<tu xmlns:lang="chs">Valet（随动）模式</tu>
+	<tu xmlns:lang="kor">발렛 모드</tu>
+</tm>

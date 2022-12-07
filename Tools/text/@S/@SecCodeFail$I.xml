@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SecCodeFail$I">
+	<tu xmlns:lang="eng">Security code not understood and not accepted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem heeft de beveiligingscode niet begrepen en niet geaccepteerd.</tu>
+	<tu xmlns:lang="fra">Code de sécurité non compris et non accepté.</tu>
+	<tu xmlns:lang="deu">Sicherheitscode nicht verstanden und nicht akzeptiert.</tu>
+	<tu xmlns:lang="ita">Codice di sicurezza non riconosciuto e non accettato.</tu>
+	<tu xmlns:lang="jpn">セキュリティ コードは理解されず、受諾もされません。</tu>
+	<tu xmlns:lang="ptg">Código de segurança não compreendido e não aceite.</tu>
+	<tu xmlns:lang="ptb">Código de segurança não compreendido e não aceito.</tu>
+	<tu xmlns:lang="rus">Защитный код не распознан и не принят.</tu>
+	<tu xmlns:lang="esp">Código de seguridad no comprendido y no aceptado.</tu>
+	<tu xmlns:lang="chs">安全码未认识也未接受。</tu>
+	<tu xmlns:lang="kor">보안 코드가 인식되지 않았고 수락되지 않음</tu>
+</tm>

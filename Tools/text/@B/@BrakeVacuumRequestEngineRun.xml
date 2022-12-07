@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BrakeVacuumRequestEngineRun">
+	<tu xmlns:lang="eng">The brake vacuum function request engine running.</tu>
+	<tu xmlns:lang="nld">De remvacuümfunctie vraagt om draaiende motor.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La fonction de dépression du système de freinage requiert que le moteur soit en marche.</tu>
+	<tu xmlns:lang="deu">Bremsunterdruckfunktion fordert Motorlauf an.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La funzione a depressione dei freni necessita del motore in funzione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ブレーキ バキューム機能が作動するためには、エンジンがかかっている必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A função de vácuo dos travões requer o funcionamento do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A função de vácuo do freio requer o motor em funcionamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для работы вакуумного усилителя тормозов двигатель должен работать.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La función de vacío del sistema de frenos solicita que el motor esté en marcha.</tu>
+	<tu xmlns:lang="chs">制动真空功能请求发动机运转。</tu>
+	<tu xmlns:lang="kor">브레이크 진공 기능에서 엔진 작동을 요청합니다.</tu>
+</tm>

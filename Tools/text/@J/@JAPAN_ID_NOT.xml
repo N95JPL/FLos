@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JAPAN_ID_NOT">
+	<tu xmlns:lang="eng">No Japanese identification</tu>
+	<tu xmlns:lang="nld">Geen Japanse identificatie</tu>
+	<tu xmlns:lang="fra">Pas d'identification japonaise.</tu>
+	<tu xmlns:lang="deu">Keine japanische Kennung</tu>
+	<tu xmlns:lang="ita">Nessuna identificazione giapponese</tu>
+	<tu xmlns:lang="jpn">日本 ID 以外</tu>
+	<tu xmlns:lang="ptg">Sem identificação japonesa</tu>
+	<tu xmlns:lang="ptb">Sem identificação japonesa</tu>
+	<tu xmlns:lang="rus">Идентификаторы для Японии отсутствуют</tu>
+	<tu xmlns:lang="esp">Sin identificación japonesa</tu>
+	<tu xmlns:lang="chs">无日文标识</tu>
+	<tu xmlns:lang="kor">일본어 식별 없음</tu>
+</tm>

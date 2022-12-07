@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NET_END">
+	<tu xmlns:lang="eng">Network test completed.</tu>
+	<tu xmlns:lang="nld">Netwerktest is uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Test de réseau terminé.</tu>
+	<tu xmlns:lang="deu">Netzwerktest abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Prova della rete completata.</tu>
+	<tu xmlns:lang="jpn">ネットワーク テスト完了</tu>
+	<tu xmlns:lang="ptg">Teste da rede concluído.</tu>
+	<tu xmlns:lang="ptb">Teste de rede concluído.</tu>
+	<tu xmlns:lang="rus">Проверка сети завершена.</tu>
+	<tu xmlns:lang="esp">Prueba de red concluida.</tu>
+	<tu xmlns:lang="chs">网络测试完成。</tu>
+	<tu xmlns:lang="kor">네트워크 테스트 완료</tu>
+</tm>

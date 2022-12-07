@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JContinueThisOperation$Q">
+	<tu xmlns:lang="eng">Continue this operation?</tu>
+	<tu xmlns:lang="nld">Wilt u hiermee doorgaan?</tu>
+	<tu xmlns:lang="fra">Poursuivre cette opération ?</tu>
+	<tu xmlns:lang="deu">Wollen Sie fortfahren ?</tu>
+	<tu xmlns:lang="ita">Continuare questa operazione?</tu>
+	<tu xmlns:lang="jpn">この操作を続けますか?</tu>
+	<tu xmlns:lang="ptg">Continuar esta operação?</tu>
+	<tu xmlns:lang="ptb">Continuar esta operação?</tu>
+	<tu xmlns:lang="rus">Продолжить эту операцию?</tu>
+	<tu xmlns:lang="esp">¿Desea continuar con la operación?</tu>
+	<tu xmlns:lang="chs">继续这一操作吗？</tu>
+	<tu xmlns:lang="kor">이 작업을 계속하시겠습니까?</tu>
+</tm>

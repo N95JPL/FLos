@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIGHT_TOL_SET">
+	<tu xmlns:lang="eng">Tight tolerance mode has been set to on.</tu>
+	<tu xmlns:lang="nld">Nauwe-tolerantiefunctie is ingeschakeld.</tu>
+	<tu xmlns:lang="fra">Le mode tolérances serrées a été sélectionné.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Betriebsart enge Toleranzen wurde auf 'Eingeschaltet' gesetzt.</tu>
+	<tu xmlns:lang="ita">È stata impostata la modalità di Tolleranza ridotta.</tu>
+	<tu xmlns:lang="jpn">僅少許容誤差モードがオンに設定されました。</tu>
+	<tu xmlns:lang="ptg">O modo de tolerância limitada foi ativado.</tu>
+	<tu xmlns:lang="ptb">O modo de menor tolerância foi ajustado para ligar.</tu>
+	<tu xmlns:lang="rus">Включен режим жестких допусков.</tu>
+	<tu xmlns:lang="esp">Se ha activado el modo de tolerancia estricta.</tu>
+	<tu xmlns:lang="chs">精密允差模式设置为启用。</tu>
+	<tu xmlns:lang="kor">엄격한 공차 모드가 설정되었습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ANALOG">
+	<tu xmlns:lang="eng">Analogue</tu>
+	<tu xmlns:lang="nld">Analoog</tu>
+	<tu xmlns:lang="fra">Analogique</tu>
+	<tu xmlns:lang="deu">Analog</tu>
+	<tu xmlns:lang="ita">Analogico</tu>
+	<tu xmlns:lang="jpn">アナログ</tu>
+	<tu xmlns:lang="ptg">Analógico</tu>
+	<tu xmlns:lang="ptb">Analógico</tu>
+	<tu xmlns:lang="rus">Аналоговый</tu>
+	<tu xmlns:lang="esp">Analógico</tu>
+	<tu xmlns:lang="chs">模拟</tu>
+	<tu xmlns:lang="kor">아날로그</tu>
+</tm>

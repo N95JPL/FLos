@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CONTINUE">
+	<tu xmlns:lang="eng">Continue</tu>
+	<tu xmlns:lang="nld">Doorgaan</tu>
+	<tu xmlns:lang="fra">Continuer</tu>
+	<tu xmlns:lang="deu">Weiter</tu>
+	<tu xmlns:lang="ita">Continuare</tu>
+	<tu xmlns:lang="jpn">次へ</tu>
+	<tu xmlns:lang="ptg">Continuar</tu>
+	<tu xmlns:lang="ptb">Continuar</tu>
+	<tu xmlns:lang="rus">Продолжить</tu>
+	<tu xmlns:lang="esp">Continuar</tu>
+	<tu xmlns:lang="chs">继续</tu>
+	<tu xmlns:lang="kor">계속</tu>
+</tm>

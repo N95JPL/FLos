@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMP_CLOCK_TRIP_DEFAULT">
+	<tu
+    xmlns:lang="eng"
+  >After completion the time clock will need setting and the trip distance units will be set back to default (miles)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Na voltooiing moet de klok worden ingesteld en de eenheid van de ritafstand is teruggesteld op de standaardinstelling (mijl)</tu>
+	<tu
+    xmlns:lang="fra"
+  >A la fin de la procédure, régler l'horloge ; les unités de distance reviennent aux valeurs par défaut (miles)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach dem Abschluss muss die Zeituhr eingestellt werden und die Einheiten für den Tageskilometerzähler sind auf die Standardgröße (Meilen) zurückgesetzt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al termine, occorre impostare l'orologio e le unità di misura del contachilometri parziale ritorneranno all'impostazione predefinita (miglia)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >完了後、クロックをセットする必要があります。トリップ距離の単位はデフォルト (マイル) に戻されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Após a conclusão, é preciso acertar o relógio, voltando as unidades da distância percorrida à predefinição (milhas)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após a conclusão, será necessário definir a hora do relógio, e a distância do percurso das unidades serão colocados para a predefinição (milhas)</tu>
+	<tu
+    xmlns:lang="rus"
+  >По окончании необходимо будет настроить часы, а единицы измерения расстояния вернутся к значению по умолчанию (мили)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez hecho habrá que poner en hora el reloj y restaurar las unidades predeterminadas del cuentakilómetros parcial (millas)</tu>
+	<tu
+    xmlns:lang="chs"
+  >完成后，将需要对时钟进行设置，而行驶里程的单位将被重新设置回默认值（英里）</tu>
+	<tu
+    xmlns:lang="kor"
+  >완료 후 시계를 설정해야 하며, 그러면 주행 거리 유닛이 다시 기본값(마일)으로 설정됩니다.</tu>
+</tm>

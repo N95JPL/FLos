@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALARM_ACTIVE_OPTION">
+	<tu xmlns:lang="eng">Alarm active</tu>
+	<tu xmlns:lang="nld">Het alarm is actief</tu>
+	<tu xmlns:lang="fra">Alarme activée</tu>
+	<tu xmlns:lang="deu">Alarm aktiv</tu>
+	<tu xmlns:lang="ita">Allarme attivo</tu>
+	<tu xmlns:lang="jpn">アラーム アクティブ</tu>
+	<tu xmlns:lang="ptg">Alarme activo</tu>
+	<tu xmlns:lang="ptb">Alarme ativo</tu>
+	<tu xmlns:lang="rus">Сигнализация включена</tu>
+	<tu xmlns:lang="esp">Alarma activa</tu>
+	<tu xmlns:lang="chs">启动报警器</tu>
+	<tu xmlns:lang="kor">알람 활성</tu>
+</tm>

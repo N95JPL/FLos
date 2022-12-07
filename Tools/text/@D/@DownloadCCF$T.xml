@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DownloadCCF$T">
+	<tu xmlns:lang="eng">Download the vehicle configuration file.</tu>
+	<tu xmlns:lang="nld">Laad het voertuigconfiguratiebestand.</tu>
+	<tu xmlns:lang="fra">Téléchargez le fichier de configuration du véhicule.</tu>
+	<tu xmlns:lang="deu">Fahrzeug-Konfigurationsdatei herunterladen.</tu>
+	<tu xmlns:lang="ita">Scaricare il file di configurazione veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション ファイルをダウンロードしなさい。</tu>
+	<tu xmlns:lang="ptg">Descarregue o ficheiro de configuração do veículo.</tu>
+	<tu xmlns:lang="ptb">Baixe o arquivo de configuração de veículo.</tu>
+	<tu xmlns:lang="rus">Загрузить файл конфигурации автомобиля.</tu>
+	<tu xmlns:lang="esp">Descargar el archivo de configuración del vehículo.</tu>
+	<tu xmlns:lang="chs">下载车辆配置文件。</tu>
+	<tu xmlns:lang="kor">차량 구성 파일을 다운로드하십시오.</tu>
+</tm>

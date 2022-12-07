@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SB_CCF_UPLOAD2">
+	<tu
+    xmlns:lang="eng"
+  >You will not be allowed to download any changes you make to the configuration unless the current vehicle configuration has previously been uploaded.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het systeem zal u niet toestaan de veranderingen te downloaden die u in de configuratie wilt aanbrengen, mits het uploaden van de huidige voertuigconfiguratie eerst heeft plaatsgevonden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous ne serez pas autorisé à télécharger les modifications que vous avez apportées à la configuration si la configuration actuelle du véhicule n'a pas été téléchargée auparavant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es ist unzulässig, irgendwelche von Ihnen gemachten Änderungen an der Konfiguration herunterzuladen, wenn nicht zuvor eine aktuelle Fahrzeugkonfiguration hochgeladen wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non è consentito scaricare le eventuali modifiche apportate alla configurazione a meno che prima non sia stata caricata la configurazione veicolo corrente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >現在の車両コンフィギュレーションが先にアップロードされていない限り、コンフィギュレーションへ適用する何らかの変更のダウンロードは許可されません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não terá autorização para descarregar ('download') quaisquer alterações que faça na configuração a não ser que tenha enviado antes, por transferência ('upload'), uma configuração de veículo actual.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não será possível fazer o download de nenhuma alteração feita na configuração a menos que a atual configuração do veículo  já tenha sido carregada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вы не сможете загрузить какие-либо изменения, вносимые в конфигурацию, если ранее не была передана текущая конфигурация автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se le permitirá descargar ningún cambio realizado en la configuración a menos que se haya cargado previamente la configuración actual del vehículo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >除非之前已上传过当前车辆配置，否则将不允许下载任何您对配置所做的更改。</tu>
+	<tu
+    xmlns:lang="kor"
+  >현재 차량 구성을 이전에 업로드하지 않았다면 구성에서 변경한 사항을 다운로드할 수 없습니다.</tu>
+</tm>

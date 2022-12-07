@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckIMobiliserDTCs">
+	<tu
+    xmlns:lang="eng"
+  >Check for immobilizer associated DTCs and rectify as required.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer op DTC's met betrekking tot de startblokkering en voer de benodigde reparaties uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Rechercher les DTC associés à l'antidémarrage et corriger si nécessaire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf Wegfahrsperren-DTCs prüfen und bei Bedarf reparieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare la presenza di DTC associati all'immobilizzatore e rettificare secondo necessità.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イモビライザに関連する DTC がないか確認し、必要に応じて修理します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique se existem códigos de avaria (DTC) associados ao imobilizador e retifique conforme necessário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se há DTCs associados ao imobilizador e corrija conforme necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте наличие кодов DTC, относящихся к иммобилайзеру, и устраните неисправность.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Compruebe si hay DTC asociados con el inmovilizador y rectifíquelos según sea necesario.</tu>
+	<tu
+    xmlns:lang="chs"
+  >检查是否存在与发动机启动阻断器相关的 DTC 并在必要时予以校正。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이모빌라이저 관련 DTC가 있는지 확인하고 필요에 따라 수리하십시오.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_SRM_01">
+	<tu
+    xmlns:lang="eng"
+  >This self-test diagnostic routine will check for the general health of the satellite radio module:</tu>
+	<tu
+    xmlns:lang="nld"
+  >De diagnoseroutine van de zelftest zal de algemene gezonde staat van de satellietradiomodule controleren:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le programme d'autodiagnostic vérifiera l'état général du module radio par satellites :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Selbsttest-Diagnoseroutine prüft den allgemeinen Zustand des Satellitenradio-Steuergeräts ab:</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura di autodiagnosi controlla lo stato generale del modulo radio satellitare:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このセルフテスト診断ルーチンはサテライト無線モジュールの一般的な状態をチェックします：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina de autoteste verifica o estado geral do módulo do rádio por satélite:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina de diagnóstico de autoteste verifica a integridade geral do módulo de rádio via satélite:</tu>
+	<tu
+    xmlns:lang="rus"
+  >При данной процедуре самодиагностики будет выполнена проверка общего состояния спутникового радиоблока:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina de diagnosis de autocomprobación comprobará el buen estado general del módulo de radiosatélite:</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一自检诊断常规程序将检查卫星无线通讯模块的一般良好状态：</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 자체 테스트 진단 루틴에서는 위성 라디오 모듈의 일반적인 상태를 점검합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ALL_RWD">
+	<tu xmlns:lang="eng">All rear wheel drive</tu>
+	<tu xmlns:lang="nld">Alle achterwielaandrijving</tu>
+	<tu xmlns:lang="fra">Roues arrière motrices</tu>
+	<tu xmlns:lang="deu">Alle Fahrzeuge mit Hinterradantrieb</tu>
+	<tu xmlns:lang="ita">Trazione integrale posteriore</tu>
+	<tu xmlns:lang="jpn">すべての後輪駆動</tu>
+	<tu xmlns:lang="ptg">Todos, tracção às rodas traseiras</tu>
+	<tu xmlns:lang="ptb">Tração em todas as todas traseiras</tu>
+	<tu xmlns:lang="rus">Привод на все задние колеса</tu>
+	<tu xmlns:lang="esp">Tracción trasera total</tu>
+	<tu xmlns:lang="chs">所有后轮驱动</tu>
+	<tu xmlns:lang="kor">후륜 구동</tu>
+</tm>

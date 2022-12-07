@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RightSocket$G">
+	<tu xmlns:lang="eng">Master</tu>
+	<tu xmlns:lang="nld">Hoofd</tu>
+	<tu xmlns:lang="fra">Maître</tu>
+	<tu xmlns:lang="deu">Master</tu>
+	<tu xmlns:lang="ita">Unità di comando</tu>
+	<tu xmlns:lang="jpn">　ﾏｽタ－</tu>
+	<tu xmlns:lang="ptg">Principal</tu>
+	<tu xmlns:lang="ptb">Técnico</tu>
+	<tu xmlns:lang="rus">Главный</tu>
+	<tu xmlns:lang="esp">Maestra</tu>
+	<tu xmlns:lang="chs">主</tu>
+	<tu xmlns:lang="kor">마스터</tu>
+</tm>

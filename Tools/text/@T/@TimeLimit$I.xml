@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TimeLimit$I">
+	<tu xmlns:lang="eng">You have %T to complete this action.</tu>
+	<tu xmlns:lang="nld">U heeft nog %T om deze handeling te voltooien.</tu>
+	<tu xmlns:lang="fra">Vous avez %T pour effectuer cette opération.</tu>
+	<tu xmlns:lang="deu">Prüfung muß innerhalb von %T durchgeführt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per completare questo intervento si ha a disposizione %T</tu>
+	<tu xmlns:lang="jpn">この動作は%T時間で完了させます。</tu>
+	<tu xmlns:lang="ptg">Tem %T para concluir esta acção.</tu>
+	<tu xmlns:lang="ptb">Ainda faltam %T para concluir esta ação.</tu>
+	<tu xmlns:lang="rus">У вас %T для выполнения этой операции.</tu>
+	<tu xmlns:lang="esp">Se dispone de %T para completar esta tarea.</tu>
+	<tu xmlns:lang="chs">您有%T来完成这一动作。</tu>
+	<tu xmlns:lang="kor">이 작업을 완료하는 데 주어진 시간은 %T입니다.</tu>
+</tm>

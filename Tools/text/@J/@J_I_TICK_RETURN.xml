@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TICK_RETURN">
+	<tu xmlns:lang="eng">Press tick to return.</tu>
+	<tu xmlns:lang="nld">Druk op de afvinktoets om terug te gaan.</tu>
+	<tu xmlns:lang="fra">Appuyez sur la coche pour revenir.</tu>
+	<tu xmlns:lang="deu">Um zurückzukehren das Häkchen antippen.</tu>
+	<tu xmlns:lang="ita">Premere il tasto di spunta per uscire.</tu>
+	<tu xmlns:lang="jpn">ティックを押して戻りなさい。</tu>
+	<tu xmlns:lang="ptg">Cheio e bloqueado</tu>
+	<tu xmlns:lang="ptb">Pressione OK para retornar.</tu>
+	<tu xmlns:lang="rus">Нажмите на галочку, чтобы вернуться.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de continuar para volver a la pantalla anterior.</tu>
+	<tu xmlns:lang="chs">按勾号返回。</tu>
+	<tu xmlns:lang="kor">돌아가려면 체크 표시를 누르십시오.</tu>
+</tm>

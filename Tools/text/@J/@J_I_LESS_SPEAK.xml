@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_SPEAK">
+	<tu xmlns:lang="eng">Less speakers</tu>
+	<tu xmlns:lang="nld">Zonder luidsprekers</tu>
+	<tu xmlns:lang="fra">Sans haut-parleurs</tu>
+	<tu xmlns:lang="deu">Ohne Lautsprecher</tu>
+	<tu xmlns:lang="ita">Senza altoparlanti</tu>
+	<tu xmlns:lang="jpn">スピーカーなし</tu>
+	<tu xmlns:lang="ptg">Menos altifalantes</tu>
+	<tu xmlns:lang="ptb">Menos alto-falantes</tu>
+	<tu xmlns:lang="rus">Без динамиков</tu>
+	<tu xmlns:lang="esp">Sin altavoces</tu>
+	<tu xmlns:lang="chs">无扬声器</tu>
+	<tu xmlns:lang="kor">그 미만의 스피커</tu>
+</tm>

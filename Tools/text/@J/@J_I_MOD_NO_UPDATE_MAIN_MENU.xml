@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOD_NO_UPDATE_MAIN_MENU">
+	<tu
+    xmlns:lang="eng"
+  >If the module fitted to the vehicle doesn't require updating, the Diagnostic Tool will instruct the technican that there is no software available and then return to the main menu.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Indien de in de auto geïnstalleerde module niet hoeft te worden bijgewerkt, geeft het diagnosesysteem aan de monteur aan dat er geen software beschikbaar is en keert het vervolgens terug naar het hoofdmenu.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si le module monté dans le véhicule ne nécessite aucune mise à jour, l'outil de diagnostic informera le technicien de l'absence de logiciel disponible et retournera au menu principal.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn das in das Fahrzeug eingebaute Steuergerät nicht aktualisiert werden muss, wird der Techniker vom Diagnosetool darauf hingewiesen, dass keine Software verfügbar ist, woraufhin das System zum Hauptmenü zurückkehrt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se il modulo montato sul veicolo non richiede un aggiornamento, lo strumento diagnostico segnalerà al tecnico l'assenza di software disponibile e tornerà al menu principale.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両に取り付けられているモジュールにアップデートが不要の場合、診断ツールはテクニシャンに対して使用可能なソフトウェアがないことを示してから、メイン メニューに戻ります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o módulo montado no veículo não necessitar de atualização, a ferramenta de diagnóstico informará o técnico de que não existe software disponível e depois volta ao menu principal.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o módulo instalado no veículo não necessitar de atualização, a Ferramenta de Diagnóstico informará ao técnico que não há software disponível e, em seguida, retornará ao menu principal.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если установленный на автомобиль блок не требует обновления, диагностическое устройство выведет на экран сообщение о том, что обновление отсутствует, а затем вернется в главное меню.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el módulo instalado en el vehículo no requiere una actualización, la herramienta de diagnóstico indicará al técnico que no hay software disponible y, a continuación, volverá al menú principal.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果安装到车辆的模块不需要更新，诊断工具将会告诉技师没有可供使用的软件，然后返回到主菜单。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에 장착된 모듈을 업데이트할 필요가 없는 경우 진단 도구는 정비사에게 사용 가능한 소프트웨어가 없음을 알린 후 주 메뉴로 돌아가라고 안내합니다.</tu>
+</tm>

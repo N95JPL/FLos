@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PBM_SHIFT_FROM_PARK">
+	<tu xmlns:lang="eng">Shift from park</tu>
+	<tu xmlns:lang="nld">Schakel uit de parkeerstand</tu>
+	<tu xmlns:lang="fra">Sortir de la position stationnement.</tu>
+	<tu xmlns:lang="deu">Schalten aus Parkstellung</tu>
+	<tu xmlns:lang="ita">Cambio marcia da Parcheggio</tu>
+	<tu xmlns:lang="jpn">パークからのシフト</tu>
+	<tu xmlns:lang="ptg">Mudança a partir de 'P'</tu>
+	<tu xmlns:lang="ptb">Mude para estacionar</tu>
+	<tu xmlns:lang="rus">Переключение из положения стоянки</tu>
+	<tu xmlns:lang="esp">Cambio de marcha desde la posición P</tu>
+	<tu xmlns:lang="chs">从驻车档换档</tu>
+	<tu xmlns:lang="kor">주차 위치에서 변속</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_OBD_SYS">
+	<tu xmlns:lang="eng">No on-board diagnostic system</tu>
+	<tu xmlns:lang="nld">Zonder on-board-diagnosesysteem</tu>
+	<tu xmlns:lang="fra">Sans système de diagnostic de bord</tu>
+	<tu xmlns:lang="deu">Kein On-Board-Diagnosesystem</tu>
+	<tu xmlns:lang="ita">Senza sistema diagnostico di bordo</tu>
+	<tu xmlns:lang="jpn">車載診断システムなし</tu>
+	<tu xmlns:lang="ptg">Não existe um sistema de diagnóstico integrado</tu>
+	<tu xmlns:lang="ptb">Nenhum sistema de diagnóstico a bordo</tu>
+	<tu xmlns:lang="rus">Бортовая диагностическая система отсутствует</tu>
+	<tu xmlns:lang="esp">No hay sistema de diagnosis de a bordo</tu>
+	<tu xmlns:lang="chs">无车载诊断系统</tu>
+	<tu xmlns:lang="kor">자기진단장치 시스템 없음</tu>
+</tm>

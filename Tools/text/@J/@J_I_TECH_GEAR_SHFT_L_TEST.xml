@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TECH_GEAR_SHFT_L_TEST">
+	<tu
+    xmlns:lang="eng"
+  >Instruct technician to carry out gear shift learn during road test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Draag de monteur op de inleerroutine van het schakelen tijdens het rijden uit te voeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Donnez les instructions au technicien pour effectuer l'apprentissage du sélecteur de vitesse pendant le test sur route.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den Techniker anweisen, die Schalt-Lernroutine während einer Probefahrt durchzuführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Istruire il tecnico in modo che effettui l'apprendimento del selettore cambio durante la prova su strada.</tu>
+	<tu xmlns:lang="jpn">走行中のギア シフト学習実行をテクニシャンに指示。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Dar indicações ao técnico para efectuar uma programação das mudanças durante uma prova de estrada.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Instruir o técnico a realizar o aprendizado de seleção de marchas durante o teste de rodagem.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Дайте указание технику выполнить операцию самонастройки переключения передач в ходе дорожного испытания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Indicar al técnico que realice el aprendizaje del cambio durante la prueba de conducción.</tu>
+	<tu xmlns:lang="chs">让技术员在路试期间执行换档记忆。</tu>
+	<tu
+    xmlns:lang="kor"
+  >정비사가 도로 주행 테스트 중에 기어 변속 학습을 수행하도록 지시합니다.</tu>
+</tm>

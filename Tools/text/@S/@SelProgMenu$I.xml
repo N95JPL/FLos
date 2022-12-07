@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SelProgMenu$I">
+	<tu
+    xmlns:lang="eng"
+  >Select the diesel powertrain control module from the module programming, configure new modules menu to carry out this procedure.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Kies de aandrijflijnregelmodule van de dieselmotor uit de module programmeren, het menu 'nieuwe modules programmeren', om deze procedure uit te voeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélectionnez le module de commande du groupe motopropulseur diesel dans la programmation du module, puis le menu configurer nouveaux modules pour effectuer cette procédure.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um dies durchzuführen, aus der Steuergerätprogrammierung, Konfiguration neuer Steuergeräte das Dieselmotor-Steuergerät auswählen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per eseguire questa procedura, selezionare il modulo di gestione catena cinematica diesel dalla programmazione modulo e configurare il menu dei nuovi moduli.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュール プログラミングからディーゼル パワートレーン コントロール モジュールを選択し、新しいモジュール メニューをコンフィギュレーションしてこの手順を実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccione o módulo de controlo do grupo motopropulsor do sistema diesel no menu de programação de módulos, configuração de módulos novos, para levar a cabo este procedimento.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Selecione o módulo de controle do powertrain do diesel a partir da programação do módulo, configure o menu dos novos módulos para realizar este procedimento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для выполнения этой процедуры выберите блок управления дизельным силовым агрегатом в меню программирования блоков и настройте меню новых блоков.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccione el módulo de control del grupo motor Diesel y transmisión en el menú de programación de módulos, configuración de módulos nuevos, para realizar este procedimiento.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'从模块编程中选择柴油机动力传动系统控制模块，配置新的模块菜单来执行此程序。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >모듈 프로그램에서 디젤 파워트레인 컨트롤 모듈을 선택하고 이 절차를 수행하도록 새 모듈 메뉴를 구성하십시오.</tu>
+</tm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CLIMATIC_SEATS_REAR">
+	<tu xmlns:lang="eng">Rear climatic seats (heated and cooled)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Achterstoelen met klimaatbeheersing (verwarming en koeling)</tu>
+	<tu xmlns:lang="fra">Sièges arrière climatisés (chauffés et rafraîchis).</tu>
+	<tu xmlns:lang="deu">Klimatisierte Sitze hinten (beheizt und gekühlt)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sedili posteriori climatizzati (riscaldati e raffreddati)</tu>
+	<tu xmlns:lang="jpn">リア シート コンディショニング (暖房および冷房)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Bancos climatizados traseiros (aquecidos e arrefecidos)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Assentos de temperatura traseiros (aquecidos ou resfriados)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Задние сиденья с системой микроклимата (обогрев и охлаждение)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asientos traseros climatizados (calefactados y refrigerados)</tu>
+	<tu xmlns:lang="chs">后气候座椅（加热与冷却）</tu>
+	<tu xmlns:lang="kor">리어 온도 조절 시트(난방 및 냉방)</tu>
+</tm>

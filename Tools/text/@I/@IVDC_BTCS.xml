@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IVDC_BTCS">
+	<tu xmlns:lang="eng">Brake traction control system</tu>
+	<tu xmlns:lang="nld">Traction control</tu>
+	<tu xmlns:lang="fra">Système d'antipatinage au freinage</tu>
+	<tu xmlns:lang="deu">Brems-Traktionskontrollsystem</tu>
+	<tu xmlns:lang="ita">Sistema controllo trazione freni</tu>
+	<tu xmlns:lang="jpn">ブレーキ トラクション コントロール システム</tu>
+	<tu xmlns:lang="ptg">Sistema de controlo da tracção, travagem</tu>
+	<tu xmlns:lang="ptb">Sistema de controle de tração de frenagem</tu>
+	<tu xmlns:lang="rus">Противобуксовочная система</tu>
+	<tu xmlns:lang="esp">Sistema de control de la tracción de los frenos</tu>
+	<tu xmlns:lang="chs">制动器牵引控制系统</tu>
+	<tu xmlns:lang="kor">브레이크 트랙션 컨트롤 시스템</tu>
+</tm>

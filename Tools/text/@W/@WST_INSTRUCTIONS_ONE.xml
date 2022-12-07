@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_INSTRUCTIONS_ONE">
+	<tu
+    xmlns:lang="eng"
+  >This test checks the electrical assignment and hydraulic operation of each wheels ABS sub-system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze test controleert de elektrische toekenning en hydraulische werking van het ABS-subsysteem van elk wiel.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce test contrôle l'affectation électrique et le fonctionnement hydraulique de chaque sous-système ABS des roues.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Test prüft auf elektrische Zuordnung und hydraulische Funktion jedes Rad-Untersystems des ABS-Systems.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa prova controlla l'assegnazione elettrica e il funzionamento idraulico del sottosistema ABS di ciascuna ruota.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストにより、各ホイールの ABS サブシステムの電気的割り当て作業およびハイドロリック作動をチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este teste verifica a função eléctrica e o funcionamento hidráulico do subsistema do ABS de cada uma das rodas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este teste verifica a operação hidráulica e atribuição elétrica de cada subsistema ABS das rodas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная проверка выполняет проверку электрического назначения и работу гидравлической системы подсистемы ABS каждого колеса.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta prueba verifica la asignación eléctrica y el funcionamiento hidráulico del subsistema del ABS en cada rueda.</tu>
+	<tu xmlns:lang="chs">这一测试检查每一车轮 ABS 子系统的电气分配与液压操作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 테스트에서는 각 휠 ABS 하위 시스템의 전기 할당 및 유압 작동을 점검합니다.</tu>
+</tm>

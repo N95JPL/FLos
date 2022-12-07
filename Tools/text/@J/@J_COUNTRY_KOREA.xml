@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_KOREA">
+	<tu xmlns:lang="eng">Korea</tu>
+	<tu xmlns:lang="nld">Korea</tu>
+	<tu xmlns:lang="fra">Corée</tu>
+	<tu xmlns:lang="deu">Korea</tu>
+	<tu xmlns:lang="ita">Corea</tu>
+	<tu xmlns:lang="jpn">韓国</tu>
+	<tu xmlns:lang="ptg">Coreia</tu>
+	<tu xmlns:lang="ptb">Coreia</tu>
+	<tu xmlns:lang="rus">Корея</tu>
+	<tu xmlns:lang="esp">Corea</tu>
+	<tu xmlns:lang="chs">韩国</tu>
+	<tu xmlns:lang="kor">대한민국</tu>
+</tm>

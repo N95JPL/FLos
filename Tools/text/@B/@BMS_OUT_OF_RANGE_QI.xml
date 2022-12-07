@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_OUT_OF_RANGE_QI">
+	<tu
+    xmlns:lang="eng"
+  >An out of range value was observed during quiescent current measurements.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens het meten van de ruststroom werd een waarde buiten het bereik waargenomen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une valeur hors limites a été observée pendant les mesures de courant de repos absorbé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei den Ruhestrommessungen wurde ein außerhalb des Bereichs liegender Wert ermittelt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Durante le misure della corrente a riposo, è stato osservato un valore fuori campo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >暗電流を計測している間に、規定範囲外の数値が確認されました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Foi observado um valor fora da gama durante medições da corrente de repouso.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Um valor fora da faixa foi observado durante as medições de corrente de inatividade.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Во время измерения тока покоя обнаружено значение за пределами допустимого диапазона.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se observó un valor fuera de límites al medir la corriente remanente.</tu>
+	<tu xmlns:lang="chs">在进行静态电流测量期间，观测到了一个超出范围的测量值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >대기 전류 측정 중에 범위를 벗어나는 값이 관찰되었습니다.</tu>
+</tm>

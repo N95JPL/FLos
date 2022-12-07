@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SelectHWType">
+	<tu xmlns:lang="eng">Select hardware type</tu>
+	<tu xmlns:lang="nld">Selecteer het hardwaretype</tu>
+	<tu xmlns:lang="fra">Sélectionnez le type de matériel</tu>
+	<tu xmlns:lang="deu">Hardwaretyp auswählen.</tu>
+	<tu xmlns:lang="ita">Selezionare il tipo di hardware</tu>
+	<tu xmlns:lang="jpn">ハードウェア タイプを選択しなさい。</tu>
+	<tu xmlns:lang="ptg">Seleccionar tipo de hardware</tu>
+	<tu xmlns:lang="ptb">Selecione o tipo de hardware</tu>
+	<tu xmlns:lang="rus">Выберите тип оборудования</tu>
+	<tu xmlns:lang="esp">Seleccionar tipo de hardware</tu>
+	<tu xmlns:lang="chs">选择硬件类型</tu>
+	<tu xmlns:lang="kor">하드웨어 유형 선택</tu>
+</tm>

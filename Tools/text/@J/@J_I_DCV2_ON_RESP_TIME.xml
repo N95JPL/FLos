@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DCV2_ON_RESP_TIME">
+	<tu xmlns:lang="eng">Direction control valve 2 - on response time</tu>
+	<tu xmlns:lang="nld">Richtingsregelklep 2 - reactietijd aan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Electrovanne de commande directionnelle 2 - temps de réponse d'activation.</tu>
+	<tu xmlns:lang="deu">Richtungssteuerventil 2 - Ansprechzeit Einschaltung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Valvola controllo direzione 2 - tempo di risposta attivazione</tu>
+	<tu xmlns:lang="jpn">方向コントロール バルブ 2 - オン応答時間</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Válvula de controlo da direcção 2 - tempo de resposta para ligar</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Válvula do controle de direção 2 - em tempo de resposta</tu>
+	<tu xmlns:lang="rus">Распределитель 2 - время срабатывания на включение</tu>
+	<tu
+    xmlns:lang="esp"
+  >Válvula de control de dirección 2: tiempo de respuesta de activación</tu>
+	<tu xmlns:lang="chs">方向控制阀 2 - 打开响应时间</tu>
+	<tu xmlns:lang="kor">방향 컨트롤 밸브 2 - ON 응답 시간</tu>
+</tm>

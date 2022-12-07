@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ReadingAsBuiltFileError">
+	<tu xmlns:lang="eng">Error reading as built file</tu>
+	<tu xmlns:lang="nld">Fout bij lezen van bestand af fabriek</tu>
+	<tu xmlns:lang="fra">Erreur de lecture du fichier de configuration usine</tu>
+	<tu xmlns:lang="deu">Fehler beim Lesen der Datei mit werkseitigen Baudaten</tu>
+	<tu xmlns:lang="ita">Errore di lettura file di fabbricazione</tu>
+	<tu xmlns:lang="jpn">アズ ビルト ファイル読み取りエラー</tu>
+	<tu xmlns:lang="ptg">Erro ao ler ficheiro dos dados de fábrica</tu>
+	<tu xmlns:lang="ptb">Erro de leitura como arquivo incorporado</tu>
+	<tu xmlns:lang="rus">Ошибка чтения файла заводских параметров</tu>
+	<tu xmlns:lang="esp">Error al leer el archivo de configuración de fábrica</tu>
+	<tu xmlns:lang="chs">编译文件读取出错</tu>
+	<tu xmlns:lang="kor">애즈-빌트(As-Built) 파일 읽기 오류</tu>
+</tm>

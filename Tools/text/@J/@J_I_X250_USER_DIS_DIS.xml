@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_X250_USER_DIS_DIS">
+	<tu xmlns:lang="eng">X250 user discrimination disabled</tu>
+	<tu xmlns:lang="nld">X250 onderscheiding door gebruiker uitgeschakeld</tu>
+	<tu xmlns:lang="fra">X250 discrimination utilisateur désactivée</tu>
+	<tu xmlns:lang="deu">X250 Benutzererkennung deaktiviert</tu>
+	<tu xmlns:lang="ita">X250 discriminazione utente disabilitata</tu>
+	<tu xmlns:lang="jpn">X250 ユーザー識別作動不可設定済み</tu>
+	<tu xmlns:lang="ptg">Descriminação de utilizador X250 desactivada</tu>
+	<tu xmlns:lang="ptb">Discriminação do usuário de X250 desativada</tu>
+	<tu xmlns:lang="rus">Распознавание пользователя X250 отключено</tu>
+	<tu xmlns:lang="esp">X250: función de detección de usuario desactivada</tu>
+	<tu xmlns:lang="chs">X250 用户识别已禁用</tu>
+	<tu xmlns:lang="kor">X250 사용자 구별 비활성화</tu>
+</tm>

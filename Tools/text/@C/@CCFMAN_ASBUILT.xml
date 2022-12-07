@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_ASBUILT">
+	<tu xmlns:lang="eng">As built</tu>
+	<tu xmlns:lang="nld">Af fabriek</tu>
+	<tu xmlns:lang="fra">Conforme à l'exécution</tu>
+	<tu xmlns:lang="deu">Werkseitige Baudaten</tu>
+	<tu xmlns:lang="ita">Di fabbricazione</tu>
+	<tu xmlns:lang="jpn">アズ ビルト (生産時点)</tu>
+	<tu xmlns:lang="ptg">Dados de fábrica</tu>
+	<tu xmlns:lang="ptb">Como construído</tu>
+	<tu xmlns:lang="rus">Заводские параметры</tu>
+	<tu xmlns:lang="esp">Configuración de fábrica</tu>
+	<tu xmlns:lang="chs">出厂状态</tu>
+	<tu xmlns:lang="kor">애즈-빌트(As-Built)</tu>
+</tm>

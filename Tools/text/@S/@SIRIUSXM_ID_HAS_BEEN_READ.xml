@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SIRIUSXM_ID_HAS_BEEN_READ">
+	<tu
+    xmlns:lang="eng"
+  >The following SiriusXM® identification was read from the infotainment master controller module</tu>
+	<tu
+    xmlns:lang="nld"
+  >De volgende SiriusXM®-identificatie is afgelezen van de infotainmentmastercontrollermodule</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'identification SiriusXM® suivante a été extraite du module du contrôleur maître d'infordiverstissment</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die folgende SiriusXM® Identifizierung wurde aus der Infotainment-Hauptsteuerung ausgelesen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La seguente identificazione SiriusXM® è stata letta dal modulo del Controller principale Infotainment (IMC)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >以下の SiriusXMR 識別情報がインフォテイメント マスタ コントローラ モジュールから読み込まれました</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A seguinte identificação SiriusXM® foi lida a partir do módulo do controlador principal do sistema de informação e entretenimento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A seguinte identificação SiriusXM® foi lida a partir do módulo do controlador mestre do infoentretenimento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующий идентификатор SiriusXM® был считан с блока главного контроллера мультимедийной системы</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha leído el siguiente identificador de SiriusXM® desde el módulo del controlador principal del sistema de información y entretenimiento.</tu>
+	<tu xmlns:lang="chs">从信息娱乐主控制器中读取了以下 SiriusXM? 标识</tu>
+	<tu
+    xmlns:lang="kor"
+  >인포테인먼트 마스터 컨트롤러 모듈에서 다음 SiriusXM® 식별 정보를 읽었습니다.</tu>
+</tm>

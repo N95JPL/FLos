@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MAINTAIN_ENG_SPD_OP_TORQUE">
+	<tu
+    xmlns:lang="eng"
+  >Utilise the tip-shift automatic transmission control to maintain the engine speed with combinations of engine loads.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Gebruik de tip-schakelregeling van de automatische transmissie om het motortoerental te handhaven in combinatie met diverse motorbelastingen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Utilisez la commande de transmission automatique séquentielle pour maintenir le régime moteur avec des combinaisons de charges moteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Direktschaltung des Automatikgetriebes nutzen, um die Motordrehzahl bei unterschiedlichen Motorlasten aufrechtzuerhalten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Utilizzare il controllo del cambio automatico 'tip-shift' per mantenere il regime del motore con le combinazioni di carichi del motore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ティップシフト オートマチック トランスミッション コントロールを使用し、エンジン負荷と組み合わせてエンジン スピードを維持します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Utilizar o comando da transmissão automática de desaceleração-mudança para manter a velocidade do motor com várias combinações de cargas do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Utilize o controle de transmissão automática para manter a rotação do motor com combinações de cargas do motor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Используйте tip-shift (ручное) управление автоматической коробкой передач для поддержания скорости вращения двигателя с комбинациями нагрузки двигателя.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Utilizar la palanca de la caja de cambios automática con mando secuencial para mantener el régimen del motor con distintas combinaciones de cargas del motor.</tu>
+	<tu
+    xmlns:lang="chs"
+  >利用 Tip-Shift 自动变速器控制维持不同发动机负荷下的发动机转速。</tu>
+	<tu
+    xmlns:lang="kor"
+  >팁 시프트 자동 변속기 컨트롤을 활용하여 다양한 엔진 부하의 조합으로 엔진 속도를 유지하십시오.</tu>
+</tm>

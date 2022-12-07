@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_MAN_TRANSMISSION">
+	<tu xmlns:lang="eng">308-00 Manual transmission/transaxle and clutch</tu>
+	<tu
+    xmlns:lang="nld"
+  >308-00 Handgeschakelde versnellingsbak / transaxle en koppeling</tu>
+	<tu xmlns:lang="fra">308-00 Transmission/boîte-pont manuelle et embrayage</tu>
+	<tu xmlns:lang="deu">308-00 Schaltgetriebe und Kupplung</tu>
+	<tu xmlns:lang="ita">308-00 Cambio manuale/gruppo trasmissione e frizione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >308-00 マニュアル トランスミッション／トランスアクスルおよびクラッチ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >308-00 Caixa de velocidades/transmissão manual e embraiagem</tu>
+	<tu xmlns:lang="ptb">308-00 Transmissão manual, transeixo e embreagem</tu>
+	<tu
+    xmlns:lang="rus"
+  >308-00 Блок механической коробки передач/трансмиссии и сцепление</tu>
+	<tu xmlns:lang="esp">308-00 Caja de cambios manual y embrague</tu>
+	<tu xmlns:lang="chs">308-00手动变速器/驱动桥与离合器</tu>
+	<tu xmlns:lang="kor">308-00 수동 변속기/트랜스액슬 및 클러치</tu>
+</tm>

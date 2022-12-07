@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_36">
+<tu xmlns:lang="eng">Frequency modulation/pulse width modulation failure - signal frequency is too low.</tu>
+<tu xmlns:lang="nld">Fout in frequentiemodulatie / pulsbreedtemodulatie - signaalfrequentie is te laag.</tu>
+<tu xmlns:lang="fra">D&#233;faut de modulation de fr&#233;quence / modulation de largeur d&#39;impulsions - fr&#233;quence du signal trop basse.</tu>
+<tu xmlns:lang="deu">St&#246;rung Frequenzmodulation/Impulsbreitenmodulation - Signalfrequenz ist zu niedrig.</tu>
+<tu xmlns:lang="ita">Guasto di modulazione frequenza/modulazione durata impulsi - frequenza segnale troppo bassa.</tu>
+<tu xmlns:lang="jpn">Žü”g”•Ï’²^ƒpƒ‹ƒX••Ï’²•s—Ç | ƒVƒOƒiƒ‹Žü”g”A’á‰ß‚¬</tu>
+<tu xmlns:lang="ptg">Falha na modula&#231;&#227;o da frequ&#234;ncia/modula&#231;&#227;o por largura de impulso - frequ&#234;ncia do sinal &#233; demasiado fraca.</tu>
+<tu xmlns:lang="rus">Îøèáêà ÷àñòîòíîé ìîäóëÿöèè/ØÈÌ - ñëèøêîì íèçêàÿ ÷àñòîòà ñèãíàëà.</tu>
+<tu xmlns:lang="esp">Fallo de modulaci&#243;n de frecuencia/modulaci&#243;n de anchura de impulsos: frecuencia de se&#241;al muy baja.</tu>
+<tu xmlns:lang="chs">ÆµÂÊµ÷ÖÆ/Âö¿íµ÷ÖÆ¹ÊÕÏ - ÐÅºÅÆµÂÊ¹ýµÍ¡£</tu>
+</tm>

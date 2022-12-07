@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_FEM">
+	<tu xmlns:lang="eng">Front entertainment control module</tu>
+	<tu xmlns:lang="nld">Regelmodule van multimediasysteem voorin.</tu>
+	<tu xmlns:lang="fra">Module de commande multimédia avant.</tu>
+	<tu xmlns:lang="deu">Steuermodul Unterhaltungssystem vorne.</tu>
+	<tu xmlns:lang="ita">Modulo comando sistema intrattenimento anteriore.</tu>
+	<tu xmlns:lang="jpn">フロント エンタテイメント コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de controlo do entretenimento dianteiro.</tu>
+	<tu xmlns:lang="ptb">Módulo de controle de entretenimento dianteiro</tu>
+	<tu xmlns:lang="rus">Передний блок управления мультимедийной системой</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control del sistema de entretenimiento audiovisual delantero.</tu>
+	<tu xmlns:lang="chs">前娱乐控制模块</tu>
+	<tu xmlns:lang="kor">프론트 엔터테인먼트 컨트롤 모듈</tu>
+</tm>

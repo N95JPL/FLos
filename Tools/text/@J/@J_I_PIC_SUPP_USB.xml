@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PIC_SUPP_USB">
+	<tu xmlns:lang="eng">Picture support with USB</tu>
+	<tu xmlns:lang="nld">Beeldondersteuning bij USB </tu>
+	<tu xmlns:lang="fra">Prise en charge des images avec USB </tu>
+	<tu xmlns:lang="deu">Bildunterstützung mit USB </tu>
+	<tu xmlns:lang="ita">Supporto immagini con USB</tu>
+	<tu xmlns:lang="jpn">USB を使用するピクチャー サポート</tu>
+	<tu xmlns:lang="ptg">Suporte de imagens com USB</tu>
+	<tu xmlns:lang="ptb">Suporte de imagens com o USB</tu>
+	<tu xmlns:lang="rus">Поддержка вывода изображений с USB</tu>
+	<tu xmlns:lang="esp">Compatibilidad con imágenes para USB</tu>
+	<tu xmlns:lang="chs">带 USB 的图片支持</tu>
+	<tu xmlns:lang="kor">USB로 사진 지원</tu>
+</tm>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_OBJECTS_ON_SEAT">
+	<tu xmlns:lang="eng">Make sure there are no objects placed on the seats.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat er geen zware voorwerpen op de stoelen liggen.</tu>
+	<tu xmlns:lang="fra">Vérifiez qu'il n'y a aucun objet sur les sièges.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass sich keine Objekte auf den Sitzen befinden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che non vi siano oggetti appoggiati sui sedili.</tu>
+	<tu xmlns:lang="jpn">シート上に何も置かれていないことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certificar-se de que não existem objectos colocados sobre os bancos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que não haja objetos colocados nos assentos.</tu>
+	<tu xmlns:lang="rus">Убедитесь, что на сиденьях нет предметов.</tu>
+	<tu xmlns:lang="esp">Comprobar que no hay objetos en los asientos.</tu>
+	<tu xmlns:lang="chs">确保座椅上没有放置物体。</tu>
+	<tu xmlns:lang="kor">시트에 아무런 물체도 놓여 있지 않은지 확인하십시오.</tu>
+</tm>

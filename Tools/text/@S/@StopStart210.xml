@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart210">
+	<tu
+    xmlns:lang="eng"
+  >If climate control is off; check auto stop/start associated modules for DTCs, see TOPIx for more information.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de klimaatregeling is uitgeschakeld, controleert u de modules die behoren bij het automatische Stop/Start op DTC's, raadpleeg TOPIx voor meer informatie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la climatisation est désactivée, recherchez des DTC liés aux modules associés au système d'arrêt/démarrage auto ; consultez TOPIx pour plus d'informations.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei ausgeschalteter Klimaregelung die den Auto-Stopp-Start-Funktionen zugeordneten Steuergeräte auf DTCs prüfen; weitere Informationen siehe TOPIx.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se il comando della climatizzazione è disinserito, verificare l'eventuale presenza di DTC nei moduli associati allo Stop/Start automatico; per ulteriori informazioni consultare TOPIx.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >クライメート コントロールがオフの場合は、自動ストップ/スタート スイッチに関連するモジュールの DTC がないか点検します。詳細については、TOPIx を参照してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o controlo da climatização estiver desligado, verifique se existem DTC nos módulos associados à função de arranque/paragem automática. Consulte o TOPIx para mais informações.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o controle de temperatura estiver desligado, verifique os módulos associados ao stop/start automático quanto a DTCs, consulte o TOPIx para obter mais informações.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если климат-контроль отключен, проверьте наличие кодов DTC в блоках, относящихся к автоматической интеллектуальной системе запуска/остановки двигателя стоп/старт. Более подробную информацию см. TOPIx.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el control de climatización está apagado, compruebe si hay códigos DTC relacionados con los módulos del sistema Stop/Start. Consulte TOPIx para obtener más información.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果气候控制关闭，检查自动停止/启动相关模块是否存在 DTC，并参阅 TOPIx 以了解更多信息。</tu>
+	<tu
+    xmlns:lang="kor"
+  >실내 온도 조절 시스템이 꺼져 있는 경우 자동 Stop/Start 관련 모듈에 DTC가 있는지 확인하십시오. 자세한 내용은 TOPIx를 참조하십시오.</tu>
+</tm>

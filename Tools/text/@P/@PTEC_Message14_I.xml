@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PTEC_Message14_I">
+	<tu xmlns:lang="eng">Programming failed.</tu>
+	<tu xmlns:lang="nld">Programmeren mislukt.</tu>
+	<tu xmlns:lang="fra">Erreur de programmation.</tu>
+	<tu xmlns:lang="deu">Programmierung nicht durchgeführt.</tu>
+	<tu xmlns:lang="ita">Mancata programmazione.</tu>
+	<tu xmlns:lang="jpn">プログラミングに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Programação falhou.</tu>
+	<tu xmlns:lang="ptb">Falha na programação.</tu>
+	<tu xmlns:lang="rus">Ошибка программирования.</tu>
+	<tu xmlns:lang="esp">La programación falló.</tu>
+	<tu xmlns:lang="chs">编程失败。</tu>
+	<tu xmlns:lang="kor">프로그래밍에 실패했습니다.</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DMP_MTR_END_STP">
+	<tu xmlns:lang="eng">Damper motors end stop detection</tu>
+	<tu xmlns:lang="nld">Eindaanslagdetectie van dempermotoren</tu>
+	<tu
+    xmlns:lang="fra"
+  >Détection de la butée d'extrémité des moteurs d'amortisseur</tu>
+	<tu xmlns:lang="deu">Ermittlung Dämpfermotoren-Endanschlag</tu>
+	<tu xmlns:lang="ita">Rilevamento finecorsa motorini smorzatore</tu>
+	<tu xmlns:lang="jpn">ダンパー モーター エンド ストップ検出</tu>
+	<tu xmlns:lang="ptg">Detecção do batente dos motores dos registos</tu>
+	<tu xmlns:lang="ptb">Detecção dos motores do Amortecedor da extremidade </tu>
+	<tu xmlns:lang="rus">Определение положения упора демпферных двигателей</tu>
+	<tu xmlns:lang="esp">Detección del tope de los motores de las trampillas</tu>
+	<tu xmlns:lang="chs">减震器电机端点止动器检测</tu>
+	<tu xmlns:lang="kor">댐퍼 모터 엔드 스톱 감지</tu>
+</tm>

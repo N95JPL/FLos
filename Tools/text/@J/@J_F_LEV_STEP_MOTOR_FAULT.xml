@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_LEV_STEP_MOTOR_FAULT">
+	<tu xmlns:lang="eng">Levelling stepper motor - fault detected.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stappenmotor voor hoogte-instelling - fout gedetecteerd.</tu>
+	<tu xmlns:lang="fra">Moteur pas à pas de site de phare - défaut détecté.</tu>
+	<tu xmlns:lang="deu">Schrittmotor Niveauausgleich - Störung ermittelt</tu>
+	<tu xmlns:lang="ita">Motorino passo passo livellamento - rilevato guasto.</tu>
+	<tu xmlns:lang="jpn">レベリング ステッパ モーター - 故障検出</tu>
+	<tu xmlns:lang="ptg">Motor passo-a-passo, nivelamento - detectada avaria.</tu>
+	<tu xmlns:lang="ptb">Nivelamento do motor de passo ? falha detectada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Шаговый электродвигатель коррекции - обнаружена неисправность.</tu>
+	<tu xmlns:lang="esp">Motor paso a paso de nivelación: anomalía detectada.</tu>
+	<tu xmlns:lang="chs">调平步进电机 - 检测到故障。</tu>
+	<tu xmlns:lang="kor">레벨링 스테퍼 모터 - 고장이 감지됨</tu>
+</tm>

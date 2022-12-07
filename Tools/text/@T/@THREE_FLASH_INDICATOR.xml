@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@THREE_FLASH_INDICATOR">
+	<tu xmlns:lang="eng">3 flash turn signals</tu>
+	<tu xmlns:lang="nld">3 knippersignalen van de richtingaanwijzers</tu>
+	<tu xmlns:lang="fra">Indicateurs de direction à 3 clignotements</tu>
+	<tu xmlns:lang="deu">Abbiegesignale mit dreimaligem Blinken</tu>
+	<tu xmlns:lang="ita">3 indicatori di direzione lampeggianti</tu>
+	<tu xmlns:lang="jpn">3 回点滅方向指示灯</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se ainda for detectado movimento na roda que está a ser testada após 2 segundos, o teste falha e é emitido um erro relacionado com o sistema hidráulico.</tu>
+	<tu xmlns:lang="ptb">3 indicadores de direção</tu>
+	<tu xmlns:lang="rus">3-кратное мигание указателей поворота</tu>
+	<tu xmlns:lang="esp">Intermitentes de 3 destellos</tu>
+	<tu xmlns:lang="chs">3 个闪灯转向信号灯</tu>
+	<tu xmlns:lang="kor">플래시 방향 지시등 3개</tu>
+</tm>

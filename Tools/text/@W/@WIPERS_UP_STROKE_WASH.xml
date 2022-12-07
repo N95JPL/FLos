@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WIPERS_UP_STROKE_WASH">
+	<tu xmlns:lang="eng">Windshield wipers up-stroke wash</tu>
+	<tu xmlns:lang="nld">Sproeien van ruitenwissers voorruit bij slag omhoog.</tu>
+	<tu xmlns:lang="fra">Lavage de course ascendante d'essuie-glaces.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Windschutzscheibenwischer mit Waschfunktion bei Aufwärtsbewegung</tu>
+	<tu xmlns:lang="ita">Corsa verso l'alto tergicristalli parabrezza </tu>
+	<tu xmlns:lang="jpn">ウィンドシールド ワイパー アップストローク ウォッシュ</tu>
+	<tu xmlns:lang="ptg">Lavagem na passagem ascendente do limpa-pára-brisas</tu>
+	<tu xmlns:lang="ptb">Passada dos limpadores de para-brisa com lavagem</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подача омывающей жидкости при движении стеклоочистителя вверх</tu>
+	<tu xmlns:lang="esp">Lavado en subida de los limpiaparabrisas</tu>
+	<tu xmlns:lang="chs">挡风玻璃刮水器上行清洗</tu>
+	<tu xmlns:lang="kor">윈드실드 와이퍼 업 스트로크 와셔 작동</tu>
+</tm>

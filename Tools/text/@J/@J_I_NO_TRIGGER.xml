@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_TRIGGER">
+	<tu xmlns:lang="eng">No trigger</tu>
+	<tu xmlns:lang="nld">Geen oorzaak voor afgaan van alarm</tu>
+	<tu xmlns:lang="fra">Pas de déclenchement.</tu>
+	<tu xmlns:lang="deu">Kein Trigger</tu>
+	<tu xmlns:lang="ita">Nessuna attivazione</tu>
+	<tu xmlns:lang="jpn">トリガーなし</tu>
+	<tu xmlns:lang="ptg">Sem disparo</tu>
+	<tu xmlns:lang="ptb">Nenhum acionador</tu>
+	<tu xmlns:lang="rus">Нет триггера</tu>
+	<tu xmlns:lang="esp">Sin activador</tu>
+	<tu xmlns:lang="chs">无触发器</tu>
+	<tu xmlns:lang="kor">트리거 없음</tu>
+</tm>

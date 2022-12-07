@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_PRES_CHG_BRK_PED_PRES">
+	<tu
+    xmlns:lang="eng"
+  >Did the pressure change at all when the brake pedal was pressed?</tu>
+	<tu xmlns:lang="nld">Veranderde de druk toen u het rempedaal intrapte?</tu>
+	<tu
+    xmlns:lang="fra"
+  >La pression a-t-elle changé lorsque la pédale de frein a été enfoncée ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hat sich bei Betätigung des Bremspedals der Druck geändert?</tu>
+	<tu
+    xmlns:lang="ita"
+  >La pressione è cambiata quando si è premuto il pedale del freno?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ブレーキ ペダルを踏み込んだときプレッシャは変化しましたか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Houve alguma alteração da pressão ao carregar no pedal do travão?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A pressão sofreu mudança quando o pedal do freio foi pressionado?</tu>
+	<tu xmlns:lang="rus">Изменилось ли давление при нажатии педали тормоза?</tu>
+	<tu xmlns:lang="esp">¿Cambió la presión cuando se pisó el pedal del freno?</tu>
+	<tu xmlns:lang="chs">踩下制动踏板时，压力是否有任何变化？</tu>
+	<tu xmlns:lang="kor">브레이크 페달을 밟았을 때 압력이 바뀌었습니까?</tu>
+</tm>

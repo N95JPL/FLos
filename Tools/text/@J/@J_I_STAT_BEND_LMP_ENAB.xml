@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STAT_BEND_LMP_ENAB">
+	<tu xmlns:lang="eng">Static bending lamps enabled.</tu>
+	<tu xmlns:lang="nld">De statische bochtlampen zijn geactiveerd.</tu>
+	<tu xmlns:lang="fra">Feux de virage statiques activés.</tu>
+	<tu xmlns:lang="deu">Statisches Kurvenlicht aktiviert.</tu>
+	<tu xmlns:lang="ita">Luci ad angolo statiche attivate.</tu>
+	<tu xmlns:lang="jpn">スタチック ベンド ランプ作動可</tu>
+	<tu xmlns:lang="ptg">Luzes de curva estáticas activadas.</tu>
+	<tu xmlns:lang="ptb">Luzes do pisca-alerta ativadas.</tu>
+	<tu xmlns:lang="rus">Включены статические поворотные лампы.</tu>
+	<tu xmlns:lang="esp">Luces de curva estáticas habilitadas.</tu>
+	<tu xmlns:lang="chs">静态弯曲灯已启用。</tu>
+	<tu xmlns:lang="kor">정적 코너링 램프 활성화</tu>
+</tm>

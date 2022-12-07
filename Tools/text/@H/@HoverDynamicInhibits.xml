@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HoverDynamicInhibits">
+	<tu xmlns:lang="eng">Hover over any dynamic inhibits for more information.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Beweeg over een dynamische blokkering voor meer informatie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Passer la souris sur n'importe quelle neutralisation dynamique pour plus d'informations.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Für weitere Informationen den Mauszeiger über die dynamischen Sperren bewegen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Passare il cursore su disabilitazioni Dynamic per ulteriori informazioni.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >詳細を表示するには、動的禁止にカーソルを合わせてください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Passe o cursor sobre quaisquer inibições dinâmicas para obter mais informações.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Passe o mouse sobre quaisquer inibições dinâmicas para mais informações.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для получения дополнительной информации наведите курсор на любую динамическую блокировку.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pase el cursor sobre cualquier bloqueo dinámico para obtener más información.</tu>
+	<tu xmlns:lang="chs">关于更多信息，请将鼠标悬停在任何动态禁止条件上。</tu>
+	<tu xmlns:lang="kor">자세한 정보를 보려면 동적 억제를 가리키십시오.</tu>
+</tm>

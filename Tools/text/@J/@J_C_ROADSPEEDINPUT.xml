@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ROADSPEEDINPUT">
+	<tu xmlns:lang="eng">Road speed input</tu>
+	<tu xmlns:lang="nld">Ingangssignaal v.d. wegsnelheid</tu>
+	<tu xmlns:lang="fra">Entree vitesse route</tu>
+	<tu xmlns:lang="deu">Eingangssignal fahrgeschwindigkeit</tu>
+	<tu xmlns:lang="ita">Segnale di ingresso velocita' su strada</tu>
+	<tu xmlns:lang="jpn">車速ｲﾝﾌﾟｯﾄ</tu>
+	<tu xmlns:lang="ptg">Entrada da velocidade do veículo</tu>
+	<tu xmlns:lang="ptb">Entrada de velocidade na estrada</tu>
+	<tu xmlns:lang="rus">Входной сигнал скорости движения</tu>
+	<tu xmlns:lang="esp">Entrada de la velocidad de crucero</tu>
+	<tu xmlns:lang="chs">行驶速度输入</tu>
+	<tu xmlns:lang="kor">주행 속도 입력</tu>
+</tm>

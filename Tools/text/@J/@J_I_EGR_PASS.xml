@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EGR_PASS">
+	<tu
+    xmlns:lang="eng"
+  >The test has completed successfully and the exhaust gas recirculation is working properly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De test is met succes uitgevoerd en de uitlaatgasrecirculatie werkt naar behoren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'essai s'est terminé avec succès et le recyclage des gaz d'échappement fonctionne correctement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Test wurde erfolgreich abgeschlossen und die Abgasrückführung arbeitet korrekt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prova conclusa correttamente; il ricircolo gas di scarico funziona correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テストは正常に完了しました。EGR は適切に作動しています。</tu>
+	<tu xmlns:lang="ptg">Localize e repare o curto-circuito à cablagem.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O teste foi concluído com êxito e a recirculação do gás do escapamento está funcionando adequadamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка выполнена успешно, и система рециркуляции отработавших газов работает надлежащим образом.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La prueba ha concluido satisfactoriamente y el sistema de recirculación de gases de escape funciona correctamente.</tu>
+	<tu xmlns:lang="chs">测试成功完成，废气再循环运行正常。</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트가 완료되었으며 배기 가스 재순환이 올바로 작동 중입니다.</tu>
+</tm>

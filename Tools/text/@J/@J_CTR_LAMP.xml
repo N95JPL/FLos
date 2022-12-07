@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CTR_LAMP">
+	<tu xmlns:lang="eng">Lamp</tu>
+	<tu xmlns:lang="nld">Lamp</tu>
+	<tu xmlns:lang="fra">Lampe</tu>
+	<tu xmlns:lang="deu">Leuchte</tu>
+	<tu xmlns:lang="ita">Luce</tu>
+	<tu xmlns:lang="jpn">ランプ</tu>
+	<tu xmlns:lang="ptg">Luz</tu>
+	<tu xmlns:lang="ptb">Lâmpada</tu>
+	<tu xmlns:lang="rus">Лампа</tu>
+	<tu xmlns:lang="esp">Lámpara</tu>
+	<tu xmlns:lang="chs">灯</tu>
+	<tu xmlns:lang="kor">램프</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@START_BUTTON_CONFIRM_RELEASE">
+	<tu
+    xmlns:lang="eng"
+  >Release the start button and press tick to confirm when the button has been released.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Laat de startknop los en druk op de afvinktoets om te bevestigen dat de knop is losgelaten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Relâchez le bouton de démarrage et appuyez sur la coche pour confirmer lorsque le bouton a été relâché.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Startknopf loslassen und das Häkchen antippen, um zu bestätigen, dass der Knopf losgelassen wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Rilasciare il pulsante di avviamento e premere il tasto di spunta per confermare quando il pulsante è stato rilasciato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スタート ボタンを放しなさい。ボタンを放したのち確認のためティックを押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Largue o botão de arranque e prima o visto para confirmar, depois de soltar o botão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Solte o botão de partida e pressione OK para confirmar quando o botão for liberado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отпустите кнопку запуска и нажмите 'галочку', чтобы подтвердить, что кнопка отпущена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Soltar el botón de arranque y pulsar el botón de continuar para confirmar que se ha soltado el botón.</tu>
+	<tu xmlns:lang="chs">释放启动按钮，并在按钮已释放后按下勾选按钮加以确认。</tu>
+	<tu
+    xmlns:lang="kor"
+  >시동 버튼을 놓고 체크 표시를 눌러 버튼이 해제된 시점을 확인하십시오.</tu>
+</tm>

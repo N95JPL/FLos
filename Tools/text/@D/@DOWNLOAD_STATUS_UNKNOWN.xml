@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DOWNLOAD_STATUS_UNKNOWN">
+	<tu
+    xmlns:lang="eng"
+  >The overall download status of this module cannot be determined due to the unknown status displayed above, make sure that the latest Diagnostic Tool release has been loaded before proceeding.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De algemene downloadstatus van deze module kan vanwege de onbekende status hierboven niet worden bepaald. Controleer of de meest recente versie van diagnosesysteem is geladen voordat u verder gaat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'état de téléchargement général de ce module ne peut pas être déterminé en raison de l'état inconnu affiché ci-dessus. Avant de poursuivre, vérifiez que la version la plus récente de l'outil de diagnostic a été chargée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Herunterladestatus insgesamt für dieses Modul kann aufgrund des oben angezeigten unbekannten Status nicht ermittelt werden; vor dem Fortfahren sicherstellen, dass die aktuelle Diagnosetool-Version geladen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non è possibile stabilire lo stato di download complessivo di questo modulo a causa dello stato sconosciuto visualizzato in alto; prima di procedere assicurarsi che sia stata caricata l'ultima versione dello strumento diagnostico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >上記の不明ステータスのため、このモジュールの全体的なダウンロード ステータスは判定できません。最新の診断ツール リリースがロードされていることを確認してから続行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não é possível determinar o estado geral da transferência devido ao estado desconhecido apresentado acima. Antes de avançar, certifique-se de que foi carregada a edição mais recente da ferramenta de diagnóstico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O status geral do download deste módulo não pode ser determinado devido ao status desconhecido exibido acima. Certifique-se de que a versão mais recente da Ferramenta de Diagnóstico foi carregada antes de prosseguir.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не удается определить общее состояние загрузки данного блока, так как выше его состояние представлено как неизвестное; прежде чем продолжить, убедитесь, что загружена последняя версия диагностического устройства.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El estado de descarga global de este módulo no se puede determinar a causa del estado desconocido que se muestra arriba. Asegúrese de que se ha cargado la versión más reciente de la herramienta de diagnóstico antes de continuar.</tu>
+	<tu
+    xmlns:lang="chs"
+  >由于上文所示的状态未知，所以无法确定该模块的总体下载状态，请确保已加载最新发布的诊断工具，然后继续。</tu>
+	<tu
+    xmlns:lang="kor"
+  >위에 표시된 알 수 없는 상태로 인해 이 모듈의 전체 다운로드 상태를 확인할 수 없습니다. 계속 진행하기 전에 최신 진단 도구 릴리스가 로드되었는지 확인하십시오.</tu>
+</tm>

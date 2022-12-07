@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckABSDTCs">
+	<tu xmlns:lang="eng">Check for ABS associated DTCs.</tu>
+	<tu xmlns:lang="nld">Controleer op ABS-gerelateerde DTC's.</tu>
+	<tu xmlns:lang="fra">Contrôler la présence de DTC liés au système ABS.</tu>
+	<tu xmlns:lang="deu">Auf ABS-DTCs prüfen.</tu>
+	<tu xmlns:lang="ita">Controllare i DTC associati all'ABS.</tu>
+	<tu xmlns:lang="jpn">ABS に関連する DTC がないか確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar se existem códigos de avaria (DTC) associados ao sistema de travagem antibloqueio (ABS).</tu>
+	<tu xmlns:lang="ptb">Verifique os DTCs associados ao ABS</tu>
+	<tu xmlns:lang="rus">Проверьте наличие кодов DTC, относящихся к ABS.</tu>
+	<tu xmlns:lang="esp">Compruebe si hay DTC asociados con el ABS.</tu>
+	<tu xmlns:lang="chs">检查是否存在与防抱死制动系统相关的 DTC 。</tu>
+	<tu xmlns:lang="kor">ABS 관련 DTC가 있는지 확인하십시오.</tu>
+</tm>

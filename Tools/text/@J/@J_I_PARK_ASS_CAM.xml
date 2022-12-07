@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PARK_ASS_CAM">
+	<tu xmlns:lang="eng">Park assist camera</tu>
+	<tu xmlns:lang="nld">Parkeervideocamera</tu>
+	<tu xmlns:lang="fra">Caméra d'aide au stationnement</tu>
+	<tu xmlns:lang="deu">Einparkhilfe-Kamera</tu>
+	<tu xmlns:lang="ita">Telecamera di assistenza parcheggio</tu>
+	<tu xmlns:lang="jpn">パーキング アシスト カメラ</tu>
+	<tu xmlns:lang="ptg">Câmara de auxílio ao estacionamento</tu>
+	<tu xmlns:lang="ptb">Câmera de assistência a estacionamento</tu>
+	<tu xmlns:lang="rus">Камера помощи при парковке</tu>
+	<tu xmlns:lang="esp">Cámara de ayuda para estacionamiento</tu>
+	<tu xmlns:lang="chs">驻车辅助摄像头</tu>
+	<tu xmlns:lang="kor">주차 보조 카메라</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WINDOW_TRAVEL_CALIBRATION">
+	<tu xmlns:lang="eng">Door glass window travel calibration</tu>
+	<tu xmlns:lang="nld">Kalibratie van bewegingsafstand van portierruit</tu>
+	<tu xmlns:lang="fra">Etalonnage de la course des vitres de porte</tu>
+	<tu xmlns:lang="deu">Kalibrierung des Türfensterscheibenwegs</tu>
+	<tu xmlns:lang="ita">Taratura della corsa dei cristalli delle portiere</tu>
+	<tu xmlns:lang="jpn">ドア ガラス ウィンドウ トラベル キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem do curso do vidro da porta</tu>
+	<tu xmlns:lang="ptb">Calibração do curso da janela de vidro da porta</tu>
+	<tu xmlns:lang="rus">Калибровка перемещения стеклоподъемника</tu>
+	<tu xmlns:lang="esp">Calibración del recorrido de las ventanillas</tu>
+	<tu xmlns:lang="chs">车门玻璃窗行程标定</tu>
+	<tu xmlns:lang="kor">도어 글라스 윈도우 이동 보정</tu>
+</tm>

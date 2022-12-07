@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_PRESSURE_PUMP">
+	<tu xmlns:lang="eng">ABS pump</tu>
+	<tu xmlns:lang="nld">ABS pomp</tu>
+	<tu xmlns:lang="fra">Pompe ABS</tu>
+	<tu xmlns:lang="deu">ABS pumpe</tu>
+	<tu xmlns:lang="ita">Pompa ABS</tu>
+	<tu xmlns:lang="jpn">ABS ポ・プ</tu>
+	<tu xmlns:lang="ptg">Bomba do ABS</tu>
+	<tu xmlns:lang="ptb">Bomba do ABS</tu>
+	<tu xmlns:lang="rus">Насос ABS</tu>
+	<tu xmlns:lang="esp">Bomba ABS</tu>
+	<tu xmlns:lang="chs">ABS 泵</tu>
+	<tu xmlns:lang="kor">ABS 펌프</tu>
+</tm>

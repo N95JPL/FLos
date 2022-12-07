@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_IDENTIFICATION">
+	<tu xmlns:lang="eng">Key identification</tu>
+	<tu xmlns:lang="nld">Sleutelidentificatie</tu>
+	<tu xmlns:lang="fra">Identification de la clé</tu>
+	<tu xmlns:lang="deu">Schlüsselidentifikation</tu>
+	<tu xmlns:lang="ita">Identificazione della chiave</tu>
+	<tu xmlns:lang="jpn">キー ID</tu>
+	<tu xmlns:lang="ptg">Identificação da chave</tu>
+	<tu xmlns:lang="ptb">Identificação da chave</tu>
+	<tu xmlns:lang="rus">Идентификация ключа</tu>
+	<tu xmlns:lang="esp">Identificación de la llave</tu>
+	<tu xmlns:lang="chs">车钥识别</tu>
+	<tu xmlns:lang="kor">키 식별</tu>
+</tm>

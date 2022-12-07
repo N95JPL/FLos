@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DDE4_EGR_TEST_INFO_1">
+	<tu
+    xmlns:lang="eng"
+  >This test will test the operation of the exhaust gas recirculation modulator.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze test zal de werking van de modulator van de uitlaatgasrecirculatie testen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cet essai va tester le fonctionnement du modulateur de recyclage des gaz d'échappement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Test prüft die Funktion des Modulators - Abgasrückführung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Con questa prova viene verificato il funzionamento del modulatore ricircolo gas di scarico.</tu>
+	<tu xmlns:lang="jpn">このテストは、EGR モジュレータの作動をテストします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima 'Sair' (Exit) para sair da operação de purga dos travões.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este teste vai testar a operação do modulador da recirculação do gás do escapamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная проверка выполняет проверку работы модулятора системы рециркуляции отработавших газов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta prueba comprobará el funcionamiento del modulador de recirculación de gases de escape.</tu>
+	<tu xmlns:lang="chs">该测试将测试废气再循环调节器的工作情况。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 테스트에서는 배기 가스 재순환 모듈레이터의 작동을 테스트합니다.</tu>
+</tm>

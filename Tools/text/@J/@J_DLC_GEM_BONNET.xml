@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_GEM_BONNET">
+	<tu xmlns:lang="eng">Hood ajar.</tu>
+	<tu xmlns:lang="nld">Motorkap-open.</tu>
+	<tu xmlns:lang="fra">Capot entrouvert.</tu>
+	<tu xmlns:lang="deu">Verdeck nicht verriegelt.</tu>
+	<tu xmlns:lang="ita">Cofano aperto.</tu>
+	<tu xmlns:lang="jpn">フード オープン</tu>
+	<tu xmlns:lang="ptg">Capô mal fechado.</tu>
+	<tu xmlns:lang="ptb">Capô entreaberto.</tu>
+	<tu xmlns:lang="rus">Капот не закрыт.</tu>
+	<tu xmlns:lang="esp">Interruptor de maletero mal cerrado.</tu>
+	<tu xmlns:lang="chs">发动机罩微开。</tu>
+	<tu xmlns:lang="kor">후드 열림.</tu>
+</tm>

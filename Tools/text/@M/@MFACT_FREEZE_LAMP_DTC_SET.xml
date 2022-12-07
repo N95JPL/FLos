@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MFACT_FREEZE_LAMP_DTC_SET">
+	<tu
+    xmlns:lang="eng"
+  >While manufacturing/freeze mode is set, the air suspension lamp will be illuminated and diagnostic trouble code C1A0054 will be set.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Terwijl de fabrieks-/momentopnamefunctie is ingeschakeld, brandt de lamp van de luchtvering en wordt diagnosefoutcode C1A0054 opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lorsque le mode usine/neutralisation de suspension est sélectionné, le témoin de suspension pneumatique est allumé et le code d'anomalie C1A0054 est enregistré.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Im Fertigungsmodus/Modus 'Einfrieren der Luftfederung' ist die Luftfederungsleuchte eingeschaltet und es wird der Fehlercode C1A0054 abgespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nella modalità di produzione/blocco, la spia della sospensione pneumatica rimane accesa e il codice dei problemi di diagnostica C1A0054 viene memorizzato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >サスペンション マニュファクチャリング／フリーズ モードがセットされている間はエア サスペンション ランプが点灯し診断トラブル コード C1A0054 が記録されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Enquanto o modo de fábrica/congelamento estiver definido, a luz da suspensão pneumática acende e é apresentado o código de avaria C1A0054.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Embora o modo de fabricação/travamento esteja definido, a luz da suspensão a ar se acenderá, e o código de problema de diagnóstico C1A0054 será definido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При включении заводского режима/режима фиксации настроек загорается лампа пневматической подвески и регистрируется диагностический код неисправности C1A0054.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Mientras el modo de fabricación/inmovilización esté activado, la luz de suspensión neumática estará encendida y se registrará el código de avería C1A0054.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在设置为制造／冻结模式期间，空气悬架指示灯将亮起，并设置故障诊断码 C1A0054。</tu>
+	<tu
+    xmlns:lang="kor"
+  >제조/일시 정지 모드가 설정되어 있는 동안 에어 서스펜션 표시등이 켜지고 고장 진단 코드 C1A0054가 설정됩니다.</tu>
+</tm>

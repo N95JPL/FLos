@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BTOTH_TELE_MOD_NO_DCK_TELM">
+	<tu
+    xmlns:lang="eng"
+  >Bluetooth cellular telephone module (without docking station) with bluetooth telematics.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Module van mobiele telefoon voor bluetooth (zonder koppelstation) met bluetooth-telematica.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de téléphone cellulaire Bluetooth (sans station d'accueil) avec télématique Bluetooth.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bluetooth-Mobiltelefon-Steuergerät (ohne Andockstation) mit Bluetooth-Telematik.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo telefono cellulare Bluetooth (senza stazione di aggancio) con sistema telematico Bluetooth.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >Bluetooth セルラー ホン モジュール (ドッキング ステーションなし) Bluetooth テレマティクス付き</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo do telemóvel com Bluetooth (sem estação-base) com sistema telemático com Bluetooth.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo de telefone celular bluetooth (sem estação de base) com telemática bluetooth.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Bluetooth блок сотового телефона (без базы) с телематикой Bluetooth.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de teléfono móvil Bluetooth (sin estación base) con telemática Bluetooth.</tu>
+	<tu
+    xmlns:lang="chs"
+  >蓝牙蜂窝电话模块（无系泊部位），有蓝牙车载信息服务系统。</tu>
+	<tu
+    xmlns:lang="kor"
+  >블루투스 텔레매틱스 지원 블루투스 휴대 전화 모듈(도킹 스테이션 없음)</tu>
+</tm>

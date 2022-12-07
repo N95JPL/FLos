@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PARAM_NOT_USED">
+	<tu xmlns:lang="eng">Parameter not used.</tu>
+	<tu xmlns:lang="nld">De parameter wordt niet gebruikt.</tu>
+	<tu xmlns:lang="fra">Paramètre non utilisé.</tu>
+	<tu xmlns:lang="deu">Parameter nicht verwendet.</tu>
+	<tu xmlns:lang="ita">Parametro non utilizzato.</tu>
+	<tu xmlns:lang="jpn">パラメータ未使用</tu>
+	<tu xmlns:lang="ptg">Parâmetro não usado.</tu>
+	<tu xmlns:lang="ptb">Parâmetro não usado.</tu>
+	<tu xmlns:lang="rus">Параметр не используется.</tu>
+	<tu xmlns:lang="esp">Parámetro sin utilizar.</tu>
+	<tu xmlns:lang="chs">参数未使用。</tu>
+	<tu xmlns:lang="kor">매개 변수 사용 안 됨</tu>
+</tm>

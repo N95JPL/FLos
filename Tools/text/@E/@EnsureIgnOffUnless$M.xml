@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnsureIgnOffUnless$M">
+	<tu
+    xmlns:lang="eng"
+  >Please ensure the ignition remains in the off position until instructed otherwise.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat het contactslot in de uitstand blijft, totdat u andere aanwijzingen krijgt.</tu>
+	<tu xmlns:lang="fra">Le contact doit rester coupé jusqu'à nouvel ordre.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte sicherstellen, dass die Zündung bis zu einer anders lautenden Aufforderung ausgeschaltet bleibt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accertarsi che l'accensione rimanga in posizione disinserita finché non viene indicato altrimenti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >別途指示があるまで、イグニションをオフのままにしておきなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que a ignição permanece desligada até ser indicado o contrário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se a ignição permanece na posição de desligamento até que instruído de outra forma.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что зажигание остается выключенным, пока по инструкции не потребуется включить его.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que la llave de contacto permanezca en la posición de contacto cortado hasta que se indique lo contrario.</tu>
+	<tu xmlns:lang="chs">请确保点火开关保持在关闭位置，直至得到其它指示为止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >달리 지시되지 않는 한 점화 스위치가 OFF 위치에 있는지 확인하십시오.</tu>
+</tm>

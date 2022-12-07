@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHECK_SUUMING_OK">
+	<tu xmlns:lang="eng">Check sum test successful</tu>
+	<tu xmlns:lang="nld">Checksum test geslaagd</tu>
+	<tu xmlns:lang="fra">Essai de somme de contrôle réussi</tu>
+	<tu xmlns:lang="deu">Prüfsummenprüfung erfolgreich</tu>
+	<tu xmlns:lang="ita">Prova di somma di controllo riuscita</tu>
+	<tu xmlns:lang="jpn">ﾁｪｯｸ ｻﾑ ﾃｽﾄ合格</tu>
+	<tu xmlns:lang="ptg">Teste à verificação de memória realizado com êxito</tu>
+	<tu xmlns:lang="ptb">Teste de verificação de soma bem-sucedido</tu>
+	<tu xmlns:lang="rus">Проверка контрольной суммы пройдена</tu>
+	<tu xmlns:lang="esp">Prueba del checksum bien</tu>
+	<tu xmlns:lang="chs">校验和测试成功</tu>
+	<tu xmlns:lang="kor">체크섬 테스트 성공</tu>
+</tm>

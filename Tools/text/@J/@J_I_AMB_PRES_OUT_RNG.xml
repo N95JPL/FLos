@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AMB_PRES_OUT_RNG">
+	<tu xmlns:lang="eng">Ambient pressure - out of range.</tu>
+	<tu xmlns:lang="nld">Omgevingdruk - buiten bereik.</tu>
+	<tu xmlns:lang="fra">Pression ambiante - hors limites.</tu>
+	<tu xmlns:lang="deu">Umgebungsluftdruck - außerhalb des Bereichs.</tu>
+	<tu xmlns:lang="ita">Pressione ambiente - fuori campo.</tu>
+	<tu xmlns:lang="jpn">気圧 － 規定範囲外</tu>
+	<tu xmlns:lang="ptg">Pressão ambiente - fora da gama.</tu>
+	<tu xmlns:lang="ptb">Pressão ambiente - fora do intervalo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Давление окружающей среды за пределами допустимого диапазона.</tu>
+	<tu xmlns:lang="esp">Presión ambiente: fuera de límites.</tu>
+	<tu xmlns:lang="chs">环境压力 - 超出范围。</tu>
+	<tu xmlns:lang="kor">외부 압력 - 범위를 벗어남</tu>
+</tm>

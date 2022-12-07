@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CENT_LOCK">
+	<tu xmlns:lang="eng">Central lock  -  Type</tu>
+	<tu xmlns:lang="nld">Centrale vergrendeling  -  Type</tu>
+	<tu xmlns:lang="fra">Verrouillage centralisé  -  Type</tu>
+	<tu xmlns:lang="deu">Zentralverriegelung  -  Typ</tu>
+	<tu xmlns:lang="ita">Chiusura centralizzata  -  Tipo</tu>
+	<tu xmlns:lang="jpn">セントラル ロック  －  タイプ</tu>
+	<tu xmlns:lang="ptg">Fecho centralizado  -  Tipo</tu>
+	<tu xmlns:lang="ptb">Travamento central  -  Tipo</tu>
+	<tu xmlns:lang="rus">Центральный замок  -  Тип</tu>
+	<tu xmlns:lang="esp">Cierre centralizado  -  Tipo</tu>
+	<tu xmlns:lang="chs">中央锁止  -  类型</tu>
+	<tu xmlns:lang="kor">중앙 잠금  -  유형</tu>
+</tm>

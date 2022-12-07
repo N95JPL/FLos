@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_QV_EURO">
+	<tu xmlns:lang="eng">European</tu>
+	<tu xmlns:lang="nld">Europees</tu>
+	<tu xmlns:lang="fra">Europe</tu>
+	<tu xmlns:lang="deu">Europa</tu>
+	<tu xmlns:lang="ita">Europa</tu>
+	<tu xmlns:lang="jpn">欧州</tu>
+	<tu xmlns:lang="ptg">Europeu</tu>
+	<tu xmlns:lang="ptb">Europeu</tu>
+	<tu xmlns:lang="rus">Европейский рынок</tu>
+	<tu xmlns:lang="esp">Europeo</tu>
+	<tu xmlns:lang="chs">欧洲</tu>
+	<tu xmlns:lang="kor">유럽 국가</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FIX_RELATED_FAULTS">
+	<tu
+    xmlns:lang="eng"
+  >Make sure that any related vehicle faults have been fixed</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat alle ermee in verband staande voertuigfouten hersteld zijn</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que tous les défauts connexes du véhicule ont été corrigés</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass alle mit dem Fahrzeug im Zusammenhang stehenden Störungen richtiggestellt wurden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controlla che sia stato rettificato qualsiasi guasto connesso con il veicolo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >関連の車両故障がある場合、それらが修復されていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Assegure-se de que quaisquer avarias no veículo relacionadas foram solucionadas</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que toda falha relacionada ao veículo tenha sido corrigida</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь в устранении всех связанных с этим неисправностей автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que se haya corregido toda anomalía asociada del vehículo</tu>
+	<tu xmlns:lang="chs">确保任何相关车辆故障已被校正</tu>
+	<tu xmlns:lang="kor">관련 차량 고장이 수리되었는지 확인하십시오.</tu>
+</tm>

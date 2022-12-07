@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_SUNROOF">
+	<tu xmlns:lang="eng">Sliding roof.</tu>
+	<tu xmlns:lang="nld">Zonnedak</tu>
+	<tu xmlns:lang="fra">Toit ouvrant</tu>
+	<tu xmlns:lang="deu">Schiebedach</tu>
+	<tu xmlns:lang="ita">Tettuccio</tu>
+	<tu xmlns:lang="jpn">サ・ルーフ</tu>
+	<tu xmlns:lang="ptg">Tecto de abrir.</tu>
+	<tu xmlns:lang="ptb">Teto deslizante</tu>
+	<tu xmlns:lang="rus">Сдвижная крыша.</tu>
+	<tu xmlns:lang="esp">Techo solar</tu>
+	<tu xmlns:lang="chs">活动顶篷。</tu>
+	<tu xmlns:lang="kor">슬라이딩 루프.</tu>
+</tm>

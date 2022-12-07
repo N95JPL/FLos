@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SIDE_AIR_DRIVER_THOR">
+	<tu xmlns:lang="eng">Side air bag (thorax) driver</tu>
+	<tu xmlns:lang="nld">Zijairbag (borstkas) van bestuurder</tu>
+	<tu xmlns:lang="fra">Airbag latéral (protection du torse) conducteur</tu>
+	<tu xmlns:lang="deu">Seitenairbag (Brustkorb) Fahrerseite</tu>
+	<tu xmlns:lang="ita">Airbag laterale (toracico) guidatore</tu>
+	<tu xmlns:lang="jpn">サイド エアバッグ (胸部) 運転席側</tu>
+	<tu xmlns:lang="ptg">Airbag lateral (torácico) do condutor</tu>
+	<tu xmlns:lang="ptb">Airbag lateral (tórax) do motorista</tu>
+	<tu
+    xmlns:lang="rus"
+  >Боковая подушка безопасности водителя (для защиты грудной клетки)</tu>
+	<tu xmlns:lang="esp">Airbag lateral torácico (conductor)</tu>
+	<tu xmlns:lang="chs">侧安全气囊（胸部）— 驾驶员</tu>
+	<tu xmlns:lang="kor">운전석 측면 에어백(흉곽)</tu>
+</tm>

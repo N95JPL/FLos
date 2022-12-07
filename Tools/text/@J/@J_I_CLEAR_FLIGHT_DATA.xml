@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CLEAR_FLIGHT_DATA">
+	<tu
+    xmlns:lang="eng"
+  >This routine will clear the stored flight recorder data</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine zal de opgeslagen ritrecordergegevens wissen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet d'effacer les données de l'enregistreur de bord</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei dieser Routine werden die gespeicherten Flugschreiberdaten gelöscht.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura eliminerà i dati flight recorder memorizzati</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは保存されたフライト レコーダー データをクリアします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina apagará os dados guardados no registador de viagem</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina vai limpar os dados armazenados do gravador de voo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная процедура удаляет сохраненные бортовым регистратором данные</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina borra los datos almacenados en la caja negra</tu>
+	<tu xmlns:lang="chs">这一例行程序将清除保存的行驶记录器数据</tu>
+	<tu xmlns:lang="kor">이 루틴에서는 저장된 블랙박스 데이터를 삭제합니다.</tu>
+</tm>

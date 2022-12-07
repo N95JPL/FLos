@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CELL_TEL_PREP">
+	<tu xmlns:lang="eng">Cellular telephone preparation</tu>
+	<tu xmlns:lang="nld">Voorbereiding van mobiele telefoon</tu>
+	<tu xmlns:lang="fra">Pré-équipement de téléphone cellulaire</tu>
+	<tu xmlns:lang="deu">Mobiltelefon-Vorbereitung</tu>
+	<tu xmlns:lang="ita">Preparazione del telefono cellulare</tu>
+	<tu xmlns:lang="jpn">セルラー ホン対応</tu>
+	<tu xmlns:lang="ptg">Preparação do telemóvel</tu>
+	<tu xmlns:lang="ptb">Preparação para telefone celular</tu>
+	<tu xmlns:lang="rus">Подготовлен для сотового телефона</tu>
+	<tu xmlns:lang="esp">Preinstalación de teléfono móvil</tu>
+	<tu xmlns:lang="chs">蜂窝电话预留</tu>
+	<tu xmlns:lang="kor">휴대 전화 준비</tu>
+</tm>

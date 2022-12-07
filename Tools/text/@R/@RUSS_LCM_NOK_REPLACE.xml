@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RUSS_LCM_NOK_REPLACE">
+	<tu
+    xmlns:lang="eng"
+  >The lamp check module (LCM) is not at the required hardware level.  The module must be replaced with the correct level of hardware.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De module voor de controle van de lampjes (LCM) is niet van het vereiste hardwareniveau.  De module moet worden vervangen door een module van het juiste hardwareniveau.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module de contrôle des ampoules (LCM) ne présente pas les caractéristiques matérielles requises.  Le module doit être remplacé par un module présentant les caractéristiques matérielles requises.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Leuchtenprüfmodul (LCM) entspricht nicht der erforderlichen Hardwareversion.  Das Prüfmodul muss durch die korrekte Version ersetzt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo di controllo luci (LCM) non ha la versione hardware richiesta.  Il modulo deve essere sostituito con la versione hardware corretta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >????? ???? ????? (LCM) ?????????? ??????????????  ????????????????????????????????</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A versão de hardware do módulo de verificação das lâmpadas (LCM) não é a correcta.  O módulo tem de ser substituído por outro da versão correcta de hardware.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo de verificação da lâmpada (LCM) não possui a versão de hardware necessário.  O módulo deve ser substituído pela versão correta de hardware.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Аппаратное обеспечение модуля проверки сигнализаторов (LCM) требует модернизации.  Модуль следует заменить, установив устройство надлежащего уровня.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo de comprobación de luces (LCM) no presenta el nivel de hardware necesario.  Deberá sustituir el módulo por un módulo del nivel de hardware oportuno.</tu>
+	<tu xmlns:lang="chs">??????(LCM)????????????  ?????????????????</tu>
+	<tu
+    xmlns:lang="kor"
+  >램프 점검 모듈(LCM)이 필수 하드웨어 레벨에 있지 않습니다.  모듈을 올바른 레벨의 하드웨어와 교체해야 합니다.</tu>
+</tm>

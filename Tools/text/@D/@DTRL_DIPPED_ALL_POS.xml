@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DTRL_DIPPED_ALL_POS">
+	<tu xmlns:lang="eng">Dipped lighting in all positions</tu>
+	<tu xmlns:lang="nld">Dimlicht in alle standen</tu>
+	<tu xmlns:lang="fra">Eclairage en code dans toutes les positions</tu>
+	<tu xmlns:lang="deu">Abblendlicht in allen Stellungen</tu>
+	<tu xmlns:lang="ita">Luci anabbaglianti in tutte le posizioni</tu>
+	<tu xmlns:lang="jpn">全ポジションでロー ビーム</tu>
+	<tu xmlns:lang="ptg">Médios em todas as posições</tu>
+	<tu xmlns:lang="ptb">Iluminação rebaixadas em todas as posições</tu>
+	<tu xmlns:lang="rus">Фары переключены на ближний свет во всех положениях</tu>
+	<tu xmlns:lang="esp">Luces bajas en todas las posiciones</tu>
+	<tu xmlns:lang="chs">所有位置均采用近光照明</tu>
+	<tu xmlns:lang="kor">모든 위치에서 하향 조명</tu>
+</tm>

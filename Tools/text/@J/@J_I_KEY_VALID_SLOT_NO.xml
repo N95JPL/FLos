@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_KEY_VALID_SLOT_NO">
+	<tu xmlns:lang="eng">Current key in ignition slot (%d).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Huidige geheugenplaats voor sleutel in het contact (%d).</tu>
+	<tu xmlns:lang="fra">Clé actuelle dans le contact (%d).</tu>
+	<tu xmlns:lang="deu">Aktueller Schlüssel im Zündschloss Platz (%d).</tu>
+	<tu xmlns:lang="ita">Chiave corrente in slot di accensione (%d).</tu>
+	<tu xmlns:lang="jpn">現在イグニション スロット (%d) にあるキー</tu>
+	<tu xmlns:lang="ptg">Chave actual na ranhura da ignição (%d).</tu>
+	<tu xmlns:lang="ptb">Corrente chave na ranhura de ignição (%d).</tu>
+	<tu xmlns:lang="rus">Текущий ключ в слоте (%d) замка зажигания.</tu>
+	<tu xmlns:lang="esp">Llave actual en ranura del encendido (%d).</tu>
+	<tu xmlns:lang="chs">当前钥匙位于点火槽（%d）中。</tu>
+	<tu xmlns:lang="kor">점화 스위치의 현재 키(%d)</tu>
+</tm>

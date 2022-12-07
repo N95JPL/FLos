@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_TV">
+	<tu xmlns:lang="eng">Is the vehicle fitted with television?</tu>
+	<tu xmlns:lang="nld">Is het voertuig uitgerust met televisie?</tu>
+	<tu xmlns:lang="fra">Le véhicule est-il équipé d'un téléviseur ?</tu>
+	<tu xmlns:lang="deu">Ist das Fahrzeug mit TV ausgerüstet?</tu>
+	<tu xmlns:lang="ita">Il veicolo è dotato di televisione?</tu>
+	<tu xmlns:lang="jpn">この車両にテレビが装備されていますか？</tu>
+	<tu xmlns:lang="ptg">O veículo está equipado com televisão?</tu>
+	<tu xmlns:lang="ptb">O veículo está equipado com televisão?</tu>
+	<tu xmlns:lang="rus">Установлен ли в автомобиле телевизор?</tu>
+	<tu xmlns:lang="esp">¿Hay instalada una televisión en el coche?</tu>
+	<tu xmlns:lang="chs">车辆上安装电视了吗？</tu>
+	<tu xmlns:lang="kor">차량에 텔레비전이 장착되어 있습니까?</tu>
+</tm>

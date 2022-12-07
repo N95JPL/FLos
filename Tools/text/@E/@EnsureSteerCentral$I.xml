@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnsureSteerCentral$I">
+	<tu
+    xmlns:lang="eng"
+  >Make sure that the steering wheel is in the central position and that the front wheels are in the straight forward position.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat het stuurwiel in de middelste stand staat en de voorwielen recht vooruit wijzen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que le volant est en position centrale et que les roues avant sont en position ligne droite.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass das Lenkrad und die Vorderräder in der Geradeausstellung stehen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare che il volante sia in posizione centrata e che le ruote anteriori siano in posizione di marcia rettilinea.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング ホイールがセンター位置に、フロント ホイールが直進位置にあることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o volante está na posição central e de que as rodas dianteiras estão direitas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se o volante da direção está na posição central e se as rodas dianteiras estão em posição para a frente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что рулевое колесо находится в среднем положении, а передние колеса смотрят прямо вперед.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de que el volante esté en la posición centrada y que las ruedas delanteras estén en la posición de marcha en línea recta.</tu>
+	<tu xmlns:lang="chs">确保方向盘位于中央位置，而且前轮位于正前方位置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >스티어링 휠이 중앙 위치에 있고 프론트 휠이 정면 위치에 있는지 확인하십시오.</tu>
+</tm>

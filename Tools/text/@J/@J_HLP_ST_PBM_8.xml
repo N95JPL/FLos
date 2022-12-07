@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_PBM_8">
+	<tu
+    xmlns:lang="eng"
+  >The electronic parking brake switch should not be depressed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De schakelaar van de elektronische handrem mag niet zijn ingedrukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le commutateur du frein de stationnement électronique ne doit pas être enfoncé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Taste der elektronischen Handbremse darf nicht gedrückt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'interruttore del freno di stazionamento elettronico non deve essere premuto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック パーキング ブレーキ スイッチが押されていないこと。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O interruptor do travão de estacionamento electrónico não deve estar premido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O interruptor do freio de estacionamento eletrônico não deve ser pressionado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выключатель электронного стояночного тормоза не должен быть нажат.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El interruptor del freno de estacionamiento electrónico no debe estar oprimido.</tu>
+	<tu xmlns:lang="chs">电子驻车制动开关应未按下。</tu>
+	<tu xmlns:lang="kor">전자식 주차 브레이크 스위치를 누르면 안 됩니다.</tu>
+</tm>

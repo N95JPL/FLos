@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@AirSuspWarn$I">
+	<tu
+    xmlns:lang="eng"
+  >The air suspension warning lamp may be illuminated during this procedure, this is due to the vehicle being placed into calibration mode. </tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens deze procedure kan het waarschuwingslampje van de luchtvering gaan branden, dit komt doordat het systeem in de kalibreringsfunctie wordt gezet.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le témoin d'avertissement de la suspension pneumatique peut s'allumer pendant cette procédure, le véhicule étant en mode étalonnage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei diesem Verfahren kann die Luftfederungsleuchte eingeschaltet werden, da das Fahrzeug in den Kalibrierungsmodus gebracht wird. </tu>
+	<tu
+    xmlns:lang="ita"
+  >La spia della sospensione pneumatica potrebbe essere accesa durante questa procedura; ciò è dovuto all'attivazione della modalità di taratura del veicolo. </tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両がキャリブレーション モードに入るため、この手順中、エア サスペンション警告灯の点灯する可能\性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A luz de aviso da suspensão pneumática pode acender durante este procedimento; isto deve-se ao facto de o veículo estar em modo de calibragem. </tu>
+	<tu
+    xmlns:lang="ptb"
+  >A luz de aviso da suspensão a ar pode ser acesa durante este procedimento, isso é devido ao veículo que está sendo colocado no modo de calibração. </tu>
+	<tu
+    xmlns:lang="rus"
+  >При выполнении этой процедуры может загореться сигнализатор пневмоподвески, это происходит из-за перевода автомобиля в режим калибровки. </tu>
+	<tu
+    xmlns:lang="esp"
+  >Es posible que se encienda el testigo de la suspensión neumática durante este proceso por ponerse el vehículo en modo calibración. </tu>
+	<tu
+    xmlns:lang="chs"
+  >'空气悬架警告灯在此程序期间可能点亮，这是因为车辆正在被置于标定模式。 </tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차를 진행하는 동안에는 차량이 보정 모드로 진입했기 때문에 에어 서스펜션 경고등이 켜질 수 있습니다. </tu>
+</tm>

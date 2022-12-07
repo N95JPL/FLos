@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_66">
+	<tu
+    xmlns:lang="eng"
+  >Algorithm based failure - signal has too many transitions/events.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fout gebaseerd op algoritme - het signaal heeft te veel overgangen/gebeurtenissen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Erreur d'algorithme - signal a trop de transitions / d'événements.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf Algorithmus basierender Fehler - Signal zeigt zu viele Übergänge/Ereignisse.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto algoritmico - il segnale ha un numero eccessivo di transizioni/eventi.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アルゴリズム ベースの不具合 － シグナル変化／イベント過多</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha com base no algoritmo - o sinal possui demasiadas transições/eventos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha com base no algoritmo - o sinal tem muitas transições/eventos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка алгоритма - слишком много сигнальных переходов/событий.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo basado en algoritmos: la señal tiene demasiadas variaciones.</tu>
+	<tu xmlns:lang="chs">算法相关故障 - 信号包含的转换/事件过多。</tu>
+	<tu xmlns:lang="kor">알고리즘 기반 오류 - 신호에 전환/이벤트가 너무 많음</tu>
+</tm>

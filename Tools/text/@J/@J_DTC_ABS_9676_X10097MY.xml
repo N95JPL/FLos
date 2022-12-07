@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DTC_ABS_9676_X10097MY">
+	<tu xmlns:lang="eng">Battery voltage out of range.</tu>
+	<tu xmlns:lang="nld">Accuspanning buiten bereik.</tu>
+	<tu xmlns:lang="fra">Tension batterie hors gamme.</tu>
+	<tu xmlns:lang="deu">Batteriespannung ausserhalb des bereichs.</tu>
+	<tu xmlns:lang="ita">Tensione batteria fuori portata.</tu>
+	<tu xmlns:lang="jpn">バッテリd圧が許容ﾍ囲外で・る。</tu>
+	<tu xmlns:lang="ptg">Tensão da bateria fora da gama.</tu>
+	<tu xmlns:lang="ptb">Tensão da bateria fora da faixa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Напряжение аккумуляторной батареи за пределами допустимого диапазона.</tu>
+	<tu xmlns:lang="esp">Tension de bateria fuera de limites.</tu>
+	<tu xmlns:lang="chs">蓄电池电压超出范围。</tu>
+	<tu xmlns:lang="kor">회로 전압이 범위를 벗어남.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart230">
+	<tu
+    xmlns:lang="eng"
+  >Pressing the clutch pedal during an auto stop condition will cause the engine to restart.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Wanneer u tijdens een automatische stop het koppelingspedaal intrapt, wordt de motor opnieuw gestart.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une pression sur la pédale d'embrayage pendant un arrêt automatique entraîne le redémarrage du moteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Durch Betätigen des Kupplungspedals während eines durch das Auto-Stopp-Start-System bewirkten Stillstands des Motors wird der Motor neu gestartet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La pressione del pedale della frizione durante una condizione di arresto automatico provoca il riavvio del motore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >自動ストップ条件中にクラッチ ペダルを踏むと、エンジンが再始動します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se premir o pedal da embraiagem durante uma condição de paragem automática, o motor volta a arrancar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressionar o pedal da embreagem durante uma condição de parada automática fará com que o motor reinicie.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажатие педали сцепления во время автоматической остановки двигателя вызовет повторный запуск двигателя.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se pisa el pedal de embrague durante una condición de parada automática, el motor volverá a arrancar.</tu>
+	<tu xmlns:lang="chs">在自动停止状态踩下离合器踏板将导致发动机重新启动。</tu>
+	<tu
+    xmlns:lang="kor"
+  >자동 Stop 조건 중에 클러치 페달을 밟으면 엔진이 재시동하게 됩니다.</tu>
+</tm>

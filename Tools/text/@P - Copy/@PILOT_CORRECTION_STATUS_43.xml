@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_43">
+	<tu xmlns:lang="eng">0x43 : Exited due to pump learning not complete.</tu>
+	<tu xmlns:lang="nld">0x43 : inleren afgesloten omdat het inleren van de pomp niet volledig is uitgevoerd.</tu>
+	<tu xmlns:lang="fra">0x43 : Quitté à cause de l'apprentissage incomplet de la pompe.</tu>
+	<tu xmlns:lang="deu">0x43 : Beendet, da Pumpenerlernung noch nicht abgeschlossen.</tu>
+	<tu xmlns:lang="ita">0x43 : Interrotto a causa dell'incompleto apprendimento pompa.</tu>
+	<tu xmlns:lang="jpn">0x43 : ポンプ学習が未完了のため終了。</tu>
+	<tu xmlns:lang="ptg">0x43 : Saiu devido ao facto de a programação da bomba não estar concluída.</tu>
+	<tu xmlns:lang="ptb">0X43 : Encerrada devido à aprendizagem da bomba não estar concluída.</tu>
+	<tu xmlns:lang="rus">0x43 : Произведен выход, так как не выполнено сохранение настроек насоса.</tu>
+	<tu xmlns:lang="esp">0x43: Se cerró por aprendizaje incompleto de la bomba.</tu>
+	<tu xmlns:lang="chs">0x43： 由于泵记忆未完成而退出运行。</tu>
+	<tu xmlns:lang="kor">0x43 : 펌프 학습이 완료되지 않았기 때문에 종료됩니다.</tu>
+</tm>

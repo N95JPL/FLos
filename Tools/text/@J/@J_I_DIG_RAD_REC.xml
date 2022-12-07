@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIG_RAD_REC">
+	<tu xmlns:lang="eng">Digital radio receiver</tu>
+	<tu xmlns:lang="nld">Digitale radio-ontvanger</tu>
+	<tu xmlns:lang="fra">Récepteur radio numérique</tu>
+	<tu xmlns:lang="deu">Digitaler Radioempfänger</tu>
+	<tu xmlns:lang="ita">Ricevitore radio digitale</tu>
+	<tu xmlns:lang="jpn">デジタル ラジオ レシーバ</tu>
+	<tu xmlns:lang="ptg">Receptor de rádio digital</tu>
+	<tu xmlns:lang="ptb">Receptor de rádio digital (DAB)</tu>
+	<tu xmlns:lang="rus">Приемник цифрового радиовещания</tu>
+	<tu xmlns:lang="esp">Receptor de radio digital</tu>
+	<tu xmlns:lang="chs">数字广播接收器</tu>
+	<tu xmlns:lang="kor">디지털 라디오 수신기</tu>
+</tm>

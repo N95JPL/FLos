@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COLL_MIT_BRA">
+	<tu xmlns:lang="eng">Collision mitigation by braking</tu>
+	<tu xmlns:lang="nld">Botsingsvermindering door te remmen.</tu>
+	<tu xmlns:lang="fra">Atténuation de collision par freinage.</tu>
+	<tu xmlns:lang="deu">Kollisionsschwereminderung durch Bremsen</tu>
+	<tu xmlns:lang="ita">Attenuazione collisione tramite frenata</tu>
+	<tu xmlns:lang="jpn">制動による衝突の緩和</tu>
+	<tu xmlns:lang="ptg">Mitigação da colisão por travagem</tu>
+	<tu xmlns:lang="ptb">Redução de colisões por frenagem</tu>
+	<tu xmlns:lang="rus">Смягчение столкновения за счет торможения</tu>
+	<tu xmlns:lang="esp">Atenuación de un choque mediante el frenado</tu>
+	<tu xmlns:lang="chs">通过制动实现的碰撞缓冲</tu>
+	<tu xmlns:lang="kor">제동에 의한 충돌 완화</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_MISCONFIG_7">
+	<tu
+    xmlns:lang="eng"
+  >You will then be presented with the car configuration display screen.  Here, you can cross check the actual parameter description associated to the incorrectly configured parameter number (byte) and then subsequently seek assistance on how to correct the issue.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voertuigconfiguratiescherm verschijnt.  Hier kunt u de werkelijke parameteromschrijving voor het verkeerd geconfigureerde parameternummer (byte) controleren en daarna hulp vragen bij het corrigeren van het probleem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous verrez alors s'afficher l'écran de configuration du véhicule.  Ici, vous pouvez faire un recoupement entre la description réelle du paramètre et le numéro de paramètre (octet) mal configuré, et demander sur cette base une assistance pour résoudre le problème.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wird daraufhin ein Bildschirm mit der Anzeige der Fahrzeugkonfiguration angezeigt.  Hier können Sie die mit der falsch konfigurierten Parameternummer (Byte) assoziierte faktische Parameterbeschreibung gegenprüfen und anschließend Hilfe zur Richtigstellung des Problems erfragen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Viene quindi visualizzata la schermata del display di configurazione veicolo.  Qui è possibile controllare l'effettiva descrizione del parametro associata al numero di parametro (byte) configurato non correttamente e quindi cercare aiuto su come risolvere il problema.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ここで車両コンフィギュレーション ディスプレイ画面が表\示されます。  ここで、間違ってコンフィギュレーションされたパラメータ ナンバー (バイト) にかかわる実際のパラメータの内容をクロス チェックできます。その後、問題解決のためのアシストを得なさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A seguir ser-lhe-á apresentado o ecrã de indicação de configuração do veículo.  Aqui, pode fazer uma verificação cruzada da descrição do parâmetro actual, associada ao número (byte) do parâmetro configurado incorrectamente e, posteriormente, procurar ajuda sobre como corrigir o problema.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Será apresentada a tela de configuração do carro.  Aqui, você pode fazer a verificação cruzada da descrição do parâmetro real associado ao número (byte) de parâmetro configurado incorretamente e depois buscar assistência sobre como corrigir o problema.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Появится окно с конфигурацией автомобиля.  Здесь можно перепроверить описание фактических параметров, связанных с неправильной настройкой номера параметра (байт), чтобы затем обратиться за помощью в решении этой проблемы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aparecerá la pantalla de configuración del vehículo.  Aquí puede comparar la descripción del parámetro real asociado al número de parámetro (byte) configurado incorrectamente y, a continuación, buscar ayuda para resolver la anomalía.</tu>
+	<tu
+    xmlns:lang="chs"
+  >系统随之向您显示车辆配置显示屏幕。  在此处，您可以交叉检查与错误配置的参数数值（字节）相关的实际参数说明，然后藉此寻求解决问题的帮助。</tu>
+	<tu
+    xmlns:lang="kor"
+  >그런 다음 차량 구성 디스플레이 화면이 나타납니다.  여기에서, 잘못 구성된 매개 변수 번호(바이트)와 연결된 실제 매개 변수 설명을 확인한 후 문제 해결을 위한 지원을 구할 수 있습니다.</tu>
+</tm>

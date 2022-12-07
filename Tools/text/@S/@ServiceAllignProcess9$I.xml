@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess9$I">
+	<tu
+    xmlns:lang="eng"
+  >The time the module takes to align will vary, depending on the route, speed, number of targets, and individual module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De tijd die de module voor het uitlijnen nodig heeft, zal variëren afhankelijk van de route, snelheid, aantal doelen en de afzonderlijke module.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le temps mis par le module pour s'aligner varie selon l'itinéraire, la vitesse, le nombre de cibles, et le module individuel.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Zeit, die das Steuergerät für die Ausrichtung benötigt, ist unterschiedlich, abhängig von der Route, der Geschwindigkeit, der Anzahl von Objekten und dem spezifischen Steuergerät.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il tempo che il modulo impiega per l'allineamento varierà secondo il percorso, la velocità, il numero di obiettivi e il singolo modulo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ルート、車速、目標数および個々のモジュールによって、モジュールのアライメントにかかる時間は異なります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O tempo que o módulo demora a alinhar varia, consoante a estrada, a velocidade, a quantidade de alvos e o módulo propriamente dito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O tempo que o módulo leva para alinhar irá variar dependendo da rota, velocidade, número de alvos e o módulo individual.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Время корректировки блока зависит от маршрута, скорости, количества объектов и конкретного блока.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El tiempo que tarda el módulo en alinearse varía según la ruta, la velocidad, el número de objetivos y el módulo individual.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'模块校准所花时间会随路线、车速、目标数量和单个模块的不同而变化。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >모듈이 정렬되는 데 걸리는 시간은 경로, 속도, 대상 수 및 개별 모듈에 따라 달라집니다.</tu>
+</tm>

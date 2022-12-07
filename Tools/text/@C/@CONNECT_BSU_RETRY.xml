@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CONNECT_BSU_RETRY">
+	<tu xmlns:lang="eng">Connect approved Battery Support Unit and retry</tu>
+	<tu
+    xmlns:lang="nld"
+  >Sluit een goedgekeurde acculader aan en probeer het opnieuw</tu>
+	<tu
+    xmlns:lang="fra"
+  >Branchez l'unité de support de batterie approuvée et réessayez</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ein zugelassenes Batterieladegerät anschließen und erneut versuchen</tu>
+	<tu xmlns:lang="ita">Collegare l'unità di supporto della batteria approvata</tu>
+	<tu
+    xmlns:lang="jpn"
+  >承認済みのバッテリー サポート ユニットを接続し、再試行します</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligue a unidade de suporte da bateria aprovada e tente novamente</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conecte a Unidade de Suporte da Bateria e tente novamente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Подключите одобренное устройство поддержания заряда аккумуляторной батареи и повторите попытку</tu>
+	<tu
+    xmlns:lang="esp"
+  >Conecte un acondicionador de batería homologado y vuelva a intentarlo</tu>
+	<tu xmlns:lang="chs">连接认可的蓄电池支持单元，然后重试</tu>
+	<tu xmlns:lang="kor">승인된 배터리 지원 장치를 연결하고 다시 시도하십시오.</tu>
+</tm>

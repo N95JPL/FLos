@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DESC_ICP">
+	<tu xmlns:lang="eng">Integrated control panel</tu>
+	<tu xmlns:lang="nld">Geïntegreerd bedieningspaneel</tu>
+	<tu xmlns:lang="fra">Tableau de commande intégré</tu>
+	<tu xmlns:lang="deu">Integriertes Bedienfeld</tu>
+	<tu xmlns:lang="ita">Quadro comandi integrato</tu>
+	<tu xmlns:lang="jpn">統合コントロール パネル</tu>
+	<tu xmlns:lang="ptg">Painel de controlo integrado</tu>
+	<tu xmlns:lang="ptb">Painel de controle integrado</tu>
+	<tu xmlns:lang="rus">Интегрированная панель управления</tu>
+	<tu xmlns:lang="esp">Panel de mandos integral</tu>
+	<tu xmlns:lang="chs">集成控制面板</tu>
+	<tu xmlns:lang="kor">통합 컨트롤 패널</tu>
+</tm>

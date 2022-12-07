@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FLI_REC_DATA_CLR">
+	<tu xmlns:lang="eng">Flight recorder data cleared</tu>
+	<tu xmlns:lang="nld">De gegevens in de flight-recorder zijn gewist</tu>
+	<tu xmlns:lang="fra">Données de l'enregistreur de bord effacées</tu>
+	<tu xmlns:lang="deu">Daten der Crash-Aufzeichnung gelöscht</tu>
+	<tu xmlns:lang="ita">Sono stati azzerati i dati di flight recorder</tu>
+	<tu xmlns:lang="jpn">フライト レコーダー データがクリアされました。</tu>
+	<tu xmlns:lang="ptg">Dados apagados no registador de viagem</tu>
+	<tu xmlns:lang="ptb">Dados do gravador de voo apagados.</tu>
+	<tu xmlns:lang="rus">Данные бортового регистратора удалены</tu>
+	<tu xmlns:lang="esp">Se han borrado los datos del registro de errores</tu>
+	<tu xmlns:lang="chs">行驶记录器数据已清除</tu>
+	<tu xmlns:lang="kor">블랙박스 데이터가 삭제됨</tu>
+</tm>

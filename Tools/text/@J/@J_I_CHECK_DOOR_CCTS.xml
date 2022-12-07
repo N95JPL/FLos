@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHECK_DOOR_CCTS">
+	<tu
+    xmlns:lang="eng"
+  >This test will check the door/taildoor open switch circuits. All of the doors and the taildoor will have to be opened and closed in turn.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze test zal de schakelaarcircuits voor portieren/achterklep open controleren. U dient alle portieren en de achterklep om de beurt te openen en te sluiten.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce test va contrôler les circuits de contacteur d'ouverture des portes/du hayon. Toutes les portes et le hayon vont devoir être ouvertes et fermées tour à tour.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit diesem Test werden die Kontaktschalterkreise der Türen/Hecktür geprüft. Alle Türen und die Hecktür müssen der Reihe nach geöffnet und geschlossen werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa prova controlla i circuiti degli interruttori di apertura portiere/portellone. Tutte le portiere e il portellone vengono aperti e chiusi a turno.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストはドア／テールゲート ドア オープン スイッチ サーキットをチェックします。全ドアおよびテールゲート ドアを順に開閉する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este teste verificará os circuitos dos interruptores de abertura das portas/porta da retaguarda. As portas e a porta da retaguarda terão de ser todas abertas e fechadas uma após outra.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este teste verificará os circuitos do interruptor abertos da porta/tampa traseira. Todas as portas e a tampa traseira terão que ser abertas e fechadas novamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе данного теста выполняется проверка цепей выключателя открывания двери/двери багажного отделения. Все двери, включая дверь багажного отделения, необходимо открыть и закрыть по очереди.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta prueba comprobará los circuitos de puertas/portón trasero abiertos. Se deberán abrir y cerrar de a una en una todas las puertas y el portón trasero.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一测试将检查车门/尾门的开门开关电路。 所有车门和尾门将必须依次打开，然后关闭。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 테스트에서는 도어/테일 도어 열림 스위치 회로를 점검합니다. 모든 도어와 테일 도어를 차례대로 열고 닫아야 합니다.</tu>
+</tm>

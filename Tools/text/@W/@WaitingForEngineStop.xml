@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WaitingForEngineStop">
+	<tu xmlns:lang="eng">Waiting for stop/start system stop confirmation</tu>
+	<tu xmlns:lang="nld">Wachtend op stoppen van motor</tu>
+	<tu
+    xmlns:lang="fra"
+  >Attente de confirmation de l'arrêt du système Arrêt/Démarrage</tu>
+	<tu xmlns:lang="deu">Auf Stopp-Bestätigung des Stopp/Start-Systems warten</tu>
+	<tu
+    xmlns:lang="ita"
+  >In attesa della conferma di arresto del sistema Stop/Start</tu>
+	<tu xmlns:lang="jpn">スタート/ストップ システムの停止の確認待ち</tu>
+	<tu xmlns:lang="ptg">A aguardar a paragem do motor</tu>
+	<tu xmlns:lang="ptb">Aguardando o motor parar</tu>
+	<tu xmlns:lang="rus">Ожидание подтверждения остановки от системы стоп/старт</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esperando la confirmación de parada del sistema Stop/Start</tu>
+	<tu xmlns:lang="chs">等待停止/启动系统的停止确认</tu>
+	<tu xmlns:lang="kor">Stop/Start 시스템에서 정지 확인 대기 중</tu>
+</tm>

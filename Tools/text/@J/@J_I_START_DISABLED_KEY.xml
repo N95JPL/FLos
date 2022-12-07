@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_START_DISABLED_KEY">
+	<tu
+    xmlns:lang="eng"
+  >It is not possible to begin this application with a disabled key, if the key used on entry is currently disabled the key programming process will prompt a key change before continuing.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U kunt bij deze toepassing niet met een gedeactiveerde sleutel beginnen. Als de sleutel die u bij de aanvang gebruikt op dat moment gedeactiveerd is, zal de procedure voor het programmeren van sleutels aangeven dat u de sleutel moet omwisselen, voordat u verdergaat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Il n'est pas possible de commencer cette application avec une clé désactivée, si la clé utilisée en entrée est actuellement désactivée ; le processus de programmation de la clé vous demandera de changer de clé pour pouvoir poursuivre.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung kann nicht mit einem deaktivierten Schlüssel gestartet werden. Wenn der bei Anwendungsbeginn verwendete Schlüssel aktuell deaktiviert ist, wird vom Schlüsselprogrammierverfahren zu einem Schlüsselwechsel aufgefordert, ehe fortgefahren werden kann.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non è possibile iniziare quest'applicazione con una chiave disabilitata; se la chiave usata in entrata è correntemente disabilitata, il processo di programmazione chiave chiederà di cambiare la chiave prima di continuare.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >作動不可設定されたキーでこのアプリケーションを開始することはできません。エントリーに使用されたキーが現在作動不可の場合、キー プログラミング プロセスは続行する前にキーの交換を促します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não é possível iniciar esta aplicação com uma chave desactivada; se a chave usada ao entrar estiver actualmente desactivada, o processo de programação de chaves pedirá que se troque a chave antes de continuar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não é possível iniciar este aplicativo com uma chave desativada, se a chave usada na entrada estiver desativada no momento, o processo de programação de chave solicitará uma mudança de chave antes de continuar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данное приложение невозможно запустить с заблокированным ключом. Если ключ, использованный при входе, в настоящее время заблокирован, во время выполнения процедуры программирования будет предложено сменить ключ для продолжения работы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No es posible iniciar esta aplicación con una llave desactivada. Si la llave usada para entrar está desactivada actualmente, el proceso de programación de llaves le pedirá que cambie la llave antes de continuar.</tu>
+	<tu
+    xmlns:lang="chs"
+  >被禁用的车钥不能应用。若用于进入的车钥当前被禁用，在车钥编程过程中将会有车钥变更的提示。</tu>
+	<tu
+    xmlns:lang="kor"
+  >비활성화된 키로 이 애플리케이션을 시작할 수 없으며, 입력에 사용한 키가 현재 비활성화되어 있으면 키 프로그래밍 프로세스에서 계속 진행하기 전에 키를 변경하라는 메시지가 표시됩니다.</tu>
+</tm>

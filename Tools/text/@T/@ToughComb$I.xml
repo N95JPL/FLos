@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ToughComb$I">
+	<tu xmlns:lang="eng">Tough combustion air fan start.</tu>
+	<tu xmlns:lang="nld">Moeilijke start van de verbrandingsluchtventilator.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Démarrage difficile du ventilateur d'air de combustion.</tu>
+	<tu xmlns:lang="deu">Zögerlicher Anlauf - Verbrennungsluftgebläse.</tu>
+	<tu xmlns:lang="ita">Avvio ventola aria combustione difficile.</tu>
+	<tu xmlns:lang="jpn">タフ燃焼エア ファン始動</tu>
+	<tu xmlns:lang="ptg">Combustão difícil, arranque da ventoinha de ar.</tu>
+	<tu xmlns:lang="ptb">Início do ventilador de combustão dura.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Затрудненный запуск вентилятора подачи воздуха в зону горения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Puesta en marcha difícil del ventilador de aire de combustión.</tu>
+	<tu xmlns:lang="chs">燃烧送风风扇启动粗暴。</tu>
+	<tu xmlns:lang="kor">연소 공기 팬의 격렬한 시동</tu>
+</tm>

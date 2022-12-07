@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VinTimedOut$I">
+	<tu
+    xmlns:lang="eng"
+  >Test timed out or stopped before the vehicle identification number is received.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De testtijd is verlopen of de test is gestopt, voordat het voertuigidentificatienummer werd ontvangen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Délai de contrôle expiré ou contrôle arrêté avant que le numéro d'identification du véhicule ait été reçu.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Test über Zeitgeber abgelaufen oder gestoppt, ehe die Fahrzeug-Identifizierungsnummer empfangen wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Time out o arresto prova prima che venga ricevuto il numero di identificazione veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両 ID ナンバー受信前に、テスト タイム アウトまたは停止</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O tempo do teste expirou ou o teste parou antes de o número de identificação do veículo ser recebido.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O tempo de teste expirou ou parou antes do número de identificação do veículo recebido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Время проверки истекло или проверка остановлена, прежде чем был получен идентификационный номер автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se acabó el tiempo de espera o se detuvo la prueba antes de recibirse el número de identificación del vehículo.</tu>
+	<tu xmlns:lang="chs">在收到车辆标识号之前测试超时或停止。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 식별 번호가 수신되기 전에 테스트 시간이 초과되었거나 테스트가 중지되었습니다.</tu>
+</tm>

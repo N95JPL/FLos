@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MOST_SYSTEM">
+	<tu xmlns:lang="eng">Media orientated systems transport</tu>
+	<tu xmlns:lang="nld">MOST-kring</tu>
+	<tu xmlns:lang="fra">Systèmes à orientation multimédias et transport</tu>
+	<tu xmlns:lang="deu">MOST-Datenbus (Media Orientated Systems Transport)</tu>
+	<tu xmlns:lang="ita">Media Oriented Systems Transport</tu>
+	<tu xmlns:lang="jpn">メディア オリエント システム トランスポート</tu>
+	<tu xmlns:lang="ptg">MOST (media orientated systems transport)</tu>
+	<tu xmlns:lang="ptb">Transporte de sistemas orientado a mídia</tu>
+	<tu xmlns:lang="rus">Сеть Media Oriented System Transport (MOST)</tu>
+	<tu xmlns:lang="esp">Transporte para sistemas multimedia</tu>
+	<tu xmlns:lang="chs">媒体导向系统传输</tu>
+	<tu xmlns:lang="kor">MOST(Media Orientated Systems Transport)</tu>
+</tm>

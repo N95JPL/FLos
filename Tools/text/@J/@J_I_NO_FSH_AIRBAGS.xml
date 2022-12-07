@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_FSH_AIRBAGS">
+	<tu xmlns:lang="eng">No front side headlining airbags</tu>
+	<tu xmlns:lang="nld">Geen airbags hemelbekleding voor</tu>
+	<tu xmlns:lang="fra">Pas d'airbags latéraux avant</tu>
+	<tu xmlns:lang="deu">Keine Airbags Dachhimmel vorn</tu>
+	<tu xmlns:lang="ita">Airbag rivestimento laterale anteriore assenti</tu>
+	<tu xmlns:lang="jpn">フロント サイド ヘッドライニング エアバッグなし</tu>
+	<tu xmlns:lang="ptg">Sem airbags - forro do tejadilho, parte dianteira</tu>
+	<tu xmlns:lang="ptb">Não há airbags do revestimento lateral dianteiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Без подушек безопасности в передней части обивки потолка</tu>
+	<tu xmlns:lang="esp">Sin airbags en el forro del techo - delante</tu>
+	<tu xmlns:lang="chs">无前侧车顶内衬安全气囊</tu>
+	<tu xmlns:lang="kor">프론트 사이드 헤드라이닝 에어백 없음</tu>
+</tm>

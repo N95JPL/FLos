@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BLOCK_TITLE">
+	<tu xmlns:lang="eng">Block</tu>
+	<tu xmlns:lang="nld">Rij</tu>
+	<tu xmlns:lang="fra">Bloc</tu>
+	<tu xmlns:lang="deu">Block</tu>
+	<tu xmlns:lang="ita">Blocco</tu>
+	<tu xmlns:lang="jpn">ブロック</tu>
+	<tu xmlns:lang="ptg">Bloco</tu>
+	<tu xmlns:lang="ptb">Bloqueio</tu>
+	<tu xmlns:lang="rus">Блокировка</tu>
+	<tu xmlns:lang="esp">Bloquear</tu>
+	<tu xmlns:lang="chs">块</tu>
+	<tu xmlns:lang="kor">블록</tu>
+</tm>

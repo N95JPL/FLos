@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_VIM_03">
+	<tu
+    xmlns:lang="eng"
+  >Upon completion of this routine the vehicle immobiliser module shall return to its original locking pin position.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Nadat deze routine is uitgevoerd zal de regelmodule van startblokkering terugkeren naar zijn oorspronkelijke grendelpenpositie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Après exécution de ce programme, le module antidémarrage retourne à sa position de verrouillage d'origine.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Ablauf dieser Routine kehrt das Wegfahrsperren-Steuergerät wieder in seinen ursprünglichen Verriegelungszustand zurück.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al termine di questa procedura, il modulo immobilizzatore del veicolo ritorna nella sua posizione di bloccaggio originale .</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチン完了時には、車両イモビライザ モジュールを元のロッキング ピン ポジションへ戻す必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Depois de concluída esta rotina, o módulo do imobilizador do veículo volta à sua posição original de pino de bloqueio.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após a conclusão dessa rotina, o módulo do imobilizador do veículo voltará para a posição do pino de travamento original.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По окончании данной процедуры блок иммобилайзера автомобиля должен вернуться в первоначальное положение контакта запирания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Al concluir esta rutina, el módulo de inmovilización del vehículo volverá a la posición original del pasador de seguridad.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一常规程序完成时，车辆防盗锁止模块将回到其原始锁定针脚位置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴이 완료되면 차량 이모빌라이저 모듈이 원래 잠금 핀 위치로 돌아갑니다.</tu>
+</tm>

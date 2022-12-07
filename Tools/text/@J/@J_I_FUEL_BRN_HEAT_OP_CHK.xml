@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUEL_BRN_HEAT_OP_CHK">
+	<tu xmlns:lang="eng">Auxiliary heater operation check.</tu>
+	<tu xmlns:lang="nld">Controle van de werking van de extra verwarmingsunit.</tu>
+	<tu xmlns:lang="fra">Contrôle de fonctionnement du chauffage auxiliaire.</tu>
+	<tu xmlns:lang="deu">Funktionsprüfung Zusatzheizung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verifica funzionamento dispositivo di riscaldamento ausiliario.</tu>
+	<tu xmlns:lang="jpn">補助ヒーター作動チェック</tu>
+	<tu xmlns:lang="ptg">Verificação do funcionamento do aquecedor auxiliar.</tu>
+	<tu xmlns:lang="ptb">Verificação da operação do aquecedor auxiliar.</tu>
+	<tu xmlns:lang="rus">Проверка работы вспомогательного нагревателя.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobación del funcionamiento del calefactor auxiliar.</tu>
+	<tu xmlns:lang="chs">辅助加热器运行检查。</tu>
+	<tu xmlns:lang="kor">보조 히터 작동 점검</tu>
+</tm>

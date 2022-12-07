@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_TESTS_COMPLETE">
+	<tu xmlns:lang="eng">Battery monitoring system tests completed</tu>
+	<tu xmlns:lang="nld">De tests van het accucontrolesysteem zijn voltooid</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tests du système de surveillance de la batterie terminés</tu>
+	<tu xmlns:lang="deu">Batterieüberwachungssystem - Tests abgeschlossen</tu>
+	<tu xmlns:lang="ita">Prove del sistema di monitoraggio batteria completate</tu>
+	<tu xmlns:lang="jpn">バッテリ モニタリング システム テスト完了</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Testes do sistema de monitorização da bateria concluídos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Testes do sistema de monitoramento de bateria concluídos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверки системы контроля аккумуляторной батареи завершены</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se han completado las pruebas del sistema de control de la batería</tu>
+	<tu xmlns:lang="chs">蓄电池监测系统测试已完成</tu>
+	<tu xmlns:lang="kor">배터리 모니터링 시스템 테스트가 완료됨</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ERR_DAF_FILE_INVALID_MALFORMED">
+	<tu xmlns:lang="eng">DAF file contents are invalid or malformed</tu>
+	<tu xmlns:lang="nld">De DAF-bestandsinhoud is ongeldig of vervormd.</tu>
+	<tu xmlns:lang="fra">Le contenu du fichier DAF est invalide ou déformé.</tu>
+	<tu xmlns:lang="deu">DAF-Dateiinhalte sind ungültig oder beschädigt</tu>
+	<tu xmlns:lang="ita">Contenuto file DAF non valido o malformato</tu>
+	<tu xmlns:lang="jpn">DAF ファイル コンテンツが無効または変形しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Conteúdo do ficheiro DAF não é válido ou está mal formado</tu>
+	<tu xmlns:lang="ptb">Conteúdo do arquivo DAF inválido ou mal-formado</tu>
+	<tu xmlns:lang="rus">Недопустимое или искаженное содержимое файла DAF</tu>
+	<tu
+    xmlns:lang="esp"
+  >El contenido del archivo DAF no es válido o está deformado</tu>
+	<tu xmlns:lang="chs">DAF文件内容无效或残缺</tu>
+	<tu xmlns:lang="kor">DAF 파일 내용이 잘못되었거나 형식이 잘못됨</tu>
+</tm>

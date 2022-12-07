@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_TEL">
+	<tu xmlns:lang="eng">Cellular telephone control module</tu>
+	<tu xmlns:lang="nld">Regelmodule van de mobiele telefoon</tu>
+	<tu xmlns:lang="fra">Module de commande du téléphone cellulaire</tu>
+	<tu xmlns:lang="deu">Autotelefon-Steuermodul</tu>
+	<tu xmlns:lang="ita">Modulo di comando telefono cellulare</tu>
+	<tu xmlns:lang="jpn">セルラー テレホン コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando do telemóvel</tu>
+	<tu xmlns:lang="ptb">Módulo de controle do telefone celular</tu>
+	<tu xmlns:lang="rus">Модуль управления сотовым телефоном</tu>
+	<tu xmlns:lang="esp">Módulo de control del teléfono celular</tu>
+	<tu xmlns:lang="chs">蜂窝电话控制模块</tu>
+	<tu xmlns:lang="kor">휴대 전화 컨트롤 모듈</tu>
+</tm>

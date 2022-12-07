@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_HILL_DESCENT_CONTROL">
+	<tu xmlns:lang="eng">Hill descent control</tu>
+	<tu xmlns:lang="nld">Afdalingsremregeling (HDC)</tu>
+	<tu xmlns:lang="fra">Contrôle d'adhérence en descente (HDC)</tu>
+	<tu xmlns:lang="deu">Bergabfahrkontrolle</tu>
+	<tu xmlns:lang="ita">Comando marcia in discesa</tu>
+	<tu xmlns:lang="jpn">ヒルディセント コントロール</tu>
+	<tu xmlns:lang="ptg">Controlo de descida em encosta</tu>
+	<tu xmlns:lang="ptb">Controle de descida de ladeiras</tu>
+	<tu xmlns:lang="rus">Управление движением вниз по склону</tu>
+	<tu xmlns:lang="esp">Control de descenso de pendientes</tu>
+	<tu xmlns:lang="chs">下坡控制</tu>
+	<tu xmlns:lang="kor">HDC</tu>
+</tm>

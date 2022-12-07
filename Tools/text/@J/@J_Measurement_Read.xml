@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Measurement_Read">
+	<tu xmlns:lang="eng">Measurement read</tu>
+	<tu xmlns:lang="nld">Meetresultaat</tu>
+	<tu xmlns:lang="fra">Mesure lue</tu>
+	<tu xmlns:lang="deu">Messung - Ablesung</tu>
+	<tu xmlns:lang="ita">Misura letta</tu>
+	<tu xmlns:lang="jpn">測定読み取り</tu>
+	<tu xmlns:lang="ptg">Medição lida</tu>
+	<tu xmlns:lang="ptb">Leitura de medição</tu>
+	<tu xmlns:lang="rus">Показание считано</tu>
+	<tu xmlns:lang="esp">Lectura de la medición</tu>
+	<tu xmlns:lang="chs">测量读取</tu>
+	<tu xmlns:lang="kor">측정값 읽음</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_VIN_READ_BRK_CONTR_MODULE">
+	<tu xmlns:lang="eng">VIN read from the body control module.</tu>
+	<tu xmlns:lang="nld">VIN uitgelezen uit carrosserieregelmodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >VIN lu dans la mémoire du module de commande de carrosserie.</tu>
+	<tu xmlns:lang="deu">Aus dem Karosseriesteuergerät ausgelesene VIN.</tu>
+	<tu xmlns:lang="ita">VIN letto da modulo comando carrozzeria.</tu>
+	<tu xmlns:lang="jpn">ボディ コントロール モジュールから読み取られた VIN</tu>
+	<tu xmlns:lang="ptg">NIV lido do módulo de comando da carroçaria.</tu>
+	<tu xmlns:lang="ptb">Leitura VIN do módulo de controle da carroceria.</tu>
+	<tu xmlns:lang="rus">VIN, считанный из блока управления системами кузова.</tu>
+	<tu xmlns:lang="esp">VIN leído en el módulo procesador de la carrocería.</tu>
+	<tu xmlns:lang="chs">从车身控制模块中读取VIN。</tu>
+	<tu xmlns:lang="kor">차체 컨트롤 모듈에서 판독한 VIN</tu>
+</tm>

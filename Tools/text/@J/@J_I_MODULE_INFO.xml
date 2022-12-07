@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MODULE_INFO">
+	<tu xmlns:lang="eng">%s module information</tu>
+	<tu xmlns:lang="nld">Informatie module van %s</tu>
+	<tu xmlns:lang="fra">Informations module %s</tu>
+	<tu xmlns:lang="deu">Information %s-Steuergerät</tu>
+	<tu xmlns:lang="ita">Informazioni modulo %s</tu>
+	<tu xmlns:lang="jpn">%s モジュール情報</tu>
+	<tu xmlns:lang="ptg">Informação do módulo %s</tu>
+	<tu xmlns:lang="ptb">Informações do módulo %s</tu>
+	<tu xmlns:lang="rus">Информация блока %s</tu>
+	<tu xmlns:lang="esp">Información del módulo %s.</tu>
+	<tu xmlns:lang="chs">%s模块信息</tu>
+	<tu xmlns:lang="kor">%s 모듈 정보</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_HCM_07">
+	<tu
+    xmlns:lang="eng"
+  >In the headlamp levelling system only, the levelling module runs the stepper motors to the lower and upper limit and switches on/off the static bending light by CAN.</tu>
+	<tu
+    xmlns:lang="nld"
+  >In het systeem voor de koplamphoogte-instelling stuurt alleen de regelmodule van hoogte-instelling de stappenmotoren naar de onder- en bovengrens en het CAN schakelt de statische bochtlamp aan en uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Dans le système de réglage de site des phares, seul le module de réglage de site amène les moteurs pas-à-pas aux limites inférieure et supérieure et allume/éteint le feu directionnel fixe par l'intermédiaire du CAN.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei der Leuchtweitenregulierung verfährt nur das Steuergerät der Leuchtweitenregulierung die Schrittmotoren an den unteren und oberen Anschlag und schaltet das statische Kurvenlicht über den CAN-Datenbus ein/aus.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Solo nel sistema di livellamento fari, il modulo di livellamento aziona i motorini passo passo fino al limite inferiore e superiore e la luce angolo statica viene accesa/spenta tramite CAN.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ヘッドランプ レベリング システムでは、レベリング モジュールのみがステッパ モーターを下方／上方限界位置へ駆動し、CAN を介して静止型コーナリング ランプをスイッチ オン／オフします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >No sistema de nivelamento dos faróis apenas o módulo de nivelamento faz deslocar os motores passo-a-passo para os batentes inferior e superior e ligar/desligar a luz de viragem estática através da CAN.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >No sistema de nivelamento dos faróis somente, o módulo de nivelamento aciona os motores de passo para os limites superior e inferior e liga/desliga a distribuição de luz estática pelo CAN.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Только в системе коррекции положения света фар блок коррекции положения фар запускает шаговые двигатели до нижнего и верхнего предельных положений и включает/выключает статический отклоняющийся от прямого положения пучок света с помощью сети CAN.</tu>
+	<tu
+    xmlns:lang="esp"
+  >En el sistema de nivelación solamente de los faros, el módulo de nivelación acciona los motores paso a paso hasta los topes inferior y superior, y enciende y apaga la luz de curva estática a través del bus CAN.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'仅限前照灯变光系统，调平模块运行步进电机至上下极限位置，并通过 CAN 打开/关闭静态偏转照明灯。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >헤드램프 레벨링 시스템에서만 레벨링 모듈이 스테퍼 모터를 하한 및 상한까지 작동시키고 CAN에 의해 정적 코너링 램프를 켜거나 끕니다.</tu>
+</tm>

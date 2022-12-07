@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ClosedPosnFail$M">
+	<tu xmlns:lang="eng">Failed to recognise the closed position.</tu>
+	<tu xmlns:lang="nld">Het systeem heeft de gesloten stand niet herkend.</tu>
+	<tu xmlns:lang="fra">Echec de reconnaissance de la position fermée.</tu>
+	<tu xmlns:lang="deu">Schließstellung konnte nicht ermittelt werden.</tu>
+	<tu xmlns:lang="ita">Mancato riconoscimento posizione chiusa.</tu>
+	<tu xmlns:lang="jpn">クローズ ポジションを認識できませんでした。</tu>
+	<tu xmlns:lang="ptg">Falha em reconhecer a posição fechada.</tu>
+	<tu xmlns:lang="ptb">Falha ao reconhecer a posição fechada.</tu>
+	<tu xmlns:lang="rus">Невозможно распознать закрытое положение.</tu>
+	<tu xmlns:lang="esp">No se pudo reconocer la posición cerrada.</tu>
+	<tu xmlns:lang="chs">识别关闭位置失败。</tu>
+	<tu xmlns:lang="kor">폐쇄 위치 인식에 실패했습니다.</tu>
+</tm>

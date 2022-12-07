@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_BATT_QI_LO_RANGE_LT_N50MA">
+	<tu xmlns:lang="eng">Battery quiescent current (low range) less than -50mA</tu>
+	<tu xmlns:lang="nld">De accuruststroom (laag bereik) is lager dan -50 mA</tu>
+	<tu
+    xmlns:lang="fra"
+  >Courant de repos absorbé de la batterie (plage basse) inférieur à -50 mA</tu>
+	<tu
+    xmlns:lang="deu"
+  >Batterie-Ruhestrom (niedriger Bereich) kleiner als -50 mA.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Corrente a riposo della batteria (gamma bassa) inferiore a -50mA</tu>
+	<tu xmlns:lang="jpn">バッテリ暗電流 (ロー レンジ) が -50mA 以下</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Corrente de repouso da bateria (gama baixa) inferior a -50 mA</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Corrente em inatividade da bateria (faixa baixa) menor do que -50 mA</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ток покоя аккумуляторной батареи (низкий диапазон) ниже -50 мA</tu>
+	<tu
+    xmlns:lang="esp"
+  >La corriente remanente de la batería (intervalo bajo) es inferior a -50 mA</tu>
+	<tu xmlns:lang="chs">蓄电池静态电流（低档域）小于 -50 毫安</tu>
+	<tu xmlns:lang="kor">-50mA 미만의 배터리 대기 전류(로우 레인지)</tu>
+</tm>

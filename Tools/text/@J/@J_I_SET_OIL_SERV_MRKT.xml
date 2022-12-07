@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_OIL_SERV_MRKT">
+	<tu xmlns:lang="eng">Set oil service market</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stel de markt in voor de onderhoudsintervalindicatie voor olieverversen</tu>
+	<tu xmlns:lang="fra">Définissez le marché pour la vidange d'huile</tu>
+	<tu xmlns:lang="deu">Einsatzland für Zähler Ölwechselanzeige einstellen.</tu>
+	<tu xmlns:lang="ita">Impostare mercato per il cambio olio</tu>
+	<tu xmlns:lang="jpn">オイル サービス地域の設定</tu>
+	<tu xmlns:lang="ptg">Definir o mercado para a mudança do óleo</tu>
+	<tu xmlns:lang="ptb">Definir mercado da troca de óleo</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установка интервала замены масла в зависимости от региона</tu>
+	<tu xmlns:lang="esp">Programar el mercado para la revisión del aceite</tu>
+	<tu xmlns:lang="chs">设置机油维护市场</tu>
+	<tu xmlns:lang="kor">오일 서비스 시장 설정</tu>
+</tm>

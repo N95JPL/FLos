@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart90">
+	<tu
+    xmlns:lang="eng"
+  >Make sure there is no accelerator pedal input before selecting the next soft key at the bottom of the touch screen.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat het gaspedaal niet wordt ingetrapt voordat u de volgende schermtoets onderin het touchscreen selecteert.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez qu'il n'y a aucune action sur la pédale d'accélérateur avant de sélectionner la touche Suivant au bas de l'écran tactile.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Vor dem Auswählen der Schaltfläche Weiter im unteren Bereich des Touchscreens sicherstellen, dass kein Gaspedaleingang vorhanden ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prima di selezionare il tasto funzione Avanti nella parte inferiore dello schermo a sfioramento, assicurarsi di non premere il pedale dell'acceleratore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >タッチ スクリーンの下部で次のソフト キーを選択する前に、アクセル ペダル入力がないことを確認してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que não existe nenhuma entrada do pedal do acelerador antes de selecionar o botão virtual seguinte na parte inferior do ecrã de toque.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que não há entrada do pedal do acelerador antes de selecionar a próxima tecla na parte inferior do touchscreen.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перед тем, как нажать программную кнопку Далее в нижней части сенсорного экрана, убедитесь, что педаль акселератора не нажата.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de no pisar el pedal del acelerador antes de seleccionar el botón de la parte inferior de la pantalla táctil.</tu>
+	<tu
+    xmlns:lang="chs"
+  >选择触摸屏底部的“下一个”软键前，确保没有加速器踏板输入。</tu>
+	<tu
+    xmlns:lang="kor"
+  >가속 페달 입력이 없는지 확인한 후 터치 스크린 하단에 있는 다음 소프트 키를 선택하십시오.</tu>
+</tm>

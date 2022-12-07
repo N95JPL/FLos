@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_10_SPEAK">
+	<tu xmlns:lang="eng">10 speakers</tu>
+	<tu xmlns:lang="nld">10 luidsprekers</tu>
+	<tu xmlns:lang="fra">10 haut-parleurs</tu>
+	<tu xmlns:lang="deu">10 Lautsprecher</tu>
+	<tu xmlns:lang="ita">10 altoparlanti</tu>
+	<tu xmlns:lang="jpn">10 スピーカー</tu>
+	<tu xmlns:lang="ptg">10 altifalantes</tu>
+	<tu xmlns:lang="ptb">10 alto-falantes</tu>
+	<tu xmlns:lang="rus">10 динамика</tu>
+	<tu xmlns:lang="esp">10 altavoces</tu>
+	<tu xmlns:lang="chs">10 个扬声器</tu>
+	<tu xmlns:lang="kor">스피커 10개</tu>
+</tm>

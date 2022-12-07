@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineStoppedAwaitECOStop">
+	<tu
+    xmlns:lang="eng"
+  >Engine stopped, waiting for stop/start system stop mode to become active.  Time remaining = %d seconds</tu>
+	<tu
+    xmlns:lang="nld"
+  >Motor gestopt, wachtend op activeren van stop-modus van Stop/Start-systeem. Resterende tijd = %d seconden</tu>
+	<tu
+    xmlns:lang="fra"
+  >Moteur arrêté, en attente de l'activation du mode arrêt du système Arrêt/Démarrage. Temps restant = %d secondes</tu>
+	<tu
+    xmlns:lang="deu"
+  >Motor gestoppt, wartet auf Aktivierung des Stopp-Modus des Stopp/Start-Systems. Verbleibende Zeit = %d Sekunden</tu>
+	<tu
+    xmlns:lang="ita"
+  >Motore spento, in attesa dell'attivazione della modalità di arresto del sistema Stop/Start. Tempo rimanente = %d secondi</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンが停止しました。スタート/ストップ システム停止モードがアクティブになるのを待機しています。 残り時間 = %d 秒</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O motor parou; a aguardar a ativação do modo de paragem do sistema Stop/Start. Tempo restante = %d segundos</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Motor parado, aguardando o modo de parada do sistema stop/start se tornar ativo. Tempo restante = %d segundos</tu>
+	<tu
+    xmlns:lang="rus"
+  >Двигатель остановлен. Ожидание включения режима останова системы стоп/старт. Оставшееся время = %d секунд</tu>
+	<tu
+    xmlns:lang="esp"
+  >Motor parado; esperando la activación del modo de parada del sistema Stop/Start. Tiempo restante = %d segundos</tu>
+	<tu
+    xmlns:lang="chs"
+  >发动机已停止，正在等待停止/启动系统停止模式变为激活状态。 剩余时间 = %d 秒</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진이 정지된 상태로 Stop/Start 시스템 Stop 모드가 활성화되기를 기다립니다. 남은 시간 = %d초</tu>
+</tm>

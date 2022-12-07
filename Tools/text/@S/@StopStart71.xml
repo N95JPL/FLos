@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart71">
+	<tu
+    xmlns:lang="eng"
+  >This will require the vehicle to be driven between 30 mph and 50 mph for 2 minutes followed by an engine idle for up to 1 minute.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hiervoor moet met er met de auto gedurende 2 minuten tussen 30 mph en 50 mph worden gereden en vervolgens moet de motor gedurende maximaal 1 minuut stationair draaien.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Il sera nécessaire de conduire le véhicule à une vitesse comprise entre 50 km/h et 80 km/h pendant 2 minutes, puis de faire tourner le moteur au ralenti pendant 1 minute maximum.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dazu muss das Fahrzeug 2 Minuten lang zwischen 30 mph (48 km/h) und 50 mph (80 km/h) gefahren werden, gefolgt von einer Leerlaufperiode von bis zu 1 Minute.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Per completare questa operazione è necessario guidare per 2 minuti il veicolo a una velocità compresa tra 50 km/h e 80 km/, tenendo per massimo 1 minuto il motore al regime minimo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この場合、車両を 30 mph と 50 mph の間で 2 分間運転してから最大 1 分間エンジンをアイドル状態にする必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É necessário que o veículo seja conduzido entre 48 km/h e 80 km/h durante 2 minutos, seguido de um funcionamento ao ralenti do motor de até 1 minuto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso exigirá que o veículo seja conduzido entre 30 mph e 50 mph por 2 minutos, seguido de uma marcha lenta do motor por até 1 minuto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это потребует совершения поездки на автомобиле со скоростью от 30 до 50 миль/ч в течение 2 минут и последующей работы на холостом ходу до 1 минуты.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tendrá que conducir el vehículo durante 2 minutos a una velocidad de entre 50 km/h (30 mph) y 80 km/h (50 mph) y dejar el motor a ralentí durante un máximo de 1 minuto.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这需要以 30 英里/小时和 50 英里/小时的速度驾驶车辆 2 分钟，然后怠速运行发动机将近 1 分钟。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 상태로 만들려면 차량을 50km/h(30mph)에서 80km/h(50mph) 사이의 속도로 2분간 주행한 후 최장 1분간 엔진을 공회전해야 합니다.</tu>
+</tm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_COMP_10SEC_VLV_CLO_60SEC_OP">
+	<tu
+    xmlns:lang="eng"
+  >Note: The compressor will only run for 10 seconds if all valves are closed, and 60 seconds if any valve is open, before it automatically turns off.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Opmerking: de compressor draait slechts 10 seconden als alle kleppen dicht zijn en 60 seconden als een van de kleppen open is, voordat hij automatisch uitschakelt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Note : Le compresseur ne tournera que pendant 10 secondes si toutes les vannes sont fermées et 60 secondes si une des vannes est ouverte, avant de se couper automatiquement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hinweis: Ehe der Kompressor automatisch ausgeschaltet wird, läuft er nur 10 Sekunden, wenn alle Ventile geschlossen sind, und 60 Sekunden, wenn ein beliebiges Ventil offen ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Nota: il compressore entra in funzione solo per 10 secondi, se tutte le valvole sono chiuse, e per 60 secondi se una delle valvole è aperta, prima di spegnersi automaticamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >注記：すべてのバルブが閉じている場合 10 秒間のみ、いずれかのバルブが開いている場合 60 秒間、コンプレッサは作動し、そののち自動的に停止します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Nota: O compressor só funcionará durante 10 segundos se todas as válvulas estiverem fechadas, e 60 segundos se uma válvula estiver aberta, antes de se desligar automaticamente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Observação: o compressor só funcionará por 10 segundos, se todas as válvulas estiverem fechadas, e por 60 segundos, se alguma válvula estiver aberta, antes de se desligar automaticamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Примечание: если все клапаны закрыты, компрессор будет работать только 10 секунд, и 60 секунд, если какой-либо клапан открыт, прежде чем автоматически выключится.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Nota: el compresor solo funciona durante 10 segundos si todas las válvulas están cerradas y durante 60 segundos si alguna válvula está abierta antes de desactivarse automáticamente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'注：如果所有阀门都关闭，压缩机将只运行10秒钟；如果有任何阀门打开，则运行60秒钟，然后自动关闭。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >참고: 컴프레서는 모든 밸브가 닫힌 경우 10초 동안만 작동하고 밸브가 하나라도 열린 경우 60초 동안 작동한 후 자동으로 꺼집니다.</tu>
+</tm>

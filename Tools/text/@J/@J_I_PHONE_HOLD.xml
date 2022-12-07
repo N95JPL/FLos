@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PHONE_HOLD">
+	<tu xmlns:lang="eng">Telephone holder</tu>
+	<tu xmlns:lang="nld">Telefoonhouder</tu>
+	<tu xmlns:lang="fra">Support de téléphone</tu>
+	<tu xmlns:lang="deu">Telefonhalter</tu>
+	<tu xmlns:lang="ita">Supporto telefono</tu>
+	<tu xmlns:lang="jpn">電話機ホルダー</tu>
+	<tu xmlns:lang="ptg">Suporte do telefone</tu>
+	<tu xmlns:lang="ptb">Suporte para telefone</tu>
+	<tu xmlns:lang="rus">Держатель телефона</tu>
+	<tu xmlns:lang="esp">Soporte para el teléfono</tu>
+	<tu xmlns:lang="chs">电话座</tu>
+	<tu xmlns:lang="kor">전화 홀더</tu>
+</tm>

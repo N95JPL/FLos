@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALM_NO_KEYS_ERROR">
+	<tu
+    xmlns:lang="eng"
+  >The application exited without programming any smart keys.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De toepassing is gesloten zonder dat er smart-keys zijn geprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous avez quitté l'application sans avoir programmé de clés intelligentes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Anwendung wurde ohne Programmierung der Smart Keys beendet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'applicazione è stata chiusa senza aver eseguito la programmazione di alcuna chiave Smart.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >スマート キーをプログラミングすることなくアプリケーションを終了した。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A aplicação terminou sem concluir a programação de nenhuma chave inteligente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O aplicativo foi encerrado sem programar chaves inteligentes.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Приложение закрыто без программирования электронных ключей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La aplicación se ha cerrado sin que se haya programado ninguna llave inteligente.</tu>
+	<tu xmlns:lang="chs">该应用程序已退出，未对智能钥匙进行任何编程设置。</tu>
+	<tu
+    xmlns:lang="kor"
+  >응용 프로그램이 스마트 키를 프로그래밍하지 않고 종료되었습니다.</tu>
+</tm>

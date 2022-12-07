@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckPCMDTCs">
+	<tu xmlns:lang="eng">Check for engine control module associated DTCs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer op DTC's met betrekking tot de motorregelmodule.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôler la présence de DTC associés au module de commande du moteur.</tu>
+	<tu xmlns:lang="deu">Auf Motorsteuergerät-DTCs prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare la presenza di eventuali DTC associati al modulo di comando motore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジン コントロール モジュールに関連する DTC がないか確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique se existem códigos de avaria (DTC) associados ao módulo de controlo do motor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se há DTCs associados ao módulo de controle do motor.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте наличие кодов DTC, относящихся к блоку управления двигателем.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Compruebe si hay DTC asociados con el módulo de control del motor.</tu>
+	<tu xmlns:lang="chs">检查是否存在与发动机控制模块相关的 DTC。</tu>
+	<tu xmlns:lang="kor">엔진 컨트롤 모듈 관련 DTC가 있는지 확인하십시오.</tu>
+</tm>

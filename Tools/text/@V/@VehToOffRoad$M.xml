@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VehToOffRoad$M">
+	<tu xmlns:lang="eng">The vehicle will now go to off-road ride height.</tu>
+	<tu xmlns:lang="nld">Het voertuig zal nu naar de terreinrijhoogte gaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule va maintenant passer à la hauteur d'assiette tout-terrain.</tu>
+	<tu xmlns:lang="deu">Das Fahrzeug geht jetzt zur Geländefahrhöhe über.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo passerà ora all'altezza di marcia fuoristrada.</tu>
+	<tu xmlns:lang="jpn">車両はここでオフロード ライド ハイトに移行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo irá para a altura de andamento todo-o-terreno.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo agora seguirá na altura de off-road do automóvel.</tu>
+	<tu xmlns:lang="rus">Автомобиль поднимется на внедорожную высоту.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ahora el vehículo adoptará la altura de marcha fuera de carretera.</tu>
+	<tu xmlns:lang="chs">车辆现在将转入越野行驶高度。</tu>
+	<tu xmlns:lang="kor">이제 차량이 오프로드 지상고로 설정됩니다.</tu>
+</tm>

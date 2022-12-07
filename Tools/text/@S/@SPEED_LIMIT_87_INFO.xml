@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SPEED_LIMIT_87_INFO">
+	<tu xmlns:lang="eng">This procedure sets the speed limit to 87MPH (140 KPH)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure stelt de snelheidsgrens in op 87 mijl/h (140 km/h)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure règle la limite de vitesse à 87 MI/H (140 KM/H)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit diesem Verfahren wird die Geschwindigkeitsbegrenzung auf 87 mph (140 km/h) eingestellt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura imposta il limite di velocità a 87 mph (140 km/h)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順でスピード リミットを 140 km/h (87 mph) にセットします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento define o limite de velocidade para 87 mph (140 km/h)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento estabelece o limite de velocidade a 87 mph (140 km/h)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Эта процедура устанавливает ограничение скорости движения на 87 миль/ч (140 км/ч)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento restaura el límite de velocidad a 87 millas/h (140 km/h)</tu>
+	<tu xmlns:lang="chs">本程序将车速限值设置为87英里/小时（140千米/小时）</tu>
+	<tu xmlns:lang="kor">이 절차에서는 속도 제한을 140KPH(87MPH)로 설정합니다.</tu>
+</tm>

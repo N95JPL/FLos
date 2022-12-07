@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ENG_AIR_INTAKE_SENSORS">
+	<tu xmlns:lang="eng">Air intake sensors</tu>
+	<tu xmlns:lang="nld">Luchtinlaatsensors</tu>
+	<tu xmlns:lang="fra">Capteurs d'entrée d'air</tu>
+	<tu xmlns:lang="deu">Sensoren - Ansaugluft</tu>
+	<tu xmlns:lang="ita">Sensori aspirazione aria</tu>
+	<tu xmlns:lang="jpn">エア インテーク センサ</tu>
+	<tu xmlns:lang="ptg">Sensores de admissão de ar</tu>
+	<tu xmlns:lang="ptb">Sensores de admissão de ar</tu>
+	<tu xmlns:lang="rus">Датчики всасываемого воздуха</tu>
+	<tu xmlns:lang="esp">Sensores de la toma de aire</tu>
+	<tu xmlns:lang="chs">进气传感器</tu>
+	<tu xmlns:lang="kor">흡기 센서</tu>
+</tm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TEL_DCK_STAT_NO_BTOTH">
+	<tu xmlns:lang="eng">Cellular telephone docking station, no bluetooth.</tu>
+	<tu xmlns:lang="nld">Koppelstation voor mobiele telefoon, zonder bluetooth.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Station d'accueil de téléphone cellulaire, sans Bluetooth.</tu>
+	<tu xmlns:lang="deu">Mobiltelefon-Andockstation, kein Bluetooth.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Stazione di aggancio telefono cellulare, senza Bluetooth.</tu>
+	<tu xmlns:lang="jpn">セルラー ホン ドッキング ステーション (Bluetooth なし)</tu>
+	<tu xmlns:lang="ptg">Estação-base de telemóvel, sem Bluetooth.</tu>
+	<tu xmlns:lang="ptb">Estação da base de telefone celular, sem bluetooth.</tu>
+	<tu xmlns:lang="rus">База сотового телефона без bluetooth.</tu>
+	<tu xmlns:lang="esp">Estación base del teléfono móvil sin Bluetooth.</tu>
+	<tu xmlns:lang="chs">'蜂窝电话系泊部位，无蓝牙。'</tu>
+	<tu xmlns:lang="kor">휴대 전화 도킹 스테이션, 블루투스 미지원</tu>
+</tm>

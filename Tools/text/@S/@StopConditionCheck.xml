@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopConditionCheck">
+	<tu xmlns:lang="eng">Stop condition check</tu>
+	<tu xmlns:lang="nld">Controle van stopvoorwaarde</tu>
+	<tu xmlns:lang="fra">Arrêter la vérification des conditions</tu>
+	<tu xmlns:lang="deu">Stopp-Zustandsprüfung</tu>
+	<tu xmlns:lang="ita">Controllo condizione di arresto</tu>
+	<tu xmlns:lang="jpn">停止条件の点検</tu>
+	<tu xmlns:lang="ptg">Verificação do estado de paragem</tu>
+	<tu xmlns:lang="ptb">Verificação de condição de parada</tu>
+	<tu xmlns:lang="rus">Проверка условий останова</tu>
+	<tu xmlns:lang="esp">Comprobación de la condición de parada</tu>
+	<tu xmlns:lang="chs">停止条件检查</tu>
+	<tu xmlns:lang="kor">Stop 상태 점검</tu>
+</tm>

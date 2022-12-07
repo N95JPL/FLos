@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_J1962">
+	<tu xmlns:lang="eng">Diagnostic connector</tu>
+	<tu xmlns:lang="nld">Diagnoseconnector</tu>
+	<tu xmlns:lang="fra">Connecteur de diagnostic</tu>
+	<tu xmlns:lang="deu">Diagnosestecker</tu>
+	<tu xmlns:lang="ita">Connettore diagnostico</tu>
+	<tu xmlns:lang="jpn">診断コネクタ</tu>
+	<tu xmlns:lang="ptg">Conector de diagnóstico</tu>
+	<tu xmlns:lang="ptb">Conector de diagnóstico</tu>
+	<tu xmlns:lang="rus">Разъём подключения диагностического прибора</tu>
+	<tu xmlns:lang="esp">Conector de diagnosis</tu>
+	<tu xmlns:lang="chs">诊断接头</tu>
+	<tu xmlns:lang="kor">진단 커넥터</tu>
+</tm>

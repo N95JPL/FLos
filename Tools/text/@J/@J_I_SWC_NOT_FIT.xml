@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SWC_NOT_FIT">
+	<tu xmlns:lang="eng">Steering wheel controls are not fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er zijn geen bedieningstoetsen op het stuur geïnstalleerd.</tu>
+	<tu xmlns:lang="fra">Commandes au volant non installées.</tu>
+	<tu xmlns:lang="deu">Lenkradtasten sind nicht eingebaut.</tu>
+	<tu xmlns:lang="ita">Comandi sul volante non in dotazione.</tu>
+	<tu xmlns:lang="jpn">ステアリング ホイール コントロール非装備</tu>
+	<tu xmlns:lang="ptg">Não estão instalados comandos no volante.</tu>
+	<tu xmlns:lang="ptb">Controles do volante não instalados.</tu>
+	<tu xmlns:lang="rus">Элементы управления на рулевом колесе не установлены.</tu>
+	<tu xmlns:lang="esp">No tiene mandos en el volante.</tu>
+	<tu xmlns:lang="chs">方向盘控制器未安装。</tu>
+	<tu xmlns:lang="kor">스티어링 휠 컨트롤이 장착되지 않았습니다.</tu>
+</tm>

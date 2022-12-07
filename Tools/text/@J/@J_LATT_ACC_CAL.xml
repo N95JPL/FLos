@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_LATT_ACC_CAL">
+	<tu xmlns:lang="eng">Lateral accelerometer calibration.</tu>
+	<tu xmlns:lang="nld">Kalibrering van acceleratiemeter in dwarsrichting.</tu>
+	<tu xmlns:lang="fra">Etalonnage de l'accéléromètre latéral.</tu>
+	<tu xmlns:lang="deu">Kalibrierung Querbeschleunigungsaufnehmer.</tu>
+	<tu xmlns:lang="ita">Taratura accelerometro laterale.</tu>
+	<tu xmlns:lang="jpn">横方向加速度センサー キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem do acelerómetro lateral.</tu>
+	<tu xmlns:lang="ptb">Calibração do acelerômetro lateral.</tu>
+	<tu xmlns:lang="rus">Калибровка акселерометра поперечных ускорений.</tu>
+	<tu xmlns:lang="esp">Calibración del acelerómetro lateral.</tu>
+	<tu xmlns:lang="chs">横向加速计标定。</tu>
+	<tu xmlns:lang="kor">횡방향 가속도계 보정</tu>
+</tm>

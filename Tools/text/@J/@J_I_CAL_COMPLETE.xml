@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CAL_COMPLETE">
+	<tu xmlns:lang="eng">Calibration complete</tu>
+	<tu xmlns:lang="nld">Kalibratie klaar</tu>
+	<tu xmlns:lang="fra">Etalonnage terminé</tu>
+	<tu xmlns:lang="deu">Kalibrierung beendet</tu>
+	<tu xmlns:lang="ita">Calibratura completata</tu>
+	<tu xmlns:lang="jpn">キャリブレーション終了</tu>
+	<tu xmlns:lang="ptg">Calibragem completa</tu>
+	<tu xmlns:lang="ptb">Calibração concluída</tu>
+	<tu xmlns:lang="rus">Калибровка завершена</tu>
+	<tu xmlns:lang="esp">Calibración terminada</tu>
+	<tu xmlns:lang="chs">校准完成</tu>
+	<tu xmlns:lang="kor">보정 완료</tu>
+</tm>

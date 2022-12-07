@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_AUD_CHIRP_ARM_DIS">
+	<tu xmlns:lang="eng">Audible chirp on arm/disarm enable</tu>
+	<tu xmlns:lang="nld">Piepsignaal bij in/buiten werking stellen activeren</tu>
+	<tu xmlns:lang="fra">Activation du signal sonore a l'armement/desarmement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Hörbarer pipston bei einschaltsignal schärfen/entschärfen</tu>
+	<tu xmlns:lang="ita">Cicalino a messa in allarme/disarmo</tu>
+	<tu xmlns:lang="jpn">アーミ・グ / ディスアーミ・グ確F音作ｮ待機</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Activar aviso acústico de activação/desactivação do alarme</tu>
+	<tu xmlns:lang="ptb">Bipe sonoro no armar/desarmar ativado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Включить короткий звуковой сигнал при включении/выключении охранной системы</tu>
+	<tu xmlns:lang="esp">Señal audible al habilitar activación/desactivación</tu>
+	<tu xmlns:lang="chs">安全布设/解除启用时发出警鸣音</tu>
+	<tu xmlns:lang="kor">알람 설정/해제 기능 활성화 시 작동음</tu>
+</tm>

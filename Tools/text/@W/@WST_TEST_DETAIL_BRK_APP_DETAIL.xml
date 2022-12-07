@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_TEST_DETAIL_BRK_APP_DETAIL">
+	<tu
+    xmlns:lang="eng"
+  >The 3 wheels not under test are released, and the selected wheel is braked.  The user is instructed to 'try to rotate' the selected wheel.  If any wheel movement is still detected from the wheel under test after 2 seconds, the test will fail with a hydraulics error.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met de 3 wielen die niet getest worden, wordt nu niet meer geremd, terwijl met het geselecteerde wiel wél geremd wordt.  Aan de gebruiker zal worden gevraagd om het geselecteerde wiel te 'proberen te verdraaien'.  Als er bij het geteste wiel na 2 seconden nog steeds beweging van het wiel wordt gedetecteerd, zal de test als een hydraulische fout niet worden gehaald.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les 3 roues non soumises au test sont relâchées et la roue sélectionnée est bloquée.  L'utilisateur est invité à 'essayer de faire tourner' la roue sélectionnée.  Si un mouvement de roue quelconque est encore détecté sur la roue soumise au test après 2 secondes, le test échouera avec une erreur d'hydraulique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >An den 3 nicht getesteten Rädern werden die Bremsen freigegeben und das gewählte Rad wird abgebremst.  Der Bediener wird aufgefordert, zu versuchen, das gewählte Rad zu drehen.  Wird beim getesteten Rad nach 2 Sekunden noch eine Raddrehung ermittelt, wird der Test mit einem Hydraulikfehler nicht erfolgreich abgeschlossen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le 3 ruote non in prova sono rilasciate e la ruota selezionata viene frenata.  Viene richiesto all'utente di 'provare a ruotare' la ruota selezionata.  Se si continua a rilevare il movimento della ruota in prova dopo 2 secondi, la prova non viene superata a causa di un errore idraulico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テストしない 3 つのホイールはリリースされ、選択されたホイールに制動が行われます。  ユーザーは選択されたホイールを「回してみる」よう指示されます。  2 秒後にテスト中のホイールからまだ何らかの動きが検出されると、テストはハイドロリック エラーで失敗となります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As 3 rodas que não estão a ser testadas são destravadas e a roda seleccionada é travada.  O utilizador é instruído para 'tentar rodar' a roda seleccionada.  Se ainda for detectado movimento na roda que está a ser testada após 2 segundos, o teste falha e é emitido um erro relacionado com o sistema hidráulico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As 3 rodas que não estão sob teste são liberadas, e a roda selecionada é travada.  O usuário é instruído a tentar girar a roda selecionada.  Se qualquer movimento ainda for detectado na roda sob teste após 2 segundos, o teste irá falhar com um erro no sistema hidráulico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >3 не проверяемых колеса освобождаются, и выбранное колесо затормаживается.  Пользователя просят попытаться провернуть выбранное колесо.  Если движение колеса все еще определяется у проверяемого колеса через 2 секунды, проверка не сможет быть выполнена; будет выдана ошибка гидравлической системы.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se sueltan las tres ruedas que no se están comprobando y se frena la rueda seleccionada.  Se indica al usuario que intente girar la rueda seleccionada.  Si aún se detectara algún movimiento de la rueda objeto de la prueba al cabo de dos segundos, no se superará la prueba y se dará un error del sistema hidráulico.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'释放未处于测试中的 3 个车轮，对选定的车轮施加制动。'  用户接到指令'尝试旋转'选定的车轮。  '如果 2 秒钟后仍检测到来自处于测试中的车轮的任何车轮运动，测试将出现液压错误而失败。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트 대상이 아닌 3개의 휠이 해제되고 선택한 휠은 제동됩니다.  사용자는 선택한 휠을 '회전해보라는' 지시를 받습니다.  2초 후 테스트 대상 휠에서 여전히 휠 동작이 감지되면 유압 장치 오류가 발생하면서 테스트가 실패하게 됩니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_QV_MAN_AIRCON">
+	<tu xmlns:lang="eng">Manual air conditioning</tu>
+	<tu xmlns:lang="nld">Handmatige airconditioning</tu>
+	<tu xmlns:lang="fra">Climatisation manuelle</tu>
+	<tu xmlns:lang="deu">Handbetätigte Klimaanlage</tu>
+	<tu xmlns:lang="ita">Climatizzazione manuale</tu>
+	<tu xmlns:lang="jpn">マニュアル エア コンディショニング</tu>
+	<tu xmlns:lang="ptg">Ar condicionado manual</tu>
+	<tu xmlns:lang="ptb">Ar-condicionado manual</tu>
+	<tu xmlns:lang="rus">Кондиционер с ручным включением</tu>
+	<tu xmlns:lang="esp">Aire acondicionado manual</tu>
+	<tu xmlns:lang="chs">手动空调</tu>
+	<tu xmlns:lang="kor">수동 에어컨</tu>
+</tm>

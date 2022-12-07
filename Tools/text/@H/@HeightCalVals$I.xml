@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HeightCalVals$I">
+	<tu
+    xmlns:lang="eng"
+  >Suspension height calibration errors are front left is %d mm, front right is %d mm, rear left is %d mm and rear right is %d mm.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De kalibreringsfouten van de luchtveringshoogte zijn als volgt: linksvoor %d mm, rechtsvoor %d mm, linksachter %d mm en rechtsachter %d mm.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les erreurs d'étalonnage de la hauteur de suspension sont à l'avant gauche de %d mm, à l'avant droit de %d mm, à l'arrière gauche de %d mm et à l'arrière droit de %d mm.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Fahrhöhen-Kalibrierungsfehler sind wie folgt: vorne links %d mm, vorne rechts %d mm, hinten links %d mm und hinten rechts %d mm.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Gli errori di taratura di altezza delle sospensioni sono nella parte anteriore sinistra di %d mm, anteriore destra di %d mm, posteriore sinistra di %d mm e posteriore destra di %d mm.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >サスペンション ハイト キャリブレーション エラー：左フロント - %d mm、右フロント - %d mm、左リア - %d mm、右リア - %d mm</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os erros de calibragem da altura da suspensão são: parte dianteira esquerda - %d mm; dianteira direita - %d mm; traseira esquerda - %d mm e traseira direita - %d mm.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As falhas de calibração de altura da suspensão são de %d mm da parte dianteira esquerda, de %d mm na parte dianteira direita, de %d mm na parte traseira esquerda e de %d mm na parte traseira direito.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибки калибровки высоты подвески: передний левый - %d мм, передний правый - %d мм, задний левый - %d мм, задний правый - %d мм.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los errores de calibración de la altura de la suspensión son: delantera izquierda, %d mm; delantera derecha, %d mm; trasera izquierda, %d mm y trasera derecha, %d mm.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'悬架高度标定误差：左前为%d毫米，右前为%d毫米，左后为%d毫米，右后为%d毫米。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >서스펜션 높이 보정 오류는 프론트 좌측이 %dmm, 프론트 우측이 %dmm, 리어 좌측이 %dmm, 리어 우측이 %dmm입니다.</tu>
+</tm>

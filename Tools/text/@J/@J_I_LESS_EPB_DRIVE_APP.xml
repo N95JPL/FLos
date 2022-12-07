@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_EPB_DRIVE_APP">
+	<tu xmlns:lang="eng">Without drive away release</tu>
+	<tu xmlns:lang="nld">Zonder handrem loszetten bij wegrijden</tu>
+	<tu xmlns:lang="fra">Sans desserrage automatique du frein au démarrage</tu>
+	<tu xmlns:lang="deu">Ohne Lösen beim Anfahren</tu>
+	<tu xmlns:lang="ita">Senza sblocco alla partenza</tu>
+	<tu xmlns:lang="jpn">ドライブアウェイ リリースなし</tu>
+	<tu xmlns:lang="ptg">Sem desengate do travão de mão em início de marcha</tu>
+	<tu xmlns:lang="ptb">Sem liberação por velocidade</tu>
+	<tu
+    xmlns:lang="rus"
+  >Без функции отпускания стояночного тормоза при трогании с места</tu>
+	<tu xmlns:lang="esp">Sin desactivación al emprender la marcha</tu>
+	<tu xmlns:lang="chs">无驶离释放</tu>
+	<tu xmlns:lang="kor">자동 해제 불포함</tu>
+</tm>

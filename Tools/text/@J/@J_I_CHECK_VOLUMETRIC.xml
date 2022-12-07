@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHECK_VOLUMETRIC">
+	<tu xmlns:lang="eng">This test will check the volumetric sensor circuit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze test zal het circuit van de volumetrische sensor controleren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce test va contrôler le circuit du capteur volumétrique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieser Test überprüft den Stromkreis des Innenraumüberwachungssensors.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa prova controlla il circuito del sensore volumetrico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このテストではボリメトリック センサー サーキットがチェックされます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este teste verificará o circuito do sensor volumétrico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este teste verificará o circuito do sensor volumétrico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В ходе данного теста выполняется проверка цепи объемного датчика.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta prueba comprobará el circuito del sensor volumétrico.</tu>
+	<tu xmlns:lang="chs">这一测试将检查容积传感器电路。</tu>
+	<tu xmlns:lang="kor">이 테스트에서는 형체 감지 센서 회로를 점검합니다.</tu>
+</tm>

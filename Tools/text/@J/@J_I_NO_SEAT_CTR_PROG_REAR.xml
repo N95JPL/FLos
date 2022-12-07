@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_SEAT_CTR_PROG_REAR">
+	<tu xmlns:lang="eng">No seat control program - rear</tu>
+	<tu xmlns:lang="nld">Zonder programma voor stoelregeling - achter</tu>
+	<tu xmlns:lang="fra">Sans programme de commande de siège - arrière</tu>
+	<tu xmlns:lang="deu">Kein Sitzsteuerprogramm - hinten</tu>
+	<tu xmlns:lang="ita">Senza programma controllo sedili - posteriore</tu>
+	<tu xmlns:lang="jpn">シート コントロール プログラムなし － リア</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não existe um programa de controlo dos bancos - traseiros</tu>
+	<tu xmlns:lang="ptb">Não há programa de controle do assento - traseiro</tu>
+	<tu xmlns:lang="rus">Отсутствует программа управления сиденьем - сзади</tu>
+	<tu xmlns:lang="esp">Sin programa de control de los asientos traseros</tu>
+	<tu xmlns:lang="chs">无座椅控制程序 - 后部</tu>
+	<tu xmlns:lang="kor">시트 컨트롤 프로그램 없음 - 리어</tu>
+</tm>

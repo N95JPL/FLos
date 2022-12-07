@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@60_LITRES">
+	<tu xmlns:lang="eng">60 litres</tu>
+	<tu xmlns:lang="nld">60 liter</tu>
+	<tu xmlns:lang="fra">60 litres</tu>
+	<tu xmlns:lang="deu">60 Liter</tu>
+	<tu xmlns:lang="ita">60 litri</tu>
+	<tu xmlns:lang="jpn">60 リッター</tu>
+	<tu xmlns:lang="ptg">60 litros</tu>
+	<tu xmlns:lang="ptb">60 litros</tu>
+	<tu xmlns:lang="rus">60 л</tu>
+	<tu xmlns:lang="esp">60 litros</tu>
+	<tu xmlns:lang="chs">60升</tu>
+	<tu xmlns:lang="kor">60리터</tu>
+</tm>

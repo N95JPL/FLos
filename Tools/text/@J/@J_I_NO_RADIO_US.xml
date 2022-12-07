@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_RADIO_US">
+	<tu xmlns:lang="eng">No Radio USA</tu>
+	<tu xmlns:lang="nld">Geen Radio USA</tu>
+	<tu xmlns:lang="fra">Pas de radio USA</tu>
+	<tu xmlns:lang="deu">Kein Radio USA</tu>
+	<tu xmlns:lang="ita">Nessuna radio USA</tu>
+	<tu xmlns:lang="jpn">ラジオ USA なし</tu>
+	<tu xmlns:lang="ptg">Sem Radio USA</tu>
+	<tu xmlns:lang="ptb">Sem rádio EUA</tu>
+	<tu xmlns:lang="rus">Без радио США</tu>
+	<tu xmlns:lang="esp">No tiene radio para EE. UU.</tu>
+	<tu xmlns:lang="chs">无 USA 电台</tu>
+	<tu xmlns:lang="kor">라디오 USA 없음</tu>
+</tm>

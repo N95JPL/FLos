@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_CfgSetupAndConfig">
+	<tu xmlns:lang="eng">Set-up and configuration</tu>
+	<tu xmlns:lang="nld">Instelling en configuratie</tu>
+	<tu xmlns:lang="fra">Programmation et configuration</tu>
+	<tu xmlns:lang="deu">Einrichtung und Konfiguration</tu>
+	<tu xmlns:lang="ita">Impostazione e configurazione</tu>
+	<tu xmlns:lang="jpn">セットアップおよびコンフィギュレーション</tu>
+	<tu xmlns:lang="ptg">Definição e configuração</tu>
+	<tu xmlns:lang="ptb">Ajuste e configuração.</tu>
+	<tu xmlns:lang="rus">Настройка и конфигурация</tu>
+	<tu xmlns:lang="esp">Reglaje y configuración</tu>
+	<tu xmlns:lang="chs">设置与配置</tu>
+	<tu xmlns:lang="kor">설정 및 구성</tu>
+</tm>

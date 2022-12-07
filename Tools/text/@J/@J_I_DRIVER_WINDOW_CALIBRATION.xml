@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DRIVER_WINDOW_CALIBRATION">
+	<tu xmlns:lang="eng">Driver's side  -  Door glass window calibration</tu>
+	<tu xmlns:lang="nld">Bestuurderszijde  -  Kalibratie van portierruit</tu>
+	<tu xmlns:lang="fra">Côté conducteur  -  Etalonnage des vitres de porte</tu>
+	<tu xmlns:lang="deu">Fahrerseite  -  Kalibrierung der Türfensterscheiben</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lato guidatore  -  Taratura dei cristalli delle portiere.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >運転席サイド  －  ドア ガラス ウィンドウ キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Lado do condutor  -  Calibragem do vidro da porta</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Lado do motorista  -  Calibração da janela de vidro da porta</tu>
+	<tu xmlns:lang="rus">Со стороны водителя  -  Калибровка стеклоподъемника</tu>
+	<tu xmlns:lang="esp">Lado del conductor  -  Calibración de las ventanillas</tu>
+	<tu xmlns:lang="chs">驾驶员一侧  -  车门玻璃窗标定</tu>
+	<tu xmlns:lang="kor">운전석 측  -  도어 글라스 윈도우 보정</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RenewReprogAirbagMod$I">
+	<tu
+    xmlns:lang="eng"
+  >The following test will allow you to renew and reprogram the air bag control module.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Met de nu volgende test kunt u de airbagregelmodule vervangen en opnieuw programmeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le test ci-après vous permettra de remplacer et de reprogrammer le module de commande d'airbag.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der folgende Test ermöglicht es Ihnen, das Airbag-Steuergerät zu erneuern und neu zu programmieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La prova seguente consentirà di sostituire e riprogrammare il modulo di comando dell'airbag.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次のテストでエアバッグ コントロール モジュールの交換および再プログラムを実行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O teste que se segue irá permitir-lhe substituir e voltar a programar o módulo de controlo dos airbags.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O teste a seguir permitirá a substituição e a reprogramação do módulo de controle do airbag.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующая проверка позволит обновить и перепрограммировать блок управления подушкой безопасности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La prueba siguiente permite sustituir y programar nuevamente el módulo de control de los airbags.</tu>
+	<tu xmlns:lang="chs">下列测试将使您更新和重新编程安全气囊控制模块。</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 테스트를 통해 에어백 컨트롤 모듈을 교체하고 다시 프로그래밍할 수 있습니다.</tu>
+</tm>

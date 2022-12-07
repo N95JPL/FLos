@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_ENGINE_RUNNING_LOADS_OFF">
+	<tu
+    xmlns:lang="eng"
+  >Leave the engine running, press tick to continue, and then wait until instructed to switch off the electrical loads.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Laat de motor lopen, druk op het vinkje om verder te gaan en wacht daarna tot u opdracht krijgt de elektrische belastingen uit te schakelen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Laissez tourner le moteur, cliquez sur la coche pour continuer et patientez jusqu'au message vous invitant à couper les charges électriques.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den Motor laufen lassen, das Häkchen zum Fortfahren antippen und abwarten, bis die Aufforderung zum Abschalten der elektrischen Lasten gegeben wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lasciare girare il motore, premere il segno di spunta per continuare e attendere che sia visualizzato il messaggio con l'istruzione che indica di disattivare i carichi elettrici.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンをかけたままでティックを押して続行し、電気負荷をスイッチ オフするよう指示されるまで待ちなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deixar o motor a funcionar, premir o sinal de visto para continuar e aguardar até indicação para desligar as cargas eléctricas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Deixe o motor funcionando, pressione a marca para continuar e aguarde até ser instruído a desativar as cargas elétricas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не выключайте двигатель, нажмите 'галочку' для продолжения и ждите, пока не появится указание отключить потребителей электроэнергии.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Dejar el motor en marcha, pulsar la marca de verificación para continuar y, a continuación, esperar hasta que se le indique que desconecte las cargas eléctricas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >让发动机保持运转，按勾号继续，然后等待出现关闭电气负载的指令。</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진 작동 상태에서 체크 표시를 눌러 계속한 후, 전기 부하를 끄라는 메시지가 표시될 때까지 기다리십시오.</tu>
+</tm>

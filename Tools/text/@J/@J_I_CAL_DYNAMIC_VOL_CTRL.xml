@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CAL_DYNAMIC_VOL_CTRL">
+	<tu xmlns:lang="eng">Calibrate dynamic volume control</tu>
+	<tu xmlns:lang="nld">Dynamische volumeregeling kalibreren</tu>
+	<tu xmlns:lang="fra">Etalonnage de la commande de volume dynamique</tu>
+	<tu xmlns:lang="deu">Dynamische Mengenregelung kalibrieren</tu>
+	<tu xmlns:lang="ita">Tarare comando volume dinamico</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ダイナミック ボリューム コントロールのキャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibrar o controlo dinâmico de volume</tu>
+	<tu xmlns:lang="ptb">Calibrar o controle de volume dinâmico</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполнить калибровку регулирования громкости звука в зависимости от скорости движения</tu>
+	<tu xmlns:lang="esp">Calibrar el control dinámico del volumen</tu>
+	<tu xmlns:lang="chs">校准动态量控制</tu>
+	<tu xmlns:lang="kor">다이내믹 연료량 조절 보정</tu>
+</tm>

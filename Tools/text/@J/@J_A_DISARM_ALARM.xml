@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_DISARM_ALARM">
+	<tu xmlns:lang="eng">Disarm the alarm.</tu>
+	<tu xmlns:lang="nld">Zet het alarm uit.</tu>
+	<tu xmlns:lang="fra">Désarmez l'alarme.</tu>
+	<tu xmlns:lang="deu">Alarm entschärfen.</tu>
+	<tu xmlns:lang="ita">Disattivare l'allarme.</tu>
+	<tu xmlns:lang="jpn">アラームを解除しなさい。</tu>
+	<tu xmlns:lang="ptg">Desactivar o alarme.</tu>
+	<tu xmlns:lang="ptb">Desarme o alarme.</tu>
+	<tu xmlns:lang="rus">Отключите сигнализацию.</tu>
+	<tu xmlns:lang="esp">Desactive la alarma.</tu>
+	<tu xmlns:lang="chs">解除报警。</tu>
+	<tu xmlns:lang="kor">알람을 해제하십시오.</tu>
+</tm>

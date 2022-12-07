@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEART_SEN_LIM">
+	<tu xmlns:lang="eng">Heartbeat sensor  -  Limited</tu>
+	<tu xmlns:lang="nld">Hartslagsensor  -  Beperkt</tu>
+	<tu xmlns:lang="fra">Capteur de battements de c?ur  -  Limité(e)</tu>
+	<tu xmlns:lang="deu">Dauersignal-Sensor  -  Begrenzt</tu>
+	<tu xmlns:lang="ita">Sensore segnale impulso  -  Limitato</tu>
+	<tu xmlns:lang="jpn">心拍センサー  －  制限あり</tu>
+	<tu xmlns:lang="ptg">Sensor de batimentos  -  Limitado(a)</tu>
+	<tu xmlns:lang="ptb">Sensor de pulso  -  Limitado</tu>
+	<tu xmlns:lang="rus">Датчик синхронизации  -  Ограничено</tu>
+	<tu xmlns:lang="esp">Sensor de funcionamiento (heartbeat)  -  Limitado</tu>
+	<tu xmlns:lang="chs">心跳传感器  -  受限</tu>
+	<tu xmlns:lang="kor">하트비트 센서  -  제한됨</tu>
+</tm>

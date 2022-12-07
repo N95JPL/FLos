@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JHotspotEVAP$H">
+	<tu xmlns:lang="eng">Evaporative emissions.</tu>
+	<tu xmlns:lang="nld">Benzinedampemissies</tu>
+	<tu xmlns:lang="fra">vapeurs de carburant</tu>
+	<tu xmlns:lang="deu">Kraftstoffdampf-Rückhaltung</tu>
+	<tu xmlns:lang="ita">Emissioni evaporative</tu>
+	<tu xmlns:lang="jpn">エバポレーティブ エミッション</tu>
+	<tu xmlns:lang="ptg">Emissões de vapor de combustível.</tu>
+	<tu xmlns:lang="ptb">Emissões evaporativas.</tu>
+	<tu xmlns:lang="rus">Система отвода топливных паров.</tu>
+	<tu xmlns:lang="esp">Emisiones de vapores de gasolina</tu>
+	<tu xmlns:lang="chs">蒸发排放。</tu>
+	<tu xmlns:lang="kor">증발 가스.</tu>
+</tm>

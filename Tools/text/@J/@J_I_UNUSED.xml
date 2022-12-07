@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNUSED">
+	<tu xmlns:lang="eng">Unused</tu>
+	<tu xmlns:lang="nld">Niet in gebruik</tu>
+	<tu xmlns:lang="fra">Non utilisé</tu>
+	<tu xmlns:lang="deu">Nicht verwendet</tu>
+	<tu xmlns:lang="ita">Inutilizzato</tu>
+	<tu xmlns:lang="jpn">未使用</tu>
+	<tu xmlns:lang="ptg">Não usado</tu>
+	<tu xmlns:lang="ptb">Não usado</tu>
+	<tu xmlns:lang="rus">Неиспольз.</tu>
+	<tu xmlns:lang="esp">Sin usar</tu>
+	<tu xmlns:lang="chs">未使用</tu>
+	<tu xmlns:lang="kor">사용 안 됨</tu>
+</tm>

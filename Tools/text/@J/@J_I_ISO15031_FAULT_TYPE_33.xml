@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_33">
+	<tu
+    xmlns:lang="eng"
+  >Frequency modulation/pulse width modulation failure - signal low time&gt;maximum.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Fout in frequentiemodulatie / pulsbreedtemodulatie - lage tijd van signaal &gt; maximum.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaut de modulation de fréquence / modulation de largeur d'impulsions - durée de signal bas&gt;maximum.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Störung Frequenzmodulation/Impulsbreitenmodulation - Tiefpegelzeit des Signals &gt; Maximum.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Guasto di modulazione frequenza/modulazione durata impulsi - durata segnale basso maggiore del massimo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >周波数変調／パルス幅変調不良 － シグナル ロー タイム、最大以上</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha na modulação da frequência/modulação por largura de impulso - tempo de sinal fraco &gt; máximo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha na modulação de frequência/modulação da largura do pulso - tempo de sinal baixo&gt;máximo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка частотной модуляции/ШИМ - время сигнала низкого уровня &gt; максимально допустимого.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo de modulación de frecuencia/modulación de anchura de impulsos: duración de señal baja (lógica 0) &gt; máxima.</tu>
+	<tu xmlns:lang="chs">频率调制/脉宽调制故障 - 信号低位时间大于最大值。</tu>
+	<tu
+    xmlns:lang="kor"
+  >주파수 변조/펄스 폭 변조 실패 - 신호 로우 시간 &gt; 최대</tu>
+</tm>

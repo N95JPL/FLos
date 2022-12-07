@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GATEWAY_BOOTLOADER">
+	<tu xmlns:lang="eng">Gateway bootloader part number</tu>
+	<tu xmlns:lang="nld">Onderdeelnummer van gateway-bootloader</tu>
+	<tu xmlns:lang="fra">Référence du chargeur d'amorçage de passerelle</tu>
+	<tu xmlns:lang="deu">Gateway-Bootloader, Teilenummer</tu>
+	<tu xmlns:lang="ita">Numero parte boot loader dell'accesso</tu>
+	<tu xmlns:lang="jpn">ゲートウェイ ブートローダー パーツ ナンバー</tu>
+	<tu xmlns:lang="ptg">Número de peça do programa de arranque do gateway</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Número da peça do carregador de inicialização do gateway</tu>
+	<tu xmlns:lang="rus">Каталожный номер загрузчика шлюза</tu>
+	<tu
+    xmlns:lang="esp"
+  >Número de pieza del cargador de arranque de la puerta de acceso</tu>
+	<tu xmlns:lang="chs">网关引导加载程序零件号</tu>
+	<tu xmlns:lang="kor">게이트웨이 부트로더 부품 번호</tu>
+</tm>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_19">
+<tu xmlns:lang="eng">General electrical failure - circuit current above threshold.</tu>
+<tu xmlns:lang="nld">Algemeen elektrisch defect - circuitstroomsterkte boven de drempel.</tu>
+<tu xmlns:lang="fra">Panne &#233;lectrique g&#233;n&#233;rale - courant de circuit sup&#233;rieur au seuil.</tu>
+<tu xmlns:lang="deu">Allgemeine Elektrikst&#246;rung - Strom im Stromkreis &#252;ber Grenzwert.</tu>
+<tu xmlns:lang="ita">Guasto elettrico generale - corrente circuito superiore a valore soglia.</tu>
+<tu xmlns:lang="jpn">ˆê”ÊƒGƒŒƒNƒgƒŠƒJƒ‹ŒÌá | ƒT[ƒLƒbƒg“d—¬A‹K’è’lˆÈã</tu>
+<tu xmlns:lang="ptg">Falha el&#233;ctrica geral - corrente do circuito acima do limiar.</tu>
+<tu xmlns:lang="rus">Ýëåêòðè÷åñêàÿ íåèñïðàâíîñòü îáùåãî õàðàêòåðà - ñèëà òîêà â öåïè âûøå ïîðîãîâîãî çíà÷åíèÿ.</tu>
+<tu xmlns:lang="esp">Fallo el&#233;ctrico general: corriente del circuito por encima del valor umbral.</tu>
+<tu xmlns:lang="chs">Ò»°ãµçÆø¹ÊÕÏ - µçÂ·µçÁ÷¸ßÓÚÃÅÏÞÖµ¡£</tu>
+</tm>

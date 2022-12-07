@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FUEL_PRIME_TIME_COUNTER">
+	<tu xmlns:lang="eng">Fuel prime time counter read</tu>
+	<tu xmlns:lang="nld">Aflezing, klok, brandstofaanzuigtijd</tu>
+	<tu xmlns:lang="fra">Compteur de temps d'amorce en carburant lu</tu>
+	<tu xmlns:lang="deu">Ablesung Zeitzähler Kraftstoff-Vorbefüllung</tu>
+	<tu xmlns:lang="ita">Contatore adescamento carburante letto</tu>
+	<tu xmlns:lang="jpn">フューエル プライミング タイム カウンターの読み取り</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Leitura do contador do tempo de ferragem do sistema de combustível</tu>
+	<tu xmlns:lang="ptb">Leitura do contador de tempo principal de combustível</tu>
+	<tu xmlns:lang="rus">Показания счетчика времени заливки топлива</tu>
+	<tu
+    xmlns:lang="esp"
+  >Lectura del contador de tiempo de cebado del combustible</tu>
+	<tu xmlns:lang="chs">燃油加注时间计时器读数</tu>
+	<tu xmlns:lang="kor">연료 프라이밍 시간 카운터 읽기</tu>
+</tm>

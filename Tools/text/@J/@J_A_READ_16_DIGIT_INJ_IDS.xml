@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_READ_16_DIGIT_INJ_IDS">
+	<tu
+    xmlns:lang="eng"
+  >Read 16 digit sensor identification number from the injector</tu>
+	<tu
+    xmlns:lang="nld"
+  >Lees het 16-cijferige identificatienummer dat op de injector staat</tu>
+	<tu
+    xmlns:lang="fra"
+  >Lisez le numéro d'identification du capteur à 16 caractères sur l'injecteur</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die 16-stellige Einspritzventil-Identifizierungsnummer vom Einspritzventil ablesen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Leggere il numero di 16 cifre di identificazione dall'iniettore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インジェクタの 16 桁センサー ID ナンバーを読み取りなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ler o número de identificação do sensor de 16 dígitos no injector</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Leia 16 dígitos do número de identificação de sensor do injetor</tu>
+	<tu xmlns:lang="rus">Считайте 16-значный идентификационный номер с форсунки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Leer el número de identificación de 16 dígitos del sensor en el inyector</tu>
+	<tu xmlns:lang="chs">从喷油器上读取16位传感器标识代码</tu>
+	<tu xmlns:lang="kor">인젝터에서 16자리 센서 식별 번호를 읽으십시오.</tu>
+</tm>

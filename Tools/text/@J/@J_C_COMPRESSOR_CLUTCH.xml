@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_COMPRESSOR_CLUTCH">
+	<tu xmlns:lang="eng">Air conditioning compressor clutch</tu>
+	<tu xmlns:lang="nld">Aircocompressorkoppeling</tu>
+	<tu xmlns:lang="fra">Embrayage du compresseur de climatisation</tu>
+	<tu xmlns:lang="deu">Klimaanlagen-kompressorkupplung</tu>
+	<tu xmlns:lang="ita">Innesto compressore aria condizionata</tu>
+	<tu xmlns:lang="jpn">エアコ・ コ・プレッサ クラッチ</tu>
+	<tu xmlns:lang="ptg">Embraiagem do compressor do ar condicionado</tu>
+	<tu xmlns:lang="ptb">Embreagem do compressor do ar-condicionado</tu>
+	<tu xmlns:lang="rus">Муфта сцепления компрессора кондиционера</tu>
+	<tu xmlns:lang="esp">Embrague del compresor del aire acondicionado</tu>
+	<tu xmlns:lang="chs">空调压缩机离合器</tu>
+	<tu xmlns:lang="kor">에어컨 컴프레서 클러치</tu>
+</tm>

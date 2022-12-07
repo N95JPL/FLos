@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PID_SPDOFF_H">
+	<tu xmlns:lang="eng">Speedometer offset</tu>
+	<tu xmlns:lang="nld">Snelheidsmeter niet juist ingesteld</tu>
+	<tu xmlns:lang="fra">Décalage de compteur de vitesse</tu>
+	<tu xmlns:lang="deu">Geschwindigkeitsmesser-Abweichung</tu>
+	<tu xmlns:lang="ita">Scarto del tachimetro</tu>
+	<tu xmlns:lang="jpn">スピードメータ オフセット</tu>
+	<tu xmlns:lang="ptg">Desvio do velocímetro</tu>
+	<tu xmlns:lang="ptb">Deslocamento do velocímetro</tu>
+	<tu xmlns:lang="rus">Поправка спидометра</tu>
+	<tu xmlns:lang="esp">Decalaje del velocímetro</tu>
+	<tu xmlns:lang="chs">速度表偏差</tu>
+	<tu xmlns:lang="kor">속도계 오프셋</tu>
+</tm>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@KEY_OPTION_MIRROR_FOLD">
+	<tu xmlns:lang="eng">Auto-folding exterior mirrors only.</tu>
+	<tu xmlns:lang="nld">Alleen automatisch inklappen van buitenspiegels.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Rétroviseurs extérieur à escamotage automatique seulement.</tu>
+	<tu xmlns:lang="deu">Nur automatisches Einklappen der Außenspiegel</tu>
+	<tu
+    xmlns:lang="ita"
+  >Solo specchietti retrovisori esterni ripiegabili automaticamente.</tu>
+	<tu xmlns:lang="jpn">ドア ミラー自動折りたたみのみ</tu>
+	<tu xmlns:lang="ptg">Apenas retrovisores com recolhimento automático.</tu>
+	<tu xmlns:lang="ptb">Dobramento automático dos espelhos externos somente.</tu>
+	<tu xmlns:lang="rus">Только автоматическое складывание наружных зеркал.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Plegado automático de retrovisores exteriores solamente.</tu>
+	<tu xmlns:lang="chs">仅自动折叠外部后视镜。</tu>
+	<tu xmlns:lang="kor">자동 폴딩 외부 미러만 해당됨.</tu>
+</tm>

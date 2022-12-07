@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_TELEPHONE_COMPONENTS">
+	<tu xmlns:lang="eng">Cellular telephone components</tu>
+	<tu xmlns:lang="nld">Componenten mobiele telefoon</tu>
+	<tu xmlns:lang="fra">Composants du telephone cellulaire</tu>
+	<tu xmlns:lang="deu">Funktelefonkomponenten</tu>
+	<tu xmlns:lang="ita">Componenti telefono cellulare</tu>
+	<tu xmlns:lang="jpn">セルラー テレホ・ コ・ポーネ・ト</tu>
+	<tu xmlns:lang="ptg">Componentes do telemóvel</tu>
+	<tu xmlns:lang="ptb">Componentes de telefone celular</tu>
+	<tu xmlns:lang="rus">Компоненты сотового телефона</tu>
+	<tu xmlns:lang="esp">Componentes del teléfono celular</tu>
+	<tu xmlns:lang="chs">蜂窝电话元件</tu>
+	<tu xmlns:lang="kor">휴대 전화 구성 요소</tu>
+</tm>

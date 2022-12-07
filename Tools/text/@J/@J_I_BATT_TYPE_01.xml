@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BATT_TYPE_01">
+	<tu xmlns:lang="eng">H6 70Ah 600 cold cranking ampere</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stroomsterkte bij aanslaan van motor bij koude start 600 A, H6 70Ah </tu>
+	<tu xmlns:lang="fra">H6 70 Ah 600 ampères au lancement à froid </tu>
+	<tu xmlns:lang="deu">H6 70 Ah 600 Kaltstartampere </tu>
+	<tu xmlns:lang="ita">Amperaggio avviamento a freddo H6 70Ah 600</tu>
+	<tu xmlns:lang="jpn">H6 70Ah 600 コールド クランキング アンペア</tu>
+	<tu xmlns:lang="ptg">H6 70Ah 600 amperagem de arranque a frio</tu>
+	<tu xmlns:lang="ptb">Amperagem de partida a frio H6 70Ah 600</tu>
+	<tu xmlns:lang="rus">H6 70 Ач, ток холодного пуска двигателя 600 А </tu>
+	<tu xmlns:lang="esp">H6 70Ah con 600 A de capacidad de arranque en frío</tu>
+	<tu xmlns:lang="chs">H6 70Ah 600 冷起动电流</tu>
+	<tu xmlns:lang="kor">H6 70Ah 600 냉간 크랭킹 암페어</tu>
+</tm>

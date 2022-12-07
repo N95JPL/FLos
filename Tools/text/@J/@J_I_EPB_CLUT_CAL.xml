@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EPB_CLUT_CAL">
+	<tu xmlns:lang="eng">Electric parking brake clutch calibration.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Kalibrering van de koppeling van de elektronische handrem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Etalonnage de l'embrayage de frein de stationnement électrique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kupplungskalibrierung, elektrisch betätigte Handbremse.</tu>
+	<tu xmlns:lang="ita">Taratura frizione freno stazionamento elettrico. </tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトリック パーキング ブレーキ クラッチ キャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem da embraiagem do travão de mão eléctrico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Calibração de embreagem do freio de estacionamento elétrico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Калибровка сцепления электрического стояночного тормоза.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Calibración del embrague del freno de estacionamiento eléctrico.</tu>
+	<tu xmlns:lang="chs">电子驻车制动器离合器标定。</tu>
+	<tu xmlns:lang="kor">전자식 주차 브레이크 클러치 보정</tu>
+</tm>

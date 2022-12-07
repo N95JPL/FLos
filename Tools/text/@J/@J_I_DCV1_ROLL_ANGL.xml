@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DCV1_ROLL_ANGL">
+	<tu xmlns:lang="eng">Direction control valve 1 - ramp-up roll angle</tu>
+	<tu
+    xmlns:lang="nld"
+  >Richtingsregelklep 1 - kantelhoek heeft gelijkmatige belastingtoename.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Electrovanne de commande directionnelle 1 - montée en température de l'angle de roulis.</tu>
+	<tu xmlns:lang="deu">Richtungssteuerventil 1 - steigende Flanke Wankwinkel</tu>
+	<tu
+    xmlns:lang="ita"
+  >Valvola controllo direzione 1 - aumento graduale temperatura angolo di rollio</tu>
+	<tu
+    xmlns:lang="jpn"
+  >方向コントロール バルブ 1 - ランプアップ ロール アングル</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Válvula de controlo da direcção 1 - ângulo de oscilação lateral, aumento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Válvula do controle de direção 1 - ângulo de rolagem de reforço</tu>
+	<tu
+    xmlns:lang="rus"
+  >Распределитель 1 - увеличение угла крена подрессоренных частей</tu>
+	<tu
+    xmlns:lang="esp"
+  >Válvula de control de dirección 1: aumento de ángulo de balanceo</tu>
+	<tu xmlns:lang="chs">方向控制阀1 - 上坡侧倾角</tu>
+	<tu xmlns:lang="kor">방향 컨트롤 밸브 1 - 롤 각도 증가</tu>
+</tm>

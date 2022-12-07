@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VALID_START">
+	<tu xmlns:lang="eng">Valid to start</tu>
+	<tu xmlns:lang="nld">Geldig voor starten</tu>
+	<tu xmlns:lang="fra">Valide pour démarrage</tu>
+	<tu xmlns:lang="deu">Start zulässig</tu>
+	<tu xmlns:lang="ita">Valida per l'avviamento</tu>
+	<tu xmlns:lang="jpn">スタートに有効</tu>
+	<tu xmlns:lang="ptg">Válida para iniciar</tu>
+	<tu xmlns:lang="ptb">Válido para iniciar</tu>
+	<tu xmlns:lang="rus">Действителен для запуска</tu>
+	<tu xmlns:lang="esp">Válida para arrancar</tu>
+	<tu xmlns:lang="chs">能够起动</tu>
+	<tu xmlns:lang="kor">시동하기에 유효한 상태</tu>
+</tm>

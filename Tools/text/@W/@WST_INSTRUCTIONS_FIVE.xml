@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@WST_INSTRUCTIONS_FIVE">
+	<tu xmlns:lang="eng">Can be moved freely as soon as the ABS braking ceases.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Kan weer vrij bewogen worden zodra het ABS-remmen stopt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Peut être bougée librement dès que le freinage ABS cesse.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Lässt sich freigängig bewegen, sobald die ABS-Bremsung aufhört.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Può essere mossa liberamente non appena cessa la frenata ABS.</tu>
+	<tu xmlns:lang="jpn">ABS ブレーキが停止すると同時に軽く動かせます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Podem rodar livremente assim que termina a travagem com o sistema ABS.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pode ser movimentada livremente assim que a frenagem ABS cessa.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Может двигаться свободно, как только прекращается торможение с использованием ABS.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se puede mover libremente en cuanto deje de funcionar el frenado con ABS.</tu>
+	<tu xmlns:lang="chs">一旦 ABS 制动停止，即可自由运动。</tu>
+	<tu xmlns:lang="kor">ABS 제동이 그치는 즉시 자유롭게 움직일 수 있습니다.</tu>
+</tm>

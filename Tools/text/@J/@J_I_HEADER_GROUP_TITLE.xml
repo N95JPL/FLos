@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEADER_GROUP_TITLE">
+	<tu xmlns:lang="eng">Group title</tu>
+	<tu xmlns:lang="nld">Groepstitel</tu>
+	<tu xmlns:lang="fra">Titre du groupe</tu>
+	<tu xmlns:lang="deu">Gruppentitel</tu>
+	<tu xmlns:lang="ita">Titolo gruppo</tu>
+	<tu xmlns:lang="jpn">グループ タイトル</tu>
+	<tu xmlns:lang="ptg">Título do grupo</tu>
+	<tu xmlns:lang="ptb">Título do grupo</tu>
+	<tu xmlns:lang="rus">Название группы</tu>
+	<tu xmlns:lang="esp">Título de grupo</tu>
+	<tu xmlns:lang="chs">组标题</tu>
+	<tu xmlns:lang="kor">그룹 이름</tu>
+</tm>

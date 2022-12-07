@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LOCK_STER_COL">
+	<tu xmlns:lang="eng">Locking steering column</tu>
+	<tu xmlns:lang="nld">Stuurkolom aan het vergrendelen</tu>
+	<tu xmlns:lang="fra">Colonne de direction verrouillable</tu>
+	<tu xmlns:lang="deu">Verriegelbare Lenksäule</tu>
+	<tu xmlns:lang="ita">Bloccaggio piantone sterzo</tu>
+	<tu xmlns:lang="jpn">ロッキング ステアリング コラム</tu>
+	<tu xmlns:lang="ptg">A bloquear a coluna da direcção</tu>
+	<tu xmlns:lang="ptb">Travamento da coluna da direção</tu>
+	<tu xmlns:lang="rus">Блокировка рулевой колонки</tu>
+	<tu xmlns:lang="esp">Columna de dirección con bloqueo</tu>
+	<tu xmlns:lang="chs">锁定转向柱</tu>
+	<tu xmlns:lang="kor">스티어링 칼럼 잠금</tu>
+</tm>

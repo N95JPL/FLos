@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_PRESS_REM_UNLOCK_ON_HANDSET">
+	<tu
+    xmlns:lang="eng"
+  >Press and then release the remote unlock switch on the key fob.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op de toets voor op afstand ontgrendelen op de afstandsbediening</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur le bouton de déverrouillage à distance sur la télécommande</tu>
+	<tu xmlns:lang="deu">Taste Fernentriegelung auf der Fernbedienung betätigen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il pulsante sbloccaggio a distanza sul telecomando</tu>
+	<tu xmlns:lang="jpn">ハンドセットのリモート アンロック ボタンを押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Premir e soltar o interruptor de destrancagem no comando à distância.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione e libere o interruptor de desbloqueio remoto no controle remoto. </tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите и затем отпустите кнопку отпирания на пульте дистанционного управления.</tu>
+	<tu xmlns:lang="esp">Presionar la tecla de desbloqueo del mando a distancia</tu>
+	<tu xmlns:lang="chs">按下然后释放遥控钥匙牌上的遥控解锁开关。</tu>
+	<tu
+    xmlns:lang="kor"
+  >키 리모컨에서 원격 잠금 해제 스위치를 눌렀다 놓으십시오.</tu>
+</tm>

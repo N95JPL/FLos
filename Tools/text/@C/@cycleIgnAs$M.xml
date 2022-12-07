@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@cycleIgnAs$M">
+	<tu xmlns:lang="eng">Cycle the ignition key as follows:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Laat de contactsleutel de nu volgende cyclus doorlopen:</tu>
+	<tu xmlns:lang="fra">Tournez la clé de contact comme suit :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zündschlüssel wie folgt in folgende Stellungen bringen:</tu>
+	<tu xmlns:lang="ita">Girare la chiave di accensione come segue:</tu>
+	<tu xmlns:lang="jpn">次のようにイグニション キーをサイクルさせなさい：</tu>
+	<tu xmlns:lang="ptg">Efectue o ciclo da chave da ignição da seguinte forma:</tu>
+	<tu xmlns:lang="ptb">Gire a chave de ignição, conforme o seguinte:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполните цикл программирования ключа зажигания следующим образом:</tu>
+	<tu
+    xmlns:lang="esp"
+  >Girar la llave de contacto a las distintas posiciones de la forma siguiente:</tu>
+	<tu xmlns:lang="chs">按如下顺序循环点火钥匙：</tu>
+	<tu xmlns:lang="kor">다음과 같이 점화 키 사이클을 수행하십시오.</tu>
+</tm>

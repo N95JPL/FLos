@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PRESS_TICK_EXIT">
+	<tu xmlns:lang="eng">Press tick to exit</tu>
+	<tu xmlns:lang="nld">Druk op akkoord om te stoppen</tu>
+	<tu xmlns:lang="fra">Appuyez sur le bouton de coche pour quitter</tu>
+	<tu xmlns:lang="deu">Zum Verlassen das Häkchen antippen</tu>
+	<tu xmlns:lang="ita">Premere l'icona di spunta per uscire</tu>
+	<tu xmlns:lang="jpn">ティックを押して終了しなさい。</tu>
+	<tu xmlns:lang="ptg">Premir o sinal de visto para sair</tu>
+	<tu xmlns:lang="ptb">Pressione a marca para sair</tu>
+	<tu xmlns:lang="rus">Нажмите галочку, чтобы выйти</tu>
+	<tu xmlns:lang="esp">Pulsar el botón de continuar para salir</tu>
+	<tu xmlns:lang="chs">按勾选键退出</tu>
+	<tu xmlns:lang="kor">종료하려면 체크 표시를 누르십시오.</tu>
+</tm>

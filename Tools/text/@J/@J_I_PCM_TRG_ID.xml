@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PCM_TRG_ID">
+	<tu
+    xmlns:lang="eng"
+  >Powertrain control module  -  Target identification write</tu>
+	<tu
+    xmlns:lang="nld"
+  >Regelmodule van de aandrijflijn  -  Identificatie van streefwaarde schrijven</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de commande du groupe motopropulseur  -  Enregistrement d'identification cible</tu>
+	<tu
+    xmlns:lang="deu"
+  >Antriebsstrang-Steuermodul  -  Schreiben Zielidentifikation</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo di comando catena cinematica  -  Scrittura identificativo target</tu>
+	<tu
+    xmlns:lang="jpn"
+  >パワートレーン コントロール モジュール  －  目標 ID 書き込み</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo de comando do grupo motopropulsor.  -  Escrever identificação alvo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo de controle do powertrain  -  Gravação da identificação de destino</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок управления силовым агрегатом  -  Запись заданных значений идентификации</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control del grupo motor y transmisión  -  Escritura de identificación de objetivo</tu>
+	<tu xmlns:lang="chs">传动系控制模块  -  目标标识写入</tu>
+	<tu xmlns:lang="kor">파워트레인 컨트롤 모듈  -  대상 식별 정보 쓰기</tu>
+</tm>

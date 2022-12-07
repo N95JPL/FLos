@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RE-INT_STEPPER_MOTORS">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will force the remote climate control unit to perform a re-initialisation of all stepper motors</tu>
+	<tu
+    xmlns:lang="nld"
+  >Tijdens deze procedure initialiseert de externe climate-controleenheid alle stappenmotors opnieuw.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure oblige le module de climatisation à distance à lancer la réinitialisation de tous les moteurs pas à pas</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit diesem Verfahren wird erzwungen, dass die abgesetzte Klimaregelungseinheit eine Neuinitialisierung aller zugehörigen Stellmotoren vornimmt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questo procedura forzerà l'unità climatizzatore remota ad effettuare una ri-inizializzazione di tutti i motorini passo-passo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この手順は、リモート クライメート コントロール ユニットに全ステッパ モーターの再初期化を強制的に行わせます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento força a unidade de comando da climatização à distância a efectuar uma reinicialização de todos os motores passo-a-passo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esse procedimento vai forçar a unidade de controle remoto de temperatura a uma reinicialização de todos os motores de passo</tu>
+	<tu
+    xmlns:lang="rus"
+  >В результате этой процедуры дистанционный блок системы климат-контроля выполнит повторную инициализацию всех шаговых электромоторов</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento forzará a la unidad de control remoto de climatización a reinicializar todos los motores paso a paso</tu>
+	<tu xmlns:lang="chs">本程序将迫使气候遥控单元对所有步进电机重新进行初始化</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 절차에서는 원격 실내 온도 조절 시스템 유닛이 모든 스테퍼 모터의 재초기화를 수행하도록 강제합니다.</tu>
+</tm>

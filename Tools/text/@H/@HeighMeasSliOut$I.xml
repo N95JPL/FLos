@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HeighMeasSliOut$I">
+	<tu
+    xmlns:lang="eng"
+  >The height measurements are slightly outside of the required tolerance.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De hoogtemetingen liggen nét iets buiten de vereiste tolerantie.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les mesures de hauteur dépassent légèrement les tolérances requises.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Höhenmessungen liegen etwas außerhalb der Toleranzgrenzen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'altezza è leggermente al di fuori della tolleranza richiesta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ハイト (高さ) の測定値は必要とされる許容範囲をわずかに外れています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os valores da altura estão ligeiramente fora da tolerância exigida.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As medidas de altura estão ligeiramente fora da tolerância necessária.</tu>
+	<tu xmlns:lang="rus">Высота немного выходит за пределы допусков.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Las medidas de altura se encuentran ligeramente fuera de la tolerancia exigida.</tu>
+	<tu xmlns:lang="chs">高度测量值稍微超出要求的公差。</tu>
+	<tu xmlns:lang="kor">높이 측정치가 요구되는 공차 범위를 약간 벗어납니다.</tu>
+</tm>

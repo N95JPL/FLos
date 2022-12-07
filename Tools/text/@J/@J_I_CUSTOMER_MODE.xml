@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CUSTOMER_MODE">
+	<tu xmlns:lang="eng">Customer mode</tu>
+	<tu xmlns:lang="nld">Klantmodus</tu>
+	<tu xmlns:lang="fra">Mode client</tu>
+	<tu xmlns:lang="deu">Kunden-Modus</tu>
+	<tu xmlns:lang="ita">Modalità cliente</tu>
+	<tu xmlns:lang="jpn">顧客モード</tu>
+	<tu xmlns:lang="ptg">Modo de cliente</tu>
+	<tu xmlns:lang="ptb">Modo do cliente</tu>
+	<tu xmlns:lang="rus">Пользовательский режим</tu>
+	<tu xmlns:lang="esp">Modo cliente</tu>
+	<tu xmlns:lang="chs">客户模式</tu>
+	<tu xmlns:lang="kor">고객 모드</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RANGE_UNITS">
+	<tu xmlns:lang="eng">Range units</tu>
+	<tu xmlns:lang="nld">Bereikeenheden</tu>
+	<tu xmlns:lang="fra">Unités de gamme.</tu>
+	<tu xmlns:lang="deu">Bereichseinheiten</tu>
+	<tu xmlns:lang="ita">Unità gamma</tu>
+	<tu xmlns:lang="jpn">レンジの単位</tu>
+	<tu xmlns:lang="ptg">Unidades de gama</tu>
+	<tu xmlns:lang="ptb">Unidades de faixa</tu>
+	<tu xmlns:lang="rus">Единицы измерения дальности</tu>
+	<tu xmlns:lang="esp">Unidades de gama de marchas</tu>
+	<tu xmlns:lang="chs">范围单位</tu>
+	<tu xmlns:lang="kor">범위 단위</tu>
+</tm>

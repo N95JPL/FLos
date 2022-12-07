@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Hot$GSM">
+	<tu xmlns:lang="eng">Gear shift module</tu>
+	<tu xmlns:lang="nld">Schakelhendelmodule</tu>
+	<tu xmlns:lang="fra">Module de changement de rapport</tu>
+	<tu xmlns:lang="deu">Schaltsteuergerät</tu>
+	<tu xmlns:lang="ita">Modulo selettore cambio</tu>
+	<tu xmlns:lang="jpn">ギアシフト モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo das mudanças</tu>
+	<tu xmlns:lang="ptb">Módulo de troca de marcha</tu>
+	<tu xmlns:lang="rus">Блок переключения передач</tu>
+	<tu xmlns:lang="esp">Módulo de la palanca de cambios</tu>
+	<tu xmlns:lang="chs">换档模块</tu>
+	<tu xmlns:lang="kor">기어 변속 모듈</tu>
+</tm>

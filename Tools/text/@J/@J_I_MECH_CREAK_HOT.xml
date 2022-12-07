@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_MECH_CREAK_HOT">
+	<tu xmlns:lang="eng">Mechanical creak when hot</tu>
+	<tu xmlns:lang="nld">Mechanisch kraken, wanneer hij heet is</tu>
+	<tu xmlns:lang="fra">Craquement mécanique à chaud</tu>
+	<tu xmlns:lang="deu">Mechanisches Knirschen in heißem Zustand</tu>
+	<tu xmlns:lang="ita">Scricchiolio meccanico a temperatura elevata</tu>
+	<tu xmlns:lang="jpn">温間時の機械的キーキー音</tu>
+	<tu xmlns:lang="ptg">Chiadeira mecânica quando quente</tu>
+	<tu xmlns:lang="ptb">Rangido mecânico quando está quente</tu>
+	<tu xmlns:lang="rus">Механический скрип при нагреве</tu>
+	<tu xmlns:lang="esp">Crujido mecánico cuando está caliente</tu>
+	<tu xmlns:lang="chs">处于热态时出现机械吱吱响声</tu>
+	<tu xmlns:lang="kor">과열 시 기계적으로 삐걱거리는 소리</tu>
+</tm>

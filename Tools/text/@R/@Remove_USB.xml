@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@Remove_USB">
+	<tu
+    xmlns:lang="eng"
+  >Remove the Jaguar Land Rover approved USB flash drive from the vehicle and connect to a diagnostic tester.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Verwijder de door Jaguar Land Rover goedgekeurde USB-stick uit de auto en sluit een diagnosetester aan.
+</tu>
+	<tu
+    xmlns:lang="fra"
+  >Déposez le lecteur USB agréé Jaguar Land Rover du véhicule et connectez-le à un testeur de diagnostic.
+</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den von Jaguar Land Rover zugelassenen USB-Stick aus dem Fahrzeug entfernen und ein Diagnosetestgerät anschließen.
+</tu>
+	<tu
+    xmlns:lang="ita"
+  >Rimuovere l’unità flash USB approvata da Jaguar Land Rover dal veicolo e collegarla a un test diagnostico.
+</tu>
+	<tu
+    xmlns:lang="jpn"
+  >Jaguar Land Rover 指定の USB フラッシュ ドライブを車両から取り外して診断テスタに接続します。
+</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retire a unidade flash USB aprovada pela Jaguar Land Rover do veículo e ligue-a a um aparelho de diagnóstico.
+</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Remova o Pen drive USB aprovado pela Jaguar Land Rover do veículo e se conecte-o a um testador de diagnóstico.
+</tu>
+	<tu
+    xmlns:lang="rus"
+  >Извлеките одобренный Jaguar Land Rover накопитель USB из автомобиля и подсоедините его к диагностическому тестеру.
+</tu>
+	<tu
+    xmlns:lang="esp"
+  >Desconecte la unidad de memoria USB homologada por Jaguar Land Rover del vehículo y conéctela a un comprobador de diagnóstico.
+</tu>
+	<tu
+    xmlns:lang="chs"
+  >从车辆上拆下 Jaguar Land Rover 认可的 USB 闪存驱动器并连接到诊断测试仪。
+</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에서 Jaguar Land Rover 승인 USB 플래시 드라이브를 제거하고 진단 테스터에 연결하십시오.
+</tu>
+</tm>

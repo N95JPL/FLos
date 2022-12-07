@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DIESEL_PAR_FILT_COND_VAL">
+	<tu xmlns:lang="eng">Diesel particulate filter condition (stored values)</tu>
+	<tu xmlns:lang="nld">Conditie van dieseldeeltjesfilter (opgeslagen waarden)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Etat du filtre à particules diesel (valeurs enregistrées)</tu>
+	<tu xmlns:lang="deu">Dieselrußfilterzustand (gespeicherte Werte)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Condizione filtro antiparticolato per diesel (valori memorizzati)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ディーゼル微粒子フィルター (DPF) コンディション (保存数値)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Condição do filtro de partículas do sistema Diesel (valores guardados)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Condição do filtro de partículas diesel (valores armazenados)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние противосажевого фильтра (сохраненные значения)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Estado del filtro de partículas Diesel (valores almacenados)</tu>
+	<tu xmlns:lang="chs">柴油微粒过滤器状态（保存值）</tu>
+	<tu xmlns:lang="kor">디젤 미립자 필터 상태(저장된 값)</tu>
+</tm>

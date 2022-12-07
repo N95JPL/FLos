@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PerformPDITransportationMode">
+	<tu
+    xmlns:lang="eng"
+  >Perform the pre delivery inspection routine in the Diagnostic Tool to make sure the vehicle is not in transportation mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer de afleveringsinspectie in het diagnosesysteem uit om ervoor te zorgen dat de auto niet in de transportfunctie staat.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Effectuez la procédure d'inspection avant livraison dans l'outil de diagnostic pour vous assurer que le véhicule n'est pas en mode transport.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Auslieferungsinspektionsroutine in der Diagnosesystem-Anwendung durchführen, um sicherzustellen, dass sich das Fahrzeug nicht im Transportmodus befindet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Eseguire la procedura di ispezione di preconsegna (PDI) nello strumento diagnostico per assicurarsi che il veicolo non sia in modalità di trasporto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >診断ツールで納車前点検ルーチンを実行して、車両が輸送モードでないことを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Realize a rotina de inspeção pré-entrega na ferramenta de diagnóstico para se certificar de que o veículo não está em modo de transporte.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Realize a rotina de inspeção de pré-entrega na Ferramenta de Diagnóstico para certificar-se de que o veículo não está em modo de transporte.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполните процедуру предпродажной подготовки в диагностическом устройстве, чтобы убедиться, что режим транспортировки выключен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Lleve a cabo la rutina de inspección previa a la entrega en la herramienta de diagnóstico para asegurarse de que el vehículo no está en el modo de transporte.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在诊断工具中执行交车前检查例行程序，以确保车辆未处于运输模式。</tu>
+	<tu
+    xmlns:lang="kor"
+  >진단 도구에서 납품 전 점검 절차를 수행하여 차량이 운송 모드에 있지 않은지 확인하십시오.</tu>
+</tm>

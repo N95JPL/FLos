@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_STATUS_START">
+	<tu xmlns:lang="eng">Starting the software download job.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bezig met het starten van de bewerking voor het downloaden van de software.</tu>
+	<tu xmlns:lang="fra">Démarrage de la tâche de téléchargement du logiciel.</tu>
+	<tu xmlns:lang="deu">Aufgabe Herunterladen von Software wird gestartet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Avvio in corso dell'operazione di scaricamento software.</tu>
+	<tu xmlns:lang="jpn">ソ\フトウェア ダウンロード作業を開始しています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A iniciar a tarefa de descarregamento ('download') de software.</tu>
+	<tu xmlns:lang="ptb">Início do processo de download de software.</tu>
+	<tu xmlns:lang="rus">Запуск задания загрузки программного обеспечения.</tu>
+	<tu xmlns:lang="esp">Iniciando el trabajo de descarga de software.</tu>
+	<tu xmlns:lang="chs">正在开始软件下载工作。</tu>
+	<tu xmlns:lang="kor">소프트웨어 다운로드 작업 시작</tu>
+</tm>

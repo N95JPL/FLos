@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROUT_REIN_CORR_FUEL">
+	<tu
+    xmlns:lang="eng"
+  >The routine will re-initialize the adaptive correction mass for the fuel observer.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De routine zal het adaptieve correctiegewicht voor de brandstofbewaking opnieuw initialiseren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme permettra de réinitialiser la masse de correction adaptative du témoin de carburant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dieser Routine wird die Anpassungs-Mengenkorrektur für den Kraftstoffmonitor neu initialisiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura reinizializza la massa di correzione adattativa per l'osservatore carburante.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンは、フューエル オブザーバーの補正マスを再初期化します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A rotina reinicializará a massa de correcção adaptável para o observador de combustível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A rotina irá reinicializar a correção adaptável da massa para o observador de combustível.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данная операция позволяет повторно инициализировать значение адаптивной корректирующей массы в топливном контроллере.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La rutina reinicializará la masa de corrección de adaptación para el económetro.</tu>
+	<tu xmlns:lang="chs">本程序将重新初始化燃油监视器的适应性修正质量。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴은 연료 관찰 장치를 위한 어댑테이션 보정 질량을 다시 초기화합니다.</tu>
+</tm>

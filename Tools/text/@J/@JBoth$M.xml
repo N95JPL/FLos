@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JBoth$M">
+	<tu xmlns:lang="eng">Both</tu>
+	<tu xmlns:lang="nld">BEIDE</tu>
+	<tu xmlns:lang="fra">LES DEUX</tu>
+	<tu xmlns:lang="deu">BEIDE</tu>
+	<tu xmlns:lang="ita">ENTRAMBI</tu>
+	<tu xmlns:lang="jpn">両方</tu>
+	<tu xmlns:lang="ptg">Ambas</tu>
+	<tu xmlns:lang="ptb">Ambos</tu>
+	<tu xmlns:lang="rus">Обе</tu>
+	<tu xmlns:lang="esp">AMBOS</tu>
+	<tu xmlns:lang="chs">所有两个</tu>
+	<tu xmlns:lang="kor">모두</tu>
+</tm>

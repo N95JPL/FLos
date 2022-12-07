@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROOF_TYPE">
+	<tu xmlns:lang="eng">Roof type</tu>
+	<tu xmlns:lang="nld">Daktype</tu>
+	<tu xmlns:lang="fra">Type de toit</tu>
+	<tu xmlns:lang="deu">Dachtyp</tu>
+	<tu xmlns:lang="ita">Tipo di tetto</tu>
+	<tu xmlns:lang="jpn">ルーフ タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de tecto</tu>
+	<tu xmlns:lang="ptb">Tipo de teto</tu>
+	<tu xmlns:lang="rus">Тип крыши</tu>
+	<tu xmlns:lang="esp">Tipo de techo</tu>
+	<tu xmlns:lang="chs">顶篷类型</tu>
+	<tu xmlns:lang="kor">루프 유형</tu>
+</tm>

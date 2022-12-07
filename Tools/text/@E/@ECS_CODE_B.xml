@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECS_CODE_B">
+	<tu xmlns:lang="eng">ECS  -  B  -  5.0 NA Federal LEV 2</tu>
+	<tu
+    xmlns:lang="nld"
+  >ECS  -  B  -  zelfaanzuigende 5.0L-motor, federale emissienorm 2</tu>
+	<tu xmlns:lang="fra">ECS  -  B  -  5.0 atmosph. Federal NIV. 2</tu>
+	<tu xmlns:lang="deu">ECS  -  B  -  5.0 Saugmotor USA LEV 2</tu>
+	<tu xmlns:lang="ita">ECS  -  B  -  5.0 NA Federale LIV 2</tu>
+	<tu xmlns:lang="jpn">ECS  －  B  －  5.0 自然吸気、連邦 LEV 2</tu>
+	<tu xmlns:lang="ptg">ECS  -  B  -  5.0 NA Federal NÍV 2</tu>
+	<tu xmlns:lang="ptb">ECS  -  B  -  5.0 NA Federal LEV 2</tu>
+	<tu
+    xmlns:lang="rus"
+  >ECS  -  B  -  5.0 без наддува - федеральный стандарт LEV</tu>
+	<tu xmlns:lang="esp">ECS  -  B  -  5.0 NA Federal LEV 2</tu>
+	<tu xmlns:lang="chs">ECS  -  B  -  5.0L、自然进气式、联邦 II 级排放标准</tu>
+	<tu xmlns:lang="kor">ECS  -  B  -  5.0 NA Federal LEV 2</tu>
+</tm>

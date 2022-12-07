@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_PROCESS_FILES">
+	<tu xmlns:lang="eng">Processing data files.</tu>
+	<tu xmlns:lang="nld">Bezig met verwerken van gegevensbestanden.</tu>
+	<tu xmlns:lang="fra">Traitement des fichiers de données.</tu>
+	<tu xmlns:lang="deu">Datendateien werden verarbeitet.</tu>
+	<tu xmlns:lang="ita">Elaborazione in corso file dati.</tu>
+	<tu xmlns:lang="jpn">データ ファイルをプロセス中</tu>
+	<tu xmlns:lang="ptg">A processar ficheiros de dados.</tu>
+	<tu xmlns:lang="ptb">Arquivos de dados de processamento.</tu>
+	<tu xmlns:lang="rus">Обработка файлов данных.</tu>
+	<tu xmlns:lang="esp">Procesando archivos de datos.</tu>
+	<tu xmlns:lang="chs">处理数据文件。</tu>
+	<tu xmlns:lang="kor">데이터 파일 처리 중</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REM_TOWBAR">
+	<tu xmlns:lang="eng">Remove tow bar</tu>
+	<tu xmlns:lang="nld">Trekhaak verwijderen</tu>
+	<tu xmlns:lang="fra">Déposez la barre de remorquage</tu>
+	<tu xmlns:lang="deu">Anhängerkupplung ausbauen</tu>
+	<tu xmlns:lang="ita">Rimuovere barra di traino</tu>
+	<tu xmlns:lang="jpn">牽引バーの取り外し</tu>
+	<tu xmlns:lang="ptg">Desmonte a barra de reboque</tu>
+	<tu xmlns:lang="ptb">Remover engate para reboque</tu>
+	<tu xmlns:lang="rus">Снять тягово-сцепное устройство</tu>
+	<tu xmlns:lang="esp">Desmontar barra de remolque</tu>
+	<tu xmlns:lang="chs">拆除牵引杆</tu>
+	<tu xmlns:lang="kor">토우바 제거</tu>
+</tm>

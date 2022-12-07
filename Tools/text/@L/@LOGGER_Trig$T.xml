@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LOGGER_Trig$T">
+	<tu xmlns:lang="eng">Trigger</tu>
+	<tu xmlns:lang="nld">Trekker (noun); aanzetten (verb)</tu>
+	<tu xmlns:lang="fra">Déclenchement</tu>
+	<tu xmlns:lang="deu">Auslösen</tu>
+	<tu xmlns:lang="ita">Scatto</tu>
+	<tu xmlns:lang="jpn">ﾄﾘｶﾞー</tu>
+	<tu xmlns:lang="ptg">Disparo</tu>
+	<tu xmlns:lang="ptb">Acionador</tu>
+	<tu xmlns:lang="rus">Триггер</tu>
+	<tu xmlns:lang="esp">Disparo</tu>
+	<tu xmlns:lang="chs">触发器</tu>
+	<tu xmlns:lang="kor">트리거</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUTO_ALIGN_OFFSET_DEG">
+	<tu xmlns:lang="eng">Automatic alignment offset(degrees):</tu>
+	<tu xmlns:lang="nld">Afwijking van automatische uitlijning (graden):</tu>
+	<tu xmlns:lang="fra">Décalage de l'alignement automatique (degrés) :</tu>
+	<tu xmlns:lang="deu">Versatz automatische Ausrichtung (Grad):</tu>
+	<tu xmlns:lang="ita">Deviazione (gradi) dell'allineamento automatico:</tu>
+	<tu xmlns:lang="jpn">自動アライメント オフセット (度)：</tu>
+	<tu xmlns:lang="ptg">Desvio do alinhamento automático (graus):</tu>
+	<tu xmlns:lang="ptb">Desvio de alinhamento automático (graus):</tu>
+	<tu xmlns:lang="rus">Смещение при автоматической подстройке(в градусах):</tu>
+	<tu xmlns:lang="esp">Desviación automática de la alineación (grados):</tu>
+	<tu xmlns:lang="chs">自动校准偏差（度）：</tu>
+	<tu xmlns:lang="kor">자동 정렬 오프셋(도):</tu>
+</tm>

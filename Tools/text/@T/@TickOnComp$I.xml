@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TickOnComp$I">
+	<tu xmlns:lang="eng">Press tick when air suspension has re-inflated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op de afvinktoets zodra de luchtvering opnieuw is opgepompt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Appuyez sur la coche lorsque la suspension pneumatique s'est régonflée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Wiederbefüllung der Luftfederung das Häkchen antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il segno di spunta quando è stata rigonfiata la sospensione pneumatica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エア サスペンションが再加圧されたのち、ティックを押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Prima o sinal de confirmação quando a suspensão pneumática estiver novamente com ar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pressione ok quando a suspensão a ar tiver sido inflada novamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Нажмите галочку, когда воздух будет снова закачан в подвеску.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de continuar cuando se haya vuelto a inflar la suspensión neumática.</tu>
+	<tu xmlns:lang="chs">当悬架重新充气后按下勾号。</tu>
+	<tu xmlns:lang="kor">에어 서스펜션이 다시 가압되면 체크 표시를 누릅니다.</tu>
+</tm>

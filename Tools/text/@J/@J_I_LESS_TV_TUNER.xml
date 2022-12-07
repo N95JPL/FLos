@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_TV_TUNER">
+	<tu xmlns:lang="eng">Without television tuner</tu>
+	<tu xmlns:lang="nld">Zonder televisietuner</tu>
+	<tu xmlns:lang="fra">Sans syntoniseur TV</tu>
+	<tu xmlns:lang="deu">Ohne TV-Tuner</tu>
+	<tu xmlns:lang="ita">Senza sintonizzatore TV</tu>
+	<tu xmlns:lang="jpn">TV チューナーなし</tu>
+	<tu xmlns:lang="ptg">Sem sintonizador da televisão</tu>
+	<tu xmlns:lang="ptb">Sem sintonizador de televisão</tu>
+	<tu xmlns:lang="rus">Без ТВ-тюнера</tu>
+	<tu xmlns:lang="esp">Sin sintonizador de televisión</tu>
+	<tu xmlns:lang="chs">无电视调谐器</tu>
+	<tu xmlns:lang="kor">텔레비전 튜너 불포함</tu>
+</tm>

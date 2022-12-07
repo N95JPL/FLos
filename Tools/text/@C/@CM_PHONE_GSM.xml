@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_PHONE_GSM">
+	<tu xmlns:lang="eng">GSM cellular telephone.</tu>
+	<tu xmlns:lang="nld">GSM cellulaire telefoon</tu>
+	<tu xmlns:lang="fra">Téléphone cellulaire GSM</tu>
+	<tu xmlns:lang="deu">GSM-Mobiltelefon</tu>
+	<tu xmlns:lang="ita">Telefono cellulare GSM</tu>
+	<tu xmlns:lang="jpn">GSM セルラー テレホン</tu>
+	<tu xmlns:lang="ptg">Telemóvel GSM.</tu>
+	<tu xmlns:lang="ptb">Telefone celular do GSM.</tu>
+	<tu xmlns:lang="rus">Сотовый телефон GSM.</tu>
+	<tu xmlns:lang="esp">Teléfono celular GSM</tu>
+	<tu xmlns:lang="chs">GSM 蜂窝电话。</tu>
+	<tu xmlns:lang="kor">GSM 휴대 전화</tu>
+</tm>

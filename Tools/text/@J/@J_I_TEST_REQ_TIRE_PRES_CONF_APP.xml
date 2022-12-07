@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TEST_REQ_TIRE_PRES_CONF_APP">
+	<tu
+    xmlns:lang="eng"
+  >On completion, a specific road test will be required followed by the tire pressure monitor system confirmation application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Nadat dit is uitgevoerd, moet u een specifieke proefrit maken, gevolgd door de toepassing voor het bevestigen van het bandenspanningsbewakingssysteem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >A la fin, un test sur route spécifique est requis, suivi par l'application de confirmation du système de contrôle de pression des pneus.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss ist eine spezifische Probefahrt erforderlich, gefolgt vom Ausführen des Anwendungsprogramms zur Bestätigung der Reifendrucküberwachung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Al termine, sarà necessario eseguire una prova su strada specifica, seguita dall'applicazione di conferma sistema di monitoraggio pressione pneumatici.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >完了後、特定ロード テストおよびそののちのタイヤ プレッシャ モニター システム確認アプリケーション実行が必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Após a conclusão será necessário um teste em estrada específico seguido da aplicação de confirmação do sistema de monitorização da pressão dos pneus.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ao concluir, um teste de rodagem específico será necessário, e, depois, um aplicativo de confirmação do sistema de monitoramento de pressão dos pneus.</tu>
+	<tu
+    xmlns:lang="rus"
+  >По завершении потребуется определенное дорожное испытание с последующим выполнением приложения подтверждения системы контроля давления в шинах.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Al finalizar, será necesario realizar una prueba de conducción seguida de una aplicación de confirmación del sistema de control de la presión de los neumáticos. </tu>
+	<tu
+    xmlns:lang="chs"
+  >'在完成后，将需要进行指定的道路测试，然后进行轮胎压力监测器系统确认应用程序。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >완료 후 타이어 공기압 모니터 시스템 확인 응용 프로그램에 의해 특정 도로 주행 테스트가 요구됩니다.</tu>
+</tm>

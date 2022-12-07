@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ACTIVE_ALARM_NOT_FIT">
+	<tu xmlns:lang="eng">The vehicle is not fitted with an active alarm system.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voertuig is niet uitgerust met een actief alarmsysteem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce véhicule n'est pas équipé d'un système d'alarme actif.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug ist nicht mit einer aktiven Alarmanlage ausgestattet.</tu>
+	<tu xmlns:lang="ita">Il veicolo non è dotato di sistema di allarme attivo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両にはアクティブ アラーム システムが装備されていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo não está equipado com um sistema de alarme activo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo não está equipado com um sistema de alarme ativo.</tu>
+	<tu xmlns:lang="rus">Автомобиль не оснащен системой активной сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El vehículo no tiene instalado un sistema de alarma activa.</tu>
+	<tu xmlns:lang="chs">车辆没有配备主动报警系统。</tu>
+	<tu xmlns:lang="kor">차량에 활성 알람 시스템이 장착되어 있지 않습니다.</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_STOP_START_HEALTH_INFO_10">
+	<tu
+    xmlns:lang="eng"
+  >Diagnostic guidance is displayed when the mouse is hovered over an item with a red cross</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er wordt diagnosebegeleiding weergegeven wanneer de muis boven een item met een rood kruis wordt gehouden</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le guide de diagnostic s'affiche lorsque la souris survole un élément avec une croix rouge</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Diagnoseleitfaden wird angezeigt, sobald die Maus über ein Element mit einem roten Kreuz bewegt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Quando il mouse viene passato sopra un elemento che presenta una croce rossa, viene visualizzata la guida diagnostica</tu>
+	<tu
+    xmlns:lang="jpn"
+  >赤のバツ印 (×) が付いている項目にマウスを合わせると、診断ガイドが表示されます</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Quando passa com o rato sobre um item com uma cruz vermelha, são apresentadas instruções de diagnóstico</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A orientação de diagnóstico é exibida quando o mouse é suspenso sobre um item com uma cruz vermelha</tu>
+	<tu
+    xmlns:lang="rus"
+  >При наведении курсора мыши на элемент с красным крестиком отображаются указания по диагностике.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se muestra información de diagnóstico cuando se pasa el ratón por encima de un elemento con una equis roja.</tu>
+	<tu xmlns:lang="chs">将鼠标悬停在带有红色叉号的项目上方时，将显示诊断指南</tu>
+	<tu
+    xmlns:lang="kor"
+  >마우스를 빨간색 X 표시가 있는 항목 위로 가져가면 진단 지침이 표시됩니다.</tu>
+</tm>

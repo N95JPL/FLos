@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_INVEHICLE_ENTERTAINMENT">
+	<tu xmlns:lang="eng">Entertainment system</tu>
+	<tu xmlns:lang="nld">Geluidsinstallatie</tu>
+	<tu xmlns:lang="fra">Système audio</tu>
+	<tu xmlns:lang="deu">Unterhaltungssystem</tu>
+	<tu xmlns:lang="ita">Impianto audio</tu>
+	<tu xmlns:lang="jpn">エンターテイメント システム</tu>
+	<tu xmlns:lang="ptg">Sistema de entretenimento</tu>
+	<tu xmlns:lang="ptb">Sistema de entretenimento</tu>
+	<tu xmlns:lang="rus">Мультимедийная система</tu>
+	<tu xmlns:lang="esp">Sistema de audio</tu>
+	<tu xmlns:lang="chs">娱乐系统</tu>
+	<tu xmlns:lang="kor">엔터테인먼트 시스템</tu>
+</tm>

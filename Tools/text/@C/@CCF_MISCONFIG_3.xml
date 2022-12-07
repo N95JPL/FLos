@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_MISCONFIG_3">
+	<tu
+    xmlns:lang="eng"
+  >The status will be read from the vehicle and any discrepancies will then be displayed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De status wordt uit het voertuig gelezen en eventuele afwijkingen worden weergegeven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'état va être lu sur le véhicule et toute divergence sera alors affichée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Status wird aus dem Fahrzeug ausgelesen und alle Abweichungen werden dann angezeigt.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lo stato viene letto dal veicolo e qualsiasi discrepanza viene quindi visualizzata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両からステータスが読み込まれ相違点があれば表\示されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Será lido o estado do veículo e serão exibidas quaisquer discrepâncias.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O status será lido a partir do veículo e de quaisquer discrepâncias e depois será exibido.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Будет считано состояние автомобиля, и затем будут отображены все несовпадения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se leerá el estado del vehículo y se mostrarán las discrepancias.</tu>
+	<tu xmlns:lang="chs">状态将从车辆中读取，所有不同之处将随之显示出来。</tu>
+	<tu xmlns:lang="kor">차체 상태가 판독되고 모든 차이가 표시됩니다.</tu>
+</tm>

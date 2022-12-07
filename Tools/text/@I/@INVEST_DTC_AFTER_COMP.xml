@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@INVEST_DTC_AFTER_COMP">
+	<tu
+    xmlns:lang="eng"
+  >On completion of this module procedure, please investigate these DTCs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onderzoek deze DTC's wanneer deze moduleprocedure is voltooid.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois la procédure du module terminée, étudiez ces DTC.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nach Abschluss dieses Moduls bitte diese DTCs untersuchen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta completata la procedura per questo modulo, analizzare i DTC.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このモジュールの手順を完了したら、これらの DTC を調査してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Após a conclusão do procedimento deste módulo, investigue estes DTC.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Após a conclusão deste procedimento de módulo, verifique estes DTCs.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После завершения процедуры для этого блока проверьте данные коды DTC.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cuando termine este procedimiento de módulo, investigue estos DTC.</tu>
+	<tu xmlns:lang="chs">该模块程序完成时，请调查这些 DTC。</tu>
+	<tu xmlns:lang="kor">이 모듈 절차가 완료되면 이러한 DTC를 조사하십시오.</tu>
+</tm>

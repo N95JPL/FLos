@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HLMP_CAL_SUS_SETUP">
+	<tu xmlns:lang="eng">Headlamp calibration suspension set-up</tu>
+	<tu xmlns:lang="nld">Instelling wielophanging voor kalibratie van koplampen</tu>
+	<tu xmlns:lang="fra">Réglage de suspension pour étalonnage des phares</tu>
+	<tu xmlns:lang="deu">Scheinwerferkalibrierung - Aufhängungseinstellung</tu>
+	<tu xmlns:lang="ita">Configurazione sospensioni taratura fari</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ヘッドランプ キャリブレーション サスペンション セットアップ</tu>
+	<tu xmlns:lang="ptg">Configuração da suspensão de calibragem dos faróis</tu>
+	<tu xmlns:lang="ptb">Configuração da suspensão da calibração dos faróis</tu>
+	<tu xmlns:lang="rus">Настройка подвески для калибровки фар</tu>
+	<tu
+    xmlns:lang="esp"
+  >Configuración de la suspensión para calibración de los faros</tu>
+	<tu xmlns:lang="chs">车头灯校准延迟装置</tu>
+	<tu xmlns:lang="kor">헤드램프 보정 서스펜션 설정</tu>
+</tm>

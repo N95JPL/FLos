@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@APPLICATION_APPLIES_TO_FEDERAL">
+	<tu
+    xmlns:lang="eng"
+  >This application is only applicable to Federal vehicles.</tu>
+	<tu xmlns:lang="nld">Deze toepassing geldt alleen voor federale voertuigen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application ne s'applique qu'aux véhicules fédéraux.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Anwendung trifft nur für Fahrzeuge für den US-amerikanischen Markt zu.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa applicazione è valida soltanto per i veicoli federali.</tu>
+	<tu xmlns:lang="jpn">このアプリケーションは連邦車両にのみ適用されます。</tu>
+	<tu xmlns:lang="ptg">Esta aplicação apenas se aplica aos veículos federais.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esse aplicativo é aplicável apenas aos veículos federais.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение применяется только на автомобилях, собранных в соответствии с требованиями федеральных технических условий США.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación es solamente para vehículos estadounidenses.</tu>
+	<tu xmlns:lang="chs">该应用程序仅适用于联邦（Federal）车辆。</tu>
+	<tu xmlns:lang="kor">이 애플리케이션은 연방 차량에만 적용됩니다.</tu>
+</tm>

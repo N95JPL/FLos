@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_DYNAMIC_SUSPENSION">
+	<tu xmlns:lang="eng">204-05 Vehicle dynamic suspension</tu>
+	<tu xmlns:lang="nld">204-05 Dynamische ophanging van voertuig</tu>
+	<tu xmlns:lang="fra">204-05 Suspension dynamique du véhicule</tu>
+	<tu xmlns:lang="deu">204-05 Niveauregulierung</tu>
+	<tu xmlns:lang="ita">204-05 Sospensione dinamica veicolo</tu>
+	<tu xmlns:lang="jpn">204-05 車両ダイナミック サスペンション</tu>
+	<tu xmlns:lang="ptg">204-05 Suspensão activa do veículo</tu>
+	<tu xmlns:lang="ptb">204-05 Suspensão dinâmica do veículo</tu>
+	<tu xmlns:lang="rus">204-05 Система динамической подвески</tu>
+	<tu xmlns:lang="esp">204-05 Suspensión neumática autonivelante</tu>
+	<tu xmlns:lang="chs">204-05车辆动态悬挂</tu>
+	<tu xmlns:lang="kor">204-05 차량 다이내믹 서스펜션</tu>
+</tm>

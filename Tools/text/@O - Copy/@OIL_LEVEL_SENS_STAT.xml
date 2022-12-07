@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@OIL_LEVEL_SENS_STAT">
+	<tu xmlns:lang="eng">Oil level sensor and static measurement</tu>
+	<tu xmlns:lang="nld">Oliepeilsensor en statische meting</tu>
+	<tu xmlns:lang="fra">Capteur de niveau d'huile et mesure statique</tu>
+	<tu xmlns:lang="deu">Ölfüllstandssensor und statische Messung</tu>
+	<tu xmlns:lang="ita">Sensore e misura statica livello olio</tu>
+	<tu xmlns:lang="jpn">オイル レベル センサーおよびスタチック計測</tu>
+	<tu xmlns:lang="ptg">Sensor de nível do óleo e medição estática</tu>
+	<tu xmlns:lang="ptb">Sensor do nível de óleo e medição estática</tu>
+	<tu xmlns:lang="rus">Датчик уровня масла и статическое измерение</tu>
+	<tu xmlns:lang="esp">Sensor del nivel de aceite y medición estática</tu>
+	<tu xmlns:lang="chs">机油油位传感器和静态测量</tu>
+	<tu xmlns:lang="kor">오일 레벨 센서 및 정적 측정</tu>
+</tm>

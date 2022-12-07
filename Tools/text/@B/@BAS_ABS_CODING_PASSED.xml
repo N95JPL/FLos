@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_ABS_CODING_PASSED">
+	<tu
+    xmlns:lang="eng"
+  >The variant coding data, including the hydraulic brake assistance sensitivity has been correctly programmed into the ABS electronic control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De variantcodeergegevens, inclusief de gevoeligheid van de hydraulische rembekrachtiging, zijn correct in de elektronische ABS-regelmodule geprogrammeerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les données de codage de variante, y compris la sensibilité de l'assistance au freinage hydraulique, ont été correctement programmées dans le module de commande électronique ABS.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Variantencodierungsdaten einschl. Sensitivität des hydraulischen Bremskraftverstärkers wurden korrekt in das elektronische ABS-Steuergerät einprogrammiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Programmazione riuscita dei dati di codifica versione, compresa la sensibilità del servofreno idraulico, nell'unità di comando elettronica ABS.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ハイドロリック ブレーキ アシスト感度を含むモデル コード データを ABS エレクトロニック コントロール ユニットへ正しくプログラムしました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Os dados do código de versão, incluindo a sensibilidade do sistema de assistência à travagem hidráulica, foram correctamente programados na unidade electrónica de controlo do ABS.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Os dados da codificação variante, incluindo a sensibilidade da assistência do freio hidráulico, foram corretamente programados na unidade de controle eletrônico do ABS.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Данные кодирования варианта, включая чувствительность гидравлической помощи при торможении, были соответствующим образом запрограммированы в электронный блок управления ABS.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se han programado correctamente en el módulo de control electrónico del ABS los datos de código de variante, incluida la sensibilidad de la asistencia hidráulica al freno.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'变型车编码数据，包括液压制动辅助敏感度，已正确设置到 ABS 电子控制单元中。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >유압 브레이크 보조 감도를 포함한 변종 모델 코딩 데이터가 ABS 전자 컨트롤 유닛으로 올바로 프로그래밍되었습니다.</tu>
+</tm>

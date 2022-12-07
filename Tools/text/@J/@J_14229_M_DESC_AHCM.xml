@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_M_DESC_AHCM">
+	<tu xmlns:lang="eng">Auxiliary heater control module</tu>
+	<tu xmlns:lang="nld">Regelmodule van de hulpverwarming</tu>
+	<tu xmlns:lang="fra">Module de commande de chauffage auxiliaire</tu>
+	<tu xmlns:lang="deu">Zusatzheizungs-Steuermodul</tu>
+	<tu xmlns:lang="ita">Modulo comando riscaldatore ausiliario</tu>
+	<tu xmlns:lang="jpn">補助ヒーター コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando do aquecedor auxiliar</tu>
+	<tu xmlns:lang="ptb">Módulo de controle do aquecedor auxiliar</tu>
+	<tu xmlns:lang="rus">Блок управления дополнительным подогревателем</tu>
+	<tu xmlns:lang="esp">Módulo de control del calefactor auxiliar</tu>
+	<tu xmlns:lang="chs">辅助加热器控制模块</tu>
+	<tu xmlns:lang="kor">보조 히터 컨트롤 모듈</tu>
+</tm>

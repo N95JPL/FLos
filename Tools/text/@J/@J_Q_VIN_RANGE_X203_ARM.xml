@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_VIN_RANGE_X203_ARM">
+	<tu
+    xmlns:lang="eng"
+  >Is the vehicle identification number greater than or equal to M62936?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuigidentificatienummer gelijk aan of hoger dan M62936?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le numéro d'identification du véhicule est-il supérieur ou égal à M62936 ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist die Fahrzeug-Identifizierungsnummer größer als oder gleich M62936?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il numero di identificazione del veicolo è maggiore o pari a M62936?</tu>
+	<tu xmlns:lang="jpn">車両 ID ナンバーは M62936 以上ですか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número de identificação do veículo é superior ou igual a M62936?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O número de identificação do veículo é maior ou igual a M62936?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Идентификационный номер автомобиля больше или равен M62936?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Es el número de identificación del vehículo superior o igual a M62936?</tu>
+	<tu xmlns:lang="chs">车辆标识代码大于或等于 M62936 吗？</tu>
+	<tu xmlns:lang="kor">차량 식별 번호가 M62936 이상입니까?</tu>
+</tm>

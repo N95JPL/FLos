@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JPassDoorPuddleLamp$M">
+	<tu xmlns:lang="eng">Passenger's door puddle lamp</tu>
+	<tu xmlns:lang="nld">Passagiersportier uitstapverlichting</tu>
+	<tu xmlns:lang="fra">Feux de bas de porte passager</tu>
+	<tu xmlns:lang="deu">Türeinstiegsleuchten beifahrertür</tu>
+	<tu xmlns:lang="ita">Luci portiera passeggero</tu>
+	<tu xmlns:lang="jpn">パッセンジャー ドア パドル ランプ</tu>
+	<tu xmlns:lang="ptg">Luz de estribo da porta do passageiro</tu>
+	<tu xmlns:lang="ptb">Luz de cortesia da porta do passageiro</tu>
+	<tu
+    xmlns:lang="rus"
+  >Лампа фонаря подсветки при входе/выходе в двери пассажира</tu>
+	<tu xmlns:lang="esp">Lámparas puerta acompañante</tu>
+	<tu xmlns:lang="chs">乘客一侧车门脚底灯</tu>
+	<tu xmlns:lang="kor">조수석 도어 퍼들 램프</tu>
+</tm>

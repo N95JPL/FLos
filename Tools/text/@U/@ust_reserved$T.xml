@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ust_reserved$T">
+	<tu xmlns:lang="eng">Reserved</tu>
+	<tu xmlns:lang="nld">Gereserveerd</tu>
+	<tu xmlns:lang="fra">Réservé</tu>
+	<tu xmlns:lang="deu">Reserviert</tu>
+	<tu xmlns:lang="ita">Riservato</tu>
+	<tu xmlns:lang="jpn">保留</tu>
+	<tu xmlns:lang="ptg">Reservado</tu>
+	<tu xmlns:lang="ptb">Reservado</tu>
+	<tu xmlns:lang="rus">Зарезервировано</tu>
+	<tu xmlns:lang="esp">Reservado</tu>
+	<tu xmlns:lang="chs">保留</tu>
+	<tu xmlns:lang="kor">보류됨</tu>
+</tm>

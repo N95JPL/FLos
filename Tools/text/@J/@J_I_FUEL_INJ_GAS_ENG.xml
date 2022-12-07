@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUEL_INJ_GAS_ENG">
+	<tu xmlns:lang="eng">Fuel injected petrol engine</tu>
+	<tu xmlns:lang="nld">Benzinemotor met brandstofinjectie</tu>
+	<tu xmlns:lang="fra">Moteur à injection d'essence</tu>
+	<tu xmlns:lang="deu">Benzinmotor mit Kraftstoffeinspritzung</tu>
+	<tu xmlns:lang="ita">Motore a benzina a iniezione</tu>
+	<tu xmlns:lang="jpn">燃料噴射ガソ\リン エンジン</tu>
+	<tu xmlns:lang="ptg">Motor a gasolina com injecção de combustível</tu>
+	<tu xmlns:lang="ptb">Motor a gasolina com injeção de combustível</tu>
+	<tu xmlns:lang="rus">Бензиновый двигатель с впрыском топлива</tu>
+	<tu xmlns:lang="esp">Motor de inyección de gasolina</tu>
+	<tu xmlns:lang="chs">燃油喷射式汽油发动机</tu>
+	<tu xmlns:lang="kor">연료 분사식 가솔린 엔진</tu>
+</tm>

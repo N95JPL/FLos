@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_EVAP_EEGR_STEP_SOL">
+	<tu
+    xmlns:lang="eng"
+  >Evaporative emission control/electronic exhaust gas recirculation stepper solenoids</tu>
+	<tu
+    xmlns:lang="nld"
+  >Stappensoleno´des van benzinedampafzuiging / elektronische uitlaatgasrecirculatie</tu>
+	<tu
+    xmlns:lang="fra"
+  >Electrovanne de moteur pas à pas de recyclage des gaz d'échappement électronique/récupération des vapeurs de carburant</tu>
+	<tu
+    xmlns:lang="deu"
+  >Stellmagnete - Kraftstoffdampf-Rückhaltung/elektronische Abgasrückführung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Solenoidi motorini passo passo di controllo emissioni evaporative/ricircolo gas di scarico elettronico</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エバポレーティブ エミッション コントロール／エレクトロニック EGR ステッパ ソ\レノイド</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Solenóides do motor passo-a-passo da recirculação electrónica de gases de escape/controlo das emissões de vapores</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Solenoides do motor de passo eletrônico de recirculação do gás do escapamento/controle de emissão evaporativa</tu>
+	<tu
+    xmlns:lang="rus"
+  >Шаговые электромагнитные клапаны электронной системы отвода топливных паров/рециркуляции отработавших газов</tu>
+	<tu
+    xmlns:lang="esp"
+  >Solenoides paso a paso de control de emisiones por evaporación/recirculación de gases de escape de mando electrónico</tu>
+	<tu xmlns:lang="chs">蒸发排放控制/电子废气再循环步进电机电磁阀</tu>
+	<tu
+    xmlns:lang="kor"
+  >증발 가스 컨트롤/전자식 배기 가스 재순환 스테퍼 솔레노이드</tu>
+</tm>

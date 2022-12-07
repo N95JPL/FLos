@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart50">
+	<tu
+    xmlns:lang="eng"
+  >Make sure all auxiliary power sockets are disconnected and retest.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat alle accessoirestekkerdozen zijn losgekoppeld en test opnieuw.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Assurez-vous que toutes les prises d'alimentation auxiliaires sont débranchées et testez à nouveau.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass alle Zusatzsteckdosen getrennt sind und erneut testen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che tutte le prese di alimentazione ausiliaria siano scollegate e riprovare.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >すべての補助電源ソケットが切断され、再テストされていることを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que todas as tomadas de alimentação auxiliares estão desligadas e teste novamente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que todas as tomadas auxiliares estão desconectadas e teste novamente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что все дополнительное оборудование отсоединено от разъемов и повторите проверку.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que todas las tomas de corriente auxiliares están desconectadas y repita la prueba.</tu>
+	<tu xmlns:lang="chs">确保断开所有辅助电源插座，然后重新测试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >모든 보조 전원 소켓이 분리되어 있는지 확인하고 다시 테스트하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DRI_SEAT_MOD">
+	<tu xmlns:lang="eng">Driver's seat module</tu>
+	<tu xmlns:lang="nld">Regelmodule van de bestuurdersstoel</tu>
+	<tu xmlns:lang="fra">Module de siège conducteur</tu>
+	<tu xmlns:lang="deu">Fahrersitz-Steuermodul</tu>
+	<tu xmlns:lang="ita">Modulo sedile guidatore</tu>
+	<tu xmlns:lang="jpn">運転席側シート モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo do banco do condutor.</tu>
+	<tu xmlns:lang="ptb">Módulo do assento do motorista</tu>
+	<tu xmlns:lang="rus">Блок водительского сиденья.</tu>
+	<tu xmlns:lang="esp">Módulo del asiento del conductor</tu>
+	<tu xmlns:lang="chs">驾驶员一侧座椅模块。</tu>
+	<tu xmlns:lang="kor">운전석 모듈</tu>
+</tm>

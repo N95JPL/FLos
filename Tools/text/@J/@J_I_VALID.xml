@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VALID">
+	<tu xmlns:lang="eng">Valid</tu>
+	<tu xmlns:lang="nld">Geldig</tu>
+	<tu xmlns:lang="fra">Valide</tu>
+	<tu xmlns:lang="deu">Gültig</tu>
+	<tu xmlns:lang="ita">Valido</tu>
+	<tu xmlns:lang="jpn">有効</tu>
+	<tu xmlns:lang="ptg">Válido</tu>
+	<tu xmlns:lang="ptb">Válido</tu>
+	<tu xmlns:lang="rus">Допустимо</tu>
+	<tu xmlns:lang="esp">Válido</tu>
+	<tu xmlns:lang="chs">有效</tu>
+	<tu xmlns:lang="kor">유효함</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROGRAM_VIN">
+	<tu xmlns:lang="eng">Programming the VIN</tu>
+	<tu xmlns:lang="nld">Programmeren van de VIN</tu>
+	<tu xmlns:lang="fra">Programmation du VIN</tu>
+	<tu xmlns:lang="deu">Programmiere die VIN</tu>
+	<tu xmlns:lang="ita">Programmazione in corso di VIN</tu>
+	<tu xmlns:lang="jpn">VIN のプログラミング</tu>
+	<tu xmlns:lang="ptg">A programar o NIV</tu>
+	<tu xmlns:lang="ptb">Programação do VIN</tu>
+	<tu xmlns:lang="rus">Программирование VIN-кода</tu>
+	<tu xmlns:lang="esp">Programando el VIN</tu>
+	<tu xmlns:lang="chs">正在设置 VIN</tu>
+	<tu xmlns:lang="kor">VIN 프로그래밍</tu>
+</tm>

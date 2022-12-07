@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CAL_TRANS_STORE_MEM">
+	<tu
+    xmlns:lang="eng"
+  >This triggers a process where the calibration selection being transmitted over CAN as part of central car configuration is learned and stored in flash memory</tu>
+	<tu
+    xmlns:lang="nld"
+  >Hierdoor wordt een proces gestart waarbij de kalibratie-instelling over het CAN-netwerk wordt verzonden als onderdeel van de centrale voertuigconfiguratie en in het flitsprogrammeergeheugen wordt ingeleerd en opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ceci lance le processus par lequel la sélection de l'étalonnage transmise via le réseau CAN dans le cadre de la configuration centrale du véhicule est prise en compte et enregistrée dans la mémoire flash</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dabei wird ein Vorgang gestartet, bei dem die als Teil der zentralen Fahrzeugkonfiguration über den CAN-Datenbus übertragene ausgewählte Kalibrierung erlernt und im Flash-Speicher gespeichert wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questo fa scattare un processo per cui la selezione della taratura che viene trasmessa sulla rete CAN in quanto parte della configurazione centrale del veicolo viene appresa e memorizzata sulla memoria flash</tu>
+	<tu
+    xmlns:lang="jpn"
+  >これは、セントラル車両コンフィギュレーションの一部として CAN を介し伝送されるキャリブレーション選択が学習され、フラッシュ メモリに保存されるプロセスをトリガーします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta mensagem desencadeia um processo segundo o qual a selecção de calibragem transmitida através da CAN como parte da configuração central do veículo é programada e guardada na memória flash</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isso aciona um processo em que a seleção de calibração que está sendo transmitido pela CAN como parte da configuração do carro central seja aprendido e armazenado na memória flash</tu>
+	<tu
+    xmlns:lang="rus"
+  >Запускает процедуру, во время которой калибровочные данные передаются по шине CAN как часть основной калибровки автомобиля и сохраняются во флэш-памяти</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta acción inicia un proceso en el que se memoriza y almacena en memoria flash la selección de calibración transmitida a través de CAN como parte de la configuración central del vehículo</tu>
+	<tu
+    xmlns:lang="chs"
+  >这会触发一个程序，在这一程序中，作为车辆中央配置的一部分、通过控制器局域网（CAN）传输的校验选择将被记忆并保存于闪存中。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이것은 중앙 차량 구성의 일부로서 CAN을 통해 전송되는 보정 선택 사항이 학습되고 플래시 메모리에 저장되는 프로세스를 트리거합니다.</tu>
+</tm>

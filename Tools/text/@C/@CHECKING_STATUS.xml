@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CHECKING_STATUS">
+	<tu xmlns:lang="eng">Checking status</tu>
+	<tu xmlns:lang="nld">Bezig met status controleren</tu>
+	<tu xmlns:lang="fra">Contrôle d'état</tu>
+	<tu xmlns:lang="deu">Status wird geprüft</tu>
+	<tu xmlns:lang="ita">Controllo stato</tu>
+	<tu xmlns:lang="jpn">ステータスのチェック</tu>
+	<tu xmlns:lang="ptg">Verificação do estado</tu>
+	<tu xmlns:lang="ptb">Verificando status</tu>
+	<tu xmlns:lang="rus">Проверка состояния</tu>
+	<tu xmlns:lang="esp">Comprobando el estado</tu>
+	<tu xmlns:lang="chs">检查状态</tu>
+	<tu xmlns:lang="kor">상태 점검</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_F_ROUTINE_PASSED">
+	<tu xmlns:lang="eng">Routine passed.</tu>
+	<tu xmlns:lang="nld">De routine is geslaagd.</tu>
+	<tu xmlns:lang="fra">Programme réussi.</tu>
+	<tu xmlns:lang="deu">Routine erfolgreich abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Procedura superata.</tu>
+	<tu xmlns:lang="jpn">ルーチンにパスしました。</tu>
+	<tu xmlns:lang="ptg">Rotina aprovada.</tu>
+	<tu xmlns:lang="ptb">Rotina aprovada.</tu>
+	<tu xmlns:lang="rus">Программа выполнена.</tu>
+	<tu xmlns:lang="esp">Rutina aprobada.</tu>
+	<tu xmlns:lang="chs">常规程序已通过。</tu>
+	<tu xmlns:lang="kor">절차가 통과됨</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_SWITCH_LIGHTS_OFF">
+	<tu xmlns:lang="eng">Switch the lamps off.</tu>
+	<tu xmlns:lang="nld">Schakel de lichten UIT</tu>
+	<tu xmlns:lang="fra">Eteignez (OFF) les feux</tu>
+	<tu xmlns:lang="deu">Beleuchtung AUSschalten</tu>
+	<tu xmlns:lang="ita">Spegnere le luci</tu>
+	<tu xmlns:lang="jpn">ライト スイッチをオフにしなさい。</tu>
+	<tu xmlns:lang="ptg">Desligar as luzes.</tu>
+	<tu xmlns:lang="ptb">Desligue as lâmpadas.</tu>
+	<tu xmlns:lang="rus">Выключите освещение.</tu>
+	<tu xmlns:lang="esp">Apagar las luces</tu>
+	<tu xmlns:lang="chs">关灯。</tu>
+	<tu xmlns:lang="kor">램프를 끄십시오.</tu>
+</tm>

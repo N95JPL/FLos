@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ROLL_CNTR">
+	<tu xmlns:lang="eng">Roll stability control</tu>
+	<tu xmlns:lang="nld">Stabiliteitsregeling tegen rollen </tu>
+	<tu xmlns:lang="fra">Contrôle de stabilité antiroulis </tu>
+	<tu xmlns:lang="deu">Wankstabilitätskontrolle </tu>
+	<tu xmlns:lang="ita">Controllo attivo della stabilità</tu>
+	<tu xmlns:lang="jpn">ロール スタビリティ コントロール</tu>
+	<tu xmlns:lang="ptg">Controlo da estabilidade anti-capotamento</tu>
+	<tu xmlns:lang="ptb">Controle de estabilidade antirrolagem</tu>
+	<tu xmlns:lang="rus">Система предотвращения опрокидывания </tu>
+	<tu xmlns:lang="esp">Control de estabilidad antivuelco</tu>
+	<tu xmlns:lang="chs">侧倾稳定性控制</tu>
+	<tu xmlns:lang="kor">RSC(Roll Stability Control)</tu>
+</tm>

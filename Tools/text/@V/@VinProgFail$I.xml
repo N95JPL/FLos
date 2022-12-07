@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VinProgFail$I">
+	<tu xmlns:lang="eng">Vehicle identification number programming failed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het programmeren van het voertuigidentificatienummer is mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec de programmation du numéro d'identification du véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Programmierung der Fahrzeug-Identifizierungsnummer nicht erfolgreich.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Programmazione numero identificazione veicolo non riuscita.</tu>
+	<tu xmlns:lang="jpn">車両 ID ナンバー プログラミング失敗</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha em programar o número de identificação do veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha na programação do número de identificação do veículo.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка программирования идентификационного номера автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La programación del número de identificación del vehículo falló.</tu>
+	<tu xmlns:lang="chs">车辆标识号编程失败。</tu>
+	<tu xmlns:lang="kor">차량 식별 번호 프로그래밍에 실패했습니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ALL_KEYS_REQ_SHOULD_AVAIL">
+	<tu xmlns:lang="eng">All keys required should be available.</tu>
+	<tu xmlns:lang="nld">Alle benodigde sleutels moeten bij de hand zijn.</tu>
+	<tu xmlns:lang="fra">Toutes les clés doivent être disponibles.</tu>
+	<tu xmlns:lang="deu">Alle benötigten Schlüssel müssen verfügbar sein.</tu>
+	<tu xmlns:lang="ita">Devono essere disponibili tutte le chiavi necessarie.</tu>
+	<tu xmlns:lang="jpn">必要なキーがすべて用意できていなければなりません。</tu>
+	<tu xmlns:lang="ptg">Todas as chaves necessárias devem estar disponíveis.</tu>
+	<tu xmlns:lang="ptb">Todas as chaves requeridas devem estar disponíveis.</tu>
+	<tu xmlns:lang="rus">Должны быть в наличии все требуемые ключи.</tu>
+	<tu xmlns:lang="esp">Todas las llaves requeridas deben estar disponibles.</tu>
+	<tu xmlns:lang="chs">要求的所有钥匙应该备妥待用。</tu>
+	<tu xmlns:lang="kor">필요한 모든 키를 사용할 수 있어야 합니다.</tu>
+</tm>

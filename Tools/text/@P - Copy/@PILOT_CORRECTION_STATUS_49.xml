@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_49">
+	<tu xmlns:lang="eng">0x49 : Exited due to not in a neutral gear.</tu>
+	<tu xmlns:lang="nld">0x49 : inleren afgesloten omdat de transmissiehendel niet in de neutraalstand staat.</tu>
+	<tu xmlns:lang="fra">0x49 : Quitté car pas au point mort.</tu>
+	<tu xmlns:lang="deu">0x49 : Beendet, da nicht in Neutralstellung.</tu>
+	<tu xmlns:lang="ita">0x49 : Interrotto perché il cambio non è in folle.</tu>
+	<tu xmlns:lang="jpn">0x49 : ギアがニュートラルにないため終了。</tu>
+	<tu xmlns:lang="ptg">0x49 : Saiu por a caixa não estar em ponto morto.</tu>
+	<tu xmlns:lang="ptb">0X49 : Encerrada devido a não estar em marcha neutra.</tu>
+	<tu xmlns:lang="rus">0x49 : Произведен выход, так как не включена нейтральная передача.</tu>
+	<tu xmlns:lang="esp">0x49: Se cerró por no estar el cambio en una marcha neutra.</tu>
+	<tu xmlns:lang="chs">0x49： 由于不是处于空档而退出运行。</tu>
+	<tu xmlns:lang="kor">0x49 : 중립 기어가 아니기 때문에 종료됩니다.</tu>
+</tm>

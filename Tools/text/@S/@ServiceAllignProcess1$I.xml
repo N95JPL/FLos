@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ServiceAllignProcess1$I">
+	<tu
+    xmlns:lang="eng"
+  >The service alignment process measures the path of stationary targets such as streetlamps, railings, road signs parked vehicles etc., and uses this data to correct for radar misalignment.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het onderhoudsuitlijningsproces meet het pad van stilstaande doelen zoals lantaarnpalen, bermen, verkeersborden, geparkeerde voertuigen, enz. en gebruikt deze gegevens om de radarafwijking te corrigeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure d'alignement de service mesure la position des cibles fixes telles que les poteaux, barrières, panneaux de signalisation, véhicules en stationnement, etc., et utilise ces données pour corriger les erreurs d'alignement du radar.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Im Service-Ausrichtungsprozess wird der Pfad zu stationären Objekten wie Straßenlampen, Leitplanken, Straßenschildern, geparkten Fahrzeugen usw. vermessen und diese Daten werden für die Korrektur einer Radar-Fehlausrichtung herangezogen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La procedura di allineamento di servizio misura la traiettoria di obiettivi fermi, quali lampioni, inferriate, cartelli stradali, veicoli parcheggiati e così via, e usa questi dati per la correzione dell'allineamemnto del radar.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >サービス アライメント プロセスは、信号、線路、道路標識、駐車している車両などの静止目標の位置方向を測定し、このデータをレーダー アライメントの補正に使用します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O processo de alinhamento em assistência mede o trajecto de alvos estacionários tais como candeeiros de iluminação, lancis, sinais de trânsito, veículos estacionados, etc. e usa esses dados para corrigir desalinhamentos do radar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O processo de alinhamento do serviço mede o caminho de alvos estacionários como postes de luz, grades, placas de sinalização ou veículos estacionados etc., e usa esses dados para corrigir o desalinhamento do radar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >В процессе сервисной корректировки выполняется измерение расстояния до неподвижных объектов, таких как фонари, ограждения, дорожные указатели, припаркованные транспортные средства и т. д.; полученные данные также используются для корректировки положения радара.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El proceso de alineación durante la revisión mide el trayecto de objetivos estacionarios tales como postes de alumbrado, verjas, letreros, vehículos aparcados, etc. y utiliza estos datos para corregir la desalineación de los radares.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'维修校准过程测量静止目标的路径，如街灯、栏杆、路标以及驻停的车辆等，并利用这些数据来修正雷达的失准。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >서비스 정렬 절차는 가로등, 가드 레일, 도로 표지판, 주차 차량 등 정지해 있는 대상의 경로를 측정하고 이 데이터를 사용하여 레이더 정렬 오차를 보정하십시오.</tu>
+</tm>

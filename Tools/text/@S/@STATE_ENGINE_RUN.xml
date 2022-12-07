@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@STATE_ENGINE_RUN">
+	<tu xmlns:lang="eng">Engine running state</tu>
+	<tu xmlns:lang="nld">Status van lopende motor</tu>
+	<tu xmlns:lang="fra">Etat de fonctionnement du moteur</tu>
+	<tu xmlns:lang="deu">Motorlaufstatus</tu>
+	<tu xmlns:lang="ita">Stato di funzionamento del motore</tu>
+	<tu xmlns:lang="jpn">エンジン稼動ステータス</tu>
+	<tu xmlns:lang="ptg">Estado de funcionamento do motor</tu>
+	<tu xmlns:lang="ptb">Estado do funcionamento do motor</tu>
+	<tu xmlns:lang="rus">Состояние работы двигателя</tu>
+	<tu xmlns:lang="esp">Estado de motor en marcha</tu>
+	<tu xmlns:lang="chs">发动机运行状态</tu>
+	<tu xmlns:lang="kor">엔진 작동 상태</tu>
+</tm>

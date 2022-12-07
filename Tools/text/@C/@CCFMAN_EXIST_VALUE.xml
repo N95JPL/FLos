@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_EXIST_VALUE">
+	<tu xmlns:lang="eng">Existing value</tu>
+	<tu xmlns:lang="nld">Bestaande waarde</tu>
+	<tu xmlns:lang="fra">Valeur réelle</tu>
+	<tu xmlns:lang="deu">Vorhandener Wert</tu>
+	<tu xmlns:lang="ita">Valore esistente</tu>
+	<tu xmlns:lang="jpn">現存の数値</tu>
+	<tu xmlns:lang="ptg">Valor existente</tu>
+	<tu xmlns:lang="ptb">Valor existente</tu>
+	<tu xmlns:lang="rus">Существующее значение</tu>
+	<tu xmlns:lang="esp">Valor existente</tu>
+	<tu xmlns:lang="chs">现有数值</tu>
+	<tu xmlns:lang="kor">기존 값</tu>
+</tm>

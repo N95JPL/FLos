@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TIME_STD_MODE">
+	<tu xmlns:lang="eng">Time spent in standard mode.</tu>
+	<tu xmlns:lang="nld">Verstreken tijd in de standaardfunctie.</tu>
+	<tu xmlns:lang="fra">Temps passé en mode standard.</tu>
+	<tu xmlns:lang="deu">Nutzungszeit der Standardeinstellung.</tu>
+	<tu xmlns:lang="ita">Tempo trascorso in modalità standard.</tu>
+	<tu xmlns:lang="jpn">標準モードでの消費時間</tu>
+	<tu xmlns:lang="ptg">Tempo gasto em modo normal.</tu>
+	<tu xmlns:lang="ptb">Tempo gasto no modo padrão.</tu>
+	<tu xmlns:lang="rus">Время, проведенное в стандартном режиме.</tu>
+	<tu xmlns:lang="esp">Tiempo transcurrido en modo normal.</tu>
+	<tu xmlns:lang="chs">在标准模式中花费的时间。</tu>
+	<tu xmlns:lang="kor">표준 모드에서 작동한 시간</tu>
+</tm>

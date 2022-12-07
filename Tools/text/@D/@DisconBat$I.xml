@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DisconBat$I">
+	<tu xmlns:lang="eng">Disconnect the battery from the vehicle</tu>
+	<tu xmlns:lang="nld">Accukabels losmaken</tu>
+	<tu xmlns:lang="fra">Débrancher la batterie du véhicule</tu>
+	<tu xmlns:lang="deu">Batterie vom Fahrzeug trennen</tu>
+	<tu xmlns:lang="ita">Disconnettere la batteria dal veicolo</tu>
+	<tu xmlns:lang="jpn">車両からﾊﾞッテリを外してください。</tu>
+	<tu xmlns:lang="ptg">Desligar a bateria do veículo</tu>
+	<tu xmlns:lang="ptb">Desconecte a bateria do veículo</tu>
+	<tu xmlns:lang="rus">Отсоедините аккумулятор от автомобиля</tu>
+	<tu xmlns:lang="esp">Desconectar del coche la batería</tu>
+	<tu xmlns:lang="chs">从车辆上断开蓄电池连接</tu>
+	<tu xmlns:lang="kor">차량에서 배터리를 분리합니다.</tu>
+</tm>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FORW_SENSOR_INT_VAL">
+	<tu xmlns:lang="eng">Forward looking sensor internal state values</tu>
+	<tu xmlns:lang="nld">Waarden van interne status, naar voren gerichte sensor</tu>
+	<tu
+    xmlns:lang="fra"
+  >Valeurs de l'état interne du capteur orienté vers l'avant</tu>
+	<tu xmlns:lang="deu">Werte interner Status Abstandssensor vorn</tu>
+	<tu xmlns:lang="ita">Valori di stato interno del sensore distanza frontale</tu>
+	<tu xmlns:lang="jpn">前方監視センサー内部ステータス数値</tu>
+	<tu xmlns:lang="ptg">Valores do estado interno do sensor dianteiro</tu>
+	<tu xmlns:lang="ptb">Valores do estado interno FLS</tu>
+	<tu
+    xmlns:lang="rus"
+  >Значения внутренних состояний датчика расстояния до объекта</tu>
+	<tu
+    xmlns:lang="esp"
+  >Valores de estado interno del sensor delantero de avance</tu>
+	<tu xmlns:lang="chs">前视传感器内部状态值</tu>
+	<tu xmlns:lang="kor">전방 주시 센서 내부 상태 값</tu>
+</tm>

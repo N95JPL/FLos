@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PERIODIC_BUZZ">
+	<tu xmlns:lang="eng">Periodic buzz when stationary</tu>
+	<tu xmlns:lang="nld">Periodiek zoemgeluid bij stilstand</tu>
+	<tu xmlns:lang="fra">Bourdonnement périodique à l'arrêt</tu>
+	<tu xmlns:lang="deu">Periodisches Brummen bei Stillstand</tu>
+	<tu xmlns:lang="ita">Ronzio periodico a veicolo fermo</tu>
+	<tu xmlns:lang="jpn">静止時の定期的なズーズー音</tu>
+	<tu xmlns:lang="ptg">Zumbido periódico quando parado</tu>
+	<tu xmlns:lang="ptb">Zumbido periódico quando parado</tu>
+	<tu xmlns:lang="rus">Периодическое гудение, когда автомобиль неподвижен</tu>
+	<tu xmlns:lang="esp">Zumbido periódico estando detenido</tu>
+	<tu xmlns:lang="chs">静止不动时出现周期性嗡嗡声</tu>
+	<tu xmlns:lang="kor">정지해 있을 때 주기적으로 소음 발생</tu>
+</tm>

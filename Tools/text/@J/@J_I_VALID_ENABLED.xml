@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VALID_ENABLED">
+	<tu xmlns:lang="eng">Number of keys valid and enabled</tu>
+	<tu xmlns:lang="nld">Aantal geldige en geactiveerde sleutels</tu>
+	<tu xmlns:lang="fra">Nombre de clés valides et activées</tu>
+	<tu xmlns:lang="deu">Anzahl gültiger und aktivierter Schlüssel</tu>
+	<tu xmlns:lang="ita">Numero di chiavi valide e attivate</tu>
+	<tu xmlns:lang="jpn">有効かつ作動可設定されたキーの数</tu>
+	<tu xmlns:lang="ptg">Número de chaves válidas e activadas</tu>
+	<tu xmlns:lang="ptb">Número de chaves válidas e ativadas</tu>
+	<tu xmlns:lang="rus">Количество действующих и активизированных ключей</tu>
+	<tu xmlns:lang="esp">Número de llaves válidas y habilitadas</tu>
+	<tu xmlns:lang="chs">有效并启用的钥匙数量</tu>
+	<tu xmlns:lang="kor">유효하고 활성화된 키의 수</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_APPLICATION_TITLE">
+	<tu
+    xmlns:lang="eng"
+  >Module programming and configuration application, please select top level tool set</tu>
+	<tu
+    xmlns:lang="nld"
+  >Toepassing voor moduleprogrammering en -configuratie: selecteer hulpprogrammaset van hoogste niveau</tu>
+	<tu
+    xmlns:lang="fra"
+  >Application de programmation et de configuration du module, veuillez sélectionner la trousse à outils de niveau supérieur</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anwendung Steuergeräteprogrammierung und Konfiguration, bitte Werkzeugsatz auf oberstem Niveau auswählen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Applicazione di programmazione del modulo e configurazione; selezionare il set strumenti livello superiore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュール プログラミングおよびコンフィギュレーション アプリケーション、トップ レベルのツール セットを選択しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Programação de módulos e aplicação de configuração, seleccione o conjunto de instrumentos de nível superior</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Programação do módulo e aplicação de configuração, selecione o conjunto de ferramentas de nível superior</tu>
+	<tu
+    xmlns:lang="rus"
+  >Приложение программирования и настройки модуля, выберите набор инструментов верхнего уровня</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aplicación de programación y configuración del módulo. Seleccionar el conjunto de herramientas de nivel superior</tu>
+	<tu xmlns:lang="chs">模块编程与配置应用，请选择顶层工具集</tu>
+	<tu
+    xmlns:lang="kor"
+  >모듈 프로그래밍 및 구성 애플리케이션. 최고급 도구 세트를 선택하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TransferCase$T">
+	<tu xmlns:lang="eng">Transfer case</tu>
+	<tu xmlns:lang="nld">Tussenbak</tu>
+	<tu xmlns:lang="fra">Boîte de transfert</tu>
+	<tu xmlns:lang="deu">Verteilergetriebe</tu>
+	<tu xmlns:lang="ita">Scatola di rinvio</tu>
+	<tu xmlns:lang="jpn">トランスファー ケース</tu>
+	<tu xmlns:lang="ptg">Caixa de transferência</tu>
+	<tu xmlns:lang="ptb">Caixa de transferência</tu>
+	<tu xmlns:lang="rus">Раздаточная коробка</tu>
+	<tu xmlns:lang="esp">Caja de transferencia</tu>
+	<tu xmlns:lang="chs">分动箱</tu>
+	<tu xmlns:lang="kor">트랜스퍼 케이스</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_44">
+	<tu xmlns:lang="eng">0x44 : Exited due to related system fault detected.</tu>
+	<tu xmlns:lang="nld">0x44 : inleren afgesloten omdat een fout in een bijbehorend systeem is gedetecteerd.</tu>
+	<tu xmlns:lang="fra">0x44 : Quitté à cause d'un défaut détecté dans le système associé.</tu>
+	<tu xmlns:lang="deu">0x44 : Beendet aufgrund von Ermittlung einer Störung bei einem zugehörigen System.</tu>
+	<tu xmlns:lang="ita">0x44 : Interrotto a causa del rilevamento di un guasto in un sistema associato.</tu>
+	<tu xmlns:lang="jpn">0x44 : 関連システム故障検出のため終了。</tu>
+	<tu xmlns:lang="ptg">0x44 : Saiu devido a detecção de avaria no sistema relacionado.</tu>
+	<tu xmlns:lang="ptb">0X44 : Encerrada devido à falha detectada no sistema relacionado.</tu>
+	<tu xmlns:lang="rus">0x44 : Произведен выход из-за неисправности смежной системы.</tu>
+	<tu xmlns:lang="esp">0x44: Se cerró por detectarse una anomalía de un sistema asociado.</tu>
+	<tu xmlns:lang="chs">0x44： 由于检测到相关系统故障而退出运行。</tu>
+	<tu xmlns:lang="kor">0x44 : 관련 시스템 고장이 감지되었기 때문에 종료됩니다.</tu>
+</tm>

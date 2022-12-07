@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_DELAY">
+	<tu xmlns:lang="eng">Intermittent delay</tu>
+	<tu xmlns:lang="nld">Met tussenpozen</tu>
+	<tu xmlns:lang="fra">Temporisation intermittente</tu>
+	<tu xmlns:lang="deu">Intervallbetrieb - Verzögerung</tu>
+	<tu xmlns:lang="ita">Ritardo intermittenza</tu>
+	<tu xmlns:lang="jpn">間欠遅延</tu>
+	<tu xmlns:lang="ptg">Atraso intermitente</tu>
+	<tu xmlns:lang="ptb">Atraso intermitente</tu>
+	<tu xmlns:lang="rus">Задержка при прерывистом режиме работы</tu>
+	<tu xmlns:lang="esp">Retardo intermitente</tu>
+	<tu xmlns:lang="chs">间歇性延迟</tu>
+	<tu xmlns:lang="kor">간헐적 지연</tu>
+</tm>

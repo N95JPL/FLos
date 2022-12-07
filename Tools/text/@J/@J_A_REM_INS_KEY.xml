@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_REM_INS_KEY">
+	<tu
+    xmlns:lang="eng"
+  >Remove the currently inserted key, and press the confirmation tick.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Haal de op dat moment ingestoken sleutel eruit en druk ter bevestiging op de afvinktoets.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Retirez la clé actuellement insérée et appuyez sur la coche de confirmation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Den gerade eingesteckten Schlüssel abziehen und das Bestätigungshäkchen antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Estrarre la chiave inserita e premere il tasto di conferma.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >現在挿入されているキーを抜き取り、確認ティックを押しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retirar a chave que esteja introduzida e premir o sinal de confirmação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Remova a chave inserida no momento, e pressione a marca de confirmação.</tu>
+	<tu xmlns:lang="rus">Извлеките ключ и нажмите галочку подтверждения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Retirar la llave que esté colocada y pulsar el botón de confirmación.</tu>
+	<tu xmlns:lang="chs">取出当前插入的钥匙，然后按确认勾选键。</tu>
+	<tu xmlns:lang="kor">현재 삽입된 키를 제거하고 확인 체크 표시를 누르십시오.</tu>
+</tm>

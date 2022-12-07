@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FAIL_VERIFY_KEYS">
+	<tu xmlns:lang="eng">Failed to verify the keys.</tu>
+	<tu xmlns:lang="nld">Het systeem heeft de sleutels niet geverifieerd.</tu>
+	<tu xmlns:lang="fra">Echec de vérification des clés.</tu>
+	<tu xmlns:lang="deu">Die Schlüssel konnten nicht verifiziert werden.</tu>
+	<tu xmlns:lang="ita">Impossibile verificare le chiavi.</tu>
+	<tu xmlns:lang="jpn">キーの検証に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Verificação de chaves mal sucedida.</tu>
+	<tu xmlns:lang="ptb">Falha ao verificar as chaves.</tu>
+	<tu xmlns:lang="rus">Ошибка проверки ключей.</tu>
+	<tu xmlns:lang="esp">No se pudieron verificar las llaves.</tu>
+	<tu xmlns:lang="chs">未能验证钥匙。</tu>
+	<tu xmlns:lang="kor">키를 확인하지 못했습니다.</tu>
+</tm>

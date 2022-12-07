@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_IGN_STAT_ON_ENG_RUN">
+	<tu xmlns:lang="eng">Set ignition status to 'on', engine running.</tu>
+	<tu xmlns:lang="nld">Schakel het contact in en laat de motor draaien.</tu>
+	<tu xmlns:lang="fra">Mettez le contact, moteur en marche.</tu>
+	<tu xmlns:lang="deu">Zündungsstatus auf 'ein' setzen, Motor läuft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impostare lo stato dell'accensione su 'ON', motore in funzione.</tu>
+	<tu xmlns:lang="jpn">イグニションをオンにし、エンジンをかけなさい。</tu>
+	<tu xmlns:lang="ptg">Colocar a ignição em 'ON', motor a funcionar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Coloque o status da ignição em ligar, motor em funcionamento.</tu>
+	<tu xmlns:lang="rus">Включите зажигание и заведите двигатель.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Establecer el estado del encendido en 'ON' con el motor en marcha.</tu>
+	<tu xmlns:lang="chs">在发动机运转时，将点火状态设置到 ‘ON’（打开）。</tu>
+	<tu xmlns:lang="kor">점화 상태를 'ON'으로 설정하고 엔진을 작동하십시오.</tu>
+</tm>

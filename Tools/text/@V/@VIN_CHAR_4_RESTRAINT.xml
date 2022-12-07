@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VIN_CHAR_4_RESTRAINT">
+	<tu xmlns:lang="eng">VIN character 04 - Market/Restraint system</tu>
+	<tu xmlns:lang="nld">VIN-teken 04 - Markt/beveiligingssysteem</tu>
+	<tu xmlns:lang="fra">VIN caractère 04 - Marché/système de retenue</tu>
+	<tu xmlns:lang="deu">VIN Zeichen 04 - Absatzmarkt/Rückhaltesystem</tu>
+	<tu xmlns:lang="ita">VIN carattere 04 - Mercato/sistema sicurezza occupanti</tu>
+	<tu xmlns:lang="jpn">VIN キャラクター 04 - 市場／レストレイン システム</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Carácter 04 do VIN - Mercado/Sistema de segurança suplementar</tu>
+	<tu xmlns:lang="ptb">VIN caractere 04 - Mercado/sistema de Restrição</tu>
+	<tu xmlns:lang="rus">Символ 04 VIN - Рынок/Система пассивной безопасности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Carácter 04 del VIN: mercado/sistema de seguridad pasiva</tu>
+	<tu xmlns:lang="chs">车辆标识代码（VIN）特性04--市场/约束系统</tu>
+	<tu xmlns:lang="kor">VIN 문자 04 - 시장/에어백 시스템</tu>
+</tm>

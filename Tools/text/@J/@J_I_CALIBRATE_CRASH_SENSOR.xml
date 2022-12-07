@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CALIBRATE_CRASH_SENSOR">
+	<tu xmlns:lang="eng">The crash sensors will now be calibrated.</tu>
+	<tu xmlns:lang="nld">Het systeem zal de botsingssensors nu kalibreren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les capteurs de collision vont maintenant être étalonnés.</tu>
+	<tu xmlns:lang="deu">Die Aufprallsensoren werden jetzt kalibriert.</tu>
+	<tu xmlns:lang="ita">Ora i sensori d'urto saranno tarati.</tu>
+	<tu xmlns:lang="jpn">クラッシュ センサーがキャリブレーションされます。</tu>
+	<tu xmlns:lang="ptg">Limpe bem todos os parafusos de purga e ligações.</tu>
+	<tu xmlns:lang="ptb">Os sensores de colisão agora serão calibrados.</tu>
+	<tu xmlns:lang="rus">Будет выполнена калибровка датчиков столкновения.</tu>
+	<tu xmlns:lang="esp">A continuación, se calibrarán los sensores de impacto.</tu>
+	<tu xmlns:lang="chs">现在将要校准碰撞传感器。</tu>
+	<tu xmlns:lang="kor">충돌 센서가 보정됩니다.</tu>
+</tm>

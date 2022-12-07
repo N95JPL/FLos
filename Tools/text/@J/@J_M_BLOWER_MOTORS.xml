@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_BLOWER_MOTORS">
+	<tu xmlns:lang="eng">Blower motors</tu>
+	<tu xmlns:lang="nld">Ventilatormotoren</tu>
+	<tu xmlns:lang="fra">Moteurs de ventilateurs</tu>
+	<tu xmlns:lang="deu">Gebläsemotoren</tu>
+	<tu xmlns:lang="ita">Motorini ventilatore</tu>
+	<tu xmlns:lang="jpn">ブロア モーター</tu>
+	<tu xmlns:lang="ptg">Motores dos ventiladores</tu>
+	<tu xmlns:lang="ptb">Motores do ventilador</tu>
+	<tu xmlns:lang="rus">Электродвигатели вентиляторов</tu>
+	<tu xmlns:lang="esp">Motores del ventilador</tu>
+	<tu xmlns:lang="chs">鼓风机电机</tu>
+	<tu xmlns:lang="kor">블로워 모터</tu>
+</tm>

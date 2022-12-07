@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_14229_DTC_U1A15">
+	<tu
+    xmlns:lang="eng"
+  >Incomplete MOST ring reported by infotainment control module</tu>
+	<tu
+    xmlns:lang="nld"
+  >Regelmodule van infotainmentsysteem heeft onvolledige MOST-ring gerapporteerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Boucle MOST incomplette signalé par le module de commande multimédia</tu>
+	<tu
+    xmlns:lang="deu"
+  >Offener MOST-Ring vom Infotainment-Steuergerät gemeldet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Circuito MOST incompleto riportato da modulo comando sistema telematico infotainment</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インフォテイメント コントロール モジュールが MOST リング不完全を報告</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Anel MOST incompleto indicado pelo módulo de comando da informação e entretenimento</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Anel MOST incompleto relatado pelo módulo de controle de infoentretenimento</tu>
+	<tu
+    xmlns:lang="rus"
+  >Незавершенное кольцо MOST, сообщенное блоком управления мультимедийной системой</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se recibió del módulo de control del sistema de info-entretenimiento un informe de anillo MOST incompleto</tu>
+	<tu xmlns:lang="chs">信息娱乐控制模块报告了不完整的 MOST 环</tu>
+	<tu xmlns:lang="kor">인포테인먼트 컨트롤 모듈에서 불완전한 MOST 링을 보고함</tu>
+</tm>

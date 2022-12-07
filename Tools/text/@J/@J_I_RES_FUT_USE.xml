@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RES_FUT_USE">
+	<tu xmlns:lang="eng">Reserved for future use</tu>
+	<tu xmlns:lang="nld">Gereserveerd voor toekomstig gebruik</tu>
+	<tu xmlns:lang="fra">Réservé pour une utilisation ultérieure</tu>
+	<tu xmlns:lang="deu">Für künftige Nutzung reserviert</tu>
+	<tu xmlns:lang="ita">Riservato per uso futuro</tu>
+	<tu xmlns:lang="jpn">将来の使用のため予\約済み</tu>
+	<tu xmlns:lang="ptg">Reservado para utilização futura</tu>
+	<tu xmlns:lang="ptb">Reservado para uso futuro</tu>
+	<tu xmlns:lang="rus">Резерв для будущего использования</tu>
+	<tu xmlns:lang="esp">Reservado para uso futuro</tu>
+	<tu xmlns:lang="chs">为将来使用预留</tu>
+	<tu xmlns:lang="kor">향후 사용할 수 있도록 예비</tu>
+</tm>

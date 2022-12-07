@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EnsButTailGlass$I">
+	<tu
+    xmlns:lang="eng"
+  >Make sure the 3rd button is configured to the tailgate glass release.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat de 3e toets op het ontgrendelen van de achterklepruit is ingesteld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que le 3ème bouton est configuré pour l'ouverture de la vitre du hayon.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die 3. Taste für die Öffnung der Heckklappenscheibe konfiguriert ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Accertarsi che il terzo pulsante sia configurato per l'apertura del cristallo del portellone.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >第 3 ボタンがテールゲート ガラス リリースにコンフィギュレーションされていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o 3.º botão está configurado para a abertura do vidro da porta da retaguarda.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o terceiro botão esteja configurado para a liberação do vidro da tampa traseira.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что 3-я кнопка настроена для разблокировки окна багажного отделения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse que el tercer botón está configurado para el interruptor de apertura del cristal del portón trasero.</tu>
+	<tu xmlns:lang="chs">确保第3个按钮被配置为尾门玻璃释放。</tu>
+	<tu
+    xmlns:lang="kor"
+  >3번째 버튼이 테일게이트 글라스 해제로 설정되어 있는지 확인하십시오.</tu>
+</tm>

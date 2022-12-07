@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VEH_KEY_VALID">
+	<tu
+    xmlns:lang="eng"
+  >The vehicle believes the inserted key is actually valid, please ensure the key is inserted into the starter control unit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voertuig gelooft dat de ingestoken sleutel geldig is. Zorg dat de sleutel in de regeleenheid voor sleutelloos starten (docking station)is gestoken.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule croit que la clé insérée est réellement valide ; veuillez vérifier que la clé est bien insérée dans le module de commande de démarrage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Fahrzeugelektronik hat ermittelt, dass der eingesteckte Schlüssel wirklich gültig ist, den Schlüssel in die Startsteuereinheit einstecken.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo ritiene che la chiave inserita sia effettivamente valida, assicurarsi che la chiave sia inserita nell'unità di comando del motorino di avviamento.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両は挿入されたキーが実際に有効であると見なしています。キーがスターター コントロール ユニットに挿入されていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo acredita que a chave introduzida é, de facto, válida; certifique-se de que a chave está introduzida na unidade de controlo do motor de arranque.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo acredita que a chave inserida é realmente válida, verifique se a chave está inserida na unidade de controle de partida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль распознает вставленный ключ как действительный. Убедитесь, что ключ вставлен в блок управления стартером.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El vehículo acepta como válida la llave insertada. Comprobar que la llave está insertada en el módulo de control de arranque.</tu>
+	<tu
+    xmlns:lang="chs"
+  >车辆相信插入的车钥为有效的，请确认车钥已插入起动机控制单元内。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에서는 삽입된 키가 실제로 유효한 키라고 판단합니다. 키가 스타터 컨트롤 유닛에 삽입되어 있는지 확인하십시오.</tu>
+</tm>

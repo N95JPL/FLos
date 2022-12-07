@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SEAT_CONFIG">
+	<tu xmlns:lang="eng">Seat configuration</tu>
+	<tu xmlns:lang="nld">Stoelconfiguratie</tu>
+	<tu xmlns:lang="fra">Configuration des sièges</tu>
+	<tu xmlns:lang="deu">Sitzkonfiguration</tu>
+	<tu xmlns:lang="ita">Configurazione sedile</tu>
+	<tu xmlns:lang="jpn">シートのコンフィギュレーション</tu>
+	<tu xmlns:lang="ptg">Configuração dos bancos</tu>
+	<tu xmlns:lang="ptb">Configuração do assento</tu>
+	<tu xmlns:lang="rus">Конфигурация сидений</tu>
+	<tu xmlns:lang="esp">Configuración de asiento</tu>
+	<tu xmlns:lang="chs">座椅配置</tu>
+	<tu xmlns:lang="kor">시트 구성</tu>
+</tm>

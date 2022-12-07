@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_STATUS_ENABLE">
+	<tu xmlns:lang="eng">Enabling the software download sequence.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bezig met het activeren van de download-cyclus van de software.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Activation de la séquence de téléchargement du logiciel.</tu>
+	<tu xmlns:lang="deu">Abfolge Herunterladen von Software wird aktiviert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Attivazione in corso della sequenza di scaricamento software.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ソ\フトウェア ダウンロード シーケンスを作動可にしています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A activar a sequência de descarregamento ('download') de software.</tu>
+	<tu xmlns:lang="ptb">Habilitação da sequência de download de software.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Разрешение выполнения последовательности загрузки программного обеспечения.</tu>
+	<tu xmlns:lang="esp">Activando la secuencia de descarga de software.</tu>
+	<tu xmlns:lang="chs">正在启用软件下载顺序。</tu>
+	<tu xmlns:lang="kor">소프트웨어 다운로드 시퀀스 활성화 중</tu>
+</tm>

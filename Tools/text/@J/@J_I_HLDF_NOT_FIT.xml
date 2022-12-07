@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HLDF_NOT_FIT">
+	<tu
+    xmlns:lang="eng"
+  >Not fitted with high level display front (touchscreen).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Niet uitgerust met hoogwaardig display voorin (touch screen).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Non équipé de l'affichage avant haut de gamme (écran tactile).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nicht mit Display vorne in gehobener Ausführung (Touchscreen-Display) ausgestattet.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Display anteriore di gamma alta non in dotazione (schermo a sfioramento).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ハイ レベル ディスプレイ フロント (タッチスクリーン) 非装備</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não equipado com ecrã dianteiro de alto nível (ecrã de toque).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Não equipado com visor dianteiro de alto nível (tela sensível ao toque).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не установлена панель дисплея высокой контрастности (сенсорный экран).</tu>
+	<tu
+    xmlns:lang="esp"
+  >No tiene pantalla delantera de gama alta (pantalla táctil).</tu>
+	<tu xmlns:lang="chs">未安装前部高水平显示区（触摸屏）。</tu>
+	<tu xmlns:lang="kor">고급 전방 디스플레이(터치스크린)가 장착되지 않음</tu>
+</tm>

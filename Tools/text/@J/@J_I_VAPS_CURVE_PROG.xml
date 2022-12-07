@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_VAPS_CURVE_PROG">
+	<tu xmlns:lang="eng">Variable assist power steering curves programming.</tu>
+	<tu xmlns:lang="nld">Programmeren van variabele-stuurbekrachtigingskrommes.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Programmation de la courbe de direction à assistance variable.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Programmierung der Ansprechkurven der variablen Servolenkung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Programmazione curve servosterzo ad assistenza variabile</tu>
+	<tu
+    xmlns:lang="jpn"
+  >可変アシスト パワー ステアリング カーブのプログラミング</tu>
+	<tu xmlns:lang="ptg">Programação de curvas, direcção assistida variável.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Programação de curvas de direção com assistência variável.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Кривые гидроусилителя рулевого управления с переменной мощностью.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Programación de curvas de la dirección de asistencia variable.</tu>
+	<tu xmlns:lang="chs">可变助动力转向曲线路径编程。</tu>
+	<tu xmlns:lang="kor">가변 보조 파워 스티어링 곡선 프로그래밍.</tu>
+</tm>

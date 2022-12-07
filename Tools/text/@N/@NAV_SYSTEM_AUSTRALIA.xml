@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NAV_SYSTEM_AUSTRALIA">
+	<tu xmlns:lang="eng">Navigation system for Australia</tu>
+	<tu xmlns:lang="nld">Navigatiesysteem voor Australië</tu>
+	<tu xmlns:lang="fra">Système de navigation destiné à l'Australie</tu>
+	<tu xmlns:lang="deu">Navigationssystem für Australien</tu>
+	<tu xmlns:lang="ita">Sistema di navigazione per l'Australia</tu>
+	<tu xmlns:lang="jpn">オーストラリア向けナビゲーション システム</tu>
+	<tu xmlns:lang="ptg">Sistema de navegação para Austrália</tu>
+	<tu xmlns:lang="ptb">Sistema de navegação para a Austrália</tu>
+	<tu xmlns:lang="rus">Навигационная система для рынка Австралии</tu>
+	<tu xmlns:lang="esp">Sistema de navegación para Australia</tu>
+	<tu xmlns:lang="chs">澳大利亚导航系统</tu>
+	<tu xmlns:lang="kor">오스트레일리아용 내비게이션 시스템</tu>
+</tm>

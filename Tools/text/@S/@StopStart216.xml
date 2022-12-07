@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart216">
+	<tu
+    xmlns:lang="eng"
+  >The auto stop/start switch/ECO switch status led will be extinguished if the system has an inhibit caused by a vehicle mode being enabled or a fault condition is causing an inhibit.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De status-LED van de automatische Stop/Start-schakelaar/ECO-schakelaar gaat uit als het systeem blokkeert omdat een modus wordt geactiveerd of als een storing een blokkering veroorzaakt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La LED d'état du commutateur ECO/commutateur Arrêt/Démarrage auto s'éteint si le système est neutralisé en raison de l'activation d'un mode de véhicule ou d'un défaut provoquant une neutralisation.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Status-LED des Auto-Stopp-Start-Schalters/der ECO-Taste erlischt, wenn das System durch den Wechsel in einen Fahrzeugmodus oder durch einen Fehlerzustand gesperrt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il LED di stato dell'interruttore Stop/Start automatico/interruttore ECO si spegne se il sistema viene disabilitato a causa dell'attivazione di una modalità del veicolo o a causa di una condizione di guasto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >有効になっている車両モードによりシステムが禁止されている場合、または不具合条件により禁止が発生している場合、自動ストップ/スタート スイッチ/ECO スイッチのステータス LED は消灯します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O LED de estado do interruptor do sistema Stop/Start automático/interruptor ECO apaga-se se o sistema tiver uma inibição causada pela ativação de um modo do veículo ou se uma condição de avaria estiver a causar uma inibição.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O LED de status do interruptor de stop/start automático/interruptor ECO será apagado se o sistema apresentar uma inibição causada pela ativação de um modo do veículo ou por uma condição de falha.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Светодиод состояния переключателя автоматической интеллектуальной системы запуска/остановки двигателя стоп/старт / ECO гаснет, если система блокируется из-за выбранного в автомобиле режима или из-за неисправности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El LED de estado del interruptor Stop/Start automático/ECO se apagará si el sistema tiene un bloqueo provocado por la activación de un modo del vehículo o una condición de avería causa un bloqueo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果系统因启用某种车辆模式而导致禁用，或因故障状况导致禁用，则自动停止/启动开关/ECO 开关状态 LED 将熄灭。</tu>
+	<tu
+    xmlns:lang="kor"
+  >시스템에 차량 모드가 활성화될 때 발생한 억제 상태가 있거나 고장 상태로 인해 억제 상태가 발생한 경우 자동 Stop/Start 스위치/ECO 스위치 상태 LED가 꺼집니다.</tu>
+</tm>

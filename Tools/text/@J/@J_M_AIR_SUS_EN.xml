@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_AIR_SUS_EN">
+	<tu xmlns:lang="eng">Air suspension enable.</tu>
+	<tu xmlns:lang="nld">Luchtvering activeren.</tu>
+	<tu xmlns:lang="fra">Activation de suspension pneumatique.</tu>
+	<tu xmlns:lang="deu">Aktivierung Luftfederung.</tu>
+	<tu xmlns:lang="ita">Attivazione sospensione pneumatica.</tu>
+	<tu xmlns:lang="jpn">エア サスペンション作動可</tu>
+	<tu xmlns:lang="ptg">Activar suspensão pneumática.</tu>
+	<tu xmlns:lang="ptb">Suspensão a ar ativada.</tu>
+	<tu xmlns:lang="rus">Включение пневматической подвески.</tu>
+	<tu xmlns:lang="esp">Habilitar suspensión neumática.</tu>
+	<tu xmlns:lang="chs">空气悬架启用。</tu>
+	<tu xmlns:lang="kor">에어 서스펜션 활성화</tu>
+</tm>

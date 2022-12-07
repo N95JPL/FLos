@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart56">
+	<tu xmlns:lang="eng">Check for and resolve all power supply related DTCs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer op DTC's die betrekking hebben op voeding en verhelp ze.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Recherchez et résolvez tous les DTC liés à l'alimentation électrique.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf stromversorgungsbezogene Fehlercodes prüfen und alle vorhandenen Fehlercodes auflösen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare l'eventuale presenza di DTC relativi all'alimentazione e risolverli.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >電源関連のすべての DTC をチェックし、解決してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique e resolva todos os códigos de avaria (DTC) relacionados com a fonte de alimentação.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique e corrija todos os DTCs relacionados à fonte de alimentação.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте и устраните все диагностические коды неисправностей, относящиеся к системе электропитания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Compruebe y resuelva todos los DTC asociados con la fuente de alimentación.</tu>
+	<tu xmlns:lang="chs">检查并解决所有电源相关的 DTC。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전원 공급 관련 DTC가 있는지 점검하고 이러한 DTC를 모두 해결하십시오.</tu>
+</tm>

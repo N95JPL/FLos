@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_41">
+<tu xmlns:lang="eng">System internal failure - general checksum failure.</tu>
+<tu xmlns:lang="nld">Intern defect in systeem - algemene &#39;checksum&#39;-fout.</tu>
+<tu xmlns:lang="fra">D&#233;faillance interne du syst&#232;me - erreur g&#233;n&#233;rale de checksum.</tu>
+<tu xmlns:lang="deu">Interne Systemst&#246;rung - allgemeiner Pr&#252;fsummenfehler.</tu>
+<tu xmlns:lang="ita">Guasto interno sistema - guasto generale di somma di controllo.</tu>
+<tu xmlns:lang="jpn">ƒVƒXƒeƒ€“à•”ŒÌá | ˆê”Êƒ`ƒFƒbƒNƒTƒ€•s—Ç</tu>
+<tu xmlns:lang="ptg">Falha interna no sistema - falha geral na soma de verifica&#231;&#227;o.</tu>
+<tu xmlns:lang="rus">Âíóòðåííèé îòêàç ñèñòåìû - îáùàÿ îøèáêà êîíòðîëüíîé ñóììû.</tu>
+<tu xmlns:lang="esp">Fallo interno del sistema: fallo general de suma de control.</tu>
+<tu xmlns:lang="chs">ÏµÍ³ÄÚ²¿¹ÊÕÏ - Ò»°ãÐ£ÑéºÍ¹ÊÕÏ¡£</tu>
+</tm>

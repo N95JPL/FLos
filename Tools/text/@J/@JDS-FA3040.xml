@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JDS-FA3040">
+	<tu xmlns:lang="eng">Failed set-up</tu>
+	<tu xmlns:lang="nld">Opstelling mislukt</tu>
+	<tu xmlns:lang="fra">Reglage defectueux</tu>
+	<tu xmlns:lang="deu">vorbereitun erfolglos</tu>
+	<tu xmlns:lang="ita">Messa a punto irregolare</tu>
+	<tu xmlns:lang="jpn">セットアッﾌﾟ不合格</tu>
+	<tu xmlns:lang="ptg">Configuração falhou</tu>
+	<tu xmlns:lang="ptb">Falha na configuração</tu>
+	<tu xmlns:lang="rus">Настройка не выполнена</tu>
+	<tu xmlns:lang="esp">Puesta a punto fallida</tu>
+	<tu xmlns:lang="chs">设置故障</tu>
+	<tu xmlns:lang="kor">설정 실패</tu>
+</tm>

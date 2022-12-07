@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_57">
+	<tu
+    xmlns:lang="eng"
+  >0x57 : Exited due to rate of change of idle correction quantity.</tu>
+	<tu
+    xmlns:lang="nld"
+  >0x57 : inleren afgesloten vanwege de wijzigingssnelheid, hoeveelheid, correctie van stationair lopen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >0x57 : Quitté à cause du taux de variation de la quantité de correction du ralenti.</tu>
+	<tu
+    xmlns:lang="deu"
+  >0x57 : Beendet aufgrund der Änderungsrate in der Leerlauf-Korrekturmenge.</tu>
+	<tu
+    xmlns:lang="ita"
+  >0x57 : Interrotto a causa della velocità di variazione della quantità di correzione del minimo.</tu>
+	<tu xmlns:lang="jpn">0x57 : アイドル補正量の変化率のため終了。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >0x57 : Saiu devido a taxa de alteração do grau de correcção do ralenti.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >0X57 : Encerrada devido à taxa de alteração da quantidade da correção da marcha lenta.</tu>
+	<tu
+    xmlns:lang="rus"
+  >0x57 : Произведен выход из-за степени изменения величины корректировки холостого хода.</tu>
+	<tu
+    xmlns:lang="esp"
+  >0x57: Se cerró por la rapidez de cambio de la cantidad de corrección del ralentí.</tu>
+	<tu xmlns:lang="chs">0x57： 由于怠速校正量的变化速率原因而退出运行。</tu>
+	<tu xmlns:lang="kor">0x57 : 공회전 보정 수량의 변화율 때문에 종료됩니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_RIGHT_REAR_SEAT">
+	<tu xmlns:lang="eng">Rear right seat</tu>
+	<tu xmlns:lang="nld">Zitting linksachter</tu>
+	<tu xmlns:lang="fra">Siege arriere droit</tu>
+	<tu xmlns:lang="deu">Rücksitz rechts</tu>
+	<tu xmlns:lang="ita">Sedile posteriore dx.</tu>
+	<tu xmlns:lang="jpn">右側リア・シート</tu>
+	<tu xmlns:lang="ptg">Banco traseiro direito</tu>
+	<tu xmlns:lang="ptb">Assento traseiro direito</tu>
+	<tu xmlns:lang="rus">Заднее правое сиденье</tu>
+	<tu xmlns:lang="esp">Asiento trasero derecho</tu>
+	<tu xmlns:lang="chs">右后侧座椅</tu>
+	<tu xmlns:lang="kor">리어 우측 시트</tu>
+</tm>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DUAL_POW_HEAT_FBACK_MIRR">
+	<tu xmlns:lang="eng">Dual power/heated/fold-back mirrors.</tu>
+	<tu xmlns:lang="nld">Dubbele elektrische/verwarmde/inklapbare spiegels</tu>
+	<tu
+    xmlns:lang="fra"
+  >Rétroviseurs électriques/chauffants/escamotables doubles</tu>
+	<tu
+    xmlns:lang="deu"
+  >Elektrisch verstellbare/beheizbare/klappbare Außenspiegel</tu>
+	<tu xmlns:lang="ita">Due specchietti elettrici/riscaldati/pieghevoli</tu>
+	<tu xmlns:lang="jpn">デュアル電動／ヒーター／折り畳みミラー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retrovisores exteriores de corrente dupla/com desembaciamento/com recolhimento eléctrico.</tu>
+	<tu xmlns:lang="ptb">Retrovisores elétricos/aquecidos/dobráveis duplos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обогреваемые складные зеркала с двусторонним электропитанием.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Dos retrovisores térmicos abatibles de ajuste eléctrico</tu>
+	<tu xmlns:lang="chs">双电源/加热/折叠后视镜。</tu>
+	<tu xmlns:lang="kor">듀얼 파워/열선내장/폴드 백 미러</tu>
+</tm>

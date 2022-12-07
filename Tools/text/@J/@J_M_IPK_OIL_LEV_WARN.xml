@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_IPK_OIL_LEV_WARN">
+	<tu xmlns:lang="eng">Oil level warning.</tu>
+	<tu xmlns:lang="nld">Oliepeilwaarschuwing.</tu>
+	<tu xmlns:lang="fra">Avertissement niveau d'huile.</tu>
+	<tu xmlns:lang="deu">Ölstandswarnung.</tu>
+	<tu xmlns:lang="ita">Avvertenza livello olio.</tu>
+	<tu xmlns:lang="jpn">オイル レベル警告</tu>
+	<tu xmlns:lang="ptg">Aviso do nível do óleo.</tu>
+	<tu xmlns:lang="ptb">Alerta de nível de óleo.</tu>
+	<tu xmlns:lang="rus">Сигнализатор уровня масла.</tu>
+	<tu xmlns:lang="esp">Aviso de nivel de aceite.</tu>
+	<tu xmlns:lang="chs">机油液位警告。</tu>
+	<tu xmlns:lang="kor">오일 레벨 경고</tu>
+</tm>

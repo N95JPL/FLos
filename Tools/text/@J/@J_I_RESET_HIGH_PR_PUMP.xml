@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_RESET_HIGH_PR_PUMP">
+	<tu
+    xmlns:lang="eng"
+  >The next operation will reset the adaption status for the high pressure pump system, this function is only required when the high pressure pump has been replaced</tu>
+	<tu
+    xmlns:lang="nld"
+  >De nu volgende bewerking zal de aanpassingsstatus voor het hogedrukpompsysteem resetten. Deze functie is alleen nodig wanneer de hogedrukpomp vervangen is.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'opération suivante permet de réinitialiser le statut d'adaptation du système de pompe haute pression ; elle ne doit être menée que si la pompe haute pression a été remplacée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit dem nächsten Schritt wird der Anpassungsstatus für das Hochdruckpumpensystem zurückgesetzt; diese Maßnahme ist nur erforderlich, wenn die Hochdruckpumpe ausgetauscht wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La prossima operazione reimposta lo stato di adattamento del sistema della pompa di alta pressione; tale funzione è necessaria soltanto se la pompa di alta pressione è stata sostituita</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の操作は、ハイ プレッシャ ポンプ システムの補正ステータスをリセットします。ハイ プレッシャ ポンプが交換されたときにのみ、この機能\が必要です。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A operação seguinte vai repor a zero o estado de adaptação do sistema de bomba de alta pressão; esta função apenas é necessária quando a bomba de alta pressão tiver sido substituída</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A próxima operação irá redefinir o status de adaptação do sistema da bomba de alta pressão, esta função só é necessária quando a bomba de alta pressão tiver sido substituída</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следующая операция служит для сброса состояния адаптации системы насоса высокого давления. Ее следует выполнять только в случае замены насоса высокого давления</tu>
+	<tu
+    xmlns:lang="esp"
+  >La siguiente operación restaura el estado de adaptación para el sistema de la bomba de alta presión. Esta función sólo debe ejecutarse cuando se sustituye la bomba de alta presión</tu>
+	<tu
+    xmlns:lang="chs"
+  >下一操作将为高压泵系统的调适状态复位，只有在更换了高压泵系统后才需要启动该功能</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 작업에서는 고압 펌프 시스템에 대한 어댑테이션 상태를 재설정합니다. 고압 펌프를 교체했을 때만 이 기능이 필요합니다.</tu>
+</tm>

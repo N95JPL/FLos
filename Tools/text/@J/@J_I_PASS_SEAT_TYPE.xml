@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PASS_SEAT_TYPE">
+	<tu xmlns:lang="eng">Passenger seat type</tu>
+	<tu xmlns:lang="nld">Passagiersstoeltype</tu>
+	<tu xmlns:lang="fra">Type de siège passager</tu>
+	<tu xmlns:lang="deu">Beifahrersitztyp</tu>
+	<tu xmlns:lang="ita">Tipo sedile passeggero</tu>
+	<tu xmlns:lang="jpn">助手席側シート タイプ</tu>
+	<tu xmlns:lang="ptg">Tipo de banco de passageiro</tu>
+	<tu xmlns:lang="ptb">Tio do assento do passageiro</tu>
+	<tu xmlns:lang="rus">Тип сиденья пассажира</tu>
+	<tu xmlns:lang="esp">Tipo de asiento del acompañante</tu>
+	<tu xmlns:lang="chs">乘客座椅类型</tu>
+	<tu xmlns:lang="kor">조수석 시트 유형</tu>
+</tm>

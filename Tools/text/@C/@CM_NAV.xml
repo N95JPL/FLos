@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_NAV">
+	<tu xmlns:lang="eng">Navigation system</tu>
+	<tu xmlns:lang="nld">Navigatiesysteem</tu>
+	<tu xmlns:lang="fra">Système de navigation</tu>
+	<tu xmlns:lang="deu">Navigationssystem</tu>
+	<tu xmlns:lang="ita">Sistema di navigazion</tu>
+	<tu xmlns:lang="jpn">ナビゲーション システム</tu>
+	<tu xmlns:lang="ptg">Sistema de navegação</tu>
+	<tu xmlns:lang="ptb">Sistema de navegação</tu>
+	<tu xmlns:lang="rus">Навигационная система</tu>
+	<tu xmlns:lang="esp">Sistema de navegación</tu>
+	<tu xmlns:lang="chs">导航系统。</tu>
+	<tu xmlns:lang="kor">내비게이션 시스템</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LESS_GLAS_BREAK_SENS">
+	<tu xmlns:lang="eng">Glass breakage sensor not fitted</tu>
+	<tu xmlns:lang="nld">Zonder glasbreuksensor</tu>
+	<tu xmlns:lang="fra">Détecteur de bris de vitre non monté</tu>
+	<tu xmlns:lang="deu">Glasbruchsensor nicht eingebaut</tu>
+	<tu xmlns:lang="ita">Sensore rottura vetri non in dotazione</tu>
+	<tu xmlns:lang="jpn">ガラス破損センサ非装備</tu>
+	<tu xmlns:lang="ptg">Sensor de vidro partido não está instalado</tu>
+	<tu xmlns:lang="ptb">Sensor de quebra de vidro não instalado</tu>
+	<tu xmlns:lang="rus">Датчик разбития стекла не установлен</tu>
+	<tu xmlns:lang="esp">No hay sensor de rotura de cristal</tu>
+	<tu xmlns:lang="chs">窗玻璃破裂传感器未安装</tu>
+	<tu xmlns:lang="kor">글라스 파손 센서가 장착되지 않음</tu>
+</tm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_INT_LIGHTS_DIS">
+	<tu
+    xmlns:lang="eng"
+  >Control of interior lamps by the electronic control unit is disabled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De regeling van de binnenverlichting door de elektronische regeleenheid is uitgeschakeld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La commande des lampes intérieures par le module de commande électronique est désactivée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Steuerung der Innenbeleuchtung über elektronisches Steuergerät ist deaktiviert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Comando delle luci abitacolo da parte dell'unità di comando elettronica disattivato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック コントロール ユニットによるインテリア ランプの制御は作動不可に設定されています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O controlo das luzes interiores pela unidade electrónica de controlo está desactivado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O controle de luzes do interior pela unidade de controle eletrônico está desativado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Управление освещением салона с электронного блока управления отключено.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El control de las luces interiores por parte de la unidad de control electrónico está inhabilitado.</tu>
+	<tu xmlns:lang="chs">电子控制单元控制的车内灯已禁用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >전자 컨트롤 유닛에 의한 실내등 컨트롤이 비활성화됩니다.</tu>
+</tm>

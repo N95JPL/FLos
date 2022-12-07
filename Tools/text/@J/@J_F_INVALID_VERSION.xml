@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_INVALID_VERSION">
+	<tu xmlns:lang="eng">Incorrect version of flash file used.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Er is een verkeerde versie van het flitsbestand gebruikt.</tu>
+	<tu xmlns:lang="fra">Version de fichier flash utilisée incorrecte.</tu>
+	<tu xmlns:lang="deu">Falsche Version der Flash-Datei verwendet.</tu>
+	<tu xmlns:lang="ita">Usata versione errata di file flash.</tu>
+	<tu xmlns:lang="jpn">フラッシュ ファイルの不正バージョンが使用されました。</tu>
+	<tu xmlns:lang="ptg">Usada versão errada do ficheiro 'flash'.</tu>
+	<tu xmlns:lang="ptb">Versão incorreta do arquivo flash usado.</tu>
+	<tu xmlns:lang="rus">Используется неверная версия файла прошивки.</tu>
+	<tu xmlns:lang="esp">Versión incorrecta del archivo Flash utilizado.</tu>
+	<tu xmlns:lang="chs">所用的闪存文件版本不正确。</tu>
+	<tu xmlns:lang="kor">사용된 플래시 파일의 버전이 올바르지 않음</tu>
+</tm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@STATE_IGNITION_ACC_ENSURE">
+	<tu xmlns:lang="eng">Make sure ignition is in the accessory position</tu>
+	<tu xmlns:lang="nld">Controleer dat het contact in de accessoirestand staat</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vérifiez que l'allumage est bien en position Accessoires</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die Zündung in Stellung Nebenaggregate steht</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare che l'accensione sia nella posizione accessori</tu>
+	<tu
+    xmlns:lang="jpn"
+  >イグニションがアクセサリ ポジションにあることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Assegure-se de que a ignição está na posição de acessórios</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se que a ignição está na posição de acessório</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что выключатель зажигания находится в положении 'дополнительное оборудование'</tu>
+	<tu
+    xmlns:lang="esp"
+  >Verificar que la llave de contacto esté en la posición de accesorios</tu>
+	<tu xmlns:lang="chs">确保点火处于辅助位置</tu>
+	<tu xmlns:lang="kor">점화 스위치가 액세서리 위치에 있는지 확인하십시오.</tu>
+</tm>

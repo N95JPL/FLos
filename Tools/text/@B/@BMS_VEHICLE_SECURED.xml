@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_VEHICLE_SECURED">
+	<tu
+    xmlns:lang="eng"
+  >The vehicle must then be secured (windows closed / key removed)</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voertuig moet daarna worden afgesloten (ramen dicht en sleutel uit het contact)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sécurisez alors le véhicule (fermez les vitres/retirez la clé du contacteur)</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Fahrzeug muss dann gesichert werden (Fenster geschlossen/Schlüssel abgezogen).</tu>
+	<tu
+    xmlns:lang="ita"
+  >La vettura deve essere quindi chiusa (cristalli chiusi / chiave estratta)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >その後車両にセキュリティをかける必要があります (ウィンドウを閉じ、キーを抜き取る)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O veículo deve então ser fechado (janelas fechadas/chave retirada)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo deve, então, estar preso (janelas fechadas / chave removida)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Затем автомобиль следует запереть (окна закрыты/ключ извлечен)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Hay que asegurar el vehículo (cerrar las ventanillas y retirar la llave)</tu>
+	<tu xmlns:lang="chs">之后必须对车辆采取防盗措施（关闭车窗/取出钥匙等）</tu>
+	<tu xmlns:lang="kor">차량 보안 조치를 취해야 합니다(윈도우 닫음/키 제거).</tu>
+</tm>

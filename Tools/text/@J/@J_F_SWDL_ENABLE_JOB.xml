@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_SWDL_ENABLE_JOB">
+	<tu xmlns:lang="eng">Unable to enable job(s):</tu>
+	<tu xmlns:lang="nld">Het systeem kan de bewerking(en) niet activeren:</tu>
+	<tu xmlns:lang="fra">Impossible d'activer la (les) tâche(s) :</tu>
+	<tu xmlns:lang="deu">Aufgaben(n) konnte(n) nicht aktiviert werden:</tu>
+	<tu xmlns:lang="ita">Impossibile attivare le operazioni:</tu>
+	<tu xmlns:lang="jpn">作業を作動可にできません：</tu>
+	<tu xmlns:lang="ptg">Não é possível activar tarefa(s):</tu>
+	<tu xmlns:lang="ptb">Não foi possível habilitar o(s) processo(s):</tu>
+	<tu xmlns:lang="rus">Невозможно разрешить выполнение задания (заданий):</tu>
+	<tu xmlns:lang="esp">No se pudieron activar los trabajos:</tu>
+	<tu xmlns:lang="chs">无法启用工作。</tu>
+	<tu xmlns:lang="kor">작업을 활성화할 수 없음:</tu>
+</tm>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_INS_NEW_KEY_RESTART">
+	<tu xmlns:lang="eng">Insert a new key to re-start the application.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Steek een nieuwe sleutel in om de toepassing opnieuw te starten.</tu>
+	<tu xmlns:lang="fra">Insérez une clé neuve pour relancer l'application.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Einen neuen Schlüssel einstecken, um die Anwendung neu zu starten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Inserire una nuova chiave per riavviare l'applicazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >新しいキーを挿入してアプリケーションを再スタートさせなさい。</tu>
+	<tu xmlns:lang="ptg">Introduzir uma chave nova para reiniciar a aplicação.</tu>
+	<tu xmlns:lang="ptb">Insira uma nova chave para reiniciar o aplicativo.</tu>
+	<tu xmlns:lang="rus">Вставьте новый ключ для повторного запуска приложения.</tu>
+	<tu xmlns:lang="esp">Insertar una llave nueva para reiniciar la aplicación.</tu>
+	<tu xmlns:lang="chs">插入新的车钥以重启应用。</tu>
+	<tu xmlns:lang="kor">새 키를 삽입하여 애플리케이션을 다시 시작하십시오.</tu>
+</tm>

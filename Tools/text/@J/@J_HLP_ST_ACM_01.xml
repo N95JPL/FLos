@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_ACM_01">
+	<tu
+    xmlns:lang="eng"
+  >The test routine carries out internal checks for operational integrity and the checks carried out are as follows:</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het testprogramma voert interne controles uit waarbij het kijkt of alles naar behoren werkt, en dit zijn de uitgevoerde controles:</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le programme de contrôle effectue des vérifications internes de l'intégrité opérationnelle ; les vérifications effectuées sont les suivantes :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Prüfroutine führt interne Prüfungen der funktionalen Integrität aus; hierbei handelt es sich um die folgenden Prüfungen:</tu>
+	<tu
+    xmlns:lang="ita"
+  >La procedura di prova esegue controlli interni per verificare l'integrità di funzionamento. I controlli eseguiti sono i seguenti:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >テスト ルーチンは作動の整合性の内部チェックを実行します。次のチェックが行われます：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A rotina de teste efectua verificações internas para verificar a integridade operacional e as verificações efectuadas são as seguintes:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A rotina de teste executa verificações internas para comprovação da integridade operacional e as verificações são realizadas da seguinte forma:</tu>
+	<tu
+    xmlns:lang="rus"
+  >При процедуре тестирования выполняются внутренние проверки работоспособности, а именно:</tu>
+	<tu
+    xmlns:lang="esp"
+  >La rutina de pruebas realiza comprobaciones internas de la integridad funcional. Las comprobaciones realizadas son las siguientes:</tu>
+	<tu xmlns:lang="chs">测试常规程序执行运行完整性的内部检查，执行的检查如下：</tu>
+	<tu
+    xmlns:lang="kor"
+  >테스트 루틴에서는 내부 검사를 수행하여 작동 무결성을 점검하고 수행되는 점검 작업은 다음과 같습니다.</tu>
+</tm>

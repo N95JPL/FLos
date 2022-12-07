@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JLR_INHIB_S12V_BATT_CHARGING">
+	<tu xmlns:lang="eng">Inhibit due to secondary 12 volt battery charging</tu>
+	<tu xmlns:lang="nld">Blokkering vanwege opladen secundaire 12 V-accu</tu>
+	<tu
+    xmlns:lang="fra"
+  >Neutralisation due à la charge en cours de la batterie secondaire 12 V</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sperre aufgrund des Ladens der 12-Volt-Sekundärbatterie</tu>
+	<tu
+    xmlns:lang="ita"
+  >Disabilitazione a causa della fase di carica della batteria secondaria a 12 volt</tu>
+	<tu xmlns:lang="jpn">セカンダリ 12 ボルト バッテリー充電中による禁止</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Inibição causada pelo carregamento da bateria secundária de 12 volts</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Inibição devido ao carregamento da bateria secundária de 12 volts</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блокировка, связанная с зарядкой вспомогательной 12-вольтовой АКБ</tu>
+	<tu
+    xmlns:lang="esp"
+  >Bloqueo debido a que la batería secundaria de 12 voltios se está cargando</tu>
+	<tu xmlns:lang="chs">由于辅助 12 伏蓄电池充电而禁用</tu>
+	<tu xmlns:lang="kor">보조 12V 배터리 충전으로 인한 억제</tu>
+</tm>

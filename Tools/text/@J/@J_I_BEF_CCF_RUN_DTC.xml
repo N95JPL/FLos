@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_BEF_CCF_RUN_DTC">
+	<tu
+    xmlns:lang="eng"
+  >Before carrying out any car configuration or software download operations, please run the diagnostic trouble code monitor to verify no diagnostic trouble codes are present.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alvorens enige configuratie van het voertuig of downloaden van software uit te voeren, draait u eerst het diagnosefoutcodebewakingsprogramma om er zeker van te zijn dat geen diagnosefoutcodes aanwezig zijn.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Avant d'effectuer une configuration du véhicule ou des opérations de téléchargement logiciel, veuillez exécuter le contrôleur de codes d'anomalie pour vérifier qu'aucun code d'anomalie n'est présent.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ehe irgendwelche Arbeiten bezüglich Fahrzeugkonfiguration oder Herunterladen von Software durchgeführt werden, bitte den Fehlercode-Monitor laufen lassen um sicherzustellen, dass keine Fehlercodes abgespeichert sind.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prima di eseguire qualsiasi operazione di configurazione del veicolo o di download del software, eseguire il programma di monitoraggio dei codici di guasto diagnostici per accertarsi che siano assenti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両の何らかのコンフィギュレーションまたはソ\フトウェア ダウンロード作業を開始する前に、診断トラブル コード モニターを実行し、DTC がないことを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Antes de efectuar quaisquer operações de configuração do veículo ou de descarregamento de software, execute o monitor de códigos de avaria para verificar se não estão presentes códigos de avaria para diagnóstico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Antes de executar qualquer configuração do carro ou operações de download de software, execute o monitor de códigos de problemas de diagnóstico para verificar se não há nenhuma código de problema de disgnóstico presente.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Прежде чем приступать к настройке систем автомобиля или загрузке программного обеспечения, включите монитор диагностических кодов неисправностей, чтобы убедиться в отсутствии зарегистрированных кодов неисправностей.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Antes de realizar operaciones de configuración del coche o de descarga de software, ejecute el lector de códigos de avería para verificar que no haya ningún código de avería presente.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'在执行任何轿车配置或软件下载操作之前，请运行故障诊断码监测器来验证是否不存在故障诊断码。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 구성 또는 소프트웨어 다운로드 작업을 수행하기 전에 고장 진단 코드 모니터링을 실행하여 고장 진단 코드가 없도록 확인하십시오.</tu>
+</tm>

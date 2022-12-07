@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CHK_GEN_WIRE_HEAT_DAMAGE">
+	<tu
+    xmlns:lang="eng"
+  >Check generator wiring and connectors for evidence of heat damage</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer de bedrading en stekkers van de dynamo op sporen van beschadiging door hitte</tu>
+	<tu
+    xmlns:lang="fra"
+  >Recherchez la présence évidente de détériorations dues à la chaleur sur le câblage et les connecteurs de l'alternateur</tu>
+	<tu
+    xmlns:lang="deu"
+  >Verkabelung und Steckverbinder des Generators auf Anzeichen von Hitzeschäden prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare il cablaggio e i connettori del generatore, verificando l'eventuale presenza di danni dovuti al calore</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ジェネレータ ワイヤリングおよびコネクターに熱による損傷の痕跡がないかチェックしなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar se a cablagem e os conectores do alternador apresentam sinais de danos provocados pelo calor</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique a fiação e os conectores do alternador quanto a danos por alta temperatura.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте проводку и разъемы генератора на предмет теплового повреждения</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar si hay daños debidos al calor en los cables y los conectores del alternador</tu>
+	<tu xmlns:lang="chs">检查发电机接线和连接器是否存在过热损坏迹象</tu>
+	<tu
+    xmlns:lang="kor"
+  >제너레이터 배선 및 커넥터에서 열 손상의 징후가 있는지 여부를 점검하십시오.</tu>
+</tm>

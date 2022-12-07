@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@NormHeighFail$M">
+	<tu xmlns:lang="eng">Failed to go to normal ride height.</tu>
+	<tu xmlns:lang="nld">Het naar de normale rijhoogte gaan, is mislukt.</tu>
+	<tu xmlns:lang="fra">Echec du retour à l'assiette normale.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es konnte nicht auf normale Fahrhöhe übergegangen werden.</tu>
+	<tu xmlns:lang="ita">Mancato passaggio ad altezza normale di marcia.</tu>
+	<tu xmlns:lang="jpn">ノーマル ライド ハイトへの移行に失敗しました。</tu>
+	<tu xmlns:lang="ptg">Falha em ir para a altura normal de andamento.</tu>
+	<tu xmlns:lang="ptb">Falha ao seguir na altura normal do automóvel.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Невозможно переместить автомобиль на нормальную высоту.</tu>
+	<tu xmlns:lang="esp">No se alcanzó la altura de marcha normal del vehículo.</tu>
+	<tu xmlns:lang="chs">转入正常行驶高度失败。</tu>
+	<tu xmlns:lang="kor">정상 지상고로 설정하지 못했습니다.</tu>
+</tm>

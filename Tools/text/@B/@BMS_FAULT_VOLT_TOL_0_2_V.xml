@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_FAULT_VOLT_TOL_0_2_V">
+	<tu
+    xmlns:lang="eng"
+  >If the battery voltage measured by volt-meter is greater than +/- 0.2V difference from battery monitoring system measured voltage, then suspect a possible battery monitoring system fault</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de accuspanning gemeten door een voltmeter meer dan 0,2 V verschilt van de spanning gemeten door het accucontrolesysteem, is er mogelijk een storing opgetreden in het accucontrolesysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si la tension de batterie mesurée avec le voltmètre est supérieure de  0,2 V de la tension du système de surveillance de la batterie, suspectez alors une défaillance possible du système de surveillance de la batterie</tu>
+	<tu
+    xmlns:lang="deu"
+  >Unterscheidet sich die mit dem Voltmeter gemessene Batteriespannung um mehr als ±0,2 V von der vom Batterieüberwachungssystem gemessenen Spannung, dann ist von einer möglichen Störung am Batterieüberwachungssystem auszugehen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se la tensione della batteria misurata con il voltmetro presenta una differenza superiore a  0,2 V rispetto alla tensione misurata dal sistema di monitoraggio della batteria, sospettare un possibile guasto al sistema di monitoraggio della batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >電圧計で計測したバッテリ電圧とバッテリ モニタリング システムによって計測された電圧との間に ± 0.2V 以上の差異がある場合、バッテリ モニタリング システムの故障が疑われます</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se a tensão da bateria medida pelo voltímetro e a tensão medida pelo sistema de monitorização da bateria diferirem em mais de  0,2 V, deve suspeitar-se da possibilidade de avaria no sistema de monitorização da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se a tensão da bateria, medida pelo voltímetro, for maior que + /- 0,2 V de diferença da tensão medida no sistema de monitoramento da bateria, suspeite de uma possível falha no sistema de monitoramento da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если измеренное вольтметром напряжение аккумуляторной батареи более чем на +/- 0,2 В отличается от  напряжения, измеренного системой контроля аккумуляторной батареи, причиной может быть неисправность данной системы</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la diferencia entre la tensión de la batería y la tensión del sistema de control de la batería medidas por el voltímetro es mayor que  0,2 V, puede tratarse de una anomalía del sistema de control de la batería</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果电压表测得的蓄电池电压与蓄电池监测系统测量到的电压之间的差值大于 ±0.2 伏，那么可怀疑蓄电池监测系统存在故障</tu>
+	<tu
+    xmlns:lang="kor"
+  >전압계로 측정한 배터리 전압이 배터리 모니터링 시스템 측정 전압과  0.2V 이상 차이가 나는 경우에는 발생 가능한 배터리 모니터링 시스템 고장을 점검하십시오.</tu>
+</tm>

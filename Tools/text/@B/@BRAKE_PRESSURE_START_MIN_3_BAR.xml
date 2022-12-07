@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BRAKE_PRESSURE_START_MIN_3_BAR">
+	<tu
+    xmlns:lang="eng"
+  >The minimum brake fluid line hydraulic pressure for starting is 3 bar.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De minimale hydraulische druk in de remvloeistofleiding alvorens te starten bedraagt 3 bar.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La pression hydraulique minimale dans la conduite de liquide de frein pour le démarrage est de 3 bars.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Mindest-Hydraulikdruck in der Bremsflüssigkeitsleitung für den Start beträgt 3 bar.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La pressione idraulica minima nella tubazione del liquido freni per l'avviamento è di 3 bar.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >始動のために必要な最低ブレーキ フルード ライン ハイドロリック プレッシャは 3 バールです。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A pressão hidráulica mínima no tubo de fluido dos travões para o arranque é de 3 bar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A pressão hidráulica mínima da linha de fluido de freio para a partida é de 3 bar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Для запуска минимальное давление тормозной жидкости в магистрали составляет 3 бар.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La presión hidráulica mínima en la tubería del líquido de frenos para el arranque es de 3 bar.</tu>
+	<tu xmlns:lang="chs">启动时的最小制动液管路液压为3巴。</tu>
+	<tu xmlns:lang="kor">시동을 위한 최소 브레이크 용액 라인 유압은 3bar입니다.</tu>
+</tm>

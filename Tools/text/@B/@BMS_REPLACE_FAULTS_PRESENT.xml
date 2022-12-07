@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_REPLACE_FAULTS_PRESENT">
+	<tu
+    xmlns:lang="eng"
+  >Replace battery monitoring system if fault is still present</tu>
+	<tu
+    xmlns:lang="nld"
+  >Vervang het accucontrolesysteem als de storing nog steeds aanwezig is</tu>
+	<tu
+    xmlns:lang="fra"
+  >Remplacez le système de surveillance de la batterie si le défaut persiste</tu>
+	<tu
+    xmlns:lang="deu"
+  >Liegt die Störung weiterhin vor, das Batterieüberwachungssystem austauschen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se è ancora presente un guasto, sostituire il sistema di monitoraggio della batteria</tu>
+	<tu
+    xmlns:lang="jpn"
+  >故障がまだ持続する場合、バッテリ モニタリング システムを交換しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Substituir o sistema de monitorização da bateria se a avaria persistir</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Substitua o sistema de monitoramento de bateria casa uma falha permaneça presente</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если неисправность по-прежнему не устраняется, замените систему контроля аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si la anomalía sigue presente, sustituir el sistema de control de la batería</tu>
+	<tu xmlns:lang="chs">如果故障仍然存在，请更换蓄电池监测系统</tu>
+	<tu
+    xmlns:lang="kor"
+  >고장이 계속 존재할 경우 배터리 모니터링 시스템을 교체하십시오.</tu>
+</tm>

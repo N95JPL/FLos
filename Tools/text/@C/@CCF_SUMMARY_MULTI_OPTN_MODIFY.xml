@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCF_SUMMARY_MULTI_OPTN_MODIFY">
+	<tu
+    xmlns:lang="eng"
+  >Vehicle configuration summary from download after multi-option modification</tu>
+	<tu
+    xmlns:lang="nld"
+  >Overzicht van voertuigconfiguratie vanuit download na wijziging van meerdere opties</tu>
+	<tu
+    xmlns:lang="fra"
+  >Résumé de configuration du véhicule par téléchargement après modification multi-options</tu>
+	<tu
+    xmlns:lang="deu"
+  >Fahrzeugkonfiguration - Zusammenfassung aus Herunterladen nach Modifikation mit mehreren Optionen</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sommario configurazione veicolo dal download dopo modifica multi-opzione</tu>
+	<tu
+    xmlns:lang="jpn"
+  >複合オプション変更後のダウンロードによる車両コンフィギュレーション概要</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sumário da configuração do veículo da transferência depois da modificação de opções múltiplas</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Resumo da configuração do veículo a partir do download após a modificação de diversas opções</tu>
+	<tu
+    xmlns:lang="rus"
+  >Сводка конфигурации автомобиля посредством загрузки после изменения нескольких опций</tu>
+	<tu
+    xmlns:lang="esp"
+  >Resumen de configuración del vehículo correspondiente a descarga tras la modificación de varias opciones</tu>
+	<tu xmlns:lang="chs">多项修改后下载得来的车辆配置概要</tu>
+	<tu xmlns:lang="kor">다중 옵션 수정 후 다운로드에서 얻은 차량 구성 요약</tu>
+</tm>

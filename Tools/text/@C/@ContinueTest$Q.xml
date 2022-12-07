@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ContinueTest$Q">
+	<tu xmlns:lang="eng">Do you wish to continue?</tu>
+	<tu xmlns:lang="nld">Wilt u verdergaan?</tu>
+	<tu xmlns:lang="fra">Désirez-vous continuer ?</tu>
+	<tu xmlns:lang="deu">Soll mit Prüfung fortgefahren werden?</tu>
+	<tu xmlns:lang="ita">Volete continuare?</tu>
+	<tu xmlns:lang="jpn">継続したいですか？</tu>
+	<tu xmlns:lang="ptg">Deseja continuar?</tu>
+	<tu xmlns:lang="ptb">Deseja continuar?</tu>
+	<tu xmlns:lang="rus">Продолжить?</tu>
+	<tu xmlns:lang="esp">¿Quiere continuar?</tu>
+	<tu xmlns:lang="chs">您要继续了吗？</tu>
+	<tu xmlns:lang="kor">계속하시겠습니까?</tu>
+</tm>

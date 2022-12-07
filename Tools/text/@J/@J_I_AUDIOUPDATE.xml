@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUDIOUPDATE">
+	<tu xmlns:lang="eng">Audio update</tu>
+	<tu xmlns:lang="nld">Bijwerken van audio</tu>
+	<tu xmlns:lang="fra">Mise à jour de la fonction audio</tu>
+	<tu xmlns:lang="deu">Audio-Aktualisierung</tu>
+	<tu xmlns:lang="ita">Aggiornamento audio</tu>
+	<tu xmlns:lang="jpn">オーディオ更新</tu>
+	<tu xmlns:lang="ptg">Actualização áudio</tu>
+	<tu xmlns:lang="ptb">Atualização de áudio</tu>
+	<tu xmlns:lang="rus">Обновление аудиосистемы</tu>
+	<tu xmlns:lang="esp">Actualización de sonido</tu>
+	<tu xmlns:lang="chs">音频更新</tu>
+	<tu xmlns:lang="kor">오디오 업데이트</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EBOX_FAN_FIT">
+	<tu xmlns:lang="eng">E-box fan fitment</tu>
+	<tu xmlns:lang="nld">Montage van elektroboxventilator</tu>
+	<tu xmlns:lang="fra">Montage du ventilateur de boîtier électronique</tu>
+	<tu xmlns:lang="deu">Lüfter Elektronikbox ? Einbau</tu>
+	<tu xmlns:lang="ita">Montaggio ventola scatola elettronica</tu>
+	<tu xmlns:lang="jpn">E ボックス ファンの取り付け</tu>
+	<tu xmlns:lang="ptg">Instalação da ventoinha da caixa electrónica (E-box)</tu>
+	<tu xmlns:lang="ptb">Instalação do ventilador do E-box</tu>
+	<tu xmlns:lang="rus">Установка вентилятора блока электронных модулей</tu>
+	<tu
+    xmlns:lang="esp"
+  >Montaje del ventilador de la caja de módulos de control</tu>
+	<tu xmlns:lang="chs">E 盒风扇装配</tu>
+	<tu xmlns:lang="kor">E-box 팬 장착</tu>
+</tm>

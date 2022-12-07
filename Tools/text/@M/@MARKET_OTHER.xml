@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MARKET_OTHER">
+	<tu xmlns:lang="eng">Other non EU</tu>
+	<tu xmlns:lang="nld">Overig niet-EU-land</tu>
+	<tu xmlns:lang="fra">Autre non UE</tu>
+	<tu xmlns:lang="deu">Andere ? nicht EU</tu>
+	<tu xmlns:lang="ita">Altri Paesi non UE</tu>
+	<tu xmlns:lang="jpn">その他、EU 以外</tu>
+	<tu xmlns:lang="ptg">Outros, fora da UE</tu>
+	<tu xmlns:lang="ptb">Outro não UE</tu>
+	<tu xmlns:lang="rus">Прочие страны, не входящие в ЕС</tu>
+	<tu xmlns:lang="esp">Otros no pertenecientes a la UE</tu>
+	<tu xmlns:lang="chs">其他非欧盟地区</tu>
+	<tu xmlns:lang="kor">기타 비 EU</tu>
+</tm>

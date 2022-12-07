@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EXIT_RUN_DTC">
+	<tu
+    xmlns:lang="eng"
+  >You should exit this application and run diagnostic trouble code monitor</tu>
+	<tu
+    xmlns:lang="nld"
+  >U dient deze toepassing te verlaten en de DTC-bewaking te starten</tu>
+	<tu
+    xmlns:lang="fra"
+  >Vous devez quitter cette application et utiliser le moniteur de codes DTC</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sie sollten diese Anwendung abbrechen und den Fehlercode-Monitor laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Si deve uscire da quest'applicazione ed eseguire Monitor DTC (codici di guasto)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このアプリケーションを終了し、DTC モニターを実施しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deve sair desta aplicação e executar e executar o monitor de códigos de avaria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Saia dessa aplicação e execute o monitor do código de problema de diagnóstico</tu>
+	<tu
+    xmlns:lang="rus"
+  >Следует выйти из этого приложения и запустить контроль диагностических кодов неисправностей</tu>
+	<tu
+    xmlns:lang="esp"
+  >Debe salir de esta aplicación y utilizar el lector de DTC</tu>
+	<tu xmlns:lang="chs">您应该退出此应用程序，然后运行故障诊断代码监测器</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 애플리케이션을 종료하고 고장 진단 코드 모니터를 실행해야 합니다.</tu>
+</tm>

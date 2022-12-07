@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EST_TORQ">
+	<tu xmlns:lang="eng">Estimated torque</tu>
+	<tu xmlns:lang="nld">Geschat koppel</tu>
+	<tu xmlns:lang="fra">Couple estimé.</tu>
+	<tu xmlns:lang="deu">Berechnetes Drehmoment</tu>
+	<tu xmlns:lang="ita">Coppia stimata</tu>
+	<tu xmlns:lang="jpn">予\想トルク</tu>
+	<tu xmlns:lang="ptg">Binário previsto</tu>
+	<tu xmlns:lang="ptb">Torque estimado</tu>
+	<tu xmlns:lang="rus">Расчетный крутящий момент</tu>
+	<tu xmlns:lang="esp">Par estimado</tu>
+	<tu xmlns:lang="chs">估计的扭距</tu>
+	<tu xmlns:lang="kor">추정 토크</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@COLUMN_TILT_INCHING">
+	<tu xmlns:lang="eng">Column tilt inching</tu>
+	<tu xmlns:lang="nld">Kantelverstelling stuurkolom</tu>
+	<tu xmlns:lang="fra">Réglage d'inclinaison par paliers de la colonne.</tu>
+	<tu xmlns:lang="deu">Lenksäule - schrittweise Neigungsverstellung</tu>
+	<tu xmlns:lang="ita">Inclinazione graduale piantone di sterzo</tu>
+	<tu xmlns:lang="jpn">コラム チルト微調整</tu>
+	<tu xmlns:lang="ptg">Coluna, alcance da inclinação</tu>
+	<tu xmlns:lang="ptb">Inclinação da coluna (pol)</tu>
+	<tu xmlns:lang="rus">Изменение наклона рулевой колонки</tu>
+	<tu xmlns:lang="esp">Inclinación gradual de la columna</tu>
+	<tu xmlns:lang="chs">转向柱倾斜缓动</tu>
+	<tu xmlns:lang="kor">칼럼 틸트 인칭</tu>
+</tm>

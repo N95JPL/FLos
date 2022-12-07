@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CCFMAN_PROCESSING_CCF_DATA">
+	<tu xmlns:lang="eng">Processing car configuration file data</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bezig met het verwerken van de gegevens uit het voertuigconfiguratiebestand</tu>
+	<tu
+    xmlns:lang="fra"
+  >Traitement des données du fichier de configuration du véhicule en cours</tu>
+	<tu
+    xmlns:lang="deu"
+  >Daten der Fahrzeug-Konfigurationsdatei werden verarbeitet</tu>
+	<tu
+    xmlns:lang="ita"
+  >Elaborazione dei dati del file di configurazione veicolo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション ファイル データを処理しています</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A processar dados do ficheiro de configuração do veículo</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Processando os dados do arquivo de configuração do carro</tu>
+	<tu xmlns:lang="rus">Обработка данных файла конфигурации автомобиля</tu>
+	<tu
+    xmlns:lang="esp"
+  >Procesando los datos del archivo de configuración del vehículo</tu>
+	<tu xmlns:lang="chs">处理车辆配置文件数据</tu>
+	<tu xmlns:lang="kor">차량 구성 파일 데이터 처리 중</tu>
+</tm>

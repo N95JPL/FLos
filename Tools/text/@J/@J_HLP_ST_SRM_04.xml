@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_SRM_04">
+	<tu
+    xmlns:lang="eng"
+  >Both satellite radio module internal fault PID (8310) and the number of diagnostic fault codes from the most recent control routine PID (0202) data identifiers will be updated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zowel de interne fout-PID (8310) van de satellietradiomodule als het aantal diagnosefoutcodes uit de meest recente regelroutine-PID (0202) gegevensidentificaties, zullen worden bijgewerkt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le PID de défaut interne du module radio par satellites (8310) et le numéro de code de défaut de diagnostic provenant des identificateurs de données PID (0202) du programme de commande les plus récents seront mis à jour.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Datenkennungen für die interne Störung PID (8310) des Satellitenradio-Steuergeräts sowie die Zahl der Fehlercodes aus der zuletzt gelaufenen Steuerroutine PID (0202) werden aktualisiert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Vengono aggiornati gli identificativi dei dati sia del PID (8310) di guasto interno modulo radio satellitare che del PID (0202) del numero di codice guasto diagnostico dalla procedura di controllo più recente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >サテライト無線モジュール内部故障 PID (8310) およびもっとも新しいコントロール ルーチン PID (0202) のデータ ID 機能\からの診断トラブル コードのナンバー両方が更新されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >São actualizados os identificadores de dados da avaria interna no módulo do rádio por satélite - PID (8310) - e do número do código de avaria da rotina de controlo mais recente - PID (0202).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Tanto o identificador de dados do PID de falha interna do módulo de rádio por satélite (8310) como o do número dos códigos de diagnóstico de falha da rotina de controle PID mais recente (0202) serão atualizados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Будут обновлены идентификаторы данных как внутренней ошибки PID (8310) спутникового радиоблока, так и ряда диагностических кодов неисправностей последней процедуры проверки PID (0202).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se actualizarán los identificadores de datos tanto del PID de anomalía interna del módulo de radiosatélite (8310) como el número de códigos de avería del PID de rutina de control más reciente (0202)</tu>
+	<tu
+    xmlns:lang="chs"
+  >卫星无线通讯模块内部故障 PID (8310) 和来自最近控制常规程序 PID (0202) 数据标识符的故障诊断代码数将都将被更新。</tu>
+	<tu
+    xmlns:lang="kor"
+  >위성 라디오 모듈 내부 고장 PID(8310)와 가장 최근 컨트롤 루틴 PID(0202) 데이터 식별자에서 수신된 고장 진단 코드의 수가 모두 업데이트됩니다.</tu>
+</tm>

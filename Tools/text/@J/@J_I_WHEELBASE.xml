@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_WHEELBASE">
+	<tu xmlns:lang="eng">Wheelbase</tu>
+	<tu xmlns:lang="nld">Wielbasis</tu>
+	<tu xmlns:lang="fra">Empattement</tu>
+	<tu xmlns:lang="deu">Radstand</tu>
+	<tu xmlns:lang="ita">Passo</tu>
+	<tu xmlns:lang="jpn">ホイールベース</tu>
+	<tu xmlns:lang="ptg">Distância entre eixos</tu>
+	<tu xmlns:lang="ptb">Distância entre os eixos</tu>
+	<tu xmlns:lang="rus">Колесная база</tu>
+	<tu xmlns:lang="esp">Batalla</tu>
+	<tu xmlns:lang="chs">轴距</tu>
+	<tu xmlns:lang="kor">축간 거리</tu>
+</tm>

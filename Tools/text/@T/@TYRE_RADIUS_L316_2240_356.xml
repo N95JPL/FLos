@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TYRE_RADIUS_L316_2240_356">
+	<tu
+    xmlns:lang="eng"
+  >Tyre rolling circumference - 2240mm (rolling radius 356mm)</tu>
+	<tu xmlns:lang="nld">Rolomtrek van band: 2240 mm (rolradius 356 mm)</tu>
+	<tu
+    xmlns:lang="fra"
+  >Circonférence de roulement - 2 240 mm (rayon de roulement 356 mm)</tu>
+	<tu xmlns:lang="deu">Reifen-Abrollumfang - 2.240 mm (Abrollradius 356 mm)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Circonferenza di rotolamento pneumatico - 2240 mm (raggio di rotolamento 356 mm)</tu>
+	<tu xmlns:lang="jpn">タイヤの回転円周 - 2240mm (回転半径 356mm)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Circunferência de rodagem do pneu - 2240 mm (raio de rodagem de 356 mm)</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Circunferência de rolamento do pneu - 2240 mm (raio de rolagem 356 mm)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Длина окружности качения шины - 2240 мм (радиус качения 356 мм)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Circunferencia de rodadura del neumático: 2240 mm (radio de rodadura 356 mm)</tu>
+	<tu xmlns:lang="chs">轮胎滚动周长--2240毫米（滚动半径356毫米）</tu>
+	<tu xmlns:lang="kor">타이어 회전 원주 - 2240mm(구름 반경 356mm)</tu>
+</tm>

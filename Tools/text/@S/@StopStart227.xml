@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart227">
+	<tu
+    xmlns:lang="eng"
+  >Where no charge related warning lamp is present check for DTCs associated to the voltage quality/stabilisation system and rectify accordingly.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Waar er geen waarschuwingslampje in verband met lading aanwezig is, controleert u op DTC's die verband houden met het systeem voor spanningskwaliteit/stabilisatie en voert u dienovereenkomstig reparaties uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si aucune charge liée à un témoin n'est présente, recherchez des DTC liés au système de qualité de tension/système de stabilisation et corrigez en conséquence.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn keine Warnleuchte mit Bezug zum Ladezustand leuchtet, auf DTCs im Zusammenhang mit dem Spannungsqualitäts-/stabilisierungssystem prüfen und Ursachen beheben.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se non è presente una spia relativa al caricamento, verificare l'eventuale presenza di DTC associati alla qualità della tensione/al sistema di stabilizzazione e riparare secondo necessità.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >充電なし関連の警告ランプが点灯している場合は、電圧クオリティ/スタビライゼーション システムに関連する DTC がないか確認し、必要に応じて修理します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se não houver uma luz avisadora relativa a carga, verifique se existem DTC associados ao sistema de estabilização/qualidade de tensão e retifique conforme necessário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Quando não houver nenhuma luz de aviso relacionada à carga, verifique se há DTC associados ao sistema de qualidade/estabilização da tensão e efetue as ações corretivas necessárias.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если не загорается сигнализатор зарядки аккумуляторной батареи, проверьте наличие кодов DTC, относящихся к блоку контроля качества напряжения / системе стабилизации и устраните неисправность.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si no hay ningún testigo relacionado con la carga, compruebe si hay DTC asociados con el módulo de calidad de la tensión/sistema de estabilización y rectifíquelos según corresponda.</tu>
+	<tu
+    xmlns:lang="chs"
+  >如果未出现与荷电状态相关的警告灯，查看是否存在电压质量/稳压系统相关 DTC 并进行相应修复。</tu>
+	<tu
+    xmlns:lang="kor"
+  >충전 관련 경고등이 없는 경우 전압 품질/안정화 시스템과 관련된 DTC가 있는지 확인하고 이에 따라 수리하십시오.</tu>
+</tm>

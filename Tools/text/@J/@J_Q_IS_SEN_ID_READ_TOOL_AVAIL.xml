@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_IS_SEN_ID_READ_TOOL_AVAIL">
+	<tu xmlns:lang="eng">Is a sensor identification read tool available?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is er een programma voor het lezen van de sensoridentificatie beschikbaar?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un outil de lecture d'identification de capteur est-il disponible ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist ein Auslesewerkzeug für die Sensorkennung verfügbar?</tu>
+	<tu
+    xmlns:lang="ita"
+  >È disponibile uno strumento di lettura identificativi sensori?</tu>
+	<tu xmlns:lang="jpn">センサー ID 読み取りツールは使用可能\ですか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Está disponível uma ferramenta de leitura de identificação de sensores?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Há uma ferramenta de leitura de identificação do sensor disponível?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Имеется ли инструмент для считывания идентификаторов датчиков?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Está disponible una herramienta de lectura de identificaciones de sensores?</tu>
+	<tu xmlns:lang="chs">是否有传感器标识码读取工具？</tu>
+	<tu xmlns:lang="kor">센서 식별 정보 읽기 도구를 사용할 수 있습니까?</tu>
+</tm>

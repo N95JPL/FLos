@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SET_IDLE_SPEED_INFO_2">
+	<tu
+    xmlns:lang="eng"
+  >The vehicle needs to be at normal operating temperature and the injection system needs to be in good working order.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het voertuig moet op de normale bedrijfstemperatuur zijn en het injectiesysteem moet naar behoren functioneren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le véhicule doit avoir une température de service normale et le système d'injection doit être en bon état de fonctionnement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Motor muss normale Betriebstemperatur erreicht haben und das Einspritzsystem muss sich in gutem Funktionszustand befinden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il veicolo deve trovarsi a una temperatura di funzionamento normale e il sistema di iniezione deve funzionare correttamente.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両が通常作動温度にあり、インジェクション システムが良好な作動状態にあることが必要です。</tu>
+	<tu xmlns:lang="ptg">O motor da ventoinha não chega à velocidade mínima</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O veículo deve estar na temperatura normal de operação e o sistema de injeção precisa estar em boas condições de funcionamento.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Автомобиль должен иметь нормальную рабочую температуру, и система впрыска топлива должна быть в исправном состоянии.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El vehículo debe estar a la temperatura normal y el sistema de inyección debe encontrarse en buen estado de servicio.</tu>
+	<tu
+    xmlns:lang="chs"
+  >车辆必须处于正常工作温度，且喷射系统必须处于良好运转状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량이 정상 작동 온도에 있고 분사 시스템이 올바로 작동해야 합니다.</tu>
+</tm>

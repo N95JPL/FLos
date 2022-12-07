@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PILOT_CORRECTION_STATUS_21">
+	<tu
+    xmlns:lang="eng"
+  >0x21 : Not started due to rail pressure stability / limits.</tu>
+	<tu
+    xmlns:lang="nld"
+  >0x21 : inleren niet gestart vanwege de stabiliteit/grenzen van de druk in de common rail.</tu>
+	<tu
+    xmlns:lang="fra"
+  >0x21 : Non commencé à cause de la stabilité/des limites de la pression de rampe.</tu>
+	<tu
+    xmlns:lang="deu"
+  >0x21 : Nicht angelaufen aufgrund von Verteilerrohr-Druckstabilität / Grenzwerten.</tu>
+	<tu
+    xmlns:lang="ita"
+  >0x21 : Non avviato a causa di limiti/stabilità di pressione del collettore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >0x21 : レール プレッシャの安定性／限界のためスタートせず。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >0x21 : Não iniciado devido a estabilidade / limites da pressão da régua distribuidora de combustível.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >0X21 : Não iniciado devido a estabilidade/limites da pressão do trilho.</tu>
+	<tu
+    xmlns:lang="rus"
+  >0x21 : Запуск не выполнен из-за нестабильности / пределов давления в топливной магистрали.</tu>
+	<tu
+    xmlns:lang="esp"
+  >0x21: No se inició debido a la estabilidad / límites de la presión de la rampa de combustible.</tu>
+	<tu xmlns:lang="chs">0x21： 由于油轨压力稳定性/限值原因而没有启动。</tu>
+	<tu xmlns:lang="kor">0x21 : 레일 압력 안정성/한계 때문에 시작되지 않습니다.</tu>
+</tm>

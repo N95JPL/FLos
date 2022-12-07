@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_110_KPH">
+	<tu xmlns:lang="eng">110 kph</tu>
+	<tu xmlns:lang="nld">110 km/uur</tu>
+	<tu xmlns:lang="fra">110 km/h</tu>
+	<tu xmlns:lang="deu">110 km/h</tu>
+	<tu xmlns:lang="ita">110 kph</tu>
+	<tu xmlns:lang="jpn">110km/h</tu>
+	<tu xmlns:lang="ptg">110 km/h</tu>
+	<tu xmlns:lang="ptb">110 kph</tu>
+	<tu xmlns:lang="rus">110 км/ч</tu>
+	<tu xmlns:lang="esp">110 km/h</tu>
+	<tu xmlns:lang="chs">110kph</tu>
+	<tu xmlns:lang="kor">110kph</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HOMESAFE_LIGHTING_DELAY">
+	<tu xmlns:lang="eng">Homesafe lighting delay (seconds)</tu>
+	<tu xmlns:lang="nld">Vertraagde uitstapfunctie (seconden)</tu>
+	<tu xmlns:lang="fra">Temporisation d'éclairage d'accompagnement (secondes)</tu>
+	<tu xmlns:lang="deu">Beleuchtungs-Ausschaltverzögerung (Sekunden)</tu>
+	<tu xmlns:lang="ita">Ritardo luci di sicurezza (secondi)</tu>
+	<tu xmlns:lang="jpn">ホームセーフ ライティング遅延 (秒)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temporização das luzes de acompanhamento até casa (segundos)</tu>
+	<tu xmlns:lang="ptb">Atraso da iluminação homesafe (segundos)</tu>
+	<tu xmlns:lang="rus">Задержка выключения освещения (в секундах)</tu>
+	<tu xmlns:lang="esp">Retardo del apagado de los faros (segundos)</tu>
+	<tu xmlns:lang="chs">安全回家灯照明延时（秒）</tu>
+	<tu xmlns:lang="kor">홈세이프 조명 지연 시간(초)</tu>
+</tm>

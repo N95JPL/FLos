@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FAIL_CLR_ALAR_TRIG_HIS">
+	<tu xmlns:lang="eng">Failed to clear alarm trigger history.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Het wissen van de historie van de oorzaken voor het laten afgaan van het alarm is mislukt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Echec d'effacement de l'historique des déclenchements d'alarmes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Historie - Alarmauslösung konnte nicht gelöscht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Cancellazione cronologia attivazioni allarme non riuscito.</tu>
+	<tu xmlns:lang="jpn">アラーム トリガー履歴のクリアに失敗しました。</tu>
+	<tu xmlns:lang="ptg">Falha ao apagar histórico dos disparos do alarme.</tu>
+	<tu xmlns:lang="ptb">Falha ao apagar o acionador de alarme apagado.</tu>
+	<tu xmlns:lang="rus">Ошибка очистки журнала срабатываний сигнализации.</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se logró borrar el historial de disparos de la alarma.</tu>
+	<tu xmlns:lang="chs">未能清除报警触发器历史记录。</tu>
+	<tu xmlns:lang="kor">알람 트리거 기록 삭제 실패</tu>
+</tm>

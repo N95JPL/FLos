@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_SET_HAZ_LMP_SW_OFF">
+	<tu xmlns:lang="eng">Set the hazard warning lamp switch to off</tu>
+	<tu xmlns:lang="nld">Zet Alarmknipperlichtschakelaar in de stand UIT</tu>
+	<tu
+    xmlns:lang="fra"
+  >Placer l'interrupteur de signal de détresse en position ARRET</tu>
+	<tu xmlns:lang="deu">Warnblinkanlage AUSSCHALTEN</tu>
+	<tu
+    xmlns:lang="ita"
+  >Mettere l'interruttore degli indicatori di pericolo SPENTO</tu>
+	<tu xmlns:lang="jpn">ハｻﾞーﾄﾞ・ライト・スイッチをオフにしてください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Regular o interruptor dos intermitentes de perigo para a posição de apagados</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Coloque o interruptor da luz do pisca-alerta na posição desligada</tu>
+	<tu
+    xmlns:lang="rus"
+  >Переведите выключатель лампы аварийной сигнализации в положение 'Off' (Выкл.)</tu>
+	<tu xmlns:lang="esp">Desconectar interruptor parada de emergencia</tu>
+	<tu xmlns:lang="chs">设置危险报警灯开关为关闭</tu>
+	<tu xmlns:lang="kor">비상등 스위치를 OFF로 설정하십시오.</tu>
+</tm>

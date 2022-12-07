@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart23">
+	<tu
+    xmlns:lang="eng"
+  >Check for dual battery module DTCs and repair as required.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer op DTC's voor de dubbele-accumodule en voer de benodigde reparaties uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Recherchez d'éventuels DTC liés au module de double batterie et corrigez-les si nécessaire.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Auf Fehlercodes im Zusammenhang mit dem Steuergerät des Zwei-Batterien-Systems prüfen und nach Bedarf reparieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Verificare l'eventuale presenza di DTC relativi al modulo doppia batteria e riparare secondo necessità.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >デュアル バッテリー モジュールの DTC を確認し、必要に応じて修理してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique se existem códigos de avaria (DTC) no módulo de duas baterias e proceda à reparação conforme necessário.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique se há DTCs de módulo de bateria dupla e corrija conforme necessário.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте наличие диагностических кодов неисправности, связанных с блоком двух аккумуляторных батарей, и устраните неисправность при необходимости.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Compruebe si hay DTC del módulo de la batería doble y lleve a cabo las reparaciones pertinentes.</tu>
+	<tu xmlns:lang="chs">检查双蓄电池模块 DTC 并在必要时维修。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이중 배터리 모듈 DTC가 있는지 확인하고 필요에 따라 수리하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_10AS_SEC_MOD">
+	<tu xmlns:lang="eng">10AS security module</tu>
+	<tu xmlns:lang="nld">10AS-beveiligingsmodule</tu>
+	<tu xmlns:lang="fra">10AS module de sécurité</tu>
+	<tu xmlns:lang="deu">10AS Fahrzeugschutz-Steuergerät</tu>
+	<tu xmlns:lang="ita">Modulo di sicurezza 10AS </tu>
+	<tu xmlns:lang="jpn">10AS セキュリティ モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de segurança 10AS</tu>
+	<tu xmlns:lang="ptb">Módulo de segurança 10AS</tu>
+	<tu xmlns:lang="rus">Блок защиты 10AS</tu>
+	<tu xmlns:lang="esp">Módulo de seguridad 10AS</tu>
+	<tu xmlns:lang="chs">10AS防盗模块</tu>
+	<tu xmlns:lang="kor">10AS 보안 모듈</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_BATT_I_LT_N40A">
+	<tu xmlns:lang="eng">Battery current incorrect</tu>
+	<tu xmlns:lang="nld">Accustroom onjuist</tu>
+	<tu xmlns:lang="fra">Courant de batterie incorrect</tu>
+	<tu xmlns:lang="deu">Falscher Batteriestrom</tu>
+	<tu xmlns:lang="ita">Corrente batteria errata</tu>
+	<tu xmlns:lang="jpn">バッテリ電流不正確</tu>
+	<tu xmlns:lang="ptg">Corrente da bateria incorrecta</tu>
+	<tu xmlns:lang="ptb">Corrente da bateria incorreta</tu>
+	<tu xmlns:lang="rus">Неверный ток аккумуляторной батареи</tu>
+	<tu xmlns:lang="esp">Corriente de la batería incorrecta</tu>
+	<tu xmlns:lang="chs">蓄电池电流不正确</tu>
+	<tu xmlns:lang="kor">배터리 전류가 잘못됨</tu>
+</tm>

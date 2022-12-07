@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BAS_INTRO_1">
+	<tu
+    xmlns:lang="eng"
+  >The ABS electronic control unit provides hydraulic brake assistance when it senses that the brake pedal is depressed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De elektronische ABS-regelmodule schakelt de hydraulische rembekrachtiging in wanneer hij detecteert dat de bestuurder het rempedaal heeft ingetrapt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module de commande électronique ABS déclenche l'assistance au freinage hydraulique lorsqu'il détecte un appui sur la pédale de frein.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das elektronische ABS-Steuergerät stellt bei Ermittlung einer Betätigung des Bremspedals hydraulische Bremskraftunterstützung bereit.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'unità di comando elettronica ABS aziona il servofreno idraulico quando rileva che il pedale del freno viene premuto.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ABS エレクトロニック コントロール ユニットは、ブレーキ ペダルが踏み込まれたことを検知するとハイドロリック ブレーキ アシストを提供します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A unidade electrónica de controlo do ABS fornece assistência à travagem hidráulica quando detecta a aplicação do pedal do travão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >A unidade de controle eletrônico do ABS fornece assistência ao freio hidráulico quando sente que o pedal do freio é pressionado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электронный блок управления системой ABS обеспечивает гидравлическую помощь при торможении, когда он получает сигнал о том, что педаль тормоза нажата.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo de control electrónico del ABS proporciona una asistencia hidráulica al freno cuando detecta que se pisa el pedal de freno.</tu>
+	<tu
+    xmlns:lang="chs"
+  >ABS 电子控制单元在感测到制动踏板踩下时提供液压制动辅助功能。</tu>
+	<tu
+    xmlns:lang="kor"
+  >ABS 전자 컨트롤 유닛은 브레이크 페달을 밟은 것이 감지될 때 유압 브레이크 보조 기능을 제공합니다.</tu>
+</tm>

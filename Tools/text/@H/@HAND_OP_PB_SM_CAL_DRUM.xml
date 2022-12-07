@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@HAND_OP_PB_SM_CAL_DRUM">
+	<tu
+    xmlns:lang="eng"
+  >Hand operated park brake with small integrated caliper  -  Drum brake</tu>
+	<tu
+    xmlns:lang="nld"
+  >Handbediende handrem met kleine ingebouwde remklauw  -  Trommelrem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Frein de stationnement à commande manuelle avec petit étrier intégré  -  Frein à tambour</tu>
+	<tu
+    xmlns:lang="deu"
+  >Handbetätigte Parkbremse mit kleinem integriertem Sattel  -  Trommelbremse</tu>
+	<tu
+    xmlns:lang="ita"
+  >Freno di stazionamento ad azionamento manuale con pinza freno integrata di piccole dimensioni  -  Freno a tamburo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >手動式小型キャリパ インテグレート パーキング ブレーキ  －  ドラム ブレーキ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Travão de mão de accionamento manual com pinça pequena integrada  -  Tambor de travão</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Freio de estacionamento operado com a mão com pinça integrada pequena  -  Freios a tambor</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ручной стояночный тормоз с маленьким встроенным суппортом  -  Барабанный тормоз</tu>
+	<tu
+    xmlns:lang="esp"
+  >Freno de mano con pinza integrada pequeña  -  Freno de tambor</tu>
+	<tu xmlns:lang="chs">带小型集成制动卡钳的手动驻车制动器  -  鼓式制动器</tu>
+	<tu
+    xmlns:lang="kor"
+  >소형 캘리퍼 내장 수동식 주차 브레이크  -  드럼 브레이크</tu>
+</tm>

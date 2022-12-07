@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_COLUMN_NO_ATTEMPT_CALIB">
+	<tu
+    xmlns:lang="eng"
+  >No attempt has been made to calibrate the steering column assembly</tu>
+	<tu xmlns:lang="nld">Er is niet geprobeerd de stuurkolom te kalibreren</tu>
+	<tu
+    xmlns:lang="fra"
+  >Aucune tentative d'étalonnage d'ensemble de colonne de direction effectuée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Es wurde kein Versuch unternommen, die Lenksäule zu kalibrieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Non è stato fatto nessun tentativo di taratura del gruppo del piantone di sterzo</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング コラム アセンブリのキャリブレーション試行がなされていません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Não foi feita qualquer tentativa para calibrar a coluna da direcção</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Nenhuma tentativa foi realizada para calibrar o conjunto da coluna de direção</tu>
+	<tu
+    xmlns:lang="rus"
+  >Не сделано ни одной попытки выполнить калибровку узла рулевой колонки</tu>
+	<tu
+    xmlns:lang="esp"
+  >No se ha hecho ningún intento de calibrar la columna de la dirección</tu>
+	<tu xmlns:lang="chs">从未尝试标定转向柱组件</tu>
+	<tu xmlns:lang="kor">스티어링 칼럼 어셈블리 보정 시도가 없었습니다.</tu>
+</tm>

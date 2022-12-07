@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_CONDITIONS">
+	<tu
+    xmlns:lang="eng"
+  >The power supply system diagnostic procedure shall only be executed if the following conditions are met:</tu>
+	<tu
+    xmlns:lang="nld"
+  >De diagnoseprocedure van de stroomvoorziening mag alleen worden uitgevoerd wanneer aan de volgende voorwaarden is voldaan:</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure de diagnostic du circuit d'alimentation ne doit être lancée que si les conditions suivantes sont réunies :</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Diagnoseverfahren für das elektrische Versorgungssystem ist nur durchzuführen, wenn folgende Bedingungen erfüllt sind:</tu>
+	<tu
+    xmlns:lang="ita"
+  >La procedura diagnostica del sistema di alimentazione deve essere eseguita soltanto se risultano soddisfatte le seguenti condizioni:</tu>
+	<tu
+    xmlns:lang="jpn"
+  >次の条件が満たされるときにのみ、電源供給システム診断手順を実施しなさい：</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O procedimento de diagnóstico do sistema de alimentação apenas deve ser executado se estiverem reunidas as seguintes condições:</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O procedimento de diagnóstico do sistema de alimentação de energia só deve ser feito caso as seguintes condições sejam atendidas:</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура диагностики системы электропитания выполняется только при следующих условиях:</tu>
+	<tu
+    xmlns:lang="esp"
+  >El procedimiento de diagnóstico del sistema de alimentación sólo se debe efectuar si se cumplen las siguientes condiciones:</tu>
+	<tu xmlns:lang="chs">供电系统诊断程序只有在以下条件得到满足时才应予以执行：</tu>
+	<tu
+    xmlns:lang="kor"
+  >다음 조건이 충족될 경우에만 전원 공급 시스템 진단 절차가 실행됩니다.</tu>
+</tm>

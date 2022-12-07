@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@InsertFirstKey$M">
+	<tu
+    xmlns:lang="eng"
+  >Insert the first key to be programmed into the ignition barrel.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Steek de eerste sleutel die u wilt programmeren in de contactslotcilinder.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Introduisez la première clé à programmer dans le commutateur d'allumage.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ersten zu programmierenden Schlüssel in den Zylinder des Zündschlosses einstecken.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Inserire la prima chiave da programmare nel cilindretto del commutatore di accensione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >プログラムする最初のキーをイグニション バレルに挿入しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Introduza a primeira chave a ser programada no canhão da ignição.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Insira a próxima chave para ser programada no tambor de ignição.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Вставьте первый программируемый ключ в цилиндр замка зажигания.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Introducir en el bombillo del encendido la primera llave que se va a programar.</tu>
+	<tu xmlns:lang="chs">把要编程的第一把钥匙插入点火筒。</tu>
+	<tu xmlns:lang="kor">점화 배럴에 프로그래밍할 첫 번째 키를 삽입하십시오.</tu>
+</tm>

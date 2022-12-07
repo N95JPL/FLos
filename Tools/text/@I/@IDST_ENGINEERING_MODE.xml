@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDST_ENGINEERING_MODE">
+	<tu xmlns:lang="eng">Engineering</tu>
+	<tu xmlns:lang="nld">Ontwikkeling</tu>
+	<tu xmlns:lang="fra">Technicien</tu>
+	<tu xmlns:lang="deu">Entwicklung</tu>
+	<tu xmlns:lang="ita">Engineering</tu>
+	<tu xmlns:lang="jpn">エンジニアリング</tu>
+	<tu xmlns:lang="ptg">Departamento técnico</tu>
+	<tu xmlns:lang="ptb">Engenharia</tu>
+	<tu xmlns:lang="rus">Технические единицы</tu>
+	<tu xmlns:lang="esp">Ingeniería</tu>
+	<tu xmlns:lang="chs">工程</tu>
+	<tu xmlns:lang="kor">엔지니어링</tu>
+</tm>

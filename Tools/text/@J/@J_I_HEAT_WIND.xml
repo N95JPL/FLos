@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_HEAT_WIND">
+	<tu xmlns:lang="eng">Heated windscreen</tu>
+	<tu xmlns:lang="nld">Verwarmde voorruit</tu>
+	<tu xmlns:lang="fra">Pare-brise chauffant</tu>
+	<tu xmlns:lang="deu">Windschutzscheibenheizung</tu>
+	<tu xmlns:lang="ita">Parabrezza termico</tu>
+	<tu xmlns:lang="jpn">ヒーテッド ウィンドスクリーン</tu>
+	<tu xmlns:lang="ptg">Pára-brisas com desembaciador</tu>
+	<tu xmlns:lang="ptb">Desembaçador dianteiro</tu>
+	<tu xmlns:lang="rus">Обогрев ветрового стекла</tu>
+	<tu xmlns:lang="esp">Parabrisas térmico</tu>
+	<tu xmlns:lang="chs">加热型挡风玻璃</tu>
+	<tu xmlns:lang="kor">열선내장 앞유리</tu>
+</tm>

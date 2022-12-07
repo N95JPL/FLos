@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CHECKSUM">
+	<tu xmlns:lang="eng">Checking checksums</tu>
+	<tu xmlns:lang="nld">Controleren van de checksums</tu>
+	<tu xmlns:lang="fra">Vérification des sommes de contrôle</tu>
+	<tu xmlns:lang="deu">Prüfsummen werden geprüft </tu>
+	<tu xmlns:lang="ita">Controllo del checksum </tu>
+	<tu xmlns:lang="jpn">チェックサムを調べています。</tu>
+	<tu xmlns:lang="ptg">A verificar as somas de verificação</tu>
+	<tu xmlns:lang="ptb">Verificação de checksums</tu>
+	<tu xmlns:lang="rus">Выполняется проверка контрольных сумм</tu>
+	<tu xmlns:lang="esp">Comprobando sumas de control</tu>
+	<tu xmlns:lang="chs">正在检查校验和</tu>
+	<tu xmlns:lang="kor">체크섬 점검</tu>
+</tm>

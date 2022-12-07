@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROC_CHK_TRANS_MODE_STATUS">
+	<tu
+    xmlns:lang="eng"
+  >This procedure will check the transportation mode status</tu>
+	<tu xmlns:lang="nld">Deze procedure controleert de transportfunctiestatus</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette procédure permet de contrôler l'état du mode de transport</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit diesem Verfahren wird der Status des Transportmodus überprüft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura controlla lo stato della modalità di trasporto</tu>
+	<tu xmlns:lang="jpn">この手順は輸送モード ステータスをチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Este procedimento verifica o estado do modo de transporte</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este procedimento verificará o status do modo transporte</tu>
+	<tu
+    xmlns:lang="rus"
+  >При выполнении этой процедуры будет проверено состояние режима транспортировки</tu>
+	<tu
+    xmlns:lang="esp"
+  >Este procedimiento comprobará el estado del modo de transporte</tu>
+	<tu xmlns:lang="chs">本程序将检查传输模式状态</tu>
+	<tu xmlns:lang="kor">이 절차에서는 운송 모드 상태를 점검합니다.</tu>
+</tm>

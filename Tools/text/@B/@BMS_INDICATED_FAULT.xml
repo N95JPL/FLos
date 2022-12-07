@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@BMS_INDICATED_FAULT">
+	<tu xmlns:lang="eng">Battery monitoring system indicated fault</tu>
+	<tu xmlns:lang="nld">Storing aangegeven in het accucontrolesysteem</tu>
+	<tu
+    xmlns:lang="fra"
+  >Anomalie indiquée par le système de surveillance de la batterie</tu>
+	<tu xmlns:lang="deu">Vom Batterieüberwachungssystem angezeigte Störung.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il sistema di monitoraggio batteria ha indicato un guasto</tu>
+	<tu xmlns:lang="jpn">バッテリ モニタリング システムが示す故障</tu>
+	<tu xmlns:lang="ptg">Avaria indicada no sistema de monitorização da bateria</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha do indicada no sistema de monitoramento da bateria</tu>
+	<tu
+    xmlns:lang="rus"
+  >Наличие признаков неисправности системы контроля аккумуляторной батареи</tu>
+	<tu
+    xmlns:lang="esp"
+  >El sistema de control de la batería indica una anomalía</tu>
+	<tu xmlns:lang="chs">蓄电池监测系统明示故障</tu>
+	<tu xmlns:lang="kor">배터리 모니터링 시스템이 고장으로 나타남</tu>
+</tm>

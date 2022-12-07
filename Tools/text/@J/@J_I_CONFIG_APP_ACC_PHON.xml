@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_APP_ACC_PHON">
+	<tu xmlns:lang="eng">Car configuration application accessory phone</tu>
+	<tu xmlns:lang="nld">Voertuigconfiguratietoepassing van telefoon</tu>
+	<tu
+    xmlns:lang="fra"
+  >Application de configuration du véhicule - téléphone accessoire</tu>
+	<tu xmlns:lang="deu">Anwendung Fahrzeugkonfiguration - Zusatztelefon</tu>
+	<tu
+    xmlns:lang="ita"
+  >Applicazione configurazione veicolo - telefono accessorio</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション アプリケーション アクセサリ テレホン</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aplicação de configuração do veículo - telefone acessório</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aplicativo de configuração do carro - telefone de acessório</tu>
+	<tu
+    xmlns:lang="rus"
+  >Приложение конфигурации автомобиля - дополнительный телефон</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aplicación de configuración del vehículo: teléfono de montaje de posventa como accesorio</tu>
+	<tu xmlns:lang="chs">车辆配置应用程序 - 附件电话</tu>
+	<tu xmlns:lang="kor">차량 구성 애플리케이션 액세서리 전화</tu>
+</tm>

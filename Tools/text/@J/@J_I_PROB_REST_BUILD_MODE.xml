@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROB_REST_BUILD_MODE">
+	<tu
+    xmlns:lang="eng"
+  >There was a problem attempting to change the restraints build mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Bij het proberen te wijzigen van de fabricagefunctie van het beveiligingssysteem voor inzittenden, is een probleem opgetreden.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Un problème est survenu lors de la tentative de modification du mode construction des dispositifs de retenue.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Beim Versuch, den Konfigurationsmodus des Rückhaltesystems zu ändern, trat ein Problem auf.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Si è verificato un problema nel tentativo di cambiare la modalità di produzione del sistema di sicurezza occupanti.</tu>
+	<tu xmlns:lang="jpn">拘束再生モードの変更の試行に問題がありました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Houve um problema ao tentar alterar o modo de fabrico do sistema de segurança.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ocorreu um problema na tentativa de mudar o modo d construção da retenção.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Ошибка при попытке изменения режима установки системы пассивной безопасности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Hubo un problema al intentar cambiar el modo de fabricación de los sistemas de retención.</tu>
+	<tu xmlns:lang="chs">试图更改约束建立模式时出现问题。</tu>
+	<tu xmlns:lang="kor">에어백 빌드 모드를 변경하는 데 문제가 있었습니다.</tu>
+</tm>

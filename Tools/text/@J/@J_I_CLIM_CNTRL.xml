@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CLIM_CNTRL">
+	<tu xmlns:lang="eng">Climate control unit</tu>
+	<tu xmlns:lang="nld">Airconditioning unit</tu>
+	<tu xmlns:lang="fra">Climatiseur</tu>
+	<tu xmlns:lang="deu">Klimaanlagen-Baugruppe</tu>
+	<tu xmlns:lang="ita">Unità aria condizionata</tu>
+	<tu xmlns:lang="jpn">ｴｱ・ｺﾝﾃﾞｨｼｮﾆﾝｸﾞ(AC)ユニット</tu>
+	<tu xmlns:lang="ptg">Unidade do comando da climatização</tu>
+	<tu xmlns:lang="ptb">Unidade de controle de temperatura</tu>
+	<tu xmlns:lang="rus">Модуль климат-контроля</tu>
+	<tu xmlns:lang="esp">Unidad aire acondicionado</tu>
+	<tu xmlns:lang="chs">气候控制单元</tu>
+	<tu xmlns:lang="kor">실내 온도 조절 시스템 유닛</tu>
+</tm>

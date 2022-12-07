@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EPB_CM">
+	<tu xmlns:lang="eng">Electronic parking brake control module.</tu>
+	<tu xmlns:lang="nld">Regelmodule van elektronische handrem.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de commande de frein de stationnement électronique.</tu>
+	<tu xmlns:lang="deu">Steuermodul elektronisch betätigte Handbremse.</tu>
+	<tu xmlns:lang="ita">Modulo comando freno stazionamento elettronico.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック パーキング ブレーキ コントロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando do travão de mão electrónico.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Módulo de controle do freio de estacionamento elétrico.</tu>
+	<tu xmlns:lang="rus">Блок управления электронным стояночным тормозом.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Módulo de control del freno de estacionamiento electrónico.</tu>
+	<tu xmlns:lang="chs">电子驻车制动控制模块。</tu>
+	<tu xmlns:lang="kor">전자식 주차 브레이크 컨트롤 모듈</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart22">
+	<tu xmlns:lang="eng">The minimum required state of charge is 80%.</tu>
+	<tu xmlns:lang="nld">De vereiste minimale laadtoestand van de accu is 80%.</tu>
+	<tu xmlns:lang="fra">L'état de charge minimal requis est de 80 %.</tu>
+	<tu xmlns:lang="deu">Der Ladezustand muss mindestens 80 % betragen.</tu>
+	<tu xmlns:lang="ita">Lo stato di carica minimo richiesto è pari all'80%.</tu>
+	<tu xmlns:lang="jpn">最小必須充電状態は 80% です。</tu>
+	<tu xmlns:lang="ptg">O estado de carga mínimo necessário é de 80%.</tu>
+	<tu xmlns:lang="ptb">O estado de carga mínimo necessário é 80%.</tu>
+	<tu xmlns:lang="rus">Минимальный требуемый уровень заряда составляет 80 %.</tu>
+	<tu xmlns:lang="esp">El estado de carga mínimo necesario es del 80%.</tu>
+	<tu xmlns:lang="chs">要求的最低电荷状态为 80%。</tu>
+	<tu xmlns:lang="kor">최소 필요 충전 상태는 80%입니다.</tu>
+</tm>

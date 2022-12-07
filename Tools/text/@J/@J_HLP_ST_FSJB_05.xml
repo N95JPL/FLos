@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_FSJB_05">
+	<tu
+    xmlns:lang="eng"
+  >This routine attempts to detect and identify most of the front smart junction box's input/output circuit faults.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze routine probeert de meeste storingen in in/uitgangscircuits van de voorste intelligente stroomverdeeldoos te detecteren en te identificeren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ce programme tente de détecter et d'identifier la plupart des défauts dans les circuits d'entrée/sortie du boîtier de raccordement intelligent avant.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Diese Routine versucht, die meisten Störungen der Eingangs-/Ausgangskreise der intelligenten Verteilerbox vorne nachzuweisen und zu identifizieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa procedura cerca di rilevare e identificare la maggior parte dei guasti dei circuiti di input/output della scatola di giunzione intelligente anteriore.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >このルーチンはフロント スマート ジャンクション ボックスのインプット／アウトプット サーキット故障のほとんどの検出および特定を試行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta rotina tenta detectar e identificar a maior parte das avarias nos circuitos de entrada/saída da caixa de derivação inteligente dianteira.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Essa rotina tenta detectar e identificar a maior parte das falhas no circuito de entrada/saída da caixa de passagem inteligente dianteira.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При данной процедуре производится определение и идентификация большинства неисправностей входной/выходной цепи передней автоматической распределительной коробки.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta rutina tiene por objetivo detectar e identificar la mayoría de los defectos de circuitos de entrada/salida de la caja de conexiones inteligente delantera.</tu>
+	<tu
+    xmlns:lang="chs"
+  >这一常规程序试图检测并找出大多数前智能接线盒的输入/输出电路故障。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 루틴에서는 프론트 스마트 정션 박스의 입/출력 회로 고장을 대부분 감지하고 식별합니다.</tu>
+</tm>

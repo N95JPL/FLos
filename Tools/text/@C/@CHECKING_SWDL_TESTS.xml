@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CHECKING_SWDL_TESTS">
+	<tu
+    xmlns:lang="eng"
+  >Checking if any tests in selected menu require software download</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleert of tests in geselecteerd menu softwaredownloads vereisen</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contrôle pour savoir si l'un des tests dans le menu sélectionné nécessite un téléchargement de logiciel</tu>
+	<tu
+    xmlns:lang="deu"
+  >Prüfung, ob für die Tests im ausgewählten Menü ein Software-Download erforderlich ist</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllo in corso per stabilire se le prove nel menu selezionato richiedono lo scaricamento di software</tu>
+	<tu
+    xmlns:lang="jpn"
+  >選択されたメニューのテストでソ\フトウェアのダウンロードを必要とするものがないかチェックしています</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verificar se algum dos testes no menu seleccionado necessita de transferência de software</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verificar se algum teste no menu selecionado requer download de software</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполняется проверка, требуется ли загрузка программного обеспечения для тестов в выбранном меню</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobar si alguna de las pruebas del menú seleccionado requiere una descarga de software</tu>
+	<tu xmlns:lang="chs">检查选定菜单中是否有任何测试需要软件下载</tu>
+	<tu
+    xmlns:lang="kor"
+  >선택한 메뉴에 있는 테스트에 소프트웨어 다운로드가 필요한지 점검 중</tu>
+</tm>

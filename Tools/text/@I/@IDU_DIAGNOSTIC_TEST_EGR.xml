@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IDU_DIAGNOSTIC_TEST_EGR">
+	<tu
+    xmlns:lang="eng"
+  >Inline diagnostic unit 2 diagnostic test  -  Exhaust gas recirculation valve</tu>
+	<tu
+    xmlns:lang="nld"
+  >Diagnosetest inline diagnostische eenheid 2 - Uitlaatgasrecirculatieklep</tu>
+	<tu
+    xmlns:lang="fra"
+  >Test de diagnostic de l'unité de diagnostic en ligne 2 - Soupape de recyclage des gaz d'échappement</tu>
+	<tu
+    xmlns:lang="deu"
+  >Inline-Diagnosegerät 2 Diagnosetest – Abgasrückführungsventil</tu>
+	<tu
+    xmlns:lang="ita"
+  >Prova diagnostica dell'unità diagnostica in linea 2 - Valvola di ricircolo gas di scarico</tu>
+	<tu
+    xmlns:lang="jpn"
+  >インライン診断ユニット 2 診断テスト - エキゾースト ガス再循環バルブ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Teste de diagnóstico da unidade de diagnóstico em linha 2 - Válvula de recirculação dos gases de escape</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Teste de diagnóstico da unidade 2 de diagnóstico em linha - Válvula de recirculação do gás do escapamento (EGR)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Диагностическая проверка с помощью встроенного диагностического блока 2 — клапан системы рециркуляции отработавших газов</tu>
+	<tu
+    xmlns:lang="esp"
+  >Prueba de diagnóstico de la unidad de diagnóstico en línea 2 - Válvula de recirculación de gases de escape</tu>
+	<tu xmlns:lang="chs">联机诊断单元 2 诊断测试 - 废气再循环阀</tu>
+	<tu xmlns:lang="kor">인라인 진단 장치 2 진단 테스트 - 배기 가스 재순환 밸브</tu>
+</tm>

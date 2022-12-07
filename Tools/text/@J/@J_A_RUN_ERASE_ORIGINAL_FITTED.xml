@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_RUN_ERASE_ORIGINAL_FITTED">
+	<tu
+    xmlns:lang="eng"
+  >Run 'erase all existing keys' with the original instrument cluster fitted to the vehicle. This application can be found within 'Set up and Configuration - Security'. </tu>
+	<tu
+    xmlns:lang="nld"
+  >Voer de toepassing voor het wissen van alle bestaande sleutels uit met de instrumentengroep, die oorspronkelijk in het voertuig was geïnstalleerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Exécutez l'application ?d'effacement de toutes les clés existantes? avec le tableau de bord d'origine monté sur le véhicule.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bei ins Fahrzeug eingebautem Original-Kombiinstrument die Anwendung 'Erase all existing keys' (alle vorhandenen Schlüssel löschen) laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Eseguire l'applicazione 'cancellare tutte le chiavi esistenti' con il gruppo strumenti originale montato sul veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両に元々取り付けられていたインストルメント クラスタで「現存キーの全消去」を実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Correr a aplicação 'apagar todas as chaves existentes' com o grupo de instrumentos original montado no veículo.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Executar apagar todas as chaves existentes com o conjunto de instrumentos original instalado no veículo. Esse aplicativo pode ser encontrado em Configuração - Segurança. </tu>
+	<tu
+    xmlns:lang="rus"
+  >Установите панель приборов в автомобиль изначально установленную на заводе и запустите приложение 'Удалить все имеющиеся ключи'.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ejecutar la aplicación erase all existing keys (borrado de todas las llaves existentes) con el cuadro de instrumentos original montado en el vehículo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在给车辆装配好原有组合仪表的情况下，运行‘擦除所有现存钥匙’应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량에 원래 계기판이 장착된 상태에서 '기존 키 전부 삭제'를 실행하십시오. '설정 및 구성 - 보안' 내에서 이 애플리케이션을 찾을 수 있습니다. </tu>
+</tm>

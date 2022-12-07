@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_NO_HEAT_STER_WHEEL">
+	<tu xmlns:lang="eng">No heated steering wheel</tu>
+	<tu xmlns:lang="nld">Zonder verwarmd stuurwiel</tu>
+	<tu xmlns:lang="fra">Sans volant chauffant</tu>
+	<tu xmlns:lang="deu">Kein beheiztes Lenkrad</tu>
+	<tu xmlns:lang="ita">Senza volante riscaldato</tu>
+	<tu xmlns:lang="jpn">ステアリング ホイール ヒーターなし</tu>
+	<tu xmlns:lang="ptg">Sem volante aquecido</tu>
+	<tu xmlns:lang="ptb">Sem volante aquecido</tu>
+	<tu xmlns:lang="rus">Рулевое колесо с подогревом не установлено</tu>
+	<tu xmlns:lang="esp">Sin volante calefactado</tu>
+	<tu xmlns:lang="chs">无加热方向盘</tu>
+	<tu xmlns:lang="kor">열선내장 스티어링 휠 없음</tu>
+</tm>

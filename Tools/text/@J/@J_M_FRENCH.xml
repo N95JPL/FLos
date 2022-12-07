@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_FRENCH">
+	<tu xmlns:lang="eng">French</tu>
+	<tu xmlns:lang="nld">Frans</tu>
+	<tu xmlns:lang="fra">Francais</tu>
+	<tu xmlns:lang="deu">Französisch</tu>
+	<tu xmlns:lang="ita">Francese</tu>
+	<tu xmlns:lang="jpn">フラ・ス語</tu>
+	<tu xmlns:lang="ptg">Francês</tu>
+	<tu xmlns:lang="ptb">Francês</tu>
+	<tu xmlns:lang="rus">Французский</tu>
+	<tu xmlns:lang="esp">Francés</tu>
+	<tu xmlns:lang="chs">法国</tu>
+	<tu xmlns:lang="kor">프랑스어</tu>
+</tm>

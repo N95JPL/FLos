@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ImmobLearnPass$I">
+	<tu xmlns:lang="eng">Immobilization learn successful.</tu>
+	<tu xmlns:lang="nld">Inleren van startblokkering met succes uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Apprentissage immobilisation réussi.</tu>
+	<tu xmlns:lang="deu">Wegfahrsperre - Erlernung erfolgreich.</tu>
+	<tu xmlns:lang="ita">Apprendimento immobilizzazione riuscito.</tu>
+	<tu xmlns:lang="jpn">イモビライゼーション学習、正常完了</tu>
+	<tu xmlns:lang="ptg">Imobilização programada com sucesso.</tu>
+	<tu xmlns:lang="ptb">Memorização de imobilização bem sucedida.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Обучение системы блокировки запуска двигателя проведено успешно.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aprendizaje del sistema de inmovilización satisfactorio.</tu>
+	<tu xmlns:lang="chs">防盗锁止记忆成功。</tu>
+	<tu xmlns:lang="kor">이모빌라이제이션 학습 성공</tu>
+</tm>

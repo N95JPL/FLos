@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart62">
+	<tu
+    xmlns:lang="eng"
+  >Using the approved diagnostic system correct the car configuaration file or update to the correct software.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Corrigeer met behulp van het door de fabrikant goedgekeurde diagnosesysteem het voertuigconfiguratiebestand of werk bij naar de juiste software.</tu>
+	<tu
+    xmlns:lang="fra"
+  >À l'aide du système de diagnostic approuvé, corrigez le fichier de configuration du véhicule ou mettez à jour le logiciel.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Unter Verwendung des vom Hersteller zugelassenen Diagnosesystems die Fahrzeug-Konfigurationsdatei korrigieren oder auf die korrekte Softwareversion aktualisieren.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Utilizzando il sistema diagnostico approvato, correggere il file di configurazione del veicolo o eseguire l'aggiornamento alla versione software corretta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >承認された診断システムを使用して、車両設定ファイルを訂正するか、正しいソフトウェアにアップデートします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Utilizando o sistema de diagnóstico aprovado, corrija o ficheiro de configuração do veículo proceda à atualização para o software correto.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Utilizando o sistema de diagnóstico aprovado, corrija o arquivo de configuração do carro ou atualize para o software correto.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Использование диагностической системы, одобренной изготовителем, исправит файл конфигурации автомобиля или установит новейшую версию программного обеспечения.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Utilizando el sistema de diagnóstico homologado, corrija el archivo de configuración del vehículo o actualice el software correcto.</tu>
+	<tu xmlns:lang="chs">使用认可的诊断系统矫正车辆配置文件或更新至正确的软件。</tu>
+	<tu
+    xmlns:lang="kor"
+  >승인 진단 시스템을 사용하여 차량 구성 파일을 수정하거나 올바른 소프트웨어로 업데이트하십시오.</tu>
+</tm>

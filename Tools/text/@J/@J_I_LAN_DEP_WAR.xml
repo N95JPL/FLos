@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LAN_DEP_WAR">
+	<tu xmlns:lang="eng">Lane departure warning</tu>
+	<tu xmlns:lang="nld">Waarschuwing bij verlaten rijstrook</tu>
+	<tu xmlns:lang="fra">Avertissement de changement de file</tu>
+	<tu xmlns:lang="deu">Spurwechselwarnung</tu>
+	<tu xmlns:lang="ita">Avvertenza uscita da corsia</tu>
+	<tu xmlns:lang="jpn">車線逸脱ワーニング</tu>
+	<tu xmlns:lang="ptg">Aviso de saída de faixa</tu>
+	<tu xmlns:lang="ptb">Aviso de afastamento da faixa de rodagem</tu>
+	<tu xmlns:lang="rus">Предупреждение о перестроении из полосы движения</tu>
+	<tu xmlns:lang="esp">Aviso de salida de carril</tu>
+	<tu xmlns:lang="chs">驶离车道报警</tu>
+	<tu xmlns:lang="kor">차선 이탈 경고</tu>
+</tm>

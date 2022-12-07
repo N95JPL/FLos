@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SUGGESTED_INVESTIGATIVE_ACTION">
+	<tu xmlns:lang="eng">Suggested investigative actions:</tu>
+	<tu xmlns:lang="nld">Geadviseerde onderzoeksmaatregelen:</tu>
+	<tu xmlns:lang="fra">Suggestions de recherches à mener :</tu>
+	<tu xmlns:lang="deu">Empfohlene Maßnahmen für die Untersuchung:</tu>
+	<tu xmlns:lang="ita">Azioni di indagine suggerite:</tu>
+	<tu xmlns:lang="jpn">推奨される点検処置：</tu>
+	<tu xmlns:lang="ptg">Acções de investigação sugeridas:</tu>
+	<tu xmlns:lang="ptb">Ações investigativas sugeridas:</tu>
+	<tu xmlns:lang="rus">Рекомендуемые действия для проверки:</tu>
+	<tu xmlns:lang="esp">Acciones de investigación sugeridas:</tu>
+	<tu xmlns:lang="chs">建议采取的调查措施：</tu>
+	<tu xmlns:lang="kor">제안된 조사 작업:</tu>
+</tm>

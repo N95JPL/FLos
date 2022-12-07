@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PASSIVE_IMMOB_EN">
+	<tu xmlns:lang="eng">Passive immobilisation enabled</tu>
+	<tu xmlns:lang="nld">Passieve immobilisatie actief</tu>
+	<tu xmlns:lang="fra">Immobilisation passive activée</tu>
+	<tu xmlns:lang="deu">Passive Immobilisierung eingeschaltet</tu>
+	<tu xmlns:lang="ita">Immobilizzazione passiva abilitata</tu>
+	<tu xmlns:lang="jpn">パッシブ イモビライゼーション作動選択。</tu>
+	<tu xmlns:lang="ptg">Imobilização passiva activada</tu>
+	<tu xmlns:lang="ptb">Imobilização passiva ativada</tu>
+	<tu xmlns:lang="rus">Пассивная блокировка запуска двигателя включена</tu>
+	<tu xmlns:lang="esp">Habilitada la inmovilización pasiva</tu>
+	<tu xmlns:lang="chs">无源止动已启用</tu>
+	<tu xmlns:lang="kor">수동형 이모빌라이제이션이 활성화됨</tu>
+</tm>

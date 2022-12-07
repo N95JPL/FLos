@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_A_INS_KEY_TO_PROG">
+	<tu xmlns:lang="eng">Insert the key to be programmed.</tu>
+	<tu xmlns:lang="nld">Steek de sleutel in die u wilt programmeren.</tu>
+	<tu xmlns:lang="fra">Insérez la clé à programmer.</tu>
+	<tu xmlns:lang="deu">Den zu programmierenden Schlüssel einstecken.</tu>
+	<tu xmlns:lang="ita">Inserire la chiave da programmare.</tu>
+	<tu xmlns:lang="jpn">プログラムするキーを挿入しなさい。</tu>
+	<tu xmlns:lang="ptg">Introduzir a chave a ser programada.</tu>
+	<tu xmlns:lang="ptb">Insira a chave a ser programada.</tu>
+	<tu xmlns:lang="rus">Вставьте подлежащий программированию ключ.</tu>
+	<tu xmlns:lang="esp">Insertar la llave que se va a programar.</tu>
+	<tu xmlns:lang="chs">插入待编程的车钥。</tu>
+	<tu xmlns:lang="kor">프로그래밍할 키를 삽입하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TARGET_ID_TRANSFER">
+	<tu xmlns:lang="eng">Target ID transfer</tu>
+	<tu xmlns:lang="nld">Overdracht van gevraagde ID</tu>
+	<tu xmlns:lang="fra">Transfert d'ID cible</tu>
+	<tu xmlns:lang="deu">Ziel-ID-Übertragung</tu>
+	<tu xmlns:lang="ita">Trasferimento ID target.</tu>
+	<tu xmlns:lang="jpn">ターゲット ID トランスファー</tu>
+	<tu xmlns:lang="ptg">Transferência de identificação (ID) alvo</tu>
+	<tu xmlns:lang="ptb">Transferência de ID do alvo de segurança</tu>
+	<tu xmlns:lang="rus">Передача заданного идентификатора</tu>
+	<tu xmlns:lang="esp">Transferencia de identificación de objetivo</tu>
+	<tu xmlns:lang="chs">目标ID传输</tu>
+	<tu xmlns:lang="kor">대상 ID 전송</tu>
+</tm>

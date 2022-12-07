@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PowerSupplySystemStatus">
+	<tu xmlns:lang="eng">Power supply system status</tu>
+	<tu xmlns:lang="nld">Status voedingssysteem</tu>
+	<tu xmlns:lang="fra">État du système d'alimentation</tu>
+	<tu xmlns:lang="deu">Versorgungssystem-Status</tu>
+	<tu xmlns:lang="ita">Stato sistema di alimentazione</tu>
+	<tu xmlns:lang="jpn">電源供給システム ステータス</tu>
+	<tu xmlns:lang="ptg">Estado do sistema de alimentação</tu>
+	<tu xmlns:lang="ptb">Status do sistema de fonte de alimentação</tu>
+	<tu xmlns:lang="rus">Состояние системы электропитания</tu>
+	<tu xmlns:lang="esp">Estado del sistema de alimentación</tu>
+	<tu xmlns:lang="chs">电源系统状态</tu>
+	<tu xmlns:lang="kor">전원 공급 시스템 상태</tu>
+</tm>

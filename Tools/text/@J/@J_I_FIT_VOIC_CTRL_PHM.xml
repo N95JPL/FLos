@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FIT_VOIC_CTRL_PHM">
+	<tu
+    xmlns:lang="eng"
+  >Fitted with voice control (hosted via the cellular telephone module).</tu>
+	<tu
+    xmlns:lang="nld"
+  >Uitgerust met spraakactivering ('hosted' via de regelmodule van mobiele telefoon).</tu>
+	<tu
+    xmlns:lang="fra"
+  >Equipé de la commande vocale (hébergée par le biais du module de téléphone cellulaire).</tu>
+	<tu
+    xmlns:lang="deu"
+  >Mit Sprachsteuerung ausgestattet (über Mobiltelefon-Steuergerät bereitgestellt).</tu>
+	<tu
+    xmlns:lang="ita"
+  >Comando a viva voce in dotazione (risiede nel modulo del telefono cellulare).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >音声コントロール装備 (セルラー ホン モジュールによって受け入れ)</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Equipado com comando por voz (através do módulo do telemóvel).</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Equipado com controle de voz (hospedado por módulo de telefone celular).</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установлена система голосового управления (реализуется через блок сотового телефона).</tu>
+	<tu
+    xmlns:lang="esp"
+  >Cuenta con activación por voz (funciona a través del módulo del teléfono móvil).</tu>
+	<tu xmlns:lang="chs">安装了语音控制器（通过蜂窝电话模块托管）。</tu>
+	<tu xmlns:lang="kor">음성 컨트롤이 장착됨(휴대 전화 모듈을 통해 호스팅)</tu>
+</tm>

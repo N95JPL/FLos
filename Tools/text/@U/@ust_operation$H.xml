@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ust_operation$H">
+	<tu xmlns:lang="eng">Test for the correct operation of :</tu>
+	<tu xmlns:lang="nld">Controleer de correcte werking van:</tu>
+	<tu xmlns:lang="fra">Vérifiez le bon fonctionnement des composants suivants
+:</tu>
+	<tu xmlns:lang="deu">Funktionsprüfung von:</tu>
+	<tu xmlns:lang="ita">Controllare il funzionamento di:</tu>
+	<tu xmlns:lang="jpn">作動ﾃｽﾄ：</tu>
+	<tu xmlns:lang="ptg">Verificar o funcionamento correcto de:</tu>
+	<tu xmlns:lang="ptb">Teste a operação correta do :</tu>
+	<tu xmlns:lang="rus">Проверьте работоспособность:</tu>
+	<tu xmlns:lang="esp">Probar el funcionamiento correcto de:</tu>
+	<tu xmlns:lang="chs">测试下列部件的正常运行情况：</tu>
+	<tu xmlns:lang="kor">다음 구성 요소가 올바르게 작동하는지 테스트하십시오.</tu>
+</tm>

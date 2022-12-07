@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_POWER_IDS">
+	<tu
+    xmlns:lang="eng"
+  >Please connect mains power supply to the diagnostic tester</tu>
+	<tu xmlns:lang="nld">Sluit de diagnosetester aan op de netvoeding</tu>
+	<tu
+    xmlns:lang="fra"
+  >Veuillez raccorder l'outil de diagnostic à l'alimentation secteur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte die Netzversorgung an den Diagnosetester anschließen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Collegare l'alimentazione di rete all'apparecchiatura di prova diagnostica</tu>
+	<tu xmlns:lang="jpn">主電源供給を診断テスターに接続しなさい</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Ligue a alimentação principal ao equipamento de diagnóstico</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conecte a fonte de alimentação principal ao verificador de diagnóstico</tu>
+	<tu xmlns:lang="rus">Подключите диагностический тестер к сети питания</tu>
+	<tu
+    xmlns:lang="esp"
+  >Enchufar el cable de alimentación al comprobador de diagnosis</tu>
+	<tu xmlns:lang="chs">请将主电源连接到诊断测试仪</tu>
+	<tu xmlns:lang="kor">주 전원 공급 장치를 진단 테스터에 연결하십시오.</tu>
+</tm>

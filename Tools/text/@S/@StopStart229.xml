@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart229">
+	<tu
+    xmlns:lang="eng"
+  >Open the drivers door and the hood and allow the engine to idle for ten minutes.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Open het bestuurdersportier en de motorkap en laat de motor gedurende tien minuten stationair draaien.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ouvrez la porte conducteur et le capot, et laissez tourner le moteur au ralenti pendant dix minutes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Fahrertür und die Motorhaube öffnen und den Motor zehn Minuten lang im Leerlauf laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Aprire la portiera del conducente e il cofano e lasciare girare il motore al regime del minimo per dieci minuti.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >運転席ドアとボンネットを開けて、エンジンをアイドルで 10 分間運転します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Abra a porta do condutor e o capô e deixe o motor trabalhar ao ralenti durante dez minutos.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Abra a porta do motorista e o capô e mantenha o motor em marcha lenta por dez minutos.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Откройте дверь водителя и капот и дайте двигателю поработать в режиме холостого хода в течение десяти минут.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Abra la puerta del conductor y el capó, y deje el motor al ralentí durante diez minutos.</tu>
+	<tu xmlns:lang="chs">打开驾驶员车门和发动机罩，让发动机怠速运转十分钟。</tu>
+	<tu
+    xmlns:lang="kor"
+  >운전석 도어와 후드를 열고 엔진을 10분간 공회전하십시오.</tu>
+</tm>

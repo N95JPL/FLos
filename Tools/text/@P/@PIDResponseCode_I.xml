@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@PIDResponseCode_I">
+	<tu xmlns:lang="eng">Code</tu>
+	<tu xmlns:lang="nld">Code</tu>
+	<tu xmlns:lang="fra">Code</tu>
+	<tu xmlns:lang="deu">Code</tu>
+	<tu xmlns:lang="ita">Codice</tu>
+	<tu xmlns:lang="jpn">ｺーﾄﾞ</tu>
+	<tu xmlns:lang="ptg">Código</tu>
+	<tu xmlns:lang="ptb">Código</tu>
+	<tu xmlns:lang="rus">Код</tu>
+	<tu xmlns:lang="esp">Código</tu>
+	<tu xmlns:lang="chs">代码</tu>
+	<tu xmlns:lang="kor">코드</tu>
+</tm>

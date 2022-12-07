@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_ENG_CCF_UPLOAD2">
+	<tu
+    xmlns:lang="eng"
+  >If you choose to download any changes you make to the configuration, the vehicle may become disabled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als u ervoor kiest wijzigingen te downloaden die u in de configuratie aanbrengt, kan het voertuig buiten werking worden gesteld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Si vous décidez de télécharger les modifications que vous avez apportées à la configuration, le véhicule peut subir des pannes.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls Sie sich entscheiden, von Ihnen an der Konfiguration vorgenommene Änderungen herunterzuladen, könnte das Fahrzeug fahruntüchtig werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se si sceglie di scaricare nella configurazione le eventuali modifiche eseguite, il veicolo potrebbe venire disattivato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コンフィギュレーションへ適用する何らかの変更のダウンロードを選択すると、車両が運行不能\になる可能\性があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se optar por descarregar quaisquer alterações que faça na configuração, o veículo poderá ficar desactivado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se você optar por baixar todas as mudanças feitas na configuração, o veículo poderá ser desativado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если вы решите загрузить какие-либо изменения, вносимые в конфигурацию, автомобиль может заблокироваться.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si decide descargar los cambios realizados en la configuración, es posible que el vehículo se desactive.</tu>
+	<tu xmlns:lang="chs">'若选择下载您对任何配置所做的更改，则车辆可能被禁用。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >구성에서 변경한 모든 사항을 다운로드할 경우 차량이 비활성화될 수 있습니다.</tu>
+</tm>

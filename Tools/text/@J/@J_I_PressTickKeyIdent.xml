@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PressTickKeyIdent">
+	<tu xmlns:lang="eng">Press tick to identify another key.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Druk op de afvinktoets om een andere sleutel te identificeren.</tu>
+	<tu xmlns:lang="fra">Appuyez sur la coche pour identifier une autre clé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Um einen anderen Schlüssel zu identifizieren, das Häkchen antippen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Premere il tasto di spunta per identificare un'altra chiave.</tu>
+	<tu xmlns:lang="jpn">ティックを押してもう 1 つのキーを特定しなさい。</tu>
+	<tu xmlns:lang="ptg">Prima o sinal de visto para identificar outra chave.</tu>
+	<tu xmlns:lang="ptb">Pressione OK para identificar uma outra chave.</tu>
+	<tu xmlns:lang="rus">Нажмите галочку для идентификации следующего ключа.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pulsar el botón de continuar para identificar otra llave.</tu>
+	<tu xmlns:lang="chs">按勾号识别另一把钥匙。</tu>
+	<tu xmlns:lang="kor">체크 표시를 눌러서 다른 키를 확인하십시오.</tu>
+</tm>

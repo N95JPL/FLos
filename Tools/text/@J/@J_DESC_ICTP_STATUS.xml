@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DESC_ICTP_STATUS">
+	<tu
+    xmlns:lang="eng"
+  >InControl Touch Pro Software Download Health Check Status.</tu>
+	<tu xmlns:lang="nld">Status van download InControl Touch Pro-software.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Statut du contrôle d'état du téléchargement du logiciel InControl Touch Pro.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Zustandsprüfungsstatus InControl Touch Pro Softwaredownload.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Stato delle condizioni del download del software InControl Touch Pro.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >InControl Touch Pro ソフトウェア ダウンロード正常性点検ステータス。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Estado da verificação do estado da transferência do software InControl Touch Pro.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Status de Verificação de Condição do Download do Software InControl Touch Pro.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверка состояния загрузки программного обеспечения InControl Touch Pro.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Estado de la comprobación de la descarga de software InControl Touch Pro.</tu>
+	<tu xmlns:lang="chs">InControl 智能驭领 尊享触控软件下载运行状况检查状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >InControl Touch Pro 소프트웨어 다운로드 상태 점검 상황.</tu>
+</tm>

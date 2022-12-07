@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ECC_HIGH_PERF">
+	<tu xmlns:lang="eng">Electronic climate control  -  High performance</tu>
+	<tu xmlns:lang="nld">Elektronische climate control  -  Met hoge prestaties</tu>
+	<tu xmlns:lang="fra">Climatisation électronique  -  Performance élevée</tu>
+	<tu xmlns:lang="deu">Elektronische Klimaregelung  -  Hohe Leistung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllo elettronico del sistema di climatizzazione  -  Alte prestazioni</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エレクトロニック エア コンディショニング  －  ハイ パフォーマンス</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Comando electrónico da climatização  -  Desempenho elevado</tu>
+	<tu xmlns:lang="ptb">Controle de temperatura eletrônico  -  Alto desempenho</tu>
+	<tu
+    xmlns:lang="rus"
+  >Электронное управление микроклиматом  -  Улучшенные характеристики</tu>
+	<tu
+    xmlns:lang="esp"
+  >Control de climatización electrónico  -  Altas prestaciones</tu>
+	<tu xmlns:lang="chs">电子气候控制  -  高性能</tu>
+	<tu xmlns:lang="kor">전자식 실내 온도 조절 시스템  -  고성능</tu>
+</tm>

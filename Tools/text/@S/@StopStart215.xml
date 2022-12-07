@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart215">
+	<tu
+    xmlns:lang="eng"
+  >Check 'power status time data capture - Vehicle battery state of charge - Estimated (PID 4028)' on the Diagnostic Tool datalogger.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Controleer 'Vastlegging gegevens voedingsstatus in de tijd - Laadtoestand accu - Geschat (PID 4028)' op de SDD-datalogger.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cochez l'option 'Capture de données temporelles sur l'état de l'alimentation - État de charge de la batterie du véhicule - Estimation (PID 4028)' sur l'enregistreur de données du SDD.</tu>
+	<tu
+    xmlns:lang="deu"
+  >„Zeitdatenerfassung Versorgungsstatus – Ladezustand Fahrzeugbatterie – geschätzt (PID 4028)“ im SDD-Datalogger prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Controllare sul datalogger SDD l'acquisizione dati tempo stato di alimentazione - Stato di carica della batteria del veicolo - Stimato (PID 4028).</tu>
+	<tu
+    xmlns:lang="jpn"
+  >SDD データロガーで、「電源ステータス時間データ捕捉 - 車両バッテリー充電状態 - 予測 (PID 4028)」を確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Verifique a captura de dados temporais do estado da alimentação - estado de carga da bateria do veículo - estimada (PID 4028) no registador de dados do SDD.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Verifique power status time data capture - vehicle battery state of charge - estimated (PID 4028) (Captura de dados de tempo de status de alimentação - estado de carga da bateria do veículo - estimado (PID 4028)) no datalogger do SDD.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Проверьте наличие сообщения Сбор данных о состоянии питания за период времени - уровень заряда АКБ автомобиля - расчетное значение (PID 4028) в регистраторе данных SDD.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Consulte Captura de datos temporales del estado de alimentación - Estado de carga de la batería del vehículo - Estimación (PID 4028) en Datalogger del SDD.</tu>
+	<tu
+    xmlns:lang="chs"
+  >检查 SDD 数据记录器上的“电源状态时间数据捕获 - 车辆蓄电池荷电状态 - 估计值 (PID 4028)”。</tu>
+	<tu
+    xmlns:lang="kor"
+  >SDD Datalogger에서 '전원 상태 시간 데이터 캡처 - 차량 배터리 충전 상태 - 추정치(PID 4028)'를 확인하십시오.</tu>
+</tm>

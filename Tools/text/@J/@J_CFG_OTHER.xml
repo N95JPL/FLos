@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CFG_OTHER">
+	<tu xmlns:lang="eng">Other</tu>
+	<tu xmlns:lang="nld">Anders</tu>
+	<tu xmlns:lang="fra">Autre</tu>
+	<tu xmlns:lang="deu">Andere</tu>
+	<tu xmlns:lang="ita">Altro</tu>
+	<tu xmlns:lang="jpn">その他</tu>
+	<tu xmlns:lang="ptg">Outro</tu>
+	<tu xmlns:lang="ptb">Outros</tu>
+	<tu xmlns:lang="rus">Прочее</tu>
+	<tu xmlns:lang="esp">Otros</tu>
+	<tu xmlns:lang="chs">其他</tu>
+	<tu xmlns:lang="kor">기타</tu>
+</tm>

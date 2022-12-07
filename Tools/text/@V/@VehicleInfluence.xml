@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@VehicleInfluence">
+	<tu xmlns:lang="eng">Vehicle Influence</tu>
+	<tu xmlns:lang="nld">Invloed van voertuig</tu>
+	<tu xmlns:lang="fra">Influence sur le véhicule</tu>
+	<tu xmlns:lang="deu">Fahrzeugeinfluss</tu>
+	<tu xmlns:lang="ita">Influenza del veicolo</tu>
+	<tu xmlns:lang="jpn">車両への影響</tu>
+	<tu xmlns:lang="ptg">Influência do veículo</tu>
+	<tu xmlns:lang="ptb">Influência do veículo</tu>
+	<tu xmlns:lang="rus">Влияние автомобиля</tu>
+	<tu xmlns:lang="esp">Influencia del vehículo</tu>
+	<tu xmlns:lang="chs">车辆影响</tu>
+	<tu xmlns:lang="kor">차량 영향</tu>
+</tm>

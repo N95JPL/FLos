@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUX_LIGHTS">
+	<tu xmlns:lang="eng">Auxiliary lamps</tu>
+	<tu xmlns:lang="nld">Hulpverlichting </tu>
+	<tu xmlns:lang="fra">Feux auxiliaires </tu>
+	<tu xmlns:lang="deu">Zusatzscheinwerfer </tu>
+	<tu xmlns:lang="ita">Luci ausiliarie</tu>
+	<tu xmlns:lang="jpn">補助ランプ</tu>
+	<tu xmlns:lang="ptg">Luzes auxiliares</tu>
+	<tu xmlns:lang="ptb">Lâmpadas auxiliares</tu>
+	<tu xmlns:lang="rus">Дополнительные лампы</tu>
+	<tu xmlns:lang="esp">Luces auxiliares</tu>
+	<tu xmlns:lang="chs">辅助灯</tu>
+	<tu xmlns:lang="kor">보조 램프</tu>
+</tm>

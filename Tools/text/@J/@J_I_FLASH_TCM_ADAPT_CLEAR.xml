@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FLASH_TCM_ADAPT_CLEAR">
+	<tu xmlns:lang="eng">Transmission control module adaptation clear.</tu>
+	<tu xmlns:lang="nld">Aanpassing van transmissieregelmodule wissen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Effacement d'adaptation du module de commande de la transmission</tu>
+	<tu xmlns:lang="deu">Anpassung Getriebesteuermodul löschen.</tu>
+	<tu xmlns:lang="ita">Adattamento modulo comando cambio azzerato.</tu>
+	<tu xmlns:lang="jpn">トランスミッション コントロール モジュール補正クリア</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Apagar a adaptação do módulo de comando da transmissão.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Adaptação apagada do módulo de controle da transmissão.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Значения корректировки блока управления коробкой передач удалены.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Adaptación del módulo de control de la transmisión borrada.</tu>
+	<tu xmlns:lang="chs">变速器控制模块自适应清除。</tu>
+	<tu xmlns:lang="kor">변속기 컨트롤 모듈 어댑테이션 삭제</tu>
+</tm>

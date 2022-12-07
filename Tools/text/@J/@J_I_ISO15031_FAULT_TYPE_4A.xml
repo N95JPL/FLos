@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ISO15031_FAULT_TYPE_4A">
+	<tu
+    xmlns:lang="eng"
+  >System internal failure - incorrect component installed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Intern defect in systeem - verkeerde component geïnstalleerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Défaillance interne du système - composant installé incorrect.</tu>
+	<tu xmlns:lang="deu">Interne Systemstörung - falsches Bauteil eingebaut.</tu>
+	<tu xmlns:lang="ita">Guasto interno sistema - montato componente sbagliato.</tu>
+	<tu xmlns:lang="jpn">システム内部故障 － 不正コンポーネント取り付け済み</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Falha interna no sistema - componente incorrecto instalado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Falha interna do sistema - componente incorreto instalado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Внутренний отказ системы - установлен несоответствующий компонент.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fallo interno del sistema: componente incorrecto montado.</tu>
+	<tu xmlns:lang="chs">系统内部故障 - 安装了不正确的元件。</tu>
+	<tu xmlns:lang="kor">시스템 내부 고장 - 잘못된 구성 요소가 장착됨</tu>
+</tm>

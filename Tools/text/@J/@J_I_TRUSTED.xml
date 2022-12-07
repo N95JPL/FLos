@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TRUSTED">
+	<tu xmlns:lang="eng">Trusted</tu>
+	<tu xmlns:lang="nld">Betrouwbaar</tu>
+	<tu xmlns:lang="fra">Validé</tu>
+	<tu xmlns:lang="deu">Vertrauenswürdig</tu>
+	<tu xmlns:lang="ita">Fidata</tu>
+	<tu xmlns:lang="jpn">信頼可</tu>
+	<tu xmlns:lang="ptg">Origem conhecida</tu>
+	<tu xmlns:lang="ptb">Confiável</tu>
+	<tu xmlns:lang="rus">Надежный</tu>
+	<tu xmlns:lang="esp">De confianza</tu>
+	<tu xmlns:lang="chs">可信的</tu>
+	<tu xmlns:lang="kor">신뢰할 수 있음</tu>
+</tm>

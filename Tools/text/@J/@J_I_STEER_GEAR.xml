@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_STEER_GEAR">
+	<tu xmlns:lang="eng">Steering gear</tu>
+	<tu xmlns:lang="nld">Stuurinrichting</tu>
+	<tu xmlns:lang="fra">Boîtier de direction</tu>
+	<tu xmlns:lang="deu">Lenkgetriebe</tu>
+	<tu xmlns:lang="ita">Organi dello sterzo</tu>
+	<tu xmlns:lang="jpn">ステアリング ギア</tu>
+	<tu xmlns:lang="ptg">Caixa da direcção</tu>
+	<tu xmlns:lang="ptb">Sistema de direção</tu>
+	<tu xmlns:lang="rus">Рулевой механизм</tu>
+	<tu xmlns:lang="esp">Engranaje de dirección</tu>
+	<tu xmlns:lang="chs">转向齿轮</tu>
+	<tu xmlns:lang="kor">스티어링 기어</tu>
+</tm>

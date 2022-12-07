@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LAZY_LOCK_DOOR_KEY">
+	<tu xmlns:lang="eng">Lazy unlock from door key</tu>
+	<tu xmlns:lang="nld">Lui ontgrendelen vanaf portiersleutel</tu>
+	<tu xmlns:lang="fra">Déverrouillage confort par clé de porte.</tu>
+	<tu xmlns:lang="deu">Entriegeln mit Komforteinstieg über Türschloss</tu>
+	<tu xmlns:lang="ita">Sbloccaggio agevolato tramite chiave portiera</tu>
+	<tu xmlns:lang="jpn">ドア キーによるレイジー アンロック</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Destrancagem com adaptação automática (lazy unlock) com a chave da porta</tu>
+	<tu xmlns:lang="ptb">Destravamento lento pela chave da porta</tu>
+	<tu xmlns:lang="rus">Функция Lazy Unlock - общее отпирание ключом</tu>
+	<tu xmlns:lang="esp">Desbloqueo automático con llave de puerta</tu>
+	<tu xmlns:lang="chs">从车门钥匙进行便捷解锁</tu>
+	<tu xmlns:lang="kor">도어 키의 레이지 언록</tu>
+</tm>

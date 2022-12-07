@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_OPER_MESS">
+	<tu xmlns:lang="eng">Operator message</tu>
+	<tu xmlns:lang="nld">OPERATOR MEDEDELING</tu>
+	<tu xmlns:lang="fra">MESSAGE DE L'OPERATEUR</tu>
+	<tu xmlns:lang="deu">BEDIENERMELDUNG</tu>
+	<tu xmlns:lang="ita">MESSAGGIO DELL'OPERATORE</tu>
+	<tu xmlns:lang="jpn">ｵﾍﾟﾚーﾀへのﾒｯｾーｼﾞ</tu>
+	<tu xmlns:lang="ptg">Mensagem para o operador</tu>
+	<tu xmlns:lang="ptb">Mensagem do operador</tu>
+	<tu xmlns:lang="rus">Сообщение для оператора</tu>
+	<tu xmlns:lang="esp">MENSAJE DEL OPERARIO</tu>
+	<tu xmlns:lang="chs">操作人员消息</tu>
+	<tu xmlns:lang="kor">작업자 메시지</tu>
+</tm>

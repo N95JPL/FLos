@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CONFIG_APP_BELTMINDER">
+	<tu xmlns:lang="eng">Car configuration application belt minder</tu>
+	<tu xmlns:lang="nld">Voertuigconfiguratietoepassing van beltminder</tu>
+	<tu
+    xmlns:lang="fra"
+  >Application de configuration du véhicule - rappel de ceinture de sécurité</tu>
+	<tu
+    xmlns:lang="deu"
+  >Anwendung Fahrzeugkonfiguration - Sicherheitsgurtwarnung</tu>
+	<tu
+    xmlns:lang="ita"
+  >Applicazione configurazione veicolo - avvertenza cintura di sicurezza</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両コンフィギュレーション アプリケーション ベルトマインダー</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Aplicação de configuração do veículo - aviso do cinto de segurança </tu>
+	<tu
+    xmlns:lang="ptb"
+  >Aplicativo de configuração do carro - lembrete de cinto</tu>
+	<tu
+    xmlns:lang="rus"
+  >Приложение конфигурации автомобиля - сигнализатор непристегнутого ремня безопасности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Aplicación de configuración del vehículo: módulo de aviso del cinturón de seguridad</tu>
+	<tu xmlns:lang="chs">车辆配置应用程序 - 安全带提醒器</tu>
+	<tu xmlns:lang="kor">차량 구성 애플리케이션 벨트 마인더</tu>
+</tm>

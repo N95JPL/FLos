@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_READ_RPM">
+	<tu xmlns:lang="eng">Cannot read the RPM.</tu>
+	<tu xmlns:lang="nld">Kan het toerental niet lezen.</tu>
+	<tu xmlns:lang="fra">Impossible de lire le régime.</tu>
+	<tu xmlns:lang="deu">Umdrehungszahl kann nicht ausgelesen werden.</tu>
+	<tu xmlns:lang="ita">Impossibile leggere il numero di giri.</tu>
+	<tu xmlns:lang="jpn">RPM を読み取れません。</tu>
+	<tu xmlns:lang="ptg">Quénia</tu>
+	<tu xmlns:lang="ptb">Não é possível ler o RPM.</tu>
+	<tu xmlns:lang="rus">Невозможно считывание оборотов в минуту.</tu>
+	<tu xmlns:lang="esp">No se puede leer el valor de rpm.</tu>
+	<tu xmlns:lang="chs">不能读取转速。</tu>
+	<tu xmlns:lang="kor">RPM을 읽을 수 없습니다.</tu>
+</tm>

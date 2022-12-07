@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TAMPER_LED_DIS">
+	<tu xmlns:lang="eng">Tamper indication on the security LED is disabled</tu>
+	<tu
+    xmlns:lang="nld"
+  >De waarschuwings-LED voor onbevoegde toegang tot het beveiligingssysteem is uitgeschakeld</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'indication d'inviolabilité sur la diode de sécurité est désactivée</tu>
+	<tu
+    xmlns:lang="deu"
+  >Eingriffsanzeige über die Fahrzeugschutz-LED ist deaktiviert</tu>
+	<tu
+    xmlns:lang="ita"
+  >Indicazione di manomissione sul LED antifurto disattivata</tu>
+	<tu
+    xmlns:lang="jpn"
+  >セキュリティ LED の変更表\示は作動不可に設定されています。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A indicação de violação no LED de segurança está desactivada</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Indicação de violação no LED de segurança está desativada</tu>
+	<tu
+    xmlns:lang="rus"
+  >Индикация несанкционированного доступа на индикаторе охранной системы отключена</tu>
+	<tu
+    xmlns:lang="esp"
+  >La indicación de violación del LED del sistema de seguridad está inhabilitada</tu>
+	<tu xmlns:lang="chs">安全防盗LED上的干扰物指示已禁用</tu>
+	<tu xmlns:lang="kor">보안 LED의 무단 개조 표시가 비활성화됨</tu>
+</tm>

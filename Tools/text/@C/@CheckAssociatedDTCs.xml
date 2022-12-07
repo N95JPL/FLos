@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckAssociatedDTCs">
+	<tu
+    xmlns:lang="eng"
+  >If the status does not change check for associated faults and DTCs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als de status niet verandert, op verwante storingen en DTC's controleren.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'il n'y a pas de changement d'état, rechercher les défauts et les DTC associés.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wenn sich der Status nicht ändert, auf zugehörige Fehler und DTCs prüfen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se lo stato non cambia, controllare le anomalie e i DTC associati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステータスが変化しない場合、関連する故障と DTC がないか確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se o estado não se alterar, verifique se existem avarias e códigos de avaria (DTC) associados.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se o estado não se alterar, verifique se há falhas e DTCs associados</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если состояние не изменяется, проверьте наличие соответствующих неисправностей и кодов DTC.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si el estado no cambia, compruebe si existen fallos y DTC asociados.</tu>
+	<tu xmlns:lang="chs">如果状态不变化，则检查是否存在相关的故障和故障诊断码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >상태가 바뀌지 않으면 관련 고장 및 DTC가 있는지 점검하십시오.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SPORTS_BRK">
+	<tu xmlns:lang="eng">Sports brake</tu>
+	<tu xmlns:lang="nld">Stationcar.</tu>
+	<tu xmlns:lang="fra">Break</tu>
+	<tu xmlns:lang="deu">Kombi</tu>
+	<tu xmlns:lang="ita">Station wagon</tu>
+	<tu xmlns:lang="jpn">ステーション ワゴン</tu>
+	<tu xmlns:lang="ptg">Travagem desportiva</tu>
+	<tu xmlns:lang="ptb">Freio esportivo</tu>
+	<tu xmlns:lang="rus">Спортивные тормоза</tu>
+	<tu xmlns:lang="esp">Brake Familiar</tu>
+	<tu xmlns:lang="chs">运动制动器</tu>
+	<tu xmlns:lang="kor">스포츠 브레이크</tu>
+</tm>

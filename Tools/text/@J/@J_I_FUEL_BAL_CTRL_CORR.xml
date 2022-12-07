@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FUEL_BAL_CTRL_CORR">
+	<tu xmlns:lang="eng">Fuel balance control correction</tu>
+	<tu xmlns:lang="nld">Correctie van brandstofbalansregeling</tu>
+	<tu
+    xmlns:lang="fra"
+  >Correction de la commande d'équilibrage de l'alimentation</tu>
+	<tu xmlns:lang="deu">Korrektur Kraftstoffbalancesteuerung</tu>
+	<tu xmlns:lang="ita">Correzione comando bilanciamento carburante</tu>
+	<tu xmlns:lang="jpn">フューエル バランス コントロール修正</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número terá por base a sequência 6W83-14C168, seguida de um sufixo com 2 dígitos.</tu>
+	<tu xmlns:lang="ptb">Correção do controle de balanceamento de combustível</tu>
+	<tu xmlns:lang="rus">Корректировка регулировки баланса топлива</tu>
+	<tu xmlns:lang="esp">Corrección del control de equilibrio del combustible</tu>
+	<tu xmlns:lang="chs">燃油平衡控制校正</tu>
+	<tu xmlns:lang="kor">연료 밸런스 컨트롤 수정</tu>
+</tm>

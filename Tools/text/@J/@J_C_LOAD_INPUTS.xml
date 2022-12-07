@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_LOAD_INPUTS">
+	<tu xmlns:lang="eng">Load inputs</tu>
+	<tu xmlns:lang="nld">Belasting invoeren</tu>
+	<tu xmlns:lang="fra">Entrees de charge</tu>
+	<tu xmlns:lang="deu">Lasteingangssignale</tu>
+	<tu xmlns:lang="ita">Input di carico</tu>
+	<tu xmlns:lang="jpn">ロード イ・プット</tu>
+	<tu xmlns:lang="ptg">Entradas de carga</tu>
+	<tu xmlns:lang="ptb">Entradas de carga</tu>
+	<tu xmlns:lang="rus">Входы нагрузок</tu>
+	<tu xmlns:lang="esp">Señales de entrada de carga</tu>
+	<tu xmlns:lang="chs">负载输入</tu>
+	<tu xmlns:lang="kor">부하 입력</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JCntrlPanel$M">
+	<tu xmlns:lang="eng">Control panel</tu>
+	<tu xmlns:lang="nld">Regelpaneel</tu>
+	<tu xmlns:lang="fra">Panneau de commande</tu>
+	<tu xmlns:lang="deu">Bedienteil</tu>
+	<tu xmlns:lang="ita">Pannello di comando</tu>
+	<tu xmlns:lang="jpn">ｺﾝﾄﾛーﾙ・ﾊﾟﾈﾙ</tu>
+	<tu xmlns:lang="ptg">Painel de controlo</tu>
+	<tu xmlns:lang="ptb">Painel de controle</tu>
+	<tu xmlns:lang="rus">Панель управления</tu>
+	<tu xmlns:lang="esp">Panel de control</tu>
+	<tu xmlns:lang="chs">控制面板</tu>
+	<tu xmlns:lang="kor">컨트롤 패널</tu>
+</tm>

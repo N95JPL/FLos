@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PERFORM_SUS">
+	<tu xmlns:lang="eng">Performance suspension</tu>
+	<tu xmlns:lang="nld">Performance-ophanging</tu>
+	<tu xmlns:lang="fra">Suspension Performance</tu>
+	<tu xmlns:lang="deu">Hochleistungsaufhängung</tu>
+	<tu xmlns:lang="ita">Sospensione ad alte prestazioni</tu>
+	<tu xmlns:lang="jpn">パフォーマンス サスペンション</tu>
+	<tu xmlns:lang="ptg">Suspensão de alto desempenho</tu>
+	<tu xmlns:lang="ptb">Suspensão do desempenho</tu>
+	<tu xmlns:lang="rus">Подвеска с высокими эксплуатационными качествами</tu>
+	<tu xmlns:lang="esp">Suspensión de altas prestaciones</tu>
+	<tu xmlns:lang="chs">执行悬挂测试</tu>
+	<tu xmlns:lang="kor">퍼포먼스 서스펜션</tu>
+</tm>

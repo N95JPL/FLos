@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COMP_DTC_READ_CLEAR">
+	<tu
+    xmlns:lang="eng"
+  >Ensure a complete vehicle DTC read and clear is performed using DTC monitor.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg dat u met de DTC-monitor alle DTC's van het voertuig uitleest en wist.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Effectuez une lecture complète des DTC sur le véhicule puis effacez-les avec le contrôleur DTC.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass mit dem DTC-Monitor alle im Fahrzeug abgespeicherten DTCs ausgelesen und gelöscht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che venga eseguita una lettura e cancellazione complete di codici DTC del veicolo, usando il monitor DTC.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >DTC モニターを使用し、必ず車両の全 DTC 読み取りおよびクリアを実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que lê e apaga completamente os DTCs do veículo usando a monitorização de DTCs.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que a leitura e a exclusão de DTC do veículo completo é realizada usando o monitor DTC.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выполните считывание и устранение всех диагностических кодов неисправностей (DTC) автомобиля с помощью монитора DTC.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegurarse de realizar una lectura y borrado de DTC de todo el vehículo utilizando el lector de DTC.</tu>
+	<tu
+    xmlns:lang="chs"
+  >确保采用DTC监测器完成了车辆故障诊断码的全面读取与清除工作。</tu>
+	<tu
+    xmlns:lang="kor"
+  >DTC 모니터를 사용하여 전체 차량 DTC 읽기 및 삭제가 수행되는지 확인하십시오.</tu>
+</tm>

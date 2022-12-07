@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@ClearDTCs_I">
+	<tu xmlns:lang="eng">Clearing fault codes.</tu>
+	<tu xmlns:lang="nld">Bezig met wissen van foutcodes</tu>
+	<tu xmlns:lang="fra">Effacement des codes d'anomalies</tu>
+	<tu xmlns:lang="deu">Fehlercodes werden gelöscht</tu>
+	<tu xmlns:lang="ita">Cancellazione codici di guasto in corso</tu>
+	<tu xmlns:lang="jpn">フォルトコードをクリア中</tu>
+	<tu xmlns:lang="ptg">A apagar códigos de avaria.</tu>
+	<tu xmlns:lang="ptb">Limpando códigos de falha.</tu>
+	<tu xmlns:lang="rus">Удаление кодов неисправностей.</tu>
+	<tu xmlns:lang="esp">Borrando códigos de avería</tu>
+	<tu xmlns:lang="chs">正在清除故障代码。</tu>
+	<tu xmlns:lang="kor">고장 코드 삭제</tu>
+</tm>

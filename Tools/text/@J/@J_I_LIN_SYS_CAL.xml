@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LIN_SYS_CAL">
+	<tu xmlns:lang="eng">LIN systems calibration</tu>
+	<tu xmlns:lang="nld">Kalibrering van LIN-systemen</tu>
+	<tu xmlns:lang="fra">Etalonnage des systèmes LIN</tu>
+	<tu xmlns:lang="deu">Kalibrierung - LIN-System</tu>
+	<tu xmlns:lang="ita">Taratura sistemi LIN</tu>
+	<tu xmlns:lang="jpn">LIN システムのキャリブレーション</tu>
+	<tu xmlns:lang="ptg">Calibragem dos sistemas LIN</tu>
+	<tu xmlns:lang="ptb">Calibração dos sistemas LIN</tu>
+	<tu xmlns:lang="rus">Калибровка систем локальной связи автомобиля (LIN)</tu>
+	<tu xmlns:lang="esp">Calibración de sistemas LIN</tu>
+	<tu xmlns:lang="chs">LIN（本地互联网络）系统校准 </tu>
+	<tu xmlns:lang="kor">LIN 시스템 보정</tu>
+</tm>

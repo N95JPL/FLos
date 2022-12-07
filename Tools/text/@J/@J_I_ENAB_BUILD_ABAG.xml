@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ENAB_BUILD_ABAG">
+	<tu
+    xmlns:lang="eng"
+  >Enabling build mode will disable the functionality of the restraints system, specifically the activation of all air bags.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Door het inschakelen van de fabricagefunctie zult u het beveiligingssysteem voor inzittenden buiten werking stellen, met name de activering van alle airbags.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'activation du mode construction entraînera la neutralisation des dispositifs de retenue, en particulier l'activation de tous les airbags.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Aktivierung des Konfigurationsmodus deaktiviert die Funktionalität des Rückhaltesystems, insbesondere die Auslösung aller Airbags.</tu>
+	<tu
+    xmlns:lang="ita"
+  >L'attivazione della modalità di produzione disattiva il funzionamento del sistema di sicurezza occupanti, specificamente l'attivazione di tutti gli airbag.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >再生モードを作動可に設定すると拘束システムの機能\、特に全エアバッグの作動が停止します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >A activação do modo de fabrico desactiva o sistema de segurança, em particular a activação de todos os airbags.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Habilitar modo de construção desativará a funcionalidade do sistema de retenções, especificamente a ativação de todos os airbags.</tu>
+	<tu
+    xmlns:lang="rus"
+  >При включении режима установки отключаются функции системы пассивной безопасности, в частности срабатывание всех подушек безопасности.</tu>
+	<tu
+    xmlns:lang="esp"
+  >La activación del modo de fabricación desactivará el funcionamiento del sistema de retención, concretamente la activación de todos los airbags.</tu>
+	<tu
+    xmlns:lang="chs"
+  >启动建立模式将禁用约束系统的功能，特别是所有气囊的启动。</tu>
+	<tu
+    xmlns:lang="kor"
+  >빌드 모드를 활성화하면 에어백 시스템의 기능, 특히 모든 에어백의 작동이 비활성화됩니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_EGYPT">
+	<tu xmlns:lang="eng">Egypt</tu>
+	<tu xmlns:lang="nld">Egypte</tu>
+	<tu xmlns:lang="fra">Egypte</tu>
+	<tu xmlns:lang="deu">Ägypten</tu>
+	<tu xmlns:lang="ita">Egitto</tu>
+	<tu xmlns:lang="jpn">エジプト</tu>
+	<tu xmlns:lang="ptg">Egipto</tu>
+	<tu xmlns:lang="ptb">Egito</tu>
+	<tu xmlns:lang="rus">Египет</tu>
+	<tu xmlns:lang="esp">Egipto</tu>
+	<tu xmlns:lang="chs">埃及</tu>
+	<tu xmlns:lang="kor">이집트</tu>
+</tm>

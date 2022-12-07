@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_EXHAUST_VALVE">
+	<tu xmlns:lang="eng">Exhaust valve</tu>
+	<tu xmlns:lang="nld">Uitlaatklep</tu>
+	<tu xmlns:lang="fra">Soupape d'évacuation</tu>
+	<tu xmlns:lang="deu">Abluftventil</tu>
+	<tu xmlns:lang="ita">Valvola scarico</tu>
+	<tu xmlns:lang="jpn">エキゾースト バルブ</tu>
+	<tu xmlns:lang="ptg">Válvula de escape</tu>
+	<tu xmlns:lang="ptb">Válvula do escapamento</tu>
+	<tu xmlns:lang="rus">Выпускной клапан</tu>
+	<tu xmlns:lang="esp">Válvula de escape</tu>
+	<tu xmlns:lang="chs">排气阀</tu>
+	<tu xmlns:lang="kor">배기 밸브</tu>
+</tm>

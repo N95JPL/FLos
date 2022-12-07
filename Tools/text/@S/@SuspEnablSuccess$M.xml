@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SuspEnablSuccess$M">
+	<tu xmlns:lang="eng">Suspension successfully inflated.</tu>
+	<tu xmlns:lang="nld">De luchtvering is met succes opgeblazen.</tu>
+	<tu xmlns:lang="fra">Gonflage de la suspension réussi.</tu>
+	<tu xmlns:lang="deu">Luftfederung erfolgreich befüllt.</tu>
+	<tu xmlns:lang="ita">Sospensione gonfiata correttamente.</tu>
+	<tu xmlns:lang="jpn">サスペンションが正常にエア充填されました。</tu>
+	<tu xmlns:lang="ptg">Suspensão insuflada com sucesso.</tu>
+	<tu xmlns:lang="ptb">Suspensão calibrada com sucesso.</tu>
+	<tu xmlns:lang="rus">Накачивание системы подвески выполнено успешно.</tu>
+	<tu xmlns:lang="esp">Suspensión inflada satisfactoriamente.</tu>
+	<tu xmlns:lang="chs">悬架充气成功。</tu>
+	<tu xmlns:lang="kor">서스펜션에 공기가 주입됨</tu>
+</tm>

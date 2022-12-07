@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SteerColCalComp$M">
+	<tu xmlns:lang="eng">Steering column calibration complete.</tu>
+	<tu xmlns:lang="nld">De kalibrering van de stuurkolom is uitgevoerd.</tu>
+	<tu xmlns:lang="fra">Etalonnage de la colonne de direction terminé.</tu>
+	<tu xmlns:lang="deu">Lenksäulenkalibrierung ist abgeschlossen.</tu>
+	<tu xmlns:lang="ita">Taratura piantone sterzo completata.</tu>
+	<tu xmlns:lang="jpn">ステアリング コラム キャリブレーション完了</tu>
+	<tu xmlns:lang="ptg">Calibragem da coluna da direcção concluída.</tu>
+	<tu xmlns:lang="ptb">Calibragem da coluna de direção concluída.</tu>
+	<tu xmlns:lang="rus">Калибровка рулевой колонки завершена.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Se ha concluido la calibración de la columna de la dirección.</tu>
+	<tu xmlns:lang="chs">转向柱标定完成。</tu>
+	<tu xmlns:lang="kor">스티어링 칼럼 보정 완료</tu>
+</tm>

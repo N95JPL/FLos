@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LightsOffConPanic$M">
+	<tu
+    xmlns:lang="eng"
+  >Switch the hazard switch off and operate the 3rd button to ensure that the 3rd button is now configured to 'panic alarm'.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zet de alarmknipperlichtschakelaar uit en druk de derde toets in om te controleren of de derde toets nu op 'paniekalarm' is geconfigureerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Eteignez les feux de détresse et actionnez le 3ème bouton pour vérifier qu'il est maintenant configuré pour 'alarme anti-agression'.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Warnblinkanlagenschalter ausschalten und 3. Taste betätigen um sicherzustellen, dass die 3. Taste jetzt auf 'Panikalarm' konfiguriert ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Spegnere l'interruttore degli indicatori d'emergenza e azionare il terzo pulsante per controllare che sia ora configurato su 'allarme antipanico'.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ハザードをスイッチ オフし、第 3 ボタンを操作して、第 3 ボタンが「パニック アラーム」にコンフィギュレーションされていることを確認しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Desligue o interruptor das luzes de emergência e accione o terceiro botão para se certificar de que o terceiro botão está agora configurado para 'alarme de emergência'.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Desligue o interruptor do pisca-alerta e aperte o terceiro botão para verificar se o terceiro botão foi configurado com o alarme de pânico.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Отключить выключатель аварийной сигнализации и нажать 3-ю кнопку, чтобы убедиться, что теперь она настроена на управление предупредительной сигнализацией.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Apagar el interruptor de luces de emergencia y accionar el tercer botón para verificar que el mismo esté configurado como 'alarma de pánico'.</tu>
+	<tu
+    xmlns:lang="chs"
+  >关闭危险开关，然后操作第3按钮，以确保第3按钮现在已配置到 '紧急报警' 状态。</tu>
+	<tu
+    xmlns:lang="kor"
+  >비상등 스위치를 끄고 세 번째 버튼을 작동하여 이제 세 번째 버튼이 '패닉 알람'으로 구성되어 있는지 확인하십시오.</tu>
+</tm>

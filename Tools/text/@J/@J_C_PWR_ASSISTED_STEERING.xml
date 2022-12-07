@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_PWR_ASSISTED_STEERING">
+	<tu xmlns:lang="eng">Power steering.</tu>
+	<tu xmlns:lang="nld">Stuurbekrachtiging</tu>
+	<tu xmlns:lang="fra">Direction assistee</tu>
+	<tu xmlns:lang="deu">Servolenkung</tu>
+	<tu xmlns:lang="ita">Servosterzo</tu>
+	<tu xmlns:lang="jpn">パワー ステアリ・グ</tu>
+	<tu xmlns:lang="ptg">Direcção assistida.</tu>
+	<tu xmlns:lang="ptb">Controle de direção.</tu>
+	<tu xmlns:lang="rus">Гидроусилитель рулевого управления</tu>
+	<tu xmlns:lang="esp">Dirección asistida</tu>
+	<tu xmlns:lang="chs">动力转向</tu>
+	<tu xmlns:lang="kor">파워 스티어링.</tu>
+</tm>

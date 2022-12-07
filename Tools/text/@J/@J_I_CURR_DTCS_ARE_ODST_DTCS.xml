@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_CURR_DTCS_ARE_ODST_DTCS">
+	<tu
+    xmlns:lang="eng"
+  >All current logged diagnostic trouble codes are stored as on-demand self-test diagnostic trouble codes.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Alle op dit moment gelogde diagnosefoutcodes zijn als diagnosefoutcodes voor de opvraagbare zelftest opgeslagen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Tous les codes de défaut de diagnostic enregistrés actuels sont mémorisés en tant que codes de défaut d'autodiagnostic sur demande</tu>
+	<tu
+    xmlns:lang="deu"
+  >Alle aktuell gespeicherten Fehlercodes sind als Fehlercodes nach Selbsttest auf Abruf abgespeichert.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Tutti i codici di guasto diagnostici correntemente registrati sono memorizzati come codici di guasto di autodiagnosi su richiesta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >現在記録されている全診断トラブル コードはオンデマンド セルフテスト診断トラブル コードとして保存されます。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Todos os códigos de avaria actualmente registados estão guardados sob a forma de códigos de avaria de autoteste 'a pedido'.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Todos os códigos de problemas de diagnóstico atuais registrados são armazenados como códigos de problemas de diagnóstico de autoteste sob demanda.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Все текущие зарегистрированные диагностические коды неисправностей хранятся в виде кодов неисправностей при самодиагностике по запросу.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Todos los códigos de avería registrados actuales se guardan como códigos de avería de autocomprobación a solicitud.</tu>
+	<tu
+    xmlns:lang="chs"
+  >当前记录的所有故障诊断代码均存储为按需自检故障诊断代码。</tu>
+	<tu
+    xmlns:lang="kor"
+  >현재 기록된 모든 고장 진단 코드가 온디맨드 자체 테스트 고장 진단 코드로 저장됩니다.</tu>
+</tm>

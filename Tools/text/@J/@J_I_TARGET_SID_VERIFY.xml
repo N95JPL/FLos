@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TARGET_SID_VERIFY">
+	<tu xmlns:lang="eng">Target security identification verify</tu>
+	<tu xmlns:lang="nld">Verificatie van gewenste beveiligingsidentificatie</tu>
+	<tu xmlns:lang="fra">Vérification d'identification de sécurité cible</tu>
+	<tu xmlns:lang="deu">Verifikation Sicherheitszielidentifikation</tu>
+	<tu xmlns:lang="ita">Verifica dell'identificazione di sicurezza target</tu>
+	<tu xmlns:lang="jpn">目標セキュリティ ID の正当性確認</tu>
+	<tu xmlns:lang="ptg">Verificar identificação de segurança alvo</tu>
+	<tu xmlns:lang="ptb">Verificação da identificação alvo de segurança</tu>
+	<tu xmlns:lang="rus">Проверка выбранного кода безопасности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Comprobación de identificación de seguridad del objetivo</tu>
+	<tu xmlns:lang="chs">目标安全性识别验证</tu>
+	<tu xmlns:lang="kor">보안 대상 식별 정보 확인</tu>
+</tm>

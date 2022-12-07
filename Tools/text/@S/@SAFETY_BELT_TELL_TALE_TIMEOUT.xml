@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SAFETY_BELT_TELL_TALE_TIMEOUT">
+	<tu xmlns:lang="eng">Safety belt tell-tale timeout</tu>
+	<tu
+    xmlns:lang="nld"
+  >De tijd van het verklikkerlampje van de veiligheidsgordel is verstreken</tu>
+	<tu xmlns:lang="fra">Délai du témoin de ceinture de sécurité expiré.</tu>
+	<tu xmlns:lang="deu">Zeittaktung Sicherheitsgurt-Warnleuchte</tu>
+	<tu xmlns:lang="ita">Timeout spia cintura di sicurezza</tu>
+	<tu xmlns:lang="jpn">シートベルト表\示タイム アウト</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Limite de tempo da lâmpada de aviso do cinto de segurança excedido</tu>
+	<tu xmlns:lang="ptb">Tempo limite do indicador do cinto de segurança</tu>
+	<tu xmlns:lang="rus">Тайм-аут индикатора ремня безопасности</tu>
+	<tu
+    xmlns:lang="esp"
+  >Fin de tiempo programado del testigo del cinturón de seguridad</tu>
+	<tu xmlns:lang="chs">安全带警告灯超时</tu>
+	<tu xmlns:lang="kor">안전 벨트 표시등 시간 초과</tu>
+</tm>

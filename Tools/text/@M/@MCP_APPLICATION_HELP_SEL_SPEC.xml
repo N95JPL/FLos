@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@MCP_APPLICATION_HELP_SEL_SPEC">
+	<tu xmlns:lang="eng">Select specific operation</tu>
+	<tu xmlns:lang="nld">Selecteer een bewerking</tu>
+	<tu xmlns:lang="fra">Sélectionnez les opérations appropriées</tu>
+	<tu xmlns:lang="deu">Spezifischen Vorgang auswählen.</tu>
+	<tu xmlns:lang="ita">Selezionare un'operazione specifica</tu>
+	<tu xmlns:lang="jpn">特定オペレーションの選択</tu>
+	<tu xmlns:lang="ptg">Seleccione a operação específica</tu>
+	<tu xmlns:lang="ptb">Selecione a operação específica</tu>
+	<tu xmlns:lang="rus">Выберите операцию</tu>
+	<tu xmlns:lang="esp">Seleccionar operación específica</tu>
+	<tu xmlns:lang="chs">选择特定操作</tu>
+	<tu xmlns:lang="kor">특정 작동 선택</tu>
+</tm>

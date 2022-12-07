@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_RIDE_LEVELLING_SYS">
+	<tu xmlns:lang="eng">Ride levelling</tu>
+	<tu xmlns:lang="nld">Niveauregeling</tu>
+	<tu xmlns:lang="fra">Correction d'assiette</tu>
+	<tu xmlns:lang="deu">Niveauausgleich</tu>
+	<tu xmlns:lang="ita">Assetto marcia</tu>
+	<tu xmlns:lang="jpn">ライド レベリ・グ</tu>
+	<tu xmlns:lang="ptg">Altura da suspensão</tu>
+	<tu xmlns:lang="ptb">Nivelamento de condução</tu>
+	<tu xmlns:lang="rus">Корректировка положения в режиме езды</tu>
+	<tu xmlns:lang="esp">Nivelación de altura de marcha</tu>
+	<tu xmlns:lang="chs">乘坐校平</tu>
+	<tu xmlns:lang="kor">지상고 조정</tu>
+</tm>

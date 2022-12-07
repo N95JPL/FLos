@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_C_ENG_START_CM_SUPPLIES">
+	<tu xmlns:lang="eng">Starting system control module supplies</tu>
+	<tu
+    xmlns:lang="nld"
+  >Startsysteem van de stroomvoorzieningen van de regelmodules</tu>
+	<tu
+    xmlns:lang="fra"
+  >Alimentations du module de commande du système de démarrage</tu>
+	<tu xmlns:lang="deu">Steuermodul-Versorgungsleitungen - Startanlage</tu>
+	<tu xmlns:lang="ita">Alimentazioni CM sistema avviamento</tu>
+	<tu xmlns:lang="jpn">スターター システム CM 供給</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Alimentação do módulo de comando do sistema de arranque</tu>
+	<tu xmlns:lang="ptb">Alimentação do módulo de controle do sistema</tu>
+	<tu xmlns:lang="rus">Питание блока управления системой запуска</tu>
+	<tu xmlns:lang="esp">Alimentaciones del CM del sistema de arranque</tu>
+	<tu xmlns:lang="chs">起动系统控制模块电源</tu>
+	<tu xmlns:lang="kor">시동 시스템 컨트롤 모듈 전원 공급</tu>
+</tm>

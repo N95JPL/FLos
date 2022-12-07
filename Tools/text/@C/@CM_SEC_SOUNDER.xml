@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_SEC_SOUNDER">
+	<tu xmlns:lang="eng">Security sounder.</tu>
+	<tu xmlns:lang="nld">Beveiligingssirene</tu>
+	<tu xmlns:lang="fra">Signal sonore de sécurité antivol</tu>
+	<tu xmlns:lang="deu">Fahrzeugschutz-Warnsignal</tu>
+	<tu xmlns:lang="ita">Sirena sistema sicurezza</tu>
+	<tu xmlns:lang="jpn">セキュリティ サウンダ</tu>
+	<tu xmlns:lang="ptg">Aviso sonoro de segurança.</tu>
+	<tu xmlns:lang="ptb">Sirene de segurança.</tu>
+	<tu xmlns:lang="rus">Оповещатель охранной системы.</tu>
+	<tu xmlns:lang="esp">Sirena de seguridad</tu>
+	<tu xmlns:lang="chs">安全发声器。</tu>
+	<tu xmlns:lang="kor">보안 경보 발생기.</tu>
+</tm>

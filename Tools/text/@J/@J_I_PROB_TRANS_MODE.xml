@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_PROB_TRANS_MODE">
+	<tu
+    xmlns:lang="eng"
+  >The transportation mode procedure has not completed successfully. The procedure must be performed again ensuring all instructions are followed.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De procedure voor de transportfunctie is niet met succes afgerond. De procedure moet opnieuw worden doorlopen waarbij alle instructies moeten worden opgevolgd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >La procédure du mode de transport ne s'est pas terminée avec succès. La procédure doit être répétée pour s'assurer que toutes les instructions seront suivies.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Verfahren für den Transportmodus wurde nicht erfolgreich abgeschlossen. Das Verfahren muss erneut durchgeführt werden, wobei darauf zu achten ist, dass allen Anleitungen gefolgt wird.</tu>
+	<tu
+    xmlns:lang="ita"
+  >La procedura della modalità di trasporto non è stata completata correttamente. Ripetere la procedura assicurandosi di attenersi a tutte le istruzioni.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >輸送モード手順は正常に完了しませんでした。すべての指示に正しく従って手順を再実行する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O procedimento do modo de transporte não foi concluído com êxito. O procedimento deve ser efectuado novamente, seguindo todas as instruções.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O procedimento do modo de transporte não foi concluído com êxito. O procedimento deve ser executado novamente assegurando que todas as instruções sejam seguidas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Процедура вывода из транспортировочного режима завершена неудачно. Необходимо заново выполнить данную процедуру, соблюдая все инструкции.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El procedimiento del modo de transporte no se realizó satisfactoriamente. El procedimiento se deberá repetir siguiendo rigurosamente todas las instrucciones.</tu>
+	<tu
+    xmlns:lang="chs"
+  >传输模式程序未能成功完成。 必须确保遵循所有方法说明，再次执行该程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >운송 모드 절차가 올바르게 완료되지 않았습니다. 이 절차를 다시 수행하여 모든 지침을 준수하는지 확인해야 합니다.</tu>
+</tm>

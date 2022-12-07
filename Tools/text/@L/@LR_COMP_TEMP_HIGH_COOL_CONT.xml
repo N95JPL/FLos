@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_COMP_TEMP_HIGH_COOL_CONT">
+	<tu
+    xmlns:lang="eng"
+  >Compressor temperature too high, allow to cool before continuing.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Compressortemperatuur te hoog; laat afkoelen alvorens verder te gaan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Température compresseur trop élevée, laissez refroidir avant de poursuivre.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Kompressortemperatur zu hoch - vor dem Fortfahren abkühlen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Temperatura compressore troppo alta; lasciare raffreddare prima di continuare.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >コンプレッサ温度が高過ぎます。続行する前に冷却しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Temperatura do compressor demasiado elevada; deixar arrefecer antes de continuar.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Temperatura do compressor muito alta, deixe esfriar antes de continuar.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Перегрев компрессора, прежде чем продолжить, дайте компрессору остыть.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Temperatura del compresor demasiado alta; dejar que se enfríe antes de continuar.</tu>
+	<tu xmlns:lang="chs">'压缩机温度过高，在继续之前请使其冷却。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >컴프레서 온도가 너무 높습니다. 냉각 후 계속 진행하십시오.</tu>
+</tm>

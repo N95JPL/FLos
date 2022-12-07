@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@All_whl_drv">
+	<tu xmlns:lang="eng">All wheel drive</tu>
+	<tu xmlns:lang="nld">Vierwielaandrijving</tu>
+	<tu xmlns:lang="fra">4 roues motrices</tu>
+	<tu xmlns:lang="deu">Allradantrieb</tu>
+	<tu xmlns:lang="ita">Trazione integrale</tu>
+	<tu xmlns:lang="jpn">フォーホイール ドライブ</tu>
+	<tu xmlns:lang="ptg">Tracção às 4 rodas</tu>
+	<tu xmlns:lang="ptb">Tração nas quatro rodas</tu>
+	<tu xmlns:lang="rus">Полноприводной автомобиль</tu>
+	<tu xmlns:lang="esp">Tracción total</tu>
+	<tu xmlns:lang="chs">全轮驱动</tu>
+	<tu xmlns:lang="kor">4륜 구동</tu>
+</tm>

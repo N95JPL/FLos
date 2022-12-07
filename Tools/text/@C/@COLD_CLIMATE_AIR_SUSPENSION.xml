@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@COLD_CLIMATE_AIR_SUSPENSION">
+	<tu xmlns:lang="eng">Cold climate air suspension</tu>
+	<tu xmlns:lang="nld">Luchtvering koud klimaat</tu>
+	<tu xmlns:lang="fra">Suspension pneumatique climat froid.</tu>
+	<tu xmlns:lang="deu">Luftfederung für kaltes Klima</tu>
+	<tu xmlns:lang="ita">Sospensione pneumatica climi freddi</tu>
+	<tu xmlns:lang="jpn">寒冷気候エア サスペンション</tu>
+	<tu xmlns:lang="ptg">Suspensão pneumática para clima frio</tu>
+	<tu xmlns:lang="ptb">Suspensão a ar para climas frios</tu>
+	<tu xmlns:lang="rus">Пневмоподвеска для холодного климата</tu>
+	<tu xmlns:lang="esp">Suspensión neumática para climas fríos</tu>
+	<tu xmlns:lang="chs">寒冷气候空气悬架</tu>
+	<tu xmlns:lang="kor">한랭 기후 에어 서스펜션</tu>
+</tm>

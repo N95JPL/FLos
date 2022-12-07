@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_EMISSION">
+	<tu xmlns:lang="eng">Emission specification.</tu>
+	<tu xmlns:lang="nld">Emissiespecificatie</tu>
+	<tu xmlns:lang="fra">Spécification antipollution</tu>
+	<tu xmlns:lang="deu">Abgasverhalten</tu>
+	<tu xmlns:lang="ita">Specifica emissioni</tu>
+	<tu xmlns:lang="jpn">エミッション仕様</tu>
+	<tu xmlns:lang="ptg">Especificações de emissões.</tu>
+	<tu xmlns:lang="ptb">Especificação da emissão.</tu>
+	<tu xmlns:lang="rus">Данные по выбросам.</tu>
+	<tu xmlns:lang="esp">Especificación de emisiones</tu>
+	<tu xmlns:lang="chs">排放标准。</tu>
+	<tu xmlns:lang="kor">배기 가스 배출 사양</tu>
+</tm>

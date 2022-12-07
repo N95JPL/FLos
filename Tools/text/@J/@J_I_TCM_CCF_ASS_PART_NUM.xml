@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_TCM_CCF_ASS_PART_NUM">
+	<tu
+    xmlns:lang="eng"
+  >Transmission control module car configuration assembly part number 01</tu>
+	<tu
+    xmlns:lang="nld"
+  >Onderdeelnummer 01 van voertuigconfiguratie voor transmissieregelmodule</tu>
+	<tu
+    xmlns:lang="fra"
+  >Module de commande de transmission - configuration du véhicule - réf. 01</tu>
+	<tu
+    xmlns:lang="deu"
+  >Getriebesteuergerät - Fahrzeugkonfiguration - Montageteil Nummer 01</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modulo comando cambio, configurazione veicolo, numero parte complessivo 01</tu>
+	<tu
+    xmlns:lang="jpn"
+  >トランスミッション コントロール モジュール車両コンフィギュレーション アッセンブリ パーツ ナンバー 01</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Número de peça 01 de configuração do veículo do módulo de comando da transmissão</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Conjunto da configuração do carro do módulo de controle da transmissão - número de peça 01</tu>
+	<tu
+    xmlns:lang="rus"
+  >Блок управления коробкой передач, конфигурация автомобиля, монтажный номер детали 01</tu>
+	<tu
+    xmlns:lang="esp"
+  >Número de pieza de conjunto 01 de configuración del vehículo del módulo de control de la transmisión</tu>
+	<tu xmlns:lang="chs">变速器控制模块车辆配置组件零件号 01</tu>
+	<tu xmlns:lang="kor">변속기 컨트롤 모듈 차량 구성 어셈블리 부품 번호 01</tu>
+</tm>

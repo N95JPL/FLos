@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_TPM_01">
+	<tu
+    xmlns:lang="eng"
+  >Outputs: lf outputs are activated and tested for short circuited or connected antenna loads.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Uitvoeren: als de uitvoeren zijn geactiveerd en op kortgesloten of aangesloten antennebelastingen zijn getest.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sorties : Si des sorties sont activées et soumises à contrôle de charges d'antenne court-circuitées ou connectées.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ausgänge: Niederfrequente Ausgänge werden aktiviert und auf kurzgeschlossene oder angeschlossene Antennenlasten geprüft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Output: Se gli output vengono attivati e provati per verificare l'eventuale presenza di carichi di antenna in corto o collegati.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >アウトプット：アウトプットが作動しショート サーキットまたは接続されたアンテナの負荷についてテストされた場合</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sinais de saída: Se os sinais de saída estiverem activados e testados para cargas de antenas ligadas ou em curto-circuito.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Saídas: Se as saídas estão ativadas e testadas para curto-circuito ou conectado a antena de cargas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выходы: Если выходы активированы и проверены на короткозамкнутые или соединенные нагрузки антенны.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Señales de salida: si las señales de salida se activan y se comprueban en busca de cargas de antena en cortocircuito o conectadas.</tu>
+	<tu
+    xmlns:lang="chs"
+  >输出：如果启动了输出并针对是否存在短路或连接的天线负荷进行了测试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >출력: 출력이 활성화되고 단락 여부가 테스트되거나 안테나 부하가 연결됩니다.</tu>
+</tm>

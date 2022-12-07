@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_ECM_TYRE_SIZE">
+	<tu xmlns:lang="eng">Tire size (rolling circumference)</tu>
+	<tu xmlns:lang="nld">Bandenmaat (rolomtrek)</tu>
+	<tu xmlns:lang="fra">Dimensions des pneus (circonférence de roulement)</tu>
+	<tu xmlns:lang="deu">Reifengröße (Abrollumfang)</tu>
+	<tu xmlns:lang="ita">Grandezza pneumatici (circonferenza di rotolamento)</tu>
+	<tu xmlns:lang="jpn">タイヤ サイズ（ローリング円周）</tu>
+	<tu xmlns:lang="ptg">Tamanho dos pneus (circunferência de rodagem)</tu>
+	<tu xmlns:lang="ptb">Tamanho do pneu (circunferência de rolamento)</tu>
+	<tu xmlns:lang="rus">Размер шин (длина окружности качения)</tu>
+	<tu xmlns:lang="esp">Tamaño de neumáticos (circunferencia de rodadura)</tu>
+	<tu xmlns:lang="chs">轮胎尺寸（滚动圆周）</tu>
+	<tu xmlns:lang="kor">타이어 크기(회전 원주)</tu>
+</tm>

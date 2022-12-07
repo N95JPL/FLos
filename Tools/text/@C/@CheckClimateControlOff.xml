@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CheckClimateControlOff">
+	<tu
+    xmlns:lang="eng"
+  >Make sure front and rear (if fitted) climate control is off.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zorg ervoor dat klimaatregeling voorin en achterin (indien aanwezig) uit staan.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'assurer que la commande de climatisation avant et arrière (le cas échéant) est coupée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Sicherstellen, dass die vordere und (sofern vorhanden) hintere Klimaregelung ausgeschaltet ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Assicurarsi che il comando della climatizzazione anteriore e posteriore (se in dotazione) sia stato disinserito.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >フロント クライメート コントロールおよびリヤ クライメート コントロール (装着されている場合) がオフであることを確認します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Certifique-se de que o controlo da climatização dianteira e traseira (se existente) se encontra desligado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Certifique-se de que o controle de temperatura dianteiro e o traseiro (se instalado) estejam desligados.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Убедитесь, что климат-контроль в передней и задней частях салона (если имеется) выключен.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Asegúrese de que el sistema de climatización delantero y trasero (si está equipado) está apagado.</tu>
+	<tu xmlns:lang="chs">确保前部和后部（若已安装）气候控制已关闭。</tu>
+	<tu
+    xmlns:lang="kor"
+  >프론트 및 리어(장착된 경우) 실내 온도 조절 시스템이 꺼져 있는지 확인하십시오.</tu>
+</tm>

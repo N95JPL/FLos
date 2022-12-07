@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FLS_LEVEL_CORRECT">
+	<tu
+    xmlns:lang="eng"
+  >This application cannot be carried out until the forward looking sensor (front distance range sensor) is correctly leveled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze toepassing kan niet worden uitgevoerd totdat de naar voren kijkende sensor (bereiksensor afstand aan voorkant) op de juiste hoogte is ingesteld.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Cette application ne peut pas être exécutée tant que le capteur tourné vers l'avant (capteur de distance à l'avant) n'a pas été nivelé correctement.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Dieses Anwendungsprogramm kann nicht ausgeführt werden, solange der vorwärts gerichtete Sensor (Abstandssensor vorne) nicht korrekt ausgerichtet ist.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Impossibile eseguire questa applicazione finché il sensore di distanza frontale non è correttamente livellato.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >前方監視センサー (フロント距離センサー) が正しくレベリングされるまで、このアプリケーションは実行できません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Esta aplicação não pode ser levada a cabo enquanto o sensor dianteiro (sensor de distância dianteiro) não estiver nivelado correctamente.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Este aplicativo não pode ser realizado até que o sensor voltado para frente (sensor de intervalo de distância dianteira) esteja corretamente nivelado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это приложение нельзя выполнить до тех пор, пока положение направленного вперед датчика (передний датчик дистанции) не будет правильно отрегулировано.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Esta aplicación no puede ejecutarse hasta que el sensor delantero esté correctamente nivelado.</tu>
+	<tu
+    xmlns:lang="chs"
+  >在正确调平前视传感器（前距离范围传感器）之前，无法执行此应用程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 응용 프로그램은 전방 주시 센서(프론트 거리 센서)의 수평이 올바르게 맞춰질 때까지 실행되지 않습니다.</tu>
+</tm>

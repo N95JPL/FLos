@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@COLUMN_EASY_ENTRY_MODE_RADIAL">
+	<tu xmlns:lang="eng">Steering column easy entry mode (radial)</tu>
+	<tu xmlns:lang="nld">Instapfunctie stuurkolom (radiaal)</tu>
+	<tu xmlns:lang="fra">Colonne de direction - mode entrée facilitée (radial).</tu>
+	<tu xmlns:lang="deu">Ein-/Ausstiegsmodus - Lenksäule (radial)</tu>
+	<tu
+    xmlns:lang="ita"
+  >Modalità entrata agevolata piantone di sterzo (radiale)</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ステアリング コラム イージー エントリー モード (半径方向)</tu>
+	<tu xmlns:lang="ptg">Coluna da direcção, modo de entrada fácil (radial)</tu>
+	<tu xmlns:lang="ptb">Coluna de direção com modo entrada fácil (radial)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Режим облегчения посадки для рулевой колонки (радиальное перемещение)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Modo de entrada fácil de la columna de la dirección (radial)</tu>
+	<tu xmlns:lang="chs">转向柱易入模式（径向）</tu>
+	<tu xmlns:lang="kor">스티어링 칼럼 스마트 승차 모드(반경 방향)</tu>
+</tm>

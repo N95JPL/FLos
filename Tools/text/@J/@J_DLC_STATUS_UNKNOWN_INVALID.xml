@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_DLC_STATUS_UNKNOWN_INVALID">
+	<tu xmlns:lang="eng">Unknown/invalid</tu>
+	<tu xmlns:lang="nld">Onbekend/ongeldig</tu>
+	<tu xmlns:lang="fra">Inconnu/incorrect</tu>
+	<tu xmlns:lang="deu">Unbekannt/ungültig</tu>
+	<tu xmlns:lang="ita">Sconosciuto/non valido</tu>
+	<tu xmlns:lang="jpn">不明／無効</tu>
+	<tu xmlns:lang="ptg">Desconhecido/inválido</tu>
+	<tu xmlns:lang="ptb">Desconhecido/inválido</tu>
+	<tu xmlns:lang="rus">Неизвестный/недействительный</tu>
+	<tu xmlns:lang="esp">Desconocido/no válido</tu>
+	<tu xmlns:lang="chs">未知/无效</tu>
+	<tu xmlns:lang="kor">알 수 없음/잘못됨</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_UNI_GARAGE_DOR_OPEN">
+	<tu xmlns:lang="eng">Universal garage door opener</tu>
+	<tu xmlns:lang="nld">Universele garagedeuropener</tu>
+	<tu xmlns:lang="fra">Ouvre-porte de garage universel</tu>
+	<tu xmlns:lang="deu">Universal-Garagentoröffner</tu>
+	<tu xmlns:lang="ita">Telecomando universale di apertura garage </tu>
+	<tu xmlns:lang="jpn">ユニバーサル ガレージ ドア オープナー</tu>
+	<tu xmlns:lang="ptg">Dispositivo universal de abertura de portas de garagem</tu>
+	<tu xmlns:lang="ptb">Abridor universal da porta da garagem</tu>
+	<tu
+    xmlns:lang="rus"
+  >Универсальный радиопульт для управления гаражными воротами</tu>
+	<tu xmlns:lang="esp">Mando de garaje universal</tu>
+	<tu xmlns:lang="chs">通用车库门开启按钮</tu>
+	<tu xmlns:lang="kor">범용 차고 문 개폐기</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_GLOB_OP_CLOSE_DRS">
+	<tu xmlns:lang="eng">Global open/close doors</tu>
+	<tu xmlns:lang="nld">Comfortontgrendeling/-vergrendeling portieren</tu>
+	<tu xmlns:lang="fra">Ouverture/Fermeture générale des portes</tu>
+	<tu xmlns:lang="deu">Türen mit Komfortöffnung/-schließung</tu>
+	<tu xmlns:lang="ita">Apertura/chiusura globale portiere</tu>
+	<tu xmlns:lang="jpn">グローバル オープン／クローズ、ドア</tu>
+	<tu xmlns:lang="ptg">Abertura/fecho global das portas</tu>
+	<tu xmlns:lang="ptb">Portas de abertura/fechamento global</tu>
+	<tu xmlns:lang="rus">Полное открывание и закрывание дверей</tu>
+	<tu xmlns:lang="esp">Apertura/cierre total de puertas</tu>
+	<tu xmlns:lang="chs">车门全开/全关</tu>
+	<tu xmlns:lang="kor">글로벌 열기/닫기 도어</tu>
+</tm>

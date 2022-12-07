@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_SER_NUM_NOT_OBT">
+	<tu xmlns:lang="eng">Serial number for %s could not be obtained.</tu>
+	<tu xmlns:lang="nld">Het serienummer voor %s kon niet worden verkregen.</tu>
+	<tu xmlns:lang="fra">Le numéro de série de %s n'a pas pu être obtenu.</tu>
+	<tu xmlns:lang="deu">Seriennummer für %s konnte nicht erhoben werden.</tu>
+	<tu xmlns:lang="ita">Impossibile ottenere il numero di serie per %s.</tu>
+	<tu xmlns:lang="jpn">%s のシリアル ナンバーが得られませんでした。</tu>
+	<tu xmlns:lang="ptg">Não foi possível obter o número de série de %s.</tu>
+	<tu xmlns:lang="ptb">O número serial do %s não pode ser obtido.</tu>
+	<tu xmlns:lang="rus">Не удается получить серийный номер %s.</tu>
+	<tu xmlns:lang="esp">No se pudo obtener el número de serie para %s.</tu>
+	<tu xmlns:lang="chs">无法获得 %s 的序列号。</tu>
+	<tu xmlns:lang="kor">%s의 일련번호를 가져올 수 없습니다.</tu>
+</tm>

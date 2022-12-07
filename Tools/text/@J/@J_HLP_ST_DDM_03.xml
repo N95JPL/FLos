@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_HLP_ST_DDM_03">
+	<tu xmlns:lang="eng">The module checks the status of outputs and inputs.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De module controleert de status van de uit- en invoeren.</tu>
+	<tu xmlns:lang="fra">Le module contrôle l'état des sorties et des entrées.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das Steuergerät prüft den Status der Ausgänge und Eingänge.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo controlla lo stato degli output e degli input.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >モジュールはアウトプットおよびインプットのステータスをチェックします。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O módulo verifica o estado dos sinais de saída e de entrada.</tu>
+	<tu xmlns:lang="ptb">O módulo verifica o status das saídas e entradas.</tu>
+	<tu xmlns:lang="rus">Блок проверяет состояние выходных и входных сигналов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El módulo comprueba el estado de las señales de salida y de entrada.</tu>
+	<tu xmlns:lang="chs">模块检查输出与输入状态。</tu>
+	<tu xmlns:lang="kor">이 모듈은 출력 및 입력의 상태를 점검합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@FUEL_CONSUMPTION_01_UNITS">
+	<tu xmlns:lang="eng">Fuel consumption 1 units</tu>
+	<tu xmlns:lang="nld">Eenheden brandstofverbruik 1</tu>
+	<tu xmlns:lang="fra">Unités de consommation de carburant 1.</tu>
+	<tu xmlns:lang="deu">Kraftstoffverbrauch 1 - Einheiten</tu>
+	<tu xmlns:lang="ita">Unità consumo carburante 1</tu>
+	<tu xmlns:lang="jpn">燃料消費 1 単位</tu>
+	<tu xmlns:lang="ptg">Consumo de combustível 1, unidades </tu>
+	<tu xmlns:lang="ptb">Unidades de consumo de combustível 1</tu>
+	<tu xmlns:lang="rus">Блоки системы контроля расхода топлива 1</tu>
+	<tu xmlns:lang="esp">Unidades de consumo de combustible 1</tu>
+	<tu xmlns:lang="chs">燃油消耗 1 单元</tu>
+	<tu xmlns:lang="kor">연료 소비 1 유닛</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@IVDC_STANDARD_ESP">
+	<tu xmlns:lang="eng">Standard electronic stability programme</tu>
+	<tu xmlns:lang="nld">Standaard elektronische-stabiliteitsprogramma</tu>
+	<tu xmlns:lang="fra">Programme électronique de stabilité standard</tu>
+	<tu xmlns:lang="deu">Standardgemäßes elektronisches Stabilitätsprogramm</tu>
+	<tu xmlns:lang="ita">Programma elettronico stabilità standard</tu>
+	<tu xmlns:lang="jpn">標準型エレクトロニック スタビリティ プログラム</tu>
+	<tu xmlns:lang="ptg">Programa electrónico de estabilidade de série</tu>
+	<tu xmlns:lang="ptb">Programa de estabilidade eletrônica padrão</tu>
+	<tu xmlns:lang="rus">Стандартная электронная программа стабилизации</tu>
+	<tu xmlns:lang="esp">Programa de estabilidad electrónico estándar</tu>
+	<tu xmlns:lang="chs">标准电子稳定性程序</tu>
+	<tu xmlns:lang="kor">표준 전자 안정성 프로그램</tu>
+</tm>

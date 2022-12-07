@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JSelectPark$A">
+	<tu xmlns:lang="eng">Select PARK</tu>
+	<tu xmlns:lang="nld">Op PARKEREN schakelen</tu>
+	<tu xmlns:lang="fra">Sélectionnez PARK</tu>
+	<tu xmlns:lang="deu">Bringen Sie den Wählhebel in die Position PARK</tu>
+	<tu xmlns:lang="ita">Selezionare P (PARCHEGGIO)</tu>
+	<tu xmlns:lang="jpn">ﾊﾟーｸを選択してください。</tu>
+	<tu xmlns:lang="ptg">Seleccionar P (park)</tu>
+	<tu xmlns:lang="ptb">Selecione PARK</tu>
+	<tu xmlns:lang="rus">Выберите положение 'PARK' (Стоянка)</tu>
+	<tu xmlns:lang="esp">Seleccione la posición APARCAMIENTO</tu>
+	<tu xmlns:lang="chs">选择驻车档</tu>
+	<tu xmlns:lang="kor">주차를 선택하십시오.</tu>
+</tm>

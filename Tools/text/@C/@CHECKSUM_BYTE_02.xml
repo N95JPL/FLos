@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CHECKSUM_BYTE_02">
+	<tu xmlns:lang="eng">Checksum byte 2</tu>
+	<tu xmlns:lang="nld">Checksum byte 2</tu>
+	<tu xmlns:lang="fra">Total de contrôle octet 2.</tu>
+	<tu xmlns:lang="deu">Prüfsumme Byte 2</tu>
+	<tu xmlns:lang="ita">Somma di controllo - byte 2</tu>
+	<tu xmlns:lang="jpn">チェックサム バイト 2</tu>
+	<tu xmlns:lang="ptg">Soma de verificação, byte 2</tu>
+	<tu xmlns:lang="ptb">Byte de soma de verificação 2</tu>
+	<tu xmlns:lang="rus">Байт контрольной суммы 2</tu>
+	<tu xmlns:lang="esp">Byte 2 de suma de control</tu>
+	<tu xmlns:lang="chs">校验和字节 2</tu>
+	<tu xmlns:lang="kor">체크섬 바이트 2</tu>
+</tm>

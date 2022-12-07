@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@OIL_LEVEL_TOP_UP">
+	<tu xmlns:lang="eng">Oil level top up  -  Value</tu>
+	<tu xmlns:lang="nld">Oliepeil bijvullen  -  Waarde</tu>
+	<tu xmlns:lang="fra">Faites l'appoint d'huile  -  Valeur</tu>
+	<tu xmlns:lang="deu">Ölstand auffüllen  -  Wert</tu>
+	<tu xmlns:lang="ita">Rabbocco livello olio  -  Valore</tu>
+	<tu xmlns:lang="jpn">オイルの補充  －  数値</tu>
+	<tu xmlns:lang="ptg">Atestar o nível do óleo  -  Valor</tu>
+	<tu xmlns:lang="ptb">Enchimento do nível de óleo  -  Valor</tu>
+	<tu xmlns:lang="rus">Доливка масла  -  Значение</tu>
+	<tu xmlns:lang="esp">Reponer el nivel de aceite  -  Valor</tu>
+	<tu xmlns:lang="chs">机油加注  -  数值</tu>
+	<tu xmlns:lang="kor">오일 레벨 보충  -  값</tu>
+</tm>

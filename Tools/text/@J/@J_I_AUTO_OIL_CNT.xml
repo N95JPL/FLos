@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_AUTO_OIL_CNT">
+	<tu xmlns:lang="eng">Automatic oil counter synchronization</tu>
+	<tu xmlns:lang="nld">Synchronisatie van olieteller automatische transmissie</tu>
+	<tu
+    xmlns:lang="fra"
+  >Synchronisation du compteur automatique de vidange d'huile</tu>
+	<tu
+    xmlns:lang="deu"
+  >Synchronisierung - automatischer Zähler der Ölwechselanzeige</tu>
+	<tu xmlns:lang="ita">Sincronizzazione contatore olio automatico</tu>
+	<tu xmlns:lang="jpn">自動オイル カウンターの同期</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Sincronização do contador automático da mudança do óleo</tu>
+	<tu xmlns:lang="ptb">Sincronização automática do contador do óleo</tu>
+	<tu xmlns:lang="rus">Синхронизация автоматического счетчика расхода масла</tu>
+	<tu
+    xmlns:lang="esp"
+  >Sincronización del contador automático de cambio de aceite</tu>
+	<tu xmlns:lang="chs">自动润滑油计数器同步</tu>
+	<tu xmlns:lang="kor">자동 오일 카운터 동기화</tu>
+</tm>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ON_ROAD_HEIGHT">
+	<tu xmlns:lang="eng">On-road (normal) height</tu>
+	<tu xmlns:lang="nld">Rijhoogte (normaal)</tu>
+	<tu xmlns:lang="fra">Hauteur sur route (normale)</tu>
+	<tu xmlns:lang="deu">Straßenhöhe (normale Fahrhöhe)</tu>
+	<tu xmlns:lang="ita">Altezza (normale) su strada</tu>
+	<tu xmlns:lang="jpn">オンロード (ノーマル) ハイト</tu>
+	<tu xmlns:lang="ptg">Altura em estrada (normal)</tu>
+	<tu xmlns:lang="ptb">Altura na estrada (normal)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Высота кузова соответствующая движению по дороге (стандартная)</tu>
+	<tu xmlns:lang="esp">Altura en carretera (normal)</tu>
+	<tu xmlns:lang="chs">路上（正常）高度</tu>
+	<tu xmlns:lang="kor">온로드 (정상) 높이</tu>
+</tm>

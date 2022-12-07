@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_FORC_REGEN_TWO_MAN">
+	<tu
+    xmlns:lang="eng"
+  >Be advised that this is a two man operation and the Diagnostic Tool must remain connected to the vehicle whilst the regeneration is carried out.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Deze procedure dient u met twee personen uit te voeren en tijdens de regeneratie moet het diagnosesysteem op de auto aangesloten blijven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Notez que cette opération nécessite deux opérateurs et que l'outil de diagnostic doit rester connecté au véhicule pendant la procédure de régénération.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Bitte beachten, dass es sich hierbei um einen Arbeitsvorgang handelt, der von zwei Personen durchzuführen ist, und dass das Diagnosesystem an das Fahrzeug angeschlossen bleiben muss, während die Regenerierung läuft.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questa operazione deve essere eseguita da due persone e lo strumento diagnostico deve rimanere collegato al veicolo durante la procedura di rigenerazione.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >この作業は 2 名で行い、再生サイクルを実施する間、診断ツールを車両に接続したままにしなければならないことに注意してください。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Tenha em atenção que esta é uma operação para dois técnicos, sendo necessário que a ferramenta de diagnóstico permaneça ligada ao veículo durante a realização da regeneração.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esteja ciente de que essa operação deve ser executada por duas pessoas e de que a Ferramenta de Diagnóstico deve permanecer conectada ao veículo enquanto a regeneração é realizada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Рекомендуется выполнять эту операцию вдвоем; во время регенерации диагностическое устройство должно оставаться подключенным к автомобилю.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Tenga en cuenta que esta operación debe ser efectuada por dos técnicos y que la herramienta de diagnóstico debe permanecer conectada al vehículo mientras se realiza la regeneración.</tu>
+	<tu
+    xmlns:lang="chs"
+  >请注意，这个操作需要两个人合作进行，而且在执行再生期间，诊断工具必须保持连接至车辆。</tu>
+	<tu
+    xmlns:lang="kor"
+  >이 작업은 두 사람이 수행해야 하며 재생 작업이 수행되는 동안에는 진단 도구가 차량에 연결된 상태를 유지해야 합니다.</tu>
+</tm>

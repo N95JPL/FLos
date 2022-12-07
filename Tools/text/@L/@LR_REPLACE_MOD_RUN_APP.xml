@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LR_REPLACE_MOD_RUN_APP">
+	<tu
+    xmlns:lang="eng"
+  >Therefore, after finishing the replacement of the new module, please run the following from the Special application, Powertrain set up.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Nadat de nieuwe module is gemonteerd, moet u daarom het volgende uitvoeren onder 'Speciale toepassingen', 'Aandrijflijn instellen'.</tu>
+	<tu
+    xmlns:lang="fra"
+  >En conséquence, après avoir terminé le remplacement du module neuf, veuillez exécuter les points suivants dans l'application spéciale, configuration du groupe motopropulseur.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nachdem das neue Steuergerät eingebaut wurde die folgende Anwendung aus dem Menü Spezialanwendungen, Antriebsstrang-Einstellung laufen lassen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pertanto, dopo aver completato la sostituzione del nuovo modulo, eseguire la seguente procedura dall'applicazione Speciale, impostazione catena cinematica.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >したがって、新品モジュール交換後はスペシャル アプリケーション ? パワートレーン セットアップから次のことがらを実行しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deste modo, depois de concluir a substituição com o módulo novo, corra o seguinte a partir de Aplicação especial, Configuração do grupo motopropulsor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Por esse motivo, após o término da substituição do novo módulo, execute o seguinte no aplicativo Special, configuração de Powertrain.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Поэтому после завершения установки нового блока выполните запуск следующей процедуры в меню Специальное приложение, Настройка силового агрегата.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Por lo tanto, tras finalizar la sustitución del nuevo módulo, ejecutar la siguiente aplicación de Aplicación especial, Configuración del grupo motor y transmisión.</tu>
+	<tu
+    xmlns:lang="chs"
+  >因此，完成更换新模块后，请从特殊应用程序、动力总成设置，运行下列程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >따라서 신품 모듈 교체를 마친 후 특수 애플리케이션, 파워트레인 설정에서 다음을 실행하십시오.</tu>
+</tm>

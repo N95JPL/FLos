@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_CFG_ABS$M">
+	<tu xmlns:lang="eng">ABS control module</tu>
+	<tu xmlns:lang="nld">ABS regelmodule</tu>
+	<tu xmlns:lang="fra">Module de commande ABS</tu>
+	<tu xmlns:lang="deu">ABS steuermodul</tu>
+	<tu xmlns:lang="ita">ABS modulo di comando</tu>
+	<tu xmlns:lang="jpn">ABS コ・トロール モジュール</tu>
+	<tu xmlns:lang="ptg">Módulo de comando do ABS</tu>
+	<tu xmlns:lang="ptb">Módulo de controle do ABS</tu>
+	<tu xmlns:lang="rus">Блок управления ABS</tu>
+	<tu xmlns:lang="esp">ABS módulo de control</tu>
+	<tu xmlns:lang="chs">ABS 控制模块</tu>
+	<tu xmlns:lang="kor">ABS 컨트롤 모듈</tu>
+</tm>

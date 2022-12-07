@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_DTCMON_STATUS">
+	<tu xmlns:lang="eng">Diagnostic trouble code Status</tu>
+	<tu xmlns:lang="nld">DTC-status</tu>
+	<tu xmlns:lang="fra">Etat DTC</tu>
+	<tu xmlns:lang="deu">Fehlercode-Status</tu>
+	<tu xmlns:lang="ita">Stato di DTC</tu>
+	<tu xmlns:lang="jpn">DTC ステータス</tu>
+	<tu xmlns:lang="ptg">Estado do código de avaria</tu>
+	<tu xmlns:lang="ptb">Estado do código de problema de diagnóstico</tu>
+	<tu xmlns:lang="rus">Статус диагностического кода неисправности.</tu>
+	<tu xmlns:lang="esp">Estado del DTC</tu>
+	<tu xmlns:lang="chs">故障诊断代码状态</tu>
+	<tu xmlns:lang="kor">고장 진단 코드 상태</tu>
+</tm>

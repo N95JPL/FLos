@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RUSS_LCM_REPLACE_INFO">
+	<tu
+    xmlns:lang="eng"
+  >The lamp check module , once replaced, must then be configured.  The Diagnostic Tool will perform this once the new module is fitted.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De module voor de lampjescontrole moet na vervanging worden geconfigureerd. Het diagnosesysteem zal dit uitvoeren nadat de nieuwe module is gemonteerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le module de contrôle des ampoules, une fois remplacé, doit être configuré. L'outil de diagnostic procédera à la configuration du module neuf une fois monté.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das neu eingebaute Leuchtenprüfmodul muss konfiguriert werden. Die Konfigurierung erfolgt mit dem Diagnosesystem, nachdem das neue Modul eingebaut wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il modulo di controllo luce, una volta sostituito deve essere configurato. Lo strumento diagnostico eseguirà tale operazione dopo l'installazione del nuovo modulo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ランプ チェック モジュールを交換した場合、必ずコンフィギュレーションを行う必要があります。 新品のモジュールが取り付けられると、診断ツールはコンフィギュレーションを実行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >É necessário substituir o módulo de verificação de luzes depois de o substituir. Assim que o módulo novo é montado, a ferramenta de diagnóstico configura-o.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O módulo de verificação da lâmpada, quando substituído, deve ser configurado. A Ferramenta de Diagnóstico fará isso assim que o novo módulo for instalado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После замены модуля проверки сигнализаторов его следует настроить. После установки нового блока диагностическое устройство выполнит его настройку.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Después de sustituir el módulo de comprobación de luces, deberá configurarlo. La herramienta de diagnóstico llevará a cabo este procedimiento una vez instalado el módulo nuevo.</tu>
+	<tu
+    xmlns:lang="chs"
+  >一旦更换车灯检查模块，随后必须对其进行配置。 安装新模块后，诊断工具将会立即执行该程序。</tu>
+	<tu
+    xmlns:lang="kor"
+  >교체된 램프 점검 모듈은 구성 작업을 거쳐야 합니다. 새 모듈이 장착되면 진단 도구가 이를 수행합니다.</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@TakesUptoSeconds">
+	<tu xmlns:lang="eng">This process may take up to %d seconds</tu>
+	<tu xmlns:lang="nld">Dit proces kan tot %d seconden duren</tu>
+	<tu xmlns:lang="fra">Cette procédure peut prendre jusqu'à %d secondes</tu>
+	<tu xmlns:lang="deu">Dieser Vorgang kann bis zu %d Sekunden dauern</tu>
+	<tu xmlns:lang="ita">Questa procedura potrebbe richiedere fino a %d secondi</tu>
+	<tu xmlns:lang="jpn">この処理には最大 %d 秒かかる場合があります</tu>
+	<tu xmlns:lang="ptg">Este processo pode demorar até %d segundos</tu>
+	<tu xmlns:lang="ptb">Esse processo pode levar até %d segundos</tu>
+	<tu xmlns:lang="rus">Данный процесс занимает до %d секунд</tu>
+	<tu xmlns:lang="esp">Este proceso puede tardar hasta %d segundos</tu>
+	<tu xmlns:lang="chs">此流程可能最多需要 %d 秒</tu>
+	<tu xmlns:lang="kor">이 프로세스는 최대 %d초까지 소요될 수 있습니다.</tu>
+</tm>

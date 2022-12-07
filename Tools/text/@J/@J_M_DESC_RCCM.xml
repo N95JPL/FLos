@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_DESC_RCCM">
+	<tu xmlns:lang="eng">Rear climate control module</tu>
+	<tu xmlns:lang="nld">Module climate control achter</tu>
+	<tu xmlns:lang="fra">Module de commande de climatisation arrière</tu>
+	<tu xmlns:lang="deu">Klimaregelungsmodul hinten</tu>
+	<tu xmlns:lang="ita">Modulo comando climatizzazione posteriore</tu>
+	<tu xmlns:lang="jpn">リア エア コンディショニング モジュール</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Módulo de comando do controlo da climatização na parte traseira</tu>
+	<tu xmlns:lang="ptb">Módulo de controle da temperatura traseira.</tu>
+	<tu xmlns:lang="rus">Блок климат-контроля в задней части салона</tu>
+	<tu xmlns:lang="esp">Módulo de control de la climatización trasera</tu>
+	<tu xmlns:lang="chs">后部气候控制模块</tu>
+	<tu xmlns:lang="kor">리어 실내 온도 조절 장치</tu>
+</tm>

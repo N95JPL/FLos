@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_USE_WHEN_SERVICED">
+	<tu
+    xmlns:lang="eng"
+  >This needs to be used when a vehicle has been serviced.</tu>
+	<tu
+    xmlns:lang="nld"
+  >U dient dit te gebruiken nadat het voertuig een onderhoudsbeurt heeft gehad.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Ceci doit être utilisé lorsqu'un véhicule a été révisé.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Muss verwendet werden, nachdem eine Fahrzeuginspektion durchgeführt wurde.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Questo deve essere usato quando si è eseguita la manutenzione del veicolo.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両が修理されたときには、これを使用する必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Deve utilizar-se quando um veículo tiver sido reparado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Isto precisa ser usado quando um veículo esteve em manutenção.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Это необходимо использовать при проведении технического обслуживания автомобиля.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Debe utilizarse cuando se ha realizado la revisión del vehículo.</tu>
+	<tu xmlns:lang="chs">对车辆进行过维修后需要采用。</tu>
+	<tu
+    xmlns:lang="kor"
+  >차량 서비스를 받은 적이 있을 때 이 애플리케이션을 사용해야 합니다.</tu>
+</tm>

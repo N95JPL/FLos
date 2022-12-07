@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@LRS_FIT_SAS_ECU_WSHOP_MAN">
+	<tu
+    xmlns:lang="eng"
+  >Fit the new steering angle sensor electronic control unit, following the procedures and precautions described in the workshop manual.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Monteert u de nieuwe elektronische regelmodule van de stuuruitslagsensor, aan de hand van de procedures en voorzorgsmaatregelen die in het Werkplaatshandboek zijn omschreven.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Montez le nouveau module de commande électronique de capteur d'angle de direction en suivant les procédures et précautions décrites dans le manuel d'atelier.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Das neue elektronische Lenkwinkelsensor-Steuergerät einbauen, dabei Vorgehensweisen und Sicherheitshinweise im Werkstatthandbuch befolgen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Montare la nuova unità di comando elettronica sensore angolo di sterzata, osservando le procedure e le precauzioni descritte nel manuale d'officina.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ワークショップ マニュアルに記載の手順および注意事項に従ってステアリング アングル センサー エレクトロニック コントロール ユニットを交換しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Monte a nova unidade electrónica de controlo do sensor do ângulo da direcção, seguindo os procedimentos e atendendo às precauções descritas no manual de oficina.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Encaixe a nova unidade de controle eletrônico do sensor do ângulo de direção, seguindo os procedimentos e as precauções descritos no manual de oficina.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установите новый электронный блок управления датчиком угла поворота, соблюдая указания и меры предосторожности, описанные в руководстве по ремонту.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Montar el nuevo módulo de control electrónico del sensor del ángulo de la dirección siguiendo los procedimientos y precauciones descritos en el manual de taller.</tu>
+	<tu
+    xmlns:lang="chs"
+  >'遵循维修手册中描述的程序与防范措施，安装新的转向角传感器电子控制单元。'</tu>
+	<tu
+    xmlns:lang="kor"
+  >작업장 매뉴얼에 설명되어 있는 절차와 주의사항에 따라 신품 스티어링 각도 센서 전자 컨트롤 유닛을 장착하십시오.</tu>
+</tm>

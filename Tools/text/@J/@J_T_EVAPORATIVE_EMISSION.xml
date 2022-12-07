@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_T_EVAPORATIVE_EMISSION">
+	<tu xmlns:lang="eng">303-13 Evaporative emissions</tu>
+	<tu xmlns:lang="nld">303-13 Benzinedampafzuiging</tu>
+	<tu xmlns:lang="fra">303-13 Emissions dues à l'évaporation</tu>
+	<tu xmlns:lang="deu">303-13 Kraftstoffdampf-Rückhaltesystem</tu>
+	<tu xmlns:lang="ita">303-13 Emissioni evaporative</tu>
+	<tu xmlns:lang="jpn">303-13 エバポレーティブ エミッション</tu>
+	<tu xmlns:lang="ptg">303-13 Emissões de vapor de combustível</tu>
+	<tu xmlns:lang="ptb">303-13 Emissões evaporativas</tu>
+	<tu xmlns:lang="rus">303-13 Система отвода топливных паров</tu>
+	<tu xmlns:lang="esp">303-13 Sistema de control de emisiones por evaporación</tu>
+	<tu xmlns:lang="chs">303-13蒸发排放系统</tu>
+	<tu xmlns:lang="kor">303-13 증발 가스</tu>
+</tm>

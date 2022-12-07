@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_WHEEL_NOT_TEST_MODE">
+	<tu
+    xmlns:lang="eng"
+  >The wheel units are not in the correct test mode, do you wish to restart?</tu>
+	<tu
+    xmlns:lang="nld"
+  >De wieleenheden staan niet in de juist testfunctie. Wilt u opnieuw beginnen?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les unités de roues ne sont pas dans le mode de contrôle correct, souhaitez-vous recommencer ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Die Radmodule befinden sich nicht im korrekten Prüfmodus, möchten Sie erneut starten?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Le unità ruota non si trovano nella corretta modalità di prova, ricominciare?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >ホイール ユニットが適切なテスト モードになっていません。再スタートしますか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >As unidades das rodas não estão no modo de teste correcto; deseja reiniciar?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >As unidades de roda não estão no modo de teste correto, você deseja reiniciar?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Колесные узлы не приведены в требуемый режим тестирования. Выполнить перезапуск?</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los sensores-transmisores de neumático no están en el modo de comprobación correcto. ¿Desea reiniciar?</tu>
+	<tu xmlns:lang="chs">车轮单元未处于正确的测试模式，您想重新开始吗？</tu>
+	<tu
+    xmlns:lang="kor"
+  >휠 유닛이 올바른 테스트 모드에 있지 않은데, 다시 시작하시겠습니까?</tu>
+</tm>

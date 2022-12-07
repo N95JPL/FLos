@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_REAR_HEAT_SEAT_VAR_TEMP">
+	<tu xmlns:lang="eng">Rear heated seats - variable temperature</tu>
+	<tu xmlns:lang="nld">Verwarmde achterstoelen - variabele temperatuur</tu>
+	<tu xmlns:lang="fra">Sièges chauffants arrière - température variable</tu>
+	<tu xmlns:lang="deu">Rücksitzheizung - veränderliche Temperatur</tu>
+	<tu xmlns:lang="ita">Sedili riscaldati posteriori - temperatura variabile</tu>
+	<tu xmlns:lang="jpn">リア シート ヒーター － 可変温度</tu>
+	<tu xmlns:lang="ptg">Bancos traseiros aquecidos - temperatura variável</tu>
+	<tu xmlns:lang="ptb">Assentos traseiros aquecidos - temperatura variável</tu>
+	<tu xmlns:lang="rus">Задние сиденья с подогревом - регулируемая температура</tu>
+	<tu xmlns:lang="esp">Asientos térmicos traseros: temperatura variable</tu>
+	<tu xmlns:lang="chs">后座椅加热 - 可变温度</tu>
+	<tu xmlns:lang="kor">리어 열선내장 시트 - 가변적 온도</tu>
+</tm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EvapPurge">
+	<tu xmlns:lang="eng">Evaporative system</tu>
+	<tu xmlns:lang="nld">Benzinedampafzuigsysteem</tu>
+	<tu xmlns:lang="fra">Système de récupération</tu>
+	<tu xmlns:lang="deu">Kraftstoffdampf-Rückhaltesystem</tu>
+	<tu xmlns:lang="ita">Sistema emissioni evaporative</tu>
+	<tu xmlns:lang="jpn">エバポレーティブ システム</tu>
+	<tu xmlns:lang="ptg">Sistema de emissões de vapor</tu>
+	<tu xmlns:lang="ptb">Sistema de evaporação</tu>
+	<tu xmlns:lang="rus">Система отвода топливных паров </tu>
+	<tu xmlns:lang="esp">Sistema de control de emisiones de vapores de gasolina</tu>
+	<tu xmlns:lang="chs">蒸发系统</tu>
+	<tu xmlns:lang="kor">EVAP 시스템</tu>
+</tm>

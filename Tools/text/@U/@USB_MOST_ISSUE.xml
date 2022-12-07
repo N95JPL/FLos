@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@USB_MOST_ISSUE">
+	<tu xmlns:lang="eng">Problem with MOST system on the vehicle.</tu>
+	<tu xmlns:lang="nld">Probleem met MOST-kring van voertuig</tu>
+	<tu xmlns:lang="fra">Problème avec le système MOST sur le véhicule.</tu>
+	<tu xmlns:lang="deu">Problem mit dem MOST-Datenbus des Fahrzeugs.</tu>
+	<tu xmlns:lang="ita">Problema del sistema MOST sul veicolo.</tu>
+	<tu xmlns:lang="jpn">車両上の MOST システムの問題。</tu>
+	<tu xmlns:lang="ptg">Problema com o sistema MOST no veículo.</tu>
+	<tu xmlns:lang="ptb">Problema com o sistema MOST no veículo.</tu>
+	<tu xmlns:lang="rus">Проблема с системой MOST на автомобиле.</tu>
+	<tu xmlns:lang="esp">Problema en el sistema MOST del vehículo.</tu>
+	<tu xmlns:lang="chs">车辆上的 MOST 系统存在故障。</tu>
+	<tu xmlns:lang="kor">차량 MOST 시스템의 문제.</tu>
+</tm>

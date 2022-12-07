@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ABORT_BY_USER">
+	<tu xmlns:lang="eng">Test aborted by user</tu>
+	<tu xmlns:lang="nld">Test afgebroken door gebruiker</tu>
+	<tu xmlns:lang="fra">Test abandonné par l'utilisateur</tu>
+	<tu xmlns:lang="deu">Test vom Anwender abgebrochen</tu>
+	<tu xmlns:lang="ita">Prova terminata dall'utente</tu>
+	<tu xmlns:lang="jpn">ユーザーによりテスト中断</tu>
+	<tu xmlns:lang="ptg">Teste abortado pelo utilizador</tu>
+	<tu xmlns:lang="ptb">Teste cancelado pelo usuário</tu>
+	<tu xmlns:lang="rus">Проверка прервана пользователем</tu>
+	<tu xmlns:lang="esp">Prueba abortada por el usuario</tu>
+	<tu xmlns:lang="chs">测试被用户终止</tu>
+	<tu xmlns:lang="kor">사용자가 테스트를 중단했습니다.</tu>
+</tm>

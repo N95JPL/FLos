@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JSetHazardLightSwToOff$A">
+	<tu xmlns:lang="eng">Set Hazard Lamp switch to off</tu>
+	<tu xmlns:lang="nld">Schakel de alarmknipperlichten UIT</tu>
+	<tu xmlns:lang="fra">ETEINDRE le signal de détresse</tu>
+	<tu xmlns:lang="deu">Stellen Sie den Warnblinkleuchtenschalter auf AUS</tu>
+	<tu
+    xmlns:lang="ita"
+  >Mettere l'interruttore delle Luci di Emergenza su OFF (disinserite)</tu>
+	<tu xmlns:lang="jpn">ﾊｻﾞーﾄﾞ・ﾗｲﾄ・ｽｲｯﾁをｵﾌにしなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Colocar o interruptor dos intermitentes de perigo na posição de DESLIGADO</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Ajuste o interruptor da luz do pisca-alerta para a posição off (desligado)</tu>
+	<tu
+    xmlns:lang="rus"
+  >Установите выключатель аварийной сигнализации в положение OFF (ВЫКЛЮЧЕНО)</tu>
+	<tu
+    xmlns:lang="esp"
+  >Ponga el Interruptor de las Luces de Alarma en DESCONEXIÓN</tu>
+	<tu xmlns:lang="chs">将危险灯开关设置为OFF（关）</tu>
+	<tu xmlns:lang="kor">비상등 스위치를 끄기로 설정하십시오.</tu>
+</tm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_M_STATUS_CANCEL">
+	<tu xmlns:lang="eng">Current software download session cancelled.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De huidige sessie voor het downloaden van software is geannuleerd.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Session actuelle de téléchargement du logiciel annulée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Aktuelle Sitzung - Herunterladen von Software abgebrochen.</tu>
+	<tu xmlns:lang="ita">Sessione di scaricamento software corrente annullata.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >現在のソ\フトウェア ダウンロード セッションはキャンセルされました。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Actual sessão de descarregamento ('download') de software cancelada.</tu>
+	<tu xmlns:lang="ptb">Sessão de download de software atual cancelada.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Текущий сеанс загрузки программного обеспечения отменен.</tu>
+	<tu xmlns:lang="esp">Sesión de descarga de software actual cancelada.</tu>
+	<tu xmlns:lang="chs">已取消当前软件下载进程。</tu>
+	<tu xmlns:lang="kor">현재 소프트웨어 다운로드 세션이 취소됨</tu>
+</tm>

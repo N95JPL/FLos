@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@StopStart64">
+	<tu
+    xmlns:lang="eng"
+  >The secondary battery state of charge - Estimated (secondary battery) must be 80% or greater.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De Laadtoestand van de secundaire accu - Schatting (secundaire accu) moet 80% of meer bedragen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >L'état de charge de la batterie secondaire - Estimation (batterie secondaire) doit être égal ou supérieur à 80 %.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Ladezustand der Sekundärbatterie – Geschätzt (Sekundärbatterie) muss 80 % oder höher sein.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Lo stato di carica della batteria secondaria - Stimato (batteria secondaria) deve essere superiore o uguale all'80%.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >「セカンダリ バッテリーの充電状態 - 予測値 (セカンダリ バッテリー)」は 80% 以上でなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O estado de carga da bateria secundária - Estimado (bateria secundária) tem de ser 80% ou superior.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O estado de carga da bateria secundária - Estimado (bateria secundária) deve ser de 80% ou mais.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Состояние заряда вспомогательной аккумуляторной батареи (расчетное, вспомогательная аккумуляторная батарея) должно быть не менее 80 %.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El estado de carga de la batería auxiliar Estimado (batería auxiliar) debe ser del 80% o superior.</tu>
+	<tu
+    xmlns:lang="chs"
+  >将辅助蓄电池电荷状态 - 估计值（辅助蓄电池）必须等于或大于 80%。</tu>
+	<tu
+    xmlns:lang="kor"
+  >'보조 배터리 충전 상태 - 추정치(보조 배터리)'는 80% 이상이어야 합니다.</tu>
+</tm>

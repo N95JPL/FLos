@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_POW_STR">
+	<tu xmlns:lang="eng">Power striker</tu>
+	<tu xmlns:lang="nld">Elektrisch bediende slotvanger</tu>
+	<tu xmlns:lang="fra">Gâche électrique</tu>
+	<tu xmlns:lang="deu">Elektrisch betätigter Schließdorn</tu>
+	<tu xmlns:lang="ita">Scontrino elettrico</tu>
+	<tu xmlns:lang="jpn">電動ストライカ</tu>
+	<tu xmlns:lang="ptg">Batente eléctrico</tu>
+	<tu xmlns:lang="ptb">Percussor de potência</tu>
+	<tu xmlns:lang="rus">Язычок электрозамка</tu>
+	<tu xmlns:lang="esp">Resbalón eléctrico</tu>
+	<tu xmlns:lang="chs">电动拨叉</tu>
+	<tu xmlns:lang="kor">파워 스트라이커</tu>
+</tm>

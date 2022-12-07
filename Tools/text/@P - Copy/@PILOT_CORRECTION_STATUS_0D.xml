@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm id="@PILOT_CORRECTION_STATUS_0D">
+	<tu xmlns:lang="eng">0x0D : Currently learning pressure point 4.</tu>
+	<tu xmlns:lang="nld">0x0D : momenteel bezig met inleren van drukpunt 4.</tu>
+	<tu xmlns:lang="fra">0x0D : Apprentissage en cours pression point 4.</tu>
+	<tu xmlns:lang="deu">0x0D : Aktuelle Erlernung Druckpunkt 4.</tu>
+	<tu xmlns:lang="ita">0x0D : attualmente in corso apprendimento punto pressione 4.</tu>
+	<tu xmlns:lang="jpn">0x0D : 現在の学習プレッシャ ポイント 4。</tu>
+	<tu xmlns:lang="ptg">0x0D : A programar actualmente o ponto de pressão 4.</tu>
+	<tu xmlns:lang="ptb">0X0D : Atualmente aprendizagem do ponto de pressão 4.</tu>
+	<tu xmlns:lang="rus">0x0D : Точка 4 текущего контрольного значения давления.</tu>
+	<tu xmlns:lang="esp">0x0D: Aprendiendo el punto de presión 4.</tu>
+	<tu xmlns:lang="chs">0x0D： 当前记忆压力点4。</tu>
+	<tu xmlns:lang="kor">0x0D : 현재의 학습 압력 지점 4.</tu>
+</tm>

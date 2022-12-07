@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_F_DRIV_SBELT_SWITCH">
+	<tu xmlns:lang="eng">Driver's safety belt buckle switch</tu>
+	<tu xmlns:lang="nld">Bestuurdersstoel autogordelschakelaar</tu>
+	<tu
+    xmlns:lang="fra"
+  >Contacteur de boucle de ceinture de sécurité conducteur</tu>
+	<tu xmlns:lang="deu">Gurtschloßschalter Fahrersitz</tu>
+	<tu xmlns:lang="ita">Interruttore fibbia cintura sicurezza guidatore</tu>
+	<tu xmlns:lang="jpn">ドライバー シートベルト バックル スイッチ</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Interruptor do trinco do cinto de segurança do condutor.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Interruptor da fivela do cinto de segurança do motorista</tu>
+	<tu xmlns:lang="rus">Выключатель замка ремня безопасности водителя.</tu>
+	<tu xmlns:lang="esp">Interruptor de la hebilla del cinturón del conductor</tu>
+	<tu xmlns:lang="chs">驾驶员安全带锁扣开关。</tu>
+	<tu xmlns:lang="kor">운전석 안전벨트 버클 스위치</tu>
+</tm>

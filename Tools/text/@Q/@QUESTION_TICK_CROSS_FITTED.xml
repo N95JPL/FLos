@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@QUESTION_TICK_CROSS_FITTED">
+	<tu xmlns:lang="eng">Select tick if fitted, otherwise select the cross.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Selecteer het vinkje als het gemonteerd is, zo niet selecteert u het kruisje.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Sélectionnez la coche si monté, sinon sélectionnez la croix.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Falls eingebaut, das Häkchen antippen, anderenfalls das Kreuz.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Selezionare il segno di spunta se installato, altrimenti selezionare la crocetta.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >取り付けられている場合はティックを選択しなさい。それ以外は×を選択しなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Seleccione o visto se estiver montado; caso contrário, seleccione a cruz.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Selecione a marca se estiver instalada, caso contrário, selecione a cruz.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выберите галочку, если компонент установлен, в противном случае выберите крестик.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Seleccionar la marca de verificación si el componente está montado; en caso contrario, seleccionar la cruz.</tu>
+	<tu xmlns:lang="chs">如果配备了的话请选择勾选键，否则选择叉键。</tu>
+	<tu
+    xmlns:lang="kor"
+  >장착된 경우에는 체크 표시를, 그렇지 않으면 십자 기호를 선택하십시오.</tu>
+</tm>

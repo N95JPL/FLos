@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@JMemoryMovement$M">
+	<tu xmlns:lang="eng">Memory seat movement</tu>
+	<tu xmlns:lang="nld">Geheugenzitting beweger</tu>
+	<tu xmlns:lang="fra">Mouvement de siege a memoire</tu>
+	<tu xmlns:lang="deu">Speicher der sitzbewegung</tu>
+	<tu xmlns:lang="ita">Memoria di movimento del sedile</tu>
+	<tu xmlns:lang="jpn">メモリ シート調整</tu>
+	<tu xmlns:lang="ptg">Movimento do banco com memória</tu>
+	<tu xmlns:lang="ptb">Movimento do assento com memória</tu>
+	<tu xmlns:lang="rus">Регулировка сиденья с функцией памяти</tu>
+	<tu xmlns:lang="esp">Movimiento asiento con memoria</tu>
+	<tu xmlns:lang="chs">记忆座椅运动</tu>
+	<tu xmlns:lang="kor">메모리 시트 이동</tu>
+</tm>

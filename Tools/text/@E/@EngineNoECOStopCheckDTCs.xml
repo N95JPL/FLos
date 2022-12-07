@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@EngineNoECOStopCheckDTCs">
+	<tu
+    xmlns:lang="eng"
+  >Engine did not enter stop/start system stop mode.  Investigate any associated DTCs and re-run the test.</tu>
+	<tu
+    xmlns:lang="nld"
+  >De motor is niet in de stop-modus van het Stop/Start-systeem gekomen. Onderzoek alle verwante DTC's en voer de test opnieuw uit.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le moteur n'est pas entré en mode arrêt du système Arrêt/Démarrage. Rechercher les DTC associés et effectuer à nouveau le test.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Der Motor hat den Stoppmodus des Stopp/Start-Systems nicht aktiviert. Die zugehörigen DTCs prüfen und Test erneut ausführen.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il motore non è impostato sulla modalità di arresto del sistema Stop/Start. Esaminare gli eventuali DTC associati ed eseguire nuovamente la prova.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >エンジンはスタート/ストップ システム停止モードになりませんでした。 関連する DTC がないか調査して、テストを再実行します。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O motor não entrou no modo de paragem do sistema Stop/Start. Verifique se existem quaisquer códigos de avaria (DTC) associados e volte a executar o teste.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O motor não entrou no modo de parada do sistema stop/start. Investigar quaisquer DTCs associados e executar novamente o teste.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Двигатель не перешел в режим останова системы стоп/старт. Проверьте все соответствующие коды DTC и повторите проверку.</tu>
+	<tu
+    xmlns:lang="esp"
+  >El motor no ha entrado en el modo de parada del sistema Stop/Start. Investigue cualquier DTC asociado y repita la prueba.</tu>
+	<tu
+    xmlns:lang="chs"
+  >发动机没有进入停止/启动系统停止模式。 调查任何相关的 DTC 并重新运行测试。</tu>
+	<tu
+    xmlns:lang="kor"
+  >엔진이 Stop/Start 시스템 Stop 모드로 들어가지 않았습니다. 모든 관련 DTC를 조사하고 테스트를 다시 실행하십시오.</tu>
+</tm>

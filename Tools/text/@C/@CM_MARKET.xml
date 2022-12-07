@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@CM_MARKET">
+	<tu xmlns:lang="eng">Market specification.</tu>
+	<tu xmlns:lang="nld">Marktspecificatie</tu>
+	<tu xmlns:lang="fra">Spécification marché</tu>
+	<tu xmlns:lang="deu">Marktspezifikation</tu>
+	<tu xmlns:lang="ita">Specifica di mercato</tu>
+	<tu xmlns:lang="jpn">市場仕様</tu>
+	<tu xmlns:lang="ptg">Especificação do mercado.</tu>
+	<tu xmlns:lang="ptb">Especificação de mercado.</tu>
+	<tu xmlns:lang="rus">Данные по рынкам.</tu>
+	<tu xmlns:lang="esp">Especificación del mercado</tu>
+	<tu xmlns:lang="chs">市场标准。</tu>
+	<tu xmlns:lang="kor">시장 사양</tu>
+</tm>

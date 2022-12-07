@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@DeflateBoth$M">
+	<tu xmlns:lang="eng">Deflate both reservoirs and all air springs.</tu>
+	<tu xmlns:lang="nld">Laat de beide luchttanks en alle luchtveren leeglopen.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Dégonflez les réservoirs et tous les ressorts pneumatiques.</tu>
+	<tu xmlns:lang="deu">Beide Druckluftspeicher und alle Luftfedern entlüften.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Sgonfiare entrambi i serbatoi e tutte le molle pneumatiche.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >両方のリザーバおよびすべてのエア スプリングをエア減圧させなさい。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Retire o ar de ambos os depósitos e de todas as molas pneumáticas.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Esvazie os dois reservatórios e todas as molas pneumáticas.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Выпустить воздух из баллонов и всех пневматических амортизаторов.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Desinflar ambos depósitos y todos los muelles neumáticos.</tu>
+	<tu xmlns:lang="chs">将储气罐和所有空气弹簧都放气。</tu>
+	<tu xmlns:lang="kor">탱크와 모든 에어 스프링에서 공기 배출</tu>
+</tm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_VIN_RANGE_X350_OLD_ADHLS">
+	<tu
+    xmlns:lang="eng"
+  >Is the vehicle identification number greater than G00001 but less than G39155?</tu>
+	<tu
+    xmlns:lang="nld"
+  >Is het voertuigidentificatienummer hoger dan G00001 maar lager dan G39155?</tu>
+	<tu
+    xmlns:lang="fra"
+  >Le numéro d'identification du véhicule est-il supérieur à G00001 mais inférieur à G39155 ?</tu>
+	<tu
+    xmlns:lang="deu"
+  >Ist die Fahrgestellnummer größer als G00001 aber kleiner als G39155?</tu>
+	<tu
+    xmlns:lang="ita"
+  >Il numero di identificazione veicolo è superiore a G00001 ma inferiore a G39155?</tu>
+	<tu
+    xmlns:lang="jpn"
+  >車両 ID ナンバーは G00001 より大きく、G39155 より小さいですか？</tu>
+	<tu
+    xmlns:lang="ptg"
+  >O número de identificação do veículo é superior a G00001 mas inferior a G39155?</tu>
+	<tu
+    xmlns:lang="ptb"
+  >O número de identificação do veículo é maior do que G00001 mas menor do que G39155?</tu>
+	<tu
+    xmlns:lang="rus"
+  >Идентификационный номер автомобиля больше G00001, но меньше G39155?</tu>
+	<tu
+    xmlns:lang="esp"
+  >¿Es el número de identificación del vehículo superior a G00001 pero inferior a G39155?</tu>
+	<tu xmlns:lang="chs">车辆标识代码是否大于 G00001 但小于 G39155 ？</tu>
+	<tu xmlns:lang="kor">차량 식별 번호가 G00001보다 높고 G39155보다 낮습니까?</tu>
+</tm>

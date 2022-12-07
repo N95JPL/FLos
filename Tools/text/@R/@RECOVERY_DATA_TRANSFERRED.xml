@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@RECOVERY_DATA_TRANSFERRED">
+	<tu
+    xmlns:lang="eng"
+  >Recovery data successfully transferred to the Jaguar Land Rover approved USB flash drive.
+</tu>
+	<tu
+    xmlns:lang="nld"
+  >Herstelgegevens zijn succesvol overgezet naar de door Jaguar Land Rover goedgekeurde USB-stick.
+</tu>
+	<tu
+    xmlns:lang="fra"
+  >Les données de restauration ont été correctement transférées vers le lecteur USB agréé Jaguar Land Rover.
+</tu>
+	<tu
+    xmlns:lang="deu"
+  >Wiederherstellungsdaten wurden erfolgreich auf den von Jaguar Land Rover zugelassenen USB-Stick übertragen.
+</tu>
+	<tu
+    xmlns:lang="ita"
+  >Dati di ripristino trasferiti correttamente sull’unità flash USB approvata da Jaguar Land Rover.
+</tu>
+	<tu
+    xmlns:lang="jpn"
+  >リカバリ データは正常に Jaguar Land Rover 指定の USB フラッシュ ドライブに転送されました。
+</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Dados de recuperação transferidos com sucesso para a unidade flash USB aprovada pela Jaguar Land Rover.
+</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Dados de recuperação transferidos com sucesso para o Pen drive USB aprovado pela Jaguar Land Rover.
+</tu>
+	<tu
+    xmlns:lang="rus"
+  >Передача восстановленных данных на одобренный Jaguar Land Rover накопитель USB выполнена успешно.
+</tu>
+	<tu
+    xmlns:lang="esp"
+  >Los datos de recuperación se han transferido correctamente a la unidad de memoria USB homologada por Jaguar Land Rover.
+</tu>
+	<tu
+    xmlns:lang="chs"
+  >已成功将恢复数据传输至 Jaguar Land Rover 认可的 USB 闪存驱动器。
+</tu>
+	<tu
+    xmlns:lang="kor"
+  >복구 데이터가 Jaguar Land Rover 승인 USB 플래시 드라이브로 올바로 전송되었습니다.
+</tu>
+</tm>

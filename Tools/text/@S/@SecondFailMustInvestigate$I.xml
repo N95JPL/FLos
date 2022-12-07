@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@SecondFailMustInvestigate$I">
+	<tu
+    xmlns:lang="eng"
+  >If a second failure occurs the problem must be investigated.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Als het voor de tweede keer mislukt, moet u nagaan waardoor het probleem veroorzaakt wordt.</tu>
+	<tu
+    xmlns:lang="fra"
+  >S'il se produit une seconde défaillance, la cause du problème doit être recherchée.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Tritt eine zweite Störung auf, muss das Problem untersucht werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Se si verifica un secondo guasto, ricercare il problema.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >別の故障が発生した場合、問題を調査しなければなりません。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Se ocorrer uma segunda avaria, o problema deve ser investigado.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Se ocorrer uma segunda falha, o problema deve ser investigado.</tu>
+	<tu
+    xmlns:lang="rus"
+  >Если неисправность повторилась дважды, следует выяснить ее причину.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Si se produce un segundo fallo, se deberá investigar el problema.</tu>
+	<tu xmlns:lang="chs">如果第二次发生故障，则必须调查该问题。</tu>
+	<tu xmlns:lang="kor">두 번 실패할 경우 문제를 조사해야 합니다.</tu>
+</tm>

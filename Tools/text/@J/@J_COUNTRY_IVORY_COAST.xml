@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_COUNTRY_IVORY_COAST">
+	<tu xmlns:lang="eng">Ivory Coast</tu>
+	<tu xmlns:lang="nld">Ivoorkust</tu>
+	<tu xmlns:lang="fra">Côte d'ivoire</tu>
+	<tu xmlns:lang="deu">Côte d'Ivoire</tu>
+	<tu xmlns:lang="ita">Costa d'Avorio</tu>
+	<tu xmlns:lang="jpn">コートジボワール</tu>
+	<tu xmlns:lang="ptg">Costa do Marfim</tu>
+	<tu xmlns:lang="ptb">Costa do Marfim</tu>
+	<tu xmlns:lang="rus">Кот-д'Ивуар</tu>
+	<tu xmlns:lang="esp">Costa de Marfil</tu>
+	<tu xmlns:lang="chs">象牙海岸</tu>
+	<tu xmlns:lang="kor">코트디부아르</tu>
+</tm>

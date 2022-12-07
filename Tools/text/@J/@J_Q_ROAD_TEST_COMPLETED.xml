@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_Q_ROAD_TEST_COMPLETED">
+	<tu xmlns:lang="eng">Has the road test been completed?</tu>
+	<tu xmlns:lang="nld">Is de proefrit afgerond?</tu>
+	<tu xmlns:lang="fra">L'essai sur route a-t-il été terminé ?</tu>
+	<tu xmlns:lang="deu">Wurde die Probefahrt abgeschlossen?</tu>
+	<tu xmlns:lang="ita">La prova su strada è stata completata?</tu>
+	<tu xmlns:lang="jpn">ロードテストは完了しましたか？</tu>
+	<tu xmlns:lang="ptg">Foi realizado o teste em estrada?</tu>
+	<tu xmlns:lang="ptb">O teste de rodagem foi concluído?</tu>
+	<tu xmlns:lang="rus">Завершено ли дорожное испытание?</tu>
+	<tu xmlns:lang="esp">¿Se ha concluido la prueba de conducción?</tu>
+	<tu xmlns:lang="chs">路试是否已完成？</tu>
+	<tu xmlns:lang="kor">도로 주행 테스트가 완료되었습니까?</tu>
+</tm>

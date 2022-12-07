@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_LG_ELEC_CAL_VDSC">
+	<tu
+    xmlns:lang="eng"
+  >Large electrical parking brake caliper  -  Ventilated disc</tu>
+	<tu
+    xmlns:lang="nld"
+  >Grote remklauw van elektrische handrem   -  Geventileerde schijf</tu>
+	<tu
+    xmlns:lang="fra"
+  >Grand étrier de frein de stationnement électrique   -  Disque ventilé</tu>
+	<tu
+    xmlns:lang="deu"
+  >Großer Bremssattel, elektrisch betätigte Handbremse   -  Belüftete Scheibe</tu>
+	<tu
+    xmlns:lang="ita"
+  >Pinza freno di stazionamento elettrico grande  -  Disco ventilato</tu>
+	<tu
+    xmlns:lang="jpn"
+  >大型エレクトリック パーキング ブレーキ キャリパ  －  ベンチレーテッド ディスク</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Pinça grande do travão de mão eléctrico  -  Disco ventilado</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Pinça grande de freio de estacionamento elétrico  -  Disco ventilado</tu>
+	<tu
+    xmlns:lang="rus"
+  >Большой суппорт электрического стояночного тормоза   -  Вентилируемый диск</tu>
+	<tu
+    xmlns:lang="esp"
+  >Pinza de freno de estacionamiento eléctrico grande  -  Disco ventilado</tu>
+	<tu xmlns:lang="chs">大型电动驻车制动钳  -  通风型制动盘</tu>
+	<tu xmlns:lang="kor">대형 전자식 주차 브레이크 캘리퍼  -  환기 디스크</tu>
+</tm>

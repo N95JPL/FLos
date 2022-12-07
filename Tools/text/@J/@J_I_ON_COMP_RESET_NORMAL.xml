@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tm id="@J_I_ON_COMP_RESET_NORMAL">
+	<tu
+    xmlns:lang="eng"
+  >Once the required work has been completed, this application must be entered and the vehicle returned to normal mode.</tu>
+	<tu
+    xmlns:lang="nld"
+  >Zodra de benodigde werkzaamheden zijn uitgevoerd, moet deze toepassing worden gestart en het voertuig weer in de normale functie worden gezet.</tu>
+	<tu
+    xmlns:lang="fra"
+  >Une fois que le travail requis a été effectué, cette application doit être exécutée et le véhicule doit être ramené au mode normal.</tu>
+	<tu
+    xmlns:lang="deu"
+  >Nachdem die erforderlichen Arbeiten abgeschlossen wurden, muss dieses Anwendungsprogramm aufgerufen werden und das Fahrzeug muss in die normale Betriebsart zurückversetzt werden.</tu>
+	<tu
+    xmlns:lang="ita"
+  >Una volta ultimato il lavoro richiesto, occorre accedere a questa applicazione e riportare il veicolo alla modalità normale.</tu>
+	<tu
+    xmlns:lang="jpn"
+  >必要な作業を完了したのち、このアプリケーションに入って車両を通常モードに戻す必要があります。</tu>
+	<tu
+    xmlns:lang="ptg"
+  >Depois de concluir o trabalho necessário, deve entrar-se nesta aplicação e repor-se o veículo no modo normal.</tu>
+	<tu
+    xmlns:lang="ptb"
+  >Uma vez que o trabalho necessário tiver sido concluído, este aplicativo deverá ser inserido e o veículo volta ao modo normal.</tu>
+	<tu
+    xmlns:lang="rus"
+  >После выполнения необходимых операций нужно войти в это приложение и вернуть автомобиль в обычный режим.</tu>
+	<tu
+    xmlns:lang="esp"
+  >Una vez concluido el trabajo requerido, se debe entrar en esta aplicación y el vehículo debe volver al modo normal.</tu>
+	<tu
+    xmlns:lang="chs"
+  >一旦完成要求的工作，必须进入此应用程序，并让车辆恢复到正常模式。</tu>
+	<tu
+    xmlns:lang="kor"
+  >필요한 작업을 완료하면 이 애플리케이션으로 들어가고 차량이 정상 모드로 돌아와야 합니다.</tu>
+</tm>
