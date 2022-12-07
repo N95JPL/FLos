@@ -15,7 +15,7 @@ async function processLineByLine() {
     let newFile = "";
     let lastTime = 0;
     let i = 0;
-    const fileStream = fs.createReadStream(files[a]);
+    const fileStream = fs.createReadStream("./CanDump/" + files[a]);
     console.log("Converting: " + files[a] + "!");
     const rl = readline.createInterface({
       input: fileStream,
@@ -57,19 +57,19 @@ async function processLineByLine() {
         i < 2
           ? ""
           : msg[0] -
-            lastTime +
-            ":" +
-            "cansend can1 " +
-            newID +
-            "#" +
-            msg[3] +
-            "\n";
+          lastTime +
+          ":" +
+          "cansend can1 " +
+          newID +
+          "#" +
+          msg[3] +
+          "\n";
       lastTime = msg[0];
       i++;
     }
     // fs.unlinkSync(files[a])
     fs.writeFileSync("./CanDump/Converted/converted-" + files[a], newFile);
-    fs.writeFileSync("./CanBus Test Files/" + fileName + ".txt", fileLines);
+    fs.writeFileSync("./CanDump/CanBus Test Files/" + fileName + ".txt", fileLines);
     console.log("Converting complete - " + fileName);
   }
 }

@@ -4,10 +4,10 @@ const readline = require("readline");
 
 async function processLineByLine() {
   const files = fs
-    .readdirSync("../CanBus Test Files")
+    .readdirSync("./CanDump/CanBus Test Files")
     .filter((fn) => fn.includes(".txt"));
   for (const a in files) {
-    const fileStream = fs.createReadStream("./CanBus Test Files/" + files[a]);
+    const fileStream = fs.createReadStream("./CanDump/CanBus Test Files/" + files[a]);
     const rl = readline.createInterface({
       input: fileStream,
       crlfDelay: Infinity,
