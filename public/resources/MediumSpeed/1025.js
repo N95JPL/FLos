@@ -1,6 +1,6 @@
 const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
-const { VINDecode } = require("../XML/VINDecode");
-const { Vehicle_Manifest } = require("../XML/Vehicle_Manifest");
+const { VINDecode } = require("../JSON/VINDecode");
+const { Vehicle_Manifest } = require("../JSON/Vehicle_Manifest");
 const { vehicleInfo } = require("../VariableMaps/VehicleInfoVar");
 
 var arrBuilder = [
@@ -196,7 +196,7 @@ function ms1025(msg, window) {
           vehicleInfo.Transmission = "-";
           vehicleInfo.Engine = "-";
         }
-      } else if (vehicleInfo.vinDecode) {
+      } else if (vehicleInfo.vinDecode && vehicleInfo.eucdDecode) {
         setup = true;
         // && vehicleInfo.eucdDecode
         setTimeout(() => {

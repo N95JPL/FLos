@@ -25,6 +25,7 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "^5.1.0-next.14",
     "react-transition-group": "^4.4.2",
+    "socketcan": "^4.0.1",
     "tw-elements": "^1.0.0-alpha12",
     "xml2json": "^0.12.0",
     "zustand": "^4.0.0-rc.0"
@@ -67,7 +68,7 @@
     "electron": "npm run build && npm run electron-dev",
     "electron-dev": "BROWSER=none concurrently \"npm start\" \"wait-on http://localhost:3000 && electron .\"",
     "electron-pack": "electron-builder build",
-    "electron-build": "electron-rebuild -f && electron-builder --linux AppImage",
+    "electron-build": "electron-rebuild -f -a x64 && electron-builder build --linux AppImage --x64",
     "preelectron-build": "npm run build",
     "preelectron-pack": "npm run build",
     "postinstall": "electron-rebuild -f",
@@ -104,6 +105,15 @@
     "files": [
       "./src/**/*",
       "./build/**/*"
+    ],
+    "extraResources": [
+      {
+        "from": "./public/resources/JSON/",
+        "to": "JSON",
+        "filter": [
+          "**/*"
+        ]
+      }
     ],
     "directories": {
       "app": "./",

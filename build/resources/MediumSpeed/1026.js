@@ -1,6 +1,8 @@
+const fs = require("fs");
+const path = require('path')
 const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
-const { VINDecode } = require("../XML/VINDecode");
-const { Vehicle_Manifest } = require("../XML/Vehicle_Manifest");
+const { VINDecode } = require("../JSON/VINDecode");
+const { Vehicle_Manifest } = require("../JSON/Vehicle_Manifest");
 const { vehicleInfo } = require("../VariableMaps/VehicleInfoVar");
 
 var arrBuilder = [
@@ -42,11 +44,7 @@ var arrBuilder = [
   "-",
 ];
 //var Builder = []
-var CCF = "";
-var CCFString = "";
-var is_model = false;
-var manifest_id = "";
-
+var eucdData = []
 var setup = false;
 
 function ms1026(msg, window) {
@@ -66,9 +64,16 @@ function ms1026(msg, window) {
       arrBuilder[parseInt(arr[0]) - 1] = arrData;
       console.log("EUCD" + (arr[0] - 1) + ": " + arrBuilder[arr[0] - 1]);
     } else {
-      setup = true;
+      // setup = true;
       console.log("EUCD: " + arrBuilder);
       if (!vehicleInfo.eucdDecode && vehicleInfo.vinDecode) {
+        const configFile = path.join(path.dirname(process.resourcesPath), 'resources/JSON/CCF', "CCF_DATA_" + vehicleInfo.CCFID + ".json");
+        var data = fs.readFileSync(configFile);
+        data = JSON.parse(data);
+        for (var x = 0; x < arrBuilder.length; x++) {
+          var id = data.configuration_data.block[1].group[x].title.tm.id
+          console.log(id)
+        }
       }
     }
   }
