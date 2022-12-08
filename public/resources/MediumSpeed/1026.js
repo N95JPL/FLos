@@ -1,5 +1,6 @@
 const fs = require("fs");
-const path = require('path')
+const path = require('path');
+const isDev = require("electron-is-dev");
 const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
 const { VINDecode } = require("../JSON/VINDecode");
 const { Vehicle_Manifest } = require("../JSON/Vehicle_Manifest");
@@ -67,7 +68,12 @@ function ms1026(msg, window) {
       // setup = true;
       console.log("EUCD: " + arrBuilder);
       if (!vehicleInfo.eucdDecode && vehicleInfo.vinDecode) {
-        const configFile = path.join(path.dirname(process.resourcesPath), 'resources/JSON/CCF', "CCF_DATA_" + vehicleInfo.CCFID + ".json");
+        var configFile;
+        if (isDev) {
+          configFile = "../../../extraResources/JSON/CCF/CCF_DATA_" + vehicleInfo.CCFID + ".json";
+        } else {
+          configFile = path.join(path.dirname(process.resourcesPath), 'resources/JSON/CCF', "CCF_DATA_" + vehicleInfo.CCFID + ".json");
+        }
         var data = fs.readFileSync(configFile);
         data = JSON.parse(data);
         for (var x = 0; x < arrBuilder.length; x++) {
