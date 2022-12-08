@@ -2,6 +2,7 @@ const { ipcMain, app, BrowserWindow } = require("electron");
 const path = require("path");
 const isDev = require("electron-is-dev");
 const appPath = app.getPath("userData");
+console.log(appPath);
 let mainWindow;
 process.on("uncaughtException", (error) => {
   console.log("[ERROR]", error);

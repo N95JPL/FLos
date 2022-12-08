@@ -30,23 +30,29 @@ for (const a in folders) {
         });
         if (xmlObj.tm) {
             var name = xmlObj.tm.id;
-            combined[name] = {}
+            var id = name.substring(0, 2);
+            if (!combined[id]) {
+                combined[id] = {}
+            }
+            combined[id][name] = {}
             for (var x = 0; x < xmlObj.tm.tu.length; x++) {
-                combined[name][xmlObj.tm.tu[x]["xmlns:lang"]] = xmlObj.tm.tu[x].value
+                combined[id][name][xmlObj.tm.tu[x]["xmlns:lang"]] = xmlObj.tm.tu[x].value
             }
         } else {
             // console.log(xmlObj)
             for (var y = 0; y < xmlObj.text.mnemonic.length; y++) {
                 // console.log(xmlObj)
                 var name = xmlObj.text.mnemonic[y].id;
-                if (!combined[name]) {
-                    combined[name] = {}
+                var id = name.substring(0, 2);
+                if (!combined[id]) {
+                    combined[id] = {}
                 }
+                combined[id][name] = {}
                 // console.log(name)
                 var lang1 = files[b].split("_")[2].toLocaleLowerCase();
                 var lang = lang1.split(".")[0];
 
-                combined[name][lang] = xmlObj.text.mnemonic[y].value
+                combined[id][name][lang] = xmlObj.text.mnemonic[y].value
             }
 
         }
