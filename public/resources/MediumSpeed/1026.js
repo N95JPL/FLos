@@ -69,23 +69,50 @@ function ms1026(msg, window) {
       console.log("EUCD: " + arrBuilder);
       if (!vehicleInfo.eucdDecode && vehicleInfo.vinDecode) {
         var configFile;
+        var textDecodeFile;
         if (isDev) {
           configFile =
             "../../../extraResources/JSON/CCF/CCF_DATA_" +
             vehicleInfo.CCFID +
             ".json";
+          textDecodeFile = "../../extraResources/JSON/DecodeCCFText.json";
         } else {
           configFile = path.join(
             path.dirname(process.resourcesPath),
             "resources/JSON/CCF",
             "CCF_DATA_" + vehicleInfo.CCFID + ".json"
           );
+          textDecodeFile = path.join(
+            path.dirname(process.resourcesPath),
+            "resources/JSON",
+            "DecodeCCFText.json"
+          );
         }
         var data = fs.readFileSync(configFile);
+        var blockID;
         data = JSON.parse(data);
-        for (var x = 0; x < arrBuilder.length; x++) {
-          var id = data.configuration_data.block[1].group[x].title.tm.id;
-          var idCode = (eucdData[id] = []);
+        for (var w = 0; w < data.configuration_data.block.length; w++) {
+          if (data.configuration_data.block[w].name.includes("EUCD")) {
+            blockID = w
+            break
+          }
+        }
+        for (var x = 0; x <  data.configuration_data.block[blockID].group.length; x++) {
+          var id = data.configuration_data.block[blockID].group[x].title.tm.id;
+          if (!eucdData[id]){
+            eucdData[id] = {}
+          }
+          var startByte = data.configuration_data.block[blockID].group[x].start - 1
+          var endByte = data.configuration_data.block[blockID].group[x].stop
+          var testValue = arrBuilder.slice(start, stop).replace(",")
+          console.log(testValue)
+          for (var y = 0; y < data.configuration_data.block[blockID].group[x].parameter.select.option.length; y++){
+            if (data.configuration_data.block[blockID].group[x].parameter.select.option[y].value.replace("0x") == testValue){
+              var option = data.configuration_data.block[blockID].group[x].parameter.select.option[y].tm.id
+              eucdData[id]["optionID"] = option
+              console.log(eucdData[id][optionID])
+            }
+          }
         }
       }
     }
