@@ -1,5 +1,5 @@
 const fs = require("fs");
-const path = require('path');
+const path = require("path");
 const isDev = require("electron-is-dev");
 const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
 const { VINDecode } = require("../JSON/VINDecode");
@@ -45,7 +45,7 @@ var arrBuilder = [
   "-",
 ];
 //var Builder = []
-var eucdData = []
+var eucdData = [];
 var setup = false;
 
 function ms1026(msg, window) {
@@ -70,15 +70,22 @@ function ms1026(msg, window) {
       if (!vehicleInfo.eucdDecode && vehicleInfo.vinDecode) {
         var configFile;
         if (isDev) {
-          configFile = "../../../extraResources/JSON/CCF/CCF_DATA_" + vehicleInfo.CCFID + ".json";
+          configFile =
+            "../../../extraResources/JSON/CCF/CCF_DATA_" +
+            vehicleInfo.CCFID +
+            ".json";
         } else {
-          configFile = path.join(path.dirname(process.resourcesPath), 'resources/JSON/CCF', "CCF_DATA_" + vehicleInfo.CCFID + ".json");
+          configFile = path.join(
+            path.dirname(process.resourcesPath),
+            "resources/JSON/CCF",
+            "CCF_DATA_" + vehicleInfo.CCFID + ".json"
+          );
         }
         var data = fs.readFileSync(configFile);
         data = JSON.parse(data);
         for (var x = 0; x < arrBuilder.length; x++) {
-          var id = data.configuration_data.block[1].group[x].title.tm.id
-          console.log(id)
+          var id = data.configuration_data.block[1].group[x].title.tm.id;
+          var idCode = (eucdData[id] = []);
         }
       }
     }

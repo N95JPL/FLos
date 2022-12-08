@@ -9,11 +9,10 @@ for (const a in files) {
   var data = fs.readFileSync("../Tools/temp/" + files[a]);
   const xmlObj = xmlParser.toJson(data, {
     reversible: true,
-    coerce: true,
-    alternateTextNode: "value",
+    alternateTextNode: "text",
   });
   fs.writeFileSync(
-    "../public/resources/XML/CCF-XML/" + files[a].replace(".exml-decrypted", "") + ".json",
+    "../Tools/CCF-XML/" + files[a].replace(".exml-decrypted", "") + ".json",
     xmlObj
   );
 }
