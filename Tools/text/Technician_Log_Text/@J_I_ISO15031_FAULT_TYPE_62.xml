@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_62">
 <tu xmlns:lang="eng">Algorithm based failure - signal compare failure.</tu>
-<tu xmlns:lang="nld">Fout gebaseerd op algoritme - fout bij signaalvergelijking.</tu>
-<tu xmlns:lang="fra">Erreur d&#39;algorithme - erreur de comparaison du signal.</tu>
-<tu xmlns:lang="deu">Auf Algorithmus basierender Fehler - Signalvergleichsfehler.</tu>
+<tu
+    xmlns:lang="nld"
+  >Fout gebaseerd op algoritme - fout bij signaalvergelijking.</tu>
+<tu
+    xmlns:lang="fra"
+  >Erreur d&#39;algorithme - erreur de comparaison du signal.</tu>
+<tu
+    xmlns:lang="deu"
+  >Auf Algorithmus basierender Fehler - Signalvergleichsfehler.</tu>
 <tu xmlns:lang="ita">Guasto algoritmico - guasto di comparazione segnale.</tu>
-<tu xmlns:lang="jpn">ƒAƒ‹ƒSƒŠƒYƒ€ ƒx[ƒX‚Ì•s‹ï‡ | ƒVƒOƒiƒ‹”äŠr•s—Ç</tu>
-<tu xmlns:lang="ptg">Falha com base no algoritmo - falha na compara&#231;&#227;o do sinal.</tu>
-<tu xmlns:lang="rus">Îøèáêà àëãîðèòìà - îøèáêà ñðàâíåíèÿ ñèãíàëà.</tu>
-<tu xmlns:lang="esp">Fallo basado en algoritmos: fallo de comparaci&#243;n de se&#241;ales.</tu>
-<tu xmlns:lang="chs">Ëã·¨Ïà¹Ø¹ÊÕÏ - ÐÅºÅ±È½Ï¹ÊÕÏ¡£</tu>
+<tu xmlns:lang="jpn">ï¿½Aï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½Yï¿½ï¿½ ï¿½xï¿½[ï¿½Xï¿½Ì•sï¿½ï‡ ï¿½| ï¿½Vï¿½Oï¿½iï¿½ï¿½ï¿½ï¿½rï¿½sï¿½ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha com base no algoritmo - falha na compara&#231;&#227;o do sinal.</tu>
+<tu xmlns:lang="rus">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo basado en algoritmos: fallo de comparaci&#243;n de se&#241;ales.</tu>
+<tu xmlns:lang="chs">ï¿½ã·¨ï¿½ï¿½Ø¹ï¿½ï¿½ï¿½ - ï¿½ÅºÅ±È½Ï¹ï¿½ï¿½Ï¡ï¿½</tu>
 </tm>

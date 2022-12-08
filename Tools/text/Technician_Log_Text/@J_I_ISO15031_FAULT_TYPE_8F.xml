@@ -5,9 +5,13 @@
 <tu xmlns:lang="fra">D&#233;faut de signal / message bus - al&#233;atoire.</tu>
 <tu xmlns:lang="deu">Datenbus-Signal-/Meldungsfehler - erratisch.</tu>
 <tu xmlns:lang="ita">Guasto di segnale bus/messaggio - irregolare.</tu>
-<tu xmlns:lang="jpn">ѓoѓX ѓVѓOѓiѓ‹Ѓ^ѓЃѓbѓZЃ[ѓW•s—З Ѓ| •sђ®</tu>
+<tu xmlns:lang="jpn">пїЅoпїЅX пїЅVпїЅOпїЅiпїЅпїЅпїЅ^пїЅпїЅпїЅbпїЅZпїЅ[пїЅWпїЅsпїЅпїЅ пїЅ| пїЅsпїЅпїЅ</tu>
 <tu xmlns:lang="ptg">Falha na mensagem/sinal do bus - err&#225;tico.</tu>
-<tu xmlns:lang="rus">Ошибка передачи сигнала/сообщения по шине - неустойчивая работа.</tu>
-<tu xmlns:lang="esp">Fallo de se&#241;ales/mensajes del bus: mensajes err&#225;ticos.</tu>
-<tu xmlns:lang="chs">ЧЬПЯРЕєЕ/ПыПў№КХП - ТміЈЎЈ</tu>
+<tu
+    xmlns:lang="rus"
+  >пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ/пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo de se&#241;ales/mensajes del bus: mensajes err&#225;ticos.</tu>
+<tu xmlns:lang="chs">пїЅпїЅпїЅпїЅпїЅЕєпїЅ/пїЅпїЅПўпїЅпїЅпїЅпїЅ - пїЅміЈпїЅпїЅ</tu>
 </tm>

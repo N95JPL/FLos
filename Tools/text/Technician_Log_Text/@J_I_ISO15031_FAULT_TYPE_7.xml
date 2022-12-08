@@ -2,12 +2,22 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_7">
 <tu xmlns:lang="eng">General failure information - mechanical failure.</tu>
 <tu xmlns:lang="nld">Informatie over algemeen defect - mechanisch defect.</tu>
-<tu xmlns:lang="fra">Panne g&#233;n&#233;rale - d&#233;faillance m&#233;canique.</tu>
-<tu xmlns:lang="deu">Allgemeine St&#246;rungsinformation - mechanische St&#246;rung.</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne g&#233;n&#233;rale - d&#233;faillance m&#233;canique.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine St&#246;rungsinformation - mechanische St&#246;rung.</tu>
 <tu xmlns:lang="ita">Informazioni guasti generali - guasto meccanico. </tu>
-<tu xmlns:lang="jpn">€к”КЊМЏбЏо•с Ѓ| ‹@ЉB“IЊМЏб</tu>
-<tu xmlns:lang="ptg">Informa&#231;&#245;es gerais sobre a falha - falha mec&#226;nica.</tu>
-<tu xmlns:lang="rus">Сведения об общей неисправности - механическая неисправность.</tu>
-<tu xmlns:lang="esp">Informaci&#243;n de fallo general: fallo mec&#225;nico.</tu>
-<tu xmlns:lang="chs">Т»°г№КХПРЕПў - »ъРµ№КХПЎЈ</tu>
+<tu xmlns:lang="jpn">пїЅпїЅКЊМЏпїЅпїЅпїЅ пїЅ| пїЅ@пїЅBпїЅIпїЅМЏпїЅ</tu>
+<tu
+    xmlns:lang="ptg"
+  >Informa&#231;&#245;es gerais sobre a falha - falha mec&#226;nica.</tu>
+<tu
+    xmlns:lang="rus"
+  >пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
+<tu
+    xmlns:lang="esp"
+  >Informaci&#243;n de fallo general: fallo mec&#225;nico.</tu>
+<tu xmlns:lang="chs">Т»пїЅпїЅпїЅпїЅпїЅпїЅпїЅПў - пїЅпїЅРµпїЅпїЅпїЅПЎпїЅ</tu>
 </tm>

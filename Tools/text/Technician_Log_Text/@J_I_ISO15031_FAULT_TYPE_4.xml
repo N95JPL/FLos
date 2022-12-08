@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_4">
 <tu xmlns:lang="eng">General failure information - system internal failure.</tu>
-<tu xmlns:lang="nld">Informatie over algemeen defect -defect in inwendig systeem.</tu>
-<tu xmlns:lang="fra">Panne g&#233;n&#233;rale - d&#233;faillance interne du syst&#232;me.</tu>
-<tu xmlns:lang="deu">Allgemeine St&#246;rungsinformation - interne Systemst&#246;rung.</tu>
+<tu
+    xmlns:lang="nld"
+  >Informatie over algemeen defect -defect in inwendig systeem.</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne g&#233;n&#233;rale - d&#233;faillance interne du syst&#232;me.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine St&#246;rungsinformation - interne Systemst&#246;rung.</tu>
 <tu xmlns:lang="ita">Informazioni guasti generali - guasto interno sistema.</tu>
-<tu xmlns:lang="jpn">ˆê”ÊŒÌáî•ñ | ƒVƒXƒeƒ€“à•”ŒÌá</tu>
-<tu xmlns:lang="ptg">Informa&#231;&#245;es gerais sobre a falha - falha interna no sistema.</tu>
-<tu xmlns:lang="rus">Ñâåäåíèÿ îá îáùåé íåèñïðàâíîñòè - âíóòðåííèé îòêàç ñèñòåìû.</tu>
-<tu xmlns:lang="esp">Informaci&#243;n de fallo general: fallo interno del sistema.</tu>
-<tu xmlns:lang="chs">Ò»°ã¹ÊÕÏÐÅÏ¢ - ÏµÍ³ÄÚ²¿¹ÊÕÏ¡£</tu>
+<tu xmlns:lang="jpn">ï¿½ï¿½ÊŒÌï¿½ï¿½ï¿½ ï¿½| ï¿½Vï¿½Xï¿½eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Informa&#231;&#245;es gerais sobre a falha - falha interna no sistema.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Informaci&#243;n de fallo general: fallo interno del sistema.</tu>
+<tu xmlns:lang="chs">Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢ - ÏµÍ³ï¿½Ú²ï¿½ï¿½ï¿½ï¿½Ï¡ï¿½</tu>
 </tm>

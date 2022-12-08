@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_66">
-<tu xmlns:lang="eng">Algorithm based failure - signal has too many transitions/events.</tu>
-<tu xmlns:lang="nld">Fout gebaseerd op algoritme - het signaal heeft te veel overgangen/gebeurtenissen.</tu>
-<tu xmlns:lang="fra">Erreur d&#39;algorithme - signal a trop de transitions / d&#39;&#233;v&#233;nements.</tu>
-<tu xmlns:lang="deu">Auf Algorithmus basierender Fehler - Signal zeigt zu viele &#220;berg&#228;nge/Ereignisse.</tu>
-<tu xmlns:lang="ita">Guasto algoritmico - il segnale ha un numero eccessivo di transizioni/eventi.</tu>
-<tu xmlns:lang="jpn">ƒAƒ‹ƒSƒŠƒYƒ€ ƒx[ƒX‚Ì•s‹ï‡ | ƒVƒOƒiƒ‹•Ï‰»^ƒCƒxƒ“ƒg‰ß‘½</tu>
-<tu xmlns:lang="ptg">Falha com base no algoritmo - o sinal possui demasiadas transi&#231;&#245;es/eventos.</tu>
-<tu xmlns:lang="rus">Îøèáêà àëãîðèòìà - ñëèøêîì ìíîãî ñèãíàëüíûõ ïåðåõîäîâ/ñîáûòèé.</tu>
-<tu xmlns:lang="esp">Fallo basado en algoritmos: la se&#241;al tiene demasiadas variaciones.</tu>
-<tu xmlns:lang="chs">Ëã·¨Ïà¹Ø¹ÊÕÏ - ÐÅºÅ°üº¬µÄ×ª»»/ÊÂ¼þ¹ý¶à¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >Algorithm based failure - signal has too many transitions/events.</tu>
+<tu
+    xmlns:lang="nld"
+  >Fout gebaseerd op algoritme - het signaal heeft te veel overgangen/gebeurtenissen.</tu>
+<tu
+    xmlns:lang="fra"
+  >Erreur d&#39;algorithme - signal a trop de transitions / d&#39;&#233;v&#233;nements.</tu>
+<tu
+    xmlns:lang="deu"
+  >Auf Algorithmus basierender Fehler - Signal zeigt zu viele &#220;berg&#228;nge/Ereignisse.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto algoritmico - il segnale ha un numero eccessivo di transizioni/eventi.</tu>
+<tu xmlns:lang="jpn">ï¿½Aï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½Yï¿½ï¿½ ï¿½xï¿½[ï¿½Xï¿½Ì•sï¿½ï‡ ï¿½| ï¿½Vï¿½Oï¿½iï¿½ï¿½ï¿½Ï‰ï¿½ï¿½^ï¿½Cï¿½xï¿½ï¿½ï¿½gï¿½ß‘ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha com base no algoritmo - o sinal possui demasiadas transi&#231;&#245;es/eventos.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo basado en algoritmos: la se&#241;al tiene demasiadas variaciones.</tu>
+<tu xmlns:lang="chs">ï¿½ã·¨ï¿½ï¿½Ø¹ï¿½ï¿½ï¿½ - ï¿½ÅºÅ°ï¿½ï¿½ï¿½ï¿½ï¿½×ªï¿½ï¿½/ï¿½Â¼ï¿½ï¿½ï¿½ï¿½à¡£</tu>
 </tm>

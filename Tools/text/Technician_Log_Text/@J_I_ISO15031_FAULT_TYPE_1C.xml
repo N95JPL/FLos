@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_1C">
-<tu xmlns:lang="eng">General electrical failure - circuit voltage out of range.</tu>
-<tu xmlns:lang="nld">Algemeen elektrisch defect - circuitspanning buiten het bereik.</tu>
-<tu xmlns:lang="fra">Panne &#233;lectrique g&#233;n&#233;rale - tension de circuit hors limites.</tu>
-<tu xmlns:lang="deu">Allgemeine Elektrikst&#246;rung - Spannung im Stromkreis au&#223;erhalb des Bereichs.</tu>
-<tu xmlns:lang="ita">Guasto elettrico generale - tensione circuito fuori campo.</tu>
-<tu xmlns:lang="jpn">ˆê”ÊƒGƒŒƒNƒgƒŠƒJƒ‹ŒÌá | ƒT[ƒLƒbƒg“dˆ³A”ÍˆÍŠO</tu>
-<tu xmlns:lang="ptg">Falha el&#233;ctrica geral - tens&#227;o do circuito fora da gama.</tu>
-<tu xmlns:lang="rus">Ýëåêòðè÷åñêàÿ íåèñïðàâíîñòü îáùåãî õàðàêòåðà - íàïðÿæåíèå â öåïè íàõîäèòñÿ çà ïðåäåëàìè äîïóñòèìîãî äèàïàçîíà.</tu>
-<tu xmlns:lang="esp">Fallo el&#233;ctrico general: tensi&#243;n del circuito fuera de l&#237;mites.</tu>
-<tu xmlns:lang="chs">Ò»°ãµçÆø¹ÊÕÏ - µçÂ·µçÑ¹³¬³ö·¶Î§¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >General electrical failure - circuit voltage out of range.</tu>
+<tu
+    xmlns:lang="nld"
+  >Algemeen elektrisch defect - circuitspanning buiten het bereik.</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne &#233;lectrique g&#233;n&#233;rale - tension de circuit hors limites.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine Elektrikst&#246;rung - Spannung im Stromkreis au&#223;erhalb des Bereichs.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto elettrico generale - tensione circuito fuori campo.</tu>
+<tu xmlns:lang="jpn">ï¿½ï¿½ÊƒGï¿½ï¿½ï¿½Nï¿½gï¿½ï¿½ï¿½Jï¿½ï¿½ï¿½Ìï¿½ ï¿½| ï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½dï¿½ï¿½ï¿½Aï¿½ÍˆÍŠO</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha el&#233;ctrica geral - tens&#227;o do circuito fora da gama.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo el&#233;ctrico general: tensi&#243;n del circuito fuera de l&#237;mites.</tu>
+<tu xmlns:lang="chs">Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½Â·ï¿½ï¿½Ñ¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î§ï¿½ï¿½</tu>
 </tm>

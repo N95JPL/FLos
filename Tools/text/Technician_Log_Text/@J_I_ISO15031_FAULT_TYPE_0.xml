@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_0">
 <tu xmlns:lang="eng">General failure information - no sub type information.</tu>
-<tu xmlns:lang="nld">Informatie over algemeen defect - geen informatie op subniveau.</tu>
-<tu xmlns:lang="fra">Panne g&#233;n&#233;rale - pas d&#39;information plus pr&#233;cise.</tu>
-<tu xmlns:lang="deu">Allgemeine St&#246;rungsinformation - keine Untertypinformation.</tu>
-<tu xmlns:lang="ita">Informazioni guasti generali - nessuna informazione di sottotipo.</tu>
-<tu xmlns:lang="jpn">ˆê”ÊŒÌáî•ñ | ƒTƒu ƒ^ƒCƒvî•ñ‚È‚µ</tu>
-<tu xmlns:lang="ptg">Informa&#231;&#245;es gerais sobre a falha - sem informa&#231;&#245;es sobre o subtipo.</tu>
-<tu xmlns:lang="rus">Ñâåäåíèÿ îá îáùåé íåèñïðàâíîñòè - ñâåäåíèÿ ïî ïîäòèïó ñèãíàëà îòñóòñòâóþò.</tu>
-<tu xmlns:lang="esp">Informaci&#243;n de fallo general: no hay informaci&#243;n sobre tipo secundario.</tu>
-<tu xmlns:lang="chs">Ò»°ã¹ÊÕÏÐÅÏ¢ - ÎÞ×ÓÀàÐÍÐÅÏ¢¡£</tu>
+<tu
+    xmlns:lang="nld"
+  >Informatie over algemeen defect - geen informatie op subniveau.</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne g&#233;n&#233;rale - pas d&#39;information plus pr&#233;cise.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine St&#246;rungsinformation - keine Untertypinformation.</tu>
+<tu
+    xmlns:lang="ita"
+  >Informazioni guasti generali - nessuna informazione di sottotipo.</tu>
+<tu xmlns:lang="jpn">ï¿½ï¿½ÊŒÌï¿½ï¿½ï¿½ ï¿½| ï¿½Tï¿½u ï¿½^ï¿½Cï¿½vï¿½ï¿½ï¿½È‚ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Informa&#231;&#245;es gerais sobre a falha - sem informa&#231;&#245;es sobre o subtipo.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Informaci&#243;n de fallo general: no hay informaci&#243;n sobre tipo secundario.</tu>
+<tu xmlns:lang="chs">Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢ï¿½ï¿½</tu>
 </tm>

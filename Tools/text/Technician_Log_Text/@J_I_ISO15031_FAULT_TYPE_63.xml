@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_63">
-<tu xmlns:lang="eng">Algorithm based failure - circuit/component protection time out.</tu>
-<tu xmlns:lang="nld">Fout gebaseerd op algoritme - &#39;time out&#39; van circuit-/componentbeveiliging.</tu>
-<tu xmlns:lang="fra">Erreur d&#39;algorithme - d&#233;passement du temps de protection de circuit/composant.</tu>
-<tu xmlns:lang="deu">Auf Algorithmus basierender Fehler - Stromkreis-/Bauteilschutz-Zeit&#252;berschreitung.</tu>
-<tu xmlns:lang="ita">Guasto algoritmico - timeout di protezione circuito/componente.</tu>
-<tu xmlns:lang="jpn">ƒAƒ‹ƒSƒŠƒYƒ€ ƒx[ƒX‚Ì•s‹ï‡ | ƒT[ƒLƒbƒg^ƒRƒ“ƒ|[ƒlƒ“ƒg•ÛŒìƒ^ƒCƒ€ƒAƒEƒg</tu>
-<tu xmlns:lang="ptg">Falha com base no algoritmo - intervalo de protec&#231;&#227;o do circuito/componentes.</tu>
-<tu xmlns:lang="rus">Îøèáêà àëãîðèòìà - èñòå÷åíèå ëèìèòà âðåìåíè çàùèòû öåïè/êîìïîíåíòà.</tu>
-<tu xmlns:lang="esp">Fallo basado en algoritmos: fin del tiempo programado para protecci&#243;n de circuitos/componentes.</tu>
-<tu xmlns:lang="chs">Ëã·¨Ïà¹Ø¹ÊÕÏ - µçÂ·/Ôª¼þ±£»¤³¬Ê±¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >Algorithm based failure - circuit/component protection time out.</tu>
+<tu
+    xmlns:lang="nld"
+  >Fout gebaseerd op algoritme - &#39;time out&#39; van circuit-/componentbeveiliging.</tu>
+<tu
+    xmlns:lang="fra"
+  >Erreur d&#39;algorithme - d&#233;passement du temps de protection de circuit/composant.</tu>
+<tu
+    xmlns:lang="deu"
+  >Auf Algorithmus basierender Fehler - Stromkreis-/Bauteilschutz-Zeit&#252;berschreitung.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto algoritmico - timeout di protezione circuito/componente.</tu>
+<tu
+    xmlns:lang="jpn"
+  >ï¿½Aï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½Yï¿½ï¿½ ï¿½xï¿½[ï¿½Xï¿½Ì•sï¿½ï‡ ï¿½| ï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½^ï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½ÛŒï¿½^ï¿½Cï¿½ï¿½ï¿½Aï¿½Eï¿½g</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha com base no algoritmo - intervalo de protec&#231;&#227;o do circuito/componentes.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo basado en algoritmos: fin del tiempo programado para protecci&#243;n de circuitos/componentes.</tu>
+<tu xmlns:lang="chs">ï¿½ã·¨ï¿½ï¿½Ø¹ï¿½ï¿½ï¿½ - ï¿½ï¿½Â·/Ôªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½</tu>
 </tm>

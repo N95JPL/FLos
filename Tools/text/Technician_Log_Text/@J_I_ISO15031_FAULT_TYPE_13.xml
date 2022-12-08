@@ -3,12 +3,20 @@
 <tu xmlns:lang="eng">General electrical failure - circuit open.</tu>
 <tu xmlns:lang="nld">Algemeen elektrisch defect - open kring
 </tu>
-<tu xmlns:lang="fra">Panne &#233;lectrique g&#233;n&#233;rale - circuit ouvert.</tu>
-<tu xmlns:lang="deu">Allgemeine Elektrikst&#246;rung - Stromkreisunterbrechung.</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne &#233;lectrique g&#233;n&#233;rale - circuit ouvert.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine Elektrikst&#246;rung - Stromkreisunterbrechung.</tu>
 <tu xmlns:lang="ita">Guasto elettrico generale - circuito aperto.</tu>
-<tu xmlns:lang="jpn">€к”КѓGѓЊѓNѓgѓЉѓJѓ‹ЊМЏб Ѓ| ѓTЃ[ѓLѓbѓgЃAѓIЃ[ѓvѓ“</tu>
+<tu xmlns:lang="jpn">пїЅпїЅКѓGпїЅпїЅпїЅNпїЅgпїЅпїЅпїЅJпїЅпїЅпїЅМЏпїЅ пїЅ| пїЅTпїЅ[пїЅLпїЅbпїЅgпїЅAпїЅIпїЅ[пїЅvпїЅпїЅ</tu>
 <tu xmlns:lang="ptg">Falha el&#233;ctrica geral - circuito aberto.</tu>
-<tu xmlns:lang="rus">Электрическая неисправность общего характера - разрыв цепи.</tu>
-<tu xmlns:lang="esp">Fallo el&#233;ctrico general: interrupci&#243;n del circuito.</tu>
-<tu xmlns:lang="chs">Т»°гµзЖш№КХП - ¶ПВ·ЎЈ</tu>
+<tu
+    xmlns:lang="rus"
+  >пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo el&#233;ctrico general: interrupci&#243;n del circuito.</tu>
+<tu xmlns:lang="chs">Т»пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅВ·пїЅпїЅ</tu>
 </tm>

@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_97">
-<tu xmlns:lang="eng">Component failure - component or system operation obstructed or blocked.</tu>
-<tu xmlns:lang="nld">Component defect - component- of systeemwerking gehinderd of geblokkeerd.</tu>
-<tu xmlns:lang="fra">Composant d&#233;fectueux - composant ou fonctionnement du syst&#232;me entrav&#233; ou bloqu&#233;.</tu>
-<tu xmlns:lang="deu">Bauteilst&#246;rung - Bauteil- oder Systemfunktion behindert oder blockiert.</tu>
-<tu xmlns:lang="ita">Guasto componente - funzionamento componente o sistema ostruito o bloccato.</tu>
-<tu xmlns:lang="jpn">ƒRƒ“ƒ|[ƒlƒ“ƒgŒÌá | ƒRƒ“ƒ|[ƒlƒ“ƒg‚Ü‚½‚ÍƒVƒXƒeƒ€ ƒIƒyƒŒ[ƒVƒ‡ƒ“‘jŠQ‚Ü‚½‚ÍƒuƒƒbƒN</tu>
-<tu xmlns:lang="ptg">Falha de componente - funcionamento de componente ou sistema obstru&#237;do ou bloqueado.</tu>
-<tu xmlns:lang="rus">Îòêàç ýëåìåíòà - ðàáîòà ýëåìåíòà èëè ñèñòåìû çàòðóäíåíà èëè áëîêèðîâàíà.</tu>
-<tu xmlns:lang="esp">Fallo de componente: funcionamiento del componente o sistema obstruido o bloqueado.</tu>
-<tu xmlns:lang="chs">Ôª¼þ¹ÊÕÏ - Ôª¼þ»òÏµÍ³²Ù×÷ÊÜµ½×èÈû</tu>
+<tu
+    xmlns:lang="eng"
+  >Component failure - component or system operation obstructed or blocked.</tu>
+<tu
+    xmlns:lang="nld"
+  >Component defect - component- of systeemwerking gehinderd of geblokkeerd.</tu>
+<tu
+    xmlns:lang="fra"
+  >Composant d&#233;fectueux - composant ou fonctionnement du syst&#232;me entrav&#233; ou bloqu&#233;.</tu>
+<tu
+    xmlns:lang="deu"
+  >Bauteilst&#246;rung - Bauteil- oder Systemfunktion behindert oder blockiert.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto componente - funzionamento componente o sistema ostruito o bloccato.</tu>
+<tu
+    xmlns:lang="jpn"
+  >ï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½Ìï¿½ ï¿½| ï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½Ü‚ï¿½ï¿½ÍƒVï¿½Xï¿½eï¿½ï¿½ ï¿½Iï¿½yï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½jï¿½Qï¿½Ü‚ï¿½ï¿½Íƒuï¿½ï¿½ï¿½bï¿½N</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha de componente - funcionamento de componente ou sistema obstru&#237;do ou bloqueado.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo de componente: funcionamiento del componente o sistema obstruido o bloqueado.</tu>
+<tu xmlns:lang="chs">Ôªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - Ôªï¿½ï¿½ï¿½ï¿½ÏµÍ³ï¿½ï¿½ï¿½ï¿½ï¿½Üµï¿½ï¿½ï¿½ï¿½ï¿½</tu>
 </tm>

@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_82">
-<tu xmlns:lang="eng">Bus signal/message failure - alive/sequence counter is incorrect/not updated.</tu>
-<tu xmlns:lang="nld">Fout in bussignaal/-boodschap - alive/cyclusteller is onjuist/niet bijgewerkt.</tu>
-<tu xmlns:lang="fra">D&#233;faut de signal / message bus - compteur d&#39;activation / de s&#233;quence incorrect / non actualis&#233;.</tu>
-<tu xmlns:lang="deu">Datenbus-Signal-/Meldungsfehler - Aktiv-/Sequenzz&#228;hler ist falsch/nicht aktualisiert.</tu>
-<tu xmlns:lang="ita">Guasto di segnale bus/messaggio - contatore segnali in atto/sequenza errato/non aggiornato.</tu>
-<tu xmlns:lang="jpn">ƒoƒX ƒVƒOƒiƒ‹^ƒƒbƒZ[ƒW•s—Ç | ƒAƒ‰ƒCƒu^ƒV[ƒPƒ“ƒX ƒJƒEƒ“ƒ^[A•s³^XV‚³‚ê‚¸</tu>
-<tu xmlns:lang="ptg">Falha na mensagem/sinal do bus - contador em tempo real/sequencial est&#225; incorrecto/n&#227;o actualizado.</tu>
-<tu xmlns:lang="rus">Îøèáêà ïåðåäà÷è ñèãíàëà/ñîîáùåíèÿ ïî øèíå - íåïðàâèëüíûé/íå îáíîâëåííûé îïåðàòèâíûé ñ÷åò÷èê/ñ÷åò÷èê êîìàíä.</tu>
-<tu xmlns:lang="esp">Fallo de se&#241;ales/mensajes del bus: activo/contador de secuencias incorrecto/sin actualizar.</tu>
-<tu xmlns:lang="chs">×ÜÏßÐÅºÅ/ÏûÏ¢¹ÊÕÏ - ±£»î/Ë³Ðò¼ÆÊýÆ÷²»ÕýÈ·/Î´¸üÐÂ¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >Bus signal/message failure - alive/sequence counter is incorrect/not updated.</tu>
+<tu
+    xmlns:lang="nld"
+  >Fout in bussignaal/-boodschap - alive/cyclusteller is onjuist/niet bijgewerkt.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faut de signal / message bus - compteur d&#39;activation / de s&#233;quence incorrect / non actualis&#233;.</tu>
+<tu
+    xmlns:lang="deu"
+  >Datenbus-Signal-/Meldungsfehler - Aktiv-/Sequenzz&#228;hler ist falsch/nicht aktualisiert.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto di segnale bus/messaggio - contatore segnali in atto/sequenza errato/non aggiornato.</tu>
+<tu
+    xmlns:lang="jpn"
+  >ï¿½oï¿½X ï¿½Vï¿½Oï¿½iï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½sï¿½ï¿½ ï¿½| ï¿½Aï¿½ï¿½ï¿½Cï¿½uï¿½^ï¿½Vï¿½[ï¿½Pï¿½ï¿½ï¿½X ï¿½Jï¿½Eï¿½ï¿½ï¿½^ï¿½[ï¿½Aï¿½sï¿½ï¿½ï¿½^ï¿½Xï¿½Vï¿½ï¿½ï¿½ê‚¸</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha na mensagem/sinal do bus - contador em tempo real/sequencial est&#225; incorrecto/n&#227;o actualizado.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo de se&#241;ales/mensajes del bus: activo/contador de secuencias incorrecto/sin actualizar.</tu>
+<tu xmlns:lang="chs">ï¿½ï¿½ï¿½ï¿½ï¿½Åºï¿½/ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½/Ë³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È·/Î´ï¿½ï¿½ï¿½Â¡ï¿½</tu>
 </tm>

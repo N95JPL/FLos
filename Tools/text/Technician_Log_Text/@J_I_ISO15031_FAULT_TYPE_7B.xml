@@ -2,12 +2,16 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_7B">
 <tu xmlns:lang="eng">Mechanical failure - low fluid level.</tu>
 <tu xmlns:lang="nld">Mechanisch defect - vloeistofpeil te laag.</tu>
-<tu xmlns:lang="fra">D&#233;faillance m&#233;canique - bas niveau de liquide.</tu>
-<tu xmlns:lang="deu">Mechanische St&#246;rung - niedriger Fl&#252;ssigkeitsstand.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faillance m&#233;canique - bas niveau de liquide.</tu>
+<tu
+    xmlns:lang="deu"
+  >Mechanische St&#246;rung - niedriger Fl&#252;ssigkeitsstand.</tu>
 <tu xmlns:lang="ita">Guasto meccanico - basso livello fluido.</tu>
-<tu xmlns:lang="jpn">‹@ЉB“IЊМЏб Ѓ| ѓtѓ‹Ѓ[ѓh ѓЊѓxѓ‹ ѓЌЃ[</tu>
+<tu xmlns:lang="jpn">пїЅ@пїЅBпїЅIпїЅМЏпїЅ пїЅ| пїЅtпїЅпїЅпїЅ[пїЅh пїЅпїЅпїЅxпїЅпїЅ пїЅпїЅпїЅ[</tu>
 <tu xmlns:lang="ptg">Falha mec&#226;nica - n&#237;vel baixo de fluido.</tu>
-<tu xmlns:lang="rus">Механический отказ - низкий уровень жидкости.</tu>
+<tu xmlns:lang="rus">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
 <tu xmlns:lang="esp">Fallo mec&#225;nico: nivel bajo de l&#237;quido.</tu>
-<tu xmlns:lang="chs">»ъРµ№КХП - ТєО»№эµНЎЈ</tu>
+<tu xmlns:lang="chs">пїЅпїЅРµпїЅпїЅпїЅпїЅ - ТєО»пїЅпїЅпїЅНЎпїЅ</tu>
 </tm>

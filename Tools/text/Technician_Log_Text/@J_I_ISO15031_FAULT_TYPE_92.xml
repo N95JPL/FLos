@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_92">
-<tu xmlns:lang="eng">Component failure - performance or incorrect operation.</tu>
+<tu
+    xmlns:lang="eng"
+  >Component failure - performance or incorrect operation.</tu>
 <tu xmlns:lang="nld">Component defect - prestaties of onjuiste werking.</tu>
-<tu xmlns:lang="fra">Composant d&#233;fectueux - performance ou fonctionnement incorrect.</tu>
+<tu
+    xmlns:lang="fra"
+  >Composant d&#233;fectueux - performance ou fonctionnement incorrect.</tu>
 <tu xmlns:lang="deu">Bauteilst&#246;rung - Leistung oder Fehlfunktion.</tu>
-<tu xmlns:lang="ita">Guasto componente - prestazioni o funzionamento errato.</tu>
-<tu xmlns:lang="jpn">ƒRƒ“ƒ|[ƒlƒ“ƒgŒÌá | ƒpƒtƒH[ƒ}ƒ“ƒX‚Ü‚½‚ÍƒIƒyƒŒ[ƒVƒ‡ƒ“•s³</tu>
-<tu xmlns:lang="ptg">Falha de componente - desempenho ou funcionamento incorrecto.</tu>
-<tu xmlns:lang="rus">Îòêàç ýëåìåíòà - ôóíêöèîíèðîâàíèå èëè íåïðàâèëüíàÿ ðàáîòà.</tu>
-<tu xmlns:lang="esp">Fallo de componente: rendimiento o funcionamiento incorrecto.</tu>
-<tu xmlns:lang="chs">Ôª¼þ¹ÊÕÏ - ÐÔÄÜ»ò²»ÕýÈ·²Ù×÷¡£</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto componente - prestazioni o funzionamento errato.</tu>
+<tu
+    xmlns:lang="jpn"
+  >ï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½Ìï¿½ ï¿½| ï¿½pï¿½tï¿½Hï¿½[ï¿½}ï¿½ï¿½ï¿½Xï¿½Ü‚ï¿½ï¿½ÍƒIï¿½yï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha de componente - desempenho ou funcionamento incorrecto.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo de componente: rendimiento o funcionamiento incorrecto.</tu>
+<tu xmlns:lang="chs">Ôªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½Ü»ï¿½ï¿½ï¿½È·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</tu>
 </tm>

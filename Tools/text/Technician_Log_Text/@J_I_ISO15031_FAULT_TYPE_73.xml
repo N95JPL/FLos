@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_73">
 <tu xmlns:lang="eng">Mechanical failure - actuator is stuck closed.</tu>
-<tu xmlns:lang="nld">Mechanisch defect - actuator zit vast in gesloten stand.</tu>
-<tu xmlns:lang="fra">D&#233;faillance m&#233;canique - actionneur coinc&#233; en position ferm&#233;e.</tu>
-<tu xmlns:lang="deu">Mechanische St&#246;rung - Stellglied h&#228;ngt geschlossen fest.</tu>
+<tu
+    xmlns:lang="nld"
+  >Mechanisch defect - actuator zit vast in gesloten stand.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faillance m&#233;canique - actionneur coinc&#233; en position ferm&#233;e.</tu>
+<tu
+    xmlns:lang="deu"
+  >Mechanische St&#246;rung - Stellglied h&#228;ngt geschlossen fest.</tu>
 <tu xmlns:lang="ita">Guasto meccanico - attuatore inceppato chiuso.</tu>
-<tu xmlns:lang="jpn">‹@ŠB“IŒÌá | ƒAƒNƒ`ƒ…ƒG[ƒ^A•Â‚¶‚½‚Ü‚ÜŒÅ’…</tu>
-<tu xmlns:lang="ptg">Falha mec&#226;nica - activador est&#225; encravado na posi&#231;&#227;o fechada.</tu>
-<tu xmlns:lang="rus">Ìåõàíè÷åñêàÿ íåèñïðàâíîñòü - çàêëèíèâàíèå ïðèâîäà â çàêðûòîì ñîñòîÿíèè.</tu>
-<tu xmlns:lang="esp">Fallo mec&#225;nico: actuador agarrotado en posici&#243;n cerrada.</tu>
-<tu xmlns:lang="chs">»úÐµ¹ÊÕÏ - ÖÂ¶¯Æ÷¿¨ÔÚ¹Ø±ÕÎ»ÖÃ¡£</tu>
+<tu xmlns:lang="jpn">ï¿½@ï¿½Bï¿½Iï¿½Ìï¿½ ï¿½| ï¿½Aï¿½Nï¿½`ï¿½ï¿½ï¿½Gï¿½[ï¿½^ï¿½Aï¿½Â‚ï¿½ï¿½ï¿½ï¿½Ü‚ÜŒÅ’ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha mec&#226;nica - activador est&#225; encravado na posi&#231;&#227;o fechada.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo mec&#225;nico: actuador agarrotado en posici&#243;n cerrada.</tu>
+<tu xmlns:lang="chs">ï¿½ï¿½Ðµï¿½ï¿½ï¿½ï¿½ - ï¿½Â¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú¹Ø±ï¿½Î»ï¿½Ã¡ï¿½</tu>
 </tm>

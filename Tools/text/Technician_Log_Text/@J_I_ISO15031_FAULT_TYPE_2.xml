@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_2">
 <tu xmlns:lang="eng">General failure information - general signal failure.</tu>
-<tu xmlns:lang="nld">Informatie over algemeen defect - algemene signaalfout.</tu>
-<tu xmlns:lang="fra">Panne g&#233;n&#233;rale - panne de signalisation g&#233;n&#233;rale.</tu>
-<tu xmlns:lang="deu">Allgemeine St&#246;rungsinformation - allgemeine Signalst&#246;rung.</tu>
-<tu xmlns:lang="ita">Informazioni guasti generali - guasto generale di segnale.</tu>
-<tu xmlns:lang="jpn">ˆê”ÊŒÌáî•ñ | ˆê”ÊƒVƒOƒiƒ‹•s—Ç</tu>
-<tu xmlns:lang="ptg">Informa&#231;&#245;es gerais sobre a falha - falha geral no sinal.</tu>
-<tu xmlns:lang="rus">Ñâåäåíèÿ îá îáùåé íåèñïðàâíîñòè - îáùàÿ îøèáêà ñèãíàëà.</tu>
-<tu xmlns:lang="esp">Informaci&#243;n de fallo general: fallo general de se&#241;al.</tu>
-<tu xmlns:lang="chs">Ò»°ã¹ÊÕÏÐÅÏ¢ - Ò»°ãÐÅºÅ¹ÊÕÏ¡£</tu>
+<tu
+    xmlns:lang="nld"
+  >Informatie over algemeen defect - algemene signaalfout.</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne g&#233;n&#233;rale - panne de signalisation g&#233;n&#233;rale.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine St&#246;rungsinformation - allgemeine Signalst&#246;rung.</tu>
+<tu
+    xmlns:lang="ita"
+  >Informazioni guasti generali - guasto generale di segnale.</tu>
+<tu xmlns:lang="jpn">ï¿½ï¿½ÊŒÌï¿½ï¿½ï¿½ ï¿½| ï¿½ï¿½ÊƒVï¿½Oï¿½iï¿½ï¿½ï¿½sï¿½ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Informa&#231;&#245;es gerais sobre a falha - falha geral no sinal.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Informaci&#243;n de fallo general: fallo general de se&#241;al.</tu>
+<tu xmlns:lang="chs">Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢ - Ò»ï¿½ï¿½ï¿½ÅºÅ¹ï¿½ï¿½Ï¡ï¿½</tu>
 </tm>

@@ -2,12 +2,24 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_22">
 <tu xmlns:lang="eng">General signal failure - signal amplitude&gt;maximum.</tu>
 <tu xmlns:lang="nld">Algemene signaalfout - signaalamplitude &gt; maximum.</tu>
-<tu xmlns:lang="fra">Panne de signalisation g&#233;n&#233;rale - amplitude du signal&gt;maximum.</tu>
-<tu xmlns:lang="deu">Allgemeine Signalst&#246;rung - Amplitude des Signals &gt; Maximum.</tu>
-<tu xmlns:lang="ita">Guasto generale di segnale - ampiezza segnale maggiore del massimo.</tu>
-<tu xmlns:lang="jpn">€к”КѓVѓOѓiѓ‹•s—З Ѓ| ѓVѓOѓiѓ‹ђU•ќЃAЌЕ‘е’l€ИЏг</tu>
-<tu xmlns:lang="ptg">Falha geral no sinal - amplitude do sinal &gt; m&#225;ximo.</tu>
-<tu xmlns:lang="rus">Общая ошибка сигнала - амплитуда сигнала &gt; максимально допустимой.</tu>
-<tu xmlns:lang="esp">Fallo general de se&#241;al: amplitud de se&#241;ales &gt; m&#225;xima.</tu>
-<tu xmlns:lang="chs">Т»°гРЕєЕ№КХП - РЕєЕ·щЦµґуУЪЧоґуЦµЎЈ</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne de signalisation g&#233;n&#233;rale - amplitude du signal&gt;maximum.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine Signalst&#246;rung - Amplitude des Signals &gt; Maximum.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto generale di segnale - ampiezza segnale maggiore del massimo.</tu>
+<tu xmlns:lang="jpn">пїЅпїЅКѓVпїЅOпїЅiпїЅпїЅпїЅsпїЅпїЅ пїЅ| пїЅVпїЅOпїЅiпїЅпїЅпїЅUпїЅпїЅпїЅAпїЅЕ‘пїЅlпїЅИЏпїЅ</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha geral no sinal - amplitude do sinal &gt; m&#225;ximo.</tu>
+<tu
+    xmlns:lang="rus"
+  >пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ &gt; пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo general de se&#241;al: amplitud de se&#241;ales &gt; m&#225;xima.</tu>
+<tu xmlns:lang="chs">Т»пїЅпїЅпїЅЕєЕ№пїЅпїЅпїЅ - пїЅЕєЕ·пїЅЦµпїЅпїЅпїЅпїЅпїЅпїЅпїЅЦµпїЅпїЅ</tu>
 </tm>

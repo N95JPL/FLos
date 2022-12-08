@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_26">
-<tu xmlns:lang="eng">General signal failure - signal rate of change is below the threshold.</tu>
-<tu xmlns:lang="nld">Algemene signaalfout - veranderingssnelheid van signaal onder de drempel.</tu>
-<tu xmlns:lang="fra">Panne de signalisation g&#233;n&#233;rale - fr&#233;quence de variation du signal est inf&#233;rieure au seuil.</tu>
-<tu xmlns:lang="deu">Allgemeine Signalst&#246;rung - &#196;nderungsrate des Signals liegt unter Grenzwert.</tu>
-<tu xmlns:lang="ita">Guasto generale di segnale - velocit&#224; cambiamento segnale al di sotto del valore soglia.</tu>
-<tu xmlns:lang="jpn">ˆê”ÊƒVƒOƒiƒ‹•s—Ç | ƒVƒOƒiƒ‹•Ï‰»ƒŒ[ƒg‹K’è’lˆÈ‰º</tu>
-<tu xmlns:lang="ptg">Falha geral no sinal - frequ&#234;ncia de mudan&#231;a do sinal est&#225; abaixo do limiar.</tu>
-<tu xmlns:lang="rus">Îáùàÿ îøèáêà ñèãíàëà - ÷àñòîòà èçìåíåíèÿ ñèãíàëà íèæå ïîðîãîâîãî çíà÷åíèÿ.</tu>
-<tu xmlns:lang="esp">Fallo general de se&#241;al: rapidez de cambio de la se&#241;al por debajo del valor umbral.</tu>
-<tu xmlns:lang="chs">Ò»°ãÐÅºÅ¹ÊÕÏ - ÐÅºÅ±ä»¯ÂÊµÍÓÚÃÅÏÞÖµ¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >General signal failure - signal rate of change is below the threshold.</tu>
+<tu
+    xmlns:lang="nld"
+  >Algemene signaalfout - veranderingssnelheid van signaal onder de drempel.</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne de signalisation g&#233;n&#233;rale - fr&#233;quence de variation du signal est inf&#233;rieure au seuil.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine Signalst&#246;rung - &#196;nderungsrate des Signals liegt unter Grenzwert.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto generale di segnale - velocit&#224; cambiamento segnale al di sotto del valore soglia.</tu>
+<tu xmlns:lang="jpn">ï¿½ï¿½ÊƒVï¿½Oï¿½iï¿½ï¿½ï¿½sï¿½ï¿½ ï¿½| ï¿½Vï¿½Oï¿½iï¿½ï¿½ï¿½Ï‰ï¿½ï¿½ï¿½ï¿½[ï¿½gï¿½Kï¿½ï¿½lï¿½È‰ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha geral no sinal - frequ&#234;ncia de mudan&#231;a do sinal est&#225; abaixo do limiar.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo general de se&#241;al: rapidez de cambio de la se&#241;al por debajo del valor umbral.</tu>
+<tu xmlns:lang="chs">Ò»ï¿½ï¿½ï¿½ÅºÅ¹ï¿½ï¿½ï¿½ - ï¿½ÅºÅ±ä»¯ï¿½Êµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½</tu>
 </tm>

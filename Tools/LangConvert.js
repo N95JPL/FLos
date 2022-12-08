@@ -61,7 +61,7 @@ for (const a in folders) {
 }
 var output = JSON.stringify(combined, null, 4);
 fs.writeFileSync(
-    "./text/DecodeCCF.json", output
+    "./text/DecodeCCFText.json", output
 );
 const q = new Date();
 endTime = q.getTime();

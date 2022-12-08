@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_47">
 <tu xmlns:lang="eng">System internal failure - watchdog/safety failure.</tu>
-<tu xmlns:lang="nld">Intern defect in systeem - fout in &#39;watchdog&#39;/beveiliging.</tu>
-<tu xmlns:lang="fra">D&#233;faillance interne du syst&#232;me - d&#233;faut de chien de garde / s&#233;curit&#233;.</tu>
-<tu xmlns:lang="deu">Interne Systemst&#246;rung - Watchdog-/Sicherheitsfehler.</tu>
-<tu xmlns:lang="ita">Guasto interno sistema - guasto di circuito di sorveglianza/sicurezza.</tu>
-<tu xmlns:lang="jpn">ƒVƒXƒeƒ€“à•”ŒÌá | ŠÄŽ‹‹@”\\^ƒZ[ƒtƒeƒBŒÌá</tu>
-<tu xmlns:lang="ptg">Falha interna no sistema - falha de vigil&#226;ncia/seguran&#231;a.</tu>
-<tu xmlns:lang="rus">Âíóòðåííèé îòêàç ñèñòåìû - íåèñïðàâíîñòü ñòîðîæåâîé /îõðàííîé ñõåìû.</tu>
-<tu xmlns:lang="esp">Fallo interno del sistema: fallo del circuito de supervisi&#243;n (&#39;watchdog&#39;)/sistema de seguridad.</tu>
-<tu xmlns:lang="chs">ÏµÍ³ÄÚ²¿¹ÊÕÏ - ¿´ÃÅ¹·/°²È«¹ÊÕÏ¡£</tu>
+<tu
+    xmlns:lang="nld"
+  >Intern defect in systeem - fout in &#39;watchdog&#39;/beveiliging.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faillance interne du syst&#232;me - d&#233;faut de chien de garde / s&#233;curit&#233;.</tu>
+<tu
+    xmlns:lang="deu"
+  >Interne Systemst&#246;rung - Watchdog-/Sicherheitsfehler.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto interno sistema - guasto di circuito di sorveglianza/sicurezza.</tu>
+<tu xmlns:lang="jpn">ï¿½Vï¿½Xï¿½eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ ï¿½| ï¿½ÄŽï¿½ï¿½@ï¿½\\ï¿½^ï¿½Zï¿½[ï¿½tï¿½eï¿½Bï¿½Ìï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha interna no sistema - falha de vigil&#226;ncia/seguran&#231;a.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ /ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo interno del sistema: fallo del circuito de supervisi&#243;n (&#39;watchdog&#39;)/sistema de seguridad.</tu>
+<tu xmlns:lang="chs">ÏµÍ³ï¿½Ú²ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½Å¹ï¿½/ï¿½ï¿½È«ï¿½ï¿½ï¿½Ï¡ï¿½</tu>
 </tm>

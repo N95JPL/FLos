@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_19">
-<tu xmlns:lang="eng">General electrical failure - circuit current above threshold.</tu>
-<tu xmlns:lang="nld">Algemeen elektrisch defect - circuitstroomsterkte boven de drempel.</tu>
-<tu xmlns:lang="fra">Panne &#233;lectrique g&#233;n&#233;rale - courant de circuit sup&#233;rieur au seuil.</tu>
-<tu xmlns:lang="deu">Allgemeine Elektrikst&#246;rung - Strom im Stromkreis &#252;ber Grenzwert.</tu>
-<tu xmlns:lang="ita">Guasto elettrico generale - corrente circuito superiore a valore soglia.</tu>
-<tu xmlns:lang="jpn">ˆê”ÊƒGƒŒƒNƒgƒŠƒJƒ‹ŒÌá | ƒT[ƒLƒbƒg“d—¬A‹K’è’lˆÈã</tu>
-<tu xmlns:lang="ptg">Falha el&#233;ctrica geral - corrente do circuito acima do limiar.</tu>
-<tu xmlns:lang="rus">Ýëåêòðè÷åñêàÿ íåèñïðàâíîñòü îáùåãî õàðàêòåðà - ñèëà òîêà â öåïè âûøå ïîðîãîâîãî çíà÷åíèÿ.</tu>
-<tu xmlns:lang="esp">Fallo el&#233;ctrico general: corriente del circuito por encima del valor umbral.</tu>
-<tu xmlns:lang="chs">Ò»°ãµçÆø¹ÊÕÏ - µçÂ·µçÁ÷¸ßÓÚÃÅÏÞÖµ¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >General electrical failure - circuit current above threshold.</tu>
+<tu
+    xmlns:lang="nld"
+  >Algemeen elektrisch defect - circuitstroomsterkte boven de drempel.</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne &#233;lectrique g&#233;n&#233;rale - courant de circuit sup&#233;rieur au seuil.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine Elektrikst&#246;rung - Strom im Stromkreis &#252;ber Grenzwert.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto elettrico generale - corrente circuito superiore a valore soglia.</tu>
+<tu xmlns:lang="jpn">ï¿½ï¿½ÊƒGï¿½ï¿½ï¿½Nï¿½gï¿½ï¿½ï¿½Jï¿½ï¿½ï¿½Ìï¿½ ï¿½| ï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½dï¿½ï¿½ï¿½Aï¿½Kï¿½ï¿½lï¿½Èï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha el&#233;ctrica geral - corrente do circuito acima do limiar.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo el&#233;ctrico general: corriente del circuito por encima del valor umbral.</tu>
+<tu xmlns:lang="chs">Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½</tu>
 </tm>

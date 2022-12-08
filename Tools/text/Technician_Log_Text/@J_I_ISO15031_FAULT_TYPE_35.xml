@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_35">
-<tu xmlns:lang="eng">Frequency modulation/pulse width modulation failure - signal high time&gt;maximum.</tu>
-<tu xmlns:lang="nld">Fout in frequentiemodulatie / pulsbreedtemodulatie - hoge tijd van signaal &gt; maximum.</tu>
-<tu xmlns:lang="fra">D&#233;faut de modulation de fr&#233;quence / modulation de largeur d&#39;impulsions - dur&#233;e de signal haut&gt;maximum.</tu>
-<tu xmlns:lang="deu">St&#246;rung Frequenzmodulation/Impulsbreitenmodulation - Hochpegelzeit des Signals &gt; Maximum.</tu>
-<tu xmlns:lang="ita">Guasto di modulazione frequenza/modulazione durata impulsi - durata segnale alto maggiore del massimo.</tu>
-<tu xmlns:lang="jpn">Žü”g”•Ï’²^ƒpƒ‹ƒX••Ï’²•s—Ç | ƒVƒOƒiƒ‹ ƒnƒC ƒ^ƒCƒ€AÅ‘åˆÈã</tu>
-<tu xmlns:lang="ptg">Falha na modula&#231;&#227;o da frequ&#234;ncia/modula&#231;&#227;o por largura de impulso - tempo de sinal elevado &gt; m&#225;ximo.</tu>
-<tu xmlns:lang="rus">Îøèáêà ÷àñòîòíîé ìîäóëÿöèè/ØÈÌ - âðåìÿ ñèãíàëà âûñîêîãî óðîâíÿ &gt; ìàêñèìàëüíî äîïóñòèìîãî.</tu>
-<tu xmlns:lang="esp">Fallo de modulaci&#243;n de frecuencia/modulaci&#243;n de anchura de impulsos: duraci&#243;n de se&#241;al alta (l&#243;gica 1) &gt; m&#225;xima.</tu>
-<tu xmlns:lang="chs">ÆµÂÊµ÷ÖÆ/Âö¿íµ÷ÖÆ¹ÊÕÏ - ÐÅºÅ¸ßÎ»Ê±¼ä´óÓÚ×î´óÖµ¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >Frequency modulation/pulse width modulation failure - signal high time&gt;maximum.</tu>
+<tu
+    xmlns:lang="nld"
+  >Fout in frequentiemodulatie / pulsbreedtemodulatie - hoge tijd van signaal &gt; maximum.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faut de modulation de fr&#233;quence / modulation de largeur d&#39;impulsions - dur&#233;e de signal haut&gt;maximum.</tu>
+<tu
+    xmlns:lang="deu"
+  >St&#246;rung Frequenzmodulation/Impulsbreitenmodulation - Hochpegelzeit des Signals &gt; Maximum.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto di modulazione frequenza/modulazione durata impulsi - durata segnale alto maggiore del massimo.</tu>
+<tu
+    xmlns:lang="jpn"
+  >ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Ï’ï¿½ï¿½^ï¿½pï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½Ï’ï¿½ï¿½sï¿½ï¿½ ï¿½| ï¿½Vï¿½Oï¿½iï¿½ï¿½ ï¿½nï¿½C ï¿½^ï¿½Cï¿½ï¿½ï¿½Aï¿½Å‘ï¿½Èï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha na modula&#231;&#227;o da frequ&#234;ncia/modula&#231;&#227;o por largura de impulso - tempo de sinal elevado &gt; m&#225;ximo.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ &gt; ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo de modulaci&#243;n de frecuencia/modulaci&#243;n de anchura de impulsos: duraci&#243;n de se&#241;al alta (l&#243;gica 1) &gt; m&#225;xima.</tu>
+<tu xmlns:lang="chs">Æµï¿½Êµï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ¹ï¿½ï¿½ï¿½ - ï¿½ÅºÅ¸ï¿½Î»Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½</tu>
 </tm>

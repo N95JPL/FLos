@@ -2,12 +2,20 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_43">
 <tu xmlns:lang="eng">System internal failure - special memory failure.</tu>
 <tu xmlns:lang="nld">Intern defect in systeem - speciale geheugenfout.</tu>
-<tu xmlns:lang="fra">D&#233;faillance interne du syst&#232;me - d&#233;faut sp&#233;cifique de m&#233;moire.</tu>
-<tu xmlns:lang="deu">Interne Systemst&#246;rung - besonderer Speicherfehler.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faillance interne du syst&#232;me - d&#233;faut sp&#233;cifique de m&#233;moire.</tu>
+<tu
+    xmlns:lang="deu"
+  >Interne Systemst&#246;rung - besonderer Speicherfehler.</tu>
 <tu xmlns:lang="ita">Guasto interno sistema - guasto speciale di memoria.</tu>
-<tu xmlns:lang="jpn">ѓVѓXѓeѓЂ“а•”ЊМЏб Ѓ| “БЋкѓЃѓ‚ѓЉ•s—З</tu>
-<tu xmlns:lang="ptg">Falha interna no sistema - falha de mem&#243;ria especial.</tu>
-<tu xmlns:lang="rus">Внутренний отказ системы - неисправность памяти специальных команд.</tu>
+<tu xmlns:lang="jpn">пїЅVпїЅXпїЅeпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЏпїЅ пїЅ| пїЅпїЅпїЅкѓЃпїЅпїЅпїЅпїЅпїЅsпїЅпїЅ</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha interna no sistema - falha de mem&#243;ria especial.</tu>
+<tu
+    xmlns:lang="rus"
+  >пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
 <tu xmlns:lang="esp">Fallo interno del sistema: fallo especial de memoria.</tu>
-<tu xmlns:lang="chs">ПµНіДЪІї№КХП - МШКвґжґўЖч№КХПЎЈ</tu>
+<tu xmlns:lang="chs">ПµНіпїЅЪІпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅжґўпїЅпїЅпїЅпїЅпїЅПЎпїЅ</tu>
 </tm>

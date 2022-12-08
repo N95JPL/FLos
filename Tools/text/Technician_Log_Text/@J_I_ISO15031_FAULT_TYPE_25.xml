@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_25">
-<tu xmlns:lang="eng">General signal failure - signal shape/waveform failure.</tu>
+<tu
+    xmlns:lang="eng"
+  >General signal failure - signal shape/waveform failure.</tu>
 <tu xmlns:lang="nld">Algemene signaalfout - fout in signaalvorm/golfvorm.</tu>
-<tu xmlns:lang="fra">Panne de signalisation g&#233;n&#233;rale - d&#233;faut de forme / d&#39;onde du signal.</tu>
-<tu xmlns:lang="deu">Allgemeine Signalst&#246;rung - St&#246;rung Signalform/Signalkurve.</tu>
-<tu xmlns:lang="ita">Guasto generale di segnale - guasto di forma di segnale/forma d&#39;onda.</tu>
-<tu xmlns:lang="jpn">ˆê”ÊƒVƒOƒiƒ‹•s—Ç | ƒVƒOƒiƒ‹‚ÌŒ`ó^”gŒ`•s—Ç</tu>
-<tu xmlns:lang="ptg">Falha geral no sinal - falha na forma do sinal/forma de onda do sinal.</tu>
-<tu xmlns:lang="rus">Îáùàÿ îøèáêà ñèãíàëà - îøèáêà ôîðìû/ìîäóëÿöèè ñèãíàëà</tu>
-<tu xmlns:lang="esp">Fallo general de se&#241;al: fallo de forma de onda de se&#241;al.</tu>
-<tu xmlns:lang="chs">Ò»°ãÐÅºÅ¹ÊÕÏ - ÐÅºÅÐÎ×´/²¨ÐÎ´íÎó¡£</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne de signalisation g&#233;n&#233;rale - d&#233;faut de forme / d&#39;onde du signal.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine Signalst&#246;rung - St&#246;rung Signalform/Signalkurve.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto generale di segnale - guasto di forma di segnale/forma d&#39;onda.</tu>
+<tu xmlns:lang="jpn">ï¿½ï¿½ÊƒVï¿½Oï¿½iï¿½ï¿½ï¿½sï¿½ï¿½ ï¿½| ï¿½Vï¿½Oï¿½iï¿½ï¿½ï¿½ÌŒ`ï¿½ï¿½^ï¿½gï¿½`ï¿½sï¿½ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha geral no sinal - falha na forma do sinal/forma de onda do sinal.</tu>
+<tu xmlns:lang="rus">ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo general de se&#241;al: fallo de forma de onda de se&#241;al.</tu>
+<tu xmlns:lang="chs">Ò»ï¿½ï¿½ï¿½ÅºÅ¹ï¿½ï¿½ï¿½ - ï¿½Åºï¿½ï¿½ï¿½×´/ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½</tu>
 </tm>

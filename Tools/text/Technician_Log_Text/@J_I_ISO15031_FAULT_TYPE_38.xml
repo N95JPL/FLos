@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_38">
-<tu xmlns:lang="eng">Frequency modulation/pulse width modulation failure - signal frequency is incorrect.</tu>
-<tu xmlns:lang="nld">Fout in frequentiemodulatie / pulsbreedtemodulatie - signaalfrequentie is onjuist.</tu>
-<tu xmlns:lang="fra">D&#233;faut de modulation de fr&#233;quence / modulation de largeur d&#39;impulsions - fr&#233;quence du signal incorrecte.</tu>
-<tu xmlns:lang="deu">St&#246;rung Frequenzmodulation/Impulsbreitenmodulation - falsche Signalfrequenz.</tu>
-<tu xmlns:lang="ita">Guasto di modulazione frequenza/modulazione durata impulsi - frequenza segnale errata.</tu>
-<tu xmlns:lang="jpn">Žü”g”•Ï’²^ƒpƒ‹ƒX••Ï’²•s—Ç | ƒVƒOƒiƒ‹Žü”g”A•s³</tu>
-<tu xmlns:lang="ptg">Falha na modula&#231;&#227;o da frequ&#234;ncia/modula&#231;&#227;o por largura de impulso - frequ&#234;ncia do sinal est&#225; incorrecta.</tu>
-<tu xmlns:lang="rus">Îøèáêà ÷àñòîòíîé ìîäóëÿöèè/ØÈÌ - íåâåðíàÿ ÷àñòîòà ñèãíàëà.</tu>
-<tu xmlns:lang="esp">Fallo de modulaci&#243;n de frecuencia/modulaci&#243;n de anchura de impulsos: frecuencia de se&#241;al incorrecta.</tu>
-<tu xmlns:lang="chs">ÆµÂÊµ÷ÖÆ/Âö¿íµ÷ÖÆ¹ÊÕÏ - ÐÅºÅÆµÂÊ²»ÕýÈ·¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >Frequency modulation/pulse width modulation failure - signal frequency is incorrect.</tu>
+<tu
+    xmlns:lang="nld"
+  >Fout in frequentiemodulatie / pulsbreedtemodulatie - signaalfrequentie is onjuist.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faut de modulation de fr&#233;quence / modulation de largeur d&#39;impulsions - fr&#233;quence du signal incorrecte.</tu>
+<tu
+    xmlns:lang="deu"
+  >St&#246;rung Frequenzmodulation/Impulsbreitenmodulation - falsche Signalfrequenz.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto di modulazione frequenza/modulazione durata impulsi - frequenza segnale errata.</tu>
+<tu xmlns:lang="jpn">ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Ï’ï¿½ï¿½^ï¿½pï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½Ï’ï¿½ï¿½sï¿½ï¿½ ï¿½| ï¿½Vï¿½Oï¿½iï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Aï¿½sï¿½ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha na modula&#231;&#227;o da frequ&#234;ncia/modula&#231;&#227;o por largura de impulso - frequ&#234;ncia do sinal est&#225; incorrecta.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo de modulaci&#243;n de frecuencia/modulaci&#243;n de anchura de impulsos: frecuencia de se&#241;al incorrecta.</tu>
+<tu xmlns:lang="chs">Æµï¿½Êµï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ¹ï¿½ï¿½ï¿½ - ï¿½Åºï¿½Æµï¿½Ê²ï¿½ï¿½ï¿½È·ï¿½ï¿½</tu>
 </tm>

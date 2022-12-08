@@ -2,12 +2,18 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_42">
 <tu xmlns:lang="eng">System internal failure - general memory failure.</tu>
 <tu xmlns:lang="nld">Intern defect in systeem - algemene geheugenfout.</tu>
-<tu xmlns:lang="fra">D&#233;faillance interne du syst&#232;me - d&#233;faut g&#233;n&#233;ral de m&#233;moire.</tu>
-<tu xmlns:lang="deu">Interne Systemst&#246;rung - allgemeiner Speicherfehler.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faillance interne du syst&#232;me - d&#233;faut g&#233;n&#233;ral de m&#233;moire.</tu>
+<tu
+    xmlns:lang="deu"
+  >Interne Systemst&#246;rung - allgemeiner Speicherfehler.</tu>
 <tu xmlns:lang="ita">Guasto interno sistema - guasto generale di memoria.</tu>
-<tu xmlns:lang="jpn">ѓVѓXѓeѓЂ“а•”ЊМЏб Ѓ| €к”КѓЃѓ‚ѓЉ•s—З</tu>
-<tu xmlns:lang="ptg">Falha interna no sistema - falha geral na mem&#243;ria.</tu>
-<tu xmlns:lang="rus">Внутренний отказ системы - общая ошибка памяти.</tu>
+<tu xmlns:lang="jpn">пїЅVпїЅXпїЅeпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЏпїЅ пїЅ| пїЅпїЅКѓпїЅпїЅпїЅпїЅпїЅпїЅsпїЅпїЅ</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha interna no sistema - falha geral na mem&#243;ria.</tu>
+<tu xmlns:lang="rus">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
 <tu xmlns:lang="esp">Fallo interno del sistema: fallo general de memoria.</tu>
-<tu xmlns:lang="chs">ПµНіДЪІї№КХП - Т»°гґжґўЖч№КХПЎЈ</tu>
+<tu xmlns:lang="chs">ПµНіпїЅЪІпїЅпїЅпїЅпїЅпїЅ - Т»пїЅпїЅжґўпїЅпїЅпїЅпїЅпїЅПЎпїЅ</tu>
 </tm>

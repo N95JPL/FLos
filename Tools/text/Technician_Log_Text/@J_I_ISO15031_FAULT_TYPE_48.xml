@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_48">
-<tu xmlns:lang="eng">System internal failure - supervision software failure.</tu>
-<tu xmlns:lang="nld">Intern defect in systeem - fout in supervisie-software.</tu>
-<tu xmlns:lang="fra">D&#233;faillance interne du syst&#232;me - d&#233;faut de logiciel de supervision.</tu>
-<tu xmlns:lang="deu">Interne Systemst&#246;rung - &#220;berwachungssoftwarefehler.</tu>
-<tu xmlns:lang="ita">Guasto interno sistema - guasto di software di supervisione.</tu>
-<tu xmlns:lang="jpn">ƒVƒXƒeƒ€“à•”ŒÌá | ŠÇ—ƒ\\ƒtƒgƒEƒFƒA•s—Ç</tu>
-<tu xmlns:lang="ptg">Falha interna no sistema - falha no software de supervis&#227;o.</tu>
-<tu xmlns:lang="rus">Âíóòðåííèé îòêàç ñèñòåìû - íåèñïðàâíîñòü ïðîãðàììû êîíòðîëÿ.</tu>
-<tu xmlns:lang="esp">Fallo interno del sistema: fallo del software de supervisi&#243;n.</tu>
-<tu xmlns:lang="chs">ÏµÍ³ÄÚ²¿¹ÊÕÏ - ¼à²âÈí¼þ¹ÊÕÏ¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >System internal failure - supervision software failure.</tu>
+<tu
+    xmlns:lang="nld"
+  >Intern defect in systeem - fout in supervisie-software.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faillance interne du syst&#232;me - d&#233;faut de logiciel de supervision.</tu>
+<tu
+    xmlns:lang="deu"
+  >Interne Systemst&#246;rung - &#220;berwachungssoftwarefehler.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto interno sistema - guasto di software di supervisione.</tu>
+<tu xmlns:lang="jpn">ï¿½Vï¿½Xï¿½eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ ï¿½| ï¿½Ç—ï¿½ï¿½\\ï¿½tï¿½gï¿½Eï¿½Fï¿½Aï¿½sï¿½ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha interna no sistema - falha no software de supervis&#227;o.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo interno del sistema: fallo del software de supervisi&#243;n.</tu>
+<tu xmlns:lang="chs">ÏµÍ³ï¿½Ú²ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¡ï¿½</tu>
 </tm>

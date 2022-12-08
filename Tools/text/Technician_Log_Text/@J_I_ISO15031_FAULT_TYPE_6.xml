@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_6">
 <tu xmlns:lang="eng">General failure information - algorithm based failure.</tu>
-<tu xmlns:lang="nld">Informatie over algemeen defect - fout gebaseerd op algoritme.</tu>
+<tu
+    xmlns:lang="nld"
+  >Informatie over algemeen defect - fout gebaseerd op algoritme.</tu>
 <tu xmlns:lang="fra">Panne g&#233;n&#233;rale - erreur d&#39;algorithme.</tu>
-<tu xmlns:lang="deu">Allgemeine St&#246;rungsinformation - auf Algorithmus basierender Fehler.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine St&#246;rungsinformation - auf Algorithmus basierender Fehler.</tu>
 <tu xmlns:lang="ita">Informazioni guasti generali - guasto algoritmico.</tu>
-<tu xmlns:lang="jpn">ˆê”ÊŒÌáî•ñ | ƒAƒ‹ƒSƒŠƒYƒ€ ƒx[ƒX‚Ì•s‹ï‡</tu>
-<tu xmlns:lang="ptg">Informa&#231;&#245;es gerais sobre a falha - falha com base no algoritmo.</tu>
-<tu xmlns:lang="rus">Ñâåäåíèÿ îá îáùåé íåèñïðàâíîñòè - îøèáêà àëãîðèòìà.</tu>
-<tu xmlns:lang="esp">Informaci&#243;n de fallo general: fallo basado en algoritmos.</tu>
-<tu xmlns:lang="chs">Ò»°ã¹ÊÕÏÐÅÏ¢ - Ëã·¨Ïà¹Ø¹ÊÕÏ¡£</tu>
+<tu xmlns:lang="jpn">ï¿½ï¿½ÊŒÌï¿½ï¿½ï¿½ ï¿½| ï¿½Aï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½Yï¿½ï¿½ ï¿½xï¿½[ï¿½Xï¿½Ì•sï¿½ï‡</tu>
+<tu
+    xmlns:lang="ptg"
+  >Informa&#231;&#245;es gerais sobre a falha - falha com base no algoritmo.</tu>
+<tu xmlns:lang="rus">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Informaci&#243;n de fallo general: fallo basado en algoritmos.</tu>
+<tu xmlns:lang="chs">Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢ - ï¿½ã·¨ï¿½ï¿½Ø¹ï¿½ï¿½Ï¡ï¿½</tu>
 </tm>

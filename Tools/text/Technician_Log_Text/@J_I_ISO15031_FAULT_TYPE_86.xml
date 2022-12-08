@@ -2,12 +2,22 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_86">
 <tu xmlns:lang="eng">Bus signal/message failure - signal is invalid.</tu>
 <tu xmlns:lang="nld">Fout in bussignaal/-boodschap - signaal is ongeldig.</tu>
-<tu xmlns:lang="fra">D&#233;faut de signal / message bus - signal non valide.</tu>
-<tu xmlns:lang="deu">Datenbus-Signal-/Meldungsfehler - Signal ist ung&#252;ltig.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faut de signal / message bus - signal non valide.</tu>
+<tu
+    xmlns:lang="deu"
+  >Datenbus-Signal-/Meldungsfehler - Signal ist ung&#252;ltig.</tu>
 <tu xmlns:lang="ita">Guasto di segnale bus/messaggio - segnale non valido.</tu>
-<tu xmlns:lang="jpn">ѓoѓX ѓVѓOѓiѓ‹Ѓ^ѓЃѓbѓZЃ[ѓW•s—З Ѓ| ѓVѓOѓiѓ‹–іЊш</tu>
-<tu xmlns:lang="ptg">Falha na mensagem/sinal do bus - o sinal &#233; inv&#225;lido.</tu>
-<tu xmlns:lang="rus">Ошибка передачи сигнала/сообщения по шине - недопустимый сигнал.</tu>
-<tu xmlns:lang="esp">Fallo de se&#241;ales/mensajes del bus: se&#241;al no v&#225;lida.</tu>
-<tu xmlns:lang="chs">ЧЬПЯРЕєЕ/ПыПў№КХП - РЕєЕОЮР§ЎЈ</tu>
+<tu xmlns:lang="jpn">пїЅoпїЅX пїЅVпїЅOпїЅiпїЅпїЅпїЅ^пїЅпїЅпїЅbпїЅZпїЅ[пїЅWпїЅsпїЅпїЅ пїЅ| пїЅVпїЅOпїЅiпїЅпїЅпїЅпїЅпїЅпїЅ</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha na mensagem/sinal do bus - o sinal &#233; inv&#225;lido.</tu>
+<tu
+    xmlns:lang="rus"
+  >пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ/пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo de se&#241;ales/mensajes del bus: se&#241;al no v&#225;lida.</tu>
+<tu xmlns:lang="chs">пїЅпїЅпїЅпїЅпїЅЕєпїЅ/пїЅпїЅПўпїЅпїЅпїЅпїЅ - пїЅЕєпїЅпїЅпїЅР§пїЅпїЅ</tu>
 </tm>

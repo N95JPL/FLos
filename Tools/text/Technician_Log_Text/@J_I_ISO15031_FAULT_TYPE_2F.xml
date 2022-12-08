@@ -2,12 +2,14 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_2F">
 <tu xmlns:lang="eng">General signal failure - signal is erratic.</tu>
 <tu xmlns:lang="nld">Algemene signaalfout - signaal is onregelmatig.</tu>
-<tu xmlns:lang="fra">Panne de signalisation g&#233;n&#233;rale - signal est al&#233;atoire.</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne de signalisation g&#233;n&#233;rale - signal est al&#233;atoire.</tu>
 <tu xmlns:lang="deu">Allgemeine Signalst&#246;rung - Signal ist erratisch.</tu>
 <tu xmlns:lang="ita">Guasto generale di segnale - segnale irregolare.</tu>
-<tu xmlns:lang="jpn">€к”КѓVѓOѓiѓ‹•s—З Ѓ| ѓVѓOѓiѓ‹•sђ®</tu>
+<tu xmlns:lang="jpn">пїЅпїЅКѓVпїЅOпїЅiпїЅпїЅпїЅsпїЅпїЅ пїЅ| пїЅVпїЅOпїЅiпїЅпїЅпїЅsпїЅпїЅ</tu>
 <tu xmlns:lang="ptg">Falha geral no sinal - o sinal &#233; err&#225;tico.</tu>
-<tu xmlns:lang="rus">Общая ошибка сигнала - неустойчивый сигнал.</tu>
+<tu xmlns:lang="rus">пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
 <tu xmlns:lang="esp">Fallo general de se&#241;al: se&#241;al err&#225;tica.</tu>
-<tu xmlns:lang="chs">Т»°гРЕєЕ№КХП - РЕєЕТміЈЎЈ</tu>
+<tu xmlns:lang="chs">Т»пїЅпїЅпїЅЕєЕ№пїЅпїЅпїЅ - пїЅЕєпїЅпїЅміЈпїЅпїЅ</tu>
 </tm>

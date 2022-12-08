@@ -2,12 +2,14 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_94">
 <tu xmlns:lang="eng">Component failure - unexpected operation.</tu>
 <tu xmlns:lang="nld">Component defect - onverwachte werking.</tu>
-<tu xmlns:lang="fra">Composant d&#233;fectueux - fonctionnement impr&#233;vu.</tu>
+<tu
+    xmlns:lang="fra"
+  >Composant d&#233;fectueux - fonctionnement impr&#233;vu.</tu>
 <tu xmlns:lang="deu">Bauteilst&#246;rung - unerwartete Funktion.</tu>
 <tu xmlns:lang="ita">Guasto componente - funzionamento imprevisto.</tu>
-<tu xmlns:lang="jpn">ѓRѓ“ѓ|Ѓ[ѓlѓ“ѓgЊМЏб Ѓ| —\\‘zЉO‚МѓIѓyѓЊЃ[ѓVѓ‡ѓ“</tu>
+<tu xmlns:lang="jpn">пїЅRпїЅпїЅпїЅ|пїЅ[пїЅlпїЅпїЅпїЅgпїЅМЏпїЅ пїЅ| пїЅ\\пїЅzпїЅOпїЅМѓIпїЅyпїЅпїЅпїЅ[пїЅVпїЅпїЅпїЅпїЅ</tu>
 <tu xmlns:lang="ptg">Falha de componente - funcionamento inesperado.</tu>
-<tu xmlns:lang="rus">Отказ элемента - непредсказуемая работа.</tu>
+<tu xmlns:lang="rus">пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
 <tu xmlns:lang="esp">Fallo de componente: funcionamiento inesperado.</tu>
-<tu xmlns:lang="chs">ФЄјю№КХП - ·ЗФ¤ЖЪ№¤ЧчЎЈ</tu>
+<tu xmlns:lang="chs">ФЄпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅФ¤пїЅЪ№пїЅпїЅпїЅпїЅпїЅ</tu>
 </tm>

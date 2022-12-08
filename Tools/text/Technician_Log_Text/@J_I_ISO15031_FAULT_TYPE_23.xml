@@ -2,12 +2,20 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_23">
 <tu xmlns:lang="eng">General signal failure - signal stays low.</tu>
 <tu xmlns:lang="nld">Algemene signaalfout - signaal blijft te laag.</tu>
-<tu xmlns:lang="fra">Panne de signalisation g&#233;n&#233;rale - signal reste bas.</tu>
-<tu xmlns:lang="deu">Allgemeine Signalst&#246;rung - Signal bleibt auf Tiefpegel.</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne de signalisation g&#233;n&#233;rale - signal reste bas.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine Signalst&#246;rung - Signal bleibt auf Tiefpegel.</tu>
 <tu xmlns:lang="ita">Guasto generale di segnale - il segnale rimane basso.</tu>
-<tu xmlns:lang="jpn">€к”КѓVѓOѓiѓ‹•s—З Ѓ| ѓVѓOѓiѓ‹ЃA’б‚ў‚Ь‚Ь</tu>
+<tu xmlns:lang="jpn">пїЅпїЅКѓVпїЅOпїЅiпїЅпїЅпїЅsпїЅпїЅ пїЅ| пїЅVпїЅOпїЅiпїЅпїЅпїЅAпїЅб‚ўпїЅЬ‚пїЅ</tu>
 <tu xmlns:lang="ptg">Falha geral no sinal - o sinal mant&#233;m-se fraco.</tu>
-<tu xmlns:lang="rus">Общая ошибка сигнала - сохраняется низкий уровень сигнала.</tu>
-<tu xmlns:lang="esp">Fallo general de se&#241;al: se&#241;al permanece baja (l&#243;gica 0).</tu>
-<tu xmlns:lang="chs">Т»°гРЕєЕ№КХП - РЕєЕіЦРшµНО»ЎЈ</tu>
+<tu
+    xmlns:lang="rus"
+  >пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo general de se&#241;al: se&#241;al permanece baja (l&#243;gica 0).</tu>
+<tu xmlns:lang="chs">Т»пїЅпїЅпїЅЕєЕ№пїЅпїЅпїЅ - пїЅЕєЕіпїЅпїЅпїЅпїЅпїЅО»пїЅпїЅ</tu>
 </tm>

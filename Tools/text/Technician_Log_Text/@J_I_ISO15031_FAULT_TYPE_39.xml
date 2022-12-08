@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_39">
-<tu xmlns:lang="eng">Frequency modulation/pulse width modulation failure - incorrect, has too few pulses.</tu>
-<tu xmlns:lang="nld">Fout in frequentiemodulatie / pulsbreedtemodulatie - onjuist, heeft te weinig pulsen.</tu>
-<tu xmlns:lang="fra">D&#233;faut de modulation de fr&#233;quence / modulation de largeur d&#39;impulsions - incorrect, trop peu d&#39;impulsions.</tu>
-<tu xmlns:lang="deu">St&#246;rung Frequenzmodulation/Impulsbreitenmodulation - falsch, hat zu wenige Impulse.</tu>
-<tu xmlns:lang="ita">Guasto di modulazione frequenza/modulazione durata impulsi - errata, numero insufficiente di impulsi.</tu>
-<tu xmlns:lang="jpn">Žü”g”•Ï’²^ƒpƒ‹ƒX••Ï’²•s—Ç | •s³Aƒpƒ‹ƒX‰ß­</tu>
-<tu xmlns:lang="ptg">Falha na modula&#231;&#227;o da frequ&#234;ncia/modula&#231;&#227;o por largura de impulso - incorrecta, n&#250;mero insuficiente de impulsos.</tu>
-<tu xmlns:lang="rus">Îøèáêà ÷àñòîòíîé ìîäóëÿöèè/ØÈÌ - íåâåðíîå çíà÷åíèå, ñëèøêîì ìàëî èìïóëüñîâ.</tu>
-<tu xmlns:lang="esp">Fallo de modulaci&#243;n de frecuencia/modulaci&#243;n de anchura de impulsos: incorrecta, impulsos insuficientes.</tu>
-<tu xmlns:lang="chs">'ÆµÂÊµ÷ÖÆ/Âö¿íµ÷ÖÆ¹ÊÕÏ - ²»ÕýÈ·£¬Âö³åÊý¹ýÉÙ¡£'</tu>
+<tu
+    xmlns:lang="eng"
+  >Frequency modulation/pulse width modulation failure - incorrect, has too few pulses.</tu>
+<tu
+    xmlns:lang="nld"
+  >Fout in frequentiemodulatie / pulsbreedtemodulatie - onjuist, heeft te weinig pulsen.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faut de modulation de fr&#233;quence / modulation de largeur d&#39;impulsions - incorrect, trop peu d&#39;impulsions.</tu>
+<tu
+    xmlns:lang="deu"
+  >St&#246;rung Frequenzmodulation/Impulsbreitenmodulation - falsch, hat zu wenige Impulse.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto di modulazione frequenza/modulazione durata impulsi - errata, numero insufficiente di impulsi.</tu>
+<tu xmlns:lang="jpn">ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Ï’ï¿½ï¿½^ï¿½pï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½Ï’ï¿½ï¿½sï¿½ï¿½ ï¿½| ï¿½sï¿½ï¿½ï¿½Aï¿½pï¿½ï¿½ï¿½Xï¿½ßï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha na modula&#231;&#227;o da frequ&#234;ncia/modula&#231;&#227;o por largura de impulso - incorrecta, n&#250;mero insuficiente de impulsos.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo de modulaci&#243;n de frecuencia/modulaci&#243;n de anchura de impulsos: incorrecta, impulsos insuficientes.</tu>
+<tu xmlns:lang="chs">'Æµï¿½Êµï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ¹ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½È·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ù¡ï¿½'</tu>
 </tm>

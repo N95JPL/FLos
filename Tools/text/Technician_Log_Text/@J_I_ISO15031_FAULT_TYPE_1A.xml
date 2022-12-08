@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_1A">
-<tu xmlns:lang="eng">General electrical failure - circuit resistance below threshold.</tu>
-<tu xmlns:lang="nld">Algemeen elektrisch defect - circuitweerstand onder de drempel.</tu>
-<tu xmlns:lang="fra">Panne &#233;lectrique g&#233;n&#233;rale - r&#233;sistance de circuit inf&#233;rieure au seuil.</tu>
-<tu xmlns:lang="deu">Allgemeine Elektrikst&#246;rung - Widerstand im Stromkreis unter Grenzwert.</tu>
-<tu xmlns:lang="ita">Guasto elettrico generale - resistenza circuito inferiore a valore soglia.</tu>
-<tu xmlns:lang="jpn">ˆê”ÊƒGƒŒƒNƒgƒŠƒJƒ‹ŒÌá | ƒT[ƒLƒbƒg’ïR’lA‹K’è’lˆÈ‰º</tu>
-<tu xmlns:lang="ptg">Falha el&#233;ctrica geral - resist&#234;ncia do circuito abaixo do limiar.</tu>
-<tu xmlns:lang="rus">Ýëåêòðè÷åñêàÿ íåèñïðàâíîñòü îáùåãî õàðàêòåðà - ñîïðîòèâëåíèå â öåïè íèæå ïîðîãîâîãî çíà÷åíèÿ.</tu>
-<tu xmlns:lang="esp">Fallo el&#233;ctrico general: resistencia del circuito por debajo del valor umbral.</tu>
-<tu xmlns:lang="chs">Ò»°ãµçÆø¹ÊÕÏ - µçÂ·µç×èµÍÓÚÃÅÏÞÖµ¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >General electrical failure - circuit resistance below threshold.</tu>
+<tu
+    xmlns:lang="nld"
+  >Algemeen elektrisch defect - circuitweerstand onder de drempel.</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne &#233;lectrique g&#233;n&#233;rale - r&#233;sistance de circuit inf&#233;rieure au seuil.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine Elektrikst&#246;rung - Widerstand im Stromkreis unter Grenzwert.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto elettrico generale - resistenza circuito inferiore a valore soglia.</tu>
+<tu xmlns:lang="jpn">ï¿½ï¿½ÊƒGï¿½ï¿½ï¿½Nï¿½gï¿½ï¿½ï¿½Jï¿½ï¿½ï¿½Ìï¿½ ï¿½| ï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½ï¿½Rï¿½lï¿½Aï¿½Kï¿½ï¿½lï¿½È‰ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha el&#233;ctrica geral - resist&#234;ncia do circuito abaixo do limiar.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo el&#233;ctrico general: resistencia del circuito por debajo del valor umbral.</tu>
+<tu xmlns:lang="chs">Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½</tu>
 </tm>

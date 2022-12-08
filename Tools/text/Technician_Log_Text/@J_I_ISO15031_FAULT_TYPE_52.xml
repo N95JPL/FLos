@@ -2,12 +2,16 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_52">
 <tu xmlns:lang="eng">System programming failure - not activated.</tu>
 <tu xmlns:lang="nld">Fout in systeemprogrammering - niet geactiveerd.</tu>
-<tu xmlns:lang="fra">D&#233;faut de programmation du syst&#232;me - non activ&#233;.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faut de programmation du syst&#232;me - non activ&#233;.</tu>
 <tu xmlns:lang="deu">Systemprogrammierungsfehler - nicht aktiviert.</tu>
 <tu xmlns:lang="ita">Guasto programmazione sistema - non attivato.</tu>
-<tu xmlns:lang="jpn">ѓVѓXѓeѓЂ ѓvѓЌѓOѓ‰ѓ~ѓ“ѓO•s—З Ѓ| Ќм“®‚і‚к‚ё</tu>
-<tu xmlns:lang="ptg">Falha de programa&#231;&#227;o do sistema - n&#227;o activado.</tu>
-<tu xmlns:lang="rus">Ошибка программирования системы - не включена.</tu>
+<tu xmlns:lang="jpn">пїЅVпїЅXпїЅeпїЅпїЅ пїЅvпїЅпїЅпїЅOпїЅпїЅпїЅ~пїЅпїЅпїЅOпїЅsпїЅпїЅ пїЅ| пїЅм“®пїЅпїЅпїЅк‚ё</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha de programa&#231;&#227;o do sistema - n&#227;o activado.</tu>
+<tu xmlns:lang="rus">пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
 <tu xmlns:lang="esp">Fallo de programaci&#243;n del sistema: sin activar.</tu>
-<tu xmlns:lang="chs">ПµНі±аіМ№КХП - Оґј¤»оЎЈ</tu>
+<tu xmlns:lang="chs">ПµНіпїЅпїЅМ№пїЅпїЅпїЅ - ОґпїЅпїЅпїЅоЎЈ</tu>
 </tm>

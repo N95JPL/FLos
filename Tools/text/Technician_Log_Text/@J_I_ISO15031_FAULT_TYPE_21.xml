@@ -2,12 +2,24 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_21">
 <tu xmlns:lang="eng">General signal failure - signal amplitude&lt;minimum.</tu>
 <tu xmlns:lang="nld">Algemene signaalfout - signaalamplitude &lt; minimum.</tu>
-<tu xmlns:lang="fra">Panne de signalisation g&#233;n&#233;rale - amplitude du signal&lt;minimum.</tu>
-<tu xmlns:lang="deu">Allgemeine Signalst&#246;rung - Amplitude des Signals &lt; Minimum.</tu>
-<tu xmlns:lang="ita">Guasto generale di segnale - ampiezza segnale minore del minimo.</tu>
-<tu xmlns:lang="jpn">€к”КѓVѓOѓiѓ‹•s—З Ѓ| ѓVѓOѓiѓ‹ђU•ќЃAЌЕЏ¬’l€И‰є</tu>
-<tu xmlns:lang="ptg">Falha geral no sinal - amplitude do sinal &lt; m&#237;nimo.</tu>
-<tu xmlns:lang="rus">Общая ошибка сигнала - амплитуда сигнала &lt; минимально допустимой.</tu>
-<tu xmlns:lang="esp">Fallo general de se&#241;al: amplitud de se&#241;ales &lt; m&#237;nima.</tu>
-<tu xmlns:lang="chs">Т»°гРЕєЕ№КХП - РЕєЕ·щЦµРЎУЪЧоРЎЦµЎЈ</tu>
+<tu
+    xmlns:lang="fra"
+  >Panne de signalisation g&#233;n&#233;rale - amplitude du signal&lt;minimum.</tu>
+<tu
+    xmlns:lang="deu"
+  >Allgemeine Signalst&#246;rung - Amplitude des Signals &lt; Minimum.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto generale di segnale - ampiezza segnale minore del minimo.</tu>
+<tu xmlns:lang="jpn">пїЅпїЅКѓVпїЅOпїЅiпїЅпїЅпїЅsпїЅпїЅ пїЅ| пїЅVпїЅOпїЅiпїЅпїЅпїЅUпїЅпїЅпїЅAпїЅЕЏпїЅпїЅlпїЅИ‰пїЅ</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha geral no sinal - amplitude do sinal &lt; m&#237;nimo.</tu>
+<tu
+    xmlns:lang="rus"
+  >пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ &lt; пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo general de se&#241;al: amplitud de se&#241;ales &lt; m&#237;nima.</tu>
+<tu xmlns:lang="chs">Т»пїЅпїЅпїЅЕєЕ№пїЅпїЅпїЅ - пїЅЕєЕ·пїЅЦµРЎпїЅпїЅпїЅпїЅРЎЦµпїЅпїЅ</tu>
 </tm>

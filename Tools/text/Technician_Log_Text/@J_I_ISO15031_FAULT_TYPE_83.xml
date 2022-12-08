@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_83">
-<tu xmlns:lang="eng">Bus signal/message failure - value of signal protection calculation is incorrect.</tu>
-<tu xmlns:lang="nld">Fout in bussignaal/-boodschap - berekende waarde van signaalbeveiliging is onjuist.</tu>
-<tu xmlns:lang="fra">D&#233;faut de signal / message bus - valeur de calcul de la protection du signal est incorrecte.</tu>
-<tu xmlns:lang="deu">Datenbus-Signal-/Meldungsfehler - Wert der Signalschutzberechnung ist falsch.</tu>
-<tu xmlns:lang="ita">Guasto di segnale bus/messaggio - valore errato di calcolo protezione segnale.</tu>
-<tu xmlns:lang="jpn">ƒoƒX ƒVƒOƒiƒ‹^ƒƒbƒZ[ƒW•s—Ç | ƒVƒOƒiƒ‹•ÛŒìŒvŽZ”’lA•s³</tu>
-<tu xmlns:lang="ptg">Falha na mensagem/sinal do bus - valor do c&#225;lculo da protec&#231;&#227;o do sinal est&#225; incorrecto.</tu>
-<tu xmlns:lang="rus">Îøèáêà ïåðåäà÷è ñèãíàëà/ñîîáùåíèÿ ïî øèíå - íåïðàâèëüíîå çíà÷åíèå ðàñ÷åòà çàùèòû ñèãíàëà.</tu>
-<tu xmlns:lang="esp">Fallo de se&#241;ales/mensajes del bus: valor incorrecto de c&#225;lculo de protecci&#243;n de se&#241;al.</tu>
-<tu xmlns:lang="chs">×ÜÏßÐÅºÅ/ÏûÏ¢¹ÊÕÏ - ÐÅºÅ±£»¤¼ÆËãÖµ²»ÕýÈ·¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >Bus signal/message failure - value of signal protection calculation is incorrect.</tu>
+<tu
+    xmlns:lang="nld"
+  >Fout in bussignaal/-boodschap - berekende waarde van signaalbeveiliging is onjuist.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faut de signal / message bus - valeur de calcul de la protection du signal est incorrecte.</tu>
+<tu
+    xmlns:lang="deu"
+  >Datenbus-Signal-/Meldungsfehler - Wert der Signalschutzberechnung ist falsch.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto di segnale bus/messaggio - valore errato di calcolo protezione segnale.</tu>
+<tu
+    xmlns:lang="jpn"
+  >ï¿½oï¿½X ï¿½Vï¿½Oï¿½iï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½sï¿½ï¿½ ï¿½| ï¿½Vï¿½Oï¿½iï¿½ï¿½ï¿½ÛŒï¿½vï¿½Zï¿½ï¿½ï¿½lï¿½Aï¿½sï¿½ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha na mensagem/sinal do bus - valor do c&#225;lculo da protec&#231;&#227;o do sinal est&#225; incorrecto.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo de se&#241;ales/mensajes del bus: valor incorrecto de c&#225;lculo de protecci&#243;n de se&#241;al.</tu>
+<tu xmlns:lang="chs">ï¿½ï¿½ï¿½ï¿½ï¿½Åºï¿½/ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ï¿½ - ï¿½ÅºÅ±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½ï¿½È·ï¿½ï¿½</tu>
 </tm>

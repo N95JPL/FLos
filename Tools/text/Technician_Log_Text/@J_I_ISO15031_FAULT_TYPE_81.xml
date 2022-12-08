@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_81">
-<tu xmlns:lang="eng">Bus signal/message failure - invalid serial data received.</tu>
-<tu xmlns:lang="nld">Fout in bussignaal/-boodschap - ongeldige seri&#235;le gegevens ontvangen.</tu>
-<tu xmlns:lang="fra">D&#233;faut de signal / message bus - donn&#233;es s&#233;rie re&#231;ues non valides.</tu>
-<tu xmlns:lang="deu">Datenbus-Signal-/Meldungsfehler - ung&#252;ltige serielle Daten empfangen.</tu>
-<tu xmlns:lang="ita">Guasto di segnale bus/messaggio - ricevuti dati seriali non validi. </tu>
-<tu xmlns:lang="jpn">ƒoƒX ƒVƒOƒiƒ‹^ƒƒbƒZ[ƒW•s—Ç | –³Œø‚ÈƒVƒŠƒAƒ‹ ƒf[ƒ^‚ðŽóM</tu>
-<tu xmlns:lang="ptg">Falha na mensagem/sinal do bus - recebidos dados de s&#233;rie inv&#225;lidos.</tu>
-<tu xmlns:lang="rus">Îøèáêà ïåðåäà÷è ñèãíàëà/ñîîáùåíèÿ ïî øèíå - ïðèíÿòû äàííûå, íåäîïóñòèìûå äëÿ ïîñëåäîâàòåëüíîé ïåðåäà÷è.</tu>
-<tu xmlns:lang="esp">Fallo de se&#241;ales/mensajes del bus: datos en serie no v&#225;lidos recibidos.</tu>
-<tu xmlns:lang="chs">×ÜÏßÐÅºÅ/ÏûÏ¢¹ÊÕÏ - ÊÕµ½ÎÞÐ§µÄ´®ÐÐÊý¾Ý¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >Bus signal/message failure - invalid serial data received.</tu>
+<tu
+    xmlns:lang="nld"
+  >Fout in bussignaal/-boodschap - ongeldige seri&#235;le gegevens ontvangen.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faut de signal / message bus - donn&#233;es s&#233;rie re&#231;ues non valides.</tu>
+<tu
+    xmlns:lang="deu"
+  >Datenbus-Signal-/Meldungsfehler - ung&#252;ltige serielle Daten empfangen.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto di segnale bus/messaggio - ricevuti dati seriali non validi. </tu>
+<tu
+    xmlns:lang="jpn"
+  >ï¿½oï¿½X ï¿½Vï¿½Oï¿½iï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½sï¿½ï¿½ ï¿½| ï¿½ï¿½ï¿½ï¿½ï¿½ÈƒVï¿½ï¿½ï¿½Aï¿½ï¿½ ï¿½fï¿½[ï¿½^ï¿½ï¿½ï¿½ï¿½M</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha na mensagem/sinal do bus - recebidos dados de s&#233;rie inv&#225;lidos.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo de se&#241;ales/mensajes del bus: datos en serie no v&#225;lidos recibidos.</tu>
+<tu xmlns:lang="chs">ï¿½ï¿½ï¿½ï¿½ï¿½Åºï¿½/ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ï¿½ - ï¿½Õµï¿½ï¿½ï¿½Ð§ï¿½Ä´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý¡ï¿½</tu>
 </tm>

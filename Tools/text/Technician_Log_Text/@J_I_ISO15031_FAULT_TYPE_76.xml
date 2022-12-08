@@ -2,12 +2,20 @@
 <tm id="@J_I_ISO15031_FAULT_TYPE_76">
 <tu xmlns:lang="eng">Mechanical failure - wrong mounting position.</tu>
 <tu xmlns:lang="nld">Mechanisch defect - verkeerde montagestand.</tu>
-<tu xmlns:lang="fra">D&#233;faillance m&#233;canique - mauvaise position de montage.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faillance m&#233;canique - mauvaise position de montage.</tu>
 <tu xmlns:lang="deu">Mechanische St&#246;rung - falsche Montageposition.</tu>
 <tu xmlns:lang="ita">Guasto meccanico - posizione di montaggio sbagliata.</tu>
-<tu xmlns:lang="jpn">‹@ЉB“IЊМЏб Ѓ| ѓ}ѓEѓ“ѓeѓBѓ“ѓO ѓ|ѓWѓVѓ‡ѓ“•sђі</tu>
-<tu xmlns:lang="ptg">Falha mec&#226;nica - posi&#231;&#227;o de apoio errada.</tu>
-<tu xmlns:lang="rus">Механическая неисправность - неверное установочное положение.</tu>
-<tu xmlns:lang="esp">Fallo mec&#225;nico: posici&#243;n de montaje incorrecta.</tu>
-<tu xmlns:lang="chs">»ъРµ№КХП - °ІЧ°О»ЦГґнОуЎЈ</tu>
+<tu xmlns:lang="jpn">пїЅ@пїЅBпїЅIпїЅМЏпїЅ пїЅ| пїЅ}пїЅEпїЅпїЅпїЅeпїЅBпїЅпїЅпїЅO пїЅ|пїЅWпїЅVпїЅпїЅпїЅпїЅпїЅsпїЅпїЅ</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha mec&#226;nica - posi&#231;&#227;o de apoio errada.</tu>
+<tu
+    xmlns:lang="rus"
+  >пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo mec&#225;nico: posici&#243;n de montaje incorrecta.</tu>
+<tu xmlns:lang="chs">пїЅпїЅРµпїЅпїЅпїЅпїЅ - пїЅпїЅЧ°О»пїЅГґпїЅпїЅпїЅ</tu>
 </tm>

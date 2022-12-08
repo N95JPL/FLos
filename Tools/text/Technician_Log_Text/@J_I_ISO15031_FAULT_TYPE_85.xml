@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_85">
-<tu xmlns:lang="eng">Bus signal/message failure - signal is above allowable range.</tu>
-<tu xmlns:lang="nld">Fout in bussignaal/-boodschap - signaal is boven het toegestane bereik.</tu>
-<tu xmlns:lang="fra">D&#233;faut de signal / message bus - signal est au-dessus de la plage admissible.</tu>
-<tu xmlns:lang="deu">Datenbus-Signal-/Meldungsfehler - Signal liegt &#252;ber zul&#228;ssigem Bereich.</tu>
-<tu xmlns:lang="ita">Guasto di segnale bus/messaggio - segnale al di sopra dei limiti ammissibili.</tu>
-<tu xmlns:lang="jpn">ƒoƒX ƒVƒOƒiƒ‹^ƒƒbƒZ[ƒW•s—Ç | ƒVƒOƒiƒ‹A‹–—e”ÍˆÍˆÈã</tu>
-<tu xmlns:lang="ptg">Falha na mensagem/sinal do bus - sinal &#233; superior &#224; gama permiss&#237;vel.</tu>
-<tu xmlns:lang="rus">Îøèáêà ïåðåäà÷è ñèãíàëà/ñîîáùåíèÿ ïî øèíå - çíà÷åíèå ñèãíàëà âûøå ìàêñèìàëüíîãî çíà÷åíèÿ äîïóñòèìîãî äèàïàçîíà.</tu>
-<tu xmlns:lang="esp">Fallo de se&#241;ales/mensajes del bus: se&#241;al por encima de l&#237;mites admisibles.</tu>
-<tu xmlns:lang="chs">×ÜÏßÐÅºÅ/ÏûÏ¢¹ÊÕÏ - ÐÅºÅ¸ßÓÚÔÊÐí·¶Î§¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >Bus signal/message failure - signal is above allowable range.</tu>
+<tu
+    xmlns:lang="nld"
+  >Fout in bussignaal/-boodschap - signaal is boven het toegestane bereik.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faut de signal / message bus - signal est au-dessus de la plage admissible.</tu>
+<tu
+    xmlns:lang="deu"
+  >Datenbus-Signal-/Meldungsfehler - Signal liegt &#252;ber zul&#228;ssigem Bereich.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto di segnale bus/messaggio - segnale al di sopra dei limiti ammissibili.</tu>
+<tu xmlns:lang="jpn">ï¿½oï¿½X ï¿½Vï¿½Oï¿½iï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½sï¿½ï¿½ ï¿½| ï¿½Vï¿½Oï¿½iï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½eï¿½ÍˆÍˆÈï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha na mensagem/sinal do bus - sinal &#233; superior &#224; gama permiss&#237;vel.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo de se&#241;ales/mensajes del bus: se&#241;al por encima de l&#237;mites admisibles.</tu>
+<tu xmlns:lang="chs">ï¿½ï¿½ï¿½ï¿½ï¿½Åºï¿½/ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ï¿½ - ï¿½ÅºÅ¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î§ï¿½ï¿½</tu>
 </tm>

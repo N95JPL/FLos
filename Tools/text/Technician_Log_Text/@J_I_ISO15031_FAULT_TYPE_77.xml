@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <tm id="@J_I_ISO15031_FAULT_TYPE_77">
-<tu xmlns:lang="eng">Mechanical failure - commanded position is not reachable.</tu>
-<tu xmlns:lang="nld">Mechanisch defect - opgegeven stand kan niet bereikt worden.</tu>
-<tu xmlns:lang="fra">D&#233;faillance m&#233;canique - impossible d&#39;atteindre position command&#233;e.</tu>
-<tu xmlns:lang="deu">Mechanische St&#246;rung - befohlene Stellung kann nicht erreicht werden.</tu>
-<tu xmlns:lang="ita">Guasto meccanico - posizione comandata non raggiungibile.</tu>
-<tu xmlns:lang="jpn">‹@ŠB“IŒÌá | ƒRƒ}ƒ“ƒh ƒ|ƒWƒVƒ‡ƒ“‚É“ž’B‚Å‚«‚¸</tu>
-<tu xmlns:lang="ptg">Falha mec&#226;nica - posi&#231;&#227;o comandada n&#227;o &#233; ating&#237;vel.</tu>
-<tu xmlns:lang="rus">Ìåõàíè÷åñêàÿ íåèñïðàâíîñòü - íåâîçìîæíî ïðèâåñòè â çàäàííîå ïîëîæåíèå.</tu>
-<tu xmlns:lang="esp">Fallo mec&#225;nico: posici&#243;n ordenada inalcanzable.</tu>
-<tu xmlns:lang="chs">»úÐµ¹ÊÕÏ - ÃüÁîÒªÇóµÄÎ»ÖÃ²»ÄÜµ½´ï¡£</tu>
+<tu
+    xmlns:lang="eng"
+  >Mechanical failure - commanded position is not reachable.</tu>
+<tu
+    xmlns:lang="nld"
+  >Mechanisch defect - opgegeven stand kan niet bereikt worden.</tu>
+<tu
+    xmlns:lang="fra"
+  >D&#233;faillance m&#233;canique - impossible d&#39;atteindre position command&#233;e.</tu>
+<tu
+    xmlns:lang="deu"
+  >Mechanische St&#246;rung - befohlene Stellung kann nicht erreicht werden.</tu>
+<tu
+    xmlns:lang="ita"
+  >Guasto meccanico - posizione comandata non raggiungibile.</tu>
+<tu xmlns:lang="jpn">ï¿½@ï¿½Bï¿½Iï¿½Ìï¿½ ï¿½| ï¿½Rï¿½}ï¿½ï¿½ï¿½h ï¿½|ï¿½Wï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½É“ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½ï¿½</tu>
+<tu
+    xmlns:lang="ptg"
+  >Falha mec&#226;nica - posi&#231;&#227;o comandada n&#227;o &#233; ating&#237;vel.</tu>
+<tu
+    xmlns:lang="rus"
+  >ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.</tu>
+<tu
+    xmlns:lang="esp"
+  >Fallo mec&#225;nico: posici&#243;n ordenada inalcanzable.</tu>
+<tu xmlns:lang="chs">ï¿½ï¿½Ðµï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½Î»ï¿½Ã²ï¿½ï¿½Üµï¿½ï¿½ï¡£</tu>
 </tm>
