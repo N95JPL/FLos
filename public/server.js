@@ -145,8 +145,8 @@ module.exports = function (window, dev) {
       );
       exec(
         "echo " +
-          mediumSpeed.brightness.adjustedLight +
-          " > /sys/class/backlight/10-0045/brightness"
+        mediumSpeed.brightness.adjustedLight +
+        " > /sys/class/backlight/10-0045/brightness"
       );
       mediumSpeedPrev.brightness.adjustedLight =
         mediumSpeed.brightness.adjustedLight;
@@ -212,8 +212,8 @@ module.exports = function (window, dev) {
     ) {
       exec(
         "echo " +
-          mediumSpeed.brightness.adjustedLight +
-          " > /sys/class/backlight/10-0045/brightness"
+        mediumSpeed.brightness.adjustedLight +
+        " > /sys/class/backlight/10-0045/brightness"
       );
     }
     for (const key in mediumSpeed) {
@@ -236,6 +236,7 @@ module.exports = function (window, dev) {
         temperature: {},
         indicators: {},
         brightness: {},
+        vehicle: {},
         vehicleSettings: {},
       };
     }

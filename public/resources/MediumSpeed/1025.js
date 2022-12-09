@@ -281,10 +281,10 @@ function decodeModel(VIN) {
         VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Decode;
       console.log(
         name +
-          ": " +
-          VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Decode +
-          " | " +
-          vehicleInfo[name]
+        ": " +
+        VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Decode +
+        " | " +
+        vehicleInfo[name]
       );
     } else {
       charpos = VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Char;
@@ -314,11 +314,11 @@ function decodeModel(VIN) {
             ].Decode;
           console.log(
             name +
-              ": " +
-              VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Value[x]
-                .Decode +
-              " | " +
-              vehicleInfo[name]
+            ": " +
+            VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Value[x]
+              .Decode +
+            " | " +
+            vehicleInfo[name]
           );
           break;
         }
@@ -399,9 +399,9 @@ function decodeCCFID() {
                   Vehicle_Manifest.vehicle_range[x].vehicle[y].as_built;
                 console.log(
                   "CCFID: " +
-                    vehicleInfo.CCFID +
-                    " | As_Built: " +
-                    vehicleInfo.As_Built
+                  vehicleInfo.CCFID +
+                  " | As_Built: " +
+                  vehicleInfo.As_Built
                 );
                 is_ccfid = true;
                 break;

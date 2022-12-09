@@ -13,7 +13,7 @@ async function processLineByLine() {
       return;
     }
     let fileLines = "";
-    let newFile = "";
+    let newFile = "Timestamp,Differance,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
     let lastTime = 0;
     let i = 0;
     const fileStream = fs.createReadStream("./CanDump/" + files[a]);
@@ -35,39 +35,48 @@ async function processLineByLine() {
       // ('\r\n') in input.txt as a single line break.
       fileName = "mscandump-" + fileTime;
       for await (const line of rl) {
-        // Timestamp,Differance,Node ID,Message
-        const msg = line.split(",");
-        // eslint-disable-next-line no-new-wrappers
-        const newID =
-          parseInt(msg[2]).toString(16) < 100
-            ? "0" + parseInt(msg[2]).toString(16)
-            : parseInt(msg[2]).toString(16);
-        newFile +=
-          msg[0] +
-          "," +
-          msg[1] +
-          "," +
-          msg[2] +
-          "," +
-          msg[3] +
-          ',"' +
-          hex2a(msg[3]) +
-          '","' +
-          hex2bin(msg[3]) +
-          '"\n';
-        fileLines +=
-          i < 2
-            ? ""
-            : msg[0] -
-            lastTime +
-            ":" +
-            "cansend can1 " +
-            newID +
-            "#" +
+        if (!line.includes("Timestamp")) {
+          // Timestamp,Differance,Node ID,Message
+          const msg = line.split(",");
+          // eslint-disable-next-line no-new-wrappers
+          const newID =
+            parseInt(msg[2]).toString(16) < 100
+              ? "0" + parseInt(msg[2]).toString(16)
+              : parseInt(msg[2]).toString(16);
+          var parseMsg = []
+          parseMsg = msg[3].match(/.{1,2}/g)
+          newFile +=
+            msg[0] +
+            "," +
+            msg[1] +
+            "," +
+            msg[2] +
+            "," +
             msg[3] +
-            "\n";
-        lastTime = msg[0];
-        i++;
+            "," +
+            parseMsg[0] + "," +
+            parseMsg[1] + "," +
+            parseMsg[2] + "," +
+            parseMsg[3] + "," +
+            parseMsg[4] + "," +
+            parseMsg[5] + "," +
+            parseMsg[6] + "," +
+            parseMsg[7] + "," +
+            '"\n';
+          fileLines +=
+            i < 2
+              ? ""
+              : msg[0] -
+              lastTime +
+              ":" +
+              "cansend can1 " +
+              newID +
+              "#" +
+              msg[3] +
+              "\n";
+          lastTime = msg[0];
+          i++;
+        }
       }
     } else if (files[a].includes(".log")) {
       fileName = "ms" + files[a].replace(".log", "");

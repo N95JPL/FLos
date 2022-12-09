@@ -146,10 +146,10 @@ function ms1026(msg, window) {
               } else {
                 console.log(
                   "No match: " +
-                    data.configuration_data.block[blockID].group[x].parameter
-                      .select.option[y].value +
-                    " != " +
-                    testValue
+                  data.configuration_data.block[blockID].group[x].parameter
+                    .select.option[y].value +
+                  " != " +
+                  testValue
                 );
               }
             }
@@ -157,9 +157,11 @@ function ms1026(msg, window) {
             console.log("No options!");
           }
         }
+
         console.log("We should have data here!");
         console.log(eucdData);
         setup = true;
+        vehicleInfo.eucdDecode = true;
       }
     }
   }
