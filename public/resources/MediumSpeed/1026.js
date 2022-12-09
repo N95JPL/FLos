@@ -45,7 +45,7 @@ var arrBuilder = [
   "-",
 ];
 //var Builder = []
-var eucdData = [];
+var eucdData = { "EUCD": [{}] };
 var setup = false;
 
 function ms1026(msg, window) {
@@ -63,7 +63,7 @@ function ms1026(msg, window) {
         }
       }
       arrBuilder[parseInt(arr[0]) - 1] = arrData;
-      console.log("EUCD" + (arr[0] - 1) + ": " + arrBuilder[arr[0] - 1]);
+      // console.log("EUCD" + (arr[0] - 1) + ": " + arrBuilder[arr[0] - 1]);
     } else {
       // setup = true;
       console.log("EUCD: " + arrBuilder);
@@ -72,7 +72,7 @@ function ms1026(msg, window) {
         var textDecodeFile;
         var eucd = arrBuilder.join(",");
         eucd = eucd.replaceAll(",", "");
-        console.log(eucd);
+        // console.log(eucd);
         if (isDev) {
           configFile =
             "/home/n95jpl/Documents/GitHub/JagOS/extraResources/JSON/CCF/CCF_DATA_" +
@@ -107,9 +107,6 @@ function ms1026(msg, window) {
           x++
         ) {
           var id = data.configuration_data.block[blockID].group[x].title.tm.id;
-          if (!eucdData[id]) {
-            eucdData[id] = {};
-          }
           var startByte =
             parseInt(data.configuration_data.block[blockID].group[x].start) * 2;
           var stopByte =
@@ -128,40 +125,49 @@ function ms1026(msg, window) {
                 .option.length;
               y++
             ) {
-              console.log("Got to options!");
-              console.log(
-                data.configuration_data.block[blockID].group[x].parameter.select
-                  .option[y]
-              );
+              // console.log("Got to options!");
+              // console.log(
+              //   data.configuration_data.block[blockID].group[x].parameter.select
+              //     .option[y]
+              // );
               if (
                 data.configuration_data.block[blockID].group[x].parameter.select
                   .option[y].value == testValue
               ) {
-                var option =
-                  data.configuration_data.block[blockID].group[x].parameter
-                    .select.option[y].tm.id;
-                eucdData[id]["optionID"] = option;
-                console.log("We matched: " + eucdData[id].optionID);
+                if (data.configuration_data.block[blockID].group[x].parameter.select
+                  .option[y].tm.id != "@UndefinedApp" && data.configuration_data.block[blockID].group[x].parameter.select
+                    .option[y].tm.id != undefined) {
+                  var option =
+                    data.configuration_data.block[blockID].group[x].parameter
+                      .select.option[y].tm.id;
+                  eucdData.EUCD[eucdData.EUCD.length] = { "option": id, "optionID": option }
+                  // console.log("We matched: " + eucdData[id].optionID);
+                }
                 break;
-              } else {
-                console.log(
-                  "No match: " +
-                  data.configuration_data.block[blockID].group[x].parameter
-                    .select.option[y].value +
-                  " != " +
-                  testValue
-                );
               }
             }
-          } else {
-            console.log("No options!");
           }
         }
-
-        console.log("We should have data here!");
-        console.log(eucdData);
         setup = true;
-        vehicleInfo.eucdDecode = true;
+        console.log("We should have data here!");
+        // console.log(eucdData);
+        var textData = fs.readFileSync(textDecodeFile);
+        textData = JSON.parse(textData);
+        console.log(eucdData);
+        console.log(eucdData.EUCD.length);
+        for (var z = 0; z < eucdData.EUCD.length; z++) {
+          if (z != 0) {
+            var idTest = eucdData.EUCD[z].optionID
+            idTest = idTest.substring(0, 2)
+            var optionidTest = eucdData.EUCD[z].option
+            optionidTest = optionidTest.substring(0, 2)
+            console.log(eucdData.EUCD[z].optionID)
+            console.log(textData[idTest][eucdData.EUCD[z].optionID]["eng"])
+            eucdData.EUCD[z]["optionText"] = textData[idTest][eucdData.EUCD[z].optionID]["eng"];
+            eucdData.EUCD[z]["optionIDText"] = textData[optionidTest][eucdData.EUCD[z].option]["eng"];
+          }
+        }
+        console.log(eucdData);
       }
     }
   }
