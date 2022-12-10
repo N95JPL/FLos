@@ -5,13 +5,14 @@ import { HashRouter, Routes, Route } from "react-router-dom";
 import Layout from "./Modules/Layout";
 import NoPage from "./Modules/NoPage";
 import Carplay from "./Modules/Carplay";
-import Vehicle from "./Modules/Vehicle";
+import VehicleDashboard from "./Modules/Vehicle/Dashboard";
 import Climate from "./Modules/Climate";
 import VehicleSettings from "./Modules/Settings/Vehicle-Settings";
 import AppSettings from "./Modules/Settings/App-Settings";
 import Dev from "./Modules/Settings/Dev";
 import { mediumSpeed } from "./Stores/mediumSpeed";
 import { vehicleInfo } from "./Stores/vehicleInfo";
+
 
 // eslint-disable-next-line no-unused-vars
 let setMediumSpeed = "";
@@ -30,7 +31,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Climate />} />
-          <Route path="/vehicle" element={<Vehicle />} />
+          <Route path="/vehicle/dashboard" element={<VehicleDashboard />} />
           <Route path="/settings/vehicle" element={<VehicleSettings />} />
           <Route path="/settings/app" element={<AppSettings />} />
           <Route path="/settings/dev" element={<Dev />} />

@@ -1,6 +1,6 @@
 const fs = require("fs");
 const readline = require("readline");
-
+const hex2dec = hex => parseInt(hex, 16);
 const files = fs.readdirSync("./CanDump/").filter((fn) => fn.includes("can"));
 var fileName;
 // console.log(files)
@@ -13,7 +13,7 @@ async function processLineByLine() {
       return;
     }
     let fileLines = "";
-    let newFile = "Timestamp,Differance,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
+    let newFile = "Timestamp,Differance,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
     let lastTime = 0;
     let i = 0;
     const fileStream = fs.createReadStream("./CanDump/" + files[a]);
@@ -23,6 +23,7 @@ async function processLineByLine() {
       crlfDelay: Infinity,
     });
     if (files[a].includes(".csv")) {
+      newFile = "Timestamp,Differance,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
       const fileNameConv = files[a].split("-");
 
       const time = fileNameConv[1].replace(".csv");
@@ -62,7 +63,15 @@ async function processLineByLine() {
             parseMsg[5] + "," +
             parseMsg[6] + "," +
             parseMsg[7] + "," +
-            '"\n';
+            hex2dec(parseMsg[0]) + "," +
+            hex2dec(parseMsg[1]) + "," +
+            hex2dec(parseMsg[2]) + "," +
+            hex2dec(parseMsg[3]) + "," +
+            hex2dec(parseMsg[4]) + "," +
+            hex2dec(parseMsg[5]) + "," +
+            hex2dec(parseMsg[6]) + "," +
+            hex2dec(parseMsg[7]) + "," +
+            '\n';
           fileLines +=
             i < 2
               ? ""
@@ -79,6 +88,7 @@ async function processLineByLine() {
         }
       }
     } else if (files[a].includes(".log")) {
+      newFile = "Timestamp,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
       fileName = "ms" + files[a].replace(".log", "");
       for await (const line of rl) {
         // Timestamp,Differance,Node ID,Message
@@ -88,12 +98,34 @@ async function processLineByLine() {
           parseInt(msg[2]).toString(16) < 100
             ? "0" + parseInt(msg[2]).toString(16)
             : parseInt(msg[2]).toString(16);
+        var canID = msg[2].substring(0, 3);
+        var canMsg = msg[2].substring(4, 20);
+        var parseMsg = []
+        parseMsg = canMsg.match(/.{1,2}/g)
         newFile +=
-          1 +
-          ":" +
-          "cansend can1 " +
-          msg[2]
-
+          msg[0] +
+          "," +
+          canID +
+          "," +
+          canMsg +
+          "," +
+          parseMsg[0] + "," +
+          parseMsg[1] + "," +
+          parseMsg[2] + "," +
+          parseMsg[3] + "," +
+          parseMsg[4] + "," +
+          parseMsg[5] + "," +
+          parseMsg[6] + "," +
+          parseMsg[7] + "," +
+          hex2dec(parseMsg[0]) + "," +
+          hex2dec(parseMsg[1]) + "," +
+          hex2dec(parseMsg[2]) + "," +
+          hex2dec(parseMsg[3]) + "," +
+          hex2dec(parseMsg[4]) + "," +
+          hex2dec(parseMsg[5]) + "," +
+          hex2dec(parseMsg[6]) + "," +
+          hex2dec(parseMsg[7]) + "," +
+          '\n';
         fileLines +=
           1 +
           ":" +

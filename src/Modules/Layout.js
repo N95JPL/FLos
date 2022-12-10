@@ -45,7 +45,7 @@ function Nav() {
     {
       name: "Vehicle",
       icon: <FaCar />,
-      path: "/vehicle",
+      path: "/vehicle/Dashboard",
     },
     {
       name: "Settings",
@@ -136,10 +136,10 @@ function FirstTimeSetup() {
         >
           <div className="flex">{setupInfoLine}</div>
           {ModelYear != "-" &&
-          Brand != "-" &&
-          ModelName != "-" &&
-          Trim != "-" &&
-          Model != "-" ? (
+            Brand != "-" &&
+            ModelName != "-" &&
+            Trim != "-" &&
+            Model != "-" ? (
             <div className="flex">
               {ModelYear} {Brand} {ModelName} {Trim} ({Model})
             </div>
