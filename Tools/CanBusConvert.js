@@ -22,6 +22,8 @@ async function processLineByLine() {
       input: fileStream,
       crlfDelay: Infinity,
     });
+    var csvFileName = files[a].split(".");
+    csvFileName = csvFileName[0] + ".csv";
     if (files[a].includes(".csv")) {
       newFile = "Timestamp,Differance,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7,Node Dec ID,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
       const fileNameConv = files[a].split("-");
@@ -51,7 +53,7 @@ async function processLineByLine() {
             "," +
             msg[1] +
             "," +
-            msg[2] +
+            msg[2].toString(16) +
             "," +
             msg[3] +
             "," +
@@ -63,7 +65,7 @@ async function processLineByLine() {
             parseMsg[5] + "," +
             parseMsg[6] + "," +
             parseMsg[7] + "," +
-            hex2dec(msg[2]) + "," +
+            msg[2] + "," +
             hex2dec(parseMsg[0]) + "," +
             hex2dec(parseMsg[1]) + "," +
             hex2dec(parseMsg[2]) + "," +
@@ -90,6 +92,7 @@ async function processLineByLine() {
       }
     } else if (files[a].includes(".log")) {
       newFile = "Timestamp,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7,Node Dec ID,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
+
       fileName = "ms" + files[a].replace(".log", "");
       for await (const line of rl) {
         // Timestamp,Differance,Node ID,Message
@@ -139,7 +142,7 @@ async function processLineByLine() {
       }
     }
     // fs.unlinkSync(files[a])
-    fs.writeFileSync("./CanDump/Converted/converted-" + files[a], newFile);
+    fs.writeFileSync("./CanDump/Converted/converted-" + csvFileName, newFile);
     fs.writeFileSync("./CanDump/CanBus Test Files/" + fileName + ".txt", fileLines);
     console.log("Converting complete - " + fileName);
   }
