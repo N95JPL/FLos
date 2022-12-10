@@ -22,6 +22,9 @@ let mediumSpeed = {
     offset: 20,
     auto: true,
   },
+  vehicle: {
+    alternator: 0,
+  },
   vehicleSettings: {
     Drive_Away_Locking_5: false,
     Drive_Away_Locking_10: false,
@@ -59,6 +62,9 @@ let mediumSpeedPrev = {
     adjustedLight: 0,
     offset: 20,
     auto: true,
+  },
+  vehicle: {
+    alternator: 0,
   },
   vehicleSettings: {
     Drive_Away_Locking_5: false,

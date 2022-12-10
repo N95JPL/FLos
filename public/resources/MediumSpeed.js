@@ -9,7 +9,7 @@ const ms840 = require("./MediumSpeed/840");
 const ms888 = require("./MediumSpeed/888");
 const ms1025 = require("./MediumSpeed/1025");
 const ms1026 = require("./MediumSpeed/1026");
-const IDs = [40, 72, 520, 680, 888, 1025, 1026];
+const IDs = [40, 72, 520, 680, 840, 888, 1025, 1026];
 
 function parseMediumSpeed(msg, window) {
   if (IDs.includes(msg.id)) {

@@ -37,6 +37,10 @@ export let mediumSpeed = create((set) => ({
     adjustedLight: 255,
     setAdjustedLight: (adjustedLight) => set({ adjustedLight }),
   },
+  vehicle: {
+    alternator: 0,
+    setAlternator: (alternator) => set({ alternator }),
+  },
   vehicleSettings: {
     Drive_Away_Locking_5: false,
     setDrive_Away_Locking_5: (Drive_Away_Locking_5) =>

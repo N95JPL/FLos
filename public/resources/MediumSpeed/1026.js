@@ -167,6 +167,7 @@ function ms1026(msg, window) {
             eucdData.EUCD[z]["optionIDText"] = textData[optionidTest][eucdData.EUCD[z].option]["eng"];
           }
         }
+        vehicleInfo.eucdDecode = true;
         console.log(eucdData);
       }
     }
