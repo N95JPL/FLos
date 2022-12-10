@@ -13,7 +13,7 @@ async function processLineByLine() {
       return;
     }
     let fileLines = "";
-    let newFile = "Timestamp,Differance,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
+    let newFile = "Timestamp,Differance,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7,Node Dec ID,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
     let lastTime = 0;
     let i = 0;
     const fileStream = fs.createReadStream("./CanDump/" + files[a]);
@@ -23,7 +23,7 @@ async function processLineByLine() {
       crlfDelay: Infinity,
     });
     if (files[a].includes(".csv")) {
-      newFile = "Timestamp,Differance,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
+      newFile = "Timestamp,Differance,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7,Node Dec ID,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
       const fileNameConv = files[a].split("-");
 
       const time = fileNameConv[1].replace(".csv");
@@ -63,6 +63,7 @@ async function processLineByLine() {
             parseMsg[5] + "," +
             parseMsg[6] + "," +
             parseMsg[7] + "," +
+            hex2dec(msg[2]) + "," +
             hex2dec(parseMsg[0]) + "," +
             hex2dec(parseMsg[1]) + "," +
             hex2dec(parseMsg[2]) + "," +
@@ -88,7 +89,7 @@ async function processLineByLine() {
         }
       }
     } else if (files[a].includes(".log")) {
-      newFile = "Timestamp,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
+      newFile = "Timestamp,Node ID,Message,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7,Node Dec ID,ID0,ID1,ID2,ID3,ID4,ID5,ID6,ID7\n";
       fileName = "ms" + files[a].replace(".log", "");
       for await (const line of rl) {
         // Timestamp,Differance,Node ID,Message
@@ -117,6 +118,7 @@ async function processLineByLine() {
           parseMsg[5] + "," +
           parseMsg[6] + "," +
           parseMsg[7] + "," +
+          hex2dec(canID) + "," +
           hex2dec(parseMsg[0]) + "," +
           hex2dec(parseMsg[1]) + "," +
           hex2dec(parseMsg[2]) + "," +
