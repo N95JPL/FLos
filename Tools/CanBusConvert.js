@@ -53,9 +53,9 @@ async function processLineByLine() {
             "," +
             msg[1] +
             "," +
-            msg[2].toString(16) +
+            parseInt(msg[2]).toString(16) +
             "," +
-            msg[3] +
+            parseMsg.join(" ") +
             "," +
             parseMsg[0] + "," +
             parseMsg[1] + "," +
@@ -104,32 +104,32 @@ async function processLineByLine() {
             : parseInt(msg[2]).toString(16);
         var canID = msg[2].substring(0, 3);
         var canMsg = msg[2].substring(4, 20);
-        var parseMsg = []
-        parseMsg = canMsg.match(/.{1,2}/g)
+        var parseMsg1 = []
+        parseMsg1 = canMsg.match(/.{1,2}/g)
         newFile +=
           msg[0] +
           "," +
           canID +
           "," +
-          canMsg +
+          parseMsg1.join(" ") +
           "," +
-          parseMsg[0] + "," +
-          parseMsg[1] + "," +
-          parseMsg[2] + "," +
-          parseMsg[3] + "," +
-          parseMsg[4] + "," +
-          parseMsg[5] + "," +
-          parseMsg[6] + "," +
-          parseMsg[7] + "," +
+          parseMsg1[0] + "," +
+          parseMsg1[1] + "," +
+          parseMsg1[2] + "," +
+          parseMsg1[3] + "," +
+          parseMsg1[4] + "," +
+          parseMsg1[5] + "," +
+          parseMsg1[6] + "," +
+          parseMsg1[7] + "," +
           hex2dec(canID) + "," +
-          hex2dec(parseMsg[0]) + "," +
-          hex2dec(parseMsg[1]) + "," +
-          hex2dec(parseMsg[2]) + "," +
-          hex2dec(parseMsg[3]) + "," +
-          hex2dec(parseMsg[4]) + "," +
-          hex2dec(parseMsg[5]) + "," +
-          hex2dec(parseMsg[6]) + "," +
-          hex2dec(parseMsg[7]) + "," +
+          hex2dec(parseMsg1[0]) + "," +
+          hex2dec(parseMsg1[1]) + "," +
+          hex2dec(parseMsg1[2]) + "," +
+          hex2dec(parseMsg1[3]) + "," +
+          hex2dec(parseMsg1[4]) + "," +
+          hex2dec(parseMsg1[5]) + "," +
+          hex2dec(parseMsg1[6]) + "," +
+          hex2dec(parseMsg1[7]) + "," +
           '\n';
         fileLines +=
           1 +
