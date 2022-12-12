@@ -1,0 +1,99 @@
+VERSION ""
+
+
+NS_ :
+    NS_DESC_
+    CM_
+    BA_DEF_
+    BA_
+    VAL_
+    CAT_DEF_
+    CAT_
+    FILTER
+    BA_DEF_DEF_
+    EV_DATA_
+    ENVVAR_DATA_
+    SGTYPE_
+    SGTYPE_VAL_
+    BA_DEF_SGTYPE_
+    BA_SGTYPE_
+    SIG_TYPE_REF_
+    VAL_TABLE_
+    SIG_GROUP_
+    SIG_VALTYPE_
+    SIGTYPE_VALTYPE_
+    BO_TX_BU_
+    BA_DEF_REL_
+    BA_REL_
+    BA_DEF_DEF_REL_
+    BU_SG_REL_
+    BU_EV_REL_
+    BU_BO_REL_
+    SG_MUL_VAL_
+
+BS_: 
+BU_: MS Bus 
+BO_ 424 MS_1A8: 8 MS Bus
+   SG_ Battery_Voltage : 31|8@0+ (1,0) [0|1] "" MS Bus
+   SG_ Charging_Current : 38|7@0+ (1,0) [0|1] "" MS Bus
+
+BO_ 40 MS_028: 8 MS Bus
+   SG_ Brightness : 23|8@0+ (1,0) [0|255] "" MS Bus
+   SG_ Gearbox_Reverse : 32|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Gearbox_Neutral : 33|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Gearbox_Drive : 34|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Gearbox_Sport : 35|1@0+ (1,0) [0|1] "" MS Bus
+
+BO_ 72 MS_048: 8 MS Bus
+   SG_ Interior_Temperature : 39|8@0+ (1,0) [0|128] "" MS Bus
+
+BO_ 520 MS_208: 8 MS Bus
+   SG_ Rear_Heater : 16|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Auto_Climate : 29|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Defrost : 30|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Front_Heater : 31|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Recirculation : 37|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Passenger_Temperature : 61|6@0+ (1,0) [31|57] "" MS Bus
+   SG_ Driver_Temperature : 53|6@0+ (1,0) [31|57] "" MS Bus
+
+BO_ 680 MS_2A8: 8 MS Bus
+   SG_ Drive_Away_Locking_5 : 32|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Drive_Away_Locking_10 : 33|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Drive_Away_Locking_15 : 34|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Passive_Arming : 38|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ AutoLock : 37|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Alarm_Sensors : 35|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Two_Stage_Locking : 40|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Mirror_Fold : 43|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Global_Windows_Close : 45|1@0+ (1,0) [0|1] "" MS Bus
+   SG_ Global_Windows_Open : 46|1@0+ (1,0) [0|1] "" MS Bus
+
+BO_ 888 MS_378: 8 MS Bus
+   SG_ Hour : 44|5@0+ (1,0) [0|23] "" MS Bus
+   SG_ Minute : 53|6@0+ (1,0) [0|59] "" MS Bus
+   SG_ Second : 61|6@0+ (1,0) [0|59] "" MS Bus
+
+BO_ 1025 MS_401: 8 MS Bus
+   SG_ Message_ID : 7|8@0+ (1,0) [0|1] "" MS Bus
+   SG_ Message : 15|56@0+ (1,0) [0|1] "" MS Bus
+
+BO_ 1026 MS_402: 8 MS Bus
+   SG_ Message_ID : 7|8@0+ (1,0) [0|1] "" MS Bus
+   SG_ Message : 15|56@0+ (1,0) [0|1] "" MS Bus
+
+BA_DEF_ BO_ "GenMsgBackgroundColor" STRING ;
+BA_DEF_ BO_ "GenMsgForegroundColor" STRING ;
+BA_DEF_ BO_ "matchingcriteria" INT 0 0;
+BA_DEF_ BO_ "filterlabeling" INT 0 0;
+BA_DEF_DEF_ "GenMsgBackgroundColor" "#ffffff";
+BA_DEF_DEF_ "GenMsgForegroundColor" "#000000";
+BA_DEF_DEF_ "matchingcriteria" 0;
+BA_DEF_DEF_ "filterlabeling" 1;
+CM_ SG_ 424 Battery_Voltage "(12.750000189975_*_[value/255])_+_6";
+CM_ SG_ 40 Brightness "(value/255)*100";
+CM_ SG_ 40 Gearbox_Reverse "Park_is_when_==_0";
+CM_ SG_ 72 Interior_Temperature "value-40";
+CM_ SG_ 520 Passenger_Temperature "value/2";
+CM_ SG_ 520 Driver_Temperature "value/2";
+VAL_ 424 Battery_Voltage 0 "6v" 255 "18.750000189975";
+VAL_ 424 Charging_Current 0 "Charging_Current";

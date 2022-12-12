@@ -54,7 +54,6 @@ function ms1026(msg, window) {
       vehicleInfo.setupEUCDStep = vehicleInfo.setupEUCDStep + 1;
       const strId = msg.id;
       const arr = [...msg.data];
-      // console.log(msg.data);
       var arrData = [arr[1], arr[2], arr[3], arr[4], arr[5], arr[6], arr[7]];
       for (var i = 0; i < arrData.length; i++) {
         arrData[i] = arrData[i].toString(16);
@@ -63,16 +62,13 @@ function ms1026(msg, window) {
         }
       }
       arrBuilder[parseInt(arr[0]) - 1] = arrData;
-      // console.log("EUCD" + (arr[0] - 1) + ": " + arrBuilder[arr[0] - 1]);
     } else {
       // setup = true;
-      console.log("EUCD: " + arrBuilder);
       if (!vehicleInfo.eucdDecode && vehicleInfo.vinDecode) {
         var configFile;
         var textDecodeFile;
         var eucd = arrBuilder.join(",");
         eucd = eucd.replaceAll(",", "");
-        // console.log(eucd);
         if (isDev) {
           configFile =
             "/home/n95jpl/Documents/GitHub/JagOS/extraResources/JSON/CCF/CCF_DATA_" +
@@ -125,11 +121,6 @@ function ms1026(msg, window) {
                 .option.length;
               y++
             ) {
-              // console.log("Got to options!");
-              // console.log(
-              //   data.configuration_data.block[blockID].group[x].parameter.select
-              //     .option[y]
-              // );
               if (
                 data.configuration_data.block[blockID].group[x].parameter.select
                   .option[y].value == testValue
@@ -141,7 +132,6 @@ function ms1026(msg, window) {
                     data.configuration_data.block[blockID].group[x].parameter
                       .select.option[y].tm.id;
                   eucdData.EUCD[eucdData.EUCD.length] = { "option": id, "optionID": option }
-                  // console.log("We matched: " + eucdData[id].optionID);
                 }
                 break;
               }
@@ -149,26 +139,19 @@ function ms1026(msg, window) {
           }
         }
         setup = true;
-        console.log("We should have data here!");
-        // console.log(eucdData);
         var textData = fs.readFileSync(textDecodeFile);
         textData = JSON.parse(textData);
-        console.log(eucdData);
-        console.log(eucdData.EUCD.length);
         for (var z = 0; z < eucdData.EUCD.length; z++) {
           if (z != 0) {
             var idTest = eucdData.EUCD[z].optionID
             idTest = idTest.substring(0, 2)
             var optionidTest = eucdData.EUCD[z].option
             optionidTest = optionidTest.substring(0, 2)
-            console.log(eucdData.EUCD[z].optionID)
-            console.log(textData[idTest][eucdData.EUCD[z].optionID]["eng"])
             eucdData.EUCD[z]["optionText"] = textData[idTest][eucdData.EUCD[z].optionID]["eng"];
             eucdData.EUCD[z]["optionIDText"] = textData[optionidTest][eucdData.EUCD[z].option]["eng"];
           }
         }
         vehicleInfo.eucdDecode = true;
-        console.log(eucdData);
       }
     }
   }

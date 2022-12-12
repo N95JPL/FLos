@@ -19,6 +19,7 @@ let changedMedium = {
   temperature: {},
   indicators: {},
   brightness: {},
+  vehicle: {},
   vehicleSettings: {},
 };
 let changedVehicleInfo = {};

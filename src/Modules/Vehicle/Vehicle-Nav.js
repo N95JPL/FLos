@@ -14,7 +14,7 @@ function VehicleNav() {
   const menuItems = [
     {
       name: "Electrical",
-      icon: <FaCar />,
+      icon: <FaCog />,
       path: "/vehicle/electrical",
     },
     {
@@ -24,7 +24,7 @@ function VehicleNav() {
     },
     {
       name: "Dashboard",
-      icon: <FaCog />,
+      icon: <FaCar />,
       path: "/vehicle/dashboard",
     },
     {
@@ -44,9 +44,9 @@ function VehicleNav() {
   const secondaryColorSet = "to-" + secondaryColor + "-600";
   return (
     <div
-      className={`NAVBAR-CONTAINER shadow-lg inline-flex fixed h-20 w-full transition`}
+      className={`NAVBAR-CONTAINER shadow-lg fixed h-20 w-[87%] transition`}
     >
-      <div className="NAVBAR-ITEMS transition flex flex-row justify-center px-5 items-center w-5/6">
+      <div className="NAVBAR-ITEMS transition flex justify-center px-5 items-center">
         {
           menuItems.map((m) => {
             return (
@@ -57,11 +57,11 @@ function VehicleNav() {
                 to={m.path}
                 className={
                   location.pathname === m.path
-                    ? "SINGLE-NAVBAR-ITEM text-center bg-black bg-opacity-50 w-[20%] text-4xl inline-flex text-white active:text-gray-100 p-4 m-2 rounded-lg active:bg-opacity-75 transition active:scale-95"
-                    : "SINGLE-NAVBAR-ITEM text-center text-4xl text-white w-[20%] inline-flex active:text-gray-100 bg-black bg-opacity-20 p-4 m-2 rounded-lg active:bg-opacity-40 transition active:scale-95"
+                    ? "SINGLE-NAVBAR-ITEM justify-center items-center w-[20%] text-center bg-black bg-opacity-50 text-4xl inline-flex text-white active:text-gray-100 p-3 m-2 rounded-lg active:bg-opacity-75 transition active:scale-95"
+                    : "SINGLE-NAVBAR-ITEM justify-center items-center w-[20%] text-center bg-black bg-opacity-50 text-4xl inline-flex text-white active:text-gray-100 p-3 m-2 rounded-lg active:bg-opacity-75 transition active:scale-95"
                 }
               >
-                <p className="inline-flex pl-5">{m.icon}</p>
+                {m.icon}
               </Link>
             );
           })
