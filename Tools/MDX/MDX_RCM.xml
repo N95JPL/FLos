@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!-- RCM MANUALLY CREATED MDX FILE -->
+<MDX xmlns:xlink="http://www.w3.org/1999/xlink">
+	<ADMINISTRATION>
+		<ECU_NAME>Restraints Control Module </ECU_NAME>
+		<SHORTNAME>RCM</SHORTNAME>
+		<SSDS_INFORMATION/>
+		<SPECIFICATION_DOCUMENTS/>
+	</ADMINISTRATION>
+	<PROTOCOL/>
+	<ECU_DATA>
+		<DATA_IDENTIFIERS>
+			<DID ID="did_D100">
+				<NAME>ECU Operating States</NAME>
+				<NUMBER>0xD100</NUMBER>
+				<BYTE_SIZE>1</BYTE_SIZE>
+				<DID_TYPE>single_value</DID_TYPE>
+				<ACCESS_PARAMETERS>
+					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03"/>
+				</ACCESS_PARAMETERS>
+				<SUB_FIELD ID="did_D100_subfield_1">
+					<NAME>Active Diagnostic Session</NAME>
+					<SHORTNAME>DIAGSESS</SHORTNAME>
+					<LEAST_SIG_BIT>0</LEAST_SIG_BIT>
+					<MOST_SIG_BIT>7</MOST_SIG_BIT>
+					<DATA_DEFINITION ID="did_D100_subfield_1_data_def_1">
+						<DATA_TYPE>enumerated</DATA_TYPE>
+						<ENUMERATED_PARAMETERS>
+							<ENUM_MEMBER ID="did_D100_subfield_1_data_def_1_enum_1">
+								<ENUM_VALUE>1</ENUM_VALUE>
+								<DESCRIPTION>Default Diagnostic Session</DESCRIPTION>
+							</ENUM_MEMBER>
+							<ENUM_MEMBER ID="did_D100_subfield_1_data_def_1_enum_2">
+								<ENUM_VALUE>2</ENUM_VALUE>
+								<DESCRIPTION>Programming Session</DESCRIPTION>
+							</ENUM_MEMBER>
+							<ENUM_MEMBER ID="did_D100_subfield_1_data_def_1_enum_3">
+								<ENUM_VALUE>3</ENUM_VALUE>
+								<DESCRIPTION>Extended Session</DESCRIPTION>
+							</ENUM_MEMBER>
+						</ENUMERATED_PARAMETERS>
+					</DATA_DEFINITION>
+				</SUB_FIELD>
+			</DID>
+			<DID ID="did_DE00">
+				<NAME>RCM Configuration Data</NAME>
+				<NUMBER>0xDE00</NUMBER>
+				<DESCRIPTION>RCM Configuration Data </DESCRIPTION>
+				<BYTE_SIZE>6</BYTE_SIZE>
+				<DID_TYPE>bitmapped</DID_TYPE>
+				<ACCESS_PARAMETERS/>
+			</DID>
+			<DID ID="did_5B26">
+				<NAME>RCM delivery mode</NAME>
+				<NUMBER>0x5B26</NUMBER>
+				<DESCRIPTION>RCM delivery mode setting</DESCRIPTION>
+				<BYTE_SIZE>1</BYTE_SIZE>
+				<DID_TYPE>single_value</DID_TYPE>
+				<ACCESS_PARAMETERS/>
+			</DID>
+		</DATA_IDENTIFIERS>
+		<DIAGNOSTIC_TROUBLE_CODES/>
+		<ROUTINE_IDENTIFIERS/>
+		<MEMORY_AREAS/>
+		<SECURITY_DATA/>
+	</ECU_DATA>
+	<SPECIAL_PROCEDURES/>
+	<DEVIATIONS/>
+</MDX>

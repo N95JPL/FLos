@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!-- ICS MANUALLY CREATED MDX FILE -->
+<MDX xmlns:xlink="http://www.w3.org/1999/xlink">
+	<ADMINISTRATION>
+		<ECU_NAME>Impact Classification System</ECU_NAME>
+		<SHORTNAME>ICS</SHORTNAME>
+		<SSDS_INFORMATION/>
+		<SPECIFICATION_DOCUMENTS/>
+	</ADMINISTRATION>
+	<PROTOCOL/>
+	<ECU_DATA>
+		<DATA_IDENTIFIERS>
+			<DID ID="did_5B26">
+				<NAME>Module delivery mode</NAME>
+				<NUMBER>0x5B26</NUMBER>
+				<DESCRIPTION>Module delivery mode </DESCRIPTION>
+				<BYTE_SIZE>1</BYTE_SIZE>
+				<DID_TYPE>single_value</DID_TYPE>
+				<ACCESS_PARAMETERS/>
+			</DID>
+			<DID ID="did_5B53">
+				<NAME>Crash counter</NAME>
+				<NUMBER>0x5B53</NUMBER>
+				<DESCRIPTION>Crash counter impacts since last inspection </DESCRIPTION>
+				<BYTE_SIZE>1</BYTE_SIZE>
+				<DID_TYPE>binary</DID_TYPE>
+				<ACCESS_PARAMETERS/>
+			</DID>
+		</DATA_IDENTIFIERS>
+		<DIAGNOSTIC_TROUBLE_CODES/>
+		<ROUTINE_IDENTIFIERS>
+			<ROUTINE ID="routine_0404" SESSION_REFS="session_03">
+				<NAME>VIN learn</NAME>
+				<NUMBER>0x0404</NUMBER>
+				<MAX_ROUTINE_RUN_TIME/>
+				<RESTART_WHILE_RUNNING>no</RESTART_WHILE_RUNNING>
+			</ROUTINE>
+		</ROUTINE_IDENTIFIERS>
+		<MEMORY_AREAS/>
+		<SECURITY_DATA/>
+	</ECU_DATA>
+	<SPECIAL_PROCEDURES/>
+	<DEVIATIONS/>
+</MDX>
