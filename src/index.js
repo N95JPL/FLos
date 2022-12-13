@@ -6,6 +6,7 @@ import Layout from "./Modules/Layout";
 import NoPage from "./Modules/NoPage";
 import Carplay from "./Modules/Carplay";
 import VehicleDashboard from "./Modules/Vehicle/Dashboard";
+import VehicleElectrical from "./Modules/Vehicle/Electrical";
 import Climate from "./Modules/Climate";
 import VehicleSettings from "./Modules/Settings/Vehicle-Settings";
 import AppSettings from "./Modules/Settings/App-Settings";
@@ -32,6 +33,7 @@ export default function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<Climate />} />
           <Route path="/vehicle/dashboard" element={<VehicleDashboard />} />
+          <Route path="/vehicle/electrical" element={<VehicleElectrical />} />
           <Route path="/settings/vehicle" element={<VehicleSettings />} />
           <Route path="/settings/app" element={<AppSettings />} />
           <Route path="/settings/dev" element={<Dev />} />

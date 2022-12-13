@@ -57,7 +57,7 @@ function VehicleNav() {
                 to={m.path}
                 className={
                   location.pathname === m.path
-                    ? "SINGLE-NAVBAR-ITEM justify-center items-center w-[20%] text-center bg-black bg-opacity-50 text-4xl inline-flex text-white active:text-gray-100 p-3 m-2 rounded-lg active:bg-opacity-75 transition active:scale-95"
+                    ? `SINGLE-NAVBAR-ITEM justify-center items-center w-[20%] text-center bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} bg-opacity-50 text-4xl inline-flex text-white active:text-gray-100 p-3 m-2 rounded-lg active:bg-opacity-75 transition active:scale-95`
                     : "SINGLE-NAVBAR-ITEM justify-center items-center w-[20%] text-center bg-black bg-opacity-50 text-4xl inline-flex text-white active:text-gray-100 p-3 m-2 rounded-lg active:bg-opacity-75 transition active:scale-95"
                 }
               >
