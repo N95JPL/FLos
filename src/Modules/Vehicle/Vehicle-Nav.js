@@ -2,6 +2,7 @@
 import { React } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { FaCar, FaCog, FaBackward } from "react-icons/fa";
+import { GiElectric } from "react-icons/gi";
 import "../Style.css";
 import { theme } from "../../Stores/theme";
 import { BsCode } from "react-icons/bs";
@@ -14,7 +15,7 @@ function VehicleNav() {
   const menuItems = [
     {
       name: "Electrical",
-      icon: <FaCog />,
+      icon: <GiElectric />,
       path: "/vehicle/electrical",
     },
     {
@@ -51,9 +52,6 @@ function VehicleNav() {
           menuItems.map((m) => {
             return (
               <Link
-                onClick={() => {
-                  window.api.sendLog("Clicked on " + m.name);
-                }}
                 to={m.path}
                 className={
                   location.pathname === m.path

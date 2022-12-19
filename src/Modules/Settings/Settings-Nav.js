@@ -37,9 +37,6 @@ function SettingsNav() {
             menuItems.map((m) => {
               return (
                 <Link
-                  onClick={() => {
-                    window.api.sendLog("Clicked on " + m.name);
-                  }}
                   to={m.path}
                   className={
                     location.pathname === m.path
@@ -55,7 +52,7 @@ function SettingsNav() {
           ) : (
             <div>
               <Link
-                to="/settings/dev"
+                to="/settings/app"
                 className={
                   location.pathname === "/settings/app"
                     ? "SINGLE-NAVBAR-ITEM text-center bg-black bg-opacity-50 w-50 text-4xl inline-flex text-white active:text-gray-100  p-2 m-5 rounded-lg active:bg-opacity-75 transition active:scale-95"

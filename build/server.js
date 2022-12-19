@@ -5,7 +5,6 @@ const {
   mediumSpeedPrev,
 } = require("./resources/VariableMaps/MediumSpeedVar");
 const { Out } = require("./resources/CanMap/canOut");
-const { SettingsOut } = require("./resources/CanMap/canSetting");
 const {
   vehicleInfo,
   vehicleInfoPrev,
@@ -37,7 +36,6 @@ module.exports = function (window, dev) {
 
   // let canIds = Map;
   let outIds = Out;
-  let seetingsIds = SettingsOut;
   // canIds = JSON.stringify(canIds);
   // outIds = JSON.stringify(outIds)
   // default array to use as the buffer to send can messages when no new changes
@@ -153,12 +151,12 @@ module.exports = function (window, dev) {
         mediumSpeed.brightness.adjustedLight;
     }
   });
-  ipcMain.on("actionSettings", (event, msg) => {
-    let value;
-    let byte;
-    value = seetingsIds[msg.type].val;
-    byte = seetingsIds[msg.type].byte;
-  });
+  // ipcMain.on("actionSettings", (event, msg) => {
+  //   let value;
+  //   let byte;
+  //   value = seetingsIds[msg.type].val;
+  //   byte = seetingsIds[msg.type].byte;
+  // });
   ipcMain.on("canRecorder", (event, msg) => {
     if (msg === "startMS") {
       exec("candump can0");

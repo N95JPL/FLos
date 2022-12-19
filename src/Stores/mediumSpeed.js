@@ -42,11 +42,13 @@ export let mediumSpeed = create((set) => ({
   vehicle: {
     gear: 0,
     setGear: (gear) => set({ gear }),
-    alternator: 0,
+    alternator: [{ name: "Alternator", alternator: 0 }],
     setAlternator: (alternator) => set({ alternator }),
-    voltage: 0,
+    voltage: [{ name: "Battery", voltage: 0 }],
     setVoltage: (voltage) => set({ voltage }),
-    charging_current: 0,
+    charging_current: [{
+      name: "Charging", charging: 0
+    }],
     setCharging_current: (charging_current) => set({ charging_current }),
   },
   vehicleSettings: {

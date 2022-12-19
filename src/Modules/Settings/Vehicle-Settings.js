@@ -84,7 +84,7 @@ function VehicleSettings() {
                   <Switch
                     defaultChecked={eval(a.handle)}
                     checked={eval(a.handle)}
-                    // onChange={onChange(a.handle)}
+                  // onChange={onChange(a.handle)}
                   />
                 }
                 label={a.handle
