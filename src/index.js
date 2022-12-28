@@ -16,7 +16,7 @@ import { vehicleInfo } from "./Stores/vehicleInfo";
 
 
 // eslint-disable-next-line no-unused-vars
-let setMediumSpeed = "";
+let MediumSpeed = "";
 let setVehicleInfo = "";
 // eslint-disable-next-line no-unused-vars
 let setup = false;
@@ -116,17 +116,61 @@ function setUp() {
       eval(b);
     }
   });
-  setMediumSpeed = mediumSpeed();
+  MediumSpeed = mediumSpeed();
   window.api.onMediumSpeed((event, msg) => {
     for (const x in msg) {
       for (const y in msg[x]) {
-        const a = "set" + capitalize(y.toString());
-        const b = "setMediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
-        // eslint-disable-next-line no-eval
-        eval(b);
+        const a = "set" + capitalize(y);
+        console.log(y)
+        if (y.toString() != "charging_current" && y.toString() != "voltage" && y.toString() != "alternator") {
+          console.log("if")
+          const b = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
+          // eslint-disable-next-line no-eval
+          eval(b);
+        } else {
+          console.log("else")
+          if (y.toString() == "charging_current") {
+            console.log("Charging Current Attempt")
+            var temp = MediumSpeed.vehicle.charging_current_graph;
+            temp.push([{ name: "Charging Current", charging: msg[x].y }])
+            if (temp.length > 100) {
+              temp.shift();
+            }
+            const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
+            const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
+            // eslint-disable-next-line no-eval
+            eval(b);
+            eval(c)
+          } else if (y.toString() == "voltage") {
+            console.log("Voltage Attempt")
+            var temp = MediumSpeed.vehicle.voltage_graph;
+            temp.push([{ name: "Voltage", voltage: msg[x].y }])
+            if (temp.length > 100) {
+              temp.shift();
+            }
+            const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
+            const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
+            // eslint-disable-next-line no-eval
+            eval(b);
+            eval(c)
+          } else if (y.toString() == "alternator") {
+            console.log("Alternator Attempt")
+            var temp = MediumSpeed.vehicle.alternator_graph;
+            temp.push([{ name: "Alternator", alternator: msg[x].y }])
+            if (temp.length > 100) {
+              temp.shift();
+            }
+            const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
+            const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
+            // eslint-disable-next-line no-eval
+            eval(b);
+            eval(c)
+          }
+        }
       }
     }
-  });
+  }
+  );
   setup = true;
 }
 function capitalize(string) {

@@ -24,10 +24,10 @@ let mediumSpeed = {
     auto: true,
   },
   vehicle: {
-    alternator: [],
+    alternator: 0,
     gear: 0,
-    voltage: [],
-    charging_current: [],
+    voltage: 0,
+    charging_current: 0,
   },
   vehicleSettings: {
     Drive_Away_Locking_5: false,
@@ -69,10 +69,10 @@ let mediumSpeedPrev = {
     auto: true,
   },
   vehicle: {
-    alternator: [],
+    alternator: 0,
     gear: 0,
-    voltage: [],
-    charging_current: [],
+    voltage: 0,
+    charging_current: 0,
   },
   vehicleSettings: {
     Drive_Away_Locking_5: false,

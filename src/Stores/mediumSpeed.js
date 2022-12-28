@@ -42,14 +42,18 @@ export let mediumSpeed = create((set) => ({
   vehicle: {
     gear: 0,
     setGear: (gear) => set({ gear }),
-    alternator: [{ name: "Alternator", alternator: 0 }],
+    alternator: 0,
     setAlternator: (alternator) => set({ alternator }),
-    voltage: [{ name: "Battery", voltage: 0 }],
+    alternator_graph: [{ name: "Alternator", alternator: 0 }],
+    setAlternator_graph: (alternator_graph) => set({ alternator_graph }),
+    voltage: 0,
     setVoltage: (voltage) => set({ voltage }),
-    charging_current: [{
-      name: "Charging", charging: 0
-    }],
+    voltage_graph: [{ name: "Battery", voltage: 0 }],
+    setVoltage_graph: (voltage_graph) => set({ voltage_graph }),
+    charging_current: 0,
     setCharging_current: (charging_current) => set({ charging_current }),
+    charging_current_graph: [{ name: "Charging Current", charging_current: 0 }],
+    setCharging_current_graph: (charging_current_graph) => set({ charging_current_graph }),
   },
   vehicleSettings: {
     Drive_Away_Locking_5: false,

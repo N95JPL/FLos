@@ -79,12 +79,12 @@ function ms1025(msg, window) {
     } else {
       if (vehicleInfo.firstTimeSetup && !vehicleInfo.vinDecode) {
         vehicleInfo.setupInfoLine = "Calculating VIN...";
-        console.log("All CCF data received");
+        // console.log("All CCF data received");
         CCF = arrBuilder.join("");
         CCF = CCF.replaceAll(",", "");
         CCFString = hex2a(CCF);
         vehicleInfo.VIN = CCFString.substring(3, 20);
-        console.log("This vehicles VIN: " + vehicleInfo.VIN);
+        // console.log("This vehicles VIN: " + vehicleInfo.VIN);
         if (vehicleInfo.VIN.length == 17) {
           vehicleInfo.setupInfoLine = "Decoding VIN: Fetching Model ID";
           decodeModelID(vehicleInfo.VIN);
@@ -98,9 +98,9 @@ function ms1025(msg, window) {
               if (is_ccfid) {
                 vehicleInfo.setupInfoLine =
                   "Decoding CCF: Well... On day I we will decode the CCF";
-                console.log(
-                  "It would appear that all the vehicle info has been decoded!"
-                );
+                // console.log(
+                //   "It would appear that all the vehicle info has been decoded!"
+                // );
                 vehicleInfo.vinDecode = true;
               }
             }
@@ -109,9 +109,9 @@ function ms1025(msg, window) {
         if (!vehicleInfo.vinDecode) {
           vehicleInfo.setupInfoLine =
             "Oops! Something went wrong! We will try again!";
-          console.log(
-            "Parsing vehicle data has failed - See parsed data below"
-          );
+          // console.log(
+          //   "Parsing vehicle data has failed - See parsed data below"
+          // );
           arrBuilder = [
             "-",
             "-",
@@ -165,7 +165,7 @@ function ms1025(msg, window) {
           vehicleInfo.Engine = "-";
         }
       } else if (!vehicleInfo.firstTimeSetup && !vehicleInfo.vinDecode) {
-        console.log("All CCF data received");
+        // console.log("All CCF data received");
         CCF = arrBuilder.join("");
         CCF = CCF.replaceAll(",", "");
         CCFString = hex2a(CCF);
@@ -173,8 +173,8 @@ function ms1025(msg, window) {
         if (VIN == vehicleInfo.VIN) {
           vehicleInfo.vinDecode = true;
           setup = true;
-          console.log("This is the same vehicle as before");
-          console.log("This vehicles VIN: " + vehicleInfo.VIN);
+          // console.log("This is the same vehicle as before");
+          // console.log("This vehicles VIN: " + vehicleInfo.VIN);
         } else {
           vehicleInfo.firstTimeSetup = true;
           vehicleInfo.vinDecode = false;
@@ -251,14 +251,14 @@ function decodeModelID(VIN) {
     }
     if (is_modelid) {
       vehicleInfo.Model_id = VINDecode.Models[i].DecodeModel;
-      console.log("decodeModelID Passed: " + vehicleInfo.Model_id);
+      // console.log("decodeModelID Passed: " + vehicleInfo.Model_id);
       break;
     }
   }
   if (!is_modelid) {
-    console.error(
-      "All tests have failed!\nIs this a JLR Vehicle?\nVIN: " + vehicleInfo.VIN
-    );
+    // console.error(
+    //   "All tests have failed!\nIs this a JLR Vehicle?\nVIN: " + vehicleInfo.VIN
+    // );
     vehicleInfo.setupInfoLine = "Are you sure this is a JLR Vehicle?";
   }
 }
@@ -312,14 +312,14 @@ function decodeModel(VIN) {
             VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Value[
               x
             ].Decode;
-          console.log(
-            name +
-            ": " +
-            VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Value[x]
-              .Decode +
-            " | " +
-            vehicleInfo[name]
-          );
+          // console.log(
+          //   name +
+          //   ": " +
+          //   VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Value[x]
+          //     .Decode +
+          //   " | " +
+          //   vehicleInfo[name]
+          // );
           break;
         }
       }
@@ -341,7 +341,7 @@ function decodeModel(VIN) {
     vehicleInfo.Transmission != "-" &&
     vehicleInfo.Engine != "-"
   ) {
-    console.log("decodeModel Passed: " + vehicleInfo.Model);
+    // console.log("decodeModel Passed: " + vehicleInfo.Model);
     is_model = true;
   } else {
     is_model = false;
@@ -354,12 +354,12 @@ function decodeCCFID() {
   var vinMin = "";
   var vinMax = "";
   var vinTest = vehicleInfo.VIN.substring(11, 17);
-  console.log("Decode CCF ID...");
+  // console.log("Decode CCF ID...");
   for (var x = 0; x < Vehicle_Manifest.vehicle_range.length; x++) {
     if (
       Vehicle_Manifest.vehicle_range[x].brand == vehicleInfo.Brand.toLowerCase()
     ) {
-      console.log("CCF: Found Brand");
+      // console.log("CCF: Found Brand");
       for (
         var y = 0;
         y < Vehicle_Manifest.vehicle_range[x].vehicle.length;
@@ -369,7 +369,7 @@ function decodeCCFID() {
           Vehicle_Manifest.vehicle_range[x].vehicle[y].model.id ==
           vehicleInfo.Model
         ) {
-          console.log("CCF: Found Model");
+          // console.log("CCF: Found Model");
           for (
             var z = 0;
             z < Vehicle_Manifest.vehicle_range[x].vehicle[y].variant.length;
@@ -384,25 +384,25 @@ function decodeCCFID() {
               (vehicleInfo.ModelYear >= yeartest[0] &&
                 vehicleInfo.ModelYear <= yeartest[1])
             ) {
-              console.log("CCF: Found Model Year");
+              // console.log("CCF: Found Model Year");
               vinMin =
                 Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].vin.min;
               vinMax =
                 Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].vin.max;
               if (vinTest >= vinMin && vinTest <= vinMax) {
-                console.log("CCF: Found VIN");
+                // console.log("CCF: Found VIN");
                 vehicleInfo.CCFID =
                   Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[
                     z
                   ].file_manifest.id;
                 vehicleInfo.As_Built =
                   Vehicle_Manifest.vehicle_range[x].vehicle[y].as_built;
-                console.log(
-                  "CCFID: " +
-                  vehicleInfo.CCFID +
-                  " | As_Built: " +
-                  vehicleInfo.As_Built
-                );
+                // console.log(
+                // "CCFID: " +
+                // vehicleInfo.CCFID +
+                // " | As_Built: " +
+                // vehicleInfo.As_Built
+                // );
                 is_ccfid = true;
                 break;
               }
