@@ -6,7 +6,7 @@ import "../Style.css";
 import { FormControlLabel, FormGroup, Icon, Slider, Switch } from "@mui/material";
 import { GiCarBattery, GiElectric, GiBatteryPack } from "react-icons/gi";
 import { mediumSpeed } from "../../Stores/mediumSpeed";
-import { LineChart, Line } from 'recharts';
+import { LineChart, Line, XAxis, ResponsiveContainer, YAxis } from 'recharts';
 // eslint-disable-next-line no-unused-vars
 let vehicleStore = {};
 function onChange(name) {
@@ -19,9 +19,10 @@ function VehicleElectrical() {
   const voltage = mediumSpeed((state) => state.voltage);
   const charging_current = mediumSpeed((state) => state.charging_current);
   const alternator = mediumSpeed((state) => state.alternator);
-  const voltage_graph = mediumSpeed((state) => state.voltage_graph);
-  const charging_current_graph = mediumSpeed((state) => state.charging_current_graph);
-  const alternator_graph = mediumSpeed((state) => state.alternator_graph);
+  const voltage_graph = mediumSpeed((state) => state.vehicle.voltage_graph);
+  const charging_current_graph = mediumSpeed((state) => state.vehicle.charging_current_graph);
+  const alternator_graph = mediumSpeed((state) => state.vehicle.alternator_graph);
+  // const charging_current_graph = [{ name: 1, charging_current: 0 }, { name: 2, charging_current: 10 }, { name: 3, charging_current: 20 }, { name: 4, charging_current: 30 }]
   return (
     <div className="fade-in transition-all fixed h-full">
       <div className="h-[20%] w-full">
@@ -43,20 +44,32 @@ function VehicleElectrical() {
           <GiElectric className={`w-full transition-all items-center justify-center text-8xl text-center ${alternator > 160 ? `text-red-600` : alternator ? `text-yellow-600` : alternator > 0 ? `text-green-600` : `text-red-600`}`} />
           <p className="text-xl">{alternator}A</p>
         </div>
-        <div className="row-span-1 col-span-1">
-          <LineChart cwidth={400} height={400} data={voltage_graph}>
-            <Line type="monotone" dataKey="voltage" stroke="#8884d8" />
-          </LineChart>
+        <div className="w-full h-full row-span-1 col-span-1">
+          <ResponsiveContainer width="100%" height="100%">
+            <LineChart data={voltage_graph} margin={{ top: 5, bottom: 5 }}>
+              <Line type="monotone" dot={false} dataKey="value" stroke="#FFFFFF" />
+              <XAxis />
+              <YAxis type="number" domain={['dataMin', 'dataMax']} />
+            </LineChart>
+          </ResponsiveContainer>
         </div>
-        <div className="row-span-1 col-span-1">
-          <LineChart cwidth={400} height={400} data={charging_current_graph}>
-            <Line type="monotone" dataKey="current" stroke="#8884d8" />
-          </LineChart>
+        <div className="w-full h-full row-span-1 col-span-1">
+          <ResponsiveContainer width="100%" height="100%">
+            <LineChart data={charging_current_graph} margin={{ top: 5, bottom: 5 }}>
+              <Line type="monotone" dot={false} dataKey="charging_current" stroke="#FFFFFF" />
+              <XAxis />
+              <YAxis type="number" domain={['dataMin', 'dataMax']} />
+            </LineChart>
+          </ResponsiveContainer>
         </div>
-        <div className="row-span-1 col-span-1">
-          <LineChart cwidth={400} height={400} data={alternator_graph}>
-            <Line type="monotone" dataKey="alternator" stroke="#8884d8" />
-          </LineChart>
+        <div className="w-full h-full row-span-1 col-span-1">
+          <ResponsiveContainer width="100%" height="100%">
+            <LineChart data={alternator_graph} margin={{ top: 5, bottom: 5 }}>
+              <Line type="monotone" dot={false} dataKey="alternator" stroke="#FFFFFF" />
+              <XAxis />
+              <YAxis type="number" domain={['dataMin', 'dataMax']} />
+            </LineChart>
+          </ResponsiveContainer>
         </div>
       </div>
     </div>

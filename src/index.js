@@ -131,11 +131,7 @@ function setUp() {
           console.log("else")
           if (y.toString() == "charging_current") {
             console.log("Charging Current Attempt")
-            var temp = MediumSpeed.vehicle.charging_current_graph;
-            temp.push([{ name: "Charging Current", charging: msg[x].y }])
-            if (temp.length > 100) {
-              temp.shift();
-            }
+            var temp = msg[x][y]
             const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
             const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
             // eslint-disable-next-line no-eval
@@ -143,11 +139,7 @@ function setUp() {
             eval(c)
           } else if (y.toString() == "voltage") {
             console.log("Voltage Attempt")
-            var temp = MediumSpeed.vehicle.voltage_graph;
-            temp.push([{ name: "Voltage", voltage: msg[x].y }])
-            if (temp.length > 100) {
-              temp.shift();
-            }
+            var temp = msg[x][y]
             const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
             const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
             // eslint-disable-next-line no-eval
@@ -155,11 +147,7 @@ function setUp() {
             eval(c)
           } else if (y.toString() == "alternator") {
             console.log("Alternator Attempt")
-            var temp = MediumSpeed.vehicle.alternator_graph;
-            temp.push([{ name: "Alternator", alternator: msg[x].y }])
-            if (temp.length > 100) {
-              temp.shift();
-            }
+            var temp = msg[x][y]
             const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
             const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
             // eslint-disable-next-line no-eval

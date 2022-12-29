@@ -1,6 +1,7 @@
 import create from "zustand";
+import produce from "immer";
 
-export let mediumSpeed = create((set) => ({
+export const mediumSpeed = create((set) => ({
   time: {
     hour: 0,
     setHour: (hour) => set({ hour }),
@@ -44,16 +45,51 @@ export let mediumSpeed = create((set) => ({
     setGear: (gear) => set({ gear }),
     alternator: 0,
     setAlternator: (alternator) => set({ alternator }),
-    alternator_graph: [{ name: "Alternator", alternator: 0 }],
-    setAlternator_graph: (alternator_graph) => set({ alternator_graph }),
+    alternator_graph: [{}],
+    setAlternator_graph:
+      (payload) =>
+        set(
+          produce((draft) => {
+            draft.vehicle.alternator_graph.push({
+              name: draft.vehicle.alternator_graph.length,
+              alternator: parseInt(payload),
+            });
+            if (draft.vehicle.alternator_graph.length > 100) {
+              draft.vehicle.alternator_graph.shift();
+            }
+          })
+        ),
     voltage: 0,
     setVoltage: (voltage) => set({ voltage }),
-    voltage_graph: [{ name: "Battery", voltage: 0 }],
-    setVoltage_graph: (voltage_graph) => set({ voltage_graph }),
+    voltage_graph: [{}],
+    setVoltage_graph: (payload) =>
+      set(
+        produce((draft) => {
+          draft.vehicle.voltage_graph.push({
+            name: draft.vehicle.voltage_graph.length,
+            value:
+              payload,
+          });
+          if (draft.vehicle.voltage_graph.length > 100) {
+            draft.vehicle.voltage_graph.shift();
+          }
+        })
+      ),
     charging_current: 0,
     setCharging_current: (charging_current) => set({ charging_current }),
-    charging_current_graph: [{ name: "Charging Current", charging_current: 0 }],
-    setCharging_current_graph: (charging_current_graph) => set({ charging_current_graph }),
+    charging_current_graph: [{}],
+    setCharging_current_graph: (payload) =>
+      set(
+        produce((draft) => {
+          draft.vehicle.charging_current_graph.push({
+            name: draft.vehicle.charging_current_graph.length,
+            charging_current: parseInt(payload),
+          });
+          if (draft.vehicle.charging_current_graph.length > 100) {
+            draft.vehicle.charging_current_graph.shift();
+          }
+        })
+      ),
   },
   vehicleSettings: {
     Drive_Away_Locking_5: false,
