@@ -45,7 +45,7 @@ function Nav() {
     {
       name: "Vehicle",
       icon: <FaCar />,
-      path: "/vehicle/Dashboard",
+      path: "/vehicle/dashboard",
     },
     {
       name: "Settings",
@@ -59,7 +59,7 @@ function Nav() {
   return (
     <>
       <div
-        className={`NAVBAR-CONTAINER w-[13%] fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex h-screen absolute z-10 left-0 transition`}
+        className={`NAVBAR-CONTAINER w-[100px] fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex h-screen absolute z-10 left-0 transition`}
       >
         <div className="flex absolute justify-center items-center w-full">
           <div className="py-0.75 m-2 text-xl font-bold">
@@ -85,7 +85,7 @@ function Nav() {
           })}
         </div>
       </div>
-      <div className="absolute w-[695px] left-[105px]">
+      <div id="outlet" className="fade-in transition-all absolute w-[700px] left-[100px]">
         <Outlet />
       </div>
     </>

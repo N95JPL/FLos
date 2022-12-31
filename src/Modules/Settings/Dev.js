@@ -4,17 +4,20 @@ import SettingsNav from "./Settings-Nav";
 
 import "../Style.css";
 import { FaCircle } from "react-icons/fa";
+import appInfo from "../../Stores/appInfo";
 
 // eslint-disable-next-line no-unused-vars
 function Dev() {
-  const [HS, setHS] = React.useState(false);
-  const [MS, setMS] = React.useState(false);
+  const msRecording = appInfo((state) => state.msRecording);
+  const hsRecording = appInfo((state) => state.hsRecording);
+  const setmsRecording = appInfo((state) => state.setmsRecording);
+  const sethsRecording = appInfo((state) => state.sethsRecording);
   return (
-    <div className="flex h-screen w-[695px] justify-center absolute">
-      <div className="flex top-10h-10 w-full absolute">
+    <div className="h-full w-full fixed">
+      <div className="w-full">
         <SettingsNav />
       </div>
-      <div className="h-screen flex w-max items-center justify-evenly p-10">
+      <div className="fade-in h-full flex w-full items-center justify-center p-10">
         <div className="max-w-4xl w-full flex flex-col">
           <div>
             <h1 className="text-2xl font-extrabold tracking-tight">
@@ -27,12 +30,12 @@ function Dev() {
           </div>
           <div className="flex flex-col items-center gap-2.5 mt-2.5">
             <div className="flex gap-2.5">
-              {!HS ? (
+              {!hsRecording ? (
                 <button
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
                     window.api.canRecorder("startHS"),
-                    setHS(true),
+                    sethsRecording(true),
                   ]}
                 >
                   <FaCircle className="text-emerald-400" /> Start High Speed
@@ -43,7 +46,7 @@ function Dev() {
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
                     window.api.canRecorder("endHS"),
-                    setHS(false),
+                    sethsRecording(false),
                   ]}
                 >
                   <FaCircle className="text-emerald-400" /> Stop High Speed
@@ -52,12 +55,12 @@ function Dev() {
               )}
             </div>
             <div className="flex gap-2.5">
-              {!MS ? (
+              {!msRecording ? (
                 <button
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
                     window.api.canRecorder("startMS"),
-                    setMS(true),
+                    setmsRecording(true),
                   ]}
                 >
                   <FaCircle className="text-yellow-400" /> Start Medium Speed
@@ -68,7 +71,7 @@ function Dev() {
                   className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
                   onClick={() => [
                     window.api.canRecorder("endMS"),
-                    setMS(false),
+                    setmsRecording(false),
                   ]}
                 >
                   <FaCircle className="text-yellow-400" /> Stop Medium Speed

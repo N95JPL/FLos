@@ -108,7 +108,6 @@ function setUp() {
     Engine: Engine,
   });
   window.api.onVehicleInfo((event, msg) => {
-    console.log(msg);
     for (const x in msg) {
       const a = "set" + capitalize(x.toString());
       const b = a + "(msg." + x + ")";
@@ -121,16 +120,12 @@ function setUp() {
     for (const x in msg) {
       for (const y in msg[x]) {
         const a = "set" + capitalize(y);
-        console.log(y)
         if (y.toString() != "charging_current" && y.toString() != "voltage" && y.toString() != "alternator") {
-          console.log("if")
           const b = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
           // eslint-disable-next-line no-eval
           eval(b);
         } else {
-          console.log("else")
           if (y.toString() == "charging_current") {
-            console.log("Charging Current Attempt")
             var temp = msg[x][y]
             const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
             const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
@@ -138,7 +133,6 @@ function setUp() {
             eval(b);
             eval(c)
           } else if (y.toString() == "voltage") {
-            console.log("Voltage Attempt")
             var temp = msg[x][y]
             const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
             const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
@@ -146,7 +140,6 @@ function setUp() {
             eval(b);
             eval(c)
           } else if (y.toString() == "alternator") {
-            console.log("Alternator Attempt")
             var temp = msg[x][y]
             const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
             const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";

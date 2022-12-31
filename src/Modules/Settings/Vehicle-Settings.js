@@ -65,11 +65,11 @@ function VehicleSettings() {
     return x.y;
   };
   return (
-    <div className="fixed h-screen w-[87%]">
-      <div className="flex h-[20%] w-full">
+    <div className="fixed h-full w-full">
+      <div className="flex h-20 w-full">
         <SettingsNav />
       </div>
-      <div className="h-[10%] w-full text-center justify-center flex">
+      <div className="fade-in h-[10%] w-full text-center justify-center flex">
         <p>
           Note: These are read-only - Please change on the original headunit
         </p>

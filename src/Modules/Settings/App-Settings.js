@@ -95,10 +95,7 @@ function AppSettings() {
       <div className="flex h-10 w-full absolute">
         <SettingsNav />
       </div>
-      <div className="flex absolute top-24 flex-col">
-        <div className="flex gap-2.5"></div>
-      </div>
-      <div className="w-full items-center justify-center p-10 gap-5 flex-col flex">
+      <div className="fade-in w-full items-center justify-center p-10 gap-5 flex-col flex">
         <div className="flex flex-row gap-5 ">
           <button
             className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
@@ -176,7 +173,7 @@ function AppSettings() {
           </Typography>
         </Box>
       </Modal>
-      <div className="absolute left-[565px] top-[410px] gap-2.5">
+      <div className="absolute left-[565px] top-[360px] gap-2.5">
         <Link
           to="/settings/dev"
           className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"

@@ -38,6 +38,13 @@ body {
   animation-direction: alternate;
 }
 
+#outlet {
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  animation-direction: alternate;
+}
+
 .fadeIn {
   animation-name: fadeIn;
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.e2002ea3.css",
-    "main.js": "./static/js/main.9dd0106f.js",
+    "main.css": "./static/css/main.1605aefc.css",
+    "main.js": "./static/js/main.a0a4f7cd.js",
     "static/media/JaguarLogo.png": "./static/media/JaguarLogo.83ee80840cbe9b84c5ca.png",
     "static/media/defrost.svg": "./static/media/defrost.392fffbd25583cbbaf99883d3b33459e.svg",
     "static/media/driverSeat.svg": "./static/media/driverSeat.81dad9c439d8ec89104a1d9abb0a792e.svg",
@@ -10,11 +10,11 @@
     "static/media/recirc.svg": "./static/media/recirc.8016f2084a0d024f4fbbb36dfc6a6dcd.svg",
     "static/media/auto.svg": "./static/media/auto.83e02ffb2e09441220e16dba0338f1fd.svg",
     "index.html": "./index.html",
-    "main.e2002ea3.css.map": "./static/css/main.e2002ea3.css.map",
-    "main.9dd0106f.js.map": "./static/js/main.9dd0106f.js.map"
+    "main.1605aefc.css.map": "./static/css/main.1605aefc.css.map",
+    "main.a0a4f7cd.js.map": "./static/js/main.a0a4f7cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2002ea3.css",
-    "static/js/main.9dd0106f.js"
+    "static/css/main.1605aefc.css",
+    "static/js/main.a0a4f7cd.js"
   ]
 }

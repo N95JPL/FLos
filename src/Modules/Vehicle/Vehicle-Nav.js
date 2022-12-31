@@ -45,9 +45,9 @@ function VehicleNav() {
   const secondaryColorSet = "to-" + secondaryColor + "-600";
   return (
     <div
-      className={`NAVBAR-CONTAINER shadow-lg fixed h-20 w-[87%] transition`}
+      className={`h-20 w-full shadow-lg`}
     >
-      <div className="NAVBAR-ITEMS transition flex justify-center px-5 items-center">
+      <div className="transition flex justify-center px-5 items-center">
         {
           menuItems.map((m) => {
             return (

@@ -279,13 +279,13 @@ function decodeModel(VIN) {
       name = VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Name;
       vehicleInfo[name] =
         VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Decode;
-      console.log(
-        name +
-        ": " +
-        VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Decode +
-        " | " +
-        vehicleInfo[name]
-      );
+      // console.log(
+      //   name +
+      //   ": " +
+      //   VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Decode +
+      //   " | " +
+      //   vehicleInfo[name]
+      // );
     } else {
       charpos = VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Char;
       if (charpos.includes(",")) {

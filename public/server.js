@@ -13,6 +13,9 @@ const can = require("socketcan");
 const fs = require("fs");
 let parseMediumSpeed = require("./resources/MediumSpeed");
 
+let msCanDump = "";
+let hsCanDump = "";
+
 let changedMedium = {
   time: {},
   temperature: {},
@@ -65,13 +68,13 @@ module.exports = function (window, dev) {
     can1 = can.createRawChannel("can1", true);
   }
   ipcMain.on("vehicleInfo", (event, msg) => {
-    console.log("Message about vehicle from UI");
+    // console.log("Message about vehicle from UI");
     for (let key in msg) {
       if (msg[key] != "-") {
         vehicleInfo[key] = msg[key];
       }
     }
-    console.log(vehicleInfo);
+    // console.log(vehicleInfo);
   });
   // sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e
   can0.addListener("onMessage", function (msg) {
@@ -159,7 +162,7 @@ module.exports = function (window, dev) {
   // });
   ipcMain.on("canRecorder", (event, msg) => {
     if (msg === "startMS") {
-      exec("candump can0");
+      msCanDump = exec("candump -l can0");
       canDataMS = "Timestamp,Differance,Node ID,Message\n";
       canRecordingMS = true;
       canDataMSFile = new Date().getTime();
@@ -168,6 +171,7 @@ module.exports = function (window, dev) {
       });
       canDataMS = "";
     } else if (msg === "endMS") {
+      msCanDump.kill('SIGINT');
       fs.appendFile(`canBusMS-${canDataMSFile}.csv`, canDataMS, function (err) {
         if (err) throw err;
       });
@@ -177,7 +181,7 @@ module.exports = function (window, dev) {
       canDataMSFile = "";
     }
     if (msg === "startHS") {
-      exec("candump can1");
+      hsCanDump = exec("candump -l can1");
       canDataHS = "Timestamp,Differance,Node ID,Message\n";
       canRecordingHS = true;
       canDataHSFile = new Date().getTime();
@@ -186,6 +190,7 @@ module.exports = function (window, dev) {
       });
       canDataHS = "";
     } else if (msg === "endHS") {
+      hsCanDump.kill('SIGINT');
       fs.appendFile(`canBusHS-${canDataHSFile}.csv`, canDataHS, function (err) {
         if (err) throw err;
       });
@@ -251,7 +256,7 @@ module.exports = function (window, dev) {
       }
     }
     if (send) {
-      console.log(changedVehicleInfo);
+      // console.log(changedVehicleInfo);
       window.webContents.send("vehicleInfo", changedVehicleInfo);
       changedVehicleInfo = {};
     }

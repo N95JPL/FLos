@@ -51,8 +51,8 @@ export const mediumSpeed = create((set) => ({
         set(
           produce((draft) => {
             draft.vehicle.alternator_graph.push({
-              name: draft.vehicle.alternator_graph.length,
-              alternator: parseInt(payload),
+              name: Date.now(),
+              alternator: payload,
             });
             if (draft.vehicle.alternator_graph.length > 100) {
               draft.vehicle.alternator_graph.shift();
@@ -66,7 +66,7 @@ export const mediumSpeed = create((set) => ({
       set(
         produce((draft) => {
           draft.vehicle.voltage_graph.push({
-            name: draft.vehicle.voltage_graph.length,
+            name: Date.now(),
             value:
               payload,
           });
@@ -82,7 +82,7 @@ export const mediumSpeed = create((set) => ({
       set(
         produce((draft) => {
           draft.vehicle.charging_current_graph.push({
-            name: draft.vehicle.charging_current_graph.length,
+            name: Date.now(),
             charging_current: parseInt(payload),
           });
           if (draft.vehicle.charging_current_graph.length > 100) {

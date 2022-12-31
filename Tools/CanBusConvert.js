@@ -36,7 +36,7 @@ async function processLineByLine() {
         .replace(":", "-");
       // Note: we use the crlfDelay option to recognize all instances of CR LF
       // ('\r\n') in input.txt as a single line break.
-      fileName = "mscandump-" + fileTime;
+      fileName = fileNameConv[0] + "-" + fileTime;
       for await (const line of rl) {
         if (!line.includes("Timestamp")) {
           // Timestamp,Differance,Node ID,Message
@@ -79,12 +79,12 @@ async function processLineByLine() {
             i < 2
               ? ""
               : msg[0] -
-              lastTime +
-              ":" +
-              "cansend can1 " +
-              newID +
-              "#" +
-              msg[3] +
+                lastTime +
+                ":" +
+                fileNameConv[0] == "canBusMS" ? "cansend can1 " : "cansend can0" +
+                newID +
+                "#" +
+                msg[3] +
               "\n";
           lastTime = msg[0];
           i++;

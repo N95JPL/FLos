@@ -5,6 +5,7 @@ import VehicleNav from "./Vehicle-Nav";
 import "../Style.css";
 import { FormControlLabel, FormGroup, Slider, Switch } from "@mui/material";
 import { mediumSpeed } from "../../Stores/mediumSpeed";
+import ReactSpeedometer from "react-d3-speedometer"
 // eslint-disable-next-line no-unused-vars
 let vehicleStore = {};
 function onChange(name) {
@@ -17,18 +18,16 @@ function VehicleDashboard() {
   //const driverTempVar = mediumSpeed((state) => state.driver);
 
   return (
-    <div className="fixed h-full">
-      <div className="h-[20%] w-full">
+    <div className="w-full h-full">
+      <div className="h-20 w-full">
         <VehicleNav />
       </div>
-      <div className="h-[10%] w-full text-center justify-center flex">
-        <p>
-          Note: These are read-only - Please change on the original headunit
-        </p>
-        <p>This may change.. if I figure it out!</p>
-      </div>
-      <div className="h-[70%] w-full justify-center pl-10 pr-10 pb-5 text-center items-center fixed grid grid-rows-5 gap-4 grid-cols-2">
-
+      <div id="outlet" className="fade-in h-[80%] top-[20%] w-full justify-center pl-10 pr-10 pb-5 text-center items-center fixed">
+        <div className="fixed h-full w-full justify-center text-center items-center">
+          <ReactSpeedometer
+            value={50}
+          />
+        </div>
       </div>
     </div>
   );
