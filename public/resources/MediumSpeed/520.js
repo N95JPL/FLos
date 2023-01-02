@@ -1,6 +1,5 @@
 const { Map } = require("../CanMap/canMap");
 const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
-const { bitwise } = require("./utils");
 const id = Map;
 
 function ms520(msg) {
@@ -23,16 +22,16 @@ function ms520(msg) {
         arr[parseInt(k)] & id[strId][parseInt(k)][i.toString()].val;
     }
   }
-  // arr[6] &= ~64; // Unrelated bit - Used by car for something to do with extreme temps
-  // arr[7] &= ~64; // Unrelated bit - Used to control Reirc Fan
+  arr[6] &= ~128; // Unrelated bit - Used by car for something to do with extreme temps
+  arr[7] &= ~128; // Unrelated bit - Used to control Reirc Fan
   mediumSpeed.temperature.passenger =
-    bitwise(arr[7], 32) / 2 < 16
+    arr[7] / 2 < 16
       ? "LOW"
-      : bitwise(arr[7], 32) / 2 > 28
+      : arr[7] / 2 > 28
         ? "HIGH"
-        : bitwise(arr[7], 32) / 2;
+        : arr[7] / 2;
   mediumSpeed.temperature.driver =
-    bitwise(arr[6], 32) / 2 < 16 ? "LOW" : bitwise(arr[6], 32) / 2 > 28 ? "HIGH" : bitwise(arr[6], 32) / 2;
+    arr[6] / 2 < 16 ? "LOW" : arr[6] / 2 > 28 ? "HIGH" : arr[6] / 2;
 }
 
 module.exports = ms520;

@@ -5,7 +5,7 @@ import VehicleNav from "./Vehicle-Nav";
 import "../Style.css";
 import { FormControlLabel, FormGroup, Icon, Slider, Switch } from "@mui/material";
 import { GiCarBattery, GiElectric, GiBatteryPack } from "react-icons/gi";
-import { mediumSpeed } from "../../Stores/mediumSpeed";
+import { vehicle } from "../../Stores/mediumSpeed";
 import { LineChart, Line, XAxis, ResponsiveContainer, YAxis, ReferenceLine } from 'recharts';
 // eslint-disable-next-line no-unused-vars
 let vehicleStore = {};
@@ -16,12 +16,12 @@ function onChange(name) {
   // });
 }
 function VehicleElectrical() {
-  const voltage = mediumSpeed((state) => state.voltage);
-  const charging_current = mediumSpeed((state) => state.charging_current);
-  const alternator = mediumSpeed((state) => state.alternator);
-  const voltage_graph = mediumSpeed((state) => state.vehicle.voltage_graph);
-  const charging_current_graph = mediumSpeed((state) => state.vehicle.charging_current_graph);
-  const alternator_graph = mediumSpeed((state) => state.vehicle.alternator_graph);
+  const voltage = vehicle((state) => state.voltage);
+  const charging_current = vehicle((state) => state.charging_current);
+  const alternator = vehicle((state) => state.alternator);
+  const voltage_graph = vehicle((state) => state.voltage_graph);
+  const charging_current_graph = vehicle((state) => state.charging_current_graph);
+  const alternator_graph = vehicle((state) => state.alternator_graph);
   // const charging_current_graph = [{ name: 1, charging_current: 0 }, { name: 2, charging_current: 10 }, { name: 3, charging_current: 20 }, { name: 4, charging_current: 30 }]
   return (
     <>
@@ -32,7 +32,7 @@ function VehicleElectrical() {
         <div id="outlet" className="fade-in h-[380px] w-full justify-center text-center items-center grid grid-rows-2 gap-4 grid-cols-3">
           <div className="row-span-1 col-span-1">
             <p className="text-xl">Battery Voltage</p>
-            <GiCarBattery className={`w-full transition-all items-center justify-center text-8xl text-center ${voltage > 12.8 ? `text-green-600` : voltage > 11.9 ? `text-yellow-600` : `text-red-600`}`} />
+            <GiCarBattery className={`w-full transition-all items-center justify-center text-8xl text-center ${voltage > 12.8 ? `text-green-600` : voltage > 11.6 ? `text-yellow-600` : `text-red-600`}`} />
             <p className="text-xl">{voltage}V</p>
           </div>
           <div className="row-span-1 col-span-1">
@@ -50,8 +50,9 @@ function VehicleElectrical() {
               <LineChart data={voltage_graph} margin={{ top: 5, bottom: 5 }}>
                 <Line type="monotone" dot={false} dataKey="value" stroke="#FFFFFF" />
                 <XAxis dataKey="name" type="number" domain={[Date.now() - 30000, Date.now()]} />
-                <ReferenceLine y={12.5} stroke="red" strokeDasharray="3 3" />
-                <YAxis ticks={[10, 12.5, 15]} type="number" domain={[10, 15]} />
+                <ReferenceLine y={12.8} stroke="green" strokeDasharray="3 3" />
+                <ReferenceLine y={11.6} stroke="red" strokeDasharray="3 3" />
+                <YAxis allowDataOverflow={true} ticks={[10, 12.5, 15]} type="number" domain={[10, 15]} />
               </LineChart>
             </ResponsiveContainer>
           </div>

@@ -2,7 +2,7 @@ import React from "react";
 import { FaChevronDown, FaChevronUp } from "react-icons/fa";
 import "./Style.css";
 import { theme } from "../Stores/theme";
-import { mediumSpeed } from "../Stores/mediumSpeed";
+import { indicators, temperature } from "../Stores/mediumSpeed";
 import { FaFire, FaSnowman } from "react-icons/fa";
 import { GiCarSeat } from "react-icons/gi";
 import frontHeater from "../Images/frontHeater.svg";
@@ -14,14 +14,14 @@ import driverSeat from "../Images/driverSeat.svg";
 import { SvgIcon } from "@mui/material";
 
 function Climate() {
-  const driverTempVar = mediumSpeed((state) => state.driver);
-  const passTempVar = mediumSpeed((state) => state.passenger);
-  const interiorTempVar = mediumSpeed((state) => state.interior);
-  const autoVar = mediumSpeed((state) => state.auto);
-  const frontHeaterVar = mediumSpeed((state) => state.frontHeater);
-  const defrostVar = mediumSpeed((state) => state.defrost);
-  const rearHeaterVar = mediumSpeed((state) => state.rearHeater);
-  const recircVar = mediumSpeed((state) => state.recirc);
+  const driverTempVar = temperature((state) => state.driver);
+  const passTempVar = temperature((state) => state.passenger);
+  const interiorTempVar = temperature((state) => state.interior);
+  const autoVar = indicators((state) => state.auto);
+  const frontHeaterVar = indicators((state) => state.frontHeater);
+  const defrostVar = indicators((state) => state.defrost);
+  const rearHeaterVar = indicators((state) => state.rearHeater);
+  const recircVar = indicators((state) => state.recirc);
 
   const primaryColor = theme((state) => state.primaryColor);
   const primaryColorSet = " from-" + primaryColor + "-600";

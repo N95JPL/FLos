@@ -1,14 +1,17 @@
 const { Map } = require("../CanMap/canMap");
 const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
-const { bitwise } = require("./utils");
 const id = Map;
 
 function ms888(msg) {
   const strId = msg.id;
   const arr = [...msg.data];
-  var hour = bitwise(arr[5], 32);
-  var minute = bitwise(arr[6], 64);
-  var second = bitwise(arr[7], 64);
+  arr[5] &= ~64;
+  arr[5] &= ~128;
+  arr[6] &= ~128;
+  arr[7] &= ~128;
+  var hour = arr[5];
+  var minute = arr[6];
+  var second = arr[7];
   mediumSpeed.time.hour =
     hour < 10 ? "0" + hour : hour;
   mediumSpeed.time.minute = minute < 10 ? "0" + minute : minute;

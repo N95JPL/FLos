@@ -16,23 +16,23 @@ function parseMediumSpeed(msg, window) {
   if (IDs.includes(msg.id)) {
     // console.log("Medium Speed Message Received: " + msg.id)
     if (msg.id === 40) {
-      ms40(msg);
+      new ms40(msg);
     } else if (msg.id === 72) {
       ms72(msg);
     } else if (msg.id === 424) {
-      ms424(msg);
+      new ms424(msg);
     } else if (msg.id === 520) {
-      ms520(msg);
+      new ms520(msg);
     } else if (msg.id === 680) {
-      ms680(msg);
+      new ms680(msg);
     } else if (msg.id === 840) {
-      ms840(msg);
+      new ms840(msg);
     } else if (msg.id === 888) {
-      ms888(msg);
+      new ms888(msg);
     } else if (msg.id === 1025) {
-      ms1025(msg, window);
+      new ms1025(msg, window);
     } else if (msg.id === 1026) {
-      ms1026(msg, window);
+      new ms1026(msg, window);
     }
   }
 }

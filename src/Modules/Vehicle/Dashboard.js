@@ -4,7 +4,7 @@ import React from "react";
 import VehicleNav from "./Vehicle-Nav";
 import "../Style.css";
 import { FormControlLabel, FormGroup, Slider, Switch } from "@mui/material";
-import { mediumSpeed } from "../../Stores/mediumSpeed";
+// import { mediumSpeed } from "../../Stores/mediumSpeed";
 import ReactSpeedometer from "react-d3-speedometer"
 // eslint-disable-next-line no-unused-vars
 let vehicleStore = {};

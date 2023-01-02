@@ -4,7 +4,7 @@ import { BsSnow } from "react-icons/bs";
 import React from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
 import { theme } from "../Stores/theme";
-import { mediumSpeed } from "../Stores/mediumSpeed";
+import { time } from "../Stores/mediumSpeed";
 import { vehicleInfo } from "../Stores/vehicleInfo";
 import "./Style.css";
 
@@ -54,8 +54,8 @@ function Nav() {
     },
   ];
 
-  const hour = mediumSpeed((state) => state.hour);
-  const minute = mediumSpeed((state) => state.minute);
+  const hour = time((state) => state.hour);
+  const minute = time((state) => state.minute);
   return (
     <>
       <div

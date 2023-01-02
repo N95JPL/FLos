@@ -4,7 +4,7 @@ import React from "react";
 import SettingsNav from "./Settings-Nav";
 import "../Style.css";
 import { FormControlLabel, FormGroup, Slider, Switch } from "@mui/material";
-import { mediumSpeed } from "../../Stores/mediumSpeed";
+import { vehicleSettings } from "../../Stores/mediumSpeed";
 // eslint-disable-next-line no-unused-vars
 let vehicleStore = {};
 function onChange(name) {
@@ -14,21 +14,21 @@ function onChange(name) {
   // });
 }
 function VehicleSettings() {
-  //const driverTempVar = mediumSpeed((state) => state.driver);
-  let Drive_Away_Locking_5 = mediumSpeed((state) => state.Drive_Away_Locking_5);
-  let Drive_Away_Locking_10 = mediumSpeed(
+  //const driverTempVar = vehicleSettings((state) => state.driver);
+  let Drive_Away_Locking_5 = vehicleSettings((state) => state.Drive_Away_Locking_5);
+  let Drive_Away_Locking_10 = vehicleSettings(
     (state) => state.Drive_Away_Locking_10
   );
-  let Drive_Away_Locking_15 = mediumSpeed(
+  let Drive_Away_Locking_15 = vehicleSettings(
     (state) => state.Drive_Away_Locking_15
   );
-  let Passive_Arming = mediumSpeed((state) => state.Passive_Arming);
-  let AutoLock = mediumSpeed((state) => state.AutoLock);
-  let Alarm_Sensors = mediumSpeed((state) => state.Alarm_Sensors);
-  let Two_Stage_Locking = mediumSpeed((state) => state.Two_Stage_Locking);
-  let Global_Windows_Open = mediumSpeed((state) => state.Global_Windows_Open);
-  let Global_Windows_Close = mediumSpeed((state) => state.Global_Windows_Close);
-  let Mirror_Fold = mediumSpeed((state) => state.Mirror_Fold);
+  let Passive_Arming = vehicleSettings((state) => state.Passive_Arming);
+  let AutoLock = vehicleSettings((state) => state.AutoLock);
+  let Alarm_Sensors = vehicleSettings((state) => state.Alarm_Sensors);
+  let Two_Stage_Locking = vehicleSettings((state) => state.Two_Stage_Locking);
+  let Global_Windows_Open = vehicleSettings((state) => state.Global_Windows_Open);
+  let Global_Windows_Close = vehicleSettings((state) => state.Global_Windows_Close);
+  let Mirror_Fold = vehicleSettings((state) => state.Mirror_Fold);
   const VehicleSettings = [
     {
       handle: "Drive_Away_Locking_5",

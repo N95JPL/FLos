@@ -11,12 +11,18 @@ import Climate from "./Modules/Climate";
 import VehicleSettings from "./Modules/Settings/Vehicle-Settings";
 import AppSettings from "./Modules/Settings/App-Settings";
 import Dev from "./Modules/Settings/Dev";
-import { mediumSpeed } from "./Stores/mediumSpeed";
+import { time, temperature, indicators, brightness, vehicle, vehicleSettings } from "./Stores/mediumSpeed";
 import { vehicleInfo } from "./Stores/vehicleInfo";
 
 
 // eslint-disable-next-line no-unused-vars
-let MediumSpeed = "";
+let setTime = "";
+let setTemperature = "";
+let setIndicators = "";
+let setBrightness = "";
+let setVehicle = "";
+let setVehicleSettings = "";
+
 let setVehicleInfo = "";
 // eslint-disable-next-line no-unused-vars
 let setup = false;
@@ -115,34 +121,41 @@ function setUp() {
       eval(b);
     }
   });
-  MediumSpeed = mediumSpeed();
+
+  setTime = time()
+  setTemperature = temperature()
+  setIndicators = indicators()
+  setBrightness = brightness()
+  setVehicle = vehicle()
+  setVehicleSettings = vehicleSettings()
+
   window.api.onMediumSpeed((event, msg) => {
     for (const x in msg) {
       for (const y in msg[x]) {
         const a = "set" + capitalize(y);
         if (y.toString() != "charging_current" && y.toString() != "voltage" && y.toString() != "alternator") {
-          const b = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
+          const b = "set" + capitalize(x) + "." + a + "(msg." + x + "." + y + ")";
           // eslint-disable-next-line no-eval
           eval(b);
         } else {
           if (y.toString() == "charging_current") {
             var temp = msg[x][y]
-            const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
-            const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
+            const b = "set" + capitalize(x) + "." + a + "_graph" + "(" + temp + ")";
+            const c = "set" + capitalize(x) + "." + a + "(msg." + x + "." + y + ")";
             // eslint-disable-next-line no-eval
             eval(b);
             eval(c)
           } else if (y.toString() == "voltage") {
             var temp = msg[x][y]
-            const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
-            const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
+            const b = "set" + capitalize(x) + "." + a + "_graph" + "(" + temp + ")";
+            const c = "set" + capitalize(x) + "." + a + "(msg." + x + "." + y + ")";
             // eslint-disable-next-line no-eval
             eval(b);
             eval(c)
           } else if (y.toString() == "alternator") {
             var temp = msg[x][y]
-            const b = "MediumSpeed." + x + "." + a + "_graph" + "(" + temp + ")";
-            const c = "MediumSpeed." + x + "." + a + "(msg." + x + "." + y + ")";
+            const b = "set" + capitalize(x) + "." + a + "_graph" + "(" + temp + ")";
+            const c = "set" + capitalize(x) + "." + a + "(msg." + x + "." + y + ")";
             // eslint-disable-next-line no-eval
             eval(b);
             eval(c)
