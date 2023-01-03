@@ -11,24 +11,22 @@ function ms40(msg) {
       (arr[2] / 255) * mediumSpeed.brightness.offset * 100
     );
   }
-  if (arr[4] === 0) {
-    mediumSpeed.vehicle.gear = "Park";
-  } else {
-    switch (arr[4]) {
-      case arr[4] & 1:
-        mediumSpeed.vehicle.gear = "Reverse";
-        break;
-      case arr[4] & 2:
-        mediumSpeed.vehicle.gear = "Neutral";
-        break;
-      case arr[4] & 4:
-        mediumSpeed.vehicle.gear = "Drive";
-        break;
-      case arr[4] & 8:
-        mediumSpeed.vehicle.gear = "Sport";
-        break;
-    }
-
+  switch (arr[4]) {
+    case arr[4] & 1:
+      mediumSpeed.vehicle.gear = "Reverse";
+      break;
+    case arr[4] & 2:
+      mediumSpeed.vehicle.gear = "Neutral";
+      break;
+    case arr[4] & 4:
+      mediumSpeed.vehicle.gear = "Drive";
+      break;
+    case arr[4] & 8:
+      mediumSpeed.vehicle.gear = "Sport";
+      break;
+    default:
+      mediumSpeed.vehicle.gear = "Park";
+      break;
   }
 }
 
