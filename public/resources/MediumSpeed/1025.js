@@ -1,4 +1,3 @@
-
 const { VINDecode } = require("../JSON/VINDecode");
 const { Vehicle_Manifest } = require("../JSON/Vehicle_Manifest");
 const { vehicleInfo } = require("../VariableMaps/VehicleInfoVar");

@@ -44,26 +44,22 @@ function VehicleNav() {
   const secondaryColor = theme((state) => state.secondaryColor);
   const secondaryColorSet = "to-" + secondaryColor + "-600";
   return (
-    <div
-      className={`h-20 w-full shadow-lg`}
-    >
+    <div className={`h-20 w-full shadow-lg`}>
       <div className="transition flex justify-center px-5 items-center">
-        {
-          menuItems.map((m) => {
-            return (
-              <Link
-                to={m.path}
-                className={
-                  location.pathname === m.path
-                    ? `SINGLE-NAVBAR-ITEM justify-center items-center w-[20%] text-center bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} bg-opacity-50 text-4xl inline-flex text-white active:text-gray-100 p-3 m-2 rounded-lg active:bg-opacity-75 transition active:scale-95`
-                    : "SINGLE-NAVBAR-ITEM justify-center items-center w-[20%] text-center bg-black bg-opacity-50 text-4xl inline-flex text-white active:text-gray-100 p-3 m-2 rounded-lg active:bg-opacity-75 transition active:scale-95"
-                }
-              >
-                {m.icon}
-              </Link>
-            );
-          })
-        }
+        {menuItems.map((m) => {
+          return (
+            <Link
+              to={m.path}
+              className={
+                location.pathname === m.path
+                  ? `SINGLE-NAVBAR-ITEM justify-center items-center w-[20%] text-center bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} bg-opacity-50 text-4xl inline-flex text-white active:text-gray-100 p-3 m-2 rounded-lg active:bg-opacity-75 transition active:scale-95`
+                  : "SINGLE-NAVBAR-ITEM justify-center items-center w-[20%] text-center bg-black bg-opacity-50 text-4xl inline-flex text-white active:text-gray-100 p-3 m-2 rounded-lg active:bg-opacity-75 transition active:scale-95"
+              }
+            >
+              {m.icon}
+            </Link>
+          );
+        })}
       </div>
     </div>
   );

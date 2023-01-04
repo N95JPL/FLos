@@ -1,13 +1,13 @@
-<?xml version="1.0"?>
+<?xml version="1.0" ?>
 <!-- SODR MANUALLY CREATED MDX FILE -->
 <MDX xmlns:xlink="http://www.w3.org/1999/xlink">
 	<ADMINISTRATION>
 		<ECU_NAME>Side object detection module - Right</ECU_NAME>
 		<SHORTNAME>SODR</SHORTNAME>
-		<SSDS_INFORMATION/>
-		<SPECIFICATION_DOCUMENTS/>
+		<SSDS_INFORMATION />
+		<SPECIFICATION_DOCUMENTS />
 	</ADMINISTRATION>
-	<PROTOCOL/>
+	<PROTOCOL />
 	<ECU_DATA>
 		<DATA_IDENTIFIERS>
 			<DID ID="did_D100">
@@ -16,7 +16,7 @@
 				<BYTE_SIZE>1</BYTE_SIZE>
 				<DID_TYPE>single_value</DID_TYPE>
 				<ACCESS_PARAMETERS>
-					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03"/>
+					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03" />
 				</ACCESS_PARAMETERS>
 				<SUB_FIELD ID="did_D100_subfield_1">
 					<NAME>Active Diagnostic Session</NAME>
@@ -48,7 +48,7 @@
 				<DESCRIPTION>Control module hardware number</DESCRIPTION>
 				<BYTE_SIZE>24</BYTE_SIZE>
 				<DID_TYPE>ascii</DID_TYPE>
-				<ACCESS_PARAMETERS/>
+				<ACCESS_PARAMETERS />
 				<SUB_FIELD ID="did_F191_subfield_1">
 					<NAME>Control module hardware number</NAME>
 					<LEAST_SIG_BIT>160</LEAST_SIG_BIT>
@@ -89,7 +89,9 @@
 				<DID_TYPE>packeted</DID_TYPE>
 				<SUB_FIELD ID="did_400F_subfield_1">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY1_BIT4_7">History buffer report last major state change - 1</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY1_BIT4_7"
+            >History buffer report last major state change - 1</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>124</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>127</MOST_SIG_BIT>
@@ -143,7 +145,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_2">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>120</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>123</MOST_SIG_BIT>
@@ -160,7 +164,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_3">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY2_BIT4_7">History buffer report last major state change - 2</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY2_BIT4_7"
+            >History buffer report last major state change - 2</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>116</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>119</MOST_SIG_BIT>
@@ -214,7 +220,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_4">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>112</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>115</MOST_SIG_BIT>
@@ -231,7 +239,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_5">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY3_BIT4_7">History buffer report last major state change - 3</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY3_BIT4_7"
+            >History buffer report last major state change - 3</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>108</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>111</MOST_SIG_BIT>
@@ -285,7 +295,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_6">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>104</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>107</MOST_SIG_BIT>
@@ -302,7 +314,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_7">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY4_BIT4_7">History buffer report last major state change - 4</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY4_BIT4_7"
+            >History buffer report last major state change - 4</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>100</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>103</MOST_SIG_BIT>
@@ -356,7 +370,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_8">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>96</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>99</MOST_SIG_BIT>
@@ -373,7 +389,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_9">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY5_BIT4_7">History buffer report last major state change - 5</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY5_BIT4_7"
+            >History buffer report last major state change - 5</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>92</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>95</MOST_SIG_BIT>
@@ -427,7 +445,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_10">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>88</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>91</MOST_SIG_BIT>
@@ -444,7 +464,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_11">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY6_BIT4_7">History buffer report last major state change - 6</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY6_BIT4_7"
+            >History buffer report last major state change - 6</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>84</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>87</MOST_SIG_BIT>
@@ -498,7 +520,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_12">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>80</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>83</MOST_SIG_BIT>
@@ -515,7 +539,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_13">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY7_BIT4_7">History buffer report last major state change - 7</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY7_BIT4_7"
+            >History buffer report last major state change - 7</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>76</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>79</MOST_SIG_BIT>
@@ -569,7 +595,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_14">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>72</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>75</MOST_SIG_BIT>
@@ -586,7 +614,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_15">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY8_BIT4_7">History buffer report last major state change - 8</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY8_BIT4_7"
+            >History buffer report last major state change - 8</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>68</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>71</MOST_SIG_BIT>
@@ -640,7 +670,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_16">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>64</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>67</MOST_SIG_BIT>
@@ -657,7 +689,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_17">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY9_BIT4_7">History buffer report last major state change - 9</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY9_BIT4_7"
+            >History buffer report last major state change - 9</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>60</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>63</MOST_SIG_BIT>
@@ -711,7 +745,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_18">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>56</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>59</MOST_SIG_BIT>
@@ -728,7 +764,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_19">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY10_BIT4_7">History buffer report last major state change - 10</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY10_BIT4_7"
+            >History buffer report last major state change - 10</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>52</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>55</MOST_SIG_BIT>
@@ -782,7 +820,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_20">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>48</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>51</MOST_SIG_BIT>
@@ -799,7 +839,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_21">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY11_BIT4_7">History buffer report last major state change - 11</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY11_BIT4_7"
+            >History buffer report last major state change - 11</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>44</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>47</MOST_SIG_BIT>
@@ -853,7 +895,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_22">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>40</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>43</MOST_SIG_BIT>
@@ -870,7 +914,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_23">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY12_BIT4_7">History buffer report last major state change - 12</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY12_BIT4_7"
+            >History buffer report last major state change - 12</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>36</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>39</MOST_SIG_BIT>
@@ -924,7 +970,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_24">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>32</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>35</MOST_SIG_BIT>
@@ -941,7 +989,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_25">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY13_BIT4_7">History buffer report last major state change - 13</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY13_BIT4_7"
+            >History buffer report last major state change - 13</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>28</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>31</MOST_SIG_BIT>
@@ -995,7 +1045,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_26">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>24</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>27</MOST_SIG_BIT>
@@ -1012,7 +1064,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_27">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY14_BIT4_7">History buffer report last major state change - 14</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY14_BIT4_7"
+            >History buffer report last major state change - 14</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>20</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>23</MOST_SIG_BIT>
@@ -1066,7 +1120,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_28">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>16</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>19</MOST_SIG_BIT>
@@ -1083,7 +1139,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_29">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY15_BIT4_7">History buffer report last major state change - 15</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY15_BIT4_7"
+            >History buffer report last major state change - 15</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>12</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>15</MOST_SIG_BIT>
@@ -1137,7 +1195,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_30">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>8</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>11</MOST_SIG_BIT>
@@ -1154,7 +1214,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_31">
 				 	 <NAME>
-						<tm id="@J_I_DLC_PKT_400F_BY16_BIT4_7">History buffer report last major state change - 16</tm>
+						<tm
+              id="@J_I_DLC_PKT_400F_BY16_BIT4_7"
+            >History buffer report last major state change - 16</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>4</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>7</MOST_SIG_BIT>
@@ -1208,7 +1270,9 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_400F_subfield_32">
 				 	 <NAME>
-						<tm id="@J_14229_DLC_PKT_400F">History buffer report consecutive ignition cycles</tm>
+						<tm
+              id="@J_14229_DLC_PKT_400F"
+            >History buffer report consecutive ignition cycles</tm>
 				  	</NAME>
 					<LEAST_SIG_BIT>0</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>3</MOST_SIG_BIT>
@@ -1230,8 +1294,8 @@
 				<DESCRIPTION>RADAR configuration</DESCRIPTION>
 				<BYTE_SIZE>7</BYTE_SIZE>
 				<DID_TYPE>single_value</DID_TYPE>
-				<ACCESS_PARAMETERS/>
-				<SUB_FIELD ID="did_FD00_subfield_1"/>
+				<ACCESS_PARAMETERS />
+				<SUB_FIELD ID="did_FD00_subfield_1" />
 			</DID>
 			<DID ID="did_FD36">
 				<NAME>Algorithm parameters</NAME>
@@ -1239,28 +1303,28 @@
 				<DESCRIPTION>Algorithm parameters</DESCRIPTION>
 				<BYTE_SIZE>16</BYTE_SIZE>
 				<DID_TYPE>bitmapped</DID_TYPE>
-				<ACCESS_PARAMETERS/>
-				<SUB_FIELD ID="did_FD36_subfield_1"/>
+				<ACCESS_PARAMETERS />
+				<SUB_FIELD ID="did_FD36_subfield_1" />
 			</DID>
 		</DATA_IDENTIFIERS>
-		<DIAGNOSTIC_TROUBLE_CODES/>
+		<DIAGNOSTIC_TROUBLE_CODES />
 		<ROUTINE_IDENTIFIERS>
 			<ROUTINE ID="routine_0404" SESSION_REFS="session_03">
 				<NAME>Vin learn</NAME>
 				<NUMBER>0x0404</NUMBER>
-				<MAX_ROUTINE_RUN_TIME/>
+				<MAX_ROUTINE_RUN_TIME />
 				<RESTART_WHILE_RUNNING>no</RESTART_WHILE_RUNNING>
 			</ROUTINE>
 			<ROUTINE ID="routine_040E" SESSION_REFS="session_03">
 				<NAME>Reset/ Clear Specified Function</NAME>
 				<NUMBER>0x040E</NUMBER>
-				<MAX_ROUTINE_RUN_TIME/>
+				<MAX_ROUTINE_RUN_TIME />
 				<RESTART_WHILE_RUNNING>no</RESTART_WHILE_RUNNING>
 			</ROUTINE>
 		</ROUTINE_IDENTIFIERS>
-		<MEMORY_AREAS/>
-		<SECURITY_DATA/>
+		<MEMORY_AREAS />
+		<SECURITY_DATA />
 	</ECU_DATA>
-	<SPECIAL_PROCEDURES/>
-	<DEVIATIONS/>
+	<SPECIAL_PROCEDURES />
+	<DEVIATIONS />
 </MDX>

@@ -84,9 +84,7 @@ function AppSettings() {
   };
   useEffect(() => {
     window.api.actionBrightness({
-      type: "brightness",
       auto: brightnessAuto,
-      press: false,
       value: brightnessOffset,
     });
   }, [brightnessAuto, brightnessOffset]);

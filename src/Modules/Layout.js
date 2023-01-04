@@ -85,7 +85,10 @@ function Nav() {
           })}
         </div>
       </div>
-      <div id="outlet" className="fade-in transition-all absolute w-[700px] left-[100px]">
+      <div
+        id="outlet"
+        className="fade-in transition-all absolute w-[700px] left-[100px]"
+      >
         <Outlet />
       </div>
     </>
@@ -136,10 +139,10 @@ function FirstTimeSetup() {
         >
           <div className="flex">{setupInfoLine}</div>
           {ModelYear != "-" &&
-            Brand != "-" &&
-            ModelName != "-" &&
-            Trim != "-" &&
-            Model != "-" ? (
+          Brand != "-" &&
+          ModelName != "-" &&
+          Trim != "-" &&
+          Model != "-" ? (
             <div className="flex">
               {ModelYear} {Brand} {ModelName} {Trim} ({Model})
             </div>

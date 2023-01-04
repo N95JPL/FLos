@@ -28,7 +28,6 @@ function ms40(msg) {
         mediumSpeed.vehicle.gear = "Sport";
         break;
     }
-
   }
 }
 

@@ -15,7 +15,9 @@ function onChange(name) {
 }
 function VehicleSettings() {
   //const driverTempVar = vehicleSettings((state) => state.driver);
-  let Drive_Away_Locking_5 = vehicleSettings((state) => state.Drive_Away_Locking_5);
+  let Drive_Away_Locking_5 = vehicleSettings(
+    (state) => state.Drive_Away_Locking_5
+  );
   let Drive_Away_Locking_10 = vehicleSettings(
     (state) => state.Drive_Away_Locking_10
   );
@@ -26,8 +28,12 @@ function VehicleSettings() {
   let AutoLock = vehicleSettings((state) => state.AutoLock);
   let Alarm_Sensors = vehicleSettings((state) => state.Alarm_Sensors);
   let Two_Stage_Locking = vehicleSettings((state) => state.Two_Stage_Locking);
-  let Global_Windows_Open = vehicleSettings((state) => state.Global_Windows_Open);
-  let Global_Windows_Close = vehicleSettings((state) => state.Global_Windows_Close);
+  let Global_Windows_Open = vehicleSettings(
+    (state) => state.Global_Windows_Open
+  );
+  let Global_Windows_Close = vehicleSettings(
+    (state) => state.Global_Windows_Close
+  );
   let Mirror_Fold = vehicleSettings((state) => state.Mirror_Fold);
   const VehicleSettings = [
     {
@@ -84,7 +90,7 @@ function VehicleSettings() {
                   <Switch
                     defaultChecked={eval(a.handle)}
                     checked={eval(a.handle)}
-                  // onChange={onChange(a.handle)}
+                    // onChange={onChange(a.handle)}
                   />
                 }
                 label={a.handle

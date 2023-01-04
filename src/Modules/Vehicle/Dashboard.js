@@ -5,7 +5,7 @@ import VehicleNav from "./Vehicle-Nav";
 import "../Style.css";
 import { FormControlLabel, FormGroup, Slider, Switch } from "@mui/material";
 // import { mediumSpeed } from "../../Stores/mediumSpeed";
-import ReactSpeedometer from "react-d3-speedometer"
+import ReactSpeedometer from "react-d3-speedometer";
 // eslint-disable-next-line no-unused-vars
 let vehicleStore = {};
 function onChange(name) {
@@ -22,11 +22,12 @@ function VehicleDashboard() {
       <div className="h-20 w-full">
         <VehicleNav />
       </div>
-      <div id="outlet" className="fade-in h-[80%] top-[20%] w-full justify-center pl-10 pr-10 pb-5 text-center items-center fixed">
+      <div
+        id="outlet"
+        className="fade-in h-[80%] top-[20%] w-full justify-center pl-10 pr-10 pb-5 text-center items-center fixed"
+      >
         <div className="fixed h-full w-full justify-center text-center items-center">
-          <ReactSpeedometer
-            value={50}
-          />
+          <ReactSpeedometer value={50} />
         </div>
       </div>
     </div>

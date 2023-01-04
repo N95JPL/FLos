@@ -25,11 +25,7 @@ function ms520(msg) {
   arr[6] &= ~128; // Unrelated bit - Used by car for something to do with extreme temps
   arr[7] &= ~128; // Unrelated bit - Used to control Reirc Fan
   mediumSpeed.temperature.passenger =
-    arr[7] / 2 < 16
-      ? "LOW"
-      : arr[7] / 2 > 28
-        ? "HIGH"
-        : arr[7] / 2;
+    arr[7] / 2 < 16 ? "LOW" : arr[7] / 2 > 28 ? "HIGH" : arr[7] / 2;
   mediumSpeed.temperature.driver =
     arr[6] / 2 < 16 ? "LOW" : arr[6] / 2 > 28 ? "HIGH" : arr[6] / 2;
 }

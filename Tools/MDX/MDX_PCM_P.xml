@@ -1,13 +1,13 @@
-<?xml version="1.0"?>
+<?xml version="1.0" ?>
 <!-- PCM PETROL MANUALLY CREATED MDX FILE -->
 <MDX xmlns:xlink="http://www.w3.org/1999/xlink">
 	<ADMINISTRATION>
 		<ECU_NAME>Powertrain Control Module</ECU_NAME>
 		<SHORTNAME>PCM</SHORTNAME>
-		<SSDS_INFORMATION/>
-		<SPECIFICATION_DOCUMENTS/>
+		<SSDS_INFORMATION />
+		<SPECIFICATION_DOCUMENTS />
 	</ADMINISTRATION>
-	<PROTOCOL/>
+	<PROTOCOL />
 	<ECU_DATA>
 		<DATA_IDENTIFIERS>
 			<DID ID="did_D100">
@@ -16,7 +16,7 @@
 				<BYTE_SIZE>1</BYTE_SIZE>
 				<DID_TYPE>single_value</DID_TYPE>
 				<ACCESS_PARAMETERS>
-					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03"/>
+					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03" />
 				</ACCESS_PARAMETERS>
 				<SUB_FIELD ID="did_D100_subfield_1">
 					<NAME>Active Diagnostic Session</NAME>
@@ -48,13 +48,13 @@
 				<BYTE_SIZE>4</BYTE_SIZE>
 				<DID_TYPE>single_value</DID_TYPE>
 				<ACCESS_PARAMETERS>
-					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03"/>
+					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03" />
 				</ACCESS_PARAMETERS>
 				<SUB_FIELD ID="did_0452_subfield_1">
 					<NAME>Sign indication bit</NAME>
 					<LEAST_SIG_BIT>31</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>31</MOST_SIG_BIT>
-					<DATA_DEFINITION/>
+					<DATA_DEFINITION />
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_0452_subfield_2">
 					<NAME>Exponent byte</NAME>
@@ -193,8 +193,13 @@
 				<BYTE_SIZE>1</BYTE_SIZE>
 				<DID_TYPE>single_value</DID_TYPE>
 				<ACCESS_PARAMETERS>
-					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03"/>
-					<CONTROLLABLE SERVICE_REFS="service_2F" SESSION_REFS="session_03" SECURITY_REFS="security_level_1" IOCP_REFS="iocp_00 iocp_03"/>
+					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03" />
+					<CONTROLLABLE
+            SERVICE_REFS="service_2F"
+            SESSION_REFS="session_03"
+            SECURITY_REFS="security_level_1"
+            IOCP_REFS="iocp_00 iocp_03"
+          />
 				</ACCESS_PARAMETERS>
 				<SUB_FIELD ID="did_0453_subfield_1">
 					<LEAST_SIG_BIT>0</LEAST_SIG_BIT>
@@ -216,7 +221,8 @@
 							</ENUM_MEMBER>
 							<ENUM_MEMBER ID="did_0453_subfield_1_data_def_1_enum_4">
 								<ENUM_VALUE>0x03</ENUM_VALUE>
-								<DESCRIPTION>High Pressure Pump Control Pump 1 ON And Pump 2 ON (both pumps)</DESCRIPTION>
+								<DESCRIPTION
+                >High Pressure Pump Control Pump 1 ON And Pump 2 ON (both pumps)</DESCRIPTION>
 							</ENUM_MEMBER>
 						</ENUMERATED_PARAMETERS>
 					</DATA_DEFINITION>
@@ -228,8 +234,8 @@
 				<BYTE_SIZE>8</BYTE_SIZE>
 				<DID_TYPE>bitmapped</DID_TYPE>
 				<ACCESS_PARAMETERS>
-					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03"/>
-					<WRITEABLE SERVICE_REFS="service_2E" SESSION_REFS="session_03"/>
+					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03" />
+					<WRITEABLE SERVICE_REFS="service_2E" SESSION_REFS="session_03" />
 				</ACCESS_PARAMETERS>
 				<SUB_FIELD ID="did_1259_subfield_1">
 					<!-- byte 8 bit 00 -->
@@ -362,7 +368,7 @@
 				<SUB_FIELD ID="did_1259_subfield_33">
 					<!-- byte 4 bit 00 -->
 					<NAME>Idle speed control active</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>32</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>32</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_33_data_def_1">
@@ -382,7 +388,7 @@
 				<SUB_FIELD ID="did_1259_subfield_34">
 					<!-- byte 4 bit 01 -->
 					<NAME>Idle jack active - catalyst heat request</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>33</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>33</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_34_data_def_1">
@@ -402,7 +408,7 @@
 				<SUB_FIELD ID="did_1259_subfield_35">
 					<!-- byte 4 bit 02 -->
 					<NAME>Idle jack active - battery charge request</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>34</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>34</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_35_data_def_1">
@@ -422,7 +428,7 @@
 				<SUB_FIELD ID="did_1259_subfield_36">
 					<!-- byte 4 bit 03 -->
 					<NAME>Idle jack active - cooling request</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>35</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>35</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_36_data_def_1">
@@ -442,7 +448,7 @@
 				<SUB_FIELD ID="did_1259_subfield_37">
 					<!-- byte 4 bit 04 -->
 					<NAME>Idle jack active - HEVAC</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>36</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>36</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_37_data_def_1">
@@ -474,7 +480,7 @@
 				<SUB_FIELD ID="did_1259_subfield_41">
 					<!-- byte 3 bit 00 -->
 					<NAME>Master</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>40</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>40</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_41_data_def_1">
@@ -494,7 +500,7 @@
 				<SUB_FIELD ID="did_1259_subfield_42">
 					<!-- byte 3 bit 01 -->
 					<NAME>Suspend</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>41</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>41</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_42_data_def_1">
@@ -514,7 +520,7 @@
 				<SUB_FIELD ID="did_1259_subfield_43">
 					<!-- byte 3 bit 02 -->
 					<NAME>SetMinus</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>42</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>42</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_43_data_def_1">
@@ -534,7 +540,7 @@
 				<SUB_FIELD ID="did_1259_subfield_44">
 					<!-- byte 3 bit 03 -->
 					<NAME>GapUp</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>43</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>43</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_44_data_def_1">
@@ -554,7 +560,7 @@
 				<SUB_FIELD ID="did_1259_subfield_45">
 					<!-- byte 3 bit 04 -->
 					<NAME>GapDown</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>44</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>44</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_45_data_def_1">
@@ -574,7 +580,7 @@
 				<SUB_FIELD ID="did_1259_subfield_46">
 					<!-- byte 3 bit 05 -->
 					<NAME>SetPlus</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>45</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>45</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_46_data_def_1">
@@ -594,7 +600,7 @@
 				<SUB_FIELD ID="did_1259_subfield_47">
 					<!-- byte 3 bit 06 -->
 					<NAME>Resume</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>46</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>46</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_47_data_def_1">
@@ -614,7 +620,7 @@
 				<SUB_FIELD ID="did_1259_subfield_48">
 					<!-- byte 3 bit 07 -->
 					<NAME>Release</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>47</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>47</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_48_data_def_1">
@@ -636,7 +642,7 @@
 				 	 <NAME>
 						<tm id="@J_DLC_PCM_BMP_1259_BY2_BIT0">Starter motor relay monitor status.</tm>
 				  	</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>48</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>48</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_49_data_def_1">
@@ -660,7 +666,7 @@
 				<SUB_FIELD ID="did_1259_subfield_50">
 					<!-- byte 2 bit 01 -->
 					<NAME>CCV monitor</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>49</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>49</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_50_data_def_1">
@@ -680,7 +686,7 @@
 				<SUB_FIELD ID="did_1259_subfield_51">
 					<!-- byte 2 bit 02 -->
 					<NAME>Purge monitor</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>50</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>50</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_51_data_def_1">
@@ -704,7 +710,7 @@
 				<SUB_FIELD ID="did_1259_subfield_53">
 					<!-- byte 2 bit 04 -->
 					<NAME>CAM B signal monitor</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>52</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>52</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_53_data_def_1">
@@ -724,7 +730,7 @@
 				<SUB_FIELD ID="did_1259_subfield_54">
 					<!-- byte 2 bit 05 -->
 					<NAME>CAM A signal monitor</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>53</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>53</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_54_data_def_1">
@@ -744,7 +750,7 @@
 				<SUB_FIELD ID="did_1259_subfield_55">
 					<!-- byte 2 bit 06 -->
 					<NAME>VCP B signal monitor</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>54</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>54</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_55_data_def_1">
@@ -764,7 +770,7 @@
 				<SUB_FIELD ID="did_1259_subfield_56">
 					<!-- byte 2 bit 07 -->
 					<NAME>VCP A signal monitor</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>55</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>55</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_56_data_def_1">
@@ -784,7 +790,7 @@
 				<SUB_FIELD ID="did_1259_subfield_57">
 					<!-- byte 1 bit 00 -->
 					<NAME>Fuel pump disablement status</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>56</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>56</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_57_data_def_1">
@@ -804,7 +810,7 @@
 				<SUB_FIELD ID="did_1259_subfield_58">
 					<!-- byte 1 bit 01 -->
 					<NAME>Fan module monitor</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>57</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>57</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_58_data_def_1">
@@ -824,7 +830,7 @@
 				<SUB_FIELD ID="did_1259_subfield_59">
 					<!-- byte 1 bit 02 -->
 					<NAME>Brake 2</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>58</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>58</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_59_data_def_1">
@@ -844,7 +850,7 @@
 				<SUB_FIELD ID="did_1259_subfield_60">
 					<!-- byte 1 bit 03 -->
 					<NAME>Brake</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>59</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>59</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_60_data_def_1">
@@ -864,7 +870,7 @@
 				<SUB_FIELD ID="did_1259_subfield_61">
 					<!-- byte 1 bit 04 -->
 					<NAME>Inertia switch</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>60</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>60</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_61_data_def_1">
@@ -884,7 +890,7 @@
 				<SUB_FIELD ID="did_1259_subfield_62">
 					<!-- byte 1 bit 05 -->
 					<NAME>P/N or MT clutch</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>61</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>61</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_62_data_def_1">
@@ -906,7 +912,7 @@
 				 	 <NAME>
 						<tm id="@J_DLC_ECM_CRANKREQ">Crank request</tm>
 				  	</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>62</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>62</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_63_data_def_1">
@@ -932,7 +938,7 @@
 				 	 <NAME>
 						<tm id="@JIgnSw$M">Ignition switch</tm>
 				  	</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>63</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>63</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_1259_subfield_64_data_def_1">
@@ -960,8 +966,8 @@
 				<BYTE_SIZE>8</BYTE_SIZE>
 				<DID_TYPE>bitmapped</DID_TYPE>
 				<ACCESS_PARAMETERS>
-					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03"/>
-					<WRITEABLE SERVICE_REFS="service_2E" SESSION_REFS="session_03"/>
+					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03" />
+					<WRITEABLE SERVICE_REFS="service_2E" SESSION_REFS="session_03" />
 				</ACCESS_PARAMETERS>
 				<SUB_FIELD ID="did_125C_subfield_1">
 					<!-- byte 8 bit 00 -->
@@ -1094,7 +1100,7 @@
 				<SUB_FIELD ID="did_125C_subfield_33">
 					<!-- byte 4 bit 00 -->
 					<NAME>Cold start monitor</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>32</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>32</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_33_data_def_1">
@@ -1118,7 +1124,7 @@
 				<SUB_FIELD ID="did_125C_subfield_35">
 					<!-- byte 4 bit 02 -->
 					<NAME>Air suspension compressor (with ASU)</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>34</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>34</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_35_data_def_1">
@@ -1138,7 +1144,7 @@
 				<SUB_FIELD ID="did_125C_subfield_36">
 					<!-- byte 4 bit 03 -->
 					<NAME>Air condenser compressors clutch</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>35</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>35</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_36_data_def_1">
@@ -1158,7 +1164,7 @@
 				<SUB_FIELD ID="did_125C_subfield_37">
 					<!-- byte 4 bit 04 -->
 					<NAME>DMTL test complete</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>36</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>36</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_37_data_def_1">
@@ -1178,7 +1184,7 @@
 				<SUB_FIELD ID="did_125C_subfield_38">
 					<!-- byte 4 bit 05 -->
 					<NAME>DMTL test heater active</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>37</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>37</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_38_data_def_1">
@@ -1198,7 +1204,7 @@
 				<SUB_FIELD ID="did_125C_subfield_39">
 					<!-- byte 4 bit 06 -->
 					<NAME>DMTL test pump active</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>38</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>38</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_39_data_def_1">
@@ -1218,7 +1224,7 @@
 				<SUB_FIELD ID="did_125C_subfield_40">
 					<!-- byte 4 bit 07 -->
 					<NAME>DMTL test changeover valve active</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>39</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>39</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_40_data_def_1">
@@ -1238,7 +1244,7 @@
 				<SUB_FIELD ID="did_125C_subfield_41">
 					<!-- byte 3 bit 00 -->
 					<NAME>Cruise control lamp</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>40</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>40</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_41_data_def_1">
@@ -1258,7 +1264,7 @@
 				<SUB_FIELD ID="did_125C_subfield_42">
 					<!-- byte 3 bit 01 -->
 					<NAME>EMS warning lamp</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>41</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>41</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_42_data_def_1">
@@ -1278,7 +1284,7 @@
 				<SUB_FIELD ID="did_125C_subfield_43">
 					<!-- byte 3 bit 02 -->
 					<NAME>MIL warning lamp</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>42</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>42</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_43_data_def_1">
@@ -1302,7 +1308,7 @@
 				<SUB_FIELD ID="did_125C_subfield_45">
 					<!-- byte 3 bit 04 -->
 					<NAME>Exhaust box actuator</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>44</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>44</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_45_data_def_1">
@@ -1322,7 +1328,7 @@
 				<SUB_FIELD ID="did_125C_subfield_46">
 					<!-- byte 3 bit 05 -->
 					<NAME>Brake booster relay</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>45</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>45</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_46_data_def_1">
@@ -1342,7 +1348,7 @@
 				<SUB_FIELD ID="did_125C_subfield_47">
 					<!-- byte 3 bit 06 -->
 					<NAME>IMTV (VIS) 2 drive</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>46</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>46</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_47_data_def_1">
@@ -1362,7 +1368,7 @@
 				<SUB_FIELD ID="did_125C_subfield_48">
 					<!-- byte 3 bit 07 -->
 					<NAME>IMTV (VIS) 1 drive</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>47</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>47</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_48_data_def_1">
@@ -1382,7 +1388,7 @@
 				<SUB_FIELD ID="did_125C_subfield_49">
 					<!-- byte 2 bit 00 -->
 					<NAME>Low oil pressure</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>48</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>48</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_49_data_def_1">
@@ -1402,7 +1408,7 @@
 				<SUB_FIELD ID="did_125C_subfield_50">
 					<!-- byte 2 bit 01 -->
 					<NAME>EBOX fan</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>49</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>49</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_50_data_def_1">
@@ -1422,7 +1428,7 @@
 				<SUB_FIELD ID="did_125C_subfield_51">
 					<!-- byte 2 bit 02 -->
 					<NAME>Secondary air injection valve drive</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>50</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>50</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_51_data_def_1">
@@ -1442,7 +1448,7 @@
 				<SUB_FIELD ID="did_125C_subfield_52">
 					<!-- byte 2 bit 03 -->
 					<NAME>ASL/CC selector LED (with ASL)</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>51</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>51</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_52_data_def_1">
@@ -1462,7 +1468,7 @@
 				<SUB_FIELD ID="did_125C_subfield_53">
 					<!-- byte 2 bit 04 -->
 					<NAME>Secondary air injection pump relay drive</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>52</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>52</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_53_data_def_1">
@@ -1482,7 +1488,7 @@
 				<SUB_FIELD ID="did_125C_subfield_54">
 					<!-- byte 2 bit 05 -->
 					<NAME>ALT-C</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>53</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>53</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_54_data_def_1">
@@ -1502,7 +1508,7 @@
 				<SUB_FIELD ID="did_125C_subfield_55">
 					<!-- byte 2 bit 06 -->
 					<NAME>A/C Relay</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>54</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>54</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_55_data_def_1">
@@ -1522,7 +1528,7 @@
 				<SUB_FIELD ID="did_125C_subfield_56">
 					<!-- byte 2 bit 07 -->
 					<NAME>Throttle relay</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>55</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>55</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_56_data_def_1">
@@ -1542,7 +1548,7 @@
 				<SUB_FIELD ID="did_125C_subfield_57">
 					<!-- byte 1 bit 00 -->
 					<NAME>Reverse gear interlock</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>56</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>56</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_57_data_def_1">
@@ -1562,7 +1568,7 @@
 				<SUB_FIELD ID="did_125C_subfield_58">
 					<!-- byte 1 bit 01 -->
 					<NAME>Fuel cutoff active</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>57</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>57</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_58_data_def_1">
@@ -1582,7 +1588,7 @@
 				<SUB_FIELD ID="did_125C_subfield_59">
 					<!-- byte 1 bit 02 -->
 					<NAME>Fuel pump relay</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>58</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>58</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_59_data_def_1">
@@ -1602,7 +1608,7 @@
 				<SUB_FIELD ID="did_125C_subfield_60">
 					<!-- byte 1 bit 03 -->
 					<NAME>HEGO B heater</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>59</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>59</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_60_data_def_1">
@@ -1622,7 +1628,7 @@
 				<SUB_FIELD ID="did_125C_subfield_61">
 					<!-- byte 1 bit 04 -->
 					<NAME>HEGO A heater</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>60</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>60</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_61_data_def_1">
@@ -1642,7 +1648,7 @@
 				<SUB_FIELD ID="did_125C_subfield_62">
 					<!-- byte 1 bit 05 -->
 					<NAME>Unused</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>61</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>61</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_62_data_def_1">
@@ -1664,7 +1670,7 @@
 				 	 <NAME>
 						<tm id="@BPU_SRO$C">Starter relay</tm>
 				  	</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>62</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>62</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_63_data_def_1">
@@ -1690,7 +1696,7 @@
 				 	 <NAME>
 						<tm id="@AJ26_EMS_RELAY_I">Engine management system relay</tm>
 				  	</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>63</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>63</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_125C_subfield_64_data_def_1">
@@ -1718,11 +1724,11 @@
 				<BYTE_SIZE>30</BYTE_SIZE>
 				<DID_TYPE>packeted</DID_TYPE>
 				<ACCESS_PARAMETERS>
-					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03"/>
+					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03" />
 				</ACCESS_PARAMETERS>
 				<SUB_FIELD ID="did_D950_subfield_1">
 					<NAME>Service Distance outside stored services</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>232</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>239</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_1_data_def_1">
@@ -1738,7 +1744,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_2">
 					<NAME>Current Soot Mass Value</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>227</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>231</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_2_data_def_1">
@@ -1754,7 +1760,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_3">
 					<NAME>Initial average CAM adaption</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>222</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>226</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_3_data_def_1">
@@ -1770,7 +1776,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_4">
 					<NAME>Service Time outside stored services</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>216</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>221</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_4_data_def_1">
@@ -1786,7 +1792,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_5">
 					<NAME>Service Distance</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>208</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>215</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_5_data_def_1">
@@ -1802,7 +1808,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_6">
 					<NAME>Soot Fraction</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>203</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>207</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_6_data_def_1">
@@ -1810,7 +1816,7 @@
 						<NUMERIC_PARAMETERS>
 							<RESOLUTION>0.0625</RESOLUTION>
 							<OFFSET>0</OFFSET>
-							<UNITS></UNITS>
+							<UNITS />
 							<RANGE_LOW>0</RANGE_LOW>
 							<RANGE_HIGH>1.9375</RANGE_HIGH>
 						</NUMERIC_PARAMETERS>
@@ -1818,7 +1824,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_7">
 					<NAME>Change in CAM adaption</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>198</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>202</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_7_data_def_1">
@@ -1834,7 +1840,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_8">
 					<NAME>Service Interval Time</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>192</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>197</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_8_data_def_1">
@@ -1850,7 +1856,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_9">
 					<NAME>Service Distance</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>184</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>191</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_9_data_def_1">
@@ -1866,7 +1872,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_10">
 					<NAME>Soot Fraction</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>179</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>183</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_10_data_def_1">
@@ -1874,7 +1880,7 @@
 						<NUMERIC_PARAMETERS>
 							<RESOLUTION>0.0625</RESOLUTION>
 							<OFFSET>0</OFFSET>
-							<UNITS></UNITS>
+							<UNITS />
 							<RANGE_LOW>0</RANGE_LOW>
 							<RANGE_HIGH>1.9375</RANGE_HIGH>
 						</NUMERIC_PARAMETERS>
@@ -1882,7 +1888,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_11">
 					<NAME>Change in CAM adaption</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>174</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>178</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_11_data_def_1">
@@ -1898,7 +1904,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_12">
 					<NAME>Service Interval Time</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>168</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>173</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_12_data_def_1">
@@ -1914,7 +1920,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_13">
 					<NAME>Service Distance</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>160</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>167</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_13_data_def_1">
@@ -1930,7 +1936,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_14">
 					<NAME>Soot Fraction</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>155</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>159</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_14_data_def_1">
@@ -1938,7 +1944,7 @@
 						<NUMERIC_PARAMETERS>
 							<RESOLUTION>0.0625</RESOLUTION>
 							<OFFSET>0</OFFSET>
-							<UNITS></UNITS>
+							<UNITS />
 							<RANGE_LOW>0</RANGE_LOW>
 							<RANGE_HIGH>1.9375</RANGE_HIGH>
 						</NUMERIC_PARAMETERS>
@@ -1946,7 +1952,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_15">
 					<NAME>Change in CAM adaption</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>150</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>154</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_15_data_def_1">
@@ -1962,7 +1968,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_16">
 					<NAME>Service Interval Time</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>144</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>149</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_16_data_def_1">
@@ -1978,7 +1984,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_17">
 					<NAME>Service Distance</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>136</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>143</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_17_data_def_1">
@@ -1994,7 +2000,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_18">
 					<NAME>Soot Fraction</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>131</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>135</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_18_data_def_1">
@@ -2002,7 +2008,7 @@
 						<NUMERIC_PARAMETERS>
 							<RESOLUTION>0.0625</RESOLUTION>
 							<OFFSET>0</OFFSET>
-							<UNITS></UNITS>
+							<UNITS />
 							<RANGE_LOW>0</RANGE_LOW>
 							<RANGE_HIGH>1.9375</RANGE_HIGH>
 						</NUMERIC_PARAMETERS>
@@ -2010,7 +2016,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_19">
 					<NAME>Change in CAM adaption</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>126</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>130</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_19_data_def_1">
@@ -2026,7 +2032,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_20">
 					<NAME>Service Interval Time</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>120</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>125</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_20_data_def_1">
@@ -2042,7 +2048,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_21">
 					<NAME>Service Distance</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>112</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>119</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_21_data_def_1">
@@ -2058,7 +2064,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_22">
 					<NAME>Soot Fraction</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>107</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>111</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_22_data_def_1">
@@ -2066,7 +2072,7 @@
 						<NUMERIC_PARAMETERS>
 							<RESOLUTION>0.0625</RESOLUTION>
 							<OFFSET>0</OFFSET>
-							<UNITS></UNITS>
+							<UNITS />
 							<RANGE_LOW>0</RANGE_LOW>
 							<RANGE_HIGH>1.9375</RANGE_HIGH>
 						</NUMERIC_PARAMETERS>
@@ -2074,7 +2080,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_23">
 					<NAME>Change in CAM adaption</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>102</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>106</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_23_data_def_1">
@@ -2090,7 +2096,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_24">
 					<NAME>Service Interval Time</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>96</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>101</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_24_data_def_1">
@@ -2106,7 +2112,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_25">
 					<NAME>Service Distance</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>88</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>95</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_25_data_def_1">
@@ -2122,7 +2128,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_26">
 					<NAME>Soot Fraction</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>83</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>87</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_26_data_def_1">
@@ -2130,7 +2136,7 @@
 						<NUMERIC_PARAMETERS>
 							<RESOLUTION>0.0625</RESOLUTION>
 							<OFFSET>0</OFFSET>
-							<UNITS></UNITS>
+							<UNITS />
 							<RANGE_LOW>0</RANGE_LOW>
 							<RANGE_HIGH>1.9375</RANGE_HIGH>
 						</NUMERIC_PARAMETERS>
@@ -2138,7 +2144,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_27">
 					<NAME>Change in CAM adaption</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>78</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>82</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_27_data_def_1">
@@ -2154,7 +2160,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_28">
 					<NAME>Service Interval Time</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>72</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>77</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_28_data_def_1">
@@ -2170,7 +2176,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_29">
 					<NAME>Service Distance</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>64</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>71</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_29_data_def_1">
@@ -2186,7 +2192,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_30">
 					<NAME>Soot Fraction</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>59</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>63</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_30_data_def_1">
@@ -2194,7 +2200,7 @@
 						<NUMERIC_PARAMETERS>
 							<RESOLUTION>0.0625</RESOLUTION>
 							<OFFSET>0</OFFSET>
-							<UNITS></UNITS>
+							<UNITS />
 							<RANGE_LOW>0</RANGE_LOW>
 							<RANGE_HIGH>1.9375</RANGE_HIGH>
 						</NUMERIC_PARAMETERS>
@@ -2202,7 +2208,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_31">
 					<NAME>Change in CAM adaption</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>54</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>58</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_31_data_def_1">
@@ -2218,7 +2224,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_32">
 					<NAME>Service Interval Time</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>48</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>53</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_32_data_def_1">
@@ -2234,7 +2240,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_33">
 					<NAME>Service Distance</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>40</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>47</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_33_data_def_1">
@@ -2250,7 +2256,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_34">
 					<NAME>Soot Fraction</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>35</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>39</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_34_data_def_1">
@@ -2258,7 +2264,7 @@
 						<NUMERIC_PARAMETERS>
 							<RESOLUTION>0.0625</RESOLUTION>
 							<OFFSET>0</OFFSET>
-							<UNITS></UNITS>
+							<UNITS />
 							<RANGE_LOW>0</RANGE_LOW>
 							<RANGE_HIGH>1.9375</RANGE_HIGH>
 						</NUMERIC_PARAMETERS>
@@ -2266,7 +2272,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_35">
 					<NAME>Change in CAM adaption</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>30</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>34</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_35_data_def_1">
@@ -2282,7 +2288,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_36">
 					<NAME>Service Interval Time</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>24</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>29</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_36_data_def_1">
@@ -2298,7 +2304,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_37">
 					<NAME>Service Distance</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>16</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>23</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_37_data_def_1">
@@ -2314,7 +2320,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_38">
 					<NAME>Soot Fraction</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>11</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>15</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_38_data_def_1">
@@ -2322,7 +2328,7 @@
 						<NUMERIC_PARAMETERS>
 							<RESOLUTION>0.0625</RESOLUTION>
 							<OFFSET>0</OFFSET>
-							<UNITS></UNITS>
+							<UNITS />
 							<RANGE_LOW>0</RANGE_LOW>
 							<RANGE_HIGH>1.9375</RANGE_HIGH>
 						</NUMERIC_PARAMETERS>
@@ -2330,7 +2336,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_39">
 					<NAME>Change in CAM adaption</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>6</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>10</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_39_data_def_1">
@@ -2346,7 +2352,7 @@
 				</SUB_FIELD>
 				<SUB_FIELD ID="did_D950_subfield_40">
 					<NAME>Service Interval Time</NAME>
-					<SHORTNAME/>
+					<SHORTNAME />
 					<LEAST_SIG_BIT>0</LEAST_SIG_BIT>
 					<MOST_SIG_BIT>5</MOST_SIG_BIT>
 					<DATA_DEFINITION ID="did_D950_subfield_40_data_def_1">
@@ -2362,48 +2368,48 @@
 				</SUB_FIELD>
 			</DID>
 		</DATA_IDENTIFIERS>
-		<DIAGNOSTIC_TROUBLE_CODES/>
+		<DIAGNOSTIC_TROUBLE_CODES />
 		<ROUTINE_IDENTIFIERS>
 				<ROUTINE ID="routine_4003" SESSION_REFS="session_03">
 				<NAME>Vehicle Speed Limit</NAME>
 				<NUMBER>0x4003</NUMBER>
-				<MAX_ROUTINE_RUN_TIME/>
+				<MAX_ROUTINE_RUN_TIME />
 				<RESTART_WHILE_RUNNING>no</RESTART_WHILE_RUNNING>
 			</ROUTINE>
 			<ROUTINE ID="routine_0403" SESSION_REFS="session_03">
 				<NAME>Clear flight recorder data</NAME>
 				<NUMBER>0x0403</NUMBER>
-				<MAX_ROUTINE_RUN_TIME/>
+				<MAX_ROUTINE_RUN_TIME />
 				<RESTART_WHILE_RUNNING>no</RESTART_WHILE_RUNNING>
 			</ROUTINE>
 			<ROUTINE ID="routine_0404" SESSION_REFS="session_03">
 				<NAME>VIN Learn</NAME>
 				<NUMBER>0x0404</NUMBER>
-				<MAX_ROUTINE_RUN_TIME/>
+				<MAX_ROUTINE_RUN_TIME />
 				<RESTART_WHILE_RUNNING>no</RESTART_WHILE_RUNNING>
 			</ROUTINE>
 			<ROUTINE ID="routine_0406" SESSION_REFS="session_03">
 				<NAME>Clear adaption values</NAME>
 				<NUMBER>0x0406</NUMBER>
-				<MAX_ROUTINE_RUN_TIME/>
+				<MAX_ROUTINE_RUN_TIME />
 				<RESTART_WHILE_RUNNING>no</RESTART_WHILE_RUNNING>
 			</ROUTINE>
 			<ROUTINE ID="routine_0407" SESSION_REFS="session_03">
 				<NAME>Fuel Prime</NAME>
 				<NUMBER>0x0407</NUMBER>
-				<MAX_ROUTINE_RUN_TIME/>
+				<MAX_ROUTINE_RUN_TIME />
 				<RESTART_WHILE_RUNNING>no</RESTART_WHILE_RUNNING>
 			</ROUTINE>
 			<ROUTINE ID="routine_4027" SESSION_REFS="session_03">
 				<NAME>Fuel Pump Enable</NAME>
 				<NUMBER>0x4027</NUMBER>
-				<MAX_ROUTINE_RUN_TIME/>
+				<MAX_ROUTINE_RUN_TIME />
 				<RESTART_WHILE_RUNNING>no</RESTART_WHILE_RUNNING>
 			</ROUTINE>
 		</ROUTINE_IDENTIFIERS>
-		<MEMORY_AREAS/>
-		<SECURITY_DATA/>
+		<MEMORY_AREAS />
+		<SECURITY_DATA />
 	</ECU_DATA>
-	<SPECIAL_PROCEDURES/>
-	<DEVIATIONS/>
+	<SPECIAL_PROCEDURES />
+	<DEVIATIONS />
 </MDX>

@@ -28,9 +28,7 @@ function SettingsNav() {
   const secondaryColor = theme((state) => state.secondaryColor);
   const secondaryColorSet = "to-" + secondaryColor + "-600";
   return (
-    <div
-      className={`shadow-lg inline-flex fixed h-20 w-full transition`}
-    >
+    <div className={`shadow-lg inline-flex fixed h-20 w-full transition`}>
       <div className="transition flex flex-row justify-center px-5 items-center w-5/6">
         {location.pathname !== "/settings/dev" ? (
           menuItems.map((m) => {

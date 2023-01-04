@@ -78,10 +78,10 @@ function Climate() {
                 className={
                   t.state
                     ? "SINGLE-NAVBAR-ITEM inline-flex items-center w-full bg-gradient-to-br " +
-                    primaryColorSet +
-                    " " +
-                    secondaryColorSet +
-                    " text-4xl text-white active:text-gray-100 h-[68px] p-4 rounded-lg active:bg-opacity-75 transition active:scale-95 "
+                      primaryColorSet +
+                      " " +
+                      secondaryColorSet +
+                      " text-4xl text-white active:text-gray-100 h-[68px] p-4 rounded-lg active:bg-opacity-75 transition active:scale-95 "
                     : "SINGLE-NAVBAR-ITEM inline-flex items-center w-full bg-black bg-opacity-40 text-4xl text-white active:text-gray-100 h-[68px] p-4 rounded-lg active:bg-opacity-75 transition active:scale-95"
                 }
               >
@@ -112,8 +112,9 @@ function Climate() {
                   }
                 >
                   <svg
-                    className={`${passTempVar !== "HIGH" ? `fill-red-400` : `fill-gray-400`
-                      } flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
+                    className={`${
+                      passTempVar !== "HIGH" ? `fill-red-400` : `fill-gray-400`
+                    } flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
                     viewBox="0 0 128 128"
                     version="1.1"
                     id="svg24"
@@ -170,8 +171,9 @@ function Climate() {
                   }
                 >
                   <svg
-                    className={`${passTempVar !== "LOW" ? `fill-blue-400` : `fill-gray-400`
-                      } flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
+                    className={`${
+                      passTempVar !== "LOW" ? `fill-blue-400` : `fill-gray-400`
+                    } flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
                     viewBox="0 0 128 128"
                     version="1.1"
                     id="svg24"
@@ -352,10 +354,11 @@ function Climate() {
                   }
                 >
                   <svg
-                    className={`${driverTempVar !== "HIGH"
-                      ? `fill-red-400`
-                      : `fill-gray-400`
-                      } flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
+                    className={`${
+                      driverTempVar !== "HIGH"
+                        ? `fill-red-400`
+                        : `fill-gray-400`
+                    } flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
                     viewBox="0 0 128 128"
                     version="1.1"
                     id="svg24"
@@ -413,10 +416,11 @@ function Climate() {
                   }
                 >
                   <svg
-                    className={`${driverTempVar !== "LOW"
-                      ? `fill-blue-400`
-                      : `fill-gray-400`
-                      } flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
+                    className={`${
+                      driverTempVar !== "LOW"
+                        ? `fill-blue-400`
+                        : `fill-gray-400`
+                    } flex w-[90px] h-[90px] scale-90 ml-[-5px]`}
                     viewBox="0 0 128 128"
                     version="1.1"
                     id="svg24"

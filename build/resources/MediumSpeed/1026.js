@@ -45,7 +45,7 @@ var arrBuilder = [
   "-",
 ];
 //var Builder = []
-var eucdData = { "EUCD": [{}] };
+var eucdData = { EUCD: [{}] };
 var setup = false;
 
 function ms1026(msg, window) {
@@ -125,13 +125,19 @@ function ms1026(msg, window) {
                 data.configuration_data.block[blockID].group[x].parameter.select
                   .option[y].value == testValue
               ) {
-                if (data.configuration_data.block[blockID].group[x].parameter.select
-                  .option[y].tm.id != "@UndefinedApp" && data.configuration_data.block[blockID].group[x].parameter.select
-                    .option[y].tm.id != undefined) {
+                if (
+                  data.configuration_data.block[blockID].group[x].parameter
+                    .select.option[y].tm.id != "@UndefinedApp" &&
+                  data.configuration_data.block[blockID].group[x].parameter
+                    .select.option[y].tm.id != undefined
+                ) {
                   var option =
                     data.configuration_data.block[blockID].group[x].parameter
                       .select.option[y].tm.id;
-                  eucdData.EUCD[eucdData.EUCD.length] = { "option": id, "optionID": option }
+                  eucdData.EUCD[eucdData.EUCD.length] = {
+                    option: id,
+                    optionID: option,
+                  };
                 }
                 break;
               }
@@ -143,12 +149,14 @@ function ms1026(msg, window) {
         textData = JSON.parse(textData);
         for (var z = 0; z < eucdData.EUCD.length; z++) {
           if (z != 0) {
-            var idTest = eucdData.EUCD[z].optionID
-            idTest = idTest.substring(0, 2)
-            var optionidTest = eucdData.EUCD[z].option
-            optionidTest = optionidTest.substring(0, 2)
-            eucdData.EUCD[z]["optionText"] = textData[idTest][eucdData.EUCD[z].optionID]["eng"];
-            eucdData.EUCD[z]["optionIDText"] = textData[optionidTest][eucdData.EUCD[z].option]["eng"];
+            var idTest = eucdData.EUCD[z].optionID;
+            idTest = idTest.substring(0, 2);
+            var optionidTest = eucdData.EUCD[z].option;
+            optionidTest = optionidTest.substring(0, 2);
+            eucdData.EUCD[z]["optionText"] =
+              textData[idTest][eucdData.EUCD[z].optionID]["eng"];
+            eucdData.EUCD[z]["optionIDText"] =
+              textData[optionidTest][eucdData.EUCD[z].option]["eng"];
           }
         }
         vehicleInfo.eucdDecode = true;

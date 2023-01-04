@@ -1,13 +1,13 @@
-<?xml version="1.0"?>
+<?xml version="1.0" ?>
 <!-- RCM MANUALLY CREATED MDX FILE -->
 <MDX xmlns:xlink="http://www.w3.org/1999/xlink">
 	<ADMINISTRATION>
 		<ECU_NAME>Restraints Control Module </ECU_NAME>
 		<SHORTNAME>RCM</SHORTNAME>
-		<SSDS_INFORMATION/>
-		<SPECIFICATION_DOCUMENTS/>
+		<SSDS_INFORMATION />
+		<SPECIFICATION_DOCUMENTS />
 	</ADMINISTRATION>
-	<PROTOCOL/>
+	<PROTOCOL />
 	<ECU_DATA>
 		<DATA_IDENTIFIERS>
 			<DID ID="did_D100">
@@ -16,7 +16,7 @@
 				<BYTE_SIZE>1</BYTE_SIZE>
 				<DID_TYPE>single_value</DID_TYPE>
 				<ACCESS_PARAMETERS>
-					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03"/>
+					<READABLE SERVICE_REFS="service_22" SESSION_REFS="session_01 session_03" />
 				</ACCESS_PARAMETERS>
 				<SUB_FIELD ID="did_D100_subfield_1">
 					<NAME>Active Diagnostic Session</NAME>
@@ -48,7 +48,7 @@
 				<DESCRIPTION>RCM Configuration Data </DESCRIPTION>
 				<BYTE_SIZE>6</BYTE_SIZE>
 				<DID_TYPE>bitmapped</DID_TYPE>
-				<ACCESS_PARAMETERS/>
+				<ACCESS_PARAMETERS />
 			</DID>
 			<DID ID="did_5B26">
 				<NAME>RCM delivery mode</NAME>
@@ -56,14 +56,14 @@
 				<DESCRIPTION>RCM delivery mode setting</DESCRIPTION>
 				<BYTE_SIZE>1</BYTE_SIZE>
 				<DID_TYPE>single_value</DID_TYPE>
-				<ACCESS_PARAMETERS/>
+				<ACCESS_PARAMETERS />
 			</DID>
 		</DATA_IDENTIFIERS>
-		<DIAGNOSTIC_TROUBLE_CODES/>
-		<ROUTINE_IDENTIFIERS/>
-		<MEMORY_AREAS/>
-		<SECURITY_DATA/>
+		<DIAGNOSTIC_TROUBLE_CODES />
+		<ROUTINE_IDENTIFIERS />
+		<MEMORY_AREAS />
+		<SECURITY_DATA />
 	</ECU_DATA>
-	<SPECIAL_PROCEDURES/>
-	<DEVIATIONS/>
+	<SPECIAL_PROCEDURES />
+	<DEVIATIONS />
 </MDX>

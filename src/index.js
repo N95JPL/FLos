@@ -1,7 +1,7 @@
 import { createRoot } from "react-dom/client";
-import React from "react";
+import React, { useEffect } from "react";
 import "./Modules/Style.css";
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route, useNavigate } from "react-router-dom";
 import Layout from "./Modules/Layout";
 import NoPage from "./Modules/NoPage";
 import Carplay from "./Modules/Carplay";
@@ -13,6 +13,7 @@ import AppSettings from "./Modules/Settings/App-Settings";
 import Dev from "./Modules/Settings/Dev";
 import { time, temperature, indicators, brightness, vehicle, vehicleSettings } from "./Stores/mediumSpeed";
 import { vehicleInfo } from "./Stores/vehicleInfo";
+import Reversing from "./Modules/Reversing";
 
 
 // eslint-disable-next-line no-unused-vars
@@ -33,6 +34,21 @@ export default function App() {
     window.api.dataFull("vehicleInfo");
     window.api.dataFull("mediumSpeed");
   }
+  const gear = vehicle((state) => state.gear);
+  var lastPage = "";
+  var lastGear = "";
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    if (gear === "Reverse") {
+      lastPage = window.location.pathname
+      navigate("/reversing");
+      lastGear = gear;
+    } else if (lastGear === "Reverse") {
+      navigate(lastPage);
+      lastGear = gear;
+    }
+  }, [gear]);
   return (
     <HashRouter>
       <Routes>
@@ -46,6 +62,7 @@ export default function App() {
           <Route path="/*" element={<NoPage />} />
         </Route>
         <Route path="/carplay" element={<Carplay />} />
+        <Route path="/reversing" element={<Reversing />} />
       </Routes>
     </HashRouter>
   );

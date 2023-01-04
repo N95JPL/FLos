@@ -12,8 +12,7 @@ function ms888(msg) {
   var hour = arr[5];
   var minute = arr[6];
   var second = arr[7];
-  mediumSpeed.time.hour =
-    hour < 10 ? "0" + hour : hour;
+  mediumSpeed.time.hour = hour < 10 ? "0" + hour : hour;
   mediumSpeed.time.minute = minute < 10 ? "0" + minute : minute;
   mediumSpeed.time.second = second < 10 ? "0" + second : second;
 }

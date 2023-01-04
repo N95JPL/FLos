@@ -8,7 +8,7 @@ export const time = create((set) => ({
   setMinute: (minute) => set({ minute }),
   second: 0,
   setSecond: (second) => set({ second }),
-}))
+}));
 
 export const temperature = create((set) => ({
   driver: 0,
@@ -17,7 +17,7 @@ export const temperature = create((set) => ({
   setPassenger: (passenger) => set({ passenger }),
   interior: 0,
   setInterior: (interior) => set({ interior }),
-}))
+}));
 
 export const indicators = create((set) => ({
   rearHeater: 0,
@@ -30,7 +30,7 @@ export const indicators = create((set) => ({
   setFrontHeater: (frontHeater) => set({ frontHeater }),
   recirc: 0,
   setRecirc: (recirc) => set({ recirc }),
-}))
+}));
 
 export const brightness = create((set) => ({
   brightness: 0,
@@ -41,7 +41,7 @@ export const brightness = create((set) => ({
   setAuto: (auto) => set({ auto }),
   adjustedBrightness: 255,
   setAdjustedBrightness: (adjustedBrightness) => set({ adjustedBrightness }),
-}))
+}));
 
 export const vehicle = create((set) => ({
   gear: 0,
@@ -49,19 +49,18 @@ export const vehicle = create((set) => ({
   alternator: 0,
   setAlternator: (alternator) => set({ alternator }),
   alternator_graph: [{}],
-  setAlternator_graph:
-    (payload) =>
-      set(
-        produce((draft) => {
-          draft.alternator_graph.push({
-            name: Date.now(),
-            alternator: payload,
-          });
-          if (draft.alternator_graph.length > 100) {
-            draft.alternator_graph.shift();
-          }
-        })
-      ),
+  setAlternator_graph: (payload) =>
+    set(
+      produce((draft) => {
+        draft.alternator_graph.push({
+          name: Date.now(),
+          alternator: payload,
+        });
+        if (draft.alternator_graph.length > 100) {
+          draft.alternator_graph.shift();
+        }
+      })
+    ),
   voltage: 0,
   setVoltage: (voltage) => set({ voltage }),
   voltage_graph: [{}],
@@ -70,8 +69,7 @@ export const vehicle = create((set) => ({
       produce((draft) => {
         draft.voltage_graph.push({
           name: Date.now(),
-          value:
-            payload,
+          value: payload,
         });
         if (draft.voltage_graph.length > 100) {
           draft.voltage_graph.shift();
@@ -93,7 +91,7 @@ export const vehicle = create((set) => ({
         }
       })
     ),
-}))
+}));
 
 export const vehicleSettings = create((set) => ({
   Drive_Away_Locking_5: false,
@@ -114,8 +112,7 @@ export const vehicleSettings = create((set) => ({
   Two_Stage_Locking: false,
   setTwo_Stage_Locking: (Two_Stage_Locking) => set({ Two_Stage_Locking }),
   Global_Windows_Open: false,
-  setGlobal_Windows_Open: (Global_Windows_Open) =>
-    set({ Global_Windows_Open }),
+  setGlobal_Windows_Open: (Global_Windows_Open) => set({ Global_Windows_Open }),
   Global_Windows_Close: false,
   setGlobal_Windows_Close: (Global_Windows_Close) =>
     set({ Global_Windows_Close }),
