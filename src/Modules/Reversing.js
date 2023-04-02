@@ -1,22 +1,14 @@
 import React from "react";
+import { vehicle } from "../Stores/mediumSpeed";
+import parkingSensors from "../Images/ParkingSensors.svg";
 
 function Reversing() {
   return (
-    <div className="h-screen flex items-center justify-center p-10">
+    <div className={`flex items-center justify-center`} >
       <div className="max-w-4xl w-full flex flex-col">
-        <div>
-          <div>
-            <h1 className="text-2xl font-extrabold tracking-tight">
-              This will be a reversing screen!
-            </h1>
-            <p className="text-sm mb-2.5">Lol, this will get done soon!</p>
-          </div>
-        </div>
-        <div className="flex flex-col gap-2.5 mt-2.5">
-          <div className="flex gap-2.5"></div>
-        </div>
+        <img alt="ac" src={parkingSensors} className="h-[400px] flex mx-auto" />
       </div>
     </div>
-  );
+  )
 }
 export default Reversing;

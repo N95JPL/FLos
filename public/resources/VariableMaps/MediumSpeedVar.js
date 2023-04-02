@@ -1,21 +1,24 @@
 /* eslint-disable prefer-const */
 let mediumSpeed = {
+  parking: {
+    frontLeft: 0,
+    frontLeftMiddle: 0,
+    frontRightMiddle: 0,
+    frontRight: 0,
+    rearLeft: 0,
+    rearLeftMiddle: 0,
+    rearRightMiddle: 0,
+    rearRight: 0,
+    active: false
+  },
   time: {
     hour: 0,
     minute: 0,
     second: 0,
   },
   temperature: {
-    driver: "--",
-    passenger: "--",
     interior: "--",
-  },
-  indicators: {
-    rearHeater: 0,
-    auto: 0,
-    defrost: 0,
-    frontHeater: 0,
-    recirc: 0,
+    exterior: "--",
   },
   brightness: {
     brightness: 0,
@@ -24,43 +27,35 @@ let mediumSpeed = {
     auto: true,
   },
   vehicle: {
+    speed: 0,
     alternator: 0,
     gear: 0,
     voltage: 0,
     charging_current: 0,
-  },
-  vehicleSettings: {
-    Drive_Away_Locking_5: false,
-    Drive_Away_Locking_10: false,
-    Drive_Away_Locking_15: false,
-    Passive_Arming: false,
-    AutoLock: false,
-    Alarm_Sensors: false,
-    Two_Stage_Locking: false,
-    Global_Windows_Open: false,
-    Global_Windows_Close: false,
-    Mirror_Fold: false,
   },
 };
 exports.mediumSpeed = mediumSpeed;
 
 let mediumSpeedPrev = {
+  parking: {
+    frontLeft: 0,
+    frontLeftMiddle: 0,
+    frontRightMiddle: 0,
+    frontRight: 0,
+    rearLeft: 0,
+    rearLeftMiddle: 0,
+    rearRightMiddle: 0,
+    rearRight: 0,
+    active: false
+  },
   time: {
     hour: 0,
     minute: 0,
     second: 0,
   },
   temperature: {
-    driver: "--",
-    passenger: "--",
     interior: "--",
-  },
-  indicators: {
-    rearHeater: 0,
-    auto: 0,
-    defrost: 0,
-    frontHeater: 0,
-    recirc: 0,
+    exterior: "--",
   },
   brightness: {
     brightness: 0,
@@ -69,22 +64,11 @@ let mediumSpeedPrev = {
     auto: true,
   },
   vehicle: {
+    speed: 0,
     alternator: 0,
     gear: 0,
     voltage: 0,
     charging_current: 0,
-  },
-  vehicleSettings: {
-    Drive_Away_Locking_5: false,
-    Drive_Away_Locking_10: false,
-    Drive_Away_Locking_15: false,
-    Passive_Arming: false,
-    AutoLock: false,
-    Alarm_Sensors: false,
-    Two_Stage_Locking: false,
-    Global_Windows_Open: false,
-    Global_Windows_Close: false,
-    Mirror_Fold: false,
   },
 };
 exports.mediumSpeedPrev = mediumSpeedPrev;

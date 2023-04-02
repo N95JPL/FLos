@@ -4,9 +4,11 @@ import { BsSnow } from "react-icons/bs";
 import React from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
 import { theme } from "../Stores/theme";
-import { time } from "../Stores/mediumSpeed";
+import { time, vehicle } from "../Stores/mediumSpeed";
 import { vehicleInfo } from "../Stores/vehicleInfo";
+import { entertainmentBus } from "../Stores/entertainmentBus";
 import "./Style.css";
+import Reversing from "./Reversing";
 
 function Layout() {
   const firstTimeSetup = vehicleInfo((state) => state.firstTimeSetup);
@@ -28,14 +30,9 @@ function Nav() {
   const location = useLocation();
   const menuItems = [
     {
-      name: "Climate",
-      icon: <BsSnow />,
-      path: "/",
-    },
-    {
       name: "Radio",
       icon: <GiRadioTower />,
-      path: "/radio",
+      path: "/",
     },
     {
       name: "Carplay",
@@ -53,45 +50,62 @@ function Nav() {
       path: "/settings/app",
     },
   ];
-
+  const gear = vehicle((state) => state.gear);
   const hour = time((state) => state.hour);
   const minute = time((state) => state.minute);
+  const volumeChange = entertainmentBus((state) => state.volumeChange)
+  const volume = entertainmentBus((state) => state.volume)
+
   return (
-    <>
-      <div
-        className={`NAVBAR-CONTAINER w-[100px] fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex h-screen absolute z-10 left-0 transition`}
-      >
-        <div className="flex absolute justify-center items-center w-full">
-          <div className="py-0.75 m-2 text-xl font-bold">
-            {hour}:{minute}
-          </div>
-        </div>
-        <div className="NAVBAR-ITEMS flex flex-col justify-between items-center py-10 w-full h-full">
-          {menuItems.map((m) => {
-            let x = location.pathname.split("/");
-            let y = m.path.split("/");
-            return (
-              <Link
-                to={m.path}
-                className={
-                  x[1] === y[1]
-                    ? "SINGLE-NAVBAR-ITEM bg-black bg-opacity-50 text-4xl text-white active:text-gray-100 p-4 mx-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
-                    : "SINGLE-NAVBAR-ITEM text-4xl text-white active:text-gray-100 bg-black bg-opacity-20 p-4 mx-5 rounded-lg active:bg-opacity-40 transition active:scale-95"
-                }
-              >
-                {m.icon}
-              </Link>
-            );
-          })}
+    <div>
+      <div className={`${gear === "R" ? "" : "hidden"} fade-in bg-slate-300 transition-all z-20 absolute h-[400px] top-[40px] w-[700px] left-[50px]`}>
+        <Reversing />
+      </div>
+      <div className={`${volumeChange ? "" : "hidden"} fade-in bg-gray-500 rounded-3xl transition-all z-20 fixed h-[400px] top-[40px] w-[700px] left-[50px]`}>
+        <div className="align-top h-1/4 text-center text-white text-2xl">Beep Boop - Volume Change</div>
+        <div className="flex align-middle items-center justify-center h-1/2 text-center text-8xl text-white">
+          {volume}
         </div>
       </div>
-      <div
-        id="outlet"
-        className="fade-in transition-all absolute w-[700px] left-[100px]"
-      >
-        <Outlet />
+      <div className={`${gear === "R" ? "blur-sm" : ""} transition-all`}>
+        {location.pathname !== "/carplay" ? (
+          <><div
+            className={`NAVBAR-CONTAINER w-[100px] fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex h-screen absolute z-10 left-0 transition`}
+          >
+            <div className="flex absolute justify-center items-center w-full">
+              <div className="py-0.75 m-2 text-xl font-bold">
+                {hour}:{minute}
+              </div>
+            </div>
+            <div className="NAVBAR-ITEMS flex flex-col justify-between items-center py-10 w-full h-full">
+              {menuItems.map((m) => {
+                let x = location.pathname.split("/");
+                let y = m.path.split("/");
+                return (
+                  <Link
+                    to={m.path}
+                    className={x[1] === y[1]
+                      ? "SINGLE-NAVBAR-ITEM bg-black bg-opacity-50 text-4xl text-white active:text-gray-100 p-4 mx-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
+                      : "SINGLE-NAVBAR-ITEM text-4xl text-white active:text-gray-100 bg-black bg-opacity-20 p-4 mx-5 rounded-lg active:bg-opacity-40 transition active:scale-95"}
+                  >
+                    {m.icon}
+                  </Link>
+                );
+              })}
+            </div>
+          </div><div
+            id="outlet"
+            className="fade-in transition-all absolute w-[700px] left-[100px]"
+          >
+              <Outlet />
+            </div></>) : (<><div
+              id="outlet"
+              className="fade-in transition-all absolute w-screen"
+            >
+              <Outlet />
+            </div></>)}
       </div>
-    </>
+    </div>
   );
 }
 window.api.onFadeOut((event, msg) => {
@@ -130,7 +144,7 @@ function FirstTimeSetup() {
           <img
             id="img"
             className="img transition fadeIn"
-            src={require("../Images/JaguarLogo.png")}
+            src={require("../Images/LandRoverLogo.png")}
           />
         </div>
         <div
@@ -138,16 +152,16 @@ function FirstTimeSetup() {
           className="setup fade-in w-full h-[25%] flex items-center flex-col justify-center p-10"
         >
           <div className="flex">{setupInfoLine}</div>
-          {ModelYear != "-" &&
-          Brand != "-" &&
-          ModelName != "-" &&
-          Trim != "-" &&
-          Model != "-" ? (
+          {ModelYear !== "-" &&
+            Brand !== "-" &&
+            ModelName !== "-" &&
+            Trim !== "-" &&
+            Model !== "-" ? (
             <div className="flex">
               {ModelYear} {Brand} {ModelName} {Trim} ({Model})
             </div>
           ) : null}
-          {VIN != "-" ? <div className="flex">VIN: {VIN} </div> : null}
+          {VIN !== "-" ? <div className="flex">VIN: {VIN} </div> : null}
         </div>
       </div>
     </>

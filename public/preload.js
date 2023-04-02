@@ -8,6 +8,7 @@ contextBridge.exposeInMainWorld("api", {
   vehicleInfo: (msg) => ipcRenderer.send("vehicleInfo", msg),
   canRecorder: (msg) => ipcRenderer.send("canRecorder", msg),
   close: (msg) => ipcRenderer.send("close", msg),
+  onEntertainmentBus: (callback) => ipcRenderer.on("entertainmentBus", callback),
   onMediumSpeed: (callback) => ipcRenderer.on("mediumSpeed", callback),
   onVehicleInfo: (callback) => ipcRenderer.on("vehicleInfo", callback),
   onFadeOut: (callback) => ipcRenderer.on("fadeOut", callback),

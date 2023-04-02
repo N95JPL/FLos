@@ -4,7 +4,7 @@ const {
   mediumSpeed,
   mediumSpeedPrev,
 } = require("./resources/VariableMaps/MediumSpeedVar");
-const { Out } = require("./resources/CanMap/canOut");
+const { entertainmentBus, entertainmentBusPrev } = require("./resources/VariableMaps/EntertainmentBusVar");
 const {
   vehicleInfo,
   vehicleInfoPrev,
@@ -12,19 +12,21 @@ const {
 const can = require("socketcan");
 const fs = require("fs");
 let parseMediumSpeed = require("./resources/MediumSpeed");
+const parseEntertainmentBus = require("./resources/entertainmentBus");
 
 let msCanDump = "";
 let hsCanDump = "";
 
 let changedMedium = {
+  parking: {},
   time: {},
   temperature: {},
-  indicators: {},
   brightness: {},
   vehicle: {},
-  vehicleSettings: {},
 };
+let changedEntertainmentBus = {};
 let changedVehicleInfo = {};
+
 module.exports = function (window, dev) {
   let canDataMS;
   let canRecordingMS = false;
@@ -35,22 +37,6 @@ module.exports = function (window, dev) {
   let canDataHSval = 0;
   let canDataHSFile;
 
-  let sendClimateMsg;
-
-  // let canIds = Map;
-  let outIds = Out;
-  // canIds = JSON.stringify(canIds);
-  // outIds = JSON.stringify(outIds)
-  // default array to use as the buffer to send can messages when no new changes
-  const def = [203, 0, 0, 0, 0, 0, 127, 127];
-  // const staticAmb = 255
-  // const info = {}
-
-  // message object which is used to send can message
-  const msgOut = {
-    id: 712,
-    data: def,
-  };
   // eslint-disable-next-line no-unused-vars
   // create can can0
   let can0;
@@ -70,7 +56,7 @@ module.exports = function (window, dev) {
   ipcMain.on("vehicleInfo", (event, msg) => {
     // console.log("Message about vehicle from UI");
     for (let key in msg) {
-      if (msg[key] != "-") {
+      if (msg[key] !== "-") {
         vehicleInfo[key] = msg[key];
       }
     }
@@ -106,38 +92,10 @@ module.exports = function (window, dev) {
       canDataHS = "";
       canDataHSval = "";
     }
+    parseEntertainmentBus(msg, window);
   });
   can0.start();
   can1.start();
-  ipcMain.on("actionClimate", (event, msg) => {
-    let value;
-    let byte;
-    value = outIds[msg.type].val;
-    byte = outIds[msg.type].byte;
-    if (msg.press) {
-      if (msg.type.includes("vol") || msg.type.includes("fan")) {
-        def[byte] = value;
-      } else {
-        // turn on the defined bit of the byte
-        def[byte] |= value;
-      }
-      msgOut.data = Buffer.from(def);
-      // log("We sent - " + msg.type + " to " + msgOut.id)
-      can0.send(msgOut);
-      clearInterval(sendClimateMsg);
-      sendClimateMsg = setInterval(() => {
-        msgOut.data = Buffer.from(def);
-        can0.send(msgOut);
-      }, 250);
-    } else {
-      // log("Received an action from: " + msg.type + ":" + msg.press)
-      clearInterval(sendClimateMsg);
-      def[byte] &= ~value;
-      msgOut.data = Buffer.from(def);
-      // log("We sent - " + msg.type + " to " + msgOut.id)
-      can0.send(msgOut);
-    }
-  });
   ipcMain.on("actionBrightness", (event, msg) => {
     mediumSpeed.brightness.offset = msg.value;
     mediumSpeed.brightness.auto = msg.auto;
@@ -236,12 +194,11 @@ module.exports = function (window, dev) {
     if (send) {
       window.webContents.send("mediumSpeed", changedMedium);
       changedMedium = {
+        parking: {},
         time: {},
         temperature: {},
-        indicators: {},
         brightness: {},
         vehicle: {},
-        vehicleSettings: {},
       };
     }
   }, 100);
@@ -259,6 +216,23 @@ module.exports = function (window, dev) {
       // console.log(changedVehicleInfo);
       window.webContents.send("vehicleInfo", changedVehicleInfo);
       changedVehicleInfo = {};
+    }
+  }, 100);
+  setInterval(() => {
+    let send = false;
+    for (const key in entertainmentBus) {
+      if (entertainmentBus[key] !== entertainmentBusPrev[key]) {
+        if (key != "volumeControl") {
+          send = true;
+          changedEntertainmentBus[`${key}`] = entertainmentBus[key];
+          entertainmentBusPrev[`${key}`] = entertainmentBus[key];
+        }
+      }
+    }
+    if (send) {
+      // console.log(changedVehicleInfo);
+      window.webContents.send("entertainmentBus", changedEntertainmentBus);
+      changedEntertainmentBus = {};
     }
   }, 100);
 };

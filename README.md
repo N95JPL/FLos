@@ -1,33 +1,30 @@
-# Jaguar XF - Infotainment System
-
-"socketcan": "^4.0.1",
-
+# Land Rover Freelander 2 > 2012 - Infotainment System
 
 ## Work in progress
-A Electron-React App to one day replace the Infotainment Module of my Jaguar XFS!
+A Electron-React App to one day replace the Infotainment Module of my Freelander 2!
 ### Features
-    - Decode multiple IDs from the Medium Speed Can-Bus network
-        - Climate (Driver/Pass Temperature, Interior Temp, Heated Screens etc)
-            - It can also manipulate them like the lower button panel
-            - The heated seat buttons dont work yet, additional hardware needed!
+    - Decode IDs from the Medium Speed Can-Bus network
+        - Work in progress
         - VIN Decoding
             - Parse the VIN and decode the age/make/model of the vehicle
             - The first time the app launches, this will take a moment to configure
-        - Vehicle Settings
-            - These are currently read-only
+    - Decode IDs from the "Entertainment Bus"
+        - The special bus between the "Audio Head Unit" and the Headunit Display
+        - Decipher Radio Source (FM/DAB/AM/Aux/BT/[CD Pending])
+        - Radio Station Name + Additional RDS Data
+        - Volume Level (Pops up when using the cars original hardware rotary switch)
+        - Bluetooth Media Song Title/Artist
     - Personalise the theme settings
     - Create a CanDump from the vehicles MS/HS CanBus (used for debugging and development)
 
 ### Upcoming Features
-    - Apple CarPlay integration
+    - Apple CarPlay/Android Auto integration
     - Car Configuration File parsing
-        - The app will then only show options relevent to the current vehicle
-    - Radio/Multimedia
+        - ~~The app will then only show options relevent to the current vehicle~~ TBC .. Is it needed?
     - Bluetooth connection
         - Notifications
         - Music
 
-Based off rhysmorgan134/jaguar-xf-canbus-app - Big shoutout to him for all his hard work and assistance!
 ### Install
 1) Make sure RPi is running latest version
 2) Install NodeJs: This has only been tested on the latest 19.2.0
@@ -45,7 +42,7 @@ Based off rhysmorgan134/jaguar-xf-canbus-app - Big shoutout to him for all his h
     sudo /sbin/ip link set can0 up type can bitrate 125000
     ```
 7) Reboot Pi
-8) Download JagOS Repo
+8) Download FLos Repo
 9) run `npm i`
 10) Run `npm run` + either
     * pi64-build - For RPi 4 - 4GB+ (npm run pi64-build)
@@ -63,7 +60,5 @@ Based off rhysmorgan134/jaguar-xf-canbus-app - Big shoutout to him for all his h
 Can also be tested on Ubuntu by running the same commands above but this needs to be ran before loading AppImage:
 (Can be copied and pasted in one go)
 ```
-sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan
-&& sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw
-&& sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e
+sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e
 ```

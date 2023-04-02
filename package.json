@@ -1,15 +1,15 @@
 {
-  "name": "jagos",
+  "name": "flos",
   "version": "0.1.0",
   "private": true,
   "main": "public/electron.js",
   "homepage": "./",
-  "title": "JagOS",
-  "description": "A Electron-React application for controlling a Jaguar XF System",
+  "title": "FLos",
+  "description": "A Electron-React application for controlling a Freelander 2 > 2012 Media System",
   "author": {
     "name": "N95JPL",
-    "email": "joshua@jnpl.co.uk",
-    "url": "http://jnpl.co.uk/"
+    "email": "joshuapopelewis@gmail.com",
+    "url": "https://github.com/N95JPL"
   },
   "dependencies": {
     "@emotion/react": "^11.10.5",
@@ -19,6 +19,7 @@
     "electron-is-dev": "^2.0.0",
     "fast-xml-parser": "^4.0.12",
     "immer": "^9.0.17",
+    "prebuild": "^11.0.4",
     "react": "^18.2.0",
     "react-color": "^2.19.3",
     "react-d3-speedometer": "^2.1.0-rc.0",
@@ -50,12 +51,14 @@
     "electron": "^22.0.0",
     "electron-builder": "^24.0.0-alpha.4",
     "eslint": "^8.31.0",
+    "eslint-auto-fix": "^1.0.4",
     "eslint-config-prettier": "^8.6.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.6.0",
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hoagoks": "^4.6.0",
     "postcss": "^8.4.20",
     "postcss-loader": "^7.0.2",
     "prettier": "^2.8.1",
@@ -81,12 +84,21 @@
     "linux64-build": "electron-rebuild -f -a x64 && electron-builder build --linux deb --x64",
     "pi32-build": "electron-rebuild -f -a armv7l && electron-builder --linux AppImage --armv7l",
     "pi64-build": "electron-rebuild -f -a arm64 && electron-builder build --linux AppImage --arm64",
-    "pretty": "prettier --write \"./**/*/*/*.{js,jsx,json,xml}\""
+    "pretty": "prettier --write \"./**/*/*/*.{js,jsx,json,xml}\"",
+    "dist": "electron-builder --armv7l --l AppImage"
   },
   "eslintConfig": {
     "extends": [
       "react-app"
-    ]
+    ],
+    "plugins": [
+      "react-hooks"
+    ],
+    "rules": {
+      "react-hooks/rules-of-hooks": "error",
+      "react-hooks/exhaustive-deps": "warn",
+      "no-unused-vars": "off"
+    }
   },
   "browserslist": {
     "production": [
@@ -101,10 +113,10 @@
     ]
   },
   "build": {
-    "productName": "JagOS",
+    "productName": "FLos",
     "npmRebuild": false,
-    "artifactName": "JagOS-${version}-${arch}.${ext}",
-    "appId": "io.jplogics.jagos",
+    "artifactName": "FLos-${version}-${arch}.${ext}",
+    "appId": "io.jplogics.FLos",
     "files": [
       "./src/**/*",
       "./build/**/*"

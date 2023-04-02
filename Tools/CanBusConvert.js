@@ -81,7 +81,7 @@ async function processLineByLine() {
               : msg[0] -
                 lastTime +
                 ":" +
-                fileNameConv[0] == "canBusMS" ? "cansend can1 " : "cansend can0" +
+                fileNameConv[0] === "canBusMS" ? "cansend can1 " : "cansend can0" +
                 newID +
                 "#" +
                 msg[3] +

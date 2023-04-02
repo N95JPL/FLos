@@ -1,3 +1,4 @@
+// eslint-disable no-unused-vars
 import { createRoot } from "react-dom/client";
 import React, { useEffect } from "react";
 import "./Modules/Style.css";
@@ -7,24 +8,14 @@ import NoPage from "./Modules/NoPage";
 import Carplay from "./Modules/Carplay";
 import VehicleDashboard from "./Modules/Vehicle/Dashboard";
 import VehicleElectrical from "./Modules/Vehicle/Electrical";
-import Climate from "./Modules/Climate";
-import VehicleSettings from "./Modules/Settings/Vehicle-Settings";
+import Radio from "./Modules/Entertainment";
 import AppSettings from "./Modules/Settings/App-Settings";
 import Dev from "./Modules/Settings/Dev";
-import { time, temperature, indicators, brightness, vehicle, vehicleSettings } from "./Stores/mediumSpeed";
+import { time, temperature, brightness, vehicle, parking } from "./Stores/mediumSpeed";
 import { vehicleInfo } from "./Stores/vehicleInfo";
 import Reversing from "./Modules/Reversing";
+import { entertainmentBus } from "./Stores/entertainmentBus";
 
-
-// eslint-disable-next-line no-unused-vars
-let setTime = "";
-let setTemperature = "";
-let setIndicators = "";
-let setBrightness = "";
-let setVehicle = "";
-let setVehicleSettings = "";
-
-let setVehicleInfo = "";
 // eslint-disable-next-line no-unused-vars
 let setup = false;
 export default function App() {
@@ -34,40 +25,28 @@ export default function App() {
     window.api.dataFull("vehicleInfo");
     window.api.dataFull("mediumSpeed");
   }
-  const gear = vehicle((state) => state.gear);
   var lastPage = "";
   var lastGear = "";
-  const navigate = useNavigate();
 
-  useEffect(() => {
-    if (gear === "Reverse") {
-      lastPage = window.location.pathname
-      navigate("/reversing");
-      lastGear = gear;
-    } else if (lastGear === "Reverse") {
-      navigate(lastPage);
-      lastGear = gear;
-    }
-  }, [gear]);
+
   return (
     <HashRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
-          <Route index element={<Climate />} />
+          <Route index element={<Radio />} />
           <Route path="/vehicle/dashboard" element={<VehicleDashboard />} />
           <Route path="/vehicle/electrical" element={<VehicleElectrical />} />
-          <Route path="/settings/vehicle" element={<VehicleSettings />} />
           <Route path="/settings/app" element={<AppSettings />} />
           <Route path="/settings/dev" element={<Dev />} />
           <Route path="/*" element={<NoPage />} />
+          <Route path="/carplay" element={<Carplay />} />
         </Route>
-        <Route path="/carplay" element={<Carplay />} />
-        <Route path="/reversing" element={<Reversing />} />
       </Routes>
     </HashRouter>
   );
 }
 function setUp() {
+
   const setupInfoLine = vehicleInfo((state) => state.setupInfoLine);
   const firstTimeSetup = vehicleInfo((state) => state.firstTimeSetup);
   const vinDecode = vehicleInfo((state) => state.vinDecode);
@@ -112,6 +91,7 @@ function setUp() {
   const setDriver = vehicleInfo((state) => state.setDriver);
   const setTransmission = vehicleInfo((state) => state.setTransmission);
   const setEngine = vehicleInfo((state) => state.setEngine);
+
   window.api.vehicleInfo({
     firstTimeSetup: firstTimeSetup,
     CCFID: CCFID,
@@ -139,40 +119,39 @@ function setUp() {
     }
   });
 
-  setTime = time()
-  setTemperature = temperature()
-  setIndicators = indicators()
-  setBrightness = brightness()
-  setVehicle = vehicle()
-  setVehicleSettings = vehicleSettings()
+  let setTime = time()
+  let setTemperature = temperature()
+  let setBrightness = brightness()
+  let setVehicle = vehicle()
+  let setParking = parking()
 
   window.api.onMediumSpeed((event, msg) => {
     for (const x in msg) {
       for (const y in msg[x]) {
         const a = "set" + capitalize(y);
-        if (y.toString() != "charging_current" && y.toString() != "voltage" && y.toString() != "alternator") {
+        if (y.toString() !== "charging_current" && y.toString() !== "voltage" && y.toString() !== "alternator") {
           const b = "set" + capitalize(x) + "." + a + "(msg." + x + "." + y + ")";
           // eslint-disable-next-line no-eval
           eval(b);
         } else {
-          if (y.toString() == "charging_current") {
+          if (y.toString() === "charging_current") {
             var temp = msg[x][y]
-            const b = "set" + capitalize(x) + "." + a + "_graph" + "(" + temp + ")";
-            const c = "set" + capitalize(x) + "." + a + "(msg." + x + "." + y + ")";
+            const b = `set${capitalize(x)}.${a}_graph(${temp})`;
+            const c = `set${capitalize(x)}.${a}(${temp})`;
             // eslint-disable-next-line no-eval
             eval(b);
             eval(c)
-          } else if (y.toString() == "voltage") {
-            var temp = msg[x][y]
-            const b = "set" + capitalize(x) + "." + a + "_graph" + "(" + temp + ")";
-            const c = "set" + capitalize(x) + "." + a + "(msg." + x + "." + y + ")";
+          } else if (y.toString() === "voltage") {
+            var temp1 = msg[x][y]
+            const b = `set${capitalize(x)}.${a}_graph(${temp1})`;
+            const c = `set${capitalize(x)}.${a}(${temp1})`;
             // eslint-disable-next-line no-eval
             eval(b);
             eval(c)
-          } else if (y.toString() == "alternator") {
-            var temp = msg[x][y]
-            const b = "set" + capitalize(x) + "." + a + "_graph" + "(" + temp + ")";
-            const c = "set" + capitalize(x) + "." + a + "(msg." + x + "." + y + ")";
+          } else if (y.toString() === "alternator") {
+            var temp2 = msg[x][y]
+            const b = `set${capitalize(x)}.${a}_graph(${temp2})`;
+            const c = `set${capitalize(x)}.${a}(${temp2})`;
             // eslint-disable-next-line no-eval
             eval(b);
             eval(c)
@@ -180,8 +159,24 @@ function setUp() {
         }
       }
     }
-  }
-  );
+  });
+  const setFmStation = entertainmentBus((state) => state.setFmStation);
+  const setDabStation = entertainmentBus((state) => state.setDabStation);
+  const setSource = entertainmentBus((state) => state.setSource);
+  const setSourceSel = entertainmentBus((state) => state.setSourceSel);
+  const setText = entertainmentBus((state) => state.setText);
+  const setBlock = entertainmentBus((state) => state.setBlock);
+  const setVolume = entertainmentBus((state) => state.setVolume);
+  const setVolumeChange = entertainmentBus((state) => state.setVolumeChange);
+
+  window.api.onEntertainmentBus((event, msg) => {
+    for (const x in msg) {
+      const a = "set" + capitalize(x.toString());
+      const b = a + "(msg." + x + ")";
+      // eslint-disable-next-line no-eval
+      eval(b);
+    }
+  });
   setup = true;
 }
 function capitalize(string) {

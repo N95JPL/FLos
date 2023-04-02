@@ -4,7 +4,7 @@ import { persist } from "zustand/middleware";
 export let vehicleInfo = create(
   persist(
     (set) => ({
-      setupInfoLine: "Welcome to the JagOS First Time Setup Wizard",
+      setupInfoLine: "Welcome! First Time Setup Wizard",
       setSetupInfoLine: (setupInfoLine) => set({ setupInfoLine }),
       firstTimeSetup: true,
       setFirstTimeSetup: (firstTimeSetup) => set({ firstTimeSetup }),
