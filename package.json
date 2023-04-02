@@ -77,15 +77,14 @@
     "electron-build": "electron-rebuild -f -a x64 && electron-builder build --linux AppImage --x64",
     "preelectron-build": "npm run build",
     "preelectron-pack": "npm run build",
-    "postinstall": "electron-rebuild -f",
-    "reset": "electron-builder install-app-deps",
+    "postinstall": "install-app-deps",
+    "dist": "npm run build && build --publish onTagOrDraft",
     "rebuild": "electron-rebuild -f",
     "buildAll": "npm run linux64-build && npm run pi32-build && npm run pi64-build",
     "linux64-build": "electron-rebuild -f -a x64 && electron-builder build --linux deb --x64",
     "pi32-build": "electron-rebuild -f -a armv7l && electron-builder --linux AppImage --armv7l",
     "pi64-build": "electron-rebuild -f -a arm64 && electron-builder build --linux AppImage --arm64",
     "pretty": "prettier --write \"./**/*/*/*.{js,jsx,json,xml}\"",
-    "dist": "electron-builder --armv7l --l AppImage"
   },
   "eslintConfig": {
     "extends": [
@@ -114,7 +113,7 @@
   },
   "build": {
     "productName": "FLos",
-    "npmRebuild": false,
+    "npmRebuild": true,
     "artifactName": "FLos-${version}-${arch}.${ext}",
     "appId": "io.jplogics.FLos",
     "files": [
@@ -134,6 +133,17 @@
       "app": "./",
       "output": "./dist",
       "buildResources": "./build"
+    },
+    "linux": {
+      "arch": [
+        "armv7l",
+        "arm64"
+      ],
+      "target": [
+        "AppImage"
+      ],
+      "category": "Utility",
+      "icon": "./public/resources/logo.png"
     }
   }
 }
