@@ -1,0 +1,2111 @@
+{
+  "configuration_data": {
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "xsi:noNamespaceSchemaLocation": "ccf_data.xsd",
+    "type": "VID",
+    "version": {
+      "car_config": { "text": "EMS Part 2 PAG Issue 6.0" },
+      "vbf_version": { "text": "2.0" }
+    },
+    "ccf": {
+      "sync": { "status": "0", "text": "PCM_SYSTEM_A" },
+      "source": { "status": "0", "text": "PCM_SYSTEM_A" }
+    },
+    "block": [
+      {
+        "id": "1",
+        "name": [
+          "VID_BLOCK_ENGINE_DATA",
+          { "text": "VID Block Powertrain Data" }
+        ],
+        "serviceIdRd": "0x22",
+        "serviceIdWr": "0x00",
+        "dl_exclude": "false",
+        "address": {
+          "module": "PCM_SYSTEM_A",
+          "t_ccf": "X206_VID_BLOCK.vbf",
+          "parameterId": "0xE736",
+          "start_address": "0x0040F820",
+          "stop_address": "0x0040F85F",
+          "merge": "true",
+          "qualifier": { "model": "X202", "year": "MY06" }
+        },
+        "block_data": {
+          "data": {
+            "module": "PCM_SYSTEM_A",
+            "length": "64",
+            "checksum": "0x0",
+            "text": "00"
+          }
+        },
+        "group": [
+          {
+            "start": "0",
+            "stop": "2",
+            "name": "GROUP_VID_PCM_DATA_BYTE_0_2",
+            "title": { "tm": { "text": "VID block byte 0 to 2" } },
+            "parameter": {
+              "id": "000_002_000_023",
+              "name": "PARAM_VID_PADDING",
+              "mask": "0xFF",
+              "type": "ASCII",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Padding bytes" } }
+            }
+          },
+          {
+            "start": "3",
+            "stop": "19",
+            "name": "GROUP_VID_PCM_DATA_BYTE_3_17",
+            "title": { "tm": { "text": "VID block byte 3 to 17" } },
+            "parameter": {
+              "id": "003_019_000_135",
+              "name": "PARAM_VID_VIN",
+              "mask": "0xFF",
+              "type": "ASCII",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "VIN" } }
+            }
+          },
+          {
+            "start": "20",
+            "stop": "20",
+            "name": "GROUP_VID_PCM_DATA_BYTE_20",
+            "title": { "tm": { "text": "VID block byte 20" } },
+            "parameter": [
+              {
+                "id": "020_020_000_000",
+                "name": "PARAM_VID_ENGINE_ASPIRATION",
+                "mask": "0x01",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Engine aspiration" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "Normally aspirated" }
+                    },
+                    {
+                      "value": "0x01",
+                      "name": "TRUE",
+                      "tm": { "text": "Supercharged" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "020_020_001_001",
+                "name": "PARAM_VID_TRANSMISSION_TYPE",
+                "mask": "0x02",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Transmission type" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "Manual" }
+                    },
+                    {
+                      "value": "0x02",
+                      "name": "TRUE",
+                      "tm": { "text": "Automatic" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "020_020_002_002",
+                "name": "PARAM_VID_SC_TYPE",
+                "mask": "0x04",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "S/C type" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "Hi-spec" }
+                    },
+                    {
+                      "value": "0x04",
+                      "name": "TRUE",
+                      "tm": { "text": "Premium" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "020_020_003_003",
+                "name": "PARAM_VID_WHEELBASE",
+                "mask": "0x08",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Wheelbase" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "Short wheelbase" }
+                    },
+                    {
+                      "value": "0x08",
+                      "name": "TRUE",
+                      "tm": { "text": "Long wheelbase" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "020_020_004_004",
+                "name": "PARAM_VID_HEATED_FRONT_SCREEN",
+                "mask": "0x10",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Heated front screen" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "Fitted" }
+                    },
+                    {
+                      "value": "0x10",
+                      "name": "TRUE",
+                      "tm": { "text": "Not fitted" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "020_020_005_005",
+                "name": "PARAM_VID_EBOX_FAN",
+                "mask": "0x20",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "E-Box fan" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "Fitted" }
+                    },
+                    {
+                      "value": "0x20",
+                      "name": "TRUE",
+                      "tm": { "text": "Not fitted" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "020_020_006_006",
+                "name": "PARAM_VID_POWER_LIMITATION",
+                "mask": "0x40",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Power limitation" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "Thailand power restriction" }
+                    },
+                    {
+                      "value": "0x40",
+                      "name": "TRUE",
+                      "tm": { "text": "No limitation" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "020_020_007_007",
+                "name": "PARAM_VID_CRUISE_SELECTION",
+                "mask": "0x80",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Cruise selection" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "Using KPH" }
+                    },
+                    {
+                      "value": "0x80",
+                      "name": "TRUE",
+                      "tm": { "text": "Using MPH" }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "start": "21",
+            "stop": "21",
+            "name": "GROUP_VID_PCM_DATA_BYTE_21",
+            "title": { "tm": { "text": "VID block byte 21" } },
+            "parameter": [
+              {
+                "id": "021_021_000_000",
+                "name": "PARAM_VID_ACC_MARKET_TYPE",
+                "mask": "0x01",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "ACC market type" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "Market type 0" }
+                    },
+                    {
+                      "value": "0x01",
+                      "name": "TRUE",
+                      "tm": { "text": "Market type 1" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "020_020_001_001",
+                "name": "PARAM_VID_AUTOMATIC_SPEED_LIMITER",
+                "mask": "0x02",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": {
+                  "tm": { "text": "Automatic speed limiter" }
+                },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "Automatic speed limiter not fitted" }
+                    },
+                    {
+                      "value": "0x02",
+                      "name": "TRUE",
+                      "tm": { "text": "Automatic speed limiter Fitted" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "020_020_002_002",
+                "name": "PARAM_VID_BODY_STYLE",
+                "mask": "0x04",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Body style" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "Saloon" }
+                    },
+                    {
+                      "value": "0x04",
+                      "name": "TRUE",
+                      "tm": { "text": "Estate" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "020_020_003_003",
+                "name": "PARAM_VID_20_THOU_EVAP_LEAK_CHECK",
+                "mask": "0x08",
+                "type": "BOOL",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": {
+                  "tm": { "text": "20 thou EVAP leak check enable" }
+                },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FALSE",
+                      "tm": { "text": "20 thou EVAP leack check ON" }
+                    },
+                    {
+                      "value": "0x08",
+                      "name": "TRUE",
+                      "tm": { "text": "20 thou EVAP leack check OFF" }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "start": "24",
+            "stop": "24",
+            "name": "GROUP_VID_PCM_DATA_BYTE_24",
+            "title": { "tm": { "text": "VID block byte 24" } },
+            "parameter": [
+              {
+                "id": "024_024_000_001",
+                "name": "PARAM_VID_ENGINE_TYPE",
+                "mask": "0x03",
+                "type": "ENUM",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Engine type" } },
+                "select": {
+                  "option": [
+                    { "value": "0x00", "name": "V8", "tm": { "text": "V8" } },
+                    { "value": "0x01", "name": "V6", "tm": { "text": "V6" } }
+                  ]
+                }
+              },
+              {
+                "id": "024_024_002_003",
+                "name": "PARAM_VID_DRIVEN_WHEELS",
+                "mask": "0x0C",
+                "type": "ENUM",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Driven wheels" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "RWD",
+                      "tm": { "text": "rear wheel drive" }
+                    },
+                    {
+                      "value": "0x04",
+                      "name": "FWD",
+                      "tm": { "text": "Front wheel drive" }
+                    },
+                    {
+                      "value": "0x08",
+                      "name": "FWD",
+                      "tm": { "text": "All wheel drive" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "020_020_004_007",
+                "name": "PARAM_VID_DIAGNOSTIC_LEVEL",
+                "mask": "0xF0",
+                "type": "BIN",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Diagnostic level" } }
+              }
+            ]
+          },
+          {
+            "start": "25",
+            "stop": "25",
+            "name": "GROUP_VID_PCM_DATA_BYTE_25",
+            "title": { "tm": { "text": "VID block byte 25" } },
+            "parameter": {
+              "id": "025_025_000_007",
+              "name": "PARAM_VID_CO_ADJUSTMENT_BANK_A",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": {
+                "tm": { "text": "CO adjustment for open loop market (Bank A)" }
+              }
+            }
+          },
+          {
+            "start": "26",
+            "stop": "26",
+            "name": "GROUP_VID_PCM_DATA_BYTE_26",
+            "title": { "tm": { "text": "VID block byte 26" } },
+            "parameter": {
+              "id": "026_026_000_007",
+              "name": "PARAM_VID_CO_ADJUSTMENT_BANK_B",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": {
+                "tm": { "text": "CO adjustment for open loop market (Bank B)" }
+              }
+            }
+          },
+          {
+            "start": "27",
+            "stop": "27",
+            "name": "GROUP_VID_PCM_DATA_BYTE_27",
+            "title": { "tm": { "text": "VID block byte 27" } },
+            "parameter": [
+              {
+                "id": "027_027_000_005",
+                "name": "PARAM_VID_CO_ADJUSTMENT_BANK_A",
+                "mask": "0x3F",
+                "type": "ENUM",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Model year" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "200100",
+                      "tm": { "text": "2001.00" }
+                    },
+                    {
+                      "value": "0x01",
+                      "name": "200125",
+                      "tm": { "text": "2001.25" }
+                    },
+                    {
+                      "value": "0x02",
+                      "name": "200150",
+                      "tm": { "text": "2001.50" }
+                    },
+                    {
+                      "value": "0x03",
+                      "name": "200175",
+                      "tm": { "text": "2001.75" }
+                    },
+                    {
+                      "value": "0x04",
+                      "name": "200200",
+                      "tm": { "text": "2002.00" }
+                    },
+                    {
+                      "value": "0x05",
+                      "name": "200225",
+                      "tm": { "text": "2002.25" }
+                    },
+                    {
+                      "value": "0x06",
+                      "name": "200250",
+                      "tm": { "text": "2002.50" }
+                    },
+                    {
+                      "value": "0x07",
+                      "name": "200275",
+                      "tm": { "text": "2002.75" }
+                    },
+                    {
+                      "value": "0x08",
+                      "name": "200300",
+                      "tm": { "text": "2003.00" }
+                    },
+                    {
+                      "value": "0x09",
+                      "name": "200325",
+                      "tm": { "text": "2003.25" }
+                    },
+                    {
+                      "value": "0x0A",
+                      "name": "200350",
+                      "tm": { "text": "2003.50" }
+                    },
+                    {
+                      "value": "0x0B",
+                      "name": "200375",
+                      "tm": { "text": "2003.75" }
+                    },
+                    {
+                      "value": "0x0C",
+                      "name": "200400",
+                      "tm": { "text": "2004.00" }
+                    },
+                    {
+                      "value": "0x0D",
+                      "name": "200425",
+                      "tm": { "text": "2004.25" }
+                    },
+                    {
+                      "value": "0x0E",
+                      "name": "200450",
+                      "tm": { "text": "2004.50" }
+                    },
+                    {
+                      "value": "0x0F",
+                      "name": "200475",
+                      "tm": { "text": "2001.75" }
+                    },
+                    {
+                      "value": "0x10",
+                      "name": "200500",
+                      "tm": { "text": "2005.00" }
+                    },
+                    {
+                      "value": "0x11",
+                      "name": "200525",
+                      "tm": { "text": "2005.25" }
+                    },
+                    {
+                      "value": "0x12",
+                      "name": "200550",
+                      "tm": { "text": "2005.50" }
+                    },
+                    {
+                      "value": "0x13",
+                      "name": "200575",
+                      "tm": { "text": "2005.75" }
+                    },
+                    {
+                      "value": "0x14",
+                      "name": "200600",
+                      "tm": { "text": "2006.00" }
+                    },
+                    {
+                      "value": "0x15",
+                      "name": "200625",
+                      "tm": { "text": "2006.25" }
+                    },
+                    {
+                      "value": "0x16",
+                      "name": "200650",
+                      "tm": { "text": "2006.50" }
+                    },
+                    {
+                      "value": "0x17",
+                      "name": "200675",
+                      "tm": { "text": "2006.75" }
+                    },
+                    {
+                      "value": "0x18",
+                      "name": "200700",
+                      "tm": { "text": "2007.00" }
+                    },
+                    {
+                      "value": "0x19",
+                      "name": "200725",
+                      "tm": { "text": "2007.25" }
+                    },
+                    {
+                      "value": "0x1A",
+                      "name": "200750",
+                      "tm": { "text": "2007.50" }
+                    },
+                    {
+                      "value": "0x1B",
+                      "name": "200775",
+                      "tm": { "text": "2007.75" }
+                    },
+                    {
+                      "value": "0x1C",
+                      "name": "200800",
+                      "tm": { "text": "2008.00" }
+                    },
+                    {
+                      "value": "0x1D",
+                      "name": "200825",
+                      "tm": { "text": "2008.25" }
+                    },
+                    {
+                      "value": "0x1E",
+                      "name": "200850",
+                      "tm": { "text": "2008.50" }
+                    },
+                    {
+                      "value": "0x1F",
+                      "name": "200875",
+                      "tm": { "text": "2008.75" }
+                    },
+                    {
+                      "value": "0x20",
+                      "name": "200900",
+                      "tm": { "text": "2009.00" }
+                    },
+                    {
+                      "value": "0x21",
+                      "name": "200925",
+                      "tm": { "text": "2009.25" }
+                    },
+                    {
+                      "value": "0x22",
+                      "name": "200950",
+                      "tm": { "text": "2009.50" }
+                    },
+                    {
+                      "value": "0x23",
+                      "name": "200975",
+                      "tm": { "text": "2009.75" }
+                    },
+                    {
+                      "value": "0x24",
+                      "name": "201000",
+                      "tm": { "text": "2010.00" }
+                    },
+                    {
+                      "value": "0x25",
+                      "name": "201025",
+                      "tm": { "text": "2010.25" }
+                    },
+                    {
+                      "value": "0x26",
+                      "name": "201050",
+                      "tm": { "text": "2010.50" }
+                    },
+                    {
+                      "value": "0x27",
+                      "name": "201075",
+                      "tm": { "text": "2010.75" }
+                    },
+                    {
+                      "value": "0x28",
+                      "name": "201100",
+                      "tm": { "text": "2001.00" }
+                    },
+                    {
+                      "value": "0x29",
+                      "name": "201125",
+                      "tm": { "text": "2011.25" }
+                    },
+                    {
+                      "value": "0x2A",
+                      "name": "201150",
+                      "tm": { "text": "2011.50" }
+                    },
+                    {
+                      "value": "0x2B",
+                      "name": "201175",
+                      "tm": { "text": "2011.75" }
+                    },
+                    {
+                      "value": "0x2C",
+                      "name": "201200",
+                      "tm": { "text": "2012.00" }
+                    },
+                    {
+                      "value": "0x2D",
+                      "name": "201225",
+                      "tm": { "text": "2012.25" }
+                    },
+                    {
+                      "value": "0x2E",
+                      "name": "201250",
+                      "tm": { "text": "2012.50" }
+                    },
+                    {
+                      "value": "0x2F",
+                      "name": "201275",
+                      "tm": { "text": "2012.75" }
+                    },
+                    {
+                      "value": "0x30",
+                      "name": "201300",
+                      "tm": { "text": "2013.00" }
+                    },
+                    {
+                      "value": "0x31",
+                      "name": "201325",
+                      "tm": { "text": "2013.25" }
+                    },
+                    {
+                      "value": "0x32",
+                      "name": "201350",
+                      "tm": { "text": "2013.50" }
+                    },
+                    {
+                      "value": "0x33",
+                      "name": "201375",
+                      "tm": { "text": "2013.75" }
+                    },
+                    {
+                      "value": "0x34",
+                      "name": "201400",
+                      "tm": { "text": "2014.00" }
+                    },
+                    {
+                      "value": "0x35",
+                      "name": "201425",
+                      "tm": { "text": "2014.25" }
+                    },
+                    {
+                      "value": "0x36",
+                      "name": "201450",
+                      "tm": { "text": "2014.50" }
+                    },
+                    {
+                      "value": "0x37",
+                      "name": "201475",
+                      "tm": { "text": "2014.75" }
+                    },
+                    {
+                      "value": "0x38",
+                      "name": "201500",
+                      "tm": { "text": "2015.00" }
+                    },
+                    {
+                      "value": "0x39",
+                      "name": "201525",
+                      "tm": { "text": "2015.25" }
+                    },
+                    {
+                      "value": "0x3A",
+                      "name": "201550",
+                      "tm": { "text": "2015.50" }
+                    },
+                    {
+                      "value": "0x3B",
+                      "name": "201575",
+                      "tm": { "text": "2015.75" }
+                    },
+                    {
+                      "value": "0x3C",
+                      "name": "201600",
+                      "tm": { "text": "2016.00" }
+                    },
+                    {
+                      "value": "0x3D",
+                      "name": "201625",
+                      "tm": { "text": "2016.25" }
+                    },
+                    {
+                      "value": "0x3E",
+                      "name": "201650",
+                      "tm": { "text": "2016.50" }
+                    },
+                    {
+                      "value": "0x3F",
+                      "name": "201675",
+                      "tm": { "text": "2016.75" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "027_027_006_007",
+                "name": "PARAM_VID_CO_ADJUSTMENT_BANK_A",
+                "mask": "0xC0",
+                "type": "ENUM",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Cruise control" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "NO_CC",
+                      "tm": { "text": "No cruise control" }
+                    },
+                    {
+                      "value": "0x40",
+                      "name": "CC",
+                      "tm": { "text": "Cruise control" }
+                    },
+                    {
+                      "value": "0x80",
+                      "name": "ACC",
+                      "tm": { "text": "Adaptive cruise control" }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "start": "36",
+            "stop": "36",
+            "name": "GROUP_VID_PCM_DATA_BYTE_36",
+            "title": { "tm": { "text": "VID block byte 36" } },
+            "parameter": [
+              {
+                "id": "036_036_000_003",
+                "name": "PARAM_VID_VEHICLE_TYPE",
+                "mask": "0x0F",
+                "type": "ENUM",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Vehicle type" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "X350",
+                      "tm": { "text": "X350" }
+                    },
+                    {
+                      "value": "0x01",
+                      "name": "X400",
+                      "tm": { "text": "X400" }
+                    },
+                    {
+                      "value": "0x02",
+                      "name": "X300",
+                      "tm": { "text": "X300" }
+                    },
+                    {
+                      "value": "0x03",
+                      "name": "X100",
+                      "tm": { "text": "X100" }
+                    },
+                    {
+                      "value": "0x04",
+                      "name": "X202",
+                      "tm": { "text": "X202" }
+                    },
+                    {
+                      "value": "0x05",
+                      "name": "X206",
+                      "tm": { "text": "X206" }
+                    },
+                    {
+                      "value": "0x06",
+                      "name": "X356",
+                      "tm": { "text": "X356" }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "037_037_004_007",
+                "name": "PARAM_VID_EMISSION_MARKET",
+                "mask": "0xF0",
+                "type": "ENUM",
+                "category": {
+                  "display": "true",
+                  "edit": "false",
+                  "scope": "base"
+                },
+                "parameter_title": { "tm": { "text": "Emission market" } },
+                "select": {
+                  "option": [
+                    {
+                      "value": "0x00",
+                      "name": "FEDERAL",
+                      "tm": { "text": "Federal" }
+                    },
+                    {
+                      "value": "0x10",
+                      "name": "JAPAN",
+                      "tm": { "text": "Japan" }
+                    },
+                    {
+                      "value": "0x40",
+                      "name": "BRAZIL",
+                      "tm": { "text": "Brazil" }
+                    },
+                    {
+                      "value": "0x70",
+                      "name": "EUROPE",
+                      "tm": { "text": "Europe" }
+                    },
+                    { "value": "0x90", "name": "ROW", "tm": { "text": "ROW" } },
+                    { "value": "0xA0", "name": "91", "tm": { "text": "91" } }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "start": "38",
+            "stop": "38",
+            "name": "GROUP_VID_PCM_DATA_BYTE_38",
+            "title": { "tm": { "text": "VID block byte 38" } },
+            "parameter": {
+              "id": "038_038_000_007",
+              "name": "PARAM_VID_WHEEL_TYRE_SIZE_MSB",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Wheel tyre size (MSB)" } }
+            }
+          },
+          {
+            "start": "39",
+            "stop": "39",
+            "name": "GROUP_VID_PCM_DATA_BYTE_39",
+            "title": { "tm": { "text": "VID block byte 39" } },
+            "parameter": {
+              "id": "039_039_000_007",
+              "name": "PARAM_VID_WHEEL_TYRE_SIZE_LSB",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Wheel tyre size (LSB)" } }
+            }
+          },
+          {
+            "start": "40",
+            "stop": "40",
+            "name": "GROUP_VID_PCM_DATA_BYTE_40",
+            "title": { "tm": { "text": "VID block byte 40" } },
+            "parameter": {
+              "id": "040_040_000_007",
+              "name": "PARAM_VID_PEAK_TORQUE",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Peak torque" } }
+            }
+          },
+          {
+            "start": "41",
+            "stop": "41",
+            "name": "GROUP_VID_PCM_DATA_BYTE_41",
+            "title": { "tm": { "text": "VID block byte 41" } },
+            "parameter": {
+              "id": "041_041_000_007",
+              "name": "PARAM_VID_DIFF_RATIO_FRONT",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": {
+                "tm": { "text": "Differential ratio (front)" }
+              }
+            }
+          },
+          {
+            "start": "42",
+            "stop": "42",
+            "name": "GROUP_VID_PCM_DATA_BYTE_42",
+            "title": { "tm": { "text": "VID block byte 42" } },
+            "parameter": {
+              "id": "042_042_000_007",
+              "name": "PARAM_VID_DIFF_RATIO_REAR",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": {
+                "tm": { "text": "Differential ratio (rear)" }
+              }
+            }
+          },
+          {
+            "start": "43",
+            "stop": "43",
+            "name": "GROUP_VID_PCM_DATA_BYTE_43",
+            "title": { "tm": { "text": "VID block byte 43" } },
+            "parameter": {
+              "id": "043_043_000_007",
+              "name": "PARAM_VID_BASE_TORQUE_SPLIT",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Base torque split" } }
+            }
+          },
+          {
+            "start": "44",
+            "stop": "44",
+            "name": "GROUP_VID_PCM_DATA_BYTE_44",
+            "title": { "tm": { "text": "VID block byte 44" } },
+            "parameter": {
+              "id": "044_044_000_007",
+              "name": "PARAM_VID_GEAR_RATIO_1ST",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Gear ratio (1st gear)" } }
+            }
+          },
+          {
+            "start": "45",
+            "stop": "45",
+            "name": "GROUP_VID_PCM_DATA_BYTE_45",
+            "title": { "tm": { "text": "VID block byte 45" } },
+            "parameter": {
+              "id": "045_045_000_007",
+              "name": "PARAM_VID_GEAR_RATIO_2ND",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Gear ratio (2nd gear)" } }
+            }
+          },
+          {
+            "start": "46",
+            "stop": "46",
+            "name": "GROUP_VID_PCM_DATA_BYTE_46",
+            "title": { "tm": { "text": "VID block byte 46" } },
+            "parameter": {
+              "id": "046_046_000_007",
+              "name": "PARAM_VID_GEAR_RATIO_3RD",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Gear ratio (3rd gear)" } }
+            }
+          },
+          {
+            "start": "47",
+            "stop": "47",
+            "name": "GROUP_VID_PCM_DATA_BYTE_47",
+            "title": { "tm": { "text": "VID block byte 47" } },
+            "parameter": {
+              "id": "047_047_000_007",
+              "name": "PARAM_VID_GEAR_RATIO_4TH",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Gear ratio (4th gear)" } }
+            }
+          },
+          {
+            "start": "48",
+            "stop": "48",
+            "name": "GROUP_VID_PCM_DATA_BYTE_48",
+            "title": { "tm": { "text": "VID block byte 48" } },
+            "parameter": {
+              "id": "048_048_000_007",
+              "name": "PARAM_VID_GEAR_RATIO_5TH",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Gear ratio (5th gear)" } }
+            }
+          },
+          {
+            "start": "49",
+            "stop": "49",
+            "name": "GROUP_VID_PCM_DATA_BYTE_49",
+            "title": { "tm": { "text": "VID block byte 49" } },
+            "parameter": {
+              "id": "049_049_000_007",
+              "name": "PARAM_VID_GEAR_RATIO_6TH",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Gear ratio (6th gear)" } }
+            }
+          },
+          {
+            "start": "50",
+            "stop": "50",
+            "name": "GROUP_VID_PCM_DATA_BYTE_50",
+            "title": { "tm": { "text": "VID block byte 50" } },
+            "parameter": {
+              "id": "050_050_000_007",
+              "name": "PARAM_VID_GEAR_RATIO_REVERSE",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": {
+                "tm": { "text": "Gear ratio (reverse gear)" }
+              }
+            }
+          },
+          {
+            "start": "51",
+            "stop": "51",
+            "name": "GROUP_VID_PCM_DATA_BYTE_51",
+            "title": { "tm": { "text": "VID block byte 51" } },
+            "parameter": {
+              "id": "051_051_000_001",
+              "name": "PARAM_VID_DIFF_TYPE",
+              "mask": "0x03",
+              "type": "ENUM",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Differential type" } },
+              "select": {
+                "option": [
+                  {
+                    "value": "0x00",
+                    "name": "STD",
+                    "tm": { "text": "Standard" }
+                  },
+                  {
+                    "value": "0x01",
+                    "name": "LSD",
+                    "tm": { "text": "Limited slip differential" }
+                  },
+                  {
+                    "value": "0x02",
+                    "name": "ED",
+                    "tm": { "text": "Electronic differential" }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": [
+          "VID_BLOCK_VEHICLE_DATA",
+          { "text": "VID Block Vehicle Data" }
+        ],
+        "serviceIdRd": "0x22",
+        "serviceIdWr": "0x00",
+        "dl_exclude": "false",
+        "address": {
+          "module": "PCM_SYSTEM_A",
+          "t_ccf": "X206_VID_BLOCK.vbf",
+          "parameterId": "0xE737",
+          "start_address": "0x0040F860",
+          "stop_address": "0x0040F91F",
+          "merge": "true",
+          "qualifier": { "model": "X202", "year": "MY06" }
+        },
+        "block_data": {
+          "data": {
+            "module": "PCM_SYSTEM_A",
+            "length": "192",
+            "checksum": "0x0",
+            "text": "00"
+          }
+        },
+        "group": [
+          {
+            "start": "64",
+            "stop": "64",
+            "name": "GROUP_VID_PCM_DATA_BYTE_64",
+            "title": { "tm": { "text": "VID block byte 64" } },
+            "parameter": {
+              "id": "064_064_000_007",
+              "name": "PARAM_VID_NODE_01_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 01 address" } }
+            }
+          },
+          {
+            "start": "65",
+            "stop": "65",
+            "name": "GROUP_VID_PCM_DATA_BYTE_65",
+            "title": { "tm": { "text": "VID block byte 65" } },
+            "parameter": {
+              "id": "065_065_000_007",
+              "name": "PARAM_VID_NODE_02_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 02 address" } }
+            }
+          },
+          {
+            "start": "66",
+            "stop": "66",
+            "name": "GROUP_VID_PCM_DATA_BYTE_66",
+            "title": { "tm": { "text": "VID block byte 66" } },
+            "parameter": {
+              "id": "066_066_000_007",
+              "name": "PARAM_VID_NODE_03_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 03 address" } }
+            }
+          },
+          {
+            "start": "67",
+            "stop": "67",
+            "name": "GROUP_VID_PCM_DATA_BYTE_67",
+            "title": { "tm": { "text": "VID block byte 67" } },
+            "parameter": {
+              "id": "067_067_000_007",
+              "name": "PARAM_VID_NODE_04_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 04 address" } }
+            }
+          },
+          {
+            "start": "68",
+            "stop": "68",
+            "name": "GROUP_VID_PCM_DATA_BYTE_68",
+            "title": { "tm": { "text": "VID block byte 68" } },
+            "parameter": {
+              "id": "068_068_000_007",
+              "name": "PARAM_VID_NODE_05_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 05 address" } }
+            }
+          },
+          {
+            "start": "69",
+            "stop": "69",
+            "name": "GROUP_VID_PCM_DATA_BYTE_69",
+            "title": { "tm": { "text": "VID block byte 69" } },
+            "parameter": {
+              "id": "069_069_000_007",
+              "name": "PARAM_VID_NODE_06_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 06 address" } }
+            }
+          },
+          {
+            "start": "70",
+            "stop": "70",
+            "name": "GROUP_VID_PCM_DATA_BYTE_70",
+            "title": { "tm": { "text": "VID block byte 70" } },
+            "parameter": {
+              "id": "070_070_000_007",
+              "name": "PARAM_VID_NODE_07_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 07 address" } }
+            }
+          },
+          {
+            "start": "71",
+            "stop": "71",
+            "name": "GROUP_VID_PCM_DATA_BYTE_71",
+            "title": { "tm": { "text": "VID block byte 71" } },
+            "parameter": {
+              "id": "071_071_000_007",
+              "name": "PARAM_VID_NODE_08_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 08 address" } }
+            }
+          },
+          {
+            "start": "72",
+            "stop": "72",
+            "name": "GROUP_VID_PCM_DATA_BYTE_72",
+            "title": { "tm": { "text": "VID block byte 72" } },
+            "parameter": {
+              "id": "072_072_000_007",
+              "name": "PARAM_VID_NODE_09_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 09 address" } }
+            }
+          },
+          {
+            "start": "73",
+            "stop": "73",
+            "name": "GROUP_VID_PCM_DATA_BYTE_73",
+            "title": { "tm": { "text": "VID block byte 73" } },
+            "parameter": {
+              "id": "073_073_000_007",
+              "name": "PARAM_VID_NODE_10_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 10 address" } }
+            }
+          },
+          {
+            "start": "74",
+            "stop": "78",
+            "name": "GROUP_VID_PCM_DATA_BYTE_74_78",
+            "title": { "tm": { "text": "VID block byte 74 to 78" } },
+            "parameter": {
+              "id": "074_078_000_031",
+              "name": "PARAM_VID_NODE_01_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 02 backup data" } }
+            }
+          },
+          {
+            "start": "79",
+            "stop": "83",
+            "name": "GROUP_VID_PCM_DATA_BYTE_79_83",
+            "title": { "tm": { "text": "VID block byte 79 to 83" } },
+            "parameter": {
+              "id": "079_083_000_031",
+              "name": "PARAM_VID_NODE_02_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 02 backup data" } }
+            }
+          },
+          {
+            "start": "84",
+            "stop": "88",
+            "name": "GROUP_VID_PCM_DATA_BYTE_84_88",
+            "title": { "tm": { "text": "VID block byte 84 to 88" } },
+            "parameter": {
+              "id": "084_088_000_031",
+              "name": "PARAM_VID_NODE_03_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 03 backup data" } }
+            }
+          },
+          {
+            "start": "89",
+            "stop": "93",
+            "name": "GROUP_VID_PCM_DATA_BYTE_89_93",
+            "title": { "tm": { "text": "VID block byte 89 to 93" } },
+            "parameter": {
+              "id": "089_093_000_031",
+              "name": "PARAM_VID_NODE_04_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 04 backup data" } }
+            }
+          },
+          {
+            "start": "94",
+            "stop": "98",
+            "name": "GROUP_VID_PCM_DATA_BYTE_94_98",
+            "title": { "tm": { "text": "VID block byte 94 to 98" } },
+            "parameter": {
+              "id": "094_098_000_031",
+              "name": "PARAM_VID_NODE_05_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 05 backup data" } }
+            }
+          },
+          {
+            "start": "99",
+            "stop": "103",
+            "name": "GROUP_VID_PCM_DATA_BYTE_99_103",
+            "title": { "tm": { "text": "VID block byte 99 to 103" } },
+            "parameter": {
+              "id": "099_103_000_031",
+              "name": "PARAM_VID_NODE_06_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 06 backup data" } }
+            }
+          },
+          {
+            "start": "104",
+            "stop": "108",
+            "name": "GROUP_VID_PCM_DATA_BYTE_104_108",
+            "title": { "tm": { "text": "VID block byte 104 to 108" } },
+            "parameter": {
+              "id": "104_108_000_031",
+              "name": "PARAM_VID_NODE_07_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 07 backup data" } }
+            }
+          },
+          {
+            "start": "109",
+            "stop": "113",
+            "name": "GROUP_VID_PCM_DATA_BYTE_109_113",
+            "title": { "tm": { "text": "VID block byte 109 to 113" } },
+            "parameter": {
+              "id": "109_113_000_031",
+              "name": "PARAM_VID_NODE_08_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 08 backup data" } }
+            }
+          },
+          {
+            "start": "114",
+            "stop": "118",
+            "name": "GROUP_VID_PCM_DATA_BYTE_114_118",
+            "title": { "tm": { "text": "VID block byte 104 to 108" } },
+            "parameter": {
+              "id": "114_118_000_031",
+              "name": "PARAM_VID_NODE_09_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 09 backup data" } }
+            }
+          },
+          {
+            "start": "119",
+            "stop": "123",
+            "name": "GROUP_VID_PCM_DATA_BYTE_119_123",
+            "title": { "tm": { "text": "VID block byte 119 to 123" } },
+            "parameter": {
+              "id": "119_123_000_031",
+              "name": "PARAM_VID_NODE_10_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 10 backup data" } }
+            }
+          },
+          {
+            "start": "124",
+            "stop": "124",
+            "name": "GROUP_VID_PCM_DATA_BYTE_124",
+            "title": { "tm": { "text": "VID block byte 124" } },
+            "parameter": {
+              "id": "064_064_000_007",
+              "name": "PARAM_VID_NODE_11_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 11 address" } }
+            }
+          },
+          {
+            "start": "125",
+            "stop": "125",
+            "name": "GROUP_VID_PCM_DATA_BYTE_125",
+            "title": { "tm": { "text": "VID block byte 125" } },
+            "parameter": {
+              "id": "125_125_000_007",
+              "name": "PARAM_VID_NODE_12_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 12 address" } }
+            }
+          },
+          {
+            "start": "126",
+            "stop": "126",
+            "name": "GROUP_VID_PCM_DATA_BYTE_126",
+            "title": { "tm": { "text": "VID block byte 126" } },
+            "parameter": {
+              "id": "126_126_000_007",
+              "name": "PARAM_VID_NODE_13_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 13 address" } }
+            }
+          },
+          {
+            "start": "127",
+            "stop": "127",
+            "name": "GROUP_VID_PCM_DATA_BYTE_127",
+            "title": { "tm": { "text": "VID block byte 127" } },
+            "parameter": {
+              "id": "127_127_000_007",
+              "name": "PARAM_VID_NODE_14_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 14 address" } }
+            }
+          },
+          {
+            "start": "128",
+            "stop": "128",
+            "name": "GROUP_VID_PCM_DATA_BYTE_128",
+            "title": { "tm": { "text": "VID block byte 128" } },
+            "parameter": {
+              "id": "128_128_000_007",
+              "name": "PARAM_VID_NODE_15_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 15 address" } }
+            }
+          },
+          {
+            "start": "129",
+            "stop": "129",
+            "name": "GROUP_VID_PCM_DATA_BYTE_129",
+            "title": { "tm": { "text": "VID block byte 129" } },
+            "parameter": {
+              "id": "129_129_000_007",
+              "name": "PARAM_VID_NODE_16_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 16 address" } }
+            }
+          },
+          {
+            "start": "130",
+            "stop": "130",
+            "name": "GROUP_VID_PCM_DATA_BYTE_130",
+            "title": { "tm": { "text": "VID block byte 130" } },
+            "parameter": {
+              "id": "130_130_000_007",
+              "name": "PARAM_VID_NODE_17_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 17 address" } }
+            }
+          },
+          {
+            "start": "131",
+            "stop": "131",
+            "name": "GROUP_VID_PCM_DATA_BYTE_131",
+            "title": { "tm": { "text": "VID block byte 131" } },
+            "parameter": {
+              "id": "131_131_000_007",
+              "name": "PARAM_VID_NODE_18_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 18 address" } }
+            }
+          },
+          {
+            "start": "132",
+            "stop": "132",
+            "name": "GROUP_VID_PCM_DATA_BYTE_132",
+            "title": { "tm": { "text": "VID block byte 132" } },
+            "parameter": {
+              "id": "132_132_000_007",
+              "name": "PARAM_VID_NODE_19_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 19 address" } }
+            }
+          },
+          {
+            "start": "133",
+            "stop": "133",
+            "name": "GROUP_VID_PCM_DATA_BYTE_133",
+            "title": { "tm": { "text": "VID block byte 133" } },
+            "parameter": {
+              "id": "133_133_000_007",
+              "name": "PARAM_VID_NODE_20_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 20 address" } }
+            }
+          },
+          {
+            "start": "134",
+            "stop": "138",
+            "name": "GROUP_VID_PCM_DATA_BYTE_134_138",
+            "title": { "tm": { "text": "VID block byte 134 to 138" } },
+            "parameter": {
+              "id": "134_138_000_031",
+              "name": "PARAM_VID_NODE_11_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 11 backup data" } }
+            }
+          },
+          {
+            "start": "139",
+            "stop": "143",
+            "name": "GROUP_VID_PCM_DATA_BYTE_139_143",
+            "title": { "tm": { "text": "VID block byte 139 to 143" } },
+            "parameter": {
+              "id": "139_143_000_031",
+              "name": "PARAM_VID_NODE_12_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 12 backup data" } }
+            }
+          },
+          {
+            "start": "144",
+            "stop": "148",
+            "name": "GROUP_VID_PCM_DATA_BYTE_144_148",
+            "title": { "tm": { "text": "VID block byte 144 to 148" } },
+            "parameter": {
+              "id": "144_148_000_031",
+              "name": "PARAM_VID_NODE_13_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 13 backup data" } }
+            }
+          },
+          {
+            "start": "149",
+            "stop": "153",
+            "name": "GROUP_VID_PCM_DATA_BYTE_149_153",
+            "title": { "tm": { "text": "VID block byte 149 to 153" } },
+            "parameter": {
+              "id": "149_153_000_031",
+              "name": "PARAM_VID_NODE_14_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 14 backup data" } }
+            }
+          },
+          {
+            "start": "154",
+            "stop": "158",
+            "name": "GROUP_VID_PCM_DATA_BYTE_154_158",
+            "title": { "tm": { "text": "VID block byte 154 to 158" } },
+            "parameter": {
+              "id": "154_158_000_031",
+              "name": "PARAM_VID_NODE_15_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 15 backup data" } }
+            }
+          },
+          {
+            "start": "159",
+            "stop": "163",
+            "name": "GROUP_VID_PCM_DATA_BYTE_159_163",
+            "title": { "tm": { "text": "VID block byte 159 to 163" } },
+            "parameter": {
+              "id": "159_163_000_031",
+              "name": "PARAM_VID_NODE_16_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 16 backup data" } }
+            }
+          },
+          {
+            "start": "164",
+            "stop": "168",
+            "name": "GROUP_VID_PCM_DATA_BYTE_164_168",
+            "title": { "tm": { "text": "VID block byte 164 to 168" } },
+            "parameter": {
+              "id": "164_168_000_031",
+              "name": "PARAM_VID_NODE_17_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 17 backup data" } }
+            }
+          },
+          {
+            "start": "169",
+            "stop": "173",
+            "name": "GROUP_VID_PCM_DATA_BYTE_169_173",
+            "title": { "tm": { "text": "VID block byte 169 to 173" } },
+            "parameter": {
+              "id": "169_173_000_031",
+              "name": "PARAM_VID_NODE_18_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 18 backup data" } }
+            }
+          },
+          {
+            "start": "174",
+            "stop": "178",
+            "name": "GROUP_VID_PCM_DATA_BYTE_174_178",
+            "title": { "tm": { "text": "VID block byte 174 to 178" } },
+            "parameter": {
+              "id": "174_178_000_031",
+              "name": "PARAM_VID_NODE_19_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 19 backup data" } }
+            }
+          },
+          {
+            "start": "179",
+            "stop": "183",
+            "name": "GROUP_VID_PCM_DATA_BYTE_179_183",
+            "title": { "tm": { "text": "VID block byte 179 to 183" } },
+            "parameter": {
+              "id": "179_183_000_031",
+              "name": "PARAM_VID_NODE_20_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 20 backup data" } }
+            }
+          },
+          {
+            "start": "184",
+            "stop": "184",
+            "name": "GROUP_VID_PCM_DATA_BYTE_184",
+            "title": { "tm": { "text": "VID block byte 184" } },
+            "parameter": {
+              "id": "184_184_000_007",
+              "name": "PARAM_VID_NODE_21_ADDRESS",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 21 address" } }
+            }
+          },
+          {
+            "start": "185",
+            "stop": "189",
+            "name": "GROUP_VID_PCM_DATA_BYTE_185_189",
+            "title": { "tm": { "text": "VID block byte 185 to 189" } },
+            "parameter": {
+              "id": "185_189_000_031",
+              "name": "PARAM_VID_NODE_21_BACKUP",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Node 21 backup data" } }
+            }
+          },
+          {
+            "start": "190",
+            "stop": "190",
+            "name": "GROUP_VID_PCM_DATA_BYTE_190",
+            "title": { "tm": { "text": "VID block byte 190" } },
+            "parameter": {
+              "id": "184_184_000_007",
+              "name": "PARAM_VID_TESTER_IDENTIFIER",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Tester identifier" } }
+            }
+          },
+          {
+            "start": "191",
+            "stop": "254",
+            "name": "GROUP_VID_PCM_DATA_BYTE_191_254",
+            "title": { "tm": { "text": "VID block byte 191 to 254" } },
+            "parameter": {
+              "id": "191_254_000_671",
+              "name": "PARAM_VID_VCATS_CODE",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "VCATS code" } }
+            }
+          },
+          {
+            "start": "255",
+            "stop": "255",
+            "name": "GROUP_VID_PCM_DATA_BYTE_255",
+            "title": { "tm": { "text": "VID block byte 255" } },
+            "parameter": {
+              "id": "255_255_000_007",
+              "name": "PARAM_VID_CHECKSUM",
+              "mask": "0xFF",
+              "type": "BIN",
+              "category": {
+                "display": "true",
+                "edit": "false",
+                "scope": "base"
+              },
+              "parameter_title": { "tm": { "text": "Checksum" } }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -18,9 +18,9 @@ function Entertainment() {
 
   return (
     <>
-      <div id="outlet" className="fade-in px-5 py-5 w-full h-full">
+      <div id="outlet" className="fade-in px-5 py-5 w-full h-screen transition-all">
         {sourceSel == "Radio" ? <Radio /> : sourceSel == "Bluetooth" ? <Bluetooth /> : sourceSel == "Aux" ? <Aux /> : <Unknown />}
-        <div className="fixed-bottom left-[100px] justify-between w-[700px]">
+        <div className="fixed bottom-0 left-[100px] justify-between w-[700px]">
           <div className="grid grid-cols-1 justify-evenly h-full w-full text-center">
             <div className="grid grid-cols-2 justify-evenly h-full w-full text-center bg-gradient-to-br from-gray-600 to-gray-800 bg-opacity-40 text-white">
               <div><p>Interior - {interiorTempVar}°C</p></div>
@@ -82,8 +82,8 @@ function Radio() {
           })}
         </div>
       </div>
-      <div className="grid grid-rows-2 justify-evenly h-full w-full text-center">
-        <div className="grid grid-cols-1 justify-evenly h-full w-full text-center">
+      <div className="grid grid-rows-2 justify-evenly h-[25%] w-full text-center">
+        <div className="grid grid-cols-1 justify-evenly h-full w-full text-center text-xl">
           {/* Radio Station */}
           <p>{source == "DAB1" || source == "DAB2" ? dabStation : source == "FM" || source == "FM-AST" ? fmStation : "??"}</p>
         </div>

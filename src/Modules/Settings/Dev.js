@@ -38,7 +38,7 @@ function Dev() {
                     sethsRecording(true),
                   ]}
                 >
-                  <FaCircle className="text-emerald-400" /> Start High Speed
+                  <FaCircle className="text-emerald-400" /> Start Ent. Speed
                   Logging
                 </button>
               ) : (
@@ -49,7 +49,7 @@ function Dev() {
                     sethsRecording(false),
                   ]}
                 >
-                  <FaCircle className="text-emerald-400" /> Stop High Speed
+                  <FaCircle className="text-emerald-400" /> Stop Ent. Speed
                   Logging
                 </button>
               )}

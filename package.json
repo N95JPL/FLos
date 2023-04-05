@@ -1,6 +1,9 @@
 {
   "name": "flos",
   "version": "0.1.0",
+  "engines": {
+    "node": "19.8.1"
+  },
   "private": true,
   "main": "public/electron.js",
   "homepage": "./",
@@ -19,7 +22,6 @@
     "electron-is-dev": "^2.0.0",
     "fast-xml-parser": "^4.0.12",
     "immer": "^9.0.17",
-    "prebuild": "^11.0.4",
     "react": "^18.2.0",
     "react-color": "^2.19.3",
     "react-d3-speedometer": "^2.1.0-rc.0",
@@ -29,7 +31,7 @@
     "react-scripts": "^5.1.0-next.14",
     "react-transition-group": "^4.4.5",
     "recharts": "^2.3.2",
-    "socketcan": "^4.0.1",
+    "socketcan": "^4.0.3",
     "tw-elements": "^1.0.0-alpha13",
     "xml2json": "^0.12.0",
     "zustand": "^4.2.0"
@@ -47,9 +49,9 @@
     "@testing-library/user-event": "^14.4.3",
     "ajv": "^8.11.2",
     "autoprefixer": "^10.4.13",
-    "concurrently": "^7.6.0",
-    "electron": "^22.0.0",
-    "electron-builder": "^24.0.0-alpha.4",
+    "concurrently": "^8.0.1",
+    "electron": "^24.0.0",
+    "electron-builder": "^23.6.0",
     "eslint": "^8.31.0",
     "eslint-auto-fix": "^1.0.4",
     "eslint-config-prettier": "^8.6.0",
@@ -58,7 +60,7 @@
     "eslint-plugin-n": "^15.6.0",
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.31.11",
-    "eslint-plugin-react-hoagoks": "^4.6.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
     "postcss": "^8.4.20",
     "postcss-loader": "^7.0.2",
     "prettier": "^2.8.1",
@@ -76,15 +78,14 @@
     "electron-pack": "electron-builder build",
     "electron-build": "electron-rebuild -f -a x64 && electron-builder build --linux AppImage --x64",
     "preelectron-build": "npm run build",
-    "preelectron-pack": "npm run build",
-    "postinstall": "install-app-deps",
+    "postinstall": "electron-builder install-app-deps",
     "dist": "npm run build && build --publish onTagOrDraft",
     "rebuild": "electron-rebuild -f",
     "buildAll": "npm run linux64-build && npm run pi32-build && npm run pi64-build",
-    "linux64-build": "electron-rebuild -f -a x64 && electron-builder build --linux deb --x64",
-    "pi32-build": "electron-rebuild -f -a armv7l && electron-builder --linux AppImage --armv7l",
-    "pi64-build": "electron-rebuild -f -a arm64 && electron-builder build --linux AppImage --arm64",
-    "pretty": "prettier --write \"./**/*/*/*.{js,jsx,json,xml}\"",
+    "linux64-build": "electron-builder build --linux deb --x64",
+    "pi32-build": "electron-builder --linux AppImage --armv7l",
+    "pi64-build": "electron-builder build --linux AppImage --arm64",
+    "pretty": "prettier --write \"./**/*/*/*.{js,jsx,json,xml}\""
   },
   "eslintConfig": {
     "extends": [
@@ -135,10 +136,6 @@
       "buildResources": "./build"
     },
     "linux": {
-      "arch": [
-        "armv7l",
-        "arm64"
-      ],
       "target": [
         "AppImage"
       ],

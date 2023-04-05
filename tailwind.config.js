@@ -43,7 +43,6 @@ module.exports = {
     require("@tailwindcss/typography"),
     require("@tailwindcss/container-queries"),
     require("@tailwindcss/aspect-ratio"),
-    require("@tailwindcss/line-clamp"),
     require("tailwind-safelist-generator")({
       patterns: ["from-{colors}", "to-{colors}"],
     }),

@@ -100,6 +100,6 @@ function parseMessage(input) {
       entertainmentBus.text = stationText;
     }
   }
-  console.log("Station: " + entertainmentBus.fmStation + ":" + entertainmentBus.dabStation + " Block: " + entertainmentBus.block + " Text: " + entertainmentBus.text)
+  //console.log("Station: " + entertainmentBus.fmStation + ":" + entertainmentBus.dabStation + " Block: " + entertainmentBus.block + " Text: " + entertainmentBus.text)
 }
 module.exports = eb692;
