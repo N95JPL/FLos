@@ -1,7 +1,7 @@
 import { FaCar, FaPhoneAlt, FaCog } from "react-icons/fa";
 import { GiRadioTower } from "react-icons/gi";
 import { BsSnow } from "react-icons/bs";
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
 import { theme } from "../Stores/theme";
 import { time, vehicle } from "../Stores/mediumSpeed";
@@ -64,6 +64,7 @@ function Nav() {
       <div className={`${volumeChange ? "" : "hidden"} fade-in bg-gray-500 rounded-3xl transition-all z-20 fixed h-[400px] top-[40px] w-[700px] left-[50px]`}>
         <div className="align-top h-1/4 text-center text-white text-2xl">Beep Boop - Volume Change</div>
         <div className="flex align-middle items-center justify-center h-1/2 text-center text-8xl text-white">
+          <VolumeControl volumes={volume} />
           {volume}
         </div>
       </div>
@@ -167,3 +168,100 @@ function FirstTimeSetup() {
     </>
   );
 }
+
+const VolumeControl = ({ volumes }) => {
+
+  var level = Math.ceil(volumes / 6);
+
+  var isMuted = volumes == 0;
+
+  return (
+    <svg viewBox="0 0 100 77" width="150" height="115.5">
+      <path
+        id="arcSmB5"
+        class="volElem"
+        stroke="#9e7818"
+        d="m 80.983248,64.963577 c 9.12384,-5.39136 15.34464,-15.34464 15.34464,-26.54208 0,-11.19744 -6.2208,-21.35808 -15.34464,-26.54208"
+        opacity={isMuted ? 0 : 0.4}
+      />
+      <path
+        id="arcSmF5"
+        opacity={isMuted ? 0 : level >= 5 ? 1 : 0}
+        class="volElem"
+        stroke="#f4af0a"
+        d="m 81.167453,65.022455 c 9.12384,-5.39136 15.34464,-15.34464 15.34464,-26.54208 0,-11.197439 -6.2208,-21.35808 -15.34464,-26.54208"
+      />
+      <path
+        id="arcSmB4"
+        class="volElem"
+        stroke="#9e7818"
+        d="m 74.219707,60.5397 c 7.6032,-4.4928 12.7872,-12.7872 12.7872,-22.1184 0,-9.3312 -5.184,-17.7984 -12.7872,-22.1184"
+        opacity={isMuted ? 0 : 0.4}
+      />
+      <path
+        id="arcSmF4"
+        opacity={isMuted ? 0 : level >= 4 ? 1 : 0}
+        class="volElem"
+        stroke="#f4af0a"
+        d="m 74.420266,60.608256 c 7.6032,-4.4928 12.7872,-12.7872 12.7872,-22.1184 0,-9.331199 -5.184,-17.7984 -12.7872,-22.1184"
+      />
+      <path
+        id="arcSmB3"
+        class="volElem"
+        stroke="#9e7818"
+        d="m 67.306684,56.920972 c 6.336,-3.744 10.656,-10.656 10.656,-18.432 0,-7.776 -4.32,-14.832 -10.656,-18.432"
+        opacity={isMuted ? 0 : 0.4}
+      />
+      <path
+        id="arcSmF3"
+        opacity={isMuted ? 0 : level >= 3 ? 1 : 0}
+        class="volElem"
+        stroke="#f4af0a"
+        d="m 67.424363,57.008643 c 6.336,-3.744 10.656,-10.656 10.656,-18.432 0,-7.775999 -4.32,-14.832 -10.656,-18.432"
+      />
+      <path
+        id="arcSmB2"
+        class="volElem"
+        stroke="#9e7818"
+        d="m 60.23315,53.873683 c 5.28,-3.12 8.88,-8.88 8.88,-15.36 0,-6.48 -3.6,-12.36 -8.88,-15.36"
+        opacity={isMuted ? 0 : 0.4}
+      />
+      <path
+        id="arcSmF2"
+        opacity={isMuted ? 0 : level >= 2 ? 1 : 0}
+        class="volElem"
+        stroke="#f4af0a"
+        d="m 60.270944,53.888117 c 5.28,-3.12 8.88,-8.88 8.88,-15.36 0,-6.479999 -3.6,-12.36 -8.88,-15.36"
+      />
+      <path
+        id="arcSmB1"
+        class="volElem"
+        stroke="#9e7818"
+        d="m 53,51.3 c 4.4,-2.6 7.4,-7.4 7.4,-12.8 0,-5.4 -3,-10.3 -7.4,-12.8"
+        opacity={isMuted ? 0 : 0.4}
+      />
+      <path
+        id="arcSmF1"
+        opacity={isMuted ? 0 : level >= 1 ? 1 : 0}
+        class="volElem"
+        stroke="#f4af0a"
+        d="m 53,51.3 c 4.4,-2.6 7.4,-7.4 7.4,-12.8 0,-5.4 -3,-10.3 -7.4,-12.8"
+      />
+      <path
+        id="speakB"
+        class="volElem"
+        stroke="#9e7818"
+        d="M 51.2,18.5 V 5.5 C 51.2,3.4 48.7,2.2 47.1,3.6 L 21.8,25.9 c -1.4,1.2 -3.1,1.9 -4.9,1.9 H 8.2 C 5.9,27.8 4,29.7 4,32 v 13.3 c 0,2.3 1.9,4.2 4.2,4.2 H 17 c 1.9,0 3.7,0.7 5.1,1.9 l 25,22 c 1.6,1.4 4.1,0.3 4.1,-1.9 v -13"
+        opacity="0.4" />
+      <path
+        id="speakF"
+        opacity={isMuted ? 0 : level >= 1 ? 1 : 0}
+        class="volElem"
+        stroke="#f4af0a"
+        d="M 51.2,18.5 V 5.5 C 51.2,3.4 48.7,2.2 47.1,3.6 L 21.8,25.9 c -1.4,1.2 -3.1,1.9 -4.9,1.9 H 8.2 C 5.9,27.8 4,29.7 4,32 v 13.3 c 0,2.3 1.9,4.2 4.2,4.2 H 17 c 1.9,0 3.7,0.7 5.1,1.9 l 25,22 c 1.6,1.4 4.1,0.3 4.1,-1.9 v -13" />
+      <line id="crossLtRb" class="volElem" opacity={isMuted ? 0.6 : 0} stroke="#CE9610" x1="43.8" y1="29.2" x2="62.6" y2="47.8" />
+      <line id="crossLbRt" class="volElem" opacity={isMuted ? 0.6 : 0} stroke="#CE9610" x1="62.6" y1="29.2" x2="43.8" y2="47.8" />
+    </svg>
+
+  );
+};

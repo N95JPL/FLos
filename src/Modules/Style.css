@@ -78,6 +78,51 @@ code {
     monospace;
 }
 
+$bgc: #21282C;
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.speaker {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  width: 10rem;
+  height: 7.7rem;
+}
+
+.vlCtrl {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 150%);
+  height: 2.7rem;
+  width: 28rem;
+}
+
+svg,
+path {
+  user-select: none;
+}
+
+#ctrlCirce {
+  cursor: default;
+}
+
+.volElem {
+  fill: none;
+  stroke-width: 5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 10;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
