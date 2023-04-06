@@ -40,6 +40,11 @@ function Nav() {
       path: "/carplay",
     },
     {
+      name: "Off-Road",
+      icon: <FaCar />,
+      path: "/vehicle/dashboard",
+    },
+    {
       name: "Vehicle",
       icon: <FaCar />,
       path: "/vehicle/dashboard",
@@ -71,7 +76,7 @@ function Nav() {
       <div className={`${gear === "R" ? "blur-sm" : ""} transition-all`}>
         {location.pathname !== "/carplay" ? (
           <><div
-            className={`NAVBAR-CONTAINER w-[100px] fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex h-screen absolute z-10 left-0 transition`}
+            className={`NAVBAR-CONTAINER w-[100px] fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex h-full absolute z-10 left-0 transition`}
           >
             <div className="flex absolute justify-center items-center w-full">
               <div className="py-0.75 m-2 text-xl font-bold">
@@ -136,7 +141,7 @@ function FirstTimeSetup() {
     <>
       <div
         id="firstTime"
-        className="firstTime h-screen fade-in setup w-screen fixed items-center justify-center p-10"
+        className="firstTime h-full fade-in setup w-screen fixed items-center justify-center p-10"
       >
         <div className="setup fade-in w-full h-[25%] text-5xl flex items-center justify-center p-10">
           <div>First Time Setup</div>

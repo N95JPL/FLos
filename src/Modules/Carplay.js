@@ -5,7 +5,7 @@ import "./Style.css";
 
 function Carplay() {
   return (
-    <div className="h-screen flex items-center justify-center p-10">
+    <div className="h-full flex items-center justify-center p-10">
       <div className="max-w-4xl w-full flex flex-col">
         <h1 className="text-2xl font-extrabold tracking-tight">CarPlay!</h1>
         <p className="text-sm mb-2.5">Lol, this will get done soon!</p>

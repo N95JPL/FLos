@@ -89,7 +89,7 @@ function AppSettings() {
     });
   }, [brightnessAuto, brightnessOffset]);
   return (
-    <div className="flex h-screen w-[695px] justify-center absolute">
+    <div className="flex h-full w-[695px] justify-center absolute">
       <div className="flex h-10 w-full absolute">
         <SettingsNav />
       </div>

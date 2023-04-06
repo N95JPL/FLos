@@ -17,7 +17,7 @@ const parseEntertainmentBus = require("./resources/entertainmentBus");
 let msCanDump = "";
 let hsCanDump = "";
 
-let changedMedium = {
+let changedMedium = { // Best not to change this
   parking: {},
   time: {},
   temperature: {},
@@ -47,7 +47,7 @@ module.exports = function (window, dev) {
     can1 = can.createRawChannel("can1", true);
     console.log("CAN1 Started");
   } catch {
-    exec(
+    exec( // Create virtual can interfaces
       "sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e"
     );
     can0 = can.createRawChannel("can0", true);
@@ -63,14 +63,14 @@ module.exports = function (window, dev) {
     // console.log(vehicleInfo);
   });
   // sudo modprobe vcan && sudo ip link add dev can0 type vcan && sudo ip link add dev can1 type vcan && sudo ip link set up can0 && sudo ip link set up can1 && sudo modprobe can-gw && sudo cangw -A -s can0 -d can1 -e && sudo cangw -A -s can1 -d can0 -e
-  can0.addListener("onMessage", function (msg) {
+  can0.addListener("onMessage", function (msg) { // Medium Speed Bus
     if (canRecordingMS) {
       canDataMS +=
         Date.now() + ", ," + msg.id + "," + msg.data.toString("hex") + "\n";
       canDataMSval++;
     }
 
-    if (canDataMSval === 400) {
+    if (canDataMSval === 400) { // Save every 400 messages
       fs.appendFile(`canBusMS-${canDataMSFile}.csv`, canDataMS, function (err) {
         if (err) throw err;
       });
@@ -79,13 +79,13 @@ module.exports = function (window, dev) {
     }
     parseMediumSpeed(msg, window);
   });
-  can1.addListener("onMessage", function (msg) {
+  can1.addListener("onMessage", function (msg) { // Ent. Speed Bus
     if (canRecordingHS) {
       canDataHS +=
         Date.now() + ", ," + msg.id + "," + msg.data.toString("hex") + "\n";
       canDataHSval++;
     }
-    if (canDataHSval === 400) {
+    if (canDataHSval === 400) { // Save every 400 messages
       fs.appendFile(`canBusHS-${canDataHSFile}.csv`, canDataHS, function (err) {
         if (err) throw err;
       });
@@ -222,7 +222,7 @@ module.exports = function (window, dev) {
     let send = false;
     for (const key in entertainmentBus) {
       if (entertainmentBus[key] !== entertainmentBusPrev[key]) {
-        if (key != "volumeControl") {
+        if (key != "volumeControl") { // Volume Control is a special case
           send = true;
           changedEntertainmentBus[`${key}`] = entertainmentBus[key];
           entertainmentBusPrev[`${key}`] = entertainmentBus[key];

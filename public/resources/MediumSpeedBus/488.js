@@ -1,6 +1,8 @@
 const { Map } = require("../CanMap/canMap");
 const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
 
+
+// Need to confirm this actually works
 const id = Map;
 function ms488(msg) {
   const strId = msg.id;

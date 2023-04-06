@@ -5,8 +5,8 @@ const id = Map;
 function ms1249(msg) {
   const strId = msg.id;
   const arr = [...msg.data];
-  var temp = (arr[1] / 2) - 57
-  temp = temp.toFixed(1);
+  var temp = (arr[1] / 2) - 57 // This is weird.. but eh it works
+  temp = temp.toFixed(1); // Formatting
   mediumSpeed.temperature.interior = temp;
 }
 

@@ -18,7 +18,7 @@ function Entertainment() {
 
   return (
     <>
-      <div id="outlet" className="fade-in px-5 py-5 w-full h-screen transition-all">
+      <div id="outlet" className="fade-in px-5 py-5 w-full h-full transition-all">
         {sourceSel == "Radio" ? <Radio /> : sourceSel == "Bluetooth" ? <Bluetooth /> : sourceSel == "Aux" ? <Aux /> : <Unknown />}
         <div className="fixed bottom-0 left-[100px] justify-between w-[700px]">
           <div className="grid grid-cols-1 justify-evenly h-full w-full text-center">

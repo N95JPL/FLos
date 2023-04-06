@@ -2,6 +2,8 @@ const { VINDecode } = require("../JSON/VINDecode");
 const { Vehicle_Manifest } = require("../JSON/Vehicle_Manifest");
 const { vehicleInfo } = require("../VariableMaps/VehicleInfoVar");
 
+// Mind bogglingly long array of all the possible CCFs
+
 var arrBuilder = [
   "-",
   "-",
@@ -57,6 +59,8 @@ var setup = false;
 // vehicleInfo.transmission = "-"
 // vehicleInfo.engine = "-"
 
+
+
 function ms1025(msg, window) {
   if (!setup) {
     if (arrBuilder.includes("-")) {
@@ -81,21 +85,21 @@ function ms1025(msg, window) {
         console.log("All CCF data received");
         CCF = arrBuilder.join("");
         CCF = CCF.replaceAll(",", "");
-        CCFString = hex2a(CCF);
-        vehicleInfo.VIN = CCFString.substring(3, 20);
+        CCFString = hex2a(CCF);  //Converts the CCF to a string
+        vehicleInfo.VIN = CCFString.substring(3, 20); //VIN is 17 characters long
         console.log("This vehicles VIN: " + vehicleInfo.VIN);
         if (vehicleInfo.VIN.length === 17) {
           console.log("VIN is valid");
           vehicleInfo.setupInfoLine = "Decoding VIN: Fetching Model ID";
-          decodeModelID(vehicleInfo.VIN);
+          decodeModelID(vehicleInfo.VIN); //This is where the magic happens
           if (is_modelid) {
             console.log("Model ID: " + vehicleInfo.Model_id)
             vehicleInfo.setupInfoLine = "Decoding VIN: Fetching Model";
-            decodeModel(vehicleInfo.VIN);
+            decodeModel(vehicleInfo.VIN); //This is where the magic happens
             if (is_model) {
               vehicleInfo.setupInfoLine =
                 "Decoding VIN: Fetching CCF ID and As Built";
-              decodeCCFID();
+              decodeCCFID(); //This is where the magic happens
               if (is_ccfid) {
                 vehicleInfo.setupInfoLine =
                   "Decoding CCF: Well... On day I we will decode the CCF";
