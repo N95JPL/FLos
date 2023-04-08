@@ -62,7 +62,7 @@ function Nav() {
   const volume = entertainmentBus((state) => state.volume)
 
   return (
-    <div>
+    <div className="h-screen w-screen">
       <div className={`${gear === "R" ? "" : "hidden"} fade-in bg-slate-300 transition-all z-20 absolute h-[400px] top-[40px] w-[700px] left-[50px]`}>
         <Reversing />
       </div>
@@ -75,38 +75,38 @@ function Nav() {
       </div>
       <div className={`${gear === "R" ? "blur-sm" : ""} transition-all`}>
         {location.pathname !== "/carplay" ? (
-          <><div
-            className={`NAVBAR-CONTAINER w-[100px] fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex h-full absolute z-10 left-0 transition`}
-          >
-            <div className="flex absolute justify-center items-center w-full">
-              <div className="py-0.75 m-2 text-xl font-bold">
-                {hour}:{minute}
+          <>
+            <div className={`NAVBAR-CONTAINER w-[10%] h-[100%] fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex absolute z-10 left-0 transition`}>
+              <div className="flex absolute justify-center h-[10%] items-center w-full">
+                <div className="py-0.75 m-2 text-xl font-bold">
+                  {hour}:{minute}
+                </div>
+              </div>
+              <div className="NAVBAR-ITEMS flex absolute flex-col justify-between top-[10%] items-center w-full h-[80%]">
+                {menuItems.map((m) => {
+                  let x = location.pathname.split("/");
+                  let y = m.path.split("/");
+                  return (
+                    <Link
+                      to={m.path}
+                      className={x[1] === y[1]
+                        ? "SINGLE-NAVBAR-ITEM bg-black bg-opacity-50 text-4xl text-white active:text-gray-100 p-4 rounded-lg active:bg-opacity-75 transition active:scale-95"
+                        : "SINGLE-NAVBAR-ITEM text-4xl text-white active:text-gray-100 bg-black bg-opacity-20 p-4 rounded-lg active:bg-opacity-40 transition active:scale-95"}
+                    >
+                      {m.icon}
+                    </Link>
+                  );
+                })}
               </div>
             </div>
-            <div className="NAVBAR-ITEMS flex flex-col justify-between items-center py-10 w-full h-full">
-              {menuItems.map((m) => {
-                let x = location.pathname.split("/");
-                let y = m.path.split("/");
-                return (
-                  <Link
-                    to={m.path}
-                    className={x[1] === y[1]
-                      ? "SINGLE-NAVBAR-ITEM bg-black bg-opacity-50 text-4xl text-white active:text-gray-100 p-4 mx-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
-                      : "SINGLE-NAVBAR-ITEM text-4xl text-white active:text-gray-100 bg-black bg-opacity-20 p-4 mx-5 rounded-lg active:bg-opacity-40 transition active:scale-95"}
-                  >
-                    {m.icon}
-                  </Link>
-                );
-              })}
-            </div>
-          </div><div
-            id="outlet"
-            className="fade-in transition-all absolute w-[700px] left-[100px]"
-          >
+            <div
+              id="outlet"
+              className="fade-in transition-all inline-flex w-[90%] h-[100%]"
+            >
               <Outlet />
             </div></>) : (<><div
               id="outlet"
-              className="fade-in transition-all absolute w-screen"
+              className="fade-in transition-all absolute h-[100%] w-[100%]"
             >
               <Outlet />
             </div></>)}
@@ -141,7 +141,7 @@ function FirstTimeSetup() {
     <>
       <div
         id="firstTime"
-        className="firstTime h-full fade-in setup w-screen fixed items-center justify-center p-10"
+        className="firstTime h-screen fade-in setup w-screen fixed items-center justify-center p-10"
       >
         <div className="setup fade-in w-full h-[25%] text-5xl flex items-center justify-center p-10">
           <div>First Time Setup</div>

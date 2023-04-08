@@ -18,7 +18,7 @@ function VehicleDashboard() {
   //const driverTempVar = mediumSpeed((state) => state.driver);
 
   return (
-    <div className="w-full h-full">
+    <div className="absolute w-[90%] h-[100%] left-[10%]">
       <div className="h-20 w-full">
         <VehicleNav />
       </div>

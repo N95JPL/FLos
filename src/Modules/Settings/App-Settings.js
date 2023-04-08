@@ -89,11 +89,11 @@ function AppSettings() {
     });
   }, [brightnessAuto, brightnessOffset]);
   return (
-    <div className="flex h-full w-[695px] justify-center absolute">
-      <div className="flex h-10 w-full absolute">
+    <div className="fade-in absolute w-[90%] h-[100%] left-[10%] justify-center">
+      <div className="justify-center h-[10%]">
         <SettingsNav />
       </div>
-      <div className="fade-in w-full items-center justify-center p-10 gap-5 flex-col flex">
+      <div className="fade-in absolute w-[100%] h-[80%] justify-center items-center p-10 gap-5 flex-col flex">
         <div className="flex flex-row gap-5 ">
           <button
             className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
@@ -120,7 +120,7 @@ function AppSettings() {
             label="Automatic Dimming"
           />
         </FormGroup>
-        <div className="w-[600px] left-[50px] top-[430px] place-self-center items-center justify-center absolute flex flex-col">
+        <div className="w-[80%] left-[10%] bottom-2 place-self-center items-center justify-center absolute flex flex-col">
           <Slider
             sx={{
               "& .MuiSlider-thumb": {

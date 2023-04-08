@@ -2,7 +2,7 @@ import React from "react";
 
 function Vehicle() {
   return (
-    <div className="h-full flex items-center justify-center p-10">
+    <div className="flex absolute grid-cols-6 w-[90%] h-[100%] left-[10%] top-0 justify-evenly text-center items-center">
       <div className="max-w-4xl w-full flex flex-col">
         <div>
           <div>

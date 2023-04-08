@@ -13,10 +13,10 @@ function Dev() {
   const setmsRecording = appInfo((state) => state.setmsRecording);
   const sethsRecording = appInfo((state) => state.sethsRecording);
   return (
-    <div className="h-full w-full fixed">
+    <div className="absolute h-[100%] w-[90%] left-[10%]">
       <div className="w-full">
-        <SettingsNav />
-      </div>
+        < SettingsNav />
+      </div >
       <div className="fade-in h-full flex w-full items-center justify-center p-10">
         <div className="max-w-4xl w-full flex flex-col">
           <div>
@@ -88,7 +88,7 @@ function Dev() {
           </div>
         </div>
       </div>
-    </div>
+    </div >
   );
 }
 export default Dev;

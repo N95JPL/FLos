@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.ef8d744e.css",
-    "main.js": "./static/js/main.ca23268a.js",
+    "main.css": "./static/css/main.b08289a7.css",
+    "main.js": "./static/js/main.3ac447a2.js",
     "static/media/ParkingSensors.svg": "./static/media/ParkingSensors.e01294d7e16648053a059ac409159fa7.svg",
     "static/media/LandRoverLogo.png": "./static/media/LandRoverLogo.1b888f2f7da7c31fd564.png",
     "index.html": "./index.html",
-    "main.ef8d744e.css.map": "./static/css/main.ef8d744e.css.map",
-    "main.ca23268a.js.map": "./static/js/main.ca23268a.js.map"
+    "main.b08289a7.css.map": "./static/css/main.b08289a7.css.map",
+    "main.3ac447a2.js.map": "./static/js/main.3ac447a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef8d744e.css",
-    "static/js/main.ca23268a.js"
+    "static/css/main.b08289a7.css",
+    "static/js/main.3ac447a2.js"
   ]
 }

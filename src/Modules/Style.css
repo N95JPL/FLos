@@ -9,7 +9,7 @@
 body {
   user-select: none;
   transition: all;
-  animation: fadeIn 3s;
+  animation: fadeIn 1s;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -25,21 +25,21 @@ body {
 #img {
   width: 400px;
   height: auto;
-  animation-duration: 2s;
+  animation-duration: 1s;
   animation-timing-function: ease-in-out;
   animation-fill-mode: forwards;
   animation-direction: alternate;
 }
 
 #setup {
-  animation-duration: 2s;
+  animation-duration: 1s;
   animation-timing-function: ease-in-out;
   animation-fill-mode: forwards;
   animation-direction: alternate;
 }
 
 #outlet {
-  animation-duration: 2s;
+  animation-duration: 1s;
   animation-timing-function: ease-in-out;
   animation-fill-mode: forwards;
   animation-direction: alternate;

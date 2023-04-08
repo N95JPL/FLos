@@ -40,7 +40,7 @@ function VehicleElectrical() {
   // const charging_current_graph = [{ name: 1, charging_current: 0 }, { name: 2, charging_current: 10 }, { name: 3, charging_current: 20 }, { name: 4, charging_current: 30 }]
   return (
     <>
-      <div className="w-full h-full">
+      <div className="absolute w-[90%] h-[100%] left-[10%]">
         <div className="h-20 w-full">
           <VehicleNav />
         </div>
@@ -51,41 +51,38 @@ function VehicleElectrical() {
           <div className="row-span-1 col-span-1">
             <p className="text-xl">Battery Voltage</p>
             <GiCarBattery
-              className={`w-full transition-all items-center justify-center text-8xl text-center ${
-                voltage > 12.8
+              className={`w-full transition-all items-center justify-center text-8xl text-center ${voltage > 12.8
                   ? `text-green-600`
                   : voltage > 11.6
-                  ? `text-yellow-600`
-                  : `text-red-600`
-              }`}
+                    ? `text-yellow-600`
+                    : `text-red-600`
+                }`}
             />
             <p className="text-xl">{voltage}V</p>
           </div>
           <div className="row-span-1 col-span-1">
             <p className="text-xl">Charging Current</p>
             <GiBatteryPack
-              className={`w-full transition-all items-center justify-center text-8xl text-center ${
-                charging_current > 15
+              className={`w-full transition-all items-center justify-center text-8xl text-center ${charging_current > 15
                   ? `text-green-600`
                   : charging_current > 0
-                  ? `text-yellow-600`
-                  : `text-red-600`
-              }`}
+                    ? `text-yellow-600`
+                    : `text-red-600`
+                }`}
             />
             <p className="text-xl">{charging_current}A</p>
           </div>
           <div className="row-span-1 col-span-1">
             <p className="text-xl">Alternator Current</p>
             <GiElectric
-              className={`w-full transition-all items-center justify-center text-8xl text-center ${
-                alternator > 160
+              className={`w-full transition-all items-center justify-center text-8xl text-center ${alternator > 160
                   ? `text-red-600`
                   : alternator
-                  ? `text-yellow-600`
-                  : alternator > 0
-                  ? `text-green-600`
-                  : `text-red-600`
-              }`}
+                    ? `text-yellow-600`
+                    : alternator > 0
+                      ? `text-green-600`
+                      : `text-red-600`
+                }`}
             />
             <p className="text-xl">{alternator}A</p>
           </div>

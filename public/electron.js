@@ -51,8 +51,8 @@ function createWindow() {
             : `file://${path.join(__dirname, "../build/index.html")}`
         );
         console.log(appPath);
-      }, 2000);
-    }, 3000);
+      }, 1000);
+    }, 1000);
   });
 }
 
