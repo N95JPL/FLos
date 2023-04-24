@@ -1,7 +1,7 @@
 How to install
 
 1) Make sure RPi is running latest version
-2) Install NodeJs: curl -sL https://deb.nodesource.com/setup_18.x | sudo bash -
+2) Install NodeJs: curl -sL https://deb.nodesource.com/setup_20.x | sudo bash -
 3) Install NodeJS: sudo apt install nodejs
 4) Install CanUtils: sudo apt-get -y install can-utils libsocketcan2 libsocketcan-dev
 5) Modify /boot/config.txt to include
