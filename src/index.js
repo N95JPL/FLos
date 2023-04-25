@@ -4,6 +4,7 @@ import React, { useEffect } from "react";
 import "./Modules/Style.css";
 import { HashRouter, Routes, Route, useNavigate } from "react-router-dom";
 import Layout from "./Modules/Layout";
+import Home from "./Modules/Home";
 import NoPage from "./Modules/NoPage";
 import Carplay from "./Modules/Carplay";
 import VehicleDashboard from "./Modules/Vehicle/Dashboard";
@@ -15,6 +16,7 @@ import { time, temperature, brightness, vehicle, parking } from "./Stores/medium
 import { vehicleInfo } from "./Stores/vehicleInfo";
 import Reversing from "./Modules/Reversing";
 import { entertainmentBus } from "./Stores/entertainmentBus";
+import Entertainment from "./Modules/Entertainment";
 
 // eslint-disable-next-line no-unused-vars
 let setup = false;
@@ -33,7 +35,8 @@ export default function App() {
     <HashRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
-          <Route index element={<Radio />} />
+          <Route index element={<Home />} />
+          <Route path="/entertainment" element={<Entertainment />} />
           <Route path="/vehicle/dashboard" element={<VehicleDashboard />} />
           <Route path="/vehicle/electrical" element={<VehicleElectrical />} />
           <Route path="/settings/app" element={<AppSettings />} />

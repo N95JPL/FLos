@@ -4,7 +4,7 @@ import { BsSnow } from "react-icons/bs";
 import React, { useState, useEffect } from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
 import { theme } from "../Stores/theme";
-import { time, vehicle, temperature } from "../Stores/mediumSpeed";
+import { time, vehicle } from "../Stores/mediumSpeed";
 import { vehicleInfo } from "../Stores/vehicleInfo";
 import { entertainmentBus } from "../Stores/entertainmentBus";
 import "./Style.css";
@@ -27,19 +27,12 @@ function Nav() {
   const primaryColorSet = "from-" + primaryColor + "-600";
   const secondaryColor = theme((state) => state.secondaryColor);
   const secondaryColorSet = "to-" + secondaryColor + "-600";
-  const interiorTempVar = temperature((state) => state.interior);
-  const exteriorTempVar = temperature((state) => state.exterior);
   const location = useLocation();
   const menuItems = [
     {
-      name: "Home",
-      icon: <FaCog />,
-      path: "/",
-    },
-    {
       name: "Radio",
       icon: <GiRadioTower />,
-      path: "/entertainment",
+      path: "/",
     },
     {
       name: "Carplay",
@@ -80,45 +73,43 @@ function Nav() {
           {volume}
         </div>
       </div>
-      <div className={`${gear === "R" ? "blur-sm" : ""} h-full w-full transition-all my-5`}>
-        <div className={`absolute top-0 justify-center grid grid-cols-3 fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} text-center w-[100%] h-[10%]`}>
-          {/* <div className="h-[100%] grid grid-cols-3 justify-center text-center bg-gradient-to-br from-gray-600 to-gray-800 bg-opacity-40 text-white"> */}
-          <div className="h-[100%] w-[100%] grid justify-center text-center items-center text-lg"></div>
-          <div className="h-[100%] w-[100%] grid justify-center text-center items-center text-xl font-bold">{hour}:{minute}</div>
-          <div className="h-[100%] w-[100%] grid justify-center text-center items-center text-lg"></div>
-          {/* </div> */}
-        </div>
+      <div className={`${gear === "R" ? "blur-sm" : ""} transition-all`}>
         {location.pathname !== "/carplay" ? (
           <>
+            <div className={`NAVBAR-CONTAINER w-[10%] h-[100%] fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} inline-flex absolute z-10 left-0 transition`}>
+              <div className="flex absolute justify-center h-[10%] items-center w-full">
+                <div className="py-0.75 m-2 text-xl font-bold">
+                  {hour}:{minute}
+                </div>
+              </div>
+              <div className="NAVBAR-ITEMS flex absolute flex-col justify-between top-[10%] items-center w-full h-[80%]">
+                {menuItems.map((m) => {
+                  let x = location.pathname.split("/");
+                  let y = m.path.split("/");
+                  return (
+                    <Link
+                      to={m.path}
+                      className={x[1] === y[1]
+                        ? "SINGLE-NAVBAR-ITEM bg-black bg-opacity-50 text-4xl text-white active:text-gray-100 p-4 rounded-lg active:bg-opacity-75 transition active:scale-95"
+                        : "SINGLE-NAVBAR-ITEM text-4xl text-white active:text-gray-100 bg-black bg-opacity-20 p-4 rounded-lg active:bg-opacity-40 transition active:scale-95"}
+                    >
+                      {m.icon}
+                    </Link>
+                  );
+                })}
+              </div>
+            </div>
             <div
               id="outlet"
-              className=""
+              className="fade-in transition-all inline-flex w-[90%] h-[100%]"
             >
               <Outlet />
             </div></>) : (<><div
               id="outlet"
-              className="transition-all absolute h-[100%] w-[100%]"
+              className="fade-in transition-all absolute h-[100%] w-[100%]"
             >
               <Outlet />
             </div></>)}
-        <div className={`NAVBAR-CONTAINER w-[98%] h-[9%] shadow-lg inline-flex outline outline-1 outline-gray-600 rounded-lg absolute z-10 bottom-[1%] left-[1%] transition`}>
-          <div className="NAVBAR-ITEMS flex absolute flex-row justify-between top-[10%] px-10 items-center w-[100%] h-[80%]">
-            {menuItems.map((m) => {
-              let x = location.pathname.split("/");
-              let y = m.path.split("/");
-              return (
-                <Link
-                  to={m.path}
-                  className={x[1] === y[1]
-                    ? "SINGLE-NAVBAR-ITEM bg-black bg-opacity-50 text-3xl text-white active:text-gray-100 px-5 py-1 rounded-lg active:bg-opacity-75 transition active:scale-95"
-                    : "SINGLE-NAVBAR-ITEM text-3xl text-white active:text-gray-100 bg-black bg-opacity-20 px-5 py-1 rounded-lg active:bg-opacity-40 transition active:scale-95"}
-                >
-                  {m.icon}
-                </Link>
-              );
-            })}
-          </div>
-        </div>
       </div>
     </div>
   );

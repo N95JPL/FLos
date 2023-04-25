@@ -6,10 +6,16 @@
   text-align: center;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all;
+}
+
 body {
   user-select: none;
   transition: all;
-  animation: fadeIn 1s;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -25,43 +31,55 @@ body {
 #img {
   width: 400px;
   height: auto;
-  animation-duration: 1s;
-  animation-timing-function: ease-in-out;
-  animation-fill-mode: forwards;
-  animation-direction: alternate;
 }
 
-#setup {
-  animation-duration: 1s;
-  animation-timing-function: ease-in-out;
-  animation-fill-mode: forwards;
-  animation-direction: alternate;
-}
+#setup {}
 
 #outlet {
-  animation-duration: 1s;
-  animation-timing-function: ease-in-out;
-  animation-fill-mode: forwards;
-  animation-direction: alternate;
+  position: absolute;
+  flex: auto;
+  height: 100%;
+  width: 100%;
+  transition: all;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+#outlet>dev {
+  margin: auto;
 }
 
 .fadeIn {
   animation-name: fadeIn;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  animation-direction: alternate;
 }
 
 .fadeOut {
   animation-name: fadeOut;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  animation-direction: alternate;
 }
 
 @keyframes fadeIn {
   0% {
+    transition: all;
     opacity: 0;
   }
 
   100% {
+    transition: all;
     opacity: 1;
   }
 }
+
 
 @keyframes fadeOut {
   0% {
@@ -76,16 +94,6 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
-}
-
-$bgc: #21282C;
-
-*,
-*:before,
-*:after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 .speaker {

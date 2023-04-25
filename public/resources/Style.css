@@ -1,9 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#root {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+}
+
+#root>img {
+  margin: auto;
+}
+
 .App {
   text-align: center;
 }
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -21,7 +37,9 @@ body {
   justify-content: center;
   display: flex;
 }
+
 #img {
+  margin: auto;
   width: 400px;
   height: auto;
   animation-duration: 2s;
@@ -29,32 +47,40 @@ body {
   animation-fill-mode: forwards;
   animation-direction: alternate;
 }
+
 .fadeIn {
   animation-name: fadeIn;
 }
+
 .fadeOut {
   animation-name: fadeOut;
 }
+
 @keyframes fadeIn {
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
 }
+
 @keyframes fadeOut {
   0% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
   }
 }
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

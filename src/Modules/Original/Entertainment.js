@@ -18,8 +18,14 @@ function Entertainment() {
 
   return (
     <>
-      <div id="outlet" className="fadeIn">
+      <div id="outlet" className="flex h-[100%] w-[90%] left-[10%] fade-in px-5 py-5 transition-all">
         {sourceSel == "Radio" ? <Radio /> : sourceSel == "Bluetooth" ? <Bluetooth /> : sourceSel == "Aux" ? <Aux /> : <Unknown />}
+        <div className="fixed bottom-0 left-[10%] justify-center text-center w-[90%] h-[10%]">
+          <div className="h-[100%] grid grid-cols-2 justify-center text-center bg-gradient-to-br from-gray-600 to-gray-800 bg-opacity-40 text-white">
+            <div className="h-[100%] w-[100%] grid justify-center text-center items-center text-lg">Interior - {interiorTempVar}°C</div>
+            <div className="h-[100%] w-[100%] grid justify-center text-center items-center text-lg">Exterior - {exteriorTempVar}°C</div>
+          </div>
+        </div>
       </div>
     </>
   )
@@ -56,34 +62,32 @@ function Radio() {
 
   return (
     <>
-      <div className="absolute flex w-full h-full">
-        <div className="flex absolute grid-cols-6 my-2 w-[100%] h-[15%] justify-evenly text-center items-center">
-          {/* Radio Source */}
-          {menuItems.map((m) => {
-            let x = source;
-            let y = m.name;
-            return (
-              <div
-                className={`${x === y
-                  ? "text-blue-500 text-3xl"
-                  : "text-white text-2xl opacity-50"} h-max`}
-              >
-                {m.name}
-              </div>
-            );
-          })}
-        </div>
-        <div className="absolute grid grid-rows-2 h-[15%] top-[15%] justify-center w-[100%] text-center">
-          <div className="grid row-span-1 justify-evenly w-[100%] text-center text-xl">
-            {/* Radio Station */}
-            <p>{source == "DAB1" || source == "DAB2" ? dabStation : source == "FM" || source == "FM-AST" ? fmStation : "??"}</p>
-          </div>
-          <div className="grid row-span-1 justify-evenly w-[100%] text-center text-xl">
-            {/* Radio Text */}
-            <p>{text}</p>
-          </div>
-        </div >
+      <div className="flex absolute grid-cols-6 w-[90%] h-[15%] left-[10%] top-0 justify-evenly text-center items-center">
+        {/* Radio Source */}
+        {menuItems.map((m) => {
+          let x = source;
+          let y = m.name;
+          return (
+            <div
+              className={`${x === y
+                ? "text-blue-500 text-3xl"
+                : "text-white text-2xl opacity-50"} h-max`}
+            >
+              {m.name}
+            </div>
+          );
+        })}
       </div>
+      <div className="absolute grid grid-rows-2 justify-center w-[90%] top-[15%] h-[30%] left-[10%] text-center">
+        <div className="grid justify-evenly w-[100%] text-center text-xl">
+          {/* Radio Station */}
+          <p>{source == "DAB1" || source == "DAB2" ? dabStation : source == "FM" || source == "FM-AST" ? fmStation : "??"}</p>
+        </div>
+        <div className="grid justify-evenly w-[100%] text-center text-xl">
+          {/* Radio Text */}
+          <p>{text}</p>
+        </div>
+      </div >
     </>
   );
 }
@@ -92,7 +96,7 @@ function Bluetooth() {
 
   return (
     <>
-      <div className="fadeIn grid grid-rows-2 justify-evenly h-full w-full text-center">
+      <div className="grid grid-rows-2 justify-evenly h-full w-full text-center">
         <div className="grid grid-cols-1 justify-evenly h-full w-full text-center">
           {/* Bluetooth Station */}
           <p>Bluetooth</p>
@@ -110,7 +114,7 @@ function Aux() {
 
   return (
     <>
-      <div className="fadeIn grid grid-rows-2 justify-evenly h-full w-full text-center">
+      <div className="grid grid-rows-2 justify-evenly h-full w-full text-center">
         <div className="grid grid-cols-1 justify-evenly h-full w-full text-center">
           {/* Aux Station */}
           <p>Aux</p>
