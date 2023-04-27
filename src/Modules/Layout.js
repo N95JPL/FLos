@@ -70,17 +70,17 @@ function Nav() {
 
   return (
     <div className="h-screen w-screen">
-      <div className={`${gear === "R" ? "" : "hidden"} fade-in bg-slate-300 transition-all z-20 absolute h-[400px] top-[40px] w-[700px] left-[50px]`}>
+      <div className={`${gear === "R" ? "" : "hidden"} fade-in bg-slate-300 transition-all z-20 absolute h-[90%] w-[90%] left-[5%] top-[5%]`}>
         <Reversing />
       </div>
-      <div className={`${volumeChange ? "" : "hidden"} fade-in bg-gray-500 rounded-3xl transition-all z-20 fixed h-[400px] top-[40px] w-[700px] left-[50px]`}>
+      <div className={`${volumeChange ? "" : "hidden"} fade-in bg-gray-500 rounded-3xl transition-all z-20 absolute align-middle justify-center items-center m-auto h-[75%] w-[75%] left-[12.5%] top-[12.5%]`}>
         <div className="align-top h-1/4 text-center text-white text-2xl">Beep Boop - Volume Change</div>
         <div className="flex align-middle items-center justify-center h-1/2 text-center text-8xl text-white">
           <VolumeControl volumes={volume} />
           {volume}
         </div>
       </div>
-      <div className={`${gear === "R" ? "blur-sm" : ""} h-full w-full transition-all my-5`}>
+      <div className={`${gear === "R" || volumeChange ? "blur-sm" : ""} h-full w-full transition-all`}>
         <div className={`absolute top-0 justify-center grid grid-cols-3 fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} text-center w-[100%] h-[10%]`}>
           {/* <div className="h-[100%] grid grid-cols-3 justify-center text-center bg-gradient-to-br from-gray-600 to-gray-800 bg-opacity-40 text-white"> */}
           <div className="h-[100%] w-[100%] grid justify-center text-center items-center text-lg"></div>
