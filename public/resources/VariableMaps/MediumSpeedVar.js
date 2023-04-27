@@ -19,6 +19,7 @@ let mediumSpeed = {
   temperature: {
     interior: "--",
     exterior: "--",
+    coolant: "--",
   },
   brightness: {
     brightness: 0,
@@ -28,6 +29,7 @@ let mediumSpeed = {
   },
   vehicle: {
     speed: 0,
+    fuel: 0,
     alternator: 0,
     gear: 0,
     voltage: 0,
@@ -56,6 +58,7 @@ let mediumSpeedPrev = {
   temperature: {
     interior: "--",
     exterior: "--",
+    coolant: "--",
   },
   brightness: {
     brightness: 0,
@@ -65,6 +68,7 @@ let mediumSpeedPrev = {
   },
   vehicle: {
     speed: 0,
+    fuel: 0,
     alternator: 0,
     gear: 0,
     voltage: 0,

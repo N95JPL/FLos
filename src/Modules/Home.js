@@ -112,7 +112,7 @@ function Radio() {
             {/* Radio Station */}
             <p>{source == "DAB1" || source == "DAB2" ? dabStation : source == "FM" || source == "FM-AST" ? fmStation : "??"}</p>
           </div>
-          <div className="transition  grid row-span-1 justify-evenly w-[100%] m-2 text-center text-lg">
+          <div className="transition  grid row-span-1 justify-evenly my-2 w-[100%] text-center text-lg">
             {/* Radio Text */}
             <p>{text}</p>
           </div>

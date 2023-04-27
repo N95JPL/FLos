@@ -21,6 +21,8 @@ export const temperature = create((set) => ({
   setInterior: (interior) => set({ interior }),
   exterior: 0,
   setExterior: (exterior) => set({ exterior }),
+  coolant: 0,
+  setCoolant: (coolant) => set({ coolant }),
 }));
 
 export const brightness = create((set) => ({
@@ -37,6 +39,8 @@ export const brightness = create((set) => ({
 export const vehicle = create((set) => ({
   speed: 0,
   setSpeed: (speed) => set({ speed }),
+  fuel: 0,
+  setFuel: (fuel) => set({ fuel }),
   gear: 0,
   setGear: (gear) => set({ gear }),
   alternator: 0,

@@ -1,0 +1,140 @@
+VERSION ""
+
+
+NS_ :
+    NS_DESC_
+    CM_
+    BA_DEF_
+    BA_
+    VAL_
+    CAT_DEF_
+    CAT_
+    FILTER
+    BA_DEF_DEF_
+    EV_DATA_
+    ENVVAR_DATA_
+    SGTYPE_
+    SGTYPE_VAL_
+    BA_DEF_SGTYPE_
+    BA_SGTYPE_
+    SIG_TYPE_REF_
+    VAL_TABLE_
+    SIG_GROUP_
+    SIG_VALTYPE_
+    SIGTYPE_VALTYPE_
+    BO_TX_BU_
+    BA_DEF_REL_
+    BA_REL_
+    BA_DEF_DEF_REL_
+    BU_SG_REL_
+    BU_EV_REL_
+    BU_BO_REL_
+    SG_MUL_VAL_
+
+BS_: 
+BU_: KESSY PDM IPC HVAC FCDIM FACP DSM DDM BCM AHCM 
+BO_ 1249 HVACd: 8 HVAC
+   SG_ HVAC_CabinTemp : 15|8@0+ (0.5,-57) [-57|70.5] "DegC" Vector__XXX
+
+BO_ 1183 HVACc: 8 HVAC
+
+BO_ 1236 IPCd: 8 IPC
+   SG_ IPC_FuelLevel : 49|10@0+ (0.2,0) [0|204.6] "Litres" Vector__XXX
+
+BO_ 1206 IPCc: 8 IPC
+
+BO_ 1201 IPCb: 8 IPC
+
+BO_ 1838 TST_Resp_BCM: 8 BCM
+
+BO_ 1830 TST_Req_BCM: 8 Vector__XXX
+
+BO_ 1851 TST_Resp_HVAC: 8 HVAC
+
+BO_ 1843 TST_Req_HVAC: 8 Vector__XXX
+
+BO_ 1273 BCMt: 8 BCM
+
+BO_ 1271 BCMq: 8 BCM
+
+BO_ 1269 BCMp: 8 BCM
+
+BO_ 1260 BCMo: 8 BCM
+
+BO_ 1256 BCMn: 8 BCM
+
+BO_ 1251 BCMm: 5 BCM
+   SG_ BCM_EngCoolTemp : 7|8@0+ (1,-60) [-60|195] "DegC" Vector__XXX
+   SG_ BCM_AmbientTempRaw : 25|10@0+ (0.25,-128) [-128|127.75] "DegC" Vector__XXX
+
+BO_ 1234 BCMl: 8 BCM
+
+BO_ 1220 BCMk: 8 BCM
+
+BO_ 1216 BCMj: 8 BCM
+
+BO_ 1198 DSMa: 8 DSM
+
+BO_ 1192 BCMh: 8 BCM
+
+BO_ 1188 FCDIMc: 8 FCDIM
+
+BO_ 1179 BCMg: 8 BCM
+
+BO_ 1176 BCMf: 8 BCM
+
+BO_ 1170 HVACb: 8 HVAC
+
+BO_ 688 FDCIMb: 8 FCDIM
+
+BO_ 632 FCDIMa: 8 FCDIM
+
+BO_ 240 IPCa: 8 IPC
+
+BO_ 72 HVACa: 8 HVAC
+
+BO_ 1168 BCMe: 8 BCM
+   SG_ BCM_VehicleSpeed : 47|16@0+ (0.01,0) [0|655.35] "KPH" Vector__XXX
+
+BO_ 1025 CCFb: 8 BCM
+
+BO_ 1024 CCFa: 8 BCM
+
+BO_ 352 BCMd: 8 BCM
+
+BO_ 296 BCMc: 8 BCM
+
+BO_ 184 BCMb: 8 BCM
+   SG_ BCM_EngineSpeed : 36|13@0+ (1,0) [0|8191] "rpm" Vector__XXX
+   SG_ BCM_OSF_Door : 56|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ BCM_NSF_Door : 57|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ BCM_NSR_Door : 58|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ BCM_OSR_Door : 59|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ BCM_Boot : 60|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ BCM_Bonnet : 61|1@0+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 16 BCMa: 8 BCM
+
+BA_DEF_ "MultiplexExtEnabled" ENUM "No","Yes";
+BA_DEF_ "BusType" STRING ;
+BA_DEF_ BO_ "GenMsgBackgroundColor" STRING ;
+BA_DEF_ BO_ "GenMsgForegroundColor" STRING ;
+BA_DEF_DEF_ "MultiplexExtEnabled" "No";
+BA_DEF_DEF_ "BusType" "CAN";
+BA_DEF_DEF_ "GenMsgBackgroundColor" "#ffffff";
+BA_DEF_DEF_ "GenMsgForegroundColor" "#000000";
+CM_ BU_ KESSY "Remote Start Module";
+CM_ BU_ PDM "Passenger Door Module";
+CM_ BU_ IPC "Instrument Panel Cluster";
+CM_ BU_ HVAC "Heating Ventilation Air Conditioning";
+CM_ BU_ FACP "Front Audio Control Panel";
+CM_ BU_ DSM "Driver Seat Module";
+CM_ BU_ BCM "Body Control Module";
+CM_ BU_ AHCM "Aux Heat Control Module";
+CM_ BO_ 1273 "Tyre Pressure?";
+VAL_ 1168 BCM_OSF_Door 0 "Open" 1 "Closed";
+VAL_ 1168 BCM_NSF_Door 0 "Open" 1 "Closed";
+VAL_ 1168 BCM_NSR_Door 0 "Open" 1 "Closed";
+VAL_ 1168 BCM_OSR_Door 0 "Open" 1 "Closed";
+VAL_ 1168 BCM_Boot 0 "Open" 1 "Closed";
+VAL_ 1168 BCM_Bonnet 0 "Open" 1 "Closed";

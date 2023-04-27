@@ -163,18 +163,12 @@ function setUp() {
       }
     }
   });
-  const setFmStation = entertainmentBus((state) => state.setFmStation);
-  const setDabStation = entertainmentBus((state) => state.setDabStation);
-  const setSource = entertainmentBus((state) => state.setSource);
-  const setSourceSel = entertainmentBus((state) => state.setSourceSel);
-  const setText = entertainmentBus((state) => state.setText);
-  const setBlock = entertainmentBus((state) => state.setBlock);
-  const setVolume = entertainmentBus((state) => state.setVolume);
-  const setVolumeChange = entertainmentBus((state) => state.setVolumeChange);
+
+  const setEntertainment = entertainmentBus();
 
   window.api.onEntertainmentBus((event, msg) => {
     for (const x in msg) {
-      const a = "set" + capitalize(x.toString());
+      const a = "setEntertainment.set" + capitalize(x.toString());
       const b = a + "(msg." + x + ")";
       // eslint-disable-next-line no-eval
       eval(b);

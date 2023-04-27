@@ -2,6 +2,10 @@ const { entertainmentBus } = require("../VariableMaps/EntertainmentBusVar");
 const HEX2DEC = hex => parseInt(hex, 16);
 var messageBuilder = []
 
+
+// Whomever came up with this mess at JLR must have been high as a kite
+// This is a mess to parse
+
 function eb692(msg) {
   const strId = msg.id;
   var arrData = [...msg.data];
@@ -9,30 +13,33 @@ function eb692(msg) {
   // for (var i = 0; i < arrData.length; i++) {
   //   arrData[i] = HEX2DEC(arrData[i]);
   // }
-  if (arrData[0] == 16 || arrData[0] == 5) {
+
+  if (arrData[0] == 16 || arrData[0] == 5) { // 16 & 5 mean start of new message
     messageBuilder = []
   }
 
   if (arrData[0] == 5) {
-    messageBuilder.push(arrData[0])
-    messageBuilder.push(arrData[1])
-    messageBuilder.push(arrData[2])
-    messageBuilder.push(arrData[3])
-    messageBuilder.push(arrData[4])
-    messageBuilder.push(arrData[5])
-    messageBuilder.push(arrData[6])
-    messageBuilder.push(arrData[7])
-    parseMessage(messageBuilder)
+    // Probbaly a better way to do this but it works - Merge the 8 bytes into one array to parse the string
+    // Actually... wouldn't messageBuilder = arrData work? I'm dumb.. yep that would do it - Win some, lose some!
+    // messageBuilder.push(arrData[0])
+    // messageBuilder.push(arrData[1])
+    // messageBuilder.push(arrData[2])
+    // messageBuilder.push(arrData[3])
+    // messageBuilder.push(arrData[4])
+    // messageBuilder.push(arrData[5])
+    // messageBuilder.push(arrData[6])
+    // messageBuilder.push(arrData[7])
+    parseMessage(arrData)
     messageBuilder = []
   } else {
-    for (var i = 1; i < arrData.length; i++) {
-      if (arrData[i] == 0) {
+    for (var i = 1; i < arrData.length; i++) { // Start at 1 to skip the 16 or 5
+      if (arrData[i] == 0) { // 0 means end of message so parse it
         parseMessage(messageBuilder)
         //console.log(messageBuilder)
         messageBuilder = []
         break;
       }
-      messageBuilder.push(arrData[i])
+      messageBuilder.push(arrData[i]) // Add the byte to the message
     }
   }
   // 16 = Start of new Block
@@ -41,8 +48,8 @@ function eb692(msg) {
   // k - Station Name
   // j - DAB Block
   // E; - Text
-  // *311 = DAB
   // *111 = FM
+  // *311 = DAB
   // *1211 = BT Info
 }
 
@@ -54,16 +61,16 @@ function parseMessage(input) {
   if (input[0] == 5) {
     if (input[1] == 107) { //k
       stationName = "No Reception"
-      if (input[2] == 3) {
+      if (input[2] == 1) {
         entertainmentBus.fmStation = stationName;
-      } else if (input[2] == 1) {
+      } else if (input[2] == 3) {
         entertainmentBus.dabStation = stationName;
       }
     } else if (input[1] == 59) { //;
       stationName = "Searching..."
-      if (input[2] == 3) {
+      if (input[2] == 1) {
         entertainmentBus.fmStation = stationName;
-      } else if (input[2] == 1) {
+      } else if (input[2] == 3) {
         entertainmentBus.dabStation = stationName;
       }
     }
