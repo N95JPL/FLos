@@ -51,6 +51,21 @@ function eb692(msg) {
   // *111 = FM
   // *311 = DAB
   // *1211 = BT Info
+  //2B4	692	Rx	1	8	29	20	20	20	20	20	20	0		)	 	 	 	 	 	 	_x0000_	)
+  //2B4	692	Rx	1	8	10	0D	6B	1	1	1	53	69		_x005F_x0010_	_x005F_x000D_	k	_x005F_x0001_	_x005F_x0001_	_x005F_x0001_	S	i	_x005F_x0010__x005F_x000D_k_x005F_x0001__x005F_x0001__x005F_x0001_Si
+  //2B4	692	Rx	1	8	21	67	6E	61	6C	20	31	0!	g	n	a	l	 	1	_x0000_!gnal 1
+  //2B4	692	Rx	1	8	5	3B	1	1	1	0	0	0		_x005F_x0005_;	_x005F_x0001_	_x005F_x0001_	_x005F_x0001_	_x0000_	_x0000_	_x0000_	_x005F_x0005_;_x005F_x0001__x005F_x0001__x005F_x0001_	Searching
+  //2B4	692	Rx	1	8	5	6B	1	1	1	0	0	0		_x005F_x0005_	k	_x005F_x0001_	_x005F_x0001_	_x005F_x0001_	_x0000_	_x0000_	_x0000_	_x005F_x0005_k_x005F_x0001__x005F_x0001__x005F_x0001_	No Reception
+  //2B4	692	Rx	1	8	5	3B	1	1	1	0	0	0		_x005F_x0005_;	_x005F_x0001_	_x005F_x0001_	_x005F_x0001_	_x0000_	_x0000_	_x0000_	_x005F_x0005_;_x005F_x0001__x005F_x0001__x005F_x0001_	Searching
+  //2B4	692	Rx	1	8	10	0D	6B	1	1	1	43	61		_x005F_x0010_	_x005F_x000D_	k	_x005F_x0001_	_x005F_x0001_	_x005F_x0001_	C	a	_x005F_x0010__x005F_x000D_k_x005F_x0001__x005F_x0001__x005F_x0001_Ca
+  //2B4	692	Rx	1	8	21	6E	6C	73	69	64	65	0!	n	l	s	i	d	e	_x0000_!nlside
+  //2B4	692	Rx	1	8	5	3B	1	1	1	0	0	0		_x005F_x0005_;	_x005F_x0001_	_x005F_x0001_	_x005F_x0001_	_x0000_	_x0000_	_x0000_	_x005F_x0005_; _x005F_x0001__x005F_x0001__x005F_x0001_
+  //2B4	692	Rx	1	8	5	6B	1	1	1	0	0	0		_x005F_x0005_	k	_x005F_x0001_	_x005F_x0001_	_x005F_x0001_	_x0000_	_x0000_	_x0000_	_x005F_x0005_k_x005F_x0001__x005F_x0001__x005F_x0001_
+  //2B4	692	Rx	1	8	10	0D	6B	1	1	1	48	49		_x005F_x0010_	_x005F_x000D_	k	_x005F_x0001_	_x005F_x0001_	_x005F_x0001_	H	I	_x005F_x0010__x005F_x000D_k_x005F_x0001__x005F_x0001__x005F_x0001_HI
+  //2B4	692	Rx	1	8	21	54	53	20	4D	43	52	0		!	T	S	 	M	C	R	_x0000_	!TS MCR
+
+  // This shows FM going between Signal 1 > Searching > No Reception > Searching > Canlside > Searching > HITS MCR
+  // Note: Hex values are converted to Decimal for processing in the code, so 0x010 in the above snippet == 16
 }
 
 function parseMessage(input) {
