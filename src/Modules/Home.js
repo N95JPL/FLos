@@ -5,6 +5,7 @@ import { temperature } from "../Stores/mediumSpeed";
 import { entertainmentBus } from "../Stores/entertainmentBus";
 import { FaFire, FaSnowman } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import { Box } from "@mui/material";
 
 function Home() {
   const primaryColor = theme((state) => state.primaryColor);
@@ -41,7 +42,7 @@ function Overview() {
   return (
     <>
       <div id="outlet" className="absolute flex w-full h-full">
-        <div className="flex justify-center items-center">
+        <div className="flex h-full justify-center items-center">
           <div className="absolute grid grid-cols-8 items-center text-center top-1 w-[100%]">
             {/* <div className="grid col-span-1 justify-center text-center items-center text-4xl"><FaFire /></div> */}
             <div className="grid col-span-4 text-center items-center text-lg">Interior - {interiorTempVar}°C</div>
@@ -51,9 +52,20 @@ function Overview() {
           <img
             id="img"
             alt="Car"
-            className="img bg-transparent transition-all "
+            className="absolute flex bg-transparent transition-all "
             src={require("../Images/Car.png")}
           />
+          <div className="absolute grid grid-cols-8 items-center text-center m-1 bottom-1 w-[100%]">
+            <div className="grid col-span-4 text-center items-center text-lg">Speed - {interiorTempVar}°C</div>
+            <div className="grid col-span-4 text-center items-center text-lg">Interior2 - {interiorTempVar}°C</div>
+            <div className="grid col-span-2 text-center items-center text-lg">
+              Fuel
+            </div>
+            <div className="grid col-span-6 text-center items-center text-lg">
+              <div className="items-center h-2 w-[60%] bg-slate-200 " />
+              <div className="items-center h-2 w-[60%] bg-blue-400" />
+            </div>
+          </div>
         </div>
       </div>
     </>

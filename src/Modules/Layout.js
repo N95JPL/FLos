@@ -12,9 +12,11 @@ import Reversing from "./Reversing";
 
 function Layout() {
   const firstTimeSetup = vehicleInfo((state) => state.firstTimeSetup);
+  const setFirstTimeSetup = vehicleInfo((state) => state.setFirstTimeSetup);
   // const gradient = (primaryColorSet + " " + secondaryColorSet).toString();
 
   if (firstTimeSetup) {
+    setFirstTimeSetup(false);
     return <FirstTimeSetup />;
   } else {
     return <Nav />;

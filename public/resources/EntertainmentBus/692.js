@@ -2,7 +2,7 @@ const { entertainmentBus } = require("../VariableMaps/EntertainmentBusVar");
 const HEX2DEC = hex => parseInt(hex, 16);
 var messageBuilder = []
 
-
+// Radio Information
 // Whomever came up with this mess at JLR must have been high as a kite
 // This is a mess to parse
 

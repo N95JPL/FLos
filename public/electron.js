@@ -13,15 +13,15 @@ function createWindow() {
     backgroundColor: "#252525",
     frame: false,
     movable: false,
-    width: 1024,
-    maxWidth: 1024,
-    minWidth: 1024,
-    height: 600,
+    width: 800,
+    maxWidth: 800,
+    minWidth: 800,
+    height: 480,
     center: true,
     transparent: true,
     fullscreen: false,
-    // maxHeight: 480,
-    // minHeight: 480,
+    maxHeight: 480,
+    minHeight: 480,
     webPreferences: {
       nativeWindowOpen: true,
       nodeIntegration: false,
@@ -51,7 +51,7 @@ function createWindow() {
             : `file://${path.join(__dirname, "../build/index.html")}`
         );
         console.log(appPath);
-      }, 1000);
+      }, 2000);
     }, 1000);
   });
 }

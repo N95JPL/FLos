@@ -3,6 +3,12 @@ import { persist } from "zustand/middleware";
 export let entertainmentBus = create(
   persist(
     (set) => ({
+      mediaPhoneName: "",
+      setMediaPhoneName: (mediaPhoneName) => set({ mediaPhoneName }),
+      trackName: "",
+      setTrackName: (trackName) => set({ trackName }),
+      artistName: "",
+      setArtistName: (artistName) => set({ artistName }),
       source: false,
       setSource: (source) => set({ source }),
       sourceSel: 0,

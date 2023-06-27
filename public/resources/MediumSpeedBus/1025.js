@@ -43,7 +43,7 @@ var is_model = false;
 var is_ccfid = false;
 var manifest_id = "";
 
-var setup = false;
+var setup = true;
 //Important stuff that will need broadcasting
 // vehicleInfo.VIN = "-"
 // vehicleInfo.Model_id = "-"
