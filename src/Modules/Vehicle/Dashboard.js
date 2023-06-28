@@ -1,36 +1,28 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-eval */
 import React from "react";
 import VehicleNav from "./Vehicle-Nav";
-import "../Style.css";
 import { FormControlLabel, FormGroup, Slider, Switch } from "@mui/material";
-// import { mediumSpeed } from "../../Stores/mediumSpeed";
 import ReactSpeedometer from "react-d3-speedometer";
-// eslint-disable-next-line no-unused-vars
-let vehicleStore = {};
-function onChange(name) {
-  // window.ipcRenderer.send("settingsAction", {
-  //   type: name,
-  //   press: false,
-  // });
-}
+import "../Style.css";
+
 function VehicleDashboard() {
-  //const driverTempVar = mediumSpeed((state) => state.driver);
+  const onChange = (name) => {
+    // Perform the desired action when the input value changes
+    // window.ipcRenderer.send("settingsAction", {
+    //   type: name,
+    //   press: false,
+    // });
+  };
 
   return (
-    <div className="absolute w-[90%] h-[100%] left-[10%]">
-      <div className="h-20 w-full">
+    <div className="absolute w-[90%] h-[100%] left-[10%] top-[15%]">
+      <div className="h-55 w-full t-15">
         <VehicleNav />
       </div>
-      <div
-        id="outlet"
-        className="fade-in h-[80%] top-[20%] w-full justify-center pl-10 pr-10 pb-5 text-center items-center fixed"
-      >
-        <div className="fixed h-full w-full justify-center text-center items-center">
-          <ReactSpeedometer value={50} />
-        </div>
+      <div className="fade-in h-[80%] w-[50%] flex justify-center items-center">
+        <ReactSpeedometer value={50} />
       </div>
     </div>
   );
 }
+
 export default VehicleDashboard;

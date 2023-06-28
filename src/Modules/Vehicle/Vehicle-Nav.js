@@ -6,6 +6,8 @@ import { GiElectric } from "react-icons/gi";
 import "../Style.css";
 import { theme } from "../../Stores/theme";
 import { BsCode } from "react-icons/bs";
+import { TbEngine } from "react-icons/tb"; // Import the TbEngine icon
+import { AiOutlineCar } from "react-icons/ai";
 
 // want to start here? it will be ez for me to create whole page fast wait no
 // take me to nav container where width is set
@@ -13,14 +15,14 @@ import { BsCode } from "react-icons/bs";
 function VehicleNav() {
   const location = useLocation();
   const menuItems = [
-    {
+    { 
       name: "Electrical",
       icon: <GiElectric />,
       path: "/vehicle/electrical",
     },
     {
       name: "Engine",
-      icon: <FaCog />,
+      icon: <TbEngine  />,
       path: "/vehicle/engine",
     },
     {
@@ -35,7 +37,7 @@ function VehicleNav() {
     },
     {
       name: "Detailed",
-      icon: <FaCog />,
+      icon: <AiOutlineCar />,
       path: "/vehicle/detail",
     },
   ];

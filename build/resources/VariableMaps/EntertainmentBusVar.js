@@ -1,5 +1,8 @@
 /* eslint-disable prefer-const */
 let entertainmentBus = {
+  mediaPhoneName: '',
+  trackName: '',
+  artistName: '',
   source: 0,
   sourceSel: 0,
   fmStation: 0,
@@ -14,6 +17,9 @@ let entertainmentBus = {
 exports.entertainmentBus = entertainmentBus;
 
 let entertainmentBusPrev = {
+  mediaPhoneName: '',
+  trackName: '',
+  artistName: '',
   source: 0,
   sourceSel: 0,
   fmStation: 0,
