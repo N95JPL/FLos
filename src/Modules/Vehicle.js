@@ -7,7 +7,7 @@ function Vehicle() {
         <div>
           <div>
             <h1 className="text-2xl font-extrabold tracking-tight">
-              Vehicle Information
+              Vehicle Informatio n
             </h1>
             <p className="text-sm mb-2.5">Lol, this will get done soon!</p>
           </div>
