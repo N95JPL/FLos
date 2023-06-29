@@ -9,7 +9,6 @@ import NoPage from "./Modules/NoPage";
 import Carplay from "./Modules/Carplay";
 import VehicleDashboard from "./Modules/Vehicle/Dashboard";
 import VehicleElectrical from "./Modules/Vehicle/Electrical";
-import NoPage2 from "./Modules/Vehicle/NoPage";
 import Radio from "./Modules/Entertainment";
 import AppSettings from "./Modules/Settings/App-Settings";
 import Dev from "./Modules/Settings/Dev";

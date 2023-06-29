@@ -10,10 +10,15 @@ import Modal from "@mui/material/Modal";
 import { FormControlLabel, FormGroup, Slider, Switch } from "@mui/material";
 import { settings } from "../../Stores/settings";
 import { CirclePicker } from "react-color";
+import { measurementStore } from '../../Stores/measurement';
+
+
 var convert = require("color-convert");
 let setTheme;
 
 function AppSettings() {
+  const measurementSystem = measurementStore((state) => state.measurementSystem);
+  const setMeasurementSystem = measurementStore((state) => state.setMeasurementSystem);
   const primaryColor = theme((state) => state.setPrimaryColor);
   const secondaryColor = theme((state) => state.setSecondaryColor);
   const [showModal, setShowModal] = React.useState(false);
@@ -40,6 +45,7 @@ function AppSettings() {
     });
     setColor(temp);
   }, []);
+
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
@@ -47,9 +53,7 @@ function AppSettings() {
   const setBrightnessOffset = settings((state) => state.setBrightnessOffset);
   const brightnessAuto = settings((state) => state.brightnessAuto);
   const setBrightnessAuto = settings((state) => state.setBrightnessAuto);
-  const measurementSystem = settings((state) => state.measurementSystem);
-  const setMeasurementSystem = settings((state) => state.setMeasurementSystem);
- 
+
   const modalStyle = {
     position: "absolute",
     top: "50%",
@@ -86,10 +90,6 @@ function AppSettings() {
     } else {
       secondaryColor(selectedColor);
     }
-  };
-
-  const handleMeasurementSystemChange = (event) => {
-    setMeasurementSystem(event.target.value);
   };
 
   useEffect(() => {
@@ -192,22 +192,22 @@ function AppSettings() {
         </Link>
       </div>
       <div className="absolute left-[550px] top-[180px] gap-2.5">
-  <FormGroup>
-    <FormControlLabel
-      control={
-        <Switch
-          checked={measurementSystem === "Imperial"}
-          onChange={(e) =>
-            setMeasurementSystem(e.target.checked ? "Imperial" : "Metric")
-          }
-          value={measurementSystem === "Imperial" ? "Imperial" : "Metric"}
-        />
-      }
-      label={measurementSystem === "Imperial" ? "Imperial" : "Metric"}
-      labelPlacement="start"
-    />
-  </FormGroup>
-</div>
+        <FormGroup>
+          <FormControlLabel
+            control={
+              <Switch
+                checked={measurementSystem === "Imperial"}
+                onChange={(e) =>
+                  setMeasurementSystem(e.target.checked ? "Imperial" : "Metric")
+                }
+                value={measurementSystem === "Imperial" ? "Imperial" : "Metric"}
+              />
+            }
+            label={measurementSystem === "Imperial" ? "Imperial" : "Metric"}
+            labelPlacement="start"
+          />
+        </FormGroup>
+      </div>
 
     </div>
   );

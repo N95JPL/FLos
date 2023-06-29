@@ -15,15 +15,15 @@ import { AiOutlineCar } from "react-icons/ai";
 function VehicleNav() {
   const location = useLocation();
   const menuItems = [
-    { 
+    {
       name: "Electrical",
       icon: <GiElectric />,
       path: "/vehicle/electrical",
     },
     {
       name: "Engine",
-      icon: <TbEngine  />,
-      path: "/vehicle/engine",
+      icon: <TbEngine />,
+      path: "/vehicle/electrical",
     },
     {
       name: "Dashboard",
