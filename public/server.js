@@ -112,6 +112,20 @@ module.exports = function (window, dev) {
         mediumSpeed.brightness.adjustedLight;
     }
   });
+  ipcMain.on("actionMeasurementSystem", (event, msg) => {
+    settings.setMeasurementSystem(msg);
+  
+    // Perform any necessary actions based on the measurement system change
+    if (msg === "Imperial") {
+      // Handle Imperial measurement system
+      console.log("Imperial measurement system selected");
+      // Perform additional logic or actions for the Imperial system
+    } else {
+      // Handle Metric measurement system
+      console.log("Metric measurement system selected");
+      // Perform additional logic or actions for the Metric system
+    }
+  });
   // ipcMain.on("actionSettings", (event, msg) => {
   //   let value;
   //   let byte;

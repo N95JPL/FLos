@@ -40,13 +40,13 @@ function VehicleElectrical() {
   // const charging_current_graph = [{ name: 1, charging_current: 0 }, { name: 2, charging_current: 10 }, { name: 3, charging_current: 20 }, { name: 4, charging_current: 30 }]
   return (
     <>
-      <div className="absolute w-[90%] h-[100%] left-[10%]">
-        <div className="h-20 w-full">
+      <div className="absolute w-[90%] h-[80%] left-[10%]">
+        <div className="h-13 w-full">
           <VehicleNav />
         </div>
         <div
           id="outlet"
-          className="fade-in h-[380px] w-full justify-center text-center items-center grid grid-rows-2 gap-4 grid-cols-3"
+          className="fade-in h-[320px] w-full justify-center text-center items-center grid grid-rows-2 gap-4 grid-cols-3"
         >
           <div className="row-span-1 col-span-1">
             <p className="text-xl">Battery Voltage</p>

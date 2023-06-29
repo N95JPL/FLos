@@ -19,7 +19,7 @@ function createWindow() {
     height: 480,
     center: true,
     transparent: true,
-    fullscreen: true,
+    fullscreen: false,
     maxHeight: 480,
     minHeight: 480,
     webPreferences: {
@@ -51,7 +51,7 @@ function createWindow() {
             : `file://${path.join(__dirname, "../build/index.html")}`
         );
         console.log(appPath);
-      }, 1000);
+      }, 2000);
     }, 1000);
   });
 }

@@ -4,6 +4,7 @@ contextBridge.exposeInMainWorld("api", {
   actionClimate: (msg) => ipcRenderer.send("actionClimate", msg),
   actionBrightness: (msg) => ipcRenderer.send("actionBrightness", msg),
   actionSettings: (msg) => ipcRenderer.send("actionSettings", msg),
+  actionMeasurementSystem: (msg) => ipcRenderer.send("actionMeasurementSystem", msg),
   dataFull: (msg) => ipcRenderer.send("dataFull", msg),
   vehicleInfo: (msg) => ipcRenderer.send("vehicleInfo", msg),
   canRecorder: (msg) => ipcRenderer.send("canRecorder", msg),

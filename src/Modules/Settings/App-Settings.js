@@ -1,4 +1,3 @@
-/* eslint-disable no-eval */
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import SettingsNav from "./Settings-Nav";
@@ -13,7 +12,7 @@ import { settings } from "../../Stores/settings";
 import { CirclePicker } from "react-color";
 var convert = require("color-convert");
 let setTheme;
-// eslint-disable-next-line no-unused-vars
+
 function AppSettings() {
   const primaryColor = theme((state) => state.setPrimaryColor);
   const secondaryColor = theme((state) => state.setSecondaryColor);
@@ -48,6 +47,9 @@ function AppSettings() {
   const setBrightnessOffset = settings((state) => state.setBrightnessOffset);
   const brightnessAuto = settings((state) => state.brightnessAuto);
   const setBrightnessAuto = settings((state) => state.setBrightnessAuto);
+  const measurementSystem = settings((state) => state.measurementSystem);
+  const setMeasurementSystem = settings((state) => state.setMeasurementSystem);
+ 
   const modalStyle = {
     position: "absolute",
     top: "50%",
@@ -65,12 +67,15 @@ function AppSettings() {
     px: 4,
     pb: 3,
   };
+
   const updateBrightnessOffset = (e, data) => {
     setBrightnessOffset(data);
   };
+
   const updateBrightnessAuto = (e, data) => {
     setBrightnessAuto(data);
   };
+
   const updateColor = (color, event) => {
     var selectedColor = convert.hex.keyword(color.hex);
     if (selectedColor === "skyblue") {
@@ -82,12 +87,18 @@ function AppSettings() {
       secondaryColor(selectedColor);
     }
   };
+
+  const handleMeasurementSystemChange = (event) => {
+    setMeasurementSystem(event.target.value);
+  };
+
   useEffect(() => {
     window.api.actionBrightness({
       auto: brightnessAuto,
       value: brightnessOffset,
     });
   }, [brightnessAuto, brightnessOffset]);
+
   return (
     <div className="fade-in absolute w-[90%] h-[100%] left-[10%] justify-center">
       <div className="justify-center h-[10%]">
@@ -180,7 +191,26 @@ function AppSettings() {
           <p className="inline-flex px-5">Dev</p>
         </Link>
       </div>
+      <div className="absolute left-[550px] top-[180px] gap-2.5">
+  <FormGroup>
+    <FormControlLabel
+      control={
+        <Switch
+          checked={measurementSystem === "Imperial"}
+          onChange={(e) =>
+            setMeasurementSystem(e.target.checked ? "Imperial" : "Metric")
+          }
+          value={measurementSystem === "Imperial" ? "Imperial" : "Metric"}
+        />
+      }
+      label={measurementSystem === "Imperial" ? "Imperial" : "Metric"}
+      labelPlacement="start"
+    />
+  </FormGroup>
+</div>
+
     </div>
   );
 }
+
 export default AppSettings;
