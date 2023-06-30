@@ -8,8 +8,10 @@ import "./Style.css";
 
 function Carplay() {
 
-  const Tc = theme((state) => state.textColor);
-  console.log(Tc)
+  //Debugging
+  //const Tc = theme((state) => state.textColor);
+  //console.log(Tc)
+
   return (
     <div className="h-[100%] w-[100%] flex items-center justify-center p-10">
       <div className="max-w-4xl flex flex-col">

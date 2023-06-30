@@ -107,6 +107,11 @@ function AppSettings() {
     });
   }, [brightnessAuto, brightnessOffset]);
 
+  const handleMeasurementSystemChange = () => {
+    const newMeasurementSystem = measurementSystem === "metric" ? "imperial" : "metric";
+    setMeasurementSystem(newMeasurementSystem);
+  };
+
   return (
     <div className="fade-in absolute w-[90%] h-[100%] left-[10%] justify-center">
       <div className="justify-center h-[10%]">
@@ -143,6 +148,26 @@ function AppSettings() {
               />
             }
             label="Automatic Dimming"
+          />
+        </FormGroup>
+        <FormGroup>
+          <FormControlLabel
+            control={
+              <Switch
+                checked={measurementSystem === "Imperial"}
+                onChange={(e) =>
+                  setMeasurementSystem(e.target.checked ? "Imperial" : "Metric")
+                }
+                value={measurementSystem === "Imperial" ? "Imperial" : "Metric"}
+              />
+            }
+            label={
+              <>
+                <span>Measurement System: </span>
+                {measurementSystem === "Imperial" ? "Imperial" : "Metric"}
+              </>
+            }
+            labelPlacement="end"
           />
         </FormGroup>
         <div className="w-[80%] left-[10%] bottom-2 place-self-center items-center justify-center absolute flex flex-col">

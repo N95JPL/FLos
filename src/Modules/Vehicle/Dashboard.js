@@ -15,7 +15,7 @@ function VehicleDashboard() {
   const secondaryColor = theme((state) => state.secondaryColor);
   var textColor = theme((state) => state.textColor);
 
-  var value = "";
+  var value = "130";
   var minValue = "";
   var maxValue = "";
   var segments = "";
@@ -25,16 +25,18 @@ function VehicleDashboard() {
   var valueTextFontSize = "";
   var measure = "";
 
+
+  //Debug//
   const measurementSystem = measurementStore((state) => state.measurementSystem);
   // MPH / KMH Conversions
-  console.log(measurementSystem)
+  //console.log(measurementSystem)
 
   if (textColor === "Light Blue") {
     textColor = "lightblue"
   }
 
   if (measurementSystem === "Metric") {
-    value = "10" * 1.0;
+    value = Math.round(value * 1 * 10) / 10;
     labelFontSize = "15";
     valueTextFontSize = "18";
     minValue = "0";
@@ -45,7 +47,7 @@ function VehicleDashboard() {
 
     console.log(minValue, "+", maxValue);
   } else if (measurementSystem === "Imperial") {
-    value = "10" * 1.6;
+    value = Math.round(value * 1.6 * 10) / 10;
     labelFontSize = "15";
     valueTextFontSize = "18";
     minValue = "0";
