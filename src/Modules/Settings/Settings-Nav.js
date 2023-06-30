@@ -11,6 +11,8 @@ import { BsCode } from "react-icons/bs";
 
 function SettingsNav() {
   const location = useLocation();
+
+
   const menuItems = [
     {
       name: "App",

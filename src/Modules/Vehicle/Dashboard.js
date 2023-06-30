@@ -6,16 +6,15 @@ import "../Style.css";
 import { theme } from "../../Stores/theme";
 import { measurementStore } from "../../Stores/measurement";
 import { Link } from "react-router-dom";
-
-
-// Currently Setting up metric system :() Line 16 is weird
+import { vehicle } from "../../Stores/mediumSpeed";
 
 function VehicleDashboard() {
   const primaryColor = theme((state) => state.primaryColor);
   const secondaryColor = theme((state) => state.secondaryColor);
-  var textColor = theme((state) => state.textColor);
+  const textColor = theme((state) => state.textColor);
+  const gear = vehicle((state) => state.gear);
 
-  var value = "130";
+  var speed = "2";
   var minValue = "";
   var maxValue = "";
   var segments = "";
@@ -25,18 +24,14 @@ function VehicleDashboard() {
   var valueTextFontSize = "";
   var measure = "";
 
-
-  //Debug//
   const measurementSystem = measurementStore((state) => state.measurementSystem);
-  // MPH / KMH Conversions
-  //console.log(measurementSystem)
 
   if (textColor === "Light Blue") {
-    textColor = "lightblue"
+    textColor = "lightblue";
   }
 
   if (measurementSystem === "Metric") {
-    value = Math.round(value * 1 * 10) / 10;
+    speed = Math.round(speed * 1 * 10) / 10;
     labelFontSize = "15";
     valueTextFontSize = "18";
     minValue = "0";
@@ -44,10 +39,8 @@ function VehicleDashboard() {
     segments = "120";
     maxSegmentLabels = "12";
     measure = " Mph";
-
-    console.log(minValue, "+", maxValue);
   } else if (measurementSystem === "Imperial") {
-    value = Math.round(value * 1.6 * 10) / 10;
+    speed = Math.round(speed * 1.6 * 10) / 10;
     labelFontSize = "15";
     valueTextFontSize = "18";
     minValue = "0";
@@ -55,14 +48,9 @@ function VehicleDashboard() {
     segments = "200";
     maxSegmentLabels = "10";
     measure = " Kph";
-
-
-
-    console.log(minValue, "+", maxValue);
   }
 
-
-  const startColor = primaryColor; // Use primaryColor as the start color, fallback to "lime" if undefined
+  const startColor = primaryColor || "lime";
 
   const onChange = (name) => {
     // Perform the desired action when the input value changes
@@ -71,15 +59,16 @@ function VehicleDashboard() {
     //   press: false,
     // });
   };
+
   return (
-    <div className="absolute w-[90%] h-[100%] left-[10%] top-[15%]">
+    <div className="absolute w-[90%] h-[100%] left-[5%] top-[15%]">
       <div className="h-55 w-full t-15">
         <VehicleNav />
       </div>
-      <div className="fade-in h-[80%] w-[50%] flex justify-center items-center">
+      <div className="fade-in h-[80%] w-[40%] flex justify-center items-center">
         <ReactSpeedometer
-          value={value}
-          currentValueText={value + measure}
+          value={speed}
+          currentValueText={speed + measure}
           labelFontSize={labelFontSize}
           valueTextFontSize={valueTextFontSize}
           minValue={minValue}
@@ -94,6 +83,9 @@ function VehicleDashboard() {
           maxSegmentLabels={maxSegmentLabels}
           ringWidth={50}
         />
+      </div>
+      <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 rounded-lg p-4">
+        <h2 className="text-2xl font-bold text-center">Gear: {gear}</h2>
       </div>
     </div>
   );

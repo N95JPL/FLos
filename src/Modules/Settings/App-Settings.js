@@ -113,7 +113,7 @@ function AppSettings() {
   };
 
   return (
-    <div className="fade-in absolute w-[90%] h-[100%] left-[10%] justify-center">
+    <div className="fade-in absolute w-[90%] h-[100%] left-[10%] justify-center" style={{ color: textColor }}>
       <div className="justify-center h-[10%]">
         <SettingsNav />
       </div>

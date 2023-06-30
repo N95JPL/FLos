@@ -54,9 +54,9 @@ function Nav() {
       path: "/vehicle/dashboard",
     },
     {
-        name: "NoClue",
-        icon: <FaQuestion/>,
-        path: "/vehicle/dashboard",
+      name: "NoClue",
+      icon: <FaQuestion />,
+      path: "/Vehicle",
     },
     {
       name: "Settings",
@@ -189,7 +189,7 @@ const VolumeControl = ({ volumes }) => {
 
   var level = Math.ceil(volumes / 6);
 
-  var isMuted = volumes == 0;
+  var isMuted = volumes === 0;
 
   return (
     <svg viewBox="0 0 100 77" width="150" height="115.5">
