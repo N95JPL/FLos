@@ -1,14 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { settings } from '../Stores/settings';
+import { theme } from "../Stores/theme";
 import { measurementStore } from "../Stores/measurement";
 
 import "./Style.css";
 
 function Carplay() {
-  const measurementSystem = measurementStore((state) => state.measurementSystem);
-  console.log("Measurement System:", measurementSystem);
 
+  const Tc = theme((state) => state.textColor);
+  console.log(Tc)
   return (
     <div className="h-[100%] w-[100%] flex items-center justify-center p-10">
       <div className="max-w-4xl flex flex-col">

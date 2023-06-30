@@ -28,8 +28,8 @@ function SettingsNav() {
   const secondaryColor = theme((state) => state.secondaryColor);
   const secondaryColorSet = "to-" + secondaryColor + "-600";
   return (
-    <div className={`shadow-lg absolute h-[15%] justify-center items-center w-[100%] transition`}>
-      <div className="transition flex flex-row justify-center px-5 items-center w-[100%]">
+    <div className="absolute bottom-25 w-full flex justify-center">
+      <div className="flex justify-center px-5 py-14">
         {location.pathname !== "/settings/dev" ? (
           menuItems.map((m) => {
             return (
@@ -37,7 +37,7 @@ function SettingsNav() {
                 to={m.path}
                 className={
                   location.pathname === m.path
-                    ? "SINGLE-NAVBAR-ITEM text-center bg-black bg-opacity-50 w-50 text-4xl inline-flex text-white active:text-gray-100  p-2 mx-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
+                    ? "SINGLE-NAVBAR-ITEM text-center bg-black bg-opacity-50 w-50 text-4xl inline-flex text-white active:text-gray-100 p-2 mx-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
                     : "SINGLE-NAVBAR-ITEM text-center text-4xl text-white w-50 inline-flex active:text-gray-100 bg-black bg-opacity-20 p-2 mx-5 rounded-lg active:bg-opacity-40 transition active:scale-95"
                 }
               >
@@ -47,26 +47,34 @@ function SettingsNav() {
             );
           })
         ) : (
-          <><Link
-            to="/settings/app"
-            className={location.pathname === "/settings/app"
-              ? "SINGLE-NAVBAR-ITEM text-center bg-black bg-opacity-50 w-50 text-4xl inline-flex text-white active:text-gray-100  p-2 mx-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
-              : "SINGLE-NAVBAR-ITEM text-center text-4xl text-white w-50 inline-flex active:text-gray-100 bg-black bg-opacity-20 p-2 mx-5 rounded-lg active:bg-opacity-40 transition active:scale-95"}
-          >
-            <FaBackward className="text-emerald-400" />
-            <p className="inline-flex px-5">Go Back</p>
-          </Link><Link
-            to="/settings/dev"
-            className={location.pathname === "/settings/dev"
-              ? "SINGLE-NAVBAR-ITEM text-center bg-black bg-opacity-50 w-50 text-4xl inline-flex text-white active:text-gray-100  p-2 mx-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
-              : "SINGLE-NAVBAR-ITEM text-center text-4xl text-white w-50 inline-flex active:text-gray-100 bg-black bg-opacity-20 p-2 mx-5 rounded-lg active:bg-opacity-40 transition active:scale-95"}
-          >
+          <>
+            <Link
+              to="/settings/app"
+              className={
+                location.pathname === "/settings/app"
+                  ? "SINGLE-NAVBAR-ITEM text-center bg-black bg-opacity-50 w-50 text-4xl inline-flex text-white active:text-gray-100 p-2 mx-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
+                  : "SINGLE-NAVBAR-ITEM text-center text-4xl text-white w-50 inline-flex active:text-gray-100 bg-black bg-opacity-20 p-2 mx-5 rounded-lg active:bg-opacity-40 transition active:scale-95"
+              }
+            >
+              <FaBackward className="text-emerald-400" />
+              <p className="inline-flex px-5">Go Back</p>
+            </Link>
+            <Link
+              to="/settings/dev"
+              className={
+                location.pathname === "/settings/dev"
+                  ? "SINGLE-NAVBAR-ITEM text-center bg-black bg-opacity-50 w-50 text-4xl inline-flex text-white active:text-gray-100 p-2 mx-5 rounded-lg active:bg-opacity-75 transition active:scale-95"
+                  : "SINGLE-NAVBAR-ITEM text-center text-4xl text-white w-50 inline-flex active:text-gray-100 bg-black bg-opacity-20 p-2 mx-5 rounded-lg active:bg-opacity-40 transition active:scale-95"
+              }
+            >
               <BsCode className="text-emerald-400" />
               <p className="inline-flex px-5">Dev Mode</p>
-            </Link></>
+            </Link>
+          </>
         )}
       </div>
     </div>
   );
 }
+
 export default SettingsNav;
