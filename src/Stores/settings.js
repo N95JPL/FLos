@@ -8,6 +8,8 @@ export let settings = create(
       setBrightnessOffset: (brightnessOffset) => set({ brightnessOffset }),
       brightnessAuto: true,
       setBrightnessAuto: (brightnessAuto) => set({ brightnessAuto }),
+      measurementSystem: "Metric", // Add the measurementSystem field
+      setMeasurementSystem: (measurementSystem) => set({ measurementSystem }), // Add the setter function
     }),
     {
       name: "settings",

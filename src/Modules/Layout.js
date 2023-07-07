@@ -1,4 +1,4 @@
-import { FaCar, FaPhoneAlt, FaCog } from "react-icons/fa";
+import { FaCar, FaPhoneAlt, FaCog, FaQuestion } from "react-icons/fa";
 import { GiRadioTower } from "react-icons/gi";
 import { BsSnow } from "react-icons/bs";
 import React, { useState, useEffect } from "react";
@@ -54,9 +54,9 @@ function Nav() {
       path: "/vehicle/dashboard",
     },
     {
-      name: "Vehicle",
-      icon: <FaCar />,
-      path: "/vehicle/dashboard",
+      name: "NoClue",
+      icon: <FaQuestion />,
+      path: "/Vehicle",
     },
     {
       name: "Settings",
@@ -189,7 +189,7 @@ const VolumeControl = ({ volumes }) => {
 
   var level = Math.ceil(volumes / 6);
 
-  var isMuted = volumes == 0;
+  var isMuted = volumes === 0;
 
   return (
     <svg viewBox="0 0 100 77" width="150" height="115.5">

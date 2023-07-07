@@ -3,6 +3,7 @@ const { Vehicle_Manifest } = require("../JSON/Vehicle_Manifest");
 const { vehicleInfo } = require("../VariableMaps/VehicleInfoVar");
 
 // Mind bogglingly long array of all the possible CCFs
+// To be honest, this really isn't required, but it was fun to make! :D
 
 var arrBuilder = [
   "-",
@@ -42,7 +43,7 @@ var is_model = false;
 var is_ccfid = false;
 var manifest_id = "";
 
-var setup = false;
+var setup = true;
 //Important stuff that will need broadcasting
 // vehicleInfo.VIN = "-"
 // vehicleInfo.Model_id = "-"

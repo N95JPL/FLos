@@ -1,5 +1,4 @@
-/* eslint-disable no-eval */
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import SettingsNav from "./Settings-Nav";
 import "../Style.css";
@@ -11,22 +10,34 @@ import Modal from "@mui/material/Modal";
 import { FormControlLabel, FormGroup, Slider, Switch } from "@mui/material";
 import { settings } from "../../Stores/settings";
 import { CirclePicker } from "react-color";
-var convert = require("color-convert");
-let setTheme;
-// eslint-disable-next-line no-unused-vars
+import { measurementStore } from "../../Stores/measurement";
+import convert from "color-convert";
+
 function AppSettings() {
+  const measurementSystem = measurementStore((state) => state.measurementSystem);
+  const setMeasurementSystem = measurementStore((state) =>
+    state.setMeasurementSystem
+  );
   const primaryColor = theme((state) => state.setPrimaryColor);
   const secondaryColor = theme((state) => state.setSecondaryColor);
-  const [showModal, setShowModal] = React.useState(false);
-  const [colorPicker, setColorPicker] = React.useState("to");
-  const [colors, setColor] = React.useState([]);
+  const setTextColor = theme((state) => state.setTextColor);
+  const [showModal, setShowModal] = useState(false);
+  const [colorPicker, setColorPicker] = useState("to");
+  const [colors, setColors] = useState([]);
+  const [textColors, setTextColors] = useState([]);
+
+  const textColor = theme((state) => state.textColor);
+
+  const handleTextColorChange = (e) => {
+    const newColor = e.target.checked ? "lightblue" : "white";
+    setTextColor(newColor);
+  };
+
   const colorName = [
     "skyblue",
     "blue",
-    "green",
     "indigo",
     "lime",
-    "orange",
     "pink",
     "purple",
     "red",
@@ -34,26 +45,27 @@ function AppSettings() {
     "violet",
     "yellow",
   ];
+
   useEffect(() => {
-    var temp = [];
+    const temp = [];
     colorName.forEach((element) => {
       temp.push("#" + convert.keyword.hex(element));
     });
-    setColor(temp);
+    setColors([...temp, "orange", "green"]);
+    setTextColors(["white", "black", ...temp]);
   }, []);
-  const [open, setOpen] = React.useState(false);
+
+  const [open, setOpen] = useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
   const brightnessOffset = settings((state) => state.brightnessOffset);
   const setBrightnessOffset = settings((state) => state.setBrightnessOffset);
   const brightnessAuto = settings((state) => state.brightnessAuto);
   const setBrightnessAuto = settings((state) => state.setBrightnessAuto);
+
   const modalStyle = {
     position: "absolute",
     top: "50%",
-    "text-align": "center",
-    align: "center",
-    margin: "auto",
     left: "50%",
     transform: "translate(-50%, -50%)",
     width: 600,
@@ -65,31 +77,43 @@ function AppSettings() {
     px: 4,
     pb: 3,
   };
+
   const updateBrightnessOffset = (e, data) => {
     setBrightnessOffset(data);
   };
+
   const updateBrightnessAuto = (e, data) => {
     setBrightnessAuto(data);
   };
+
   const updateColor = (color, event) => {
-    var selectedColor = convert.hex.keyword(color.hex);
-    if (selectedColor === "skyblue") {
-      selectedColor = "sky";
-    }
+    const selectedColor = convert.hex.keyword(color.hex);
     if (colorPicker === "to") {
       primaryColor(selectedColor);
     } else {
       secondaryColor(selectedColor);
     }
   };
+
+  const updateTextColor = (color, event) => {
+    const selectedColor = convert.hex.keyword(color.hex);
+    setTextColor(selectedColor);
+  };
+
   useEffect(() => {
     window.api.actionBrightness({
       auto: brightnessAuto,
       value: brightnessOffset,
     });
   }, [brightnessAuto, brightnessOffset]);
+
+  const handleMeasurementSystemChange = () => {
+    const newMeasurementSystem = measurementSystem === "metric" ? "imperial" : "metric";
+    setMeasurementSystem(newMeasurementSystem);
+  };
+
   return (
-    <div className="fade-in absolute w-[90%] h-[100%] left-[10%] justify-center">
+    <div className="fade-in absolute w-[90%] h-[100%] left-[10%] justify-center" style={{ color: textColor }}>
       <div className="justify-center h-[10%]">
         <SettingsNav />
       </div>
@@ -107,6 +131,12 @@ function AppSettings() {
           >
             <FaCircle className="text-emerald-400" /> "From" Color
           </button>
+          <button
+            className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
+            onClick={() => [handleOpen(), setColorPicker("text")]}
+          >
+            <FaCircle className="text-emerald-400" /> "Text" Color
+          </button>
         </div>
         <FormGroup>
           <FormControlLabel
@@ -118,6 +148,26 @@ function AppSettings() {
               />
             }
             label="Automatic Dimming"
+          />
+        </FormGroup>
+        <FormGroup>
+          <FormControlLabel
+            control={
+              <Switch
+                checked={measurementSystem === "Imperial"}
+                onChange={(e) =>
+                  setMeasurementSystem(e.target.checked ? "Imperial" : "Metric")
+                }
+                value={measurementSystem === "Imperial" ? "Imperial" : "Metric"}
+              />
+            }
+            label={
+              <>
+                <span>Measurement System: </span>
+                {measurementSystem === "Imperial" ? "Imperial" : "Metric"}
+              </>
+            }
+            labelPlacement="end"
           />
         </FormGroup>
         <div className="w-[80%] left-[10%] bottom-2 place-self-center items-center justify-center absolute flex flex-col">
@@ -148,7 +198,7 @@ function AppSettings() {
       >
         <Box sx={modalStyle}>
           <Typography id="modal-modal-title" variant="h6" component="h2">
-            Select a colour!
+            Select a color!
           </Typography>
           <Typography
             id="modal-modal-description"
@@ -165,22 +215,14 @@ function AppSettings() {
               width={"540px"}
               circleSize={65}
               circleSpacing={25}
-              colors={colors}
-              onChange={updateColor}
+              colors={colorPicker === "text" ? textColors : colors}
+              onChange={colorPicker === "text" ? updateTextColor : updateColor}
             />
           </Typography>
         </Box>
       </Modal>
-      <div className="absolute left-[565px] top-[360px] gap-2.5">
-        <Link
-          to="/settings/dev"
-          className="flex gap-1.5 items-center bg-black bg-opacity-20 active:bg-opacity-40 transition px-3.5 py-2 rounded-lg"
-        >
-          <FaFreeCodeCamp className="text-emerald-400" />
-          <p className="inline-flex px-5">Dev</p>
-        </Link>
-      </div>
     </div>
   );
 }
+
 export default AppSettings;

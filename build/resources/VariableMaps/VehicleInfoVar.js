@@ -1,8 +1,8 @@
 let vehicleInfo = {
   setupInfoLine: "Welcome - First Time Setup Wizard",
-  firstTimeSetup: true,
-  vinDecode: false,
-  setupStep: 0,
+  firstTimeSetup: false,
+  vinDecode: true,
+  setupStep: 32,
   CCFID: "-",
   As_Built: "",
   VIN: "-",

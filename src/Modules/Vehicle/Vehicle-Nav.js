@@ -1,11 +1,13 @@
 /* eslint-disable no-unused-vars */
 import { React } from "react";
 import { Link, useLocation } from "react-router-dom";
-import { FaCar, FaCog, FaBackward } from "react-icons/fa";
+import { FaCar, FaCog, FaBackward, FaQuestionCircle } from "react-icons/fa";
 import { GiElectric } from "react-icons/gi";
 import "../Style.css";
 import { theme } from "../../Stores/theme";
 import { BsCode } from "react-icons/bs";
+import { TbEngine } from "react-icons/tb"; // Import the TbEngine icon
+import { AiOutlineCar } from "react-icons/ai";
 
 // want to start here? it will be ez for me to create whole page fast wait no
 // take me to nav container where width is set
@@ -20,8 +22,8 @@ function VehicleNav() {
     },
     {
       name: "Engine",
-      icon: <FaCog />,
-      path: "/vehicle/engine",
+      icon: <TbEngine />,
+      path: "/vehicle/electrical",
     },
     {
       name: "Dashboard",
@@ -35,7 +37,7 @@ function VehicleNav() {
     },
     {
       name: "Detailed",
-      icon: <FaCog />,
+      icon: <AiOutlineCar />,
       path: "/vehicle/detail",
     },
   ];
