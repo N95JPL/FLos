@@ -46,7 +46,7 @@ jobs:
 
       - name: Package Electron App
         run: |
-          npm run electron-pack
+          npm run electron-pack --publish never
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
