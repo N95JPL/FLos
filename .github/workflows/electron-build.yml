@@ -51,7 +51,7 @@ jobs:
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: electron-app-${{ matrix.platform }}
+          name: electron-app-${{ matrix.platform }}.replace('/', '-')
           path: dist/*.AppImage
 
   release:
