@@ -51,7 +51,7 @@ jobs:
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: electron-app-${{ matrix.platform }}.replace('/', '-')
+          name: FLos-${{ matrix.platform }}
           path: dist/*.AppImage
 
   release:
@@ -82,6 +82,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./electron-app-${{ matrix.platform }}.AppImage
-          asset_name: electron-app-${{ matrix.platform }}.AppImage
+          asset_path: ./FLos-${{ matrix.platform }}.AppImage
+          asset_name: FLos-${{ matrix.platform }}.AppImage
           asset_content_type: application/octet-stream
