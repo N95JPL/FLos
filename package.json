@@ -75,7 +75,7 @@
     "eject": "react-scripts eject",
     "electron": "npm run build && npm run electron-dev",
     "electron-dev": "BROWSER=none concurrently \"npm start\" \"wait-on http://localhost:3000 && electron .\"",
-    "electron-pack": "electron-builder build",
+    "electron-pack": "electron-builder build --publish never",
     "electron-build": "electron-rebuild -f -a x64 && electron-builder build --linux AppImage --x64",
     "preelectron-build": "npm run build",
     "postinstall": "electron-builder install-app-deps",
