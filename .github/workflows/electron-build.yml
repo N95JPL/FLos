@@ -39,9 +39,10 @@ jobs:
       - name: Rebuild native modules
         run: |
           npm rebuild --arch=${{ matrix.platform }}
-
+      - name: Update Browserslist Database
+        run: npx browserslist@latest --update-db
       - name: Build Electron App
-        run: npm run build
+        run: CI=false npm run build
 
       - name: Package Electron App
         run: |
