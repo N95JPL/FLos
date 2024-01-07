@@ -4,79 +4,59 @@ const path = require("path");
 const utils = require("@electron-toolkit/utils");
 const icon = path.join(__dirname, "../../resources/icon.png");
 let mediumSpeed = {
-  parking: {
-    frontLeft: 0,
-    frontLeftMiddle: 0,
-    frontRightMiddle: 0,
-    frontRight: 0,
-    rearLeft: 0,
-    rearLeftMiddle: 0,
-    rearRightMiddle: 0,
-    rearRight: 0,
-    active: false
-  },
-  time: {
-    hour: 0,
-    minute: 0,
-    second: 0
-  },
-  temperature: {
-    interior: "--",
-    exterior: "--",
-    coolant: "--"
-  },
-  brightness: {
-    brightness: 0,
-    adjustedBrightness: 0,
-    offset: 20,
-    auto: true
-  },
-  vehicle: {
-    speed: 0,
-    fuel: 0,
-    alternator: 0,
-    gear: 0,
-    voltage: 0,
-    charging_current: 0
-  }
+  frontLeft: 0,
+  frontLeftMiddle: 0,
+  frontRightMiddle: 0,
+  frontRight: 0,
+  rearLeft: 0,
+  rearLeftMiddle: 0,
+  rearRightMiddle: 0,
+  rearRight: 0,
+  active: false,
+  hour: 0,
+  minute: 0,
+  second: 0,
+  interior: "--",
+  exterior: "--",
+  coolant: "--",
+  brightness: 0,
+  adjustedBrightness: 0,
+  offset: 20,
+  auto: true,
+  speed: 0,
+  fuel: 0,
+  alternator: 0,
+  gear: 0,
+  voltage: 0,
+  charging_current: 0
 };
 exports.mediumSpeed = mediumSpeed;
 let mediumSpeedPrev = {
-  parking: {
-    frontLeft: 0,
-    frontLeftMiddle: 0,
-    frontRightMiddle: 0,
-    frontRight: 0,
-    rearLeft: 0,
-    rearLeftMiddle: 0,
-    rearRightMiddle: 0,
-    rearRight: 0,
-    active: false
-  },
-  time: {
-    hour: 0,
-    minute: 0,
-    second: 0
-  },
-  temperature: {
-    interior: "--",
-    exterior: "--",
-    coolant: "--"
-  },
-  brightness: {
-    brightness: 0,
-    adjustedBrightness: 0,
-    offset: 20,
-    auto: true
-  },
-  vehicle: {
-    speed: 0,
-    fuel: 0,
-    alternator: 0,
-    gear: 0,
-    voltage: 0,
-    charging_current: 0
-  }
+  frontLeft: 0,
+  frontLeftMiddle: 0,
+  frontRightMiddle: 0,
+  frontRight: 0,
+  rearLeft: 0,
+  rearLeftMiddle: 0,
+  rearRightMiddle: 0,
+  rearRight: 0,
+  active: false,
+  hour: 0,
+  minute: 0,
+  second: 0,
+  interior: "--",
+  exterior: "--",
+  coolant: "--",
+  brightness: 0,
+  adjustedBrightness: 0,
+  offset: 20,
+  auto: true,
+  speed: 0,
+  fuel: 0,
+  alternator: 0,
+  gear: 0,
+  voltage: 0,
+  charging_current: 0
 };
 exports.mediumSpeedPrev = mediumSpeedPrev;
 let entertainmentBus = {
@@ -115,8 +95,8 @@ exports.entertainmentBusPrev = entertainmentBusPrev;
 let vehicleInfo = {
   setupInfoLine: "Welcome - First Time Setup Wizard",
   firstTimeSetup: false,
-  vinDecode: true,
-  setupStep: 32,
+  vinDecode: false,
+  setupStep: 0,
   CCFID: "-",
   As_Built: "",
   VIN: "-",
@@ -137,7 +117,7 @@ let vehicleInfo = {
 exports.vehicleInfo = vehicleInfo;
 let vehicleInfoPrev = {
   setupInfoLine: "Welcome - First Time Setup Wizard",
-  firstTimeSetup: true,
+  firstTimeSetup: false,
   vinDecode: false,
   setupStep: 0,
   CCFID: "-",
@@ -159,21 +139,21 @@ let vehicleInfoPrev = {
 };
 exports.vehicleInfoPrev = vehicleInfoPrev;
 function ms488(msg) {
-  mediumSpeed.parking.active = msg.data.readUint8(1) & 128;
-  if (mediumSpeed.parking.active) {
+  mediumSpeed.active = msg.data.readUint8(1) & 128;
+  if (mediumSpeed.active) {
     let tempData = msg.data.readUint32BE(1);
     tempData = tempData << 12 >>> 12;
     const mask = 31;
-    mediumSpeed.parking.frontLeft = tempData & mask;
-    mediumSpeed.parking.frontRight = tempData >>> 15 & mask;
-    mediumSpeed.parking.frontLeftMiddle = tempData >>> 5 & mask;
-    mediumSpeed.parking.frontRightMiddle = tempData >>> 10 & mask;
+    mediumSpeed.frontLeft = tempData & mask;
+    mediumSpeed.frontRight = tempData >>> 15 & mask;
+    mediumSpeed.frontLeftMiddle = tempData >>> 5 & mask;
+    mediumSpeed.frontRightMiddle = tempData >>> 10 & mask;
     tempData = msg.data.readUint32BE(4);
     tempData = tempData << 12 >>> 12;
-    mediumSpeed.parking.rearLeft = tempData & mask;
-    mediumSpeed.parking.rearRight = tempData >>> 10 & mask;
-    mediumSpeed.parking.rearLeftMiddle = tempData >>> 5 & mask;
-    mediumSpeed.parking.rearRightMiddle = tempData >>> 15 & mask;
+    mediumSpeed.rearLeft = tempData & mask;
+    mediumSpeed.rearRight = tempData >>> 10 & mask;
+    mediumSpeed.rearLeftMiddle = tempData >>> 5 & mask;
+    mediumSpeed.rearRightMiddle = tempData >>> 15 & mask;
   }
 }
 module.exports = ms488;
@@ -41871,13 +41851,355 @@ let Vehicle_Manifest = {
   ]
 };
 exports.Vehicle_Manifest = Vehicle_Manifest;
+var arrBuilder = [
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "-"
+];
+var CCF = "";
+var CCFString = "";
+var is_modelid = false;
+var is_model = false;
+var is_ccfid = false;
+var setup = false;
+vehicleInfo.VIN = "-";
+vehicleInfo.Model_id = "-";
+vehicleInfo.brand = "-";
+vehicleInfo.model = "-";
+vehicleInfo.modelName = "-";
+vehicleInfo.market = "-";
+vehicleInfo.bodyStyle = "-";
+vehicleInfo.trim = "-";
+vehicleInfo.emission = "-";
+vehicleInfo.modelYear = "-";
+vehicleInfo.plant = "-";
+vehicleInfo.driver = "-";
+vehicleInfo.transmission = "-";
+vehicleInfo.engine = "-";
 function ms1025(msg, window) {
+  if (!setup) {
+    if (arrBuilder.includes("-")) {
+      vehicleInfo.setupStep = vehicleInfo.setupStep + 1;
+      msg.id;
+      const arr = [...msg.data];
+      var arrData = [arr[1], arr[2], arr[3], arr[4], arr[5], arr[6], arr[7]];
+      for (var i = 0; i < arrData.length; i++) {
+        arrData[i] = arrData[i].toString(16);
+        if (arrData[i].length < 2) {
+          arrData[i] = "0" + arrData[i];
+        }
+      }
+      vehicleInfo.setupInfoLine = "Parsing VIN data: " + vehicleInfo.setupStep + "/28 blocks received";
+      arrBuilder[parseInt(arr[0]) - 1] = arrData;
+    } else {
+      if (vehicleInfo.firstTimeSetup && !vehicleInfo.vinDecode) {
+        vehicleInfo.setupInfoLine = "Calculating VIN...";
+        console.log("All CCF data received");
+        CCF = arrBuilder.join("");
+        CCF = CCF.replaceAll(",", "");
+        CCFString = hex2a(CCF);
+        vehicleInfo.VIN = CCFString.substring(3, 20);
+        console.log("This vehicles VIN: " + vehicleInfo.VIN);
+        if (vehicleInfo.VIN.length === 17) {
+          console.log("VIN is valid");
+          vehicleInfo.setupInfoLine = "Decoding VIN: Fetching Model ID";
+          decodeModelID(vehicleInfo.VIN);
+          if (is_modelid) {
+            console.log("Model ID: " + vehicleInfo.Model_id);
+            vehicleInfo.setupInfoLine = "Decoding VIN: Fetching Model";
+            decodeModel(vehicleInfo.VIN);
+            if (is_model) {
+              vehicleInfo.setupInfoLine = "Decoding VIN: Fetching CCF ID and As Built";
+              decodeCCFID();
+              if (is_ccfid) {
+                vehicleInfo.setupInfoLine = "Decoding CCF: Well... On day I we will decode the CCF";
+                console.log("It would appear that all the vehicle info has been decoded!");
+                vehicleInfo.vinDecode = true;
+              }
+            }
+          }
+        }
+        if (!vehicleInfo.vinDecode) {
+          vehicleInfo.setupInfoLine = "Oops! Something went wrong! We will try again!";
+          arrBuilder = [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ];
+          CCF = "";
+          CCFString = "";
+          vehicleInfo.firstTimeSetup = true;
+          vehicleInfo.vinDecode = false;
+          vehicleInfo.CCFID = "-";
+          vehicleInfo.As_Built = "-";
+          vehicleInfo.VIN = "-";
+          vehicleInfo.Model_id = "-";
+          vehicleInfo.Brand = "-";
+          vehicleInfo.Model = "-";
+          vehicleInfo.ModelName = "-";
+          vehicleInfo.Market = "-";
+          vehicleInfo.BodyStyle = "-";
+          vehicleInfo.Trim = "-";
+          vehicleInfo.Emission = "-";
+          vehicleInfo.ModelYear = "-";
+          vehicleInfo.Plant = "-";
+          vehicleInfo.Driver = "-";
+          vehicleInfo.Transmission = "-";
+          vehicleInfo.Engine = "-";
+        }
+      } else if (!vehicleInfo.firstTimeSetup && !vehicleInfo.vinDecode) {
+        CCF = arrBuilder.join("");
+        CCF = CCF.replaceAll(",", "");
+        CCFString = hex2a(CCF);
+        let VIN = CCFString.substring(3, 20);
+        if (VIN === vehicleInfo.VIN) {
+          vehicleInfo.vinDecode = true;
+          setup = true;
+        } else {
+          vehicleInfo.firstTimeSetup = true;
+          vehicleInfo.vinDecode = false;
+          vehicleInfo.VIN = VIN;
+          vehicleInfo.CCFID = "-";
+          vehicleInfo.As_Built = "-";
+          vehicleInfo.Model_id = "-";
+          vehicleInfo.Brand = "-";
+          vehicleInfo.Model = "-";
+          vehicleInfo.ModelName = "-";
+          vehicleInfo.Market = "-";
+          vehicleInfo.BodyStyle = "-";
+          vehicleInfo.Trim = "-";
+          vehicleInfo.Emission = "-";
+          vehicleInfo.ModelYear = "-";
+          vehicleInfo.Plant = "-";
+          vehicleInfo.Driver = "-";
+          vehicleInfo.Transmission = "-";
+          vehicleInfo.Engine = "-";
+        }
+      } else if (vehicleInfo.vinDecode) {
+        setup = true;
+        setTimeout(() => {
+          window.webContents.send("fadeOut", "now");
+          setTimeout(() => {
+            vehicleInfo.firstTimeSetup = false;
+          }, 2e3);
+        }, 2e3);
+      }
+    }
+  }
+}
+function decodeModelID(VIN) {
+  var charpos = "1,3";
+  var opt = "";
+  var charval = "";
+  var val_test = "";
+  is_modelid = false;
+  for (var i = 0; i < VINDecode["Models"].length; i++) {
+    console.log("Running Model: " + i);
+    console.log("Number of Tests to run: " + VINDecode["Models"][i]["Test"].length);
+    if (VINDecode["Models"][i]["Test"].length) {
+      for (var x = 0; x < VINDecode["Models"][i]["Test"].length + 1; x++) {
+        charpos = VINDecode.Models[i].Test[x].CharPos;
+        opt = VINDecode.Models[i].Test[x].Operator;
+        charval = VINDecode.Models[i].Test[x].CharValue;
+        if (charpos.includes(",")) {
+          val_test = VIN.substring(parseInt(charpos.charAt(0)) - 1, parseInt(charpos.charAt(2)));
+          console.log("val_test: " + val_test);
+        } else {
+          val_test = VIN.charAt(parseInt(charpos - 1));
+          console.log("val_test: " + val_test);
+        }
+        if (opt === "EQUAL") {
+          if (val_test === charval) {
+            is_modelid = true;
+            console.log(
+              "SOMETHING MATCHED! " + val_test + " matched with " + VINDecode.Models[i].DecodeModel
+            );
+          } else {
+            is_modelid = false;
+          }
+        } else if (opt === "NOT_EQUAL") {
+          if (val_test != charval) {
+            is_modelid = true;
+          } else {
+            is_modelid = false;
+          }
+        }
+        if (is_modelid === false) {
+          break;
+        }
+      }
+    } else {
+      charpos = VINDecode.Models[i].Test.CharPos;
+      opt = VINDecode.Models[i].Test.Operator;
+      charval = VINDecode.Models[i].Test.CharValue;
+      if (charpos.includes(",")) {
+        val_test = VIN.substring(parseInt(charpos.charAt(0)) - 1, parseInt(charpos.charAt(2)));
+        console.log("val_test: " + val_test);
+      } else {
+        val_test = VIN.charAt(parseInt(charpos - 1));
+        console.log("val_test: " + val_test);
+      }
+      if (opt === "EQUAL") {
+        if (val_test == charval) {
+          is_modelid = true;
+          console.log(
+            "SOMETHING MATCHED! " + val_test + " matched with " + VINDecode.Models[i].DecodeModel
+          );
+        } else {
+          is_modelid = false;
+        }
+      } else if (opt === "NOT_EQUAL") {
+        if (val_test != charval) {
+          is_modelid = true;
+        } else {
+          is_modelid = false;
+        }
+      }
+    }
+    if (is_modelid) {
+      vehicleInfo.Model_id = VINDecode.Models[i].DecodeModel;
+      console.log("decodeModelID Passed: " + vehicleInfo.Model_id);
+      break;
+    }
+  }
+  if (!is_modelid) {
+    console.error("All tests have failed!\nIs this a JLR Vehicle?\nVIN: " + vehicleInfo.VIN);
+    vehicleInfo.setupInfoLine = "Are you sure this is a JLR Vehicle?";
+  }
+}
+function decodeModel(VIN) {
+  var charpos = "1,3";
+  var val_test = "";
+  var name = "";
+  is_model = false;
+  const result = VINDecode.Decodes.find((Decode) => Decode.id == vehicleInfo.Model_id);
+  console.log(result);
+  for (var i = 0; i < result.Attribute.length; i++) {
+    console.log("Running Attribute: " + i);
+    if (!result.Attribute[i].Char) {
+      name = result.Attribute[i].Name;
+      vehicleInfo[name] = result.Attribute[i].Decode;
+    } else {
+      charpos = result.Attribute[i].Char;
+      if (charpos.includes(",")) {
+        val_test = VIN.substring(parseInt(charpos.charAt(0) - 1), parseInt(charpos.charAt(2)));
+      } else {
+        val_test = VIN.charAt(parseInt(charpos - 1));
+      }
+      name = result.Attribute[i].Name;
+      for (var x = 0; x < result.Attribute[i].Value.length; x++) {
+        if (val_test == result.Attribute[i].Value[x].Value) {
+          vehicleInfo[name] = result.Attribute[i].Value[x].Decode;
+          break;
+        }
+      }
+    }
+  }
+  if (vehicleInfo.VIN != "-" && vehicleInfo.Model_id != "-" && vehicleInfo.Brand != "-" && vehicleInfo.Model != "-" && vehicleInfo.ModelName != "-" && vehicleInfo.Market != "-" && vehicleInfo.BodyStyle != "-" & vehicleInfo.Trim != "-" && vehicleInfo.ModelYear != "-" && vehicleInfo.Plant != "-" && vehicleInfo.Driver != "-" && vehicleInfo.Transmission != "-" && vehicleInfo.Engine != "-") {
+    console.log("decodeModel Passed: " + vehicleInfo.Model);
+    is_model = true;
+  } else {
+    is_model = false;
+  }
+}
+function decodeCCFID() {
+  is_ccfid = false;
+  var yeartest = "";
+  var vinMin = "";
+  var vinMax = "";
+  var vinTest = vehicleInfo.VIN.substring(11, 17);
+  for (var x = 0; x < Vehicle_Manifest.vehicle_range.length; x++) {
+    if (Vehicle_Manifest.vehicle_range[x].brand === vehicleInfo.Brand.toLowerCase().replace(" ", "")) {
+      for (var y = 0; y < Vehicle_Manifest.vehicle_range[x].vehicle.length; y++) {
+        if (Vehicle_Manifest.vehicle_range[x].vehicle[y].model.id == vehicleInfo.Model) {
+          for (var z = 0; z < Vehicle_Manifest.vehicle_range[x].vehicle[y].variant.length; z++) {
+            yeartest = Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].model_year.my_gui;
+            yeartest = yeartest.split(" - ");
+            if (vehicleInfo.ModelYear === yeartest[0] || vehicleInfo.ModelYear >= yeartest[0] && vehicleInfo.ModelYear <= yeartest[1]) {
+              vinMin = Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].vin.min;
+              vinMax = Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].vin.max;
+              if (vinTest >= vinMin && vinTest <= vinMax) {
+                vehicleInfo.CCFID = Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].file_manifest.id;
+                vehicleInfo.As_Built = Vehicle_Manifest.vehicle_range[x].vehicle[y].as_built;
+                is_ccfid = true;
+                break;
+              }
+            }
+          }
+        }
+        if (is_ccfid) {
+          break;
+        }
+      }
+    }
+    if (is_ccfid) {
+      break;
+    }
+  }
+}
+function hex2a(str1) {
+  var hex = str1.toString();
+  var str = "";
+  for (var n = 0; n < hex.length; n += 2) {
+    str += String.fromCharCode(parseInt(hex.substr(n, 2), 16));
+  }
+  return str;
 }
 module.exports = ms1025;
 function ms1168(msg) {
   const arr = [...msg.data];
   var temp = (arr[5] + arr[6]) / 100 * 0.62137119;
-  mediumSpeed.vehicle.speed = temp;
+  mediumSpeed.speed = temp;
 }
 module.exports = ms1168;
 function ms1234(msg) {
@@ -41889,9 +42211,9 @@ function ms1234(msg) {
   var hour = arr[5];
   var minute = arr[6];
   var second = arr[7];
-  mediumSpeed.time.hour = hour < 10 ? "0" + arr[5] : arr[5];
-  mediumSpeed.time.minute = minute < 10 ? "0" + arr[6] : arr[6];
-  mediumSpeed.time.second = second < 10 ? "0" + arr[7] : arr[7];
+  mediumSpeed.hour = hour < 10 ? "0" + arr[5] : arr[5];
+  mediumSpeed.minute = minute < 10 ? "0" + arr[6] : arr[6];
+  mediumSpeed.second = second < 10 ? "0" + arr[7] : arr[7];
 }
 module.exports = ms1234;
 function ms1236(msg) {
@@ -41908,14 +42230,14 @@ function ms1236(msg) {
   temp = temp.join("");
   temp = parseInt(temp, 16) / 5;
   temp = temp.toFixed(1);
-  mediumSpeed.vehicle.fuel = temp;
+  mediumSpeed.fuel = temp;
 }
 module.exports = ms1236;
 function ms1249(msg) {
   const arr = [...msg.data];
   var temp = arr[1] / 2 - 57;
   temp = temp.toFixed(1);
-  mediumSpeed.temperature.interior = temp;
+  mediumSpeed.interior = temp;
 }
 module.exports = ms1249;
 function ms1251(msg) {
@@ -41933,9 +42255,9 @@ function ms1251(msg) {
   temp = parseInt(temp, 16) / 4;
   temp = Math.ceil(temp * 2) / 2;
   temp = temp.toFixed(1);
-  mediumSpeed.temperature.exterior = temp;
+  mediumSpeed.exterior = temp;
   temp = parseInt(arr[0], 16) - 60;
-  mediumSpeed.temperature.coolant = temp;
+  mediumSpeed.coolant = temp;
 }
 module.exports = ms1251;
 const IDs$1 = [488, 1025, 1168, 1234, 1236, 1249, 1251];
@@ -41943,9 +42265,9 @@ function parseMediumSpeed(msg, window) {
   if (IDs$1.includes(msg.id)) {
     if (msg.id === 488) {
       new ms488(msg);
-    } else if (msg.id === 1025)
-      ;
-    else if (msg.id === 1168) {
+    } else if (msg.id === 1025) {
+      new ms1025(msg, window);
+    } else if (msg.id === 1168) {
       new ms1168(msg);
     } else if (msg.id === 1234) {
       new ms1234(msg);
@@ -42101,14 +42423,7 @@ const can = require("socketcan");
 const fs = require("fs");
 let msCanDump = "";
 let hsCanDump = "";
-let changedMedium = {
-  // Best not to change this
-  parking: {},
-  time: {},
-  temperature: {},
-  brightness: {},
-  vehicle: {}
-};
+let changedMedium = {};
 let changedEntertainmentBus = {};
 let changedVehicleInfo = {};
 const server = function(window) {
@@ -42155,7 +42470,7 @@ const server = function(window) {
       canDataMS = "";
       canDataMSval = "";
     }
-    parseMediumSpeed(msg);
+    parseMediumSpeed(msg, window);
   });
   can1.addListener("onMessage", function(msg) {
     if (canRecordingHS) {
@@ -42175,14 +42490,12 @@ const server = function(window) {
   can0.start();
   can1.start();
   ipcMain.on("actionBrightness", (event, msg) => {
-    mediumSpeed.brightness.offset = msg.value;
-    mediumSpeed.brightness.auto = msg.auto;
-    if (!mediumSpeed.brightness.auto) {
-      mediumSpeed.brightness.adjustedLight = Math.round(msg.value * (255 / 32.5));
-      exec(
-        "echo " + mediumSpeed.brightness.adjustedLight + " > /sys/class/backlight/10-0045/brightness"
-      );
-      mediumSpeedPrev.brightness.adjustedLight = mediumSpeed.brightness.adjustedLight;
+    mediumSpeed.offset = msg.value;
+    mediumSpeed.auto = msg.auto;
+    if (!mediumSpeed.auto) {
+      mediumSpeed.adjustedLight = Math.round(msg.value * (255 / 32.5));
+      exec("echo " + mediumSpeed.adjustedLight + " > /sys/class/backlight/10-0045/brightness");
+      mediumSpeedPrev.adjustedLight = mediumSpeed.adjustedLight;
     }
   });
   ipcMain.on("canRecorder", (event, msg) => {
@@ -42238,29 +42551,19 @@ const server = function(window) {
   });
   setInterval(() => {
     let send = false;
-    if (mediumSpeed.brightness.adjustedLight !== mediumSpeedPrev.brightness.adjustedLight) {
-      exec(
-        "echo " + mediumSpeed.brightness.adjustedLight + " > /sys/class/backlight/10-0045/brightness"
-      );
+    if (mediumSpeed.adjustedLight !== mediumSpeedPrev.adjustedLight) {
+      exec("echo " + mediumSpeed.adjustedLight + " > /sys/class/backlight/10-0045/brightness");
     }
     for (const key in mediumSpeed) {
-      for (const [info, value] of Object.entries(mediumSpeed[key])) {
-        if (value !== mediumSpeedPrev[key][info]) {
-          send = true;
-          changedMedium[`${key}`][`${info}`] = value;
-          mediumSpeedPrev[`${key}`][`${info}`] = value;
-        }
+      if (mediumSpeed[key] !== mediumSpeedPrev[key]) {
+        send = true;
+        changedMedium[`${key}`] = mediumSpeed[key];
+        mediumSpeedPrev[`${key}`] = mediumSpeed[key];
       }
     }
     if (send) {
       window.webContents.send("mediumSpeed", changedMedium);
-      changedMedium = {
-        parking: {},
-        time: {},
-        temperature: {},
-        brightness: {},
-        vehicle: {}
-      };
+      changedMedium = {};
     }
   }, 100);
   setInterval(() => {
@@ -42333,7 +42636,7 @@ function createWindow() {
   if (utils.is.dev) {
     mainWindow.webContents.openDevTools({ mode: "detach" });
   }
-  console.log("Hello?");
+  mainWindow.webContents.openDevTools({ mode: "detach" });
   mainWindow.once("ready-to-show", () => {
     server(mainWindow);
     mainWindow.loadFile(path.join(__dirname, "../renderer/splashScreen.html"));
