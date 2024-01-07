@@ -1,50 +1,51 @@
-const defaultTheme = require("tailwindcss/defaultTheme");
+/* eslint-disable no-unused-vars */
+const defaultTheme = require('tailwindcss/defaultTheme')
 module.exports = {
-  darkMode: "class",
-  safelist: ["", "px-4", "any-class-you-want-to-keep"],
+  darkMode: 'class',
+  safelist: ['', 'px-4', 'any-class-you-want-to-keep'],
   content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
-    "./public/index.html",
-    "./safelist.txt",
-    "./node_modules/tw-elements/dist/js/**/*.js",
+    './src/**/*.{js,jsx,ts,tsx}',
+    './src/renderer/index.html',
+    './safelist.txt',
+    './node_modules/tw-elements/dist/js/**/*.js'
   ],
-  important: "#root",
+  important: '#root',
   theme: {
     container: {
       center: true,
 
       padding: {
-        DEFAULT: "1rem",
-        sm: "2rem",
-        lg: "4rem",
-        xl: "5rem",
-        "2xl": "6rem",
-      },
+        DEFAULT: '1rem',
+        sm: '2rem',
+        lg: '4rem',
+        xl: '5rem',
+        '2xl': '6rem'
+      }
     },
     extend: {
       lineClamp: {
-        7: "7",
-        8: "8",
-        9: "9",
-        10: "10",
-      },
-    },
+        7: '7',
+        8: '8',
+        9: '9',
+        10: '10'
+      }
+    }
   },
   variants: {
     extend: {},
-    lineClamp: ["responsive", "hover"],
+    lineClamp: ['responsive', 'hover']
   },
   corePlugins: {
-    aspectRatio: false,
+    aspectRatio: false
   },
   plugins: [
-    require("tw-elements/dist/plugin"),
-    require("@tailwindcss/forms"),
-    require("@tailwindcss/typography"),
-    require("@tailwindcss/container-queries"),
-    require("@tailwindcss/aspect-ratio"),
-    require("tailwind-safelist-generator")({
-      patterns: ["from-{colors}", "to-{colors}"],
-    }),
-  ],
-};
+    require('tw-elements/dist/plugin'),
+    require('@tailwindcss/forms'),
+    require('@tailwindcss/typography'),
+    require('@tailwindcss/container-queries'),
+    require('@tailwindcss/aspect-ratio'),
+    require('tailwind-safelist-generator')({
+      patterns: ['from-{colors}', 'to-{colors}']
+    })
+  ]
+}

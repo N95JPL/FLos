@@ -1,25 +1,29 @@
 {
   "name": "flos",
-  "version": "0.1.0",
-  "engines": {
-    "node": "19.8.1"
-  },
-  "private": true,
-  "main": "public/electron.js",
-  "homepage": "./",
-  "title": "FLos",
-  "description": "A Electron-React application for controlling a Freelander 2 > 2012 Media System",
-  "author": {
-    "name": "N95JPL",
-    "email": "joshuapopelewis@gmail.com",
-    "url": "https://github.com/N95JPL"
+  "version": "0.0.1",
+  "description": "An Electron application with React",
+  "main": "./out/main/index.js",
+  "author": "N95JPL",
+  "homepage": "",
+  "scripts": {
+    "format": "prettier --write .",
+    "lint": "eslint . --ext .js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix",
+    "start": "electron-vite preview",
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "postinstall": "electron-builder install-app-deps",
+    "build:win": "npm run build && electron-builder --win --config",
+    "build:mac": "npm run build && electron-builder --mac --config",
+    "build:linux": "npm run build && electron-builder --linux --config"
   },
   "dependencies": {
+    "@electron-toolkit/preload": "^2.0.0",
+    "@electron-toolkit/utils": "^2.0.0",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
-    "@mui/material": "^5.11.3",
+    "@mui/material": "^5.15.3",
     "color-convert": "^2.0.1",
-    "electron-is-dev": "^2.0.0",
+    "electron-updater": "^6.1.1",
     "fast-xml-parser": "^4.2.4",
     "immer": "^9.0.17",
     "react": "^18.2.0",
@@ -28,16 +32,16 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
     "react-router-dom": "^6.6.1",
-    "react-scripts": "^5.1.0-next.14",
     "react-transition-group": "^4.4.5",
     "recharts": "^2.3.2",
-    "socketcan": "^4.0.3",
+    "socketcan": "^4.0.4",
     "tw-elements": "^1.0.0-alpha13",
     "xml2json": "^0.12.0",
     "zustand": "^4.2.0"
   },
   "devDependencies": {
-    "@electron/rebuild": "^3.2.10",
+    "@electron-toolkit/eslint-config": "^1.0.1",
+    "@electron-toolkit/eslint-config-prettier": "^1.0.1",
     "@eove/eslint-config-electron": "^1.8.0",
     "@prettier/plugin-xml": "^2.2.0",
     "@tailwindcss/aspect-ratio": "^0.4.2",
@@ -47,100 +51,26 @@
     "@tailwindcss/typography": "^0.5.8",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.4.3",
+    "@vitejs/plugin-react": "^4.0.4",
     "ajv": "^8.11.2",
     "autoprefixer": "^10.4.13",
-    "concurrently": "^8.0.1",
-    "electron": "^24.0.0",
-    "electron-builder": "^23.6.0",
-    "eslint": "^8.31.0",
+    "electron": "^25.6.0",
+    "electron-builder": "^24.6.3",
+    "electron-vite": "^1.0.27",
+    "eslint": "^8.47.0",
     "eslint-auto-fix": "^1.0.4",
     "eslint-config-prettier": "^8.6.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.6.0",
     "eslint-plugin-promise": "^6.1.1",
-    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "postcss": "^8.4.20",
     "postcss-loader": "^7.0.2",
-    "prettier": "^2.8.1",
+    "prettier": "^3.0.2",
     "tailwind-safelist-generator": "^1.0.0",
     "tailwindcss": "^3.2.4",
-    "wait-on": "^7.0.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "electron": "npm run build && npm run electron-dev",
-    "electron-dev": "BROWSER=none concurrently \"npm start\" \"wait-on http://localhost:3000 && electron .\"",
-    "electron-pack": "electron-builder build --publish never",
-    "electron-build": "electron-rebuild -f -a x64 && electron-builder build --linux AppImage --x64",
-    "preelectron-build": "npm run build",
-    "postinstall": "electron-builder install-app-deps",
-    "dist": "npm run build && build --publish onTagOrDraft",
-    "rebuild": "electron-rebuild -f",
-    "buildAll": "npm run linux64-build && npm run pi32-build && npm run pi64-build",
-    "linux64-build": "electron-builder build --linux deb --x64",
-    "pi32-build": "electron-builder --linux AppImage --armv7l",
-    "pi64-build": "electron-builder build --linux AppImage --arm64",
-    "pretty": "prettier --write \"./**/*/*/*.{js,jsx,json,xml}\""
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app"
-    ],
-    "plugins": [
-      "react-hooks"
-    ],
-    "rules": {
-      "react-hooks/rules-of-hooks": "error",
-      "react-hooks/exhaustive-deps": "warn",
-      "no-unused-vars": "off"
-    }
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "build": {
-    "productName": "FLos",
-    "npmRebuild": true,
-    "artifactName": "FLos-${version}-${arch}.${ext}",
-    "appId": "io.jplogics.FLos",
-    "files": [
-      "./src/**/*",
-      "./build/**/*"
-    ],
-    "extraResources": [
-      {
-        "from": "./public/resources/JSON/",
-        "to": "JSON",
-        "filter": [
-          "**/*"
-        ]
-      }
-    ],
-    "directories": {
-      "app": "./",
-      "output": "./dist",
-      "buildResources": "./build"
-    },
-    "linux": {
-      "target": [
-        "AppImage"
-      ],
-      "category": "Utility",
-      "icon": "./public/resources/logo.png"
-    }
+    "vite": "^4.4.9"
   }
 }
