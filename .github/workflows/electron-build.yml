@@ -31,7 +31,7 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '20.10.0'
+          node-version: "20.10.0"
 
       - name: Install dependencies
         run: npm install
@@ -39,19 +39,17 @@ jobs:
       - name: Rebuild native modules
         run: |
           npm rebuild --arch=${{ matrix.platform }}
-      - name: Update Browserslist Database
-        run: npx browserslist@latest --update-db
-      - name: Build Electron App
-        run: CI=false npm run build
 
-      - name: Package Electron App
-        run: |
-          npm run electron-pack
+      - name: Extract version
+        run: echo "VERSION=$(cat package.json | jq -r .version)" >> $GITHUB_ENV
+
+      - name: Build Electron App
+        run: CI=false npm run build:linux
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: FLos-${{ matrix.platform }}.AppImage
+          name: FLos-${{ matrix.platform }}-${{ env.VERSION }}.AppImage
           path: dist/*.AppImage
 
   release:
@@ -82,6 +80,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./FLos-${{ matrix.platform }}.AppImage
-          asset_name: FLos-${{ matrix.platform }}.AppImage
+          asset_path: ./FLos-${{ matrix.platform }}-${{ env.VERSION }}.AppImage
+          asset_name: FLos-${{ matrix.platform }}-${{ env.VERSION }}.AppImage
           asset_content_type: application/octet-stream
