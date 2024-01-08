@@ -22,7 +22,7 @@ function createWindow() {
 		fullscreen: false,
 		maxHeight: 480,
 		minHeight: 480,
-		show: false,
+		show: true,
 		autoHideMenuBar: true,
 		...(process.platform === "linux" ? { icon } : {}),
 		webPreferences: {
@@ -36,18 +36,17 @@ function createWindow() {
 			webSecurity: true,
 		},
 	});
+	mainWindow.loadFile(join(__dirname, "../renderer/splashScreen.html"));
 	mainWindow.on("unresponsive", () => {
 		console.log("Load time excessive");
 	});
 	if (is.dev) {
 		mainWindow.webContents.openDevTools({ mode: "detach" });
 	}
-	server(mainWindow);
-	// mainWindow.webContents.openDevTools({ mode: "detach" });
-	mainWindow.loadFile(join(__dirname, "../renderer/splashScreen.html"));
+
 	mainWindow.once("ready-to-show", () => {
-		mainWindow.show();
-		// mainWindow.webContents.closeDevTools();
+		server(mainWindow);
+		// mainWindow.show();
 		setTimeout(() => {
 			mainWindow.webContents.send("fadeOut", "now");
 			setTimeout(() => {
