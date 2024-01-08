@@ -27,8 +27,6 @@ export let mediumSpeed = {
 	charging_current: 0,
 };
 
-exports.mediumSpeed = mediumSpeed;
-
 export let mediumSpeedPrev = {
 	frontLeft: 0,
 	frontLeftMiddle: 0,
@@ -56,4 +54,3 @@ export let mediumSpeedPrev = {
 	voltage: 0,
 	charging_current: 0,
 };
-exports.mediumSpeedPrev = mediumSpeedPrev;

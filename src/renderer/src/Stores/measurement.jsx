@@ -1,15 +1,15 @@
 // measurement.js
-import create from 'zustand'
-import { persist } from 'zustand/middleware'
+import create from "zustand";
+import { persist } from "zustand/middleware";
 
 export const measurementStore = create(
   persist(
     (set) => ({
-      measurementSystem: 'Metric',
-      setMeasurementSystem: (system) => set({ measurementSystem: system })
+      measurementSystem: "Metric",
+      setMeasurementSystem: (system) => set({ measurementSystem: system }),
     }),
     {
-      name: 'measurement'
-    }
-  )
-)
+      name: "measurement",
+    },
+  ),
+);

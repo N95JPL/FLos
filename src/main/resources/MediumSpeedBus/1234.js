@@ -21,4 +21,4 @@ export function ms1234(msg) {
 	// console.log(mediumSpeed.time.hour + ':' + mediumSpeed.time.minute + ':' + mediumSpeed.time.second)
 }
 
-module.exports = ms1234;
+//module.exports = ms1234;

@@ -23,4 +23,4 @@ export function ms1236(msg) {
 	mediumSpeed.fuel = temp;
 }
 
-module.exports = ms1236;
+//module.exports = ms1236;

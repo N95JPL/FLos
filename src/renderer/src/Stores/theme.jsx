@@ -1,20 +1,20 @@
-import create from 'zustand'
-import { persist } from 'zustand/middleware'
+import create from "zustand";
+import { persist } from "zustand/middleware";
 
 export let theme = create(
   persist(
     (set) => ({
       darkMode: false,
       setDarkMode: (darkMode) => set({ darkMode }),
-      primaryColor: 'sky',
+      primaryColor: "sky",
       setPrimaryColor: (primaryColor) => set({ primaryColor }),
-      secondaryColor: 'pink',
+      secondaryColor: "pink",
       setSecondaryColor: (secondaryColor) => set({ secondaryColor }),
-      textColor: 'White',
-      setTextColor: (textColor) => set({ textColor })
+      textColor: "White",
+      setTextColor: (textColor) => set({ textColor }),
     }),
     {
-      name: 'theme'
-    }
-  )
-)
+      name: "theme",
+    },
+  ),
+);

@@ -1,56 +1,56 @@
-import './Style.css'
-import { entertainmentBus } from '../Stores/entertainmentBus'
+import "./Style.css";
+import { entertainmentBus } from "../Stores/entertainmentBus";
 
 export function Entertainment() {
-  const sourceSel = entertainmentBus((state) => state.sourceSel)
+  const sourceSel = entertainmentBus((state) => state.sourceSel);
 
   return (
     <>
       <div id="outlet" className="fadeIn">
-        {sourceSel == 'Radio' ? (
+        {sourceSel == "Radio" ? (
           <Radio />
-        ) : sourceSel == 'Bluetooth' ? (
+        ) : sourceSel == "Bluetooth" ? (
           <Bluetooth />
-        ) : sourceSel == 'Aux' ? (
+        ) : sourceSel == "Aux" ? (
           <Aux />
         ) : (
           <Unknown />
         )}
       </div>
     </>
-  )
+  );
 }
 
 function Radio() {
-  const fmStation = entertainmentBus((state) => state.fmStation)
-  const dabStation = entertainmentBus((state) => state.dabStation)
-  const source = entertainmentBus((state) => state.source)
-  const text = entertainmentBus((state) => state.text)
+  const fmStation = entertainmentBus((state) => state.fmStation);
+  const dabStation = entertainmentBus((state) => state.dabStation);
+  const source = entertainmentBus((state) => state.source);
+  const text = entertainmentBus((state) => state.text);
   // eslint-disable-next-line no-unused-vars
-  const block = entertainmentBus((state) => state.block)
+  const block = entertainmentBus((state) => state.block);
   // eslint-disable-next-line no-unused-vars
-  const active = entertainmentBus((state) => state.active)
+  const active = entertainmentBus((state) => state.active);
 
   const menuItems = [
     {
-      name: 'FM'
+      name: "FM",
     },
     {
-      name: 'FM-AST'
+      name: "FM-AST",
     },
     {
-      name: 'DAB1'
+      name: "DAB1",
     },
     {
-      name: 'DAB2'
+      name: "DAB2",
     },
     {
-      name: 'AM'
+      name: "AM",
     },
     {
-      name: 'AM-AST'
-    }
-  ]
+      name: "AM-AST",
+    },
+  ];
 
   return (
     <>
@@ -58,29 +58,31 @@ function Radio() {
         <div className="flex absolute grid-cols-6 my-2 w-[100%] h-[15%] justify-evenly text-center items-center">
           {/* Radio Source */}
           {menuItems.map((m, index) => {
-            let x = source
-            let y = m.name
+            let x = source;
+            let y = m.name;
             return (
               <div
                 key={index}
                 className={`${
-                  x === y ? 'text-blue-500 text-3xl' : 'text-white text-2xl opacity-50'
+                  x === y
+                    ? "text-blue-500 text-3xl"
+                    : "text-white text-2xl opacity-50"
                 } h-max`}
               >
                 {m.name}
               </div>
-            )
+            );
           })}
         </div>
         <div className="absolute grid grid-rows-2 h-[15%] top-[15%] justify-center w-[100%] text-center">
           <div className="grid row-span-1 justify-evenly w-[100%] text-center text-xl">
             {/* Radio Station */}
             <p>
-              {source == 'DAB1' || source == 'DAB2'
+              {source == "DAB1" || source == "DAB2"
                 ? dabStation
-                : source == 'FM' || source == 'FM-AST'
+                : source == "FM" || source == "FM-AST"
                   ? fmStation
-                  : '??'}
+                  : "??"}
             </p>
           </div>
           <div className="grid row-span-1 justify-evenly w-[100%] text-center text-xl">
@@ -90,7 +92,7 @@ function Radio() {
         </div>
       </div>
     </>
-  )
+  );
 }
 
 function Bluetooth() {
@@ -107,7 +109,7 @@ function Bluetooth() {
         </div>
       </div>
     </>
-  )
+  );
 }
 
 function Aux() {
@@ -124,11 +126,11 @@ function Aux() {
         </div>
       </div>
     </>
-  )
+  );
 }
 
 function Unknown() {
-  const sourceSel = entertainmentBus((state) => state.sourceSel)
+  const sourceSel = entertainmentBus((state) => state.sourceSel);
   return (
     <>
       <div className="grid grid-rows-2 justify-evenly h-full w-full text-center">
@@ -143,6 +145,6 @@ function Unknown() {
         </div>
       </div>
     </>
-  )
+  );
 }
-export default Entertainment
+export default Entertainment;

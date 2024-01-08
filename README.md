@@ -31,34 +31,35 @@ A Electron-Vite-React App to one day replace the Infotainment Module of my Freel
 
 ### Install
 
-1) Make sure RPi is running latest version
-2) Install NodeJs: This has only been tested on the latest 19.2.0
-4) Install CanUtils: sudo apt-get -y install can-utils libsocketcan2 libsocketcan-dev
-5) Modify /boot/config.txt to include
-    * CAN bus controllers
+1. Make sure RPi is running latest version
+2. Install NodeJs: This has only been tested on the latest 19.2.0
+3. Install CanUtils: sudo apt-get -y install can-utils libsocketcan2 libsocketcan-dev
+4. Modify /boot/config.txt to include
 
-    ```
-    dtparam=spi=on
-    dtoverlay=mcp2515-can1,oscillator=16000000,interrupt=25
-    dtoverlay=mcp2515-can0,oscillator=16000000,interrupt=23
-    ```
+   - CAN bus controllers
 
-6) Modify /etc/rc.local to include the next lines **BEFORE** "exit 0"
+   ```
+   dtparam=spi=on
+   dtoverlay=mcp2515-can1,oscillator=16000000,interrupt=25
+   dtoverlay=mcp2515-can0,oscillator=16000000,interrupt=23
+   ```
 
-    ```
-    sudo /sbin/ip link set can1 up type can bitrate 500000
-    sudo /sbin/ip link set can0 up type can bitrate 125000
-    ```
+5. Modify /etc/rc.local to include the next lines **BEFORE** "exit 0"
 
-7) Reboot Pi
-8) Download FLos Repo
-9) run `npm i`
-10) Run `npm run` + either
-    * pi64-build - For RPi 4 - 4GB+ (npm run pi64-build)
-    * pi32-build - For Rpi 3 or Rpi 4 < 4GB (npm run pi32-build)
-    * electron-build - For Ubuntu (Testing ONLY) (`npm run electron-build`)
-        * This requires an additional step, see below
-11) Locate the `/dist` folder and run the .AppImage
+   ```
+   sudo /sbin/ip link set can1 up type can bitrate 500000
+   sudo /sbin/ip link set can0 up type can bitrate 125000
+   ```
+
+6. Reboot Pi
+7. Download FLos Repo
+8. run `npm i`
+9. Run `npm run` + either
+   - pi64-build - For RPi 4 - 4GB+ (npm run pi64-build)
+   - pi32-build - For Rpi 3 or Rpi 4 < 4GB (npm run pi32-build)
+   - electron-build - For Ubuntu (Testing ONLY) (`npm run electron-build`)
+     - This requires an additional step, see below
+10. Locate the `/dist` folder and run the .AppImage
 
 ## Local Host vCAN for Testing
 

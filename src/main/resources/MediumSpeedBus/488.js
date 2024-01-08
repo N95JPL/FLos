@@ -21,5 +21,3 @@ export function ms488(msg) {
 		mediumSpeed.rearRightMiddle = (tempData >>> 15) & mask;
 	}
 }
-
-module.exports = ms488;

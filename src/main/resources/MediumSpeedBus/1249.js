@@ -7,4 +7,4 @@ export function ms1249(msg) {
 	mediumSpeed.interior = temp;
 }
 
-module.exports = ms1249;
+//module.exports = ms1249;

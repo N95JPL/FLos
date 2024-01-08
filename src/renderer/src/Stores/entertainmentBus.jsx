@@ -1,13 +1,13 @@
-import create from 'zustand'
-import { persist } from 'zustand/middleware'
+import create from "zustand";
+import { persist } from "zustand/middleware";
 export let entertainmentBus = create(
   persist(
     (set) => ({
-      mediaPhoneName: '',
+      mediaPhoneName: "",
       setMediaPhoneName: (mediaPhoneName) => set({ mediaPhoneName }),
-      trackName: '',
+      trackName: "",
       setTrackName: (trackName) => set({ trackName }),
-      artistName: '',
+      artistName: "",
       setArtistName: (artistName) => set({ artistName }),
       source: false,
       setSource: (source) => set({ source }),
@@ -28,10 +28,10 @@ export let entertainmentBus = create(
       volumeControl: 0,
       setVolumeControl: (volumeControl) => set({ volumeControl }),
       volumeChange: false,
-      setVolumeChange: (volumeChange) => set({ volumeChange })
+      setVolumeChange: (volumeChange) => set({ volumeChange }),
     }),
     {
-      name: 'entertainmentBus'
-    }
-  )
-)
+      name: "entertainmentBus",
+    },
+  ),
+);

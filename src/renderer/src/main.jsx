@@ -184,7 +184,7 @@ const updateEntertainmentBusStore = (key, value) => {
 			store.setVolumeChange(value);
 			break;
 		default:
-			console.log(`Error: Unknown key for entertainmentBus: ${key}`);
+		// console.log(`Error: Unknown key for entertainmentBus: ${key}`);
 	}
 };
 const updateMediumSpeedStore = (key, value) => {
@@ -276,7 +276,7 @@ const updateMediumSpeedStore = (key, value) => {
 			store.setActive(value);
 			break;
 		default:
-			console.log(`Error: Unknown key for mediumSpeed: ${key}`);
+		// console.log(`Error: Unknown key for mediumSpeed: ${key}`);
 	}
 };
 
@@ -351,7 +351,7 @@ const updateVehicleInfoStore = (key, value) => {
 			store.setEngine(value);
 			break;
 		default:
-			console.log(`Error: Unknown key for vehicleInfo: ${key}`);
+		// console.log(`Error: Unknown key for vehicleInfo: ${key}`);
 	}
 };
 

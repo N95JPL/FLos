@@ -7,14 +7,18 @@
 
   <body>
     <div id="root">
-      <img id="img" className="img transition fadeIn" src="./resources/LandRoverLogo.png" />
+      <img
+        id="img"
+        className="img transition fadeIn"
+        src="./resources/LandRoverLogo.png"
+      />
     </div>
   </body>
   <script type="text/javascript">
     window.api.onFadeOut((event, msg) => {
-      var element = document.getElementById('img')
-      element.classList.add('fadeOut')
-      element.classList.remove('fadeIn')
-    })
+      var element = document.getElementById("img");
+      element.classList.add("fadeOut");
+      element.classList.remove("fadeIn");
+    });
   </script>
 </html>

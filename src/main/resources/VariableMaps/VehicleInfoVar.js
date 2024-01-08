@@ -20,7 +20,6 @@ export let vehicleInfo = {
 	Transmission: "-",
 	Engine: "-",
 };
-exports.vehicleInfo = vehicleInfo;
 
 export let vehicleInfoPrev = {
 	setupInfoLine: "Welcome - First Time Setup Wizard",
@@ -44,4 +43,3 @@ export let vehicleInfoPrev = {
 	Transmission: "",
 	Engine: "",
 };
-exports.vehicleInfoPrev = vehicleInfoPrev;

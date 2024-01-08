@@ -1,8 +1,13 @@
-"use strict";
-const electron = require("electron");
-const path = require("path");
-const utils = require("@electron-toolkit/utils");
-const icon = path.join(__dirname, "../../resources/icon.png");
+import { ipcMain as ipcMain$1, app, BrowserWindow, shell } from "electron";
+import { join } from "path";
+import { electronApp, optimizer, is } from "@electron-toolkit/utils";
+import __cjs_url__ from "node:url";
+import __cjs_path__ from "node:path";
+import __cjs_mod__ from "node:module";
+const __filename = __cjs_url__.fileURLToPath(import.meta.url);
+const __dirname = __cjs_path__.dirname(__filename);
+const require2 = __cjs_mod__.createRequire(import.meta.url);
+const icon = join(__dirname, "../../resources/icon.png");
 let mediumSpeed = {
   frontLeft: 0,
   frontLeftMiddle: 0,
@@ -30,7 +35,6 @@ let mediumSpeed = {
   voltage: 0,
   charging_current: 0
 };
-exports.mediumSpeed = mediumSpeed;
 let mediumSpeedPrev = {
   frontLeft: 0,
   frontLeftMiddle: 0,
@@ -58,7 +62,6 @@ let mediumSpeedPrev = {
   voltage: 0,
   charging_current: 0
 };
-exports.mediumSpeedPrev = mediumSpeedPrev;
 let entertainmentBus = {
   mediaPhoneName: "",
   trackName: "",
@@ -75,7 +78,6 @@ let entertainmentBus = {
   // Timeout
   volumeChange: false
 };
-exports.entertainmentBus = entertainmentBus;
 let entertainmentBusPrev = {
   mediaPhoneName: "",
   trackName: "",
@@ -91,7 +93,6 @@ let entertainmentBusPrev = {
   volumeControl: 0,
   volumeChange: false
 };
-exports.entertainmentBusPrev = entertainmentBusPrev;
 let vehicleInfo = {
   setupInfoLine: "Welcome - First Time Setup Wizard",
   firstTimeSetup: false,
@@ -114,7 +115,6 @@ let vehicleInfo = {
   Transmission: "-",
   Engine: "-"
 };
-exports.vehicleInfo = vehicleInfo;
 let vehicleInfoPrev = {
   setupInfoLine: "Welcome - First Time Setup Wizard",
   firstTimeSetup: false,
@@ -137,7 +137,6 @@ let vehicleInfoPrev = {
   Transmission: "",
   Engine: ""
 };
-exports.vehicleInfoPrev = vehicleInfoPrev;
 function ms488(msg) {
   mediumSpeed.active = msg.data.readUint8(1) & 128;
   if (mediumSpeed.active) {
@@ -156,7 +155,6 @@ function ms488(msg) {
     mediumSpeed.rearRightMiddle = tempData >>> 15 & mask;
   }
 }
-module.exports = ms488;
 let VINDecode = {
   Models: [
     {
@@ -13696,7 +13694,6 @@ let VINDecode = {
     }
   ]
 };
-exports.VINDecode = VINDecode;
 let Vehicle_Manifest = {
   vehicle_range: [
     {
@@ -41850,7 +41847,6 @@ let Vehicle_Manifest = {
     }
   ]
 };
-exports.Vehicle_Manifest = Vehicle_Manifest;
 var arrBuilder = [
   "-",
   "-",
@@ -41889,18 +41885,18 @@ var is_ccfid = false;
 var setup = false;
 vehicleInfo.VIN = "-";
 vehicleInfo.Model_id = "-";
-vehicleInfo.brand = "-";
-vehicleInfo.model = "-";
-vehicleInfo.modelName = "-";
-vehicleInfo.market = "-";
-vehicleInfo.bodyStyle = "-";
-vehicleInfo.trim = "-";
-vehicleInfo.emission = "-";
-vehicleInfo.modelYear = "-";
-vehicleInfo.plant = "-";
-vehicleInfo.driver = "-";
-vehicleInfo.transmission = "-";
-vehicleInfo.engine = "-";
+vehicleInfo.Brand = "-";
+vehicleInfo.Model = "-";
+vehicleInfo.ModelName = "-";
+vehicleInfo.Market = "-";
+vehicleInfo.BodyStyle = "-";
+vehicleInfo.Trim = "-";
+vehicleInfo.Emission = "-";
+vehicleInfo.ModelYear = "-";
+vehicleInfo.Plant = "-";
+vehicleInfo.Driver = "-";
+vehicleInfo.Transmission = "-";
+vehicleInfo.Engine = "-";
 function ms1025(msg, window) {
   if (!setup) {
     if (arrBuilder.includes("-")) {
@@ -42195,13 +42191,11 @@ function hex2a(str1) {
   }
   return str;
 }
-module.exports = ms1025;
 function ms1168(msg) {
   const arr = [...msg.data];
   var temp = (arr[5] + arr[6]) / 100 * 0.62137119;
   mediumSpeed.speed = temp;
 }
-module.exports = ms1168;
 function ms1234(msg) {
   const arr = [...msg.data];
   arr[5] &= ~64;
@@ -42215,7 +42209,6 @@ function ms1234(msg) {
   mediumSpeed.minute = minute < 10 ? "0" + arr[6] : arr[6];
   mediumSpeed.second = second < 10 ? "0" + arr[7] : arr[7];
 }
-module.exports = ms1234;
 function ms1236(msg) {
   const arr = [...msg.data];
   var temp = [];
@@ -42232,14 +42225,12 @@ function ms1236(msg) {
   temp = temp.toFixed(1);
   mediumSpeed.fuel = temp;
 }
-module.exports = ms1236;
 function ms1249(msg) {
   const arr = [...msg.data];
   var temp = arr[1] / 2 - 57;
   temp = temp.toFixed(1);
   mediumSpeed.interior = temp;
 }
-module.exports = ms1249;
 function ms1251(msg) {
   const arr = [...msg.data];
   var temp = [];
@@ -42259,7 +42250,6 @@ function ms1251(msg) {
   temp = parseInt(arr[0], 16) - 60;
   mediumSpeed.coolant = temp;
 }
-module.exports = ms1251;
 const IDs$1 = [488, 1025, 1168, 1234, 1236, 1249, 1251];
 function parseMediumSpeed(msg, window) {
   if (IDs$1.includes(msg.id)) {
@@ -42280,7 +42270,6 @@ function parseMediumSpeed(msg, window) {
     }
   }
 }
-module.exports = parseMediumSpeed;
 function eb486(msg) {
   const arr = [...msg.data];
   var source = arr[3];
@@ -42294,7 +42283,6 @@ function eb486(msg) {
     entertainmentBus.sourceSel = source;
   }
 }
-module.exports = eb486;
 var messageBuilder = [];
 function eb692(msg) {
   var arrData = [...msg.data];
@@ -42368,7 +42356,6 @@ function parseMessage(input) {
     }
   }
 }
-module.exports = eb692;
 function eb728(msg) {
   const arr = [...msg.data];
   var volumeRaw = arr[1];
@@ -42382,7 +42369,6 @@ function eb728(msg) {
     }, 2e3);
   }
 }
-module.exports = eb728;
 function eb757(msg) {
   const arr = [...msg.data];
   if (arr[0] == 16) {
@@ -42401,7 +42387,6 @@ function eb757(msg) {
     entertainmentBus.source = "DAB2";
   }
 }
-module.exports = eb757;
 const IDs = [486, 692, 728, 757];
 function parseEntertainmentBus(msg, window) {
   if (IDs.includes(msg.id)) {
@@ -42416,11 +42401,10 @@ function parseEntertainmentBus(msg, window) {
     }
   }
 }
-module.exports = parseEntertainmentBus;
-const { exec } = require("child_process");
-const { ipcMain } = require("electron");
-const can = require("socketcan");
-const fs = require("fs");
+const { exec } = require2("child_process");
+const { ipcMain } = require2("electron");
+const can = require2("socketcan");
+const fs = require2("fs");
 let msCanDump = "";
 let hsCanDump = "";
 let changedMedium = {};
@@ -42597,13 +42581,9 @@ const server = function(window) {
     }
   }, 100);
 };
-module.exports = server;
 let mainWindow;
-process.on("uncaughtException", (error) => {
-  console.log("[ERROR]", error);
-});
 function createWindow() {
-  mainWindow = new electron.BrowserWindow({
+  mainWindow = new BrowserWindow({
     backgroundColor: "#252525",
     frame: false,
     movable: false,
@@ -42616,11 +42596,11 @@ function createWindow() {
     fullscreen: false,
     maxHeight: 480,
     minHeight: 480,
-    show: true,
+    show: false,
     autoHideMenuBar: true,
     ...process.platform === "linux" ? { icon } : {},
     webPreferences: {
-      preload: path.join(__dirname, "../preload/index.js"),
+      preload: join(__dirname, "../preload/index.mjs"),
       sandbox: false,
       nativeWindowOpen: true,
       nodeIntegration: false,
@@ -42633,46 +42613,45 @@ function createWindow() {
   mainWindow.on("unresponsive", () => {
     console.log("Load time excessive");
   });
-  if (utils.is.dev) {
+  if (is.dev) {
     mainWindow.webContents.openDevTools({ mode: "detach" });
   }
-  mainWindow.webContents.openDevTools({ mode: "detach" });
+  server(mainWindow);
+  mainWindow.loadFile(join(__dirname, "../renderer/splashScreen.html"));
   mainWindow.once("ready-to-show", () => {
-    server(mainWindow);
-    mainWindow.loadFile(path.join(__dirname, "../renderer/splashScreen.html"));
     mainWindow.show();
     setTimeout(() => {
       mainWindow.webContents.send("fadeOut", "now");
       setTimeout(() => {
-        if (utils.is.dev && process.env["ELECTRON_RENDERER_URL"]) {
+        if (process.env["ELECTRON_RENDERER_URL"]) {
           mainWindow.loadURL(process.env["ELECTRON_RENDERER_URL"]);
         } else {
-          mainWindow.loadFile(path.join(__dirname, "../renderer/index.html"));
+          mainWindow.loadFile(join(__dirname, "../renderer/index.html"));
         }
       }, 2e3);
     }, 1e3);
   });
   mainWindow.webContents.setWindowOpenHandler((details) => {
-    electron.shell.openExternal(details.url);
+    shell.openExternal(details.url);
     return { action: "deny" };
   });
 }
-electron.ipcMain.on("close", (event, msg) => {
-  electron.app.quit();
+ipcMain$1.on("close", (event, msg) => {
+  app.quit();
 });
-electron.app.whenReady().then(() => {
-  utils.electronApp.setAppUserModelId("com.electron");
-  electron.app.on("browser-window-created", (_, window) => {
-    utils.optimizer.watchWindowShortcuts(window);
+app.whenReady().then(() => {
+  electronApp.setAppUserModelId("com.electron");
+  app.on("browser-window-created", (_, window) => {
+    optimizer.watchWindowShortcuts(window);
   });
   createWindow();
-  electron.app.on("activate", function() {
-    if (electron.BrowserWindow.getAllWindows().length === 0)
+  app.on("activate", function() {
+    if (BrowserWindow.getAllWindows().length === 0)
       createWindow();
   });
 });
-electron.app.on("window-all-closed", () => {
+app.on("window-all-closed", () => {
   if (process.platform !== "darwin") {
-    electron.app.quit();
+    app.quit();
   }
 });

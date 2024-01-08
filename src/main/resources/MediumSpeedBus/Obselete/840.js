@@ -1,8 +1,8 @@
-const { mediumSpeed } = require('../VariableMaps/MediumSpeedVar')
+const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
 
 function ms840(msg) {
-  const arr = [...msg.data]
-  mediumSpeed.vehicle.alternator = arr[3]
+	const arr = [...msg.data];
+	mediumSpeed.vehicle.alternator = arr[3];
 }
 
-module.exports = ms840
+//module.exports = ms840;

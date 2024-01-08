@@ -212,5 +212,3 @@ export const server = function (window) {
 		}
 	}, 100);
 };
-
-module.exports = server;

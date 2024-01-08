@@ -1,5 +1,5 @@
-import create from 'zustand'
-import { persist } from 'zustand/middleware'
+import create from "zustand";
+import { persist } from "zustand/middleware";
 
 export let settings = create(
   persist(
@@ -8,11 +8,11 @@ export let settings = create(
       setBrightnessOffset: (brightnessOffset) => set({ brightnessOffset }),
       brightnessAuto: true,
       setBrightnessAuto: (brightnessAuto) => set({ brightnessAuto }),
-      measurementSystem: 'Metric', // Add the measurementSystem field
-      setMeasurementSystem: (measurementSystem) => set({ measurementSystem }) // Add the setter function
+      measurementSystem: "Metric", // Add the measurementSystem field
+      setMeasurementSystem: (measurementSystem) => set({ measurementSystem }), // Add the setter function
     }),
     {
-      name: 'settings'
-    }
-  )
-)
+      name: "settings",
+    },
+  ),
+);

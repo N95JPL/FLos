@@ -48,18 +48,18 @@ var setup = false;
 //Important stuff that will need broadcasting
 vehicleInfo.VIN = "-";
 vehicleInfo.Model_id = "-";
-vehicleInfo.brand = "-";
-vehicleInfo.model = "-";
-vehicleInfo.modelName = "-";
-vehicleInfo.market = "-";
-vehicleInfo.bodyStyle = "-";
-vehicleInfo.trim = "-";
-vehicleInfo.emission = "-";
-vehicleInfo.modelYear = "-";
-vehicleInfo.plant = "-";
-vehicleInfo.driver = "-";
-vehicleInfo.transmission = "-";
-vehicleInfo.engine = "-";
+vehicleInfo.Brand = "-";
+vehicleInfo.Model = "-";
+vehicleInfo.ModelName = "-";
+vehicleInfo.Market = "-";
+vehicleInfo.BodyStyle = "-";
+vehicleInfo.Trim = "-";
+vehicleInfo.Emission = "-";
+vehicleInfo.ModelYear = "-";
+vehicleInfo.Plant = "-";
+vehicleInfo.Driver = "-";
+vehicleInfo.Transmission = "-";
+vehicleInfo.Engine = "-";
 
 export function ms1025(msg, window) {
 	if (!setup) {
@@ -417,5 +417,3 @@ function hex2a(str1) {
 	}
 	return str;
 }
-
-module.exports = ms1025;

@@ -4,7 +4,9 @@ export function Vehicle() {
       <div className="max-w-4xl w-full flex flex-col">
         <div>
           <div>
-            <h1 className="text-2xl font-extrabold tracking-tight">Vehicle Information</h1>
+            <h1 className="text-2xl font-extrabold tracking-tight">
+              Vehicle Information
+            </h1>
             <p className="text-sm mb-2.5">Lol, this will get done soon!</p>
           </div>
         </div>
@@ -13,6 +15,6 @@ export function Vehicle() {
         </div>
       </div>
     </div>
-  )
+  );
 }
-export default Vehicle
+export default Vehicle;

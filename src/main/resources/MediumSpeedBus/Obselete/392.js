@@ -1,11 +1,11 @@
-const { Map } = require('../CanMap/canMap')
-const { mediumSpeed } = require('../VariableMaps/MediumSpeedVar')
+const { Map } = require("../CanMap/canMap");
+const { mediumSpeed } = require("../VariableMaps/MediumSpeedVar");
 
-const id = Map
+const id = Map;
 function ms392(msg) {
-  const strId = msg.id
-  const arr = [...msg.data]
-  mediumSpeed.temperature.exterior = arr[0] - 40
+	const strId = msg.id;
+	const arr = [...msg.data];
+	mediumSpeed.temperature.exterior = arr[0] - 40;
 }
 
-module.exports = ms392
+//module.exports = ms392;

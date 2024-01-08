@@ -26,4 +26,4 @@ export function ms1251(msg) {
 	mediumSpeed.coolant = temp;
 }
 
-module.exports = ms1251;
+//module.exports = ms1251;

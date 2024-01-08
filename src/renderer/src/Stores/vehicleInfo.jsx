@@ -1,10 +1,10 @@
-import create from 'zustand'
-import { persist } from 'zustand/middleware'
+import create from "zustand";
+import { persist } from "zustand/middleware";
 
 export let vehicleInfo = create(
   persist(
     (set) => ({
-      setupInfoLine: 'Welcome! First Time Setup Wizard',
+      setupInfoLine: "Welcome! First Time Setup Wizard",
       setSetupInfoLine: (setupInfoLine) => set({ setupInfoLine }),
       firstTimeSetup: true,
       setFirstTimeSetup: (firstTimeSetup) => set({ firstTimeSetup }),
@@ -16,41 +16,41 @@ export let vehicleInfo = create(
       setSetupStep: (setupStep) => set({ setupStep }),
       setupEUCDStep: 0,
       setSetupEUCDStep: (setupEUCDStep) => set({ setupEUCDStep }),
-      CCFID: '-',
+      CCFID: "-",
       setCCFID: (CCFID) => set({ CCFID }),
-      As_Built: '-',
+      As_Built: "-",
       setAs_Built: (As_Built) => set({ As_Built }),
-      VIN: '-',
+      VIN: "-",
       setVIN: (VIN) => set({ VIN }),
-      Model_id: '-',
+      Model_id: "-",
       setModel_id: (Model_id) => set({ Model_id }),
-      Brand: '-',
+      Brand: "-",
       setBrand: (Brand) => set({ Brand }),
-      Model: '-',
+      Model: "-",
       setModel: (Model) => set({ Model }),
-      ModelName: '-',
+      ModelName: "-",
       setModelName: (ModelName) => set({ ModelName }),
-      Market: '-',
+      Market: "-",
       setMarket: (Market) => set({ Market }),
-      BodyStyle: '-',
+      BodyStyle: "-",
       setBodyStyle: (BodyStyle) => set({ BodyStyle }),
-      Trim: '-',
+      Trim: "-",
       setTrim: (Trim) => set({ Trim }),
-      Emission: '-',
+      Emission: "-",
       setEmission: (Emission) => set({ Emission }),
-      ModelYear: '-',
+      ModelYear: "-",
       setModelYear: (ModelYear) => set({ ModelYear }),
-      Plant: '-',
+      Plant: "-",
       setPlant: (Plant) => set({ Plant }),
-      Driver: '-',
+      Driver: "-",
       setDriver: (Driver) => set({ Driver }),
-      Transmission: '-',
+      Transmission: "-",
       setTransmission: (Transmission) => set({ Transmission }),
-      Engine: '-',
-      setEngine: (Engine) => set({ Engine })
+      Engine: "-",
+      setEngine: (Engine) => set({ Engine }),
     }),
     {
-      name: 'vehicleInfo'
-    }
-  )
-)
+      name: "vehicleInfo",
+    },
+  ),
+);

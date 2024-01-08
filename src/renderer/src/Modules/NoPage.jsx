@@ -4,7 +4,7 @@ export function NoPage() {
       <p>Hehe we don&apos;t know what will be here</p>
       <p>Check back later</p>
     </div>
-  )
+  );
 }
 
-export default NoPage
+export default NoPage;

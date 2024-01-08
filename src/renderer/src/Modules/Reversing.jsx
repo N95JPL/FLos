@@ -1,4 +1,4 @@
-import parkingSensors from '../Images/ParkingSensors.svg'
+import parkingSensors from "../Images/ParkingSensors.svg";
 
 export function Reversing() {
   return (
@@ -7,6 +7,6 @@ export function Reversing() {
         <img alt="ac" src={parkingSensors} className="h-[80%] flex mx-auto" />
       </div>
     </div>
-  )
+  );
 }
-export default Reversing
+export default Reversing;

@@ -5,9 +5,7 @@ import { electronApp, optimizer, is } from "@electron-toolkit/utils";
 import icon from "../../resources/icon.png?asset";
 import { server } from "./server";
 let mainWindow;
-process.on("uncaughtException", (error) => {
-	console.log("[ERROR]", error);
-});
+
 // console.log(app.getPath("userData"));
 function createWindow() {
 	// Create the browser window.
@@ -24,11 +22,11 @@ function createWindow() {
 		fullscreen: false,
 		maxHeight: 480,
 		minHeight: 480,
-		show: true,
+		show: false,
 		autoHideMenuBar: true,
 		...(process.platform === "linux" ? { icon } : {}),
 		webPreferences: {
-			preload: join(__dirname, "../preload/index.js"),
+			preload: join(__dirname, "../preload/index.mjs"),
 			sandbox: false,
 			nativeWindowOpen: true,
 			nodeIntegration: false,
@@ -44,16 +42,16 @@ function createWindow() {
 	if (is.dev) {
 		mainWindow.webContents.openDevTools({ mode: "detach" });
 	}
-	mainWindow.webContents.openDevTools({ mode: "detach" });
-	// console.log("Hello?");
+	server(mainWindow);
+	// mainWindow.webContents.openDevTools({ mode: "detach" });
+	mainWindow.loadFile(join(__dirname, "../renderer/splashScreen.html"));
 	mainWindow.once("ready-to-show", () => {
-		server(mainWindow);
-		mainWindow.loadFile(join(__dirname, "../renderer/splashScreen.html"));
 		mainWindow.show();
+		// mainWindow.webContents.closeDevTools();
 		setTimeout(() => {
 			mainWindow.webContents.send("fadeOut", "now");
 			setTimeout(() => {
-				if (is.dev && process.env["ELECTRON_RENDERER_URL"]) {
+				if (process.env["ELECTRON_RENDERER_URL"]) {
 					mainWindow.loadURL(process.env["ELECTRON_RENDERER_URL"]);
 				} else {
 					mainWindow.loadFile(join(__dirname, "../renderer/index.html"));
