@@ -26,7 +26,7 @@ jobs:
 
       - name: Build Electron App with Docker
         run: |
-          docker buildx build --platform ${{ matrix.platform.docker_buildx }} -t my-electron-app:latest -f Dockerfile --load .
+          docker buildx build --platform ${{ matrix.platform.docker_buildx }} -t my-electron-app:latest --build-arg BUILD_ARCH=${{ matrix.platform.electron_builder }} -f dockerfile --load .
 
       - name: Extract AppImage from Docker Image
         run: |

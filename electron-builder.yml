@@ -16,7 +16,7 @@ linux:
   maintainer: N95JPL
   category: Utility
 appImage:
-  artifactName: ${name}-${version}-${arch}.${ext}
+  artifactName: ${name}-${arch}.${ext}
 npmRebuild: false
 publish:
   provider: generic

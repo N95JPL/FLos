@@ -13,8 +13,11 @@ RUN npm install
 # Copy your source code
 COPY . .
 
+# Argument for specifying architecture
+ARG BUILD_ARCH
+
 # Build the Electron app
-RUN npm run build:linux
+RUN npm run build:linux -- --${BUILD_ARCH}
 
 # Copy the built AppImage to a known location
 RUN mkdir /output
