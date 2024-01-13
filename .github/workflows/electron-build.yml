@@ -30,34 +30,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Setup Pre-Built socketcan Binaries
-        run: |
-          if [ "${{ matrix.platform }}" = "armv7l" ]; then
-            CAN_FILE=can-armv7l.node
-            CAN_SIGNALS_FILE=can_signals-armv7l.node
-          elif [ "${{ matrix.platform }}" = "arm64" ]; then
-            CAN_FILE=can-arm64.node
-            CAN_SIGNALS_FILE=can_signals-arm64.node
-          elif [ "${{ matrix.platform }}" = "x64" ]; then
-            CAN_FILE=can-x64.node
-            CAN_SIGNALS_FILE=can_signals-x64.node
-          fi
-          mkdir -p node_modules/socketcan/build/Release
-          cp prebuilt/socketcan/$CAN_FILE node_modules/socketcan/build/Release/can.node
-          cp prebuilt/socketcan/$CAN_SIGNALS_FILE node_modules/socketcan/build/Release/can_signals.node
-
-      - name: Setup Pre-Built socketcan Binaries
-        run: |
-          if [ "${{ matrix.platform }}" = "armv7l" ]; then
-            EXPAT_FILE=node_expat-armv7l.node
-          elif [ "${{ matrix.platform }}" = "arm64" ]; then
-            EXPAT_FILE=node_expat-arm64.node
-          elif [ "${{ matrix.platform }}" = "x64" ]; then
-            EXPAT_FILE=node_expat-x64.node
-          fi
-          mkdir -p node_modules/node-expat/build/Release
-          cp prebuilt/node-expat/$CAN_FILE node_modules/node-expat/build/Release/node_expat.node
-
       - name: Install Node.js
         uses: actions/setup-node@v2
         with:
