@@ -16,8 +16,8 @@ linux:
   maintainer: N95JPL
   category: Utility
 appImage:
-  artifactName: ${name}-${version}.${ext}
-npmRebuild: true
+  artifactName: ${name}-${version}-${arch}.${ext}
+npmRebuild: false
 publish:
   provider: generic
   url: https://example.com/auto-updates
