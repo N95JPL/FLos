@@ -7,11 +7,13 @@ on:
 
 jobs:
   build:
-    name: Build on ${{ matrix.platform }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        platform: [armv7l, arm64, x64]
+        platform:
+          - { electron_builder: "armv7l", docker_buildx: "linux/arm/v7" }
+          - { electron_builder: "arm64", docker_buildx: "linux/arm64" }
+          - { electron_builder: "x64", docker_buildx: "linux/amd64" }
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -22,66 +24,19 @@ jobs:
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v1
 
-      - name: Cache Node modules
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      - name: Install Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: "20.10.0"
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Rebuild native modules
+      - name: Build Electron App with Docker
         run: |
-          npm rebuild --arch=${{ matrix.platform }}
+          docker buildx build --platform ${{ matrix.platform.docker_buildx }} -t my-electron-app:latest -f Dockerfile --load .
 
-      - name: Extract version
-        run: echo "VERSION=$(cat package.json | jq -r .version)" >> $GITHUB_ENV
-
-      - name: Build Electron App
-        run: CI=false npm run build:linux -- --${{ matrix.platform }}
+      - name: Extract AppImage from Docker Image
+        run: |
+          # This step assumes that your Docker build outputs an AppImage in the /output directory of the container
+          id=$(docker create my-electron-app:latest)
+          docker cp $id:/output/FLos-${{ matrix.platform.electron_builder }}.AppImage .
+          docker rm -v $id
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: FLos-${{ matrix.platform }}-${{ env.VERSION }}.AppImage
-          path: dist/*.AppImage
-
-  release:
-    needs: build
-    runs-on: ubuntu-latest
-    if: startsWith(github.ref, 'refs/tags/')
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Download Artifacts
-        uses: actions/download-artifact@v2
-
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
-
-      - name: Upload Release Asset
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./FLos-${{ matrix.platform }}-${{ env.VERSION }}.AppImage
-          asset_name: FLos-${{ matrix.platform }}-${{ env.VERSION }}.AppImage
-          asset_content_type: application/octet-stream
+          name: FLos-${{ matrix.platform.electron_builder }}.AppImage
+          path: FLos-${{ matrix.platform.electron_builder }}.AppImage
