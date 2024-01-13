@@ -6,7 +6,7 @@ import icon from "../../resources/icon.png?asset";
 import { server } from "./server";
 let mainWindow;
 
-// console.log(app.getPath("userData"));
+console.log(app.getPath("userData"));
 function createWindow() {
 	// Create the browser window.
 	mainWindow = new BrowserWindow({

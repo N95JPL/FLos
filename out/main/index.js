@@ -1,4 +1,4 @@
-import { ipcMain as ipcMain$1, app, BrowserWindow, shell } from "electron";
+import { app, ipcMain as ipcMain$1, BrowserWindow, shell } from "electron";
 import { join } from "path";
 import { electronApp, optimizer, is } from "@electron-toolkit/utils";
 import __cjs_url__ from "node:url";
@@ -42582,6 +42582,7 @@ const server = function(window) {
   }, 100);
 };
 let mainWindow;
+console.log(app.getPath("userData"));
 function createWindow() {
   mainWindow = new BrowserWindow({
     backgroundColor: "#252525",

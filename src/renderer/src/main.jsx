@@ -14,7 +14,6 @@ import { AppSettings } from "./Modules/Settings/App-Settings";
 import { Dev } from "./Modules/Settings/Dev";
 import { mediumSpeed } from "./Stores/mediumSpeed";
 import { vehicleInfo } from "./Stores/vehicleInfo";
-import { Reversing } from "./Modules/Reversing";
 import { entertainmentBus } from "./Stores/entertainmentBus";
 import { Entertainment } from "./Modules/Entertainment";
 

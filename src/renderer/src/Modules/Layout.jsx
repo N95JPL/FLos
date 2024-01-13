@@ -7,7 +7,7 @@ import { mediumSpeed } from "../Stores/mediumSpeed";
 import { vehicleInfo } from "../Stores/vehicleInfo";
 import { entertainmentBus } from "../Stores/entertainmentBus";
 import "./Style.css";
-import Reversing from "./Reversing";
+import ParkingSensors from "./ParkingSensors";
 import LRLogo from "../Images/LandRoverLogo.png";
 
 export function Layout() {
@@ -66,7 +66,7 @@ function Nav() {
 			path: "/settings/app",
 		},
 	];
-	const gear = mediumSpeed((state) => state.gear);
+	const active = mediumSpeed((state) => state.active);
 	const hour = mediumSpeed((state) => state.hour);
 	const minute = mediumSpeed((state) => state.minute);
 	const volumeChange = entertainmentBus((state) => state.volumeChange);
@@ -76,9 +76,9 @@ function Nav() {
 		<div className={`h-screen w-screen ${textColorSet}`}>
 			<div
 				className={`${
-					gear === "R" ? "" : "hidden"
-				} fade-in bg-slate-300 transition-all z-20 absolute h-[90%] w-[90%] left-[5%] top-[5%]`}>
-				<Reversing />
+					active ? "" : "hidden"
+				} fade-in bg-slate-300 opacity-90 transition-all z-20 absolute rounded-xl h-[90%] w-[90%] left-[5%] top-[5%] flex items-center justify-center text-center text-8xl text-white`}>
+				<ParkingSensors />
 			</div>
 			<div
 				className={`${
@@ -92,8 +92,7 @@ function Nav() {
 					{volume}
 				</div>
 			</div>
-			<div
-				className={`${gear === "R" || volumeChange ? "blur-sm" : ""} h-full w-full transition-all`}>
+			<div className={`${active || volumeChange ? "blur-sm" : ""} h-full w-full transition-all`}>
 				<div
 					className={`absolute top-0 justify-center grid grid-cols-3 fade-in shadow-lg bg-gradient-to-br ${primaryColorSet} ${secondaryColorSet} text-center w-[100%] h-[10%]`}>
 					{/* <div className="h-[100%] grid grid-cols-3 justify-center text-center bg-gradient-to-br from-gray-600 to-gray-800 bg-opacity-40 text-white"> */}
