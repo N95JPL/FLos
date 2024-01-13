@@ -82,7 +82,7 @@ jobs:
           cp prebuilt/socketcan/$CAN_FILE node_modules/socketcan/build/Release/can.node
           cp prebuilt/socketcan/$CAN_SIGNALS_FILE node_modules/socketcan/build/Release/can_signals.node
 
-      - name: Setup Pre-Built socketcan Binaries
+      - name: Setup Pre-Built node-expat Binaries
         run: |
           if [ "${{ matrix.platform }}" = "armv7l" ]; then
             EXPAT_FILE=node_expat-armv7l.node
@@ -92,7 +92,7 @@ jobs:
             EXPAT_FILE=node_expat-x64.node
           fi
           mkdir -p node_modules/node-expat/build/Release
-          cp prebuilt/node-expat/$CAN_FILE node_modules/node-expat/build/Release/node_expat.node
+          cp prebuilt/node-expat/$EXPAT_FILE node_modules/node-expat/build/Release/node_expat.node
 
       - name: Extract version
         run: echo "VERSION=$(cat package.json | jq -r .version)" >> $GITHUB_ENV
