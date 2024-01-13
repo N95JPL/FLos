@@ -46,7 +46,7 @@ jobs:
         run: echo "VERSION=$(cat package.json | jq -r .version)" >> $GITHUB_ENV
 
       - name: Build Electron App
-        run: CI=false npm run build:linux
+        run: CI=false npm run build:linux -- --${{ matrix.platform }}
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
