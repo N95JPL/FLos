@@ -51,14 +51,6 @@ export let mediumSpeed = create(
 			setCharging_current: (charging_current) => set({ charging_current }),
 
 			// Parking state and setters
-			frontLeft: 0,
-			setFrontLeft: (frontLeft) => set({ frontLeft }),
-			frontLeftMiddle: 0,
-			setFrontLeftMiddle: (frontLeftMiddle) => set({ frontLeftMiddle }),
-			frontRightMiddle: 0,
-			setFrontRightMiddle: (frontRightMiddle) => set({ frontRightMiddle }),
-			frontRight: 0,
-			setFrontRight: (frontRight) => set({ frontRight }),
 			rearLeft: 0,
 			setRearLeft: (rearLeft) => set({ rearLeft }),
 			rearLeftMiddle: 0,

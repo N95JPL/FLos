@@ -6,7 +6,7 @@ export let vehicleInfo = create(
 		(set) => ({
 			setupInfoLine: "Welcome! First Time Setup Wizard",
 			setSetupInfoLine: (setupInfoLine) => set({ setupInfoLine }),
-			firstTimeSetup: false,
+			firstTimeSetup: true,
 			setFirstTimeSetup: (firstTimeSetup) => set({ firstTimeSetup }),
 			vinDecode: true,
 			setVinDecode: (vinDecode) => set({ vinDecode }),

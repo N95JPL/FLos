@@ -95,7 +95,7 @@ let entertainmentBusPrev = {
 };
 let vehicleInfo = {
   setupInfoLine: "Welcome - First Time Setup Wizard",
-  firstTimeSetup: false,
+  firstTimeSetup: true,
   vinDecode: false,
   setupStep: 0,
   CCFID: "-",
@@ -117,7 +117,7 @@ let vehicleInfo = {
 };
 let vehicleInfoPrev = {
   setupInfoLine: "Welcome - First Time Setup Wizard",
-  firstTimeSetup: false,
+  firstTimeSetup: true,
   vinDecode: false,
   setupStep: 0,
   CCFID: "-",
@@ -143,10 +143,6 @@ function ms488(msg) {
     let tempData = msg.data.readUint32BE(1);
     tempData = tempData << 12 >>> 12;
     const mask = 31;
-    mediumSpeed.frontLeft = tempData & mask;
-    mediumSpeed.frontRight = tempData >>> 15 & mask;
-    mediumSpeed.frontLeftMiddle = tempData >>> 5 & mask;
-    mediumSpeed.frontRightMiddle = tempData >>> 10 & mask;
     tempData = msg.data.readUint32BE(4);
     tempData = tempData << 12 >>> 12;
     mediumSpeed.rearLeft = tempData & mask;
@@ -41915,18 +41911,14 @@ function ms1025(msg, window) {
     } else {
       if (vehicleInfo.firstTimeSetup && !vehicleInfo.vinDecode) {
         vehicleInfo.setupInfoLine = "Calculating VIN...";
-        console.log("All CCF data received");
         CCF = arrBuilder.join("");
         CCF = CCF.replaceAll(",", "");
         CCFString = hex2a(CCF);
         vehicleInfo.VIN = CCFString.substring(3, 20);
-        console.log("This vehicles VIN: " + vehicleInfo.VIN);
         if (vehicleInfo.VIN.length === 17) {
-          console.log("VIN is valid");
           vehicleInfo.setupInfoLine = "Decoding VIN: Fetching Model ID";
           decodeModelID(vehicleInfo.VIN);
           if (is_modelid) {
-            console.log("Model ID: " + vehicleInfo.Model_id);
             vehicleInfo.setupInfoLine = "Decoding VIN: Fetching Model";
             decodeModel(vehicleInfo.VIN);
             if (is_model) {
@@ -41934,7 +41926,6 @@ function ms1025(msg, window) {
               decodeCCFID();
               if (is_ccfid) {
                 vehicleInfo.setupInfoLine = "Decoding CCF: Well... On day I we will decode the CCF";
-                console.log("It would appear that all the vehicle info has been decoded!");
                 vehicleInfo.vinDecode = true;
               }
             }
@@ -42040,8 +42031,6 @@ function decodeModelID(VIN) {
   var val_test = "";
   is_modelid = false;
   for (var i = 0; i < VINDecode["Models"].length; i++) {
-    console.log("Running Model: " + i);
-    console.log("Number of Tests to run: " + VINDecode["Models"][i]["Test"].length);
     if (VINDecode["Models"][i]["Test"].length) {
       for (var x = 0; x < VINDecode["Models"][i]["Test"].length + 1; x++) {
         charpos = VINDecode.Models[i].Test[x].CharPos;
@@ -42049,17 +42038,12 @@ function decodeModelID(VIN) {
         charval = VINDecode.Models[i].Test[x].CharValue;
         if (charpos.includes(",")) {
           val_test = VIN.substring(parseInt(charpos.charAt(0)) - 1, parseInt(charpos.charAt(2)));
-          console.log("val_test: " + val_test);
         } else {
           val_test = VIN.charAt(parseInt(charpos - 1));
-          console.log("val_test: " + val_test);
         }
         if (opt === "EQUAL") {
           if (val_test === charval) {
             is_modelid = true;
-            console.log(
-              "SOMETHING MATCHED! " + val_test + " matched with " + VINDecode.Models[i].DecodeModel
-            );
           } else {
             is_modelid = false;
           }
@@ -42080,17 +42064,12 @@ function decodeModelID(VIN) {
       charval = VINDecode.Models[i].Test.CharValue;
       if (charpos.includes(",")) {
         val_test = VIN.substring(parseInt(charpos.charAt(0)) - 1, parseInt(charpos.charAt(2)));
-        console.log("val_test: " + val_test);
       } else {
         val_test = VIN.charAt(parseInt(charpos - 1));
-        console.log("val_test: " + val_test);
       }
       if (opt === "EQUAL") {
         if (val_test == charval) {
           is_modelid = true;
-          console.log(
-            "SOMETHING MATCHED! " + val_test + " matched with " + VINDecode.Models[i].DecodeModel
-          );
         } else {
           is_modelid = false;
         }
@@ -42104,7 +42083,6 @@ function decodeModelID(VIN) {
     }
     if (is_modelid) {
       vehicleInfo.Model_id = VINDecode.Models[i].DecodeModel;
-      console.log("decodeModelID Passed: " + vehicleInfo.Model_id);
       break;
     }
   }
@@ -42119,9 +42097,7 @@ function decodeModel(VIN) {
   var name = "";
   is_model = false;
   const result = VINDecode.Decodes.find((Decode) => Decode.id == vehicleInfo.Model_id);
-  console.log(result);
   for (var i = 0; i < result.Attribute.length; i++) {
-    console.log("Running Attribute: " + i);
     if (!result.Attribute[i].Char) {
       name = result.Attribute[i].Name;
       vehicleInfo[name] = result.Attribute[i].Decode;
@@ -42142,7 +42118,6 @@ function decodeModel(VIN) {
     }
   }
   if (vehicleInfo.VIN != "-" && vehicleInfo.Model_id != "-" && vehicleInfo.Brand != "-" && vehicleInfo.Model != "-" && vehicleInfo.ModelName != "-" && vehicleInfo.Market != "-" && vehicleInfo.BodyStyle != "-" & vehicleInfo.Trim != "-" && vehicleInfo.ModelYear != "-" && vehicleInfo.Plant != "-" && vehicleInfo.Driver != "-" && vehicleInfo.Transmission != "-" && vehicleInfo.Engine != "-") {
-    console.log("decodeModel Passed: " + vehicleInfo.Model);
     is_model = true;
   } else {
     is_model = false;
@@ -42594,7 +42569,7 @@ function createWindow() {
     height: 480,
     center: true,
     transparent: true,
-    fullscreen: false,
+    fullscreen: true,
     maxHeight: 480,
     minHeight: 480,
     show: true,
