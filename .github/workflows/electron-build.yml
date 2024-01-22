@@ -46,11 +46,9 @@ jobs:
           if [ "${{ matrix.platform }}" = "armv7l" ]; then
             cp prebuilt/socketcan/can-armv7l.node node_modules/socketcan/build/Release/can.node
             cp prebuilt/socketcan/can_signals-armv7l.node node_modules/socketcan/build/Release/can_signals.node
-            cp prebuilt/node-expat/node_expat-armv7l.node node_modules/node-expat/build/Release/node_expat.node
           elif [ "${{ matrix.platform }}" = "x64" ]; then
             cp prebuilt/socketcan/can-x64.node node_modules/socketcan/build/Release/can.node
             cp prebuilt/socketcan/can_signals-x64.node node_modules/socketcan/build/Release/can_signals.node
-            cp prebuilt/node-expat/node_expat-x64.node node_modules/node-expat/build/Release/node_expat.node
           fi
 
       - name: Extract version
