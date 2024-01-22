@@ -1,6 +1,6 @@
 export let vehicleInfo = {
 	setupInfoLine: "Welcome - First Time Setup Wizard",
-	firstTimeSetup: false,
+	firstTimeSetup: true,
 	vinDecode: false,
 	setupStep: 0,
 	CCFID: "-",
@@ -23,7 +23,7 @@ export let vehicleInfo = {
 
 export let vehicleInfoPrev = {
 	setupInfoLine: "Welcome - First Time Setup Wizard",
-	firstTimeSetup: false,
+	firstTimeSetup: true,
 	vinDecode: false,
 	setupStep: 0,
 	CCFID: "-",
