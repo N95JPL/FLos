@@ -107,7 +107,7 @@ function Nav() {
 					<>
 						<div
 							id='outlet'
-							className={``}>
+							className={`transition-all absolute h-[100%] w-[100%]`}>
 							<Outlet />
 						</div>
 					</>

@@ -67,7 +67,7 @@ export function ms1025(msg, window) {
 			vehicleInfo.setupStep = vehicleInfo.setupStep + 1;
 			const strId = msg.id;
 			const arr = [...msg.data];
-			// console.log(msg.data);
+			// //console.log(msg.data);
 			var arrData = [arr[1], arr[2], arr[3], arr[4], arr[5], arr[6], arr[7]];
 			for (var i = 0; i < arrData.length; i++) {
 				arrData[i] = arrData[i].toString(16);
@@ -78,22 +78,22 @@ export function ms1025(msg, window) {
 			vehicleInfo.setupInfoLine =
 				"Parsing VIN data: " + vehicleInfo.setupStep + "/28 blocks received";
 			arrBuilder[parseInt(arr[0]) - 1] = arrData;
-			// console.log((arr[0] - 1) + ": " + (arrBuilder[(arr[0] - 1)]));
+			// //console.log((arr[0] - 1) + ": " + (arrBuilder[(arr[0] - 1)]));
 		} else {
 			if (vehicleInfo.firstTimeSetup && !vehicleInfo.vinDecode) {
 				vehicleInfo.setupInfoLine = "Calculating VIN...";
-				console.log("All CCF data received");
+				//console.log("All CCF data received");
 				CCF = arrBuilder.join("");
 				CCF = CCF.replaceAll(",", "");
 				CCFString = hex2a(CCF); //Converts the CCF to a string
 				vehicleInfo.VIN = CCFString.substring(3, 20); //VIN is 17 characters long
-				console.log("This vehicles VIN: " + vehicleInfo.VIN);
+				//console.log("This vehicles VIN: " + vehicleInfo.VIN);
 				if (vehicleInfo.VIN.length === 17) {
-					console.log("VIN is valid");
+					//console.log("VIN is valid");
 					vehicleInfo.setupInfoLine = "Decoding VIN: Fetching Model ID";
 					decodeModelID(vehicleInfo.VIN); //This is where the magic happens
 					if (is_modelid) {
-						console.log("Model ID: " + vehicleInfo.Model_id);
+						//console.log("Model ID: " + vehicleInfo.Model_id);
 						vehicleInfo.setupInfoLine = "Decoding VIN: Fetching Model";
 						decodeModel(vehicleInfo.VIN); //This is where the magic happens
 						if (is_model) {
@@ -101,7 +101,7 @@ export function ms1025(msg, window) {
 							decodeCCFID(); //This is where the magic happens
 							if (is_ccfid) {
 								vehicleInfo.setupInfoLine = "Decoding CCF: Well... On day I we will decode the CCF";
-								console.log("It would appear that all the vehicle info has been decoded!");
+								//console.log("It would appear that all the vehicle info has been decoded!");
 								vehicleInfo.vinDecode = true;
 							}
 						}
@@ -109,7 +109,7 @@ export function ms1025(msg, window) {
 				}
 				if (!vehicleInfo.vinDecode) {
 					vehicleInfo.setupInfoLine = "Oops! Something went wrong! We will try again!";
-					// console.log(
+					// //console.log(
 					//   "Parsing vehicle data has failed - See parsed data below"
 					// );
 					arrBuilder = [
@@ -164,7 +164,7 @@ export function ms1025(msg, window) {
 					vehicleInfo.Engine = "-";
 				}
 			} else if (!vehicleInfo.firstTimeSetup && !vehicleInfo.vinDecode) {
-				// console.log("All CCF data received");
+				// //console.log("All CCF data received");
 				CCF = arrBuilder.join("");
 				CCF = CCF.replaceAll(",", "");
 				CCFString = hex2a(CCF);
@@ -172,8 +172,8 @@ export function ms1025(msg, window) {
 				if (VIN === vehicleInfo.VIN) {
 					vehicleInfo.vinDecode = true;
 					setup = true;
-					// console.log("This is the same vehicle as before");
-					// console.log("This vehicles VIN: " + vehicleInfo.VIN);
+					// //console.log("This is the same vehicle as before");
+					// //console.log("This vehicles VIN: " + vehicleInfo.VIN);
 				} else {
 					vehicleInfo.firstTimeSetup = true;
 					vehicleInfo.vinDecode = false;
@@ -214,8 +214,8 @@ function decodeModelID(VIN) {
 	var val_test = "";
 	is_modelid = false;
 	for (var i = 0; i < VINDecode["Models"].length; i++) {
-		console.log("Running Model: " + i);
-		console.log("Number of Tests to run: " + VINDecode["Models"][i]["Test"].length);
+		//console.log("Running Model: " + i);
+		//console.log("Number of Tests to run: " + VINDecode["Models"][i]["Test"].length);
 		if (VINDecode["Models"][i]["Test"].length) {
 			for (var x = 0; x < VINDecode["Models"][i]["Test"].length + 1; x++) {
 				charpos = VINDecode.Models[i].Test[x].CharPos;
@@ -223,17 +223,15 @@ function decodeModelID(VIN) {
 				charval = VINDecode.Models[i].Test[x].CharValue;
 				if (charpos.includes(",")) {
 					val_test = VIN.substring(parseInt(charpos.charAt(0)) - 1, parseInt(charpos.charAt(2)));
-					console.log("val_test: " + val_test);
+					//console.log("val_test: " + val_test);
 				} else {
 					val_test = VIN.charAt(parseInt(charpos - 1));
-					console.log("val_test: " + val_test);
+					//console.log("val_test: " + val_test);
 				}
 				if (opt === "EQUAL") {
 					if (val_test === charval) {
 						is_modelid = true;
-						console.log(
-							"SOMETHING MATCHED! " + val_test + " matched with " + VINDecode.Models[i].DecodeModel
-						);
+						//console.log("SOMETHING MATCHED! " + val_test + " matched with " + VINDecode.Models[i].DecodeModel);
 					} else {
 						is_modelid = false;
 					}
@@ -247,7 +245,7 @@ function decodeModelID(VIN) {
 				if (is_modelid === false) {
 					break;
 				} else {
-					// console.log('Test ' + x + ' passed')
+					// //console.log('Test ' + x + ' passed')
 				}
 			}
 		} else {
@@ -256,17 +254,15 @@ function decodeModelID(VIN) {
 			charval = VINDecode.Models[i].Test.CharValue;
 			if (charpos.includes(",")) {
 				val_test = VIN.substring(parseInt(charpos.charAt(0)) - 1, parseInt(charpos.charAt(2)));
-				console.log("val_test: " + val_test);
+				//console.log("val_test: " + val_test);
 			} else {
 				val_test = VIN.charAt(parseInt(charpos - 1));
-				console.log("val_test: " + val_test);
+				//console.log("val_test: " + val_test);
 			}
 			if (opt === "EQUAL") {
 				if (val_test == charval) {
 					is_modelid = true;
-					console.log(
-						"SOMETHING MATCHED! " + val_test + " matched with " + VINDecode.Models[i].DecodeModel
-					);
+					//console.log("SOMETHING MATCHED! " + val_test + " matched with " + VINDecode.Models[i].DecodeModel);
 				} else {
 					is_modelid = false;
 				}
@@ -280,7 +276,7 @@ function decodeModelID(VIN) {
 		}
 		if (is_modelid) {
 			vehicleInfo.Model_id = VINDecode.Models[i].DecodeModel;
-			console.log("decodeModelID Passed: " + vehicleInfo.Model_id);
+			//console.log("decodeModelID Passed: " + vehicleInfo.Model_id);
 			break;
 		}
 	}
@@ -298,13 +294,13 @@ function decodeModel(VIN) {
 	var name = "";
 	is_model = false;
 	const result = VINDecode.Decodes.find((Decode) => Decode.id == vehicleInfo.Model_id);
-	console.log(result);
+	//console.log(result);
 	for (var i = 0; i < result.Attribute.length; i++) {
-		console.log("Running Attribute: " + i);
+		//console.log("Running Attribute: " + i);
 		if (!result.Attribute[i].Char) {
 			name = result.Attribute[i].Name;
 			vehicleInfo[name] = result.Attribute[i].Decode;
-			// console.log(
+			// //console.log(
 			//   name +
 			//   ": " +
 			//   VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Decode +
@@ -322,7 +318,7 @@ function decodeModel(VIN) {
 			for (var x = 0; x < result.Attribute[i].Value.length; x++) {
 				if (val_test == result.Attribute[i].Value[x].Value) {
 					vehicleInfo[name] = result.Attribute[i].Value[x].Decode;
-					// console.log(
+					// //console.log(
 					//   name +
 					//   ": " +
 					//   VINDecode.Decodes[vehicleInfo.Model_id - 1].Attribute[i].Value[x]
@@ -349,7 +345,7 @@ function decodeModel(VIN) {
 		vehicleInfo.Transmission != "-" &&
 		vehicleInfo.Engine != "-"
 	) {
-		console.log("decodeModel Passed: " + vehicleInfo.Model);
+		//console.log("decodeModel Passed: " + vehicleInfo.Model);
 		is_model = true;
 	} else {
 		is_model = false;
@@ -362,15 +358,15 @@ function decodeCCFID() {
 	var vinMin = "";
 	var vinMax = "";
 	var vinTest = vehicleInfo.VIN.substring(11, 17);
-	// console.log("Decode CCF ID...");
+	// //console.log("Decode CCF ID...");
 	for (var x = 0; x < Vehicle_Manifest.vehicle_range.length; x++) {
 		if (
 			Vehicle_Manifest.vehicle_range[x].brand === vehicleInfo.Brand.toLowerCase().replace(" ", "")
 		) {
-			// console.log("CCF: Found Brand");
+			// //console.log("CCF: Found Brand");
 			for (var y = 0; y < Vehicle_Manifest.vehicle_range[x].vehicle.length; y++) {
 				if (Vehicle_Manifest.vehicle_range[x].vehicle[y].model.id == vehicleInfo.Model) {
-					// console.log("CCF: Found Model");
+					// //console.log("CCF: Found Model");
 					for (var z = 0; z < Vehicle_Manifest.vehicle_range[x].vehicle[y].variant.length; z++) {
 						yeartest = Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].model_year.my_gui;
 						yeartest = yeartest.split(" - ");
@@ -378,15 +374,15 @@ function decodeCCFID() {
 							vehicleInfo.ModelYear === yeartest[0] ||
 							(vehicleInfo.ModelYear >= yeartest[0] && vehicleInfo.ModelYear <= yeartest[1])
 						) {
-							// console.log("CCF: Found Model Year");
+							// //console.log("CCF: Found Model Year");
 							vinMin = Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].vin.min;
 							vinMax = Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].vin.max;
 							if (vinTest >= vinMin && vinTest <= vinMax) {
-								// console.log("CCF: Found VIN");
+								// //console.log("CCF: Found VIN");
 								vehicleInfo.CCFID =
 									Vehicle_Manifest.vehicle_range[x].vehicle[y].variant[z].file_manifest.id;
 								vehicleInfo.As_Built = Vehicle_Manifest.vehicle_range[x].vehicle[y].as_built;
-								// console.log(
+								// //console.log(
 								// "CCFID: " +
 								// vehicleInfo.CCFID +
 								// " | As_Built: " +
