@@ -32,7 +32,7 @@ A Electron-Vite-React App to one day replace the Infotainment Module of my Freel
 ### Install
 
 1. Make sure RPi is running latest version
-2. Install NodeJs: This has only been tested on the latest 19.2.0
+2. Install NodeJs: This has only been tested on the latest 20.10.0
 3. Install CanUtils: sudo apt-get -y install can-utils libsocketcan2 libsocketcan-dev
 4. Modify /boot/config.txt to include
 
