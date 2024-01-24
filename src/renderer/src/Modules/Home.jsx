@@ -5,6 +5,8 @@ import { entertainmentBus } from "../Stores/entertainmentBus";
 import { Link } from "react-router-dom";
 import CarImage from "../Images/Car.png";
 import { vehicleInfo } from "../Stores/vehicleInfo";
+import { GiFogLight } from "react-icons/gi";
+import { PiSirenFill, PiCubeTransparent, PiLightbulbFill } from "react-icons/pi";
 
 export function Home() {
 	const sourceSel = entertainmentBus((state) => state.sourceSel);
@@ -46,16 +48,7 @@ export function Home() {
 						)}
 					</Link>
 					<div className='fixed row-span-2 w-[48.5%] left-[50.5%] top-[50.5%] h-[38.5%] outline outline-1 outline-gray-600 rounded-lg'>
-						<p>
-							Brand: {brand} - {modelName} ({modelYear})
-						</p>
-						<p>Model: {model}</p>
-						<p>Market: {market}</p>
-						<p>Trim: {trim}</p>
-						<p>Plant: {plant}</p>
-						<p>Driver: {driver}</p>
-						<p>Transmission: {transmission}</p>
-						<p>Engine: {engine}</p>
+						<Relay />
 					</div>
 				</div>
 			</div>
@@ -105,6 +98,72 @@ function Overview() {
 		</>
 	);
 }
+function Relay() {
+	const relay1 = mediumSpeed((state) => state.relay1);
+	const relay2 = mediumSpeed((state) => state.relay2);
+	const relay3 = mediumSpeed((state) => state.relay3);
+	const relay4 = mediumSpeed((state) => state.relay4);
+	const relay5 = mediumSpeed((state) => state.relay5);
+	const relay6 = mediumSpeed((state) => state.relay6);
+
+	const buttonItems = [
+		{
+			name: "Front Fog",
+			icon: <GiFogLight />,
+			value: relay1,
+		},
+		{
+			name: "High Bar",
+			icon: <PiLightbulbFill />,
+			value: relay2,
+		},
+		{
+			name: "Low Bar",
+			icon: <PiLightbulbFill />,
+			value: relay3,
+		},
+		{
+			name: "Strobe",
+			icon: <PiSirenFill />,
+			value: relay4,
+		},
+		{
+			name: "Spare",
+			icon: <PiCubeTransparent />,
+			value: relay5,
+		},
+		{
+			name: "Spare",
+			icon: <PiCubeTransparent />,
+			value: relay6,
+		},
+	];
+
+	return (
+		<>
+			<div className='absolute flex w-full h-full'>
+				<div className='grid grid-rows-2 grid-cols-3 ml-[1.5%] mt-[0.5%] justify-evenly items-center align-middle h-[97%] w-full text-center'>
+					{buttonItems.map((m, index) => {
+						return (
+							<div
+								key={index}
+								className={`${"text-white text-xl w-[95%] h-[90%] justify-evenly items-center rounded-2xl outline outline-1 outline-gray-600"}`}>
+								<div className='flex justify-center items-center text-center text-xl'>{m.name}</div>
+								<div className='flex justify-center items-center text-center text-4xl'>
+									{m.icon}
+								</div>
+								<div
+									className={`${!m.value ? "bg-green-500" : "bg-red-600"} bottom-8 ml-[12.5%] rounded-lg flex justify-center items-center w-[75%] h-[10%] text-center text-4xl`}
+								/>
+							</div>
+						);
+					})}
+				</div>
+			</div>
+		</>
+	);
+}
+
 function Radio() {
 	const fmStation = entertainmentBus((state) => state.fmStation);
 	const dabStation = entertainmentBus((state) => state.dabStation);
