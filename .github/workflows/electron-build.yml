@@ -36,12 +36,15 @@ jobs:
           mkdir -p node_modules/socketcan/build/Release
 
           if [ "${{ matrix.platform }}" = "armv7l" ]; then
+            echo "Copying pre-built SocketCan modules for armv7l..."
             cp prebuilt/socketcan/can-armv7l.node node_modules/socketcan/build/Release/can.node
             cp prebuilt/socketcan/can_signals-armv7l.node node_modules/socketcan/build/Release/can_signals.node
           elif [ "${{ matrix.platform }}" = "arm64" ]; then
+            echo "Copying pre-built SocketCan modules for arm64..."
             cp prebuilt/socketcan/can-arm64.node node_modules/socketcan/build/Release/can.node
             cp prebuilt/socketcan/can_signals-arm64.node node_modules/socketcan/build/Release/can_signals.node
           elif [ "${{ matrix.platform }}" = "x64" ]; then
+            echo "Copying pre-built SocketCan modules for x64..."
             cp prebuilt/socketcan/can-x64.node node_modules/socketcan/build/Release/can.node
             cp prebuilt/socketcan/can_signals-x64.node node_modules/socketcan/build/Release/can_signals.node
           fi
