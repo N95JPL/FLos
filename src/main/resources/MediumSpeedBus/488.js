@@ -1,3 +1,5 @@
+// Rename this to use 1190
+
 import { mediumSpeed } from "../VariableMaps/MediumSpeedVar";
 
 // Need to confirm this actually works
