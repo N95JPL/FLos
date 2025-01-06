@@ -1,0 +1,191 @@
+VERSION ""
+
+
+NS_ :
+    NS_DESC_
+    CM_
+    BA_DEF_
+    BA_
+    VAL_
+    CAT_DEF_
+    CAT_
+    FILTER
+    BA_DEF_DEF_
+    EV_DATA_
+    ENVVAR_DATA_
+    SGTYPE_
+    SGTYPE_VAL_
+    BA_DEF_SGTYPE_
+    BA_SGTYPE_
+    SIG_TYPE_REF_
+    VAL_TABLE_
+    SIG_GROUP_
+    SIG_VALTYPE_
+    SIGTYPE_VALTYPE_
+    BO_TX_BU_
+    BA_DEF_REL_
+    BA_REL_
+    BA_DEF_DEF_REL_
+    BU_SG_REL_
+    BU_EV_REL_
+    BU_BO_REL_
+    SG_MUL_VAL_
+
+BS_: 
+BU_: _745_IAM _7A5_AAM _781_PCV _7C6_SODR _7C4_SODL _7A7_FCIM _7A0_FCIMB CMR _731_KESSY _741_PDM IPC _733_HVAC _745_FCDIM FACP _744_DSM _740_DDM BCM _7E3_AHCM JPL_Added 
+BO_ 1249 HVACd: 8 _733_HVAC
+   SG_ HVAC_CabinTemp : 15|8@0+ (0.5,-57) [-57|70.5] "DegC" Vector__XXX
+
+BO_ 1183 HVACc: 8 _733_HVAC
+
+BO_ 1236 IPCd: 8 IPC
+   SG_ IPC_FuelLevel : 49|10@0+ (0.2,0) [0|204.6] "Litres" Vector__XXX
+
+BO_ 1206 IPCc: 8 IPC
+
+BO_ 1201 IPCb: 8 IPC
+
+BO_ 1838 TST_Resp_BCM: 8 BCM
+
+BO_ 1830 TST_Req_BCM: 8 Vector__XXX
+
+BO_ 1851 TST_Resp_HVAC: 8 _733_HVAC
+
+BO_ 1843 TST_Req_HVAC: 8 Vector__XXX
+
+BO_ 1273 BCMt: 8 BCM
+
+BO_ 1271 BCMq: 8 BCM
+   SG_ Washer_Fluid_Low : 23|1@0+ (1,0) [0|0] "" Vector__XXX
+   SG_ Beep : 33|1@0+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 1269 BCMp: 8 BCM
+   SG_ EL_Power_Status : 62|2@0+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 1260 BCMo: 8 BCM
+
+BO_ 1256 BCMn: 8 BCM
+
+BO_ 1251 BCMm: 5 BCM
+   SG_ BCM_EngCoolTemp : 7|8@0+ (1,-60) [-60|195] "DegC" Vector__XXX
+   SG_ BCM_AmbientTempRaw : 25|10@0+ (0.25,-128) [-128|127.75] "DegC" Vector__XXX
+   SG_ Low_Coolant : 47|1@0+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 1234 BCMl: 8 BCM
+   SG_ BCM_TimeDate_b5_Second : 63|8@0+ (1,0) [0|0] "" Vector__XXX
+   SG_ BCM_TimeDate_b4_Minute : 55|8@0+ (1,0) [0|0] "" Vector__XXX
+   SG_ BCM_TimeDate_b3_Hour : 47|8@0+ (1,0) [0|0] "" Vector__XXX
+   SG_ BCM_TimeDate_b2_Day : 39|8@0+ (1,0) [0|0] "" Vector__XXX
+   SG_ BCM_RoofState : 3|3@0+ (1,0) [0|0] "" Vector__XXX
+   SG_ BCM_TimeDate_b1_Month : 31|8@0+ (1,0) [0|0] "" Vector__XXX
+   SG_ BCM_TimeDate_b0_Year : 23|8@0+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 1220 BCMk: 8 BCM
+
+BO_ 1216 BCMj: 8 BCM
+
+BO_ 1198 DSMa: 8 _744_DSM
+
+BO_ 1192 BCMh: 8 BCM
+   SG_ ParkClimateReq : 7|1@0+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 1188 FCDIMc: 8 _745_FCDIM
+
+BO_ 1179 BCMg: 8 BCM
+   SG_ WinterWiperPark : 49|1@0+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 1176 BCMf: 8 BCM
+   SG_ Rear_Fog_Lights : 3|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ HMI_Service_Mode : 7|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ Front_Fog : 46|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ High_Beam : 37|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ Dipped_Beam : 36|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ Interior_Lights : 28|1@0+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 1170 HVACb: 8 _733_HVAC
+
+BO_ 688 FDCIMb: 8 _745_FCDIM
+
+BO_ 632 FCDIMa: 8 _745_FCDIM
+
+BO_ 240 IPCa: 8 IPC
+
+BO_ 72 HVACa: 8 _733_HVAC
+
+BO_ 1168 BCMe: 8 BCM
+   SG_ BCM_VehicleSpeed : 47|16@0+ (0.01,0) [0|655.35] "KPH" Vector__XXX
+
+BO_ 1025 CCFb: 8 BCM
+
+BO_ 1024 CCFa: 8 BCM
+
+BO_ 352 BCMd: 8 BCM
+   SG_ FrontDefrosterState : 15|1@0+ (1,0) [0|0] "" Vector__XXX
+   SG_ WaterPumpReq : 7|1@0+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 296 BCMc: 8 BCM
+   SG_ CentralLockingStatus : 11|3@0+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 184 BCMb: 8 BCM
+   SG_ BCM_DoorState_RrRh : 59|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ BCM_DoorState_RrLh : 58|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ BCM_DoorState_FrLh : 57|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ BCM_DoorState_Boot : 60|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ BCM_DoorState_Bonnet : 61|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ BCM_DoorState_FrRh : 56|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ BCM_EngineSpeed : 36|13@0+ (1,0) [0|8191] "rpm" Vector__XXX
+   SG_ Console_Backlight_Level : 31|8@0+ (1,0) [0|254] "" Vector__XXX
+   SG_ Key_Inserted : 4|1@0+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 16 BCMa: 8 BCM
+
+BO_ 2147483872 Indicators: 8 JPL_Added
+   SG_ Left_Turn_Indicator : 3|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ Right_Turn_Indicator : 4|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ Trailer_Attached : 6|1@0+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 2147484833 Backlighting: 8 JPL_Added
+
+BO_ 2147484838 Parking_Sensors: 8 JPL_Added
+
+BO_ 2147484112 Key_Battery_Low: 8 JPL_Added
+   SG_ Key_Battery_LowSig : 17|1@0+ (1,0) [0|1] "" Vector__XXX
+
+CM_ BU_ _745_IAM "Integrated Audio Module";
+CM_ BU_ _7A5_AAM "Audio Amplifier Module";
+CM_ BU_ _781_PCV "Phone Connect And View";
+CM_ BU_ _7C6_SODR "Side Object Detection Right";
+CM_ BU_ _7C4_SODL "Side Object Detection Left";
+CM_ BU_ _7A7_FCIM "HVAC Front Control Panel (CO CAN) x250?";
+CM_ BU_ _7A0_FCIMB "Front Controls Interface Module B (FACP) T5?";
+CM_ BU_ CMR "Camera Module";
+CM_ BU_ _741_PDM "Passenger Door Module";
+CM_ BU_ IPC "Instrument Panel Cluster";
+CM_ BU_ _733_HVAC "Heating Ventilation Air Conditioning";
+CM_ BU_ _745_FCDIM "Front Control Display Interface Module";
+CM_ BU_ FACP "Front Audio Control Panel";
+CM_ BU_ _744_DSM "Driver Seat Module";
+CM_ BU_ BCM "Body Control Module";
+CM_ BU_ _7E3_AHCM "Aux Heat Control Module";
+CM_ BO_ 1273 "Tyre Pressure?";
+CM_ BO_ 1260 "Theft protection, cyclic value";
+CM_ BO_ 1256 "TPMS";
+CM_ BO_ 1176 "Lighting";
+BA_DEF_ "MultiplexExtEnabled" ENUM "No","Yes";
+BA_DEF_ "BusType" STRING ;
+BA_DEF_ BO_ "GenMsgBackgroundColor" STRING ;
+BA_DEF_ BO_ "GenMsgForegroundColor" STRING ;
+BA_DEF_ BO_ "matchingcriteria" INT 0 0;
+BA_DEF_ BO_ "filterlabeling" INT 0 0;
+BA_DEF_ BO_ "matchingcriteria" INT 0 0;
+BA_DEF_ BO_ "filterlabeling" INT 0 0;
+BA_DEF_ BO_ "matchingcriteria" INT 0 0;
+BA_DEF_ BO_ "filterlabeling" INT 0 0;
+BA_DEF_DEF_ "MultiplexExtEnabled" "No";
+BA_DEF_DEF_ "BusType" "CAN";
+BA_DEF_DEF_ "GenMsgBackgroundColor" "#ffffff";
+BA_DEF_DEF_ "GenMsgForegroundColor" "#000000";
+BA_DEF_DEF_ "matchingcriteria" 0;
+BA_DEF_DEF_ "filterlabeling" 1;
+BA_DEF_DEF_ "matchingcriteria" 0;
+BA_DEF_DEF_ "filterlabeling" 1;
