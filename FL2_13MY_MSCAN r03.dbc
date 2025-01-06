@@ -32,7 +32,7 @@ NS_ :
     SG_MUL_VAL_
 
 BS_: 
-BU_: _745_IAM _7A5_AAM _781_PCV _7C6_SODR _7C4_SODL _7A7_FCIM _7A0_FCIMB CMR _731_KESSY _741_PDM IPC _733_HVAC _745_FCDIM FACP _744_DSM _740_DDM BCM _7E3_AHCM JPL_Added 
+BU_: _745_IAM _7A5_AAM _781_PCV _7C6_SODR _7C4_SODL _7A7_FCIM _7A0_FCIMB CMR _731_KESSY _741_PDM IPC _733_HVAC _745_FCDIM FACP _744_DSM _740_DDM BCM _7E3_AHCM JPL-Added 
 BO_ 1249 HVACd: 8 _733_HVAC
    SG_ HVAC_CabinTemp : 15|8@0+ (0.5,-57) [-57|70.5] "DegC" Vector__XXX
 
@@ -135,20 +135,19 @@ BO_ 184 BCMb: 8 BCM
    SG_ BCM_DoorState_FrRh : 56|1@0+ (1,0) [0|1] "" Vector__XXX
    SG_ BCM_EngineSpeed : 36|13@0+ (1,0) [0|8191] "rpm" Vector__XXX
    SG_ Console_Backlight_Level : 31|8@0+ (1,0) [0|254] "" Vector__XXX
-   SG_ Key_Inserted : 4|1@0+ (1,0) [0|1] "" Vector__XXX
 
 BO_ 16 BCMa: 8 BCM
 
-BO_ 2147483872 Indicators: 8 JPL_Added
+BO_ 2147483872 Indicators: 8 JPL-Added
    SG_ Left_Turn_Indicator : 3|1@0+ (1,0) [0|1] "" Vector__XXX
    SG_ Right_Turn_Indicator : 4|1@0+ (1,0) [0|1] "" Vector__XXX
    SG_ Trailer_Attached : 6|1@0+ (1,0) [0|1] "" Vector__XXX
 
-BO_ 2147484833 Backlighting: 8 JPL_Added
+BO_ 2147484833 Backlighting: 8 JPL-Added
 
-BO_ 2147484838 Parking_Sensors: 8 JPL_Added
+BO_ 2147484838 Parking_Sensors: 8 JPL-Added
 
-BO_ 2147484112 Key_Battery_Low: 8 JPL_Added
+BO_ 2147484112 Key_Battery_Low: 8 JPL-Added
    SG_ Key_Battery_LowSig : 17|1@0+ (1,0) [0|1] "" Vector__XXX
 
 CM_ BU_ _745_IAM "Integrated Audio Module";
@@ -179,8 +178,6 @@ BA_DEF_ BO_ "matchingcriteria" INT 0 0;
 BA_DEF_ BO_ "filterlabeling" INT 0 0;
 BA_DEF_ BO_ "matchingcriteria" INT 0 0;
 BA_DEF_ BO_ "filterlabeling" INT 0 0;
-BA_DEF_ BO_ "matchingcriteria" INT 0 0;
-BA_DEF_ BO_ "filterlabeling" INT 0 0;
 BA_DEF_DEF_ "MultiplexExtEnabled" "No";
 BA_DEF_DEF_ "BusType" "CAN";
 BA_DEF_DEF_ "GenMsgBackgroundColor" "#ffffff";
@@ -188,4 +185,4 @@ BA_DEF_DEF_ "GenMsgForegroundColor" "#000000";
 BA_DEF_DEF_ "matchingcriteria" 0;
 BA_DEF_DEF_ "filterlabeling" 1;
 BA_DEF_DEF_ "matchingcriteria" 0;
-BA_DEF_DEF_ "filterlabeling" 1;
+BA_DEF_DEF_ "filterlabeling" 0;
